@@ -2,13 +2,7 @@
 import os
 from dotenv import load_dotenv
 
-# Load environment variables from a .env file (for local development)
+# This line finds the .env file in the project root and loads its variables.
 load_dotenv()
 
-# Database connection URL
-# Format: postgresql://<user>:<password>@<host>:<port>/<dbname>
-DATABASE_URL = os.getenv("DATABASE_URL", "postgresql://user:password@localhost:5432/compliance_db")
-
-# You can add other configurations here later
-# For example: API keys, secret keys, etc.
-# SECRET_KEY = os.getenv("SECRET_KEY")
+DATABASE_URL = os.getenv("DATABASE_URL")

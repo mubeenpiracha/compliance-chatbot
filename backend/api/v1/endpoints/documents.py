@@ -1,32 +1,18 @@
 # backend/api/v1/endpoints/documents.py
 from typing import List
-from fastapi import APIRouter, Depends, HTTPException
+from fastapi import APIRouter, Depends
 from sqlalchemy.orm import Session
-
-from backend import schemas, crud
+from backend.schemas.regulatory_document import RegulatoryDocument, RegulatoryDocumentCreate
+from backend.crud.crud_regulatory_document import create_document as create_doc_crud, get_documents as get_docs_crud
 from backend.db.session import get_db
 
-# Create a new router instance
 router = APIRouter()
 
-@router.post("/", response_model=schemas.RegulatoryDocument)
-def create_document(
-    document: schemas.RegulatoryDocumentCreate,
-    db: Session = Depends(get_db)
-):
-    """
-    Create a new regulatory document.
-    """
-    return crud.crud_regulatory_document.create_document(db=db, document=document)
+@router.post("/", response_model=RegulatoryDocument)
+def create_document(document: RegulatoryDocumentCreate, db: Session = Depends(get_db)):
+    return create_doc_crud(db=db, document=document)
 
-@router.get("/", response_model=List[schemas.RegulatoryDocument])
-def read_documents(
-    skip: int = 0,
-    limit: int = 100,
-    db: Session = Depends(get_db)
-):
-    """
-    Retrieve all regulatory documents.
-    """
-    documents = crud.crud_regulatory_document.get_documents(db, skip=skip, limit=limit)
+@router.get("/", response_model=List[RegulatoryDocument])
+def read_documents(skip: int = 0, limit: int = 100, db: Session = Depends(get_db)):
+    documents = get_docs_crud(db, skip=skip, limit=limit)
     return documents
