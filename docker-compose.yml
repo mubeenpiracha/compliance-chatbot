@@ -1,0 +1,27 @@
+# docker-compose.yml
+
+services:
+  # Service 1: The PostgreSQL Database
+  db:
+    # Use the official PostgreSQL version 13 image from Docker Hub
+    image: postgres:13
+    # Give the running container a friendly name
+    container_name: compliance_db
+    # Environment variables to configure the PostgreSQL instance
+    environment:
+      - POSTGRES_USER=user
+      - POSTGRES_PASSWORD=password
+      - POSTGRES_DB=compliance_db
+    # Map port 5432 inside the container to port 5432 on our host machine (WSL)
+    # This allows our FastAPI app to connect to the database.
+    ports:
+      - "5432:5432"
+    # This defines a volume to persist our database data.
+    # It maps the 'postgres_data' volume to the directory where Postgres stores its data inside the container.
+    # This ensures our data survives even if the container is removed and recreated.
+    volumes:
+      - postgres_data:/var/lib/postgresql/data/
+
+# Top-level volumes key to declare the named volume used above
+volumes:
+  postgres_data:
