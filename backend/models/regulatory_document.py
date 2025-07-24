@@ -1,5 +1,5 @@
 # backend/models/regulatory_document.py
-from sqlalchemy import Column, Integer, String, Text, TIMESTAMP, Boolean, ForeignKey, Date, JSON
+from sqlalchemy import Column, Integer, String, Text, TIMESTAMP, Boolean, ForeignKey, Date, JSON 
 from sqlalchemy.dialects.postgresql import UUID
 from sqlalchemy.sql import func
 from sqlalchemy.orm import relationship
