@@ -1,0 +1,8 @@
+/*
+  Uncomment the lines below if Tailwind CSS is properly installed and configured.
+  Otherwise, remove these lines to avoid the "Unknown at rule @tailwind" error.
+*/
+
+@tailwind base; 
+@tailwind components; 
+@tailwind utilities; 
