@@ -11,7 +11,7 @@ app = FastAPI(title="Compliance Officer AI")
 # This is the list of origins that are allowed to make cross-origin requests.
 # For development, we allow our React app's default server.
 origins = [
-    "http://localhost:5173","http://localhost:5174",
+    "http://localhost:5173","http://localhost:5174","http://localhost:5173", # Add your frontend URL here
 ]
 
 app.add_middleware(
