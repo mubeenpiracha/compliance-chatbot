@@ -1,7 +1,9 @@
 # backend/scripts/ingest.py
 import os
+import sys
+import time
 from pinecone import Pinecone, ServerlessSpec
-from llama_index.core import VectorStoreIndex, SimpleDirectoryReader
+from llama_index.core import VectorStoreIndex, SimpleDirectoryReader, StorageContext
 from llama_index.vector_stores.pinecone import PineconeVectorStore
 from llama_index.core.node_parser import SentenceSplitter
 from llama_index.core.settings import Settings
@@ -16,27 +18,27 @@ def run_ingestion():
     Connects to Pinecone, loads documents, creates an index, and upserts the data.
     """
     index_name = "compliance-bot-index"
+    pinecone_dimension = 1536 # Explicitly define dimension
 
     print("Connecting to Pinecone...")
     if not PINECONE_API_KEY:
         raise ValueError("PINECONE_API_KEY must be set.")
 
-    # Initialize the Pinecone client
     pc = Pinecone(api_key=PINECONE_API_KEY)
 
     print(f"Checking if index '{index_name}' exists...")
     if index_name not in pc.list_indexes().names():
         print(f"Index '{index_name}' does not exist. Creating new index...")
-        # Create a new index with the serverless spec
         pc.create_index(
             name=index_name,
-            dimension=1536,  # Standard dimension for OpenAI's text-embedding-3-small
+            dimension=pinecone_dimension,
             metric="cosine",
-            spec=ServerlessSpec(
-                cloud='aws',
-                region='us-east-1' # Specify your region
-            )
+            spec=ServerlessSpec(cloud='aws', region='us-east-1')
         )
+        # Wait for index to be ready
+        print("Waiting for index to be ready...")
+        while not pc.describe_index(index_name).status['ready']:
+            time.sleep(1)
         print("Index created successfully.")
     else:
         print(f"Index '{index_name}' already exists.")
@@ -45,21 +47,44 @@ def run_ingestion():
     vector_store = PineconeVectorStore(pinecone_index=pinecone_index)
 
     print("Loading documents from './backend/data'...")
-    reader = SimpleDirectoryReader("./backend/data")
-    documents = reader.load_data()
-    print(f"Loaded {len(documents)} document(s).")
+    try:
+        reader = SimpleDirectoryReader("./backend/data")
+        documents = reader.load_data()
+        if not documents:
+            print("No documents found in './backend/data'. Exiting.")
+            sys.exit(1)
+        print(f"Loaded {len(documents)} document pages.")
+    except Exception as e:
+        print(f"Error loading documents: {e}")
+        sys.exit(1)
 
     print("Configuring LlamaIndex settings...")
-    # Configure the global settings for LlamaIndex
     Settings.node_parser = SentenceSplitter(chunk_size=512, chunk_overlap=20)
-    Settings.embed_model = OpenAIEmbedding(model="text-embedding-3-small", api_key=OPENAI_API_KEY)
-
-    print("Creating vector store index and upserting vectors to Pinecone...")
-    # This step now uses the global settings for parsing and embedding
-    index = VectorStoreIndex.from_documents(
-        documents, vector_store=vector_store, show_progress=True
+    Settings.embed_model = OpenAIEmbedding(
+        model="text-embedding-3-small", 
+        api_key=OPENAI_API_KEY,
+        dimensions=pinecone_dimension 
     )
-    print("Ingestion complete!")
+
+    print("Creating storage context and upserting vectors to Pinecone...")
+    try:
+        # This is a more robust way to handle the indexing process
+        storage_context = StorageContext.from_defaults(vector_store=vector_store)
+        index = VectorStoreIndex.from_documents(
+            documents, storage_context=storage_context, show_progress=True
+        )
+        print("Ingestion complete!")
+
+        # Verification step
+        stats = pinecone_index.describe_index_stats()
+        print(f"Pinecone index stats: {stats}")
+        if stats.total_vector_count > 0:
+            print("Successfully verified that vectors were added to the index.")
+        else:
+            print("Warning: Ingestion complete but no vectors found in the index. Check for issues.")
+    except Exception as e:
+        print(f"An error occurred during indexing: {e}")
+
 
 if __name__ == "__main__":
     run_ingestion()
