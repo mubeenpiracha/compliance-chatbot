@@ -44,9 +44,7 @@ def initialize_ai_service():
     query_engine = index.as_query_engine(similarity_top_k=5)
 
     # --- 3. Define the RAG Pipeline as a Tool ---
-    # The agent will use this tool whenever it needs to look up information
-    # in our regulatory documents.
-    rag_tool = QueryEngineTool(
+    rag_tool_llama = QueryEngineTool(
         query_engine=query_engine,
         metadata=ToolMetadata(
             name="regulatory_document_retriever",
@@ -57,20 +55,17 @@ def initialize_ai_service():
             ),
         ),
     )
-    tools = [rag_tool]
+
+    # --- THIS IS THE FIX ---
+    # Convert the LlamaIndex tool into a LangChain compatible tool
+    rag_tool_langchain = rag_tool_llama.to_langchain_tool()
+    tools = [rag_tool_langchain]
+    # --- END FIX ---
 
     # --- 4. Create the LangChain Agent ---
-    # We use a modern ChatOpenAI model for the agent's reasoning
     llm = ChatOpenAI(model="gpt-4o", temperature=0, api_key=OPENAI_API_KEY)
-
-    # Pull a pre-defined ReAct prompt template from LangChain Hub
-    # This prompt is specifically designed to make the agent reason and use tools
     prompt = hub.pull("hwchase17/react")
-
-    # Create the agent itself
     agent = create_react_agent(llm, tools, prompt)
-
-    # Create the Agent Executor, which is the runtime for the agent
     agent_executor = AgentExecutor(agent=agent, tools=tools, verbose=True)
 
     print("Agentic AI Service Initialized Successfully.")
@@ -84,11 +79,8 @@ def get_ai_response(user_message: str) -> str:
 
     print(f"Agent processing message: {user_message}")
     try:
-        # The agent executor takes an 'input' dictionary
         response = agent_executor.invoke({"input": user_message})
-        # The final answer is in the 'output' key
         return response.get("output", "I'm sorry, I couldn't process that request.")
-
     except Exception as e:
         print(f"An error occurred during agent execution: {e}")
         return "Sorry, I encountered an error while processing your request."
