@@ -45,18 +45,24 @@ def run_ingestion():
 
     pinecone_index = pc.Index(index_name)
     vector_store = PineconeVectorStore(pinecone_index=pinecone_index)
+    difc_docs = SimpleDirectoryReader("./backend/data/difc").load_data()
+    adgm_docs = SimpleDirectoryReader("./backend/data/adgm").load_data()
 
-    print("Loading documents from './backend/data'...")
-    try:
-        reader = SimpleDirectoryReader("./backend/data")
-        documents = reader.load_data()
-        if not documents:
-            print("No documents found in './backend/data'. Exiting.")
-            sys.exit(1)
-        print(f"Loaded {len(documents)} document pages.")
-    except Exception as e:
-        print(f"Error loading documents: {e}")
-        sys.exit(1)
+    # Add jurisdiction metadata to each document
+    for doc in difc_docs:
+        doc.metadata["jurisdiction"] = "DIFC"
+    for doc in adgm_docs:
+        doc.metadata["jurisdiction"] = "ADGM"
+
+    # Combine documents from both jurisdictions
+    documents = difc_docs + adgm_docs
+
+    if not documents:
+        print("No documents found in the specified directories. Exiting.")
+        return
+    
+    print(f"Loaded {len(documents)} documents from DIFC and ADGM directories.")
+
 
     print("Configuring LlamaIndex settings...")
     Settings.node_parser = SentenceSplitter(chunk_size=512, chunk_overlap=20)

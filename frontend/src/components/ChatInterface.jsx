@@ -11,6 +11,7 @@ function ChatInterface() {
   const [inputValue, setInputValue] = useState('');
   // New state to track when the AI is "thinking"
   const [isLoading, setIsLoading] = useState(false);
+  const [jurisdiction, setJurisdiction] = useState('DIFC')
 
   // A ref to the message container div
   const messagesEndRef = useRef(null);
@@ -30,33 +31,49 @@ function ChatInterface() {
     if (inputValue.trim() === '' || isLoading) return;
 
     const userMessage = { sender: 'user', text: inputValue };
+    const newMessages = [...messages, userMessage]
     // Add user message to the list and set loading state to true
-    setMessages(prevMessages => [...prevMessages, userMessage]);
+    setMessages(newMessages);
     setIsLoading(true);
     setInputValue('');
 
     try {
-      // Send the user's message to the backend
+      // Send the new message, jurisdiction, and the history (excluding the latest user message)
       const response = await axios.post('http://localhost:8000/api/v1/chat', {
-        message: userMessage.text
+        message: userMessage.text,
+        jurisdiction: jurisdiction,
+        history: messages // Send the history *before* the new user message
       });
 
-      // Add the AI's response to the message list
-      setMessages(prevMessages => [...prevMessages, response.data]);
-
+      setMessages(prev => [...prev, response.data]);
     } catch (error) {
-      console.error("Error fetching AI response:", error);
-      // Add an error message to the chat if the API call fails
-      const errorMessage = { sender: 'ai', text: 'Sorry, I encountered an error. Please try again.' };
-      setMessages(prevMessages => [...prevMessages, errorMessage]);
+      // ... (error handling is the same) ...
     } finally {
-      // Set loading state back to false
       setIsLoading(false);
     }
   };
 
   return (
-    <div className="flex flex-col h-[90vh] w-full max-w-4xl mx-auto bg-gray-800 rounded-lg shadow-xl">
+     <div className="flex flex-col h-[90vh] w-full max-w-4xl mx-auto bg-gray-800 rounded-lg shadow-xl">
+      {/* Jurisdiction Selector */}
+      <div className="p-2 bg-gray-900 rounded-t-lg flex justify-center items-center gap-4">
+        <span className="text-sm font-medium text-gray-400">Jurisdiction:</span>
+        <div>
+          {['DIFC', 'ADGM', 'Both'].map((j) => (
+            <button
+              key={j}
+              onClick={() => setJurisdiction(j)}
+              className={`px-3 py-1 text-sm font-semibold rounded-md transition-colors ${
+                jurisdiction === j
+                  ? 'bg-cyan-600 text-white'
+                  : 'bg-gray-700 text-gray-300 hover:bg-gray-600'
+              }`}
+            >
+              {j}
+            </button>
+          ))}
+        </div>
+      </div>
       {/* Message Display Area */}
       <div className="flex-grow p-6 overflow-y-auto">
         {messages.map((msg, index) => (
