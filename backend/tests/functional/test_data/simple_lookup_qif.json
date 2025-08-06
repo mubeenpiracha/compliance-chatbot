@@ -1,0 +1,13 @@
+{
+  "name": "Simple - Lookup test for a specific term",
+  "user_message": "What does QIF stand for in ADGM regulations?",
+  "jurisdiction": "ADGM",
+  "chat_history": [],
+  "expected_values": {
+    "route": "SIMPLE",
+    "clarity_grade": "CLEAR",
+    "final_response_contains": [
+        "The provided context documents do not contain an answer"
+    ]
+  }
+}

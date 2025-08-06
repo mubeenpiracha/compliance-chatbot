@@ -1,0 +1,22 @@
+{
+  "name": "Fallback - Ambiguous question requiring clarification",
+  "user_message": "What about the requirements for that?",
+  "jurisdiction": "ADGM",
+  "chat_history": [
+    {
+      "role": "user",
+      "content": "Tell me about Qualified Investor Funds."
+    },
+    {
+      "role": "assistant",
+      "content": "A Qualified Investor Fund (QIF) is a type of fund in ADGM for experienced investors."
+    }
+  ],
+  "expected_values": {
+    "clarity_grade": "CLEAR",
+    "clarification_question_contains": [
+        "requirements",
+        "Qualified Investor Fund"
+    ]
+  }
+}

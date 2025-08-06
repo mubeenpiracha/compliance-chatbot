@@ -1,0 +1,21 @@
+{
+  "name": "Conversational - Simple thank you message",
+  "user_message": "Thank you for the help!",
+  "jurisdiction": "ADGM",
+  "chat_history": [
+    {
+      "role": "user",
+      "content": "What does QIF stand for?"
+    },
+    {
+      "role": "assistant",
+      "content": "QIF stands for Qualified Investor Fund."
+    }
+  ],
+  "expected_values": {
+    "route": "CONVERSATIONAL",
+    "final_response_contains": [
+        "You're welcome! If you have any more questions, feel free to ask."
+    ]
+  }
+}

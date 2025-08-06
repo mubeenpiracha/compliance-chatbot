@@ -1,0 +1,21 @@
+{
+  "name": "Complex - Full E2E test for ADGM fund setup question",
+  "user_message": "I'm a startup founder and I want to set up a new fund in ADGM. What do I need to know?",
+  "jurisdiction": "ADGM",
+  "chat_history": [],
+  "expected_values": {
+    "route": "COMPLEX",
+    "clarity_grade": "CLEAR",
+    "sub_questions_count": 3,
+    "sub_questions_contain": [
+        "fund structures",
+        "capital requirements",
+        "licensing process"
+    ],
+    "final_response_contains": [
+        "ADGM",
+        "fund",
+        "requirements"
+    ]
+  }
+}

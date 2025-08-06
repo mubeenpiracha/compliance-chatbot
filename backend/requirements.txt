@@ -1,3 +1,5 @@
+pytest
+langgraph
 aiohappyeyeballs==2.6.1
 aiohttp==3.12.15
 aiosignal==1.4.0
@@ -81,7 +83,6 @@ packaging==24.2
 pandas==2.2.3
 pillow==11.3.0
 pinecone==7.3.0
-pinecone-client==6.0.0
 pinecone-plugin-assistant==1.7.0
 pinecone-plugin-interface==0.0.7
 platformdirs==4.3.8
