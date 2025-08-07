@@ -1,0 +1,16 @@
+
+{
+  "name": "Simple - Lookup test for a specific term in the AML rulebook",
+  "user_message": "What are the reporting requirements under the AML rulebook?",
+  "jurisdiction": "ADGM",
+  "chat_history": [],
+  "expected_values": {
+    "route": "SIMPLE",
+    "clarity_grade": "CLEAR",
+    "final_response_contains": [
+        "reporting",
+        "requirements",
+        "AML"
+    ]
+  }
+}
