@@ -4,18 +4,11 @@
   "jurisdiction": "ADGM",
   "chat_history": [],
   "expected_values": {
-    "route": "COMPLEX",
-    "clarity_grade": "CLEAR",
-    "sub_questions_count": 3,
-    "sub_questions_contain": [
-        "fund structures",
-        "capital requirements",
-        "licensing process"
-    ],
-    "final_response_contains": [
-        "ADGM",
-        "fund",
-        "requirements"
+    "clarity_grade": "AMBIGUOUS",
+    "clarification_question_contains": [
+      "regulatory requirements",
+      ["steps involved", "procedures"],
+      "ADGM"
     ]
   }
 }

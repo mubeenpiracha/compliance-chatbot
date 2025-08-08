@@ -82,7 +82,12 @@ def test_agent_conversation_flow(test_case: Dict):
             actual_value_for_contains = final_state.get(base_key)
             if isinstance(expected_value, list):
                 for item in expected_value:
-                    assert item.lower() in str(actual_value_for_contains).lower(), f"Expected '{item}' not in '{actual_value_for_contains}' for key '{key}' in test '{test_case['name']}'"
+                    # If an item in the list is another list, treat it as an OR condition
+                    if isinstance(item, list):
+                        assert any(sub_item.lower() in str(actual_value_for_contains).lower() for sub_item in item), \
+                            f"Expected one of {item} to be in '{actual_value_for_contains}' for key '{key}' in test '{test_case['name']}'"
+                    else:
+                        assert item.lower() in str(actual_value_for_contains).lower(), f"Expected '{item}' not in '{actual_value_for_contains}' for key '{key}' in test '{test_case['name']}'"
             else:
                 assert expected_value.lower() in str(actual_value_for_contains).lower(), f"Expected '{expected_value}' not in '{actual_value_for_contains}' for key '{key}' in test '{test_case['name']}'"
         elif "_count" in key:

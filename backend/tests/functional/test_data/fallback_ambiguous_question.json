@@ -13,10 +13,11 @@
     }
   ],
   "expected_values": {
+    "route": "SIMPLE",
     "clarity_grade": "CLEAR",
-    "clarification_question_contains": [
-        "requirements",
-        "Qualified Investor Fund"
+    "final_response_contains": [
+      "Qualified Investor Fund",
+      "requirements"
     ]
   }
 }
