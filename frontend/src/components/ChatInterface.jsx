@@ -1,8 +1,10 @@
 // frontend/src/components/ChatInterface.jsx
 import React, { useState, useEffect, useRef } from 'react';
 import Message from './Message';
-import Citation from './Citation'; // Import the Citation component
-import { Send, Loader } from 'lucide-react';
+import Citation from './Citation';
+import { PaperAirplaneIcon, ArrowPathIcon, Squares2X2Icon } from '@heroicons/react/24/outline';
+import { motion, AnimatePresence } from 'framer-motion';
+import toast from 'react-hot-toast';
 import axios from 'axios';
 
 function ChatInterface() {
@@ -64,10 +66,12 @@ function ChatInterface() {
       console.log('Final aiResponse:', aiResponse);
 
       setMessages(prev => [...prev, aiResponse]);
+      toast.success('Response received!');
     } catch (error) {
       console.error("Error sending message:", error);
       const errorMessage = { sender: 'ai', text: 'Sorry, I encountered an error. Please try again.' };
       setMessages(prev => [...prev, errorMessage]);
+      toast.error('Failed to get response. Please try again.');
     } finally {
       setIsLoading(false);
     }
@@ -99,68 +103,169 @@ function ChatInterface() {
 
 
   return (
-     <div className="flex flex-col h-[90vh] w-full max-w-4xl mx-auto bg-gray-800 rounded-lg shadow-xl">
-      {/* Jurisdiction Selector */}
-      <div className="p-2 bg-gray-900 rounded-t-lg flex justify-center items-center gap-4">
-        <span className="text-sm font-medium text-gray-400">Jurisdiction:</span>
-        <div>
-          {['DIFC', 'ADGM', 'Both'].map((j) => (
-            <button
-              key={j}
-              onClick={() => setJurisdiction(j)}
-              className={`px-3 py-1 text-sm font-semibold rounded-md transition-colors ${ 
-                jurisdiction === j
-                  ? 'bg-cyan-600 text-white'
-                  : 'bg-gray-700 text-gray-300 hover:bg-gray-600'
-              }`}
-            >
-              {j}
-            </button>
-          ))}
+    <div className="flex flex-col h-screen max-w-4xl mx-auto">
+      {/* Header */}
+      <motion.div 
+        initial={{ opacity: 0, y: -10 }}
+        animate={{ opacity: 1, y: 0 }}
+        className="flex items-center justify-between px-6 py-4 border-b border-gray-200 bg-white"
+      >
+        <div className="flex items-center gap-3">
+          <div className="w-8 h-8 rounded-lg bg-gradient-to-br from-blue-500 to-purple-600 flex items-center justify-center">
+            <Squares2X2Icon className="w-5 h-5 text-white" />
+          </div>
+          <div>
+            <h1 className="text-lg font-semibold text-gray-900">Compliance Assistant</h1>
+          </div>
+        </div>
+        
+        {/* Jurisdiction Selector - Perplexity style */}
+        <div className="flex items-center gap-2">
+          <span className="text-sm text-gray-500">Jurisdiction:</span>
+          <div className="flex bg-gray-100 rounded-lg p-1">
+            {['DIFC', 'ADGM', 'Both'].map((j) => (
+              <motion.button
+                key={j}
+                whileHover={{ scale: 1.02 }}
+                whileTap={{ scale: 0.98 }}
+                onClick={() => setJurisdiction(j)}
+                className={`px-3 py-1.5 text-sm font-medium rounded-md transition-all duration-200 ${
+                  jurisdiction === j
+                    ? 'bg-white text-gray-900 shadow-sm'
+                    : 'text-gray-600 hover:text-gray-900'
+                }`}
+              >
+                {j}
+              </motion.button>
+            ))}
+          </div>
+        </div>
+      </motion.div>
+
+      {/* Messages Area - LangUI container style */}
+      <div className="flex-1 overflow-y-auto bg-slate-300 text-sm leading-6 text-slate-900 shadow-md dark:bg-slate-800 dark:text-slate-300 sm:text-base sm:leading-7">
+        <div className="max-w-3xl mx-auto">
+          <AnimatePresence mode="popLayout">
+            {messages.map((msg, index) => (
+              <motion.div
+                key={index}
+                initial={{ opacity: 0, y: 10 }}
+                animate={{ opacity: 1, y: 0 }}
+                exit={{ opacity: 0, y: -10 }}
+                transition={{ duration: 0.3 }}
+              >
+                <Message sender={msg.sender} text={renderMessageText(msg)} />
+              </motion.div>
+            ))}
+          </AnimatePresence>
+          
+          {/* Loading indicator */}
+          <AnimatePresence>
+            {isLoading && (
+              <motion.div 
+                initial={{ opacity: 0, y: 10 }}
+                animate={{ opacity: 1, y: 0 }}
+                exit={{ opacity: 0, y: -10 }}
+                className="flex items-center px-4 py-6 bg-slate-100 dark:bg-slate-900"
+              >
+                <div className="w-8 h-8 rounded-full bg-gradient-to-br from-blue-500 to-purple-600 flex items-center justify-center shadow-sm mr-4">
+                  <motion.div
+                    animate={{ rotate: 360 }}
+                    transition={{ duration: 1, repeat: Infinity, ease: "linear" }}
+                  >
+                    <ArrowPathIcon className="w-5 h-5 text-white" />
+                  </motion.div>
+                </div>
+                <div className="flex-1">
+                  <div className="flex space-x-1">
+                    <div className="w-2 h-2 bg-slate-600 rounded-full animate-pulse"></div>
+                    <div className="w-2 h-2 bg-slate-600 rounded-full animate-pulse" style={{animationDelay: '0.2s'}}></div>
+                    <div className="w-2 h-2 bg-slate-600 rounded-full animate-pulse" style={{animationDelay: '0.4s'}}></div>
+                  </div>
+                  <span className="text-sm text-slate-600 mt-2 block">Analyzing regulations...</span>
+                </div>
+              </motion.div>
+            )}
+          </AnimatePresence>
+          
+          <div ref={messagesEndRef} />
         </div>
       </div>
-      {/* Message Display Area */}
-      <div className="flex-grow p-6 overflow-y-auto">
-        {messages.map((msg, index) => (
-          <Message key={index} sender={msg.sender} text={renderMessageText(msg)} />
-        ))}
-        {/* Show a loading indicator while waiting for AI response */}
-        {isLoading && (
-          <div className="flex justify-start">
-              <div className="flex items-center gap-4 my-4">
-                  <div className="flex-shrink-0 w-10 h-10 rounded-full flex items-center justify-center bg-cyan-500">
-                      <Loader className="animate-spin" />
-                  </div>
-                  <div className="p-4 rounded-lg bg-gray-700 rounded-bl-none">
-                      <p className="text-white italic">Thinking...</p>
-                  </div>
-              </div>
-          </div>
-        )}
-        {/* Empty div to act as a scroll target */}
-        <div ref={messagesEndRef} />
-      </div>
 
-      {/* Input Form Area */}
-      <div className="p-4 bg-gray-900 rounded-b-lg">
-        <form onSubmit={handleSendMessage} className="flex items-center gap-4">
-          <input
-            type="text"
-            value={inputValue}
-            onChange={(e) => setInputValue(e.target.value)}
-            placeholder="Ask a question..."
-            className="flex-grow p-3 bg-gray-700 rounded-lg focus:outline-none focus:ring-2 focus:ring-cyan-500 text-white disabled:opacity-50"
-            disabled={isLoading} // Disable input while loading
-          />
-          <button
-            type="submit"
-            className="bg-cyan-600 hover:bg-cyan-700 text-white font-bold p-3 rounded-lg transition-colors duration-200 flex items-center justify-center disabled:opacity-50"
-            disabled={isLoading} // Disable button while loading
-          >
-            <Send size={24} />
-          </button>
-        </form>
-      </div>
+      {/* Input Area - LangUI style */}
+      <motion.div 
+        initial={{ opacity: 0, y: 10 }}
+        animate={{ opacity: 1, y: 0 }}
+        transition={{ delay: 0.1 }}
+        className="px-6 py-4 bg-white border-t border-gray-200"
+      >
+        <div className="max-w-3xl mx-auto">
+          <form onSubmit={handleSendMessage}>
+            <div className="relative">
+              <textarea
+                value={inputValue}
+                onChange={(e) => setInputValue(e.target.value)}
+                onKeyDown={(e) => {
+                  if (e.key === 'Enter' && !e.shiftKey) {
+                    e.preventDefault();
+                    handleSendMessage(e);
+                  }
+                }}
+                placeholder="Ask me anything about DIFC or ADGM regulations..."
+                className="block w-full resize-none rounded-xl border-none bg-slate-200 p-4 pr-20 text-sm text-slate-900 shadow-md focus:outline-none focus:ring-2 focus:ring-blue-600 dark:bg-slate-800 dark:text-slate-200 dark:placeholder-slate-400 dark:focus:ring-blue-600 sm:text-base"
+                rows="1"
+                disabled={isLoading}
+                style={{
+                  scrollbarWidth: 'none',
+                  msOverflowStyle: 'none',
+                }}
+                required
+              />
+              <motion.button
+                type="submit"
+                whileHover={{ scale: 1.02 }}
+                whileTap={{ scale: 0.98 }}
+                disabled={isLoading || !inputValue.trim()}
+                className={`absolute bottom-2 right-2.5 rounded-lg px-4 py-2 text-sm font-medium transition-colors ${
+                  isLoading || !inputValue.trim()
+                    ? 'bg-gray-400 text-gray-600 cursor-not-allowed'
+                    : 'bg-blue-700 text-slate-200 hover:bg-blue-800 focus:outline-none focus:ring-4 focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800'
+                } sm:text-base`}
+              >
+                <AnimatePresence mode="wait">
+                  {isLoading ? (
+                    <motion.div
+                      key="loading"
+                      initial={{ opacity: 0 }}
+                      animate={{ opacity: 1 }}
+                      exit={{ opacity: 0 }}
+                      className="flex items-center gap-2"
+                    >
+                      <motion.div
+                        animate={{ rotate: 360 }}
+                        transition={{ duration: 1, repeat: Infinity, ease: "linear" }}
+                      >
+                        <ArrowPathIcon className="w-4 h-4" />
+                      </motion.div>
+                      Sending...
+                    </motion.div>
+                  ) : (
+                    <motion.div
+                      key="send"
+                      initial={{ opacity: 0 }}
+                      animate={{ opacity: 1 }}
+                      exit={{ opacity: 0 }}
+                    >
+                      Send
+                    </motion.div>
+                  )}
+                </AnimatePresence>
+                <span className="sr-only">Send message</span>
+              </motion.button>
+            </div>
+          </form>
+        </div>
+      </motion.div>
     </div>
   );
 }
