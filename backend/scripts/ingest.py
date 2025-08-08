@@ -6,6 +6,7 @@ import re
 import json
 import hashlib
 import numpy as np
+import tiktoken
 from typing import List, Optional, Dict, Tuple
 from dataclasses import dataclass
 from enum import Enum
@@ -41,6 +42,21 @@ class ChunkingStrategy(Enum):
     HIERARCHICAL = "hierarchical" 
     HYBRID = "hybrid"
     LATE_CHUNKING = "late_chunking"
+    TOKEN_AWARE = "token_aware"
+
+class DocumentType(Enum):
+    REGULATORY_PROSE = "regulatory_prose"  # Rules, regulations
+    NARRATIVE_GUIDANCE = "narrative_guidance"  # Explanatory documents
+    BULLET_DEFINITIONS = "bullet_definitions"  # Lists, definitions
+    TABLES = "tables"  # Structured data
+    OTHER = "other"
+
+@dataclass
+class TokenAwareChunkConfig:
+    target_tokens: int
+    overlap_percentage: float
+    max_tokens: int
+    boundary_window: int = 40  # Tokens to allow for boundary adjustment
 
 @dataclass
 class ChunkMetrics:
@@ -57,11 +73,56 @@ class RegulatoryDocumentChunker:
     Enhanced chunker for regulatory documents with state-of-the-art techniques.
     """
     
-    def __init__(self, embedding_model, chunk_size: int = 1024, chunk_overlap: int = 128, enable_late_chunking: bool = True):
+    def __init__(self, embedding_model, chunk_size: int = 1024, chunk_overlap: int = 128, enable_late_chunking: bool = True, enable_token_aware: bool = True):
         self.chunk_size = chunk_size
         self.chunk_overlap = chunk_overlap
         self.embedding_model = embedding_model
         self.enable_late_chunking = enable_late_chunking and ENHANCED_MODE
+        self.enable_token_aware = enable_token_aware
+        
+        # Initialize tokenizer for token-aware chunking
+        self.tokenizer = None
+        if enable_token_aware:
+            try:
+                self.tokenizer = tiktoken.encoding_for_model("text-embedding-3-large")
+                print("  ✓ Loaded tiktoken tokenizer for token-aware chunking")
+            except:
+                print("  Warning: Could not load tiktoken, using character-based chunking")
+                self.enable_token_aware = False
+        
+        # Document-specific chunk configurations
+        self.chunk_configs = {
+            DocumentType.REGULATORY_PROSE: TokenAwareChunkConfig(
+                target_tokens=525,  # Average of 450-600
+                overlap_percentage=15.0,
+                max_tokens=650,
+                boundary_window=40
+            ),
+            DocumentType.NARRATIVE_GUIDANCE: TokenAwareChunkConfig(
+                target_tokens=800,  # Average of 700-900
+                overlap_percentage=11.0,
+                max_tokens=950,
+                boundary_window=40
+            ),
+            DocumentType.BULLET_DEFINITIONS: TokenAwareChunkConfig(
+                target_tokens=475,  # Average of 400-550
+                overlap_percentage=9.0,
+                max_tokens=600,
+                boundary_window=40
+            ),
+            DocumentType.TABLES: TokenAwareChunkConfig(
+                target_tokens=600,  # Flexible for tables
+                overlap_percentage=5.0,  # Minimal overlap for tables
+                max_tokens=800,
+                boundary_window=20
+            ),
+            DocumentType.OTHER: TokenAwareChunkConfig(
+                target_tokens=600,  # Default
+                overlap_percentage=12.0,
+                max_tokens=750,
+                boundary_window=40
+            )
+        }
         
         # Initialize advanced models if available
         self.sentence_transformer = None
@@ -472,14 +533,16 @@ class RegulatoryDocumentChunker:
         else:
             return strategies.get('semantic', list(strategies.values())[0])
     
-    def chunk_document(self, document: Document, strategy: ChunkingStrategy = ChunkingStrategy.HYBRID) -> List[BaseNode]:
+    def chunk_document(self, document: Document, strategy: ChunkingStrategy = ChunkingStrategy.TOKEN_AWARE) -> List[BaseNode]:
         """
         Apply intelligent chunking strategy with enhanced techniques.
         """
         # Enhance metadata first
         document = self.enhance_metadata(document)
         
-        if strategy == ChunkingStrategy.HYBRID:
+        if strategy == ChunkingStrategy.TOKEN_AWARE:
+            return self.token_aware_chunking_strategy(document)
+        elif strategy == ChunkingStrategy.HYBRID:
             return self.hybrid_chunking_strategy(document)
         elif strategy == ChunkingStrategy.LATE_CHUNKING and self.enable_late_chunking:
             return self.late_chunking_strategy(document)
@@ -494,8 +557,255 @@ class RegulatoryDocumentChunker:
                 node.metadata['chunking_strategy'] = 'hierarchical'
             return nodes
         else:
-            # Default to hybrid
-            return self.hybrid_chunking_strategy(document)
+            # Default to token-aware
+            return self.token_aware_chunking_strategy(document)
+    
+    def normalize_text(self, text: str) -> str:
+        """Normalize text before chunking to handle PDF artifacts and formatting issues."""
+        # Remove soft hyphens and fix hyphenated line breaks
+        text = re.sub(r'\u00AD', '', text)  # Remove soft hyphens
+        text = re.sub(r'-\s*\n\s*', '', text)  # Fix hyphenated line breaks
+        
+        # Collapse weird whitespace but keep paragraph breaks
+        text = re.sub(r'[ \t]+', ' ', text)  # Multiple spaces/tabs to single space
+        text = re.sub(r'\n[ \t]+', '\n', text)  # Leading whitespace after newlines
+        text = re.sub(r'[ \t]+\n', '\n', text)  # Trailing whitespace before newlines
+        text = re.sub(r'\n{3,}', '\n\n', text)  # Multiple newlines to double newlines
+        
+        return text.strip()
+    
+    def count_tokens(self, text: str) -> int:
+        """Count tokens in text using the embedding model's tokenizer."""
+        if self.tokenizer:
+            return len(self.tokenizer.encode(text))
+        else:
+            # Fallback to character-based estimation (roughly 4 chars per token)
+            return len(text) // 4
+    
+    def classify_document_type(self, document: Document) -> DocumentType:
+        """Classify the document type based on content and filename."""
+        filename = document.metadata.get('file_name', '').lower()
+        text_sample = document.text[:2000].lower()  # Sample first 2000 chars
+        
+        # Check filename patterns
+        if 'regulation' in filename or 'rules' in filename:
+            return DocumentType.REGULATORY_PROSE
+        elif 'guidance' in filename or 'guide' in filename:
+            return DocumentType.NARRATIVE_GUIDANCE
+        elif 'table' in filename or 'schedule' in filename:
+            return DocumentType.TABLES
+        
+        # Check content patterns
+        bullet_patterns = [r'\n\s*[•·\-]\s+', r'\n\s*\([a-z]\)', r'\n\s*\d+\.\s+']
+        definition_patterns = ['definition', 'means', 'refers to', 'shall mean']
+        table_patterns = ['table', 'schedule', 'appendix', '│', '┌', '└']
+        
+        bullet_count = sum(len(re.findall(pattern, text_sample)) for pattern in bullet_patterns)
+        definition_count = sum(text_sample.count(word) for word in definition_patterns)
+        table_count = sum(text_sample.count(word) for word in table_patterns)
+        
+        if bullet_count > 10 or definition_count > 5:
+            return DocumentType.BULLET_DEFINITIONS
+        elif table_count > 3:
+            return DocumentType.TABLES
+        elif 'guidance' in text_sample or 'explanation' in text_sample:
+            return DocumentType.NARRATIVE_GUIDANCE
+        elif any(word in text_sample for word in ['shall', 'must', 'requirement', 'obligation']):
+            return DocumentType.REGULATORY_PROSE
+        else:
+            return DocumentType.OTHER
+    
+    def find_structural_boundaries(self, text: str) -> List[int]:
+        """Find structural boundaries in text that should not be split."""
+        boundaries = []
+        lines = text.split('\n')
+        char_pos = 0
+        
+        for i, line in enumerate(lines):
+            line_start = char_pos
+            char_pos += len(line) + 1  # +1 for newline
+            
+            # Mark boundaries we shouldn't split
+            stripped = line.strip()
+            if not stripped:
+                continue
+                
+            # Headings (numbered sections, titles)
+            if re.match(r'^\d+\.\s+[A-Z]', stripped) or re.match(r'^[A-Z][^a-z]*$', stripped):
+                boundaries.append((line_start, char_pos, 'heading'))
+            # Bullet points
+            elif re.match(r'^\s*[•·\-]\s+', line) or re.match(r'^\s*\([a-z]\)', line):
+                boundaries.append((line_start, char_pos, 'bullet'))
+            # Table rows (simplified detection)
+            elif '│' in line or line.count('|') >= 2:
+                boundaries.append((line_start, char_pos, 'table_row'))
+        
+        return boundaries
+    
+    def token_aware_split(self, text: str, doc_type: DocumentType) -> List[str]:
+        """Split text using token-aware chunking with structural respect."""
+        if not self.enable_token_aware:
+            # Fallback to character-based splitting
+            return self._simple_split(text)
+        
+        config = self.chunk_configs[doc_type]
+        normalized_text = self.normalize_text(text)
+        boundaries = self.find_structural_boundaries(normalized_text)
+        
+        chunks = []
+        current_pos = 0
+        
+        while current_pos < len(normalized_text):
+            # Calculate target end position
+            target_tokens = config.target_tokens
+            estimated_chars = target_tokens * 4  # Rough estimation
+            target_end = min(current_pos + estimated_chars, len(normalized_text))
+            
+            # Find a good boundary within the allowed window
+            chunk_text = normalized_text[current_pos:target_end]
+            actual_tokens = self.count_tokens(chunk_text)
+            
+            # Adjust if we're over the token limit
+            while actual_tokens > config.max_tokens and target_end > current_pos + 100:
+                target_end = int(target_end * 0.9)
+                chunk_text = normalized_text[current_pos:target_end]
+                actual_tokens = self.count_tokens(chunk_text)
+            
+            # Try to find a good boundary (sentence end, paragraph break, etc.)
+            final_end = self._find_optimal_boundary(
+                normalized_text, current_pos, target_end, config.boundary_window
+            )
+            
+            # Respect structural boundaries
+            final_end = self._respect_structural_boundaries(
+                boundaries, current_pos, final_end, normalized_text
+            )
+            
+            chunk_text = normalized_text[current_pos:final_end].strip()
+            if chunk_text:
+                chunks.append(chunk_text)
+            
+            # Calculate overlap for next chunk
+            overlap_tokens = int(config.target_tokens * config.overlap_percentage / 100)
+            overlap_chars = overlap_tokens * 4  # Rough estimation
+            
+            # For tables, ensure we include headers in overlapping chunks
+            if doc_type == DocumentType.TABLES:
+                overlap_chars = max(overlap_chars, self._find_table_header_length(chunk_text))
+            
+            current_pos = max(final_end - overlap_chars, current_pos + 1)
+        
+        return chunks
+    
+    def _find_optimal_boundary(self, text: str, start: int, target_end: int, window: int) -> int:
+        """Find the optimal boundary within the allowed window."""
+        window_start = max(start, target_end - window)
+        window_end = min(len(text), target_end + window)
+        
+        # Look for sentence boundaries first
+        for i in range(target_end, window_end):
+            if text[i:i+2] == '. ' and i+2 < len(text) and text[i+2].isupper():
+                return i + 1
+        
+        for i in range(target_end, window_start, -1):
+            if text[i:i+2] == '. ' and i+2 < len(text) and text[i+2].isupper():
+                return i + 1
+        
+        # Look for paragraph boundaries
+        for i in range(target_end, window_end):
+            if text[i:i+2] == '\n\n':
+                return i + 2
+        
+        for i in range(target_end, window_start, -1):
+            if text[i:i+2] == '\n\n':
+                return i + 2
+        
+        # Look for any line break
+        for i in range(target_end, window_end):
+            if text[i] == '\n':
+                return i + 1
+        
+        for i in range(target_end, window_start, -1):
+            if text[i] == '\n':
+                return i + 1
+        
+        # If no good boundary found, use target_end
+        return target_end
+    
+    def _respect_structural_boundaries(self, boundaries: List[Tuple], start: int, target_end: int, text: str) -> int:
+        """Adjust the end position to respect structural boundaries."""
+        for boundary_start, boundary_end, boundary_type in boundaries:
+            # Don't split within a structural element
+            if boundary_start < target_end < boundary_end:
+                # If we're close to the start, go before the boundary
+                if target_end - boundary_start < boundary_end - target_end:
+                    return boundary_start
+                else:
+                    return boundary_end
+            
+            # For headings, ensure we don't separate heading from first paragraph
+            if boundary_type == 'heading' and boundary_end <= target_end < boundary_end + 200:
+                # Find the end of the first paragraph after the heading
+                text_after = text[boundary_end:boundary_end + 500]
+                paragraph_end = text_after.find('\n\n')
+                if paragraph_end != -1:
+                    return boundary_end + paragraph_end
+        
+        return target_end
+    
+    def _find_table_header_length(self, text: str) -> int:
+        """Find the length of table header to include in overlap."""
+        lines = text.split('\n')
+        header_length = 0
+        
+        for line in lines:
+            if '│' in line or line.count('|') >= 2:
+                header_length += len(line) + 1  # +1 for newline
+                # Usually first 1-2 rows are headers
+                if header_length > 200:  # Reasonable limit
+                    break
+            else:
+                break
+        
+        return min(header_length, 300)  # Cap at 300 chars
+    
+    def generate_stable_chunk_id(self, document_id: str, parent_seq: int, child_seq: int) -> str:
+        """Generate stable, predictable chunk IDs."""
+        return f"{document_id}_{parent_seq:04d}_{child_seq:04d}"
+    
+    def token_aware_chunking_strategy(self, document: Document) -> List[BaseNode]:
+        """Apply token-aware chunking strategy."""
+        print(f"Applying token-aware chunking to: {document.metadata.get('file_name', 'Unknown')}")
+        
+        doc_type = self.classify_document_type(document)
+        chunks = self.token_aware_split(document.text, doc_type)
+        
+        nodes = []
+        document_id = document.metadata.get('document_id', document.hash)
+        parent_seq = 0
+        
+        for i, chunk_text in enumerate(chunks):
+            chunk_id = self.generate_stable_chunk_id(document_id, parent_seq, i)
+            
+            node = TextNode(
+                text=chunk_text,
+                id_=chunk_id,
+                metadata={
+                    **document.metadata,
+                    'chunk_id': chunk_id,
+                    'chunk_index': i,
+                    'chunk_type': self._classify_chunk_content(chunk_text),
+                    'document_type': doc_type.value,
+                    'chunking_strategy': 'token_aware',
+                    'token_count': self.count_tokens(chunk_text),
+                    'parent_sequence': parent_seq,
+                    'child_sequence': i
+                }
+            )
+            nodes.append(node)
+        
+        print(f"Token-aware chunking created {len(nodes)} nodes")
+        return nodes
     
     def _classify_chunk_content(self, text: str) -> str:
         """Classify the type of content in a chunk."""
@@ -588,25 +898,26 @@ def run_ingestion():
     
     print(f"Loaded {len(documents)} documents from DIFC and ADGM directories.")
 
-    print("Configuring LlamaIndex settings with advanced chunking...")
+    print("Configuring LlamaIndex settings with advanced token-aware chunking...")
     
-    # Initialize the enhanced chunker
+    # Initialize the enhanced chunker with token-aware capabilities
     chunker = RegulatoryDocumentChunker(
         embedding_model=embed_model,
-        chunk_size=1024,
-        chunk_overlap=128,
-        enable_late_chunking=ENHANCED_MODE  # Enable if dependencies available
+        chunk_size=1024,  # Fallback for non-token-aware
+        chunk_overlap=128,  # Fallback for non-token-aware
+        enable_late_chunking=ENHANCED_MODE,  # Enable if dependencies available
+        enable_token_aware=True  # Enable token-aware chunking
     )
     
     # Process documents through advanced chunking
     all_nodes = []
-    print("Processing documents with intelligent chunking...")
+    print("Processing documents with token-aware intelligent chunking...")
     
     for i, doc in enumerate(documents):
         print(f"Processing document {i+1}/{len(documents)}: {doc.metadata.get('file_name', 'Unknown')}")
         try:
-            # Use hybrid chunking strategy by default
-            nodes = chunker.chunk_document(doc, ChunkingStrategy.HYBRID)
+            # Use token-aware chunking strategy by default
+            nodes = chunker.chunk_document(doc, ChunkingStrategy.TOKEN_AWARE)
             
             # Add enhanced metadata to chunks (with size limits)
             for j, node in enumerate(nodes):
@@ -706,10 +1017,10 @@ def test_chunking_strategy(sample_docs: int = 3):
     docs = []
     try:
         difc_docs = SimpleDirectoryReader(
-            "./data/difc", file_extractor=file_extractor
+            "../data/difc", file_extractor=file_extractor
         ).load_data()[:sample_docs//2]
         adgm_docs = SimpleDirectoryReader(
-            "./data/adgm", file_extractor=file_extractor
+            "../data/adgm", file_extractor=file_extractor
         ).load_data()[:sample_docs//2]
         docs = difc_docs + adgm_docs
     except Exception as e:
@@ -720,11 +1031,12 @@ def test_chunking_strategy(sample_docs: int = 3):
         print("No documents found for testing.")
         return
     
-    # Initialize chunker
+    # Initialize chunker with token-aware capabilities
     chunker = RegulatoryDocumentChunker(
         embedding_model=embed_model,
         chunk_size=1024,
-        chunk_overlap=128
+        chunk_overlap=128,
+        enable_token_aware=True
     )
     
     print(f"\nTesting on {len(docs)} documents:")
