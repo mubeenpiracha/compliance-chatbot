@@ -204,7 +204,7 @@ If they're asking specific compliance questions, acknowledge that while being pe
 
 def retrieve_documents(state: AgentState) -> dict:
     """
-    Retrieve relevant documents if beneficial.
+    Retrieve relevant documents using enhanced retrieval if available.
     """
     print("--- NODE: retrieve_documents ---")
     
@@ -212,6 +212,38 @@ def retrieve_documents(state: AgentState) -> dict:
         print("  - Skipping retrieval based on analysis")
         return {"retrieved_docs": []}
     
+    try:
+        # Try enhanced retrieval first
+        from backend.core.ai_service import get_enhanced_documents
+        
+        jurisdiction = state.get("jurisdiction")
+        query = state.get("contextualized_query", "")
+        
+        print(f"  - Enhanced retrieval for: '{query}' in {jurisdiction}")
+        
+        # Use enhanced retrieval
+        enhanced_docs = get_enhanced_documents(query, jurisdiction)
+        
+        if enhanced_docs:
+            # Convert to Document format for compatibility
+            retrieved_docs = []
+            for doc_data in enhanced_docs:
+                content = doc_data.get('content', '')
+                metadata = doc_data.get('metadata', {})
+                score = doc_data.get('score', 0.0)
+                
+                if content and jurisdiction.upper() in metadata.get("jurisdiction", "").upper():
+                    from langchain.schema import Document
+                    retrieved_docs.append(Document(page_content=content, metadata=metadata))
+            
+            print(f"  - Enhanced retrieval: {len(retrieved_docs)} relevant documents")
+            return {"retrieved_docs": retrieved_docs}
+        
+    except Exception as e:
+        print(f"  - Enhanced retrieval failed: {e}")
+        print("  - Falling back to basic retrieval")
+    
+    # Fallback to original retrieval method
     try:
         from backend.core.ai_service import index
         if index is None:
@@ -221,11 +253,11 @@ def retrieve_documents(state: AgentState) -> dict:
         jurisdiction = state.get("jurisdiction")
         query = state.get("contextualized_query", "")
         
-        print(f"  - Retrieving docs for: '{query}' in {jurisdiction}")
+        print(f"  - Basic retrieval for: '{query}' in {jurisdiction}")
         
-        # Use query engine instead of retriever for better results
+        # Use query engine for basic retrieval
         query_engine = index.as_query_engine(
-            similarity_top_k=3,
+            similarity_top_k=5,
             mode="hybrid"
         )
         
@@ -236,9 +268,10 @@ def retrieve_documents(state: AgentState) -> dict:
             content = getattr(node.node, "get_content", lambda: None)()
             metadata = getattr(node.node, "metadata", {})
             if content and jurisdiction.upper() in metadata.get("jurisdiction", "").upper():
+                from langchain.schema import Document
                 retrieved_docs.append(Document(page_content=content, metadata=metadata))
         
-        print(f"  - Retrieved {len(retrieved_docs)} relevant documents")
+        print(f"  - Basic retrieval: {len(retrieved_docs)} relevant documents")
         return {"retrieved_docs": retrieved_docs}
         
     except Exception as e:

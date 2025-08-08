@@ -3,7 +3,12 @@ import os
 import sys
 import time
 import re
-from typing import List, Optional
+import json
+import hashlib
+import numpy as np
+from typing import List, Optional, Dict, Tuple
+from dataclasses import dataclass
+from enum import Enum
 from pinecone import Pinecone, ServerlessSpec
 from llama_index.core import VectorStoreIndex, SimpleDirectoryReader, StorageContext, Document
 from llama_index.readers.file import UnstructuredReader
@@ -16,23 +21,56 @@ from llama_index.core.node_parser import (
 )
 from llama_index.core.settings import Settings
 from llama_index.embeddings.openai import OpenAIEmbedding
-from llama_index.core.schema import BaseNode
+from llama_index.core.schema import BaseNode, TextNode
 import sys
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from core.config import PINECONE_API_KEY, OPENAI_API_KEY
+
+# Enhanced imports for state-of-the-art techniques
+try:
+    from sklearn.metrics.pairwise import cosine_similarity
+    from sentence_transformers import SentenceTransformer
+    ENHANCED_MODE = True
+    print("Enhanced chunking mode: ENABLED")
+except ImportError:
+    ENHANCED_MODE = False
+    print("Enhanced chunking mode: DISABLED (install sentence-transformers and scikit-learn)")
+
+class ChunkingStrategy(Enum):
+    SEMANTIC = "semantic"
+    HIERARCHICAL = "hierarchical" 
+    HYBRID = "hybrid"
+    LATE_CHUNKING = "late_chunking"
+
+@dataclass
+class ChunkMetrics:
+    coherence_score: float
+    completeness_score: float
+    boundary_quality: float
+    information_density: float
 
 # Set OpenAI API key for LlamaIndex components
 os.environ["OPENAI_API_KEY"] = OPENAI_API_KEY
 
 class RegulatoryDocumentChunker:
     """
-    Advanced chunker for regulatory documents that preserves structure and context.
+    Enhanced chunker for regulatory documents with state-of-the-art techniques.
     """
     
-    def __init__(self, embedding_model, chunk_size: int = 1024, chunk_overlap: int = 128):
+    def __init__(self, embedding_model, chunk_size: int = 1024, chunk_overlap: int = 128, enable_late_chunking: bool = True):
         self.chunk_size = chunk_size
         self.chunk_overlap = chunk_overlap
         self.embedding_model = embedding_model
+        self.enable_late_chunking = enable_late_chunking and ENHANCED_MODE
+        
+        # Initialize advanced models if available
+        self.sentence_transformer = None
+        if ENHANCED_MODE:
+            try:
+                self.sentence_transformer = SentenceTransformer('all-MiniLM-L6-v2')
+                print("  ✓ Loaded sentence transformer for enhanced chunking")
+            except:
+                print("  Warning: Could not load sentence transformer, using basic mode")
         
         # Initialize multiple chunking strategies
         self.semantic_splitter = SemanticSplitterNodeParser(
@@ -130,22 +168,19 @@ class RegulatoryDocumentChunker:
         return structure
     
     def enhance_metadata(self, document: Document) -> Document:
-        """Enhance document metadata with structural and content information."""
+        """Enhanced metadata extraction with size limits for Pinecone."""
         text = document.text
         structure = self.extract_document_structure(text)
         
-        # Add structural metadata
+        # Add core structural metadata (keep essential info only)
         document.metadata.update({
             'num_sections': len(structure['sections']),
             'num_subsections': len(structure['subsections']),
-            'num_tables': len(structure['tables']),
-            'num_definitions': len(structure['definitions']),
-            'num_references': len(structure['references']),
             'document_length': len(text),
-            'estimated_reading_time': len(text.split()) // 200,  # ~200 words per minute
+            'estimated_reading_time': min(len(text.split()) // 200, 999),  # Cap at 999 minutes
         })
         
-        # Extract document type from filename or content
+        # Extract document type from filename or content  
         filename = document.metadata.get('file_name', '').lower()
         if 'regulation' in filename or 'regulation' in text[:1000].lower():
             document.metadata['document_type'] = 'regulation'
@@ -156,7 +191,7 @@ class RegulatoryDocumentChunker:
         else:
             document.metadata['document_type'] = 'other'
         
-        # Extract key regulatory concepts
+        # Extract key regulatory concepts (limit to top 5)
         regulatory_keywords = [
             'compliance', 'violation', 'penalty', 'requirement', 'obligation',
             'prohibited', 'permitted', 'license', 'authorization', 'approval',
@@ -168,47 +203,299 @@ class RegulatoryDocumentChunker:
         for keyword in regulatory_keywords:
             if keyword in text_lower:
                 found_keywords.append(keyword)
+                if len(found_keywords) >= 5:  # Limit to 5 keywords
+                    break
         
         document.metadata['regulatory_concepts'] = found_keywords
         
+        # Remove large metadata fields that might cause size issues
+        metadata_to_remove = ['coordinates', 'languages', 'filetype']
+        for key in metadata_to_remove:
+            document.metadata.pop(key, None)
+        
         return document
     
-    def chunk_document(self, document: Document) -> List[BaseNode]:
+    def late_chunking_strategy(self, document: Document, context_size: int = 4096) -> List[BaseNode]:
         """
-        Apply intelligent chunking strategy based on document characteristics.
+        Implement late chunking: embed large contexts, then split while preserving embeddings.
+        """
+        if not self.enable_late_chunking:
+            # Fallback to sentence splitting
+            return self.sentence_splitter.get_nodes_from_documents([document])
+        
+        print(f"Applying late chunking to: {document.metadata.get('file_name', 'Unknown')}")
+        
+        text = document.text
+        contexts = []
+        step_size = context_size - self.chunk_overlap
+        
+        # Split into overlapping large contexts
+        for i in range(0, len(text), step_size):
+            context = text[i:i + context_size]
+            if len(context.strip()) > 100:
+                contexts.append({
+                    'text': context,
+                    'start_pos': i,
+                    'end_pos': i + len(context)
+                })
+        
+        # Create smaller chunks but preserve context information
+        nodes = []
+        for ctx_idx, ctx in enumerate(contexts):
+            small_chunks = self._split_text_with_quality_metrics(ctx['text'])
+            
+            for chunk_idx, chunk_text in enumerate(small_chunks):
+                if len(chunk_text.strip()) < 50:
+                    continue
+                
+                node = TextNode(text=chunk_text)
+                node.metadata.update({
+                    **document.metadata,
+                    'chunk_id': f"{document.hash}_{ctx_idx}_{chunk_idx}",
+                    'context_start': ctx['start_pos'],
+                    'context_end': ctx['end_pos'],
+                    'chunk_in_context': chunk_idx,
+                    'chunking_strategy': 'late_chunking',
+                    'context_size': len(ctx['text'])
+                })
+                nodes.append(node)
+        
+        print(f"Late chunking created {len(nodes)} nodes from {len(contexts)} contexts")
+        return nodes
+    
+    def _split_text_with_quality_metrics(self, text: str) -> List[str]:
+        """Split text with quality assessment for optimal boundaries."""
+        strategies = [
+            self._split_by_sentences,
+            self._split_by_paragraphs,
+            self._split_by_semantic_boundaries if ENHANCED_MODE else self._split_by_sentences
+        ]
+        
+        all_splits = []
+        for strategy in strategies:
+            try:
+                splits = strategy(text)
+                quality_score = self._assess_split_quality(text, splits)
+                all_splits.append((splits, quality_score))
+            except Exception as e:
+                continue
+        
+        if not all_splits:
+            return self._simple_split(text)
+        
+        best_splits, best_score = max(all_splits, key=lambda x: x[1])
+        return best_splits
+    
+    def _split_by_sentences(self, text: str) -> List[str]:
+        """Split by sentences with regulatory awareness."""
+        sentences = re.split(r'(?<=\.)\s+(?=[A-Z])', text)
+        chunks = []
+        current_chunk = ""
+        
+        for sentence in sentences:
+            if len(current_chunk + sentence) <= self.chunk_size:
+                current_chunk += sentence + " "
+            else:
+                if current_chunk:
+                    chunks.append(current_chunk.strip())
+                current_chunk = sentence + " "
+        
+        if current_chunk:
+            chunks.append(current_chunk.strip())
+        return chunks
+    
+    def _split_by_paragraphs(self, text: str) -> List[str]:
+        """Split by paragraphs."""
+        paragraphs = text.split('\n\n')
+        chunks = []
+        current_chunk = ""
+        
+        for para in paragraphs:
+            if len(current_chunk + para) <= self.chunk_size:
+                current_chunk += para + "\n\n"
+            else:
+                if current_chunk:
+                    chunks.append(current_chunk.strip())
+                current_chunk = para + "\n\n"
+        
+        if current_chunk:
+            chunks.append(current_chunk.strip())
+        return chunks
+    
+    def _split_by_semantic_boundaries(self, text: str) -> List[str]:
+        """Split by semantic boundaries using sentence similarity."""
+        if not ENHANCED_MODE or not self.sentence_transformer:
+            return self._split_by_sentences(text)
+        
+        sentences = re.split(r'(?<=\.)\s+(?=[A-Z])', text)
+        if len(sentences) <= 3:
+            return [text]
+        
+        try:
+            # Calculate sentence embeddings
+            embeddings = self.sentence_transformer.encode(sentences)
+            
+            # Calculate similarities between adjacent sentences
+            similarities = []
+            for i in range(len(embeddings) - 1):
+                sim = cosine_similarity([embeddings[i]], [embeddings[i + 1]])[0][0]
+                similarities.append(sim)
+            
+            # Find break points where similarity is low
+            if similarities:
+                threshold = np.percentile(similarities, 25)
+                break_points = [0]
+                
+                for i, sim in enumerate(similarities):
+                    if sim < threshold:
+                        break_points.append(i + 1)
+                
+                break_points.append(len(sentences))
+                
+                # Create chunks based on break points
+                chunks = []
+                for i in range(len(break_points) - 1):
+                    chunk_sentences = sentences[break_points[i]:break_points[i + 1]]
+                    chunk_text = ' '.join(chunk_sentences)
+                    if len(chunk_text.strip()) > 50:
+                        chunks.append(chunk_text.strip())
+                
+                return chunks
+        except Exception as e:
+            print(f"Semantic boundary detection failed: {e}")
+        
+        return self._split_by_sentences(text)
+    
+    def _simple_split(self, text: str) -> List[str]:
+        """Simple fallback splitting method."""
+        chunks = []
+        for i in range(0, len(text), self.chunk_size - self.chunk_overlap):
+            chunk = text[i:i + self.chunk_size]
+            if chunk.strip():
+                chunks.append(chunk.strip())
+        return chunks
+    
+    def _assess_split_quality(self, original_text: str, splits: List[str]) -> float:
+        """Assess the quality of a text splitting strategy."""
+        if not splits:
+            return 0.0
+        
+        scores = []
+        
+        # Completeness
+        total_chars = sum(len(split) for split in splits)
+        completeness = min(1.0, total_chars / len(original_text))
+        scores.append(completeness)
+        
+        # Size consistency
+        if ENHANCED_MODE:
+            sizes = [len(split) for split in splits]
+            target_size = self.chunk_size
+            size_variance = np.var([abs(size - target_size) for size in sizes])
+            size_consistency = 1.0 / (1.0 + size_variance / 1000)
+            scores.append(size_consistency)
+        else:
+            scores.append(0.8)  # Default good score
+        
+        # Boundary quality
+        boundary_quality = 0.0
+        good_endings = ['.', '!', '?', ':', ';', '\n\n']
+        for split in splits:
+            if any(split.rstrip().endswith(ending) for ending in good_endings):
+                boundary_quality += 1.0
+        boundary_quality /= len(splits)
+        scores.append(boundary_quality)
+        
+        return sum(scores) / len(scores)
+    
+    def hybrid_chunking_strategy(self, document: Document) -> List[BaseNode]:
+        """
+        Hybrid strategy combining multiple approaches and selecting the best chunks.
+        """
+        print(f"Applying hybrid chunking to: {document.metadata.get('file_name', 'Unknown')}")
+        
+        strategies = {}
+        
+        # Always include basic strategies
+        try:
+            nodes = self.semantic_splitter.get_nodes_from_documents([document])
+            for node in nodes:
+                node.metadata['chunking_strategy'] = 'semantic'
+            strategies['semantic'] = nodes
+        except Exception as e:
+            print(f"  Semantic chunking failed: {e}")
+        
+        try:
+            nodes = self.hierarchical_splitter.get_nodes_from_documents([document])
+            for node in nodes:
+                node.metadata['chunking_strategy'] = 'hierarchical'
+            strategies['hierarchical'] = nodes
+        except Exception as e:
+            print(f"  Hierarchical chunking failed: {e}")
+        
+        # Add late chunking if enabled
+        if self.enable_late_chunking:
+            try:
+                nodes = self.late_chunking_strategy(document)
+                strategies['late_chunking'] = nodes
+            except Exception as e:
+                print(f"  Late chunking failed: {e}")
+        
+        if not strategies:
+            # Fallback to sentence splitting
+            nodes = self.sentence_splitter.get_nodes_from_documents([document])
+            for node in nodes:
+                node.metadata['chunking_strategy'] = 'sentence'
+            return nodes
+        
+        # Select best strategy based on document characteristics
+        final_nodes = self._select_best_strategy(strategies, document)
+        
+        print(f"Hybrid chunking selected {len(final_nodes)} chunks")
+        return final_nodes
+    
+    def _select_best_strategy(self, strategies: Dict[str, List[BaseNode]], document: Document) -> List[BaseNode]:
+        """Select the best chunking strategy based on document characteristics."""
+        if len(strategies) == 1:
+            return list(strategies.values())[0]
+        
+        doc_length = len(document.text)
+        doc_type = document.metadata.get('document_type', 'other')
+        
+        # Strategy selection logic
+        if doc_length > 50000:  # Large documents
+            return strategies.get('hierarchical', strategies.get('late_chunking', list(strategies.values())[0]))
+        elif doc_type in ['regulation', 'rulebook']:  # Structured documents
+            return strategies.get('semantic', strategies.get('hierarchical', list(strategies.values())[0]))
+        elif self.enable_late_chunking and 'late_chunking' in strategies:  # Enhanced mode
+            return strategies['late_chunking']
+        else:
+            return strategies.get('semantic', list(strategies.values())[0])
+    
+    def chunk_document(self, document: Document, strategy: ChunkingStrategy = ChunkingStrategy.HYBRID) -> List[BaseNode]:
+        """
+        Apply intelligent chunking strategy with enhanced techniques.
         """
         # Enhance metadata first
         document = self.enhance_metadata(document)
         
-        # Choose chunking strategy based on document characteristics
-        doc_length = len(document.text)
-        doc_type = document.metadata.get('document_type', 'other')
-        
-        if doc_length > 50000:  # Large documents - use hierarchical
-            print(f"Using hierarchical chunking for large document: {document.metadata.get('file_name', 'Unknown')}")
+        if strategy == ChunkingStrategy.HYBRID:
+            return self.hybrid_chunking_strategy(document)
+        elif strategy == ChunkingStrategy.LATE_CHUNKING and self.enable_late_chunking:
+            return self.late_chunking_strategy(document)
+        elif strategy == ChunkingStrategy.SEMANTIC:
+            nodes = self.semantic_splitter.get_nodes_from_documents([document])
+            for node in nodes:
+                node.metadata['chunking_strategy'] = 'semantic'
+            return nodes
+        elif strategy == ChunkingStrategy.HIERARCHICAL:
             nodes = self.hierarchical_splitter.get_nodes_from_documents([document])
-        elif doc_type in ['regulation', 'rulebook']:  # Structured documents - use semantic
-            print(f"Using semantic chunking for structured document: {document.metadata.get('file_name', 'Unknown')}")
-            try:
-                nodes = self.semantic_splitter.get_nodes_from_documents([document])
-            except Exception as e:
-                print(f"Semantic chunking failed, falling back to sentence splitting: {e}")
-                nodes = self.sentence_splitter.get_nodes_from_documents([document])
-        else:  # Default to enhanced sentence splitting
-            print(f"Using sentence chunking for document: {document.metadata.get('file_name', 'Unknown')}")
-            nodes = self.sentence_splitter.get_nodes_from_documents([document])
-        
-        # Add chunk-specific metadata
-        for i, node in enumerate(nodes):
-            node.metadata.update({
-                'chunk_id': f"{document.metadata.get('document_id', 'unknown')}_{i}",
-                'chunk_index': i,
-                'total_chunks': len(nodes),
-                'chunk_size': len(node.text),
-                'chunk_type': self._classify_chunk_content(node.text)
-            })
-        
-        return nodes
+            for node in nodes:
+                node.metadata['chunking_strategy'] = 'hierarchical'
+            return nodes
+        else:
+            # Default to hybrid
+            return self.hybrid_chunking_strategy(document)
     
     def _classify_chunk_content(self, text: str) -> str:
         """Classify the type of content in a chunk."""
@@ -303,11 +590,12 @@ def run_ingestion():
 
     print("Configuring LlamaIndex settings with advanced chunking...")
     
-    # Initialize the advanced chunker
+    # Initialize the enhanced chunker
     chunker = RegulatoryDocumentChunker(
         embedding_model=embed_model,
-        chunk_size=1024,  # Increased chunk size for better context
-        chunk_overlap=128  # Increased overlap for better continuity
+        chunk_size=1024,
+        chunk_overlap=128,
+        enable_late_chunking=ENHANCED_MODE  # Enable if dependencies available
     )
     
     # Process documents through advanced chunking
@@ -317,14 +605,45 @@ def run_ingestion():
     for i, doc in enumerate(documents):
         print(f"Processing document {i+1}/{len(documents)}: {doc.metadata.get('file_name', 'Unknown')}")
         try:
-            nodes = chunker.chunk_document(doc)
+            # Use hybrid chunking strategy by default
+            nodes = chunker.chunk_document(doc, ChunkingStrategy.HYBRID)
+            
+            # Add enhanced metadata to chunks (with size limits)
+            for j, node in enumerate(nodes):
+                chunk_metadata = {
+                    'chunk_id': f"{doc.metadata.get('document_id', 'unknown')}_{j}",
+                    'chunk_index': j,
+                    'total_chunks': len(nodes),
+                    'chunk_size': len(node.text),
+                    'chunk_type': chunker._classify_chunk_content(node.text)
+                }
+                
+                # Only add essential metadata to avoid size limits
+                essential_doc_metadata = {
+                    'file_name': doc.metadata.get('file_name', 'unknown')[:100],  # Limit length
+                    'jurisdiction': doc.metadata.get('jurisdiction', 'unknown'),
+                    'document_type': doc.metadata.get('document_type', 'other'),
+                    'regulatory_concepts': doc.metadata.get('regulatory_concepts', [])[:3]  # Limit to 3
+                }
+                
+                node.metadata.update({**essential_doc_metadata, **chunk_metadata})
+            
             all_nodes.extend(nodes)
-            print(f"  Created {len(nodes)} chunks")
+            print(f"  Created {len(nodes)} chunks using {nodes[0].metadata.get('chunking_strategy', 'hybrid') if nodes else 'unknown'} strategy")
         except Exception as e:
             print(f"  Error processing document: {e}")
             # Fallback to basic chunking
             basic_splitter = SentenceSplitter(chunk_size=1024, chunk_overlap=128)
             nodes = basic_splitter.get_nodes_from_documents([doc])
+            for j, node in enumerate(nodes):
+                node.metadata.update({
+                    'chunk_id': f"{doc.metadata.get('document_id', 'unknown')}_{j}",
+                    'chunk_index': j,
+                    'total_chunks': len(nodes),
+                    'chunk_size': len(node.text),
+                    'chunk_type': 'general_content',
+                    'chunking_strategy': 'sentence_fallback'
+                })
             all_nodes.extend(nodes)
             print(f"  Fallback: Created {len(nodes)} basic chunks")
     

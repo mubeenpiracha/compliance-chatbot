@@ -4,6 +4,7 @@ export default {
     "./index.html",
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
+  darkMode: 'class',
   theme: {
     extend: {
       fontFamily: {
@@ -28,33 +29,7 @@ export default {
           '100%': { backgroundPosition: 'calc(200px + 100%) 0' },
         },
       },
-      backdropBlur: {
-        'xs': '2px',
-        'sm': '4px',
-        'md': '12px',
-        'lg': '16px',
-        'xl': '24px',
-        '2xl': '40px',
-        '3xl': '64px',
-      },
-      colors: {
-        gray: {
-          50: '#f9fafb',
-          100: '#f3f4f6',
-          200: '#e5e7eb',
-          300: '#d1d5db',
-          400: '#9ca3af',
-          500: '#6b7280',
-          600: '#4b5563',
-          700: '#374151',
-          800: '#1f2937',
-          900: '#111827',
-        },
-      },
     },
   },
   plugins: [],
-  corePlugins: {
-    backdropFilter: true,
-  },
 }
