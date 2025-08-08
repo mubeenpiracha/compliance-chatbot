@@ -16,7 +16,7 @@ from backend.core.config import OPENAI_API_KEY # Assuming this works
 #OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 
 # --- Agent State ---
-# We've added clarification_attempts to prevent infinite loops.
+# Updated to support more flexible, natural conversation flow
 class AgentState(TypedDict):
     """
     Represents the state of our agent. This state is passed between nodes in the graph.
@@ -25,57 +25,60 @@ class AgentState(TypedDict):
     jurisdiction: str
     chat_history: List[BaseMessage]
     contextualized_query: str
-    clarity_grade: Literal["CLEAR", "AMBIGUOUS"]
-    sub_questions: List[str]
+    query_confidence: float  # 0.0-1.0 confidence in understanding the query
+    query_type: Literal["GREETING", "COMPLIANCE", "EXPLORATORY", "CLARIFICATION"]
     retrieved_docs: List[Document]
+    conversational_response: str
+    compliance_response: str
     final_response: str
-    route: Literal["COMPLEX", "SIMPLE", "CONVERSATIONAL"]
-    clarification_question: str
-    clarification_attempts: int # New field to prevent infinite loops
+    final_response_with_sources: dict
+    should_retrieve: bool  # Whether to attempt document retrieval
+    should_converse: bool  # Whether to provide conversational response
+    exploration_suggestions: List[str]  # Suggestions for further exploration
 
 # --- Pydantic Models for Structured LLM Output ---
-# Using Pydantic models ensures the LLM output is structured and validated.
+# Updated models for more flexible conversation handling
 
-class RouteQuery(BaseModel):
-    """Routes the user's query to the appropriate workflow."""
-    route: Literal["COMPLEX", "SIMPLE", "CONVERSATIONAL"] = Field(
-        description="The workflow to route the query to based on its nature."
+class QueryAnalysis(BaseModel):
+    """Analysis of user query with confidence scoring."""
+    query_type: Literal["GREETING", "COMPLIANCE", "EXPLORATORY", "CLARIFICATION"] = Field(
+        description="The type of query: GREETING (hello, thanks), COMPLIANCE (specific regulatory question), EXPLORATORY (general browsing), CLARIFICATION (follow-up)"
+    )
+    confidence: float = Field(
+        description="Confidence in understanding the query (0.0-1.0)"
+    )
+    should_retrieve: bool = Field(
+        description="Whether this query would benefit from document retrieval"
+    )
+    should_converse: bool = Field(
+        description="Whether this query would benefit from conversational response"
+    )
+    key_topics: List[str] = Field(
+        description="Key compliance topics mentioned in the query"
     )
 
-class DecomposedQuestions(BaseModel):
-    """A list of sub-questions decomposed from the user's main query."""
-    questions: List[str] = Field(
-        description="A list of specific, answerable sub-questions that break down the main query."
-    )
-
-class ClarityGrade(BaseModel):
-    """The clarity grade of the user's query."""
-    grade: Literal["CLEAR", "AMBIGUOUS"] = Field(
-        description="The clarity of the query. AMBIGUOUS if it lacks key details, CLEAR if it is specific."
-    )
-
-class Clarification(BaseModel):
-    """A question to ask the user for clarification."""
-    question: str = Field(
-        description="A precise follow-up question to the user to clarify their ambiguous query."
+class ExplorationSuggestions(BaseModel):
+    """Suggestions for further exploration of compliance topics."""
+    suggestions: List[str] = Field(
+        description="List of helpful follow-up questions or topics the user might explore"
     )
 
 
 # --- LLM and Tool Initialization ---
-# We use two LLMs: one for complex reasoning and one for simpler utility tasks.
-# Using .with_structured_output makes the LLM reliably return a Pydantic model.
+# Updated chains for flexible conversation handling
 llm_reasoning = ChatOpenAI(model="gpt-4o", temperature=0, api_key=OPENAI_API_KEY)
-llm_utility = ChatOpenAI(model="gpt-3.5-turbo", temperature=0, api_key=OPENAI_API_KEY) # Cheaper/faster for utility
+llm_utility = ChatOpenAI(model="gpt-3.5-turbo", temperature=0, api_key=OPENAI_API_KEY)
 
-# Structured LLM callers
-route_chain = llm_utility.with_structured_output(RouteQuery)
-decompose_chain = llm_reasoning.with_structured_output(DecomposedQuestions)
-grade_clarity_chain = llm_utility.with_structured_output(ClarityGrade)
-clarification_chain = llm_utility.with_structured_output(Clarification)
+# Structured LLM callers for new flexible approach
+query_analysis_chain = llm_utility.with_structured_output(QueryAnalysis)
+exploration_chain = llm_utility.with_structured_output(ExplorationSuggestions)
 
 
 # --- Graph Nodes ---
 # Each node is a function that takes the state and returns a dictionary to update the state.
+
+# --- Graph Nodes ---
+# Redesigned for natural, flexible conversation flow
 
 def contextualize_query(state: AgentState) -> dict:
     """
@@ -84,204 +87,308 @@ def contextualize_query(state: AgentState) -> dict:
     print("--- NODE: contextualize_query ---")
     if not state.get("chat_history"):
         print("  - No chat history, using original query.")
-        return {"contextualized_query": state["original_query"], "clarification_attempts": 0}
+        return {"contextualized_query": state["original_query"]}
 
     print("  - Rephrasing query based on history.")
     response = llm_reasoning.invoke([
-        SystemMessage(content="You are an expert DFSA/ADGM compliance officer. Your task is to rephrase the latest user question into a standalone, self-contained compliance query based on the preceding chat history."),
-        HumanMessage(content=f"Chat History:\n{state['chat_history']}\n\nLatest User Question: {state['original_query']}")
+        SystemMessage(content="You are an expert DFSA/ADGM compliance officer. Rephrase the latest user question as a standalone compliance query based on chat history."),
+        HumanMessage(content=f"Chat History:\n{state['chat_history']}\n\nLatest Question: {state['original_query']}")
     ])
     
     contextualized = response.content
     print(f"  - Contextualized Query: {contextualized}")
-    return {"contextualized_query": contextualized, "clarification_attempts": 0}
+    return {"contextualized_query": contextualized}
 
 
-def route_query(state: AgentState) -> dict:
+def analyze_query(state: AgentState) -> dict:
     """
-    Routes the query to the appropriate workflow: COMPLEX, SIMPLE, or CONVERSATIONAL.
+    Analyze the query with confidence scoring and flexible routing.
     """
-    print("--- NODE: route_query ---")
-    prompt = [
-        SystemMessage(content="You are an expert compliance officer in DFSA and ADGM. Your task is to classify the user's query into one of three categories: COMPLEX (requires breaking down and deep research), SIMPLE (can be answered directly with a quick search), or CONVERSATIONAL (a greeting or off-topic chat)."),
-        HumanMessage(content=f"Chat History: {state['chat_history']}\n\nUser Query: {state['original_query']}")
-    ]
-    result = route_chain.invoke(prompt)
-    print(f"  - Route decided: {result.route}")
-    return {"route": result.route}
-
-
-def grade_query_clarity(state: AgentState) -> dict:
-    """
-    Assesses whether the query is CLEAR or AMBIGUOUS.
-    """
-    print("--- NODE: grade_query_clarity ---")
-    prompt = [
-        SystemMessage(content="You are an expert compliance assistant. Your task is to assess the clarity of the user's compliance query. A query is AMBIGUOUS if it is vague or missing critical details (like entity type, specific activity, or jurisdiction). A query is CLEAR if it is specific and directly answerable."),
-        HumanMessage(content=f"Assess the following query: {state['contextualized_query']}")
-    ]
-    result = grade_clarity_chain.invoke(prompt)
-    print(f"  - Clarity Grade: {result.grade}")
-    return {"clarity_grade": result.grade}
-
-
-def request_clarification(state: AgentState) -> dict:
-    """
-    If the query is ambiguous, generate a question to ask the user for clarification.
-    """
-    print("--- NODE: request_clarification ---")
-    prompt = [
-        SystemMessage(content="You are an expert compliance assistant. The user has provided an ambiguous query. Your task is to formulate a single, precise follow-up question to get the information needed to provide a complete answer."),
-        HumanMessage(content=f"The ambiguous query is: {state['contextualized_query']}")
-    ]
-    result = clarification_chain.invoke(prompt)
-    print(f"  - Clarification Question: {result.question}")
-    # We also increment the attempt counter here.
-    return {
-        "clarification_question": result.question,
-        "clarification_attempts": state.get("clarification_attempts", 0) + 1
-    }
-
-
-def decompose_query(state: AgentState) -> dict:
-    """
-    Breaks down a complex query into smaller, manageable sub-questions.
-    """
-    print("--- NODE: decompose_query ---")
-    prompt = [
-        SystemMessage(content="You are an expert compliance analyst. Your task is to break down the user's complex compliance goal into a series of specific, answerable sub-questions that can be used for targeted document retrieval."),
-        HumanMessage(content=f"Break down this goal: {state['contextualized_query']}")
-    ]
-    result = decompose_chain.invoke(prompt)
-    print(f"  - Sub-questions: {result.questions}")
-    return {"sub_questions": result.questions}
-
-
-def retrieve_documents(state: AgentState) -> dict:
-    """
-    Retrieves documents based on the sub-questions (for complex queries) or the main query (for simple queries).
+    print("--- NODE: analyze_query ---")
     
-    NOTE: This is a placeholder for your actual retrieval logic using the 'index'.
-    """
-    print("--- NODE: retrieve_documents ---")
-    # This is a mock implementation. Replace with your actual retrieval logic.
-    # from backend.core.ai_service import index
-    # if index is None:
-    #     raise RuntimeError("Retrieval index is unavailable")
+    # First, do a quick heuristic check for obviously non-compliance queries
+    query_lower = state['contextualized_query'].lower()
     
-    questions = state.get("sub_questions") or [state.get("contextualized_query")]
-    print(f"  - Retrieving docs for {len(questions)} question(s).")
+    # Personal/romantic queries
+    personal_indicators = ["darling", "love", "honey", "baby", "sweetheart", "about you", "who are you", "your name", "how are you feeling"]
+    if any(indicator in query_lower for indicator in personal_indicators):
+        print("  - Heuristic: Personal/romantic query detected - conversational only")
+        return {
+            "query_type": "GREETING",
+            "query_confidence": 0.9,
+            "should_retrieve": False,
+            "should_converse": True
+        }
     
-    # Mock documents
-    docs = [
-        Document(page_content=f"This is a mock document about '{q}'. In a real scenario, this would be content from your knowledge base.", metadata={"source": "mock_db"})
-        for q in questions
+    # Small talk/casual queries
+    casual_indicators = ["weather", "time", "date", "joke", "story", "chat", "talk", "hello", "hi", "thanks", "thank you"]
+    if any(indicator in query_lower for indicator in casual_indicators) and len(query_lower.split()) < 6:
+        print("  - Heuristic: Casual query detected - conversational only")
+        return {
+            "query_type": "GREETING", 
+            "query_confidence": 0.9,
+            "should_retrieve": False,
+            "should_converse": True
+        }
+    
+    prompt = [
+        SystemMessage(content="""You are an expert compliance assistant. Analyze the user's query and determine:
+
+1. Query Type:
+   - GREETING: Personal questions, small talk, thanks, hellos
+   - COMPLIANCE: Questions about regulations, rules, requirements, procedures
+   - EXPLORATORY: General questions about compliance topics that might benefit from documents
+   - CLARIFICATION: Follow-up questions about previous compliance discussions
+
+2. Confidence in understanding (0.0-1.0)
+
+3. Should retrieve documents: ONLY if the query relates to specific regulatory content, rules, procedures, or compliance requirements. DO NOT retrieve for:
+   - Personal questions about the assistant
+   - General greetings or thanks  
+   - Casual conversation
+   - Questions that can be answered conversationally
+
+4. Should provide conversational response: Almost always true unless purely technical document lookup
+
+Be conservative with document retrieval - only use it for actual compliance/regulatory questions."""),
+        HumanMessage(content=f"User Query: {state['contextualized_query']}")
     ]
     
-    print(f"  - Retrieved {len(docs)} docs.")
-    return {"retrieved_docs": docs}
-
-
-def synthesize_response(state: AgentState) -> dict:
-    """
-    Synthesizes a final answer to the user based on the retrieved documents.
-    """
-    print("--- NODE: synthesize_response ---")
-    doc_text = "\n---\n".join(d.page_content for d in state.get("retrieved_docs", []))
-    prompt = [
-        SystemMessage(content="You are an expert DFSA/ADGM compliance officer. Your task is to provide a clear, concise, and actionable compliance guidance based *solely* on the provided documents. Do not use any prior knowledge. Cite the source of the information if available."),
-        HumanMessage(content=f"Based on these documents:\n\n{doc_text}\n\nAnswer this query: {state['contextualized_query']}")
-    ]
-    response = llm_reasoning.invoke(prompt)
-    print("  - Synthesized response.")
-    return {"final_response": response.content}
+    try:
+        result = query_analysis_chain.invoke(prompt)
+        print(f"  - Query Type: {result.query_type}")
+        print(f"  - Confidence: {result.confidence}")
+        print(f"  - Should Retrieve: {result.should_retrieve}")
+        print(f"  - Should Converse: {result.should_converse}")
+        
+        return {
+            "query_type": result.query_type,
+            "query_confidence": result.confidence,
+            "should_retrieve": result.should_retrieve,
+            "should_converse": result.should_converse
+        }
+    except Exception as e:
+        print(f"  - Error in analysis, using fallback: {e}")
+        # More conservative fallback - default to conversation only unless clearly compliance-related
+        compliance_keywords = ["regulation", "rule", "requirement", "compliance", "dfsa", "adgm", "difc", "license", "capital", "aml", "fund"]
+        is_compliance = any(keyword in query_lower for keyword in compliance_keywords)
+        
+        return {
+            "query_type": "COMPLIANCE" if is_compliance else "GREETING",
+            "query_confidence": 0.5,
+            "should_retrieve": is_compliance,
+            "should_converse": True
+        }
 
 
 def generate_conversational_response(state: AgentState) -> dict:
     """
-    Generates a simple conversational response for non-compliance-related queries.
+    Generate a natural, helpful conversational response.
     """
     print("--- NODE: generate_conversational_response ---")
-    response = llm_utility.invoke(state["chat_history"] + [HumanMessage(content=state["original_query"])])
-    return {"final_response": response.content}
+    try:
+        messages = state.get("chat_history", []) + [HumanMessage(content=state.get("original_query", ""))]
+        
+        system_prompt = """You are a friendly, knowledgeable compliance assistant for DIFC and ADGM regulations. 
+Be conversational, helpful, and encouraging. If the user is exploring or learning, guide them naturally. 
+If they're asking specific compliance questions, acknowledge that while being personable."""
+        
+        response = llm_utility.invoke([SystemMessage(content=system_prompt)] + messages)
+        print(f"  - Generated conversational response")
+        
+        return {"conversational_response": response.content}
+    except Exception as e:
+        print(f"  - Error generating conversational response: {e}")
+        return {"conversational_response": "I'm here to help with your compliance questions! What would you like to know?"}
+
+
+def retrieve_documents(state: AgentState) -> dict:
+    """
+    Retrieve relevant documents if beneficial.
+    """
+    print("--- NODE: retrieve_documents ---")
+    
+    if not state.get("should_retrieve", False):
+        print("  - Skipping retrieval based on analysis")
+        return {"retrieved_docs": []}
+    
+    try:
+        from backend.core.ai_service import index
+        if index is None:
+            print("  - Index unavailable, skipping retrieval")
+            return {"retrieved_docs": []}
+
+        jurisdiction = state.get("jurisdiction")
+        query = state.get("contextualized_query", "")
+        
+        print(f"  - Retrieving docs for: '{query}' in {jurisdiction}")
+        
+        # Use query engine instead of retriever for better results
+        query_engine = index.as_query_engine(
+            similarity_top_k=3,
+            mode="hybrid"
+        )
+        
+        response = query_engine.query(query)
+        retrieved_docs = []
+        
+        for node in getattr(response, "source_nodes", []):
+            content = getattr(node.node, "get_content", lambda: None)()
+            metadata = getattr(node.node, "metadata", {})
+            if content and jurisdiction.upper() in metadata.get("jurisdiction", "").upper():
+                retrieved_docs.append(Document(page_content=content, metadata=metadata))
+        
+        print(f"  - Retrieved {len(retrieved_docs)} relevant documents")
+        return {"retrieved_docs": retrieved_docs}
+        
+    except Exception as e:
+        print(f"  - Error retrieving documents: {e}")
+        return {"retrieved_docs": []}
+
+
+def synthesize_response(state: AgentState) -> dict:
+    """
+    Create a natural hybrid response combining conversation and compliance info.
+    """
+    print("--- NODE: synthesize_response ---")
+    
+    conversational = state.get("conversational_response", "")
+    docs = state.get("retrieved_docs", [])
+    query_type = state.get("query_type", "COMPLIANCE")
+    should_retrieve = state.get("should_retrieve", False)
+    
+    # For greetings without conversational response, generate one now
+    if query_type == "GREETING" and not conversational:
+        print("  - Generating conversational response for greeting")
+        try:
+            messages = state.get("chat_history", []) + [HumanMessage(content=state.get("original_query", ""))]
+            system_prompt = """You are a friendly, knowledgeable compliance assistant for DIFC and ADGM regulations. 
+Respond naturally to greetings, thanks, and personal questions. Be warm but professional."""
+            
+            response = llm_utility.invoke([SystemMessage(content=system_prompt)] + messages)
+            conversational = response.content
+        except Exception as e:
+            print(f"  - Error generating conversational response: {e}")
+            conversational = "Hello! I'm here to help with your DIFC and ADGM compliance questions. What would you like to know?"
+    
+    # For pure greetings, just return conversational response
+    if query_type == "GREETING" and not should_retrieve:
+        return {
+            "final_response": conversational,
+            "final_response_with_sources": {"answer": conversational, "sources": []}
+        }
+    
+    # If we have both conversation and docs, create a hybrid response
+    if conversational and docs:
+        doc_context = "\n---\n".join([
+            f"Source: {d.metadata.get('file_name', 'Unknown')}\nContent: {d.page_content}" 
+            for d in docs[:3]  # Limit to top 3 docs
+        ])
+        
+        prompt = [
+            SystemMessage(content="""You are a compliance expert. Create a natural response that:
+1. Starts conversationally and acknowledges the user's question
+2. Provides specific regulatory guidance from the documents
+3. Uses inline citations [Source: filename] when referencing documents
+4. Ends helpfully, offering to explore more if relevant
+
+Be natural and flowing, not robotic."""),
+            HumanMessage(content=f"User Question: {state['contextualized_query']}\n\nConversational Context: {conversational}\n\nRegulatory Documents:\n{doc_context}")
+        ]
+        
+        try:
+            response = llm_reasoning.invoke(prompt)
+            final_answer = response.content
+        except Exception as e:
+            print(f"  - Error synthesizing, using fallback: {e}")
+            final_answer = f"{conversational}\n\nI also found some relevant regulatory information that might help."
+            
+    elif docs:
+        # Only compliance info available
+        doc_context = "\n---\n".join([f"Source: {d.metadata.get('file_name', 'Unknown')}\nContent: {d.page_content}" for d in docs])
+        prompt = [
+            SystemMessage(content="Provide helpful compliance guidance based on these documents. Use inline citations [Source: filename]."),
+            HumanMessage(content=f"Question: {state['contextualized_query']}\n\nDocuments:\n{doc_context}")
+        ]
+        try:
+            response = llm_reasoning.invoke(prompt)
+            final_answer = response.content
+        except Exception as e:
+            final_answer = "I found some relevant information but encountered an error processing it."
+    else:
+        # Only conversational available or fallback
+        final_answer = conversational or "I'm here to help with compliance questions. What would you like to know?"
+    
+    print("  - Synthesized hybrid response")
+    return {
+        "final_response": final_answer,
+        "final_response_with_sources": {"answer": final_answer, "sources": docs}
+    }
 
 
 # --- Conditional Edges ---
-# These functions determine the next step in the graph based on the current state.
+# Simplified decision making for natural flow
 
-def decide_clarity_path(state: AgentState) -> Literal["request_clarification", "continue_to_route"]:
+def decide_next_steps(state: AgentState) -> Literal["conversational_only", "retrieval_and_conversation", "synthesis"]:
     """
-    If the query is ambiguous and we haven't tried clarifying too many times, ask for clarification.
-    Otherwise, continue the main workflow.
+    Decide what to do based on query analysis.
     """
-    print("--- CONDITIONAL: decide_clarity_path ---")
-    if state.get("clarity_grade") == "AMBIGUOUS" and state.get("clarification_attempts", 0) < 2:
-        print("  - Decision: Query is AMBIGUOUS. Requesting clarification.")
-        return "request_clarification"
-    print("  - Decision: Query is CLEAR or max retries reached. Continuing.")
-    return "continue_to_route"
+    print("--- CONDITIONAL: decide_next_steps ---")
+    
+    should_retrieve = state.get("should_retrieve", True)
+    should_converse = state.get("should_converse", True)
+    query_type = state.get("query_type", "COMPLIANCE")
+    
+    # For greetings and personal queries, only conversational response
+    if query_type == "GREETING" or not should_retrieve:
+        print("  - Decision: Conversational only (no document retrieval needed)")
+        return "conversational_only"
+    # For compliance queries that need both conversation and documents
+    elif should_retrieve and should_converse:
+        print("  - Decision: Hybrid approach - retrieve documents and converse")
+        return "retrieval_and_conversation"  
+    # For pure document lookup (rare)
+    elif should_retrieve and not should_converse:
+        print("  - Decision: Document retrieval only")
+        return "synthesis"
+    else:
+        print("  - Decision: Fallback to conversational")
+        return "conversational_only"
 
-
-def decide_main_workflow(state: AgentState) -> Literal["decompose_query", "retrieve_documents", "generate_conversational_response"]:
-    """
-    Directs the flow based on the 'route' determined earlier.
-    """
-    print("--- CONDITIONAL: decide_main_workflow ---")
-    route = state.get("route")
-    print(f"  - Decision: Routing to '{route}' workflow.")
-    if route == "CONVERSATIONAL":
-        return "generate_conversational_response"
-    if route == "COMPLEX":
-        return "decompose_query"
-    # If SIMPLE
-    return "retrieve_documents"
 
 # --- Assemble Graph ---
+# New simplified, flexible workflow
 workflow = StateGraph(AgentState)
 
-# Add nodes
+# Add nodes for new approach
 workflow.add_node("contextualize_query", contextualize_query)
-workflow.add_node("grade_query_clarity", grade_query_clarity)
-workflow.add_node("request_clarification", request_clarification)
-workflow.add_node("route_query", route_query)
-workflow.add_node("decompose_query", decompose_query)
+workflow.add_node("analyze_query", analyze_query)
+workflow.add_node("generate_conversational_response", generate_conversational_response)
 workflow.add_node("retrieve_documents", retrieve_documents)
 workflow.add_node("synthesize_response", synthesize_response)
-workflow.add_node("generate_conversational_response", generate_conversational_response)
 
-# Define the flow
+# Define the flow - much simpler and more natural
 workflow.set_entry_point("contextualize_query")
 
-workflow.add_edge("contextualize_query", "grade_query_clarity")
+workflow.add_edge("contextualize_query", "analyze_query")
 
-# Add the first conditional branch for clarity
+# Route based on analysis
 workflow.add_conditional_edges(
-    "grade_query_clarity",
-    decide_clarity_path,
+    "analyze_query",
+    decide_next_steps,
     {
-        "request_clarification": "request_clarification",
-        "continue_to_route": "route_query",
-    },
-)
-# This edge creates the clarification loop. The conditional logic prevents it from being infinite.
-workflow.add_edge("request_clarification", END) # In a real app, you'd wait for user input here. For now, it ends.
-
-workflow.add_conditional_edges(
-    "route_query",
-    decide_main_workflow,
-    {
-        "decompose_query": "decompose_query",
-        "retrieve_documents": "retrieve_documents",
-        "generate_conversational_response": "generate_conversational_response",
+        "conversational_only": "synthesize_response",  # Skip retrieval, go straight to synthesis
+        "retrieval_and_conversation": "generate_conversational_response", 
+        "synthesis": "retrieve_documents"  # Pure document lookup
     },
 )
 
-workflow.add_edge("decompose_query", "retrieve_documents")
+# For hybrid approach, go: conversation -> retrieval -> synthesis
+workflow.add_edge("generate_conversational_response", "retrieve_documents")
 workflow.add_edge("retrieve_documents", "synthesize_response")
 
-# All final nodes lead to the end
+# All paths end at synthesis
 workflow.add_edge("synthesize_response", END)
-workflow.add_edge("generate_conversational_response", END)
 
 
 # Compile the graph

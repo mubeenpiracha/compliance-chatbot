@@ -2,11 +2,9 @@
 import React from 'react';
 import { User, Bot } from 'lucide-react'; // Import icons
 
-// This component receives 'message' as a prop.
-// A prop is just data passed from a parent component.
-// Learn more about props: https://react.dev/learn/passing-props-to-a-component
-function Message({ message }) {
-  const isUser = message.sender === 'user';
+// This component receives 'sender' and 'text' as props.
+function Message({ sender, text }) {
+  const isUser = sender === 'user';
 
   return (
     <div className={`flex items-start gap-4 my-4 ${isUser ? 'justify-end' : ''}`}>
@@ -23,7 +21,7 @@ function Message({ message }) {
             : 'bg-gray-700 rounded-bl-none'
         }`}
       >
-        <p className="text-white">{message.text}</p>
+        <p className="text-white">{text}</p>
       </div>
     </div>
   );

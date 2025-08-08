@@ -1,6 +1,7 @@
 // frontend/src/components/ChatInterface.jsx
 import React, { useState, useEffect, useRef } from 'react';
 import Message from './Message';
+import Citation from './Citation'; // Import the Citation component
 import { Send, Loader } from 'lucide-react';
 import axios from 'axios';
 
@@ -9,19 +10,15 @@ function ChatInterface() {
     { sender: 'ai', text: 'Hello! How can I help you with DIFC or ADGM regulations today?' }
   ]);
   const [inputValue, setInputValue] = useState('');
-  // New state to track when the AI is "thinking"
   const [isLoading, setIsLoading] = useState(false);
-  const [jurisdiction, setJurisdiction] = useState('DIFC')
+  const [jurisdiction, setJurisdiction] = useState('DIFC');
 
-  // A ref to the message container div
   const messagesEndRef = useRef(null);
 
-  // This function scrolls the message container to the bottom
   const scrollToBottom = () => {
     messagesEndRef.current?.scrollIntoView({ behavior: "smooth" });
   };
 
-  // Scroll to bottom whenever messages change
   useEffect(() => {
     scrollToBottom();
   }, [messages]);
@@ -31,27 +28,75 @@ function ChatInterface() {
     if (inputValue.trim() === '' || isLoading) return;
 
     const userMessage = { sender: 'user', text: inputValue };
-    const newMessages = [...messages, userMessage]
-    // Add user message to the list and set loading state to true
+    const newMessages = [...messages, userMessage];
     setMessages(newMessages);
     setIsLoading(true);
     setInputValue('');
 
     try {
-      // Send the new message, jurisdiction, and the history (excluding the latest user message)
+      // Only send valid history messages to backend
+      const validHistory = messages.slice(1).filter(msg => msg.sender && typeof msg.text === 'string');
       const response = await axios.post('http://localhost:8000/api/v1/chat', {
         message: userMessage.text,
         jurisdiction: jurisdiction,
-        history: messages // Send the history *before* the new user message
+        history: validHistory
       });
 
-      setMessages(prev => [...prev, response.data]);
+      // Log the raw backend response for debugging
+      console.log('AI backend response:', response.data);
+
+      // Fallback: If response is missing expected fields, show raw JSON
+      let aiResponse;
+      if (typeof response.data === 'object' && response.data !== null) {
+        aiResponse = {
+          sender: 'ai',
+          text: response.data.answer || response.data.text || JSON.stringify(response.data),
+          sources: response.data.sources || []
+        };
+      } else {
+        aiResponse = {
+          sender: 'ai',
+          text: String(response.data),
+          sources: []
+        };
+      }
+
+      console.log('Final aiResponse:', aiResponse);
+
+      setMessages(prev => [...prev, aiResponse]);
     } catch (error) {
-      // ... (error handling is the same) ...
+      console.error("Error sending message:", error);
+      const errorMessage = { sender: 'ai', text: 'Sorry, I encountered an error. Please try again.' };
+      setMessages(prev => [...prev, errorMessage]);
     } finally {
       setIsLoading(false);
     }
   };
+
+  // A function to parse the message text and render citations
+  const renderMessageText = (message) => {
+    if (message.sender === 'user' || !message.sources || message.sources.length === 0) {
+      return message.text;
+    }
+
+    const parts = message.text.split(/(\s\[Source: [^\]]+\])/g);
+
+    return parts.map((part, index) => {
+      const match = part.match(/\s\[Source: (.*?)\]/);
+      if (match) {
+        const sourceName = match[1];
+        const relevantChunks = message.sources
+          .filter(s => s.metadata && s.metadata.file_name === sourceName)
+          .map(s => s.page_content);
+
+        if (relevantChunks.length > 0) {
+          return <Citation key={index} source={sourceName} chunks={relevantChunks} />;
+        }
+      }
+      return part;
+    });
+  };
+
 
   return (
      <div className="flex flex-col h-[90vh] w-full max-w-4xl mx-auto bg-gray-800 rounded-lg shadow-xl">
@@ -63,7 +108,7 @@ function ChatInterface() {
             <button
               key={j}
               onClick={() => setJurisdiction(j)}
-              className={`px-3 py-1 text-sm font-semibold rounded-md transition-colors ${
+              className={`px-3 py-1 text-sm font-semibold rounded-md transition-colors ${ 
                 jurisdiction === j
                   ? 'bg-cyan-600 text-white'
                   : 'bg-gray-700 text-gray-300 hover:bg-gray-600'
@@ -77,7 +122,7 @@ function ChatInterface() {
       {/* Message Display Area */}
       <div className="flex-grow p-6 overflow-y-auto">
         {messages.map((msg, index) => (
-          <Message key={index} message={msg} />
+          <Message key={index} sender={msg.sender} text={renderMessageText(msg)} />
         ))}
         {/* Show a loading indicator while waiting for AI response */}
         {isLoading && (
@@ -121,3 +166,4 @@ function ChatInterface() {
 }
 
 export default ChatInterface;
+

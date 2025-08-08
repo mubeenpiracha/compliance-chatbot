@@ -1,6 +1,6 @@
 # backend/schemas/chat.py
 from pydantic import BaseModel
-from typing import List, Dict, Any
+from typing import List, Dict, Any, Optional
 
 class ChatRequest(BaseModel):
     message: str
@@ -10,3 +10,4 @@ class ChatRequest(BaseModel):
 class ChatResponse(BaseModel):
     sender: str
     text: str
+    sources: Optional[List[Dict[str, Any]]] = []

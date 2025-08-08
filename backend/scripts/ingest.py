@@ -4,6 +4,7 @@ import sys
 import time
 from pinecone import Pinecone, ServerlessSpec
 from llama_index.core import VectorStoreIndex, SimpleDirectoryReader, StorageContext
+from llama_index.readers.file import UnstructuredReader
 from llama_index.vector_stores.pinecone import PineconeVectorStore
 from llama_index.core.node_parser import SentenceSplitter
 from llama_index.core.settings import Settings
@@ -45,8 +46,18 @@ def run_ingestion():
 
     pinecone_index = pc.Index(index_name)
     vector_store = PineconeVectorStore(pinecone_index=pinecone_index)
-    difc_docs = SimpleDirectoryReader("./backend/data/difc").load_data()
-    adgm_docs = SimpleDirectoryReader("./backend/data/adgm").load_data()
+    
+    # Use UnstructuredReader for parsing PDFs, which is better for tables and images
+    unstructured_reader = UnstructuredReader()
+    file_extractor = {".pdf": unstructured_reader}
+
+    print("Loading documents from DIFC and ADGM directories...")
+    difc_docs = SimpleDirectoryReader(
+        "./backend/data/difc", file_extractor=file_extractor
+    ).load_data()
+    adgm_docs = SimpleDirectoryReader(
+        "./backend/data/adgm", file_extractor=file_extractor
+    ).load_data()
 
     # Add jurisdiction metadata to each document
     for doc in difc_docs:
@@ -56,6 +67,11 @@ def run_ingestion():
 
     # Combine documents from both jurisdictions
     documents = difc_docs + adgm_docs
+
+    # Add a document ID to each document from its hash
+    for doc in documents:
+        doc.id_ = doc.hash
+        doc.metadata["document_id"] = doc.hash
 
     if not documents:
         print("No documents found in the specified directories. Exiting.")
@@ -67,7 +83,7 @@ def run_ingestion():
     print("Configuring LlamaIndex settings...")
     Settings.node_parser = SentenceSplitter(chunk_size=512, chunk_overlap=20)
     Settings.embed_model = OpenAIEmbedding(
-        model="text-embedding-3-small", 
+        model="text-embedding-3-large", 
         api_key=OPENAI_API_KEY,
         dimensions=pinecone_dimension 
     )

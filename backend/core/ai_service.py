@@ -38,7 +38,7 @@ def initialize_ai_service():
     index = VectorStoreIndex.from_vector_store(vector_store)
     print("AI Service Initialized (Index loaded and graph agent ready).")
 
-def get_ai_response(user_message: str, history: list, jurisdiction: str) -> str:
+def get_ai_response(user_message: str, history: list, jurisdiction: str) -> dict:
     """
     Gets a response from the AI agent.
 
@@ -46,7 +46,7 @@ def get_ai_response(user_message: str, history: list, jurisdiction: str) -> str:
     initial state and then calls the compiled graph.
     """
     if index is None:
-        return "Error: AI Service Index is not initialized."
+        return {"answer": "Error: AI Service Index is not initialized.", "sources": []}
 
     print(f"--- Invoking Graph Agent for jurisdiction: {jurisdiction} ---")
 
@@ -65,12 +65,16 @@ def get_ai_response(user_message: str, history: list, jurisdiction: str) -> str:
         "chat_history": chat_history,
         # The rest of the fields will be populated by the graph nodes
         "contextualized_query": "",
-        "clarity_grade": "",
-        "sub_questions": [],
+        "query_confidence": 0.0,
+        "query_type": "COMPLIANCE",
         "retrieved_docs": [],
+        "conversational_response": "",
+        "compliance_response": "",
         "final_response": "",
-        "route": "",
-        "clarification_question": ""
+        "final_response_with_sources": {},
+        "should_retrieve": True,
+        "should_converse": True,
+        "exploration_suggestions": []
     }
 
     # 3. Invoke the agent graph
@@ -80,18 +84,18 @@ def get_ai_response(user_message: str, history: list, jurisdiction: str) -> str:
         final_state = agent.invoke(initial_state)
 
         # 4. Determine the response based on the final state
-        if final_state.get("clarification_question"):
-            return final_state["clarification_question"]
+        if final_state.get("final_response_with_sources"):
+            return final_state["final_response_with_sources"]
         elif final_state.get("final_response"):
-            return final_state["final_response"]
+            return {"answer": final_state["final_response"], "sources": final_state.get("retrieved_docs", [])}
         else:
-            return "I'm sorry, I encountered an issue and couldn't process your request."
+            return {"answer": "I'm sorry, I encountered an issue and couldn't process your request.", "sources": []}
 
     except Exception as e:
         print(f"An error occurred during graph execution: {e}")
         # Provide a more detailed error for debugging if possible
         import traceback
         traceback.print_exc()
-        return "Sorry, I encountered a critical error while processing your request."
+        return {"answer": "Sorry, I encountered a critical error while processing your request.", "sources": []}
 
 initialize_ai_service()

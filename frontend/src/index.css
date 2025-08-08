@@ -5,4 +5,23 @@
 
 @tailwind base; 
 @tailwind components; 
-@tailwind utilities; 
+@tailwind utilities;
+
+/* Custom scrollbar for citation tooltips */
+.citation-tooltip::-webkit-scrollbar {
+  width: 6px;
+}
+
+.citation-tooltip::-webkit-scrollbar-track {
+  background: #f3f4f6;
+  border-radius: 3px;
+}
+
+.citation-tooltip::-webkit-scrollbar-thumb {
+  background: #d1d5db;
+  border-radius: 3px;
+}
+
+.citation-tooltip::-webkit-scrollbar-thumb:hover {
+  background: #9ca3af;
+}
