@@ -9,7 +9,7 @@ from typing import Dict, Any, List
 # Add backend to path
 sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
 
-from backend.core.enhanced_ai_service_v2 import EnhancedAIServiceV2
+from backend.core.enhanced_ai_service import EnhancedAIService
 from backend.core.vector_service import VectorService
 from backend.core.config import OPENAI_API_KEY, PINECONE_API_KEY
 
@@ -66,7 +66,7 @@ async def test_enhanced_service_with_real_services():
         ]
         
         # Create service with real API key
-        service = EnhancedAIServiceV2(
+        service = EnhancedAIService(
             openai_api_key=OPENAI_API_KEY,
             vector_service=vector_service,
             document_corpus=document_corpus
