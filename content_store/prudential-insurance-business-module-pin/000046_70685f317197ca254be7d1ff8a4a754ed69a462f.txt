@@ -1,0 +1,137 @@
+abilities on the adequacy of the Insurer’s reinsurance arrangements, and any implications for the capacity of the Insurer to meet its future policyholder obligations.
+
+Procedures for assessing the credit standing of reinsurance counterparties may include the following:
+
+64
+
+PIN/VER18/04-23
+
+PRUDENTIAL – INSURANCE BUSINESS (PIN)
+
+a.
+
+establishment of a security committee with a specific brief to undertake the procedures;
+
+b.
+
+obtaining appropriate advice from reinsurance brokers;
+
+c.
+
+review of ratings published by ratings agencies;
+
+d.
+
+monitoring of key performance indicators in reinsurers’ published reports; and
+
+e.
+
+consideration of general conditions in the relevant reinsurance market.
+
+A2.15 Group risk
+
+Guidance
+
+1.
+
+The senior management of an Insurer remain responsible for its regulatory compliance, including in any areas that are delegated or outsourced to other Group members.
+
+2.
+
+The overall governance, high-level controls and reporting lines within the Group should be clear so far as they affect the Insurer. An Insurer should not, for example, be subject to material control or influence from other Group members that is exercised through informal or undocumented channels.
+
+3.
+
+Reliance upon functions performed at a Group level (for example, Group risk management, capital planning, liquidity and compliance) should be subject to approval and monitoring by senior management of the Insurer.
+
+4. Where an Insurer relies upon functions that are performed at a Group level the protocols for the performance of those functions should be clear.
+
+5.
+
+Senior management should establish and maintain systems and controls to identify and monitor the effect on the Insurer of its relationship with other members of the Group and the activities of other members of its Group. These systems and controls should include procedures to monitor the following matters:
+
+a.
+
+changes in relationships between Group members;
+
+b.
+
+changes in the activities of Group members;
+
+c.
+
+conflicts of interest arising within the Group; and
+
+d.
+
+events in the Group, particularly those that may affect the Insurer’s own regulatory compliance (for example, failures of control or compliance in other Group members).
+
+6.
+
+The Insurer should have in place procedures to insulate the Insurer, so far as practicable, from potentially adverse effects of Group activities (for example, transfer pricing or fronting) or Group events that may expose the Insurer to risk. Such procedures could include requirements for transactions with Group members to be at arm’s length, and for maintenance of ‘Chinese walls’, and development of contingency plans.
+
+7.
+
+Senior management should take reasonable steps to ensure that:
+
+a.
+
+relevant Group members are aware of the Insurer’s Group risk management and reporting obligations;
+
+b.
+
+Group capital and Group risk reporting requirements are complied with; and
+
+c.
+
+information in respect of the Group provided to the DFSA is of appropriate quality.
+
+65
+
+PIN/VER18/04-23
+
+PRUDENTIAL – INSURANCE BUSINESS (PIN)
+
+APP3 CALCULATION OF ADJUSTED CAPITAL RESOURCES
+
+A3.1 Purpose and general provisions
+
+A3.1.1 This appendix applies to all Insurers to which section 4.3 applies.
+
+Guidance
+
+1.
+
+This appendix sets out the manner in which an Insurer that is not a Protected Cell Company is required to calculate its Adjusted Capital Resources. The equivalent provisions for Insurers that are Protected Cell Companies are set out in App5.
+
+2.
+
+The Adjusted Capital Resources are calculated by making adjustments to the Insurer’s equity as at the Solvency Reference Date.
+
+A3.2 Adjusted capital resources
+
+A3.2.1 An Insurer must calculate its Adjusted Capital Resources according to the formula:
+
+ACR = AE – HCA
+
+where:
+
+ACR means the Insurer’s Adjusted Capital Resources;
+
+AE means the Insurer’s adjusted equity; and
+
+HCA means the Insurer’s hybrid capital adjustment.
+
+A3.2.2 Adjusted equity is calculated as set out in section A3.4. The hybrid capital
+
+adjustment is set out in section A3.5.
+
+A3.3 Base capital
+
+Guidance
+
+The commencement point for calculating an Insurer’s adjusted equity is the Insurer’s base capital.
+
+A3.3.1 Subject to Rules A3.3.2, A3.3.3 and A3.3.4, an Insurer’s base capital consists of the
+
+following capital instruments and equity

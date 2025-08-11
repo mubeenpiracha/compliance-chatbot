@@ -1,0 +1,115 @@
+, include criteria related to:
+
+(a) the fitness and propriety of the person; and
+
+(b) its resources and arrangements for complying with Anti-Money
+
+Laundering Legislation.
+
+(2)
+
+The DFSA may make Rules providing that certain types of person may not be granted DNFBP registration.
+
+71C. Application for Registration
+
+(1)
+
+A person may apply in the prescribed form to the DFSA to be registered as a DNFBP.
+
+(2)
+
+The DFSA may require the applicant to provide additional information or documents reasonably required for the DFSA to be able to determine the application including, but not limited to, information or documents relating to its activities, ownership, group structure, financial and other resources.
+
+51
+
+(3)
+
+If at any time between filing an application and the grant or refusal of a DNFBP registration the applicant becomes aware of a material change reasonably likely to be relevant to the application, it shall inform the DFSA in writing of the change without delay.
+
+71D. Grant of an Application
+
+(1)
+
+The DFSA may grant an application for DNFBP registration if it is satisfied that the applicant meets the criteria for registration under Article 71B.
+
+(2)
+
+When the DFSA decides to register a DNFBP, it shall as soon as practicable inform the applicant and the DIFC Registrar of Companies in writing of the decision and of the date on which registration is to take effect.
+
+71E. Refusal of an Application
+
+(1)
+
+The DFSA may refuse to grant an application for DNFBP registration if it is not satisfied that the applicant meets the criteria for registration under Article 71B.
+
+(2)
+
+The procedures in Schedule 3 apply to a decision of the DFSA under (1).
+
+(3)
+
+If the DFSA decides to exercise its power under (1), the applicant may refer the matter to the FMT for review.
+
+(4)
+
+The DFSA must as soon as practicable notify the DIFC Registrar of Companies if it refuses to grant an application for DNFBP registration.
+
+71F. Suspension and withdrawal of DNFBP Registration
+
+(1)
+
+The DFSA may suspend the registration of a DNFBP at the request of the DNFBP or on its own initiative.
+
+(2)
+
+The DFSA may withdraw the registration of a DNFBP:
+
+(a) at the request of the DNFBP;
+
+(b) if the DIFC Registrar of Companies notifies it that the DNFBP no longer
+
+holds the relevant commercial licence to operate in the DIFC; or
+
+(c) on its own initiative.
+
+(3)
+
+The DFSA may exercise its power on its own initiative under (1) or (2)(c) if:
+
+(a) the DNFBP no longer meets the criteria for DNFBP registration;
+
+(b) the DNFBP is in breach of, or has been in breach of, the Law or Rules or
+
+other Anti-Money Laundering Legislation;
+
+52
+
+(c) the DNFBP is insolvent or entering into administration;
+
+(d) the DNFBP is no longer carrying on business in the DIFC; or
+
+(e) the DFSA considers that exercising the power is necessary or desirable in the pursuit of its anti-money laundering objective in Article 8(3A).
+
+(4)
+
+The procedures in Schedule 3 apply to a decision of the DFSA under this Article to suspend or withdraw registration of a DNFBP on its own initiative.
+
+(5)
+
+If the DFSA decides to exercise its power under this Article to suspend or withdraw registration of a DNFBP on its own initiative, the DNFBP may refer the matter to the FMT for review.
+
+71G. Co-ordination between DFSA and Registrar of Companies
+
+(1)
+
+The DIFC Registrar of Companies shall not grant a person who is a DNFBP a commercial licence to operate in the DIFC until the DFSA has confirmed to the Registrar that it intends to register the person as a DNFBP.
+
+(2)
+
+The DFSA shall as soon as practicable notify the DIFC Registrar of Companies if it suspends or withdraws the registration of a DNFBP.
+
+(3)
+
+The DIFC Registrar of Companies shall as soon as practicable suspend or withdraw (as the case may be) the commercial licence of the DNFBP if it receives a notification under (2).
+
+72

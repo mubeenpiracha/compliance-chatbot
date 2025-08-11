@@ -1,0 +1,87 @@
+ to whom the Personal Data has been disclosed, unless this proves impossible or involves disproportionate effort (having regard to the number of Data Subjects, the age of the data and any appropriate safeguards adopted).
+
+(2) The Controller must inform the Data Subject about the Recipients referred to in section
+
+17(1), if the Data Subject requests it.
+
+18. Right to data portability
+
+(1) The Data Subject has the right to receive the Personal Data that is held by, or on behalf of, the Controller concerning them, which they have provided to a Controller, in a structured, commonly used and machine-readable format and has the right to transmit that data to another Controller without hindrance from the Controller to which the Personal Data has been provided, where:
+
+(a)
+
+the Processing is based on Consent pursuant to section 5(1)(a) or 7(2)(a) or on a contract pursuant to section 5(1)(b); and
+
+(b)
+
+the Processing is carried out by automated means.
+
+(2) A Data Subject has the right to have the Personal Data transmitted directly from one
+
+Controller to another, where technically feasible.
+
+20
+
+(3) Section 18(1) does not apply to any Processing that is carried out in reliance on section
+
+5(1)(e).
+
+(4) The right in section 18(1) must not adversely affect the rights of others.
+
+19. Right to object
+
+(1) A Data Subject has the right to object at any time, on grounds relating to their particular situation, to the Processing of their Personal Data, which is based on sections 5(1)(e) and 5(1)(f), including Profiling based on those provisions.
+
+(2) Where the Data Subject objects to the Processing of their Personal Data, the Controller
+
+must not Process the Personal Data unless the Controller reasonably considers that:
+
+(a)
+
+there are legitimate grounds for the Processing which override the interests or rights of the Data Subject; or
+
+(b)
+
+the Processing is necessary for the establishment, exercise or defence of legal claims.
+
+(3) Where Personal Data is Processed for direct marketing purposes, the Data Subject has the right to object at any time to the Processing, including Profiling, of their Personal Data for such direct marketing purposes.
+
+(4) Where the Data Subject objects to Processing for direct marketing purposes, the
+
+Personal Data must not be Processed for such purposes.
+
+(5) Where Personal Data is Processed for Archiving and Research Purposes the Data Subject has the right to object to Processing of their Personal Data, unless the Processing is necessary for the performance of a task carried out for reasons of public interest.
+
+(6) No later than the time of the first communication with the Data Subject, the right referred to in sections 19(1) and 19(3) must be explicitly brought to the attention of the Data Subject and must be presented clearly and separately from any other information.
+
+20. Automated individual decision-making, including Profiling
+
+(1) The Data Subject has the right not to be subject to a decision based solely on automated Processing, including Profiling, which produces legal effects concerning him or her, or similarly significantly affects him or her.
+
+(2) Section 20(1) does not apply if the decision:
+
+(a)
+
+is necessary for entering into, or performance of, a contract between the Data Subject and a Controller;
+
+(b)
+
+is based on the Data Subject's explicit Consent; or
+
+(c)
+
+(not falling within section 20(2)(a) or 20(2)(b)) is required or authorised by Applicable Law (including for fraud prevention, anti-money laundering and security and integrity purposes) and in respect of which:
+
+21
+
+(i)
+
+the Controller has, as soon as reasonably practicable, notified the Data Subject in writing that a decision has been taken based solely on automated Processing; and
+
+(ii)
+
+the Data Subject has not, before the end of a period of 1 month beginning with the receipt of the notification, requested the Controller to either reconsider the decision or take a new decision that is not based solely on automated decision making.
+
+(3)
+
+In the cases referred to in sections 20(2)(a) and 20(2)(b), the Controller must implement suitable measures to safeguard the Data Subject's rights and legitimate interests, at least the right to obtain human intervention on the part of the Controller, to express his or her

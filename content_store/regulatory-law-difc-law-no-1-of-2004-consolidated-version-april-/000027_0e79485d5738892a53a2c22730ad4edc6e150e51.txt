@@ -1,0 +1,119 @@
+ have occurred prior to the relevant party being notified by the other party or by the DFSA that the agreement has been entered into in breach of the Financial Services Prohibition, the Collective Investment Prohibitions or the Financial Promotions Prohibition.
+
+(3)
+
+If the relevant party chooses not to perform the agreement or, under Article 65(2), recovers money paid or property transferred by him under the agreement, he shall in turn repay any money or property he has received under the agreement.
+
+(4)
+
+The compensation recoverable under Article 65(2)(b) is the amount agreed between the parties to the agreement or, following an application to the Court, the amount determined by the Court.
+
+(5)
+
+If the Court is satisfied that the person:
+
+(a)
+
+carrying on the Financial Service reasonably believed that he was not in breach of the Financial Services Prohibition or the Collective Investment Prohibitions by entering into such agreement; or
+
+(b)
+
+who made the Financial Promotion reasonably believed that he was not in breach of the Financial Promotions Prohibition, or
+
+(c)
+
+who made an agreement as a result of the making by another person of a Financial Promotion which was in breach of the Financial Promotions Prohibition, did not know that the relevant Financial Promotion was in breach of the Financial Promotions Prohibition,
+
+46
+
+and that it is fair and just in the circumstances to make such an order, it may make one or more of the following orders:
+
+(d)
+
+an order that the agreement be enforced between the parties to such extent and under such terms and conditions as the Court sees fit; or
+
+(e)
+
+an order that money paid or property transferred under the agreement be retained or dealt with in accordance with the agreement or in such manner as the Court deems fit.
+
+(6) Where property transferred under the agreement has been transferred to a third party, a reference in Article 65 to such property shall be interpreted as a reference to the value of the property at the time of the transfer under the agreement.
+
+(7)
+
+In Article 65, "agreement" means an agreement, the making or performance of which constitutes, or is part of, the carrying on of a Financial Service.
+
+66.
+
+False or Misleading Information
+
+A person shall not:
+
+(a)
+
+provide information which is false, misleading or deceptive to the DFSA; or
+
+(b)
+
+conceal information where the concealment of such information is likely to mislead or deceive the DFSA.
+
+67. Obligations of Disclosure to the DFSA
+
+(1)
+
+(a)
+
+Subject to Article 67(2), any of the following persons:
+
+(i)
+
+an Authorised Person or DNFBP; or
+
+(ii)
+
+an auditor of any person in sub-paragraph (i);
+
+shall disclose to the DFSA anything which reasonably tends to show a matter specified in paragraph (b):
+
+(b)
+
+The relevant matters for the purposes of (a) are:
+
+(i)
+
+a breach, or likely breach of a provision of the Law or Rules or other legislation administered by the DFSA;
+
+(ii)
+
+a failure, or likely failure, to comply with any obligation to which a person is subject under such legislation; or
+
+(iii)
+
+any other matter as the DFSA may prescribe in Rules;
+
+which may be attributable to the conduct of the person in (a)(i) or its directors, officers, employees or agents.
+
+47
+
+(2)
+
+Article 67(1) shall not apply to the extent that compliance with such requirement would disclose a Privileged Communication.
+
+(3)
+
+A person referred to in Article 67(1)(a) shall establish and implement appropriate systems and internal procedures to enable its compliance, and compliance by its auditor, with Article 67(1).
+
+(4)
+
+Any provision in an agreement between a person referred to in Article 67(1)(a) and a director, officer, employee, agent or auditor is void in so far as it purports to hinder compliance with an obligation under Article 67(1).
+
+(5) Without limiting the application of any other provision of this Law, an auditor does not contravene any duty to which the auditor is subject merely because the auditor gives to the DFSA:
+
+(a)
+
+a notification as required under this Article; or
+
+(b)
+
+any other information or opinion in relation to any such matter;
+
+if the auditor is acting in good faith and reasonably believes that the notification, information or opinion is relevant to any functions of the DF

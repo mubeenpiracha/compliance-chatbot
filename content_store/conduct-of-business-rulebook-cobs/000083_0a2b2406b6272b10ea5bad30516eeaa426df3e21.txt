@@ -1,0 +1,113 @@
+; and
+
+(iii)
+
+in the case of a Payment Account, the means of access to it and authentication of the transaction by the Payer.
+
+19.13.2 (1) Upon receipt of a request for a refund in accordance with Rule 19.13.1 the
+
+Payment Service Provider must either:
+
+(a)
+
+refund the full amount of the Payment Transaction; or
+
+(b)
+
+provide justification for refusing to refund the Payment Transaction, indicating the dispute settlement forum to which the Payer may refer the matter if the Payer does not accept the justification provided.
+
+(2) Any refund or justification for refusing a refund must be provided within ten days of receiving a request for a refund or, where applicable, within ten days of receiving any further information requested under Rule 19.13.1(2).
+
+(3)
+
+If the Payment Service Provider requires further information under Rule 19.13.1(2), it must not dismiss the request for a refund until it has received further information from the Payer.
+
+134
+
+COBS VER19.290725
+
+19.14
+
+Execution of Payment Transactions
+
+Receipt of Payment Orders
+
+19.14.1 (1)
+
+A Payer’s Payment Service Provider must not debit the Payment Account before receipt of a Payment Order.
+
+(2)
+
+If the time of receipt of a Payment Order specified in the Framework Contract or the Single Payment Service Contract does not fall on a day, the Payment Order is deemed to have been received on the first day thereafter.
+
+(3)
+
+The Payment Service Provider may set a cut-off time towards the end of a day after which any Payment Order received will be deemed to have been received on the following day.
+
+Refusal of Payment Orders
+
+19.14.2 (1) Where a Payment Service Provider refuses to execute a Payment Order or to initiate a Payment Transaction, it must notify the Payment Service User at the earliest opportunity in the agreed manner of the refusal, and, if possible, the reasons for such refusal, including, if applicable, the procedure for rectifying any factual errors that led to the refusal.
+
+(2)
+
+For the purposes of Rules 19.21.2 and 19.21.3 a Payment Order of which execution has been refused is deemed not to have been received.
+
+Revocation of a Payment Order
+
+19.14.3 (1)
+
+Subject to (2) to (4), a Payment Service User may not revoke a Payment Order after it has been received by the Payer’s Payment Service Provider.
+
+(2)
+
+In the case of a Payment Transaction initiated by a Payment Initiation Service Provider, or by or through the Payee, the Payer may not revoke the Payment Order after giving consent to the Payment Initiation Service Provider to initiate the Payment Transaction or giving consent to execute the Payment Transaction to the Payee.
+
+(3)
+
+In the case of a Direct Debit, the Payer may not revoke the Payment Order after the end of the day preceding the day agreed for debiting the Money or Fiat- Referenced Token.
+
+(4)
+
+At any time after the time limits for revocation set out in Rules 19.14.3(1) to (3), the Payment Order may only be revoked if the revocation is:
+
+(a)
+
+agreed between the Payment Service User and the relevant Payment Service Provider(s); and
+
+(b)
+
+in the case of a Payment Transaction initiated by or through the Payee, including in the case of a Direct Debit, also agreed with the Payee.
+
+135
+
+COBS VER19.290725
+
+Amounts transferred and amounts received
+
+19.14.4 (1)
+
+Subject to (2), the Payment Service Providers of the Payer and Payee must ensure that the full amount of the Payment Transaction is transferred and that no charges are deducted from the amount transferred.
+
+(2)
+
+The Payee and its Payment Service Provider may agree for the relevant Payment Service Provider to deduct its charges from the amount transferred before crediting it to the Payee provided that the full amount of the Payment Transaction and the amount of the charges are clearly stated in the information provided to the Payee.
+
+19.15
+
+Execution time and Credit Value Date
+
+19.15.1 (1)
+
+Rule 19.15.2 applies where a Payment Transaction:
+
+(a)
+
+is in U.S. Dollars;
+
+(b)
+
+is executed wholly within the UAE in UAE Dirham; or
+
+(c)
+
+involves only one currency conversion

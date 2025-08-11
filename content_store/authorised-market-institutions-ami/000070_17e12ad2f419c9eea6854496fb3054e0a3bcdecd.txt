@@ -1,0 +1,111 @@
+modity Derivative contracts that permit delivery in more than one location should set delivery premiums or discounts consistent with those observed in the underlying physical market. The adequacy of transportation links to and from the delivery point should also be taken into account when setting delivery premiums.
+
+4.
+
+The delivery facilities available can include oil or gas storage facilities, warehouses or elevators for agricultural commodities and bank or vault depositories for precious metals.
+
+5.
+
+An Authorised Market Institution should consider issues relating to the selection of delivery facilities under the contract which include:
+
+a.
+
+the number and total capacity of facilities meeting contract requirements;
+
+114
+
+AMI/VER28/03-25
+
+AUTHORISED MARKET INSTITUTIONS (AMI)
+
+b.
+
+the proportion of such capacity expected to be available for short traders who may wish to make delivery against Commodity Derivative contracts and seasonal changes in such proportions;
+
+c.
+
+the extent to which ownership and control of such facilities is dispersed or concentrated; and
+
+d.
+
+its ability to access necessary information from such facility.
+
+Inspection and certification procedures
+
+A3.2.6 A Commodity Derivative contract must specify applicable inspection or certification procedures for verifying that the delivered commodity meets the quality or grade specified in the contract, which conform to the prevailing practices in the underlying physical market.
+
+Guidance
+
+If the commodity is perishable, the Commodity Derivative contract should specify if there are any limits on the duration of the inspection certificate and the existence of any discounts applicable to deliveries of a given age.
+
+Payment for transportation or storage
+
+A3.2.7 A Commodity Derivative contract must specify:
+
+(a)
+
+the respective responsibilities of the parties to the contract regarding costs associated with transporting the commodity to and from the designated delivery point and any applicable storage costs; and
+
+(b)
+
+how and when title to the commodity transfers, including from any short to long position holder.
+
+Legal enforceability
+
+A3.2.8 A Commodity Derivative contract must, where any one or more of the activities of trading, clearing or settlement under the contract take place in different jurisdictions, contain adequate arrangements to mitigate risks arising from any disparity between governing laws applicable in the relevant jurisdictions.
+
+Guidance
+
+An Authorised Market Institution should, when assessing whether the contractual terms adequately provide for addressing jurisdictional risks, take into account whether the contract:
+
+a.
+
+clearly identifies the different legal requirements applicable in the relevant jurisdictions and any differences, including those relating to the manner in which standard clauses are interpreted; and
+
+b.
+
+the impact such differences may have in dealing with matters such as delivery disputes, and determination of rights in insolvency proceedings; and
+
+c.
+
+contains effective measures to address risk of unenforceability of the contractual terms, particularly those relating to cargos and storage where jurisdictional differences could have a significant impact on the deliverability.
+
+115
+
+AMI/VER28/03-25
+
+AUTHORISED MARKET INSTITUTIONS (AMI)
+
+Default provisions and force majeure
+
+A3.2.9 A Commodity Derivative contract must specify:
+
+(a)
+
+the rights and obligations of the parties to the contract in the event of default by the parties, or in the event of frustration of the contract due to force majeure or other specified event; and
+
+(b)
+
+whether any Clearing House or Exchange guarantees the settlement of the transaction in an event specified in (a), and if so, the manner in which such settlement will occur.
+
+Guidance
+
+1.
+
+An Authorised Market Institution when considering whether a Commodities Derivative contract adequately provides for contract certainty in the event of default or force majeure, should take into account:
+
+a.
+
+whether any collateral provided by the contracting parties would be sufficient to address the replacement risk in the performance of the contract; and
+
+b.
+
+whether there are any monetary consequences attaching to defaulting parties that would act as a disincentive against default.
+
+2.
+
+The contract terms should clearly specify which jurisdictional laws are applicable to the governing law, including where there are any significant variations in the rights and liabilities attaching to the contracting parties for the event that occur in the relevant jurisdiction.
+
+116
+
+AMI/VER28/03-25

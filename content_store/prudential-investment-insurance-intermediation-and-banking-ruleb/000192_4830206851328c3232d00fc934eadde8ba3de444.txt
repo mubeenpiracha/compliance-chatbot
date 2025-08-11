@@ -1,0 +1,193 @@
+ 4.
+
+Credit Quality Grade
+
+4 or 5
+
+6
+
+Unrated
+
+Residual Term to Maturity
+
+More than 6 and up to 24 months
+
+More than 24 months
+
+Any
+
+Any
+
+Any
+
+6 months or less
+
+More than 6 and up to 24 months
+
+More than 24 months
+
+Risk Percentage
+
+1.00%
+
+1.60%
+
+8.00%
+
+12.00%
+
+8.00%
+
+0.25%
+
+1.00%
+
+1.60%
+
+335
+
+PRU VER17.290725
+
+Issuer
+
+Credit Quality Grade
+
+Residual Term to Maturity
+
+Risk Percentage
+
+Other
+
+For Securities which have a high yield to redemption relative to government debt Securities issued in the same country, the Regulator will require the Authorised Person:
+
+4
+
+Any
+
+8% or such other percentage as the Regulator may direct
+
+(a) to apply a higher Specific Risk charge to such instruments; or
+
+(b) to disallow offsetting for the
+
+purpose of defining the extent of General Market Risk between such instruments and any other debt instruments.
+
+5 or 6
+
+Unrated
+
+Any
+
+Any
+
+12% or such other percentage as the Regulator may direct
+
+8% or such other percentage as the Regulator may direct
+
+Guidance
+
+1.
+
+Offsetting is not permitted since differences in coupon rates, liquidity, and call features, for example, signify that prices may diverge in the short run.
+
+2.
+
+The "Other" category will receive the same Specific Risk requirement as a private-sector borrower under the CRCOM, 8%. However, since this may, in certain cases, considerably underestimate the Specific Risk for debt Securities which have a high yield to redemption relative to government debt Securities, the Regulator has the right to apply to such Securities a Specific Risk percentage higher than 8%.
+
+A6.2.14
+
+[Reserved]
+
+General Market Risk
+
+A6.2.15
+
+(1)
+
+Subject to (3), an Authorised Person must calculate its General Market Risk on a currency by currency basis, irrespective of where the individual instruments are physically traded or listed. The calculations for each currency must then be added together to determine the amount of the Authorised Person's General Market Risk requirement.
+
+(2)
+
+An Authorised Person must calculate its General Market Risk requirement for each currency by applying one of the following approaches to all currencies, including to the single maturity ladder derived from the currencies identified under (3):
+
+336
+
+PRU VER17.290725
+
+(a)
+
+the simplified framework set out in Rule A6.2.16;
+
+(b)
+
+the Maturity Method set out in Rule A6.2.17; or
+
+(c)
+
+with the consent of the Regulator, the Duration Method set out in Rule A6.2.19.
+
+(3)
+
+For currencies in which business is not material, separate maturity ladders for each currency are not required, and the Authorised Person must calculate its General Market Risk requirement by constructing a single maturity ladder and slot, within each appropriate time-band, the net long or short position for each of those currencies after converting them into US $s.
+
+Simplified framework
+
+A6.2.16
+
+In applying the simplified framework, an Authorised Person must calculate its General Market Risk requirement for each currency by taking the following steps:
+
+(a)
+
+allocating the individual net positions to one of the time bands in the table below, as follows:
+
+(i)
+
+fixed-rate instruments are allocated to their time bands based upon the residual time to maturity; and
+
+(ii)
+
+floating-rate instruments are allocated to time bands based upon the time remaining to the re-determination of the coupon;
+
+(b)
+
+adding the market values of the individual net positions within each band irrespective of whether they are long or short positions to produce a gross position figure;
+
+(c)
+
+multiplying the amount in (b) by the risk percentage for the relevant maturity band in the table below; and
+
+(d)
+
+adding the calculations requirement.
+
+in (c) to arrive at the General Market Risk
+
+Time band
+
+Zone
+
+Coupon of 3% or more
+
+Coupon of less than 3%
+
+Risk percentage
+
+≤ 1month
+
+0 ≤ 1month
+
+0.00%
+
+> 1 and ≤ 3months
+
+> 1 and ≤ 3months
+
+0.20%
+
+A
+
+> 3 and ≤ 6 months
+
+> 3 and ≤ 6 months
+
+0.

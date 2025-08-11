@@ -1,0 +1,99 @@
+ provided under Rule 9.3.8, maintain a buffer of HQLA over the minimum level of LCR required under its LCR Requirement, appropriate to the nature, scale and complexity of its operations and in line with its Liquidity Risk tolerance.
+
+221
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+(2)
+
+In determining the size of its buffer of HQLA under (1), an Authorised Firm must also take into account the results of stress tests conducted under section 9.2A.
+
+Guidance
+
+1.
+
+For the purposes of Rule 9.3.7(2), an Authorised Firm should conduct its own stress tests to assess the level of liquidity it should hold beyond the minimum required under this section, and construct its own scenarios that could cause difficulties for its specific business activities. Such internal stress tests should incorporate longer periods than the one required under this section. Authorised Firms are expected to share the results of these additional stress tests with the DFSA.
+
+2.
+
+As set out in the Guidance after Rule 9.2A.5, the DFSA may require an Authorised Firm to maintain an additional buffer of liquid assets in cases where the DFSA assesses that the Authorised Firm has failed to carry out stress tests effectively.
+
+Monetisation of assets during periods of stress
+
+9.3.8 During a period of financial or liquidity stress, an Authorised Firm may monetise part of its stock of HQLA and use the cash generated to cover cash outflows. Its level of HQLA may fall below the levels required under its LCR Requirement and Rule 9.3.7 to the extent necessary to deal with cash outflows during that period.
+
+Notification if LCR Requirement not met
+
+9.3.9
+
+An Authorised Firm must notify the DFSA in writing immediately if it does not meet, or becomes aware of circumstances that may result in it not meeting, its LCR Requirement (including during a period of stress referred to in Rule 9.3.8).
+
+Guidance
+
+1.
+
+An Authorised Firm should in its notification clearly explain:
+
+a.
+
+the reasons for not meeting the limits;
+
+b. measures that have been taken and will be taken to ensure it meets its LCR Requirement;
+
+and
+
+c.
+
+its expectations regarding the potential duration of the situation.
+
+2.
+
+An Authorised Firm that makes a notification should discuss with the DFSA what, if any, further steps it should take to deal with the situation.
+
+The Maturity Mismatch approach
+
+Guidance
+
+The Maturity Mismatch approach measures an Authorised Firm’s liquidity by assessing the mismatch between its inflows (assets) and outflows (liabilities) within different timebands on a Maturity Ladder.
+
+9.3.10
+
+(1)
+
+An Authorised Firm in Category 1 or 5 must use the Maturity Mismatch approach, as set out in this section, to measure liquidity.
+
+222
+
+PIB/VER50/07-25
+
+9.3.11
+
+9.3.12
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+(2)
+
+When using the Maturity Mismatch approach, an Authorised Firm must determine the net cumulative Maturity Mismatch position for each time band by:
+
+(a) determining, in accordance with the Rules in sections A9.3 of App9, the inflows (assets), outflows (liabilities), liquid assets and funding capacity which are to be included in the relevant time bands in the Maturity Ladder; and
+
+(b)
+
+subtracting outflows (liabilities) from inflows (assets) in each time band, and adding the eligible assets, in accordance with section A9.3 of App 9.
+
+Measuring liquidity for Category 1 and Category 5
+
+(1)
+
+An Authorised Firm in Category 1 or 5 must determine a net cumulative Maturity Mismatch position for each time band in respect of each of the following means of funding used by the Authorised Firm:
+
+(a) PSIAus; and
+
+(b) deposits.
+
+(2)
+
+An Authorised Firm in Category 1 or 5 must calculate its liquidity by using the net cumulative Maturity Mismatch position separately for each means of funding used by the

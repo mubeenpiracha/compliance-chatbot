@@ -1,0 +1,115 @@
+5.3(1) but before the completion of the Related Party Transaction, there is a material change to the terms of the proposed transaction, the Listed Entity must comply again separately with Rule 9.5.3(1) in relation to the Related Party Transaction; or
+
+(5)
+
+the Related Party does not vote on the Shareholder resolution referred to in Rule 9.5.3(1) and takes all reasonable steps to ensure that any Related Party Associates of the relevant Related Party also do not vote on the Shareholder resolution.
+
+Exemptions
+
+9.5.4 The requirements in this section do not apply to a transaction referred to in Rule 9.5.2(2):
+
+(1)
+
+where the transaction is made in the ordinary course of business;
+
+(2)
+
+where it, or any series of transactions with the same Related Party in any 12 month period, does not exceed 0.25% of the value of the net assets of the Listed Entity as stated in its most recent financial reports;
+
+(3)
+
+where it is made in accordance with the terms of an Employee Incentive Scheme approved by the Board of the Listed Entity;
+
+(4)
+
+where it involves the issue of new Securities for cash or pursuant to the exercise of conversion or subscription rights attaching to Securities issued to existing Shareholders where the Securities are traded on a Recognised Investment Exchange or a Regulated Exchange;
+
+(5)
+
+where its terms were agreed before any Person became a Related Party;
+
+(6)
+
+where it involves a grant of credit, including the lending of money or the guaranteeing of a loan, to:
+
+(a)
+
+the Related Party on normal commercial terms;
+
+(b)
+
+a Director of the Listed Entity or a member of its Group for an amount and on terms no more favourable than those offered to employees of the Group generally; or
+
+(c)
+
+by the Related Party on normal commercial terms and on an unsecured basis;
+
+Confidential
+
+101
+
+MKT VER09.020125
+
+(7)
+
+where it involves granting an indemnity to or maintaining a Contract of Insurance for a Director of the Listed Entity or a member of its Group;
+
+(8)
+
+where it involves underwriting by a Related Party of Securities issued by the Listed Entity or a member of its Group if the consideration to be paid for the underwriting is no more than the usual commercial underwriting consideration and is the same as that to be paid to the other underwriters, if any, other than where the Related Party is underwriting Securities it is entitled to take up as part of the issuance; or
+
+(9)
+
+where it involves a joint investment arrangement between the Listed Entity (or a member of its Group) and a Related Party for each to invest in, or provide finance to, another undertaking or asset if:
+
+(a)
+
+the amount contributed by the Related Party is not more than 25% of the amount contributed by the Listed Entity (or a member of its Group); and
+
+(b)
+
+an independent third party has provided a prior written opinion that the terms and circumstances of the contribution of finance by the Listed Entity or a member of its Group are no less favourable than those applying to the contribution of finance by the Related Party.
+
+Guidance
+
+In assessing whether a transaction is in the ordinary course of business, the Listed Entity shall have regard to the size and incidence of the transaction and also whether the terms and conditions of the transaction are unusual.
+
+9.6
+
+Restricted Securities
+
+Application
+
+9.6.1 This section applies, subject to Rule 9.6.2, to:
+
+(1)
+
+an Applicant for admission of Securities to the Official List;
+
+(2)
+
+a relevant Listed Entity; and
+
+(3)
+
+any Person that holds, or will hold, Securities that are Restricted Securities in accordance with APP 8 or which the Regulator has deemed to be Restricted Securities by giving notice to the relevant Applicant or Listed Entity.
+
+Entry into Restriction Agreements and Application of Restriction
+
+9.6.2 Unless the Regulator decides otherwise, the restrictions in categories 1, 2, 3, 4, 7, 8 and
+
+9 of APP 8 do not apply in relation to a Listed Entity that:
+
+(1)
+
+qualifies for admission to the Official List pursuant to Rule 2.3.15;
+
+(2)
+
+has a track record of profitability or revenue acceptable to the Regulator; or
+
+Confidential
+
+102
+
+MKT VER

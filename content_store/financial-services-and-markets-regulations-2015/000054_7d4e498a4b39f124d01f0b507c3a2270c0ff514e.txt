@@ -1,0 +1,119 @@
+ this Part.
+
+So far as those provisions relate to insolvency proceedings in respect of a person other than a Defaulter, they apply in relation to—
+
+(a)
+
+proceedings in respect of a Recognised Investment Exchange or Remote Investment Exchange or a member or Designated Non-Member of a Recognised Investment Exchange or Remote Investment Exchange;
+
+(b)
+
+proceedings in respect of a Recognised Clearing House or Remote Clearing House; and
+
+(c)
+
+proceedings in respect of a party to a Market Contract (other than solely a Client Trade) which are begun after a Recognised Body or Remote Body has taken action under its Default Rules in relation to a person party to the contract as principal;
+
+but not in relation to any other insolvency proceedings, notwithstanding that rights or liabilities arising from Market Contracts fall to be dealt with in the proceedings.
+
+The reference in subsection (2)(c) to the beginning of insolvency proceedings is to—
+
+(a)
+
+the presentation of a petition for Winding-Up;
+
+(b)
+
+the application for an administration order or the passing of a resolution for voluntary Winding-Up; or
+
+(c)
+
+the appointment of an Administrative Receiver.
+
+In subsection (3)(b) the reference to an application for an administration order shall be taken to include a reference to—
+
+(a)
+
+in a case where an Administrator is appointed in accordance with Chapter 2 of Part 1 of the Insolvency Regulations following filing with the Court of a copy of a notice of intention to appoint under section 24 of those Regulations, the filing of the copy of the notice; and
+
+96
+
+(b)
+
+in a case where an Administrator is appointed under that Part without a copy of a notice of intention to appoint having been filed with the Court, the appointment of the Administrator.
+
+155. Proceedings of Recognised Body or Remote Body take precedence over insolvency procedures92
+
+(1)
+
+None of the following shall be regarded as to any extent invalid at law on the ground of inconsistency with the Insolvency Regulations relating to the distribution of the assets of a person on Winding-Up, or in the Administration of a Company or other body or in the Administration of an insolvent estate—
+
+(a)
+
+a Market Contract;
+
+(b)
+
+the Default Rules of a Recognised Body or Remote Body;
+
+(c)
+
+the rules of a Recognised Body or Remote Body as to the Settlement of Market Contracts not dealt with under its Default Rules;
+
+(d)
+
+the application, transfer or realisation of any Collateral Security Arrangements;
+
+(e)
+
+a transfer of a Clearing Member Client Contract, or the Settlement of a Clearing Member Client Contract or a Clearing Member House Contract, in accordance with the Default Rules of a Recognised Clearing House or Remote Clearing House;
+
+(f)
+
+where a Clearing Member Client Contract transferred in accordance with the Default Rules of a Recognised Clearing House or Remote Clearing House was entered into by the Clearing Member or Client as principal, a transfer of a Client Trade or group of Client Trades corresponding to that Clearing Member Client Contract;
+
+(g)
+
+a transfer of a Qualifying Collateral Arrangement in conjunction with the transfer of Clearing Member Client Contract as mentioned in paragraph (e) or of a Client Trade as mentioned in paragraph (f);
+
+(h)
+
+a Qualifying Property Transfer;
+
+(i)
+
+a Collateral Security Arrangement;
+
+(j)
+
+orders for the delivery of Cash or non-Cash collateral to or from a Recognised Body or Remote Body which have become final and irrevocable under the rules of the Recognised Body or Remote Body; and
+
+(k)
+
+the Settlement or delivery of a product or security subject of a Market Contract following expiry or close-out of the Market Contract pursuant to the rules of a Recognised Body or Remote Body;
+
+92 Amended 21 February 2018 and 8 August 2023.
+
+97
+
+(2)
+
+(3)
+
+(4)
+
+irrespective of the law applicable to the Market Contract or the Default Rules.
+
+The powers of a Relevant Office-Holder in his capacity as such, and the powers of the Court under the Insolvency Regulations shall not be exercised in such a way as to prevent or interfere with—
+
+(a)
+
+any action taken under the Default Rules of a Recognised Body or Remote Body;
+
+(b)
+
+the Settlement in accordance with the rules of a Recognised Body or Remote Body of a Market Contract not dealt with under its Default Rules;
+
+(c)
+
+the transfer of a Clearing Member Client Contract, or the Settlement of

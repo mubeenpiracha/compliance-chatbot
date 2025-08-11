@@ -1,0 +1,131 @@
+3)(b) which arises from a contract entered into at a time when the creditor had notice—
+
+(a)
+
+that a meeting of creditors had been summoned under section 171 of the Insolvency Regulations or that a Winding-Up petition was pending; or
+
+(b)
+
+that an application for an administration order was pending or that any person had given notice of intention to appoint an Administrator;
+
+the value of any profit to him arising from the sum being so taken into account (or being so taken into account to that extent) is recoverable from him by the Relevant Office-Holder unless the Court directs otherwise.
+
+(6)
+
+Subsection (5) does not apply in relation to a sum arising from a contract effected under the Default Rules of a Recognised Body or Remote Body.
+
+(7)
+
+Any sum recoverable by virtue of subsection (5) ranks for priority, in the event of the insolvency of the person from whom it is due, immediately before preferential debts.
+
+160. Disclaimer of property, rescission of contracts, etc.98
+
+(1)
+
+Section 218 of the Insolvency Regulations (Power to disclaim onerous property) does not apply in relation to—
+
+(a)
+
+a Market Contract;
+
+(b)
+
+a Qualifying Collateral Arrangement;
+
+(c)
+
+a transfer of a Clearing Member Client Contract, a Client Trade or a Qualifying Collateral Arrangement, as mentioned in paragraphs (c) to (e) of section 154(1);
+
+(d)
+
+a Qualifying Property Transfer;
+
+98 Amended 21 February 2018 and 8 August 2023.
+
+102
+
+(2)
+
+(3)
+
+(e)
+
+a contract effected by Recognised Body or Remote Body for the purpose of realising property provided as margin in relation to Market Contracts or as Default Fund Contribution;
+
+(f)
+
+a Collateral Security Arrangement;
+
+(g)
+
+orders for the delivery of Cash or non-Cash collateral to or from a Recognised Body or Remote Body which have become final and irrevocable under the rules of the Recognised Body or Remote Body; and
+
+(h)
+
+the Settlement or delivery of a product or security subject of a Market Contract following expiry or close-out of the Market Contract pursuant to the rules of a Recognised Body or Remote Body.
+
+Section 209 (Consequences of a Winding-Up order) of the Insolvency Regulations does not apply to—
+
+(a)
+
+a Market Contract, or any disposition of property in pursuance of such a contract;
+
+(b)
+
+the provision of margin in relation to Market Contracts;
+
+(c)
+
+the provision of a Default Fund Contribution to a Recognised Body or Remote Body;
+
+(d)
+
+a Qualifying Collateral Arrangement;
+
+(e)
+
+a transfer of a Clearing Member Client Contract, a Client Trade or a Qualifying Collateral Arrangement, as mentioned in paragraphs (c) to (e) of section 154(1);
+
+(f)
+
+a Qualifying Property Transfer;
+
+(g)
+
+a contract effected by the Recognised Body or Remote Body for the purpose of realising property provided as margin in relation to a Market Contract or as Default Fund Contribution, or any disposition of property in pursuance of such a contract;
+
+(h)
+
+any disposition of property in accordance with the rules of a Recognised Body or Remote Body as to the application of property provided as margin or as Default Fund Contribution;
+
+(i)
+
+a Collateral Security Arrangement;
+
+(j)
+
+orders for the delivery of Cash or non-Cash collateral to or from a Recognised Body or Remote Body which have become final and irrevocable under the rules of the Recognised Body or Remote Body; and
+
+(k)
+
+the Settlement or delivery of a product or security subject of a Market Contract following expiry or close-out of the Market Contract pursuant to the rules of a Recognised Body or Remote Body.
+
+However, where—
+
+103
+
+(4)
+
+(5)
+
+(a)
+
+a Market Contract is entered into by a person who has notice that a petition has been presented for the Winding-Up of the estate of the other party to the contract;
+
+(b)
+
+an order under section 154(1)(h) becomes irrevocable with respect to a person who has notice that a petition has been presented for the Winding-Up of the estate of another person affected by such order;
+
+(c)
+
+a product or security subject of a Market Contract under section 154(1)(i) becomes deliverable by or to a person who has notice that a petition has been presented for the Winding

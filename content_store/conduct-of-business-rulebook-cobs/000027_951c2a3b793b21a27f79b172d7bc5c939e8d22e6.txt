@@ -1,0 +1,127 @@
+ an Authorised Person would not ordinarily be subject to this Rule.
+
+2. The effect of Rule 6.8.1(b)(iv) is to exclude from Rule 6.8.1(a) conversations or communications made by Investment Analysts, retail financial advisers, and persons carrying on back office functions.
+
+6.8.2 Records of Orders and Transactions
+
+(a)
+
+When an Authorised Person receives a Client order or in the exercise of its discretion decides upon a Transaction, it must promptly make a record of the information set out in Rule 11.1.1.
+
+(b)
+
+When an Authorised Person Executes a Transaction, it must promptly make a record of the information set out in Rule 11.1.2.
+
+(c)
+
+When an Authorised Person passes a Client order to another Person for Execution, it must promptly make a record of the information set out in Rule 11.1.3.
+
+(d)
+
+An Authorised Person must retain the records required in Rules 6.8.2 for six years from the date on which the order is allocated.
+
+6.9
+
+Other Dealing Rules
+
+6.9.1 Application
+
+Rule 6.9 does not apply to an Authorised Person with respect to any Transaction which it:
+
+44
+
+COBS VER19.290725
+
+(a)
+
+undertakes with a Professional Client which is a Market Counterparty; or
+
+(b)
+
+carries out for the purposes of managing a Fund of which it is the Fund Manager.
+
+6.9.2 Churning
+
+(a)
+
+An Authorised Person must not Execute a Transaction for a Client in its discretion or advise any Client to transact with a frequency or in amounts to the extent that those Transactions have no commercial purpose other than to obtain a benefit from transaction volumes.
+
+(b)
+
+The onus will be on the Authorised Person to ensure that such Transactions were fair and reasonable at the time they were entered into.
+
+6.9.3 Timely Execution
+
+(a)
+
+Once an Authorised Person has agreed or decided to enter into a Transaction for a Client, it must do so as soon as reasonably practical.
+
+(b)
+
+An Authorised Person may postpone the execution of a Transaction if it has taken reasonable steps to ensure that it is in the best interests of the Client.
+
+6.9.4 Fairly and in Due Turn
+
+An Authorised Person must deal with Transactions for its own account and Client Transactions fairly and in due turn.
+
+6.9.5 Averaging of Prices
+
+(a)
+
+An Authorised Person may execute a series of Transactions on behalf of a Client within the same trading day or within such other period as may be agreed in writing by the Client, to achieve one investment decision or objective, or to meet Transactions which it has aggregated.
+
+(b)
+
+If the Authorised Person does so, it may determine a uniform price for the Transactions executed during the period, calculated as the weighted average of the various prices of the Transactions in the series.
+
+6.9.6 Timely Allocation
+
+(a)
+
+An Authorised Person must ensure that a Transaction it Executes is promptly allocated.
+
+(b)
+
+The allocation must be:
+
+(i)
+
+to the account of the Client on whose instructions the Transaction was executed;
+
+(ii)
+
+in respect of a discretionary Transaction, to the account of the Client or Clients with or for whom the Authorised Person has made and recorded,
+
+45
+
+COBS VER19.290725
+
+prior to the Transaction, a decision in principle to execute that Transaction; or
+
+(iii)
+
+in all other cases, to the account of the Authorised Person.
+
+6.10 Confirmation Notes
+
+6.10.1 Application
+
+The Rules in this section do not apply to an Authorised Person with respect to any Transaction which it:
+
+(a)
+
+undertakes with a Professional Client which is a Market Counterparty; or
+
+(b)
+
+carries out for the purposes of managing a Fund of which it is the Fund Manager.
+
+6.10.2 Sending Confirmation Notes
+
+(a)
+
+When an Authorised Person Executes a Transaction in an Investment for a Client or with a counterparty, it must ensure a confirmation note is sent to the Client or counterparty as soon as possible and in any case no later than two days following the date of Execution of the Transaction.
+
+(b)
+
+Where an Authorised Person has executed a Transaction or series of Transactions in accordance with Rule 6.9.5, the Authorised Person must send a confirmation note relating to those Transactions as soon

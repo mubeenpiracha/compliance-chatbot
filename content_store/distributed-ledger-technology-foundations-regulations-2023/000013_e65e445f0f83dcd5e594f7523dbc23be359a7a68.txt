@@ -1,0 +1,97 @@
+ contract that have been or are to be considered by a meeting of the Councillors, or by a committee of the Councillors appointed for the purpose under the DLT Foundation’s Charter; and
+
+to ensure compliance with subsection (1).
+
+23
+
+30.
+
+Appointment of Councillors
+
+(1)
+
+Prior to the registration of the DLT Foundation, a Councillor shall be appointed by the Founder or Founders. Following registration, a Councillor shall be appointed in accordance with the relevant provisions of the Charter, or, in the absence of any express provisions in the Charter, in accordance with subsection (3).
+
+(2)
+
+In circumstances where the number of Councillors falls below the number required in subsection 29(1) or required in the Charter, the necessary additional Councillors shall be appointed as soon as practicable as provided for in the Charter, or, in the absence of any express provisions in the Charter, in accordance with subsection (3).
+
+(3)
+
+Where the Charter of the DLT Foundation contains no provision for the appointment of a new or additional Councillor, or such provision has lapsed or failed, or the Person or Persons required to exercise such power fail to do so for whatever reason, the Registrar, Founder, Guardian and (unless otherwise is provided for in the Charter) Beneficiary or Tokenholder (by Resolution of Tokenholders) may make an application to the Court for the appointment of one or more Councillors in order that the DLT Foundation complies with the requirements of the Charter or these Regulations.
+
+(4)
+
+The appointment of a Person as a Councillor is personal to that Person and may not be assigned or delegated, except that a Councillor that is a Legal Person may act through its authorised officers or agents.
+
+(5)
+
+Every Person appointed, or to be appointed, as a Councillor shall be a Fit and Proper Person to hold that position.
+
+(6)
+
+If the number of Councillors is three or more, then a Councillor can be removed by the Resolution of Councillors for failure to properly carry out the duties required of a Councillor in the Charter or the provisions of these Regulations. Moreover, a Councillor, Tokenholders (by Resolution of Tokenholders) or (until Founder Resignation) Founder may apply to the Court to seek the removal of a Councillor for failure to properly carry out the duties required of a Councillor in the Charter or the provisions of these Regulations and the Court may, if it deems fit, order the removal of the Councillor and the appointment of a Fit and Proper Person to act as a replacement Councillor.
+
+PART 8: DISQUALIFICATION AND LIABILITY
+
+Disqualification
+
+31.
+
+Persons Disqualified from Being Councillors
+
+No Person shall be appointed or be permitted to remain as a Councillor:
+
+(a)
+
+in the case of a natural person, if the Person is a Minor or mentally incapacitated, is currently disqualified from acting as a director of a company, has an undischarged bankruptcy or has been convicted of a crime;
+
+(b)
+
+in the case of a Legal Person, if the Person is dissolved, in the process of dissolution or undergoing insolvency proceedings.
+
+24
+
+32.
+
+Notice of Appointment and Removal of Councillor
+
+(1)
+
+A DLT Foundation must give written notice of the appointment or removal of a Councillor, including the full name and address of the Councillor, to:
+
+(a)
+
+its Company Service Provider, if any; and
+
+(b)
+
+the Registrar,
+
+within 14 days of such appointment or removal (“filing deadline”).
+
+(2)
+
+Where a DLT Foundation defaults in complying with subsection (1)(b) by the filing deadline, the DLT Foundation must pay a late filing fee up to the maximum amount prescribed in rules made by the Board.
+
+Councillors
+
+33.
+
+Liability of Councillors for Breach of Duty
+
+(1)
+
+Subject to the provisions of these Regulations, and the provision of the Charter, a Councillor who commits a breach of duty is liable for any loss in value of the DLT Foundation Assets resulting from the breach.
+
+(2)
+
+A Councillor is not liable for breach of duty committed by another Councillor unless:
+
+(a)
+
+he becomes or ought to reasonably be aware of the breach or of the intention to commit a breach; and
+
+(b)
+
+he actively conce

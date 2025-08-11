@@ -1,0 +1,157 @@
+ to a party other than:
+
+(a) a sovereign;
+
+(b) a regional, provincial or municipal government;
+
+(c) a public sector entity;
+
+(d) a multilateral development bank; or
+
+(e) a bank.
+
+Non-Trading Book
+
+Describes positions, Exposures and on-and off-balance sheet items, which are not in the Trading Book.
+
+NP
+
+Nominal principal amount.
+
+NSFR Requirement
+
+The requirement for an Authorised Firm to maintain a minimum NSFR under Rule 9.3.12(1) or, if applicable, Rule 9.3.6.
+
+OBS
+
+Off-balance sheet.
+
+OBS Exposure
+
+An Exposure of an Authorised Firm that is off-balance sheet.
+
+OBS-RSF Category
+
+A category, listed in Table 2 to Rule A9.4.2, to which carrying value of an OBS Exposure (or potential liquidity Exposure) is assigned.
+
+OBS-RSF Factor
+
+The factor, listed in Table 2 to Rule A9.4.2, used to multiply the carrying value of an OBS Exposure (or a potential liquidity Exposure).
+
+Operational Risk
+
+The risk of loss resulting from inadequate or failed internal processes, people and systems or from external events, including legal risk.
+
+Operational Risk Capital Requirement
+
+The requirement calculated in accordance with section 6.11.
+
+Option Risk Capital Requirement
+
+A component of the Market Risk Capital Requirement and calculated in accordance with section 5.8.
+
+Original Maturity
+
+(1) The time period between the date an offer is made
+
+and the date it expires or lapses.
+
+(2) In relation to Debentures, the interval between its issue date and the date on which it becomes due and payable.
+
+16
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+Originator
+
+(a) an entity which, either itself or through related entities, directly or indirectly, creates the Exposure being securitised; or
+
+(b) any entity which purchases or advises or causes an SPE to purchase the Exposures of a third party, which are then used in a securitisation (for avoidance of doubt, selling credit protection such that the entity or the SPE has a long position in the Credit Risk of the obligor is equivalent to purchasing Exposures);
+
+Where an entity lends to an SPE with a view to enabling that SPE to make loans which are then used in a securitisation, the entity will generally be deemed to be acting as an Originator.
+
+OTC
+
+Over the counter
+
+Other Real Estate Exposure
+
+A Real Estate Exposure that is not a Regulatory Real Estate Exposure or an ADC Exposure.
+
+PSE
+
+Public Sector Entity
+
+PSIA
+
+Profit sharing investment account.
+
+Qualifying Bilateral Netting Agreement
+
+A Netting agreement that meets the requirements in Rule A4.3.4.
+
+Qualifying CCP
+
+Means a CCP:
+
+(a) that
+
+is operated by an Authorised Person
+
+in
+
+accordance with its Licence; or
+
+(b) in respect of which all of the following conditions are
+
+met: (i)
+
+(ii)
+
+(iii)
+
+the CCP is authorised and supervised by a Financial Services Regulator in a jurisdiction other than the DIFC; the Financial Services Regulator has publicly stated that it applies on an ongoing basis rules and regulations that are consistent with the CPSS-IOSCO Principles for Financial Market Infrastructures; and the CCP satisfies requirements requirements for its default fund exposures.
+
+the Basel Committee its capital
+
+for calculating
+
+Qualifying Holding
+
+Any holding in the capital of a non-financial Undertaking of which the Authorised Firm is a controller.
+
+Related Person
+
+Has the meaning given in Rule 4.4.6.
+
+Real Estate Exposure
+
+An Exposure secured by a lien on immovable property.
+
+17
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+Regulatory Commercial Real Estate Exposure
+
+A Commercial Real Estate Exposure that is a Regulatory Real Estate Exposure.
+
+Regulatory Real Estate Exposure
+
+A Real Estate Exposure that meets the conditions in Rule 4.12.20.
+
+Regulatory Residential Real Estate Exposure
+
+A Residential Real Estate Exposure that is a Regulatory Real Estate Exposure.
+
+Relevant Entity
+
+Means any of the following:
+
+(a) another Authorised Firm;
+
+(b

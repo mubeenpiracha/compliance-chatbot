@@ -1,0 +1,89 @@
+ parties to the OTC Derivative Contract and, where different, the beneficiary of the rights and obligations arising from it; and
+
+82 Amended 21 February 2018.
+
+87
+
+(b)
+
+the main characteristics of the OTC Derivative Contracts, including their type, underlying maturity, notional value, price, and settlement date.
+
+147. Non-Financial counterparties
+
+(1)
+
+Where a Non-Financial Counterparty takes positions in OTC Derivative Contracts and those positions exceed the Clearing threshold as specified under subsection (3), that Non-Financial Counterparty shall—
+
+(a)
+
+immediately notify the Regulator;
+
+(b)
+
+become subject to the clearing obligation for future contracts if the rolling average position over 30 Business Days exceeds the threshold; and
+
+(c)
+
+clear all relevant future contracts within four months of becoming subject to the clearing obligation.
+
+(2)
+
+A Non-Financial Counterparty that has become subject to the clearing obligation in accordance with subsection (1)(b) and that subsequently demonstrates to the Regulator that its rolling average position over 30 Business Days does not exceed the clearing threshold, shall no longer be subject to the clearing obligation.
+
+(3)
+
+In calculating the positions referred to in subsection (1), the Non-Financial Counterparty shall include all the OTC Derivative Contracts entered into by the Non-Financial Counterparty or by other non-financial entities within the Group to which the Non-Financial Counterparty belongs, which are not objectively measurable as reducing risks directly relating to the commercial activity or treasury financing activity of the Non-Financial Counterparty or of that Group.
+
+(4)
+
+The Regulator may make Rules specifying—
+
+(a)
+
+criteria for establishing which OTC Derivative Contracts are objectively measurable as reducing risks directly relating to the commercial activity or treasury financing activity referred to in subsection (3); and
+
+(b)
+
+values of the clearing thresholds, which are determined taking into account the systemic relevance of the sum of net positions and exposures per counterparty and per class of OTC Derivatives.
+
+148. Risk-mitigation techniques for OTC Derivative Contracts not cleared by a Recognised Clearing House or Remote Clearing House83
+
+(1)
+
+Financial Counterparties and Non-Financial Counterparties that enter into an OTC Derivative Contract not cleared by a Recognised Clearing House or Remote Clearing House, shall ensure, exercising due diligence, that appropriate procedures and arrangements are in place to measure, monitor and mitigate operational risk and Counterparty Credit Risk, including at least—
+
+83 Amended 21 February 2018.
+
+88
+
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+(6)
+
+(7)
+
+(8)
+
+(a)
+
+the timely confirmation, where available, by electronic means, of the terms of the relevant OTC Derivative Contract; and
+
+(b)
+
+formalised processes which are robust, resilient and auditable in order to reconcile portfolios, to manage the associated risk and to identify disputes between parties early and resolve them, and to monitor the value of outstanding contracts.
+
+Taking effect as from such date as is specified by the Regulator, Financial Counterparties and Non-Financial Counterparties referred to in section 147 shall mark to market on a daily basis the value of outstanding contracts. Where market conditions prevent marking to market, reliable and prudent marking-to-model shall be used.
+
+Taking effect as from such date as is specified by the Regulator, Financial Counterparties shall have risk management procedures that require the timely, accurate and appropriately segregated exchange of collateral with respect to OTC Derivative Contracts. Non-Financial Counterparties referred to in section 147 shall have risk management procedures that require the timely, accurate and appropriately segregated exchange of collateral with respect to OTC Derivative Contracts that are entered into on or after the clearing threshold is exceeded.
+
+Taking effect as from such date as is specified by the Regulator, Financial Counterparties shall hold an appropriate and proportionate amount of capital to manage the risk not covered by appropriate exchange of collateral.
+
+The requirement laid down in subsection (3) shall not apply to an Intragroup Transaction that is entered into by counterparties which are both established in the Abu Dhabi Global Market provided that there is no current or foreseen practical or legal impediment to the prompt transfer of own funds or repayment of liabilities between counterparties.
+
+An Intragroup Transaction that is entered into by a counterparty which is established in

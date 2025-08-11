@@ -1,0 +1,152 @@
+, for the orderly wind-down of the Authorised Market Institution’s business, while still allowing the institution to meet the applicable requirements, including conditions on its Licence.
+
+2.
+
+The systems and controls should enable the Authorised Market Institution to assess whether the financial resources required for it to conduct its affairs are in place at all times. Such assessments should be made periodically or after any significant change or event, whether internal or external, that would have an impact on the operations of the
+
+24
+
+AMI/VER28/03-25
+
+5.5.5
+
+AUTHORISED MARKET INSTITUTIONS (AMI)
+
+Authorised Market Institution. These assessments are necessary to demonstrate to the DFSA that the Licensing Requirements are being satisfied on an on-going basis.
+
+3.
+
+In determining whether to set a minimum capital amount pursuant to Rule 5.5.4(2)(b), the DFSA will take into account the risks that the Authorised Market Institution poses to the DIFC market and the products which are, or are intended to be, traded, cleared or settled.
+
+Technology resources
+
+(1)
+
+An Authorised Market Institution must have sufficient technology resources to operate, maintain and supervise its facilities.
+
+(2)
+
+An Authorised Market Institution must ensure that its Members and other participants on its facilities have sufficient technology resources which are compatible with its own.
+
+(3)
+
+For the purposes of meeting the requirement in (1), an Authorised Market Institution must have adequate procedures and arrangements for the evaluation, selection and on-going monitoring of information technology systems. Such procedures and arrangements must, at a minimum, provide for:
+
+(a)
+
+problem management and system change;
+
+(b)
+
+testing information technology systems before live operations in accordance with the requirements in Rule 5.5.6;
+
+(c)
+
+monitoring and reporting on system performance, availability and integrity; and
+
+(d)
+
+adequate measures to ensure:
+
+(i)
+
+the information technology systems are resilient and not prone to failure;
+
+(ii).
+
+business continuity in the event that an information technology system fails; and
+
+(iii)
+
+the integrity of data forming part of, or being processed through, information technology systems.
+
+(4)
+
+An Authorised Market Institution must meet the applicable requirements in App 1 for the purposes of:
+
+(a)
+
+testing the adequacy and effectiveness of its own information technology systems; and
+
+(b)
+
+assessing technology systems of its Members.
+
+the adequacy and effectiveness of
+
+information
+
+Guidance
+
+1.
+
+In assessing an Authorised Market Institution’s systems and controls used to operate and carry on its functions, the DFSA recognises that an Authorised Market Institution is likely to have significant reliance on its information technology systems. In assessing the adequacy of these systems, the DFSA will consider:
+
+25
+
+AMI/VER28/03-25
+
+5.5.6
+
+5.6
+
+5.6.1
+
+AUTHORISED MARKET INSTITUTIONS (AMI)
+
+a.
+
+the organisation, management and resources of the information technology department of the Authorised Market Institution;
+
+b.
+
+the arrangements for controlling and documenting the design, development, implementation and use of technology systems; and
+
+c.
+
+the performance, capacity and reliability of information technology systems.
+
+2.
+
+In particular, when assessing whether an Authorised Market Institution has adequate information technology resourcing, the DFSA will consider:
+
+a.
+
+whether its systems have sufficient electronic capacity to accommodate reasonably foreseeable volumes of messaging and orders, and
+
+b.
+
+whether such systems are adequately scalable in emergency conditions that might threaten the orderly and proper operations of its facility.
+
+3.
+
+Additional requirements to manage cyber risk apply to an Authorised Market Institution under GEN section 5.5.
+
+Regular review of systems and controls
+
+(1)
+
+An Authorised Market Institution must undertake regular review and updates of its information technology systems and controls as appropriate to the nature, scale and complexity of its operations.
+
+(2)
+
+For the purposes of (1), an Authorised Market Institution must adopt well defined and clearly documented development and testing methodologies which are in line with internationally accepted testing standards.
+
+Guidance
+
+Through the use of such testing methodologies, the Authorised Market Institution should be able to ensure, amongst other things, that:
+
+a.
+
+its systems and controls are compatible with its operations and functions;
+
+b.
+
+compliance and risk management controls embedded in its system operate as intended (for example, by generating error reports automatically); and
+
+c.
+
+it can continue to work effectively in stressed market conditions.
+
+Business Rules
+

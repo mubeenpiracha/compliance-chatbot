@@ -1,0 +1,99 @@
+(b)
+
+do so in a manner that is fair and reasonable as between all Unitholders and prospective Unitholders for whom the Fund Manager does not have reasonable grounds to refuse such issue or sale.
+
+57
+
+FUNDS VER10.100625
+
+(2) A Fund Manager of an open-ended Public Fund must, within any conditions in its Constitution and Prospectus:
+
+(a)
+
+at all times during the dealing day, be willing to effect a redemption of the Units on the request of any Unitholder; and
+
+(b)
+
+do so in a manner fair and reasonable as between redeeming Unitholders and continuing Unitholders.
+
+(3) On agreeing to a redemption of Units within (2), the Fund Manager must pay the full proceeds of the redemption to the Unitholder within any reasonable period specified in the Constitution or the Prospectus, unless it has reasonable grounds for withholding payment.
+
+Guidance
+
+1.
+
+Where not specified in the Prospectus, the maximum period between dealing days for a Public Fund will depend on the reasonable expectations of the target investor group and the particular investment objectives and policy of the Fund.
+
+2.
+
+Capital reductions or share buy-backs that occur in a closed-ended Fund are not treated as redemptions and resales of Units of Funds based on NAV in the same manner as occurs in the case of an open-ended Fund as provided in these Rules.
+
+3.
+
+The circumstances in which a Fund Manager may withhold redemption proceeds under (3) include where there are any dues from the redeeming Unitholder, such as under any margin lending arrangements.
+
+4.
+
+Although no redemption provisions are prescribed for Exempt Funds, it does not mean that an Exempt Fund cannot be structured as an open-ended Fund. If structured as an open-ended Exempt Fund, the applicable redemption procedures (such as the manner and frequency of redemptions) would generally be set out in the Fund's offer document (i.e. the Prospectus). The Fund Manager would need to comply with such redemption procedures.
+
+13.3
+
+Oversight arrangements for Public Funds
+
+Guidance
+
+This Rule sets out the general requirements relating to the oversight arrangements which a Public Fund must have, including the powers and duties of the Persons appointed to a Public Fund to provide the oversight function.
+
+This Rule shall, where the Trust Deed confers on the Trustee the oversight function of the Investment Trust, apply to a Trustee who shall (rather than the Fund Manager) comply with the requirements expressed in this Rule to apply to the Fund Manager. To the extent that the oversight function is carried out by a Person other than the Trustee, the Trustee shall provide to those persons any assistance that is reasonably required by them to enable them to carry out the oversight function.
+
+Requirements relating to oversight arrangements
+
+13.3.1
+
+(1) A Fund Manager of a Domestic Fund which is, or is to be, a Public Fund shall:
+
+58
+
+FUNDS VER10.100625
+
+(a)
+
+establish and maintain one of the permitted oversight arrangements prescribed in these Rules; and
+
+(b)
+
+ensure that a person appointed to carry out the oversight function for the Fund meets:
+
+(i)
+
+the independence criteria set out below; and
+
+(ii)
+
+any additional suitability criteria prescribed in Rules made for the purposes of this Rule.
+
+(2) The Regulator may at any time object to a particular oversight arrangement or an individual appointed to carry out the oversight function for a Fund and require the Fund Manager to appoint a replacement if it appears to the Regulator that the requirements in (1) are not being met.
+
+Permitted oversight arrangements
+
+13.3.2
+
+The following oversight arrangements are hereby prescribed by the Regulator for the purposes of Rule 13.3.1(a) above:
+
+(a)
+
+an Oversight Committee comprising at least three individuals each of whom meets the suitability criteria prescribed in Rule 13.3.3; or
+
+(b)
+
+the Eligible Custodian or Trustee of the Fund, where the individuals undertaking the primary responsibility for the oversight function meet the suitability criteria prescribed in Rule 13.3.3.
+
+Guidance
+
+1.
+
+Rule 13.3.1 requires the Fund Manager of a Domestic Fund which is a Public Fund to establish and maintain one of the permitted oversight arrangements prescribed by the Regulator. Accordingly, such a Fund Manager must appoint one of the oversight arrangements specified in Rule 13.3.2 to every Public Fund which it manages.
+
+2.
+
+The membership

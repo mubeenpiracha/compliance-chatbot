@@ -1,0 +1,111 @@
+ contract under Rule 8.12.4;
+
+(3)
+
+expressly provides that, in proceedings brought by the Regulator for the enforcement of those provisions, the skilled person is not to have available by way of defence, set-off or counter claim any matter that is not relevant to those provisions;
+
+(4)
+
+if the contract includes an arbitration agreement, expressly provides that the Regulator is not, in exercising the right in (2) to be treated as a party to, or bound by, the arbitration agreement; and
+
+(5)
+
+provides that the provisions included in the contract under Rule 8.12.4 are irrevocable and may not be varied or rescinded without the Regulator's consent.
+
+8.13
+
+Imposing Restrictions on an Authorised Person or Recognised Body's business or on an Authorised Person or Recognised Body's dealing with property
+
+The Regulator has the power to impose a prohibition or requirement on an Authorised Person or Recognised Body in relation to its business or in relation to its dealing with property in circumstances where:
+
+(1)
+
+there is a reasonable likelihood that it will Contravene a requirement of any Regulations or Rules;
+
+(2)
+
+it has contravened a relevant requirement and there is a reasonable likelihood that the Contravention will continue or be repeated;
+
+(3)
+
+there is loss, risk of loss, or other adverse effect on its Customers;
+
+98
+
+GEN VER11.290725
+
+(4)
+
+an investigation is being carried out in relation to an act or omission by it that constitutes or may constitute a Contravention of any applicable Regulation or Rule;
+
+(5)
+
+an enforcement action has commenced against it for a Contravention of any applicable Regulation or Rule;
+
+(6)
+
+civil proceedings have commenced against it;
+
+(7)
+
+it or any of its Employees may be or has been engaged in Market Abuse;
+
+(8)
+
+it is subject to a merger;
+
+(9)
+
+a meeting has been called to consider a resolution for its Winding-Up;
+
+(10) an application has been made for the commencement of any insolvency proceedings or the appointment of any receiver, administrator or provisional liquidator under the law of any country, territory or jurisdiction outside ADGM for it;
+
+(11) there is a notification to dissolve it or strike it from the register maintained by the
+
+Registration Bureau, or a comparable register in another jurisdiction;
+
+(12) there is information to suggest that it is involved in Financial Crime; or
+
+(13) the Regulator considers that this prohibition or requirement is necessary to ensure Customers, Authorised Persons, Recognised Bodies, or the ADGM Financial System, are not adversely affected.
+
+99
+
+GEN VER11.290725
+
+9.
+
+REPRESENTATIVE OFFICES
+
+9.1
+
+Application
+
+(1)
+
+This Chapter applies to every Person who carries on, or intends to carry on, the Regulated Activity of Operating a Representative Office in or from ADGM.
+
+(2)
+
+Unless otherwise stated, the Rules apply to a Representative Office only with respect to activities carried on from an establishment maintained by it in ADGM.
+
+Guidance
+
+1.
+
+Because of the limited nature of the Regulated Activity of Operating a Representative Office, much of the ADGM Rulebook has been disapplied for Representative Offices. While most of the key provisions applying to a Representative Office are contained in these Rules, a Representative Office should ensure that it complies with and has regard to other relevant provisions in other applicable ADGM Rulebooks including AML. The application section of each Rulebook sets out which chapters, if any, apply to a Representative Office.
+
+2.
+
+A Representative Office should also ensure that it complies with and has regard to relevant provisions of FSMR and MKT. FSMR gives the Regulator a number of important powers in relation to Authorised Persons including powers of supervision and enforcement.
+
+3.
+
+The Regulated Activity of Operating a Representative Office is defined in Schedule 1 of FSMR. By virtue of this Schedule, the Regulated Activity of Operating a Representative Office is a stand-alone Regulated Activity.
+
+4.
+
+Whilst much Representative Office activity will not involve a continuing relationship with the Persons to whom marketing is directed, where such a relationship is necessary, the Representative Office will need to be careful to ensure that it does not carry on any activities other than the activity of Operating a Representative Office.
+
+5.
+
+A Representative Office which undertakes a Regulated Activity which is outside the scope of its Financial

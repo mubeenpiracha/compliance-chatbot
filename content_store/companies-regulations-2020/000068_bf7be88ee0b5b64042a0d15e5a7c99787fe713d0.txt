@@ -1,0 +1,147 @@
+) by a “substantial non-cash asset”.
+
+(2)
+
+An asset is a substantial asset in relation to a company if its value–
+
+130
+
+(a)
+
+exceeds 10% of the company’s asset value and is more than 5,000 US dollars, or
+
+(b)
+
+exceeds 100,000 US dollars.
+
+(3)
+
+For this purpose a company’s “asset value” at any time is–
+
+(a)
+
+the value of the company’s net assets determined by reference to its most recent statutory accounts, or
+
+(b)
+
+if no statutory accounts have been prepared or are required to be prepared, the amount of the company’s called-up share capital.
+
+(4)
+
+A company’s “statutory accounts” means its annual accounts prepared in accordance with Part 14, and its “most recent” statutory accounts means those in relation to which the time for sending them out to members (see section 406 (time allowed for sending out copies of accounts and reports)) is most recent.
+
+(5) Whether an asset is a substantial asset shall be determined as at the time the arrangement
+
+is entered into.
+
+181. Exception for transactions with members or other group companies
+
+Approval is not required under section 179 (substantial property transactions)–
+
+(a)
+
+for a transaction between a company and a person in his character as a member of that company, or
+
+(b)
+
+for a transaction between–
+
+(i)
+
+a holding company and its wholly-owned subsidiary, or
+
+(ii)
+
+two wholly-owned subsidiaries of the same holding company.
+
+182. Exception in case of company in winding up or administration
+
+(1)
+
+This section applies to a company–
+
+(a)
+
+that is being wound up (unless the winding up is a members’ voluntary winding up), or
+
+(b)
+
+that is in administration within the meaning of the Insolvency Regulations 2015.
+
+(2)
+
+Approval is not required under section 179 (substantial property transactions)–
+
+(a)
+
+on the part of the members of a company to which this section applies, or
+
+(b)
+
+for an arrangement entered into by a company to which this section applies.
+
+183. Exception for transactions on recognised investment exchange
+
+(1)
+
+Approval is not required under section 179 (substantial property transactions) for a transaction on a recognised investment exchange effected by a director, or a person connected with him, through the agency of a person who in relation to the transaction acts as an independent broker.
+
+(2)
+
+For this purpose “independent broker” means a person who, independently of the director or any person connected with him, selects the person with whom the transaction is to be effected.
+
+131
+
+184. Property transactions: consequences of contravention
+
+(1)
+
+This section applies where a company enters into an arrangement in contravention of section 179 (substantial property transactions).
+
+(2)
+
+The arrangement, and any transaction entered into in pursuance of the arrangement (whether by the company or any other person), is voidable at the instance of the company, unless–
+
+(a)
+
+restitution of any money or other asset that was the subject matter of the arrangement or transaction is no longer possible,
+
+(b)
+
+the company has been indemnified in pursuance of this section by any other persons for the loss or damage suffered by it, or
+
+(c)
+
+rights acquired in good faith, for value and without actual notice of the contravention by a person who is not a party to the arrangement or transaction would be affected by the avoidance.
+
+(3) Whether or not the arrangement or any such transaction has been avoided, each of the
+
+persons specified in subsection (4) is liable–
+
+(a)
+
+to account to the company for any gain that he has made directly or indirectly by the arrangement or transaction, and
+
+(b)
+
+(jointly and severally with any other person so liable under this section) to indemnify the company for any loss or damage resulting from the arrangement or transaction.
+
+(4)
+
+The persons so liable are–
+
+(a)
+
+any director of the company or of its holding company with whom the company entered into the arrangement in contravention of section 179 (substantial property transactions),
+
+(b)
+
+any person with whom the company entered into the arrangement in contravention of that section who is connected with a director of the company or of its holding company,
+
+(c)
+
+the director of the company or of its holding company with whom any such person is connected, and
+
+(d)
+
+any other director of the company

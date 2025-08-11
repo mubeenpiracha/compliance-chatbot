@@ -1,0 +1,103 @@
+ account which is held in the name of one Person but which is controlled by or held for the benefit of another Person whose true identity has not been disclosed to the Relevant Person.
+
+Guidance
+
+1.
+
+In Rule 7.2.1, ownership arrangements which may prevent the Relevant Person from identifying one or more Beneficial Owners include bearer shares and other negotiable instruments in which ownership is determined by possession.
+
+2.
+
+A Shell Bank is a bank that has no physical presence in the country in which it is incorporated and licensed, and which is unaffiliated with a regulated financial Group that is subject to effective consolidated supervision. The Regulator does not consider that the existence of a local agent or low-level staff constitutes physical presence.
+
+7.2.4
+
+If a Relevant Person uses a numbered account with an abbreviated name, it must ensure that:
+
+(a)
+
+such an account is used only for internal purposes;
+
+(b)
+
+it has undertaken the same CDD procedures in relation to the account holder as are required for other account holders;
+
+(c)
+
+it maintains the same information in relation to the account and account holder as is required for other accounts and account holders; and
+
+(d)
+
+staff performing AML/TFS functions, including staff responsible for identifying and monitoring transactions for suspicious activity, and staff performing compliance and audit functions, have full access to information about the account and the account holder.
+
+Guidance on anonymous accounts
+
+A Relevant Person should note that, in addition to the prohibition in Rule 7.2.3 against knowingly establishing anonymous accounts, accounts in a fictitious name or nominee accounts, the Federal AML Legislation also prohibits the opening of accounts held under borrowed, mock or fake names or accounts designated solely with numbers and without the names of account holders.
+
+Confidential
+
+39
+
+AML VER10.020125
+
+Guidance on Restricted Scope Companies
+
+1.
+
+A Restricted Scope Company is a corporate vehicle offering a greater degree of confidentiality than other forms of corporate entity in ADGM. Restricted Scope Companies are not required to file accounts and are not required to have their accounts audited. Restricted Scope Companies must file an annual return, articles, and details of their registered offices, directors and secretary (if they have one) with the ADGM Registrar of Companies.
+
+2.
+
+Relevant Persons will know that Restricted Scope Companies are subject to less onerous corporate disclosure requirements than other forms of corporate entities due to the requirement to have "(Restricted)" in a company's name. Given that only the constitution and details of the registered office of a Restricted Scope Company will be available in a public register, a Relevant Person will be required to have a bilateral dialogue with the Restricted Scope Company, in accordance with the RBA, to obtain any other relevant information which it needs to assess the money laundering risks to which it is exposed.
+
+3.
+
+Restricted Scope Companies should be forthcoming with relevant information in response to requests by other Persons and entities for the purpose of compliance of the latter with the requirements in the AML Rulebook. The fact that Restricted Scope Companies are not subject to strict standards of disclosure of corporate documentation to a public registry should not be interpreted by Restricted Scope Companies to limit or prohibit their providing of any relevant information to other Persons and entities for AML/TFS purposes.
+
+Confidential
+
+40
+
+AML VER10.020125
+
+8.
+
+CUSTOMER DUE DILIGENCE
+
+8.1
+
+Requirement to undertake Customer Due Diligence
+
+8.1.1
+
+(1)
+
+A Relevant Person that is an Authorised Person or a Recognised Body must undertake CDD under Rule 8.3.1 where the Relevant Person:
+
+(a)
+
+establishes a business relationship with a customer;
+
+(b)
+
+carries out an occasional Transaction for a customer that is of an amount equal to or more than USD15,000;
+
+(c)
+
+suspects a customer of, or a Transaction to be for the purposes of, money laundering; or
+
+(d)
+
+doubts the veracity or adequacy of any documents or information previously provided by, or obtained for, a customer in relation to (a), (b) or (c) above.
+
+(2)
+
+A Relevant Person that is a DNFBP must undertake CDD under Rule 8.3.1 where it:
+
+(a)
+
+is a real estate agency and it prepares for or is involved in a Transaction, or the provision of real estate agency services to a Person, that involves the buying and selling of real property;
+
+(b)
+
+is a dealer in precious

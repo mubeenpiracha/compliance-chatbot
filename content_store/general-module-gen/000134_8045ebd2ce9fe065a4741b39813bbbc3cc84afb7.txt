@@ -1,0 +1,41 @@
+ may, but is not required to exercise, the Token is an Investment Token that is an Option and therefore also a Derivative Token.
+
+Example
+
+40.
+
+B owns an issued Share in a company. B issues a Token to A which confers on A the right to buy that Share from B at a set price on a certain date, should A choose to do so. The Token confers rights and obligations that are substantially similar in nature to those conferred by a call Option and is therefore a Derivative Token that is considered to be an Option.
+
+When is an Investment Token a Future?
+
+41.
+
+Futures are instruments comprising rights under a contract which meets the criteria in the definition in Rule A2.3.1(b). There are two types of Futures; those covered under Rule A2.3.1(b)(i), referred to in this Guidance as ‘commodity Futures’, and those covered under Rule A2.3.1(b)(ii), referred to in this Guidance as ‘financial Futures’. A financial Future is sometimes referred to as a contract for difference, or CFD.
+
+42.
+
+If a Token confers rights and obligations that are substantially similar in nature to those conferred by a contract meeting the definition of a Future, the Token is an Investment Token that is a Future and therefore a Derivative Token.
+
+Example 1
+
+43.
+
+This example relates to a commodity Future under Rule A2.3.2(b)(i). Firm B arranges for its client, A to purchase a Token on a regulated exchange. Embedded in that token are the terms of a contract between the holder of that Token and Company C, which A accepts by purchasing the Token. The contract is for Company C to deliver a specified type and quantity of a commodity at a future date and at a specified price to be paid by A. A is entering the contract for investment purposes, as he has no use for the commodity but believes that its value will rise and he will be able to sell the rights under the contract (or settle them with Company C in cash) to make a profit on or before the delivery date. The Token confers rights and obligations substantially similar in nature to a contract falling within the definition of a Future at Rule A2.3.1(b)(ii). Therefore, the Token is a Derivative Token and is considered a Future.
+
+Example 2
+
+44.
+
+This example relates to a financial Future or CFD under Rule A2.3.1(b)(ii). Firm B enters into a contract with its client, A. The contract provides that A or B will receive
+
+206
+
+GEN/VER67/03-25
+
+GENERAL (GEN)
+
+a profit or incur a loss, based on the difference between the value of the FTSE 100 index on the opening day, and the closing day, of the contract. The contract is leveraged such that the profit or loss of A will be 5 times the amount of margin A posted with B to open the position. Under this contract, A’s and B’s right to a profit or loss will depend on whether the value of the FTSE 100 index moved up or down from the opening day to the closing day. If the rights conferred under that contract are represented by a Token issued by B, the Token confers rights and obligations substantially similar in nature to a contract falling within the definition of a Future at Rule A2.3.1(b)(ii). Therefore, the Token is a Derivative Token and is considered a Future.
+
+207
+
+GEN/VER67/03-25

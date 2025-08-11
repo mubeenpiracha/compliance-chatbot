@@ -1,0 +1,91 @@
+ to the nature, scale and complexity of its Underwriting and sub-Underwriting business.
+
+(2)
+
+In particular, an Authorised Person must have systems to monitor and control its Underwriting Exposures between the time of the initial commitment and working day one in the light of the nature of the risks incurred in the markets in question.
+
+Guidance
+
+An Authorised Person should take reasonable steps to:
+
+a.
+
+allocate responsibility for the management of sub-Underwriting business;
+
+its Underwriting and
+
+b.
+
+allocate adequate resources to monitor and control its Underwriting and sub-Underwriting business;
+
+c.
+
+satisfy itself that its systems to monitor Exposure to Counterparties will calculate, revise and update its Exposure to each Counterparty arising from its Underwriting or sub-Underwriting business;
+
+d.
+
+satisfy itself of the suitability of each Person who performs functions for it in connection with the firm's Underwriting and sub-Underwriting business having regard to the Person's skill and experience; and
+
+e.
+
+satisfy itself that its procedures and controls to monitor and manage its Underwriting business address, on an on-going basis, the capacity of sub-underwriters to meet sub-Underwriting commitments.
+
+372
+
+PRU VER17.290725
+
+A6.9
+
+Use of internal models for Market Risk
+
+A6.9.1
+
+Criteria for use of internally developed Market Risk models
+
+Guidance
+
+Qualitative standards
+
+1.
+
+Any internal model used for purposes of Chapter 5 of these Rules should be conceptually sound and implemented with integrity and, in particular, all of the following qualitative requirements should be met:
+
+a.
+
+any internal model used to calculate Capital Requirements for equity risk, interest rate risk, foreign exchange risk or commodities risk should be closely integrated into the daily risk management process set out in (b) and serve as the basis for reporting risk Exposures to senior management;
+
+b.
+
+the Authorised Person should have a risk control unit that is independent from business trading units and reports directly to senior management. The unit should be responsible for designing and implementing any internal model used for purposes of Chapter 5. The unit should conduct the initial and on-going validation of any internal model used for purposes of Chapter 5. The unit should produce and analyse daily reports on the output of any internal model used for calculating Capital Requirements for position risk, foreign exchange risk and commodities risk, and on the appropriate measures to be taken in terms of trading limits;
+
+c.
+
+the Authorised Person's management body and senior management should be actively involved in the risk control process and the daily reports produced by the risk control unit are reviewed by a level of management with sufficient authority to enforce both reductions of positions taken by individual traders as well as in the Authorised Person's overall risk Exposure;
+
+d.
+
+the Authorised Person should have sufficient numbers of staff skilled in the use of sophisticated internal models, and including the ones used for purposes of Chapter 5, in the trading, risk-control, audit and back-office areas;
+
+e.
+
+the Authorised Person should have established procedures for monitoring and ensuring compliance with a documented set of internal policies and controls concerning the overall operation of its internal models, and including the ones used for purposes of Chapter 5;
+
+f.
+
+any internal model used for purposes of Chapter 5 should have a proven track record of reasonable accuracy in measuring risks;
+
+373
+
+PRU VER17.290725
+
+2.
+
+g.
+
+the Authorised Person should frequently conduct a rigorous programme of stress testing, including reverse stress tests, which encompasses any internal model used for purposes of Chapter 5 and the results of these stress tests should be reviewed by senior management and reflected in the policies and limits it sets. This process should particularly address illiquidity of markets in stressed market conditions, Large Exposures and concentration risks, one way markets, event and jump-to-default risks, non-linearity of products, deep out-of-the-money positions, positions subject to the gapping of prices and other risks that may not be captured appropriately in the internal models. The shocks applied should reflect the nature of the portfolios and the time it could take to hedge out or manage risks under severe market conditions; and
+
+h.
+
+the Authorised Person should conduct, as part of its regular internal auditing process, an independent review of its internal models, and including the ones used for purposes of Chapter 5.
+
+The review referred to in h. of Guidance note 1 above, should include the activities both

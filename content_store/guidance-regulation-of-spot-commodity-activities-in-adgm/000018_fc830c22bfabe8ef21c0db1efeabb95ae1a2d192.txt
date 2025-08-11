@@ -1,0 +1,75 @@
+ theft, fraud, natural disasters and default.
+
+Third party audit obligations
+
+101) Authorised Persons should have independent third party verification or checks carried out at an appropriate amount of time to verify that the due diligence requirements for Accepted Spot Commodities are suitable and robust.
+
+APPLICATION PROCESS
+
+102) The Application process to become an Authorised Person is broadly broken down into five stages, as follows:
+
+a) Due Diligence & Discussions with FSRA team(s);
+
+b)
+
+Submission of Formal Application;
+
+c) Granting of In Principle Approval;
+
+d) Granting of Final Approval; and
+
+e)
+
+‘Operational Launch’ Testing.
+
+103) Prior to the submission of an Application, all Applicants are expected to provide the FSRA with a clear explanation of their proposed business model and to demonstrate how the Applicant will meet all applicable FSRA Rules and requirements. These sessions will also involve the Applicants providing a number of in-depth technology demonstrations, across all aspects of its proposed Spot Commodities activities.
+
+Submission of Formal Application
+
+104) Following discussions with the FSRA, and upon the FSRA having reasonable comfort that the Applicant’s proposed business processes, technologies and capabilities are at a sufficiently advanced stage, the Applicant will be required to submit a completed Spot Commodities Application Form, and supporting documents, to the FSRA. Payment of the fees applicable to the Application, as set out in paragraphs 109-115, must also be made at the time of submission. The FSRA will only consider an Application as having been formally submitted, and commence its formal review of the Application, upon receipt of both the completed Application and the associated fees.
+
+Granting of In Principle Approval (IPA)
+
+105) The FSRA will undertake an in depth review of the Application, and supporting documents, submitted by an Applicant. The FSRA will only consider granting an IPA for a FSP to those Applicants that are considered able to adequately meet all applicable Rules and requirements. An Applicant will be required to meet all conditions applicable to the IPA prior to being granted with final approval and an FSP for the relevant activity. Granting of Final Approval (Financial Services Permission)
+
+106) Subject to being satisfied that the Applicant has met all conditions applicable to the IPA, the FSRA will grant the Applicant with final approval for an FSP for the relevant Regulated Activities. Final approval will be conditional upon the FSRA being further
+
+22
+
+VER02.181223
+
+satisfied in relation to the Applicant’s operational testing and capabilities, and completion of a third party verification of the Applicant’s systems where applicable.
+
+‘Operational Launch’ Testing
+
+107) An Applicant will only be permitted to progress to operational launch when it has completed its operational launch testing to the FSRA’s satisfaction, including completion of third party verification of the Applicant’s systems and controls, where applicable.
+
+108) Noting the heightened risks associated with activities related to Spot Commodities, Authorised Persons will be closely supervised by the FSRA once licensed. Authorised Persons will be expected to meet frequently with the FSRA, will be subject to ongoing assessments and should be prepared to undergo thematic reviews from time to time. FEES
+
+Authorisation and supervision fees
+
+109) The Fees applicable to Authorised Persons in relation to Spot Commodities have been established in consideration of the risks involved in relation to Spot Commodities activities and the supervisory requirements placed on the FSRA to suitably regulate these Authorised Persons and Spot Commodities activities in ADGM.
+
+110) Pursuant to FEES Rule 3.19.1, an Applicant for an FSP to conduct a Regulated Activity using Spot Commodities must pay, at the time of submission of its Application, an initial authorisation fee of (as applicable):
+
+a)
+
+$20,000; or
+
+b)
+
+$125,000 if the Applicant is seeking to operate an RIE, MTF or OTF (in relation to Spot Commodities).
+
+111) Pursuant to FEES Rule 3.18.2 annual supervision fees for an Authorised Person conducting a Regulated Activity using Spot Commodities, payable in accordance with paragraph 1 of the FEES Rulebook, are set as follows:
+
+a)
+
+$15,000; or
+
+b)
+
+$60,000 if the Applicant is seeking to operate an RIE, MTF or OTF (in relation to Spot Commodities).
+
+Cumulative application of Fees
+
+112) If an Applicant/Authorised Person will be conducting multiple Regulated Activities using

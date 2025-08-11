@@ -1,0 +1,137 @@
+abilisation Disclosure
+
+(3)
+
+If a Stabilisation Manager has conducted Price Stabilisation during the Stabilisation Window, then he must, within two Business Days following a Price Stabilisation transaction, disclose to the Regulator the following details:
+
+Confidential
+
+73
+
+MKT VER09.020125
+
+(a)
+
+the total number of Relevant Securities transacted by the Stabilisation Manager and any Stabilisation Agents;
+
+(b)
+
+the average price of Relevant Securities transacted during the Price Stabilisation;
+
+(c)
+
+whether a Price Stabilisation transaction was undertaken otherwise than through the central order book of the relevant Recognised Investment Exchange;
+
+(d)
+
+if the Stabilisation Manager has an outstanding short position, the number of Relevant Securities in that short position; and
+
+(e)
+
+any additional information the Regulator requires the Stabilisation Manager to disclose.
+
+Guidance
+
+Rule 6.2.9(3) requires a Stabilisation Manager to disclose to the Regulator details of each Price Stabilisation transaction conducted during the Stabilisation Window. The purpose of this Rule is to provide the Regulator with an understanding of the price support afforded the Relevant Securities during the Stabilisation Window and the manner in which Price Stabilisation occurred.
+
+(4)
+
+Within one week of the end of the Price Stabilisation period, the following information must be adequately disclosed to the public by the Stabilisation Manager:
+
+(a)
+
+whether or not Price Stabilisation was undertaken;
+
+(b)
+
+the date at which Price Stabilisation started;
+
+(c)
+
+the date at which Price Stabilisation last occurred;
+
+(d)
+
+the total number of Relevant Securities bought by the Stabilisation Manager and Stabilisation Agents during the Stabilisation Window;
+
+(e)
+
+whether a Price Stabilisation transaction was undertaken otherwise than through the central order book of the relevant Recognised Investment Exchange;
+
+(f)
+
+if the Stabilisation Manager has an outstanding short position, the number of Relevant Securities in that short position;
+
+(g)
+
+the price range within which Price Stabilisation was carried out, for each of the dates during which Price Stabilisation transactions were carried out; and
+
+(h)
+
+any additional information which the Regulator requires the Stabilisation Manager to disclose.
+
+Confidential
+
+74
+
+MKT VER09.020125
+
+(5)
+
+The Stabilisation Manager shall act as central point of inquiry for any request from the Regulator.
+
+6.2.10 Specific price conditions
+
+(1)
+
+In the case of an Offer of Shares or other Securities equivalent to Shares, Price Stabilisation of the Relevant Securities shall not in any circumstances be executed above the Offer price.
+
+(2)
+
+In the case of an Offer of securitised Debentures convertible or exchangeable into Financial Instruments as referred to in paragraph (1), Price Stabilisation of those Financial Instruments shall not in any circumstances be executed above the market price of those Financial Instruments at the time of the public disclosure of the final terms of the new Offer.
+
+6.2.11 Permitted Price Stabilisation
+
+(1)
+
+A Stabilisation Manager and, if applicable, his Stabilisation Agents may in respect of Relevant Securities:
+
+(a)
+
+purchase, or agree to purchase, such Relevant Securities; or
+
+(b)
+
+offer or attempt to do anything in (i) with a view to stabilising the market price of such Relevant Securities.
+
+(2)
+
+A Stabilisation Manager and his Stabilisation Agents may, in respect of Relevant Securities:
+
+(a)
+
+make allotments of a greater number of the Relevant Securities than were offered (‘over-allotment’);
+
+(b)
+
+sell or agree to sell the Relevant Securities in order to establish a short position in them;
+
+(c)
+
+buy or agree to buy the Relevant Securities in order to close out or liquidate any position that has been established by Price Stabilisation under (a) or (b);
+
+(d)
+
+sell or agree to sell the Relevant Securities in order to close out or liquidate any position that has been established by Price Stabilisation under (a) or (b); or
+
+(e)
+
+offer or attempt to do anything permitted by (a), (b), (c) or (d).
+
+(3)
+
+The Stabilisation Manager must not conduct, nor allow his Stabilisation Agent to conduct, Price Stabilisation in any case where:
+
+(a)
+
+the market price of the Relevant Securities is falsely higher than the price which would otherwise prevail;

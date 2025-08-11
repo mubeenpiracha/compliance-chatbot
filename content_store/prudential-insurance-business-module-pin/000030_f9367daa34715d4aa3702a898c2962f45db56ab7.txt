@@ -1,0 +1,97 @@
+ in writing within 30 days if the Insurer makes an investment in a body corporate to which it is Related, if the total investment in the Related body corporate by the Insurer and other bodies corporate to which the Insurer is Related exceeds ten per cent of the body corporate’s paid-up capital or voting rights.
+
+INSURERS IN RUN-OFF
+
+Introduction
+
+Subject to Rule 9.1.2, chapter applies to all Insurers.
+
+In the case of an Insurer that is not a DIFC Incorporated Insurer, this chapter applies only in respect of Insurance Business carried on by the Insurer through an establishment in the DIFC.
+
+41
+
+PIN/VER18/04-23
+
+9.1.3
+
+9.1.4
+
+9.2
+
+9.2.1
+
+PRUDENTIAL – INSURANCE BUSINESS (PIN)
+
+Guidance
+
+1.
+
+This chapter sets out prudential provisions applying to Insurers that cease to carry on Insurance Business, either wholly or in respect of a particular Class of Business. The provisions are also applicable to Cells and Long-Term Insurance Funds of Insurers, but do not (because of the effect of Rule 9.1.2) apply to non-DIFC Insurance Business of Insurers that are not DIFC Incorporated Insurers.
+
+2.
+
+Sections 9.2 and 9.3 set out actions that an Insurer is required to take when it decides to cease to effect or carry out Contracts of Insurance. Sections 9.4, 9.5 and 9.6 give the DFSA specific powers relating to the supervision of such Insurers.
+
+For the purposes of this chapter, in determining whether an Insurer is effecting Contracts of Insurance, or has ceased effecting Contracts of Insurance, including Contracts of Insurance effected through a Cell or a Long-Term Insurance Fund, Contracts of Insurance effected under a term of an existing Contract of Insurance must be ignored.
+
+Guidance
+
+The effect of Rule 9.1.3 is to disregard, for the purposes of determining whether the chapter applies, Contracts of Insurance that are effected by the Insurer, as a consequence of a term of an existing Contract of Insurance. A contract will normally only be regarded as being effected under a term of an existing contract if the Insurer does not have discretion to decline to effect the new contract, or if it would be unreasonable for the Insurer, having regard to the interests of the policyholder, to decline to effect it.
+
+In this chapter:
+
+(a)
+
+an Insurer in run-off means an Insurer that has ceased to effect Contracts of Insurance in respect of the whole of its Insurance Business (or, in the case of an Insurer that is not a DIFC Incorporated Insurer, the whole of its Insurance Business carried on through an establishment in the DIFC), and a Cell in run-off and a Long-Term Insurance Fund in run-off are construed accordingly; and
+
+(b)
+
+going into run-off or placing Insurance Business into run-off means ceasing to effect Contracts of Insurance, and placing a Cell or a Long-Term Insurance Fund into run-off are construed accordingly.
+
+Insurers ceasing to effect contracts of insurance in a class of business
+
+This section applies to an Insurer that ceases or decides to cease to effect new Contracts of Insurance:
+
+(a)
+
+in a Class of Business in which the Insurer has previously carried on Insurance Business; or
+
+(b)
+
+in respect of a Cell or a Long-Term Insurance Fund, in a Class of Business in which the Insurer has previously carried on Insurance Business through that Cell or Long-Term Insurance Fund.
+
+42
+
+PIN/VER18/04-23
+
+9.2.2
+
+9.2.3
+
+9.3
+
+9.3.1
+
+9.3.2
+
+9.3.3
+
+9.3.4
+
+PRUDENTIAL – INSURANCE BUSINESS (PIN)
+
+An Insurer to which this section applies must, within 28 days of a decision to cease to effect new Contracts of Insurance in a Class of Business, notify the DFSA of its decision, in a written notice specifying the following details:
+
+(a)
+
+the effective date of the decision to cease effecting Contracts of Insurance;
+
+(b)
+
+the Class of Business to which the decision relates; and
+
+(c)
+
+where relevant, the Cell or Long-Term Insurance Fund to which the decision relates.
+
+An Ins

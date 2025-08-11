@@ -1,0 +1,105 @@
+(c)
+
+any risks associated with the investment in the single property, including risks arising from or affecting income to be derived from the uses or occupants of the property.
+
+Guidance
+
+A Fund may be considered to invest in a single property if the Fund Property (apart from cash or other assets held for management purposes) comprises a single building (or a single building with ancillary or adjacent buildings) managed by or on behalf of the Operator of the Fund as a single enterprise.
+
+134
+
+CIR/VER38/08-24
+
+COLLECTIVE INVESTMENT RULES (CIR)
+
+14.4.4A Without limiting any other disclosure obligations of the Fund Manager under these Rules, if the Fund Manager of a Public Property Fund itself acts as custodian of Real Property in accordance with Rule 13.4.2, it must prominently disclose in the Fund’s Prospectus:
+
+(a)
+
+that it acts as custodian of the Real Property;
+
+(b)
+
+the risks that may arise as a result of it acting as custodian rather than delegating the function to an Eligible Custodian; and
+
+(c)
+
+the measures and safeguards it has in place to ensure the proper segregation and protection of the Real Property.
+
+14.4.4B Without limiting any other disclosure obligations of the Fund Manager under these Rules, if the Fund Manager of a Public Property Fund has approval to enter into Related Party Transactions in accordance with Rule 13.4.11A, it must disclose that fact in the Fund’s Prospectus.
+
+Prospectus for a Private Equity Fund
+
+14.4.5
+
+If a Fund is a Private Equity Fund, the Fund Manager must provide the following in the Fund’s Prospectus:
+
+(a)
+
+a description of the arrangements in place for the safekeeping of monies raised from Unitholders but not yet invested in the proposed undertaking or venture; and
+
+(b)
+
+a description of the exit arrangements for Unitholders.
+
+Prospectus for a Hedge Fund
+
+14.4.6
+
+A Fund Manager of a Hedge Fund must prominently disclose to prospective Unitholders in the Prospectus and any other financial promotions relating to the Fund, the following Mandatory Hedge Fund Disclosure Statement:
+
+“When considering investment in a Hedge Fund you should consider the fact that some Hedge Fund products use leverage and other speculative investment practices that may increase the risk of investment loss, can be illiquid, may involve complex tax structures, often charge high fees, and in many cases the underlying investments are not transparent and are known only to the Hedge Fund Investment Manager.
+
+Returns from Hedge Funds can be volatile and you may lose all or part of your investment. With respect to single manager products the manager has total trading authority and this could mean a lack of diversification and higher risk. The Hedge Fund may be subject to substantial expenses that are generally offset by trading profits and other income. A portion of those fees is paid to the Hedge Fund Manager.”
+
+Risk warning for a Money Market Fund
+
+14.4.7
+
+A Fund Manager of a Money Market Fund that is a Public Fund must ensure that the Fund’s Prospectus includes a prominent warning:
+
+135
+
+CIR/VER38/08-24
+
+14.4.8
+
+COLLECTIVE INVESTMENT RULES (CIR)
+
+(a)
+
+drawing to the attention of investors the different nature of a Unit in a Money Market Fund compared to a Deposit;
+
+(b)
+
+that the capital of an investment in a Money Market Fund is not guaranteed; and
+
+(c)
+
+that the value of Units in the Money Market Fund may fluctuate.
+
+Disclosure about an Exchange Traded Fund (ETF) and associated risks
+
+A Fund Manager of an Exchange Traded Fund (ETF) must include in its Prospectus details relating to:
+
+(a)
+
+the type of ETF and its characteristics;
+
+(b)
+
+the risks associated with the type of ETF;
+
+(c)
+
+the investment methodology and strategies the ETF proposes to adopt to track the referenced index or benchmark;
+
+(d) a clear description of the relevant indices or other benchmark the ETF is designed to track, timely information about the underlying components (including their liquidity) of the relevant index or the benchmark and, if the Price Information Provider is a Related Party, that fact;
+
+(e)
+
+clear signposts to guide investors to relevant websites or sources of information provided by Price Information Providers, as specified in A9.1.2(2)(b)(i);
+
+(f)
+
+information about whether iNAV is made available by the relevant exchange, and if so

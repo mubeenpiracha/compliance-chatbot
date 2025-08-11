@@ -1,0 +1,99 @@
+5)
+
+Where a DLT Foundation defaults in complying with subsection (4) by the filing deadline, the DLT Foundation must pay a late filing fee up to the maximum amount prescribed in rules made by the Board.
+
+By-laws
+
+26. By-laws of the DLT Foundation
+
+No DLT Foundation shall have by-laws.
+
+PART 7: GOVERNANCE AND COUNCIL
+
+Key Principles
+
+27.
+
+Key Principles
+
+(1)
+
+The management bodies of the DLT Foundation shall be listed in the Charter (the “Organisational and Governance Structure”). The Organisational and Governance Structure shall include the DLT Foundation Council and, if the DLT Foundation is issuing Tokens, the category of Tokenholders exercising their rights by Voting of Tokenholders. The Organisational and Governance Structure may include its Founders, Guardian and Beneficiaries (if any).
+
+(2)
+
+DLT Foundations issuing Tokens shall set forth in the Charter which decisions relating to the DLT Foundation and its activities, other than decisions as to the Reserved Matters, shall be Delegated Matters for the Tokenholders and the categories of Tokenholders which will have voting rights and, if applicable, circumstances in which such voting rights arise for each category of Tokenholders.
+
+(3)
+
+The Founders, Foundation Council and all other bodies within the Organisational and Governance Structure shall be obliged to comply with each Resolution of any body within the Organisational and Governance Structure taken in compliance with the requirements of the Charter (including the requirements as to the quorum, method of vote and required majority) on the matters on which such body within the Organisational and Governance Structure is allowed to decide upon, subject to such matters and decisions not being unlawful.
+
+(4)
+
+Irrespective of any provisions of the Charter, the following requirements shall apply to DLT Foundation Council and Councillors:
+
+19
+
+(5)
+
+(a)
+
+the DLT Foundation Council shall ensure that the DLT Foundation complies with the Relevant Obligations, including these Regulations;
+
+(b)
+
+the DLT Foundation Council shall ensure that the DLT Foundation acts in accordance with the Charter, in particular that any Delegated Matters are reserved for the body within the Organisational and Governance Structure to which they are delegated subject to the following:
+
+i.
+
+the DLT Foundation Council shall be entitled to (and each Councillor shall) block (impose a veto) on any decision of any other body within the Organisational and Governance Structure, including a decision on the Delegated Matters, if such decision, in its view:
+
+A.
+
+violates the Relevant Obligations, public order or morality or the Charter or contradicts the principles set forth in the White Paper; or
+
+B.
+
+could lead to a detrimental result caused by an attack on the DLT Framework,
+
+(the “Veto Rights”);
+
+ii.
+
+the scope of the Veto Rights set forth herein cannot be narrowed down in the Charter;
+
+iii.
+
+any decision or resolution on a Delegated Matter shall be subject to confirmation by the DLT Foundation Council;
+
+iv.
+
+each Councillor shall be accountable for compliance with this subsection (4) and exercising Veto Rights in accordance with this subsection (4);
+
+v.
+
+any breach by a Councillor of this subsection (4) shall result in a fine of up to level 8, unless that Councillor is able to prove he is not in default and for these purposes, a Person is in default unless such Person proves that such Person acted honestly, with Reasonable Skill, Care and Diligence and that in the circumstances in which the activities were carried out, the default was excusable;
+
+vi.
+
+subsection (5) shall apply in the circumstances set forth below; and
+
+vii.
+
+neither the Charter, nor any other arrangements may relieve any Councillor of liability for a breach of duty arising from such Councillor’s own fraud, wilful misconduct or gross negligence or grant to the Councillor any indemnity against the DLT Foundation Assets in respect of any such liability.
+
+Without prejudice to the foregoing, irrespective of any provisions of the Charter, the following requirements shall apply:
+
+(a)
+
+if any other Person (the “Relevant Person”):
+
+20
+
+i.
+
+can be, jointly or together with other Persons acting in concert, treated as the Beneficial Owner;
+
+ii.
+
+exercises the majority of actual or shadow voting rights in respect of certain Delegated Matters

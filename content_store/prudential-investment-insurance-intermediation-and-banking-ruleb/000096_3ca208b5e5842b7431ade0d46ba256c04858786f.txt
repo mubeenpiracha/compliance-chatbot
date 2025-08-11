@@ -1,0 +1,130 @@
+;
+
+(d)
+
+no more than one member of the Governing Body of the SPE is an officer, Partner, or Employee of the Authorised Person;
+
+(e)
+
+the SPE does not have a name that implies any connection with the Authorised Person or any other member of the Authorised Person's Group;
+
+(f)
+
+the Authorised Person does not fund the SPE except where permitted under the requirements for Credit Enhancement below;
+
+(g)
+
+the Authorised Person does not provide temporary finance to the SPE to cover cash shortfalls arising from delayed payments or non-performance of loans transferred except where it meets the requirements for liquidity support below;
+
+(h)
+
+the Authorised Person does not bear any of the recurring expenses of the SPE; and
+
+(i)
+
+any agreements between the Authorised Person and the SPE are at market rates and at arm's length.
+
+4.14.63 Where an Originator acts as Underwriter for the Securities issued, the underlying items will not be regarded as being transferred until 90% of the total issuance has been sold to third parties.
+
+Dealing
+
+4.14.64 An Originator dealing in Securities which would attract a Credit Quality Grade of 4 or better and issued by an SPE must deduct any holdings in such Securities from its CET1 Capital unless the holding is subject to:
+
+(a)
+
+an ongoing limit of 3% of the Securities issued; and
+
+(b)
+
+a limit of 10% of the Securities issued for a period of five business days:
+
+(i)
+
+immediately following close of the transaction; or
+
+(ii)
+
+in the case of Revolving Securitisations only, at the beginning of the scheduled amortisation period.
+
+4.14.65 An Authorised Person acting as the Originator and holding in excess of the dealing
+
+limits in Rule 4.14.65 must either:
+
+(a)
+
+where the holding is less than 10%, deduct from its CET1 Capital the excess over the dealing limit; or
+
+168
+
+PRU VER17.290725
+
+(b)
+
+where the holding is greater than 10%, regard the transferred risks associated with the items as being back on its balance sheet.
+
+4.14.66 An Authorised Person acting as the Originator must not deal in the Securities during the
+
+amortisation period.
+
+4.14.67 An Authorised Person acting as the Sponsor dealing in the Securities issued by the SPE
+
+must include these Securities in the calculation of its Credit RWAs.
+
+4.14.68 An Authorised Person involved in Synthetic Securitisations must seek individual guidance on a case-by-case basis from the Regulator regarding the regulatory capital treatment of such transactions.
+
+Recognition of eligible financial Collateral under FCSA Approach
+
+4.14.69 An Authorised Person which has taken eligible financial Collateral for an SE Exposure and is using the FCSA may recognise the effect of the eligible financial Collateral as follows:
+
+(a)
+
+break down the SE Exposure into:
+
+(i)
+
+a collateralised portion with E equal to the latest fair market value of the eligible financial Collateral; and
+
+(ii)
+
+an uncollateralised portion whose Exposure value equals the E of the SE Exposure less the latest fair market value of the eligible financial Collateral; and
+
+(b)
+
+apply the CRW that is applicable to the eligible financial Collateral to the collateralised portion calculated in accordance with (a)(i) to calculate the Credit RWA amount of the collateralised portion as though the Authorised Person had a direct Exposure to the eligible financial Collateral; and
+
+(c)
+
+either:
+
+(i)
+
+apply the CRW that is applicable to the SE Exposure to the uncollateralised portion calculated in accordance with (a)(ii) to calculate the Credit RWA amount of the uncollateralised portion; or
+
+(ii)
+
+include the uncollateralised portion as a deduction from CET1 Capital.
+
+Guidance
+
+Collateral in the context of a SE Exposure refers to assets used to hedge the Credit Risk of a securitisation Exposure rather than the underlying Exposures of the securitisation, including Collateral pledged by an SPE.
+
+169
+
+PRU VER17.290725
+
+4.15
+
+Large Exposures
+
+Applicability and limits
+
+4.15.1
+
+This Section applies with respect to Trading Book transactions and Non-Trading Book transactions.
+
+4.15.2
+
+For the purposes of this Section an Exposure that arises in the Trading Book is calculated by summing the following:
+
+(a)
+

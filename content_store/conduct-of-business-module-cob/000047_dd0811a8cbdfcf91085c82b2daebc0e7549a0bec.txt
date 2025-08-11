@@ -1,0 +1,86 @@
+ (4) should present a fair and balanced view of all the relevant retail accounts operated by the Authorised Firm or, where relevant, its Group members. The data should not be used on a selective basis to create a misleading impression (i.e. not cherry picked).
+
+4.
+
+For the purposes of calculating the losses of trading accounts under Rule 6.16.4(3)(b) and (4), an Authorised Firm needs to take into account all realised and unrealised profits and losses arising from trading in Restricted Speculative Investments, less fees and charges levied to the relevant account. The calculation should not include any profits or losses from investments other than Restricted Speculative Investments. Any new investment of funds, as well as
+
+66
+
+COB/VER48/03-25
+
+CONDUCT OF BUSINESS (COB)
+
+withdrawals from the relevant accounts, need to be excluded from the calculation of profits and losses.
+
+5.
+
+An Authorised Firm would have to consider the need to give a new warning to an existing Retail Client where there is a material change to the risk profile of the type of Restricted Speculative Investments offered to the Retail Client i.e. from those specified in a warning previously given to that Retail Client under Rule 16.6.4(1). The DFSA considers issuing a new warning will be appropriate, if the risks associated with a new Restricted Speculative Investment to be offered to the Retail Client are materially different to those previously offered, due to factors such as the volatility of the underlying reference or leverage.
+
+6.
+
+For the purposes of Rule 16.6.4(6), if the Authorised Firm provides more frequent reporting to a Retail Client, for example, under Rule 6.10.2(2), the update may be included as part of that report.
+
+Risk Warning on marketing and other communications
+
+6.16.5 (1) Where an Authorised Firm presents any marketing or educational materials and other communications relating to a Restricted Speculative Investment on a website, in general media or as part of a distribution made to existing or potential new clients, it must include a risk warning in a prominent place at or near the top of each page of the materials or communication.
+
+(2)
+
+The risk warning referred to in (1) must set out the risks associated with trading in the Restricted Speculative Investment of the type referred to in the materials or communications, in a clear, concise and easy to understand manner.
+
+(3)
+
+If the material referred to in (1) is provided on a website or an application that can be downloaded to a mobile device, the warning must be:
+
+(a)
+
+statically fixed and visible at the top of the screen even when a person scrolls up or down the webpage; and
+
+(b)
+
+included on each linked webpage on the website.
+
+Guidance
+
+1.
+
+The warning required under Rule 6.16.5 is different to the risk warning required under Rule 6.16.4. The latter applies only to an Authorised Firm that Deals in a Restricted Speculative Investment with a Retail Client. The requirement in Rule 6.16.5 is more general and applies to all communications made by any Authorised Firm that:
+
+(a) deals in Restricted Speculative Investments, whether as principal or as agent;
+
+(b) advises on Restricted Speculative Investments; or
+
+(c) arranges deals in Restricted Speculative Investments.
+
+2.
+
+These requirements supplement the overarching obligations applicable to an Authorised Firm under GEN Rules 3.2.1 and 4.2.6.
+
+67
+
+COB/VER48/03-25
+
+CONDUCT OF BUSINESS (COB)
+
+Margin Requirements for Retail Clients
+
+6.16.6 (1) An Authorised Firm that Deals in a Restricted Speculative Investment must not open a position with a Retail Client unless the Retail Client has posted a Margin of at least:
+
+(a)
+
+3.3% of the value of the exposure that the trade provides when the underlying asset is a major currency pair;
+
+(b)
+
+5% of the value of the exposure that the trade provides when the underlying asset is a non-major currency pair, major equity index, treasury asset or gold;
+
+(c)
+
+10% of the value of the exposure that the trade provides when the underlying asset is a non-major equity index or a commodity other than gold;
+
+(d)
+
+50% of the value of the exposure that the trade provides when the underlying asset is a Crypto Token; or
+
+(e)
+

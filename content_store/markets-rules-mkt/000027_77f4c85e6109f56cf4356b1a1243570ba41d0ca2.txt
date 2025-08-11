@@ -1,0 +1,107 @@
+ amount (e.g. approximately $15 million) or alternatively within a stated range (e.g. between $14m and $16m). Alternatively, a Reporting Entity may indicate an approximate percentage movement (e.g. up or down by 35%).
+
+Relationship between continuous disclosure and periodic disclosures
+
+13.
+
+Periodic disclosures by Reporting Entities are required in a number of circumstances, and examples can include interim and annual financial reports and accounts, prospectuses, bidder’s statements and target’s statements.
+
+14.
+
+In the course of preparing these disclosure documents, Reporting Entities may become aware of Inside Information which was previously insufficiently precise to warrant disclosure. In such circumstances, a Reporting Entity should not defer releasing that information until the periodic disclosure or other document is finalised. In such circumstances, a Reporting Entity is expected to make an announcement containing the Inside Information as soon as possible.
+
+Securities of the same class admitted to trading in more than one jurisdiction
+
+15.
+
+Reporting Entities with Securities of the same class admitted to trading in more than one jurisdiction should ensure that the release of announcements containing Inside Information is co-ordinated across jurisdictions. If the requirements for disclosure are stricter in another jurisdiction than in the DIFC, the Reporting Entity must ensure that the same information is released in the DIFC as in that other jurisdiction.
+
+16.
+
+Reporting Entities should not delay an announcement in the DIFC in order to wait for a market to open in another jurisdiction.
+
+Inside information related to the use of DLT
+
+17.
+
+Inside Information relating directly or indirectly to a Security Token may include matters arising due to the use of DLT that are capable of having a significant effect on the price of the Security Token. Such matters may, for example, include an interruption due to the creation of a ‘fork’ on the DLT or it becoming the target of a cyber-attack. A Reporting Entity for a Security Token must ensure that its systems and controls for identifying, controlling and handling Inside Information are adequate and will operate effectively should such matters arise, including through appropriate disclosure to markets.
+
+Delaying disclosure
+
+4.2.2 A Reporting Entity may delay market disclosure of Inside Information so as not to
+
+prejudice its legitimate interests provided that:
+
+(a)
+
+the delay is not likely to mislead the markets; and
+
+(b)
+
+if the information is to be selectively disclosed to a Person prior to market disclosure, it is made in accordance with the requirements in Rule 4.2.3.
+
+4.2.2A A Reporting Entity may delay market disclosure of Inside Information where all of the
+
+following conditions are met:
+
+(a)
+
+the Reporting Entity is:
+
+40
+
+MKT/VER24/03-25
+
+4.2.3
+
+MARKETS RULES (MKT)
+
+(i)
+
+an Authorised Firm to whom Part 5A of the Regulatory Law applies; or
+
+(ii)
+
+an entity in the same Group as an Authorised Firm referred to in (i);
+
+(b)
+
+the DFSA has given its consent in writing to the delay on the basis that disclosure of the information may undermine financial stability in the DIFC or is otherwise in the public interest; and
+
+(c)
+
+if the information is to be selectively disclosed to a Person prior to market disclosure, the disclosure is made in accordance with the requirements in Rule 4.2.3.
+
+Selective disclosure
+
+(1)
+
+For the purposes of Rule 4.2.2(b) and 4.2.2A(c), a Reporting Entity may selectively disclose Inside Information to a Person prior to making market disclosure of such information only if:
+
+(a)
+
+it is for the purposes of the exercise by such a Person of his employment, profession or duties;
+
+(b)
+
+that Person owes to the Reporting Entity a duty of confidentiality, whether based on law, contract or otherwise; and
+
+(c)
+
+the Reporting Entity has provided to that Person, except where that Person is the DFSA, a written notice as specified in (3).
+
+(2)
+
+For the purposes of (1)(a), the Persons whose exercise of employment, profession or duties may warrant selective disclosure are as follows:
+
+(a)
+
+any adviser, underwriter, sponsor or compliance adviser;
+
+(b)
+
+an agent employed by the Reporting Entity to release the information;
+
+(c)
+
+Persons with whom the Reporting Entity is negotiating with a view to effecting a transaction or raising finance, including prospective underwriters or sponsors of an issue of Securities, providers of finance or loans or the placement of the balance of

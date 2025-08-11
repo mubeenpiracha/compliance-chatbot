@@ -1,0 +1,139 @@
+ under Rule 3.3.38, given the evolving nature of Financial Crime. Such practices may include, but are not limited to, incorporating secure authentication, biometrics and the monitoring of customer behaviour metrics into anti-fraud and anti- Financial Crime systems and controls.
+
+Corporate Governance
+
+3.3.41 (1)
+
+An Authorised Person must have a Governing Body and senior management that meet the requirements in (2) and (3) respectively.
+
+(2)
+
+The Governing Body of the Authorised Person must:
+
+(a)
+
+be clearly responsible for setting or approving (or both) the business objectives of the Authorised Person and the strategies for achieving those objectives and for providing effective oversight of the management of the Authorised Person;
+
+(b)
+
+comprise an adequate number and mix of individuals who have, among them, the relevant knowledge, skills, expertise and time commitment necessary to effectively carry out the duties and functions of the Governing Body; and
+
+(c)
+
+have adequate powers and resources, including its own governance practices and procedures, to enable it to discharge those duties and functions effectively.
+
+18
+
+GEN VER11.290725
+
+(3)
+
+The senior management of the Authorised Person must be clearly responsible for the day-to-day management of the Authorised Person's business in accordance with the business objectives and strategies approved or set by the Governing Body.
+
+3.3.41A (1)
+
+This Rule applies to:
+
+(a)
+
+Banks;
+
+(b)
+
+Insurers other than Captive Insurers or Authorised ISPVs;
+
+(c)
+
+Authorised Persons that hold a Financial Services Permission to carry on the Regulated Activity of Managing a Profit Sharing Investment Account which is a PSIAu; and
+
+(d)
+
+other Authorised Persons or Recognised Bodies who by written notice are deemed subject to this Rule by the Regulator.
+
+(2)
+
+A majority of the Governing Body must be Non-Executive Directors, and at least one of those Non-Executive Directors must be an Independent Non-Executive Director.
+
+(3)
+
+The chair of the Governing Body must be a Non-Executive Director or an Independent Non-Executive Director.
+
+(4)
+
+The Regulator may require that the Governing Body increase the proportion or number of Non-Executive Directors and Independent Non-Executive Directors.
+
+(5)
+
+The Regulator may require the Governing Body to establish one or more of:
+
+(a)
+
+an audit committee;
+
+(b)
+
+a risk committee;
+
+(c)
+
+a nomination committee;
+
+(d)
+
+a remuneration committee;
+
+or a committee that oversees the mandate of one or more of such committees.
+
+(6)
+
+The Regulator may require that any committee of the Governing Body have:
+
+(a)
+
+a certain number or proportion of Non-Executive Directors and Independent Non-Executive Directors;
+
+(b)
+
+a chair that is a Non-Executive Director or an Independent Non-Executive Director; and
+
+(c)
+
+a chair that is not the chair of the Governing Body or any other committee of the Governing Body.
+
+19
+
+GEN VER11.290725
+
+(7)
+
+The Regulator may require an Authorised Person that is subject to this Rule and operating as a Branch to establish a committee to implement corporate governance responsibilities in relation to the Branch’s operations in ADGM.
+
+Guidance
+
+Scope of corporate governance
+
+1.
+
+Corporate governance is a framework of systems, policies, procedures and controls through which an entity:
+
+a.
+
+promotes the sound and prudent management of its business;
+
+b.
+
+protects the interests of its Customers and stakeholders; and
+
+c.
+
+places clear for achieving compliance with Rule 3.3.41(2)(a) and (3) on the Governing Body and its members and the senior management of the Authorised Person.
+
+responsibility
+
+2.
+
+Many requirements designed to ensure sound corporate governance of companies, such as those relating to shareholder and minority protection and responsibilities of the Board of Directors of companies, are found in the company laws and apply to Authorised Persons. Additional disclosure requirements also apply if they are listed companies. The requirements in this Rulebook are tailored to Authorised Persons and are designed to augment and not to exclude the application of those requirements.
+
+3.
+
+Whilst Rule 3.3.41 deals with two aspects of corporate governance, the requirements included in other provisions under Rules 3.2 and 3.3 also go to the heart of sound corporate governance by promoting prudent and sound management of the Authorised Person’s business in the interest of its Customers and

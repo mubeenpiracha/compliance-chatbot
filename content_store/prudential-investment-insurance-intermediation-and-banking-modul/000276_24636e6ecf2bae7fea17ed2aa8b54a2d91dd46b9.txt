@@ -1,0 +1,103 @@
+ retained
+
+(vi)
+
+the regulatory capital approaches applied to the securitisation activities of the Authorised Firm, including the type of securitisation Exposures to which each approach applies; and
+
+(vii) where an Authorised Firm provides Implicit Support to a securitisation, a statement that it has provided non- contractual support and a description of the capital impact of doing so.
+
+(b) A list of:
+
+(i)
+
+the types of SPEs that the Authorised Firm, as a Sponsor, uses to securitise third party Exposures, indicating whether the firm has Exposure to these SPEs, either on or off-balance sheet; and
+
+(ii) entities that the firm manages or advises that invest either in the securitisation Exposures that the firm has securitised or in SPEs that the firm Sponsors.
+
+(c) A summary of the accounting policies of the Authorised Firm for
+
+securitisation, including:
+
+419
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+(i) whether the securitisation is treated as sales or financings;
+
+(ii)
+
+recognition of gain–on-sale;
+
+(iii) methods and key assumptions (including inputs) for valuing positions
+
+retained or purchased;
+
+(iv) changes in methods and key assumptions from the previous period
+
+and the impact of such changes;
+
+(v)
+
+treatment of Synthetic Securitisation if this is not covered by other accounting policies (e.g. on Derivatives);
+
+(vi) how Exposures intended to be securitised (e.g. in the pipeline or warehouse) are valued and whether they are recorded in the Non- Trading Book or the Trading Book; and
+
+(vii) policies
+
+for liabilities on arrangements that could require the Authorised Firm to provide financial support for securitised assets.
+
+for
+
+recognising
+
+the balance sheet
+
+(d)
+
+In the Non-Trading Book, the names of recognised external credit rating agencies used for securitisations and the types of securitisation Exposure for which each agency is used.
+
+(e) An explanation of significant changes to any of the quantitative information (e.g. amounts of assets intended to be securitised, movement of assets between Non-Trading Book and Trading Book) since the last reporting period.
+
+(f) The total amount of outstanding Exposures securitised by the Authorised Firm and defined under the securitisation framework set out in chapter 4, broken down in terms of traditional and Synthetic, and by Exposure type, separately for securitisations of third-party Exposures for which the firm acts only as Sponsor.
+
+(g) For Exposures securitised by the Authorised Firm and defined under the
+
+securitisation framework set out in chapter 4:
+
+(i)
+
+the amount of securitised assets that are classified or past due under the PIB Rules, broken down by Exposure type; and
+
+(ii)
+
+losses recognised by the firm during the current period broken down by Exposure type.
+
+(h) The total amount of outstanding Exposures intended to be securitised broken
+
+down by Exposure type.
+
+(i) Summary of securitisation of the current period, including the total amount of Exposures securitised by Exposure type, and the recognised gain or loss on sale by Exposure type.
+
+(j) Aggregate amount of:
+
+(i)
+
+on-balance sheet securitisation Exposures retained or purchased broken down by Exposure type; and
+
+(ii) off-balance sheet securitisation Exposures broken down by Exposure
+
+type.
+
+420
+
+PIB/VER50/07-25
+
+Quantitative disclosures: Trading Book
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+(k) Aggregate amount of securitisation Exposures retained or purchased and the associated capital charges, broken down between securitisation and Re- securitisation Exposures and further broken down into a meaningful number of risk weight bands for each regulatory capital approach. Exposures included as deductions from T1 Capital, credit-enhancing interest only strips and other Exposures included as deductions from T1 Capital and deductions from T2 Capital must be disclosed separately by Exposure type.
+
+(l) For

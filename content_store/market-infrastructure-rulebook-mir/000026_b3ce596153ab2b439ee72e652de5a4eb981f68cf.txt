@@ -1,0 +1,111 @@
+ disclosure in Rule 3.7.1:
+
+(a)
+
+For the purposes of Rule 3.7.1(b), information is made public, if it:
+
+is accessible by automated electronic means in a machine-readable way;
+
+utilises technology that facilitates consolidation of the data and permits commercially viable usage; and
+
+is accompanied by instructions outlining how users can access the information.
+
+(b)
+
+For the purposes of Rule 3.7.3(a)(i), an arrangement fulfils the 'machine- readable' criteria where the data:
+
+is in a physical form that is designed to be read by a computer;
+
+is in a location on a computer storage device where that location is known in advance by the party wishing to access the data; and
+
+is in a format that is known in advance by the party wishing to access the data.
+
+(c)
+
+Publication on a non-machine-readable website would not meet the requirements of Rule 3.7.1(a).
+
+3.7.4
+
+Information that is made public should conform to a consistent and structured format based on industry standards. Recognised Investment Exchanges can choose the structure that they use.
+
+Guidance
+
+1.
+
+When determining whether appropriate arrangements have been made to make relevant information available to Persons engaged in dealing in Financial Instruments admitted to trading on the Recognised Investment Exchange, a Recognised Body should have regard to:
+
+47
+
+MIR VER10.290725
+
+(a)
+
+the extent to which Members and Clients for whom they act are able to obtain information about those Financial Instruments, either through accepted channels for dissemination of information or through other regularly and widely accessible communication media, to make a reasonably informed judgment about the value and the risks associated with those Financial Instruments in a timely fashion;
+
+(b)
+
+what restrictions, if any, there are on the dissemination of relevant information to the Recognised Investment Exchange's Members and Clients for whom they act; and
+
+(c)
+
+whether relevant information is or can be kept to restricted groups of Persons in such a way as to facilitate or encourage dealing in contravention of the Rules of Market Conduct.
+
+Own means of dissemination
+
+2.
+
+A Recognised Investment Exchange does not need to maintain their own arrangements for disseminating news or information about Financial Instruments (or underlying assets) to their Members where they have made adequate arrangements for other Persons to do so on their behalf or there are other effective and reliable arrangements for this purpose.
+
+3.8
+
+Settlement and Clearing Services
+
+3.8.1
+
+A Recognised Investment Exchange, when engaging a Clearing Service, must ensure that satisfactory arrangements are made for securing the timely discharge (whether by performance, compromise or otherwise), Clearing and settlement of the rights and liabilities of the parties to transactions effected on the Recognised Investment Exchange (being rights and liabilities in relation to those transactions).
+
+3.8.2
+
+The engagement of a Recognised Clearing House or Remote Clearing House will be deemed sufficient to satisfy Rule 3.8.1.
+
+3.8.3
+
+If a Recognised Investment Exchange engages a party that is not a Recognised Clearing House or a Non-Abu Dhabi Global Market Clearing House, the Recognised Investment Exchange must confirm to the Regulator, in writing, the satisfactory arrangements made under Rule 3.8.1.
+
+Guidance
+
+1.
+
+The satisfactory arrangements required by Rule 3.8.1 should reference the requirements set out in Rule 4.3.3.
+
+2.
+
+For the settlement of digital Securities, the engagement of a digital settlement facility may be deemed sufficient for evidencing satisfactory settlement arrangements. For more the definitions/treatment of, digital settlement facilities and digital Securities, refer to the Guidance – Regulation of Digital Securities Activities in ADGM, as published by the Regulator.
+
+information on, and
+
+48
+
+MIR VER10.290725
+
+3.8.4
+
+The Business Rules of the Recognised Investment Exchange must permit a Member to use whatever settlement facility they choose for a transaction. This Rule only applies where:
+
+(a)
+
+such links and arrangements exist between the chosen settlement facility and any other settlement facility as are necessary to ensure the efficient and economic settlement of the transaction; and
+
+(b)
+
+the Recognised Investment Exchange is satisfied that the smooth and orderly functioning of the ADGM financial markets will be maintained.
+
+3.9
+
+Admission of Financial Instruments to trading
+
+3.9.1
+
+Admission to trading
+
+In order to admit Financial Instruments to trading, a Recognised

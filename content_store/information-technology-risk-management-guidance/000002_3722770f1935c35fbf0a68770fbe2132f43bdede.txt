@@ -1,0 +1,73 @@
+ relevant for new risks. In addition to these principles, the FSRA has listed best practices that financial institutions should consider when following the principles and will update these practices over time.
+
+b.
+
+Interrelated risks – IT risks are closely related to and can heighten risks to financial institutions’ operations and business models. The FSRA therefore encourages
+
+1 ‘Technology’ and ‘Information Technology (IT)’ are used interchangeably at various points in this Guidance. 2 Refer to Annex A for a list of rules and guidance relating to information technology issued by the Relevant ADGM Authorities.
+
+1
+
+VER01.201124
+
+financial institutions to take a holistic risk management approach towards managing IT risks in relation to other risk types.
+
+c. Proportionality – Financial institutions’ size and capabilities can vary significantly depending on their operations and business models. The FSRA expects financial institutions to take a risk-based approach in dealing with IT risk that is proportionate and reflects the nature, scale and complexity of their business.
+
+vi.
+
+Financial institutions should understand the types of risks that arise when the confidentiality, integrity or availability of IT is compromised. The following are key risks that should be well understood and effectively managed.
+
+a. Risk of unauthorised access: This may be perpetrated by internal actors (insiders, disgruntled staff, etc.) or external actors (hackers, cyber criminals, etc.). Such threat actors may exploit unauthorised access to perform activities that benefit them or cause undesirable outcomes for the organisation.
+
+b. Risk of data leakage or compromise: Threat actors may alter data within an organisation’s systems or expose exfiltrated corporate or client data on the internet, causing harm to the organisation’s reputation or adversely impacting clients. Such incidents may also result from the negligence of staff or authorised third parties.
+
+c. Risk of system disruption: System disruptions can arise from malicious actions performed by threat actors, unintentional detrimental system or data modifications, or from software and hardware failures.
+
+d. Risk of technology or service exploitation: Upon gaining unauthorised access, threat actors may exploit an organisation’s technology resources for criminal gain at the organisation’s expense (e.g., botnet crypto mining, etc.). Threat actors may even abuse an organisation’s digital services to disrupt another organisation’s systems (e.g., denial of service attacks) or to defraud an organisation’s customers (e.g., financial scams).
+
+Structure of the Guidance
+
+vii.
+
+The Guidance comprises four sections, each with multiple chapters.
+
+a. Section A: Establishing a Culture of Effective IT Risk Management: These chapters set out expectations for overall governance and controls for IT risk, including incident management, audit, and the management of IT third parties.
+
+b. Section B: Managing an IT Environment: These chapters set out expectations for how financial institutions should manage IT assets, infrastructure, systems lifecycle, resilience, and cyber events.
+
+c. Section C: Interacting Securely: These chapters set out expectations for how financial institutions should manage access to their systems, cryptographic keys and secure online transaction services.
+
+2
+
+VER01.201124
+
+d. Section D: Leveraging Business Embedded Technologies: These chapters set out expectations for how financial institutions should address the IT risks associated with specific technologies such as the use of algorithm-driven solutions (e.g., generative artificial intelligence models) and decentralised-infrastructure solutions (e.g., virtual assets platforms).
+
+Sections
+
+Chapters
+
+Number of Desired Outcomes
+
+A. Establishing a Culture of Effective IT Risk Management
+
+B. Managing an IT Environment
+
+C. Interacting Securely
+
+D. Leveraging Business Embedded Technologies
+
+1. Governance and Oversight 2. Risk Management 3. Third Party Management 4. Compliance and Audit 5. System Lifecycle Management 6. Technology Asset Management 7. Operational Infrastructure Management 8. Data Lifecycle Management 9. Resilience 10. Cyber Event Management 11. Access Management 12. Online Transaction Security 13. Cryptography 14. Algorithm-Driven Solutions 15. Decentralised Infrastructure Solutions
+
+15
+
+19
+
+8
+
+4
+
+viii.
+
+Each chapter of the Guidance begins with desired outcomes that summarise the FSRA’s expectations for financial institutions. For each of these desired outcomes, the FSRA has also set out specific best practices for financial institutions. For example, desired outcome 3.2 of the Guidance states that a financial institution should closely monitor and review its IT third parties’ performance and risk posture. This is followed by

@@ -1,0 +1,149 @@
+VER67/03-25
+
+GENERAL (GEN)
+
+14
+
+FIXED PENALTY NOTICES
+
+14.1.1 The following Rules are subject to a Fixed Penalty Notice:
+
+(a)
+
+AMI Rules 8.2.9(1), 9.6.1, 9.6.3 and 9.6.4;
+
+(b)
+
+AML Rule 14.5.1;
+
+(c)
+
+AUD Rule 4.8.1;
+
+(d)
+
+CIR Rules 9.4.2(1), 9.6.2 and 15.1.10(1);
+
+(e)
+
+COB Rules 14.5.1(2)(b), 15.4.6(2) and 15.8.1(2)(b);
+
+(f)
+
+GEN Rules 8.6.2 and 11.8.12(1);
+
+(g)
+
+PIB Rules 2.3.8(1), 2.3.8(2), 10.3.2(3) and 10.4.2(3);
+
+(h)
+
+PIN Rules 6.5.1, 6.5.5, 6.5.7, 6.6.2(1), 7.2.3(1), 7.3.5, 8.5.2, 8.5.3 and 9.4.10; and
+
+(i)
+
+REC Rule 3.5.1.
+
+14.1.2 The penalty payable under a Fixed Penalty Notice is:
+
+(a)
+
+$2,500 for the first contravention;
+
+(b)
+
+$7,500 for the second contravention; and
+
+(c)
+
+$15,000 for any subsequent contravention,
+
+of any of the Rules specified in Rule 14.1.1 by a Person in any single calendar year.
+
+14.1.3 For the purpose of determining the penalty payable under Rule 14.1.2:
+
+(a)
+
+a contravention includes any contravention for which:
+
+(i)
+
+a penalty issued under a Fixed Penalty Notice has been paid; or
+
+(ii)
+
+a Person has been fined or censured under Article 90(2)(a) or (b) of the Regulatory Law; and
+
+(b)
+
+the contraventions referred to in Rule 14.1.2(b) to (c) do not need to relate to a contravention of the same rule.
+
+14.1.4 The prescribed period for payment of a penalty is within 14 days after the day
+
+the Fixed Penalty Notice is given to a Person.
+
+177
+
+GEN/VER67/03-25
+
+GENERAL (GEN)
+
+APP1 DEPOSITS
+
+A1.1
+
+Definition of a deposit
+
+A1.1.1
+
+(1)
+
+A Deposit means a sum of money paid on terms:
+
+(a)
+
+under which it will be repaid, with or without interest or a premium, and either on demand or at a in circumstances agreed by or on behalf of the Person making the payment and the Person receiving it; and
+
+time or
+
+(b)
+
+which is not referable to the provision of property (other than currency) or services or the giving of security.
+
+(2)
+
+In (1) money is paid on terms which are referable to the provision of property or services or the giving of security if:
+
+(a)
+
+it is paid by way of advance or part payment under a contract for the sale, hire or other provision of property or services, and is repayable only in the event that the property or services are not in fact sold, hired or otherwise provided;
+
+(b)
+
+it is paid by way of security for the performance of a contract or by way of security in respect of loss which may result from the non-performance of a contract; or
+
+(c)
+
+without prejudice to (b), it is paid by way of security for the delivery up of property, whether in a particular state of repair or otherwise.
+
+Exclusions
+
+A1.1.2
+
+A sum is not a Deposit if it is paid:
+
+(a)
+
+by a Person in the course of carrying on a business consisting wholly or to a significant extent of lending money;
+
+(b)
+
+by one company to another at a time when both are members of the same Group;
+
+(c)
+
+by an Authorised Firm authorised under its Licence to carry on the following Financial Services:
+
+(i)
+
+Accept

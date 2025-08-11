@@ -1,0 +1,153 @@
+ in subsection (2)(a),
+
+(ii)
+
+the statement referred to declaration of guarantee),
+
+in section 386(1) (parent undertaking
+
+(iii)
+
+a copy of the consolidated accounts referred to in subsection (2)(c),
+
+(iv)
+
+a copy of the auditor’s report on those accounts, and
+
+(v)
+
+a copy of the consolidated annual report drawn up by the parent undertaking.
+
+385. Companies excluded from the dormant subsidiaries exemption
+
+A company is not entitled to the exemption conferred by section 384 (individual accounts: exemption for dormant subsidiaries) if it was at any time within the financial year in question–
+
+(a)
+
+is a public interest entity, or
+
+(b)
+
+is a financial institution, or
+
+(c)
+
+a member of an ineligible group (as defined in section 371(2) (companies excluded from the small companies regime))
+
+386. Dormant subsidiaries exemption: parent undertaking declaration of guarantee
+
+(1)
+
+A guarantee is given by a parent undertaking under this section when the directors of the subsidiary company deliver to the Registrar a statement by the parent undertaking that it guarantees the subsidiary company under this section.
+
+(2)
+
+The statement under subsection (1) must be authenticated by the parent undertaking and must specify–
+
+(a)
+
+the name of the parent undertaking,
+
+(b)
+
+if the parent undertaking is incorporated in the Abu Dhabi Global Market, its registered number (if any),
+
+(c)
+
+if the parent undertaking is incorporated outside the Abu Dhabi Global Market and registered in the country in which it is incorporated, the identity of the register on which it is registered and the number with which it is so registered,
+
+(d)
+
+the name and registered number of the subsidiary company in respect of which the guarantee is being given,
+
+(e)
+
+the date of the statement, and
+
+(f)
+
+the financial year to which the guarantee relates.
+
+(3)
+
+A guarantee given under this section has the effect that–
+
+(a)
+
+the parent undertaking guarantees all outstanding liabilities to which the subsidiary company is subject at the end of the financial year to which the guarantee relates, until they are satisfied in full, and
+
+235
+
+(b)
+
+the guarantee is enforceable against the parent undertaking by any person to whom the subsidiary company is liable in respect of those liabilities.
+
+387.
+
+Individual accounts: applicable accounting framework
+
+(1)
+
+A company’s individual accounts shall be prepared in accordance with international accounting standards (“IAS individual accounts”).
+
+(2)
+
+The Board may make rules prescribing (i) the circumstances in which other accounting standards may be adopted for the purpose of preparing a company’s individual accounts and (ii) the other accounting standards which may be so adopted.
+
+388. Option to prepare group accounts
+
+If at the end of a financial year a company subject to the small companies regime is a parent company the directors, as well as preparing individual accounts for the year, may prepare group accounts for the year.
+
+389. Duty to prepare group accounts
+
+(1)
+
+This section applies to companies that are not subject to the small companies regime.
+
+(2)
+
+If at the end of a financial year the company is a parent company the directors, as well as preparing individual accounts for the year, must prepare group accounts for the year unless the company is exempt from that requirement.
+
+(3)
+
+Group accounts prepared in accordance with this section shall be prepared in accordance with international accounting standards (“IAS group accounts”).
+
+(4)
+
+The Board may make rules prescribing other accounting standards which may be adopted for the purpose of preparing group accounts.
+
+(5)
+
+There are exemptions to the requirements of this section under section 390 (exemption for company included in group accounts of larger group).
+
+(6)
+
+A company to which this section applies but which is exempt from the requirement to prepare group accounts, may do so.
+
+390. Exemption for company included in group accounts of larger group
+
+(1)
+
+A company is exempt from the requirement to prepare group accounts if it is itself a subsidiary undertaking, in the following cases–
+
+(a)
+
+where the company is a wholly-owned subsidiary,
+
+(b)
+
+where its parent undertaking holds more than 50% of the shares in the company and notice requesting the preparation of group accounts has not been served on the company by shareholders holding in aggregate–
+
+(i)
+
+more than half of the remaining shares in the company (excluding treasury shares), or
+
+(ii)
+
+5% of the total shares in the company (excluding treasury shares).
+
+Such notice must be served not later than six months after the end of the financial year before that to which it relates.
+
+236
+
+(2

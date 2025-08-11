@@ -1,0 +1,135 @@
+5)
+
+(b)
+
+10% or more of the voting power in B or P; or
+
+(c)
+
+shares or voting power in B or P as a result of which A is able to exercise significant influence over the management of B.
+
+For the purposes of calculations relating to this section, the holding of shares or voting power by a person ("A1") includes any shares or voting power held by another ("A2") if A1 and A2 are acting in concert.
+
+In this section "shares" -
+
+(a)
+
+in relation to an undertaking with a share capital, means allotted shares;
+
+(b)
+
+in relation to an undertaking with capital but no share capital, means rights to share in the capital of the undertaking;
+
+(c)
+
+in relation to an undertaking without capital, means interests -
+
+(i)
+
+conferring any right to share in the profits, or liability to contribute to the losses, of the undertaking; or
+
+(ii)
+
+giving rise to an obligation to contribute to the debts or expenses of the undertaking in the event of a winding up.
+
+In this section "voting power" -
+
+(a)
+
+includes, in relation to a person ("H") -
+
+(i)
+
+voting power held by a third party with whom H has concluded an agreement, which obliges H and the third party to adopt, by concerted exercise of the voting power they hold, a lasting common policy towards the management of the undertaking in question;
+
+(ii)
+
+voting power held by a third party under an agreement concluded with H providing for the temporary transfer for consideration of the voting power in question;
+
+(iii)
+
+voting power attaching to shares which are lodged as collateral with H, provided that H controls the voting power and declares an intention to exercise it;
+
+(iv)
+
+voting power attaching to shares in which H has a life interest;
+
+(v)
+
+voting power which is held, or may be exercised within the meaning of subparagraphs (i) to (iv), by a subsidiary undertaking of H;
+
+(vi)
+
+voting power attaching to shares deposited with H which H has discretion to exercise in the absence of specific instructions from the shareholders;
+
+(vii)
+
+voting power held in the name of a third party on behalf of H;
+
+(viii)
+
+voting power which H may exercise as a proxy where H has discretion about the exercise of the voting power in the absence of specific instructions from the shareholders; and
+
+48
+
+(b)
+
+in relation to an undertaking which does not have general meetings at which matters are decided by the exercise of voting rights, means the right under the constitution of the undertaking to direct the overall policy of the undertaking or alter the terms of its constitution.
+
+78.
+
+Disregarded holdings14
+
+(1)
+
+For the purposes of section 77, shares and voting power that a person holds in an undertaking ("B") or in a parent undertaking of B ("P") are disregarded in the following circumstances.
+
+(2)
+
+Shares held only for the purposes of clearing and settling within a short settlement cycle are disregarded.
+
+(3)
+
+Shares held by a custodian or its nominee in a custodian capacity are disregarded, provided that the custodian or nominee is only able to exercise voting power attached to the shares in accordance with instructions given in writing.
+
+(4)
+
+Shares representing no more than 5% of the total voting power in B or P held by a financial the management of B or P nor exerts any influence on B or P to buy the shares or back the share price.
+
+institution are disregarded, provided
+
+that
+
+it neither
+
+intervenes
+
+(5)
+
+In subsection (4) "financial institution" means an Authorised Person or Recognised Body (as those terms are defined in the Financial Services and Markets Regulations 2015).
+
+79. Manager
+
+(1)
+
+In these Regulations, "manager" means an employee who -
+
+(a)
+
+under the immediate authority of his employer is responsible, either alone or jointly with one or more other persons, for the conduct of his employer's business; or
+
+(b)
+
+under the immediate authority of his employer or of a person who is a manager by virtue of paragraph (a) exercises managerial functions or is responsible for maintaining accounts or other records of his employer.
+
+(2)
+
+If the employer is not an individual, references in subsection (1) to the authority of the employer are references to the authority -
+
+(a)
+
+in the case of a body corporate, of the directors; and
+
+(b)
+
+in the case of a partnership, of the

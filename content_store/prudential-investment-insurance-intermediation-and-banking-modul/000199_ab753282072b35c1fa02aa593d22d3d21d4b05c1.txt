@@ -1,0 +1,70 @@
+ obligations of the Authorised Firm;
+
+(ii)
+
+the holders of the beneficial interests in that SPE have the right to pledge or exchange their interests without restriction; and
+
+(iii)
+
+the Authorised Firm holds not more than 20% of the aggregate original amount of all Securities issued by the SPE, except where such holdings consist entirely of Securities that have a Credit Quality Grade of 1 in accordance with Rules in sections 4.11 and 4.12, and all transactions with the SPE are conducted at arm’s length and on market terms and conditions;
+
+the Authorised Firm has, on an on-going basis, a comprehensive understanding of the risk characteristics of its individual securitisation Exposures, whether on- or off-balance sheet, as well as the risk characteristics of the pools underlying its securitisation Exposures;
+
+305
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+(h)
+
+the Authorised Firm is able to access performance information on the underlying Exposures on an on-going basis in a timely manner. Such information may include, as appropriate, Exposure type, percentage of loans 30, 60 and 90 days past due, default rates, prepayment rates, loans in foreclosure, property type, occupancy, average credit score or other measures of creditworthiness, average loan-to-value ratio, and industry and geographic diversification. For Re-securitisations, the Authorised Firm should have information not only on the underlying securitisation tranches, such as the Issuers’ names and credit quality, but also on the characteristics and performance of the pools underlying the securitisation tranches; and
+
+(i)
+
+the Authorised Firm has a thorough understanding of all structural features of a securitisation transaction that would materially impact the performance of the transaction, such as the contractual waterfall and waterfall-related triggers, Credit Enhancements, liquidity enhancements, market value triggers, and deal- specific definitions of default.
+
+Guidance
+
+In relation to Rules A4.10.1 and A4.10.2, significant Credit Risk will be considered to have been transferred by the Originator of a securitisation if:
+
+a.
+
+the RWA amounts of the mezzanine securitisation positions held by the Originator in the securitisation do not exceed 50% of the RWA amounts of all mezzanine securitisation positions existing in this securitisation; and
+
+b.
+
+where there are no mezzanine securitisation positions in a given securitisation and the Originator can demonstrate that the Exposure value of the securitisation positions that would be subject to deduction from Capital Resources or a 1250% risk weight exceeds a reasonable estimate of the expected loss on the Securitised Exposures by a substantial margin, the Originator does not hold more than 20% of the Exposures values of the securitisation positions that would be subject to deduction from Capital Resources or a 1250% risk weight.
+
+Operational requirements for the treatment of Clean-Up Calls
+
+A4.10.3 Where a Clean-Up Call is included within a securitisation, the Authorised Firm which has
+
+the ability to exercise the Clean-Up Call must ensure that:
+
+(a)
+
+the exercise of the Clean-Up Call must not be mandatory, in form or substance;
+
+(b)
+
+the Clean-Up Call must not be structured to avoid allocating losses to Credit Enhancements, or positions held by investors or in any way structured to provide Credit Enhancement; and
+
+(c)
+
+the Clean-Up Call must only be exercisable when 10% or less of the original underlying Exposures or Securities issued in that securitisation remains, or in the case of a Synthetic Securitisation, when 10% or less of the original reference portfolio value remains.
+
+A4.10.4 Where the conditions listed in Rule A4.10.3 are not met the Authorised Firm must hold
+
+capital against the Exposures as follows:
+
+306
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+(a)
+
+for a Traditional Securitisation the underlying Exposures must be treated as if they had not been securitised;
+

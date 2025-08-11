@@ -1,0 +1,91 @@
+ of the Employee and the Authorised Firm entering into such Transactions.
+
+Guidance
+
+Authorised Firms are reminded that they must ensure that their auditor produces a Client Money Auditor’s Report, a Safe Custody Auditor’s Report and a Money Services Auditor’s Report, as applicable, in accordance with GEN 8.6.
+
+Holding or controlling client assets
+
+6.11.4 Client Assets are held or controlled by an Authorised Firm if they are:
+
+(a)
+
+directly held by the Authorised Firm;
+
+(b)
+
+held in an account in the name of the Authorised Firm;
+
+(c)
+
+held by a Person, or in an account in the name of a Person, controlled by the Authorised Firm; or
+
+(d)
+
+held in the Client’s own name, but the Authorised Firm has a mandate from the Client to manage those assets on a discretionary basis.
+
+Guidance
+
+1
+
+For the purposes of Rule 6.11.4, the DFSA would consider a Person to be controlled by an Authorised Firm if that Person is inclined to act in accordance with the instructions of the Authorised Firm.
+
+2.
+
+The DFSA would consider an account to be controlled by an Authorised Firm if that account is operated in accordance with the instructions of the Authorised Firm.
+
+3.
+
+If an Authorised Firm has a discretionary portfolio mandate from a Client, even though the assets are to be held in the name of the Client (for example, under a power of attorney arrangement), the firm controls those assets as it can execute transactions relating to those assets, within the parameters set out in the mandate.
+
+56
+
+COB/VER48/03-25
+
+CONDUCT OF BUSINESS (COB)
+
+4.
+
+In relation to assets referred to in Guidance item 3 that are held in the Client’s name, only specific Rules in App 5 (Client Money Provisions) and App 6 (Safe Custody Provisions) are likely to be relevant, as the assets are already held in the Client’s own name and the firm will control rather than hold the assets. A firm with such a discretionary mandate will also need to comply with other relevant requirements in the Rulebook, such as GEN Rule 2.2.10A requiring an endorsement to hold or control Client Assets, and GEN 8.6 section requiring an audit report relating to Client Assets.
+
+5.
+
+If an Authorised Firm is Providing Money Services, funds or assets that it receives from, or that are for the benefit of, a User will be Client Assets held or controlled by the firm.
+
+6.12 Client money
+
+6.12.1 All Money held or controlled on behalf of a Client in the course of, or in connection with, the carrying on of Investment Business, the Operation of a Crowdfunding Platform, Providing Money Services or Crypto Business, in or from the DIFC is Client Money, except Money which is:
+
+(a)
+
+held by the Authorised Firm as a Bank in an account with itself, provided the Authorised Firm notifies the Client in writing that the Client Money is held by it as a Bank and not in accordance with this chapter;
+
+(b)
+
+immediately due and payable by the Client to the Authorised Firm;
+
+(c)
+
+belonging to another Person within the Authorised Firm’s Group unless that Person is an Authorised Firm or Regulated Financial Institution and that Person has confirmed to the Authorised Firm, in writing, that the beneficial owner of the Money is a Person who is not part of the Authorised Firm’s Group;
+
+(d)
+
+in an account in the Client’s name over which the Authorised Firm has a mandate or similar authority and where the Authorised Firm is in compliance with Rule 6.11.3 (2), provided it is not a mandate to manage the Money on a discretionary basis;
+
+(e)
+
+received in the form of a cheque, or other payable order, made payable to a third party other than a Person or account controlled by the Authorised Firm, provided the cheque or other payable order is intended to be forwarded to the third party within 1 business day of receipt; or
+
+(f)
+
+Fund Property of a Fund.
+
+Guidance
+
+1.
+
+Authorised Firms are reminded that the exemption in Rule 6.12.1(a) would not apply to Money which is passed to a third party i.e. not held in an account with the Authorised Firm itself.
+
+2.
+
+Pursuant to Rule 6.12.1

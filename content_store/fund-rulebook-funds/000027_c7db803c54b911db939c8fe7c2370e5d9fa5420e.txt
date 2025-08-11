@@ -1,0 +1,91 @@
+ Fund Manager to appoint an independent, suitably competent and experienced Fund Administrator to perform the functions specified in (1)(a).
+
+Guidance
+
+1. To provide segregation of the net asset value determination process of the Fund from the investment management process, generally personnel involved in the former should not be involved in the latter. An effective method of achieving such segregation is to delegate the calculation, determination and production of the net asset value to a suitably competent and experienced third party Fund Administrator.
+
+2. Additional risk management requirements applicable to the Fund Manager of a Private Credit Fund are included in Chapter 13A.
+
+Conflicts of interest
+
+12.3.11
+
+(1) The Fund Manager and, if it is a Fund structured as an Investment Trust, the Trustee, must take reasonable steps to ensure that in any dealing in relation to the Fund Property such dealings do not give rise to a conflict of interest.
+
+(2) Where a conflict of interest arises, whether in dealings with Affected Persons or otherwise, the Fund Manager and, if appointed, the Trustee, must disclose to the Unitholders the nature of the conflict and how the conflict will be managed.
+
+(3) In the situation where a Fund Manager has placed a Person on the board of an Undertaking in which it is investing, it must take reasonable steps to ensure that it manages conflicts and follows good corporate governance.
+
+Side-letter arrangements
+
+12.3.12
+
+(1) A Fund Manager must disclose in its Prospectus:
+
+42
+
+FUNDS VER10.100625
+
+(a)
+
+a description of how the Fund Manager ensures a fair treatment of investors; and
+
+(b)
+
+a statement as to the Fund Manager's ability (if any) to enter into side-letter arrangements with investors.
+
+(2) A Fund Manager of a Public Fund:
+
+(a)
+
+must, in addition to the disclosures set out in 12.3.12(1) above, also disclose in the Prospectus a description of any material benefits or concessions provided to any investors with whom they have entered into side-letter arrangements, as well as a description of the type of investors to whom such benefits are provided; and
+
+(b)
+
+must not, in connection with any side-letter arrangements entered into, grant more favourable liquidity terms to any investor than are enjoyed by all other investors.
+
+Affected Person transactions
+
+12.3.13
+
+(1) A Fund Manager must not enter into a Transaction in respect of the Fund Property with an Affected Person unless it is in accordance with the requirements in this Rule.
+
+(2) A Fund Manager must ensure that any Transaction in respect of the Fund Property undertaken with an Affected Person is on terms at least as favourable to the Fund as any comparable arrangement on normal commercial terms negotiated at arm's length with an independent third party.
+
+(3) The Fund Manager of a Public Fund must, before entering into a Transaction with an Affected Person:
+
+(a)
+
+obtain written confirmation from any Person responsible for providing the oversight arrangements for that Public Fund that the terms of such Transaction satisfy Rule 12.3.13(2); and
+
+(b)
+
+issue to the Unitholders a circular containing the details of the Transaction.
+
+(4) The Fund Manager of an Exempt Fund must, before entering into a Transaction with an Affected Person, either:
+
+(a)
+
+obtain written confirmation from a Person who meets the suitability criteria for persons providing oversight functions to Public Funds set out in Rule 13.3.3 that the terms of such Transaction are being conducted on at least an arm's length basis; or
+
+(b)
+
+obtain Unitholders' prior approval by Special Resolution in respect of the proposed Transaction if the total consideration or value of the Transaction is 5% or more of the most recent net asset value of the Fund as disclosed in the latest published audited accounts of the Fund.
+
+(5) The Fund Manager must:
+
+43
+
+FUNDS VER10.100625
+
+(a)
+
+in the case of an Exempt Fund, if prior Unitholder approval is required pursuant to (4)(b), issue a notice to Unitholders providing details of the results of the Unitholders' voting at the general meeting as soon as practicable after the meeting;
+
+(b)
+
+include a brief summary of the Affected Person Transactions in the Fund's next published interim or annual report; and
+
+(c)
+
+include, in the annual report of the Fund, the total value of any Affected Person Transactions, their nature

@@ -1,0 +1,125 @@
+2.1
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+LIQUIDITY RISK
+
+Introduction
+
+Guidance
+
+1.
+
+This chapter deals with management of Liquidity Risk by an Authorised Firm. Liquidity Risk refers to the risk of potential losses incurred by an Authorised Firm’s failure to have liquid assets to ensure payment of all its liabilities as they fall due and be in a position to meet all payments required to sustain its business on a planned growth path.
+
+2.
+
+This chapter requires an Authorised Firm to:
+
+a.
+
+maintain and implement a Liquidity Risk policy;
+
+b.
+
+identify, measure and monitor Liquidity Risk;
+
+c.
+
+maintain a minimum level of High Quality Liquid Assets (HQLA);
+
+d.
+
+determine quantitative limits on cumulative negative maturity mismatch in accordance with a specified methodology; and
+
+e.
+
+maintain a minimum Net Stable Funding Ratio.
+
+Application
+
+(1)
+
+This chapter applies to an Authorised Firm in Category 1, 2 (other than a Matched Principal) or 5.
+
+(2)
+
+Only Rule 9.2.2(3) applies to an Authorised Firm in Category 2 (other than a Matched Principal).
+
+Guidance
+
+In accordance with Rules 3.2.2 or 3.2.4, an Authorised Firm is required to ensure that there is no significant risk that liabilities cannot be met as they fall due. With specific reference to liquidity, an Authorised Firm may meet its obligations in a number of ways, including:
+
+a.
+
+by holding sufficient immediately available cash or unencumbered readily marketable assets; and
+
+b.
+
+by securing an appropriate matching future profile of cashflows.
+
+Liquidity Risk policy, systems and controls
+
+(1)
+
+An Authorised Firm must establish and maintain a Liquidity Risk policy.
+
+204
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+(1A)
+
+An Authorised Firm must ensure the policy is in writing and is approved at least annually by its Governing Body.
+
+(1B)
+
+The policy must set out the level of Liquidity Risk the Authorised Firm is willing to tolerate, which must be in line with its business objectives, strategy and overall risk tolerance.
+
+(2)
+
+The policy must include systems and controls for intra-day, daily, short-term, medium-term and long-term management of Liquidity Risk appropriate to the nature, scale and complexity of the activities conducted by the firm.
+
+(3)
+
+The systems and controls referred to in (2) must include:
+
+(a) a system for identifying and assessing Liquidity Risk in accordance
+
+with Rule 9.2.4;
+
+(b) a system for the measurement and monitoring of Liquidity Risk using a robust and consistent method which enables the Authorised Firm to implement the requirements set out in Rule 9.2.5;
+
+(c)
+
+a system for controlling Liquidity Risk which enables the Authorised Firm to implement the requirements set out in Rule 9.2.6;
+
+(d) a system for collateral management and asset encumbrance which is able to adequately identify, monitor and manage the risks associated with these activities in accordance with Rule 9.2.8;
+
+(e) a system for adequate allocation of liquidity costs, benefits and risks
+
+that meets the requirements set out in Rule 9.2.9; and
+
+(f)
+
+a system to manage intra-day liquidity positions effectively and meet the requirements in Rule 9.2.10.
+
+(4)
+
+An Authorised Firm must ensure that it has risk management systems to implement the policy.
+
+Guidance
+
+1.
+
+The DFSA expects that an Authorised Firm’s Liquidity Risk policy will set out the approach that the Authorised Firm will take to Liquidity Risk management, including various quantitative and qualitative targets. It should be communicated to all relevant functions and staff within the organisation.
+
+2.
+
+The level of Liquidity Risk tolerance should ensure that the Authorised Firm manages its liquidity and funding risk prudently in normal times in a way that allows it to withstand periods of stress. The level of Liquidity Risk tolerance should be expressed in qualitative and quantitative terms that are clear enough for all levels of management to be able to understand the trade-off between risks and profits.
+
+3.
+
+The DFSA expects that an Authorised Firm will integrate

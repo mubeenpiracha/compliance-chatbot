@@ -1,0 +1,69 @@
+.9.4(1).
+
+2.
+
+For avoidance of doubt, where an Authorised Firm has provided unfunded credit protection via a total rate of return swap, E should be equal to the notional amount of the underlying reference credit for which the Authorised Firm is providing protection adjusted for any payments received from or made to the protection buyer and recognised in the profit and loss account of the Authorised Firm. Where an Authorised Firm has provided unfunded credit protection via a credit default swap, E should be equal to the notional amount of the underlying reference credit for which the Authorised Firm is providing protection.
+
+3.
+
+The notional amount of an off-balance sheet item refers to the amount which has been committed but is as yet undrawn. The amount to which the CCF is applied is the lower of the value of the unused committed credit line, and the value which reflects any possible constraining availability of the facility, such as the existence of a ceiling on the potential lending amount which is related to an obligor’s reported cash flow. If the facility is constrained in this way, the Authorised Firm must have sufficient line monitoring and management procedures to support this contention.
+
+4.
+
+Any foreign exchange transaction or translation gain or loss from a foreign currency- denominated off- balance sheet item should be allocated to the Exposure to which it accrues.
+
+Recognition of eligible financial Collateral for on-balance sheet assets and off- balance sheet items other than CCR Exposures
+
+(1)
+
+An Authorised Firm which has taken eligible financial Collateral for any transaction other than an equity Exposure, an SE Exposure, CCR Exposure or SFT may recognise the effect of such Collateral in accordance with Rules 4.9.6 and 4.9.7.
+
+(2)
+
+An Authorised Firm must use either the:
+
+(a)
+
+Financial Collateral Simplified Approach (FCSA) which adopts the treatment under Rule 4.13.5 in relation to the composition of financial Collateral; or
+
+(b)
+
+Financial Collateral Comprehensive Approach (FCCA) which adopts the treatment under Rule 4.13.6;
+
+to recognise the effect of eligible financial Collateral.
+
+(3)
+
+An Authorised Firm must apply the chosen approach consistently to its entire Non-Trading Book and must not use a combination of both approaches.
+
+An Authorised Firm using the FCSA may recognise the effect of eligible financial Collateral in accordance with the Rules in section 4.13.
+
+An Authorised Firm using the FCCA may calculate the CR Exposure adjusted for eligible financial Collateral (referred to in PIB as “E*”), in accordance with Rules in section A4.3 of App4 and substitute E* for E when calculating the Credit Risk- weighted Exposure amount for that CR Exposure under section 4.8.
+
+104
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+Recognition of eligible financial Collateral for securitisation (SE) Exposures
+
+4.9.8
+
+An Authorised Firm that has taken eligible financial Collateral for an SE Exposure may recognise the effect of such Collateral in accordance with Rules 4.9.9 to 4.9.11.
+
+4.9.9
+
+An Authorised Firm calculating RWAs for SE Exposures must use either the FCSA or the FCCA approaches to recognise the effect of eligible financial Collateral. An Authorised Firm must apply the chosen approach consistently to the entire Non- Trading Book and must not use a combination of both approaches.
+
+4.9.10 An Authorised Firm using the FCSA approach for an SE Exposure may recognise the effect of eligible financial Collateral in accordance with section 4.13 and Rule 4.14.70.
+
+4.9.11 An Authorised Firm using the FCCA approach for an SE Exposure must calculate E*, the SE Exposure adjusted for eligible financial Collateral, in accordance with Rules in section A4.3 of App4 and substitute E* for E when calculating the RWA for SE Exposure under section 4.8.
+
+Measurement of E for Counterparty Exposures arising from SFTs
+
+4.9.12 An SFT must be treated as Collateralised lending, notwithstanding the wide range of
+
+structures which could be used for SFTs.
+
+4.9.13

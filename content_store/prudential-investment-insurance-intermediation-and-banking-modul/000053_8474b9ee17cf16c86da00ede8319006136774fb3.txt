@@ -1,0 +1,129 @@
+ direct extension of banking;
+
+(ii)
+
+ancillary to banking, or
+
+(iii)
+
+leasing, the management of data processing services or any other similar activity;
+
+factoring,
+
+the management of unit
+
+trusts,
+
+and the amount of the holding exceeds 15% of the eligible total Capital Resources of the Authorised Firm, the Authorised Firm must comply with the requirements in (3).
+
+(2)
+
+The total amount of the Qualifying Holdings of an Authorised Firm in Undertakings other than those referred to in (1) that exceeds 60% of its Capital Resources are subject to the requirements in (3).
+
+(3)
+
+An Authorised Firm must apply the following requirements to Qualifying Holdings referred to in (1) and (2):
+
+(a) a risk weight of 1000% to the following:
+
+(i)
+
+the amount of Qualifying Holdings referred to in (1) in excess of 15% of Capital Resources; and
+
+(ii)
+
+the total amount of Qualifying Holdings referred to in (2) in excess of 60% of the Capital Resources of the Authorised Firm; and
+
+(b) must not count Qualifying Holdings referred to in (1) and (2) where the amount of those holdings exceeds the percentages of Capital Resources laid down in (1) and (2).
+
+79
+
+PIB/VER50/07-25
+
+(4)
+
+(5)
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+As an alternative to applying a 1000% risk weight to the amounts in excess of the limits specified in (1) or (2), an Authorised Firm may deduct those amounts from CET1 Capital.
+
+Shares of Undertakings to which (1) or (2) do not apply must not be included in calculating the eligible capital limits specified in (1) where any of the following conditions are met:
+
+(a)
+
+those shares are held temporarily during a financial reconstruction or rescue operation,
+
+(b)
+
+the holding of the shares is an underwriting position held for 5 working days or less; or
+
+(c)
+
+those shares are held in the name of the Authorised Firm on behalf of others.
+
+80
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+PART 5 – Calculating the Leverage Ratio
+
+3.18 Leverage Ratios
+
+3.18.1 This section applies to an Authorised Firm in Category 1, 2 (other than a Matched
+
+Principal) or 5.
+
+Guidance
+
+This section is relevant to an Authorised Firm that is required to report its Leverage Ratio to the DFSA under chapter 2, or to disclose its Leverage Ratio under chapter 11, of these Rules.
+
+3.18.2 An Authorised Firm must calculate its Leverage Ratio in accordance with the following
+
+formula:
+
+Leverage Ratio = Capital Measure ÷ Exposure Measure
+
+where:
+
+(a)
+
+“Capital Measure” represents Tier 1 Capital of the Authorised Firm calculated in accordance with Rule 3.12.1; and
+
+(b)
+
+“Exposure Measure” represents the value of exposures of the Authorised Firm calculated in accordance with Rule 3.18.3.
+
+3.18.3 For the purpose of determining the Exposure Measure, the value of exposures of an Authorised Firm must be calculated in accordance with the International Financial Reporting Standards (IFRS) subject to the following adjustments:
+
+(a)
+
+on-balance sheet, non-derivative exposures must be net of specific allowances and valuation adjustments (e.g. credit valuation adjustments);
+
+(b)
+
+physical or financial collateral, guarantees or credit risk mitigation purchased must not be used to reduce on-balance sheet exposures; and
+
+(c)
+
+loans must not be netted with deposits;
+
+(d)
+
+collateral must not be netted against a derivative position, whether or not netting is allowed;
+
+(e)
+
+collateral posted against a derivative position must be added to the Exposure Measure if posting the collateral has resulted in a reduction in the Firm’s balance sheet;
+
+81
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+(f)
+
+if an Authorised Firm writes a credit derivative, it must include the notional value of the derivative in its Exposure Measure without allowing any

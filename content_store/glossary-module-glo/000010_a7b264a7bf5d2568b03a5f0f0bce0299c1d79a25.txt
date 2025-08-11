@@ -1,0 +1,172 @@
+0 or, pursuant to Article 1(b) of that law, under Article 20 of the Collective Investment Law 2006.
+
+21
+
+GLO/VER62/07-25
+
+GLOSSARY (GLO)
+
+Defined Term
+
+Definition
+
+Designated Non-Financial Business or Profession (DNFBP)
+
+Has the meaning given in AML Rule 3.2.1.
+
+DFSA
+
+The Dubai Financial Services Authority.
+
+DIFCA Board
+
+The Board of Directors of the DIFC Authority.
+
+DIFC
+
+The Dubai International Financial Centre.
+
+DIFC Business Return
+
+The return described in PIN Rule A10.2.6.
+
+DIFC Business Risk Capital Requirement
+
+The capital requirement calculated in accordance with PIN section A9.2.
+
+DIFC Incorporated Insurer
+
+An Insurer that is a Body Corporate incorporated under the Companies Law.
+
+DIFC Registrar of Companies
+
+The registrar of companies appointed pursuant to the Companies Law.
+
+DIFC Scheme
+
+Means an Employee Money Purchase Scheme that is established in the DIFC.
+
+Digital Wallet
+
+A software application or other tool which is used to control, safeguard or manage public and private cryptographic keys (or their equivalent) associated with Investment Tokens or Crypto Tokens.
+
+Digital Wallet Service Provider
+
+(1) In relation to an Investment Token, has the meaning
+
+given in COB Rule 14.3.1(a); and
+
+(2) In relation to a Crypto Token, has the meaning
+
+given in COB Rule 15.4.1.
+
+Direct Access Member
+
+(1) In relation
+
+to an Alternative Trading System operated by an Authorised Firm, means a Person that the Authorised Firm admits as a member under COB Rule 9.3.1(1)(e).
+
+(2) In relation to a facility operated by an Authorised Market the Institution, means a Person Authorised Market Institution admits as a Member under AMI Rule 5.7.2(1)(d).
+
+that
+
+Direct Electronic Access
+
+Has the meaning given in AMI Rule 5.7.3(3).
+
+Direct Long-Term Insurance Long-Term Insurance that is not reinsurance
+
+22
+
+GLO/VER62/07-25
+
+Defined Term
+
+Direct Long-Term Insurance Business
+
+Director
+
+Discretionary Portfolio Management Account
+
+Discretionary Portfolio Management Agreement
+
+Displaced Commercial Risk Capital Requirement (PSIACOM) Distributed Ledger Technology
+
+Distribution Event
+
+GLOSSARY (GLO)
+
+Definition
+
+The business of Effecting Contracts of Insurance or Carrying Out Contracts of the Contracts of Insurance are contracts of Direct Long- Term Insurance
+
+Insurance, where
+
+(1)
+
+In relation to an undertaking established under the DIFC Companies Law, a Person who appears on the Register of Directors maintained by the DIFC Registrar of Companies; and
+
+(2)
+
+In relation to all other undertakings, a Person who has been admitted to a register which has a the Register of corresponding meaning Directors or performs the function of acting in the capacity of a Director, by whatever name called.
+
+to
+
+An account used by an Authorised Firm to manage the investment portfolio of a Client on a discretionary basis under terms of a Discretionary Portfolio Management Agreement.
+
+the
+
+An agreement under which an Authorised Firm agrees with a Client to manage an investment portfolio for that in accordance with pre-agreed particular Client investment parameters in that agreement and where:
+
+(a)
+
+the Client’s approval of any specific Transaction the is not Transaction; and
+
+required before undertaking
+
+(b)
+
+the assets of the Client are discretely held for that Client and no pooling of those assets occurs with the assets of any other Person, except purely for transactional purposes.
+
+The requirement calculated in accordance with chapter 5 of the IFR Module.
+
+A class of technologies that support the recording of encrypted data where the data:
+
+(a) is held on a distributed ledger;
+
+(b) is electronically accessible, from multiple locations,
+
+by a network of participants; and
+
+(c) can be updated by those participants, based on
+
+agreed consensus, protocol or procedures.
+
+A distribution event is:
+
+(a)
+
+the appointment of a
+
+liquidator, receiver or
+
+23
+
+GLO/VER62/07-25
+
+Defined Term
+
+DLT
+
+Domestic Firm
+
+Domestic Fund
+
+Dubai Law
+
+GLOSSARY (GLO)
+
+Definition
+
+administrator, or trustee in bankruptcy, over the Authorised Firm or its Nominee Company;
+

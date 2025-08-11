@@ -1,0 +1,111 @@
+)
+
+there are serious governance issues or deficiencies in its risk management and controls that may have a significant impact on the Authorised Firm’s financial condition; or
+
+(e)
+
+it is unable to pay its debts or other liabilities as they fall due,
+
+but an Authorised Firm is not failing or likely to fail merely because one or more Early Intervention Powers have been exercised in relation to it.
+
+In determining whether (1)(a) and (2) are met, the DFSA may take into account the likely impact on the Authorised Firm of the failure or likely failure of another entity in the Authorised Firm’s Group.
+
+For the purposes of (1)(c), an action is in the public interest where:
+
+(a)
+
+it is necessary and proportionate to achieve one or more of the DFSA’s objectives; and
+
+(b)
+
+winding up the Authorised Firm under the Insolvency Law or other applicable insolvency laws would not meet the DFSA’s objectives to the same extent.
+
+An Authorised Firm must immediately notify the DFSA if its senior management reasonably considers or is aware that:
+
+(a)
+
+it is failing or likely to fail;
+
+(b)
+
+another entity in its Group is failing or likely to fail;
+
+(c)
+
+in the case of an Authorised Firm operating as a branch in the DIFC, the Resolution Authority in the jurisdiction of its head office is considering, or has initiated, resolution action in relation to the Authorised Firm;
+
+(d)
+
+a Resolution Authority, in a jurisdiction where another entity in its Group is present is considering, or has initiated, resolution action in relation to that entity; or
+
+(e)
+
+a Resolution Authority in the jurisdiction of the head office of the legal entity of which the Authorised Firm is a subsidiary is considering, or has initiated, resolution action in relation to the head office.
+
+If the DFSA determines that the Resolution Conditions are met in respect of an Authorised Firm, it:
+
+71
+
+(a)
+
+shall record its decision together with the reasons for that decision and the actions that it intends to take as a result of the decision;
+
+(b)
+
+shall give written notice of the decision to:
+
+(i)
+
+the Authorised Firm;
+
+(ii)
+
+if applicable, the Financial Services Regulator and Resolution Authorities of jurisdictions in which any relevant Group entity or significant branches are located; and
+
+(iii)
+
+if applicable, any scheme for the protection of depositors or clients that is relevant to the Authorised Firm; and
+
+(c)
+
+may publish information about the decision if it appears to the DFSA to be desirable to do so in the public interest.
+
+84L. Appointment of Independent Valuer
+
+(1)
+
+The DFSA may arrange for an independent valuer to be appointed to carry out a valuation of the assets and liabilities of an Authorised Firm for the purposes of this Part.
+
+(2)
+
+The DFSA may prescribe in the Rules the eligibility requirements for a person to be appointed as an independent valuer under (1).
+
+(3)
+
+A valuation by an independent valuer shall be carried out in such manner as the DFSA may prescribe in the Rules.
+
+(4)
+
+The DFSA may require the Authorised Firm to pay, or recover from the Authorised Firm, the costs of any valuation.
+
+84M. Valuations
+
+(1)
+
+Before the DFSA exercises a Resolution Power or applies a Resolution Tool in respect of an Authorised Firm, it shall cause a valuation to be carried out to assess the value of the assets and liabilities of the Authorised Firm (a “Pre-Resolution Valuation”).
+
+(2)
+
+Notwithstanding (1), where the urgency of the case makes it appropriate for a Resolution Power or Resolution Tool to be exercised or applied in respect of an Authorised Firm before a Pre-Resolution Valuation can be carried out, the DFSA may cause a provisional valuation to be carried out of the assets and liabilities of the Authorised Firm (a “Provisional Valuation”).
+
+(3) Where the DFSA causes a Provisional Valuation to be carried out under (2), it shall cause a further valuation (a “Definitive Valuation”) to be carried out on the assets and liabilities of the Authorised Firm as soon as practicable after the Provisional Valuation.
+
+72
+
+(4)
+
+A Pre-Resolution Valuation, Provisional Valuation and Definitive Valuation shall be carried out in such manner as the DFSA may prescribe in the Rules.
+
+84N. Resolution Powers
+
+(1) Where

@@ -1,0 +1,143 @@
+ be determined.
+
+2.
+
+Other common characteristics of the transactions in Rule 4.14A.1 include the following:
+
+a.
+
+Collateral may be used to mitigate risk exposure and is inherent in the nature of some transactions;
+
+b.
+
+short-term financing may be a primary objective in that the transactions mostly consist of an exchange of one asset for another (cash or securities) for a relatively short period of time, usually for the business purpose of financing; the two sides of the transactions are not the result of separate decisions but form an indivisible whole to accomplish a defined objective;
+
+c.
+
+netting may be used to mitigate the risk;
+
+d.
+
+positions are frequently valued (most commonly on a daily basis), according to market variables; and
+
+e.
+
+remargining may be employed.
+
+Calculating the CCR Exposure
+
+4.14A.2 (1) An Authorised Firm must calculate the Exposure value for the transaction types referred to in Rule 4.14A.1 by applying the methodology set out in section A4.8 in accordance with this Rule.
+
+160
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+(2)
+
+If an Authorised Firm purchases protection through a Credit Derivative against a Non-Trading Book Exposure or against a CCR Exposure it may:
+
+(a)
+
+calculate its Credit Risk Capital Requirement for the hedged Exposure in accordance with sections 4.12 and 4.13; and
+
+(b)
+
+set the Exposure value for the Credit Derivative to zero.
+
+(3) An Authorised Firm may set the Exposure value for a sold credit default swap in the Non-Trading Book to zero provided that the credit default swap is:
+
+(a)
+
+treated as credit protection provided by the Authorised Firm; and
+
+(b)
+
+subject to Credit Risk Requirements for the underlying exposure for the full notional amount.
+
+(4) Subject to (5), the Exposure value for a given Counterparty is equal to the sum
+
+of the Exposure amounts for each Netting Set with that Counterparty.
+
+(5) The Exposure value for a given OTC Counterparty is the greater of:
+
+(a)
+
+zero; and
+
+(b)
+
+the difference between the sum of Exposures:
+
+(i)
+
+across all Netting Sets with the Counterparty; and
+
+(ii)
+
+the credit valuation adjustment for that Counterparty that has already been recognised by the Authorised Firm as an incurred write-down without taking into account any offsetting debit value adjustments which has already been excluded from CET1 Capital under Rule 3.13.5.
+
+4.15 Concentration Risk
+
+Applicability and limits
+
+4.15.1 This section applies with respect to Trading Book transactions as calculated in App2
+
+and Non-Trading Book transactions as calculated in section 4.8.
+
+4.15.2 For the purposes of this section an Exposure that arises in the Trading Book is
+
+calculated by summing the following:
+
+(a)
+
+the net positive position (long positions net of short positions) for each financial instrument as set out in Rules A4.11.10 to A4.11.28;
+
+(b)
+
+the Authorised Firm’s net Underwriting Exposures for any Counterparty; and
+
+(c)
+
+any other Exposures arising from transactions, agreements and contracts that would give rise to Counterparty Credit Risk.
+
+4.15.3 For the purposes of this section an Authorised Firm must:
+
+161
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+(a)
+
+identify its Exposures;
+
+(b)
+
+identify its Counterparties, including whether any are Closely Related to each other or Connected to the Authorised Firm;
+
+(c)
+
+measure the size of its Exposures;
+
+(d)
+
+establish the value of its Exposures;
+
+(e)
+
+determine the size of its Exposures as a proportion of its Tier 1 Capital;
+
+(f)
+
+identify whether it has Exposures which are subject to the requirements of section 4.13 (Credit Risk mitigation);
+
+(g)
+
+identify which, if any, of its Exposures are exempt in accordance with section A4.11 from the limits set out in Rules 4.15.4 to 4.15.7;
+
+(h)
+
+aggregate its Exposures to the same Counterparty

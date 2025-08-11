@@ -1,0 +1,157 @@
+ the conditions for a Controlled Early Amortisation provision will be treated as a non-Controlled Early Amortisation provision.
+
+(2)
+
+For the purpose of (1), the conditions for a Controlled Early Amortisation provision are as follows:
+
+(a)
+
+the Authorised Person must have an appropriate capital/liquidity plan in place to ensure that it has sufficient capital and liquidity available in the event of an Early Amortisation;
+
+(b)
+
+throughout the duration of the transaction, including the amortisation period, there is the same pro rata sharing of interest, principal, expenses, losses and recoveries based on the firm's and investors' relative shares of the receivables outstanding at the beginning of each month;
+
+(c)
+
+the firm must set a period for amortisation that would be sufficient for at least 90% of the total debt outstanding at the beginning of the Early Amortisation period to have been repaid or recognised as in default; and
+
+(d)
+
+the pace of repayment should not be any more rapid than would be allowed by straight-line amortisation over the period set out in (c).
+
+4.14.58 For uncommitted retail credit lines in securitisations containing Controlled Early Amortisation which is triggered by the Excess Spread level falling to a specified level, an Authorised Person must compare the three month average Excess Spread level with the Excess Spread levels at which the Excess Spread is required to be trapped.
+
+4.14.59 Where the securitisation does not require Excess Spread to be trapped, the trapping point is deemed to be 4.5 percentage points greater than the Excess Spread level at which Early Amortisation is triggered.
+
+4.14.60 An Authorised Person must divide the Excess Spread level by the transaction's Excess Spread trapping point to determine the appropriate segments and apply corresponding conversion factors as set out in the following table:
+
+166
+
+PRU VER17.290725
+
+Controlled Early Amortisation Features
+
+Uncommitted
+
+Committed
+
+Retail Credit Lines
+
+3 Month average Excess Spread CCF
+
+90%
+
+133.33% of trapping point or more
+
+0%
+
+<133.33% to 100% of trapping point
+
+1%
+
+<100% to 75% of trapping point
+
+2%
+
+<75% to 50% trapping point
+
+10%
+
+<50% to 25% of trapping point
+
+20%
+
+<25%
+
+40%
+
+Non-retail credit lines
+
+90%
+
+90%
+
+Non-Controlled Early Amortisation
+
+4.14.61
+
+In regard to non-Controlled Early Amortisation, an Authorised Person must apply the same steps as set out at Rules 4.14.59 to 4.14.61 and determine appropriate segments and apply the corresponding conversion factors as set out in the following table:
+
+Non-Controlled Early Amortisation Features
+
+Uncommitted
+
+Committed
+
+Retail Credit Lines
+
+3 Month average Excess Spread CCF
+
+100%
+
+133.33% of trapping point or more
+
+0%
+
+<133.33% to 100% of trapping point
+
+5%
+
+<100% to 75% of trapping point
+
+15%
+
+<75% to 50% trapping point
+
+50%
+
+<50% of trapping point
+
+100%
+
+Non-retail credit lines
+
+100%
+
+100%
+
+Transfers to Special Purpose Entities (SPEs)
+
+4.14.62 An Authorised Person need not include in its calculation of Capital Resources or Credit
+
+RWA amounts, assets transferred to:
+
+(a)
+
+an SPE; or
+
+167
+
+PRU VER17.290725
+
+(b)
+
+any Person, if the transfer is in connection with a securitisation under which the Issuer of the Securities is an SPE,
+
+provided that:
+
+(c)
+
+the Authorised Person does not own any Share or proprietary interest in the SPE;
+
+(d)
+
+no more than one member of the Governing Body of the SPE is an officer, Partner, or Employee of the Authorised Person;
+
+(e)
+
+the SPE does not have a name that implies any connection with the Authorised Person or any other member of the Authorised Person's Group;
+
+(f)
+
+the Authorised Person does not fund the SPE except where permitted under the requirements for Credit Enhancement below;
+
+(g)
+
+the Authorised Person does not provide temporary finance to the SPE to cover cash shortfalls arising from delayed payments or non-performance of loans transferred except where it meets the requirements for liquidity support

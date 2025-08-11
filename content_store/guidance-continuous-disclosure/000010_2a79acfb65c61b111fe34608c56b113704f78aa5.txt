@@ -1,0 +1,61 @@
+ in circumstances relating to a complex or protracted disclosure matter that is unlikely to be resolved within inside this time. In these circumstances, a Suspension may be more appropriate.
+
+52) As a Reporting Entity’s primary obligation under Rule 7.2.1 is to Disclose Inside Information promptly and without delay, the Listing Authority does not expect a Reporting Entity to request a Trading Halt, or Suspension, before it has determined whether the particular information represents Inside Information. Having made this determination, if the Reporting Entity is able to make the required Disclosure promptly and without delay then, in normal circumstances, the Reporting Entity does not need a Trading Halt or Suspension to manage its disclosure obligations.
+
+53) A Trading Halt or Suspension may, however, be necessary in the following circumstances:
+
+a)
+
+there are indications that the Inside Information has lost its confidentiality ahead of a Disclosure (see Rule 7.2.2(2)), and it is having, or (where the RIE upon which the Listed Entity’s Securities are admitted to trading is not yet open for trading) is likely to have, when the RIE opens for trading, a significant effect on the price of the Listed Entity’s Securities;
+
+11
+
+VER01.280922
+
+b)
+
+the Reporting Entity has been asked by the Listing Authority to correct or prevent a false market;13 or
+
+c)
+
+the information is particularly significant Inside Information and likely to cause a significant movement in the price of the Listed Entity’s Securities (for example, Inside Information relating to a significant capital raising, the Board of the Listed Entity resolving to appoint an administrator, or that the Listed Entity is to win approval for a one-off contract that will substantially change the scale and activities of the Listed Entity);
+
+and in circumstances where the RIE’s market is:
+
+d)
+
+open for trading in the Listed Entity’s Securities, the Reporting Entity is not in a position to make the Disclosure immediately; or
+
+e)
+
+not open for trading in the Listed Entity’s Securities, the Reporting Entity will not be in a position to make the Disclosure before the RIE opens for trading.
+
+54) A Trading Halt, or Suspension, will also be necessary if for any reason there is going to be a delay in the release of the Disclosure under Rule 7.2.1, and the RIE’s market is trading during any part of the delay.14 Examples of this could include where the:
+
+a) Reporting Entity considers the Disclosure of the Inside Information to be so significant that it ought to be approved by the Listed Entity’s Board before being released but, due to the unavailability of directors, the Board meeting is not able to be held promptly and without delay; or
+
+b)
+
+situation is uncertain, or evolving, but is likely to be resolved within a relatively short period of time and the Reporting Entity considers that it is better for the Disclosure to be delayed until there is greater certainty or clarity in relation to the outcome.15
+
+55) Generally, a Suspension is appropriate where a:
+
+a)
+
+Listed Entity’s Securities have been in a Trading Halt but the relevant disclosure matter has not been resolved within the two Business Day period provided by the Trading Halt;
+
+b)
+
+circumstance warrants the granting of a Trading Halt by the Listing Authority, but the Listed Entity is not of the view that the relevant disclosure matter will be resolved within the two Business Day period provided by a Trading Halt; or
+
+c)
+
+Listed Entity is in serious financial difficulty and the Reporting Entity is of the reasonable view that continued trading of the Listed Entity’s Securities on the RIE is likely to be materially prejudicial to the Listed Entity’s ability to successfully
+
+13 For further details on false markets, refer to paragraphs 100 to 115 below. 14 Similar to what is outlined in paragraph 44 above, the word ‘delay’ is not intended to be interpreted in this context as the mere passing of time between when a Reporting Entity first becomes obligated to make a Disclosure and when it actually makes the Disclosure, but rather deferring or postponing the Disclosure to a later time. 15 This may arise where there has been a leak of information (loss of confidentiality) about a transaction under negotiation, and the Reporting Entity considers it appropriate to delay the Disclosure until after negotiations have concluded and therefore release a more definitive and informative Disclosure than if it was to make an immediate Disclosure relating to the current state negotiations.
+
+12
+
+VER01.280922
+
+complete a complex transaction

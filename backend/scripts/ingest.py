@@ -23,7 +23,6 @@ from typing import List, Dict, Any, Iterable, Optional, Tuple
 from pinecone import Pinecone, ServerlessSpec
 from llama_index.core import Document
 from llama_index.readers.file import UnstructuredReader
-from llama_index.core.node_parser import Node
 from llama_index.embeddings.openai import OpenAIEmbedding
 
 try:
@@ -34,7 +33,7 @@ except Exception:  # fallback if not installed
 # -----------------
 # CONFIG / CONSTANTS
 # -----------------
-DATA_DIRS = ["./data/difc", "./data/adgm"]  # hardcoded as requested
+DATA_DIRS = ["./backend/data/difc", "./backend/data/adgm"]  # hardcoded as requested
 CONTENT_STORE = Path("./content_store")  # local path for heavy artifacts
 CONTENT_STORE.mkdir(parents=True, exist_ok=True)
 
@@ -49,8 +48,11 @@ MAX_RETRIES = 5
 BASE_SLEEP = 1.25
 
 # Env vars must be set in your runtime
-OPENAI_API_KEY = os.environ.get("OPENAI_API_KEY")
-PINECONE_API_KEY = os.environ.get("PINECONE_API_KEY")
+import sys
+sys.path.append('/home/mubeen/compliance-chatbot')
+sys.path.append('/home/mubeen/compliance-chatbot/backend')
+
+from backend.core.config import OPENAI_API_KEY, PINECONE_API_KEY
 
 if not OPENAI_API_KEY:
     raise RuntimeError("OPENAI_API_KEY not set")
@@ -105,6 +107,15 @@ def sanitize_metadata(meta: Dict[str, Any]) -> Dict[str, Any]:
         if k not in ALLOWED_META_KEYS:
             continue
         v = meta[k]
+        
+        # Skip null/None values - Pinecone doesn't accept them
+        if v is None:
+            continue
+            
+        # Convert to string if it's not a basic type
+        if not isinstance(v, (str, int, float, bool)):
+            v = str(v)
+            
         # truncate any over-sized field
         if isinstance(v, str):
             while byte_len(v) > MAX_FIELD_BYTES:
@@ -213,35 +224,46 @@ def chunk_text_token_aware(
 
 def build_documents() -> List[Document]:
     reader = UnstructuredReader()
-    file_extractor = {".pdf": reader}  # PDFs only
-
     documents: List[Document] = []
-    for d in DATA_DIRS:
-        dpath = Path(d)
+    
+    for data_dir in DATA_DIRS:
+        dpath = Path(data_dir)
         if not dpath.exists():
-            print(f"WARN: directory missing: {d}")
+            print(f"WARN: directory missing: {data_dir}")
             continue
-        docs = reader.load_multi_file(d, file_extractor=file_extractor)
-        # llama-index returns a list of Document objects
-        for doc in docs:
-            # normalize minimal metadata
-            src = doc.metadata.get("file_path") or doc.metadata.get("source")
-            if not src:
-                # try to recover from file name presence
-                src = doc.metadata.get("file_name")
-            file_name = Path(src).name if src else "unknown.pdf"
-            # best-effort jurisdiction from path
-            jurisdiction = "DIFC" if "difc" in str(dpath).lower() else (
-                "ADGM" if "adgm" in str(dpath).lower() else None
-            )
-            doc.metadata.update(
-                {
-                    "file_name": file_name,
-                    "source_path": str(src or Path(d) / file_name),
-                    "jurisdiction": jurisdiction,
-                }
-            )
-            documents.append(doc)
+            
+        # Find all PDF files in this directory
+        pdf_files = list(dpath.glob("*.pdf"))
+        print(f"Found {len(pdf_files)} PDF files in {data_dir}")
+        
+        for pdf_file in pdf_files:
+            try:
+                print(f"  Processing: {pdf_file.name}")
+                docs = reader.load_data(file=str(pdf_file))
+                
+                # Process each document from this file
+                for doc in docs:
+                    # normalize minimal metadata
+                    file_name = pdf_file.name
+                    source_path = str(pdf_file)
+                    
+                    # best-effort jurisdiction from path
+                    jurisdiction = "DIFC" if "difc" in str(dpath).lower() else (
+                        "ADGM" if "adgm" in str(dpath).lower() else None
+                    )
+                    
+                    # Update document metadata
+                    doc.metadata.update({
+                        "file_name": file_name,
+                        "source_path": source_path,
+                        "jurisdiction": jurisdiction,
+                    })
+                    documents.append(doc)
+                    
+            except Exception as e:
+                print(f"  ERROR processing {pdf_file.name}: {e}")
+                continue
+                
     return documents
 
 

@@ -1,0 +1,77 @@
+ Party to use an index or benchmark provided by the Related Party as a Related Party Transaction.
+
+Guidance
+
+1.
+
+An index or other benchmark referenced by an ETF is not the property of the ETF. If the index or benchmark is provided by a Related Party (for example, if it is custom made for the Fund Manager), it can give rise to conflict of interests that may pose the risk of
+
+113
+
+CIR/VER38/08-24
+
+COLLECTIVE INVESTMENT RULES (CIR)
+
+distortion of information in favour of the Fund Manager, to the possible detriment of investors in the ETF. Therefore, Rule 13.9.5 also applies the Related Party Transaction provisions in Rule 8.3.2 to an arrangement under which a Fund Manager of an ETF uses or proposes to use an index or benchmark provided by a Price Information Provider which is a Related Party.
+
+2.
+
+A Fund Manager of an ETF will also need to comply with Rule 13.9.4 in relation to a Related Party Price Information Provider which provides the index or the other benchmark it tracks.
+
+Types of ETFs and their characteristics
+
+13.9.6 A Fund Manager of an ETF must take reasonable steps to ensure that the Fund’s Prospectus and marketing material describe the type of ETF in a way that is clear and not misleading to enable investors and potential investors to understand the type of ETF, and its characteristics.
+
+Guidance
+
+General
+
+1.
+
+The terminology ETFs use are specific to ETFs. Depending on the type of ETF, their features could also be different. FSB, IOSCO and ESMA have issued guidance relating to types of ETFs, ETF terminology and ETF characteristics, to enable retail investors, in particular, to understand ETF terminology, different types of ETFs, and their associated characteristics better. The following Guidance is based on the material issued by those bodies, and is designed to assist Fund Managers of ETFs to meet their overarching obligation in Rule 13.9.6.
+
+ETF terminology
+
+(Annual) tracking difference
+
+2.
+
+(Annual) tracking difference measures the actual performance of the ETF, compared to the annual return of the tracked index or other benchmark, generally over a 12 month period (but this could be over a shorter specified period).
+
+Indicative Net Asset Value (iNAV)
+
+3.
+
+iNAV is a measure of the intraday value of the net asset value (NAV) of an index-based ETF, based on the most up-to-date information. iNAV is not the value at which investors buy and sell ETF Units through the Authorised Participant. iNAV is calculated and made available by the operator of the exchange on which an ETF is traded – based on the information made available to the relevant exchange by the ETF manager and the AP relating to the underlying portfolio of ETF assets.
+
+Exchange traded products (ETPs)
+
+4.
+
+ETPs include a wide variety of different investment products that are traded on an exchange, such as exchange-traded commodities (ETCs), exchange-traded notes (ETNs), exchange-traded instruments (ETIs), and exchange-traded vehicles (ETVs). Most of these are debt instruments, and not equity participation rights conferred by a Unit of an ETF.
+
+ETF features
+
+5. While an ETF is a Collective Investment Fund (Fund), as it has special features, it has been classified as a specialist class of Fund.
+
+114
+
+CIR/VER38/08-24
+
+COLLECTIVE INVESTMENT RULES (CIR)
+
+6.
+
+An ETF differs from other Funds because unlike other exchange traded Funds, ETF Units have concurrent primary market and secondary market trading, primary market trading occurring in ‘creation Units’ between the Fund Manager and its Authorised Participant (AP), and secondary market trading between the AP and investors. See also Guidance under Rule 3.1.12.
+
+7.
+
+Investors in an ETF may incur additional costs and fees as they have to buy and sell ETF Units through an Authorised Participant (who directly buys and sells ‘creation units’ in the ETF from the ETF Fund Manager). These are different to the Units of the ETF which are traded on the relevant exchange, and are generally of a larger denomination than the Units available to investors on the relevant exchange.
+
+Types of ETFs
+
+Index tracking ETF (Index-tracker)
+
+8.
+
+An Index-tracking (based) ETF typically seeks to replicate the performance of an underlying index or benchmark. It may do so either as

@@ -1,0 +1,118 @@
+ may only exercise the power in this subsection (3)(b) where, in the reasonable discretion of the Registrar, public policy grounds exist.
+
+(4)
+
+Each DLT Foundation shall apply appropriate organisational, technical and security measures to protect the integrity and security of its DLT and DLT Framework and otherwise comply with applicable United Arab Emirates, the Emirate of Abu Dhabi and ADGM laws and rules imposing requirements in respect of data protection and data security. Where required by applicable law or its Charter, each DLT Foundation shall conduct audits, including periodic and Security Audits, of the DLT Framework and its data protection and security systems, provided that the Security Audits shall be conducted no less than once per calendar year and copies of those shall be sent to the Registrar no later than 14 days after the completion of the Security Audit (“filing deadline”).
+
+(5)
+
+The requirements listed in this section 23 shall be referred to as “Relevant Obligations”.
+
+(6)
+
+Where a DLT Foundation defaults in complying with subsection (4) by the filing deadline, the DLT Foundation must pay a late filing fee up to the maximum amount prescribed in rules made by the Board.
+
+14
+
+PART 6: DLT FOUNDATION DOCUMENTS
+
+DLT Foundation Charter
+
+24.
+
+DLT Foundation Charter
+
+(1)
+
+A DLT Foundation shall have a Charter that complies with the provisions of these Regulations. Any provisions, duties, powers, functions and rights set forth in a Charter shall not replace or limit the processes, restrictions, oversight or other terms set forth in these Regulations.
+
+(2)
+
+The Charter must contain the following information:
+
+(a)
+
+the name of the DLT Foundation;
+
+(b)
+
+the name of the Founder or each of the Founders;
+
+(c)
+
+the objects of the DLT Foundation, which may be limited to specific actions or purposes;
+
+(d)
+
+if the DLT Foundation has been established for a specific purpose, the purpose for which the DLT Foundation has been established;
+
+(e)
+
+a description of the Initial Assets;
+
+(f)
+
+provisions for the establishment of a Council and list and description of each body within the Organisational and Governance Structure and its members;
+
+(g)
+
+provisions governing the appointment and removal of members of each body within the Organisational and Governance Structure and liquidator, including whether and in which circumstances the Guardian will be appointed;
+
+(h)
+
+duties, powers, functions and rights of each body within the Organisational and Governance Structure and its members, including:
+
+i.
+
+provisions on reservation of rights or powers of the DLT Foundation Council (the “Reserved Matters”);
+
+ii.
+
+provisions on rights and powers of other bodies within the Organisational and Governance Structure, including Tokenholders or certain categories of Tokenholders, in respect of taking certain decisions or steps (the “Delegated Matters”), including triggers for those rights and powers;
+
+iii.
+
+the Delegated Matters shall not include exercise of Veto Rights;
+
+iv.
+
+in each case, unless otherwise is expressly provided for by the Charter, if Tokens are issued:
+
+A.
+
+the Delegated Matters shall include the “Qualified Matters”, which means (i) change of name of the DLT Foundation; (ii) change of Charter and DLT Framework of the DLT Foundation; (iii) change of objects and purpose of
+
+15
+
+(i)
+
+(j)
+
+(k)
+
+(l)
+
+the DLT Foundation; (iv) change of jurisdiction of the DLT Foundation; and (v) other matters identified as Qualified Matters in the Charter (provided that, irrespective of the provisions of the Charter, Qualified Matters cannot be expanded but can be limited); and
+
+B.
+
+all categories of Tokenholders having any voting rights in respect of any matters shall have voting rights in respect of Qualified Matters; and
+
+C.
+
+a decision on the Qualified Matters will require the Qualified Resolution of Tokenholders; and
+
+v.
+
+the Delegated Matters may include the “Ordinary Matters”, which means (i) appointment and removal of members of anybody within the Organisational and Governance Structure; (ii) issuance of Tokens; and (iii) other matters identified as “Ordinary Matters” in the Charter;
+
+description of the manner in which decisions of each body within the Organisational and Governance Structure are to be made, including:
+
+i.
+
+the required quorum which by default shall require:
+
+A.
+
+the majority of all Persons within the relevant body entitled to vote; or
+

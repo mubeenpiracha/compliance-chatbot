@@ -1,0 +1,101 @@
+ records and information relating to the Fund;
+
+(c)
+
+do not interfere with the ability of the Persons providing the oversight function to discharge their duties;
+
+(d)
+
+do not provide false or misleading information to the Persons providing the oversight function; and
+
+(e)
+
+report to the Persons providing the oversight function any matter which may significantly affect the financial position of the Fund or which is a breach of the Law or the Rules in this module.
+
+Record keeping
+
+10.3.15 A Fund Manager must keep records of:
+
+(a)
+
+the due diligence process it has undertaken to assess whether the Persons appointed for the oversight function meet the suitability criteria in Rule 10.3.2(1); and
+
+(b)
+
+the matters identified and reported to it by the Persons providing the oversight function under Rule 10.3.4(c) and any remedial measures adopted by it to address such matters.
+
+77
+
+CIR/VER38/08-24
+
+10.4
+
+10.5
+
+10.5.1
+
+10.5.2
+
+10.5.3
+
+COLLECTIVE INVESTMENT RULES (CIR)
+
+Prospectus requirement for Public Funds
+
+Guidance
+
+The disclosure requirements relating to a Prospectus that apply to a Public Fund are somewhat more extensive than the Prospectus disclosure that apply to other types of Funds, in particular, Exempt Funds and Qualified Investor Funds. However, as Prospectus disclosure is a matter closely linked to the marketing of Funds, Prospectus requirements relating to the relevant types of Funds are set out in Part 7 of this module, which deals with the Offer of Units of Funds.
+
+Investment and borrowing requirements for Public Funds
+
+Application
+
+This section applies to the Fund Manager of a Domestic Fund which is a Public Fund, an Eligible Custodian and, where appropriate, a Trustee, and, to Persons appointed to perform the oversight function for such a Fund, to the extent specified in Rule 10.3.4.
+
+Spread of risk and protection of Fund Property
+
+A Fund Manager must take reasonable steps to ensure that the Fund Property of a Public Fund provides a spread of risk that is consistent with the investment objectives and policy of the Fund as stated in its most recently published Prospectus, and in particular, any investment objectives as regards return to the Unitholders whether through capital appreciation or income or both.
+
+Guidance
+
+The investment policy of a Public Fund can provide a wide or restrictive spread of risk, provided it is consistent with the investment objectives and policy of the Fund as stated in the most recently published Fund Prospectus of that Fund. For example, if a Fund’s investment objectives and policy are to invest in a single asset (a single property Fund), or a single asset class (e.g. shares in emerging markets) or a single sector (mining or technology) that policy must be properly disclosed in the Prospectus, along with the risks associated in the particular asset or asset class. See also the additional disclosure required under Rules 14.4.3 and 14.4.4 in the Prospectus of a Public Fund that is a Property Fund.
+
+(1)
+
+A Fund Manager must avoid the Fund Property being used or invested contrary to any provision in this section.
+
+(2)
+
+On becoming aware of any breach of a Rule in this section, a Fund Manager must take action, at its own expense, to rectify that breach.
+
+(3)
+
+A Fund Manager must take the action in (2) immediately, except in circumstances where it decides doing so would not be in the best interests of Unitholders, in which case the action must be taken as soon as such circumstances cease to apply.
+
+(4)
+
+A Fund Manager must not postpone taking action in accordance with (2) unless the Persons providing oversight functions have given their consent.
+
+78
+
+CIR/VER38/08-24
+
+10.5.4
+
+10.5.5
+
+10.5.6
+
+COLLECTIVE INVESTMENT RULES (CIR)
+
+Investment in other Funds
+
+A Fund may invest in Units of another Fund, except where otherwise provided in the Rules in this module, only where the Fund Manager has taken reasonable care to determine, before investing in that other Fund, it:
+
+(a)
+
+is the subject of an independent annual audit conducted in accordance with IFRS or US GAAP;
+
+(b)
+
+has mechanisms in place to enable Unitholders to redeem their Units within a reasonable time if it is an

@@ -1,0 +1,113 @@
+-Up order has been made; or
+
+(b)
+
+a resolution for voluntary winding up has been passed or an Administrator, Administrative Receiver or provisional liquidator has been appointed;
+
+and any previous Direction not to take action shall cease to have effect on the making or passing of any such order, award or appointment.
+
+(10) Where a Recognised Body or Remote Body has taken or been directed to take action under its Default Rules, the Regulator may direct it to do or not to do such things (being things which it has power to do under its Default Rules) as are specified in the Direction.
+
+(11) Where the Recognised Body or Remote Body is acting in accordance with a Direction under subsection (2)(a) that was given only by virtue of subsection (3)(a), the Regulator shall not give a Direction under subsection (10) unless it is satisfied that the Direction under that subsection will not impede or frustrate the proper and efficient conduct of the Default Proceedings.
+
+(12) Where the Recognised Body or Remote Body has taken action under its Default Rules without being directed to do so, the Regulator shall not give a Direction under subsection (10) unless—
+
+(a)
+
+it is satisfied that the Direction under that subsection will not impede or frustrate the proper and efficient conduct of the Default Proceedings; or
+
+(b)
+
+it is satisfied that the Direction is necessary having regard to the public interest in the stability of the ADGM Financial System.102
+
+102 Amended 30 December 2024.
+
+107
+
+(13)
+
+A Direction under this section is enforceable, on the application of the Regulator, by injunction, and where a Recognised Body, Remote Body or a Relevant Office-Holder has not complied with a Direction, the Court may make such order as it thinks fit for restoring the position to what it would have been if the Direction had been complied with.
+
+163. Application to determine whether Default Proceedings to be taken103
+
+(1)
+
+This section applies where a Relevant Insolvency Event has occurred in the case of—
+
+(a)
+
+a Recognised Investment Exchange or Remote Investement Exchange, or a member or Designated Non-Member of a Recognised Investment Exchange or Remote Investment Exchange;
+
+(b)
+
+a Recognised Clearing House or Remote Clearing House, or a member of a Recognised Clearing House or Remote Clearing House; or
+
+(c)
+
+a Client which is providing Indirect Clearing Services to an Indirect Client.
+
+The Recognised Investment Exchange, Remote Investement Exchange, member, Designated Non-Member, Recognised Clearing House, Remote Clearing House or Client in whose case a Relevant Insolvency Event has occurred is referred to below as the "Person in Default".
+
+(2)
+
+For the purposes of this section a "Relevant Insolvency Event" occurs where—
+
+(a)
+
+a Winding-Up order is made;
+
+(b)
+
+an administration order is made;
+
+(c)
+
+an Administrator is appointed under section 21 of the Insolvency Regulations (Power to appoint) or under section 29 of the Insolvency Regulations (Power to appoint);
+
+(d)
+
+a resolution for voluntary Winding-Up is passed; or
+
+(e)
+
+an order appointing a provisional liquidator is made.
+
+(3)
+
+Where in relation to a Person in Default a Recognised Body or Remote Body (the "Responsible Body")—
+
+(a)
+
+has power under its Default Rules to take action in consequence of the Relevant Insolvency Event or the matters giving rise to it; but
+
+(b)
+
+has not done so;
+
+a Relevant Office-Holder appointed in connection with or in consequence of the Relevant Insolvency Event may apply to the Regulator.
+
+103 Amended 21 February 2018 and 8 August 2023.
+
+108
+
+(4)
+
+The application shall specify the Responsible Body and the grounds on which it is made.
+
+(5)
+
+On receipt of the application the Regulator shall notify the Responsible Body, and unless within three Business Days after the day on which the notice is received the Responsible Body—
+
+(a)
+
+takes action under its Default Rules; or
+
+(b)
+
+notifies the Regulator that it proposes to do so forthwith;
+
+then, subject as follows, the provisions of sections 154 to 161 do not apply in relation to Market Contracts to which the Person in Default is a party or to anything done by the Responsible Body for the purposes of, or in connection with, the Settlement of any such contract.
+
+(6)
+
+The provisions of sections 

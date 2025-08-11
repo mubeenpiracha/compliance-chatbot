@@ -1,0 +1,137 @@
+ charge may make an administration application.
+
+(3)
+
+If the Court makes an administration order on hearing an application made by virtue of subsection (2)—
+
+(a)
+
+the Court shall discharge the winding-up order;
+
+(b)
+
+the Court shall make provision for such matters as may be prescribed with such amendments as the Court considers appropriate;
+
+(c)
+
+the Court may make other consequential provision;
+
+(d)
+
+the Court shall specify which of the powers under this Part 1 (Administration) are to be exercisable by the administrator of the Company; and
+
+(e)
+
+this Part 1 (Administration) shall have effect with such modifications as the Court may specify.
+
+(4)
+
+The liquidator of a Company may make an administration application.
+
+(5)
+
+If the Court makes an administration order on hearing an application made by virtue of subsection (4)—
+
+(a)
+
+the Court shall discharge any winding-up order in respect of the Company;
+
+(b)
+
+the Court shall make provision for such matters as may be prescribed with such amendments as the Court considers appropriate;
+
+(c)
+
+the Court may make other consequential provision;
+
+(d)
+
+the Court shall specify which of the powers under this Part 1 (Administration) are to be exercisable by the administrator of the Company; and
+
+(e)
+
+this Part 1 (Administration) shall have effect with such modifications as the Court may specify.
+
+40.
+
+Application where Company in liquidation
+
+(1) Where an administration application is made under Section 39 (Application where Company in liquidation), the witness statement required by Section 11 (Content of administration application and witness statement) shall contain—
+
+(a)
+
+full details of the existing Insolvency Proceedings, the name and address of the liquidator, the date he was appointed and by whom;
+
+(b)
+
+the reasons why it has subsequently been considered appropriate that an administration application should be made;
+
+(c)
+
+all other matters that would, in the opinion of the applicant, assist the Court in considering the need to make provisions in respect of matters arising in connection with the liquidation; and
+
+(d)
+
+the details required in Section 11(2) (Content of administration application and witness statement).
+
+18
+
+(2) Where the application is made by the holder of a qualifying charge he shall set out sufficient evidence in the witness statement required by Section 11 (Content of administration application and witness statement) to satisfy the Court that he is entitled to appoint an administrator of the Company under Section 21 (Power to appoint).
+
+41.
+
+Effect of administrative receivership
+
+(1) Where there is an administrative receiver of a Company the Court must dismiss an
+
+administration application in respect of the Company unless—
+
+(a)
+
+the person by or on behalf of whom the receiver was appointed consents to the making of the administration order; or
+
+(b)
+
+the Court thinks that the security by virtue of which the receiver was appointed would be liable to be released or discharged under Sections 257 (Transactions at an undervalue) to 259 (Relevant time) if an administration order were made.
+
+(2)
+
+Subsection (1) applies whether the administrative receiver is appointed before or after the making of the administration application.
+
+Chapter 6 - Effect of Administration
+
+42.
+
+Dismissal of pending winding-up petition
+
+(1)
+
+A petition for the winding-up of a Company—
+
+(a)
+
+shall be dismissed on the making of an administration order in respect of the Company; and
+
+(b)
+
+shall be suspended while the Company is in administration following an appointment under Section 21 (Power to appoint).
+
+(2)
+
+Subsection (1)(b) does not apply to a petition presented under Section 203 (Petition for winding-up by the Financial Services Regulator).
+
+(3) Where an administrator of a Company becomes aware that a petition was presented under a provision referred to in subsection (2) before his appointment, he shall apply to the Court for directions under Section 95(7) (General powers).
+
+43.
+
+Dismissal of administrative or other receiver
+
+(1) When an administration order takes effect in respect of a Company any administrative
+
+receiver of the Company shall vacate office.
+
+(2) Where a Company is in administration, any receiver of part of the Company’s property
+
+shall vacate office if the administrator of the Company requires him to.
+
+(3) Where an administrative receiver or receiver vacates office under subsection (1) or (2) his remuneration shall be charged on and paid out of any property of the Company which was in his custody or under his

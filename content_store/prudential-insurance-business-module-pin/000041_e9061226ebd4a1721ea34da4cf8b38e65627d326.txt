@@ -1,0 +1,178 @@
+ – INSURANCE BUSINESS (PIN)
+
+include appropriate testing of the robustness of the portfolio in changing investment conditions, using realistic scenarios relevant to the circumstances of the Insurer.
+
+10.
+
+Stress and scenario testing should consider the impact of possible deteriorations in investment conditions, including where relevant the impact of simultaneous deteriorations in more than one market. It should also consider effects on liquidity, including where relevant those from an inability to repatriate assets from elsewhere. Where the insurance industry’s holdings are large in relation to the turnover of the domestic market, scenario modelling should take account of the possible effect on the market of simultaneous liquidation of assets.
+
+A2.7 Underwriting risk
+
+Guidance
+
+1.
+
+Underwriting is the process by which an Insurer determines whether and under what conditions to accept a risk. Weaknesses in the systems and controls surrounding the underwriting process can expose an Insurer to the risk of unexpected losses which may threaten the capital adequacy of the Insurer.
+
+2.
+
+The risk management system for underwriting risk should normally include at least the following policies and procedures:
+
+a.
+
+clear identification and quantification of the Insurer’s willingness and capacity to accept risk;
+
+b.
+
+clear identification of the classes and characteristics of insurance business that the Insurer is prepared to underwrite including:
+
+i.
+
+geographical areas;
+
+ii.
+
+the types of risk that may be underwritten; and
+
+iii.
+
+criteria for the use of policy exclusions and reinsurance;
+
+c.
+
+formal evaluation processes for the effective assessment of risks underwritten including:
+
+i.
+
+criteria for assessing risk;
+
+ii.
+
+methods for monitoring emerging experience; and
+
+iii. methods by which emerging experience is taken into account in updating the
+
+underwriting process;
+
+d.
+
+appropriate approval authorities and limits to those authorities that are definitive and specific to intermediaries of the Insurer);
+
+(including controls surrounding any delegations
+
+that are given
+
+e.
+
+concentration limits; and
+
+f.
+
+methods for monitoring compliance with underwriting policies and procedures such as:
+
+i.
+
+minimum standards of documentation;
+
+ii.
+
+internal audit;
+
+iii.
+
+peer review of policies underwritten;
+
+57
+
+PIN/VER18/04-23
+
+PRUDENTIAL – INSURANCE BUSINESS (PIN)
+
+iv.
+
+assessments of brokers’ procedures and systems to ensure the quality of information provided to the Insurer is of a suitable standard; and
+
+v.
+
+in the case of reinsurers, audits of ceding companies to ensure that reinsurance assumed is in accordance with treaties in place.
+
+A2.8 Claims management risk
+
+Guidance
+
+1.
+
+Claims management is the process by which Insurers fulfil their contractual obligation to policyholders. An Insurer’s duties when a claim is made under a Contract of Insurance may be summarised as:
+
+a.
+
+verify the contractual obligation to pay the claim;
+
+b.
+
+make an assessment of the amount and incidence of the claim liability, including loss adjustment expenses; and
+
+c.
+
+manage the claim settlement process.
+
+2.
+
+The risk management system for claims management risk should normally include at least the following policies and procedures:
+
+a.
+
+clear definition and appropriate levels of delegations of authority;
+
+b.
+
+clear claim settlement procedures, including claim determination and investigation procedures and the criteria for accepting or rejecting claims;
+
+c.
+
+clear and objective loss estimation procedures (including estimation of reinsurance recoveries); and
+
+d.
+
+methods for monitoring compliance with claims management processes and procedures such as:
+
+i.
+
+minimum documentation standards;
+
+ii.
+
+internal audit;
+
+iii.
+
+peer review of claims paid;
+
+vi.
+
+assessment of brokers’ procedures and systems to ensure the quality of information provided to the Insurer is of a suitable standard; and
+
+vii.
+
+audits of ceding companies to ensure that the value of claims paid is in accordance with treaties in place.
+
+3.
+
+In establishing and maintaining effective claims handling systems and procedures, senior management of Insurers should consider factors including the following:
+
+a.
+
+appropriate systems and controls should be in place to ensure that all liabilities or potential liabilities notified to the Insurer are recorded promptly and accurately. Accordingly, the systems and controls in place should ensure that a proper record is established for each notified claim;
+
+b.
+
+suitable systems should be in place to identify and quantify, for the key claims handling procedures, timeliness of processing, the effects of processing backlogs and the need for any corrective action;
+
+58
+
+PIN/VER18/04-23
+
+PRUDENTIAL – INSURANCE BUSINESS (PIN)
+
+c.
+

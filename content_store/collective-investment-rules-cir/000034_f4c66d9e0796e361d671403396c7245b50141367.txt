@@ -1,0 +1,135 @@
+.
+
+3.
+
+Fund Managers of Domestic Funds structured as an Investment Company or Investment Partnership are required under Rule 8.2.2(2) to delegate the activity of Providing Custody to an Eligible Custodian. This obligation does not apply where there are adequate alternative arrangements. This chapter sets out the circumstances in which the obligation under Rule 8.2.2(2) does not apply.
+
+4.
+
+A Fund Manager or Trustee ‘outsources’ a function relating to the operation of the Fund where the function, whether or not relating to a Financial Service activity, is contracted to be performed by a Service Provider. Where the extent of any such function or functions is such that they effectively constitute the carrying on of a Financial Service activity, the DFSA will consider this to comprise a ‘delegation’ of the Financial Service.
+
+5.
+
+If the Fund Manager or the Trustee delegates any activities or outsources any functions, the Fund Manager or the Trustee remains liable to the Unitholders for any acts or omissions of the Service Provider as if they were the acts or omissions of the Fund Manager or Trustee.
+
+6.
+
+The Rules permitting the use of a Service Provider do not relieve the Fund Manager or the Trustee from their obligations, including any restrictions on delegation or outsourcing arising from the Fund’s Constitution or Prospectus.
+
+7.
+
+GEN Rules 5.3.21 and 5.3.22 also govern outsourcing of functions and activities by an Authorised Firm. Those Rules are not disapplied by this section.
+
+Fund Manager
+
+In accordance with the Delegation Agreement, the Fund Manager:
+
+(a)
+
+must register the legal title of the Fund Property with the Eligible Custodian; and
+
+(b)
+
+may give instructions to the Eligible Custodian to deal with the Fund Property.
+
+52
+
+CIR/VER38/08-24
+
+8.12.2
+
+8.12.3
+
+COLLECTIVE INVESTMENT RULES (CIR)
+
+Guidance
+
+See Rule 8.2.4 for the definition of an Eligible Custodian
+
+(1)
+
+Subject to the requirements in Rule 8.12.4, a Fund Manager may delegate one or both of the Financial Service activities of Providing Fund Administration and Managing Assets to a Service Provider.
+
+(2)
+
+For the purposes of (1), and in relation to Providing Fund Administration for a Public Fund, the Service Provider must be:
+
+(a)
+
+a Person authorised by the DFSA to carry on the activity of Providing Fund Administration; or
+
+(b)
+
+a Person who is lawfully entitled in a Zone 1 jurisdiction or Recognised Jurisdiction to carry on in that jurisdiction the activities of:
+
+(i)
+
+asset pricing and Fund valuation;
+
+(ii)
+
+issuing and redemption of Units; and
+
+(iii)
+
+record keeping and maintaining the Unitholders register.
+
+(3)
+
+For the purposes of (1), and in relation to Managing Assets, the Service Provider must be:
+
+(a)
+
+a Person authorised by the DFSA to carry on the activity of Managing Assets; or
+
+(b)
+
+a Person who is authorised by a Financial Services Regulator in a Zone 1 jurisdiction or Recognised Jurisdiction to carry on an equivalent activity in that jurisdiction.
+
+Guidance
+
+As Rule 8.12.2 (2) only applies in relation to a Public Fund, a Fund Manager of an Exempt Fund may make other appropriate arrangements in respect of the provision of Fund Administration.
+
+Trustee
+
+(1)
+
+Subject to Rules 8.12.4, a Trustee may, with the prior written consent of the Fund Manager, delegate one or both of the Financial Service activities of Providing Fund Administration and Providing Custody to a Service Provider.
+
+(2)
+
+For the purposes of (1), and in relation to Providing Fund Administration for a Public Fund, the Service Provider must be:
+
+(a)
+
+a Person authorised by the DFSA to carry on the activity of Providing Fund Administration; or
+
+(b)
+
+a Person who is lawfully entitled in a Zone 1 jurisdiction or Recognised Jurisdiction to carry on in that jurisdiction the activities of:
+
+53
+
+CIR/VER38/08-24
+
+8.12.4
+
+8.12.5
+
+COLLECTIVE INVESTMENT RULES (CIR)
+
+(i)
+
+asset pricing and Fund valuation;
+
+(ii)
+
+issuing and redemption of Units; and
+
+(iii)
+
+record keeping and maintaining the Unitholders register.
+
+(3)
+
+For the purposes

@@ -1,0 +1,119 @@
+; and
+
+(b)
+
+that amount must be treated in all respects as an amended valuation made by the creditor.
+
+Discounts
+
+There shall in every case be deducted from the claim all trade and other discounts (except any discount for immediate or early settlement) which would have been available but for the Insolvency Proceedings.
+
+Administration: mutual dealings and set-off
+
+This paragraph 24 applies in an administration where the administrator proposes to make a distribution and has delivered a notice under paragraph 31 (Notice of intention to declare a dividend) of Part 4 (Distributions to creditors) of this Schedule.
+
+An account must be taken as at the date of the notice referred to in sub-paragraph (1) of what is due from the Company and a creditor to each other in respect of their mutual dealings and the sums due from one party must be set off against the sums due from the other.
+
+If there is a balance owed to the creditor then only that balance is provable in the administration.
+
+If there is a balance owed to the Company under sub-paragraph (3) that must be paid to the administrator as part of the assets. However if all or part of the balance owed to the Company results from a contingent or prospective debt owed by the creditor then the balance (or that part of it which results from the contingent or prospective debt) must be paid in full (without reduction under paragraph 46 (Debt payable at future time) of Part 4 (Distributions to creditors) of this Schedule) if and when that debt becomes due and payable.
+
+In this paragraph 24—
+
+(a)
+
+“obligation” means an obligation however arising, whether by virtue of an agreement, rule of law or otherwise; and
+
+(b)
+
+“mutual dealings” means mutual credits, mutual debts or other mutual dealings between the Company and a creditor proving or claiming to prove for a debt in the administration but does not include any of the following—
+
+(i)
+
+a debt arising out of an obligation incurred at a time when the creditor had notice that—
+
+(aa)
+
+an application for an administration order was pending; or
+
+(bb)
+
+a person had delivered notice of intention to appoint an administrator;
+
+(ii)
+
+a debt which has been acquired by a creditor by assignment or otherwise, under an agreement between the creditor and another party
+
+198
+
+(6)
+
+(7)
+
+where that agreement was entered into at a time when the creditor had notice that—
+
+(aa)
+
+an application for an administration order was pending; or
+
+(bb)
+
+a person had delivered notice of intention to appoint an administrator;
+
+(iii)
+
+a debt arising out of an obligation incurred after the Company entered administration;
+
+(iv)
+
+a debt which has been acquired by a creditor by assignment or otherwise, under an agreement between the creditor and another party where that agreement was entered into after the Company entered administration;
+
+(v)
+
+a debt arising out of an obligation where—
+
+(aa)
+
+at the time the obligation was incurred, the creditor had notice that a meeting of creditors had been summoned under Section 186 (Meetings of members and creditors) of these Regulations or a winding-up petition was pending; and
+
+(bb)
+
+a winding-up immediately preceded the administration;
+
+(vi)
+
+a debt which has been acquired by a creditor by assignment or otherwise, under an agreement between the creditor and another party where that agreement was entered into—
+
+(aa)
+
+at a time when the creditor had notice that a meeting of creditors had been summoned under Section 186 (Meetings of members and creditors) of these Regulations or that a winding-up petition was pending; and
+
+(bb) where a winding-up immediately preceded the administration;
+
+(vii)
+
+a debt arising out of an obligation incurred during a winding-up which immediately preceded the administration; or
+
+(viii)
+
+a debt which has been acquired by a creditor by assignment or otherwise, under an agreement between the creditor and another party where that agreement was entered into during a winding-up which immediately preceded the administration.
+
+A sum must be treated as being due to or from the Company for the purposes of sub- paragraph (2) whether—
+
+(a)
+
+it is payable at present or in the future;
+
+(b)
+
+the obligation by virtue of which it is payable is certain or contingent; or
+
+(c)
+
+its amount is fixed or liquidated, or is capable of being ascertained by fixed rules or as a matter of opinion.
+
+For the purposes of this paragraph 24—
+
+(a)
+
+Paragraph 15 (Administration and winding-up: estimate of value of debt) of Part 3

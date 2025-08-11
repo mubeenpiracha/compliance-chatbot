@@ -1,0 +1,129 @@
+ to 96 of Schedule 1 (Regulated Activities) of the Financial Services and Markets Regulations 2015 (Options, futures and contracts for differences).
+
+(2)
+
+For the purposes of sub-paragraph (1)—
+
+(a)
+
+a reference to holding as trustee includes a reference to holding as nominee or agent;
+
+(b)
+
+a reference to holding for a person who holds a capital market investment includes a reference to holding for a number of persons at least one of whom holds a capital market investment;
+
+(c)
+
+a person holds a capital market investment if he has a legal or beneficial interest in it; and
+
+(d)
+
+the reference to the provision of finance includes the provision of an indemnity.
+
+(3)
+
+In Section 152(8)(a) (Appointment and powers of receivers and administrative receivers) and this paragraph “party” to an arrangement includes a party to an agreement which—
+
+(a)
+
+forms part of the arrangement;
+
+(b)
+
+provides for the raising of finance as part of the arrangement; or
+
+(c)
+
+is necessary for the purposes of implementing the arrangement.
+
+302. Meaning of “capital market investment”
+
+(1)
+
+For the purposes of Section 152 (Appointment and powers of receivers and administrative receivers) an investment is a “capital market investment” if it—
+
+(a)
+
+is within paragraphs 88 (Instruments creating or acknowledging indebtedness) or 89 (Sukuk) and does not fall within paragraph 90 (Government and public Financial Instruments) of Schedule 1 (Regulated Activities) of the Financial Services and Markets Regulations 2015 and is rated, listed, or traded or designed to be rated, listed or traded; or
+
+(b)
+
+is rated, listed or traded or designed to be rated, listed or traded.
+
+(2)
+
+In subsection (1)—
+
+“rated” means rated for the purposes of investment by an internationally recognised rating agency;
+
+“listed” means admitted to the Official List (as defined in the Financial Services and Markets Regulations 2015); and
+
+154
+
+“traded” means admitted to trading on a relevant market (as defined in paragraph 33(3) (Promotions required or permitted by the rules of certain markets) of Schedule 2 (Financial promotions) of the Financial Services and Markets Regulations 2015).
+
+(3)
+
+An investment is also a capital market investment for the purposes of section 152 (Appointment and powers of receivers and administrative receivers) of these Regulations if it consists of a bond or commercial paper issued to a person in a territory or juris diction other than the Abu Dhabi Global Market who under the law of that territory or jurisdiction is not prohibited from investing in bonds or commercial paper.
+
+(4)
+
+In subsection (3)—
+
+“bond” shall be construed in accordance with paragraph 88 (Instruments creating or acknowledging indebtedness) of Schedule 1 (Regulated Activities) of the Financial Services and Markets Regulations 2015 and includes any instrument falling within paragraph 89 (Sukuk) of that Schedule; and
+
+“commercial paper” has the meaning given by paragraph 41(3) (Sums received in consideration for the issue of debt financial instruments) of Schedule 1 (Regulated Activities) of the Financial Services and Markets Regulations 2015.
+
+303. Meaning of “project company”
+
+(1)
+
+A Company is a “project company” of a project if—
+
+(a)
+
+it holds property for the purpose of the project;
+
+(b)
+
+it has sole or principal responsibility under an agreement for carrying out all or part of the project;
+
+(c)
+
+it is one of a number of Companies which together carry out the project;
+
+(d)
+
+it has the purpose of supplying finance to enable the project to be carried out; or
+
+(e)
+
+it is the holding company of a Company within any of paragraphs (a) to (d).
+
+(2)
+
+But a Company is not a “project company” of a project if—
+
+(a)
+
+it performs a function within sub-paragraph (1)(a) to (d) or is within sub- paragraph (1)(e); but
+
+(b)
+
+it also performs a function which is not—
+
+(i)
+
+within sub-paragraph (1)(a) to (d);
+
+(ii)
+
+related to a function within sub-paragraph (1)(a) to (d); or
+
+(iii)
+
+related to the project.
+
+(3)
+
+For the purposes of this paragraph a Company carries out all or part of a project whether or not it acts wholly or

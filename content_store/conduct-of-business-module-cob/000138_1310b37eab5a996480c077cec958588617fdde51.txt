@@ -1,0 +1,131 @@
+ upon which the Authorised Firm considers the Third Party Agent or a non- DIFC custodian to be suitable to hold Safe Custody Investments or Safe Custody Crypto Tokens.
+
+Guidance
+
+1.
+
+When assessing the suitability of a Third Party Agent, an Authorised Firm should have regard to:
+
+a.
+
+its credit rating;
+
+b.
+
+its capital and financial resources in relation to the amount of Safe Custody Investments or Safe Custody Crypto Tokens held;
+
+c.
+
+the insolvency regime of the jurisdiction in which it is located;
+
+d.
+
+its arrangements for holding the Investments or Crypto Tokens;
+
+e.
+
+its regulatory status, expertise, reputation and history;
+
+218
+
+COB/VER48/03-25
+
+CONDUCT OF BUSINESS (COB)
+
+f.
+
+its Group structure;
+
+g.
+
+its use of agents and service providers; and
+
+h.
+
+any other activities of the agent.
+
+2.
+
+When assessing the suitability of a Third Party Agent to hold Safe Custody Crypto Tokens,
+
+an Authorised Firm should have regard to the following additional factors:
+
+a.
+
+whether the Third Party Agent is authorised and supervised by a Financial Services Regulator to provide custody of Crypto Tokens;
+
+b.
+
+the Third Party Agent’s policies and procedures for the storage of Crypto Tokens, including the type of storage, safety of the keys and the measures put in place to protect the keys from hacking, theft or fraud; and
+
+c.
+
+the robustness of the Third Party Agent’s custodial technologies.
+
+A6.6 Safe custody agreements with third party agents
+
+A6.6.1 Before an Authorised Firm passes, or permits to be passed, Safe Custody Investments or Safe Custody Crypto Tokens to a Third Party Agent it must have procured a written acknowledgement from the Third Party Agent stating:
+
+(a)
+
+that the title of the account sufficiently distinguishes that account from any account containing Investments or Crypto Tokens belonging to the Authorised Firm, and is in the form requested by the Authorised Firm;
+
+(b)
+
+that the Client Investment or Client Crypto Token will only be credited and withdrawn in accordance with the instructions of the Authorised Firm;
+
+(c)
+
+that the Third Party Agent will hold Client Investments or Client Crypto Tokens separately from assets belonging to the Third Party Agent;
+
+(d)
+
+the arrangements for recording and registering Client Investments or Client Crypto Tokens, claiming and receiving dividends and other entitlements and interest and the giving and receiving of instructions;
+
+(e)
+
+that the Third Party Agent will deliver a statement to the Authorised Firm (including the frequency of such statement), which details the Client Investments or Client Crypto Tokens deposited to the account;
+
+(f)
+
+that all Investments or Crypto Tokens standing to the credit of the account are held by the Authorised Firm as agent and that the Third Party Agent is not entitled to combine the account with any other account or to exercise any charge, mortgage, lien, right of set-off or counterclaim against Investments or Crypto Tokens in that account in respect of any sum owed to it on any other account of the Authorised Firm; and
+
+(g)
+
+the extent of liability of the Third Party Agent in the event of default.
+
+A6.6.2 (1)
+
+An Authorised Firm must maintain records of all Safe Custody Agreements and any instructions given by the Authorised Firm to the Third Party Agent under the terms of the agreement.
+
+219
+
+COB/VER48/03-25
+
+CONDUCT OF BUSINESS (COB)
+
+(2)
+
+The records must be maintained for at least of six years.
+
+A6.7 Client disclosure
+
+A6.7.1 (1)
+
+Before an Authorised Firm Arranges Custody for a Client it must disclose to that Client, if applicable, that the Client’s Safe Custody Investments or Safe Custody Crypto Tokens may be held in a jurisdiction outside the DIFC and the market practices, insolvency and legal regime applicable in that jurisdiction may differ from the regime applicable in the DIFC.
+
+(2)
+
+Before an Authorised Firm Provides Custody for a Client it must disclose to the Client on whose behalf the Safe Custody Investments or Safe Custody Crypto Tokens will be held:
+
+(a)
+
+a statement that the Client is subject to the protections conferred by the Safe Custody Provisions;
+
+(b)
+
+the arrangements for recording and registering Safe Custody Investments or Safe Custody Crypto Tokens, claiming and receiving dividends and other entitlements and interest and the giving and receiving instructions relating to those Safe Custody Investments or Safe Custody Crypto Tokens;
+
+(c)
+
+the

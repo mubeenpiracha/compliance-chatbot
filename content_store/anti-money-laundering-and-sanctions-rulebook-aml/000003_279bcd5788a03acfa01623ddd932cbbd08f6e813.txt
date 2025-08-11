@@ -1,0 +1,59 @@
+ of Mass Destruction and its Financing and Relevant Resolutions.
+
+3.
+
+The AML Rulebook has been designed to provide a primary reference point for Relevant Persons that are supervised by the Regulator for AML/TFS compliance in accordance with the scope of application outlined in Rule 1.2.1. Accordingly it applies to all Relevant Persons, but to different degrees as provided in Rule 1.2.1(2). The AML Rulebook takes into consideration the fact that Relevant Persons have differing money laundering risk profiles. A Relevant Person should familiarise itself with the AML Rulebook and assess the extent to which the Chapters and sections apply to it. Relevant Persons should also ensure they are aware of, and take into account, all notices issued by the Regulator as well as relevant guidance and guidelines issued by governmental authorities in the UAE.
+
+Confidential
+
+3
+
+AML VER10.020125
+
+4.
+
+The AML Rulebook is not intended to be read in isolation from other UAE relevant legislation or developments in international policy and best practice. To the extent applicable, Relevant Persons need to be aware of, and take into account, how these may impact the Relevant Person's day-to-day operations. This is particularly relevant when considering the Local Terrorist List and the United Nations Security Council ("UNSC") Resolutions which apply in ADGM, and Sanctions imposed by other jurisdictions which may apply to a Relevant Person depending on the Relevant Person's jurisdiction of origin, its business and/or customer base.
+
+5.
+
+Chapter 1 specifies who is ultimately responsible for a Relevant Person's compliance with the AML Rulebook. The Regulator expects the Governing Body and Senior Management of a Relevant Person to establish a robust and effective AML/TFS compliance culture for the business.
+
+6.
+
+Chapter 2 provides an overview of the AML Rulebook and Chapter 3 sets out the key definitions in the AML Rulebook.
+
+7.
+
+Chapter 4 outlines the general compliance requirements including Group policies, notifications, record-keeping requirements and the annual AML Return.
+
+8.
+
+Chapter 5 explains the meaning of the risk-based approach ("RBA"), which should be applied when complying with the AML Rulebook. The RBA requires a risk-based assessment of a Relevant Person's business, in Chapter 6, and its customers, in Chapter 7. A risk-based assessment should be a dynamic process involving regular review, and the use of these reviews to establish the appropriate processes to match the levels of risk. No two Relevant Persons will have the same approach and implementation of the RBA and the AML Rulebook permits a Relevant Person to design and implement systems and controls that are appropriate to its business and customers, with the obvious caveat that such systems should be reasonable and proportionate in light of the money laundering risks. The Regulator expects the RBA to determine the breadth and depth of the Customer Due Diligence ("CDD") which is undertaken for a particular customer under Chapter 8, though the Regulator understands that there is an inevitable overlap between the risk-based assessment of the customer in Chapter 7 and CDD in Chapter 8. This overlap may occur at the initial stages of onboarding of customers but may also occur when undertaking ongoing CDD.
+
+9.
+
+Chapter 9 sets out where a Relevant Person may rely on a third party to undertake all or some of its CDD obligations. Reliance on third-party CDD reduces the need to duplicate CDD already performed for a customer. Alternatively, a Relevant Person may outsource some or all of its CDD obligations to a service provider.
+
+10.
+
+Chapter 10 sets out certain obligations in relation to correspondent banking, wire transfers and other matters which are limited to Authorised Persons, other than a Credit Rating Agency, and Recognised Bodies and, in particular, to banks.
+
+11.
+
+Chapter 11 sets out a Relevant Person's obligations in relation to both Sanctions issued by the UNSC and other Sanctions, and government, regulatory and
+
+Confidential
+
+4
+
+AML VER10.020125
+
+international findings in relation to money laundering, terrorist financing and the financing of weapons of mass destruction (“WMD”).
+
+12.
+
+Chapter 12 sets out the obligation for a Relevant Person to appoint an MLRO and the responsibilities of such a Person.
+
+13.
+
+Chapter 13 sets out the requirements for AML/TFS training and awareness. A Relevant Person should adopt the RBA when complying with Chapter 13, so as

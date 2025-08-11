@@ -1,0 +1,279 @@
+ 5
+
+1, than
+
+Quarterly only
+
+Category 1, 2 (other than a Matched Principal) and 5
+
+Interest Rate Risk in the Non-Trading Book
+
+Domestic Firm and Branch
+
+Category 1 and 2 a (other Matched Principal)
+
+than
+
+Quarterly only
+
+Category 1 and 2 (other than a Matched Principal)
+
+250
+
+PIB/VER50/07-25
+
+Form Number
+
+B270
+
+B280
+
+B310
+
+B320
+
+B330
+
+B340
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+Form Name
+
+Domestic Firm or Branch
+
+Authorised Firm Category
+
+Frequency
+
+Semi-annual consolidated reporting for Financial Groups
+
+Currency Exposure
+
+Domestic Firm and Branch
+
+Category 1, 2, 3A and 5
+
+Quarterly only
+
+Category 1, 2 (other than a Matched Principal) and 5
+
+Outward and Inward Remittances
+
+Domestic Firm and Branch
+
+Category 1 and 5 Quarterly and
+
+annually
+
+Not applicable
+
+Large Exposure
+
+Domestic Firm and Branch
+
+Category 1, 2, 3A and 5 and a 3C Category Authorised Firm that manages a Credit Fund
+
+Quarterly only
+
+Category 1, 2 (other than a Matched Principal) and 5
+
+Arrears and Provisions Domestic Firm and
+
+Branch
+
+Category 1, 2, 3A and 5 and a 3C Category Authorised Firm that manages a Credit Fund
+
+Quarterly only
+
+Category 1, 2 (other than a Matched Principal) and 5
+
+Forborne Exposures
+
+Domestic Firm and Branch
+
+2 Category (other a Matched Principal) and 5
+
+1, than
+
+Quarterly only
+
+Category 1, 2 (other than a Matched Principal) and 5
+
+Credit Activity
+
+Domestic Firm and Branch
+
+Category 1, 2, 3A and 5 and a 3C Category Firm Authorised
+
+Quarterly only
+
+Not applicable
+
+251
+
+PIB/VER50/07-25
+
+Form Number
+
+B350
+
+B360
+
+B370
+
+B380
+
+B410
+
+B420
+
+B430
+
+B440
+
+B450
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+Form Name
+
+Domestic Firm or Branch
+
+Authorised Firm Category
+
+Frequency
+
+Semi-annual consolidated reporting for Financial Groups
+
+that manages a Credit Fund
+
+Trade Finance Activity Domestic Firm and
+
+Branch
+
+Category 1, 2, 3A and 5 and a 3C Category Authorised Firm that manages a Credit Fund
+
+Quarterly only
+
+Not applicable
+
+Islamic Product Activity Domestic Firm and
+
+Branch
+
+Category 1, 2, 3A and 5
+
+Quarterly only
+
+Not applicable
+
+Investment Activity
+
+Domestic Firm and Branch
+
+Category 1, 2, 3A and 5
+
+Quarterly only
+
+Not applicable
+
+Investment Fair Value Domestic Firm and
+
+Branch
+
+Category 1, 2, 3A and 5
+
+Quarterly only
+
+Not applicable
+
+Advisory
+
+Domestic Firm and Branch
+
+All Categories
+
+Quarterly and annually
+
+Not applicable
+
+Asset Management
+
+Domestic Firm and Branch
+
+All Categories
+
+Quarterly and annually
+
+Not applicable
+
+Dealing overview and personnel
+
+Domestic Firm and Branch
+
+All Categories
+
+Quarterly and annually
+
+Not applicable
+
+Dealing and Arranging Domestic Firm and
+
+Branch
+
+All Categories
+
+Quarterly and annually
+
+Not applicable
+
+Staffing and Conduct
+
+Domestic Firm and Branch
+
+All Categories
+
+Quarterly and annually
+
+Not applicable
+
+252
+
+PIB/VER50/07-25
+
+Form Number
+
+B460
+
+B470
+
+B510
+
+Form Name
+
+Money Services
+
+Crowdfunding Intermediation
+
+Insurance Intermediation or Management
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+Domestic Firm or Branch
+
+Authorised Firm Category
+
+Frequency
+
+Semi-annual consolidated reporting for Financial Groups
+
+Domestic Firm and Branch
+
+Any Category of Authorised Firm licensed to Provide Money Services
+
+Quarterly and annually
+
+Not applicable
+
+Dom

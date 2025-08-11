@@ -1,0 +1,203 @@
+ or
+
+(c)
+
+without prejudice to (b), it is paid by way of security for the delivery up of property, whether in a particular state of repair or otherwise.
+
+Exclusions
+
+A1.1.2
+
+A sum is not a Deposit if it is paid:
+
+(a)
+
+by a Person in the course of carrying on a business consisting wholly or to a significant extent of lending money;
+
+(b)
+
+by one company to another at a time when both are members of the same Group;
+
+(c)
+
+by an Authorised Firm authorised under its Licence to carry on the following Financial Services:
+
+(i)
+
+Accepting Deposits;
+
+(ii)
+
+Effecting Contracts of Insurance; or
+
+(iii)
+
+Carrying Out Contracts of Insurance; or
+
+(d)
+
+by a Person who is a close relative of the Person receiving it or who is a director, manager or Controller of that Person.
+
+178
+
+GEN/VER67/03-25
+
+A1.1.3
+
+GENERAL (GEN)
+
+A sum is not a Deposit if it is received:
+
+(a)
+
+by a lawyer acting in his professional capacity;
+
+(b)
+
+by an accountant acting in his professional capacity;
+
+(c)
+
+by an Authorised Firm or an Authorised Market Institution authorised under its Licence to carry on any one or more of the following Financial Services:
+
+(i)
+
+Dealing in Investments as Principal;
+
+(ii)
+
+Dealing in Investments as Agent;
+
+(iii)
+
+Arranging Deals in Investments;
+
+(iv) Managing Assets;
+
+(v)
+
+Operating a Collective Investment Fund;
+
+(vi)
+
+Effecting Contracts of Insurance;
+
+(vii) Carrying Out Contracts of Insurance;
+
+(viii) Operating an Exchange;
+
+(ix)
+
+Operating a Clearing House;
+
+(x)
+
+Insurance Intermediation;
+
+(xi)
+
+Insurance Management;
+
+(xii) Managing a Profit Sharing Investment Account;
+
+(xiii) Providing Trust Services;
+
+(xiv) Arranging Credit and Advising on Credit; or
+
+(xv) Operating a Crowdfunding Platform,
+
+in the course of or for the purpose of any such Financial Service disregarding any applicable exclusions in chapter 2; or
+
+(d)
+
+by a Person as consideration for the issue by him of a Debenture.
+
+179
+
+GEN/VER67/03-25
+
+APP2
+
+A2.1
+
+A2.1.1
+
+GENERAL (GEN)
+
+INVESTMENTS AND CRYPTO TOKENS
+
+General definition of investments
+
+Investments
+
+(1)
+
+An Investment is, subject to (3), either:
+
+(a)
+
+a Security; or
+
+(b)
+
+a Derivative,
+
+as defined in Rule A2.1.2 or Rule A2.1.3.
+
+(2)
+
+Such a Security or Derivative includes:
+
+(a)
+
+a right or interest in the relevant Security or Derivative;
+
+(b)
+
+the Security or Derivative in the form of a cryptographically secured digital representation of rights and obligations that is issued, transferred and stored using DLT or other similar technology;
+
+(c)
+
+a cryptographically secured digital representation of rights and obligations that is issued, transferred and stored using DLT or other similar technology and:
+
+(i)
+
+confers rights and obligations that are substantially similar in nature to those conferred by a Security or Derivative; or
+
+(ii)
+
+has a substantially similar purpose or effect to a Security or Derivative; and
+
+(d)
+
+any instrument declared as a Security or Derivative pursuant to Rule A2.4.1(1).
+
+(3)
+
+In these Rules, an Investment Token means an instrument specified in (2)(b) or (c).
+
+(4) Where a Rule provides that a Security or Derivative has a different classification for a specified purpose, it shall have that effect for that specified purpose and no other purpose.
+
+Guidance
+
+1.
+
+A Token is defined in GLO as a cryptographically secured digital representation of value, rights or obligations, which may be transferred and stored electronically, using DLT or other similar technology.
+
+issued,
+
+2.
+
+Rules A2.1.1(2)(b) and (c) specify when a Token will be an Investment. A Token that is an Investment may be either a Security or a Derivative and will be treated under the Rules as being the particular type or particular types of Security or Derivative to which it is substantially similar in nature. A Token that is an Investment is defined in these Rules as an Investment Token.
+
+180
+
+GEN/VER67/03-25
+
+A2.1.2
+
+A2.1.3
+
+A2.2
+
+A2

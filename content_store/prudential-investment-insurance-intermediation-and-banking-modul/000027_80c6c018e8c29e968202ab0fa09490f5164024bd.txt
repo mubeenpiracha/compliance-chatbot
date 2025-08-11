@@ -1,0 +1,113 @@
+ for each Category of an Authorised Firm.
+
+39
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+Category
+
+Base Capital Requirement
+
+Category 1
+
+US $10 million
+
+Category 2
+
+US $2 million
+
+Except if the Authorised Firm is Dealing in Investments as Principal (where it does so only as a Matched Principal), in which case its Base Capital Requirement is US $500,000.
+
+Category 3A
+
+Category 3B
+
+US $200,000 1. If the only Financial Service referred to in Rule 1.3.4(a) which the Authorised Firm is authorised to carry on is Providing Custody of Crypto Assets its Base Capital Requirement is US $1 million.
+
+2.
+
+If the only Financial Service referred to in Rule 1.3.4(a) which the Authorised Firm is authorised to carry on is Operating an Employee Money Purchase Scheme or Acting as the Administrator of an Employee Money Purchase Scheme its Base Capital Requirement is:
+
+(a) US $500,000 for an Operator; or
+
+(b) US $1 million for an Administrator.
+
+3.
+
+If the only Financial Service referred to in Rule 1.3.4(a) which the Authorised Firm is authorised to carry on is Providing Custody (where it does so for a Fund and other than in relation to Crypto Assets) its Base Capital Requirement is US $500,000.
+
+4.
+
+If the only Financial Service referred to in Rule 1.3.4(a) which the Authorised Firm is authorised to carry on is Acting as the Trustee of a Fund its Base Capital Requirement is US $2 million.
+
+5.
+
+If the Authorised Firm is authorised to carry on more than one of the Financial Services referred to in Rule 1.3.4(a) its Base Capital Requirement is the highest Base Capital Requirement that applies under paragraphs 1 to 4.
+
+40
+
+PIB/VER50/07-25
+
+3.6.3
+
+3.7
+
+3.7.1
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+Category 3C
+
+US $500,000
+
+Except:
+
+(1) if the only Financial Service referred to in Rule 1.3.5(a) which the Authorised Firm is authorised to carry on is Managing a Collective Investment Fund, in which case its Base Capital Requirement is:
+
+(a) US $140,000, if it manages any Public Fund or
+
+Credit Fund; or
+
+(b) US $40,000 otherwise; or
+
+(2) if the only Financial Service referred to in Rule 1.3.5(a) which the Authorised Firm is authorised to carry on is Managing Assets or Managing a Profit Sharing Investment Account (which is a PSIAr), in which case its Base Capital Requirement is US $140,000; or
+
+(3) if an Authorised Firm is authorised to carry on more than one of the Financial Services referred to in (1) or (2) and it is not authorised to carry on any other Financial Service referred to in Rule 1.3.5(a), in which case its Base Capital Requirement is US $140,000.
+
+Category 3D
+
+US $200,000
+
+Category 4
+
+1. If an Authorised Firm is authorised to Operate a Crowdfunding Platform, Provide Money Transmission its Base Capital Requirement is $140,000.
+
+2. In any other case, the Authorised Firm’s Base Capital Requirement is $30,000.
+
+Category 5
+
+US $10 million
+
+An Authorised Firm must have Common Equity Tier 1 Capital (CET1 Capital), as defined in section 3.13, of not less than its relevant Base Capital Requirement at the time that it obtains authorisation and at all times thereafter.
+
+Expenditure Based Capital Minimum
+
+This section applies to an Authorised Firm if it is:
+
+(a)
+
+in Category 2;
+
+(b)
+
+in Category 3A, 3B, 3C (other than an Authorised Firm that only Manages a Venture Capital Fund) or 3D and meets any of the following conditions:
+
+41
+
+PIB/VER50/07-25
+
+3.7.2
+
+PRUDENTIAL – INVESTMENT, INSURANCE

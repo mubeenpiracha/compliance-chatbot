@@ -1,0 +1,117 @@
+ to enable the safe storage and transmission of data relating to the Investment Tokens;
+
+(c)
+
+the security and integrity of cryptographic keys are maintained through the use of that technology, taking into account the password protection and methods of encryption used;
+
+(d)
+
+there are adequate measures to address any risks specific to the methods of usage and storage of cryptographic keys (or their equivalent) available under the DLT application used; and
+
+(e)
+
+the technology is compatible with the procedures and protocols built into the Operating Rules, or equivalent procedures and protocols on any facility on which the Investment Tokens are traded or cleared or both traded and cleared.
+
+Guidance
+
+Where an Authorised Firm that is a Digital Wallet Service Provider delegates any function to a Third Party Digital Wallet Service Provider, it must ensure that the delegate fully complies with the requirements of Rule 14.3.3. The outsourcing and delegation requirements of GEN Rule 5.3.21 and 5.3.22 will also apply to the Authorised Firm in those circumstances.
+
+14.3.4 An ATS Operator that appoints a Third Party Digital Wallet Service Provider to Provide Custody of Investment Tokens traded on its facility, must ensure that the person is either:
+
+(a)
+
+an Authorised Firm appropriately authorised to be a Digital Wallet Service Provider; or
+
+(b)
+
+an entity that is regulated by a Financial Services Regulator to an equivalent level of regulation to that provided for under the DFSA regime for Providing Digital Wallet Services.
+
+Guidance
+
+Where an ATS Operator appoints a non-DIFC firm regulated by a Financial Services Regulator, it must undertake sufficient due diligence to establish that the non-DIFC firm is subject to an equivalent level of regulation as under the DFSA regime in respect of that service.
+
+14.3.5 A Digital Wallet Service Provider must ensure that the report required under Rule 14.5.1 includes confirmation as to whether it has complied with the requirements in Rule 14.3.3.
+
+175
+
+COB/VER48/03-25
+
+CONDUCT OF BUSINESS (COB)
+
+14.4 Provision of key features document for Investment Tokens
+
+Application
+
+14.4.1 This section applies to an Authorised Firm which carries on any one or more of the
+
+following Financial Services in respect of Investment Tokens:
+
+(a) Dealing in Investments as Principal;
+
+(b)
+
+Dealing in Investments as Agent;
+
+(c)
+
+Arranging Deals in Investments;
+
+(d)
+
+Managing Assets;
+
+(e)
+
+Advising on Financial Products;
+
+(f)
+
+Providing Custody; or
+
+(g)
+
+Arranging Custody.
+
+14.4.2 (1)
+
+An Authorised Firm must not provide a Financial Service to which this section applies to a Person unless it has provided the Person with a key features document containing the information in (2).
+
+(2)
+
+The key features document must contain the following information relating to each Investment Token that is the subject of the Financial Services that the Authorised Firm will provide to the Person:
+
+(a)
+
+the risks associated with and essential characteristics of the Issuer (or other Person responsible for discharging the obligations associated with the rights conferred), and guarantor if any, of the Investment Token, including their assets, liabilities and financial position;
+
+(b)
+
+the risks associated with and essential characteristics of the Investment Token, including the rights and obligations conferred and the type or types of Investment which it constitutes;
+
+(c)
+
+whether the Investment Token is or will be admitted to trading and if so, the details relating to the admission, including details of the facility and whether the facility is within the DIFC;
+
+(d)
+
+whether the Client can directly access the trading facility, or whether access is only through an intermediary, and the process for accessing the facility;
+
+(e)
+
+risks associated with the use of DLT, particularly those relating to Digital Wallets and the susceptibility of private cryptographic keys to misappropriation;
+
+(f)
+
+whether the Client, the Authorised Firm or a third party is responsible for providing a Digital Wallet service in respect of the Investment
+
+176
+
+COB/VER48/03-25
+
+CONDUCT OF BUSINESS (COB)
+
+Token, and any related risks (including at whose risk the Client’s Investment Tokens are held in the Digital Wallet, whether it is accessible online or stored offline, what happens if keys to the Digital Wallet are lost and what procedures can be followed in such an event);
+
+(g)
+
+how the Client may exercise any rights conferred by the Investment Tokens such as voting or participation in shareholder actions;

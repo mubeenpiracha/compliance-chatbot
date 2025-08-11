@@ -1,0 +1,77 @@
+ Investor Fund
+
+Guidance
+
+1. While a Fund Manager of a Qualified Investor Fund is exempt from many of the detailed requirements applicable to Public Funds and Exempt Funds, it will continue to be subject to most of the main obligations of Fund Managers. Therefore, such a Fund Manager should be mindful that when managing a Qualified Investor Fund, it is subject to some of the overarching obligations applicable to Fund Managers, particularly: (a)
+
+1. While a Fund Manager of a Qualified Investor Fund is exempt from many of the detailed requirements applicable to Public Funds and Exempt Funds, it will continue to be subject to most of the main obligations of Fund Managers. Therefore, such a Fund Manager should be mindful that when managing a Qualified Investor Fund, it is subject to some of the overarching obligations applicable to Fund Managers, particularly: Article 22 of the Law (Fund Manager’s general duties and functions);
+
+Article 38 of the Law and GEN chapter 5 (Systems and controls requirements); and
+
+(c)
+
+GEN section 4.2 (The Principles for Authorised Firms).
+
+2.
+
+For example, a Fund Manager of a Qualified Investor Fund needs to observe high standards of integrity and fair dealing, and apply due skill, care and diligence, in managing the Fund. Similarly, it must have adequate systems and controls to ensure that the affairs of the Fund are effectively managed, taking into account the nature, scale and complexity of the Fund’s operations and the investment objectives and needs of its investors.
+
+3.
+
+A Fund Manager of a Qualified Investor Fund, which is structured as an Open-ended Fund, is required to comply with the requirements relating to adequate systems and controls to manage, among others, the liquidity risk. See Rule 8.6A.1.
+
+12A.3 Custody of Fund Property
+
+12A.3.1
+
+(1)
+
+For the purposes of Article 27(1)(e) of the Law, the Fund Manager of a Qualified Investor Fund that is not an Investment Trust must ensure that the legal title to Fund Property is registered with an Eligible Custodian.
+
+(2)
+
+The requirement in Article 27(1)(e) of the Law does not apply to the Fund Manager of a Qualified Investor Fund if it is:
+
+(a)
+
+a Property Fund;
+
+(b)
+
+a Private Equity Fund;
+
+(c)
+
+a Venture Capital Fund;
+
+(d)
+
+a Credit Fund; or
+
+(e)
+
+a Fund in so far as it is investing in an interest in the operation of a Real Property asset (such as investment in an infrastructure project).
+
+(3)
+
+If the Fund Manager of a Qualified Investor Fund referred to in (2) itself holds Fund Property of any kind or if it uses a Fund Platform and the Incorporated Cell Company holds Fund Property of any kind, it must have in place effective arrangements which ensure that the Fund Property is not available to creditors in the event of the insolvency of the Fund Manager or the Incorporated Cell Company (as the case may be).
+
+87
+
+CIR/VER38/08-24
+
+COLLECTIVE INVESTMENT RULES (CIR)
+
+(4)
+
+Nothing in (2) is to be taken as permitting Fund Property that consists of Crypto Tokens to be held by a Person other than an Eligible Custodian.
+
+Guidance
+
+1.
+
+Article 27(1)(e) of the Law requires a Domestic Fund that is not an Investment Trust to have legal title to the Fund Property registered with an eligible person (unless the Rules provide otherwise). Rule 12A.3.1(1) specifies that the person must be an Eligible Custodian. Rule 12A.3.1(2) disapplies the requirement in relation to Fund Property of certain kinds of Qualified Investor Funds. Regardless of who holds title to Fund Property, the Fund Manager must always ensure that, in accordance with Article 22(2)(f) of the Law, Fund Property is clearly identified as such and held separately from property of the Fund Manager and any other Funds. Where Fund Property consists of cash or liquid assets, the assets must also be held under arrangements that clearly identify them as belonging to the Fund, and must be properly segregated from similar assets belonging to the Fund Manager and any other Funds.
+
+2.
+
+Where a Fund invests in infrastructure projects (for example, the development of public facilities such as roads, railways or bridges), the Fund Manager may hold self-custody of the Fund Property which consists of the interest in the infrastructure project.

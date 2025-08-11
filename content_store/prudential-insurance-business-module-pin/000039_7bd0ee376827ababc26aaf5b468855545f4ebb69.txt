@@ -1,0 +1,73 @@
+ the manner estimating the gross liabilities, except where there is a sound justification for doing otherwise.
+
+6.
+
+Suitable systems and controls should be put in place to ensure that the selected approaches are applied accurately and on a consistent basis.
+
+7.
+
+Procedures should be in place to review and monitor, on a regular basis, the out-turn of provisions made in previous years for Insurance Liabilities, both gross and net of reinsurance recoveries.
+
+8.
+
+An Insurer is required by chapter 7 to obtain an annual report by an Actuary on the valuation of its Insurance Liabilities and associated assets. The Rules do not require the performance of an actuarial valuation at other times, however an Insurer should consider the use of actuaries or other appropriately qualified and experienced loss reserving specialists to estimate
+
+54
+
+PIN/VER18/04-23
+
+A2.6
+
+PRUDENTIAL – INSURANCE BUSINESS (PIN)
+
+Insurance Liabilities periodically through the year. The Insurer should in any case undertake periodic testing of its reserving processes and the level of its reserves, including continual reassessment of assumptions used, and testing the sensitivity of the valuation of Insurance Liabilities to stress arising from realistic scenarios relevant to the circumstances of the Insurer. Whether in-house or outside experts are used, appropriate procedures should be in place to ensure that the specialist selected possesses the appropriate level of skill and experience and has available the necessary information to carry out the estimation required.
+
+9.
+
+Suitable controls should be in place to ensure that the data used in determining the Insurance Liabilities are extracted from the underlying records accurately and to the necessary level of detail. The level of detail should be sufficient to ensure that the data available to managers in their assessment of Insurance Liabilities covers the whole of its liabilities and exposures under insurance contracts.
+
+10.
+
+Scenario testing should cover a period of several years into the future, particularly in the case of an Insurer carrying on Long-Term Insurance Business.
+
+Investment risk
+
+Guidance
+
+1.
+
+Investment risk refers to the possibility of an adverse movement in the value of an Insurer’s on-balance sheet assets or certain off-balance sheet obligations. Investment risk derives from a number of sources including market risk (e.g. equity, interest rate and foreign exchange risk), credit quality risk (dealt with separately in this appendix), investment concentration risk and asset and liability mismatch risk (e.g. in terms of currency, maturity, and location). Associated risks include political risk, e.g. the risk of inability to realise assets in a particular location, and the risk of correlation such that a single event has adverse impacts on both assets and liabilities. Investment risk includes risk associated with the use of derivatives and other complex investment instruments, including asset backed securities, credit linked notes and insurance linked notes.
+
+2.
+
+Suitable controls and management information systems should be in place to enable an Insurer to implement an appropriate investment strategy.
+
+3.
+
+Appropriate procedures should be in place to enable an Insurer to monitor the interaction of its assets and liabilities so as to ensure that exposure to equity, interest rate and foreign exchange risk is contained within limits approved by the Insurer. Procedures should include testing of sensitivity to realistic scenarios that are relevant to the circumstances of the Insurer.
+
+4.
+
+Appropriate procedures should be in place to enable an Insurer to monitor the location of its assets and liabilities, so as to ensure that risk of localisation mismatch is contained within limits approved by the Insurer. Procedures should include testing of sensitivity to realistic scenarios, including political risk scenarios that are relevant to the circumstances of the Insurer.
+
+5.
+
+Insurers should remain alert to the need to consider asset and liability risks on an integrated basis. Systems should not consider only risks taken in isolation, but should consider how even when individual risks are addressed, combinations of circumstances may still expose an Insurer to loss. This is of particular relevance where a single outcome is exposed to more than one risk, for example where assets need to be available not only in a particular location but also in a specific currency.
+
+6.
+
+Appropriate procedures should be in place for assessing the credit-worthiness of counterparties to whom the Insurer is significantly exposed. Further guidance in this area is provided in A2.11.
+
+55
+
+PIN/VER18/04-23
+
+7.
+
+8.
+
+9.
+
+PRUDENTIAL – INSURANCE BUSINESS (PIN)
+
+Appropriate procedures should be in place for setting prudent limits for the Ins

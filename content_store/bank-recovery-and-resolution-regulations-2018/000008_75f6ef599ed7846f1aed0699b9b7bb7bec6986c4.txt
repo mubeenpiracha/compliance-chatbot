@@ -1,0 +1,127 @@
+ the Regulator will consider the risk profile of the Institution and the impact of its failure on the financial system, market confidence or the economy in the ADGM or the reputation, integrity or public confidence in the stability of the ADGM.
+
+An Individual Resolution Plan shall—
+
+(a)
+
+be proportionate to the systemic importance of the Institution;
+
+(b)
+
+set out the options for applying a Resolution Tool and a Resolution Power to the Institution;
+
+(c)
+
+take into consideration relevant scenarios including that the event of a failure of the Institution may be unusual, occur at a time of broader financial instability or system- wide events;
+
+(d)
+
+include procedures for informing and consulting relevant employees throughout the Resolution process, where appropriate; and
+
+(e)
+
+set out the information specified in Part 3 of the Schedule.
+
+The Regulator may require that additional information be included in the Individual Resolution Plan.
+
+For Institutions forming part of a Group headed by a Non-ADGM Financial Institution, the Regulator may require disclosure of part or all of any existing resolution plans prepared at a Group level at the request of the supervisory authorities or resolution authorities in jurisdictions other than the ADGM of any Group Entities. The Regulator may determine that such a disclosure satisfies the requirements under subsection (1).
+
+16
+
+(5)
+
+(6)
+
+11.
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+12.
+
+(1)
+
+(2)
+
+The Management of the Institution shall assess and approve the Individual Resolution Plan before submitting it to the Regulator.
+
+Unless directed otherwise by the Regulator, Institutions required to prepare an Individual Resolution Plan under subsection (1) shall update their Individual Resolution Plans annually and after any change to the Institution's legal or organisational structure, business or financial situation, which could have a material effect on, or necessitate a change to, the Individual Resolution Plan.
+
+Group Resolution Plans
+
+The Regulator may require an ADGM Parent Institution to prepare a Group Resolution Plan for the Group headed by the ADGM Parent Institution as a whole.
+
+A Group Resolution Plan shall—
+
+(a)
+
+be proportionate to the systemic importance of the Group;
+
+(b)
+
+set out the options for applying Resolution Tools and Resolution Powers to the Group;
+
+(c)
+
+take into consideration relevant scenarios including that the event of a failure of the Group may be unusual, occur at a time of broader financial instability or system-wide events;
+
+(d)
+
+include procedures for throughout the resolution process, where appropriate; and
+
+informing and consulting employee representatives
+
+(e)
+
+set out the information specified in Part 3 of the Schedule (with any necessary modifications for the Group level).
+
+The Regulator may require that additional information be included in the Group Resolution Plan.
+
+The Management of the ADGM Parent Institution shall assess and approve the Group Resolution Plan before submitting it to the Regulator.
+
+Unless directed otherwise by the Regulator, ADGM Parent Institutions required to prepare a Group Resolution Plan under subsection (1) shall update their Group Resolution Plans annually and after any change to the Group's legal or organisational structure, business or financial situation, which could have a material effect on, or necessitate a change to, the Group Resolution Plan.
+
+Assessment of Resolution Plans
+
+The Regulator may examine Resolution Plans submitted to it with a view to identifying any elements of the Resolution Plan which may adversely impact the resolvability or supervision of the Institution or Group.
+
+The Regulator may require an Institution to cooperate, assist and provide the information specified in Part 2 of the Schedule for the purposes of assessing a Resolution Plan for the Institution or its Group.
+
+17
+
+(3)
+
+(4)
+
+(5)
+
+(6)
+
+13.
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+14.
+
+(1)
+
+In assessing a Resolution Plan, the Regulator may consider the extent to which it satisfies the requirements and criteria laid down in sections 10(2) and 11(2), as applicable.
+
+In assessing a Group Resolution Plan, the Regulator shall consider the potential impact of the resolution measures on financial stability in all the jurisdictions in which the Group operates. In doing so, the Regulator may consult the supervisory authorities and resolution authorities of the jurisdictions in which any Group Entities or Branches are located.
+
+If the Regulator determines that there are material deficiencies in a Resolution Plan or material impediments to its implementation, it shall notify the relevant Institution of its assessment in writing and require the Institution to submit, within two months, extendable with the Regulator's approval,

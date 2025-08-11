@@ -1,0 +1,111 @@
+ an amount representing the contribution of each participant is to be applied in making payments to him or in satisfaction of sums owed by him or in the acquisition of property for him or the provision of services to him.
+
+Commercial activities unrelated to Regulated Activities
+
+2.1.4
+
+An arrangement does not constitute a Fund if each of the participants in the arrangement:
+
+(a)
+
+carries on a business which does not involve the carrying on of any of the Regulated Activities specified under Schedule 1 of FSMR or an activity which would be such an activity were it not for any applicable exclusion; and
+
+2
+
+FUNDS VER10.100625
+
+(b)
+
+enters into the arrangement for commercial purposes related to that business where that participant carries on that business by virtue of being a participant in the arrangement.
+
+Group arrangements
+
+2.1.5
+
+An arrangement does not constitute a Fund if each of the participants is a Body Corporate in the same Group as the Person undertaking the fund management function in relation to the arrangement.
+
+Franchise arrangements
+
+2.1.6
+
+An arrangement does not constitute a Fund if the arrangement is a franchise arrangement.
+
+Clearing services
+
+2.1.7
+
+An arrangement does not constitute a Fund if the purpose of the arrangement is the provision of clearing services and the services are operated by a Recognised Body.
+
+Certificates or Options
+
+2.1.8
+
+An arrangement does not constitute a Fund if the rights or interests of the participants in the arrangement are Investments of the kind specified under Sections 92 or 94 of Schedule 1 of FSMR.
+
+Time-share and other 'property-enjoyment' related arrangements
+
+2.1.9
+
+An arrangement does not constitute a Fund:
+
+(a)
+
+if the rights or interests of each of the participants in the arrangement are time share rights; or
+
+(b)
+
+if:
+
+(i)
+
+the predominant purpose of the arrangement is to enable the participants to share in the use or enjoyment of property or to make its use or enjoyment available gratuitously to others; and
+
+(ii)
+
+the property to which the arrangement relates does not consist of or include the currency of any country or territory or Investments, as defined in Part 3 of Schedule 1 of FSMR or, which would be such Investments if not for any applicable exclusion.
+
+Bodies corporate not undertaking investment management
+
+2.1.10
+
+An arrangement does not constitute a Fund if the arrangement comprises a closed- ended Partnership or Body Corporate, unless on reasonable grounds the purpose or effect of such an arrangement appears to be the investment management, in the exercise of discretion for a collective purpose, of investments, for the benefit of the shareholders or partners.
+
+3
+
+FUNDS VER10.100625
+
+Debentures and Warrants of a single issuer
+
+2.1.11
+
+(a)
+
+An arrangement does not constitute a Fund if the rights or interests of the participants in the arrangement are represented by a Debenture or Warrant:
+
+(i)
+
+where the issuer of the Debenture or Warrant is a single issuer, and if that issuer is:
+
+(A)
+
+a Body Corporate, it is neither an open-ended investment company nor a closed-ended company the intent or purpose of which is investment management as specified in Rule 2.1.10; or
+
+(B)
+
+not a Body Corporate, the rights and interests of the Debenture or Warrant holder are guaranteed by the government of any country or territory; and
+
+(ii)
+
+which, if it is a convertible Security, the underlying Securities to which the Debenture or Warrant holder is entitled are Shares or Debentures issued, or to be issued, by the same issuer as the issuer of the Debenture or Warrant or single other issuer.
+
+(b)
+
+An arrangement that does not constitute a Fund by virtue of Rule 2.1.11(a) does not become a Fund merely because one of the participants in the arrangement is a person:
+
+(i)
+
+whose ordinary business involves him engaging in an activity that is a Regulated Activity as defined in Schedule 1 of FSMR or that would fall within an applicable exclusion from a Regulated Activity; and
+
+(ii)
+
+whose rights or interests in the arrangement are, or include, rights or interests in a swap arrangement under which he facilitates the making of payments to participants whether in a particular amount or currency or at a particular time or rate of interest or all or any combination of those things in settlement of the rights and interests of the other participants in the

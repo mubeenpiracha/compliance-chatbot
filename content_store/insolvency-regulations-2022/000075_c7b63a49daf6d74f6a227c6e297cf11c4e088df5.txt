@@ -1,0 +1,75 @@
+) When a winding-up order has been made or a provisional liquidator has been appointed, no action or proceeding shall be proceeded with or commenced against the Company or its property, except by leave of the Court and subject to such terms as the Court may impose.
+
+(2)
+
+After the presentation of a winding-up petition—
+
+(a)
+
+no person may attach, sequester or otherwise appropriate the assets of the Company, and any such activity is, unless the Court otherwise orders, void; and
+
+(b)
+
+any disposition of the Company’s property, and any transfer of shares, or alteration in the status of the Company’s members is, unless the Court otherwise orders, void,
+
+except that this subsection (2) shall only take effect if a winding-up order is made in respect of the Company on the winding-up petition and subsection (2)(b) has no effect
+
+100
+
+in respect of anything done by an administrator of a Company while a winding-up petition is suspended under Section 42(1)(b) (Dismissal of pending winding-up petition).
+
+210. Appointment of provisional liquidator or of liquidator following administration
+
+(1)
+
+The Court may, at any time after the presentation of a winding-up petition, appoint a liquidator provisionally to carry on such functions as the Court may confer on him. The powers of such a liquidator may be limited by the order appointing him.
+
+(2) When a provisional liquidator has been appointed, no action or proceeding shall be proceeded with or commenced against the Company or its property, except by leave of the Court and subject to such terms as the Court may impose.
+
+(3) Where a winding-up order is made immediately upon the appointment of an administrator ceasing to have effect, the Court may appoint as liquidator of the Company the person whose appointment as administrator has ceased to have effect.
+
+(4) Where a liquidator is appointed in accordance with subsection (3) or upon registration of a notice under Section 122(2) (Moving to creditors’ voluntary liquidation) and that person becomes aware of creditors not formerly known to him in his capacity as administrator, he shall send to those creditors a copy of any statement or report sent by him to creditors under Section 56 (Administrator’s proposals), so noted as to indicate that it is being sent under this Section.
+
+211. Power to stay winding-up
+
+(1)
+
+The Court may at any time after an order for winding-up is made, on the application of the liquidator, provisional liquidator, Financial Services Regulator, Registrar or any creditor or contributory, make an order staying the proceedings on such terms and conditions as the Court thinks fit.
+
+(2)
+
+The Company must, as soon as reasonably practicable, forward a copy of any order made under subsection (1) to the Registrar, the Financial Services Regulator or any other Office-holder, as applicable.
+
+(3)
+
+If the Company fails to comply with subsection (2), it commits a contravention and is liable to a fine at the relevant level set out in the Fines Schedule.
+
+(4)
+
+The Court may, before making an order, give notice of the application to the Financial Services Regulator or the Registrar, who may furnish the Court with a report with respect to any facts or matters which are in its opinion relevant to the application.
+
+212. Progress report to contributories and creditors
+
+(1)
+
+If the winding-up of the Company continues for more than one (1) year, the liquidator must, within two (2) months after the end of twelve (12) months commencing on the date on which the liquidator is appointed, and after every subsequent twelve (12) months until the liquidator ceases to act—
+
+(a)
+
+produce a progress report providing an account of his acts and dealings, and of the conduct of the winding-up, during the preceding year; and
+
+(b)
+
+send a copy of the progress report to contributories and creditors of the Company and to the Registrar.
+
+(2)
+
+If the liquidator fails to comply with subsection (1), he commits a contravention and is liable to a fine at the relevant level set out in the Fines Schedule.
+
+101
+
+213. Duty to summon final meeting
+
+(1)
+
+If it appears to the liquidator of a Company that the winding-up of the Company is for practical purposes complete, the liquidator must summon a final meeting of the Company’s creditors to receive the liquidator

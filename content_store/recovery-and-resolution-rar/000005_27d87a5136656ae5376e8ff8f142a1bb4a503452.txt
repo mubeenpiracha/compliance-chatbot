@@ -1,0 +1,107 @@
+.
+
+internal and external communication and disclosure plan to manage any potential negative market reactions, if applicable.
+
+The strategic analysis referred to in item 3.b should include the Authorised Firm’s analysis and, where relevant, identification of essential and systemically important functions carried out by the Authorised Firm, which it should aim to maintain as part of the recovery process. The strategic analysis should also cover:
+
+a.
+
+actions necessary for maintaining operations of, and funding for, those essential and systemically important functions, if such are identified;
+
+b.
+
+assessment of the viability of any business lines and legal entities which may be subject to separation (sale) in a recovery scenario, as well as the impact of such separation on the remaining Group structure;
+
+c.
+
+assessment of the likely effectiveness of each material aspect of the Recovery Measures and potential risks related thereto, including potential impact on customers, counterparties and market confidence;
+
+d.
+
+underlying assumptions for the preparation of the Recovery Plan; and
+
+e.
+
+processes for determining the value and marketability of the material business lines, operations, and assets.
+
+The recovery indicators referred to in item 3.c. are both quantitative and qualitative metrics that identify points at which an Authorised Firm has to decide whether an action referred to in its Recovery Plan should be taken. The types and number of indicators should be appropriately selected to be well-targeted, but not to render the exercise unmanageable. They should be calibrated, and not linked to inherently lagging metrics, and to ensure sufficient notice to decide on the corrective action for the DFSA, so as to begin contingency planning.
+
+A number of quantitative recovery indicators should, as a minimum, be included:
+
+a. Capital (e.g. CET1, total capital and leverage ratio);
+
+b. Liquidity (e.g., LCR or NSFR (as defined in PIB), cost of wholesale funding,
+
+deposit withdrawal, increased collateral demands);
+
+c. Profitability (e.g. return on equity (RoE) or return on assets (RoA), significant
+
+operational losses);
+
+9
+
+RAR/VER1/04-20
+
+2.2
+
+RECOVERY AND RESOLUTION (RAR)
+
+d. Asset quality (e.g. non-performing loan (NPL) rate, including off-balance sheet
+
+(OBS)); and
+
+e. Market aspects (e.g. rating downgrades, negative review, credit default swap
+
+(CDS) spreads).
+
+7.
+
+The qualitative recovery indicators could include, for example, difficulties in issuing liabilities at current market rates, an unexpected loss of senior management, adverse court rulings, negative market press and significant reputational damage to franchise.
+
+8.
+
+The recovery indicators should be closely connected with the Authorised Firm’s early warning indicators, which should form part of its internal risk management. They should be designed to prevent undue delays in the eventual implementation of Recovery Measures.
+
+9.
+
+The expected result of one of several indicators occurring should lead to an appropriate, and clearly described in the Recovery Plan, internal escalation procedure to the senior management and the Board, without, however, leading to an automatic activation of the Recovery Plan.
+
+10.
+
+The Recovery Measures can include a host of actions to be taken by the Authorised Firm alone or in combination, depending on the circumstances and the business model of the Firm. The Authorised Firm should consider each situation on a case-by-case basis.
+
+11.
+
+The Recovery Measures may include, among other things:
+
+a.
+
+actions to strengthen the capital profile through capital raising or capital conservation measures such as suspension of dividends and payments of variable remuneration;
+
+b.
+
+restructuring business lines with a view to permitting carrying out of sales of downstream entities and spin-off of business units, sales of assets or loan portfolios;
+
+c.
+
+voluntary restructuring of liabilities (e.g. through debt-to-equity conversion);
+
+d.
+
+liquidity improvement options through, for example, securing funding via various techniques such as improved valuation of available collateral, repurchase agreements (“repo”), bonds issuance, monetisation of unencumbered assets; and
+
+e.
+
+reduction of RWA (as defined in PIB) or leverage.
+
+12.
+
+In terms of contingency funding sources, while it is conceivable that parental financial support would, in many cases, be the most credible recovery option, Authorised Firms are expected to consider all funding options available, at the level of the DIFC entity, and set them out in the Recovery Plan.
+
+Resolution Planning
+
+Guidance
+
+1.
+
+The

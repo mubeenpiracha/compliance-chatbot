@@ -1,0 +1,117 @@
+ List of Securities must be made by the issuer of the Securities, or by a third party on behalf of and with the consent of the issuer of the Securities.
+
+(2)
+
+An Exchange must, before granting admission of any Securities to an Official List of Securities maintained by it:
+
+(a)
+
+be satisfied that the applicable requirements, including those in its listing rules, have been or will be fully complied with in respect of those Securities; and
+
+(b)
+
+comply with the requirements relating to notification to the DFSA in Rule 6.11.9(1).
+
+(3)
+
+An Exchange must notify an applicant in writing of its decision in relation to the application for admission of Securities to its Official List of Securities.
+
+(1)
+
+Subject to (2), at least 5 business days prior to an admission of Securities to its Official List of Securities, an Exchange must provide the DFSA with notice of the decision and include the following information in the notification:
+
+(a)
+
+a copy of the listing application;
+
+(b)
+
+a copy of the assessment of the listing application carried out by the Exchange; and
+
+(c)
+
+any information requested by the DFSA.
+
+(2)
+
+An Exchange must immediately notify the DFSA of any decision to suspend, restore from suspension or de-list any Securities from its Official List of Securities and the reasons for the decision.
+
+72
+
+AMI/VER28/03-25
+
+7.
+
+7.1
+
+7.1.1
+
+7.2
+
+AUTHORISED MARKET INSTITUTIONS (AMI)
+
+ADDITIONAL LICENSING REQUIREMENTS FOR OPERATING A CLEARING HOUSE
+
+Application
+
+(1)
+
+This chapter applies, subject to (3), to an Authorised Market Institution Operating a Clearing House and an applicant for such a Licence.
+
+(2)
+
+In this chapter, a reference to a “Clearing House” is a reference to a Person in (1), except where specific reference is made to:
+
+(a)
+
+a Central Counterparty (CCP);
+
+(b)
+
+a Securities Settlement System (SSS); or
+
+(c)
+
+a Central Securities Depository (CSD).
+
+(3)
+
+Specific references in this chapter to a Clearing House undertaking any of the functions specified in (2)(a) to (c) apply only in respect of that function.
+
+Guidance
+
+1.
+
+The Financial Service of Operating a Clearing House is defined in GEN Rule 2.18.1(1). This definition provides that Operating a Clearing House can be carried on by either the operator becoming a Central Counterparty (CCP) or by operating a Securities Settlement System (SSS) (i.e. a system that enables Investments to be transferred and settled by book entry), regardless of whether or not such a Person also acts as a Central Securities Depository (CSD) in respect of Securities cleared or settled on its facility and similar facilities.
+
+2.
+
+Where a Clearing House undertakes the function of acting as a CSD under its own Licence, the additional requirements in section 7.4 apply to it. The function of CSD may also be carried out by an Authorised Firm licensed to carry on the Financial Service of Providing Custody. See GEN definition in Rule 2.13.1(3). Such a firm is subject to similar requirements as in section 7.4, which are set out in COB section 10.2.
+
+3.
+
+Where a Clearing House which did not at the time of licensing carry on CSD functions wishes to do so subsequently, it needs to apply to the DFSA for approval under Rule 4.3.1, as it is a material change to its current arrangements.
+
+4.
+
+Operating a Central Counterparty is likely to be the only Clearing House activity relevant to Crypto Tokens, as providing a Securities Settlement System or acting as a Central Securities Depository are relevant only to Investments. For Crypto Tokens, transfers of Crypto Tokens take place by means of Distributed Ledger Technology or other similar technology.
+
+Risk management
+
+Guidance
+
+1.
+
+An Authorised Market Institution which operates a Clearing House is subject to the management, systems and controls requirements in GEN chapter 5. These provisions require such an Authorised Market Institution to establish and maintain risk management
+
+73
+
+AMI/VER28/03-25
+
+7.2.1.
+
+7.2.2
+
+AUTHORISED MARKET INSTITUTIONS (AMI)
+
+systems and controls to enable it to identify, assess, mitigate, control and

@@ -1,0 +1,63 @@
+ ETFs and index trackers. The Digital Investment Manager must satisfy the FSRA that the passive investment products are sufficiently liquid, non-complex and diversified.
+
+5 Typically, the initial decision to invest in a portfolio of Financial Instruments is taken with the client’s consent. Thereafter, the decision to rebalance a client’s portfolio by buying or selling Financial Instruments is taken by the Digital Investment Manager without first obtaining the client’s consent for the specific transaction to go ahead. 6 That is, the initial decision to invest in a portfolio of Financial Instruments is not discretionary but subject to the client’s agreement.
+
+DIM VER01.020719
+
+Supplementary Guidance – Authorisation for Digital Investment Management (“Robo-Advisory” Activities)
+
+b. Discretionary Management: the discretionary investment management activities are limited to portfolio rebalancing. Such rebalancing must not involve the purchase of new investment products that were not included in the portfolio agreed to by the client.
+
+c. Client Assets: the Digital Investment Manager does not hold Client Assets. Instead, clients have a direct contractual relationship with an independent third-party financial institution to hold Client Assets.
+
+3.12 Details of the lowered prudential capital requirements for Digital Investment Managers who
+
+meet the criteria in Paragraph 3.11 are set out in the table below.
+
+Prudential Category
+
+Base Capital Requirement
+
+Expenditure Based Capital Minimum
+
+Managing Assets
+
+3C
+
+$10,000
+
+ 6/52 of Annual Audited Expenditure
+
+3.13 The lowered prudential capital requirements will be made available via a class modification. Digital Investment Managers wishing to avail of the class modification are required to approach and satisfy the FSRA that each of the conditions in paragraph 3.11 are met.
+
+Relief for Digital Investment Managers utilising regulatory technology
+
+3.14 Where any Digital Investment Manager makes use of technology that enables the FSRA to better supervise the Manager’s activities, manage business risks or achieve better regulatory outcomes, the FSRA may also consider modifying or waiving prudential and other regulatory requirements. Applications for modifications or waivers will be assessed on a case-by-case basis and granted at the FSRA’s discretion.
+
+4.
+
+Key controls for Digital Investment Managers
+
+4.1 This section of the Guidance describes how the FSRA applies particular requirements of the FSRA Rulebook to all Digital Investment Managers, regardless of whether they are eligible for the prudential capital relief outlined in section 3, above. It is not exhaustive, and should be read in conjunction with the Rulebook itself, as well as:
+
+a. chapter 2 of the GPM, which outlines the FSRA’s approach to authorisation for all FSP
+
+applicants; and
+
+b. Supplementary Guidance - Authorisation of Investment Management Activities.7
+
+4.2 A critical component of the digital investment management business model is the use of algorithms to automate the investment process. Accordingly, the FSRA sees a need to ensure that Digital Investment Managers have adequate algorithm and technology governance policies and processes in place to address the specific risks arising from such a technology-driven business model. The limited human interaction between Digital Investment Managers and their
+
+7 http://adgm.complinet.com/en/display/display_main.html?rbid=4503&element_id=19430 (April 2017).
+
+DIM VER01.020719
+
+Supplementary Guidance – Authorisation for Digital Investment Management (“Robo-Advisory” Activities)
+
+clients necessitates consideration of how suitability assessments are performed and the disclosures that are made to clients.
+
+4.3 Additionally, given their heavy dependence on collecting and processing client data and the risks of cyberattacks to their automated and largely digital mode of operations, Digital Investment Managers must also put in place robust data security policies and systems to ensure compliance with all relevant data protection regulations, including the ADGM’s Data Protection Regulations and, as appropriate, PRU 6.6 – 6.9.8
+
+Algorithm governance
+
+4.4 Algorithms are at the core of the service offered by Digital Investment Managers. They are used to undertake critical components of the investment management process such as risk profiling, portfolio allocation and rebalancing. Accordingly, the FSRA expects that Digital Investment Managers will establish internal governance structures that enable its Board and Senior Management to have robust oversight and control over the design, performance, deployment and security of algorithms.9 The roles and responsibilities of all personnel who oversee the design, performance and integrity of algorithms

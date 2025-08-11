@@ -1,0 +1,101 @@
+ Document or Instrument, that requirement is met with respect to an Electronic Transferable Record if the Information required for the endorsement is included in the Electronic Transferable Record and that Information is compliant with the requirements in sections 2 and 13(1).
+
+21. Amendment
+
+Where an Enactment requires or permits the amendment of a Transferable Document or Instrument, that requirement is met with respect to an Electronic Transferable Record if a reliable method is used for amendment of Information in the Electronic Transferable Record so that the amended information is identified as such.
+
+22. Replacement of a Transferable Document or Instrument with an Electronic Transferable Record
+
+(1) An Electronic Transferable Record may replace a Transferable Document or Instrument if
+
+a reliable method for the change of medium is used.
+
+(2) For the change of medium to take effect, a statement indicating a change of medium will be
+
+inserted in the Electronic Transferable Record.
+
+(3) Upon issuance of the Electronic Transferable Record in accordance with sections 22(1) and (2), the Transferable Document or Instrument will be made inoperative and ceases to have any legal effect, validity or enforceability.
+
+(4) A change of medium in accordance with sections 22(1) and (2) will not affect the rights and
+
+obligations of the parties under the Transferable Document or Instrument.
+
+23. Replacement of an Electronic Transferable Record with a Transferable Document or
+
+9
+
+Instrument
+
+(1) A Transferable Document or Instrument may replace an Electronic Transferable Record if
+
+a reliable method for the change of medium is used.
+
+(2) For the change of medium to take effect, a statement indicating a change of medium must
+
+be inserted in the Transferable Document or Instrument.
+
+(3) Upon issuance of the Transferable Document or Instrument in accordance with sections 23(1) and (2), the Electronic Transferable Record will be inoperative and ceases to have any legal effect, validity or enforceability.
+
+(4) A change of medium in accordance with sections 23(1) and (2) will not affect the rights and
+
+obligations of the parties under the Electronic Transferable Record.
+
+PART 6
+
+ELECTRONIC WITNESSING
+
+24. Electronic witnessing
+
+(1) Unless any applicable law otherwise provides, where an Enactment requires a witness to a signature of a person and provides for certain consequences if a signature of a person on a document or a Record is not appropriately witnessed, that requirement can be satisfied if the required witness is able to observe the affixture of the signature of that person on the document or Record in real-time by audio-visual Electronic means.
+
+(2) The witness under section 24(1) must subsequently attest to the affixture of the signature
+
+on the document or Record in accordance with the requirements of the Enactment.
+
+(3) Section 24(1) applies whether the signature is an Electronic Signature or not and whether
+
+the document or Record is in Electronic form or not.
+
+PART 7
+
+EXCLUSIONS
+
+25. Excluded matters
+
+The provisions of Parts 1, 2,3 and 4 of these Regulations do not apply to any Enactment or any applicable law requiring writing or signatures in any of the following matters:
+
+(a)
+
+the creation, performance or enforcement of a power of attorney;
+
+(b)
+
+the creation and execution of wills, codicils or testamentary trusts;
+
+(c)
+
+transactions involving the sale, purchase, lease (for a term of more than 10 years) and other disposition of immovable property and the registration of other rights relating to immovable property; or
+
+(d)
+
+any document to be notarised before a notary public.
+
+10
+
+26. Consistency with applicable laws
+
+Nothing in section 25 restricts parties from complying with any subsequent amendment to an Enactment or applicable law that permits such Records in Electronic form.
+
+27. Exclusion or modification by the parties
+
+(1) The parties to a contract or transaction may exclude, derogate from or vary the application of any provisions of these Regulations unless an Enactment or any applicable law otherwise provides.
+
+(2) The parties to a contract or transaction may impose additional requirements to the form or authentication of the contract or transaction by agreement unless an Enactment or any applicable law otherwise provides.
+
+PART 8
+
+GENERAL PROVISIONS
+
+28.
+
+Interpretation

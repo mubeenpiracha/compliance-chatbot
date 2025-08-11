@@ -1,0 +1,217 @@
+ to in subsection (2), (3) or (5) of section 469 (Duties of auditor) of the Companies Regulations.
+
+194. Duty of auditor or actuary resigning etc. to give notice
+
+(1)
+
+This section applies to an auditor or actuary to whom section 191 applies.
+
+(2)
+
+He must without delay notify the Regulator if he—
+
+(a)
+
+is removed from office by an Authorised Person, Recognised Body or Reporting Entity;
+
+(b)
+
+resigns before the expiry of his term of office with such a person; or
+
+(c)
+
+is not re-appointed by such a person.
+
+(3)
+
+If he ceases to be an auditor of, or actuary acting for, such a person, he must without delay notify the Regulator—
+
+(a)
+
+of any matter connected with his so ceasing which he thinks ought to be drawn to the Regulator's attention; or
+
+(b)
+
+that there is no such matter.
+
+195. Provision of false or misleading information to auditor or actuary
+
+A person must not knowingly or recklessly give an Appointed auditor or actuary information which is false or misleading in a material particular.
+
+Part 16 Public Record and Disclosure of Information
+
+The public record
+
+196.
+
+The record of Authorised Persons etc.139
+
+(1)
+
+The Regulator must publish and maintain a record of every140—
+
+(a)
+
+Security admitted to the Official List;
+
+(b)
+
+Authorised Person;
+
+(c)
+
+Public Fund;
+
+(d)
+
+ADGM Green Fund;
+
+(e)
+
+ADGM Climate Transition Fund;
+
+139 Amended 20 September 2022 and 5 December 2024.
+
+140 Amended 21 February 2018, 14 February 2019, 21 March 2021 and 21 June 2023.
+
+129
+
+(f)
+
+ADGM Green Debenture;
+
+(g)
+
+ADGM Sustainability-Linked Debenture;
+
+(h)
+
+ADGM Green Sukuk;
+
+(i)
+
+ADGM Sustainability-Linked Sukuk;
+
+(j)
+
+Approved Prospectus;
+
+(k)
+
+Recognised Investment Exchange or Recognised Clearing House;
+
+(l)
+
+Remote Investment Exchange or Remote Clearing House;
+
+(m)
+
+individual to whom a Prohibition Order relates;
+
+(n)
+
+Trade Repository;
+
+(o)
+
+Remote Member;
+
+(p)
+
+Approved Person;
+
+(q)
+
+Passported Fund;
+
+(r)
+
+Specified Information;
+
+(s)
+
+Specified Benchmark;
+
+(t)
+
+Key Individual;
+
+(u)
+
+Accepted Fiat-Referenced Token; and
+
+(v)
+
+any person falling within such other class (if any) as the Regulator may determine.
+
+(2)
+
+The record must include such information as the Regulator considers appropriate.
+
+(3)
+
+The Regulator shall make a reasonably current version of the records available for viewing by the public during the normal business hours of the Regulator.
+
+Disclosure of information
+
+197. Restrictions on disclosure of Confidential Information
+
+An Authorised Person with a Financial Services Permission to Accept Deposits must not disclose any Confidential Information relating to its depositors in breach of any duty of confidence owed to such depositors.
+
+130
+
+198. Restrictions on disclosure of Confidential Information by the Regulator141
+
+(1)
+
+Confidential Information must not be disclosed by a primary recipient, or by any person obtaining the information directly or indirectly from a primary recipient, without the prior consent of—
+
+(a)
+
+the person from whom the primary recipient obtained the information; and
+
+(b)
+
+if different, the person to whom it relates.
+
+(2)
+
+Each of the following is a primary recipient for the purposes of this Part—
+
+(a)
+
+the Regulator;
+
+(b)
+
+a person Appointed to collect or update information under section 204 or to make a report under section 203;
+
+(c)
+
+any person who is or has been employed by a person mentioned in paragraphs (a) and (b);
+
+(d)
+
+a person who is or has been engaged to provide services to a person mentioned in those paragraphs;
+
+(e)
+
+any auditor or expert instructed by a person mentioned in those paragraphs.
+
+(3)
+
+It is immaterial for the purposes of subsection (1) whether or not the information was received –
+
+(a)
+
+by virtue of a requirement to provide it imposed by or under these Regulations or any Rules made under these Regulations; or
+
+(b)
+
+for any other purposes as well as the purposes for which the information was provided.
+
+199. Exceptions from section 198142
+
+(1)
+
+Subject to subsection (2), the Regulator may disclose Confidential Information for the purpose of facilitating the carrying out of a Public Function

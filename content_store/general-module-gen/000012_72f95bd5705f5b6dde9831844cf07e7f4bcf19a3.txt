@@ -1,0 +1,101 @@
+ that can be used only to pay for a particular service (such as a taxi or other transport service) or to pay for goods or services offered by a specific club or organisation. However, if a card is more generally accepted, and can be used with other third parties, it will not fall within the exclusion.
+
+2. Where monetary value on a card or wallet can be used for a combination of purposes, all of that monetary value is likely to constitute Stored Value unless the issuer can demonstrate that there is a clear separation between amounts that can be used only for the issuer’s goods and services and amounts that can be used for mixed purposes.
+
+15
+
+GEN/VER67/03-25
+
+GENERAL (GEN)
+
+2.7 Dealing in investments as principal
+
+2.7.1
+
+In Rule 2.2.2, Dealing in Investments as Principal means buying, selling, subscribing for or underwriting any Investment or Crypto Token, as principal.
+
+Exclusions
+
+2.7.2 A Person does not Deal in Investments as Principal merely by accepting an instrument, creating or acknowledging indebtedness in respect of any loan, credit, guarantee or other similar financial accommodation which that person has made or provided.
+
+2.7.3 A Person does not Deal in Investments as Principal by issuing or redeeming
+
+Securities or Crypto Tokens issued by that person.
+
+2.7.4 (1)
+
+A Person who is not an Authorised Firm or an Authorised Market Institution does not Deal in Investments as Principal in relation to an Investment or Crypto Token by entering into a transaction with or through an Authorised Firm or a Regulated Financial Institution.
+
+(2)
+
+The exclusion in (1) does not apply if the Person holds itself out as:
+
+(a)
+
+willing to enter into transactions in Investments or Crypto Tokens of the kind to which the transaction relates; or
+
+(b)
+
+engaging in the business of buying, selling, subscribing for or underwriting Investments or Crypto Tokens.
+
+Guidance
+
+1.
+
+The exclusion in Rule 2.7.4 is intended to apply, for example, to a Person who executes proprietary trades through a duly authorised broker, or to a Person who is carrying on a commercial business and enters into a transaction with a firm for a purpose related to that business, such as to hedge a risk. It does not apply to a Person that holds itself out as willing to enter into transactions relating to Investments or Crypto Tokens of that kind or as engaging in the business of dealing in Investments or Crypto Tokens, such as a market maker or an online trading platform operator (even if it enters into transactions only with Authorised Firms or Regulated Financial Institutions).
+
+2.
+
+A Person may hold itself out as carrying on an activity by various means including, for example, on its webpage, in an advertisement or through representations made by its staff. However, merely placing orders with a broker or on a market will not amount to holding out.
+
+2.7.5 A Person who is an Authorised Firm does not Deal in Investments as
+
+Principal if in the course of managing the assets of a Private Equity Fund:
+
+(a)
+
+the Person makes an initial subscription for Units of that Fund; and
+
+(b)
+
+the Units are held by that Person for a period of more than 12 months.
+
+2.8 Dealing in investments as agent
+
+16
+
+GEN/VER67/03-25
+
+GENERAL (GEN)
+
+2.8.1
+
+In Rule 2.2.2, Dealing in Investments as Agent means buying, selling, subscribing for or underwriting any Investment or Crypto Token as agent.
+
+Exclusions
+
+2.8.2 A Person does not Deal in Investments as Agent if the activity:
+
+(a)
+
+is carried on in the course of providing legal or accountancy services which do not otherwise consist of the carrying on of Financial Services;
+
+(b)
+
+may reasonably be regarded as a necessary part of any other services provided in the course of providing legal or accountancy services; and
+
+(c)
+
+is not remunerated separately from the other services.
+
+2.8.3 A Person does not Deal in Investments as Agent if that Person:
+
+(a)
+
+is merely receiving and transmitting a Client order in respect of an Investment or Crypto Token; and
+
+(b)
+
+does not execute the Client order for and on behalf of the Client or otherwise commit the Client to the transaction relating to the relevant Investment or Crypto Token.
+
+2.8.4 An Exchange does not Deal in Investments as Agent

@@ -1,0 +1,105 @@
+ that are prohibited from being used in the DIFC, such as Privacy Tokens and Algorithmic Tokens, cannot be recognized by the DFSA (see Rule 3A.3.4(1)).
+
+8.
+
+The Recognition of a Crypto Token under this chapter does not relieve an Authorised Person or any other Person from their responsibility to carry out proper due diligence on a Crypto Token before providing a Financial Service or carrying on any other activity relating to the Crypto Token.
+
+9.
+
+The DFSA expects that the information about the main characteristics and risks referred to in Rule 3A.2.1(3)(c)(i) include information about:
+
+a.
+
+the rights and obligations conferred by the Crypto Token;
+
+b.
+
+trading history of the Crypto Token, including volumes and prices;
+
+c.
+
+details of the Distributed Ledger Technology or other similar technology used; and
+
+d.
+
+cybersecurity risks associated with the Crypto Token or its underlying technology.
+
+Use of Privacy Tokens and Devices prohibited
+
+3A.2.2 A Person must not in or from the DIFC:
+
+(a)
+
+carry on a Financial Service relating to a Privacy Token or that involves the use of a Privacy Device;
+
+(b)
+
+make or approve a Financial Promotion relating to a Privacy Token or Privacy Device;
+
+(c)
+
+Offer to the Public a Privacy Token;
+
+(d)
+
+carry on an activity referred to in (a), (b) or (c) in relation to a Fund that invests in a Privacy Token; or
+
+(e)
+
+carry on an activity referred to in (a), (b) or (c) in respect of a Derivative or Instrument relating to a Privacy Token.
+
+63
+
+GEN/VER67/03-25
+
+GENERAL (GEN)
+
+Guidance
+
+1.
+
+Privacy Tokens and Privacy Devices are typically used for two main purposes: to facilitate anonymity and to prevent the tracing of transactions. Anonymity hides the identity of a holder of a Crypto Token or the identity of two parties to a transaction on the blockchain, while non-traceability makes it difficult or impossible for third parties to follow the trail of a series of transactions. The use of Privacy Tokens or Privacy Devices is prohibited as they can facilitate money laundering, market abuse, fraud or other financial crime.
+
+2.
+
+The definitions of Privacy Token and Privacy Device will apply to Crypto Tokens and devices that have features that are used or intended to be used for hiding, anonymising, obscuring or preventing the tracing of information, whether or not they are in fact used for that purpose. For example, some Crypto Tokens have features that can be turned on at the option of the user to hide or prevent the tracing of information. A Crypto Token that has such optional features, will be a Privacy Coin as defined and is prohibited from being used in the DIFC.
+
+Use of Algorithmic Tokens prohibited
+
+3A.2.3 A Person must not in or from the DIFC:
+
+(a)
+
+carry on a Financial Service relating to an Algorithmic Token;
+
+(b)
+
+make or approve a Financial Promotion relating to an Algorithmic Token;
+
+(c)
+
+Offer to the Public an Algorithmic Token;
+
+(d)
+
+carry on an activity referred to in (a), (b) or (c) in relation to a Fund that invests in an Algorithmic Token; or
+
+(e)
+
+carry on an activity referred to in (a), (b) or (c) in respect of a Derivative or Instrument relating to a Algorithmic Token.
+
+Guidance
+
+Rule 3A.2.3 prohibits certain activities in the DIFC relating to Algorithmic Tokens i.e. Crypto Tokens that use an algorithm to increase or decrease the supply of the Crypto Token to stabilise their price or reduce volatility. This is because the functioning of these algorithms is often not transparent to users, markets or regulators and due to concerns about whether such algorithms function effectively. These factors make it difficult for investors to make informed decisions about the Crypto Token. In addition, attempts to stabilise the price of a Crypto Token (or any other Investment) by such means may be contrary to the market manipulation provisions in the Markets Law.
+
+Regulated and unregulated business not to be carried on together
+
+3A.2.4 (1) An Authorised Person must not provide any service or carry on any
+
+activity related to a Utility Token or a Non-Fungible Token.
+
+(2) The prohibition in (1) does not apply to an Authorised Person:
+
+(a)
+
+that is

@@ -1,0 +1,97 @@
+, to ensure compliance with the requirements for Restricted Securities.
+
+Guidance
+
+Listed Entities are to ensure that provisions within their constitution (see Rule 2.3.1) allow for the enforcement of Restriction Agreements.
+
+Regulator’s consent to sale of Restricted Securities in a Takeover or Merger
+
+9.6.11 The Regulator may consent to a party that is managing a holding lock in accordance with Rule 9.6.9 releasing the holding lock, to enable holders of Restricted Securities to accept an offer, or transfer or cancel Securities, under a Takeover.
+
+9.6.12 The Regulator will not provide its consent under Rule 9.6.11 unless, to the extent to which
+
+they are applicable, all the following requirements are met:
+
+(1)
+
+where there is an offer for Securities:
+
+(a)
+
+the offer is for all of the Ordinary Securities or, if the Restricted Securities are not Ordinary Securities, all the Securities in the same class as the Restricted Securities;
+
+(b)
+
+holders of at least half of the Securities that are not Restricted Securities, to which the offer relates, have accepted; and
+
+(c)
+
+if the offer is conditional, the offeror and the Security Holder agree in writing that the holding lock (imposed under Rule 9.6.9) be immediately re-imposed for each Security that is not bought by the offeror under the offer; and
+
+(2)
+
+where the offer is to be conducted by way of a ‘scheme’, the Security Holders and the Listed Entity in which the Restricted Securities are held agree in writing that the holding lock imposed under Rule 9.6.9 be immediately re-imposed if the Takeover does not take effect.
+
+Confidential
+
+104
+
+MKT VER09.020125
+
+9.7
+
+Issues of New Securities
+
+Guidance
+
+This section applies to a Listed Entity and sets out details on the restrictions on the issue by a Listed Entity of new Equity Securities, exceptions to these restrictions and the process for approval or ratification by Listed Entities. Due to the complexity that often surrounds a new issue of Securities, Listed Entities are encouraged to discuss the proposal of a new issue of Equity Securities with the Regulator before the terms of any new issue are finalised.
+
+Restrictions on new Issues of Equity Securities
+
+9.7.1 A Listed Entity must not issue, or agree to issue, more Equity Securities than the number calculated according to the following formula, without the approval of the holders of Ordinary Securities:
+
+Maximum number of Equity Securities = (20% * Base Amount) – Relevant Issues),
+
+where:
+
+Base Amount = the number of fully paid Ordinary Securities on issue as of the date 12 months before the date of issue or agreement (the “12 months Base Amount”), plus the number of:
+
+(1)
+
+fully paid Ordinary Securities issued in the 12 months before the date of issue or agreement under an exception in Rule 9.7.4 other than exceptions (8), (15) or (16);
+
+(2)
+
+fully paid Ordinary Securities issued in the 12 months before the date of issue or agreement under an exception in Rule 9.7.4 other than exception (15), where the agreement was:
+
+(i)
+
+entered into before the commencement of the 12 month period; or
+
+(ii)
+
+approved, or taken under the Rules to have been approved, under Rule 9.7.1 or Rule 9.7.5; and
+
+(3)
+
+any other fully paid Ordinary Securities issued in the 12 months before the date of issue or agreement with approval under Rule 9.7.1 or Rule 9.7.5;
+
+Guidance
+
+The Base Amount may include fully paid Ordinary Securities issued in the 12 months before the date of issue or agreement under an agreement to issue Securities within Rule 9.7.4 exception (14) where the issue is subsequently approved under Rule 9.7.1.
+
+(4)
+
+partly paid Ordinary Securities that became fully paid in the 12 months before the date of issue or agreement,
+
+but subtracting the number of fully paid Ordinary Securities cancelled in the 12 months before the date of issue or agreement.
+
+Confidential
+
+105
+
+MKT VER09.020125
+
+Relevant Issues = the number of Equity Securities issued, or agreed to be issued, in the 12 months before the date of issue or agreement to issue other than:
+
+(a) with the approval

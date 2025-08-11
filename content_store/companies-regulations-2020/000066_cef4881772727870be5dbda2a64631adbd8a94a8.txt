@@ -1,0 +1,131 @@
+ or firm) and is to be regarded as interested in any transaction or arrangement that may, after the date of the notice, be made with that person.
+
+(3)
+
+The notice must state the nature and extent of the director’s interest in the body corporate or firm or, as the case may be, the nature of his connection with the person.
+
+(4)
+
+General notice is not effective unless–
+
+(a)
+
+it is given at a meeting of the directors, or
+
+(b)
+
+the director takes reasonable steps to secure that it is brought up and read at the next meeting of the directors after it is given.
+
+127
+
+175. Declaration of interest in case of company with sole director
+
+(1) Where a declaration of interest under section 171 (declaration of interest in existing transaction or arrangement) is required of a sole director of a company that is required to have more than one director–
+
+(a)
+
+the declaration must be recorded in writing,
+
+(b)
+
+the making of the declaration is deemed to form part of the proceedings at the next meeting of the directors after the notice is given, and
+
+(c)
+
+the provisions of section 272 (minutes of directors’ meetings) apply as if the declaration had been made at that meeting.
+
+(2)
+
+Nothing in this section affects the operation of section 218 (contract with sole member who is also a director).
+
+176. Declaration of interest in existing transaction by shadow director
+
+(1)
+
+The provisions of this Chapter relating to the duty under section 171 (declaration of interest in existing transaction or arrangement) apply to a shadow director as to a director, but with the following adaptations.
+
+(2)
+
+Subsection (2)(a) at section 171 (declaration of interest in existing transaction or arrangement) does not apply.
+
+(3)
+
+In section 174 (general notice treated as sufficient declaration), subsection (4) (notice to be given at or brought up and read at meeting of directors) does not apply.
+
+(4)
+
+General notice by a shadow director is not effective unless given by notice in writing in accordance with section 173 (declaration made by notice in writing).
+
+Chapter 4
+
+TRANSACTIONS WITH DIRECTORS REQUIRING APPROVAL OF MEMBERS
+
+Service contracts
+
+177. Directors’ long-term service contracts: requirement of members’ approval
+
+(1)
+
+This section applies to provision under which the guaranteed term of a director’s employment–
+
+(a)
+
+with the company of which he is a director, or
+
+(b)
+
+where he is the director of a holding company, within the group consisting of that company and its subsidiaries,
+
+is, or may be, longer than two years.
+
+(2)
+
+A company may not agree to such provision unless it has been approved–
+
+(a)
+
+by resolution of the members of the company, and
+
+(b)
+
+in the case of a director of a holding company, by resolution of the members of that company.
+
+128
+
+(3)
+
+The guaranteed term of a director’s employment is–
+
+(a)
+
+the period (if any) during which the director’s employment–
+
+(i)
+
+is to continue, or may be continued otherwise than at the instance of the company (whether under the original agreement or under a new agreement entered into in pursuance of it), and
+
+(ii)
+
+cannot be terminated by the company by notice, or can be so terminated only in specified circumstances, or
+
+(b)
+
+in the case of employment terminable by the company by notice, the period of notice required to be given,
+
+or, in the case of employment having a period within subsection (3)(a) and a period within subsection (3)(b), the aggregate of those periods.
+
+(4)
+
+If more than six months before the end of the guaranteed term of a director’s employment the company enters into a further service contract (otherwise than in pursuance of a right conferred, by or under the original contract, on the other party to it), this section applies as if there were added to the guaranteed term of the new contract the unexpired period of the guaranteed term of the original contract.
+
+(5)
+
+A resolution approving provision to which this section applies must not be passed unless a memorandum setting out the proposed contract incorporating the provision is made available to members–
+
+(a)
+
+in the case of a written resolution, by being sent or submitted to every eligible member at or before the time at which the proposed resolution is sent or submitted to him,
+
+(b)
+
+in the case of a resolution at a meeting, by being made available for inspection by

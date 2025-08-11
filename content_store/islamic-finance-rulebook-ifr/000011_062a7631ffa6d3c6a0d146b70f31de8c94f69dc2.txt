@@ -1,0 +1,143 @@
+ Person granted access to an Authorised Person's facilities. Additional disclosure should also be made if the Authorised Person changes its policy relating to commingling of funds attributable to its Islamic Financial Business with funds attributable to its conventional financial business.
+
+Disclosure relating to client Money provisions
+
+3.8.4 An Authorised Person must disclose to its clients details about how any Client Money
+
+arising out of its Islamic Financial Business is or will be held.
+
+3.9
+
+Prudential requirements
+
+3.9.1 An Authorised Person in prudential Category 1, 2, 3 or 5, as specified in the PRU Rulebook, which invests in or holds Islamic Contracts for purposes other than Managing PSIAs must calculate its Credit Risk or Market Risk in respect of those contracts in the same way as an Authorised Person holding or investing in Islamic Contracts for the purposes of Managing PSIAs as set out in IFR 5.4.
+
+Guidance
+
+Prudential requirements in PRU apply in the same way to Authorised Persons conducting Islamic Financial Business, except to the extent added to or otherwise provided in these Islamic Finance Rules.
+
+4.
+
+ACCOUNTING AND AUDITING
+
+4.1
+
+Application
+
+4.1.1 This chapter applies to every Authorised Person or Recognised Body carrying on Islamic
+
+Financial Business.
+
+Confidential
+
+17
+
+IFR VER08.020125
+
+Guidance
+
+GEN 6 contains the general accounting and audit requirements applying to Authorised Persons and Recognised Bodies.
+
+4.2
+
+Financial statements – specific disclosures
+
+4.2.1 An Authorised Person or Recognised Body carrying on Islamic Financial Business must ensure that the financial statements required to be produced by it under GEN 6 contain the following additional disclosures:
+
+(a)
+
+the role and authority of the Shari'a Supervisory Board in overseeing the Authorised Person's or Recognised Body’s Islamic Financial Business;
+
+(b)
+
+the method used in the calculation of the Zakat base;
+
+(c)
+
+whether Zakat has been paid by the Authorised Person or Recognised Body;
+
+(d)
+
+where Zakat has been paid by the Authorised Person or Recognised Body, the amount which has been paid; and
+
+(e)
+
+where Zakat has not been paid by the Authorised Person or Recognised Body, sufficient information to allow a shareholder or other investor to compute the amount of his own liability to Zakat.
+
+4.2.2 An Authorised Person who operates an Islamic Window must ensure that the financial statements required to be produced by it under GEN 6 and IFR 4.2.1 contain the following additional disclosures:
+
+(a)
+
+a detailed statement of the funds mobilised according to Shari'a rules and principles and the assets financed by those funds;
+
+(b)
+
+a detailed statement of the income and expenditure attributable to its Islamic Financial Business; and
+
+(c)
+
+whether funds attributable to its Islamic Financial Business are commingled with funds attributable to its conventional business.
+
+4.2.3 An Authorised Person which is a Takaful Operator must ensure that the financial statements required to be produced by it under GEN 6 for each Takaful Fund contains the following disclosures:
+
+(a)
+
+income from contributions to the Takaful Fund;
+
+(b)
+
+revenues and gains from the Takaful Fund's investments;
+
+(c)
+
+amounts paid to the Takaful Operator;
+
+(d)
+
+amounts paid for Retakaful cover, net of any commissions;
+
+(e)
+
+amounts paid to Takaful contributors as a distribution of surplus;
+
+Confidential
+
+18
+
+IFR VER08.020125
+
+(f)
+
+amounts of any financing received from, or repaid to the Takaful operator;
+
+(g)
+
+changes in the actuarial reserves of the Takaful Fund; and
+
+(h)
+
+the position of the Takaful Fund at the end of the period, including actuarial reserves, policyholders' surplus and any loans outstanding.
+
+Confidential
+
+19
+
+IFR VER08.020125
+
+4.2.4 An Authorised Person which Manages a PSIA must ensure that the financial statements required to be produced by it under GEN 6 contain the following additional disclosures:
+
+(a)
+
+an analysis of income according to types of investments and their financing by customers;
+
+(b)
+
+the basis for the allocation of profits between Owners' Equity and PSIA holders;
+
+(c)
+
+the equity of PSIA holders at the end of the reporting period;
+
+(d)
+
+the

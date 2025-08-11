@@ -1,7 +1,7 @@
 # backend/api/v1/endpoints/chat.py
 from fastapi import APIRouter
 from backend.schemas.chat import ChatRequest, ChatResponse
-from backend.core.ai_service import get_ai_response
+from backend.core.enhanced_ai_service import get_ai_response
 
 router = APIRouter()
 

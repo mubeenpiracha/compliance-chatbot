@@ -1,0 +1,129 @@
+ the volatilities of the market prices are stable. In addition, where the updating of data sets is less frequent, the Regulator will normally expect compensating controls in the form of stress testing.
+
+A4.3.23 An Authorised Person must have robust and effective processes in place for ensuring compliance with documented internal policies, controls and procedures concerning the operation of the risk measurement system to support the use of own-estimate haircuts.
+
+Guidance
+
+In order to demonstrate compliance with Rule A4.3.23, an Authorised Person should give due regard to the following expectations of the Regulator:
+
+(a)
+
+the risk measurement system should be used in conjunction with internal Exposure limits;
+
+(b)
+
+the risk management processes of an Authorised Person relating to the use of own-estimate haircuts should be subject to internal audit at least once a year, covering the following areas:
+
+(i)
+
+the integration of risk measures into daily risk management;
+
+(ii)
+
+the validation of any significant change in the risk management process;
+
+(iii)
+
+the accuracy and completeness of position data;
+
+(iv)
+
+the verification of the consistency, timeliness and reliability of data sources used to run internal models, including the independence of such data sources; and
+
+(v)
+
+the accuracy and appropriateness of volatility assumptions.
+
+(c)
+
+such internal audits referred to in (b) are not to be confused with an internal validation of the risk management systems surrounding the use of own-estimate haircuts. All significant risk models employed to support the use of own-estimate haircuts should be validated at least once a year. The internal audits serve as an independent process check to help ensure that the validation is sufficiently robust and effective.
+
+283
+
+PRU VER17.290725
+
+Minimum holding periods, remargining or revaluation conditions
+
+A4.3.24 The following table sets out the minimum holding periods and remargining or revaluation conditions for different types of transactions where an Authorised Person uses own-estimate haircuts:
+
+Transaction type
+
+Minimum holding period
+
+Remargining/ Revaluation Condition
+
+Repos, reverse repos, Securities or commodities lending or Securities or commodities borrowing transactions
+
+Five business days
+
+daily remargining
+
+OTC Derivative transactions and margin lending transactions
+
+Ten business days
+
+daily remargining
+
+Exposures secured by eligible financial Collateral
+
+Twenty business days
+
+daily revaluation
+
+A4.3.25 Where the assumed minimum holding period is not met or remargining or revaluation conditions are not fulfilled, an Authorised Person must calculate the applicable haircut using the following formula:
+
+H = HM √{[NR + (TM - 1)]/ TM}
+
+where -
+
+"H" refers to the haircut;
+
+"HM" refers to the haircut under the minimum holding period;
+
+"TM" refers to the minimum holding period for the type of transaction or eligible financial Collateral; and
+
+"NR" refers to the actual number of business days between remargining or revaluation, as the case may be.
+
+A4.3.26 When an Authorised Person uses a holding period, TN, which is different from the specified minimum holding period, TM, the Authorised Person must calculate HM using the following formula:
+
+HM = HN√(TM/TN)
+
+where -
+
+"TN" refers to the holding period used by the Authorised Person for deriving HN; and
+
+284
+
+PRU VER17.290725
+
+"HN" refers to the haircut based on the holding period TN.
+
+Recognition of eligible financial Collateral under FCSA
+
+A4.3.27 Subject to A4.3.28, an Authorised Person which has taken eligible financial Collateral for a CR Exposure and is using the FCSA may recognise the effects of CRM of the eligible financial Collateral as follows:
+
+(a)
+
+break down the Exposure into -
+
+(i)
+
+a collateralised portion with E equal to the latest fair value of the eligible financial Collateral; and
+
+(ii)
+
+an uncollateralised portion with E equal to the E of the CR Exposure less the latest fair value of the eligible financial Collateral;
+
+and
+
+(b)
+
+for the purposes of calculating the Credit RWA amount pursuant to Rule 4.8.3, use:
+
+(i)
+
+for the collateralised portion, the CRW that is applicable to the eligible financial Collateral as though the Authorised Person had a direct Exposure to that Collateral; and
+
+(ii)
+
+for the uncollateralised portion

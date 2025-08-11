@@ -1,0 +1,79 @@
+ diligence and identification measures with regard to the business relationship are taken.
+
+9.
+
+The Relevant Person should conduct regular reviews of the relationship with its business partners.
+
+10.
+
+The Senior Management or Governing Body of a Relevant Person should give its approval before it establishes any new correspondent banking relationships.
+
+11.
+
+A Relevant Person should also have arrangements to guard against establishing a business relationship with business partners who permit their accounts to be used by Shell Banks; further details on the definition of Shell Banks are set out in Guidance 2 to Rule 10.2.2.
+
+9.3
+
+Outsourcing and agents
+
+9.3.1 A Relevant Person which outsources any one or more elements of its CDD to a service provider (including those within its Group) remains responsible for compliance with, and liable for any failure to meet, such obligations.
+
+Confidential
+
+66
+
+AML VER10.020125
+
+9.3.1A Prior to appointing a service provider to undertake CDD, a Relevant Person must undertake an initial assurance assessment to evaluate the suitability of the service provider and must ensure that the service provider's obligations are clearly documented in a binding agreement.
+
+9.3.1B After engaging a service provider the Relevant Person must undertake periodic assurance assessments to ensure that the services provided meet the obligations recorded in the binding agreement and allow it to meet all the requirements that it is subject to.
+
+Guidance
+
+1.
+
+The use by a Relevant Person of a service provider’s eKYC System that enables a Relevant Person to undertake eKYC constitutes outsourcing for the purposes of Rule 9.3.1.
+
+2.
+
+When undertaking an assurance assessment of an eKYC System for the purpose of Rule 9.3.1A, a Relevant Person should seek to establish that the eKYC System is reliable and independent, and allows the Relevant Person to comply with all applicable legislation including applicable Rules and Regulations. In addition, a Relevant Person should consider applying guidance on assurance standards issued by the Regulator, competent UAE authorities, FATF, and other relevant standard setting bodies.
+
+3.
+
+In limited circumstances, a Relevant Person may place reliance on the assurance assessment of the eKYC System conducted entirely by another entity. Such circumstances comprise the following.
+
+(a) Where an assurance assessment of the eKYC System has been undertaken by a Related entity and specifically addresses the legislation applicable to the Relevant Person. In such circumstances, the Relevant Person remains responsible for the eKYC System’s compliance with applicable legislation including applicable Rules and Regulations and it should maintain a copy of the assessment.
+
+(b) Where the eKYC System has been authorised by a competent authority of the UAE or a competent authority in a jurisdiction with AML/TFS laws equivalent to the UAE In such circumstances, the eKYC system should be authorised for use in CDD. Further, the Relevant Person should undertake its own review to ensure that any use of the relevant eKYC System is appropriate and enables compliance with all legislation applicable to the Relevant Person including applicable Rules and Regulations.
+
+(c)
+
+Where a Relevant Person chooses to employ a third party to assist in its own assurance assessment of the eKYC System, it should ensure that a competent and independent firm with relevant expertise and resources be employed. The Relevant Person remains wholly responsible for the eKYC System’s compliance with, and any failure to meet, the legislation applicable to the Relevant Person including applicable Rules and Regulations.
+
+Confidential
+
+67
+
+AML VER10.020125
+
+4.
+
+In complying with Rule 9.3.1, a Relevant Person should ensure that the service provider can be replaced with minimal disruption in the event the outsourcing arrangement is terminated.
+
+5.
+
+An Authorised Person is also required to comply with the outsourcing obligations in GEN 3.3.31 and 3.3.32 and PRU 6.8. A Recognised Body is also required to comply with the outsourcing obligations in MIR 2.14.
+
+9.3.2 Authorised Persons Providing Money Services
+
+(1)
+
+An Authorised Person that is engaged in Providing Money Services must:
+
+(b)
+
+maintain a complete, current and accurate register of all agents and members of its Group it uses to conduct its operations and make that register available to the Regulator upon request;
+
+(c)
+
+include all agents and members of its Group identified in (a) as part of its AML/TFS compliance programme and monitor the compliance of such agents and members of its Group with the

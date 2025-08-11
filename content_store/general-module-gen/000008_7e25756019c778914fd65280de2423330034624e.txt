@@ -1,0 +1,91 @@
+A Private Trust Company or Family Structure does not carry on an activity specified under paragraph (t) of Rule 2.2.2 by way of business if it:
+
+(a) carries on that activity exclusively for the purposes of, and only
+
+in so far as it is, providing services to one Family; and
+
+(b) does not solicit trust business from, or provide trust services to, any Person outside the structure of the Single Family Office and outside the Family referred to in (a).
+
+2.3.6 (1)
+
+This Rule applies if the DIFC is the Host Jurisdiction of a Passported Fund.
+
+(2)
+
+A Fund Manager of the Passported Fund does not carry on an activity specified under paragraphs (d), (e), (f), (h) or (i) of Rule 2.2.2 by way of business to the extent that it Promotes the Passported Fund in the DIFC.
+
+(3)
+
+An Agent of the Fund Manager or another Licensed Person does not carry on an activity specified under paragraphs (d), (e), (f) or (h) of Rule 2.2.2 by way of business to the extent that it Promotes the Passported Fund in the DIFC.
+
+(4)
+
+The exclusions in (2) and (3) do not apply if the relevant Fund Manager, Agent or Licensed Person is an Authorised Person.
+
+Guidance
+
+The terms “Host Jurisdiction”, “Passported Fund”, “Fund Manager”, “Promote”, “Agent” and “Licensed Person” are defined in the Fund Protocol Rules (and in GLO). The exclusion in Rule 2.3.6 does not apply if the Person is already an Authorised Person in the DIFC; it applies to a Fund Manager or its Agent or a Licensed Person that is authorised by another Authority.
+
+2.3.7 (1) A Person does not carry on an activity specified in paragraphs (aa) or (bb) of Rule 2.2.2 by way of business to the extent that the Person operates or acts as the administrator of a Non-DIFC Scheme to which (2) or (3) applies.
+
+(2) This sub-rule applies to a Non-DIFC Scheme if:
+
+(a) a DIFC employer is participating in the Scheme as a result of a statutory duty in another country to provide an end-of-service benefit in respect of an employee; and
+
+(b) an Exemption Certificate is in force in respect of the Scheme under
+
+the Employment Regulations.
+
+10
+
+GEN/VER67/03-25
+
+GENERAL (GEN)
+
+(3) This sub-rule applies to a Non-DIFC Scheme if:
+
+(a)
+
+it is available exclusively to some or all of the employees of a Group to which a DIFC employer belongs;
+
+(b)
+
+it is available to employees of the Group in at least one other country (in addition to the UAE);
+
+(c)
+
+it requires contributions for employees that exceed the Core Benefits required to be paid by the DIFC Employer under the Employment Law; and
+
+(d) an Exemption Certificate is in force in respect of the Scheme under
+
+the Employment Regulations.
+
+(4)
+
+In this Rule, “Exemption Certificate” has the meaning given in the Employment Regulations.
+
+Guidance
+
+1.
+
+The exclusions under Rule 2.3.7 apply in respect of certain types of Non-DIFC Schemes that are the subject of exemptions issued by the DIFCA Board under the Employment Regulations.
+
+2.
+
+A Non-DIFC Scheme is defined in GLO as an Employee Money Purchase Scheme or any similar scheme or arrangement that is established outside the DIFC.
+
+3.
+
+The effect of the above exclusions is that foreign fiduciary service providers, insurers and superannuation scheme operators, who are supervised and regulated in their home jurisdictions for their activities, can be enabled to accept contributions from DIFC employers in respect of their employees under the DIFC Employment Law.
+
+2.4 Accepting deposits
+
+2.4.1
+
+In Rule 2.2.2, Accepting Deposits means accepting Deposits where:
+
+(a) money received by way of Deposit is lent to others; or
+
+(b) any other activity of the Person accepting the Deposit is financed, wholly or to a material extent, out of the capital of or returns on any money received by way of Deposit.
+
+2.

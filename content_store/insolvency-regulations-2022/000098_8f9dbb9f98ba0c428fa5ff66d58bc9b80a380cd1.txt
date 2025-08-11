@@ -1,0 +1,75 @@
+ collateral arrangement coming into existence; or
+
+(c)
+
+the delivery, transfer, holding, registering or other designation of collateral so as to be in the possession or under the control of the collateral-taker.
+
+132
+
+Chapter 3 - Collateral Arrangements
+
+279. No recharacterisation
+
+A title transfer collateral arrangement which is not expressed to be by way of security shall not be recharacterised as security over collateral and shall take effect in accordance with its terms.
+
+280. Realisation and liquidation of collateral
+
+Unless otherwise agreed by the parties, the realisation, appropriation and/or liquidation of collateral under a collateral arrangement shall take effect or occur without any requirement that prior notice shall be given to, or consent be received from, any party, person or entity, provided that this Section is without prejudice to any applicable provision of law requiring that the realization, appropriation and/or liquidation of collateral is conducted in a commercially reasonable manner.
+
+281. No formal act required
+
+(1)
+
+Other than as set out herein, no formal act shall be necessary for the attachment, perfection or enforcement of a collateral arrangement which is by way of security over collateral to the extent it would otherwise be required under Abu Dhabi Global Market legislation.
+
+(2) Without prejudice to the generality of subsection (1), the following provisions shall not apply (if they would otherwise do so) in relation to a collateral arrangement or any charge created or otherwise arising under a collateral arrangement—
+
+(a)
+
+Section 784 (Charges created by a Company) and section 791 (Consequence of failure to deliver charges) of the Companies Regulations 2020;
+
+(b)
+
+Section 4 (No action on a third party’s promise unless in writing and signed) of the Statute of Frauds 1677; and
+
+(c)
+
+Section 152 (Legal assignments of things in action) of the Real Property Regulations 2015.
+
+282. Right of use of a collateral-taker in collateral and obligation to return equivalent assets
+
+(1)
+
+If a collateral arrangement which is by way of security over collateral provides for the collateral-taker to use and dispose of any collateral provided under the collateral arrangement, as if it were the owner of it, the collateral-taker may do so in accordance with the terms of the arrangement.
+
+(2)
+
+The exercise by a collateral-taker of a right of use as described in subsection (1) shall not render invalid or unenforceable any right of the collateral-taker under such a collateral arrangement.
+
+(3)
+
+If a collateral-taker exercises such a right of use, it is obliged to replace the original collateral by transferring equivalent collateral on or before the due date for the performance of the relevant obligations covered by the arrangement or, if the arrangement so provides, it may set off the value of the equivalent collateral against or apply it in discharge of the relevant obligations in accordance with the terms of the arrangement.
+
+(4)
+
+The equivalent collateral which is transferred in discharge of an obligation as described in subsection (3) shall be subject to the same terms of the collateral arrangement as the original collateral was subject to and shall be treated as having been provided
+
+133
+
+under the collateral arrangement at the same time as the original collateral was first provided.
+
+(5)
+
+If a collateral-taker has an outstanding obligation to replace the original collateral with equivalent collateral, that obligation may be the subject of a netting under the applicable netting agreement or collateral arrangement in accordance with its terms.
+
+283. Appropriation
+
+(1) Without prejudice to the foregoing Sections of this Part 7 (Financial Markets and Netting), if the collateral arrangement which is by way of security over collateral provides for realisation by appropriation of the collateral the subject of such arrangement, then the collateral-taker may so realise the collateral in accordance with the terms of the applicable collateral arrangement without any order for foreclosure from the Court, as the collateral-taker’s own property. The collateral-taker shall on such realisations, set its value against, or applying its value in or towards the discharge of, the relevant obligations.
+
+(2)
+
+Upon the exercise by the collateral-taker of the power to appropriate the collateral, the equity of redemption of the collateral-provider shall be extinguished and all legal and beneficial interest of the collateral-provider in the collateral shall vest in the collateral- taker.
+
+(3)
+
+Upon the exercise by a collateral-taker of the power to appropriate the collateral in accordance with subsection (1), the collateral-taker must value

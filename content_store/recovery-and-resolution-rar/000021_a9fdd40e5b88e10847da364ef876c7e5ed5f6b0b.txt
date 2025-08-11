@@ -1,0 +1,61 @@
+ of Eligible Liabilities in accordance with the hierarchy of claims that will apply to the Authorised Firm under the DIFC Insolvency Law, in conjunction with the write down pursuant to (a) to (d) to produce the sum of the amounts referred to in Rule 3.4.3(3)(b) and (c).
+
+(2) When applying the Write Down or Conversion Power, the DFSA shall allocate the losses represented by the sum of the amounts referred to
+
+33
+
+RAR/VER1/04-20
+
+3.4.5
+
+RECOVERY AND RESOLUTION (RAR)
+
+in Rule 3.4.3(3)(b) and (c) equally between Shares and Eligible Liabilities of the same rank by reducing the principal amount of, or outstanding amount payable in respect of, those Shares and Eligible Liabilities to the same extent pro rata to their value, except where a different allocation of losses amongst liabilities of the same rank is allowed in the circumstances specified in Rule 3.4.1(4).
+
+(3) Before applying the Write Down or Conversion Power, the DFSA shall convert or reduce the principal amount of instruments referred to in (1)(b), (c) (d) and (e) when those instruments contain the following terms and have not been fully converted:
+
+(a)
+
+terms that provide for the principal amount of the instrument to be reduced on the occurrence of any event that refers to the financial situation, viability, solvency or levels of Capital Resources of the Authorised Firm; or
+
+(b)
+
+terms that provide for the conversion of the instrument to Shares on the occurrence of any such event.
+
+(4) Where the principal amount of an instrument has been reduced, but not reduced to zero, in accordance with terms referred to in (3)(a) before the application of the bail-in pursuant to (1), the DFSA shall apply the Write Down or Conversion Power to the residual amount.
+
+(5)
+
+In deciding on whether liabilities are to be written down or converted into Shares, the DFSA shall not convert one class of liabilities while a class of liabilities that is subordinated to that class remains substantially unconverted into Shares or not written down, unless otherwise permitted under Rule 3.4.1(4) and (5).
+
+Derivatives
+
+(1) The DFSA may exercise the Bail-In Tool in relation to a liability arising from a Derivative only to the extent it is an unsecured liability and when, upon or after closing-out that Derivative, there is a net liability which is an Eligible Liability.
+
+(2) The DFSA may terminate and close out any Derivative upon an Authorised Firm’s entry into Resolution for the purpose of realising an Eligible Liability that is to be subject to the Bail-In Tool under (1).
+
+(3) The DFSA may, where an Eligible Liability under a Derivative has been excluded from the application of the Bail-in Tool pursuant to Rule 3.4.1(5), terminate and close out the Derivative.
+
+(4) Where a Derivative is subject to a netting agreement, the value of the Eligible Liability for the purposes of the Pre-Resolution Valuation (or Provisional Valuation, if applicable) is to be determined on a net basis in accordance with the terms of the agreement.
+
+(5) The DFSA shall determine the value of Eligible Liabilities arising from a
+
+Derivative on the basis of appropriate methodologies.
+
+Conversion Rate
+
+34
+
+RAR/VER1/04-20
+
+RECOVERY AND RESOLUTION (RAR)
+
+3.4.6 When the Write Down or Conversion Power is exercised, the DFSA may apply a different Conversion Rate to different classes of capital instruments and Eligible Liabilities provided that when different Conversion Rates are applied, the Conversion Rate applicable to liabilities that are considered to be senior under DIFC insolvency law shall be higher than the Conversion Rate applicable to subordinated liabilities.
+
+Business Reorganisation Plan
+
+3.4.7
+
+(1) A Business Reorganisation Plan shall, where the Bail-in Tool has been used to recapitalise an Authorised Firm, be drawn up and implemented for that Authorised Firm in accordance with this Rule.
+
+(2) The DFSA may require persons to be appointed (under its powers over an Authorised Firm in Resolution under Article 84N of the Law) for the purpose of drawing up

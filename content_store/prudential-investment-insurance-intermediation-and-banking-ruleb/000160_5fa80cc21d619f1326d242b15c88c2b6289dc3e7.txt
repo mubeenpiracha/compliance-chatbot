@@ -1,0 +1,135 @@
+3 When calculating its Credit RWA, an Authorised Person must not include RWA arising
+
+from a transaction if it is a negative amount.
+
+A4.6.4
+
+CRW counterparty weighting for an OTC Derivative is 50%.
+
+is applied
+
+in accordance with Section A4.3 except that the maximum
+
+Unsettled Transactions
+
+A4.6.5
+
+An Authorised Person must calculate the Credit RWA for transactions in which debt instruments, equities, foreign currencies and commodities (excluding repos, reverse repos and Securities or commodities lending/borrowing) remain unsettled after their due delivery dates, using the following formula:
+
+Credit RWA = E x the appropriate percentage from the second column in the table below:
+
+Number of business days after due settlement date
+
+Percentages used for calculation of Credit RWA on Unsettled Transactions
+
+0-4
+
+0%
+
+5-15
+
+100%
+
+16-30
+
+500%
+
+31-45
+
+750%
+
+46 or more
+
+1000%
+
+A4.6.6
+
+If assets involved in the transaction are to be received by the Authorised Person and the transaction remains unsettled:
+
+E = max (MV-CV, 0)
+
+where MV is the market value of the assets and CV represents the contracted value for delivery of the assets.
+
+288
+
+PRU VER17.290725
+
+A4.6.7
+
+If assets involved in the transaction are to be delivered by the Authorised Person and the transaction remains unsettled:
+
+E = max (CV-MV, 0).
+
+Guidance
+
+E is the price difference to which the Authorised Person is exposed, being the difference between the agreed settlement price for the debt instrument, equity, foreign currency or commodity in question and its current market value, where the difference could involve a loss for the firm.
+
+Free delivery transactions
+
+A4.6.8
+
+An Authorised Person must calculate the Credit RWA in accordance with the table in Rule A4.6.11 for free delivery transactions in both the Trading and Non-Trading Book where it has:
+
+(a)
+
+delivered Securities or commodities before receiving payment;
+
+(b)
+
+paid for Securities or commodities before receiving the items purchased; or
+
+(c)
+
+entered into a foreign exchange contract undertaken in the spot market or contracted for forward settlement and has released funds to its Counterparty but has not yet received the funds in the other currency.
+
+A4.6.9
+
+If the settlement of the transaction is to be effected across a national border, Credit RWA needs to be calculated only when more than one business day has elapsed since the firm has made the relevant payment or delivery.
+
+Guidance
+
+In respect of free delivery transactions referred to in Rule A4.6.9, if the dates when two payment legs are made are the same according to the time zones where each payment is made, they are deemed to have been settled on the same day.
+
+A4.6.10 For a free delivery transaction an Authorised Person must determine its exposure E
+
+after the end of the first contractual payment or delivery date as follows:
+
+(a) if an Authorised Person has delivered Securities or Commodities or foreign
+
+exchange funds to a Counterparty and has not received payment:
+
+E = CV due to the Authorised Person
+
+(b) if an Authorised Person has made payment of CV to a Counterparty for
+
+commodities or Securities and has not received them:
+
+E = CV – MV of the Securities, commodities or foreign exchange funds due to it
+
+A4.6.11 The Credit RWA in respect of free delivery transactions are to be calculated in
+
+accordance with the following table:
+
+289
+
+PRU VER17.290725
+
+Transaction stage
+
+Treatment
+
+Up to first contractual payment or delivery leg From first contractual payment or delivery leg up to four business days after second contractual payment or delivery leg From five business days post contractual payment or delivery leg until extinction of the transaction
+
+No calculation required
+
+Treat as an exposure
+
+Treat as an exposure with a risk-weight of 1000%
+
+A4.6.12 An Authorised Person must treat an Exposure in accordance with the relevant
+
+provisions of Chapter 4.
+
+A4.6.13
+
+If the Authorised Person considers the total amount of the exposures resulting from free delivery transactions to be immaterial it may apply a risk weight of 100% to these exposures, except where a risk weight of 1000

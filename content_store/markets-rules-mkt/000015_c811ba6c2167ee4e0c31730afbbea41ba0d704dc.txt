@@ -1,0 +1,129 @@
+ to such conditions or restrictions imposed by the DFSA as it sees fit.
+
+(3)
+
+An application for approval of an offer document produced in accordance with the legislation in a jurisdiction other than the DIFC must:
+
+(a)
+
+be made using the appropriate form in AFN;
+
+(b)
+
+be accompanied by the relevant fee prescribed in FER; and
+
+(c)
+
+include:
+
+(i)
+
+where the offer document referred to in (1) is not in the English language, an English translation acceptable to the DFSA; and
+
+(ii)
+
+a clear statement that it is an offer document prepared in accordance with the requirements applicable in the relevant jurisdiction and not in the DIFC.
+
+(4)
+
+An offer document referred to in (1) is an Approved Prospectus for the purposes of Article 14(1) of the Law where it has been approved by the DFSA in accordance with the requirements in this Rule and section 2.6.
+
+(5)
+
+The procedures in Schedule 3 to the Regulatory Law apply to a decision of the DFSA under this Rule not to approve an offer document or to impose conditions or restrictions on an approval.
+
+(6)
+
+If the DFSA decides to exercise its power under this Rule not to approve an offer document or to impose conditions or restrictions on an approval, the applicant may refer the matter to the FMT for review.
+
+Guidance
+
+1.
+
+A Person considering filing an offer document pursuant to Rule 2.7.1 should approach the DFSA at the earliest possible time to discuss how to proceed. This is because the DFSA will undertake the assessment required under Rule 2.7.1 on a case-by-case basis. See Guidance item 1 under Rule 2.6.2 for details relating to the DFSA Prospectus approval process.
+
+2.
+
+Where an offer document referred to in Rule 2.7.1(1) relates to a Security Token, the DFSA will assess whether the offer document contains additional information equivalent to that specified in App 7 and referred to in Rule 2.5.1(3)(d), to determine whether it is satisfied that the requirement in Rule 2.7.1(1)(a)(i) is met
+
+Incorporation by reference
+
+(1)
+
+Subject to (3), where a requirement in this chapter requires disclosure of information in a Prospectus, the Person making the Prospectus Offer may incorporate that information by reference to another source of information, provided that:
+
+21
+
+MKT/VER24/03-25
+
+MARKETS RULES (MKT)
+
+(a)
+
+the source of information is publicly available on a continuing basis;
+
+(b)
+
+the information is clearly set out and easily accessible in that source;
+
+(c)
+
+the information is in the English language; and
+
+(d)
+
+the information can be accessed without charge.
+
+(2)
+
+A reference must also contain sufficient information to enable an investor to decide whether to obtain the information or any part of it.
+
+(3)
+
+A Summary must not incorporate information by reference.
+
+Guidance
+
+Information that may generally be incorporated by reference includes instruments or statute of incorporation of a company, annual reports, periodic financial reports and listing particulars.
+
+2.8.2 A Person who makes a Prospectus Offer must provide a copy of any information incorporated by reference under this section free of charge to any Person who requests it during the Offer Period.
+
+2.9 Notification of material changes during the currency of the
+
+prospectus
+
+2.9.1
+
+(1)
+
+If, during the currency of the Prospectus:
+
+(a)
+
+there is a significant change in, or a material mistake or inaccuracy affecting, any matter contained in the Prospectus; or
+
+(b)
+
+a significant new matter arises,
+
+the Person making the Prospectus Offer must produce a Supplementary Prospectus in accordance with the requirements in this Rule.
+
+(2)
+
+For the purpose of (1), ‘significant’ or ‘material’ means information which an investor would reasonably require for the purpose of making an informed assessment relating to the Securities to which the Prospectus relates.
+
+(3)
+
+In the case of a Prospectus Offer, the Person required to produce the Supplementary Prospectus under (1) must:
+
+(a)
+
+make a clear statement that it is a Supplementary Prospectus;
+
+(b)
+
+comply with the requirements in section 2.6 relating to the approval of a Supplementary Prospectus; and
+
+(c)
+
+ensure that the Supplementary Prospectus is available until the end of the

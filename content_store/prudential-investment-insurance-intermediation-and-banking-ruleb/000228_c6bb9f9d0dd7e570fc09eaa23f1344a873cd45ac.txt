@@ -1,0 +1,111 @@
+2.5 should be applied in practice.
+
+2.
+
+Under Rule A10.2.5(3) the adjusted amounts of HQLA should be calculated as the amount of HQLA that would result after unwinding those short-term secured funding, secured lending and Collateral swap transactions that involve the exchange of any HQLA for any other HQLA.
+
+3.
+
+The calculation of the stock of HQLA under Rule A10.2.5 can be expressed as the following formula:
+
+402
+
+PRU VER17.290725
+
+Stock of HQLA = Level 1 HQLA + Level 2A HQLA + Level 2B HQLA – Adjustment for 15% cap – Adjustment for 40% cap
+
+Where:
+
+a.
+
+Adjustment for 15% cap = Max (Adjusted Level 2B HQLA – 15/85 x(Adjusted Level 1 HQLA + Level 2A HQLA), Adjusted Level 2B HQLA - 15/60 x Adjusted Level 1 HQLA, 0)
+
+b.
+
+Adjustment for 40% cap = Max ((Adjusted Level 2A HQLA + Adjusted Level 2B HQLA – Adjustment for 15% cap) - 2/3 x Adjusted Level 1 HQLA, 0)
+
+Level 1 HQLA
+
+A10.2.6
+
+(1)
+
+Level 1 HQLA must be valued at market value.
+
+(2)
+
+Level 1 HQLA consists of:
+
+(a)
+
+banknotes and coin;
+
+(b)
+
+central bank reserves, to the extent that such reserves are capable of being drawn down immediately in times of stress;
+
+(c)
+
+marketable Securities representing claims on or claims guaranteed by sovereigns, central banks, Public Sector Entities (PSEs), the Bank for International Settlements, the International Monetary Fund, the European Central Bank and European Commission or Multilateral Development Banks (MDBs), and that satisfy all of the following conditions:
+
+(i)
+
+they are assigned a zero % risk-weight according to Chapter 4 and App4 of this Rulebook;
+
+(ii)
+
+they are traded in large, deep and active repo or cash markets characterised by a low level of concentration;
+
+(iii)
+
+they have a proven record as a reliable source of liquidity in the markets (repo or sale) even during stressed market conditions; and
+
+(iv)
+
+they are not an obligation of a Financial Institution or any of its affiliated entities;
+
+(d)
+
+in the case of sovereigns that are not eligible for a risk-weight of zero, sovereign, or central bank debt Securities issued in domestic currencies by the sovereign or central bank in the country in which the Liquidity Risk is being taken or in the Authorised Person's home jurisdiction, where those Securities satisfy all of the conditions in paragraph (c) (ii)(iii) and (iv);
+
+403
+
+PRU VER17.290725
+
+(e)
+
+in the case of sovereigns that are not eligible for a risk-weight of zero, domestic sovereign or central bank debt Securities issued in foreign currencies, up to the amount of the Authorised Person's stressed net cash outflows in that specific foreign currency stemming from the Authorised Person's operations jurisdiction where the Authorised Person's Liquidity Risk is being taken, where those Securities satisfy all of the conditions in paragraph (c) (ii)(iii) and (iv); and
+
+in the
+
+(f)
+
+any other types of assets approved by the Regulator under Rule A10.2.9 as being eligible to be Level 1 HQLA.
+
+Level 2A HQLA
+
+A10.2.7
+
+(1)
+
+Level 2A HQLA must be valued at market value and subject to a 15% haircut.
+
+(2)
+
+Level 2A HQLA consists of:
+
+(a)
+
+marketable Securities representing claims on or guaranteed by sovereigns, central banks, PSEs or MDBs that satisfy all of the following conditions:
+
+(i)
+
+they are assigned a 20% or lower risk-weight according to Chapter 4 and App4 of this Rulebook;
+
+(ii)
+
+they are traded in large, deep and active repo or cash markets characterised by a low level of concentration;
+
+(iii)
+
+they have a proven record as a reliable source of liquidity in the markets (repo or sale) even during stressed market conditions (i.e.

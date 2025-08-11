@@ -1,0 +1,93 @@
+ a new or developing technology, a Relevant Person must take reasonable steps to ensure that it has:
+
+(a)
+
+assessed and identified the money laundering risks relating to the product, service, business practice or technology; and
+
+(b)
+
+taken appropriate steps to mitigate or eliminate the risks identified under (a).
+
+Guidance
+
+1.
+
+Unless a Relevant Person understands the money laundering risks to which it is exposed, it cannot take appropriate steps to prevent its business from being used for the purposes of money laundering. Money laundering risks vary from business to business depending on the nature of the business, the type of customers a business has, the nature of the products and services sold, and the geographical operations in which it operates.
+
+2.
+
+Using the RBA, a Relevant Person should assess its own vulnerabilities to money laundering and take all reasonable steps to eliminate or manage such risks. The results of this assessment will also feed into the Relevant Person's risk assessment of its customers under Chapter 7.
+
+3.
+
+In addition to assessing risk arising from money laundering, a business risk assessment should assess the potential exposure of a Relevant Person to other Financial Crime, such as fraud and the theft of personal data. The business risk assessment should also address the Relevant Person’s potential exposure to cyber security risk, as this risk may have a material impact on the Relevant Person’s ability to prevent Financial Crime.
+
+4.
+
+A Relevant Person should, as a separate and distinct element of its business risk assessment, undertake a Targeted Financial Sanctions risk assessment in order to identify, understand, assess and mitigate those risks. This should include conducting a proliferation financing and terrorist financing risk assessment.
+
+5.
+
+A Relevant Person should, prior to launching any new product, service or business practice, pay specific attention to assessing the potential for risks associated with all applicable aspects of Financial Crime. This is especially important given the innovative nature of any such new offering as the Relevant Person may be less familiar with the functioning of the offering, compared to existing offerings.
+
+Confidential
+
+30
+
+AML VER10.020125
+
+6.
+
+Similarly, in using a new or developing technology, such as those associated with the Regulated Activity of Developing Financial Technology Services within the RegLab or when undertaking NFTF business, a Relevant Person should pay specific attention to assessing the potential for risks associated with Financial Crime that might arise as a result of implementing that innovative technology. For example, while the use of eKYC Systems may reduce the risk of impersonation fraud at customer onboarding, NFTF interaction with the customer may increase the risk of Financial Crime after a business relationship has been established, through transaction fraud, money laundering or theft of digitally stored CDD documentation.
+
+7.
+
+A business risk assessment under Rule 6.1.1(b) should include an assessment of the risks associated with the carrying on of NFTF business, particularly the use of eKYC Systems. The assessment should consider incorporating any relevant mitigation measures identified by the Regulator, a competent authority of the UAE, FATF, and any other relevant bodies.
+
+6.2
+
+AML/TFS systems and controls
+
+6.2.1 A Relevant Person must:
+
+(a)
+
+establish and maintain effective policies, procedures, systems and controls to prevent opportunities for money laundering in relation to the Relevant Person and its activities;
+
+(b)
+
+ensure that its systems and controls in (a):
+
+(i)
+
+include the provision to the Relevant Person's Senior Management of regular management information on the operation and effectiveness of its AML/TFS systems and controls necessary to identify, measure, manage and control the Relevant Person's money laundering risks;
+
+(ii)
+
+enable it to determine whether a customer or a Beneficial Owner is a PEP;
+
+(iii)
+
+enable the Relevant Person to comply with these Rules and Federal AML Legislation; and
+
+(iv)
+
+enable the Relevant Person to comply with the Penal Code; and
+
+(c)
+
+ensure that regular risk assessments are carried out on the adequacy of the Relevant Person's AML/TFS systems and controls to ensure that they continue to enable it to identify, assess, monitor and manage money laundering risk adequately, and are comprehensive and proportionate to the nature, scale and complexity of its activities.
+
+Guidance
+
+1.
+
+In Rule 6.2.1(c) the frequency of risk assessments will depend on the nature, size and complexity of the Relevant Person's business and also on when any material
+
+Confidential
+
+31
+
+AML VER10.020125
+
+changes are made to its business. The risk assessments should

@@ -1,0 +1,99 @@
+ has not been correctly executed;
+
+it is for the Payment Service Provider to prove that the Payment Transaction was authenticated, accurately recorded, entered in the Payment Service Provider’s accounts and not affected by a technical breakdown or some other deficiency in the service provided by the Payment Service Provider or any third party it relies upon for the performance of operational functions.
+
+(2) Where a Payment Service User denies having authorised an executed Payment Transaction, the use of a Payment Instrument recorded by the Payment Service Provider, including a Payment Initiation Service Provider where appropriate, is not in itself necessarily sufficient to prove either that:
+
+(a)
+
+the Payment Transaction was authorised by the Payer; or
+
+(b)
+
+the Payer acted fraudulently or failed with intent or gross negligence to take all reasonable steps to keep safe Personalized Security Credentials relating to a Payment Instrument.
+
+(3)
+
+If a Payment Service Provider, including a Payment Initiation Service Provider where appropriate, alleges that a Payer acted fraudulently or failed with intent or gross negligence to take all reasonable steps to keep safe Personalized Security Credentials relating to a Payment Instrument, the Payment Service Provider must provide supporting evidence to the Payer.
+
+139
+
+COBS VER19.290725
+
+Liability
+
+19.19
+
+Payment Service Provider’s liability for unauthorised Payment Transactions
+
+19.19.1 (1)
+
+Subject to Rules 19.17.1, 19.17.2 and 19.18.1, where an executed Payment Transaction was not authorised in accordance with Rule 19.10.1, the Payment Service Provider must:
+
+(a)
+
+refund the amount of the unauthorised Payment Transaction to the Payer; and
+
+(b)
+
+where applicable, restore the debited Payment Account to the state it would have been in had the unauthorised Payment Transaction not taken place.
+
+(2)
+
+The Payment Service Provider must provide a refund under (1) as soon as practicable, and in any event no later than the end of the day following the day on which it becomes aware of the unauthorised Payment Transaction.
+
+(3)
+
+The requirement to provide a refund in accordance with (2) does not apply where the Payment Service Provider has reasonable grounds to suspect fraudulent behaviour by the Payment Service User.
+
+(4) When crediting a Payment Account under (1), a Payment Service Provider must ensure that the Credit Value Date is no later than the date on which the amount of the unauthorised Payment Transaction was debited.
+
+(5) Where an unauthorised Payment Transaction was initiated through a Payment Initiation Service Provider, the account servicing Payment Service Provider must comply with (1).
+
+19.20
+
+Payer or Payee’s liability for unauthorised Payment Transactions
+
+19.20.1 (1)
+
+Subject to (2) and (3), a Payment Service Provider which is liable under Rule 19.19.1 may require that the Payer be liable up to a maximum of US$50 for any losses incurred in respect of unauthorised Payment Transactions arising from the use of a lost or stolen Payment Instrument, or from the misappropriation of a Payment Instrument.
+
+(2)
+
+The liability in (1) does not apply if:
+
+(a)
+
+the loss, theft or misappropriation of the Payment Instrument was not detectable by the Payer prior to the unauthorised Payment Transaction; or
+
+(b)
+
+the loss was caused by acts or omissions of an Employee, agent or branch of a Payment Service Provider or of an entity which carried out activities on behalf of the Payment Service Provider.
+
+(3)
+
+The Payment Service Provider is not liable for any losses incurred by the Payer in respect of an unauthorised Payment Transaction where the Payer:
+
+140
+
+COBS VER19.290725
+
+(a)
+
+has acted fraudulently; or
+
+(b)
+
+has with intent or gross negligence failed to ensure that the Personalised Security Credentials are not accessible to persons other than the Payer to whom the Payment Instrument has been issued.
+
+(4)
+
+Subject to (1), except where the Payer has acted fraudulently, the Payer is not liable for any losses incurred in respect of an unauthorised Payment Transaction:
+
+(a)
+
+arising after notification to the Payment Service Provider in the agreed manner on becoming aware of the loss, theft, misappropriation or unauthorised use of the Payment Instrument;
+
+(b)
+
+where the Payment Service Provider has failed at any time to provide, in accordance with Rule 19

@@ -1,0 +1,171 @@
+
+
+(b)
+
+GEN and FEES, has the meaning given in paragraph 46 of Schedule 1 of FSMR.
+
+8
+
+GLO VER23.290725
+
+Defined Terms
+
+Arranging Deals in Investments
+
+Assets
+
+Assets Requirement
+
+Associate
+
+Definitions
+
+Has the meaning given in paragraph 16 of Schedule 1 of FSMR.
+
+Means, unless specified otherwise, collateral held to cover positions and includes the right to the transfer of assets equivalent to that collateral or the proceeds of the realisation of any collateral, but does not include Default Fund Contributions.
+
+Has the meaning given in FSMR.
+
+In relation to:
+
+(a)
+
+MIR and Chapter 8 of GEN, means, in respect of a Person ‘A’ holding Shares or entitled to control the exercise of voting power in an Authorised Person or a Holding Company of an Authorised Person:
+
+(i)
+
+the spouse of A;
+
+(ii)
+
+a child or stepchild of A;
+
+(iii)
+
+the including any disposition or arrangement under which property is held on trust or subject to a comparable obligation, under which A has a life interest in possession;
+
+trustee of any settlement,
+
+(iv)
+
+an Undertaking of which A is a director;
+
+(v)
+
+a Person who is an Employee or partner of A;
+
+(vi)
+
+where A is an Undertaking:
+
+(A)
+
+a director of A;
+
+(B)
+
+a subsidiary or wholly owned subsidiary of A;
+
+(C)
+
+a director or Employee of such a subsidiary or wholly owned subsidiary; or
+
+(vii)
+
+a Person who has an agreement or arrangement with A with respect to the acquisition, holding or disposal of Shares or other interests in the Authorised Person or the Holding Company of an Authorised Person or in under which they undertake to act together exercising their voting power in relation to an Authorised Person or the Holding Company of an Authorised Person or that other Person.
+
+9
+
+GLO VER23.290725
+
+Defined Terms
+
+Associated Instruments
+
+Definitions
+
+(b)
+
+MKT, a Person (the second person) is an associate of another Person (Person ‘A’) where one or more of the following applies:
+
+(i)
+
+in the case A is a Natural Person, the second person is an Undertaking controlled by A;
+
+(ii)
+
+in the case A is an Undertaking, the second person is an Undertaking:
+
+(A)
+
+A controls; or
+
+(B)
+
+that controls A; or
+
+(C)
+
+that is controlled by any Person that controls A;
+
+(iii)
+
+the second person is a Person who is a Listed Entity with whom A has, or proposes to enter into, a relevant agreement the purpose of controlling or influencing the composition of the second person’s board or the conduct of the second person’s affairs; or
+
+for
+
+(iv)
+
+the second person is a Person who is a Listed Entity with whom A has is acting, or is proposing to act, in concert in relation to the second person’s affairs:
+
+(c)
+
+references other than in MIR, MKT and GEN Chapter 8, means, in respect of a Person ‘A’, any Person, including an affiliated company which is:
+
+(i)
+
+an Undertaking in the same Group as A; or
+
+(ii)
+
+any other Person whose business or domestic relationship with A or his Associate might reasonably be expected to give rise to a community of interest between them which may involve a conflict of interest in dealings with third parties.
+
+In all Rulebooks, where Person ‘A’ is a Natural Person, a Close Relative of A is taken to be an Associate unless the contrary is established.
+
+In relation to MKT Chapter 6, means the following Securities (including those which are not admitted to trading on a Recognised Investment Exchange, or for which a request for admission to trading on such a Recognised Investment Exchange has not been made, provided that the Regulator has agreed to standards of transparency for transactions in such Securities):
+
+10
+
+GLO VER23.290725
+
+Defined Terms
+
+Auditor
+
+Authorised Fund Manager
+
+Authorised ISPV
+
+Authorised Person
+
+Authority
+
+Bai' Bithaman Ajil
+
+Definitions
+
+(a)
+
+contracts or rights to subscribe for, acquire or dispose of Relevant Securities;
+
+(b)
+
+financial derivatives on Relevant Securities;
+
+(c)
+
+where the Relevant Securities are convertible or exchangeable debt Instruments, the Securities into which such convertible or exchangeable debt Instruments may be converted or exchanged;
+
+(d)
+
+Instruments which are issued or guaranteed by the Issuer or guarantor of the Relevant Securities and whose market price is likely to materially

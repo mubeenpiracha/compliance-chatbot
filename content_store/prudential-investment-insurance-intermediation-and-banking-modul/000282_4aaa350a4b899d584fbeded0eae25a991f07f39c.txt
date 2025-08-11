@@ -1,0 +1,139 @@
+ and PSEs, of which:
+
+21
+
+With a risk weight of less than or equal to 50%
+
+429
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+under section 4.12.
+
+22
+
+Performing residential mortgages, of which:
+
+23
+
+With a risk weight of less than or equal to 50% under section 4.12.
+
+24
+
+Securities that are not in default and do not qualify as HQLA, including exchange- traded equities
+
+25 Assets with matching
+
+interdependent liabilities
+
+26 Other Assets
+
+27
+
+Physical traded commodities, including gold
+
+28
+
+Assets posted as initial margin for derivative contracts/Shari’a compliant hedging contracts and contributions to default funds of CCPs
+
+29
+
+NSFR derivative assets
+
+30
+
+NSFR derivative liabilities before deduction of variation margin posted
+
+31
+
+All other assets not included in the above categories
+
+32 Off-balance sheet items
+
+33 Total RSF
+
+430
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+34 Net Stable Funding Ratio
+
+(%)
+
+Guidance
+
+The following Guidance is intended to assist firms to complete the above table.
+
+Data must be presented as quarter-end observations.
+
+Both unweighted and weighted values of the NSFR components must be disclosed unless otherwise indicated. Weighted values are calculated as the values after ASF or RSF Factors are applied.
+
+In completing the NSFR disclosure table, Authorised Firms should follow the instructions below. The numbers in the instructions correspond to the relevant row numbers in the quantitative disclosures section of the table.
+
+1.
+
+Capital is the sum of rows 2 and 3.
+
+2.
+
+Regulatory capital before the application of capital deductions.
+
+3.
+
+Total amount of any capital instruments not included in row 2.
+
+4.
+
+Retail deposits/PSIAs and deposits from small business customers, as defined in Rule A9.2.15 in App 9.
+
+5.
+
+Stable deposits/PSIAs comprise “stable” (as defined in Rule A9.2.15 in App 9) non-maturity (demand) deposits/PSIAs and/or term deposits/PSIAs provided by retail and small business customers.
+
+6.
+
+Less stable deposits/PSIAs comprise “less stable” (as defined in Rule A9.2.15 in App 9) non- maturity (demand) deposits/PSIAs and/or term deposits/PSIAs provided by retail and small business customers.
+
+7. Wholesale funding is the sum of rows 8 and 9.
+
+8.
+
+Operational deposits/PSIAs: As defined in section A9.2 in App 9, including deposits/PSIAs in institutional networks of cooperative banks.
+
+9.
+
+Other wholesale funding including funding (secured and unsecured) provided by non-financial corporate customer, sovereigns, public sector enterprises (PSEs), multilateral and national development banks, central banks and financial institutions.
+
+10.
+
+Liabilities with matching interdependent assets.
+
+11. Other liabilities are the sum of rows 12 and 13.
+
+12.
+
+In the unweighted cells, report NSFR derivatives liabilities as calculated according to section 9.4 of App 9. There is no need to differentiate by maturities. The weighted value under NSFR derivative liabilities is cross-hatched given that it will be zero after the 0% ASF Factor is applied.
+
+13. All other liabilities and equity not included in above categories.
+
+14.
+
+Total ASF is the sum of all weighted values in rows 1, 4, 7, 10 and 11.
+
+431
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+15.
+
+Total HQLA as defined in section A9.2 in App 9 (encumbered and unencumbered), without regard to LCR operational requirements and LCR caps on Level 2 and Level 2B assets that might otherwise limit the ability of some HQLA to be included as eligible in calculation of the LCR, where:
+
+a. encumbered assets include assets backing securities or covered bonds; and
+
+b. unencumbered means free of legal

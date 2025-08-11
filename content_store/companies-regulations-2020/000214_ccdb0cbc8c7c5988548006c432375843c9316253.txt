@@ -1,0 +1,173 @@
+)
+
+the company, and
+
+(b)
+
+every officer of the company who is in default.
+
+(2)
+
+A person who commits a contravention under this section is liable to a level 2 fine.
+
+(3)
+
+In the case of refusal of an inspection required under section 642(6) the Court may by order compel an immediate inspection.
+
+644. No assignment of company’s right to purchase own shares
+
+The rights of a company under a contract authorised under-
+
+(a)
+
+section 633 (authority for off-market purchase for the purposes of or pursuant to an employees’ share scheme),
+
+(b)
+
+section 634 (authority for off-market purchase), or
+
+(c)
+
+section 641 (authority for market purchase)
+
+are not capable of being assigned.
+
+645. Payments apart from purchase price to be made out of distributable profits
+
+(1)
+
+A payment made by a company in consideration of-
+
+368
+
+(a)
+
+acquiring any right with respect to the purchase of its own shares in pursuance of a contingent purchase contract approved under section 634 (authority for off- market purchase),
+
+(b)
+
+the variation of any contract approved under that section, or
+
+(c)
+
+the release of any of the company’s obligations with respect to the purchase of any of its own shares under a contract-
+
+(i)
+
+approved under section 634 (authority for off-market purchase), or
+
+(ii)
+
+authorised under section 641 (authority for market purchase),
+
+must be made out of the company’s distributable profits.
+
+(2)
+
+If this requirement is not met in relation to a contract, then-
+
+(a)
+
+in a case within subsection 645(1)(a), no purchase by the company of its own shares in pursuance of that contract may be made under this Chapter,
+
+(b)
+
+in a case within subsection 645(1)(b), no such purchase following the variation may be made under this Chapter,
+
+(c)
+
+in a case within subsection 645(1)(c), the purported release is void.
+
+646. Treatment of shares purchased
+
+Where a limited company makes a purchase of its own shares in accordance with this Chapter, then-
+
+(a)
+
+if section 666(treasury shares) applies, the shares may be held and dealt with in accordance with Chapter 6,
+
+(b)
+
+if that section does not apply-
+
+(i)
+
+the shares are treated as cancelled, and
+
+(ii)
+
+the amount of the company’s issued share capital is diminished accordingly by the issue price of the shares cancelled.
+
+647. Return to Registrar of purchase of own shares
+
+(1) Where a company purchases shares under this Chapter, it must deliver a return to the Registrar within the period of one month beginning with the date on which the shares are delivered to it, but not if it is a restricted scope company in which case this section shall not apply.
+
+(2)
+
+The return must distinguish-
+
+(a)
+
+shares in relation to which section 666 (treasury shares) applies and shares in relation to which that section does not apply, and
+
+(b)
+
+shares in relation to which that section applies-
+
+(i)
+
+that are cancelled forthwith (under section 670 (cancellation of treasury shares)), and
+
+(ii)
+
+that are not so cancelled.
+
+(3)
+
+The return must state, with respect to shares of each class purchased-
+
+369
+
+(a)
+
+the number and aggregate price of the shares purchased, and
+
+(b)
+
+the date on which they were delivered to the company.
+
+(4)
+
+In the case of a public company the return must also state-
+
+(a)
+
+the aggregate amount paid by the company for the shares, and
+
+(b)
+
+the maximum and minimum prices paid in respect of shares of each class purchased.
+
+(5)
+
+Particulars of shares delivered to the company on different dates and under different contracts may be included in a single return.
+
+In such a case the amount required to be stated under subsection 647(4)(a) is the aggregate amount paid by the company for all the shares to which the return relates.
+
+(6)
+
+If default is made in complying with this section a contravention of these Regulations is committed by every officer of the company who is in default.
+
+(7)
+
+A person who commits a contravention under this section is liable to a level 1 fine.
+
+648. Notice to Registrar of cancellation of shares
+
+(1)
+
+If on the purchase by a company of any of its own shares in accordance with this Part-
+
+(a)
+
+section 666 (treasury shares) does

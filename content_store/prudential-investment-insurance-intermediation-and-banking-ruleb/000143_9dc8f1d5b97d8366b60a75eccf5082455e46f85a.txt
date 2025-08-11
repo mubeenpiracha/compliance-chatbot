@@ -1,0 +1,129 @@
+'s business aims in incurring Credit Risk including:
+
+i.
+
+identifying the types and sources of Credit Risk to which the Authorised Person wishes to be exposed (and the limits on that Exposure) and those to which the Authorised Person wishes not to be exposed;
+
+ii.
+
+specifying the level of diversification required by the Authorised Person and the Authorised Person's tolerance for risk concentrations and the limits on those Exposures and concentrations; and
+
+iii.
+
+stating the risk-return that the Authorised Person is seeking to achieve on Credit Risk Exposures;
+
+c.
+
+types of facilities to be offered, along with ceilings, pricing, profitability, maximum maturities and maximum debt-servicing ratios for each type of lending;
+
+d.
+
+a ceiling for the total loan portfolio, in terms, for example, of the loan-to-Deposit ratio, undrawn commitment ratio, a maximum dollar amount or a percentage of capital base;
+
+e.
+
+portfolio limits for maximum aggregate Exposures by country, industry, category of borrower/Counterparty (e.g. banks, non-bank Financial Institutions, corporates and retail), product (e.g. property lending), Groups of related parties and single borrowers;
+
+f.
+
+limits, terms and conditions, approval and review procedures and records kept for Connected lending - all Authorised Persons should have a formal policy statement, endorsed by the Governing Body, on such lending covering these matters;
+
+g.
+
+types of acceptable Collateral, loan-to-value ratios and the criteria for accepting guarantees; and
+
+259
+
+PRU VER17.290725
+
+2.
+
+3.
+
+4.
+
+h.
+
+how Credit Risk is assessed both when credit is granted or incurred and subsequently, including how the adequacy of any security and other risk mitigation techniques are assessed;
+
+i.
+
+the detailed limit structure for Credit Risk, which should:
+
+i.
+
+address all key risk factors, including intra-Group Exposures;
+
+ii.
+
+be commensurate with the volume and complexity of activity; and
+
+iii.
+
+be consistent with the Authorised Person's business aims, historical performance, and the level of capital the Authorised Person is willing to risk;
+
+j.
+
+procedures for:
+
+i.
+
+approving new products and activities which give rise to Credit Risk;
+
+ii.
+
+regular risk position and performance reporting;
+
+iii.
+
+limit exception reporting and approval; and
+
+iv.
+
+identifying and dealing with problem Exposures;
+
+k.
+
+the allocation of responsibilities for implementing the Credit Risk policy and for monitoring adherence to, and the effectiveness of, the policy; and
+
+l.
+
+the required information systems, staff and other resources.
+
+The Credit Risk policy should emphasize the principles of prudence and should be enforced consistently. The policy and its implementation should ensure that credit facilities are only granted to credit-worthy customers and that risk concentrations are avoided.
+
+The Credit Risk strategy and policy need to be clearly disseminated to, and understood by all relevant staff.
+
+The Credit Risk policy of an Authorised Person should clearly specify the delegation of its credit approval authorities. Credit authority thus delegated should be appropriate for the products or portfolios assigned to the credit committee or individual credit officers and should be commensurate with their credit experience and expertise. An officer's credit authority may, however, be increased on the basis of his or her track record. An Authorised Person should ensure that credit authority is required for acquiring any types of credit Exposures, including the use of Credit Derivatives for hedging or income generation.
+
+260
+
+PRU VER17.290725
+
+5.
+
+Credit authority delegated to the credit committee and each credit officer should be subject to regular review to ensure that it remains appropriate to current market conditions and the level of their performance.
+
+6.
+
+An Authorised Person's remuneration policies applicable to all staff should be consistent with its Credit Risk strategy.
+
+The policies should not encourage officers to generate short-term profits by taking an unacceptably high level of risk.
+
+Counterparty Risk assessment
+
+7.
+
+The Authorised Person should make a suitable assessment of the risk profile of its Counterparties. The factors to be considered will vary according to both the type of credit and Counterparty such as whether the Counterparty is a company or a sovereign Counterparty and may include:
+
+a.
+
+the purpose of the credit and the source of repayment;
+
+b.
+
+an assessment of the skill, integrity and quality of management and overall reputation of the Counterparty;
+
+c.
+
+the legal capacity of the Counterparty to assume the liability to the Authorised

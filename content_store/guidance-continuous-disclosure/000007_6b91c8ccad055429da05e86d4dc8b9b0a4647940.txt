@@ -1,0 +1,23 @@
+ from, or engagement with, the Listing Authority should not be taken to constitute legal advice pertaining to a Reporting Entity’s obligations. BECOMING AWARE OF INSIDE INFORMATION
+
+37)
+
+In considering the operation of Rule 7.2.1,6 the concept of ‘awareness’, or knowledge, of Inside Information is central to operation of FSRA’s continuous disclosure framework. In interpreting Rule 7.2.1, the Listing Authority considers that a Reporting Entity7 becomes ‘aware’ of Inside Information if, and as soon as, an Officer8 of the Reporting Entity has, or ought reasonably to have, come into possession of the Inside Information in the course of the performance of their duties as an Officer of that Reporting Entity.
+
+38) The extension of a Reporting Entity’s ‘awareness’ to include information that its Officers ‘ought reasonably have come into possession of’ (over and above information that its Officers, in fact, ‘know’) means that a Reporting Entity is considered to be ‘aware’ of Inside Information if the information is known by anyone within the Listed Entity, and is of such significance that it ought reasonably to have been brought to the attention of an Officer of the Listed Entity. Without this extension to the concept of ‘awareness’, a Reporting Entity would be able to avoid, or delay, meeting its continuous disclosure obligations in circumstances where Inside Information had not been brought to the attention of its Officers in a timely manner by others within the Listed Entity. A Listed Entity will need to ensure that it has in place internal systems, processes and controls to ensure that Inside Information is promptly brought to the attention of its Officers. 6 See paragraph 15 above. 7 Refer to paragraph 8 for the interchangeability, and treatment, of Listed Entities and Reporting Entities. 8 In addition to its meaning given in GLO, the term ‘Officer’ can also include any person who participates in making decisions that affect the whole, or a substantial, part of a Listed Entity’s business.
+
+8
+
+VER01.280922
+
+39)
+
+In regard to Rule 7.2.1, the first question that an Officer of a Reporting Entity should therefore consider is whether the Reporting Entity is aware of any Inside Information. If yes, that Officer must consider, immediately,9 whether that Inside Information must be Disclosed. Suitable systems and procedures must therefore be implemented by a Reporting Entity to ensure that Inside Information is promptly identified by, or within, a Listed Entity (in light of the ‘awareness’ extension discussed in paragraph 38 above) and a decision is taken as to whether a Disclosure is required.
+
+40)
+
+It is possible that a member of the senior management of a Listed Entity may be aware of information about an internal matter or proposal that, until such time as the Board of the Listed Entity formally signs off on the internal matter or proposal, will not be regarded as Inside Information.10 There is a distinction between an Officer of a Listed Entity making a recommendation that requires Board approval (such as a management recommendation to return capital to shareholders), and an event or fact that arises independently of any decision by the Listed Entity (such as notice from a third party to terminate a material contract or agreement). In the case of the latter, a Reporting Entity cannot delay Disclosure of this information pending formal sign-off by the Board of the Listed Entity. This will also be the case if there is Inside Information underlying a recommendation to the Board of the Listed Entity.
+
+41) A Listed Entity may receive information about a particular event or circumstance in instalments over time. In some cases, the initial information about the event or circumstance is such that the Listed Entity cannot reasonably form a view on whether the information constitutes Inside Information and the Listed Entity/Reporting Entity may, therefore, need to wait for further, more complete, information, or make further enquiries, or obtain expert advice, in order to form a view.11 In such a case, a Listed Entity will only become aware of Inside Information that needs to be Disclosed under Rule 7.2.1 when an Officer has, or ought reasonably to have, come €nto possession of sufficient information about the event or circumstance in order to be able to determine it represents Inside Information.
+
+42) Reporting Entities should not be tempted to use this as an avenue to avoid, or delay, meeting its continuous disclosure obligations, by forming a ‘convenient’ view that it needs further information before it can assess if such information represents Inside

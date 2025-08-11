@@ -1,0 +1,55 @@
+OD), facilitating non-corporate issued devices access to corporate resources has productivity and cost benefits for a financial institution, but also presents risks as such devices may have varied security postures and will expand the attack surface for threat actors. A financial institution that allows staff, contractors and third parties to use non- corporate issued devices to connect to the corporate network should implement measures to prevent unauthorised access and data loss.
+
+7.4.3
+
+Virtual machines allow financial institutions to quickly provide numerous virtual environments that are accessible from any connected device. A financial institution should establish processes to govern the lifecycle of virtual machines and ensure that they are configured to established standards and regularly updated. Processes should also be in place to ensure that data in virtual machines are securely stored and protected from unauthorised access or compromise. Where applicable, the financial
+
+16 Domain Name System Security Extensions (DNSSEC) strengthens authentication in DNS using digital signatures based on public key cryptography. It comprises a suite of extension specifications by the Internet Engineering Task Force for securing data exchanged in the Domain Name System in Internet Protocol networks. 17 Sender Policy Framework (SPF) and DomainKeys Identified Mail (DKIM) are methods to detect forged sender addresses while Domain-based Message Authentication, Reporting and Conformance (DMARC) enables domain owners to protect their domain from unauthorised use.
+
+48
+
+VER01.201124
+
+institution should implement controls or adopt virtualisation software that can prevent data loss from the connecting physical device’s memory e.g., memory encryption.
+
+7.4.4
+
+A financial institution that enables its staff, contractors and third parties to interact with the corporate environment or access corporate data via mobile applications should adopt solutions that securely govern the access and use of corporate resources.
+
+7.4.5 Where possible, a financial institution should implement capabilities that ascertain the security posture of the non-corporate issued device prior to providing access to corporate resources. Devices that fail the security posture assessment (e.g., not updated to latest software version, jailbroken or rooted mobile devices, malware infected devices, etc.) should be denied access unless the virtual machine or mobile application has robust security measures that insulates corporate resources effectively to prevent compromise. In the event the non-corporate device is lost or stolen, the financial institution should be able to remotely wipe any corporate data.
+
+7.4.6
+
+A financial institution should enforce strict security policies on the transmission of data or programs into and out of virtual machines or mobile applications to prevent threat actors from inserting malware or extracting data for exploitation.
+
+Web Services for Automation and Collaboration
+
+7.4.7
+
+There are innumerable work automation and collaboration services available over the internet that financial institutions could subscribe to and avoid investing in developing their own solutions or purchasing products to be run on corporate infrastructure. While cost efficient and accessible from any internet connected device, a financial institution should be aware of the confidentiality, integrity, and availability risks associated with such services.
+
+7.4.8
+
+A financial institution should perform due diligence on the web service’s track record, service standards, resilience arrangements, alignment with required business need, and past reported incidents of unavailability or data compromise. Approval from an appropriate level of management within the financial institution should be sought prior to use of the web service.
+
+7.4.9
+
+If a financial institution adopts commercial mobile applications for work productivity or collaboration purposes, due diligence on the vendor and its product’s security posture should be performed to ensure that corporate resources accessed by the mobile application are not at risk.
+
+Desired Outcome 7.5 – Updating the Environment
+
+7.5.1
+
+A financial institution may have separate IT environments for development activities, testing prior to deployment, and a live environment containing production systems supporting business functions. Access to each environment should be strictly controlled on a needs-basis and any interaction between environments should be stringently monitored to prevent unauthorised activities, contamination of data, or infections from malware.
+
+49
+
+VER01.201124
+
+7.5.2 Where data from the production system is required for use in non-production environments for testing or development activities, steps should be taken to obtain appropriate approvals, mitigation measures in place to ensure personal data protection, and strict access controls in place to stringently manage the data transfer process to prevent data leakage.
+
+Change Management
+
+7.5.3
+
+A financial institution should establish a change management process to ensure that IT assets are not altered without oversight or in a way that disrupts business operations

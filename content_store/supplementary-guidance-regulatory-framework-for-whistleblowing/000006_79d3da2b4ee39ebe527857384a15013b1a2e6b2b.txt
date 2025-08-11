@@ -1,0 +1,83 @@
+ in FSMR and AML. 5 As defined in the Distributed Ledger Technology Foundations Regulations 2023.
+
+b)
+
+holds, administers or controls assets with an aggregate value exceeding USD 13.5 million at any point during a financial year; and
+
+c)
+
+more than 35 employees in the same financial year that either of the financial thresholds set out in (a) or (b) above are met.
+
+10.6 The turnover threshold is reached when an ADGM entity achieves more than USD 13.5 million turnover in a financial year. If applicable, where the ADGM entity is a parent company, the RA considers that the turnover of such ADGM entity should be calculated on a group basis in accordance with section 370 of CR 2020. If the group headed by the parent ADGM entity qualifies as a small group in a financial year, then the parent ADGM entity will qualify as a small company and not a Large Establishment in that financial year. For a period that is an ADGM entity’s financial year but not in fact a year, the maximum figures for turnover must be proportionately adjusted. Determination of the number of employees in any financial year should follow the approach set out in section 369 of CR 2020.
+
+10.7 Taking a risk-based and proportionate approach, it is expected that written
+
+whistleblower policies and procedures would address the following as a minimum:
+
+a)
+
+entity’s whistleblowing Periodic policies/procedures, including the available internal and external reporting channels and the confidentiality and non-retaliation protections.
+
+communication
+
+of
+
+the ADGM
+
+b)
+
+Identification of appropriate Disclosures.
+
+internal reporting channels
+
+for Protected
+
+c)
+
+Mechanisms to provide feedback to a whistleblower, where appropriate.
+
+d)
+
+Processes to protect the identity of a whistleblower where the disclosure is made confidentially, including protecting the content of a disclosure and allowing for anonymous reporting.
+
+e)
+
+Reasonable measures to protect a whistleblower from retaliation.
+
+f)
+
+Procedures to assess a Protected Disclosure in order to identify the next steps required, including investigation where warranted.
+
+g)
+
+Procedures to escalate a Protected Disclosure, where necessary, within the entity and to the relevant ADGM or UAE authorities, where appropriate.
+
+h)
+
+The approach that will be taken to ensure the fair and objective treatment of all persons accused of wrongdoing by a whistleblower, including how to address any conflict of interests that may arise.
+
+10.8 Policies and procedures should be developed and approved following the ADGM
+
+entity’s applicable governance arrangements.
+
+10.9 Written policies and procedures implemented as part of a WB Program should be clear, simple, accessible and easily understood, whether they are stand-alone or incorporated into other policies or procedures.
+
+10.10 It is not required to file with the RA copies of written policies and procedures, nor a
+
+confirmation of steps taken to implement the WB Regulations.
+
+11.
+
+RECORD-KEEPING
+
+11.1 The WB Regulations require ADGM entities to maintain records related to a Protected Disclosure for at least six years from the date that the determination of all matters relevant to the Protected Disclosure has been completed and closed.
+
+11.2 The six-year retention period is specified as a minimum, taking into account that a more extended period may be specified in other ADGM regulations. The reference to determining all matters relevant to the Protected Disclosure is to ensure that the duration of the record-keeping requirement runs from an appropriate starting point. For example, an internal investigation or regulatory enforcement investigation or action arising in respect of the subject matter of the Protected Disclosure could run for several years. In that case, an ADGM entity should retain the relevant records for the duration of that investigation or enforcement action and any associated actions, and at least six years after that.
+
+12.
+
+CONFIDENTIALITY AND DUE PROCESS
+
+12.1 Effective whistleblowing arrangements protect the identity of a whistleblower and the subject of any disclosure through strict adherence to confidentiality principles. ADGM entities should have controls in place to prevent unauthorised access to whistleblowing disclosures, particularly any information that might inadvertently or inappropriately reveal the identity of a whistleblower or the subject(s) of any whistleblowing disclosure.
+
+12.2 Preservation of confidentiality ensures that the subject(s) of any whistleblowing disclosure are appropriately protected and reduces the risk of retaliation against the whistleblower and allegations of retaliation being made by the whistleblower. Details and identities should only be shared on a strictly ‘need to know’ basis. Management reporting, where necessary,

@@ -1,0 +1,139 @@
+.
+
+Businesses that can use this approach
+
+4.
+
+To be considered for this approach, a business should, before submitting a Licence application, demonstrate to the satisfaction of the DFSA, that:
+
+(a)
+
+there is a genuine need to test technology in a way that involves the carrying on of one or more Financial Services (i.e. it is within the scope of activities that the DFSA regulates);
+
+(b)
+
+testing will involve the use of innovative technology by offering a new type of financial product or service or by applying innovative technology to an existing financial product or service;
+
+(c)
+
+it is ready to start live-testing of its innovative technology with customers or users;
+
+(d)
+
+it understands the applicable requirements in the DIFC and how its use of innovative technology might affect its ability to comply with those requirements; and
+
+(e)
+
+it intends to roll-out its innovative technology on a broader scale in or from the DIFC once it has successfully completed testing.
+
+5.
+
+In assessing if a business involves the use of innovative technology, the DFSA will consider, among other things, its value proposition, in particular in the light of:
+
+(a)
+
+the prevalence of the technology within the DIFC, the region and the wider financial services industry; and
+
+(b)
+
+whether the technology addresses a problem or brings potential benefits to consumers or the industry.
+
+6.
+
+Where a business does not meet the criteria in paragraph 4, it should apply via the standard application process.
+
+Authorisation
+
+7.
+
+If a business involves an activity that is a Financial Service in the DIFC, it will need to obtain a Licence before it can start testing its product or service. An existing Authorised Person that wishes to test such a business should refer to the Guidance in paragraphs 26 to 28. If a business does not involve a Financial Service, a DFSA Licence will not be required to test or carry on the business in the DIFC (although other DIFC approvals may still be needed).
+
+8.
+
+An applicant will need to satisfy the requirements in GEN chapter 7 to be authorised. For example, it will need to demonstrate that it is fit and proper and has adequate financial and
+
+172
+
+GEN/VER67/03-25
+
+GENERAL (GEN)
+
+non-financial resources. In assessing the application, the DFSA, where appropriate, will take into account the limited nature of the authorisation that is being sought, that the business is only at a testing stage and the simplified regulatory requirements that are, therefore, likely to apply.
+
+9.
+
+The DFSA may also consider if it is appropriate to grant relief from certain prudential requirements (i.e. PIB or PIN Rules), conduct rules, or corporate governance arrangements, for example, taking into account that management control of a new innovative technology business usually lies with one or two individuals.
+
+Pre-application stage
+
+10.
+
+A business that wishes to apply for a Licence to test its innovative technology should complete a pre-application form.
+
+11.
+
+The DFSA will need to be satisfied that:
+
+(a)
+
+the criteria for the use of the approach are met (see paragraph 4); and
+
+(b)
+
+the information provided in the pre-application form is complete and appropriate,
+
+before the business submits its Licence application
+
+Licence application and Test Plan
+
+12.
+
+Following the successful completion of the pre-application stage, a business should submit its application for a Licence.
+
+13.
+
+The applicant will need to provide a detailed test plan (a Test Plan) with its Licence application. The Test Plan must clearly describe:
+
+(a)
+
+the business and the proposed innovative product or service;
+
+(b)
+
+the objectives and parameters for the testing of the product or service;
+
+(c)
+
+the timeline and key milestones for testing;
+
+(d)
+
+the number and type of customers that will take part in testing and how they will be sourced;
+
+(e)
+
+the key risks of testing and how they will be mitigated;
+
+(f)
+
+how the business will ensure that customers understand that the product or service is being tested and the resulting risks;
+
+(g)
+
+the safeguards that will be put in place to adequately protect customers in the event of a problem arising from use of the technology or the business failing;
+
+(h)
+
+how communications with customers will be handled before, during and after testing, including how the business will deal with queries, feedback and complaints;
+
+(i)
+
+how the success of the testing will be measured;
+
+(j)
+
+how testing progress will be reported to the DFSA;
+
+(k)
+
+the next steps if the testing is successful

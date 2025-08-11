@@ -1,0 +1,167 @@
+
+
+3A.1.1 In this chapter:
+
+(a)
+
+“Algorithmic Token” means a Crypto Token which uses, or purports to use, an algorithm to increase or decrease the supply of Crypto Tokens in order to stabilise its price or reduce volatility in its price;
+
+(b)
+
+“application” means an application to the DFSA for recognition of a Crypto Token;
+
+(c)
+
+“Privacy Device” means any technology, Digital Wallet or other mechanism or device (excluding a VPN), which has any feature or features used, or intended to be used, to hide, anonymise, obscure or prevent the tracing of any of the following information:
+
+(i)
+
+a Crypto Token transaction;
+
+(ii)
+
+the identity of the holder of a Crypto Token;
+
+(iii)
+
+the cryptographic key associated with a person;
+
+(iv)
+
+the identity of parties to a Crypto Token transaction;
+
+(v)
+
+the value of a Crypto Token transaction; or
+
+(vi)
+
+the beneficial owner of a Crypto Token;
+
+(d)
+
+“Privacy Token” means a Crypto Token where the Crypto Token or the DLT or other similar technology used for the Crypto Token, has any
+
+60
+
+GEN/VER67/03-25
+
+GENERAL (GEN)
+
+feature or features that are used, or intended to be used, to hide, anonymise, obscure or prevent the tracing of any of the information referred to in (c)(i) to (vi);
+
+(e)
+
+“Recognised Crypto Token” means a Crypto Token which:
+
+(i)
+
+is included on the Initial List published by the DFSA under section 3A.4; or
+
+(ii)
+
+the DFSA has recognised under Rule 3A.3.4;
+
+(f)
+
+“recognition” means recognition of a Crypto Token by the DFSA under section 3A.3; and
+
+(g)
+
+“VPN” means a virtual private network that creates a safe, encrypted online connection for internet users.
+
+3A.1.2 (1)
+
+For the purposes of this chapter, a Fund invests in a Crypto Token if:
+
+(a)
+
+any of its property includes the Crypto Token;
+
+(b)
+
+it has a derivative exposure to the Crypto Token;
+
+(c)
+
+it tracks an index that includes the Crypto Token; or
+
+(d)
+
+it invests in another Fund or entity which:
+
+(i)
+
+has property that includes the Crypto Token;
+
+(ii)
+
+has a derivative exposure to the Crypto Token; or
+
+(iii)
+
+tracks an index that includes the Crypto Token,
+
+(2)
+
+An investment in another Fund or entity referred to in (1)(d) is to be disregarded under that paragraph if the total aggregate exposure of that other Fund or entity under (d)(i), (ii) and (iii) to all Crypto Tokens does not exceed 5% of the gross value of the Fund or entity.
+
+3A.1.3 For the purposes of this chapter, a Derivative or instrument relates to a Crypto Token if the value of the Derivative or instrument is determined by reference to:
+
+(a)
+
+the Crypto Token; or
+
+(b)
+
+an index that includes the Crypto Token.
+
+3A.2 Prohibitions relating to Crypto Tokens
+
+Only Recognised Crypto Tokens to be used in the DIFC
+
+3A.2.1 (1)
+
+A Person must not engage in any of the following activities in or from the DIFC in relation to a Crypto Token unless it is a Recognised Crypto Token:
+
+(a)
+
+carry on a Financial Service relating to the Crypto Token;
+
+61
+
+GEN/VER67/03-25
+
+GENERAL (GEN)
+
+(b)
+
+make or approve a Financial Promotion relating to the Crypto Token;
+
+(c)
+
+Offer to the Public the Crypto Token;
+
+(d)
+
+carry on an activity referred to in (a), (b) or (c) in relation to a Fund that invests in the Crypto Token; or
+
+(e)
+
+carry on an activity referred to in (a), (b) or (c) in respect of a Derivative or instrument relating to the Crypto Token.
+
+(2)
+
+The prohibition in (1)(a) does not apply to an Authorised Person to the extent that it Provides Custody of a Crypto Token.
+
+(3)
+
+The prohibition in (1)(d) does not apply in relation to a Fund if:
+
+(a)
+
+it is established or domiciled in the DIFC and is a Qualified Investor Fund;
+
+(b)
+
+it invests not more than 30% of the gross asset value of the Fund in Crypto

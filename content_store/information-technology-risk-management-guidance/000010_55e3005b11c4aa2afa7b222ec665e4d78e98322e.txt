@@ -1,0 +1,65 @@
+ provided by the Basel Committee on Banking Supervision, operational risk is the risk of loss resulting from inadequate or failed internal processes, people and systems or from external events. This definition includes legal risk but excludes strategic and reputational risk.
+
+16
+
+VER01.201124
+
+2.3.8
+
+Financial institutions should ensure that the risk assessment framework has a common definition and measure of risk across all domains. For example, a financial institution may define risk as the product of likelihood and impact and use the same measurement scale to measure likelihood and impact across all domains. This will provide a common basis for financial institutions to assess risk and reduces the likelihood that IT and business teams have a different understanding of the severity of any risk rating.
+
+Risk Acceptance
+
+2.3.9
+
+It is rarely possible to both eliminate all risk and meet business objectives. Even after controls have been put in place to mitigate a risk, a residual risk may remain. In some cases, it may not be feasible to put risk controls in place in the short term, such as for legacy systems that are out of support. In such cases, the residual risk will remain until a more long-lasting risk control is implemented, such as replacing the legacy system.
+
+2.3.10 To manage residual risk effectively, the Governing Body and senior management should have a well-articulated risk appetite/tolerance that can guide decision making throughout the financial institution. Consequently, all key IT decisions should align with the financial institution's risk appetite/tolerance, with exceptions allowed only in extraordinary circumstances, such as emergencies, and subject to approval at an appropriate level of management.
+
+2.3.11 Financial institutions should ensure that risk owners are aware of the inherent risk and the current residual risk for their risk sources. Financial institutions should implement controls to reduce the residual risk to an acceptable level consistent with the established risk appetite/tolerance or replace the risk source with an acceptable alternative.
+
+2.3.12 For residual risk acceptance, financial institutions should have a process in place for the risk owner to seek approval from an appropriate level of management or from the Governing Body depending on the risk to be accepted.
+
+2.3.13 Financial institutions should ensure that risk owners’ accountability is commensurate with their authority and competence. For example, senior management should avoid assigning accountability for material or critical risk sources to staff who are not trained or do not have the requisite experience to manage such risks.
+
+2.3.14 As part of its risk management framework, the financial institution may consider obtaining insurance coverage for IT risk events. While such a risk management measure can aid the financial institution in weathering the financial impact of risk events, it should not be used as a crutch to absolve the financial institution of its responsibility to implement robust controls to prevent risk events from occurring.
+
+Risk Register
+
+2.3.15 Financial institutions should have an accurate and up-to-date register of IT risks it is
+
+exposed to. The register should record:
+
+17
+
+VER01.201124
+
+2.3.15.a
+
+the risk owner for the risk;
+
+2.3.15.b a description of the risk;
+
+2.3.15.c
+
+the materiality of the risk to the financial institution;
+
+2.3.15.d risk indicators with thresholds that would trigger actions to be taken by the
+
+financial institution;
+
+2.3.15.e controls applied to mitigate the risk and the residual risk; and
+
+2.3.15.f whether the risk owner has accepted the residual risk, if any.
+
+2.3.16 Financial institutions should regularly update the register in response to changes to the risk sources as well as changes in the IT or business environment. This will ensure that there is a common understanding of the risks faced by the financial institution. The financial institution should also make a record of what changes have been made to the register to track the evolution of the financial institution’s risk profile.
+
+Desired Outcome 2.4 – Risk Monitoring
+
+2.4.1
+
+Risk controls may not always function as intended and changes in the environment could degrade their effectiveness. This could lead to financial institutions having a false sense of security, being exposed to more risk than is acceptable. It is therefore crucial that financial institutions monitor the effectiveness and adequacy of their risk controls on an ongoing basis.
+
+2.4.2
+
+Financial institutions should define metrics to measure the effectiveness of their risk controls. As far as possible, financial institutions should seek to use common metrics

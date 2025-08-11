@@ -1,0 +1,49 @@
+ on an analyst’s forecast or consensus estimate, the Listing Authority may require the Reporting Entity to clarify in its Disclosure which particular analyst forecast is being commented on, the range of the forecast, and if the range of the forecast is wide, where within the range the Listed Entity’s earnings guidance has fallen. Significant differences to earnings guidance
+
+163) For many Listed Entities, the market’s expectation of its earnings (for the current and/or future reporting periods) will often be a significant drive of the price of the Listed Entities Securities. The market’s expectations may have derived from:
+
+a)
+
+earlier earnings guidance50 Disclosed by the Reporting Entity;
+
+b)
+
+in the case of (e.g., smaller Market Capitalisation) Listed Entities not covered by brokers/analysts, the financial performance of the previous corresponding reporting period;51 or
+
+c)
+
+in the case of (e.g., larger Market Capitalisation) Listed Entities that are covered by brokers/analysts, the earnings forecasts provided by the brokers/analysts.
+
+164) Market expectations may also have been set, or modified, by an ‘outlook statement’ in a previous period’s annual report/annual financial statement, ‘results’ Disclosure or other relevant Disclosure made by the Reporting Entity over the reporting period. Some Reporting Entities Disclose, for example, periodic (monthly or quarterly) production reports, sales reports or other metrics, allowing the Reporting Entity to send an early signal of a change in earnings. Some Reporting Entities also provide an ‘outlook’ update at their annual general meeting, or within the Disclosure of their half year or full year financial results.
+
+165) If a Reporting Entity becomes aware that its earnings for the current reporting period will significantly differ from market expectations it needs to carefully consider whether it has an obligation to Disclose this information. The obligation to Disclose may arise under Rule 7.2.152 if the difference is of such a magnitude that a reasonable person would expect it to have a significant effect on the price of a Listed Entity’s Securities.
+
+50 References to ‘earnings guidance’ should be interpreted broadly to include any type of guidance that a Reporting Entity may Disclose in relation to expected earnings for the current reporting period regardless of the particular metric used (e.g., sales, operating revenue, EBITDA, EBIT, NPAT, or earnings per share). 51 This is the case as in the absence of any earnings guidance from the Reporting Entity, or any analyst forecasts, to help set market expectations, the Listed Entity’s/Reporting Entity’s most recently Disclosed financial performance will likely be the best guide to its future earnings. 52 The Listing Authority does not regard information that a Listed Entity’s earnings will significantly differ from market expectations as falling within any of the categories of information protected from immediate Disclosure by Rule 7.2.2(1).
+
+34
+
+VER01.280922
+
+166) The Listing Authority considers that the best guide to the market expectations of a Listed Entity’s Securities are where a Reporting Entity has, in relation to the current reporting period:53
+
+a) Disclosed earnings guidance, and even if it is covered by analysts, the earnings
+
+guidance previously Disclosed by the Reporting Entity;
+
+b) Disclosed earnings guidance, and if it is not covered by analysts, the earnings
+
+guidance previously Disclosed by the Reporting Entity;
+
+c)
+
+not Disclosed earnings guidance, and if it is covered by analysts, the earnings forecasts of those analysts; and
+
+d)
+
+not Disclosed earnings guidance, and if it is not covered by analysts, the Reporting Entity’s earnings for the previous corresponding period.
+
+Correcting analyst forecasts
+
+167) A Reporting Entity does not have an obligation under the Rules to correct the earnings forecast of an individual analyst, or the consensus estimate of any individual information vendor, nor does a Reporting Entity have an obligation to bring that external forecast, or estimate, into alignment with its own internal earnings forecast.54 It is a Reporting Entity’s obligation, however, to make a Disclosure immediately if, and when, it becomes aware that its earnings for a reporting period will significantly differ from earnings guidance it has previously Disclosed (as this represents Inside Information).
+
+168) Where a Reporting Entity becomes aware that an analyst’s forecast for its earnings significantly differs from the Listed Entity’s own internal forecast (or for that matter, its Disclosed forecast or guidance), the Reporting Entity/Listed Entity may benefit by exploring with the analysts the reasons for the significant difference. If

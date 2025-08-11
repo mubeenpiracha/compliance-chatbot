@@ -1,0 +1,110 @@
+URANCE INTERMEDIATION AND BANKING (PIB)
+
+(a)
+
+he is Connected to the first Person;
+
+(b)
+
+he is an Associate of the first Person;
+
+(c)
+
+the same Persons significantly influence the Governing Body or senior management of each of them;
+
+(d)
+
+one of those Persons has an Exposure to the other that was not incurred for the clear commercial advantage of both of them and which is not on arm's length terms; or
+
+(e)
+
+one of those Persons:
+
+(i)
+
+has influence over the appointment or dismissal of the Board or senior management of the other party;
+
+(ii)
+
+is entitled to exercise, or controls the exercise of 50% or more of the voting rights in the other party including through voting agreements; or
+
+(iii)
+
+has effective control over the other party under the criteria adopted by the International Financial Reporting Standards.
+
+(2)
+
+A Person is not to be treated as a Connected Counterparty under (1), where an Authorised Firm can satisfy the DFSA that effective governance and controls are in place to mitigate risks resulting from effective control of one Person by the other and the DFSA has, by notice in writing, specified that they are not to be so treated.
+
+Guidance:
+
+A group of Connected Counterparties would be considered to be such where the entities share the same ultimate owner even though they may not be formally structured as a Group.
+
+Exposures to transactions, schemes or Funds
+
+A4.11.8 (1) Where an Authorised Firm has an Exposure to a transaction, scheme,
+
+Fund, or other Exposure to a pool of underlying Exposures, the Authorised Firm must assess the Exposure to determine whether the Exposure is to a group of Closely Related Counterparties in its economic substance.
+
+(2) Where the Exposure is to a group and the Authorised Firm can demonstrate that the Exposure amount to each underlying asset of the structure is less than 0.25% of its Tier 1 Capital, the Authorised Firm may assign the Exposure amount to the structure itself.
+
+(3)
+
+An Authorised Firm need not look through a structure for the purposes of (2) if the Authorised Firm can demonstrate that its Exposure to each asset in the structure is less than 0.25% of its Tier 1 Capital.
+
+(4) Where the Exposure is to a group and the Authorised Firm can demonstrate that the Exposure amount to each underlying asset of the structure is equal to or exceeds 0.25% of its Tier 1 Capital, the Authorised Firm must look through the
+
+311
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+structure and identify each underlying asset and add that Exposure to the other Exposures of the same counterparty.
+
+(5)
+
+If an Authorised Firm looks through the structure to identify underlying assets and one or more underlying assets cannot be identified, the Authorised Firm must aggregate and assign that Exposure to a single "unknown customer" to which the Large Exposure limits apply.
+
+(6)
+
+If the Exposure to the underlying assets in a structure depends on the hierarchy of loss distribution to investors in the event of the winding up of the structure, an Authorised Firm must treat its Exposure to the structure:
+
+(a)
+
+as the pro rata share of the firm’s Exposure multiplied by the value of the underlying asset, where all investors rank equally; or
+
+(b)
+
+as the pro rata share of the firm’s investment in the structure multiplied by the lower of the tranche value or the nominal value of the underlying assets in the structure, where the seniority differs.
+
+(7)
+
+An Authorised Firm must aggregate its Exposures to any additional risks inherent in the structure itself, if that would result in Exposures to the same third party.
+
+Guidance:
+
+1. When considering this Rule the Authorised Firm should consider the following factors:
+
+a.
+
+the structure, independence and control of the arrangements;
+
+transaction, including governance
+
+b.
+
+the inter relatedness of the underlying Exposures;
+
+c.
+
+beneficial owners of the underlying Exposures and whether they could be deemed Connected or Closely Related; and
+
+d.
+
+whether the transactions are conducted on an arm’s length basis.
+
+2.
+
+An Authorised Firm should look through the structure to determine whether there are any Counterparties or Exposures that should be considered a Concentration Risk.
+

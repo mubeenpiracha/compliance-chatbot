@@ -1,0 +1,135 @@
+ of hands or on a poll) for and against the resolution at a general meeting or class meeting of Unitholders, of which notice specifying the intention to propose the resolution as a special resolution has been duly given.
+
+(2)
+
+In relation to a company (that is not a Domestic Fund), a resolution passed by at least seventy five per cent (75%) of the votes of such Shareholders as (being entitled to do so) vote in person or, where proxies are allowed, by proxy, at a general meeting for which notice specifying the intention to propose the resolution has been duly given.
+
+The risk that losses on an Authorised Firm’s net long or short position in an individual equity or Security may arise from a negative or positive price movement of that equity or Security relative the relevant market generally.
+
+to
+
+An Authorised Firm that repackages third party assets into a securitisation scheme. Where an directly Authorised Firm repackages non-Investment Grade third party assets, it may fall within the definition of an Originator unless it originates or repackages no more than 10% of the scheme’s total assets.
+
+Shari’a Supervisory Board.
+
+A Securities Settlement System.
+
+A Person appointed by a Stabilisation Manager under PRS Rule 3.4.1 to assist him in conducting Price Stabilisation. A Person appointed by an Issuer of Shares under PRS Rule 3.2.1 to conduct Price Stabilisation.
+
+The period of time specified in PRS Rule 1.4.1(2) during which Price Stabilisation may occur. The U.A.E.
+
+70
+
+GLO/VER62/07-25
+
+Defined Term
+
+Statement by Directors
+
+Statement of Recommended Practice (SORP)
+
+Stored Value
+
+Stored Value Issuer
+
+Structured Product
+
+Sub-Fund
+
+Subsidiary
+
+Summary
+
+Supplementary Notes
+
+Supplementary Prospectus
+
+Suspicious Activity Report (SAR)
+
+GLOSSARY (GLO)
+
+Definition
+
+The statement described under PIN section A10.5.
+
+The Statement of Recommended Practice as issued and amended Investment Management Association (IMA) in the United Kingdom.
+
+from
+
+time
+
+to
+
+time by
+
+the
+
+Has the meaning given in GEN Rule 2.6.1(2).
+
+A Person that issues Stored Value.
+
+Has the meaning given in GEN Rule A2.2.1(f).
+
+A separate pool of Fund Property within an Umbrella Fund.
+
+Has the meaning given in Schedule 1 to the Companies Law and, without limiting the generality of that definition, is taken to include, in relation to a relevant Body Corporate the Holding Company’s ultimate Subsidiary and any Subsidiary the Holding between Company’s ultimate Subsidiary.
+
+(the Holding Company),
+
+the Holding Company and
+
+The document referred to in MKT Rule 2.5.2(1) or in CIR Rule 14.3.1(d).
+
+A note which is supplementary to a Return.
+
+An updated or replacement Prospectus produced in accordance with Article 18 of the Markets Law 2012 or Article 52 of the Collective Investment Law 2010, as applicable.
+
+Means a report in the prescribed format regarding suspicious activity (including a suspicious transaction) made to the AMLSCU under AML Rule 13.3.1(c).
+
+71
+
+GLO/VER62/07-25
+
+T Back to top
+
+Defined Term
+
+Takaful Insurer
+
+Takeover
+
+Takeover Principle
+
+Target
+
+Target Circular
+
+Third Party Agent
+
+Third Party Digital Wallet Service Provider
+
+Third Party Service Provider
+
+Tier 1 Capital
+
+TKO
+
+Token
+
+Trade Repository
+
+GLOSSARY (GLO)
+
+Definition
+
+An Insurer, any part of whose Insurance Business consists of Takaful transactions.
+
+has the meaning given in the Markets Law 2012.
+
+means a takeover principle prescribed in Section 1.5 of TKO in accordance with Article 53 of the Markets Law 2012.
+
+includes a Reporting Entity subject to a Bid made under TKO.
+
+means a document circulated by the Governing Body of a Target in response to a Takeover as described in Section 8.2 of TKO.
+
+In relation to a Client Account, means an Authorised Firm or Regulated Financial Institution (including a bank, custodian, an intermediate broker, a settlement agent, a clearing house, an exchange and ‘over the counter’ counterparty) that is a separate legal entity from

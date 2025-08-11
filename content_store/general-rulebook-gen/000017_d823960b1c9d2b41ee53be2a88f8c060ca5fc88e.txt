@@ -1,0 +1,109 @@
+, it may not be appropriate to allow the third party to undertake such review or verification itself.
+
+3.
+
+The Regulator expects an Authorised Person to apply adequate controls on the use of subcontractors by a third party. An Authorised Person should be aware of the scope of services that are carried out by subcontractors and what actions were undertaken to mitigate Cyber Risk by both the third party and all of its subcontractors.
+
+4.
+
+A contract with a third-party provider of ICT Services should set out appropriate requirements for the deletion or return of an Authorised Person’s information at the end of the contract.
+
+Governance
+
+(1)
+
+An Authorised Person must ensure that its Governing Body and senior management are ultimately responsible for ensuring that its Cyber Risk Management Framework is implemented and integrated within its overall risk management framework and that Cyber Risk is managed effectively.
+
+(2) Without limiting the operation of (1), the responsibilities of an Authorised
+
+Person’s Governing Body and senior management in respect of Cyber Risk include:
+
+(a)
+
+ensuring that Cyber Risk is adequately identified, assessed and managed in accordance with the Authorised Person’s Cyber Risk Management Framework;
+
+(b)
+
+establishing and maintaining a senior management structure for the management of Cyber Risk and for ensuring compliance with the Authorised Person’s Cyber Risk Management Framework;
+
+(c)
+
+defining the Authorised Person’s Cyber Risk tolerance, which must be in line with its business objectives, strategy and overall risk tolerance; and
+
+(d)
+
+ensuring that relevant personnel have the necessary expertise to manage Cyber Risk.
+
+28
+
+GEN VER11.290725
+
+Guidance
+
+1.
+
+The Regulator expects the Governing Body of an Authorised Person to demonstrate a thorough understanding of all Cyber Risk to which it is or might be exposed. The Governing Body should be regularly updated on current global cyber trends and be included in Cyber Risk training, cyber awareness campaigns and similar activities conducted by the Authorised Person.
+
+2. Management information on Cyber Risk and mitigation measures should be presented to the Governing Body in a way that can be easily understood and analysed. It should include information on current and emerging Cyber Risks and the efficacy of existing mitigation measures. For example, the Regulator expects the Governing Body to be informed when the Authorised Person is exposed to Cyber Risk approaching the Authorised Person’s risk tolerance in that area.
+
+Identification and assessment of Cyber Risk
+
+(1)
+
+An Authorised Person must identify and maintain a current inventory of its ICT Assets and classify them in terms of their confidentiality and how critical they are to the support of its business functions and processes.
+
+(2)
+
+An Authorised Person must carry out an assessment of Cyber Risk associated with the assets identified in (1) regularly and no less than annually.
+
+(3) When carrying out the assessment in (2) an Authorised Person must:
+
+(a)
+
+identify threats from Cyber Incidents, including cybercrimes;
+
+(b)
+
+assess the Cyber Risk resulting from those threats and the effectiveness of relevant controls, including the outcomes of ongoing monitoring and testing undertaken in accordance with Rule 3.5.14, to arrive at the residual Cyber Risk;
+
+(c)
+
+analyse and quantify the potential impact and consequences of the residual Cyber Risk on its overall business and operations.
+
+Guidance
+
+1.
+
+The purpose of this Rule is to ensure that an Authorised Person understands which of its ICT Assets, critical operations and supporting information should be protected against Cyber Incidents, in order of priority.
+
+2.
+
+An Authorised Person’s assessment of the Cyber Risk it faces or may potentially face should be accurate, up-to-date and reviewed regularly and no less than annually.
+
+3.
+
+The assessment should include, at a minimum:
+
+29
+
+GEN VER11.290725
+
+a.
+
+an assessment of the interconnections and dependencies between the Authorised Person’s ICT Assets and its business functions and processes;
+
+b.
+
+consideration of the results of the Authorised Person’s most recent risk self-assessment, where applicable, and testing of its business continuity arrangements under Rule 3.3.33;
+
+c.
+
+consideration of Cyber Risk that third parties pose to the Authorised Person; and
+
+d.
+
+a review of the inventory of ICT Assets.
+
+4.
+
+The Regulator expects an Authorised Person to have well-defined processes and clearly assigned responsibilities for maintaining its ICT Asset inventory and assessing Cyber Risk. The ICT Asset inventory should record where each asset is stored and what it is used for. It should also include ICT Assets belonging to third parties upon

@@ -1,0 +1,107 @@
+ became indebted, on or after the date such transfer, payment, delivery, substitution or exchange was made or such obligation was incurred or such transaction was entered into.
+
+278. Pre-emption and confirmation of disapplication of certain provisions of these Regulations to netting agreements
+
+(1)
+
+Subject to sections 60 to 62 of the Bank Recovery and Resolution Regulations 2018, no stay, injunction, avoidance, moratorium, or similar proceeding or order, whether issued or granted by a Court, administrative agency, Office-holder or otherwise, shall limit or delay application of otherwise enforceable netting agreements or collateral arrangements and transactions entered into thereunder or pursuant thereto or to which an otherwise enforceable netting agreement or collateral arrangement applies.
+
+(2) Without prejudice to the foregoing provisions of this Chapter 2 (Netting and
+
+Collateral)—
+
+(a)
+
+in relation to winding-up proceedings of an insolvent party to a netting agreement or a collateral arrangement, Section 209(2) (Consequences of winding-up order) shall not apply (if it would otherwise do so)—
+
+(i)
+
+to any property or security subject to a disposition or transfer or created or otherwise arising under a netting agreement or a collateral arrangement; or
+
+131
+
+(b)
+
+(c)
+
+(d)
+
+(e)
+
+(f)
+
+(g)
+
+(h)
+
+(ii)
+
+to prevent a netting under a netting agreement or a collateral arrangement taking effect in accordance with its terms;
+
+Section 196 (Avoidance of share transfers after winding-up resolution) shall not apply (if it would otherwise do so) to any transfer of shares under a netting agreement or a collateral arrangement;
+
+Section 218 (Power to disclaim onerous property) shall not apply to a netting agreement or a collateral arrangement where an insolvent party to such netting agreement or such collateral arrangement to winding-up proceedings;
+
+is subject
+
+Paragraphs 24 (Administration: mutual dealings and set-off) and 25 (Winding- up: mutual dealings and set-off) of Schedule 5 (Proofs and Distribution) shall not apply (if they would otherwise do so) to prevent a netting under a netting agreement taking effect in accordance with its terms;
+
+the following Sections shall not apply to any security created or otherwise arising under a collateral arrangement—
+
+(i)
+
+Section 45(2) (Moratorium on other legal process) including that provision as applied by Section 46 (Interim moratorium);
+
+(ii)
+
+Section 79(2) (Court may limit rights);
+
+(iii)
+
+Section 96(2) (Distribution);
+
+(iv)
+
+Sections 99 (Charged property: floating charge) and 100 (Charged property);
+
+(v)
+
+Section 143(3) and (4) (Vacation of office: charges and liabilities); and
+
+(vi)
+
+Section 226(1) (General rule as to priority of expenses);
+
+Section 43(2) (Dismissal of administrative or other receiver) shall not apply to a receiver appointed under a charge created or otherwise arising under a collateral arrangement.
+
+Section 692 (Priorities where debentures secured by floating charge) of the Companies Regulations 2020 shall not apply to debentures creating a collateral arrangement by way of floating charge.
+
+Where any of the events specified in sub-paragraph (ii) occur on the (i) day of, but after the moment of the making of a winding-up order by the Court or the appointment of an administrator, those arrangements, obligations or other events shall be legally enforceable and binding on third parties if the collateral-taker can show that he was not aware, nor should have been aware of such making of the winding-up order or the appointment of an administrator.
+
+(ii)
+
+The events referred to in sub-paragraph (i) are—
+
+(a)
+
+a collateral arrangement coming into existence;
+
+(b)
+
+a relevant obligation secured by a collateral arrangement coming into existence; or
+
+(c)
+
+the delivery, transfer, holding, registering or other designation of collateral so as to be in the possession or under the control of the collateral-taker.
+
+132
+
+Chapter 3 - Collateral Arrangements
+
+279. No recharacterisation
+
+A title transfer collateral arrangement which is not expressed to be by way of security shall not be recharacterised as security over collateral and shall take effect in accordance with its terms.
+
+280. Realisation and liquidation of collateral
+
+Unless otherwise agreed by the parties, the realisation, appropriation and/or liquidation

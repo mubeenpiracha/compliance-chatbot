@@ -1,0 +1,79 @@
+5.8 Non-cellular capital adjustment ...........................................................................93 A5.9 A5.10 Hybrid cellular capital adjustment .......................................................................93
+
+PIN/VER18/04-23
+
+PRUDENTIAL – INSURANCE BUSINESS (PIN)
+
+App6 CALCULATION OF MINIMUM NON-CELLULAR CAPITAL
+
+REQUIREMENT AND MINIMUM CELLULAR CAPITAL REQUIREMENT .............................................................................. 94
+
+A6.1 Purpose and general provisions .........................................................................94 A6.2 Minimum segmental capital requirement ............................................................95 Applicability of components to assets of the insurer ...........................................96 A6.3 Default risk component .......................................................................................97 A6.4 Investment volatility risk component ...................................................................97 A6.5 Off-balance sheet asset risk component .............................................................98 A6.6 Off-balance sheet liability risk component...........................................................99 A6.7 Concentration risk component ............................................................................99 A6.8 A6.9 Size factor component ...................................................................................... 100 A6.10 Underwriting risk component ............................................................................ 101 A6.11 Reserving risk component ................................................................................ 101 A6.12 Long-term insurance risk component ................................................................ 102 A6.13 Asset management risk component.................................................................. 102
+
+App7 CALCULATION OF ADJUSTED FUND CAPITAL RESOURCES .....
+
+102
+
+A7.1 A7.2 A7.3 A7.4 A7.5
+
+Purpose and general provisions ....................................................................... 102 Adjusted fund capital resources ........................................................................ 102 Base fund capital .............................................................................................. 103 Adjusted fund equity ......................................................................................... 104 Fund hybrid capital adjustment ......................................................................... 104
+
+App8 CALCULATION OF MINIMUM FUND CAPITAL REQUIREMENT ....
+
+106
+
+A8.1 Purpose and general provisions ....................................................................... 106 A8.2 Minimum fund capital requirement .................................................................... 106 Applicability of components to assets of the fund ............................................. 107 A8.3 Default risk component ..................................................................................... 107 A8.4 Investment volatility risk component ................................................................. 108 A8.5 Off-balance sheet asset risk component ........................................................... 108 A8.6 Off-balance sheet liability risk component......................................................... 109 A8.7 Concentration risk component .......................................................................... 110 A8.8 A8.9 Size factor component ...................................................................................... 111 A8.10 Long-term insurance risk component ................................................................ 111 A8.11 Asset management risk component.................................................................. 112
+
+App9 CALCULATION OF DIFC BUSINESS RISK CAPITAL
+
+REQUIREMENT ............................................................................ 113
+
+A9.1 A9.2 A9.3 A9.4 A9.5
+
+Purpose and general provisions ....................................................................... 113 DIFC business risk capital requirement ............................................................ 113 DIFC underwriting risk component ................................................................... 113 DIFC reserving risk component ........................................................................ 114 DIFC long-term insurance risk component........................................................ 114
+
+PIN/VER18/04-23
+
+PRUDENTIAL – INSURANCE BUSINESS (PIN)
+
+APP10 REPORTING TO THE DFSA ........................................................ 115
+
+A10.1 Purpose and general provisions ....................................................................... 115 A10.2 Completion of forms for global, cell, fund and DIFC business reporting units ... 115 A10.3 Content of Returns ........................................................................................... 116 A10.4 General provisions relating to the completion of forms ..................................... 119 A10.5 Statement by directors...................................................................................... 121
+
+PIN/VER18/04-23
+
+PRUDENTIAL – INSURANCE BUSINESS (PIN)
+
+1
+
+APPLICATION
+
+1.1
+
+Application
+
+1.1.1
+
+Subject to Rule 1.1.2, this module (PIN) applies to every Insurer except to the extent that a provision specifies a narrower application.
+
+Guidance
+
+1.
+
+An Insurer is defined in the GLO as an Authorised Firm which is authorised under its Licence to carry on in or from the DIFC, one or more of the Financial Services constituting Insurance Business.
+
+2.
+
+The Rules in PIN apply in relation to all activities of an Insurer, whether carried on within the DIFC or elsewhere.
+
+1.1.2 Chapters 2, 3, 4, 6, 7 and 9 do not apply to an Insurer that is an Authorised ISPV,
+
+unless expressly provided otherwise.
+
+1
+
+PIN/VER18/04-23
+
+2
+
+2

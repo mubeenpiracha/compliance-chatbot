@@ -1,0 +1,45 @@
+: A financial institution should ensure that its resources interacting with the decentralised infrastructure solution are securely managed.
+
+Desired Outcome 15.1 – Understanding Decentralised Infrastructure Solutions
+
+15.1.1 The rise of distributed ledger technology has the potential to transform financial services and is increasingly being adopted by financial institutions. Distributed ledger technology can be combined with other technologies to create decentralised infrastructure solutions where activities take place both on and off the blockchain. As these technologies develop and grow in complexity, potential unique risks arise that require financial institutions to develop specific expertise to manage those risks.
+
+15.1.2 This Guidance will focus on the associated IT risks arising from the adoption of decentralised infrastructure solutions (‘DIS’). To provide guiding principles around which financial institutions can build their risk management frameworks, the following can be considered as key features that would be associated with decentralised infrastructure solutions.
+
+15.1.2.a Multiple participants51 in the network can be individually responsible for the
+
+execution of a task;
+
+15.1.2.b Multiple participants in the network can be individually accountable for
+
+validating the successful execution of a task;
+
+15.1.2.c The successful execution of a task is broadcast to the network to keep participants informed for the purpose of maintaining a collectively accepted record of successfully executed tasks; and
+
+15.1.2.d Multiple participants can be consulted on and individually vote on changes to be made to the operation of the network and the scope of tasks permissible for future execution by participants.
+
+15.1.3 These features may manifest in varying forms depending on the intended objectives and development maturity of the DIS. These features distinguish decentralised systems from distributed systems. Distributed systems typically still have a central point of responsibility or shared responsibility across designated participants to execute tasks.
+
+51 An underlying assumption is that participants in the network can be external to and not controlled by a financial institution.
+
+84
+
+VER01.201124
+
+15.1.4 Financial institutions adopting solutions that purport decentralisation or intending to participate in DIS should be cognisant of the specific IT risks arising from the nature of such solutions.
+
+Desired Outcome 15.2 – Secure Participation
+
+15.2.1 A financial institution should establish a governing framework to ensure that all DIS participation adhere to clearly defined principles and system development policies. The framework should be reviewed regularly and approved by the financial institution’s senior management and Governing Body. The framework should encapsulate policies and procedures for the participation and monitoring of DIS, both internally developed or connected to externally.
+
+15.2.2 A financial institution should ensure that prior to connecting to or integrating its assets to a DIS and its participants, adequate due diligence on the governance (e.g., consensus mechanism, finality, fees, forking policies, ownership of governance tokens, control of smart contracts, etc.), technical specifications (e.g., cryptographic scheme, hardware and software requirements, network architecture, etc.), components (e.g., tokens, nodes, oracles52, cross-chain interoperability53, etc.), and track record of the DIS is performed. A financial institution should also ensure that it maintains ongoing oversight of the DIS throughout its participation.
+
+15.2.3 Where a financial institution develops its own DIS, it should ensure appropriate safeguards are in place to prevent facilitating potential criminal activities on the DIS (e.g., anonymous participation should not be allowed, etc.).
+
+15.2.4 A financial institution that performs activities on DIS should utilise appropriate tools to monitor the status of the network and trace relevant published activities that pertain to the financial institution’s activities in the DIS.
+
+15.2.5 A financial institution should ensure that any data it submits and writes into the DIS does not result in breaches to any regulatory obligations (e.g., personal data, illegal material, etc.). If sensitive data is necessary to interact with the DIS, appropriate measures should be taken to protect sensitive data (e.g., encrypted, hashed, etc.).
+
+15.2.6 A financial institution that participates in a DIS that facilitates the transfer of digital assets should employ tools that trace transactions and gather associated transaction information (e.g., originator, receiver, sanctions, etc.) for review against requisite anti- money laundering and targeted financial sanctions, laws, regulations, guidance, and notices. The financial institution should have processes in place to address any findings in accordance with the requirements.
+
+15.2.7 Where a financial institution operates a component to contribute to a DIS that is not core to its business operations and

@@ -1,0 +1,97 @@
+(b)
+
+it would be reasonable to disclose the information without the Consent of the individual.
+
+(3) The obligations and rights provided for in sections 11(1) to 11(3), sections 12(1) to 12(4) and sections 13(1) to 13(3), and section 4 (to the extent the provisions correspond to the rights and obligations identified in sections 11(1) to 11(3), sections 12(1) to 12(4) and sections 13(1) to 13(3)), do not apply to the extent such obligations and rights:
+
+(a)
+
+relate to information in respect of which a claim to legal professional privilege could be maintained in legal proceedings, or in respect of which a duty of confidentiality is owed by a professional legal advisor to his or her client;
+
+(b)
+
+would be likely to prejudice a natural person’s ability to protect themselves from self-incrimination, to the extent that compliance with these Regulations might expose that person to proceedings for committing an offence (excluding perjury or an offence under these Regulations);
+
+(c)
+
+relate to records of the intentions of the Controller in relation to any negotiations with the Data Subject to the extent that the application of those provisions would be likely to prejudice those negotiations;
+
+23
+
+(d)
+
+would be likely to affect the price of a financial instrument or have a prejudicial effect on the orderly functioning of financial markets (or the efficient allocation of capital within the economy), provided that it is reasonable for the professional taking the decision to believe that complying with the provisions above could affect someone’s decision whether to:
+
+(i)
+
+deal in, subscribe for or issue a financial instrument; or
+
+(ii)
+
+act in a way likely to have an effect on a business activity (such as an effect on an undertaking’s capital structure, the legal or beneficial ownership of a business or asset or a person’s industrial strategy);
+
+(e)
+
+would be likely to prejudice management forecasting or planning in relation to business or other activity; or
+
+(f)
+
+relate to confidential references for the education, training or employment or appointment and retirement of the Data Subject, including, in the case of regulatory appointments and retirements, any related opinions or reasoning provided to the relevant regulator.
+
+(4) The obligations and rights provided for in sections 13(1) to 13(3), section 14, section 16(1), section 17, section 18(1), and section 19(1) will not apply to Personal Data processed for Archiving and Research Purposes:
+
+(a)
+
+to the extent that the application of those provisions would prevent or seriously impair the achievement of those purposes; and
+
+(b)
+
+provided that sections 13(1) to 13(3) will only not apply to Processing for scientific or historical research or statistical purposes where the results of the research or any resultant statistics are not made available in a form which identifies a Data Subject.
+
+24
+
+PART IV Controller and Processor
+
+22. Responsibility of the Controller
+
+(1) Taking into account the nature, scope, context and purposes of Processing as well as the risks of varying likelihood and severity for the rights of natural persons, the Controller must:
+
+(a)
+
+implement appropriate technical and organisational measures to ensure and to be able to demonstrate that Processing is performed in accordance with these Regulations; and
+
+(b)
+
+review and update those measures where necessary.
+
+(2) Where proportionate in relation to Processing activities, the measures referred to in section 22(1) must include the implementation of appropriate data protection policies by the Controller.
+
+23. Data protection by design and by default
+
+(1) The Controller must take appropriate steps to ensure that:
+
+(a)
+
+its systems, business processes and practices in respect of which Personal Data is Processed are designed taking into account compliance with the principles, rights and obligations in these Regulations (‘data protection by design’); and
+
+(b)
+
+only the Processing of Personal Data that is necessary for each specific purpose of the Processing is Processed (‘data protection by default’).
+
+24. Data Protection Fee2
+
+(1) A Controller must, before, or as soon as reasonably practicable after, it starts Processing
+
+Personal Data under these Regulations:
+
+(a)
+
+pay a Data Protection Fee to the Commissioner of Data Protection in respect of the twelve months from the date it commenced Processing Personal Data under these Regulations; and
+
+(b)
+
+notify the Commissioner of Data Protection of:
+
+(i)
+
+its

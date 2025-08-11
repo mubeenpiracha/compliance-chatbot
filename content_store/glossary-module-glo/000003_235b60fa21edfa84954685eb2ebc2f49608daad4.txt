@@ -1,0 +1,159 @@
+ Participant
+
+In relation to an ETF, a market maker appointed by the Fund Manager of the ETF for the purposes referred to in CIR Rule 3.1.12 or IFR Rule 6.13.1.
+
+Authorised Person
+
+An Authorised Firm or an Authorised Market Institution.
+
+6
+
+GLO/VER62/07-25
+
+B
+
+Back to top
+
+Defined Term
+
+Bank
+
+Base Capital Requirement
+
+Bearer Share
+
+Beneficiary
+
+Bid
+
+Bidder
+
+Bid Document
+
+Bid Period
+
+Board
+
+Body Corporate
+
+Branch
+
+GLOSSARY (GLO)
+
+Definition
+
+An Authorised Firm which holds a Licence authorising it to carry on the Financial Service of Accepting Deposits.
+
+Has the meaning given in PIB section 3.6.
+
+A Share that cannot be registered in the name of the holder and proof of ownership is possession of the Share certificate.
+
+Has the meaning given in COB Rule 12.1.2.
+
+transaction however effected, Includes a Takeover including a reverse Takeover, partial bid, and also a bid by a parent entity for Shares in its subsidiary.
+
+Includes, but is not limited to, companies wherever incorporated and individuals wherever resident who or which make a Bid under TKO.
+
+Means a document issued by a Bidder containing information as stipulated under TKO (particularly Chapter 8) and posted in accordance with those Rules (particularly Chapter 11).
+
+Means the period from the time when an announcement is made of a proposed or possible Bid (with or without terms) until the first closing date or, if this is later, the date when the Bid becomes or is declared unconditional as to acceptances or lapses. An announcement that a holding, or aggregate holdings, of Shares carrying 30% or more of the voting rights of a Reporting Entity is for sale or that the Governing Body of a Reporting Entity is seeking potential Bidders will be the announcement of a possible Bid.
+
+treated as
+
+In reference to the DFSA, the Governing Body of the DFSA, established under Chapter 2 of Part 2 of the Regulatory Law 2004.
+
+In reference to a corporation, the Board of Directors of the corporation.
+
+Any body corporate, including limited liability partnership and a body corporate constituted under the law of a country or territory outside of the DIFC.
+
+A place of business within the DIFC:
+
+7
+
+GLO/VER62/07-25
+
+Defined Term
+
+Business Rules
+
+GLOSSARY (GLO)
+
+Definition
+
+(a) which has no separate legal personality;
+
+(b)
+
+forms a legally dependent part of a Regulated Financial Institution whose principal place of business and head office is in a jurisdiction other than the DIFC; and
+
+(c) which carries on Financial Services in or from the
+
+DIFC under a DFSA Licence.
+
+The written rules of an Authorised Market Institution which govern its activities as an Authorised Market Institution.
+
+8
+
+GLO/VER62/07-25
+
+C
+
+Back to top
+
+Defined Term
+
+Capital Requirement
+
+Capital Resources
+
+Captive Insurer
+
+Carrying Out Contracts of Insurance Category
+
+CCP
+
+Cell
+
+Cell Return
+
+Cell Share Capital
+
+Cell Shares
+
+Cellular Asset
+
+Cellular Liabilities
+
+Central Bank
+
+Central Counterparty
+
+GLOSSARY (GLO)
+
+Definition
+
+The amount of capital an Authorised Firm must hold, calculated in accordance with PIB sections 3.3, 3.4 or 3.5, as applicable.
+
+The total capital resources of an Authorised Firm calculated in accordance with PIB section 3.11.
+
+A Captive Insurer means a:
+
+(a) Class 1 Captive Insurer;
+
+(b) Class 2 Captive Insurer; or
+
+(c) Class 3 Captive Insurer.
+
+Has the meaning given in GEN section 2.16.
+
+A prudential grouping of Authorised Firms which determines the application of the Rules in PIB.
+
+Pursuant to GEN Rule 2.18.1(1)(a), a CCP is a Person who Operates a Clearing House by becoming a Central Counterparty.
+
+A cell created by a Protected Cell Company for the purpose of segregating and protecting cellular assets in the manner provided by the PCC Regulations.
+
+The return described in PIN Rule A10.2.4.
+
+Capital comprising of the proceeds of the issue of Cell Shares.
+
+Shares created and issued by a Protected Cell Company in respect of one

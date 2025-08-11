@@ -1,0 +1,103 @@
+ and ICAAP assessments are required to be submitted to the DFSA. The DFSA then applies a process known as the SREP as detailed in section 10.5. As part of the SREP, the DFSA will evaluate the quality, completeness and consistency of the IRAP and, where applicable, the ICAAP of the Authorised Firm, to form a view on the overall risk profile of the firm and whether the capital held by the firm is sufficient to deal with the risks. More detail concerning the SREP is provided in App10.
+
+5.
+
+Following review of the IRAP and ICAAP of an Authorised Firm, the DFSA may engage in a dialogue with the firm to evaluate the assessment of risks and where relevant, additional capital which the DFSA considers that the firm should hold resulting from the IRAP, ICAAP or SREP.
+
+Individual Capital Requirement (ICR)
+
+6.
+
+Upon completing the SREP, the DFSA may impose an Individual Capital Requirement on an Authorised Firm in Category 1, 2 or 5 as detailed in section 10.6. The ICR may be imposed where the DFSA concludes that the firm should hold more capital to provide for its overall risks.
+
+IRAP
+
+[Deleted]
+
+(1)
+
+An Authorised Firm must establish and maintain an IRAP which details the processes and procedures by which the firm will identify, assess, aggregate and monitor the risks faced by it.
+
+(2)
+
+The firm must conduct the IRAP assessment at least annually giving due regard to the Guidance in section A10.1 of App10.
+
+(3)
+
+The IRAP assessment conducted by the firm pursuant to (2) must be approved by its Governing Body and then submitted to the DFSA within four months from the end of the firm’s financial year.
+
+(4)
+
+In addition to (2), the firm must conduct an IRAP assessment:
+
+(a) whenever there is material change to the business, strategy, nature or scale of the activities of the firm which may have a significant impact on its risk profile or adequacy of its Capital Resources or Adjusted Capital Resources, as applicable; or
+
+(b) as and when required by the DFSA.
+
+226
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+(5)
+
+An IRAP assessment conducted by the firm pursuant to (4) must be approved by its Governing Body and then submitted to the DFSA within two months, or such other period as may be specified by the DFSA, from the date of such material change or requirement.
+
+10.3.3 The results of an IRAP assessment must be documented by the Authorised Firm in
+
+writing and include details of:
+
+(a)
+
+the risks identified;
+
+(b)
+
+the firm’s strategies and plans to deal with those risks;
+
+(c)
+
+the firm’s assessment of the adequacy of its Capital Requirement as calculated under PIB to address all the risks identified by its IRAP;
+
+(d)
+
+the details of any stress testing and scenario analysis carried out and the resultant impact on the Capital Requirement; and
+
+(e)
+
+any other relevant information, giving due regard to the Guidance in App10.
+
+10.3.4 An Authorised Firm must retain the records of an IRAP assessment for at least six
+
+years.
+
+10.4
+
+ICAAP
+
+10.4.1
+
+[Deleted]
+
+10.4.2
+
+(1)
+
+An Authorised Firm must implement and maintain an ICAAP which details the processes and procedures by which the firm will assess and maintain adequate Capital Resources in relation to the risks faced by it.
+
+(2)
+
+The firm must conduct an ICAAP assessment at least annually giving due regard to the Guidance in section A10.2 of App10.
+
+(3)
+
+The ICAAP assessment conducted by the firm pursuant to (2) must be approved by its Governing Body and then submitted to the DFSA within four months from the end of the firm’s financial year.
+
+(4)
+
+In addition to (2), the firm must conduct an ICAAP assessment:
+
+(a) whenever there is material change to the business, strategy, nature or scale of the activities of the firm which may have a significant impact on its risk profile or adequacy of its Capital Resources or Adjusted Capital Resources, as applicable; or
+
+(b) as and when required by the DF

@@ -1,0 +1,83 @@
+1)(a), (b), (c) and (e) and 12.2.2(2)(a) through (c) shall apply equally to Trustees as to Fund Managers.
+
+12.2.4 Where the Fund Manager is required to obtain the prior consent or approval of the Trustee before it is able to carry out any of its functions outlined herein or under FSMR, the Trustee shall provide such consent or approval to the Fund Manager without any unnecessary delay. If the Trustee decides to withhold such consent or approval, it shall also notify the Fund Manager of that decision and the reasons without any unnecessary delay.
+
+12.3
+
+Duties in relation to Fund Property
+
+Fund Manager
+
+12.3.1
+
+(1) A Fund Manager must make decisions as to the constituents of the Fund Property that are in accordance with the Constitution of the Fund and investment objectives and policy stated in the Prospectus.
+
+(2) A Fund Manager must take all steps and execute, or procure the execution of, all documents to ensure that transactions relating to the Fund Property are properly entered into for the account of the relevant Fund or Sub-Fund.
+
+(3) A Fund Manager of an Investment Trust must ensure that instructions it gives to the Trustee in relation to the Fund Property are in accordance with the Trust Deed and the Prospectus.
+
+36
+
+FUNDS VER10.100625
+
+12.3.2
+
+(1) In the case of any Fund other than an Investment Trust, the Fund Manager is responsible to the Unitholders for ensuring the safekeeping of the Fund Property in accordance with these Rules.
+
+(2) Without removing the generality of the obligation under (1), and subject to Section 12.3.3 below a Fund Manager must, unless impracticable and disproportionate to do so, in the case of a Fund structured other than as an Investment Trust:
+
+it
+
+is both
+
+(a)
+
+delegate the Regulated Activity of Providing Custody in relation to the Fund Property to a Service Provider who is an Eligible Custodian; and
+
+(b)
+
+comply with the delegation procedures set out in Rule 12.12 in relation to such a delegation.
+
+Guidance
+
+1.
+
+Rule 12.3.3 below sets out the circumstances in which a Fund Manager of a Domestic Fund would not be required to appoint an Eligible Custodian.
+
+2.
+
+Rule 12.12 governs the power of a Fund Manager to delegate certain of its Regulated Activities, and to outsource its functions.
+
+3.
+
+Rule 12.3.2(1) is not intended to confer strict liability for the safekeeping of Fund Property on a Fund Manager.
+
+4.
+
+In addition to Chapter 12, Rule 15.3 sets out the requirements applicable to a Fund Manager of a Qualified Investor Fund in relation to custody of Fund Property.
+
+Alternative arrangements for safekeeping
+
+12.3.3
+
+(1) A Fund Manager of a Domestic Fund is not required to appoint an Eligible Custodian for the Fund pursuant to Rule 12.3.2 where it meets the requirements in either (2) and (3), or (4).
+
+(2) The Fund Manager or, in the case of an Investment Trust, the Trustee, for the purpose of meeting the legal or regulatory requirements in relation to the ownership of Real Property applicable in the jurisdiction in which the Real Property is situated, may implement alternative arrangements for safekeeping where the arrangements:
+
+(a)
+
+in the case of an Investment Trust, enable the Trustee to continue to control the Fund Property; and
+
+(b)
+
+in all cases do not enable the Fund Manager to have unfettered control of the Fund Property.
+
+(3) If the Fund Manager or, in the case of an Investment Trust, the Trustee, implements arrangements in accordance with (2), it must satisfy the Regulator that the arrangements have the effect specified in (2) and are legally effective in ADGM and in the jurisdiction where the Real Property is situated.
+
+(4) Where, due to the nature of the Fund and the type of assets which it holds, it is neither practical nor proportionate to appoint an Eligible Custodian pursuant to the
+
+37
+
+FUNDS VER10.100625
+
+above, a Fund Manager may choose not to appoint an Eligible Custodian, provided that title to such assets is either registered in the name of the Fund or is registered in the name of a

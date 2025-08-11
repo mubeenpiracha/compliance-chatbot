@@ -1,0 +1,131 @@
+iture Based Capital Minimum
+
+A Capital Requirement calculated in accordance with section 3.7.
+
+Exposure
+
+The maximum loss that an Authorised Firm (and where applicable its PSIA holders) might suffer if:
+
+(a)
+
+a Counterparty or a group of Connected
+
+Counterparties fail to meet their obligations; or
+
+(b)
+
+it realises assets or off-balance sheet positions.
+
+An Exposure also includes any asset or off-balance sheet item, which could result in a potential loss to the Authorised Firm due to Market Risk or Operational Risk or any other risk factor.
+
+FCCA
+
+Financial Collateral Comprehensive Approach as described in Rule 4.9.5.
+
+FCSA
+
+Financial Collateral Simplified Approach as described in Rule 4.9.5.
+
+12
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+Financial Group
+
+A group of entities which includes an Authorised Firm and:
+
+(a) any Parent incorporated in the DIFC;
+
+(b) any Financial Institution subsidiaries (whether direct or indirect) of the Parent or Parents in (a) or of the Authorised Firm;
+
+(c) any Financial Institution in which the Parent or Parents in (a), the Financial Institution subsidiaries in (b) or the Authorised Firm (whether direct or indirect) hold 20% or more of the voting rights or capital; and
+
+(d) any entity which the DFSA directs the Authorised Firm to include in accordance with Rule 8.1.2 or PIN Rule 8.1.2.
+
+Financial Group Capital Requirement
+
+The Capital Requirement of a Financial Group calculated in accordance with Rule 8.3.3 or PIN Rule 8.3.3.
+
+Financial Group Capital Resources
+
+The Capital Resources of a Financial Group calculated in accordance with Rule 8.3.4 or PIN 8.3.4.
+
+First Loss Position
+
+Represents the first level of support provided to the special purpose entity or vehicle that should bear all, or a significant part of, the risk associated with the items held by the special purpose entity or vehicle.
+
+Foreign Exchange Risk Capital Requirement
+
+A component of the Market Risk Capital Requirement and as calculated in accordance with section 5.6.
+
+Gamma
+
+The measure of the rate of change of Delta.
+
+General Market Risk
+
+(1) For the purposes of the Interest Rate Risk Capital Requirement, means the risk that losses may arise from price changes in Securities caused by parallel or non-parallel shifts in the yield curve or from price movements in the equity market for a given country;
+
+(2) For
+
+the Equity Risk Capital Requirement, means the risk that losses may arise from a price movement in the equity market for a given country; or
+
+the purposes of
+
+(3) For the purposes of internal models, means both of
+
+the above risks.
+
+Global Systemically Important Bank (G- SIB)
+
+An Authorised Firm designated by the DFSA under section 1.4 as a global systemically important bank.
+
+13
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+Group
+
+Means a group of entities which includes an entity (the ‘first entity’) and:
+
+(a) any Parent of the first entity; and
+
+(b) any subsidiaries (direct or indirect) of the Parent or
+
+Parents in (a) or the first entity.
+
+Group Risk
+
+The risk of loss to the Authorised Firm as a result of its membership of, or linkages within a Group.
+
+High Quality Liquid Assets (HQLA)
+
+Liquid assets that meet the conditions in Rules A9.2.2 to A9.2.9 of App 9.
+
+HLA Capital Buffer
+
+A higher loss absorbency capital buffer that a SIB must maintain under section 3.9B.
+
+HLA Capital Buffer Requirement
+
+The requirement to maintain a higher loss absorbency capital buffer under section 3.9B.
+
+HLA Ratio
+
+In relation to a SIB, means the ratio determined by the DFSA under Rule 3.9B.6 for that SIB.
+
+ICR (Individual Capital Requirement)
+
+Individual capital requirement.
+
+Implicit Support
+
+Arises when an Authorised Firm provides support to a securitisation in excess of its predetermined contractual obligation.
+
+Individual Liquidity Requirement
+
+An individual liquidity requirement imposed

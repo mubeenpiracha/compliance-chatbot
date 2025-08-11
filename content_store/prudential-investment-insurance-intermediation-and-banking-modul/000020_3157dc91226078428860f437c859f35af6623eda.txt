@@ -1,0 +1,87 @@
+ the DFSA
+
+(1) An Authorised Firm must comply with the accounting and prudential reporting
+
+requirements set out in this chapter and PRU which apply to it.
+
+(2) The DFSA may impose additional reporting requirements on an Authorised
+
+Firm.
+
+An Authorised Firm must, subject to Rule 2.3.3:
+
+(a) prepare its returns in accordance with the Rules in this chapter, the instructional guidelines in PRU, and the requirements of the DFSA’s electronic prudential reporting system; and
+
+(b)
+
+submit the returns to the DFSA using the electronic prudential reporting system.
+
+Guidance
+
+The returns and instructional guidelines are provided in PRU and the DFSA’s electronic prudential reporting system.
+
+The DFSA may by way of a written notice direct an Authorised Firm to submit its returns in a form, manner or frequency other than as prescribed in Rule 2.3.2. An Authorised Firm must continue to submit its returns in accordance with this direction until the DFSA by way of written notice directs otherwise.
+
+(1) The submission of any return must be accompanied by a Form B100 (Declaration by Authorised Firms) signed by the Authorised Firm in the manner set out in (2) or (3) as applicable.
+
+(2)
+
+In relation to an annual return the form must be signed by two officers of the Authorised Firm each of whom is a Director, Partner or individual previously approved by the DFSA for that purpose.
+
+28
+
+PIB/VER50/07-25
+
+2.3.5
+
+2.3.6
+
+2.3.7
+
+2.3.8
+
+2.4
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+(3)
+
+In relation to a quarterly return the form must be signed by one officer of the Authorised Firm who is a Director, Partner or individual previously approved by the DFSA for that purpose.
+
+An original signed hard copy of Form B100 (Declaration by Authorised Firms), together with a copy of the return submitted to the DFSA must be kept for at least 6 years for inspection by the DFSA.
+
+If the DFSA notifies an Authorised Firm, or the Authorised Firm itself forms the view, that a return that has been submitted to the DFSA appears to be inaccurate or incomplete, the Authorised Firm must consider the matter and within a reasonable time it must correct any inaccuracies and make good any omissions, and re-submit the relevant parts of the return.
+
+(1) An Authorised Firm must prepare and submit returns in accordance with Table
+
+1 in section A2.4 of App2, which forms part of these Rules.
+
+(2) All returns must be completed in thousands of dollars ($).
+
+(3) The requirement in (1) does not apply to an Authorised Firm if the only Financial
+
+Service it carries on is Managing a Venture Capital Fund.
+
+(1) An Authorised Firm must submit to the DFSA any annual return required by Table 1 in section A2.4 of App2, within four months of the end of the Authorised Firm’s financial year.
+
+(2) An Authorised Firm must submit to the DFSA any other return required by Table 1 in section A2.4 of App2, within one month after the end of the reporting period to which the return relates.
+
+Prudent valuation practices
+
+Guidance
+
+1.
+
+This section and related section A2.5 in App2 provide Authorised Firms with Guidance on prudent valuation for positions that are accounted for at fair value, whether they are in the Trading Book or in the Non-Trading Book (also known as the banking book).
+
+2.
+
+A framework for prudent valuation practices should at a minimum include adequate systems and controls and valuation methodologies. The DFSA’s expectations in this regard are set out in section A2.5 App2.
+
+3.
+
+The Guidance is especially important for positions without actual market prices or observable inputs to valuation, as well as less liquid positions which raise supervisory concerns about prudent valuation. The Guidance is not intended to require Authorised Firms to change valuation procedures for financial reporting purposes.
+
+4.
+
+The DFSA will assess an Authorised Firm’s valuation procedures for consistency with the Guidance. The DFSA may impose a valuation adjustment if there is a material degree of inconsistency between the Author

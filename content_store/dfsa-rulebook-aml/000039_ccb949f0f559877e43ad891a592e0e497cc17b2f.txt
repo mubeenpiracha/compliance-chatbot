@@ -1,0 +1,113 @@
+ role of the MLRO in his absence.
+
+11.2.4 A Relevant Person’s MLRO must deal with the DFSA in an open and co-operative manner and must disclose appropriately any information of which the DFSA would reasonably be expected to be notified.
+
+Guidance
+
+1.
+
+The individual appointed as the deputy MLRO of an Authorised Firm need not apply for Authorised Individual status for performing the Licensed Function of Money Laundering Reporting Officer, subject to Rules in GEN section 11.6.
+
+2.
+
+A Relevant Person other than an Authorised Firm should make adequate arrangements to ensure that it remains in compliance with this module in the event that its MLRO is absent. Adequate arrangements would include appointing a temporary MLRO for the period of the
+
+58
+
+AML/VER27/03-25
+
+Anti-Money Laundering, Counter-Terrorist Financing and Sanctions Module (AML)
+
+MLRO’s absence or making sure that the Relevant Person’s AML systems and controls allow it to continue to comply with these Rules when the MLRO is absent.
+
+11.2.5 A Relevant Person may outsource the role of MLRO to an individual outside the Relevant Person provided that the relevant individual under the outsourcing agreement is and remains suitable to perform the MLRO role.
+
+Guidance
+
+Where a Relevant Person outsources specific AML tasks of its MLRO to another individual or a third party provider, including within a corporate Group, the Relevant Person remains responsible for ensuring compliance with the responsibilities of the MLRO. The Relevant Person should satisfy itself of the suitability of anyone who acts for it.
+
+11.3 Qualities of a MLRO
+
+11.3.1 A Relevant Person must ensure that its MLRO:
+
+(a)
+
+is fit and proper, and has the competence and capability, to perform the MLRO role and has adequate knowledge and understanding of relevant AML legislation;
+
+(b)
+
+has direct access to its senior management;
+
+(c)
+
+has sufficient resources including, if necessary, an appropriate number of appropriately trained Employees to assist in the performance of his duties in an effective, objective and independent manner;
+
+(d)
+
+has a level of seniority and independence within the Relevant Person to enable him to act on his own authority; and
+
+(e)
+
+has timely and unrestricted access to information sufficient to enable him to carry out his responsibilities in Rule 11.4.1.
+
+Guidance
+
+1.
+
+The DFSA considers that a Relevant Person will need to consider this Rule when appointing an outsourced MLRO. Any external MLRO that is appointed will need to have the actual or effective level of seniority that the role requires and the capacity to fully meet its responsibilities if acting for more than one Relevant Person.
+
+2.
+
+To comply with Rule 11.3.1(a), the MLRO should, among other things have sufficient knowledge and understanding of:
+
+a.
+
+the Federal AML Legislation and the DFSA’s AML Module and the Relevant Person’s obligations under that legislation, including its reporting obligations and the appropriate mechanisms and authorities for that reporting;
+
+b.
+
+the business model of the Relevant Person and the risk profile to which the Relevant Person may be exposed in respect of money laundering, terrorist financing, proliferation financing and targeted financial sanctions.
+
+59
+
+AML/VER27/03-25
+
+Anti-Money Laundering, Counter-Terrorist Financing and Sanctions Module (AML)
+
+11.4 Responsibilities of a MLRO
+
+11.4.1 A Relevant Person must ensure that its MLRO implements and has oversight of and
+
+is responsible for the following matters:
+
+(a)
+
+the day-to-day operations for compliance by the Relevant Person with its AML policies, procedures, systems and controls;
+
+(b)
+
+acting as the point of contact to receive notifications from the Relevant Person’s Employees under Rule 13.2.2;
+
+(c)
+
+taking appropriate action under Rule 13.3.1 following the receipt of a notification from an Employee ;
+
+(d)
+
+making Suspicious Activity Reports in accordance with Federal AML legislation;
+
+(e)
+
+acting as the point of contact within the Relevant Person for competent U.A.E. authorities and the DFSA regarding money laundering issues;
+
+(f)
+
+responding promptly to any request for information made by competent U.A.E. authorities or the DFSA;
+
+(g)
+
+receiving and acting upon any relevant findings, recommendations, guidance, directives, resolutions, sanctions, notices or other conclusions described in chapter 10; and
+
+(h)
+
+establishing and maintaining an appropriate money

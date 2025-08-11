@@ -1,0 +1,95 @@
+orbitant or cumulative rates. Suitability assessment when Operating an Employee Money Purchase Scheme or Acting as the Administrator of an Employee Money Purchase Scheme
+
+9.
+
+The Financial Services of Operating an Employee Money Purchase Scheme or Acting as the Administrator of such a Scheme do not permit the Operator or Administrator to advise Members of the Scheme, particularly on the suitability of investments offered on the Investment Platform. If an Operator or Administrator wishes to give such advice, it must obtain an authorisation for Advising on Financial Products.
+
+An Authorised Firm must take reasonable steps to ensure the information it holds about a Client is accurate, complete and up to date.
+
+Conflicts of interest
+
+Fair treatment
+
+(1)
+
+An Authorised Firm must take reasonable steps to ensure that conflicts and potential conflicts of interest between itself and its Clients and between one Client and another are identified and then prevented or managed in such a way that the interests of a Client are not adversely affected and to ensure that all its Clients are fairly treated and not prejudiced by any such conflicts of interest.
+
+30
+
+COB/VER48/03-25
+
+CONDUCT OF BUSINESS (COB)
+
+(2)
+
+Where an Authorised Firm is aware of a conflict or potential conflict of interest, it must prevent or manage that conflict of interest by using one or more of the following arrangements as appropriate:
+
+(a)
+
+establishing and maintaining effective Chinese Walls to restrict the communication of the relevant information;
+
+(b)
+
+disclosing the conflict of interest to the Client in writing either generally or in relation to a specific Transaction; or
+
+(c)
+
+relying on a written policy of independence, which requires an Employee to disregard any conflict of interest when advising a Client or exercising a discretion.
+
+(3)
+
+If an Authorised Firm is unable to prevent or manage a conflict or potential conflict of interest as provided in (2), it must decline to act for that Client.
+
+Attribution of knowledge
+
+3.5.2 When a COB Rule applies to an Authorised Firm that acts with knowledge, the Authorised Firm will not be taken to act with knowledge for the purposes of that Rule as long as none of the relevant individuals involved for on behalf of the Authorised Firm acts with that knowledge as a result of a Chinese Wall arrangement established under Rule 3.5.1(2)(a).
+
+Inducements
+
+3.5.3
+
+(1)
+
+An Authorised Firm must have systems and controls including policies and procedures to ensure that neither it, nor an Employee or Associate of it, offers, gives, solicits or accepts inducements such as commissions or other direct or indirect benefits where such inducements are reasonably likely to conflict with any duty that it owes to its Clients.
+
+(2)
+
+Subject to (3), an Authorised Firm must, before recommending a financial product as defined in GEN Rule 2.11.1(4) to, or Executing a Transaction for, a Retail Client, disclose to that Client any commission or other direct or indirect benefit which it, or any Associate or Employee of it, has received or may or will receive, in connection with or as a result of the firm making the recommendation or executing the Transaction.
+
+(3)
+
+An Authorised Firm need not disclose to a Retail Client under (2) any details about inducements where it:
+
+(a)
+
+believes on reasonable grounds that the Retail Client is already aware of the relevant inducements;
+
+(b)
+
+is undertaking an Execution-Only Transaction for that Retail Client; or
+
+(c)
+
+is executing a Transaction pursuant to the terms of a Discretionary Portfolio Management Agreement for that Retail Client.
+
+(4)
+
+An Authorised Firm may provide the information required under (2) in summary form, provided it informs the Client that more detailed information
+
+31
+
+COB/VER48/03-25
+
+3.5.4
+
+3.5.5
+
+CONDUCT OF BUSINESS (COB)
+
+will be provided to the Client upon request and complies with such a request.
+
+Guidance
+
+In relation to Rule 3.5.3 (1), in circumstances where an Authorised Firm believes on reasonable grounds that the Client’s interests are better served by a Person to whom the referral is to be made, any commission or other benefit which the firm or any of its Employees or Associates receives in respect of such a referral would not be a prohibited inducement under that Rule.
+
+An Authorised Firm may only accept goods and services under a Soft Dollar Agreement if the

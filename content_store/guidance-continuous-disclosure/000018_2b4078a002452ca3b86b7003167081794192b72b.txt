@@ -1,0 +1,71 @@
+ a particular type that is likely to have a positive effect on the market price of a Listed Entity’s Securities, but then declining to Disclose ‘negative’ information of the same type that would be likely to have a negative effect on the market price of the Listed Entity’s Securities, on the incorrect basis or assumption that it is not Inside Information or it is protected from Disclosure by Rule 7.2.2; or
+
+b) where the Inside Information needs to be Disclosed in order to prevent the Disclosure of other Inside Information under Rule 7.2.1 from being misleading or deceptive.25
+
+98) The ‘reasonable person’ test in Rule 7.2.2(3) therefore performs two subsidiary functions, being that it reinforces the fact that Rule 7.2.2 does not operate to protect Inside Information from Disclosure if it:
+
+a)
+
+has ceased to be confidential; or
+
+b)
+
+is required to correct, or prevent, a false market.
+
+99)
+
+In relation to the former, this is because a reasonable person would expect that once Inside Information has become known to, and is being traded on by, some parts of the RIE’s market for the Listed Entity’s Securities (as evidenced, for example, by a sudden and significant movement in the market price and/or traded volumes of a Listed Entity’s Securities), that the Inside Information should be Disclosed immediately, for the benefit
+
+25 For example, a Listed Entity may determine that litigation taken against it by another party, in relation to certain actions taken by the Listed Entity may, on its own, not be material, and therefore not requiring to be Disclosed. If, however, that Listed Entity becomes the subject of further material litigation, in relation to the same certain actions undertaken by the Listed Entity, then when Disclosure of the material litigation is made, the Disclosure should also reference the earlier litigation (that was not previously Disclosed).
+
+20
+
+VER01.280922
+
+of the RIE’s full market. In the latter case, this is due to a reasonable person expecting a Reporting Entity, who is acting responsibly, to immediately Disclose any information to correct, or prevent, a false market.
+
+FALSE MARKET (RULE 7.5.1(b))
+
+100) Rule 7.5.1(b) states the following:
+
+“7.5.1 (1) The Regulator may, pursuant to its power under section 84 of the FSMR, issue a written notice directing a Reporting Entity (a “Direction Notice”) to Disclose specified information and to take any other steps as the Regulator considers appropriate in the following circumstances:
+
+(a) …
+
+(b)
+
+to correct or prevent a false market if the Regulator considers that there is or is likely to be a false market in a Listed Entity’s Securities.
+
+Guidance
+
+The Regulator would consider, for example, that there is, or is likely to be, a false market in the Listed Entity’s Securities if:
+
+(i)
+
+a Listed Entity/Reporting Entity has information that has not been Disclosed, for example, due to Rule 7.2.2 applying;
+
+(ii)
+
+there is a reasonably specific media comment or rumour concerning the Listing Entity that has not been confirmed or clarified by a Disclosure by the Reporting Entity; and
+
+(iii)
+
+there is evidence that the comment or rumour is having, or the Regulator considers that the comment or rumour is likely to have a significant impact on the price of the Listed Entity’s Securities.”
+
+101) The term ‘false market’ refers to a situation where there is significant misinformation or significantly incomplete information in the market. These circumstances compromise price discovery in a Listed Entity’s Securities and may arise, for example, where:
+
+a)
+
+a Reporting Entity has Disclosed false, misleading or deceptive information;26
+
+b)
+
+there is other false or misleading information, including a false rumour, circulating in the (RIE’s) market; or
+
+c)
+
+a segment of the (RIE’s) market is trading on the basis of Inside Information that is not available to the (RIE’s) market as a whole.
+
+Listing Authority Direction powers to correct or prevent a false market
+
+102) Pursuant to Rule 7.5.1(b), if the Listing Authority considers that there is, or is likely to be, a false market in a Listed Entity’s Securities, it may direct the Reporting Entity to disclose any information it requires to correct or prevent a

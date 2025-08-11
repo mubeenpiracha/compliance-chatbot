@@ -1,0 +1,101 @@
+-24
+
+13.4.3
+
+13.4.4
+
+COLLECTIVE INVESTMENT RULES (CIR)
+
+by way of waiver and modification to earlier provisions preceding the enactment of Rule 8.2.2(2) and 8.2.3(b).
+
+2.
+
+Note that in relation to an Investment Company or Investment Partnership, Rule 8.2.2 requires a Fund Manager to delegate the activity of Providing Custody to an Eligible Custodian. In relation to an Investment Trust, Rule 8.2.3(b) also permits a Trustee to delegate the activity of Providing Custody to an Eligible Custodian.
+
+Investment Committee
+
+(1)
+
+A Fund Manager of a Property Fund must, subject to (2), call a meeting of Unitholders to vote on the election of at least three experts who are independent of the Fund Manager to sit on an investment committee of the Fund.
+
+(2)
+
+A Fund Manager of a Fund which is constituted as an Investment Trust need not appoint an investment committee.
+
+(3)
+
+The committee members in (1) are appointed to review investment opportunities and must not involve themselves in the day to day management of the Fund.
+
+Investments
+
+(1)
+
+A Fund Manager must, subject to (2), ensure that the assets of a Property Fund, except where otherwise provided in the Rules in this section, consist only of any or all of:
+
+(a)
+
+Real Property;
+
+(b)
+
+Property Related Assets; or
+
+(c)
+
+Units in another Property Fund; and
+
+(d)
+
+cash, government and public Securities, up to a maximum of 40%.
+
+(2)
+
+The requirements in (1) do not apply to a Fund Manager during the initial 6 month period of the Fund’s operation and in any case, will be subject to any other time period set out in the Prospectus or as approved by a Special Resolution of the Unitholders.
+
+(3)
+
+A Fund Manager must ensure that:
+
+(a)
+
+Property Related Assets of a Public Property Fund:
+
+(i) are listed and traded on an Exchange which is provided for in
+
+the Prospectus of the Fund; or
+
+(ii) if not listed and traded as specified in (i), are approved and reviewed regularly by the investment committee of the Fund to ensure that they are sufficiently liquid and can be accurately valued; and
+
+96
+
+CIR/VER38/08-24
+
+13.4.5
+
+COLLECTIVE INVESTMENT RULES (CIR)
+
+(b)
+
+the Property Fund does not grant any Person an option to acquire any property included in the Fund.
+
+(4)
+
+The Fund Manager or, where appointed, the Trustee, must, subject to (5), ensure that the Fund holds good marketable legal and beneficial title in all its Real Property, whether directly or via Special Purpose Vehicles controlled by the Fund. The Fund may hold such title as joint tenants or tenants-in-common with one or more third parties provided that the Fund must hold the majority interest and control and have the freedom to dispose of its interest.
+
+(5)
+
+Any special arrangement entered into in respect of Fund Property for the purposes of Islamic finance arrangements where the legal title to the property is held by a financial institution will be acceptable for the purposes of (4) provided information relating to such arrangements either disclosed in the Prospectus of the Fund or approved by Special Resolution of Unitholders.
+
+(6)
+
+The Fund Manager and, if appointed, the Trustee, must take all reasonable care to ensure that the Fund Manager arranges adequate property insurance and public liability insurance coverage in relation to the Real Property of a Fund.
+
+Guidance
+
+1. Rule 13.4.4(5) enables Fund Managers and Trustees to use certain Islamic structures such as ijara for property financing which require the legal ownership of the real property to be held by the financial institution providing the financing.
+
+2. Rule 13.4.4.(5) does not require individual transactions to be specified in the Prospectus or approved by Special Resolution of Unitholders. Instead, it would be sufficient for general information relating to such arrangements, such as their legal effect, to be included in the Prospectus, failing which Unitholder approval by Special Resolution will be required. Similarly, Unitholders can by Special Resolution grant general approval for use of such Islamic financing arrangements, obviating the need for each specific transaction to be separately approved. Borrowing
+
+(1)
+
+The Fund Manager

@@ -1,0 +1,135 @@
+2.
+
+Exposures exhibiting the following characteristics should be included in the special mention category:
+
+a.
+
+a declining trend in the operations of the borrower or in the borrower's ability to continue to generate cash required for repayment of the credit;
+
+b.
+
+any signals which indicate a potential weakness in the financial position of the borrower, but not to the point at which repayment capacity is definitely impaired; or
+
+c.
+
+business, economic or market conditions that may unfavourably affect the profitability and business of the borrower in the near to medium term.
+
+3.
+
+Exposures exhibiting the following characteristics should be included in the substandard category:
+
+a.
+
+the inability of the borrower to meet contractual repayment terms of the Credit Facility;
+
+b.
+
+unfavourable economic and market conditions or operating problems that would affect the profitability and cash flow generation of the borrower;
+
+115
+
+PRU VER17.290725
+
+c.
+
+the weak financial condition or the inability of the borrower to generate sufficient cash flow to service the payments;
+
+d.
+
+difficulties experienced by the borrower in servicing its other debt obligations; or
+
+e.
+
+a breach of any financial covenants by the borrower.
+
+4.5.4A
+
+(1)
+
+Exposures falling into the following categories must be considered as non- performing:
+
+(a)
+
+the Authorised Person considers that the obligor is unlikely to pay its credit obligations to the Authorised Person in full, without recourse by the Authorised Person to actions such as realisation of collateral, even when it is not past due or has been past due for less than 90 days;
+
+(b)
+
+the obligor is past due 90 days on any material credit obligation; or
+
+(c)
+
+Exposures that are ‘impaired’ according to the applicable accounting framework.
+
+Guidance
+
+1.
+
+Indications of unlikeliness to pay for the purposes of 4.5.4A(1) may include, but are not limited to:
+
+a.
+
+The Authorised Person puts the credit obligation that gives rise to the Exposure on non-accrued status.
+
+b.
+
+The Authorised Person makes a charge-off or account-specific provision resulting from a significant perceived decline in credit quality subsequent to the Authorised Person taking on the Exposure.
+
+c.
+
+The Authorised Person sells the credit obligation that gives rise to the Exposure at a material credit-related economic loss.
+
+d.
+
+The Authorised Person consents to a distressed restructuring of the credit obligation that gives rise to the Exposure where this is likely to result in a diminished financial obligation caused by the material forgiveness, or postponement, of principal, interest or, where relevant, fees.
+
+e.
+
+The Authorised Person has filed for the obligor’s bankruptcy or a similar order in respect of the obligor’s credit obligation to the Authorised Person’s group.
+
+f.
+
+The obligor has sought or has been placed in bankruptcy or similar protection where this would avoid or delay repayment of the credit obligation that gives rise to the Exposure to the Authorised Person’s group.
+
+2.
+
+Non-performing Exposures should always be categorised for the whole Exposure, including when non-performance relates to only a part of the Exposure, for instance, unpaid interest. For off-balance sheet Exposures, the whole Exposure is the entire nominal amount.
+
+116
+
+PRU VER17.290725
+
+3.
+
+The identification of an Exposure as non-performing is not intended to affect its categorisation as impaired for accounting purposes.
+
+4.
+
+An Exposure for the purposes of 4.5.4A ceases to be non-performing and may be re-categorised as performing when all of the following criteria are simultaneously met:
+
+a.
+
+the Counterparty does not have any material Exposure more than 90 days past due;
+
+b.
+
+repayments have been made when due over a continuous repayment period of at least 12 months;
+
+c.
+
+the Counterparty’s situation has improved so that the full repayment of the Exposure is likely, according to the original or, when applicable, modified conditions; and
+
+d.
+
+the Exposure is not “impaired” according to the applicable accounting framework.
+
+5.
+
+An Exposure may not be re-categorised as performing in the following situations:
+
+a.
+
+a partial write-off of an existing non-performing exposure, including where an Authorised Person writes off the part of a non-performing exposure that it deems to be uncollectible;
+
+b.
+
+the repossession of collateral on a non-performing exposure,

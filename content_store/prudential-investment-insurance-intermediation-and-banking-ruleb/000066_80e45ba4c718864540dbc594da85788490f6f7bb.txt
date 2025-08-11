@@ -1,0 +1,133 @@
+: CRCOM = 10% x Credit RWA
+
+(2)
+
+The Credit RWA of an Authorised Person is the sum of:
+
+(a)
+
+its risk weighted assets (RWA) for all its Credit Risk Exposures (referred to in these Rules as "CR Exposures") calculated in accordance with Rules 4.8.2 and 4.8.3;
+
+(b)
+
+its RWA for all its securitisation Exposures (referred to in these Rules as "SE Exposures") calculated in accordance with Rule 4.8.4 and Section 4.14; and
+
+(c)
+
+its RWA for its Counterparty Risk Exposures as calculated in accordance with Sections A4.6 to A4.8.
+
+Calculation of RWA for Credit Risk Exposures (CR Exposures)
+
+4.8.2
+
+An Authorised Person must include in its calculation of RWA for CR Exposures:
+
+(a)
+
+any on-balance sheet asset; and
+
+(b)
+
+any off-balance sheet item; but excluding:
+
+(c)
+
+any SE Exposure;
+
+(d)
+
+any securitised Exposure that meets the requirements for the recognition of risk transference in a Traditional Securitisation set out in Section 4.14; and
+
+120
+
+PRU VER17.290725
+
+(e)
+
+any Exposure classified as a position or instrument in the Trading Book in accordance with Section A2.1.
+
+4.8.3
+
+To calculate its RWA for CR Exposures, an Authorised Person must:
+
+(a)
+
+calculate the value of the Exposure (represented as "E") for every on-balance sheet and every off-balance sheet asset in accordance with the Exposure measurement methodology specified in Section 4.9 and recognising the effects of any applicable CRM;
+
+(b)
+
+categorise that Exposure in accordance with the Rules in Section 4.10;
+
+(c)
+
+allocate an applicable Credit Quality Grade and risk weight for that Exposure in accordance with the Rules in Section 4.11 and 4.12;
+
+(d)
+
+calculate the RWA amount for that Exposure using the following formula: RWA(CR) = E x CRW
+
+where:
+
+(i)
+
+"RWA(CR)" refers to the risk-weighted Exposure amount for that CR Exposure;
+
+(ii)
+
+"E" refers to the Exposure value or amount, for that CR Exposure; and
+
+(iii)
+
+"CRW" refers to the applicable risk weight for that CR Exposure determined in accordance with (b) and (c); and
+
+(e)
+
+add the RWA amounts calculated in accordance with (d) for all its CR Exposures.
+
+Calculation of RWA for securitisation Exposures (SE Exposures)
+
+4.8.4
+
+To calculate its RWA for all its SE Exposures, an Authorised Person must:
+
+(a)
+
+calculate the value of the Exposure for each of its SE Exposures in accordance with Exposure measurement methodology specified in Section 4.9 and recognising the effects of any applicable CRM;
+
+(b)
+
+allocate an applicable Credit Quality Grade for that SE Exposure in accordance with the Rules in Section 4.11;
+
+(c)
+
+calculate the RWA amount for each SE Exposure, except for those SE Exposures which the Authorised Person is required to include as deductions from any component of Capital Resources, using the following formula: RWA(SE) = SE x CRW
+
+where:
+
+(i)
+
+"RWA(SE)" refers to the risk-weighted Exposure amount for that securitisation Exposure;
+
+121
+
+PRU VER17.290725
+
+(ii)
+
+"SE" refers to the Exposure value or amount for that SE Exposure calculated in accordance with (a); and
+
+(iii)
+
+"CRW" refers to the applicable risk weight for that SE Exposure determined in accordance with (b); and
+
+(d)
+
+add the RWA amounts calculated in accordance with (c) for all its SE Exposures to the RWA amounts calculated in accordance with Rule 4.8.5 in respect of its Early Amortisation Exposures.
+
+4.8.5
+
+To calculate its RWA for Early Amortisation Exposures, an Authorised Person must:
+
+(a)
+
+calculate the value of the Exposure (EAE) for each of its Early Amortisation Exposures in accordance with Exposure measurement methodology specified in Section 4.9 and recogn

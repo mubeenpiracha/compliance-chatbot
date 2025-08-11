@@ -1,0 +1,137 @@
+ Undertaking; and
+
+(ii)
+
+the Credit Facility is provided to the Retail Client for a business purpose.
+
+(2)
+
+An Authorised Firm, in the course of Providing Credit, must not:
+
+(a)
+
+Provide Credit in the U.A.E. Dirham; or
+
+(b)
+
+undertake currency or foreign exchange transactions involving the U.A.E. Dirham.
+
+Depositor protection
+
+(1) Subject to (2), to the extent that the Rules in this section are inconsistent with the Insolvency Law 2019 and any regulations made for the purposes of that law the Rules in this section will prevail.
+
+35
+
+COB/VER48/03-25
+
+CONDUCT OF BUSINESS (COB)
+
+(2) The following provisions of laws, Rules and Regulations prevail over the
+
+Rules in this section:
+
+(a)
+
+parts A5.13.2 (a), (b), (c) and (d)(ii) of the Client Money Distribution Rules;
+
+(b)
+
+Article 98 of the Insolvency Law 2019;
+
+(c)
+
+the DIFC Preferential Creditor Regulations; and
+
+(d)
+
+Regulations 5.45.4 and 5.52 of the DIFC Insolvency Regulations.
+
+4.4.2
+
+(1)
+
+In the event of:
+
+(a)
+
+the appointment of a provisional liquidator, liquidator, receiver or administrator, or trustee in bankruptcy, over a Bank which is a Domestic Firm; or
+
+(b)
+
+a direction by the DFSA to a Bank which is a Domestic Firm under Article 76 of the Regulatory Law 2004 to deal with all or substantially all its Deposits in a specified manner,
+
+eligible depositors of the Bank have priority over, and shall be paid in priority to, all other unsecured creditors of the Bank.
+
+(2)
+
+In (1), an “eligible depositor” means, subject to (3), a Person who, at the relevant time, is a creditor of a Bank referred to in (1) by virtue of being owed an amount of Money held by the Bank as a Deposit.
+
+(3)
+
+In (2), eligible depositor excludes any creditor which is:
+
+(i)
+
+a Market Counterparty; or
+
+(ii)
+
+a bank.
+
+Guidance
+
+Article 136 of the DIFC Insolvency Law 2019 gives the DFSA a power to modify the application of provisions of that law and the Regulations made for the purposes of it in particular cases or classes of case. It permits the DFSA to make Rules which provide for the orderly conduct of affairs or winding up of an Authorised Firm and to prescribe procedures and priorities for dealing with assets of the Authorised Firm or other persons in the event of pending or actual insolvency or other default.
+
+36
+
+COB/VER48/03-25
+
+CONDUCT OF BUSINESS (COB)
+
+5
+
+ADDITIONAL RULES – PROVIDING TRUST SERVICES
+
+5.1
+
+Application
+
+5.1.1
+
+This chapter applies to a Trust Service Provider with respect to the conduct of Providing Trust Services.
+
+Guidance
+
+The requirements in chapter 3 also apply to Trust Service Providers.
+
+5.2
+
+General
+
+5.2.1
+
+For the purposes of this chapter, a settlor, a trustee or a named beneficiary of a trust in respect of which the Trust Service Provider is engaged in Providing Trust Services may be treated as a Client of the Authorised Firm.
+
+5.2.2
+
+A Trust Service Provider must maintain adequate knowledge of, and comply with, all applicable DIFC laws, Rules and Regulations relevant to Providing Trust Services.
+
+5.2.3
+
+A Trust Service Provider must be able to demonstrate that it is in compliance with appropriate standards of corporate governance.
+
+5.2.4
+
+A Trust Service Provider must transact its business (including the establishing, transferring or closing of business relationships with its Clients) in an expeditious manner where appropriate unless there are reasonable grounds to do otherwise.
+
+Exercise of Discretion
+
+5.2.5 Where a Trust Service Provider is responsible for exercising discretion for, or in relation to, its Clients, it must take all reasonable steps to obtain sufficient information in order to exercise, subject to Rule 5.2.6, its discretion or other powers in a proper manner.
+
+5.2.6
+
+A Trust Service Provider must only exercise its power or discretion for a proper purpose.
+
+5.2.7
+
+The Trust Service

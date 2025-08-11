@@ -1,0 +1,83 @@
+ one Client and another Client are identified and then prevented or managed in accordance with this Rule 3.5.
+
+3.5.2 Record of Conflicts
+
+An Authorised Person must keep and regularly update a record of the kinds of service or activity carried out by or on behalf of that Authorised Person in which a conflict of interest entailing a material risk of damage to the interests of one or more Clients has arisen or, in the case of an ongoing service or activity, may arise.
+
+3.5.3 Managing Conflicts
+
+An Authorised Person must maintain and operate effective organisational and administrative arrangements with a view to taking all reasonable steps to prevent conflicts of interest from constituting or giving rise to a material risk of damage to the interests of its Clients, including establishing and maintaining effective information barriers to restrict the communication of relevant information.
+
+17
+
+COBS VER19.290725
+
+3.5.4 Disclosure of Conflicts
+
+(a)
+
+If arrangements made by an Authorised Person under Rule 3.5.3 to manage conflicts of interest are not sufficient to ensure, with reasonable confidence, that risks of damage to the interests of a Client will be prevented, the Authorised Person must clearly disclose the general nature and/or sources of conflicts of interest to the Client before undertaking business for the Client.
+
+(b)
+
+The disclosure must:
+
+(i)
+
+be made in a durable medium; and
+
+(ii)
+
+include sufficient detail, taking into account the nature of the Client, to enable that Client to take an informed decision with respect to the service in the context of which the conflict of interest arises.
+
+3.5.5 Conflicts Policy
+
+(a)
+
+An Authorised Person must establish, implement and maintain an effective conflicts of interest policy that is set out in writing and is appropriate to the size and organisation of the Authorised Person and the nature, scale and complexity of its business.
+
+(b)
+
+Where the Authorised Person is a member of a Group, the policy must also take into account any circumstances of which the Authorised Person is or should be aware, which may give rise to a conflict of interest arising as a result of the structure and business activities of other members of the Group.
+
+Guidance
+
+Conflicts of interest include conflicts arising from Soft Dollar Agreements entered into by the Authorised Person.
+
+3.5.6
+
+If an Authorised Person is unable to prevent or manage a conflict or potential conflict of interest, it must decline to act for that Client.
+
+3.5.7 Attribution of Knowledge
+
+When a Rule applies to an Authorised Person that acts with knowledge, the Authorised Person will not be taken to act with knowledge for the purposes of that Rule as long as none of the relevant individuals involved for on behalf of the Authorised Person acts with that knowledge as a result of an information barrier arrangement.
+
+3.5.8
+
+Inducements
+
+(a)
+
+An Authorised Person must have systems and controls including policies and procedures to ensure that neither it, nor an Employee or Associate of it, offers, gives, solicits or accepts inducements such as commissions or other direct or indirect benefits where such inducements are reasonably likely to conflict with any duty that it owes to its Clients. In circumstances where an Authorised Person believes on reasonable grounds that the Client's interests are better served by a
+
+18
+
+COBS VER19.290725
+
+Person to whom the referral is to be made, any commission or other benefit which the Authorised Person or any of its Employees or Associates receives in respect of such a referral would not be a prohibited inducement under this Rule.
+
+(b)
+
+Subject to Rule 3.5.8(c), an Authorised Person must, before recommending a Specified Investment to, or Executing a Transaction for, a Retail Client, disclose to that Client any commission or other direct or indirect benefit which it, or any Associate or Employee of it, has received or may or will receive, in connection with or as a result of the Authorised Person making the recommendation or executing the Transaction.
+
+(c)
+
+An Authorised Person may provide the information required under Rule 3.5.8(b) in summary form, provided it informs the Client that more detailed information will be provided to the Client upon request and the Authorised Person complies with such a request.
+
+3.6
+
+Soft Dollar Agreements
+
+3.6.1 An Authorised Person may accept goods and services under a Soft Dollar Agreement only
+
+if the goods and

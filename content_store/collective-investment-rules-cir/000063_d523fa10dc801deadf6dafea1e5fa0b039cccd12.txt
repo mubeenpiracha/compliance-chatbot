@@ -1,0 +1,77 @@
+ the profits and losses of the Special Purpose Vehicle would, in respect of the Shares to be acquired, have affected the Fund, if the Fund had at all material times held the Shares to be acquired; and
+
+(ii)
+
+where the Special Purpose Vehicle has subsidiaries, deal with the profits or losses and the assets and liabilities of the Special Purpose Vehicle and its subsidiaries, either as a whole, or separately; and
+
+(c)
+
+a valuation report in respect of the Special Purpose Vehicle’s interest in Real Property must be prepared in accordance with the requirements set out in Rules 13.4.18 to 13.4.22.
+
+100
+
+CIR/VER38/08-24
+
+COLLECTIVE INVESTMENT RULES (CIR)
+
+Related Party Transactions
+
+Guidance
+
+1. A Fund Manager of a Public Property Fund is required pursuant to Rule 8.3.2 to obtain the agreement of Unitholders by way of an ordinary resolution before undertaking a Related Party Transaction where the total consideration or value of the transaction is 5% or more of the net asset value of the Fund. See also App2 and App3.
+
+2. A Fund Manager of a Public Property Fund may enter into a Related Party Transaction for the acquisition or sale of Real Property in the State without obtaining specific approval for the transaction under Rule 8.3.2 if all of the conditions in Rule 13.4.11A(1) are met.
+
+3.
+
+If a Fund Manager enters into a Related Party Transaction under the exclusion in Rule 13.4.11A, it must notify Unitholders of details of the transaction as soon as practicable after entering into the transaction. It also must disclose in the Fund’s Prospectus if it has Unitholder approval to enter into such transactions without obtaining a resolution in each case (see Rule 14.4.4B).
+
+13.4.11A (1) The Fund Manager of a Public Property Fund is not required to comply with
+
+Rule 8.3.2(3) and (4)(a) for a Related Party Transaction if:
+
+(a) the transaction is for the acquisition or sale of Real Property in the State;
+
+(b) the Fund Manager has general Unitholder approval in accordance with
+
+(2) to enter into such transactions;
+
+(c) the oversight provider of the Fund has confirmed in writing, before the transaction is entered into, that it is on terms that comply with the requirement in Rule 8.3.2(2) and that all other applicable requirements have been complied with; and
+
+(d) the investment committee of the Fund has confirmed in writing, before the transaction is entered into, that it is on terms that comply with the requirement in Rule 8.3.2(2) and it has no objection to the transaction.
+
+(2) Unitholder approval under (1)(b) must be by way of an ordinary resolution of
+
+the Unitholders of the Fund that:
+
+(a) was passed at the previous annual general meeting of the Fund;
+
+(b) is valid only until the date of the next annual general meeting of the Fund
+
+(when it may be renewed): and
+
+(c) authorises the Fund Manager to enter into Related Party Transactions referred to in (1)(a) without obtaining prior Unitholder approval in each case during the period for which the resolution is valid.
+
+(3)
+
+If a Fund Manager of a Public Property Fund enters into a Related Party Transaction under this Rule, it must as soon as practicable after entering into the transaction provide written notification to Unitholders of the Fund setting out relevant details of the transaction including the identity of the Related Party and the nature and extent of his interest.
+
+101
+
+CIR/VER38/08-24
+
+COLLECTIVE INVESTMENT RULES (CIR)
+
+13.4.12 (1) The following information in relation to Related Party Transactions must be disclosed to Unitholders and where appointed, the Trustee, by the Fund Manager of a Public Property Fund:
+
+(a) any beneficial interests of the Related Party, and any changes thereof,
+
+in the Fund; and
+
+(b) any potential conflicts of interests involving the Related Party and the
+
+measures implemented to address such conflicts.
+
+(2)
+
+If the Fund Manager operates more than one Fund and a transaction involves two or more of the Funds operated by the Fund Manager, such transactions between the Funds will be Related Party Transactions for

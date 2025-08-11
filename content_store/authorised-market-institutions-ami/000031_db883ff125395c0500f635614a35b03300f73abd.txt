@@ -1,0 +1,113 @@
+ on such activities under COB section 14.3 and the Client Asset provisions in COB sections 6.11, 6.12 and 6.13;
+
+(2)
+
+where it appoints a Third Party Digital Wallet Service Provider to Provide Custody for Investment Tokens traded or cleared on its facility, that person is either:
+
+(a)
+
+an Authorised Firm permitted to be a Digital Wallet Service Provider; or
+
+(b)
+
+a firm that is regulated by a Financial Services Regulator to an equivalent level as that provided for under the DFSA regime for Providing Digital Wallet Services.
+
+5A.5
+
+Technology audit reports
+
+5A.5.1 An Authorised Market Institution must ensure that it meets the requirements relating to technology audit reports that would apply to an Authorised Firm Operating a Facility for Investment Tokens under COB section 14.5.
+
+48
+
+AMI/VER28/03-25
+
+AUTHORISED MARKET INSTITUTIONS (AMI)
+
+5B.
+
+ADDITIONAL REQUIREMENTS FOR OPERATING A FACILITY FOR CRYPTO TOKENS
+
+5B.1
+
+Application
+
+5B.1.1
+
+This chapter applies to an Authorised Market Institution Operating a Facility for Crypto Tokens and, in section 5B.7 where specified, to an Authorised Market Institution operating a facility for Crypto Token Derivatives.
+
+Guidance
+
+Operating a Facility for Crypto Tokens is defined in GLO as Operating a Multilateral Trading Facility (MTF) on which Crypto Tokens are traded or Operating a Clearing House on which Crypto Tokens are cleared.
+
+5B.2
+
+Technology and governance requirements
+
+5B.2.1 Without limiting the generality of the technology resources requirements in Rule 5.5.5, an Authorised Market Institution that uses DLT or similar technology to Operate a Facility for Crypto Tokens must ensure that it meets the requirements that would apply to an Authorised Firm under COB section 15.7.
+
+5B.3
+
+Operating a Facility for Crypto Tokens that permits direct access
+
+5B.3.1 An Authorised Market Institution must ensure that:
+
+(a)
+
+it treats each Direct Access Member as its Client;
+
+(b)
+
+its Business Rules clearly set out:
+
+(i)
+
+the duties the Authorised Market Institution owes to the Direct Access Member and how it is held accountable for any failure to fulfil those duties; and
+
+(ii)
+
+the duties owed by the Direct Access Member to the Authorised Market Institution and how the Direct Access Member is held accountable for any failure to fulfil those duties;
+
+(c)
+
+appropriate investor redress mechanisms are available, and disclosed, to each Direct Access Member permitted to trade or clear Crypto Tokens on its facility, as required under Rule 5.12.2; and
+
+(d)
+
+its facility prominently discloses the risks associated with the use of DLT for trading and clearing Crypto Tokens, particularly those relating to Digital Wallets and the susceptibility of private cryptographic keys to misappropriation.
+
+5B.3.2
+
+(1) Without limiting the generality of the systems and controls obligations of the Authorised Market Institution, an Authorised Market Institution must have in place adequate systems and controls to address market integrity, AML, CTF and investor protection risks in permitting a Direct Access Member to access its facility, including procedures to:
+
+(a)
+
+identify the ultimate beneficial owner of a Direct Access Member, where the Member is a Body Corporate;
+
+49
+
+AMI/VER28/03-25
+
+AUTHORISED MARKET INSTITUTIONS (AMI)
+
+(b)
+
+ensure that appropriate customer due diligence sufficient to address AML and CTF risks has been conducted on each Direct Access Member, before permitting that Member to access its facility; and
+
+(c)
+
+detect and address market manipulation and abuse.
+
+(2)
+
+An Authorised Market Institution must have adequate controls and procedures to ensure that trading in Crypto Tokens by Direct Access Members does not pose any risks to the orderly and efficient functioning of the facility’s trading system, including controls and procedures to:
+
+(a) mitigate counterparty risks that may arise from defaults by Direct Access Members, through adequate collateral management measures, such as margin requirements, based on the settlement cycle adopted by the Authorised Market Institution;
+
+(b)
+
+identify and distinguish orders that are placed by Direct Access Members, and, if necessary, enable the Authorised Market Institution to stop orders of, or trading by, such Members;
+
+(c)
+
+prevent Direct Access Members from allowing any other Persons to access the facility through that Member

@@ -1,0 +1,89 @@
+ 1.2.1.
+
+A4.10 Securitisation
+
+A4.10.1 An Authorised Firm which is an Originator or a Sponsor of a Traditional Securitisation may exclude securitised Exposures from the calculation of Credit RWA amounts only if all of the following conditions have been complied with:
+
+302
+
+PIB/VER50/07-25
+
+(a)
+
+(b)
+
+(c)
+
+(d)
+
+(e)
+
+(f)
+
+(g)
+
+(h)
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+except as provided in (g), (i) and (k), significant Credit Risk associated with the securitised Exposures has been transferred from the Originator to third parties;
+
+the Authorised Firm does not maintain effective or indirect control over the underlying Exposures;
+
+the assets are legally isolated from the Authorised Firm in order to ensure the assets are beyond the reach of the Authorised Firm in the event of bankruptcy or receivership;
+
+the Securities issued are not the obligations of the Authorised Firm;
+
+the Securities are issued pursuant to the securitisation by an SPE and the holders of the beneficial interests in that entity have the right to pledge or exchange them without restriction;
+
+where a securitisation includes a Clean-Up Call, Clean-Up Calls must satisfy the conditions set out in Rule A4.10.3.
+
+the documentation of the securitisation does not contain any clauses that:
+
+(i)
+
+require the Authorised Firm systematically to alter the underlying Exposures such that the pool’s weighted average credit quality is improved unless this is achieved by selling Exposures to independent and unaffiliated third parties which are not Connected to the Authorised Firm or Related Persons of the Authorised Firm in accordance with Rule 4.4.6 at market prices;
+
+(ii)
+
+increases in a retained First Loss Position or Credit allow Enhancement provided by the Authorised Firm after the securitisation’s inception;
+
+for
+
+(iii) other than step-up features incorporated in relation to the underlying Exposures of the securitisation, increase the yield payable to parties other than the Authorised Firm, such as investors and third-party providers of Credit Enhancements, in response to deterioration in the credit quality of the underlying Exposures in the pool; or
+
+(iv) other than Clean-Up Calls, oblige the Authorised Firm to repurchase any of the underlying Exposures, at any time, except where that obligation arises from the exercise of a representation or warranty given by the Authorised Firm. The Authorised Firm may give a representation or warranty solely in respect of the nature or existing state of facts of any underlying Exposure, that is capable of being verified, at the time of its transfer.
+
+the transfer of the underlying Exposures or the transfer of risk through sub- participation does not contravene the terms and conditions of any underlying agreement in respect of the underlying Exposures and where applicable, all the necessary consents for the transfer or sub-participation have been obtained;
+
+303
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+(i)
+
+the documentation of the securitisation specifies that, if cash flows relating to the underlying Exposures are rescheduled or renegotiated, the SPE to which the Exposures have been transferred and not the Authorised Firm, would be subject to the rescheduled or renegotiated terms;
+
+(j)
+
+the Authorised Firm receives a fixed amount of consideration for the underlying Exposures;
+
+(k)
+
+the Authorised Firm holds not more than 20% of the aggregate original amount of all Securities issued by the SPE, except where such holdings comprise entirely of Securities that have a Credit Quality Grade of 1 as set out in Rules in sections 4.11 and 4.12, and all transactions with the SPE are conducted at arm’s length and on market terms and conditions;
+
+(l)
+
+where the assets relate to the Islamic Financial Business of an Authorised Firm, a written confirmation from the appointed Shari’a Supervisory Board that the securitisation complies with Shari’a; and
+
+(m)
+
+each of the points (a) to (l) must be evidenced and confirmed by a legal opinion from a qualified legal counsel.
+
+Guidance
+
+1.
+
+An Authorised Firm is deemed to

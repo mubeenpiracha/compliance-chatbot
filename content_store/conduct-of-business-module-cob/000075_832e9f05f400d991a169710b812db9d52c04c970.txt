@@ -1,0 +1,93 @@
+ adequate and effective systems and controls, including policies and procedures, to ensure that its members and other Persons to whom access to its facility is provided through members comply with its Operational Rules and where any gaps or deficiencies are identified, they are promptly addressed.
+
+9.4
+
+Investment criteria
+
+9.4.1 An ATS Operator must ensure in respect of every Investment or Crypto Token traded
+
+on its facility that:
+
+(a)
+
+only Investments which meet the requirements in (i), (ii), (iv) or (v) or Crypto Tokens which meet the requirements in (iii) are traded on its facility:
+
+(i)
+
+in the case of Securities, the Securities are admitted to trading on an Authorised Market Institution or other Regulated Exchange;
+
+(ii)
+
+in the case of Security Tokens that do not meet the criteria in (i):
+
+(A)
+
+there is a current Approved Prospectus relating to the Security Tokens;
+
+(B)
+
+the ATS Operator has taken adequate steps before admitting the Security Tokens to trading, to satisfy itself that both the Security Tokens and the relevant Reporting Entity meet the general eligibility requirements in MKT section 9.3; and
+
+(C)
+
+the ATS Operator has adequate systems and controls in place to effectively monitor and enforce a Reporting Entity’s compliance with the requirements in MKT Chapter 9B;
+
+(iii)
+
+in the case of a Crypto Token, it is a Recognised Crypto Token;
+
+(iv)
+
+in the case of a Crypto Token Derivative:
+
+(A)
+
+it relates to a Recognised Crypto Token; and
+
+(B)
+
+the Derivative contract meets the contract specification criteria set out in AMI Rule 6.3.2; or
+
+(v)
+
+in the case of Derivatives (other than Crypto Token Derivatives), the instruments meet the contract specification criteria set out in AMI Rule 6.3.2;
+
+(b)
+
+there is sufficient information relating to the Investments or Crypto Tokens traded on the facility available to members and other Persons having access to the facility through such members to enable such Persons to make informed decisions relating to such Investments or Crypto Tokens; and
+
+110
+
+COB/VER48/03-25
+
+9.4.2
+
+CONDUCT OF BUSINESS (COB)
+
+(c)
+
+if it is an Investment that references to an underlying benchmark or index provided by a Price Information Provider, the requirements in Rule 9.4.2 are met.
+
+Guidance
+
+1.
+
+A Reporting Entity of Security Tokens that are admitted to trading by an ATS Operator under Rule 9.4.1(a)(ii) will be subject to the requirements imposed on Reporting Entities in MKT. An ATS Operator should therefore assess whether a prospective Reporting Entity is capable of meeting those requirements before admitting its Security Tokens to trading.
+
+2.
+
+There is no Reporting Entity for a Crypto Token and, as a Crypto Token cannot be admitted to the Official List, the MKT requirements for Listing do not apply. Instead, GEN Rule 3A.2.1 requires a Crypto Token to be a Recognised Crypto Token before it can be offered to the public, promoted or the subject of any Financial Service in the DIFC. This will include it being traded on a MTF. A Crypto Token may be recognised where the DFSA is satisfied that specified criteria in GEN section 3A are met.
+
+3.
+
+Crypto Token Derivatives (i.e. Derivatives relating to Crypto Tokens) are Investments. An Authorised Firm trading a Crypto Token Derivative is therefore required to comply with requirements such as ensuring the Derivative contracts meet the contract design specifications in AMI Rule 6.3.2 and, if the value of the Derivative is determined by reference to a benchmark or index, ensuring the Price Information Provider meets the requirements in Rule 9.4.2. In addition, under Rule 9.4.1 and GEN section 3A, any underlying Crypto Token to which the Derivative relates is required to be a Recognised Crypto Token and, if the Derivative relates to an index, the index may contain only Recognised Crypto Tokens.
+
+Use of price information providers
+
+(1)
+
+An ATS Operator may only trade Investments that reference to an underlying benchmark or index provided by a Price Information Provider where it has undertaken appropriate due diligence to ensure that the Price Information Provider, on an on-going basis, meets the requirements set out in (3).
+
+(2)
+
+A Price Information Provider is a price reporting agency or an index provider which constructs, compiles,

@@ -1,0 +1,143 @@
+ of Customer Due Diligence on its behalf:
+
+(a)
+
+an Authorised Person;
+
+(b)
+
+a law firm, notary, or other independent legal business, accounting firm, audit firm or insolvency practitioner or an equivalent person in another jurisdiction;
+
+(c)
+
+a Financial Institution; or
+
+(d)
+
+a member of the Relevant Person’s Group.
+
+(2)
+
+In (1), a Relevant Person may rely on the information previously obtained by a third party which covers one or more elements of Customer Due Diligence.
+
+(3) Where a Relevant Person seeks to rely on a person in (1) it may only do so if
+
+and to the extent that:
+
+(a)
+
+it immediately obtains the necessary Customer Due Diligence information from the third party in (1);
+
+(b)
+
+it takes adequate steps to satisfy itself that certified copies of the documents used to undertake the relevant elements of Customer Due Diligence will be available from the third party on request without delay;
+
+(c)
+
+if a person in (1)(b) to (d) is in another country, the person is:
+
+(i)
+
+subject to requirements in relation to customer due diligence and record keeping which meet the standards set out in the FATF Recommendations; and
+
+43
+
+AML/VER27/03-25
+
+8.1.2
+
+Anti-Money Laundering, Counter-Terrorist Financing and Sanctions Module (AML)
+
+(ii)
+
+supervised for compliance with those requirements in a manner for regulation and the standards supervision set out in the FATF Recommendations;
+
+that meets
+
+(d)
+
+the person in (1) has not relied on any exception from the requirement to conduct any relevant elements of Customer Due Diligence which the Relevant Person seeks to rely on; and
+
+(e)
+
+in relation to (2), the information is up to date.
+
+(4) Where a Relevant Person relies on a member of its Group, such Group
+
+member need not meet the condition in (3)(c) if:
+
+(a)
+
+the Group applies and implements a Group-wide policy on customer due diligence, record keeping, Politically Exposed Persons and AML programmes which meets the standards set out in the FATF Recommendations; and
+
+(b)
+
+where those Customer Due implementation of Diligence, record keeping and PEP requirements and AML programmes are supervised at Group level by a Financial Services Regulator or other competent authority in a country, the supervision and regulation meets the FATF Recommendations.
+
+the effective
+
+the standards set out
+
+in
+
+(5)
+
+If a Relevant Person is not reasonably satisfied that a customer or Beneficial Owner has been identified and verified by a third party in a manner consistent with these Rules, the Relevant Person must immediately perform the Customer Due Diligence itself with respect to any deficiencies identified.
+
+(6) Notwithstanding the Relevant Person’s reliance on a person in (1), the Relevant Person remains responsible for compliance with, and liable for any failure to meet the Customer Due Diligence requirements in this module.
+
+(1) When assessing under Rule 8.1.1(3)(c) or (4) if requirements, supervision or regulation in another jurisdiction meet FATF standards, a Relevant Person must take into account factors including, among other things:
+
+(a)
+
+mutual evaluations, assessment reports published by FATF, the IMF, the World Bank, the OECD or other International Organisations;
+
+reports or
+
+follow-up
+
+(b)
+
+membership of FATF or other international or regional groups such as the MENAFATF or the Gulf Co-operation Council;
+
+(c)
+
+contextual factors such as political stability or the level of corruption in the jurisdiction;
+
+(d)
+
+evidence of recent criticism of the jurisdiction, including in:
+
+(i)
+
+FATF advisory notices;
+
+(ii)
+
+public assessments of the jurisdiction’s AML regime by organisations referred to in (a); or
+
+(iii)
+
+reports by other relevant non-government organisations or specialist commercial organisations; and
+
+44
+
+AML/VER27/03-25
+
+8.2
+
+8.2.1
+
+Anti-Money Laundering, Counter-Terrorist Financing and Sanctions Module (AML)
+
+(e)
+
+whether adequate arrangements exist for co-operation between the AML regulator in that jurisdiction and the DFSA.
+
+(2) A Relevant Person making an assessment under (1) must rely only on
+
+sources of information that are reliable and up-to-date.
+
+(3) A Relevant Person must keep adequate records of how it made its
+
+assessment, including the sources and materials considered

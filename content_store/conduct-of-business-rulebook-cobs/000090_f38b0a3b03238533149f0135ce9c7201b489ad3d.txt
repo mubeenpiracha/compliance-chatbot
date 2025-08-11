@@ -1,0 +1,111 @@
+2)
+
+A notification under (1) must be in such form and manner, and contain such information, as the Regulator may direct.
+
+(3)
+
+If the incident has or may have an impact on the financial interests of its Payment Service Users, the Payment Service Provider must, without undue delay, inform its Payment Service Users of the incident and of all measures that they can take to mitigate the adverse effects of the incident.
+
+145
+
+COBS VER19.290725
+
+Guidance
+
+1.
+
+Upon receipt of the notification referred to in 19.23.2(1), the Regulator may notify any other relevant authorities in the UAE.
+
+2.
+
+If the Regulator receives notification of an incident from any relevant regulator in the UAE or internationally, it may direct the Payment Service Provider to take appropriate measures to protect the immediate safety of their Payment Service Users and the financial system.
+
+3.
+
+GEN 3.5.18 and 8.10.6 also require Authorised Persons to notify the Regulator in certain circumstances.
+
+19A.
+
+Fiat-Referenced Tokens
+
+19A.1 Application
+
+19A.1.1 Chapter 19A of these Rules applies to Authorised Persons which propose to issue or
+
+have issued Fiat-Referenced Tokens.
+
+19A.2 White Paper
+
+19A.2.1 No later than twenty days prior to the issuance of a Fiat-Referenced Token, an Authorised Person must submit a white paper to the Regulator which must be clear, fair, not misleading, concise and comprehensible and not promote the Fiat-Referenced Token as an alternative form of investment. The white paper must, at a minimum, contain information:
+
+(a)
+
+about the issuer of the Fiat-Referenced Token;
+
+(b) about the Fiat-Referenced Token including, but not limited to, the rights of the holder of a token and the responsibilities of the issuer of same, including, but not limited to:
+
+(i)
+
+redemption rights at par, rights to interest or other time-based payments; and
+
+(ii)
+
+in the event of a Pooling Event, any differing treatment of claims to redemption at par from claims for interest or time-based payments;
+
+(c)
+
+concerning the process whereby the Fiat-Referenced Token may be redeemed by a holder, including any extension of the redemption period due to circumstances such as market stresses;
+
+(d)
+
+concerning the operations of the issuer, including the mechanism by which the stability of the value of the Fiat-Referenced Token may be maintained;
+
+(e)
+
+concerning the proposed composition of the Reserve Investments and Relevant Money held;
+
+146
+
+COBS VER19.290725
+
+(f)
+
+concerning the risks inherent in holding Fiat-Referenced Tokens, including circumstances under which a loss of value might occur; and
+
+(g)
+
+concerning the underlying technology employed by the issuer and the relevant applicable standards applied by the issuer to monitor same.
+
+19A.2.2 The white paper must contain a clear and prominent statement that it has not been approved by the Regulator, and that the Authorised Person is solely responsible for the content of the white paper.
+
+19A.2.3 An Authorised Person which intends to issue a Fiat-Referenced Token must publish the white paper on its website prior to any issuance and maintain such publication there for as long as the relevant Fiat-Referenced Token remains in circulation, unless the white paper is replaced in accordance with Rule 19A.2.4.
+
+19A.2.4 The white paper prepared in accordance with Rules 19A.2.1 to 19A.2.3 must be
+
+updated:
+
+(a)
+
+in the event the information provided in accordance with Rule 19A.2.1 becomes materially inaccurate; or
+
+(b) where one calendar year has passed since the publication of the current
+
+published version of the white paper.
+
+19A.3 Additional Regulated Activities
+
+19A.3.1 An Authorised Person that has issued a Fiat-Referenced Token is prohibited from conducting any additional Regulated Activities not incidental to the issuance of a Fiat- Referenced Token.
+
+19A.4 Redemption
+
+19A.4.1 (1)
+
+An Authorised Person which has issued a Fiat-Referenced Token must:
+
+(a)
+
+on receipt of Money, issue Fiat-Referenced Tokens at the par value expressed in the white paper to the intended holder without delay; and
+
+(b)
+
+at the

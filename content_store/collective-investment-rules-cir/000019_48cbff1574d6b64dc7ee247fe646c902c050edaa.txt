@@ -1,0 +1,73 @@
+ mandate (e.g. investment selection), carrying out administrative functions such as issuing, transferring and redeeming Fund Units, valuing Fund assets, account keeping, financial reporting and carrying out compliance and oversight functions, in relation to each Fund constituted as an Incorporated Cell.
+
+5.
+
+The activities which the Incorporated Cell Company carries out for the Funds are not those of a third party service provider appointed by the Fund Manager, however the Fund Manager remains legally responsible to Unitholders in the Funds for acts or omissions of
+
+the Incorporated Cell Company (see Rule 6A.1.3).
+
+Incorporated Cell Companies and Protected Cell Companies
+
+6.
+
+While both Incorporated Cell Companies (ICCs) and Protected Cell Companies (PCCs) have a similar structure as both have a ‘core’ containing the infrastructure to manage their ‘cells’, there is a significant difference between an ICC and a PCC. Unlike a cell of a PCC, each Incorporated Cell of an ICC is a separate legal entity operating under its own name and with its own directors and Articles of Association. Under the ICC Regulations, an Incorporated Cell is not a subsidiary of the ICC. By contrast, a PCC and its cells form a single Fund, with each cell being a Sub-Fund of the PCC.
+
+7.
+
+A Fund Manager wishing to offer different investment strategies within a Single Fund (e.g. an Umbrella Fund) and different asset classes within its Sub-Funds to investors who can freely switch their investment strategies, can use the PCC structure. A Fund Manager wishing to manage different types or specialist classes of Funds, which are separate legal entities, using the infrastructure available in the core, can only do so by establishing an ICC.
+
+Funds constituted as Incorporated Cells
+
+8.
+
+Each Incorporated Cell of an ICC that is established as a Fund will need to be registered with, or notified to, the DFSA as a separate Fund (as it is a separate legal entity). Unless
+
+29
+
+CIR/VER38/08-24
+
+6A.1.1
+
+6A.1.2
+
+6A.1.3
+
+6A.1.4
+
+COLLECTIVE INVESTMENT RULES (CIR)
+
+specified otherwise, the requirements in the Law and these Rules apply to an Incorporated Cell that is a Fund in the same way that the requirements apply to other Funds that use a company structure. This includes, for example, general requirements for the management or operation of Funds and requirements that apply according to whether the Fund is a Public Fund, Exempt Fund or QIF and relevant requirements for specialist classes of Funds.
+
+9.
+
+An ICC is incorporated under the DIFC Companies Law, and so each Incorporated Cell of that ICC that is used to conduct Fund business is a Domestic Fund as defined in the Law (see Article 26(2) of the Law).
+
+10. An External Fund Manager is not permitted to use a Fund Platform (see Rule 6.1.4).
+
+11. A Fund Manager that uses the ICC structure to establish and manage Funds is not prevented from also managing other Funds outside that structure. However, the Fund Manager cannot use the infrastructure available in the Incorporated Cell Company to provide services to Funds that are not Incorporated Cells of the ICC (see Rule 6A.1.4(c)).
+
+12. This chapter sets out various requirements that apply to a Fund Manager that uses a Fund Platform to manage Funds constituted as Incorporate Cells of that ICC. These requirements should be read in conjunction with the other obligations, particularly under the ICC Regulations.
+
+Application of chapter
+
+This chapter applies to a Fund Manager that uses a Fund Platform.
+
+General application of CIR to Incorporated Cell Companies
+
+Except as otherwise provided in these Rules, the requirements in CIR that apply:
+
+(a)
+
+to a Fund Manager, apply to a Fund Manager when it uses an Incorporated Cell Company (ICC) to provide infrastructure to a Fund; and
+
+(b)
+
+in relation to a Fund that is a Company, apply in relation to a Fund that is an Incorporated Cell of an ICC.
+
+Guidance
+
+Because each Fund (i.e. an Incorporated Cell) is a stand-alone Fund, the Fund Manager using a Fund Platform needs to comply with all the applicable requirements in respect of each such Fund, although it is a Fund on a Fund Platform.
+
+Fund Manager responsible for acts of Fund Platform
+
+A Fund Manager using a Fund Platform remains responsible for any acts or omissions of the ICC as

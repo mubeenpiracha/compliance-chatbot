@@ -1,0 +1,127 @@
+(c)
+
+any financial interest of the operator or a Related Person that may create a conflict of interest;
+
+(d)
+
+the eligibility criteria for borrowers, Issuers or sellers that use the service;
+
+(e)
+
+the minimum and maximum value, if any, of loans or Investments that may be sought by a borrower or an Issuer using the service, or of property that may be sold by a seller using the service;
+
+(f)
+
+what, if any, security is usually sought from borrowers or Issuers, when it might be exercised and any limitations on its use;
+
+(g)
+
+the eligibility criteria for lenders or investors that use the service;
+
+(h)
+
+any limits on the amounts a lender may lend or an investor may invest using the service, including limits for individual loans or investments and limits that apply over any 12 month period;
+
+132
+
+COB/VER48/03-25
+
+CONDUCT OF BUSINESS (COB)
+
+(i)
+
+when a lender or an investor may withdraw a commitment to provide funding, and the procedure for exercising such a right;
+
+(j)
+
+what will happen if loans sought by a borrower or funds sought by an Issuer or seller, either fail to meet, or exceed, the target level;
+
+(k)
+
+steps the operator will take and the rights of the relevant parties if there is a material change in:
+
+(i)
+
+a borrower’s or an Issuer’s circumstances, in the case of Loan Crowdfunding or Investment Crowdfunding; and
+
+(ii)
+
+a property or Investment, in the case of Property Investment Crowdfunding;
+
+(l)
+
+how the operator will deal with overdue payments or a default by a borrower or an Issuer;
+
+(m)
+
+which jurisdiction’s laws will govern the loan agreement;
+
+(n)
+
+arrangements and safeguards for Client Assets held or controlled by the operator, including details of any legal arrangements (such as nominee companies) that may be used to hold Client Assets;
+
+(o)
+
+any facility it provides to facilitate the transfer of loans or the sale of Investments, the conditions for using the facility and any risks relating to the use of that facility;
+
+(p)
+
+measures it has in place to ensure the platform is not used for money- laundering or other unlawful activities;
+
+(q)
+
+measures it has in place for the security of information technology systems and data protection; and
+
+(r)
+
+contingency arrangements it has in place to ensure the orderly administration of loans or Investments if it ceases to carry on business.
+
+(2) For Property Investment Crowdfunding, in addition to the information in (1), the operator must disclose the information in points (a) to (c) prominently on its website and on any other electronic medium through which its services can be accessed and the information in points (d) to (h) on its platform to investors:
+
+(a)
+
+the property selection criteria, for example, whether the platform is looking to balance income and capital returns or looking for high growth opportunities;
+
+(b)
+
+details of the Special Purpose Vehicle that will be used to hold title to the property, including its legal nature, role and duties and how it will protect the interests of investors;
+
+(c)
+
+the precise nature of the investor’s legal interest in relation to the property;
+
+133
+
+COB/VER48/03-25
+
+CONDUCT OF BUSINESS (COB)
+
+(d)
+
+what income the investor is expected to receive from the property and when it will be paid;
+
+(e)
+
+the rights or obligations, if any, an investor has in relation to the property after he has invested, for example, whether the investor will be expected to contribute any further capital to cover any costs related to the property or the Special Purpose Vehicle;
+
+(f)
+
+details of any service provider that will be required to supply property services such as valuation, management, maintenance and insurance and how any potential conflicts of interest will be prevented or managed;
+
+(g)
+
+expenses likely to be incurred in relation to the property, including valuation, management, maintenance, insurance and taxation costs and how they will be paid for; and
+
+(h)
+
+the term of the investment, what happens at the end of the term, the circumstances, if any, in which the property may be sold before the end of the term and whether the term may be extended.
+
+Operator not to provide both regulated and unregulated crowdfunding services
+
+11.3.4 An operator must ensure that it does not provide both regulated and unregulated
+
+crowdfunding services.
+
+Guidance
+
+Some crowdfunding services may not need to be authorised e.g. reward or donation crowdfunding that do not involve an Investment

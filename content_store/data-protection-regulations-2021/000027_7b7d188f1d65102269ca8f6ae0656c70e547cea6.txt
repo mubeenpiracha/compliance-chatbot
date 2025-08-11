@@ -1,0 +1,87 @@
+ any of the purposes of these Regulations;
+
+46
+
+(d)
+
+approve draft codes of conduct in accordance with section 38;
+
+(e)
+
+issue certifications and approve criteria of certification in accordance with section 39;
+
+(f)
+
+adopt standard data protection clauses referred to in sections 26(6) and 42(2);
+
+(g)
+
+authorise contractual clauses referred to in section 42(4);
+
+(h)
+
+advise the Board in the course of the preparation of a legislative or regulatory measure which provides for the Processing of Personal Data, in order to ensure compliance of the intended Processing with these Regulations and in particular to mitigate the risk involved for the Data Subject;
+
+(i)
+
+prepare and publish a list (to be updated from time to time) of Processing activities that it considers require a Data Protection Impact Assessment in accordance with section 34; and
+
+(j)
+
+approve Binding Corporate Rules pursuant to section 43.
+
+51. Budget5
+
+(1) The Office of Data Protection must have its own annual budget. The Board must ensure that there is a provision of sufficient human, technical and financial resources to enable the Commissioner of Data Protection to effectively perform its duties and functions and exercise its powers in accordance with these Regulations.
+
+(2) To help inform the budget, before the end of the current financial year the Commissioner of Data Protection must submit to the Board for approval estimates (including for staffing costs) of the annual income and expenditure of the Office of Data Protection for the next financial year.
+
+52. Accounts and audit6
+
+(1) The Office of Data Protection must keep proper accounts of its financial activities.
+
+(2) The Board must appoint auditors to conduct an audit in relation to each financial year of
+
+the Office of Data Protection.
+
+(3) The Office of Data Protection, must before the end of the first quarter of the financial year, prepare financial statements for the previous financial year in accordance with accepted accounting standards. The accounts prepared under this section must be submitted for the approval of the Board, who must, as soon as reasonably practicable, provide such statements to the relevant auditors for audit.
+
+(4) The auditors must prepare a report on the financial statements and send the report to
+
+the Board.
+
+(5) The auditors’ report must, where appropriate, include an opinion given by the auditors as to whether or not the financial statements to which the report relates give a true and fair view of the financial position of the Office of Data Protection as at the end of the
+
+5 Amended on 26 July 2022 6 Amended on 26 July 2022
+
+47
+
+financial year to which the financial statements relate and of the results of its operations and cash flows in the financial year.
+
+(6) The auditors have the right to access at all reasonable times all information which is reasonably required by them for the purposes of preparing the report and which is held or controlled by any officer or member of Staff of the Office of Data Protection.
+
+(7) The auditors are entitled to reasonably require from the officers and Staff of the Office of Data Protection such information as they consider necessary for the performance of their duties.
+
+(8) A person must not without reasonable excuse intentionally engage in conduct that
+
+obstructs a person appointed under section 52(2) in the exercise of his or her powers.
+
+53. Annual report7
+
+(1) As soon as practicable after 1 January each year, the Commissioner of Data Protection must deliver to the Board a report on the management of the administrative affairs of the Office of Data Protection for the previous year. This report must include a list of types of contraventions addressed by the Commissioner of Data Protection in the previous year and the measures taken in response.
+
+(2) Such report must give a true and fair view of the state of the Office of Data Protection’s regulatory operations in ADGM, and its financial statements as at the end of the relevant financial year.
+
+(3) This report may be made available to the public.
+
+7 Amended on 26 July 2022
+
+48
+
+PART VII Fines and Remedies
+
+54. Directions
+
+(1)
+
+If the Commissioner of Data Protection is satisfied, after duly conducting all reasonable and necessary inspections and investigations, that a Controller or Processor has contravened or is contravening these Regulations or any rules made under these Regulations, the Commissioner of Data Protection may issue a direction requiring the Controller or Processor to do any of the measures referred to in sections

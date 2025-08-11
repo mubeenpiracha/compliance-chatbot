@@ -1,0 +1,85 @@
+.
+
+In order to enable the DFSA to monitor the appropriateness of the multiplication factors on an ongoing basis, the Authorised Firm should notify promptly, and in any case no later than within five working days, any violations that result from its back-testing programme.
+
+Internal Validation
+
+19. Authorised Firms should have processes in place to ensure that all their internal models used for purposes of chapter 5 have been adequately validated by suitably qualified parties independent of the development process to ensure that they are conceptually sound and adequately capture all material risks. The validation should be conducted when the internal model is initially developed and when any significant changes are made to the internal model. The validation should also be conducted on a periodic basis but especially where there have been any significant structural changes in the market or changes to the composition of the portfolio which might lead to the internal model no longer being adequate. As techniques and best practices for internal validation evolve, Authorised Firms should apply these advances. Internal model validation should not be limited to back-testing, but should, at a minimum, also include the following: tests to demonstrate that any assumptions made within the internal model are appropriate and do not underestimate or overestimate the risk;
+
+361
+
+PIB/VER50/07-25
+
+A5.9.2
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+b.
+
+in addition to the regulatory back-testing programmes, Authorised Firms should carry out their own internal model validation tests, including back-testing, in relation to the risks and structures of their portfolios; and
+
+c.
+
+the use of hypothetical portfolios to ensure that the internal model is able to account for particular structural features that may arise, for example material basis risks and Concentration Risk.
+
+20.
+
+The Authorised Firm should perform back-testing on both actual and hypothetical changes in the portfolio's value.
+
+Requirements for modelling Specific Risk
+
+21. An internal model used for calculating Capital Requirements for Specific Risk and an internal model for correlation trading should meet the following additional requirements:
+
+a.
+
+it explains the historical price variation in the portfolio;
+
+b.
+
+it captures concentration in terms of magnitude and changes of composition of the portfolio;
+
+c.
+
+it is robust to an adverse environment;
+
+d.
+
+it is validated through back-testing aimed at assessing whether Specific Risk is being accurately captured. If the Authorised Firm performs such back-testing on the basis of relevant sub-portfolios, these must be chosen in a consistent manner;
+
+e.
+
+it captures name-related basis risk and should in particular be sensitive to material idiosyncratic differences between similar, but not identical, positions; and
+
+f.
+
+it captures event risk.
+
+Exclusions from Specific Risk models
+
+22. An Authorised Firm may choose to exclude from the calculation of its Specific Risk Capital Requirement using an internal model those positions for which it fulfils a Capital Requirement for Specific Risk in accordance with relevant sections of chapter 5.
+
+23. An Authorised Firm may choose not to capture default and migration risks for debt instruments in its internal model where it is capturing those risks through internal models for incremental default and migration risk.
+
+Incremental risk charge (IRC) model
+
+Guidance
+
+1.
+
+An Authorised Firm that uses an internal model for calculating Capital Requirements for Specific Risk of interest rate risk Exposures should also have an internal incremental default and migration risk (incremental risk charge, or IRC) model in place to capture the default and migration risks of its Trading Book positions that are incremental to the risks captured by the VaR measure as specified in Guidance note 7 of A5.9.1. An Authorised Firm should demonstrate that its internal model meets soundness standards comparable to the Internal Ratings Based (IRB) approach for Credit Risk under the assumption of a constant level of risk, and adjusted where appropriate to reflect the impact of liquidity, concentrations, hedging and optionality.
+
+Scope of the internal IRC model
+
+2.
+
+The internal IRC model should cover all positions subject to a Capital Requirement for specific interest rate risk, including those subject to a 0% Specific Risk capital charge under Rule A5.2.13, but should not cover securitisation positions and n-th-to-default Credit Derivatives.
+
+362
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+3.
+
+The Authorised Firm may, subject to approval

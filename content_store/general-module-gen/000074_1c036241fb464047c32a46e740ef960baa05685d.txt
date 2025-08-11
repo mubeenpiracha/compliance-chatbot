@@ -1,0 +1,173 @@
+ communication with the DFSA is
+
+conducted in the English language.
+
+6.10 Provision of information to the DFSA
+
+Guidance
+
+1.
+
+This section sets out how certain information must be provided to the DFSA. It applies to information in an AFN form and in any other application, notification, report or return that must be provided to the DFSA under a Rule. It does not apply to PIB or PIN returns, which are subject to a special system: the DFSA Electronic Prudential Reporting System (EPRS).
+
+2.
+
+The DFSA has enabled certain information to be submitted online using the electronic system on its website. If information can be submitted online, that online electronic system is to be used – see Rule 6.10.2. In other cases, information must be provided to the DFSA in accordance with Rule 6.10.3.
+
+6.10.1 (1) This section applies to a Person providing information to the DFSA in:
+
+(a) an AFN form; or
+
+(b) any other application, notification, report or return required to be
+
+provided or submitted to the DFSA under a Rule.
+
+(2) This section does not apply to an Authorised Person providing a return
+
+under PIB or PIN.
+
+(3)
+
+In this section, a reference to information that can be submitted online is a reference to information that can be submitted to the DFSA online using the appropriate electronic system on the DFSA website.
+
+Method of providing information
+
+110
+
+GEN/VER67/03-25
+
+GENERAL (GEN)
+
+6.10.2 If information can be submitted online, a Person must submit the information
+
+to the DFSA using the online system.
+
+6.10.3 If information cannot be submitted online then, unless a Rule states
+
+otherwise, a Person must ensure that information it provides to the DFSA:
+
+(a)
+
+is provided to the DFSA in writing;
+
+(b)
+
+sets out the Person’s full name and, if applicable, its authorisation or registration number;
+
+(c)
+
+is addressed to the attention of:
+
+(i)
+
+the Markets Department if the information is being provided under AMI, REC, MKT, PRS or TKO; or
+
+(ii)
+
+the Supervision Department in any other case; and
+
+(d)
+
+is delivered to the DFSA:
+
+(i)
+
+by post to the current address of the DFSA;
+
+(ii)
+
+by hand to the current address of the DFSA; or
+
+(iii) by electronic mail to an address provided by the DFSA.
+
+Evidence that information was provided
+
+6.10.4 A Person who provides information to the DFSA must retain sufficient evidence to be able to demonstrate to the DFSA, upon request, that the information was submitted or delivered.
+
+111
+
+GEN/VER67/03-25
+
+GENERAL (GEN)
+
+7
+
+AUTHORISATION
+
+7.1 Application
+
+7.1.1
+
+(1)
+
+This chapter applies, subject to (2), to every Person who is:
+
+(a)
+
+an Authorised Firm;
+
+(b)
+
+an applicant for a Licence to be an Authorised Firm;
+
+(c)
+
+an Authorised Individual;
+
+(d)
+
+an applicant for Authorised Individual status; or
+
+(e)
+
+a Controller of a Person referred to in (a) or (b).
+
+(2)
+
+This chapter does not apply to a Person intending to:
+
+(a)
+
+Operate an Exchange;
+
+(b)
+
+Operate a Clearing House; or
+
+(c)
+
+Operate a Representative Office.
+
+Guidance
+
+1.
+
+This chapter outlines DFSA’s authorisation requirements for an Authorised Firm and Authorised Individual.
+
+2.
+
+The DFSA’s requirements for authorisation of:
+
+a.
+
+Authorised Market Institutions are covered by the AMI module; and
+
+b.
+
+Representative Offices are covered by the REP module.
+
+3.
+
+The DFSA’s requirements for registration of DNFBPs are found in the AML module.
+
+4.
+
+This chapter should be read in conjunction with the RPP Sourcebook which sets out DFSA’s general regulatory policy and processes. Some additional processes may be outlined in other chapters of this module.
+
+5.
+
+Chapter 2 of the RPP Sourcebook sets out DFSA’s approach to the authorisation of undertakings and individuals to conduct Financial Services or Licensed Functions, as the case may be.
+
+7.2 Application for a Licence
+
+7.2.1 A Person, who intends to carry on one or more Financial Services in

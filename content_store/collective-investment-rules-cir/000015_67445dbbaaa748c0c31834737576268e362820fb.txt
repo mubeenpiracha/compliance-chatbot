@@ -1,0 +1,103 @@
+ a Domestic or a Foreign Fund.
+
+(2)
+
+This chapter does not apply to a Fund Manager or Trustee to the extent that it carries on an activity of Providing Fund Administration within the Financial Services of Managing a Fund or of Acting as the Trustee of a Fund.
+
+Compliance with the AML Rules
+
+5.1.2
+
+The AML module applies to the activities of a Fund Administrator in Providing Fund Administration for a Domestic Fund or Foreign Fund as if each reference in AML to a “customer” is a reference to a “Unitholder” or “prospective Unitholder” as appropriate to the context.
+
+Client Money and Assets
+
+5.1.3
+
+A Fund Administrator, in Providing Fund Administration for a Domestic Fund or Foreign Fund, must not hold or control monies or assets belonging to third parties in connection with such administration except in the following circumstances:
+
+(a)
+
+holding cheques to the order of a Fund’s bank account, provided such cheques are securely held for a maximum of three business days prior to being deposited into the relevant Fund’s bank account or returned to the drawer of the cheque; or
+
+(b)
+
+where a mandate over a Fund’s or other third party’s bank account is granted to a Fund Administrator and the mandate has been agreed in writing with the bank concerned, and transfers out of the relevant bank account may be made only in circumstances where the mandate restricts instructions to make such payments to being made solely in accordance with the payment of invoiced fees and expenses, made in accordance with the relevant Fund’s Constitution and Prospectus and are not remitted to the account of the Fund Administrator except by express instructions of the Fund Manager.
+
+22
+
+CIR/VER38/08-24
+
+5.1.4
+
+5.1.5
+
+COLLECTIVE INVESTMENT RULES (CIR)
+
+Delegation and service level agreements
+
+(1)
+
+A Fund Administrator of a Domestic Fund for which it is Providing Fund Administration must have a Delegation Agreement that meets the requirements in App1 with the Fund Manager or Trustee of the Fund.
+
+(2)
+
+Paragraph (1) does not apply to a Fund Administrator of a Qualified Investor Fund.
+
+Guidance
+
+Section 8.12 of this module governs the delegation of activities by a Fund Manager or where appointed the Trustee.
+
+(1)
+
+A Fund Administrator of a Foreign Fund for which it is Providing Fund Administration must have a service level agreement with the fund manager of that Foreign Fund setting out the functions and service standards that will be applied to the provision of such administration.
+
+(2)
+
+The agreement in (1) must ensure that the Fund Administrator cannot in turn delegate the activities and functions delegated to it by the fund manager of the Foreign Fund unless the sub-delegate has been approved by that fund manager.
+
+(3)
+
+The agreement in (1) must also require the Fund Administrator to retain any relevant work or records relating to the delegated activities and functions where the contract is terminated either by the fund manager or the Fund Administrator.
+
+Guidance
+
+The DFSA would expect any agreement required under Rule 5.1.5 to include as a minimum the following provisions:
+
+a.
+
+unambiguous descriptions and definitions of the activities and functions to be provided by the Fund Administrator and the duties to be performed by both parties;
+
+b.
+
+an agreed standard in respect of resources and services supported as necessary by performance measures in accordance with the applicable legislation;
+
+c.
+
+the requirement for regular detailed reporting to a specified frequency from the Fund Administrator in respect of its duties and activities;
+
+d.
+
+provisions relating to the reporting of relevant events such as technological changes or error reporting and, in particular, any event which undermines the ability of the Fund Administrator to fulfil its duties;
+
+e.
+
+the requirement for an annual review (at a minimum) of the performance of the functions by the Fund Administrator; and
+
+f.
+
+provisions relating to records and adequate access by the fund manager, the Fund’s auditor or any other Persons providing control or risk management functions for the Fund, as required by the fund manager or applicable laws to that Fund.
+
+23
+
+CIR/VER38/08-24
+
+5.1.6
+
+5.1.7
+
+COLLECTIVE INVESTMENT RULES (CIR)
+
+Record keeping
+
+A Fund Administrator must maintain records which are sufficient to show and explain transactions in relation to each of the specific activities and functions which are being provided to each Fund, in respect of Un

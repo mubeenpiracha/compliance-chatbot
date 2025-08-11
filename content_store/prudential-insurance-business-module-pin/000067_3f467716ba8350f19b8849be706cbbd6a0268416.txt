@@ -1,0 +1,65 @@
+ second segment. In that case this appendix shall be interpreted as though the assets (representing the first segment’s interest) held by the second segment were held directly by the first segment.
+
+96
+
+PIN/VER18/04-23
+
+PRUDENTIAL – INSURANCE BUSINESS (PIN)
+
+Guidance
+
+1.
+
+The effect of Rule A6.3.3 is to extend the flexibility given by A6.3.2 to cover situations where one segment of an Insurer uses another segment of the same Insurer as a specialist investment entity.
+
+2. Where Rule A6.3.3 is applied, the Insurer still needs to calculate the Minimum Segmental Capital Requirement for the specialist investment segment, in respect of the Invested Assets which the specialist investment segment owns. Two segments would therefore be required to hold capital in respect of those Invested Assets.
+
+A6.4 Default risk component
+
+Guidance
+
+The purpose of the default risk component is to require an Insurer to set aside capital to cover the risk that amounts receivable from counterparties will not be received. The basic calculation model for this component, as it applies to Insurers that are not Protected Cell Companies, is set out in section A4.4. The provisions in this section apply this basic model to the segments of a Protected Cell Company.
+
+A6.4.1 An Insurer must calculate the default risk component in respect of a segment as the sum of the amounts obtained by multiplying the value of each asset of the segment with the relevant percentage, in accordance with the following tables and subject to the provisions of Rules A6.4.2 and A6.4.3:
+
+(a)
+
+assets that are Invested Assets: the table set out in Rule A4.4.1(a); and
+
+(b)
+
+assets that are not Invested Assets: the table set out in Rule A4.4.1(b).
+
+A6.4.2 The provisions of Rules A4.4.2, A4.4.3, A4.4.4, A4.4.5, and A4.4.6 must be applied, mutatis mutandis, to assets of a segment as though references in those Rules to an Insurer were instead references to a segment.
+
+A6.4.3
+
+Notwithstanding anything else in this section:
+
+(a)
+
+the default risk component in respect of any asset that is subject to a fixed or floating charge, mortgage or other encumbrance must be 100% of the value of the asset to the extent of that charge, mortgage or encumbrance. In the case of such assets, the percentages set out in the tables referred to above must be applied only to the amount, if any, by which the value of the asset exceeds the amount of the charge, mortgage or encumbrance; and
+
+(b)
+
+no default risk component must be calculated in respect of assets excluded from Adjusted Cellular Capital Resources or Adjusted Non-Cellular Capital Resources in accordance with Rules A5.4.3(e), A5.4.3(f), A5.4.3(i), A5.4.3(j), A5.8.3(e), A5.8.3(f), A5.8.3(g), A5.8.3(h), A5.8.3(k) or A5.8.3(l).
+
+A6.5
+
+Investment volatility risk component
+
+Guidance
+
+The purpose of the investment volatility risk component is to require an Insurer to set aside capital to cover the risk of deterioration in the values of Invested Assets. The basic calculation model for this
+
+97
+
+PIN/VER18/04-23
+
+PRUDENTIAL – INSURANCE BUSINESS (PIN)
+
+component, as it applies to Insurers that are not Protected Cell Companies, is set out in section A4.5. The provisions in this section apply this basic model to the segments of a Protected Cell Company.
+
+A6.5.1 An Insurer must calculate the investment volatility risk component in respect of a segment as the sum of the amounts obtained by multiplying the value of each Invested Asset attributable to the segment with the relevant percentage, in accordance with the table set out in Rule A4.5.1, but subject to the provisions of Rule A4.5.2.
+
+A6.6 Off-balance sheet asset risk component

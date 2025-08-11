@@ -1,0 +1,99 @@
+ must meet the following criteria:
+
+(a)
+
+the Authorised Firm's stress scenarios must cover a range of factors that can create extraordinary losses or gains in trading portfolios, or make the control of risk in those portfolios very difficult. These factors include low-probability events in all major types of risks, including the various components of market, credit, and Operational Risks;
+
+(b)
+
+the Authorised Firm's stress tests must be both of a quantitative and qualitative nature, incorporating both Market Risk and liquidity aspects of market disturbances. Quantitative criteria must identify plausible stress scenarios to which the Authorised Firm could be exposed. Qualitative criteria must emphasise that two major goals of stress testing are to evaluate the capacity of the Authorised Firm's capital to absorb potential large losses and to identify steps the Authorised Firm can take to reduce its risk and conserve capital; and
+
+(c)
+
+the Authorised Firm must combine the use of supervisory stress scenarios with stress tests developed by the Authorised Firm itself to reflect their Specific Risk characteristics. Information is required in three broad areas:
+
+(i)
+
+supervisory scenarios requiring no simulations by the Authorised Firm - the Authorised Firm must have information on the largest losses experienced during the reporting period available for supervisory review. This loss information must be compared to the level of capital that results from an Authorised Firm's internal measurement system;
+
+(ii)
+
+supervisory scenarios requiring a simulation by the Authorised Firm – the Authorised Firm must subject its portfolio to a series of simulated stress scenarios and provide the DFSA with the results (e.g., the sensitivity of the Authorised Firm’s Market Risk Exposure to changes in the assumptions about volatilities and correlations); and
+
+(iii) scenarios developed by the Authorised Firm itself to capture the
+
+specific characteristics of its portfolio.
+
+(2)
+
+In addition to the scenarios prescribed under (1)(c), an Authorised Firm must also develop its own stress tests which it identifies as most adverse, based on the characteristics of its portfolio, for example, problems arising in a key region of the world combined with a sharp move in oil prices. The Authorised Firm must also provide the DFSA with a description of the methodology used to identify and carry out the scenarios as well as with a description of the results derived from these scenarios.
+
+366
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+A5.10 Credit Valuation Adjustment Risk Capital Requirement
+
+Guidance
+
+This section presents the method for the calculation of the Credit Valuation Adjustment Risk Capital Requirement under Rule 5.10A.1.
+
+A5.10.1 In this section:
+
+(a)
+
+“Covered Transaction” means:
+
+(i)
+
+a derivative transaction but excluding derivatives transacted directly with a Qualifying CCP; and
+
+(ii) a SFT if:
+
+(A)
+
+it is fair-valued under the Authorised Firm’s applicable accounting framework; and
+
+(B)
+
+the Authorised Firm’s CVA Risk arising from the transaction is material;
+
+(b)
+
+“CVA Risk” means the risk of losses arising from changing credit valuation adjustment (CVA) values in response to changes in Counterparty credit spreads and market risk factors that drive prices of Covered Transactions; and
+
+(c)
+
+“Eligible CVA Hedge” means a transaction used for the purpose of mitigating the Counterparty credit spread component of CVA Risk, and managed as such and that is either:
+
+(i)
+
+a single-name credit default swap or a contingent credit default swap which references:
+
+(A)
+
+the Counterparty directly;
+
+(B) an entity legally related to the Counterparty, where legally related refers to cases where the reference name and the Counterparty are either a parent and its subsidiary or two subsidiaries of a common parent; or
+
+(C) an entity that belongs to the same sector and region as the
+
+Counterparty; or
+
+(ii) an index credit default swap.
+
+General provisions
+
+A5.10.2 An Authorised Firm must calculate its Credit Valuation Adjustment Risk Capital Requirement for its entire portfolio of Covered Transactions and Eligible CVA Hedges by using the following approaches:
+
+(a)
+
+the basic approach for credit valuation adjustment risk (BA-CVA) under Rules A5.10.4 to A5.10.12; or
+
+367
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANK

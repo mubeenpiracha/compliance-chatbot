@@ -1,0 +1,121 @@
+.
+
+2.4 Exempt securities
+
+Guidance
+
+1.
+
+Exempt Securities are Securities which a Person can have admitted to trading on an Authorised Market Institution without a Prospectus.
+
+2.
+
+The prohibition in Article 14(1)(b) of the Law does not apply, subject to the requirement in Rule 2.4.2, to the admission to trading on an Authorised Market Institution of Securities that are Exempt Securities under Rule 2.4.1.
+
+2.4.1 For the purposes of Article 14(3)(b) of the Law the DFSA hereby prescribes the types
+
+of Securities that are Exempt Securities:
+
+(a)
+
+Shares representing, over a period of 12 months, less than 10 per cent of the number of Shares of the same class already admitted to trading on the same Authorised Market Institution;
+
+(b)
+
+Shares issued in substitution for Shares of the same class already admitted to trading on the same Authorised Market Institution, if the issue of the Shares does not involve any increase in the issued capital;
+
+(c)
+
+Securities offered in connection with a Takeover by means of an exchange offer, if a document is available containing information which is regarded by the DFSA as being equivalent to that of a Prospectus;
+
+(d)
+
+Securities offered, allotted or to be allotted in connection with a merger, if a document is available containing information which is regarded by the DFSA as being equivalent to that of the Prospectus;
+
+(e)
+
+Securities offered, allotted or to be allotted in connection with a rights issue if:
+
+(i)
+
+the Securities are of the same class as the Securities already admitted to trading on the same Authorised Market Institution; and
+
+12
+
+MKT/VER24/03-25
+
+(f)
+
+(g)
+
+(h)
+
+(i)
+
+MARKETS RULES (MKT)
+
+(ii)
+
+a document is made available containing information on the number and nature of the Securities and the reasons for and details of the offer;
+
+Shares offered, allotted or to be allotted to existing shareholders free of charge, or in respect of dividends paid out in the form of Shares of the same class as the Shares in respect of which the dividends are paid, if:
+
+(i)
+
+the Shares are of the same class as the Shares already admitted to trading on the same Authorised Market Institution; and
+
+(ii)
+
+a document is made available containing information on the number and nature of the Shares and the reasons for and details of the offer;
+
+Securities offered, allotted or to be allotted to an existing or former director or Employee, or any Close Relative of such a director or Employee, of the Issuer or a member of the same Group as the Issuer and if:
+
+(i)
+
+the Securities are of the same class as the Securities already admitted to trading on the same Authorised Market Institution; and
+
+(ii)
+
+a document is made available containing information on the number and nature of the Securities and the reasons for and detail of the offer;
+
+Shares resulting from the conversion or exchange of other Securities or from the exercise of the rights conferred by other Securities, if the Shares are of the same class as the Shares already admitted to trading on the same Authorised Market Institution; or
+
+Securities already admitted Institution or Regulated Exchange (“the other market”), where:
+
+to
+
+trading on another Authorised Market
+
+(i)
+
+the Securities, or Securities of the same class, have been admitted to trading and continuously traded on the other market for more than 18 months;
+
+(ii)
+
+the ongoing obligations for trading on that other market have been complied with; and
+
+(iii)
+
+the Person requesting the admission to trading of the Securities under this exemption makes a summary document in the English language which is approved by the DFSA in accordance with the requirements in section 2.6 and published:
+
+(A)
+
+containing the information set out in Rule 2.5.2(1)(b) and such other information as the DFSA may require;
+
+(B)
+
+stating where the most recent and current Prospectus, if any, can be obtained; and
+
+(C)
+
+specifying where the financial information published by the Issuer pursuant to its ongoing disclosure obligations of the other market is available.
+
+13
+
+MKT/VER24/03-25
+
+MARKETS RULES (MKT)
+
+Guidance
+
+In considering whether a document referred to in (c) or (d) contains all the relevant information, the DFSA will take into account the information required under Part 2

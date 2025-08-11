@@ -1,0 +1,63 @@
+ Business Tool is used to transfer only part of the rights, assets or liabilities of the Institution in Resolution or the Business of the ADGM Branch, the Residual Institution from which those rights, assets or liabilities have been transferred shall be Wound Up under Insolvency Proceedings unless otherwise directed by the Regulator. Such Winding Up shall be done within a reasonable time, having regard, if relevant, to the need for that Institution to provide services in order to enable the Recipient to carry out the activities or services acquired by virtue of that transfer, and any other reason that the continuation of the Residual Institution is necessary to achieve the Resolution Objectives or comply with the General Resolution Principles.
+
+Chapter 2 General Resolution Matters
+
+Ex-ante judicial approval
+
+A decision by the Regulator to take Resolution Action or make a Foreign Resolution Order shall be subject to it obtaining a prior judicial ruling from the Court in accordance with this section.
+
+A judicial ruling in accordance with subsection (1) shall be mandatory prior to taking Resolution Action or making a Foreign Resolution Order, if the Resolution Action or Foreign Resolution Order amounts to or would amount to an action of confiscation or seizure or any restriction on individual ownership of funds, rights or activities under Article 19(1) of the ADGM Founding Law.
+
+A judicial ruling may be requested from the Court by the Regulator in all other cases that do not fall under subparagraph (2).
+
+Any application for a judicial ruling under this section shall be for a determination that the Regulator has reasonable grounds to conclude that the Resolution Conditions necessary for taking the Resolution Action or making a Foreign Resolution Order have been satisfied.
+
+The hearing of any application brought by the Regulator under this section shall be held in private and may be conducted without notice to, and in the absence of, the Institution.
+
+The Court may issue a ruling declaring that the Regulator has reasonable grounds to conclude that the Resolution Conditions have been satisfied if the Regulator has demonstrated that the Resolution Conditions necessary for taking the Resolution Action or making a Foreign Resolution Order have been met.
+
+The Court shall not issue any interim or interlocutory order in relation to any Resolution Action in favour of a person other than the Regulator. The rights of any Shareholder, creditor or other person affected in respect of any situation, action or omission in connection with Resolution Action will be limited to an action for compensation against the Institution in Resolution or the Residual Institution as may be determined by the Difference in Treatment Valuation and claimable pursuant to section 68.
+
+Any subsequent judicial ruling of the Court arising from any appeal of a judicial ruling under this section, or the judicial review of any subsequent Resolution Action taken by the Regulator,
+
+30
+
+(9)
+
+28.
+
+(1)
+
+(2)
+
+(3)
+
+29.
+
+(1)
+
+(2)
+
+30.
+
+(1)
+
+or Foreign Resolution Order made by the Regulator, shall not affect or invalidate any transfer, provision or instrument made by the Regulator pursuant to such Resolution Action or Foreign Resolution Order and the Court may not quash any provision in any transfer, provision or instrument made by the Regulator pursuant to such Resolution Action.
+
+Subsection (8) does not affect the power of the Court, subject to section 6, to award damages as a remedy.
+
+Restrictions on Other Proceedings
+
+Commencement of Insolvency Proceedings against an In-Scope Entity shall be taken only with notice to, and the consent of, the Regulator.
+
+For the purposes of subsection (1), the Court shall only consider an application to issue Insolvency Proceedings if the applicant has filed with the Court evidence of delivery of notice to the Regulator concerning the application to issue Insolvency Proceedings in relation to an In-Scope Entity, irrespective of whether the In-Scope Entity is under Resolution or a decision has been made public; and
+
+(a)
+
+the Regulator has notified the Court that it does not intend to take any Resolution Action in relation to the In-Scope Entity; or
+
+(b)
+
+a period of seven days, beginning from the date on which the notification required under subsection (1) was made, has expired, in which event the Regulator shall be deemed to have consented to the issuance of Insolvency Proceedings.
+
+Without prejudice to any restriction on the enforcement of security interests imposed pursuant to section 61, if necessary for the effective application of the Resolution Tools and Resolution Powers, the Regulator may request the Court to apply a stay for an appropriate period of time in accordance with the objective

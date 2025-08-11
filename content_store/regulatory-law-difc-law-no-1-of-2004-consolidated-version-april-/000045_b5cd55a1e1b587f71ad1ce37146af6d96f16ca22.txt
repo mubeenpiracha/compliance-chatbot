@@ -1,0 +1,121 @@
+including depositors) or shareholders who are located or payable in the other jurisdiction concerned; or
+
+(d)
+
+the recognition would have a significant detrimental impact on the DIFC or be unlawful under any DIFC Law.
+
+(4) Where the DFSA makes a decision under (1), the DFSA:
+
+(a)
+
+shall record its decision together with the reasons for that decision;
+
+(b)
+
+shall give written notice of the decision to:
+
+(i)
+
+the Resolution Authority in the other jurisdiction;
+
+(ii)
+
+if it considers it necessary, the entity; and
+
+(iii)
+
+if it considers it necessary, any Resolution Authority in any other relevant jurisdiction; and
+
+(c)
+
+may publish information about the decision if it considers it is desirable to do so in the public interest.
+
+(5)
+
+For the purposes of supporting, or giving full effect to, an order under (1) (a) or (b) (a “Recognition Order”), the DFSA may:
+
+(a)
+
+include in the order any provision that the DFSA considers necessary to give effect to the order; or
+
+(b)
+
+exercise in conjunction with the order one or more Resolution Powers or Resolution Tools as it considers appropriate in the circumstances.
+
+(6)
+
+A Recognition Order shall not prejudice the winding up of an Authorised Firm under ordinary insolvency proceedings, unless the winding up conflicts with the resolution action, in which case the recognised resolution action shall take precedence.
+
+84U. Statements of Policy
+
+78
+
+(1)
+
+The DFSA may prepare and publish a statement of its policy about the principles it will consider in exercising its powers under this Part.
+
+(2)
+
+The DFSA may at any time amend or replace a statement published under this Article and where it does so it shall publish the amended or new statement.
+
+(3)
+
+In exercising its powers under this Part, the DFSA shall have regard to a statement of policy (if any) published under this Article.
+
+84V. Application of Insolvency Law
+
+(1)
+
+To the extent that this Part, including any Rule made or requirement issued under this Part, is inconsistent with the Insolvency Law, the provision of this Part or the Rule or requirement under this Part shall prevail.
+
+(2)
+
+If the DFSA has determined that the Resolution Conditions have been met in relation to an Authorised Firm, a person may not commence insolvency proceedings under the Insolvency Law in respect of the Authorised Firm except with the DFSA’s consent.
+
+(3)
+
+The DFSA may apply to the Court under Article 93 of this Law for the winding up of an Authorised Firm or commence insolvency proceedings under the Insolvency Law in respect of the Authorised Firm notwithstanding that it has determined that the Resolution Conditions have been met or has taken resolution action under this Part in respect of the Authorised Firm.
+
+(4)
+
+The DFSA may take resolution action under this Part in relation to an Authorised Firm even if insolvency proceedings have already commenced in relation to the Authorised Firm.
+
+84W. Protection from liability
+
+(1)
+
+An Authorised Firm, an entity in its Group or a director or employee of the Authorised Firm or an entity in its Group is not liable for damages in respect of anything done or omitted to be done in good faith in accordance with a requirement made by the DFSA under this Part.
+
+(2)
+
+A Temporary Administrator or an independent valuer appointed under this Part is not liable for damages in respect of anything done or omitted to be done in good faith for the purposes of, or in connection with, the performance of functions under that appointment.
+
+84X. Default Event Provision
+
+(1) Article 84X(2) applies where a contract or other agreement:
+
+(a)
+
+is entered into by an Authorised Firm or a Regulated Financial Institution; or
+
+79
+
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+(b)
+
+includes cross-default provisions, and is entered into by another Group entity in the Authorised Firm’s Group or Regulated Financial Institution’s Group,
+
+and the substantive obligations provided for in the contract or agreement (including payment and delivery obligations and provision of collateral) continue to be performed.
+
+The following shall be disregarded in determining whether a Default Event Provision applies:
+
+(a)
+
+the exercise of a measure in an Authorised Firm’s Recovery Plan, the removal of impediments to Resolvability of an Authorised Firm, the imposition of an Early Intervention Power, the appointment of a Temporary Administrator, the exercise of a Resolution Power or

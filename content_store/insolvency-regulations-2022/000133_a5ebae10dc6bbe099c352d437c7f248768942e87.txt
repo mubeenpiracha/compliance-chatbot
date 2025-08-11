@@ -1,0 +1,121 @@
+ paragraph (2)) one or more of the following—
+
+(i)
+
+a debt or liability to which the Company is subject at the relevant date;
+
+(ii)
+
+a debt or liability to which the Company may become subject after the relevant date by reason of any obligation incurred before that date; and
+
+(iii)
+
+interest provable as mentioned in paragraph 28 (Interest) of Part 3 (Creditors’ claims) of this Schedule;
+
+(b)
+
+“dividend” in its application to a members’ voluntary winding-up includes distribution;
+
+(c)
+
+“Office-holder” means a person who, pursuant to these Regulations, holds an office as a liquidator, provisional liquidator or administrator;
+
+(d)
+
+“Insolvency Proceedings” means any winding-up proceedings or proceedings concerning provisional liquidation or administration under these Regulations as the context requires;
+
+(e)
+
+“provable debt” has the meaning given in paragraph 3 (Provable debts) of Part 3 (Creditors’ claims) of this Schedule; and
+
+(f)
+
+“relevant date” means—
+
+(i)
+
+in the case of an administration which was not immediately preceded by a winding-up, the Company entered administration;
+
+the date on which
+
+(ii)
+
+in the case of an administration which was immediately preceded by a winding-up, the date on which the Company went into liquidation;
+
+(iii)
+
+in the case of a winding-up which was not immediately preceded by an administration, the date on which the Company went into liquidation; and
+
+(iv)
+
+in the case of a winding-up which was immediately preceded by an administration, the date on which the Company entered administration.
+
+191
+
+(2)
+
+(3)
+
+(4)
+
+3.
+
+(1)
+
+(2)
+
+(3)
+
+4.
+
+(1)
+
+(2)
+
+(3)
+
+For the purposes of any provision of these Regulations about winding-up or administration, a liability in tort is a debt provable in a winding-up or administration, if either—
+
+(a)
+
+the cause of action has accrued at the relevant date; or
+
+(b)
+
+all the elements necessary to establish the cause of action exist at that date except for actionable damage.
+
+For the purposes of references in any provisions of these Regulations about winding- up or administration, to a debt or liability, it is immaterial whether the debt or liability is present or future, whether it is certain or contingent, or whether its amount is fixed or liquidated, or is capable of being ascertained by fixed rules or as a matter of opinion; and references in any such provision to owing a debt are to be read accordingly.
+
+Unless defined in this Schedule, or the context otherwise requires, a term defined in these Regulations has the same meaning in this Schedule. Any reference to these Regulations includes the Schedules thereto.
+
+PART 3
+
+CREDITORS’ CLAIMS
+
+Provable debts
+
+All claims by creditors in Insolvency Proceedings, except as provided in this paragraph, are provable as debts against the Company, whether they are present or future, certain or contingent, ascertained or sounding only in damages.
+
+In relation to administration and winding-up, claim(s) which by virtue of these Regulations or any other enactment of the Abu Dhabi Global Market are claim(s) the payment of which in an administration or a winding-up would be postponed shall not be provable except at a time when all other claims of creditors in the Insolvency Proceedings (other than the kind mentioned in this paragraph) have been paid in full with interest under paragraph 28 (Interest) of Part 3 (Creditors’ claims) of this Schedule.
+
+Nothing in this paragraph 3 prejudices any enactment or rule of law under which a particular kind of debt is not provable, whether on grounds of public policy or otherwise.
+
+Proving a debt
+
+In Insolvency Proceedings (other than a members’ voluntary winding-up), a person claiming to be a creditor of the Company and wishing to recover his debt in whole or in part must submit his claim in writing to the Office-holder unless—
+
+(a)
+
+the Court orders otherwise;
+
+(b)
+
+in a winding-up immediately preceded by an administration, the creditor has already proved in the administration; or
+
+(c)
+
+in an administration immediately preceded by a winding-up, the creditor has already proved in the winding-up.
+
+A creditor who claims is referred to as “proving” for his debt and a document by which he seeks to establish his claim is his “proof”.
+
+In a members’ voluntary winding-up the Office-holder may require proof to be delivered to

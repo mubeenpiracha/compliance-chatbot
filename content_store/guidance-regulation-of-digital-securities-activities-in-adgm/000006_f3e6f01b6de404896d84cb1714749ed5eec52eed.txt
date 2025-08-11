@@ -1,0 +1,37 @@
+entures or notes backed by financial assets to be considered asset backed for the purpose of this disclosure requirement. Please note that the disclosure requirement in Securities Note – 7.1 also applies.
+
+e) Actual and proposed business activities: As set out in MKT Appendix 1.1.1-2.1, a description of the history of the Issuer is to be included, and where an Issuer is newly incorporated, information should be disclosed regarding any preceding entity which conducted similar operations or was controlled by the same parties.
+
+f) Historical financial information: As set out in MKT Appendix 1.1.1-7.1, where an Issuer has begun operations, its relevant financial information is to be included in the Prospectus, and be appropriately audited. An Issuer’s financial statements are to be prepared in compliance with IFRS. As set out in MKT Appendix 1.1.1-9.4, please also note that the requirement for an expert report applies to special categories of Companies.
+
+g) Securities Note: For the purposes of MKT Appendix 1.2.1 – Section 2 (General information relating to the Securities (b)&(d)), in the case of Digital Securities, the FSRA would normally expect this disclosure requirement to be deemed N/A for the former, and subject to ADGM legislation for the latter.
+
+h) Securities Note – Other rights: Pursuant to MKT Appendix 1.2.1 – 2.4, the disclosure of other rights (such as the existence of voting rights) associated with a Digital Security is an important disclosure to allow an investor to make a fully informed investment decision. As such, disclosures of this nature would need to be given due prominence within an Approved Prospectus, and effort needs to be made throughout the document to draw a reader’s attention to such disclosures. This may involve cross-referencing or other appropriate signposting.
+
+31) Please note that the information required to be submitted as part of a Securities Note will be key information reviewed by the FSRA when considering the use of its power to deem a Security (as referred to in paragraph 16). If this information is not available, or
+
+VER02.240220
+
+11
+
+has not been completed appropriately, it is most likely that the FSRA will not be in a position to utilise its deeming power (under section 58(2)(b) of FSMR).
+
+Exempt Offers
+
+32) The obligation to issue a Prospectus under Section 61(3) of FSMR does not apply to an Offer of Securities to the Public that constitutes an Exempt Offer. Pursuant to MKT Rule 4.3, the FSRA has defined the types of Offers that constitute an Exempt Offer, including where: a) an Offer is directed at Professional Clients other than natural Persons;
+
+b) an Offer is directed at fewer than 50 Persons in any 12 month period, excluding
+
+Professional Clients who are not natural Persons; or
+
+c) the total consideration to be paid by a Person to acquire Securities is at least USD
+
+100,000, or an equivalent amount in another currency.
+
+33) As set out earlier in paragraph 15, an Issuer making an Exempt Offer of a Digital Security is still required to have the Digital Security deemed a Security under Section 58(2)(b) of FSMR. To clarify, the Issuer of the Exempt Offer document is not required to obtain FSRA approval for the Exempt Offer document itself.
+
+34) An Offer of Securities to the Public (made by way of an Exempt Offer document) can be used for the purposes of having such Securities admitted to trading on an MTF (see paragraph 46).
+
+Appointment of Legal Advisers
+
+35) Issuers seeking to make an Offer of Digital Securities should consider the appointment of suitable legal advisers, with the appropriate skills, knowledge and experience to provide the requisite assistance to the Issuer throughout the Offer process. The FSRA expects that such legal advisers would assist in ensuring an Issuer’s compliance with the applicable provisions of FSMR (including having the FSRA deem a Digital Security a Security under FSMR Section 58(2)(b)), and MKT (including in relation to the Listing Rules within MKT). The FSRA would generally expect to have direct engagement with an Issuer’s legal advisers throughout this process, particularly in relation to the drafting,

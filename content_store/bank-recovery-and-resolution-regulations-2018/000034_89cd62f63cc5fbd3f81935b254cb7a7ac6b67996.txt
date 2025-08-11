@@ -1,0 +1,93 @@
+ functioning of financial markets.
+
+Power to restrict enforcement of security interests
+
+The Regulator shall have the power to restrict secured creditors of an Institution in Resolution from enforcing security interests in relation to any assets of that Institution from the time notice is given, under section 24(3), of that restriction (as an action the Regulator intends to take) until midnight in the ADGM at the end of the second business day following that notice.
+
+The Regulator shall not exercise the power under this section in relation to any security interest of payment and securities settlement systems, Central Securities Depositories, clearing houses, Recognised Clearing Houses or central banks over assets pledged or otherwise provided by way of margin or collateral by the Institution in Resolution.
+
+Where section 75 applies, the Regulator shall ensure that any restrictions imposed under this section are consistent for all Group Entities in relation to which a Resolution Action is taken.
+
+When exercising the power under this section, the Regulator shall have regard to the impact the exercise of that power might have on the orderly functioning of financial markets.
+
+Power to temporarily suspend termination rights
+
+The Regulator shall have the power to suspend the termination rights of any party to a contract with an Institution in Resolution from the time notice is given, under section 24(3), until midnight in the ADGM at the end of the second business day following that notice, provided that the payment and delivery obligations and the provision of collateral continue to be performed by the Institution in Resolution.
+
+54
+
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+63.
+
+(1)
+
+(2)
+
+Any suspension under subsection (1) shall not apply to payment and delivery obligations owed to payment and securities settlement systems, Central Securities Depositories, clearing houses, Recognised Clearing Houses or central banks.
+
+A person may exercise a termination right under a contract before the end of the period referred to in subsection (1) if that person receives notice from the Regulator that the rights, assets or liabilities covered by the contract shall not be—
+
+(a)
+
+transferred to another entity; or
+
+(b)
+
+subject to write down or conversion on the application of the bail-in tool in accordance with section 49(1)(a).
+
+Where a Regulator exercises the power specified in subsection (1) to suspend termination rights, and where no notice has been given pursuant to subsection (4), those rights may be exercised on the expiry of the period of suspension, subject to section 62, as follows—
+
+(a)
+
+if the rights, assets or liabilities covered by the contract have been transferred to another entity, a counterparty may exercise termination rights in accordance with the terms of that contract only on the occurrence of any continuing or subsequent enforcement event by the Recipient;
+
+(b)
+
+if the rights, assets or liabilities covered by the contract remain with the Institution in Resolution and the Regulator has not applied the bail-in tool in accordance with section 49(1)(a) to Eligible Liabilities under that contract, a counterparty may exercise termination rights in accordance with the terms of that contract on the expiry of a suspension under subsection (1).
+
+When exercising a power under this section, the Regulator shall have regard to the impact that the exercise of the power might have on the orderly functioning of financial markets.
+
+Default Event Provisions
+
+The following shall be disregarded in determining whether a Default Event Provision applies—
+
+(a)
+
+a Crisis Prevention Measure, Crisis Management Measure or Recognised Foreign Resolution Action taken in relation to an Institution in Resolution (or any member of the Institution's Group); and
+
+(b)
+
+the occurrence of any event directly linked to the application of such measure or action.
+
+Subsection (1) applies where a contract or other agreement—
+
+(a)
+
+is entered into by an Institution or Foreign Institution;
+
+(b)
+
+is entered into by a Subsidiary of an Institution or Foreign Institution, whose obligations are guaranteed by another Group Entity in the Institution's Group or Non- ADGM Institution's Group; or
+
+(c)
+
+includes cross-default provisions, and is entered into by another Group Entity in the Institution's Group or Foreign Institution's Group,
+
+55
+
+and the substantive obligations provided for in the contract or agreement (including payment and delivery obligations and provision of collateral) continue to be performed.
+
+(3)
+
+A Resolution Order or Share Transfer Order may make provision for subsection (4) or (5) to apply in circumstances where subsection (1) would not apply.
+
+(4)
+
+If this subsection applies, the Resolution Order or Share Transfer

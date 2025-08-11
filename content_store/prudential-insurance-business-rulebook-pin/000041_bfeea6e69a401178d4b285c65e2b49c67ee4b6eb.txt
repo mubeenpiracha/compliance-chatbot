@@ -1,0 +1,184 @@
+ product lines that the Insurer is prepared to engage in or has chosen not to engage in;
+
+c.
+
+clearly defined and appropriate levels of delegation for approval of all material aspects of product design and pricing;
+
+d.
+
+processes for assessing specific risks, including risks arising from:
+
+i.
+
+inflation;
+
+ii.
+
+anti-selection (the tendency of poorer risks in a population to seek insurance while better risks self-insure);
+
+iii.
+
+moral hazard (the tendency of insured persons to manage their own risk less effectively, in the knowledge that they are insured);
+
+iv.
+
+changes in mortality and morbidity patterns;
+
+v.
+
+technology changes;
+
+vi.
+
+catastrophes, natural or man-made;
+
+vii.
+
+legal decisions;
+
+viii.
+
+changes in government policy; and
+
+ix.
+
+investment returns;
+
+e.
+
+procedures for exclusions and reinsurance;
+
+limiting risk through, for example, diversification,
+
+f.
+
+processes to ensure that policy documentation is adequately drafted to give effect to the proposed level of coverage under the product;
+
+g.
+
+how emerging experience is to be reflected in price adjustments;
+
+h.
+
+how the Insurer's product pricing responds to competitive pressures; and
+
+i.
+
+methods for monitoring compliance with product design and pricing policies and procedures.
+
+66
+
+PIN VER07.290725
+
+A2.10 Liquidity management risk
+
+Guidance
+
+1.
+
+An Insurer should have access to sufficient liquidity to meet all cash outflow commitments to policyholders (and other creditors) as and when they fall due. The nature of insurance activities means that the timing and amount of cash outflows are uncertain. This uncertainty may affect the ability of an Insurer to meet its obligations to policyholders or may require Insurers to incur additional costs through, for example, raising additional funds at a premium on the market or through the sale of assets.
+
+2.
+
+The risk management system for liquidity should normally include at least the following policies and procedures:
+
+a.
+
+procedures to identify and control the level of mismatch between expected asset and liability cash flows under normal and stressed operating conditions the (using circumstances of the Insurer);
+
+realistic scenarios
+
+relevant
+
+to
+
+b.
+
+procedures to monitor the liquidity and realisability of assets;
+
+c.
+
+procedures to identify and monitor commitments to meet liabilities including Insurance Liabilities;
+
+d.
+
+procedures to monitor the uncertainty of magnitude of Insurance Liabilities;
+
+incidence, timing and
+
+e.
+
+procedures to identify and monitor the level of liquid assets held by the Insurer; and
+
+f.
+
+procedures to identify and monitor other sources of funding including reinsurance, borrowing capacity, lines of credit and the availability of intra-group funding, and to identify the need for such sources to be made available.
+
+3.
+
+When assessing its liquidity requirements an Insurer should also consider the currency in which the assets and liabilities are denominated, and the locations in which those assets and liabilities are situated or payable.
+
+A2.11 Credit quality risk
+
+Guidance
+
+1.
+
+Credit exposures can increase the risk profile of an Insurer and adversely affect Credit exposure includes both on-balance sheet and financial viability. off-balance sheet exposures financial instruments and performance related obligations) to single and Related counterparties.
+
+(including guarantees, derivative
+
+67
+
+PIN VER07.290725
+
+2.
+
+An Insurer's risk management system in respect of credit quality risk will normally be expected to include at least the following policies and procedures:
+
+a.
+
+limits (where relevant, at both an individual and consolidated level) for credit exposures to:
+
+i.
+
+single counterparties and groupings of counterparties that are related to each other;
+
+ii.
+
+entities to which the Insurer is Related;
+
+iii.
+
+single industries; and
+
+iv.
+
+single geographical locations;
+
+b.
+
+processes to monitor and control credit exposures against pre-approved limits;
+
+c.
+
+processes for identifying breaches of limits and for ensuring that breaches of limits are brought within the pre-approved limits within a set timeframe;
+
+d.
+
+processes for reducing or cancelling limits to a particular counterparty where the counterparty is known to be experiencing problems;
+
+e.
+
+processes for approving requests for temporary increases in limits;
+
+f.
+
+processes to review credit exposures (at least annually but more frequently in cases where there is evidence of a deterioration in credit quality);
+
+g.
+
+a management information system that is capable of aggregating exposures to any one counterparty (or group of Related counterparties), asset class, industry or region in a timely manner; and
+
+h.
+

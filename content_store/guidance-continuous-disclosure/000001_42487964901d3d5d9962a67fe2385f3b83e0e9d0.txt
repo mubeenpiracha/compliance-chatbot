@@ -1,0 +1,47 @@
+RODUCTION
+
+1)
+
+This Guidance is issued under section 15(2) of the Financial Services and Markets Regulations 2015 (“FSMR”). It should be read in conjunction with FSMR and the Market Rules (MKT) of the Financial Services Regulatory Authority (“FSRA”).
+
+2)
+
+Pursuant to section 50 of FSMR,1 the FSRA is required to maintain the Official List, and may admit to the Official List such Securities as it considers appropriate. It is important to note that, pursuant to section 50 of FSMR, only the FSRA can maintain an Official List of Securities, and neither Recognised Investment Exchanges (RIEs) nor any other entity within ADGM are able to maintain their own ‘Official List of Securities’. Section 50 of FSMR further provides that in maintaining the Official List, the FSRA may refer to itself as the Listing Authority. For this purpose, Chapter 7 of MKT sets out the Rules applicable to ‘Market Disclosure’ or otherwise known as its ‘continuous disclosure’ framework. This Guidance sets out the Listing Authority’s expectations in relation to its continuous disclosure framework, and provides guidance to Reporting Entities to assist their decision making in relation to their continuous disclosure obligations.
+
+3)
+
+It is important for Reporting Entities to ensure that they have suitable compliance systems and controls in place so that they can meet their continuous disclosure obligations, and respond to continuous disclosure events in a timely manner.
+
+4) Consideration of continuous disclosure issues are often intensely time critical in nature, due to their market context, implications for price discovery and other ‘real time’ implications and basis. The opportunity, and time available, therefore, for consultation within a Reporting Entity, or between the Listing Authority and a Reporting Entity, is often very limited. A transparent and pragmatic working relationship between the Listing Authority and Reporting Entities is therefore vital to the integrity and operation of ADGM’s Securities markets. The Listing Authority encourages Reporting Entities to work closely with the Listing Authority to promote investor confidence and facilitate access to Disclosure information of a high and credible quality.
+
+4) Consideration of continuous disclosure issues are often intensely time critical in nature, due to their market context, implications for price discovery and other ‘real time’ implications and basis. The opportunity, and time available, therefore, for consultation within a Reporting Entity, or between the Listing Authority and a Reporting Entity, is often very limited. 5)
+
+This Guidance is not an exhaustive source of the Listing Authority’s, policy on the exercise of its regulatory functions and powers. The Listing Authority is not bound by the provisions set out in this Guidance and may:
+
+a)
+
+impose additional requirements to address any specific risks posed by Digital Securities; and/or
+
+b) waive or modify any of the Rules relevant to Digital Securities, at its discretion,
+
+where appropriate.
+
+7) Nothing in this Guidance binds the Listing Authority, in relation to the application of FSMR or MKT to a particular Listed Entity/Reporting Entity, or in a particular situation. Nothing in this Guidance is to be taken as legal advice, and the Listing Authority recommends that Reporting Entities obtain their own independent legal advice.
+
+8) Unless otherwise defined, or the context otherwise requires, the terms contained in this Guidance have the same meaning as defined in FSMR or the FSRA Glossary Rulebook (“GLO”). Where a reference is made to a Rule, such reference is to be read as a
+
+1 Included within Part 6 of FSMR (Official Listing and Offers).
+
+1
+
+VER01.280922
+
+reference to a Rule within MKT. In reading this Guidance, readers should be aware of the interchangeability, but difference in treatment, between the concepts of Listed Entity and Reporting Entity.2 This Guidance therefore may refer to Listed Entity or Reporting Entity on a singular basis, or to them collectively, as applicable. The information set out in this Guidance relates both to Securities and Units of a Listed Fund (Chapter 3 of the Rules), as applicable.
+
+9)
+
+For more details on the requirements, and process, for making ensuring compliance with the Continuous Disclosure framework, please contact the Listing Authority at LA@adgm.com.
+
+IMPORTANCE OF CONTINUOUS DISCLOSURE
+
+10) Compliance with Rule 7.2.1 is critical to the orderly conduct and integrity of the Official List and ADGM’s Securities markets. Rule 7.2.1 is the cornerstone of the FSRA’s continuous disclosure framework, and is based on the principle of

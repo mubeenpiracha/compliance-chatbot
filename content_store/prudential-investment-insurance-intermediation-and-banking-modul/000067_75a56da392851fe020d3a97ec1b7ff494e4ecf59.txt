@@ -1,0 +1,91 @@
+-balance sheet assets
+
+4.9.3
+
+For each on-balance sheet asset, E should be the carrying value of the asset as determined in accordance with the International Financial Reporting Standards.
+
+102
+
+PIB/VER50/07-25
+
+4.9.4
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+Guidance
+
+1.
+
+For any asset, E should be equal to the fair value of that asset presented in the balance sheet except that:
+
+a.
+
+for any asset held at cost, E, should be equal to the cost of the asset presented in the balance sheet; and
+
+b.
+
+for any debt security or loan classified and measured at fair value through other comprehensive income, E, should be equal to the fair value less provision for impairment of that debt security or loan, adjusted by deducting any unrealised fair value gains and adding back any unrealised fair value losses on revaluation (broadly equivalent to the amortised cost of the debt security or loan less any provision for impairment).
+
+2.
+
+In the case of a lease where the Authorised Firm is exposed to residual value risk (i.e. potential loss due to the fair value of the leased asset declining below the estimate of its residual value reflected on the balance sheet of the Authorised Firm at lease inception), the Authorised Firm should calculate (i) an Exposure to the lessee equivalent to the discounted lease payment stream; and (ii) an Exposure to the residual value of the leased assets equivalent to the estimate of the residual value reflected in the balance sheet of the Authorised Firm.
+
+3.
+
+Any foreign exchange transaction or translation gain or loss from a foreign currency- denominated on- balance sheet item as well as interest earned on a fixed income instrument should be allocated to the Exposure to which it accrues.
+
+Measurement of E for off-balance sheet items other than CCR Exposures or SFTs
+
+(1)
+
+For each off-balance sheet item other than a CCR Exposure, exchange- traded derivative, or an Exposure arising from an SFT, an Authorised Firm must calculate E by:
+
+(a)
+
+in the case of an Early Amortisation Exposure, multiplying the amount of investors’ interest by the applicable CCF set out in Rules A4.2.1 and A4.2.2 in App4; and
+
+(b)
+
+in all other cases, multiplying the notional amount of each item by:
+
+(i)
+
+the applicable CCF set out in Rule A4.2.1 in App4 if that item is a CR Exposure; or
+
+(ii)
+
+the applicable CCF set out in Rule A4.2.2 in App4 if that item is an SE Exposure.
+
+(2)
+
+For the purpose of (1)(a), an Authorised Firm must calculate the amount of investors’ interest as the sum of:
+
+(a)
+
+investors’ drawn balances related to the securitised Exposures; and
+
+(b)
+
+E associated with investors’ undrawn balances related to the SE Exposures, where E is determined by allocating the undrawn balances of securitised Exposures on a pro-rata basis based on the proportions of the Originator’s and investors’ shares of the securitised drawn balances.
+
+103
+
+PIB/VER50/07-25
+
+4.9.5
+
+4.9.6
+
+4.9.7
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+Guidance
+
+1.
+
+An Authorised Firm which is exposed to the risk of the underlying Securities in an OTC derivative, long settlement transaction or SFT which is in substance similar to a forward purchase or credit substitute should calculate E, for such an Exposure, in accordance with Rule 4.9.4(1).
+
+2.
+
+For avoidance of doubt, where an Authorised Firm has provided unfunded credit protection via a total rate of return swap, E should be equal to the notional amount of the underlying reference credit for which the Authorised Firm is providing protection adjusted for any payments received from or made to the protection buyer and recognised in the profit and loss account of the Authorised Firm. Where an Authorised Firm has provided unfunded credit protection via a credit default swap, E should be equal to the notional amount of the underlying reference credit for which the Authorised Firm is

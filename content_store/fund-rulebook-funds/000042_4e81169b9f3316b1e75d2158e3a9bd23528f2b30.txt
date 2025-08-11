@@ -1,0 +1,103 @@
+ to enable:
+
+(a)
+
+the Compliance Officer to have unrestricted access to the Persons providing the oversight function and, to their reports and recommendations;
+
+(b)
+
+the Fund Manager to promptly act upon and remedy, to the satisfaction of the Persons providing the oversight function, any matter identified and reported to it by such Persons; and
+
+(c)
+
+the Persons providing the oversight function to report to the Regulator of any compliance breaches or inadequacies that are reported to the Fund Manager which are not remedied within the period specified in Rule 13.3.5(d).
+
+(3) The monitoring and reporting processes and procedures in (1) and (2) must be approved by the Persons providing the oversight function before implementation.
+
+65
+
+FUNDS VER10.100625
+
+Guidance
+
+The nature and extent of the systems and controls will depend upon a variety of factors including the nature, size and complexity of the Fund's operations. While all Fund Managers and appointees, irrespective of size, legal structure or organisation need to comply with this Chapter, the Regulator will take into account these factors and the differences that exist between Funds when assessing the adequacy of a Fund Manager's systems and controls. Nevertheless, neither these factors nor the differences relieve a Fund Manager or appointees from compliance with their regulatory obligations.
+
+13.3.15
+
+(1) The Persons appointed to perform the oversight function must report to the Fund Manager as to whether the Fund Manager's systems and controls relating to the oversight function are operating as intended and remain adequate at least quarterly at a board meeting of the Fund Manager.
+
+(2) Where an Eligible Custodian or Trustee has been appointed as the Person providing the oversight function, the Fund Manager must provide to that Person, and to the Fund's Governing Body, a copy of the Fund's most recent internal audit report and any compliance report as soon as such report is available to the Fund Manager.
+
+(3) A Fund Manager and Trustee of a Public Fund are not subject to the oversight requirement in (1) if the Fund's investments are limited to those that require passive management and the Fund's systems and controls contain adequate measures to address any risks arising in that context.
+
+Oversight report
+
+13.3.16
+
+(1) The Person providing the oversight function of a Public Fund must make a report to Unitholders of the Fund which must be included in the Fund's annual report referred to in Rule 16.4.2.
+
+(2) The oversight report must contain:
+
+(a)
+
+a description, which may be in summary form, of the duties of the Person carrying out the oversight functions and in respect of the safekeeping of the Fund Property; and
+
+(b)
+
+a statement whether, in any material respect:
+
+(i)
+
+the issue, sale, redemption and cancellation, and calculation of the price of the Units and the application of the Fund's income, have not been carried out in accordance with these Rules and, the Constitution; and
+
+(ii)
+
+the investment and borrowing powers and restrictions applicable to the Fund including those specified in Rule 13.4, if those have been exceeded.
+
+66
+
+FUNDS VER10.100625
+
+Co-operation with oversight providers
+
+13.3.17 A Fund Manager must take reasonable steps to ensure that it and its Employees and
+
+those of the Fund:
+
+(a)
+
+provide such assistance as the Persons providing the oversight function reasonably require to discharge their duties;
+
+(b)
+
+give the Persons providing the oversight function right of access at all reasonable times to relevant records and information relating to the Fund;
+
+(c)
+
+do not interfere with the ability of the Persons providing the oversight function to discharge their duties;
+
+(d)
+
+do not provide false or misleading information to the Persons providing the oversight function; and
+
+(e)
+
+report to the Persons providing the oversight function any matter which may significantly affect the financial position of the Fund or which is a material breach of the Fund's Constitution, or of FSMR, or of these Rules.
+
+Record keeping
+
+13.3.18
+
+(1) A Fund Manager must keep records of:
+
+(a)
+
+the due diligence process it has undertaken to assess whether the Persons appointed for the oversight function meet the suitability criteria in Rule 13.3.3; and
+
+(b)
+
+the matters identified and reported to it by the Persons providing the oversight function under Rule 13.3.16 and any remedial measures adopted by it to address such matters.
+
+13.4
+
+Investment and borrowing requirements for Public Funds

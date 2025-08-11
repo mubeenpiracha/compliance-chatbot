@@ -1,0 +1,135 @@
+/04-23
+
+PRUDENTIAL – INSURANCE BUSINESS (PIN)
+
+events such as power failure, denial of access to premises or work areas, systems failure (computers, data, building equipment), fire, fraud and loss of key staff.
+
+2.
+
+An Insurer’s risk management system in respect of business continuity planning risk will normally be expected to include at least the following policies and procedures:
+
+a.
+
+processes for identifying:
+
+i.
+
+events that may lead to a disruption in business continuity;
+
+ii.
+
+the likelihood of those events occurring;
+
+iii.
+
+the processes most at risk; and
+
+iv.
+
+the consequences of those events.
+
+b.
+
+a business continuity plan (BCP) describing:
+
+i.
+
+procedures to be followed if business continuity problems arise;
+
+ii.
+
+detailed procedures for enacting the BCP, including manual processes, the activation of an off-site recovery site (if needed) and the person(s) responsible for activating the BCP;
+
+iii.
+
+a communications strategy and contact information for relevant staff, suppliers, regulators, market authorities (including exchanges), major clients, the media and other key people;
+
+iv.
+
+a schedule of critical systems covered by the BCP and the timeframe for restoring these systems;
+
+v.
+
+the pre-assigned responsibilities of staff and procedures for training staff on all aspects of the BCP; and
+
+vi.
+
+procedures for regular testing and review of the BCP; and
+
+c.
+
+procedures for backing up important data on a regular basis and storing the information off site.
+
+A2.13 Outsourcing risk
+
+Guidance
+
+1.
+
+Financial firms frequently decide to outsource aspects of their operations to other parties, Related or not. Outsourcing can bring significant benefits to a firm in terms of efficiency, cost reduction and risk management. However, both the process of implementing outsourcing arrangements and the outsourcing relationship itself may expose a firm to additional risk. It is therefore important that firms take care to supervise the conduct of activities that are outsourced. GEN Rule 5.3.requires an Authorised Firm to inform the DFSA about any material outsourcing arrangement.
+
+2.
+
+The activities of outsource contractors have the ability to undermine the risk management activities of Insurers. Insurers should take particular care if outsourcing activities such as underwriting and claims management, where inappropriate performance of the functions can expose the Insurer to serious financial loss, for example through acceptance of inappropriate insurance risks, mis-pricing, failure to obtain appropriate reinsurance cover, or failure to detect invalid claims. These considerations apply to such arrangements as binding authorities and other agencies appointed by Insurers.
+
+62
+
+PIN/VER18/04-23
+
+PRUDENTIAL – INSURANCE BUSINESS (PIN)
+
+3.
+
+In negotiating a contract with an outsource contractor or in assessing an existing agreement, an Insurer should give consideration to matters relevant to risk management, including the following:
+
+a.
+
+setting and monitoring of authority limits and referral requirements;
+
+b.
+
+the identification and assessment of performance targets;
+
+c.
+
+procedures for evaluation of performance against targets;
+
+d.
+
+provisions for remedial action;
+
+e.
+
+reporting requirements imposed on the outsource contractors (including both content and frequency of reports);
+
+f.
+
+the ability of the Insurer and its risk management functions (for example, internal auditors), and its external auditors, to obtain access to the outsource contractors and their records;
+
+g.
+
+protection of intellectual property rights;
+
+h.
+
+protection of customer and firm confidentiality;
+
+i.
+
+the adequacy of any guarantees, indemnities or insurance cover that the outsource contractor agrees to put in place;
+
+j.
+
+the ability of the outsource contractor to provide continuity of business; and
+
+k.
+
+arrangements for change to the outsource contract or termination of the contract.
+
+4.
+
+Insurers should take care to manage the risk that the sound and prudent management of the Insurer’s business may be compromised by conflicting incentives in the outsource agreement. In particular, Insurers should consider whether the remuneration structure creates any perverse incentives. For example, an outsource contractor with underwriting authority may have an incentive to accept poorer quality business if remuneration is based on commission (especially if bonuses are given for volume) and remuneration is not affected by the performance of the insurance contracts accepted.
+
+5.
+
+Intra-group outsourcing may be perceived as subject to lower risks than using outsource contractors from outside a Group. However it is not risk-free and an Insurer must still assess the

@@ -1,0 +1,99 @@
+ is a Partnership, the amount by which the aggregate of the amounts withdrawn by its Partners or members exceeds the profits of that firm.
+
+69
+
+PRU VER17.290725
+
+CET1 Deductions - intangible assets
+
+3.10.8
+
+For the purposes of Rule 3.10.7(b), an Authorised Person must determine the intangible assets to be deducted in accordance with the following:
+
+(a)
+
+the amount to be deducted must be reduced by the amount of associated deferred tax liabilities that would be extinguished if the intangible assets became impaired or were derecognised under the International Financial Reporting Standards; and
+
+(b)
+
+the amount to be deducted must include goodwill included in the valuation of significant Investments of the Authorised Person.
+
+CET1 Deductions - deferred tax assets
+
+3.10.9
+
+(1)
+
+For the purposes of Rule 3.10.7(c), and subject to (2), the amount of deferred tax assets that rely on future profitability must be calculated without reducing it by the amount of the associated deferred tax liabilities of the Authorised Person.
+
+(2)
+
+The amount of deferred tax assets that rely on future profitability may be reduced by the amount of the associated deferred tax liabilities of the Authorised Person, provided the following conditions are met:
+
+(a)
+
+those deferred tax assets and associated deferred tax liabilities both arise from the tax law of the same tax jurisdiction; and
+
+(b)
+
+the taxation authority of that tax jurisdiction permits the offsetting of deferred tax assets and the associated deferred tax liabilities.
+
+Guidance
+
+1.
+
+Deferred tax assets are assets that may be used to reduce the amount of an Authorised Person's future tax obligations. Associated deferred tax liabilities of the Authorised Person used for the purposes of Rule 3.10.9 may not include deferred tax liabilities that reduce the amount of intangible assets or defined benefit pension fund assets required to be deducted. The amount of associated deferred tax liabilities referred to in this guidance should be allocated between the following:
+
+a.
+
+deferred tax assets that rely on future profitability and arise from temporary differences that are not deducted as part of a threshold exemption for deductions from CET 1 Capital; and
+
+b.
+
+all other deferred tax assets that rely on future profitability.
+
+2.
+
+An Authorised Person should allocate the associated deferred tax liabilities according to the proportion of deferred tax assets that rely on future profitability that the items referred to in Guidance note 1.a. and b. represent.
+
+70
+
+PRU VER17.290725
+
+3.10.10
+
+(1)
+
+An Authorised Person must apply a risk weight in accordance with Chapter 4, as applicable, to deferred tax assets that do not rely on future profitability.
+
+(2)
+
+For the purpose of (1), deferred tax assets that do not rely on future profitability comprise the following:
+
+(a)
+
+overpayments of tax by the Authorised Person for the current year;
+
+(b)
+
+current year tax losses of the Authorised Person carried back to previous years that give rise to a claim on, or a receivable from, a central government, regional government or local tax authority; and
+
+(c)
+
+deferred tax assets arising from temporary differences which, in the event the Authorised Person incurs a loss, becomes insolvent or enters liquidation, are replaced, on a mandatory and automatic basis in accordance with the applicable national law, with a claim on the central government of the jurisdiction in which the Authorised Person is incorporated which must absorb losses to the same degree as CET1 Capital instruments on a going concern basis and in the event of insolvency or liquidation of the Authorised Person.
+
+CET1 Deductions - defined benefit pension fund assets
+
+3.10.11 For the purposes of Rule 3.10.7(d), the amount of defined benefit pension fund assets
+
+to be deducted from CET1 Capital must be reduced by the following:
+
+(a)
+
+the amount of any associated deferred tax liability which could be extinguished if the assets became impaired or were derecognised under the International Financial Reporting Standards; and
+
+(b)
+
+the amount of assets in the defined benefit pension fund which the Authorised Person has an unrestricted ability to use where the Authorised Person has provided adequate advance notification of its intention to use those assets to the Regulator. Those assets used to reduce the amount to be deducted must receive a risk weight in accordance with Chapter 4 of these Rules.
+
+CET1 Deductions - holdings of own CET1 Capital instruments

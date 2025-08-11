@@ -1,0 +1,100 @@
+ the value of the derivative transactions in the netting set (constituted in accordance with Rule A4.6.18); and
+
+C = the haircut value of the net collateral held, calculated in accordance with Section A4.3.
+
+A4.6.21 Derivative contracts with a one-way margining agreement in favour of the Authorised
+
+Person's counterparty must be treated as unmargined transactions.
+
+291
+
+PRU VER17.290725
+
+Net Independent Collateral Amount
+
+A4.6.22 The independent collateral amount (ICA) is (i) collateral (other than variation margin) posted by the counterparty that is available to the Authorised Person on default of the counterparty; and/or (ii) the Independent Amount parameter as defined in standard industry documentation.
+
+A4.6.23 The net independent collateral amount (NICA) is any ICA posted by the counterparty
+
+less unsegregated collateral posted by the Authorised Person.
+
+Calculation of RC for margined transactions
+
+A4.6.24 RC for margined transactions is calculated in accordance with the following formula:
+
+RC = max{V – C; TH + MTA – NICA; 0}
+
+where:
+
+V = the value of the derivative transactions in the netting set (constituted in
+
+accordance with Rule A4.6.18);
+
+C = the haircut value of the net collateral held, calculated in accordance with Section
+
+A4.3;
+
+TH = the positive threshold before the counterparty is required to send the Authorised
+
+Person collateral;
+
+MTA = the minimum transfer amount applicable to the counterparty;
+
+NICA = the net independent collateral amount.
+
+Guidance
+
+(TH + MTA – NICA) represents the largest exposure that would not trigger a variation margin call. For example, without initial margin, the greatest exposure that would not trigger a variation call is the threshold plus any minimum transfer amount.
+
+Potential Future Exposure
+
+A4.6.25 The PFE consists of (i) an aggregate add-on component, which consists of add-ons calculated for each asset class and (ii) a multiplier that allows for the recognition of excess collateral or negative mark-to-market value for the transactions.
+
+A4.6.26 PFE is calculated as follows:
+
+PFE = multiplier * AddOnaggregate
+
+where:
+
+AddOnaggregate = the aggregate add-on component; and
+
+292
+
+PRU VER17.290725
+
+multiplier = a function of three inputs (V, C and AddOnaggregate), calculated in accordance with Rule A4.6.27.
+
+A4.6.27 The multiplier input is calculated in accordance with the following formula:
+
+multiplier = min {1;𝐹𝑙𝑜𝑜𝑟 + (1 − 𝐹𝑙𝑜𝑜𝑟)∗exp(
+
+𝑉−𝐶 2∗(1−𝐹𝑙𝑜𝑜𝑟)∗𝐴𝑑𝑑𝑂𝑛𝑎𝑔𝑔𝑟𝑒𝑔𝑎𝑡𝑒)}
+
+where:
+
+exp(…) = the exponential function;
+
+Floor = 5%;
+
+V = the value of the derivative transactions in the netting set; and
+
+C = the haircut value of the net collateral held, calculated in accordance with Section
+
+A4.3.
+
+General steps for calculating the add-on
+
+A4.6.28 For each transaction, the Authorised Person must identify the primary risk factor or factors and attribute the transaction to one or more of the five asset classes: interest rate, foreign exchange, credit, equity or commodity.
+
+A4.6.29 The Authorised Person must determine the add-on for each asset class in accordance
+
+with the asset-class-specific formulae set out in A4.6.35 – A4.6.58.
+
+Guidance
+
+Most derivative transactions have one primary risk driver, defined by the reference underlying instrument (e.g. an interest rate curve for an interest rate swap, a reference entity for a credit default swap, a foreign exchange rate for an FX call option etc.).
+
+Formulae and parameters common to all asset classes
+
+A4.6.30 The following formulae and adjustments are used in the determination of the add-ons
+

@@ -1,0 +1,207 @@
+ rights to acquire debt instruments.
+
+means a provision of a contract or other agreement—
+
+(a)
+
+that has the effect that if a specified event or situation arises—
+
+(i)
+
+the agreement is terminated, modified, replaced or suspended;
+
+(ii)
+
+rights or duties under the agreement are terminated, modified, or suspended;
+
+replaced
+
+(iii)
+
+a right accrues to terminate, modify or replace the agreement;
+
+4
+
+Definitive Valuation
+
+(iv)
+
+a right accrues to terminate, modify or replace the agreement;
+
+rights or duties under
+
+(v)
+
+a set-off or netting right accrues under the contract;
+
+(vi)
+
+a sum becomes payable or ceases to be payable;
+
+(vii)
+
+a right accrues to obtain possession, exercise control or enforce any security over any property;
+
+(viii)
+
+delivery of anything becomes due or ceases to be due;
+
+(ix)
+
+a right to claim a payment or delivery accrues, changes or lapses;
+
+(x)
+
+any other right accrues, changes or lapses; or
+
+(xi)
+
+an interest is created, changes or lapses; or
+
+(b)
+
+that has the effect that a provision of the contract or agreement—
+
+(i)
+
+takes effect only if a specified event occurs or does not occur;
+
+(ii)
+
+takes effect only if a specified situation arises or does not arise;
+
+(iii)
+
+has effect only for so long as a specified event does not occur;
+
+(iv)
+
+has effect only while a specified situation lasts;
+
+(v)
+
+applies differently if a specified event occurs;
+
+(vi)
+
+applies differently if a specified situation occurs; or
+
+(vii)
+
+applies differently while a specified situation lasts.
+
+means a valuation carried out under section 37.
+
+5
+
+Deposit
+
+Derivative Contract
+
+Difference of Treatment Valuation
+
+Director
+
+Document
+
+Early Intervention Action
+
+Eligible Depositor
+
+Eligible Liabilities
+
+Financial Contracts
+
+has the meaning given to that term in paragraph 85 of Schedule 1 in the Financial Services and Markets Regulations 2015 and "Depositor" shall be interpreted accordingly.
+
+has the meaning given to that term in section 258 of the Financial Services and Markets Regulations 2015.
+
+means a valuation carried out under section 68.
+
+has the meaning given to that term under section 146 of the Companies Regulations 2015.
+
+means any record of information recorded physically, electronically or in any other form and, in relation to information recorded otherwise than in legible form, references to include references to producing a copy of the information in legible form, or in a form from which it can readily be produced in visible and legible form.
+
+its production
+
+means—
+
+(a)
+
+the taking of an early intervention measure (as defined in section 18);
+
+(b)
+
+the appointment of temporary administrator under section 19; or
+
+(c)
+
+the variation of the terms of engagement of a temporary administrator under section 19(13).
+
+means a person (other than a market counterparty or a bank) who, at the relevant time, is a creditor of a bank which is an Abu Dhabi Global Market firm by virtue of being owed an amount of money held by the bank as a Deposit and "Eligible Deposit" shall be interpreted accordingly.
+
+means liabilities and capital instruments that do not qualify as Common Equity Tier 1 Capital instruments, Additional Tier 1 Capital instruments or Tier 2 Capital instruments of an Institution that are not excluded from the exercise of the Write Down or Conversion Power under section 49(7).
+
+includes the following contracts and agreements—
+
+(a)
+
+securities contracts, including—
+
+(i)
+
+contracts for the purchase, sale or loan of a security, a group or index of securities;
+
+6
+
+(b)
+
+(c)
+
+(d)
+
+(ii)
+
+options on a security or group or index of securities; and
+
+(iii)
+
+repurchase repurchase transactions on any such security, group or index;
+
+or
+
+reverse
+
+commodities contracts, including—
+
+(i)
+
+contracts for the purchase, sale or loan of a commodity or group or index of commodities for future delivery;
+
+(ii)
+
+options on a commodity or group or index of commodities; and
+
+(iii)
+
+repurchase repurchase transactions on any such commodity, group or index;
+
+or
+
+reverse
+
+futures and forwards contracts, including contracts (other than a commodities contract) for the purchase, sale or transfer of—
+
+(i)
+
+a commodity or property of any other description;
+
+(ii)
+
+a service; or
+
+(iii)
+
+a right or interest;
+
+for a specified price at a

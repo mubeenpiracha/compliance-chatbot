@@ -1,0 +1,117 @@
+ or may have access to Inside Information acknowledge the legal and regulatory duties entailed, including dealing restrictions in relation to the Reporting Entity’s Securities or any related Investments, and are aware of the sanctions attaching to the misuse or improper use or circulation of such information.
+
+4.2.9 A Reporting Entity must nominate two individuals to be its main points of contact with the DFSA in relation to continuing disclosure and other obligations under this chapter.
+
+Guidance
+
+Framework for handling Inside Information
+
+1.
+
+The responsibility for ensuring that a Reporting Entity has an adequate overall policy on the handling of Inside Information lies with the Board of the Reporting Entity. Whilst responsibility for compliance with the continuing obligations set out in the Rules lies with the Reporting Entity, Directors should be aware that they may be held personally liable for breaching these Rules.
+
+2.
+
+Reporting Entities should have a consistent procedure for assessing whether information is Inside Information and should clearly identify those within the Reporting Entity who are responsible for the communication of this information to the market.
+
+3.
+
+Reporting Entities should put in place arrangements for maintaining the confidentiality of Inside Information before announcement. These should include adequate training for Employees in the handling, distribution and announcement of Inside Information as appropriate. Reporting Entities should, for example, guard against the risk of Inside Information being leaked to the market through selective disclosure of internal briefings or via trade journals. Where the Reporting Entity considers that this may have occurred, an announcement should be made immediately.
+
+Inadvertent disclosure
+
+4.
+
+In situations where the Reporting Entity will be open to questioning that may be designed to elicit or may have the effect of eliciting Inside Information (such as during shareholders' meetings or dealing with analysts or journalists), the Reporting Entity should plan in advance how it will respond to such questions. If the Reporting Entity intends to disclose Inside Information at such a meeting, an announcement must be made before or at the same time as the meeting.
+
+44
+
+MKT/VER24/03-25
+
+MARKETS RULES (MKT)
+
+4.3 Disclosure of interests by connected persons
+
+Guidance
+
+Article 42 of the Law requires certain persons connected to a Reporting Entity to file with the DFSA and the Reporting Entity a report in accordance with the requirements prescribed in the Rules.
+
+Application
+
+4.3.1 This section applies to a Connected Person of a Reporting Entity other than that of a
+
+Listed Fund or an ATS Traded Fund.
+
+Guidance
+
+Chapter 6 contains Connected Person disclosure requirements relevant to Listed Funds and ATS Traded Funds.
+
+Definitions
+
+4.3.2
+
+(1)
+
+For the purposes of Article 42(2) of the Law, a Person is hereby prescribed as a Connected Person of a Reporting Entity if that Person:
+
+(a)
+
+is a Director or an individual involved in the senior management of either:
+
+(i)
+
+the Reporting Entity; or
+
+(ii)
+
+a controller of the Reporting Entity; or
+
+(b)
+
+owns, whether legally or beneficially, or controls, whether directly or indirectly, voting Securities carrying more than 5% of the voting rights attaching to all the voting Securities of either:
+
+(i)
+
+the Reporting Entity; or
+
+(ii)
+
+a controller of the Reporting Entity.
+
+(2)
+
+In (1), a Person is a controller of a Reporting Entity if that Person (the first person), either alone or with his Associates, controls the majority of the voting rights in, or the right to appoint or remove the majority of the Board of, the Reporting Entity or any Person who has similar control over the first person, including an ultimate controller of the first person.
+
+(3)
+
+For the purposes of determining whether a Person:
+
+(a)
+
+owns or controls voting Securities in (1)(b); or
+
+(b)
+
+controls the voting rights in or the right to appoint or remove the majority of the Board of a Reporting Entity or a controller of a Reporting Entity in (2),
+
+any Securities held by that Person and his Associates, including those in which that Person or an Associate of that Person has a beneficial interest, are deemed as his Securities except as specified in (4).
+
+45
+
+MKT/VER24/03-25
+
+4.3.3
+
+MARKETS RULES (MKT)
+
+(4)
+
+For the purposes of (3), Securities are not deemed as his Securities where:
+
+(a)
+
+any such Securities are held by that Person on behalf of another Person who is not an Associate of that Person; and
+
+(b)
+
+the Person does not have control over the voting rights attaching to

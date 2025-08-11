@@ -1,0 +1,109 @@
+.9 An Insurance Intermediary must ensure that Approved Assets are:
+
+(a)
+
+registered in the name of the Insurance Intermediary or Insurance Manager and designated "Insurance Bank Account"; or
+
+57
+
+COBS VER19.290725
+
+(b)
+
+held for the Insurance Bank Account of the Insurance Intermediary or Insurance Manager at the bank at which such Insurance Bank Account is held.
+
+7.11.10 An Insurance Intermediary or Insurance Manager must ensure that monies, other than interest, arising from Approved Assets or their realisation, sale or disposal are paid into an Insurance Bank Account.
+
+7.11.11 An Insurance Intermediary or Insurance Manager may not hold Insurance Monies in Approved Assets until it has given written notice to and received written notice from the bank referred to in Rule 7.11.9(b) that the bank is not entitled to any charge, encumbrance, lien, right of set-off, compensation or retention against Approved Assets held for the Insurance Intermediary's or Insurance Manager's Insurance Bank Account.
+
+7.11.12 An Insurance Intermediary or Insurance Manager may only use Approved Assets as security for a loan or overdraft where that loan or overdraft is for a purpose relating to an Insurance Bank Account as permitted by Rule 7.11.7.
+
+7.11.13 Where Insurance Monies are held in Approved Assets whose rating drops below the minimum stipulated within the definitions, that investment or asset will cease to be an Approved Asset and the Insurance Intermediary or Insurance Manager must dispose of the investment or asset as soon as possible and no later than within thirty days of the rating change.
+
+7.11.14 An Insurance Intermediary or Insurance Manager may not use derivatives in the management of Insurance Monies except for the prudent management of risks.
+
+7.11.15 An Insurance Intermediary who has a credit balance for a Client who cannot be traced
+
+must not take credit for such an amount except where:
+
+(a)
+
+he has taken reasonable steps to trace the Client and to inform him that he is entitled to the money;
+
+(b)
+
+at least six years has passed from the date the credit was initially notified to the Client; and
+
+(c)
+
+Rule 7.11.6(f) will continue to be satisfied after the withdrawal of such money.
+
+7.11.16 An Insurance Intermediary must keep records of all sums withdrawn from the Insurance Bank Account or realised Approved Assets as a result of credit taken under Rule 7.11.15 for at least six years from the date of withdrawal or realisation.
+
+8.
+
+ADDITIONAL RULES: OPERATING AN MTF OR OTF
+
+8.1
+
+Application and interpretation
+
+8.1.1 This chapter applies to an Authorised Person which Operates a Multilateral Trading
+
+Facility ("MTF") or an Organised Trading Facility ("OTF").
+
+58
+
+COBS VER19.290725
+
+8.2
+
+Rules Applicable to MTF and OTF Operators – General
+
+8.2.1
+
+In addition to the general requirements applicable to Authorised Persons in COBS, GEN and elsewhere in the Rules, an Authorised Person carrying on the Regulated Activity of Operating an MTF (an "MTF Operator") or an Authorised Person carrying on the Regulated Activity of Operating an OTF (an “OTF Operator”) must comply with the following requirements applicable to a Recognised Body or Recognised Investment Exchange set out in the MIR rulebook, reading references to Recognised Bodies or Recognised Investment Exchanges in the relevant rules as if they were references to the MTF Operator or OTF Operator:
+
+(a)
+
+MIR 2.6 (Operational systems and controls);
+
+(b)
+
+MIR 2.7.1 and 2.7.2 (Transaction recording);
+
+(c)
+
+MIR 2.8 (Membership criteria and access);
+
+(d)
+
+MIR 2.9 (Financial crime and market abuse);
+
+(e)
+
+MIR 2.11 (Rules and consultation);
+
+(f)
+
+MIR 3.3 (Fair and orderly trading);
+
+(g)
+
+MIR 3.5 (Pre-trade transparency obligations);
+
+(h)
+
+MIR 3.6 (Post-trade transparency obligations);
+
+(i)
+
+MIR 3.7 (Public disclosure);
+
+(j)
+
+MIR 3.8 (Settlement and Clearing Services);
+
+(k)
+
+MIR 3.10 (Default Rules

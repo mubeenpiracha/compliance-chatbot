@@ -1,0 +1,133 @@
+ the underlying Exposures or SE Exposures have been repaid. In the case of Traditional Securitisations, this is generally repurchasing accomplished by remaining SE the Exposures once the pool balance or outstanding Securities have fallen below some specified level. In the case of a synthetic Exposure, the Clean-Up Call may take the form of a clause that extinguishes the credit protection.
+
+Close Links
+
+A Person (Person A) has Close Links with a Person (Person B) if:
+
+(a) Person B:
+
+(i)
+
+is a Holding Company of Person A;
+
+(ii) is a Subsidiary of Person A;
+
+(iii) is a Holding Company of the Subsidiary of Person
+
+A;
+
+(iv) is a Subsidiary of a Holding Company of Person
+
+A; or
+
+(v) owns and controls 20% or more of the voting
+
+rights or shares of Person A; or
+
+(b) Person A owns and controls 20% or more of the voting
+
+rights or shares of Person B.
+
+Closely Related
+
+Has the meaning given in Rule A4.11.5.
+
+Collateral
+
+Any form of asset, guarantee, or indemnity which is held or controlled by an Authorised Firm and is subject to a security interest or arrangement in favour of that firm.
+
+Collective Investment Fund Risk Capital Requirement
+
+A component of Market Risk Capital Requirement calculated in accordance with section 5.9.
+
+Commercial Real Estate Exposure
+
+A Real Estate Exposure that is not a Residential Real Estate Exposure or an ADC Exposure.
+
+Commodities Risk Capital Requirement
+
+A component of the Market Risk Capital Requirement to in cover commodities, including precious metals, but excluding gold, calculated in accordance with section 5.7.
+
+the risk of holding or
+
+taking positions
+
+Concentration Risk
+
+The risk faced by an Authorised Firm arising out of its Large Exposures.
+
+9
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+Connected
+
+In relation to a Person (A), a Person which has or has at any relevant time had the following relationship to A:
+
+(a) a member of A’s Group;
+
+(b) a Controller of A;
+
+(c) a member of a partnership of which A is a member;
+
+(d) an employee or former employee of A;
+
+(e) if A is a company:
+
+(i) an officer or manager of A or of a parent of A;
+
+(ii) an agent of A or of a parent of A;
+
+(f) if A is a partnership is or has been a member,
+
+manager or agent of A; or
+
+(g) if A is an unincorporated association of persons which is not a partnership, is or has been an officer, manager or agent of A.
+
+Connected Counterparties
+
+Has the meaning given in Rule A4.11.7.
+
+Contingency Funding Plan (CFP)
+
+The plan referred to in Rule 9.2A.6.
+
+Controlled Early Amortisation
+
+Early Amortisation that meets the conditions in Rule 4.14.58.
+
+Countercyclical Capital Buffer (CCyB)
+
+The countercyclical capital buffer that an Authorised Firm must maintain under section 3.9A.
+
+CCyB Authority
+
+(1) For the State, means the Central Bank; and (2) For any other jurisdiction, means the authority in that jurisdiction responsible for setting CCyB Rates.
+
+CCyB Rate
+
+A rate expressed as a percentage of Risk Weighted Assets that applies under Rules 3.9A.7 to 3.9A.9.
+
+CCyB Requirement
+
+The requirement to maintain a Countercyclical Capital Buffer under section 3.9A.
+
+Counterparty
+
+Means any person with or for whom an Authorised Firm carries on, or intends to carry on, any regulated business or associated business. In this context, Counterparty includes an individual, unincorporated body, company, government, local authority or other public body.
+
+Counterparty Credit Risk
+
+The risk that the Counterparty to a transaction defaults before the final settlement of the transaction’s cash flows.
+
+CR Exposure
+
+The Exposure value or amount for a Credit Risk Exposure.
+
+10
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB

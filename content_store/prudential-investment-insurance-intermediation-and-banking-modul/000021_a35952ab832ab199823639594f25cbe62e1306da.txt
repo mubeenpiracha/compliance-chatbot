@@ -1,0 +1,97 @@
+ systems and controls and valuation methodologies. The DFSA’s expectations in this regard are set out in section A2.5 App2.
+
+3.
+
+The Guidance is especially important for positions without actual market prices or observable inputs to valuation, as well as less liquid positions which raise supervisory concerns about prudent valuation. The Guidance is not intended to require Authorised Firms to change valuation procedures for financial reporting purposes.
+
+4.
+
+The DFSA will assess an Authorised Firm’s valuation procedures for consistency with the Guidance. The DFSA may impose a valuation adjustment if there is a material degree of inconsistency between the Authorised Firm’s valuation procedures and the Guidance.
+
+29
+
+PIB/VER50/07-25
+
+2.5
+
+2.5.1
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+Risk appetite statement
+
+(1) This Rule applies to an Authorised Firm in Category 1, 2, 3A or 5.
+
+(2) An Authorised Firm must produce and maintain a clearly articulated risk
+
+appetite statement which:
+
+(a) prescribes the level of aggregate risk that it is willing to assume and manage in the pursuit of its strategic objectives and business plan; and
+
+(b)
+
+sets appropriate limits that are consistent with the Authorised Firm’s level of aggregate risk under (1)(a), as well as its risk profile and capital and liquidity position.
+
+(3) The risk appetite statement in (1) must be:
+
+(a) documented;
+
+(b) approved by the Governing Body;
+
+(c)
+
+communicated to all relevant Employees; and
+
+(d)
+
+regularly reviewed and appropriately adjusted to reflect changes in its risk profile or market and macroeconomic conditions.
+
+Guidance
+
+1.
+
+The Authorised Firm should ensure that the level of aggregate risk that it is willing to assume allows it to manage its risks prudently in normal times and in a way that allows it to withstand periods of stress. The level of aggregate risk should include both quantitative and qualitative elements, as appropriate, and encompass a range of measures. These should be expressed in terms that are clear enough for all levels of management to be able to understand the trade-off between risks and profits.
+
+2.
+
+The DFSA expects that the risk appetite statement also outlines actions to be taken when risk limits are breached, including disciplinary actions for excessive risk-taking, escalation procedures and Governing Body notification.
+
+3.
+
+For an Authorised Firm that is a Branch the capital and liquidity position referred to in Rule 2.5.1(2)(b) should be determined in accordance with Rule 3.2.4(a).
+
+30
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+3
+
+CAPITAL
+
+Introduction
+
+Guidance
+
+1.
+
+This chapter deals with all aspects of prudential requirements relating to capital adequacy. The chapter aims to ensure that an Authorised Firm maintains adequate capital to support the risks associated with its activities and that it can absorb potential unexpected losses to its capital. It also includes provisions forming part of the framework for assessing the capital adequacy of an Authorised Firm.
+
+2.
+
+Part 1 of this chapter deals with the application provisions. Part 2 outlines the fundamental capital adequacy obligations and systems and controls requirements to ensure compliance with this critical regulatory obligation. Part 3 includes all the Rules and associated guidance for the calculation of minimum Capital Requirement for different Categories of Authorised Firms. This part also specifies the requirements in respect of Capital Buffers and associated obligations. It specifies three types of Capital Buffers: the Capital Conservation Buffer, the Countercyclical Capital Buffer and the HLA Capital Buffer. Part 4 of this chapter specifies detailed Rules on the calculation of Capital Resources of an Authorised Firm, including detailed Rules on the eligibility criteria for different components of Capital Resources which correspond to varying levels of quality. Part 5 prescribes requirements for a non-risk sensitive Leverage Ratio which acts as a supplementary measure to risk-based capital requirements.
+
+3.
+
+Appendix 3 provides detailed guidance on various aspects of stress and scenario testing which are required to be considered by an Authorised Firm to effectively comply with the Rules in this chapter.
+
+PART 1 – Application
+
+3.1
+
+Application
+
+3.1.1
+
+The parts, sections and Rules in this chapter apply to an Authorised Firm as

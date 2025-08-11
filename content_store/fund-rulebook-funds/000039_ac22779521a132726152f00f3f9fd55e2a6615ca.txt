@@ -1,0 +1,117 @@
+ prospective appointee, a Fund Manager
+
+a.
+
+obtain details of the knowledge and skills of the individual in relation to the knowledge and skills required for the role;
+
+60
+
+FUNDS VER10.100625
+
+b.
+
+take reasonable steps to verify the relevance, accuracy and authenticity of any information acquired;
+
+c.
+
+determine whether the individual holds any relevant qualifications with respect to the functions to be performed; and
+
+d.
+
+determine the individual's relevant experience.
+
+13.3.4
+
+(1) The systems and controls which a Fund Manager is required to have in place must include adequate measures to monitor whether the Persons appointed to provide the oversight function for the Fund meet the suitability criteria specified in Rule 13.3.3 on a continuing basis.
+
+(2) If a Person appointed to provide the oversight function for the Fund is either unable to fulfil his duties or no longer meets the suitability criteria in Rule 13.3.3, the Fund Manager must, within 21 days of the event causing such inability, dismiss and replace that Person, subject to the requirement in (4).
+
+(3) If a Person appointed to provide the oversight function for the Fund resigns from or otherwise vacates that position, the Fund Manager must, within 60 days of the event causing the vacancy, appoint a replacement, subject to the requirement in (4).
+
+(4) An appointment made under (2) or (3) must meet the relevant requirements relating to the oversight arrangement of the Fund as specified in Rule 13.3.2 as is relevant to that particular Fund.
+
+(5) The Fund Manager must notify the Regulator and, in the case of an Investment Trust where the Trustee is not the appointed oversight provider for the Fund, the Trustee, of the matters referred to in this Rule, giving reasons for the relevant cessation and replacement of the oversight provider.
+
+General oversight duties
+
+13.3.5
+
+The Fund Manager shall ensure that each person undertaking the oversight function for the Fund is appointed with the necessary powers and resources to discharge its duties and functions and is required to:
+
+(a)
+
+monitor whether the Fund Manager:
+
+(i)
+
+is managing the Fund in accordance with the Constitution and the most recent Prospectus of the Fund, including in particular, any investment and borrowing limitations, requirements relating to the valuation of Fund Property and any other requirements or restrictions imposed on the Fund under FSMR or these Rules; and
+
+(ii)
+
+if it is a Foreign Fund Manager, is complying with the specific requirements that apply to such a Person by virtue of being a Foreign Fund Manager;
+
+(b)
+
+assess whether the Fund Manager's systems and controls, particularly those relating to risk management and compliance, operate as intended and remain adequate;
+
+61
+
+FUNDS VER10.100625
+
+(c)
+
+report to the Fund Manager on its findings, including any actual or potential breaches or inadequacies in relation to the matters specified in (a) and (b), as soon as such breaches or inadequacies are identified or suspected; and
+
+(d)
+
+report to the Regulator if:
+
+(i)
+
+the Fund Manager has failed, or is reasonably likely to fail, to take appropriate action to rectify or remedy a matter reported to it within 30 days of that matter being so reported; and
+
+(ii)
+
+that Person believes on reasonable grounds that the matter has had, or is likely to have, a materially adverse impact on the interests of the Unitholders of the Fund.
+
+Guidance
+
+Foreign Fund Managers are subject to specific requirements, for example in Rule 7.1.
+
+Duties of a person providing oversight functions
+
+13.3.6
+
+(1) Each Person appointed to provide the oversight function to a Fund shall:
+
+(a)
+
+act honestly;
+
+(b)
+
+exercise the degree of care and diligence that a reasonable person would exercise if he were in that person's position;
+
+(c)
+
+act in the best interests of the Unitholders in the Fund and, if there is a conflict between the Unitholders' interests and his own interests, give priority to the Unitholders' interests;
+
+(d)
+
+not make improper use of his position, or information acquired in that position, in order to:
+
+(i)
+
+gain an improper advantage for himself or another person; or
+
+(ii)
+
+cause detriment to Unitholders in the Fund;
+
+(e)
+
+disclose to the Fund's auditor any information relevant for the auditor to discharge its obligations;
+
+(f)
+
+comply with any other duty or obligation as

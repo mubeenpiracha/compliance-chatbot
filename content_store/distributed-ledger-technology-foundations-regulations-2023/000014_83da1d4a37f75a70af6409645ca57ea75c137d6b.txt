@@ -1,0 +1,125 @@
+ made by the Board.
+
+Councillors
+
+33.
+
+Liability of Councillors for Breach of Duty
+
+(1)
+
+Subject to the provisions of these Regulations, and the provision of the Charter, a Councillor who commits a breach of duty is liable for any loss in value of the DLT Foundation Assets resulting from the breach.
+
+(2)
+
+A Councillor is not liable for breach of duty committed by another Councillor unless:
+
+(a)
+
+he becomes or ought to reasonably be aware of the breach or of the intention to commit a breach; and
+
+(b)
+
+he actively conceals the breach or intention, or fails within a reasonable time to take proper steps to protect or restore the DLT Foundation Assets or to prevent the breach.
+
+(3)
+
+The provisions of the Charter of the DLT Foundation shall not:
+
+(a)
+
+relieve a Councillor of liability for a breach of duty arising from his own fraud, wilful misconduct or gross negligence; or
+
+(b)
+
+grant the Councillor any indemnity against the DLT Foundation Assets in respect of any such liability.
+
+PART 9: GUARDIAN
+
+Appointment
+
+34.
+
+Guardian
+
+(1)
+
+A Guardian must be appointed, if and when the Charter so requires, including after the Founder Resignation. Such appointment shall be made by any Person empowered to do so in the Charter and if there is no such Person, a Councillor shall make application to the Court for the appointment of a Person to be the Guardian and the Court shall duly appoint a consenting Person to act as a Guardian.
+
+25
+
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+(6)
+
+Where the Charter provides for the appointment of a Guardian and no such appointment is made, a Founder, Councillor or Tokenholders (by Resolution of Tokenholders) may make an application to the Court for the appointment of a Person to be the Guardian and, in circumstances where the Court determined the application is justified, it may duly appoint a consenting Person to act as a Guardian.
+
+A Guardian may be a Beneficiary or Tokenholder and may be a Legal Person, but may not be a Founder, Councillor or sole Beneficiary or the only Tokenholder.
+
+The appointment of a Person to act as a Guardian is personal to that Person and may not be assigned or delegated except that a Guardian that is a Legal Person may act through its authorised officers or agents.
+
+Every Person appointed, or to be appointed, as a Guardian shall be a Fit and Proper Person to hold that position.
+
+The duties of a Guardian are:
+
+(a)
+
+to act in accordance with the Charter;
+
+(b)
+
+to only exercise powers for the purposes for which they are conferred;
+
+(c)
+
+to act honestly, in good faith and in the best interests of the DLT Foundation;
+
+(d)
+
+to Exercise Independent Judgment;
+
+(e)
+
+to exercise Reasonable Care, Skill and Diligence;
+
+(f)
+
+to not act on behalf of the DLT Foundation, or exercise any of his powers as a Guardian, in relation to any matter in which he has, or can have, a direct or indirect interest that conflicts, or possibly may conflict, with the interests of the DLT Foundation:
+
+i.
+
+this duty does not apply to a conflict of interest arising in relation to a transaction or arrangement with the DLT Foundation;
+
+ii.
+
+this duty is not infringed if the situation cannot reasonably be regarded as likely to give rise to a conflict of interest;
+
+iii.
+
+where nothing in the Charter invalidates such authorisation, authorisation may be given by the matter being proposed to and authorised by the Councillors; where the DLT Foundation’s Charter includes a provision enabling the Councillors to authorise the matter, authorisation may be given by the matter being proposed to and authorised by the Councillors in accordance with the Charter; and
+
+iv.
+
+any reference in this subsection (6)(f) to a conflict of interest includes a conflict of interest and duty and a conflict of duties;
+
+(g)
+
+to not accept a benefit from a third party conferred by reason of his being a Guardian, or his doing (or not doing) anything as a Guardian:
+
+26
+
+35.
+
+i.
+
+benefits received by a Guardian from a Person by whom his services (as a Guardian or otherwise) are provided to the DLT Foundation are not regarded as conferred by a third party;
+
+ii.
+
+this duty is not infringed if the acceptance of the benefit cannot reasonably be regarded as

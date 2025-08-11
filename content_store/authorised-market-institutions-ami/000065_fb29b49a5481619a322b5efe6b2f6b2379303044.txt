@@ -1,0 +1,143 @@
+ Authorised Market Institution must make a market disclosure:
+
+(a)
+
+on the website of the Authorised Market Institution; and
+
+(b)
+
+to the DFSA,
+
+of decisions in relation to the following events:
+
+103
+
+AMI/VER28/03-25
+
+AUTHORISED MARKET INSTITUTIONS (AMI)
+
+(c)
+
+an admission of Securities to its Official List of Securities;
+
+(d)
+
+a suspension of Securities from its Official List of Securities;
+
+(e)
+
+a restoration from suspension of Securities from its Official List of Securities;
+
+(f)
+
+a delisting of Securities from its Official List of Securities; and
+
+(g)
+
+a suspension, restoration from suspension or decision to cease trading of any Investment.
+
+(2)
+
+The disclosure made in accordance with (1) should also indicate whether the event was made under a direction made to the Authorised Market Institution by the DFSA.
+
+Guidance
+
+Disclosures made in accordance with Rule 9.14.1 are designed to help ensure that an orderly market exists in relation to Securities admitted to an Official List of Securities of an Authorised Market Institution.
+
+104
+
+AMI/VER28/03-25
+
+AUTHORISED MARKET INSTITUTIONS (AMI)
+
+10
+
+WITHDRAWAL OF A LICENCE
+
+10.1 Application
+
+10.1.1 This chapter applies to an Authorised Market Institution.
+
+10.2 Withdrawal of a licence at an Authorised Market Institution’s request
+
+10.2.1
+
+(1)
+
+An Authorised Market Institution must continue to carry on every Financial Service it is authorised to conduct under its Licence until its Licence is withdrawn or the DFSA consents in writing.
+
+(2)
+
+An Authorised Market Institution seeking to have its Licence withdrawn must submit a request in writing stating:
+
+(a)
+
+the reasons for the request;
+
+(b)
+
+the date on which it will cease to carry on Financial Services in or from the DIFC;
+
+(c)
+
+how Persons using facilities maintained by it for trading, clearing or settlement, as applicable, are affected and any alternative arrangements made for the trading, clearing or settlement;
+
+(d)
+
+where applicable, how persons with Securities admitted to an Official List of Securities maintained by it are affected and any alternative arrangements made for the listing and trading of the relevant Securities; and
+
+(e)
+
+that it has discharged, or will discharge, all obligations owed to its users in respect of whom the Authorised Market Institution has carried on Financial Services in or from the DIFC.
+
+Guidance
+
+1.
+
+The DFSA will need to be satisfied when considering requests under Rule 10.2.1, that an Authorised Market Institution has made appropriate arrangements with respect to its existing users (including the receipt of consent where required) and, in particular:
+
+a.
+
+whether there may be a long period in which the business will be wound down or transferred;
+
+b.
+
+whether money and other assets belonging to users must be returned to them; and
+
+c.
+
+whether there is any other matter which the DFSA would reasonably expect to be resolved before granting a request for the withdrawal of a Licence.
+
+2.
+
+In determining a request for the withdrawal of a Licence, the DFSA may require additional procedures or information as appropriate including evidence that the Authorised Market Institution has ceased to carry on Financial Services.
+
+105
+
+AMI/VER28/03-25
+
+AUTHORISED MARKET INSTITUTIONS (AMI)
+
+3.
+
+Detailed plans should be submitted where there may be an extensive period of wind- down. It may not be appropriate for an Authorised Market Institution to immediately request a withdrawal of its Licence in all circumstances, although it may wish to consider reducing the scope of its Licence during this period. Authorised Market Institutions should discuss these arrangements with the DFSA.
+
+4.
+
+The DFSA may refuse a request for the withdrawal of a Licence where it appears that users and customers may be adversely affected.
+
+5.
+
+The DFSA may also refuse a request for the withdrawal of a Licence where:
+
+a.
+
+the Authorised Market Institution has failed to settle its debts to the DFSA; or
+
+b.
+
+it is in the interests of a current or pending investigation by the DFSA, or by another regulatory body or Financial Services Regulator.
+
+6.
+
+Under Article 63 where the DFSA grants a request for the withdrawal of a Licence, the DFSA may continue to exercise any power under the Regulatory Law, the Markets Law or Rules in relation to an Authorised Market Institution for a period of three years from the date on

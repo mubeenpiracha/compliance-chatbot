@@ -1,0 +1,131 @@
+ly certain or definite for it to be Disclosed;
+
+(d)
+
+the information has been created for the internal management purposes of the Listed Entity; or
+
+(e)
+
+the information is a trade secret;
+
+(5)
+
+the information is confidential and the Regulator is not of the opinion that the information is no longer confidential; and
+
+(6)
+
+a reasonable person would not expect the information to be Disclosed.
+
+7.2.2
+
+[Deleted]
+
+Selective Disclosure
+
+7.2.3
+
+(1)
+
+A Reporting Entity may selectively Disclose Inside Information to a Person prior to making a Disclosure of such information only if:
+
+(a)
+
+it is for the purposes of the exercise by such a Person of his employment, profession or duties;
+
+(b)
+
+that Person owes to the Reporting Entity a duty of confidentiality, whether based on law, contract or otherwise; and
+
+(c)
+
+the Reporting Entity has provided to that Person, except where that Person is the Regulator, a written notice as specified in (3).
+
+(2)
+
+For the purposes of (1)(a), the Persons whose exercise of employment, profession or duties may warrant selective Disclosure are as follows:
+
+(a)
+
+any adviser, underwriter, Sponsor or compliance adviser;
+
+(b)
+
+an agent employed by the Reporting Entity to Disclose the information;
+
+(c)
+
+Persons with whom the Reporting Entity is negotiating with a view to effecting a transaction or raising finance, including prospective underwriters or Sponsors of an issue of Financial Instruments, providers
+
+Confidential
+
+82
+
+MKT VER09.020125
+
+of finance or loans or the placement of the balance of a rights issue not taken up by Shareholders;
+
+(d)
+
+the Regulator where such disclosure is necessary or desirable for the Regulator to perform its functions;
+
+(e)
+
+a Person to whom the Reporting Entity discloses information in accordance with a lawful requirement;
+
+(f)
+
+a major Shareholder of the Reporting Entity, the Trustee, Eligible Custodian or Persons providing an oversight function of a Listed Fund; or
+
+(g)
+
+any other Person to whom it is necessary to disclose the information in the ordinary course of business of the Listed Entity/Reporting Entity.
+
+(3)
+
+For the purposes of (1)(c), the Reporting Entity must, before making disclosure to a Person, provide to that Person a written notice that the:
+
+(a)
+
+information is provided in confidence and must not be used or be allowed to be used for a purpose other than the purpose for which it is provided; and
+
+(b)
+
+recipient must take reasonable steps to ensure that the recipient or any Person having access to the information through the recipient does not deal in the relevant Financial Instruments, or any other related investment, or disclose such information without legitimate reason, prior to Disclosure of that information by the Reporting Entity.
+
+(4)
+
+Where a Reporting Entity makes selective disclosure of Inside Information pursuant to (1), it must ensure that a full Disclosure is made as soon as possible, and in any event, when it becomes aware or has reasonable grounds to suspect that such information has or may have come to the knowledge of any Person or Persons other than those to whom the selective disclosure was made.
+
+7.2.4
+
+[Deleted]
+
+7.2.5
+
+[Deleted]
+
+Control of Inside Information
+
+7.2.6 A Reporting Entity must establish effective arrangements to deny access to Inside Information to Persons other than those who require it for the exercise of their functions within the Reporting Entity.
+
+7.2.7 A Reporting Entity must establish and maintain adequate systems and controls to enable it to identify at all times any Person working for it under a contract of employment or otherwise, who has or may reasonably be likely to have access to Inside Information relating to the Reporting Entity, whether on a regular or occasional basis.
+
+7.2.8 A Reporting Entity must take the necessary measures to ensure that its Directors and Employees who have or may have access to Inside Information acknowledge the legal
+
+Confidential
+
+83
+
+MKT VER09.020125
+
+and regulatory duties entailed, including dealing restrictions in relation to the Reporting Entity's Financial Instruments or any related investments, and are aware of the sanctions attaching to the misuse or improper use or circulation of such information.
+
+7.2.9 A Reporting Entity must nominate two individuals to be its main points of contact with the Regulator in relation to its Disclosure and other obligations under this chapter.
+
+7.3
+
+Disclosure of interests by Connected Persons
+
+Guidance
+
+Section 76 of FSMR requires certain Persons connected

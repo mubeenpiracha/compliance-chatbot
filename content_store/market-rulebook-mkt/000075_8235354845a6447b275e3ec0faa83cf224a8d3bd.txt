@@ -1,0 +1,155 @@
+ gemstones; or
+
+Confidential
+
+122
+
+MKT VER09.020125
+
+(3)
+
+if certain information from (2) is not included because the Mining Reporting Entity considers it not to be material to understanding the estimates of Mineral Resources, an explanation from the Mining Reporting Entity as to why that information is not material to understanding the estimates of Mineral Resources.
+
+11.6 Ore Reserves
+
+11.6.1 A Mining Reporting Entity disclosing estimates of Probable Ore Reserves or Proved Ore Reserves that are material, and that have not been previously disclosed by the Reporting Entity, or that have materially changed from the estimates last disclosed, must ensure the disclosure contains the following:
+
+(1)
+
+a fair and balanced representation of the information contained in the report prepared in accordance with (2) including a summary of all information material to understanding the reported estimates of Ore Reserves in relation to the:
+
+(a)
+
+material assumptions and the outcomes from the Technical Study, but not including a Scoping Study;
+
+Guidance
+
+If the economic assumptions are commercially sensitive to the Mining Reporting Entity, an explanation of the methodology used to determine the assumptions rather than the actual figure, can be reported.
+
+(b)
+
+criteria used for classification, including the classification of the Mineral Resources on which the Ore Reserves are based and the confidence in the modifying factors applied;
+
+(c)
+
+mining method selected and other mining assumptions, including mining recovery factors and mining dilution factors;
+
+(d)
+
+processing method selected and other processing assumptions, including the recovery factors applied and the allowances made for deleterious elements;
+
+(e)
+
+basis of the cut-off grade(s) or quality parameters applied;
+
+(f)
+
+estimation methodology; and
+
+(g)
+
+material modifying factors, including the status of environmental approvals, Mining Tenements and approvals, other government factors and infrastructure requirements for selecting mining methods and for transportation to market.
+
+(2)
+
+a report providing all information that is material to understanding the estimates of Ore Reserves, taking into account the:
+
+(a)
+
+sampling techniques and data;
+
+(b)
+
+reporting of Exploration results;
+
+Confidential
+
+123
+
+MKT VER09.020125
+
+(d)
+
+estimation and reporting of Mineral Resources;
+
+(e)
+
+estimation and reporting of Ore Reserves;
+
+(f)
+
+estimation and reporting of diamonds and other gemstones; or
+
+Guidance
+
+Mining Reporting Entities should refer to the sections of the Mining Reporting Standard relevant to a report on Ore Reserves.
+
+(3)
+
+if certain information from (2) is not included because the Mining Reporting Entity considers it not to be material to understanding the estimates of Ore Reserves, an explanation from the Mining Reporting Entity as to why that information is not material to understanding the estimates of Ore Reserves.
+
+11.7 Non-Equivalent Estimates
+
+11.7.1 Where a Mining Reporting Entity discloses material Non-Equivalent Estimates of Mineralisation the Mining Reporting Entity does not need to comply with Rule 11.2.1(1) provided the Mining Reporting Entity complies with:
+
+(1)
+
+Rule 11.7.2;
+
+(2)
+
+Rule 11.7.3;
+
+(3)
+
+Rule 11.7.4; and
+
+(4)
+
+Rule 11.7.6.
+
+11.7.2 A Mining Reporting Entity cannot disclose material Non-Equivalent Estimates of
+
+Mineralisation where it is attempting to disclose:
+
+(1)
+
+‘preliminary resources’ where the Mining Reporting Entity’s relevant exploration and evaluation programs are incomplete;
+
+(2)
+
+Ore Reserves when the appropriate Technical Study(s) required by a Mining Reporting Standard to allow the conversion of Mineral Resources to Ore Reserves has not yet been completed;
+
+(3)
+
+Non-Equivalent Estimates of Mineralisation for areas adjacent to its Mining Tenements; or
+
+(4)
+
+with an intent to avoid the requirements of a Mining Reporting Standard and/or these Rules.
+
+11.7.3 A Mining Reporting Entity disclosing material Non-Equivalent Estimates of Mineralisation
+
+must ensure that the disclosure contains the following:
+
+(1)
+
+a prominent, and proximate, statement to the effect that:
+
+Confidential
+
+124
+
+MKT VER09.020125
+
+(a)
+
+the estimates are Non-Equivalent Estimates and are not disclosed in accordance with a Mining Reporting Standard;
+
+(b)
+
+a Competent Person has not done sufficient work to classify the Non- Equivalent Estimates as Mineral Resources or Ore Reserves in accordance with a Mining Reporting Standard; and
+
+(c)
+
+it is uncertain whether

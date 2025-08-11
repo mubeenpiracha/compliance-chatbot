@@ -1,0 +1,109 @@
+Means those quantities of Petroleum anticipated to be commercially recoverable by application of development Petroleum Projects to known accumulations from a given date forward under defined conditions. Petroleum reserves must satisfy four criteria: they must be discovered, recoverable, commercial and remaining based on the development project(s) applied.
+
+for
+
+60
+
+GLO VER23.290725
+
+Defined Terms
+
+Petroleum Resources
+
+Petroleum Resources Management System (PRMS)
+
+Petroleum Tenement
+
+PFP Client
+
+PFP Operator
+
+PFP Prospect
+
+Policy Benefit
+
+Politically Exposed Person (PEP)
+
+Pooling Event
+
+Possible Reserves
+
+Definitions
+
+Means all quantities of Petroleum (recoverable and unrecoverable) naturally occurring on or within the Earth’s crust, discovered and undiscovered, plus those quantities already produced. It includes all types of Petroleum whether currently considered ‘conventional’ or ‘unconventional’.
+
+Means the Petroleum Resources Management System (PRMS), sponsored by the Society of Petroleum Engineers (SPE), the American Association of Petroleum Geologists (AAPG), the World Petroleum Council (WPC), the Society of Petroleum Evaluation Engineers (SPEE), the Society of Exploration Geophysicists (SEG), the European Association of Geoscientists and Engineers (EAGE), and the Society of Petrophysicists and Well Log Analysts (SPWLA), and available at:
+
+https://www.spe.org/en/industry/petroleum-resources- management-system-2018/
+
+Means any right to explore for or extract Petroleum in a given place.
+
+A user of a Private Financing Platform that is not a PFP Prospect.
+
+An Authorised Person engaged in the Regulated Activity of Operating a Private Financing Platform.
+
+A Body Corporate seeking financing by publishing a financing proposal upon a Private Financing Platform.
+
+Means an amount payable under an insurance contract as a result of the occurrence of an event insured under the contract.
+
+Means a Natural Person (and includes, where relevant, a family member or close associate) who is or has been entrusted with a prominent public function, including but not limited to, a head of state or of government, senior officials and functionaries of an international or supranational organisation, senior politician, senior government, judicial or military official, ambassador, senior executive of a state owned corporation, or an important political party official, but not middle ranking or more junior individuals in these categories.
+
+Has the meaning given in COBS 14.13.3.
+
+Means those additional Petroleum Reserves which analysis of geoscience and engineering data indicate are less likely to be recoverable than Probable Reserves. The total quantities ultimately recovered from the project have a low probability to exceed the sum of Proved Reserves plus Probable Reserves plus Possible Reserves (P3). When Probabilistic Methods are used, there should be at least a
+
+61
+
+GLO VER23.290725
+
+Defined Terms
+
+Definitions
+
+10% probability that the actual quantities recovered will equal or exceed the P3 estimate.
+
+Precise
+
+Has the meaning given in section 95(5) of FSMR.
+
+Preference Security
+
+Securities which are given preference, in terms of dividend or distribution, over Ordinary Securities.
+
+Premium Liability
+
+Means the liability referred to in PIN 5.4.7.
+
+Prescribed Market
+
+Means any Recognised Investment Exchange, MTF or OTF.
+
+Price Notation
+
+Means the currency in which the price is expressed.
+
+Price Reporting Agency
+
+An agency or an index provider which constructs, compiles, assesses or reports, on a regular and systematic basis, prices of Investments, rates, indices, commodities, Accepted Virtual Assets, Accepted Spot Commodities or figures, which are made available to users.
+
+Price Stabilisation
+
+Means, in relation to MKT Chapter 6, any purchase or Offer to purchase Relevant Securities, or any transaction in Associated Instruments equivalent thereto, which is undertaken in the context of a Significant Distribution of such Relevant Securities exclusively for supporting the market price of these Relevant Securities for a predetermined period of time, due to a selling pressure in such Securities.
+
+Price Stabilisation Rules Has the meaning given in section 258 of FSMR.
+
+Primary Financial Institution
+
+Means the Financial Institution that holds Specified Information relating to the Customer of a Third Party Provider.
+
+Principal Representative Means an individual designated by a Representative Office in
+
+accordance with GEN Chapter 9.
+
+Principle
+
+In relation to:
+
+(a)
+
+an Authorised Person or Approved Person, means a principle prescribed

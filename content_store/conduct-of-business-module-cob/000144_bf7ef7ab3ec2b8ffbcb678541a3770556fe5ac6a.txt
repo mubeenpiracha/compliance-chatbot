@@ -1,0 +1,103 @@
+ weeks from the date the funds were
+
+debited from the User’s account.
+
+A7.2.8
+
+Debiting account only on receipt of Payment Orders
+
+An Authorised Firm must not debit the User's Payment Account before receipt of a Payment Order.
+
+A7.2.9
+
+Grounds for refusal of Payment Orders
+
+(1) An Authorised Firm that refuses to execute or initiate a Payment Order must, except where it is unlawful to do so, notify the User of the refusal:
+
+(a)
+
+in the agreed manner;
+
+(b) no later than on the next business day; and
+
+(c)
+
+if possible, with the reasons for the refusal.
+
+(2) An Authorised Firm, must notify the User, if applicable, of the procedure for
+
+rectifying any factual errors that led to the refusal.
+
+(3) An Authorised Firm may not refuse to execute an authorised Payment Order except in the circumstances specified in the Client Agreement, or where execution is unlawful.
+
+(4) Where the execution of a Payment Order is refused, the Payment Order is
+
+deemed not to be received.
+
+A7.2.10 Revocation of a Payment Order
+
+An Authorised Firm must allow the User to revoke a Payment Order once received by the Authorised Firm if it relates to a future transaction to be executed at least one business day after the order is received.
+
+A7.2.11
+
+Amounts transferred and amounts received
+
+An Authorised Firm acting for a payer or a payee must ensure that the full amount of a Payment Transaction is transferred and received and that no charges are deducted from the amount transferred unless such charges are agreed with the payer and payee (as applicable).
+
+A7.2.12 Value date and availability of funds
+
+An Authorised Firm must:
+
+(a) ensure that the date on which an amount is credited to the Payment Account of the User is not later than the business day on which the amount is received by the Payment Services Provider acting for the User;
+
+(b) ensure that the date on which an amount is recorded as debited to the Payment Account of a payer is not earlier than the actual time at which the amount of the Payment Transaction is debited to that Payment Account; and
+
+(c)
+
+in the case of a Payment Transaction initiated by the payee, take reasonable steps to ensure that the firm acting for the payee submits the Payment Instruction to the Authorised Firm in time to allow for the settlement to occur on the agreed date.
+
+A7.2.13 Liability for the use of incorrect unique identifiers
+
+(1) Where an Authorised Firm executes a Payment Order in accordance with a
+
+229
+
+COB/VER48/03-25
+
+CONDUCT OF BUSINESS (COB)
+
+unique identifier provided by the User, the Payment Order is deemed to be correctly executed by the firm irrespective of any other information provided by the User.
+
+(2) Where a unique identifier provided by the User is incorrect, the Authorised Firm is not liable for non-execution or defective execution of the Payment Transaction but must take reasonable steps to recover the funds involved in the Payment Transaction.
+
+A7.2.14 Right of recourse
+
+Nothing in this section restricts or prevents an Authorised Firm’s or User’s right of recourse against another person who is at fault.
+
+A7.2.15
+
+Incident Reporting
+
+If an Authorised Firm becomes aware of a major operational or security incident, the firm must, without undue delay:
+
+(a)
+
+inform its Users of the incident and of all measures that it is taking to limit the adverse effects of the incident; and
+
+(b) notify the DFSA in accordance with the requirements in GEN Rules 4.2.10
+
+and 11.10.7.
+
+A7.2.16 No interest or other return permitted
+
+An Authorised Firm must not pay any interest or other return on amounts in a Payment Account.
+
+A7.2.17 Payment Accounts only to be used for Payment Transactions
+
+An Authorised Firm must not permit a Payment Account to be used for a purpose other than making Payment Transactions.
+
+Guidance
+
+1. The references to a “unique identifier” in Rule A7.2.13 are to letters, combination of letters, numbers or symbols that identify unambiguously a specific Payment Account or User.
+
+2. A credit line under Rule A7.2.4(1)(b)(iii) can only be provided if the Authorised Firm

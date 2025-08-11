@@ -1,0 +1,111 @@
+sidiary or Associate's Capital Requirement determined in accordance with Rule 8.3.4(2).
+
+Guidance
+
+The impact of Rule 5.7.2 is that an Insurer's capital resources are calculated on a basis consistent with the manner of calculation of Financial Group Capital Resources, and that capital resources required to support the capital adequacy of Group companies are not used to support the individual capital adequacy of the Insurer itself. The Insurer's capital adequacy calculation is therefore also an indication of the degree of capital adequacy of the Financial Group of which it is the Parent. In this and other Rules where reference is made to a Parent for the purposes of calculating capital adequacy of a group of companies, generally, it is a reference to the ultimate Parent within the group.
+
+5.8
+
+Transfer of risk by an Insurer to an ISPV
+
+5.8.1 This section applies to all Insurers.
+
+23
+
+PIN VER07.290725
+
+5.8.2 An Insurer may not:
+
+(a)
+
+treat amounts recoverable from an ISPV as:
+
+(i)
+
+an asset; or
+
+(ii)
+
+reinsurance for the purposes of calculating its liabilities under Contracts of Insurance it has effected; or
+
+(b)
+
+otherwise ascribe a value to such amounts;
+
+unless it has first obtained a waiver from the Regulator.
+
+Guidance
+
+In considering:
+
+(a)
+
+whether to grant such a waiver; and
+
+(b)
+
+the amount which the Regulator will allow the Insurer to bring into account for these purposes;
+
+the Regulator will take into account the following factors:
+
+(i)
+
+where the ISPV is an Authorised ISPV, the Regulator will wish to be satisfied that the ISPV complies with Rules 10.1.2 to 10.1.7The Regulator in connection with the ISPV's may rely on application for authorisation. However, if the application for a waiver is made some time after authorisation was granted, the Regulator may request confirmation that there has been no material change to the information originally supplied;
+
+information supplied
+
+(ii)
+
+where the ISPV is not authorised, the Regulator will expect to receive confirmation that the ISPV is subject to regulation by a Regulator in a jurisdiction acceptable to the Regulator. In addition, it will need details of the debt issuance or other financing mechanism by which the ISPV's reinsurance liabilities are funded. The Regulator will also expect to receive information about the ISPV's key management and control functions, including details of the ISPV's auditors and arrangements for claims handling, and any material outsourcing agreements. The Regulator will also need information about the structure of any Group of which the ISPV is a member;
+
+(iii)
+
+no credit will be allowed for a contract of reinsurance with an ISPV unless there is an effective transfer of risk to the ISPV. The Regulator will require evidence that the contract of reinsurance and the extent of the credit that the Insurer proposes to take for it satisfy the risk transfer principle; and
+
+(iv)
+
+the Regulator will also expect to receive an analysis of the potential for risk to revert to the Insurer or any of its associates under realistic adverse
+
+24
+
+PIN VER07.290725
+
+scenarios or for liabilities to arise in respect of the risks transferred for which no provision has been made.
+
+25
+
+PIN VER07.290725
+
+6
+
+FINANCIAL AND OTHER REPORTING BY INSURERS
+
+6.1
+
+Introduction
+
+6.1.1 This Chapter applies to all Insurers.
+
+6.2
+
+Forms
+
+6.2.1 The Regulator will specify from time to time forms which are to be used for the purposes
+
+of this Chapter.
+
+6.3
+
+Annual Regulatory Return
+
+6.3.1 An Insurer must, at the end of each financial year prepare an annual Regulatory Return.
+
+6.3.2 Where an Insurer includes in its annual Regulatory Return a value for General Insurance Liabilities or for assets associated with those liabilities which is inconsistent with the amount referred to in Rule 7.2.4(b), the Insurer must notify the Regulator in writing of:
+
+(a)
+
+the reasons for not including the value of General Insurance Liabilities or of associated assets as reported by the Actuary in its annual Regulatory Return; and
+
+(b)
+
+details of the alternative assumptions and methodologies used for determining the value of General Insurance Liabilities or of associated

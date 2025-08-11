@@ -1,0 +1,81 @@
+ified risk positions or tranches that reflect different degrees of Credit Risk where Credit Risk of an underlying pool of Exposures is transferred, in whole or in part, through the use of funded (e.g. CLNs) or unfunded (e.g. credit default swaps) Credit Derivatives or guarantees that serve to hedge the Credit Risk of the portfolio. Accordingly, the investors' potential risk is dependent upon the performance of the underlying pool. A Synthetic Securitisation may or may not involve the removal of assets off balance sheet.
+
+(c)
+
+A Re-securitisation Exposure is a securitisation Exposure in which the associated underlying pool of Exposures is tranched and at least one of the underlying Exposures is a securitisation Exposure. In addition, an Exposure to one or more Re-securitisation Exposures is a Re-securitisation Exposure.
+
+Guidance
+
+The Regulator would treat other techniques to achieve the financing or re-financing of assets which are legally transferred to a scheme, by packaging them into a tradable form through the issue of Securities which are secured on the assets and serviced from the cashflows which they yield as "securitisation".
+
+Systems and controls for the use of securitisations
+
+4.14.3
+
+An Authorised Person must implement and maintain appropriate risk management systems to identify, manage, monitor and, where applicable, control all risks in relation to a securitisation transaction whether the firm is an investor, Originator or Sponsor. In particular, such risk management systems should effectively address the following risks:
+
+(a)
+
+the liquidity and capital implications that may arise from the items returning to the balance sheet;
+
+152
+
+PRU VER17.290725
+
+(b)
+
+the Operational Risks that may arise under a securitisation; and
+
+(c)
+
+reputational risks that may arise as a result of its securitisation activities.
+
+4.14.4
+
+An Authorised Person must have appropriate policies and procedures to ensure that the economic substance of the transaction is fully reflected in the process of managing the risks arising from such transactions. An Authorised Person must have appropriate policies and procedures in place to document its systems and controls in relation to securitisation risks. These policies should include details on the capital effects of the securitisation as set out in this Chapter.
+
+4.14.5
+
+An Authorised Person must conduct periodic stress tests its securitisation activities and off balance sheet Exposures, including testing of future ability to transact securitisation as a means of CRM or for liquidity purposes.
+
+in relation to
+
+Guidance
+
+1.
+
+The periodic stress testing in relation to securitisation activities referred to in Rule 4.14.5 should consider the firm-wide impact of those activities and Exposures in stressed market conditions and the implications for other sources of risk. Such stress tests should include both existing securitisation Exposures and transactions in the pipeline, as there is a risk of the pipeline transactions not being completed in a stressed market scenario.
+
+2.
+
+The frequency and extent of stress testing to fulfil the requirements of Rule 4.14.5 should be determined on the basis of the materiality of the its off-balance sheet Authorised Person's securitisation volumes and Exposures.
+
+3.
+
+An Authorised Person should have procedures in place to assess and respond to the results produced from the stress testing and these should be taken into account under the ICAAP.
+
+4.14.6
+
+In order to qualify for using the Rules specified in this Section, and particularly the risk weighting approach outlined below, an Authorised Person must demonstrate the following:
+
+(a)
+
+a comprehensive understanding of the risk characteristics of its individual securitisation Exposures, whether on balance sheet or off balance sheet, as well as the risk characteristics of the pools underlying securitisation Exposures;
+
+(b)
+
+ability to access the performance information on the underlying pools on an on-going basis in a timely manner; and
+
+(c)
+
+a thorough understanding of all structural features of a securitisation transaction that would materially impact the performance of the Authorised Person's Exposure to the transaction, such as waterfall triggers, Credit Enhancements, liquidity enhancements, market value triggers and deal specific definitions of default.
+
+153
+
+PRU VER17.290725
+
+Guidance
+
+1.
+
+An Authorised Person which is an investor

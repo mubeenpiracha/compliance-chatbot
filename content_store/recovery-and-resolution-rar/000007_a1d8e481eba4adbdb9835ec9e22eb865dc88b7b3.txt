@@ -1,0 +1,121 @@
+
+
+RECOVERY AND RESOLUTION (RAR)
+
+has been sufficiently taken into account, it may limit its resolution planning to anticipating actions and expressing acceptance of the Group Resolution Plan. This would often imply that, in the event of Resolution, the DFSA would aim to take measures in the DIFC consistent with the home Resolution Authority’s actions taken in line with the Group Resolution Plan. If the DFSA is not satisfied that the Group Resolution Plan meets or is consistent with its Resolution Objectives, it will consider whether it is necessary to pursue alternative or independent strategies as the preferred resolution strategy in the DIFC. The DFSA will attempt to ensure, as far as it is possible, that the DIFC Resolution Plan is as consistent as possible with the Group Resolution Plan.
+
+Obligation to provide information for Resolution Plan
+
+Guidance
+
+Under Article 84E(4) of the Law, where the DFSA decides to prepare a Resolution Plan for an Authorised Firm it may require the Authorised Firm to provide information or assistance.
+
+The information which the DFSA may by written notice require an Authorised Firm to provide for the purposes of preparing, amending or reviewing a Resolution Plan, may include but is not limited to:
+
+(a)
+
+a detailed description of the Authorised Firm’s organisational structure including a list of all legal entities in its Group (“legal entities”);
+
+(b)
+
+identifying the direct holders and the percentage of voting and non- voting rights of each legal entity;
+
+(c)
+
+incorporation, jurisdiction of the management associated with each legal entity;
+
+location,
+
+licensing and key
+
+(d)
+
+a mapping of the Authorised Firm’s Critical Functions and Core Business Lines including material asset holdings and liabilities relating to such operations and business lines, by reference to legal entities;
+
+(e)
+
+a detailed description of the components of the Authorised Firm’s and all its legal entities’ liabilities, separating, at a minimum by types and amounts of short term and long-term debt, secured, unsecured and subordinated liabilities;
+
+(f)
+
+details of liabilities of the Authorised Firm that are Eligible Liabilities;
+
+(g)
+
+identifying processes needed to determine to whom the Authorised Firm has pledged collateral, the person that holds the collateral and the jurisdiction in which the collateral is located;
+
+(h)
+
+a description of the off-balance sheet exposures of the Authorised Firm and its legal entities, including a mapping to its Critical Functions and Core Business Lines;
+
+(i)
+
+the material hedges of the Authorised Firm including a mapping to legal entities;
+
+(j)
+
+identification of the major or most critical counterparties of the Authorised Firm and entities in its Group as well as an analysis of the impact of the failure of major counterparties on the Authorised Firm’s
+
+12
+
+RAR/VER1/04-20
+
+RECOVERY AND RESOLUTION (RAR)
+
+financial situation;
+
+(k)
+
+each system on which the Authorised Firm conducts a material number or value amount of trades, including a mapping to legal entities in the Group, Critical Functions and Core Business Lines;
+
+(l)
+
+each payment, clearing or settlement system of which the Authorised Firm is directly or indirectly a member, including a mapping to the legal entities in the Group, Critical Functions and Core Business Lines;
+
+(m) a detailed inventory and description of the key Management Information Systems, including those for risk management, accounting and financial and regulatory reporting used by the Authorised Firm including a mapping to legal entities in the Group, Critical Functions and Core Business Lines;
+
+(n)
+
+identifying the owners of the systems identified in (m), service level agreements related thereto, and any software and systems or licences, including a mapping to their legal entities, Critical Functions and Core Business Lines;
+
+(o)
+
+identifying and mapping the legal entities in the Group and the interconnections and interdependencies among the different legal entities such as:
+
+(i)
+
+common or shared personnel, facilities and systems;
+
+(ii)
+
+capital, funding or liquidity arrangements;
+
+(iii)
+
+existing or contingent credit exposures;
+
+(iv)
+
+cross guarantee agreements, cross-collateral arrangements, cross-default netting arrangements;
+
+provisions
+
+and
+
+cross-affiliate
+
+(v)
+
+risks transfers and back-to-back trading arrangements; and
+
+(vi)
+
+service level agreements;
+
+(p)
+
+the Senior Manager designated under Rule 2.2.2 as well as those responsible, if different, for the different legal entities, Critical Functions and Core Business Lines;
+
+(q)
+
+a description of the arrangements that the Authorised Firm has in place to ensure that

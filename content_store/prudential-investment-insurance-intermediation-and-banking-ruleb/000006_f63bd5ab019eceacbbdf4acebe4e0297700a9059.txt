@@ -1,0 +1,195 @@
+ disposition or arrangement under which property is held on trust or subject to a comparable obligation, under which A has a life interest in possession;
+
+(d)
+
+an Undertaking of which A is a Director;
+
+(e)
+
+a Person who is an Employee or Partner of A;
+
+(f) where A is an Undertaking:
+
+(i)
+
+a Director of A;
+
+(ii)
+
+a Subsidiary or wholly-owned Subsidiary of A; or
+
+(iii)
+
+a Director or Employee of such a Subsidiary or wholly-owned Subsidiary; or
+
+(g)
+
+a Person who has an agreement or arrangement with A with respect to the acquisition, holding or disposal of Shares in the Authorised or other
+
+interests
+
+8
+
+PRU VER17.290725
+
+AT1
+
+AT1 Capital
+
+Auditor
+
+Authorised Person
+
+Available Stable Funding
+
+Bank
+
+Base Capital Requirement
+
+Basic Indicator Approach
+
+Person or the Holding Company of an Authorised Person or under which they undertake to act together in exercising in relation to an their voting power Authorised Person or the Holding Company of an Authorised Person or that other Person.
+
+(2) Means in respect of a Person 'A', any Person, including an affiliated company which is:
+
+(a)
+
+an Undertaking in the same Group as A; or
+
+(b)
+
+any other Person whose business or its domestic relationship with A or Associate might reasonably be expected to give rise to a community of interest between them which may involve a conflict of interest in dealings with third parties.
+
+Additional Tier 1.
+
+Has the meaning given in Section 3.11.
+
+A Partnership or Company that is registered by the Regulator to provide audit services to:
+
+(a)
+
+an Authorised Person or Recognised Body that is a Domestic Firm;
+
+(b)
+
+a Domestic Fund; or
+
+(c)
+
+a Public Listed Company.
+
+A Person, other than a Recognised Body, who holds a Financial Services Permission.
+
+The amount calculated in accordance with Rule A10.4.8.
+
+Means a Credit Institution.
+
+Has the meaning given in Section 3.3.
+
+The manner in which the Operational Risk Capital Requirement in accordance with Sections 6.11 and A7.1.
+
+is calculated
+
+9
+
+PRU VER17.290725
+
+BCBS
+
+Body Corporate
+
+Branch
+
+By Way of Business
+
+Capital Conservation Buffer
+
+Capital Requirement
+
+Capital Resources
+
+Carrying Out Contracts of Insurance as Principal
+
+The Basel Committee on Banking Supervision.
+
+Any body corporate, and a body corporate constituted under the law of a country or territory outside of ADGM.
+
+Means a place of business within ADGM:
+
+(a) which has no separate legal personality;
+
+(b)
+
+forms a legally dependant part of an Authorised Person whose principal place of business and head office is in a jurisdiction other than ADGM; and
+
+(c)
+
+through which the Authorised Person carries on Regulated Activities in or from ADGM.
+
+A Person carries on an activity specified in these Rules by way of business only if he carries on that from a permanent place of business activity maintained by him in ADGM and:
+
+(a)
+
+engages in that activity in a manner which constitutes the carrying on of a business by him;
+
+(b)
+
+holds himself out as willing and able to engage in that activity; or
+
+(c)
+
+regularly solicits other Persons to engage with him in transactions constituting that activity.
+
+Means the capital buffer requirements as applied in Section 3.17.
+
+The minimum amount of Capital Resources that an Authorised Person must hold, calculated in accordance with Section 3.4 or 3.6, as applicable.
+
+The total Capital Resources of an Authorised Person calculated in accordance with Section 3.15.
+
+Means the Regulated Activity specified in paragraph 32 of Schedule 1 of FSMR.
+
+10
+
+PRU VER17.290725
+
+Carrying Value
+
+Category
+
+CCF
+
+CCP
+
+CEA
+
+Central Bank
+
+Certificate
+
+CET1
+
+CET1 Capital
+
+Clean-Up Call
+
+In relation to:
+
+(a)
+
+a liability or equity instrument the amount at which the liability or equity instrument is recorded before the application of any regulatory deductions, filters or other adjustments, in as International accordance with Financial Reporting Standards; or
+
+determined
+
+the
+
+(b)
+
+an asset the amount at which the asset is recorded, net of specific allowances, as determined the International Reporting Standards.
+
+in accordance with
+
+Financial
+
+A prudential grouping of Authorised Persons which determines the application of these Rules.
+
+Credit

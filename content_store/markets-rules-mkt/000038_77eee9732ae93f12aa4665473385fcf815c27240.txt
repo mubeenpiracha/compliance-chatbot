@@ -1,0 +1,87 @@
+2) as applicable.
+
+(2)
+
+The relevant criteria for the purposes of (1)(b) are:
+
+(a)
+
+in the case of a fund that meets the criteria of a Property Fund, it is a closed-ended investment vehicle and 60% or more of the Fund’s assets comprise Real Property;
+
+(b)
+
+in the case of a fund that is referred to in its offer documents as an “Exchange Traded Fund” or “ETF”, it complies with CIR Rule 3.1.12; and
+
+(c)
+
+in the case of a fund that is referred to in its offer documents as an “Islamic Exchange Traded Fund” or “Islamic ETF”, it complies with IFR Rule 6.13.1(2).
+
+6.2.2 Where an obligation applies to a Reporting Entity of a Fund under a provision of this chapter, except where expressly provided otherwise, the Governing Body of the Reporting Entity must ensure compliance with that obligation.
+
+Guidance
+
+59
+
+MKT/VER24/03-25
+
+MARKETS RULES (MKT)
+
+In the case of an Investment Company (Fund) which has as its Fund Manager a licensed Corporate Director, the Reporting Entity of that Fund is its Corporate Director. See CIR section 8.1A for details relating to Corporate Directors.
+
+6.3 Prospectus requirements relating to a listed fund
+
+Guidance
+
+1.
+
+The Prospectus requirements including content and structure in chapter 2 of this module do not apply to Prospectuses relating to Units of Funds. Prospectus requirements that apply to Offer of Units of Funds are found in the Collective Investment Law 2010 and the CIR module. See Article 10(1) of the Law which disapplies chapter 2 of this module to Fund Prospectuses.
+
+2.
+
+However, under Article 14(1)(b) of the Law, a Prospectus is required for the purposes of admitting any Securities, including Units, to trading on an Authorised Market Institution, or for admitting Security Tokens to an Alternative Trading System. The Rules in this section 6.3 are designed to enable a Person seeking to have Units of a Fund admitted to trading on an Authorised Market Institution or, where the Units are Security Tokens, to an Alternative Trading System, to be able to use a Prospectus prepared in accordance with the requirements in the Collective Investment Law 2010 and the Rules in the CIR module if it is a Domestic Fund. In the case of Foreign Funds, the offer documents prepared in accordance with the requirements in a foreign jurisdiction will be acceptable in the circumstances prescribed in this section.
+
+6.3.1
+
+(1)
+
+A Person intending to have Units admitted to trading on an Authorised Market Institution or on an Alternative Trading System (where the Units are Security Tokens) must, subject to (2), (3) and (4), submit to the DFSA:
+
+(a)
+
+a completed application using the appropriate form set out in AFN and the relevant fee prescribed in FER;
+
+(b)
+
+a Prospectus relating to the Fund (“Fund Prospectus”) which:
+
+(i)
+
+complies with, the requirements in the Collective Investment Law 2010 and CIR that apply to a Public Fund, and, where that Fund is also an Islamic Fund, the additional requirements in IFR chapter 6;
+
+in
+
+the case of a Domestic Fund,
+
+(ii)
+
+is prepared, in the case of a Foreign Fund, in accordance with the requirements in Rule 6.3.3; and
+
+(iii)
+
+contains, unless it is an Islamic Listed Fund, a prominent disclaimer in bold, on the front page of the Prospectus, as follows:
+
+“The DFSA does not accept responsibility for the content of the information included in the Prospectus, including the accuracy or completeness of such information. The liability for the content of the Prospectus lies with the Issuer of the Prospectus and other Persons, such as Experts, whose opinions are included in the Prospectus with their consent. The DFSA has also not assessed the suitability of the Securities to which the Prospectus relates to any particular investor or type of investor. If you do not understand the contents of this
+
+60
+
+MKT/VER24/03-25
+
+(2)
+
+(3)
+
+(4)
+
+MARKETS RULES (MKT)
+
+Prospectus or are unsure whether the Securities to which the Prospectus relates are suitable for your individual investment objectives and circumstances, you should

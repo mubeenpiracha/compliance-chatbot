@@ -1,0 +1,137 @@
+
+
+2.1.13
+
+3.
+
+COLLECTIVE INVESTMENT RULES (CIR)
+
+See further Guidance under Rule 3.1.7 about property companies that are not Funds.
+
+Debentures and Warrants of a single issuer
+
+(a)
+
+An arrangement does not constitute a Collective Investment Fund if the rights or interests of the participants in the arrangement are represented by a Debenture or Warrant:
+
+(i)
+
+where the issuer of the Debenture or Warrant is a single issuer, and if that issuer is:
+
+(A)
+
+a Body Corporate, it is neither an Open-ended investment company nor a Closed-ended company the intent or purpose of which is investment management as specified in Rule 2.1.10; or
+
+(B)
+
+not a Body Corporate, the rights and interests of the Debenture or Warrant holder are guaranteed by the government of any country or territory; and
+
+(ii)
+
+which, if it is a convertible Security, the underlying Securities to which the Debenture or Warrant holder is entitled are Shares or Debentures issued, or to be issued, by the same issuer as the issuer of the Debenture or Warrant or single other issuer.
+
+(b)
+
+An arrangement that does not constitute a Collective Investment Fund by virtue of Rule 2.1.11(a) does not become a Fund merely because one of the participants in the arrangement is a person:
+
+(i)
+
+whose ordinary business involves him engaging in an activity that is a Financial Services activity as defined in GEN chapter 2 or that would fall within an applicable exclusion from a Financial Services activity; and
+
+(ii)
+
+whose rights or interests in the arrangement are, or include, rights or interests in a swap arrangement under which he facilitates the making of payments to participants whether in a particular amount or currency or at a particular time or rate of interest or all or any combination of those things in settlement of the rights and interests of the other participants in the arrangement.
+
+Insurance
+
+An arrangement does not constitute a Collective Investment Fund if it is a Contract of Insurance.
+
+Profit Sharing Investment Accounts
+
+An arrangement does not constitute a Collective Investment Fund if it is an account or portfolio which is a Profit Sharing Investment Account.
+
+10
+
+CIR/VER38/08-24
+
+2.1.14
+
+2.1.15
+
+2.1.16
+
+2.1.17
+
+2.1.18
+
+COLLECTIVE INVESTMENT RULES (CIR)
+
+Discretionary Portfolio Accounts
+
+An arrangement does not constitute a Collective Investment Fund if it is a portfolio or account managed under a Discretionary Portfolio Management Agreement.
+
+Close Relative accounts
+
+An arrangement does not constitute a Collective Investment Fund if every participant in the arrangement is a Close Relative. For the purposes of this Rule, the defined term “Close Relative” includes grandchildren.
+
+Sukuks
+
+An arrangement does not constitute a Collective Investment Fund if the rights or interests of the participants are evidenced by sukuk certificates where the holders of the certificates are entitled to rely on the credit worthiness of:
+
+(a)
+
+the issuer of the sukuk certificates; or
+
+(b)
+
+any other Person who has assumed obligations under the sukuk certificates,
+
+for obtaining their rights and benefits arising under the certificates.
+
+Employee reward schemes
+
+An arrangement does not constitute a Collective Investment Fund if the arrangement is for the purposes of enabling or facilitating the operation of an employee compensation or reward scheme where the arrangement:
+
+(a)
+
+makes Securities available only to:
+
+(i)
+
+an Employee or former Employee of the Issuer or of another member of the same Group as the Issuer; or
+
+(ii)
+
+a Close Relative of any such Employee; and
+
+(b)
+
+is operated by the Issuer or by a member of the same Group as the Issuer or by a trustee who, in pursuance of the arrangements, holds the Securities issued by the Issuer for the benefit of any eligible Persons referred to in Rule 2.1.17(a)(i) or (ii).
+
+Crowdfunding
+
+An arrangement does not constitute a Collective Investment Fund if all of the following conditions are met:
+
+(a)
+
+the arrangement Crowdfunding Platform, operated by a Crowdfunding Operator;
+
+is entered
+
+into using a Property
+
+Investment
+
+(b)
+
+the arrangement involves multiple investors investing in an individual apartment, house or building that has a single discrete title deed;
+
+11
+
+CIR/VER38/08-24
+
+2.1.19
+
+2.1.20
+
+COLLECTIVE IN

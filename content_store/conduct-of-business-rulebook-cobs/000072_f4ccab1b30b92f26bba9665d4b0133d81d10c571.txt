@@ -1,0 +1,75 @@
+ is Operating a Multilateral Trading Facility in relation to Virtual Assets must comply with the following requirements set out in MIR, Chapter 5:
+
+(a)
+
+Rules 5.1 - 5.3; and
+
+(b)
+
+Rule 5.4.1, in the circumstances identified in Items 19, 20, 24 (a) and (b), 27, 28, 32, 33, 35, 37, 38, 39, 40, 41, 43, 45, 46, 47, 48, 49, 50, 52, 53, 54, 55, 57, 58, 59, 60, 61 and 62.
+
+17.7.5 For the purposes of Rule 17.7.4, all references in MIR to:
+
+(a)
+
+“Recognised Body” or “Recognised Bodies” shall be read as references to “Authorised Person”; and
+
+(b)
+
+“Financial Instrument” or “Financial Instruments” shall be read as references to “Virtual Asset” or “Virtual Assets”, as applicable.
+
+17.7.6 GEN Rule 5.2.14 shall apply to an Authorised Person Operating a Multilateral Trading Facility in relation to Virtual Assets, and all references to “Investment” shall be read as references to “Virtual Asset”.
+
+17.8 Additional Rules Applicable to an Authorised Person Providing Custody or arranging
+
+custody in relation to Virtual Assets
+
+17.8.1 In addition to the general requirements applicable to an Authorised Person conducting a Regulated Activity in relation to Virtual Assets as set out in Rules 17.1 – 17.6, an
+
+116
+
+COBS VER19.290725
+
+Authorised Person that is Providing Custody in relation to Virtual Assets must comply with the requirements set out in COBS, Chapters 14, 15 and 16, as set out in Rules 17.8.2 – 17.8.3.
+
+Guidance
+
+An Authorised Person conducting a Regulated Activity in relation to Virtual Assets which hold or control Client Money must comply with the Client Money Rules set out in Chapter 14, as amended by the requirements set out in Rule 17.8.4.
+
+17.8.2 For the purposes of Rule 17.8.1 “Investment” or “Investments”, (and, a result, the corresponding references to “Client Investments”) shall be read as encompassing “Virtual Asset” or “Virtual Assets”, as applicable.
+
+17.8.3 For the purposes of an Authorised Person that is Providing Custody in relation to Virtual Assets, the following requirements in COBS, Chapter 15 shall be read as follows:
+
+(a)
+
+the statements required under COBS Rule 15.8.1(a) must be sent to a Retail Client at least monthly; and
+
+(b)
+
+all reconciliations required under COBS Rule 15.9.1 must be conducted at least every week.
+
+17.8.4 For the purposes of an Authorised Person that conducts a Regulated Activity in relation to Virtual Assets which holds or controls Client Money, the reconciliations of Client Accounts required under Section 14.11 shall be read as follows:
+
+(a)
+
+Rule 14.11.1 must be carried out at least every week; and
+
+(b)
+
+Rule 14.11.4 must be carried out within five days of the date to which the reconciliation relates.
+
+17.8.5 Before an Authorised Person arranges for a Client to engage a custodian for the purpose of the safekeeping of Virtual Assets, the Authorised Person must undertake an assessment of that custodian and have concluded on reasonable grounds that such custodian is suitable to hold the Virtual Assets of the Client. When assessing the suitability of a custodian to hold Virtual Assets belonging to a Client, an Authorised Person must have regard to the criteria set out in Rules 15.5.3 and 17.5.
+
+18.
+
+OPERATING A PRIVATE FINANCING PLATFORM
+
+18.1 Application
+
+18.1.1 This chapter applies to an Authorised Person that carries on, or intends to carry on, the
+
+Regulated Activity of Operating a Private Financing Platform.
+
+18.2 General
+
+18.2.1 For the purposes of this chapter, a PFP Client, which accesses

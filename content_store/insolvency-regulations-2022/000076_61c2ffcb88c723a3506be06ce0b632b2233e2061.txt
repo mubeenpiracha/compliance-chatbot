@@ -1,0 +1,93 @@
+ year; and
+
+(b)
+
+send a copy of the progress report to contributories and creditors of the Company and to the Registrar.
+
+(2)
+
+If the liquidator fails to comply with subsection (1), he commits a contravention and is liable to a fine at the relevant level set out in the Fines Schedule.
+
+101
+
+213. Duty to summon final meeting
+
+(1)
+
+If it appears to the liquidator of a Company that the winding-up of the Company is for practical purposes complete, the liquidator must summon a final meeting of the Company’s creditors to receive the liquidator’s report of the winding-up.
+
+(2)
+
+Notice of the meeting shall be published in the Abu Dhabi Global Market in such manner as the liquidator thinks appropriate, specifying the time, place and object of the meeting and published at least one (1) month before it.
+
+(3) Within seven (7) days of the meeting, the liquidator shall send to the Registrar a copy
+
+of the liquidator’s report and a return of the meeting.
+
+(4)
+
+If the copy is not sent or the return is not made in accordance with subsection (3), the liquidator commits a contravention and is liable to a fine at the relevant level set out in the Fines Schedule.
+
+Chapter 7 - Provisions of general application in winding-up
+
+214. General functions in winding-up by the Court
+
+The functions of the liquidator of a Company are to ensure that the property of the Company is collected or otherwise secured, realised and distributed to the Company’s creditors and, if there is a surplus, to the persons entitled to it.
+
+215. Property of the Company
+
+(1)
+
+The liquidator or the provisional liquidator (as the case may be) shall take into his custody or under his control all the property to which the Company is or appears to be entitled.
+
+(2)
+
+In these Regulations, “property” includes money, goods, things in action, land and every description of property wherever situated and also obligations and every description of interest, whether present or future or vested or contingent arising out of, or incidental to, property but does not include property held by the Company on trust for a person.
+
+(3)
+
+The liquidator or provisional liquidator shall take steps to discharge the obligations of the Company with respect to—
+
+(a)
+
+client assets and client monies, in accordance with provision made by or under the Financial Services and Markets Regulations 2015 if the Company is an Authorised Person;
+
+(b)
+
+trust property of the Company, in accordance with the terms of the trust; and
+
+(c)
+
+where the Company has uncertified securities, the persons holding such securities that are specified in the register maintained in accordance with the Uncertified Securities Rules 2021.
+
+(4) When a Company is being wound up by the Court, the Court may, on the application of the liquidator, direct that all or any part of the property of whatsoever description belonging to the Company or held by trustees on its behalf shall vest in the liquidator by his official name; and thereupon the property to which the order relates vests accordingly.
+
+(5) Where a creditor has issued execution against the goods or land of a Company or has attached any debt due to it, and the Company is subsequently wound up, he is not entitled to retain the benefit of the execution or attachment against the liquidator unless
+
+102
+
+he has completed the execution or attachment before the commencement of the winding-up.
+
+(6)
+
+However—
+
+(a)
+
+if a creditor has had notice of a meeting having been called at which a resolution for voluntary winding-up is to be proposed, the date on which he had notice is substituted, for the purpose of subsection (5), for the date of commencement of the winding-up;
+
+(b)
+
+a person who purchases in good faith under a sale by the enforcement agent charged with the execution of the writ any goods of a Company on which execution has been levied in all cases acquires a good title to them against the liquidator; and
+
+(c)
+
+the rights conferred by subsection (5) on the liquidator may be set aside by the Court in favour of the creditor to such extent and subject to such terms as the Court thinks fit.
+
+(7)
+
+For purposes of these Regulations—
+
+(a)
+
+an execution against goods is completed by seizure and sale, or by the making of a charging order under Section 114 (Charging orders) of the Courts, Civil Evidence

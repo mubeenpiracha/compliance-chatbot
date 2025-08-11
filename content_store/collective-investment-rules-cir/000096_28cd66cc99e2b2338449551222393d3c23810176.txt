@@ -1,0 +1,115 @@
+ investment in Crypto Tokens is limited to Recognised Crypto Tokens and does not exceed 20% of the gross asset value of the Fund;
+
+(b)
+
+the Fund conducts daily valuations of its investments in Crypto Tokens; and
+
+(c)
+
+the Fund’s investments in Crypto Tokens are safeguarded and administered by a Person who is a separate legal entity from the Fund Manager and is either:
+
+(i) an Authorised Firm whose Licence authorises it to Provide
+
+Custody Services of Crypto Tokens; or
+
+(ii) a Person whom the Authorised Person Offering Units of the Fund has reasonably determined to have adequate custody and asset safety arrangements after performing proper due diligence on that Person.
+
+149
+
+CIR/VER38/08-24
+
+15.1.10
+
+15.1.11
+
+COLLECTIVE INVESTMENT RULES (CIR)
+
+(4)
+
+The due diligence and determination under (3)(c)(ii) must take into account the factors listed in Rule 8.2.6(2)(a) to (f).
+
+Guidance
+
+1.
+
+Rule 15.1.9 allows an Authorised Firm to make an Offer of a Unit in a Foreign Fund where the Fund and the Offer of the Unit satisfy criteria equivalent to those applicable to an Exempt Fund or Qualified Investor Fund although additional requirements apply in relation to a Foreign Fund that invests in Crypto Tokens.
+
+2.
+
+The gross asset value of a Fund under Rule 15.1.9(3)(a) should be calculated as the total value of the Fund Property without making any deductions, such as deductions for expenses or outstanding borrowing.
+
+Periodic Information to DFSA
+
+(1) An Authorised Firm must submit to the DFSA, by the end of January each year, a report regarding any Offer or Transaction in respect of a Unit of any Domestic Fund or Foreign Fund which has been made during the preceding calendar year.
+
+(2) The report required under (1) must include the details of:
+
+(a)
+
+the name of the Fund and its Fund Manager; and
+
+(b)
+
+if the Fund is a Foreign Fund:
+
+(i)
+
+whether it is a Designated Fund and, if so, in which Recognised Jurisdiction it is authorised or approved; and
+
+(ii)
+
+if it is not a Designated Fund, the other criteria under which the Authorised Firm has relied when marketing the Units of the relevant Foreign Fund.
+
+Record keeping
+
+(1) Without limiting any requirements under COB, an Authorised Firm must keep records that are sufficient to demonstrate due compliance with the requirements in the Rules in this chapter.
+
+(2)
+
+The records in (1) must be maintained for a minimum of six years.
+
+150
+
+CIR/VER38/08-24
+
+COLLECTIVE INVESTMENT RULES (CIR)
+
+PART 8 – TRANSFER SCHEMES AND WINDING UP OF DOMESTIC FUNDS
+
+16.
+
+TRANSFER SCHEMES RELATING TO DOMESTIC FUNDS
+
+16.1
+
+Application of the Regulatory Law
+
+Guidance
+
+1.
+
+Pursuant to Part 9 of the Regulatory Law 2004, a Fund may be transferred in whole or in part to another body in accordance with that Part.
+
+2.
+
+The DFSA may make Rules for the purposes of that Article pursuant to the power conferred under Article 113 of the Regulatory Law 2004.
+
+16.1.1
+
+This Chapter applies to a Fund Manager and, where appointed, the Trustee of a Domestic Fund and, if the Fund is an Umbrella Fund using the form of a Protected Cell Company, in respect of each cell as if though each cell is a separate Fund.
+
+Guidance
+
+A Fund Manager of a Fund that is an Incorporated Cell of an ICC is, in addition to the requirements in this chapter, required to comply with the requirements in the ICC Regulations that apply to the transfer of an Incorporated Cell.
+
+16.1.2
+
+Pursuant to Article 113 of the Regulatory Law 2004, the DFSA prescribes, in Rule 16.1.3, the modification to Part 9 of that Law necessary for the purposes of transferring a Fund’s property or liability to another Fund.
+
+16.1.3
+
+(1)
+
+Part 9 of the Regulatory Law 2004 is to be read and, to have effect, as if it were subject to the provisions set out in this Rule.
+
+(2) Where, for the purpose of

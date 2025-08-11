@@ -1,0 +1,101 @@
+, lending transactions or Securities borrowing transactions in the Securities concerned;
+
+the agreement
+
+(g)
+
+the transaction is governed by documentation specifying that if the Counterparty fails to satisfy an obligation to deliver cash or Securities or to deliver margin, or otherwise defaults, then the transaction may be terminated immediately; and
+
+(h)
+
+upon any event of default, regardless of whether the Counterparty is insolvent or bankrupt, the Authorised Person has the unfettered, legally enforceable right to immediately seize and liquidate the Collateral for the benefit of the Authorised Person.
+
+A4.5
+
+Requirements for use of VaR models
+
+A4.5.1
+
+An Authorised Person using VaR models must:
+
+286
+
+PRU VER17.290725
+
+(a)
+
+use a minimum holding period of ten business days except in the case of an SFT, for which it must use a minimum holding period of five business days;
+
+(b)
+
+backtest its output by:
+
+(i)
+
+identifying a sample of twenty Counterparties, on an annual basis, which must include the ten largest Counterparties as determined by the Authorised Person according to its own Exposure measurement approach and ten others selected at random;
+
+(ii)
+
+comparing, for each day and for the sample of twenty Counterparties, the VaR estimate of the previous day for the Counterparty portfolio to the difference between the net value of the previous day's portfolio using today's market prices and the net value of that portfolio using the previous day's market prices; and
+
+(iii)
+
+counting it as an exception, where this difference exceeds the previous day's VaR estimate.
+
+Guidance
+
+An Authorised Person should adjust the minimum holding period upwards for any Financial Instrument where the specified holding period would be inappropriate given the liquidity of the instrument concerned. When the outcome of the model consistently results in a large number of exceptions, either overall or for one significant Counterparty, the Authorised Person is expected to review the model assumptions and make modifications as appropriate.
+
+A4.6
+
+Credit RWA - Unsettled Transactions, free deliveries, Derivatives and long settlement transactions
+
+Guidance
+
+1.
+
+Where settlement does not occur on the due date and neither party has released the relevant cash or Securities, an Authorised Person faces Market Risk, namely the differential between the contract price of the Securities and their current value in the market. In this case an Authorised Person also faces a Credit Risk Exposure for the Unsettled Transaction, for which the Authorised Person is required to hold regulatory capital. The relevant Credit Risk Exposure should be included in the calculation of Credit RWA for the Authorised Person.
+
+2.
+
+An Authorised Person is at risk for the whole amount of the contract (as well as any further movement in price) if it has delivered its leg of a contract before receipt of the other leg. In this case an Authorised Person must calculate the Credit Risk RWA for the free delivery transaction.
+
+3.
+
+For Derivatives (OTC and exchange-traded) and long settlement transactions, an Authorised Person is exposed to settlement risk. For Derivatives Contracts, the risk is that the price moves in an Authorised Person's favour so
+
+287
+
+PRU VER17.290725
+
+that it makes a book profit but at maturity the Authorised Person cannot realise that profit because the other party defaults.
+
+4.
+
+In cases of a system-wide failure of a settlement or clearing system, an Authorised Person need not calculate CRCOM on transactions remaining unsettled till the settlement or clearing system is brought back to normal operations.
+
+A4.6.1
+
+The Section applies in respect of items in both the Trading Book and Non-Trading Book.
+
+A4.6.2 CRWs must be calculated on the Counterparty to the transaction, not on the Issuer of
+
+the Security.
+
+A4.6.3 When calculating its Credit RWA, an Authorised Person must not include RWA arising
+
+from a transaction if it is a negative amount.
+
+A4.6.4
+
+CRW counterparty weighting for an OTC Derivative is 50%.
+
+is applied
+
+in accordance with Section A4.3 except that the maximum
+
+Unsettled Transactions
+
+A4.6.5
+
+An Authorised Person must calculate the Credit RWA for transactions in which debt instruments, equities, foreign currencies and commodities (excluding repos, reverse repos and Securities or commodities lending/borrowing) remain unsett

@@ -1,0 +1,163 @@
+2)
+
+For the purposes of (1), an Authorised Market Institution must adopt well defined and clearly documented development and testing methodologies which are in line with internationally accepted testing standards.
+
+Guidance
+
+Through the use of such testing methodologies, the Authorised Market Institution should be able to ensure, amongst other things, that:
+
+a.
+
+its systems and controls are compatible with its operations and functions;
+
+b.
+
+compliance and risk management controls embedded in its system operate as intended (for example, by generating error reports automatically); and
+
+c.
+
+it can continue to work effectively in stressed market conditions.
+
+Business Rules
+
+Content of Business Rules
+
+(1)
+
+An Authorised Market Institution must establish and maintain Business Rules in accordance with the requirements in this section. Such rules must include:
+
+(a)
+
+criteria governing the admission of Members and any other Persons to whom access to its facilities is provided;
+
+(b)
+
+criteria governing the admission of Investments or Crypto Tokens to trading, or clearing and settlement, as appropriate to its facilities;
+
+26
+
+AMI/VER28/03-25
+
+5.6.2
+
+AUTHORISED MARKET INSTITUTIONS (AMI)
+
+(c)
+
+Default Rules; and
+
+(d)
+
+any other matters necessary for the proper functioning of the Authorised Market Institution and the facilities operated by it.
+
+(2)
+
+An Authorised Market Institution’s Business Rules must:
+
+(a)
+
+be based on objective criteria and non-discriminatory;
+
+(b)
+
+be clear and fair;
+
+(c)
+
+set out the Members’ and other participants’ obligations:
+
+(i)
+
+arising from the Authorised Market Institution’s constitution and other administrative arrangements;
+
+(ii)
+
+when undertaking transactions on its facilities; and
+
+(iii)
+
+relating to professional standards that must be imposed on staff and agents of the Members and other participants when undertaking transactions on its facilities;
+
+(d)
+
+be legally binding and enforceable against the Members and other participants;
+
+(e)
+
+be made publicly available free of charge;
+
+(f)
+
+contain provisions for the resolution of Members’ and other participants’ disputes and an appeal process from the decisions of the Authorised Market Institution; and
+
+(g)
+
+contain disciplinary proceedings, including any sanctions that may be imposed by the Authorised Market Institution against its Members and other participants.
+
+Guidance
+
+1.
+
+The DFSA assesses, at the point of grant of a Licence to an Authorised Market Institution, the adequacy of its Business Rules and its systems and controls to ensure effective monitoring of compliance with such rules. Thereafter, any amendment to the Business Rules can only be made in accordance with the requirements set out in Rules 5.6.4 to 5.6.7 in this section.
+
+2.
+
+Persons other than Members may have access to an Authorised Market Institution’s facilities. See Rule 6.9.1(1)(a)(ii).
+
+Default Rules
+
+An Authorised Market Institution must have Default Rules which, in the event of a Member or other participant on its facilities being, or appearing to be, unable to meet its obligations in respect of one or more contracts, enable action to be taken in respect of unsettled market contracts to which the Member or that other participant is a party.
+
+Guidance
+
+27
+
+AMI/VER28/03-25
+
+5.6.3
+
+5.6.4
+
+5.6.5
+
+AUTHORISED MARKET INSTITUTIONS (AMI)
+
+The DFSA requires all Authorised Market Institutions to have Default Rules under Article 28 of the Markets Law. Default Rules allow an Authorised Market Institution to close-out open positions by discharging the appropriate rights and liabilities of transactions which a Member or any other Person granted access to its facilities cannot, or may not be able to, fulfil.
+
+Monitoring compliance with Business Rules
+
+An Authorised Market Institution must have adequate compliance procedures in place to ensure that:
+
+(a)
+
+its Business Rules are monitored and enforced;
+
+(b)
+
+any complaints relating to its operations or regarding Members and other participants on its facilities are promptly investigated;
+
+(c)
+
+where appropriate, disciplinary action resulting in financial and other types of penalties can be taken;
+
+(d)
+
+appeal procedures are in place; and
+
+(e)
+
+referrals can be made to the DFSA in appropriate circumstances.
+
+Guidance
+
+1.
+
+In determining whether an Authorised Market Institution can effectively monitor its Business Rules, the DFSA will consider:
+
+a.
+
+the oversight of activity conducted on its facilities;
+
+b.
+
+the range of powers it retains over Members and other Persons granted access to its facilities,

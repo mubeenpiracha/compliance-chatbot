@@ -1,0 +1,149 @@
+ model for this component, set out in A4.4.1, is modified by additional provisions that permit an Insurer to take account of the reduced default risk where an asset is covered by guarantees or collateral, and impose additional capital charges on assets that are encumbered. In addition, certain assets that are left out of account in calculating an Insurer's Adjusted Capital Resources are exempt from the default risk component calculation. Excluding these assets from Adjusted Capital Resources already effectively imposes a 100% capital requirement.
+
+A4.4.1 An Insurer must calculate its default risk component as the sum of the amounts obtained by multiplying the value of each asset of the Insurer with the percentage applicable to that asset, as set out in the tables contained in this Rule and subject to the provisions of Rules A4.4.2, A4.4.5, A4.4.6 and A4.4.7.
+
+(a)
+
+Assets that are Invested Assets
+
+80
+
+PIN VER07.290725
+
+Asset
+
+(a) Bonds Rated 'AAA', issued by a Government or Government agency
+
+(b) Bonds not included in (a), Rated 'A' or better
+
+(c) Bonds Rated 'BBB'
+
+(d) Bonds Rated 'BB'
+
+(e) Bonds Rated 'B'
+
+(f)
+
+Bonds Rated 'CCC'
+
+(g) Other Rated bonds
+
+(h) Secured loans – performing
+
+(i)
+
+Secured loans – Non-Performing
+
+(j)
+
+Loans to directors of the Insurer or to directors of Related parties, or to the dependent relatives of such directors
+
+(k) Unsecured loans to employees (except loans of less than $1,000)
+
+(l) Other bonds and loans
+
+(b)
+
+Assets that are not Invested Assets
+
+Asset
+
+Reinsurance recoverable from:
+
+(a)
+
+reinsurers Rated 'AAA'
+
+(b)
+
+reinsurers Rated 'AA'
+
+(c)
+
+reinsurers Rated 'A'
+
+(d)
+
+reinsurers Rated 'BBB'
+
+(e)
+
+reinsurers Rated 'BB'
+
+(f)
+
+reinsurers Rated 'B'
+
+(g)
+
+reinsurers Rated 'CCC'
+
+(h)
+
+reinsurers Rated 'R'
+
+%
+
+0.0
+
+0.4
+
+3.3
+
+7.5
+
+13.7
+
+20.2
+
+30.0
+
+2.0
+
+14.0
+
+100.0
+
+100.0
+
+50.0
+
+%
+
+0.5
+
+1.2
+
+1.9
+
+4.7
+
+9.6
+
+23.8
+
+49.7
+
+50.0
+
+81
+
+PIN VER07.290725
+
+Asset
+
+(i)
+
+other reinsurers
+
+(j) Other assets
+
+A4.4.2 Reinsurance recoverable includes amounts recoverable in respect of outstanding claims and in respect of Premium Liabilities. Insurers may make reasonable approximations where it is not possible to identify exactly the reinsurers to which amounts recoverable relate (for example, in the case of recoveries in respect of Premium Liabilities and in respect of claims incurred but not reported).
+
+A4.4.3 Where an asset falls within more than one category in the table in Rules A4.4.1(a) or A4.4.1(b), the highest of the percentages applicable to that asset must be applied.
+
+A4.4.4 Where an asset has been explicitly, unconditionally and irrevocably guaranteed for its remaining term, by a guarantor with a rating of 'A' or better who is not Related to the Insurer, the Insurer may at its option use, in place of the relevant percentage in the table in Rules A4.4.1(a) or A4.4.1(b), the percentage in those tables that would apply to a debt due from the guarantor.
+
+A4.4.5 Where an Insurer holds collateral against an asset, and the collateral consists of a charge, mortgage or other security interest in cash or in debt securities whose issuer has a rating of 'A' or above, the Insurer may at its option use, in place of the relevant percentage in the table A4.4.1(a) or in Rule A4.4.1(b), the percentage in those tables that would apply to the collateral.
+
+A4.4.6 The provisions of Rules A4.4.4 and A4.4.5 apply only to the extent that the asset is

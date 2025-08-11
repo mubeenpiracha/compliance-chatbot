@@ -1,0 +1,145 @@
+.3.1 must:
+
+(a)
+
+be filed with the Authorised Market Institution on which the Units are to be admitted to trading as soon as possible after the DFSA has granted its approval; and
+
+(b)
+
+be published in accordance with the requirements in section 6.10.
+
+Exempt offers in respect of units
+
+6.3.5 The prohibition in Article 14(1)(b) of the Law does not apply, subject to the requirement in Rules 6.3.6, to the admission to trading on an Authorised Market Institution of:
+
+(a)
+
+Units representing, over a period of 12 months, less than 10 per cent of the number of Units of the same class already admitted to trading on the same Authorised Market Institution;
+
+(b)
+
+Units issued in substitution for Units of the same class already admitted to trading on the same Authorised Market Institution, if the issue of Units does not involve any increase in the issued capital;
+
+63
+
+MKT/VER24/03-25
+
+MARKETS RULES (MKT)
+
+(c)
+
+Units offered, allotted or to be allotted to existing Unitholders free of charge, or in respect of dividends paid out in the form of Units of the same class as the Units in respect of which the dividends are paid, if:
+
+(i)
+
+the Units are of the same class as the Units already admitted to trading on the same Authorised Market Institution; and
+
+(ii)
+
+a document is made available containing information on the number and nature of the Units and the reasons for and details of the offer; or
+
+(d)
+
+Units already admitted to trading on another Authorised Market Institution or Regulated Exchange (the “other market”), where:
+
+(i)
+
+the Units of the same class have been admitted to trading and continuously traded on the other market for more than 18 months;
+
+(ii)
+
+the ongoing obligations for trading on that other market have been complied with; and
+
+(iii)
+
+there is a summary document in the English language approved by the DFSA and published:
+
+(A)
+
+containing the Key Information required under Rule 2.5.2(1)(b);
+
+(B)
+
+stating where the most recent and current Prospectus, if any, can be obtained; and
+
+(C)
+
+specifying where the financial information published by the Issuer pursuant to its ongoing disclosure obligations of the other market is available.
+
+6.3.6
+
+(1)
+
+All Units in a class of Securities other than those specified in (2) that are admitted to trading, including those specified under Rule 6.3.5, must be traded on an Authorised Market Institution or a Regulated Exchange.
+
+(2)
+
+All Units in a class of Securities admitted to trading that are Security Tokens, including those specified under Rule 6.3.5, must be traded on an Alternative Trading System, an Authorised Market Institution or a Regulated Exchange.
+
+Financial promotions
+
+6.3.7 The Reporting Entity of a Listed Fund must ensure that any financial promotions relating to the Units of the Fund comply with the requirements relating to financial promotions:
+
+(a)
+
+in the case of a Domestic Fund, those in the Collective Investment Law 2010 and the CIR Rules; and
+
+(b)
+
+in the case of a Foreign Fund, the equivalent requirements applicable to the Fund in the jurisdiction of its domicile or establishment.
+
+6.4 Governance requirements relating to a listed fund
+
+64
+
+MKT/VER24/03-25
+
+MARKETS RULES (MKT)
+
+Related Party Transactions
+
+6.4.1
+
+(1)
+
+The Reporting Entity of a Listed Fund must ensure that no transaction with respect to the Fund Property is entered into with a Related Party except in accordance with the procedures in (2).
+
+(2)
+
+For the purposes of (1), a Reporting Entity of a Listed Fund must:
+
+(a)
+
+if the Fund is a Domestic Fund, comply with the requirements in the Collective Investment Law 2010 and the CIR Rules relating to Related Party Transactions; and
+
+(b)
+
+if the Fund is a Foreign Fund, comply with the equivalent requirements applicable its domicile or establishment.
+
+to
+
+that Fund
+
+in
+
+the
+
+jurisdiction of
+
+6.5 Market disclosure relating to a listed fund
+
+Disclosure of inside information
+
+6.5.1
+
+(1)
+
+A Reporting Entity of a Listed Fund must:
+
+(a)
+
+make timely disclosure of Inside Information in accordance with the requirements in this section; and
+
+(b)
+
+ensure that the disclosure it

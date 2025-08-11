@@ -1,0 +1,113 @@
+ in light of all the circumstances, including any relevant agreement between the parties; or
+
+(b)
+
+proven to have fulfilled the functions described in section 13(1)(a), by itself or together with further evidence,
+
+(2) For the avoidance of doubt, any Electronic Signature which complies with this Part will have
+
+the same legal effect as a handwritten signature.
+
+14. Reliability of Electronic Signature
+
+(1) An Electronic Signature is reliable for the purposes of satisfying the requirement referred to
+
+in section 13(1)(a) if:
+
+(a)
+
+the signature creation data are, within the context in which they are used, linked to the signatory and to no other person;
+
+(b)
+
+the signature creation data were, at the time of signing, under the control of the signatory and of no other person;
+
+(c)
+
+any alteration to the Electronic Signature, made after the time of signing, is
+
+7
+
+detectable; and
+
+(d) where a purpose of the legal requirement for a signature is to provide assurance as to the integrity of the information to which it relates, any alteration made to that information after the time of signing is detectable.
+
+(2) Section 14 (1) does not limit the ability of any person to:
+
+(a)
+
+establish in any other way, for the purpose of satisfying the requirements referred to in section 13(1)(a), the reliability of an Electronic Signature; or
+
+(b)
+
+adduce evidence of the non-reliability of an Electronic Signature.
+
+15. Admissibility of Electronic Signatures in evidence
+
+In any proceedings before the Court, evidence of a signature includes an Electronic Signature.
+
+PART 5
+
+ELECTRONIC TRANSFERABLE RECORDS
+
+16. Electronic Transferable Records
+
+An Electronic Transferable Record has the same legal effect, validity and enforceability as if it was in tangible written form.
+
+17. Transferable Document or Instrument
+
+(1) Where an Enactment requires or permits a Transferable Document or Instrument, that
+
+requirement is met by an Electronic Record if:
+
+(a)
+
+the Electronic Record contains the Information that would be required to be contained in a Transferable Document or instrument; and
+
+(b)
+
+a reliable method is used:
+
+(i)
+
+to identify that Electronic Record as the Electronic Transferable Record;
+
+(ii)
+
+to render that Electronic Record capable of being subject to control from its creation until it ceases to have any effect or validity; and
+
+(iii)
+
+to retain the integrity of that Electronic Record.
+
+(2) The criterion for assessing integrity of an Electronic Record will be whether Information contained in the Electronic Transferable Record, including any authorised change that arises from its creation until it ceases to have any effect or validity, has remained complete and unaltered apart from any change which arises in the normal course of communication, storage and display of an Electronic Record.
+
+18. Control of Electronic Transferable Records
+
+8
+
+(1) Where an Enactment requires or permits the possession of a Transferable Document or Instrument, that requirement is met with respect to an Electronic Transferable Record if a reliable method is used:
+
+(a)
+
+to establish exclusive control of that Electronic Transferable Record by a person; and
+
+(b)
+
+to identify that person as the person in control.
+
+(2) Where an Enactment requires or permits transfer of possession of a Transferable Document or Instrument, that requirement is met with respect to an Electronic Transferable Record through the transfer of control over the Electronic Transferable Record.
+
+19. Time or place
+
+Where an Enactment requires or permits the indication of time or place with respect to a Transferable Document or Instrument, that requirement is met if a reliable method is used to indicate that time or place with respect to an Electronic Transferable Record.
+
+20. Endorsement
+
+Where an Enactment requires or permits the endorsement in any form of a Transferable Document or Instrument, that requirement is met with respect to an Electronic Transferable Record if the Information required for the endorsement is included in the Electronic Transferable Record and that Information is compliant with the requirements in sections 2 and 13(1).
+
+21. Amendment
+
+Where an Enactment requires or permits the amendment of a Transferable Document or Instrument, that requirement is met with respect to an Electronic Transferable Record if a reliable method is used for amendment of Information in the Electronic Transferable Record so that the amended information is identified as such.
+
+22. Replacement of a Transferable Document or Instrument with

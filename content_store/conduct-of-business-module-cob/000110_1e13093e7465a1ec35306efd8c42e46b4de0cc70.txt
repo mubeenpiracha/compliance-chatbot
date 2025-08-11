@@ -1,0 +1,109 @@
+ or clearing Investment Tokens on the facility, including criteria about the integrity, credentials and competencies appropriate to the roles played by such persons;
+
+(ii)
+
+measures to address risks, including to network security and network compatibility, that may arise through systems used by Persons permitted to update the records on the DLT application; and
+
+(iii)
+
+processes to ensure that the Authorised Firm undertakes sufficient due diligence and adequate monitoring of ongoing compliance, relating to the matters referred to in (i) and (ii);
+
+(c)
+
+ensure any DLT application used by its facility is fit for purpose; and
+
+(d)
+
+have regard to industry best practices in developing its technology design and technology governance relating to DLT that is used by the facility.
+
+Guidance
+
+1.
+
+To be fit for purpose, the technology design of the DLT application used by an Authorised Firm Operating a Facility for Investment Tokens should be able to address how the rights and obligations relating to the Investment Tokens traded on that facility are properly managed and are capable of being exercised or performed. For example, where a Security Token confers rights and obligations substantially similar to those conferred by a Share in a company, the DLT application would generally need to enable the management and exercise of the shareholder’s rights. This may, for example, include the right to receive notice of, and vote in, shareholder meetings, receive any declared dividends and participate in the assets of the company in a winding up.
+
+2.
+
+To ensure the technology governance of any DLT application used by its facility is fit for purpose, an Authorised Firm should, as a minimum, have regard to the following:
+
+a.
+
+careful maintenance and development of the relevant systems and architecture in terms of its code version control, implementation of updates, issue resolution, and regular internal and third party testing;
+
+170
+
+COB/VER48/03-25
+
+CONDUCT OF BUSINESS (COB)
+
+b.
+
+security measures and procedures for the safe storage and transmission of data in accordance with agreed protocols;
+
+c.
+
+procedures to address changes in the protocol which result in the splitting of the underlying distributed ledger into two or more separate ledgers (often referred to as a ‘fork’). These procedures should be effective whether or not the new protocol is backwards compatible with the previous version (soft fork), or not (hard fork), and should address access to information where such a fork is created;
+
+d.
+
+procedures to deal with system outages, whether planned or not;
+
+e.
+
+decision-making protocols and accountability for decisions;
+
+f.
+
+procedures for establishing and managing interfaces with providers of Digital Wallets; and
+
+g.
+
+whether the protocols, smart contracts and other inbuilt features of the DLT application meet at least a minimum acceptable level of reliability and safety requirements, including to deal with a cyber or hacking attack, and determine how any resulting disruptions would be resolved.
+
+3.
+
+Some parts of trading Investment Tokens, for example, order matching, may take place ‘off- chain’ (i.e. not using DLT). In those circumstances, the operator should still maintain adequate control over Persons who are undertaking those activities, as they are agents or delegates of the operator.
+
+14.2 Operating a Facility for Investment Tokens which permits direct
+
+access
+
+Application
+
+14.2.1 This section applies to an ATS Operator that has Direct Access Members.
+
+Guidance
+
+1.
+
+A Direct Access Member is defined in GLO as a Person that an ATS Operator has admitted as a member under COB Rule 9.3.1(1)(e).
+
+2.
+
+A Person will only be admitted as a Direct Access Member where that Person does not meet any of the criteria at 9.3.1(1)(a)-(d), although a Person admitted as a member under any of those criteria may also trade Investment Tokens. A Direct Access Member may be an individual or a Body Corporate, but will not, for example, be an Authorised Firm or an institutional investor whose main activity is to invest in financial instruments.
+
+3.
+
+See also the requirements relating to Direct Access Members in Rule 9.3.1(4).
+
+Requirements
+
+14.2.2 An ATS Operator must ensure that:
+
+(a)
+
+it treats each Direct Access Member as its Client;
+
+(b)
+
+its Operating Rules clearly set out:
+
+171
+
+COB/VER48/03-25
+
+CONDUCT OF BUSINESS (COB)
+
+(i)
+
+the duties owed by the ATS Operator to the Direct Access Member and how

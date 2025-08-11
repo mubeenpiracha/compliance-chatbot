@@ -1,0 +1,39 @@
+ information of which the Reporting Entity is aware of changes, or the view of the Reporting Entity changes in relation to the information becoming Inside Information, then action may have to be taken by the Reporting Entity. This may include the Reporting Entity now requesting a Trading Halt or Suspension before responding to the MAQ Letter.
+
+185) Listing Authority MAQ Letters will generally follow a standard template. Typically, a MAQ Letter will identify the abnormal trading and ask a Reporting Entity to respond separately to each of the following questions:59
+
+58 As outlined in paragraphs 176 to 181 above, if a Reporting Entity advises the Listing Authority that it is aware of information that has not yet been Disclosed and which could explain the abnormal trading in the Listed Entity’s Securities, and it cannot identify any other reason to explain the abnormal trading, the Listing Authority will generally require the Reporting Entity to immediately Disclose the Inside Information (or other information) under Rule 7.2.1 or 7.5.1(b). The release of such Disclosure will avoid the requirement for the Listing Authority to release a MAQ Letter, or the Reporting Entity’s response to the MAQ Letter. 59 Additional questions may be asked by the Listing Authority within a MAQ Letter if there are other disclosure issues of which the Listing Authority seeks to be satisfied. For example, if a MAQ Letter is sent in the period leading up to a half year or end of year balance date, the MAQ Letter may include questions focussed on whether the Reporting Entity is expecting to Disclose earnings that may come as a surprise, or be significantly different from previous earnings guidance. A MAQ Letter will usually ask for a response to be sent to a particular officer within the Listing Authority by email, and advise that the Reporting Entity’s response should not be sent to the FSRA Disclosure Platform. The MAQ Letter will usually also contain a statement that the Listing Authority, under Rule 2.8, will Disclose the MAQ Letter and the Reporting Entity’s response, and therefore the response should be in a form suitable for Disclosure.
+
+38
+
+VER01.280922
+
+(i)
+
+Is the Reporting Entity aware of any Inside Information that concerns it that has not been Disclosed and which, if known, could be an explanation for recent trading in the Listed Entity’s Securities?
+
+Please note that as recent trading in the Listed Entity’s Securities may indicate that Inside Information has ceased to be confidential, the Reporting Entity is unable to rely on the exemption from Disclosure under Rule 7.2.1 provided by Rule 7.2.2 when responding to this question.
+
+(ii)
+
+If the answer to question i) is yes, can a Disclosure be made immediately? If not, why not and when is it expected that a Disclosure will be made?
+
+Please note, if the answer to question a) is yes and a Disclosure cannot be made immediately, you will need to contact the Listing Authority immediately to discuss. This discussion will likely require the Reporting Entity to consider a Trading Halt.
+
+(iii)
+
+If the answer to question i) is no, is there any other explanation that the Reporting Entity may have for the price [and volume] change in relation to the Listed Entity’s Securities?
+
+(iv) Please confirm that the Reporting Entity is in compliance with the Market Rules,
+
+and in particular, Rule 7.2.1.
+
+186) When the Reporting Entity’s response has been received and reviewed by the Listing Authority, the response may be Disclosed by the Listing Authority where it indicated in the MAQ Letter that it may do so.
+
+Aware Letters
+
+187) When the Listing Authority has concerns that a Reporting Entity may not have Disclosed Inside Information at the time it should have under Rule 7.2.1, it will typically issue an ‘aware letter’ to the Reporting Entity. The purpose of an ‘aware letter’ is to enable the Listing Authority, and the market in the Listed Entity’s Securities, to be satisfied that the Reporting Entity is in compliance with its continuous disclosure obligations under the Rules. Aware letters are issued under Rule 2.8.2. A Reporting Entity must respond to an ‘aware letter’ by the time specified by the Listing Authority in the letter.
+
+188) Similar to a MAQ Letter, ‘aware letters’ tend to follow a standard template. Generally, they will identify the information in question and the relevant date it was Disclosed, and ask the following questions:60
+
+(i) Does

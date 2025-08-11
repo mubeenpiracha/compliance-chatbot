@@ -1,0 +1,93 @@
+. The resulting weighted average risk weight must not be higher than 1000% or lower than the risk weight applicable to a more senior tranche which is rated.
+
+(4)
+
+Where the Authorised Firm is unable to determine the risk weights for the underlying Exposures the unrated securitisation position will not be eligible for the relief and must be deducted from CET 1 Capital of the Authorised Firm.
+
+in accordance with
+
+this Rule,
+
+4.14.38 An Authorised Firm wishing to apply the treatment referred to in Rule 4.14.37 must notify the DFSA, in writing, at least 30 days in advance, of the intention to adopt this treatment. The notification should include the treatments being adopted and the weightings applied under the provision.
+
+4.14.39 The resulting weighted average risk weight must not be higher than 1000% or lower
+
+than the risk weight applicable to a more senior tranche which is rated.
+
+4.14.40 An Authorised Firm must have systems and controls in place to monitor effectively the composition of Exposures where the look-through provision has been applied on an ongoing basis.
+
+151
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+Exposures that are in a second loss position or better of an ABCP
+
+4.14.41 An Authorised Firm may apply a risk weight of 100% or the highest risk weight assigned to any of the underlying Exposures in the ABCP Programme, whichever is higher, to an unrated securitisation Exposure arising from the ABCP Programme, provided the securitisation position complies with the following conditions:
+
+(a)
+
+the subject securitisation Exposure must be in a tranche which is economically in a second loss position or better and the First Loss Position must provide meaningful credit protection to the second loss tranche;
+
+(b)
+
+the associated Credit Risk of the securitisation Exposure is the equivalent of a Credit Quality Grade of III or better in the short-term rating category; and
+
+(c)
+
+the Authorised Firm must not hold a position in the First Loss Position.
+
+Eligible liquidity positions
+
+4.14.42 An Authorised Firm providing an unrated eligible liquidity facility may assign to the resulting securitisation Exposure the highest risk weight that would be applied to any of the underlying Exposures covered by the facility.
+
+4.14.43 (1)
+
+An off balance sheet SE Exposure will receive a 100% CCF unless:
+
+(a)
+
+the Exposure qualifies as an eligible liquidity facility, or
+
+(b)
+
+the Exposure is an eligible Servicer cash advance facility.
+
+(2)
+
+In relation to (1), an eligible Servicer cash advance facility is a facility provided to a securitisation in order to ensure uninterrupted flow of payments to investors. As long as the Servicer is entitled to full reimbursement and this right is senior to all other claims on cash flows from the underlying pool of Exposures, and where these facilities meet the requirements of 4.14.44 and are unconditionally cancellable at any time, any undrawn commitments can then have a 0% CCF applied.
+
+4.14.44 (1)
+
+For the purposes of Rule 4.14.42, an Authorised Firm may treat an Exposure as an eligible liquidity facility provided the following requirements are met:
+
+(a)
+
+the liquidity facility documentation must clearly identify and limit the circumstances under which it may be drawn;
+
+(b) draws must be limited to the amount that is likely to be repaid from the liquidation of the underlying Exposures and any seller provided Credit Enhancements;
+
+(c)
+
+the facility must not provide credit support by covering for any losses incurred in the underlying pool of Exposures prior to drawdown;
+
+(d)
+
+the facility must not be structured to provide regular or permanent funding;
+
+(e)
+
+the facility must be subject to an asset quality test to preclude it being used to cover Credit Risk Exposures that are in default;
+
+152
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+(f) where the facility is used to fund externally rated Securities the facility can only be used to fund Securities that are externally rated Investment Grade at the time of funding;
+
+(g)
+
+the facility cannot be

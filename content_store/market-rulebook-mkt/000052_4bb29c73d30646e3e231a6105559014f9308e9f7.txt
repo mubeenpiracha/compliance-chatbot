@@ -1,0 +1,151 @@
+ Inside Information acknowledge the legal
+
+Confidential
+
+83
+
+MKT VER09.020125
+
+and regulatory duties entailed, including dealing restrictions in relation to the Reporting Entity's Financial Instruments or any related investments, and are aware of the sanctions attaching to the misuse or improper use or circulation of such information.
+
+7.2.9 A Reporting Entity must nominate two individuals to be its main points of contact with the Regulator in relation to its Disclosure and other obligations under this chapter.
+
+7.3
+
+Disclosure of interests by Connected Persons
+
+Guidance
+
+Section 76 of FSMR requires certain Persons connected to a Reporting Entity to make certain disclosures to the Regulator and the Reporting Entity in accordance with the requirements prescribed in these Rules.
+
+Application
+
+7.3.1 This Rule applies to a Connected Person of a Reporting Entity other than that of a Listed
+
+Fund.
+
+Guidance
+
+Rule 3.6 contains the Connected Person disclosure requirements relevant to Listed Funds.
+
+Definitions
+
+7.3.2
+
+(1)
+
+A Person is hereby prescribed as a Connected Person of a Reporting Entity if that Person:
+
+(a)
+
+is a Director or an individual involved in the Senior Management of either:
+
+(i)
+
+the Reporting Entity; or
+
+(ii)
+
+a Controller of the Reporting Entity; or
+
+(b)
+
+owns, whether legally or beneficially, or controls, whether directly or indirectly, voting Securities carrying more than 5% of the voting rights attaching to all the voting Securities of either:
+
+(i)
+
+the Reporting Entity; or
+
+(ii)
+
+a Controller of the Reporting Entity.
+
+(2)
+
+In (1), a Person is a Controller of a Reporting Entity if that Person (the first Person), either alone or with his Associates, controls the majority of the voting rights in, or the right to appoint or remove the majority of the Board of, the Reporting Entity or any Person who has similar control over the first Person, including an ultimate Controller of the first Person.
+
+Confidential
+
+84
+
+MKT VER09.020125
+
+(3)
+
+For the purposes of determining whether a Person:
+
+(a)
+
+owns or controls voting Securities in (1)(b); or
+
+(b)
+
+controls the voting rights in or the right to appoint or remove the majority of the Board of a Reporting Entity or a Controller of a Reporting Entity in (2),
+
+any Securities held by that Person and his Associates, including those in which that Person or an Associate of that Person has a beneficial interest, are deemed as his Securities except as specified in (4).
+
+(4)
+
+For the purposes of (3), Securities are not deemed as his Securities where:
+
+(a)
+
+any such Securities are held by that Person on behalf of another Person who is not an Associate of that Person; and
+
+(b)
+
+the Person does not have control over the voting rights attaching to the Securities because some other Person exercises those rights or manages those Securities on a discretionary basis.
+
+(5)
+
+A Person is not a Connected Person of a Reporting Entity merely by reason that:
+
+(a)
+
+its Structured Products are admitted to trading on a Recognised Investment Exchange; or
+
+(b)
+
+such Person:
+
+(i)
+
+owns or holds voting Securities solely in its capacity as trustee, nominee or custodian under an agreement to hold such Securities; and
+
+(ii)
+
+does not exercise any voting or other rights associated with the Securities except in accordance with the express instructions of the owner of the Securities or in accordance with the agreement in (i).
+
+Events that trigger a disclosure
+
+7.3.3
+
+(1)
+
+A Connected Person must make the disclosures required under section 76 of FSMR (the "Connected Person Disclosure") to the Regulator and the Reporting Entity within five Business Days of the occurrence of any of the events prescribed in (2) and (3).
+
+(2)
+
+In the case of a Person who is a Connected Person under Rule 7.3.2(1)(a), that Person must make the Connected Person Disclosure upon:
+
+(a)
+
+becoming or ceasing to be a Director, or an individual involved in the Senior Management of the Reporting Entity or a Controller of the Reporting Entity;
+
+Confidential
+
+85
+
+MKT VER09.020125
+
+(b)
+
+acquiring or ceasing to hold either alone or with an Associate of the Person any Securities or other investments in or relating to the Reporting Entity or a Controller of the Reporting Entity; and
+
+(c)
+
+an increase or decrease of the level of interest referred to in (b).
+
+(3)
+
+In the case of a

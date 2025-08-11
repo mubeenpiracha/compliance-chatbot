@@ -1,0 +1,119 @@
+ Persons insured arising from their having to perform contracts of guarantee entered into by them; or
+
+(ii)
+
+contracts for fidelity bonds, performance bonds, administration bonds, bail bonds or customs bonds or similar contracts of guarantee.
+
+Class 8 – Other
+
+(i)
+
+Contracts of Insurance:
+
+(i)
+
+against risks of loss to the Persons insured attributable to interruptions of the carrying on of business carried on by them or to reduction of the scope of business so carried on;
+
+(ii)
+
+against risks of loss to the Persons insured attributable to their incurring unforeseen expense;
+
+(iii)
+
+against risks of loss to the Persons insured attributable to their incurring legal expenses, including costs of litigation; and
+
+(iv)
+
+providing assistance, whether in cash or in kind, for Persons who get into difficulties, whether while travelling, while away from home, while away from their permanent residence, or otherwise.
+
+198
+
+GEN/VER67/03-25
+
+GENERAL (GEN)
+
+APP5 TRADE REPOSITORY
+
+A5.1
+
+Requirements applicable to Trade Repositories
+
+Disclosure of market data by Trade Repositories
+
+A5.1.1
+
+A Trade Repository must provide data in line with regulatory and industry expectations the public. Such information must be comprehensive and at a level of detail sufficient to enhance market transparency and support other public policy objectives.
+
+to relevant regulatory authorities and
+
+Guidance
+
+1.
+
+At a minimum, a Trade Repository should provide aggregate data on open positions and transaction volumes and values and categorised data (for example, aggregated breakdowns of trading counterparties, reference entities, or currency breakdowns of products), as available and appropriate, to the public.
+
+2.
+
+Relevant regulatory authorities should be given access to additional data recorded in a Trade Repository, including participant-level data, as relevant to the respective mandates and legal responsibilities of the relevant regulatory authority (such as market regulation and surveillance, oversight of exchanges, and prudential supervision or prevention of market misconduct).
+
+Processes and procedures
+
+A5.1.2
+
+A Trade Repository must have effective processes and procedures to provide data to relevant authorities in a timely and appropriate manner to enable them to meet their respective regulatory mandates and legal responsibilities.
+
+Guidance
+
+A Trade Repository should have procedures to facilitate enhanced monitoring, special actions, or official proceedings taken by relevant authorities in relation to data on troubled or failed participants by making relevant information in the Trade Repository available in a timely and effective manner. The provision of data from a Trade Repository to relevant authorities should be supported from a legal, procedural, operational, and technological perspective.
+
+Information systems
+
+A5.1.3
+
+A Trade Repository must have robust information systems that enable it to provide accurate current and historical data. Such Data should be provided in a timely manner and in a format that permits it to be easily analysed.
+
+Guidance
+
+A Trade Repository should collect, store, and provide data to participants, regulatory authorities, and the public in a timely manner and in a format that can facilitate prompt analysis. Data should be made available that permits both comparative and historical analysis of the relevant markets.
+
+199
+
+GEN/VER67/03-25
+
+APP6
+
+GENERAL (GEN)
+
+INVESTMENT TOKENS
+
+Guidance
+
+Purpose of this Guidance
+
+1.
+
+A Person who carries on certain activities relating to Investment Tokens, in or from the DIFC, will require DFSA approval or authorisation, or will need to comply with applicable requirements in DFSA administered laws or Rules. Those activities may include:
+
+a.
+
+carrying on a Financial Service (as defined in GEN section 2.2.) which relates to an Investment Token (such as operating a facility on which Investment Tokens are traded or cleared, or giving advice on, or arranging deals in such Investment Tokens);
+
+b.
+
+making a Financial Promotion relating to an Investment Token;
+
+c.
+
+making an Offer to the Public of an Investment Token; or
+
+d.
+
+applying for a Security Token to be admitted to the Official List of Securities.
+
+2.
+
+A Person proposing to carry out such activities relating to a Token, is responsible for analysing and determining whether a Token is an Investment Token and, if so, which type or types of Investment it constitutes. The Guidance in this Appendix is intended to assist a Person conducting such an analysis by indicating how the DFSA will approach that question.
+
+3.
+
+A Person who wishes to obtain an approval or authorisation from the DFSA to conduct activities which relate to Investment Tokens, will need to include in its application sufficient information to demonstrate

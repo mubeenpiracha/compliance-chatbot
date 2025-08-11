@@ -1,0 +1,97 @@
+ procedures should be established to monitor and escalate unusual transactions, anomalies in confirmation and reconciliation processes, errors in recording, processing and settling transactions, along with cancellations, amendments, late trades and off-market rates.
+
+6.11
+
+Operational Risk Capital Requirement
+
+6.11.1
+
+This Section applies to an Authorised Person in Category 1, 2, 3A or 5.
+
+6.11.2
+
+(1)
+
+An Authorised Person must, subject to (2), use the Basic Indicator Approach as prescribed in App7 to calculate its Operational Risk Capital Requirement.
+
+(2)
+
+An Authorised Person may, with the written approval of the Regulator, use the Standardised Approach or the Alternative Standardised Approach, both as prescribed in App7, to calculate its Operational Risk Capital Requirement if the Regulator is satisfied that:
+
+(a)
+
+its Governing Body and senior management, as appropriate, are actively involved in the oversight of its Operational Risk framework;
+
+(b)
+
+it has, in accordance with the requirements set out in this Chapter, implemented and maintains an Operational Risk policy which provides for a sound and well-defined risk management framework to address the Authorised Person's Operational Risk; and
+
+(c)
+
+it has dedicated sufficient resources in the use of the relevant approach in its major business lines and its control and audit functions.
+
+6.11.3
+
+An Authorised Person seeking to apply the Standardised Approach or the Alternative Standardised Approach must develop specific policies and have documented criteria for mapping gross income for current business lines and activities into the Standardised Approach or the Alternative Standardised Approach, as prescribed in App7. The criteria must be reviewed and adjusted for new or changing business activities as appropriate.
+
+6.11.4 Once an Authorised Person has obtained from the Regulator its written approval to apply the Standardised Approach or the Alternative Standardised Approach, the Authorised Person must not revert to the Basic Indicator Approach without prior written approval of the Regulator.
+
+196
+
+PRU VER17.290725
+
+6.11.5
+
+(1)
+
+The Regulator may at any time by written notice require an Authorised Person to adopt a specified approach to calculating its Operational Risk Capital Requirement where the Regulator considers that this is:
+
+(a)
+
+appropriate given the nature, size, complexity and risk profile of the Authorised Person's business; or
+
+(b)
+
+necessary in the prevailing economic circumstances and it is in the interests of the ADGM.
+
+(2)
+
+An Authorised Person must comply with a requirement made under (1).
+
+6.12
+
+Professional indemnity insurance
+
+6.12.1
+
+This Section applies to an Authorised Person in Category 3B, 3C or 4.
+
+6.12.2
+
+An Authorised Person must:
+
+(a)
+
+subject to Rule 6.12A, take out and maintain professional indemnity insurance cover appropriate to the nature, size, complexity and risk profile of the Authorised Person's business;
+
+(b)
+
+at least annually, provide the Regulator with a copy of the professional indemnity insurance cover in (a) covering the following 12 month period and be able to demonstrate its adequacy in relation to the nature, size, complexity and risk profile of the Authorised Person’s business; and
+
+(c)
+
+notify the Regulator of any material changes to the cover in (a), including the level of cover, its renewal or termination.
+
+Guidance
+
+1.
+
+In complying with Rule 6.12.2, an Authorised Person should take out and maintain a contract for professional indemnity insurance (PII) from a reputable and well-capitalised Insurer and such contract should include cover in respect of claims for which the Authorised Person may be liable as a result of the conduct of itself and its Employees and appropriate cover in respect of legal costs arising from a claim.
+
+2.
+
+Pursuant to Rule 6.4.1(c), an Authorised Person should notify the Regulator of any significant PII claim made. What amounts to a significant claim will depend on the nature size and complexity of the Authorised Person and the Regulator would expect the Authorised Person to treat a series of small single claims which are significant in aggregate as significant for the purposes of Rule 6.4.1(c).
+
+3.
+
+An Authorised Person can fulfil the requirements under this Section by ensuring coverage of its activities under a group-wide PII policy, provided that policy covers the Authorised Person and its activities

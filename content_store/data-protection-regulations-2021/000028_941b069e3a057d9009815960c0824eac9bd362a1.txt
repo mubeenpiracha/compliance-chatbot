@@ -1,0 +1,101 @@
+ statements as at the end of the relevant financial year.
+
+(3) This report may be made available to the public.
+
+7 Amended on 26 July 2022
+
+48
+
+PART VII Fines and Remedies
+
+54. Directions
+
+(1)
+
+If the Commissioner of Data Protection is satisfied, after duly conducting all reasonable and necessary inspections and investigations, that a Controller or Processor has contravened or is contravening these Regulations or any rules made under these Regulations, the Commissioner of Data Protection may issue a direction requiring the Controller or Processor to do any of the measures referred to in sections 50(5)(a) to 50(5)(h) and section 50(5)(j) (a ‘Direction’).
+
+(2) A Direction issued under section 54(1) must contain:
+
+(a)
+
+a statement of the contravention of these Regulations or rules which the Commissioner of Data Protection is satisfied is being or has been committed; and
+
+(b)
+
+a statement to the effect that the Controller or Processor may refer the decision of the Commissioner of Data Protection to the Court for review.
+
+(3) A Direction issued under section 54(1) is enforceable, on the application of the Commissioner of Data Protection or any person authorised in writing by the Commissioner of Data Protection, by an injunction that can be imposed by the Court.
+
+(4) A Controller or Processor may ask the Commissioner of Data Protection to review the Direction within 21 days of receiving a Direction under this section. The Commissioner of Data Protection may receive further submissions and amend or discontinue the Direction.
+
+(5)
+
+If a Direction is amended or discontinued in accordance with section 54(4), the Commissioner of Data Protection must provide the Controller or Processor with reasons for the amendment or discontinuance.
+
+55. General conditions for imposing administrative fines8
+
+(1) Where a Controller or Processor (i) does an act or thing that it is prohibited from doing;
+
+or (ii) omits to do an act or thing that it must do by or under:
+
+(a)
+
+any Direction issued by the Commissioner of Data Protection under section 54;
+
+(b)
+
+these Regulations; or
+
+(c)
+
+any rules made pursuant to these Regulations,
+
+the Commissioner of Data Protection, by written notice (a ‘Penalty Notice’) to the Controller or Processor, may impose a fine in respect of the contravention of such amount as the Commissioner of Data Protection determines to be appropriate, taking into account the factors in section 55(3). The amount determined by the Commissioner of Data Protection must not exceed USD 28 million.
+
+8 Amended on 28 February 2024
+
+49
+
+(2) Any fine imposed by the Commissioner of Data Protection under section 55(1) may, depending on the circumstances of each individual case, be imposed in addition to, or instead of, measures referred to in sections 50(5)(a) to 50(5)(h) and section 50(5)(j).
+
+(3) When deciding whether to impose a fine and deciding on the amount of the fine in each individual case, the Commissioner of Data Protection may consider the following factors:
+
+(a)
+
+the nature, gravity and duration of the contravention taking into account the nature scope or purpose of the Processing concerned as well as the number of Data Subjects affected, and the level of damage suffered by them;
+
+(b)
+
+the intentional or negligent character of the contravention;
+
+(c)
+
+any action taken by the Controller or Processor to mitigate the damage suffered by Data Subjects;
+
+(d)
+
+the degree of responsibility of the Controller or Processor taking into account technical and organisational measures implemented by them pursuant to sections 23 and 30;
+
+(e)
+
+any relevant previous contraventions of these Regulations or the Data Protection Regulations 2015 by the Controller or Processor;
+
+(f)
+
+degree of cooperation with the Commissioner of Data Protection, in order to remedy the contravention and mitigate its possible adverse effects;
+
+(g)
+
+the categories of Personal Data affected by the contravention;
+
+(h)
+
+the manner in which the contravention became known to the Commissioner of Data Protection, in particular whether, and if so to what extent, the Controller or Processor notified the Commissioner of Data Protection of the contravention;
+
+(i)
+
+where measures referred to in section 50(5) have previously been ordered against the Controller or Processor concerned in relation to the same subject- matter, compliance with those measures;
+
+(j)
+
+adherence

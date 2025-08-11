@@ -1,0 +1,79 @@
+ grounds for withholding payment.
+
+Guidance
+
+1.
+
+Refer to Article 18A(2) of the Law for the definition of an Open-ended Fund.
+
+2.
+
+The Prospectus of a Public Fund is required to set out, among other things, the dealing days and times in the dealing day on which the Fund Manager will receive requests for the sale and redemption of Units and also, redemption procedures. The Constitution or offer documents (i.e. the Information Memorandum) of an Open-ended Exempt Fund or QIF may specify the Fund’s dealing days, but where it does not do so, the maximum period between dealing days will depend on the reasonable expectations of the target investor group and the particular investment objectives and policy of the Fund.
+
+3.
+
+Capital reductions or share buy-backs that occur in a Closed-ended Fund are not treated as redemptions and resales of Units of Funds based on NAV in the same manner as occurs in the case of an Open-ended Fund as provided in these Rules. See Article 18A(3) of the Law for the definition of a Closed-ended Fund.
+
+4.
+
+The circumstances in which a Fund Manager may withhold redemption proceeds under (3) include where there are any dues from the redeeming Unitholder, such as under any margin lending arrangements.
+
+5.
+
+See Article 37 of the Law for provisions dealing with suspension of dealings of Open- ended Funds.
+
+6.
+
+If an Open-ended Domestic Fund is listed and traded, the redemption and reissue of its Units in the primary market does not generally take place concurrently, unless it is an Exchange Traded Fund (ETF). However, the exchange on which an Open-ended Fund is listed and traded may permit the Fund Manager to offer periodic windows for redemption and reissue of Units of the Fund (which would have to be based on NAV). The DFSA regime allows such windows, subject to disclosure in the Fund’s Prospectus and to the relevant exchange as to when such windows would be offered.
+
+Systems and controls for liquidity risk management in Open- ended Funds
+
+46
+
+CIR/VER38/08-24
+
+COLLECTIVE INVESTMENT RULES (CIR)
+
+8.6A.1 (1)
+
+A Fund Manager of an Open-ended Domestic Fund must ensure that the Fund has sufficient liquidity to meet redemption requests as stated in the Fund’s Constitution and its most recent Prospectus, as appropriate to the nature and risk profile of the relevant Fund.
+
+(2)
+
+For the purposes of meeting the requirement in (1), the Fund Manager’s systems and controls must, at a minimum, contain well-documented and detailed policies and strategies, which:
+
+(a)
+
+include appropriate liquidity buffers and limits on illiquid assets, and the availability of other resources, such as lines of credit;
+
+(b)
+
+take into account:
+
+(i)
+
+the underlying classes of assets of the Fund;
+
+(ii)
+
+if such assets are traded on-exchange, the liquidity in those markets;
+
+(iii)
+
+investors’ redemption patterns and behaviour; and
+
+(iv)
+
+any other factors that affect or potentially affect the liquidity of the relevant classes of assets;
+
+(c)
+
+include appropriate mechanisms to measure, monitor, stress test and manage the controls referred to in (a) to assess whether they are adequate, and are operating as intended in both normal and stressed conditions and the procedures available to the Fund Manager to address any gaps and failures identified; and
+
+(d)
+
+include powers available to the Fund Manager to address liquidity stresses which pose, or have the potential to pose, risks to its ability to effect redemptions (such as the power to impose anti- dilution levies, create side pockets to ring-fence illiquid assets and create redemption gates or suspend redemptions), and clear triggers and procedures for exercising such powers.
+
+Guidance
+
+1. The DFSA expects Fund Managers to take into account the Final Report: “Open-ended Fund liquidity and risk management - Good Practices and Issues for Consideration” issued by OICU- at IOSCO http://www.iosco.org/library/pubdocs/pdf/IOSCOPD591.pdf). The DFSA believes that the measures identified in that report would, if adopted by the Fund Managers as appropriate to the nature, scale and complexity of their Funds, would enable such managers to meet their overarching obligations in Rule 8.6A.1. In the DFSA’s view, there are certain specialist classes of Funds which generally do not lend themselves to be Open-ended, such as

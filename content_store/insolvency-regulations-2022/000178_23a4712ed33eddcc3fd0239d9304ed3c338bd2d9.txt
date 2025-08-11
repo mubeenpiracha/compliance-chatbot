@@ -1,0 +1,153 @@
+A Cell Liquidation Order is an order directing that the business and cellular assets attributable to a cell shall be managed by a Cell Liquidator specified in the order for the purposes of—
+
+(a)
+
+the orderly closing down of the business attributable to the cell; and
+
+(b)
+
+the distribution of the cellular assets attributable to the cell to those entitled to have recourse thereto.
+
+(4) Where the Court makes a Cell Liquidation Order it shall, at the same time, appoint a
+
+liquidator to act as Cell Liquidator under the Cell Liquidation Order.
+
+(5)
+
+A Cell Liquidator appointed under this paragraph must be an insolvency practitioner registered pursuant to Section 290 (Qualification and registration of insolvency practitioners) of these Regulations.
+
+5.
+
+Application for a Cell Liquidation Order
+
+(1)
+
+An application for a Cell Liquidation Order in respect of a cell of a Protected Cell Company may be made by—
+
+(a)
+
+the Protected Cell Company;
+
+(b)
+
+the Directors of the Protected Cell Company;
+
+260
+
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+6.
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+(c)
+
+any creditor of the Protected Cell Company in respect of that cell;
+
+(d)
+
+any cell member in respect of that cell;
+
+(e)
+
+the Financial Services Regulator; or
+
+(f)
+
+the Registrar.
+
+Notice of an application to the Court for a Cell Liquidation Order in respect of a cell of a Protected Cell Company shall be served upon—
+
+(a)
+
+the Protected Cell Company;
+
+(b)
+
+the Financial Services Regulator;
+
+(c)
+
+the Registrar; and
+
+(d)
+
+such other persons, if any, as the Court may direct.
+
+each of whom shall be given an opportunity of making representations to the Court before the Cell Liquidation Order is made.
+
+The Court, on hearing an application for a Cell Liquidation Order, may, instead of making the order sought or dismissing the application, make an interim order or adjourn the hearing, conditionally or unconditionally.
+
+The Court may make a Cell Liquidation Order subject to such terms and conditions as it considers appropriate.
+
+A Cell Liquidation Order shall—
+
+(a)
+
+not be made if a liquidator is appointed to the Protected Cell Company; and
+
+(b)
+
+be discharged upon the appointment of a liquidator in respect of the Protected Cell Company, unless the Court orders otherwise on being satisfied that it is desirable to do so in order to protect the interests of members or creditors, or potential member s or creditors, of the cell.
+
+Functions and powers of a Cell Liquidator
+
+The Cell Liquidator of a cell of a Protected Cell Company may—
+
+(a)
+
+do all such things as may be necessary or expedient for the purposes set out in paragraph 4(3) (Cell Liquidation Order) of this Schedule; and
+
+(b)
+
+exercise all the functions and powers of the Directors in respect of the business and cellular assets attributable to the cell.
+
+The Cell Liquidator may at any time apply to the Court for—
+
+(a)
+
+directions as to the extent or exercise of any function or power; or
+
+(b)
+
+an order as to any matter arising in the course of the liquidation of the cell.
+
+In exercising his functions and powers the Cell Liquidator shall be deemed to act as agent of the Protected Cell Company, and shall not incur personal liability except to the extent that he is fraudulent, reckless, negligent, or acts in bad faith.
+
+Any person dealing with the Cell Liquidator in good faith and for value need not inquire whether the Cell Liquidator is acting within his powers.
+
+261
+
+7.
+
+Effect of Cell Liquidation Order
+
+(1) When an application has been made for, and during the period of operation of, a Cell
+
+Liquidation Order—
+
+(a)
+
+no proceedings may be instituted or continued by, or against, the Protected Cell Company in relation to the cell in respect of which the Cell Liquidation Order was made, or against the business or cellular assets attributable to that cell; and
+
+(b)
+
+no steps may be taken to enforce any security or in the execution of legal process in respect of the business or cellular assets attributable to the cell in respect of which the Cell Liquidation Order was made,
+
+except with the consent of the Cell Liquidator or with leave of the Court.
+
+(2)
+
+During the period of operation of a Cell Liquidation Order, the Directors shall not exercise any powers or functions in respect of the business or the cellular assets attributable to the cell in respect of which

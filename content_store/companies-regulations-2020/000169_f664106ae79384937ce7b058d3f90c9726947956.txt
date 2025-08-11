@@ -1,0 +1,143 @@
+ auditor to notify the Registrar27
+
+(1) Where–
+
+(a)
+
+in the case of a major audit, an auditor ceases for any reason to hold office, or
+
+(b)
+
+in the case of an audit that is not a major audit, an auditor ceases to hold office before the end of their term of office,
+
+(c)
+
+the auditor ceasing to hold office must notify the Registrar.
+
+(2)
+
+The notice must–
+
+(a)
+
+inform the Registrar that they have ceased to hold office, and
+
+(b)
+
+be accompanied by a copy of the statement deposited at the company’s registered office in accordance with section 488 (statement by auditor to be deposited with company).
+
+(3)
+
+If the statement so deposited is to the effect that they consider that there are no circumstances in connection with their ceasing to hold office that need to be brought to the attention of members or creditors of the company, the notice must also be accompanied by a statement of the reasons for ceasing to hold office.
+
+(4)
+
+The auditor must comply with this section–
+
+(a)
+
+in the case of a major audit, at the same time as they deposit a statement at the company’s registered office in accordance with section 488 (statement by auditor to be deposited with company),
+
+(b)
+
+in the case of an audit that is not a major audit, at such time (not being earlier than the time mentioned in subsection (4)(a)) as the appropriate audit authority or the Registrar may require.
+
+(5)
+
+In this section, “major audit” means an audit conducted under this Part in respect of-
+
+(a)
+
+a listed company; and
+
+(b)
+
+any other person in whose financial condition there is a major public interest.
+
+(6)
+
+In determining whether an audit is a major audit within subsection 5(b), regard shall be had to any guidance issued by the Registrar.
+
+(7)
+
+An auditor ceasing to hold office as auditor who fails to comply with this section commits a contravention of these Regulations.
+
+(8)
+
+A contravention is committed by–
+
+(a)
+
+the firm, and
+
+(b)
+
+every officer of the firm who is in default.
+
+(9)
+
+An auditor and any officer of the auditor does not commit the contravention referred to in subsection (7) if they show that they took all reasonable steps and exercised all due diligence to avoid the commission of the contravention.
+
+27 Amended 2 September 2021
+
+295
+
+(10) An auditor who commits the contravention referred to in subsection (7) shall be liable
+
+to a level 2 fine.
+
+492. Effect of casual vacancies
+
+If an auditor ceases to hold office for any reason, any surviving or continuing auditor or auditors may continue to act.
+
+CHAPTER 5
+
+AUDITORS’ LIABILITY
+
+Voidness of provisions protecting auditors from liability
+
+493. Voidness of provisions protecting auditors from liability
+
+(1)
+
+This section applies to any provision–
+
+(a)
+
+for exempting an auditor of a company (to any extent) from any liability that would otherwise attach to him in connection with any negligence, default, breach of duty or breach of trust in relation to the company occurring in the course of the audit of accounts, or
+
+(b)
+
+by which a company directly or indirectly provides an indemnity (to any extent) for an auditor of the company, or of an associated company, against any liability attaching to him in connection with any negligence, default, breach of duty or breach of trust in relation to the company of which he is auditor occurring in the course of the audit of accounts.
+
+(2)
+
+Any such provision is void, except as permitted by–
+
+(a)
+
+section 494 (indemnity for costs of successfully defending proceedings), or
+
+(b)
+
+sections 495 to 497 (liability limitation agreements).
+
+(3)
+
+This section applies to any provision, whether contained in a company’s articles or in any contract with the company or otherwise.
+
+(4)
+
+For the purposes of this section companies are associated if one is a subsidiary of the other or both are subsidiaries of the same body corporate.
+
+494.
+
+Indemnity for costs of successfully defending proceedings
+
+Section 493 (general voidness of provisions protecting auditors from liability) does not prevent a company from indemnifying an auditor against any liability incurred by him in defending proceedings (whether civil or criminal) in which judgment is given in his favour or he is acquitted.
+
+296
+
+495. Liability limitation agreements
+
+(

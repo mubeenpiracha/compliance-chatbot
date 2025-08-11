@@ -1,0 +1,137 @@
+ persons in respect of a Takeover of a Reporting Entity.
+
+53.
+
+Takeover Principles
+
+(1)
+
+The DFSA shall make Takeover Rules prescribing a set of Takeover principles relating to, but not limited to:
+
+(a)
+
+treatment of shareholders and of classes of shareholders in a Takeover;
+
+(b)
+
+adequacy of time and of information provided to shareholders to enable proper consideration of a Takeover bid;
+
+(c)
+
+avoidance of the creation of false markets; and
+
+(d)
+
+avoidance of oppression of minorities.
+
+(2)
+
+A person who is involved in a Takeover of a Reporting Entity shall comply with and observe the spirit and the wording of the Takeover principles.
+
+28
+
+PART 6: PREVENTION OF MARKET ABUSE
+
+CHAPTER 1 - MARKET ABUSE
+
+54.
+
+Fraud and market manipulation
+
+A person shall not, in the DIFC or elsewhere, by any means, directly or indirectly, engage or participate in any act, practice or course of conduct relating to Investments or Crypto Tokens that the person knows or reasonably ought to know:
+
+(a)
+
+results in or contributes to, or may result in or contribute to, a false or misleading impression as to the supply of, demand for or price of one or more Investments or Crypto Tokens;
+
+(b)
+
+creates or is likely to create an artificial price for one or more Investments or Crypto Tokens; or
+
+(c)
+
+perpetrates a fraud on any person.
+
+55.
+
+False or misleading statements
+
+A person shall not, in the DIFC or elsewhere, disseminate information by any means which gives, or is likely to give, a false or misleading impression as to one or more Investments or Crypto Tokens when such person knows or could reasonably be expected to know that the information is false or misleading.
+
+56.
+
+Use of fictitious devices and other forms of deception
+
+A person shall not, in the DIFC or elsewhere, engage in any activity or conduct in relation to Investments or Crypto Tokens, which consists of effecting transactions or orders to trade which employ fictitious devices or any other form of deception or contrivance.
+
+57.
+
+False or Misleading conduct and distortion
+
+A person shall not, in the DIFC or elsewhere, engage in any activity or conduct in relation to Investments or Crypto Tokens, which does not fall under Articles 54, 55 or 56, that:
+
+(a)
+
+gives a false or misleading impression as to the supply of, or demand for, or as to the price of one or more Investments or Crypto Tokens; or
+
+(b)
+
+would distort, or would be likely to distort, the market for one or more Investments or Crypto Tokens; and
+
+(c)
+
+is likely to be regarded by market participants as a failure on the part of the person concerned to observe the standard of behaviour reasonably expected of a person in his position in relation to the market.
+
+29
+
+58.
+
+Insider dealing
+
+(1)
+
+A person who is an insider shall not, in the DIFC or elsewhere, directly or indirectly, deal, or attempt to deal, in an Investment, a Crypto Token or in a related investment, on the basis of inside information.
+
+(2)
+
+In this Article “Investment” does not include “commodity derivatives.”
+
+59.
+
+Providing inside information
+
+(1)
+
+An insider shall not, in the DIFC or elsewhere, otherwise than in the proper course of the exercise of his employment, profession or duties, disclose inside information to another person.
+
+(2)
+
+An insider shall not, in the DIFC or elsewhere, procure another person to deal in the Investments, Crypto Tokens or related investments in which the insider has inside information.
+
+(3)
+
+In this Article:
+
+“procure” includes where a person induces or encourages another person by direct or indirect means.
+
+60.
+
+Inducing persons to deal
+
+A person shall not, in the DIFC or elsewhere, induce another person to deal in Investments or Crypto Tokens:
+
+(a)
+
+by making or publishing a statement, promise or forecast if the person knows, or is reckless as to whether, the statement is misleading, false or deceptive;
+
+(b)
+
+by a concealment of material facts; or
+
+(c)
+
+by recording or storing information that the person knows to be false or misleading in a material respect or may be materially misleading.
+
+61. Misuse of information
+
+A person shall not, in the DIFC or elsewhere, engage in any activity or conduct in relation to Investments

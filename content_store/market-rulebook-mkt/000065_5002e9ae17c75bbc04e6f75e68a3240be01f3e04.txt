@@ -1,0 +1,122 @@
+ exception (14) where the issue is subsequently approved under Rule 9.7.1.
+
+(4)
+
+partly paid Ordinary Securities that became fully paid in the 12 months before the date of issue or agreement,
+
+but subtracting the number of fully paid Ordinary Securities cancelled in the 12 months before the date of issue or agreement.
+
+Confidential
+
+105
+
+MKT VER09.020125
+
+Relevant Issues = the number of Equity Securities issued, or agreed to be issued, in the 12 months before the date of issue or agreement to issue other than:
+
+(a) with the approval of the holders of its Ordinary Securities under Rule 9.7.1
+
+or Rule 9.7.5; or
+
+(b)
+
+under an exception in Rule 9.7.4.
+
+Guidance
+
+In calculating the Base Amount, if the Listed Entity’s Equity Securities were first admitted to the Official List less than 12 months before the date of issue or agreement, the number of Securities used to calculate the Base Amount is the number of fully paid Ordinary Securities on the date of admission to the Official List
+
+Requirements applicable to new issues under Rule 9.7.1
+
+9.7.2
+
+In calculating the number of Equity Securities that a Listed Entity may issue or agree to issue under Rule 9.7.1 (including the number contributing to “Relevant Issues”), unless the Regulator determines otherwise, the following must be applied:
+
+(1)
+
+each fully paid Ordinary Security is counted as one;
+
+(2)
+
+each partly paid Security is counted as the maximum number of fully paid Ordinary Securities into which it can be paid up;
+
+(3)
+
+each Convertible Security is counted as the maximum number of fully paid Ordinary Securities into which it can be converted; and
+
+(4)
+
+in any other case, each Security is counted as the Regulator may decide, having regard to the need to ensure that holders of Ordinary Securities have an opportunity to vote on issues that may dilute their holdings or the characteristics of the Security.
+
+9.7.3 When determining if there has been an issue of Equity Securities for the purposes of calculating the number of Relevant Issues, the sale or reissue of forfeited Equity Securities shall be treated as an issue of Equity Securities.
+
+Exceptions to Rule 9.7.1
+
+9.7.4 Rule 9.7.1 does not apply in any of the following circumstances.
+
+(1)
+
+An issue of Securities to holders of Ordinary Securities made under a Pro Rata Issue and to holders of other Equity Securities to the extent that the terms of issue of the Equity Securities permit participation in the Pro Rata Issue.
+
+Guidance
+
+The Regulator will consider Rule 9.7.4(1) to apply in circumstances where a Listed Entity offers Equity Securities to existing holders of Ordinary Securities on a pro-rata basis in order to meet pre-emption rights contained in the Listed Entity’s constitutional document
+
+Confidential
+
+106
+
+MKT VER09.020125
+
+or where such pre-emption rights are provided for in the laws of the Listed Entity’s jurisdiction of incorporation.
+
+(2)
+
+An issue of Securities under an agreement to Underwrite the shortfall on a Pro Rata Issue to holders of:
+
+(a)
+
+Ordinary Securities; or
+
+(b)
+
+Ordinary Securities and to holders of other Equity Securities to the extent that the terms of issue of the Equity Securities permit participation in the Pro Rata Issue;
+
+If the Listed Entity has made the issue not later than 15 Business Days after the close of the Offer and has Disclosed:
+
+(i)
+
+the name of the underwriter;
+
+(ii)
+
+the extent of the Underwriting;
+
+(iii)
+
+the fee, commission or other consideration payable to the underwriter(s); and
+
+(iv)
+
+a summary of the significant events that could lead to the Underwriting being terminated.
+
+Guidance
+
+This exception (2) only applies to an issue of Securities to make up the shortfall from a Pro Rata Issue. It does not apply to any other issue of Securities under an Underwriting agreement, for example, the payment of fees related to the Underwriting.
+
+(3)
+
+(a)
+
+An issue of Securities to make up the shortfall on a Pro Rata Issue to holders of:
+
+(i)
+
+Ordinary Securities; or
+
+(ii)
+
+Ordinary Securities and to holders of other Equity Securities to the extent that the terms of issue of the Equity Securities permit participation in the Pro Rata Issue.
+
+(b)
+

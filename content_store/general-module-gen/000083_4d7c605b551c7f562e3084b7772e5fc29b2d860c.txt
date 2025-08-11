@@ -1,0 +1,115 @@
+ to demonstrate sufficient knowledge of relevant anti money laundering requirements.
+
+Guidance
+
+In considering whether individuals have sufficient knowledge of relevant anti money laundering requirements, the DFSA may be satisfied where the individual can demonstrate receipt of appropriate training specifically relevant to such requirements.
+
+7.6.14 An Authorised Firm must establish and maintain systems and controls which
+
+will enable it to comply with Rules 7.6.6 to 7.6.9.
+
+7.6.15 (1)
+
+An Authorised Firm must keep records of the assessment process undertaken for each individual under this chapter.
+
+(2)
+
+These records must be kept for a minimum of six years from the date of the assessment.
+
+125
+
+GEN/VER67/03-25
+
+GENERAL (GEN)
+
+8
+
+ACCOUNTING AND AUDITING
+
+8.1 Application
+
+8.1.1 This chapter applies to every Authorised Person other than a Representative
+
+Office.
+
+8.1.2 Pursuant to Article 99(5) of the Regulatory Law, an Authorised Person which is a Representative Office is hereby exempt from the requirements in Article 99 of the Regulatory Law relating to the appointment of an Auditor.
+
+Guidance
+
+The DFSA has exercised its power under Article 99(5) of the Regulatory Law to exempt an Authorised Person which is a Representative Office from the requirements in that Article. As a result, in accordance with the terms of Article 99(5), the Representative Office also does not need to comply with other requirements in chapters 4, 5 and 6 of Part 8 of that Law.
+
+8.2 Financial statements and financial reporting standards
+
+8.2.1 An Authorised Person must prepare financial statements for each financial
+
+year of the Authorised Person.
+
+Guidance
+
+1.
+
+Chapter 4 of the Islamic Finance Rules (IFR) sets out specific disclosures an Authorised Person must include in its financial statements when carrying on Islamic Financial Business.
+
+2.
+
+The financial statements prepared by an Authorised Person which is a Branch may be the financial statements prepared for the Authorised Person’s head office.
+
+8.2.2
+
+(1)
+
+An Authorised Person must, except as provided under (2) and Rule 8.2.3, prepare and maintain all financial statements in accordance with the International Financial Reporting Standards (IFRS).
+
+(2)
+
+If an Authorised Person is a Branch and the financial statements have been prepared for its head office, those financial statements may be prepared and maintained in accordance with the recognised financial reporting standards in the jurisdiction where the head office is located.
+
+8.2.3
+
+(1)
+
+An Authorised Firm specified in (2) may prepare and maintain its financial statements in accordance with IFRS for Small and Medium- Sized Entities where that standard applies to it.
+
+(2)
+
+Authorised Firms specified for the purposes of (1) are:
+
+(a) an Authorised Firm in Category 3B, Category 3C or Category 4, which does not hold or control Client Assets or Insurance Monies; and
+
+(b) an Authorised Firm in Category 4 which is not authorised under its Licence to carry on the Financial Service of Operating an Alternative Trading System.
+
+126
+
+GEN/VER67/03-25
+
+GENERAL (GEN)
+
+(3)
+
+The DFSA may by written notice direct that a particular Authorised Firm or a specified class of Authorised Firm specified in (2) must prepare and maintain financial statements in accordance with IFRS rather than IFRS for Small and Medium-Sized Entities.
+
+(4)
+
+The DFSA may by written notice vary or revoke a direction under (3).
+
+(5)
+
+The procedures in Schedule 3 to the Regulatory Law apply to a decision of the DFSA to give a direction under (3) to a particular Authorised Firm.
+
+(6)
+
+If the DFSA decides to give a direction under (3) to a particular Authorised Firm, the Authorised Firm may refer the matter to the FMT for review.
+
+8.2.4 An Authorised Person must:
+
+(a)
+
+if it is a Body Corporate, have its financial statements approved by the Directors and signed on their behalf by at least one of the Directors; or
+
+(b)
+
+if it is a Partnership, have its financial statements approved by the Partners and signed on their behalf by at least one of the Partners.
+
+8.3 Accounting records and regulatory returns
+
+8.3.1 Every Authorised

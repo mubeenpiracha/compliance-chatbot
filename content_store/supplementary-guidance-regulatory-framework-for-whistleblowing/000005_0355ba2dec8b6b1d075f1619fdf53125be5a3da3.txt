@@ -1,0 +1,83 @@
+ ADGM entity’s ability to take action in relation to a disclosure. These shortcomings are outweighed by the need to encourage reporting of suspected wrongdoing from whistleblowers regardless of whether they feel able to disclose their identity.
+
+REQUIREMENT FOR ORGANISATIONAL ARRANGEMENTS
+
+The WB Regulations require all ADGM entities to have appropriate and effective arrangements in place to facilitate the making of Protected Disclosures by 31 May 2025.
+
+The WB Regulations recognise the importance of giving appropriate flexibility to smaller ADGM entities to put in place arrangements that are suitable but do not impose a disproportionate administrative burden. Accordingly, the WB Regulations clarify that the arrangements should be proportionate to the size and complexity of the ADGM entity’s business and operations.
+
+As a minimum, all ADGM entities should arrange to communicate the protections afforded under the Framework, the available internal reporting channels, and the availability of external reporting channels to specified authorities. They should also have processes to protect a person who makes a Protected Disclosure from retaliation, to protect the confidentiality of disclosures made in confidence, and to assess and escalate Protected Disclosures where necessary.
+
+9.4
+
+There is no one-size-fits-all approach to creating an effective WB Program for individual ADGM entities. Each WB Program, including appropriate resources to support it, will vary depending on the size, business, risk profile and complexity of the relevant ADGM entity. Smaller entities may elect to focus on external rather than internal reporting channels for whistleblowing in certain circumstances and integrate the arrangements required by the WB Regulations into existing arrangements, such as communications from senior management, the company code of ethics, human resources policies or procedures and employment contracts.
+
+9.5
+
+For SPVs, given they are not operational and do not have employees, it may be sufficient for the Board Secretary to provide a briefing on the WB Regulations to the Board of Directors of the SPV, for example.
+
+9.6
+
+The appropriateness, proportionality and effectiveness of whistleblowing arrangements and, where applicable, written policies and procedures (see section 10 below) should be periodically reviewed, and records of reviews should be kept.
+
+9.7
+
+An ADGM entity should ensure compliance with applicable data protection legislation, including the Data Protection Regulations 2021, in operating its WB Program.
+
+10.
+
+REQUIREMENT FOR WRITTEN POLICIES AND PROCEDURES
+
+10.1 Some categories of ADGM entity (“Relevant Categories”) are required to document
+
+the arrangements in written policies and procedures, as follows.
+
+a)
+
+Authorised Persons and Recognised Bodies3;
+
+b)
+
+Designated Non-Financial Businesses or Professions (DNFBPs)4;
+
+c)
+
+DLT Foundations 5; and
+
+d)
+
+ADGM entities that qualify as a Large Establishment, as defined in the WB Regulations.
+
+10.2 An ADGM entity in a Relevant Category will need to create written policies and procedures in line with the requirements of the WB Regulations. Where an ADGM entity is in a Relevant Category other than Large Establishment on or after the date the WB Regulations come into force, it must have written policies and procedures by the later of:
+
+a)
+
+the date it falls within a Relevant Category; or
+
+b)
+
+31 May 2025.
+
+10.3 Large Establishments are required to have written policies and procedures by the beginning of the financial year subsequent to the first financial year in which they qualify as a Large Establishment, or 31 May 2025, whichever is the later.
+
+10.4 Once an ADGM entity has been required to create written policies and procedures it
+
+must continue to do so, even where it is no longer in a Relevant Category.
+
+10.5 A Large Establishment is an ADGM entity that has:
+
+a)
+
+more than USD 13.5 million turnover in any financial year; or
+
+3 As defined in FSMR. 4 As defined in FSMR and AML. 5 As defined in the Distributed Ledger Technology Foundations Regulations 2023.
+
+b)
+
+holds, administers or controls assets with an aggregate value exceeding USD 13.5 million at any point during a financial year; and
+
+c)
+
+more than 35 employees in the same financial year that either of the financial thresholds set out in (a) or (b) above are met.
+
+10.6 The turnover threshold is reached when an ADGM entity achieves more than USD 13.5 million turnover in a financial year. If applicable, where the ADGM entity

@@ -1,0 +1,151 @@
+ to accompany an application,
+
+(c)
+
+the notice to be given of an application and of its outcome,
+
+(d)
+
+a period in which objections to an application may be made, and
+
+(e)
+
+how an application is to be determined.
+
+(3)
+
+An application must–
+
+(a)
+
+specify what is to be removed from the register and indicate where on the register it is, and
+
+(b)
+
+be accompanied by a statement that the material specified in the application complies with this section and the rules.
+
+(4)
+
+If no objections are made to the application, the Registrar may accept the statement as sufficient evidence that the material specified in the application should be removed from the register.
+
+(5) Where anything is removed from the register under this section the registration of which had legal consequences as mentioned in section 969(3), any person appearing to the Court to have a sufficient interest may apply to the Court for such consequential orders as appear just with respect to the legal effect (if any) to be accorded to the material by virtue of its having appeared on the register.
+
+971. Rectification of the register under Court order
+
+(1)
+
+The Registrar shall remove from the register any material–
+
+(a)
+
+that derives from anything that the Court has declared to be invalid or ineffective, or to have been done without the authority of the company, or
+
+(b)
+
+that a Court declares to be factually inaccurate, or to be derived from something that is factually inaccurate, or forged,
+
+and that the Court directs should be removed from the register.
+
+(2)
+
+The Court order must specify what is to be removed from the register and indicate where on the register it is.
+
+(3)
+
+The Court must not make an order for the removal from the register of anything the registration of which had legal consequences as mentioned in section 969(3) unless satisfied–
+
+(a)
+
+that the presence of the material on the register has caused, or may cause, damage to the company, and
+
+(b)
+
+that the company’s interest in removing the material outweighs any interest of other persons in the material continuing to appear on the register.
+
+(4) Where in such a case the Court does make an order for removal, it may make such consequential orders as appear just with respect to the legal effect (if any) to be accorded to the material by virtue of its having appeared on the register.
+
+(5)
+
+A copy of the Court’s order must be sent to the Registrar for registration.
+
+543
+
+(6)
+
+This section does not apply where the Court has other, specific, powers to deal with the matter, for example under–
+
+(a)
+
+the provisions of Part 14 relating to the revision of defective accounts and reports, or
+
+(b)
+
+section 803 (rectification of register) .
+
+972. Powers of Court on ordering removal of material from the register
+
+(1) Where the Court makes an order for the removal of anything from the register under
+
+section 971 (rectification of the register), it may give directions under this section.
+
+(2)
+
+It may direct that any note on the register that is related to the material that is the subject of the Court’s order shall be removed from the register.
+
+(3)
+
+It may direct that its order shall not be available for public inspection as part of the register.
+
+(4)
+
+It may direct–
+
+(a)
+
+that no note shall be made on the register as a result of its order, or
+
+(b)
+
+that any such note shall be restricted to such matters as may be specified by the Court.
+
+(5)
+
+The Court shall not give any direction under this section unless it is satisfied–
+
+(a)
+
+that–
+
+(i)
+
+the presence on the register of the note or, as the case may be, of an unrestricted note, or
+
+(ii)
+
+the availability for public inspection of the Court’s order,
+
+may cause damage to the company, and
+
+(b)
+
+that the company’s interest in non-disclosure outweighs any interest of other persons in disclosure.
+
+973. Public notice of removal of certain material from the register
+
+(1)
+
+The Registrar must cause to be published–
+
+(a)
+
+on its website, or
+
+(b)
+
+in accordance with section 988 (alternative means of giving public notice),
+
+notice of the removal from the register of any document subject to the enhanced disclosure requirements (see section 952) or of any material derived from such a document.
+
+(2)
+
+The notice must state the name and registered number of the company, the description of document and

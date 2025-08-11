@@ -1,0 +1,191 @@
+) is held on a distributed ledger;
+
+(b) is electronically accessible, from multiple locations,
+
+by a network of participants; and
+
+(c) can be updated by those participants, based on
+
+agreed consensus, protocol or procedures.
+
+A distribution event is:
+
+(a)
+
+the appointment of a
+
+liquidator, receiver or
+
+23
+
+GLO/VER62/07-25
+
+Defined Term
+
+DLT
+
+Domestic Firm
+
+Domestic Fund
+
+Dubai Law
+
+GLOSSARY (GLO)
+
+Definition
+
+administrator, or trustee in bankruptcy, over the Authorised Firm or its Nominee Company;
+
+(b)
+
+(c)
+
+the appointment of a liquidator, receiver or administrator, or trustee in bankruptcy, over a Third Party Agent of the Authorised Firm or its Nominee Company; or the coming into force of a direction by the DFSA in respect of all Client Assets held by the Authorised Firm.
+
+Distributed Ledger Technology.
+
+An Authorised Person or DNFBP which:
+
+(a)
+
+has its registered and head office in the DIFC; or
+
+(b)
+
+if it is a subsidiary of an Undertaking whose principal place of business and head office is in a jurisdiction other than the DIFC, has its registered office in the DIFC.
+
+(1) A Fund established or domiciled in the DIFC.
+
+(2) In FPR, has the meaning given in section 1.3 of
+
+those Rules.
+
+Law made by the Ruler, as applicable in the Emirate of Dubai.
+
+24
+
+GLO/VER62/07-25
+
+E Back to top
+
+Defined Term
+
+Effecting Contracts of Insurance Eligible Bank
+
+Eligible Custodian
+
+Eligible Security
+
+Employee
+
+Employee Money Purchase Scheme
+
+Employee Share Scheme
+
+GLOSSARY (GLO)
+
+Definition
+
+Has the meaning given in GEN section 2.15.
+
+Means:
+
+(a) a Bank;
+
+(b) a legal entity that is authorised to accept deposits
+
+and supervised by the Central Bank of the State; or
+
+(c) a legal entity that is:
+
+(i)
+
+authorised to accept deposits and supervised in a by a Financial Services Regulator jurisdiction outside the State; and
+
+(ii)
+
+Rated at least A- by Standard & Poor’s, or the equivalent by another Rating Agency.
+
+Has the meaning given in CIR Rule 8.2.4
+
+A Share, Debenture, Certificate over a Share or Debenture, Warrant over a Share or Debenture or a Unit that is a share representing the rights or interests of a Unitholder in a Fund.
+
+An individual:
+
+(a) who is employed or appointed by a Person in connection with that Person's business, whether under a contract of service or for services or otherwise; or
+
+(b) whose services, under an arrangement between that Person and a third party, are placed at the disposal and under the control of that Person.
+
+Has the meaning given in Schedule 1 to the Regulatory Law.
+
+A scheme or arrangement for encouraging or facilitating the holding of Securities of a Body Corporate by or for the benefit of:
+
+(a) existing or former Employees of the Body Corporate
+
+or an entity in its Group; or
+
+(b) Close Relatives of the Employees referred to in (a).
+
+25
+
+GLO/VER62/07-25
+
+Defined Term
+
+Employment Law
+
+Employment Regulations
+
+Error Trade
+
+ETF
+
+ETF Fund Manager Exchange
+
+Exchange Traded Fund
+
+Excluded Token
+
+Execute
+
+Execution – Only Transaction
+
+Exempt Communications
+
+Exempt Fund
+
+Exempt Offers
+
+Exempt Property Fund
+
+Exempt Securities
+
+Expenditure Based Capital Minimum
+
+GLOSSARY (GLO)
+
+Definition
+
+The DIFC Employment Law 2019.
+
+The Regulations made under the DIFC Employment Law as amended from time to time.
+
+In relation to an:
+
+(a) Authorised Market Institution, has the meaning given
+
+in AMI Rule 6.6.1; and
+
+(b) Authorised Firm, has the meaning given in COB
+
+Rule 9.6.5(3)
+
+An Exchange Traded Fund.
+
+The Fund Manager of an ETF. An Authorised Market Institution which is authorised under its Licence to carry on the Financial Service of Operating an Exchange.
+
+Has the meaning given in CIR Rule 3.1.12.
+
+Has the meaning given in GEN Rule A2.5.2.
+
+(In relation to a transaction) carry into effect or perform the transaction, whether as

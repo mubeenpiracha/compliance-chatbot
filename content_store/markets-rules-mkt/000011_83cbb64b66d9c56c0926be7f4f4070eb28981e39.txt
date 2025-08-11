@@ -1,0 +1,119 @@
+ Prospectus relates to any particular investor or type of investor. If you do not understand the contents of this Prospectus or are unsure whether the Securities to which the Prospectus relates are suitable investment objectives and circumstances, you should consult an authorised financial advisor.”
+
+for your
+
+individual
+
+(1) The Person producing the Prospectus must, subject to (2), ensure that the Summary is at or near the beginning of the Prospectus and sets out in a clear, concise and easy to understand manner:
+
+(a) statements that:
+
+(i)
+
+the Summary should be read as an introduction to the Prospectus and any decision to invest in the Securities should be based on consideration of the Prospectus as a whole; and
+
+(ii)
+
+civil liability may arise on the basis of the Summary but only if the Summary is misleading, inaccurate or inconsistent, when read in conjunction with the other parts of the Prospectus, or fails to provide the Key Information specified in (b); and
+
+(b)
+
+the Key Information relating to:
+
+(i)
+
+the risks associated with and essential characteristics of the Issuer, and guarantor if any, of the Securities, including their assets, liabilities and financial position;
+
+(ii)
+
+the risks associated with and essential characteristics of the relevant Securities including rights attaching to those Securities;
+
+(iii) general terms of the offer, including estimated expenses charged to
+
+the investor;
+
+(iv) whether the Securities are to be admitted to trading and if so, the
+
+details relating to such admission;
+
+(v)
+
+reasons for the offer and the proposed use of the proceeds; and
+
+15
+
+MKT/VER24/03-25
+
+MARKETS RULES (MKT)
+
+(vi)
+
+if applicable, matters specified in Rule 2.5.5.
+
+(2) A Prospectus is not required to contain a Summary if it relates to a Debenture or a Warrant or Certificate over a Debenture that has a denomination of at least US$100,000 and the Prospectus is for the purposes of such Securities being admitted to trading on an Authorised Market Institution.
+
+Guidance
+
+Under Rule 2.8.1(3), a Summary is prohibited from incorporating information by reference.
+
+2.5.3 A Person making a Prospectus Offer may use the same Registration Statement in
+
+respect of more than one Prospectus Offer provided that:
+
+(a)
+
+the Registration Statement includes the most recent set of audited financial statements available in respect of the Issuer;
+
+(b)
+
+those financial statements referred to in (a) relate to a period ending not more than 12 months prior to the relevant offer; and
+
+(c)
+
+since the date of the Registration Statement, the Reporting Entity filing the Prospectus has complied with its market disclosure obligations in section 4.6 relating to the category of Securities to which the Prospectus relates.
+
+Guidance
+
+Where a Person uses the same Registration Statement to make Prospectus Offers relating to different types of Securities, such a Person should ensure, in addition to the Securities Note containing all the information relevant to the particular type of Securities, that the Registration Statement is also appropriate for each type of Security covered in the relevant Securities Note.
+
+2.5.4 Where the Person has used the same Registration Statement for making multiple
+
+Prospectus Offers:
+
+(a)
+
+both a Summary and Securities Note must be produced relating to each Prospectus Offer made using that Registration Statement; and
+
+(b)
+
+the Summary, Registration Statement and Securities Note must each comply with the approval requirements specified in section 2.6.
+
+2.5.5 Where a Prospectus contains a Registration Statement produced prior to the date of the Summary and the Securities Note, the Person producing the Prospectus must ensure that both the Summary and the Securities Note:
+
+(a)
+
+state the date of preparation of the Registration Statement; and
+
+(b)
+
+update any disclosure in the Registration Statement to the extent necessary in order to comply with these Rules by setting out on the front page of the Securities Note:
+
+(i)
+
+if relevant, the website at which any subsequent disclosure is made available; and
+
+(ii)
+
+an address at which the full text of any such disclosures is made available free of charge.
+
+16
+
+MKT/VER24/03-25
+
+MARKETS RULES (MKT)
+
+Guidance
+
+1.
+
+The above provisions are designed to provide flexibility so that Persons making Prospectus Offers can make multiple offers using the same Registration Statement. However, care should be taken to ensure that the Registrations Statement and the Securities Note together provide

@@ -1,0 +1,27 @@
+ identify abnormal trading55 that may indicate, amongst other things, that there may have been a loss of confidentiality in relation to Inside Information that has yet to be Disclosed under Rule 7.2.1. The FSRA will also monitor various news services, investor forums and chat sites to assist with the surveillance of ADGM markets. The Listing Authority will follow up with a Reporting Entity in relation to any concerns raised or identified. Actions taken by the Listing Authority if abnormal trading is detected
+
+175) If the Listing Authority identifies abnormal trading (on the relevant RIE) in a Listed Entity’s Securities that raises potential continuous disclosure issues, the Listing Authority will contact the Reporting Entity to discuss the situation.
+
+176) As part of this engagement, the Listing Authority will seek to understand whether the Reporting Entity is aware of any Inside Information concerning the Listed Entity that has not been Disclosed and which, if known, could explain the abnormal trading in the Listed Entity’s Securities. When responding to questions of this nature, the Reporting Entity is expected to answer in a frank and honest manner and, if there is any such information, advise the Listing Authority of the general nature of the information, even if the Reporting Entity considers the information to be confidential in nature and not something that would require Disclosure under Rule 7.2.1.56 55 Abnormal trading includes a sudden and significant movement in the price and/or traded volumes of a Listed Entity’s Securities (admitted to trading on an RIE) which cannot be explained by previous Disclosures, or by movements in the market or Listed Entity’s market sector generally. 56 The Reporting Entity will generally be advised that if it has been relying on Rule 7.2.2 to not Disclose Inside Information that would otherwise require Disclosure under Rule 7.2.1, the recent trading in the Listed Entity’s Securities that this information has ceased to be confidential. This information would, therefore, no longer be exempted from Disclosure under Rule 7.2.2.
+
+36
+
+VER01.280922
+
+177) A failure by the Reporting Entity to provide this information to the Listing Authority may result in the Listing Authority being unable to assist the Reporting Entity in meeting its disclosure obligations under the Rules. Refusing to answer the question will also constitute a breach of Rules 2.8.1(2) and/or (3), entitling the Listing Authority to Suspend trading in the Listed Entity’s Securities.
+
+178) In such discussions, the Reporting Entity will either:
+
+a)
+
+not be aware of any such Inside Information, in which case, depending on the particular circumstance, the Listing Authority may issue a market activity query letter asking the Reporting Entity to confirm that fact in writing (see paragraphs 182 to 186 below); or
+
+b)
+
+be aware of such Inside Information, in which case, this will generally lead to a discussion about whether there are reasons, aside from a possible loss of confidentiality, which might explain the abnormal trading.
+
+179) In the latter case above, if the Listing Authority is of the opinion that the Inside Information remains confidential and does not need to be Disclosed at that time due to an exemption under Rule 7.2.2, the Listing Authority will not Disclose, nor require the Reporting Entity to Disclose, the Inside Information.
+
+180) Where the Reporting Entity is not able to identify any reason to explain the abnormal trading in the Listed Entity’s Listed Securities, other than a possible loss of confidentiality regarding the Inside Information, the Listing Authority may be left with no option but to take the view that the Inside Information is no longer confidential. In this case, the Reporting Entity will be required to make an immediate Disclosure of the Inside Information under Rule 7.2.1 and/or Rule 7.5.1(b). Where this occurs, the Listing Authority will endeavour to work with the Reporting Entity to achieve a suitable outcome under Rule 7.2.1. In operating towards this outcome, the Listing Authority will seek to avoid placing any undue prejudice on the Reporting Entity.57
+
+181) The Listing Authority’s aim in these circumstances is to avoid the RIE’s market trading on an uninformed basis. As a result, if such a matter arises during normal trading hours, a high degree of urgency will be attached to it. This will mean that the window for consultation on the matter will be limited and, absent a Trading Halt, the Listing Authority will not accommodate a detailed

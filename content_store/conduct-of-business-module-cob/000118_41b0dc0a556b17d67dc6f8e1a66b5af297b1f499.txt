@@ -1,0 +1,115 @@
+ incorrectly executed transfer of Client Crypto Tokens; and
+
+(b)
+
+an adequate compensation arrangement to cover potential losses in the event that an unauthorised or incorrectly executed transfer of Client Crypto Tokens cannot be reversed.
+
+(3)
+
+An Authorised Firm must review the measures it has taken to comply with its obligations in (2) at least annually to ensure they are adequate.
+
+Guidance
+
+The compensation arrangement in Rule 15.4.5(2)(ii) should make adequate provision for Clients to be compensated, taking into account the risks associated with the Custody of Crypto Tokens. These arrangements can take various forms, such as third party insurance, funds (deposits or Crypto Tokens) that are set aside on trust and designated for such purposes, bank guarantees or a combination thereof.
+
+15.4.6 (1)
+
+An Authorised Firm that Provides Custody of Crypto Tokens must provide the following information to the DFSA in respect of each calendar quarter:
+
+(a)
+
+the number of unauthorised or incorrectly executed transfers of Client Crypto Tokens;
+
+(b)
+
+the total value of transfers falling under (a);
+
+(c)
+
+the number and total value of transfers falling under (a) that have been reversed successfully; and
+
+(d)
+
+the total amount of compensation paid to Clients for unauthorised or incorrectly executed transfers of Client Crypto Tokens.
+
+(2)
+
+An Authorised Firm must provide the information in (1) within two weeks from the end of the relevant quarter.
+
+15.4.7 (1)
+
+An Authorised Firm that Provides Custody of Crypto Tokens may restrict or stop a Client’s access to its service only:
+
+(a)
+
+as explicitly set out in the Client Agreement; and
+
+(b)
+
+on reasonable grounds, including for example for valid security reasons or suspected unauthorised or fraudulent use of the service.
+
+(2)
+
+An Authorised Firm must restore access to the service, or offer another service, as soon as practicable after the reasons for restricting or stopping use of the service cease to be valid.
+
+15.4.8 If an Authorised Firm that Provides Custody of Crypto Tokens becomes aware of a major operational or security incident, it must inform Clients without delay of the incident and the measures it is taking to limit the adverse effects of the incident.
+
+15.5 Provision of Information
+
+184
+
+COB/VER48/03-25
+
+CONDUCT OF BUSINESS (COB)
+
+Provision of Key Features Document
+
+15.5.1 (1)
+
+An Authorised Firm must not provide a Financial Service relating to a Crypto Token to a Person unless it has given the Person a key features document containing the information about the Crypto Token set out in Rule 15.3.1(2).
+
+(2)
+
+The Authorised Firm must ensure that the information in the key features document is up to date.
+
+(3)
+
+The key features document must be given in good time before the relevant Financial Service is provided to the Person, to enable that Person to make an informed decision about whether to use the service.
+
+(4)
+
+The key features document does not need to be given to a Person to whom the Authorised Firm has previously provided that information, if there has been no significant change since the information was previously provided.
+
+(5)
+
+An Authorised Firm may use a key features document prepared by another Person if it has taken reasonable steps to ensure that the information in that document is complete, accurate and up to date.
+
+(6)
+
+If an Authorised Firm gives a Person a key features document prepared by another Person, the Authorised Firm remains legally accountable to the Person to whom it is given for the content of the document.
+
+(7)
+
+This Rule does not apply to an Authorised Firm that Operates a MTF that trades Crypto Tokens.
+
+Guidance
+
+Rule 15.5.1 does not apply to an MTF Operator, as the MTF Operator is separately required under Rule 15.3.1 to publish a key features document before the relevant Crypto Token is traded on the MTF.
+
+Dissemination of a white paper
+
+15.5.2 If an Authorised Firm publishes a white paper relating to a Crypto Token or disseminates or makes the white paper available to existing or potential new Clients., it must:
+
+(a)
+
+take reasonable steps to ensure that the version of the white paper is the latest version;
+
+(b)
+
+identify the authors of the white paper, if known, and when it was published; and
+
+(c)
+
+disclose prominently that:
+
+(i

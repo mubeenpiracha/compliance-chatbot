@@ -1,0 +1,111 @@
+ within the Authorised Person, including whether the Employee will be providing Regulated Activities to Retail Clients in an interfacing role.
+
+4.
+
+An Authorised Person should also satisfy itself that an Employee:
+
+a.
+
+continues to be competent and capable of performing the role;
+
+b.
+
+has kept abreast of market, product, technology, legislative and regulatory developments that are relevant to the role, through training or other means; and
+
+c.
+
+is able to apply his knowledge.
+
+5.
+
+Refer to the GPM for criteria for suitability of members of the Governing Body of the Authorised Person.
+
+Conduct
+
+An Authorised Person must establish and maintain systems and controls that ensure, as far as reasonably practical, that the Authorised Person and its Employees do not engage in conduct, or facilitate others to engage in conduct, which may constitute:
+
+(1)
+
+market misconduct; or
+
+(2)
+
+a Financial Crime under any applicable UAE laws.
+
+Conflicts of Interest
+
+An Authorised Person must comply with Principle 7 as outlined in Rule 2.2.7, taking all
+
+reasonable steps to identify conflicts of interest between:
+
+(1)
+
+the Authorised Person, including its managers, Employees, or any person directly or indirectly linked to the Authorised Person by control, and a Client of the Authorised Person; or
+
+(2)
+
+one Client of the Authorised Person and another Client,
+
+that arise or may arise in the course of the Authorised Person carrying on any Regulated Activity.
+
+For the purposes of identifying the types of conflict of interest that arise, or may arise, in the course of providing a service and whose existence may entail a material risk of damage to the interests of a Client, an Authorised Person must take into account, as a
+
+13
+
+GEN VER11.290725
+
+minimum, whether the Authorised Person or a person directly or indirectly linked by control to the Authorised Person:
+
+(1)
+
+is likely to make a financial gain, or avoid a financial loss, at the expense of the Client;
+
+(2)
+
+has an interest in the outcome of a service provided to the Client or of a Transaction carried out on behalf of the Client, which is distinct from the Client's interest in that outcome;
+
+(3)
+
+has a financial or other incentive to favour the interest of another Client or group of Clients over the interests of the Client;
+
+(4)
+
+carries on the same business as the Client; or
+
+(5)
+
+receives or will receive from a person other than the Client an inducement in relation to a service provided to the Client, in the form of monies, goods or services, other than the standard Commission or Fee for that service.
+
+If arrangements made by an Authorised Person to manage conflicts of interest in accordance with Principle 7 are not sufficient to ensure, with reasonable confidence, that risks of damage to the interests of a Client will be prevented, the Authorised Person must clearly disclose the general nature and/or sources of conflicts of interest to the Client before undertaking business for the Client.
+
+The disclosure in Rule 3.3.23 must:
+
+(1)
+
+be made in a durable medium; and
+
+(2)
+
+include sufficient detail, taking into account the nature of the Client, to enable that Client to take an informed decision with respect to the service in the context of which the conflict of interest arises.
+
+Information barriers
+
+When an Authorised Person establishes and Maintains an information barrier (that is, an arrangement that requires information held by an Authorised Person in the course of carrying on one part of the business to be withheld from, or not to be used for, persons with or for whom its acts in the course of carrying on another part of its business) it may:
+
+(1)
+
+withhold or not use the information held; and
+
+(2)
+
+for that purpose, permit persons employed in the first part of its business to withhold the information held from those employed in that other part of the business,
+
+but only to the extent that the business of one of those parts involves the carrying on of Regulated Activities or ancillary activities.
+
+14
+
+GEN VER11.290725
+
+Information may also be withheld or not used by an Authorised Person when this is required by an established arrangement Maintained between different parts of the business (of any kind) in the same group. This provision does not affect any requirement to transmit or use information that may arise apart from the rules in COBS.
+
+For the purposes of this

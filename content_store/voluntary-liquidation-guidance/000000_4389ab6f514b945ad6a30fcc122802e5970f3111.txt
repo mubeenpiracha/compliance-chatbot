@@ -1,0 +1,71 @@
+Voluntary Liquidation Guidance
+
+Registration Authority
+
+September 2020
+
+Contents
+
+Part 1 – Introduction......................................................................................................................... 3 Guidance overview and application ............................................................................................. 3 Legal framework......................................................................................................................... 3 Insolvency proceedings .............................................................................................................. 3 ADGM Companies can be dissolved without insolvency proceedings .......................................... 3 Voluntary Strike Off ................................................................................................................... 3 Further Information ..................................................................................................................... 4 Part 2 - Voluntary Liquidation............................................................................................................. 5 Liquidation ................................................................................................................................. 5 Types of Voluntary Liquidation .................................................................................................... 5 How a liquidation is managed ..................................................................................................... 5 Part 3 – Members’ Voluntary Liquidation (MVL).................................................................................... 6 When an MVL is applicable ........................................................................................................ 6 Declaration of solvency............................................................................................................... 6 Commencement of liquidation..................................................................................................... 6 Notice of a members’ voluntary liquidation .................................................................................. 6 Status of Company once liquidation commences......................................................................... 7 Conversion of MVL to CVL ......................................................................................................... 7 Summary of the steps to commence an MVL .............................................................................. 7 Part 4 – Creditors’ Voluntary Liquidation (CVL) ..................................................................................... 8 When a CVL is applicable ........................................................................................................... 8 Statement of Company’s Affairs .................................................................................................. 8 Notice of voluntary liquidation ..................................................................................................... 8 Status of Company once liquidation commences......................................................................... 8 Role of Directors once liquidation commences ............................................................................ 8 Disqualification of unfit Directors ................................................................................................. 8 Summary of the steps to commence a CVL................................................................................. 9 Part 5 – Liquidators ........................................................................................................................ 10 Role of the liquidator................................................................................................................. 10 Notice of a liquidator’s appointment .......................................................................................... 10 What the liquidator must send to the Registrar .......................................................................... 10 What happens when the company’s affairs are fully wound up .................................................. 11 Court’s power to control proceedings ........................................................................................ 11 Disclaimer ..................................................................................................................................... 12
+
+VER1.0-12082020
+
+Page 2 of 12
+
+Voluntary Liquidation Guidance
+
+Part 1 – Introduction
+
+Guidance overview and application
+
+1.1
+
+This guidance provides an overview of voluntary liquidations under ADGM’s insolvency legal framework, the ADGM Insolvency Regulations 2015. The Guide also provides information about the documents that must be delivered to the Registration Authority as part of a voluntary liquidation and the process.
+
+1.2
+
+This guidance does not cover other types of insolvency proceedings available under ADGM’s insolvency legal framework, such as compulsory winding up, receivership, and administration.
+
+1.3
+
+The guidance applies to ADGM incorporated public and private limited companies, limited liability partnerships (LLPs) and limited partnerships with legal personality (LPs). For ease of reference, the term ‘Company’ is used throughout this guidance to refer to ADGM incorporated companies, LLPs and LPs, unless specifically stated otherwise.
+
+1.4
+
+This guidance is issued under section 28 of the Commercial Licensing Regulations 2015 (CLR 2015).
+
+Legal framework
+
+1.5
+
+The relevant ADGM legislation regarding the dissolution of Companies is the:
+
+a) ADGM Companies Regulations 2020 (CR 2020); and
+
+b) ADGM Insolvency Regulations 2015 (IR 2015).
+
+1.6
+
+This guidance provides information on voluntary liquidations and therefore should be read in conjunction with the IR 2015 specifically, as the guidance will not be able to tell you everything about a voluntary liquidation.
+
+1.7
+
+ADGM’s Regulations and Rules are available on the ADGM website by following this link (https://en.adgm.thomsonreuters.com/).
+
+Insolvency proceedings
+
+1.8
+
+Insolvency proceedings are formal measures taken to deal with Company debt. There are a number of different types of Company insolvency proceedings available under ADGM’s legal framework. It is important to note that not all companies involved in insolvency proceedings are insolvent.
+
+ADGM Companies can be dissolved without insolvency proceedings
+
+1.9
+
+ADGM’s CR 2020 provides an alternative Company dissolution process called voluntary strike off, as well as a power for the Registrar to strike Companies off the register. Both of these processes are outlined as follows.
+
+Voluntary Strike Off
+
+1.10
+
+Voluntary strike off

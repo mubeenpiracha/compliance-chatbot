@@ -1,0 +1,87 @@
+ Relevant Entities where the Authorised Firm has a significant
+
+70
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+investment in those entities, excluding Underwriting positions held for 5 working days or fewer; and
+
+(e)
+
+the amounts required to be deducted from T2 Capital pursuant to Rule 3.15.4 that exceed the T2 Capital of the Authorised Firm.
+
+Deductions relating to holdings of own AT1 Capital instruments
+
+3.14.5 For the purposes of Rule 3.14.4(a), an Authorised Firm must calculate holdings of its own AT1 Capital instruments on the basis of gross long positions subject to the following exceptions:
+
+(a)
+
+an Authorised Firm must calculate the amount of holdings of own AT1 Capital instruments in the Trading Book on the basis of the net long position provided the long and short positions are in the same underlying Exposure and the short positions involve no Counterparty Credit Risk;
+
+(b)
+
+an Authorised Firm must determine the amount to be deducted for indirect holdings in the Trading Book of own AT1 Capital instruments that take the form of holdings of index Securities by calculating the underlying Exposure to own AT1 Capital instruments in the indices; and
+
+(c)
+
+an Authorised Firm must net gross long positions in own AT1 Capital instruments in the Trading Book resulting from holdings of index Securities may be netted by the Authorised Firm against short positions in own AT1 instruments resulting from short positions in the underlying indices, including where those short positions involve Counterparty Credit Risk.
+
+Deductions relating to AT1 Capital instruments in Relevant Entities
+
+3.14.6 For the purposes of Rule 3.14.4(b), (c) and (d), the amount of holdings of AT1 Capital instruments of Relevant Entities to be deducted, must be calculated, subject to 3.14.7, on the basis of the gross long positions.
+
+3.14.7 For the purposes of Rule 3.14.4(c) and (d), an Authorised Firm must make the
+
+deductions in accordance with the following:
+
+(a)
+
+the holdings in the Trading Book of the capital instruments of Relevant Entities must be calculated on the basis of the net long position in the same underlying Exposure provided the maturity of the short position matches the maturity of the long position or has a residual maturity of at least one year; and
+
+(b)
+
+the amount to be deducted for indirect holdings in the Trading Book of the capital instruments of Relevant Entities that take the form of holdings of index Securities must be determined by calculating the underlying Exposure to the capital instruments of the Relevant Entities in the indices.
+
+AT1 deductions relating to significant investment in a Relevant Entity
+
+3.14.8
+
+(1)
+
+For the purposes of Rule 3.14.4(c), an Authorised Firm must calculate the applicable amount to be deducted by multiplying the amount referred to in (a) by the factor derived from the calculation referred to in (b):
+
+71
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+(a)
+
+the amount referred to in Rule 3.13.16(1)(a);
+
+(b)
+
+the amount of direct and indirect holdings by the Authorised Firm of the AT1 Capital instruments of Relevant Entities divided by the aggregate amount of all direct and indirect holdings by the Authorised Firm of the CET1, AT1 and T2 Capital instruments of those Relevant Entities.
+
+(2)
+
+An Authorised Firm must exclude Underwriting positions held for 5 working days or fewer from the amount referred to in Rule 3.13.16(1)(a) and from the calculation of the factor referred to in (1)(b).
+
+(3)
+
+An Authorised Firm must determine the portion of holdings of AT1 Capital instruments that is to be deducted pursuant to (1) by dividing the amount specified in (a) by the amount specified in (b):
+
+(a)
+
+the amount of holdings required to be deducted pursuant to (1)(a);
+
+(b)
+
+the aggregate amount of direct and indirect holdings by the Authorised Firm of all the capital instruments of Relevant Entities in which the Authorised Firm does not have a significant investment.
+
+3.15 Tier 2 capital (T2 Capital)
+
+3.15.1 The T2 Capital constitutes the sum

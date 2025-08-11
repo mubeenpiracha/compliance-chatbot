@@ -1,0 +1,109 @@
+ of this Module;
+
+(ii)
+
+they are traded in large, deep and active repo or cash markets characterised by a low level of concentration;
+
+(iii)
+
+they have a proven record as a reliable source of liquidity in the markets (repo or sale) even during stressed market conditions (i.e. maximum decline of price or increase in haircut over a 30-day period during a relevant period of significant liquidity stress not exceeding 10%); and
+
+(iv)
+
+they are not an obligation of a financial institution or any of its associated entities;
+
+(b) corporate debt securities (including commercial paper) and covered bonds
+
+that satisfy all of the following conditions:
+
+(i)
+
+in the case of corporate debt securities: they must not be issued by a financial institution or any of its associated entities and must include only plain vanilla assets (i.e. not include complex structured products or subordinated debt) whose valuation is readily available based on standard methods and does not depend on private knowledge;
+
+(ii)
+
+in the case of covered bonds: they must not be issued by the Authorised Firm itself or any of its associated entities;
+
+389
+
+PIB/VER50/07-25
+
+A9.2.8
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+(iii)
+
+the assets must have a Credit Quality Grade of 1 from a recognised ECAI or, if the assets do not have a credit assessment by a recognised ECAI, they must be internally rated as having a probability of default (PD) corresponding to a Credit Quality Grade of 1;
+
+(iv)
+
+they must be traded in large, deep and active repo or cash markets characterised by a low level of concentration; and
+
+(v)
+
+they must have a proven record as a reliable source of liquidity in the markets (repo or sale) even during stressed market conditions (i.e. maximum decline of price or increase in haircut over a 30-day period during a relevant period of significant liquidity stress not exceeding 10%); and
+
+(c) any other types of assets approved by the DFSA under Rule A9.2.9 as
+
+being eligible to be Level 2A HQLA.
+
+Level 2B HQLA
+
+(1) Level 2B HQLA must be valued at market value and subject to an appropriate
+
+haircut, as specified in (2), for each type of asset.
+
+(2) Level 2B HQLA consists of:
+
+(a)
+
+residential mortgage backed securities that satisfy all of the following conditions, subject to a 25% haircut:
+
+(i)
+
+they are not issued by, and the underlying assets have not been originated by, the Authorised Firm itself or any of its affiliated entities;
+
+(ii)
+
+they have a Credit Quality Grade of 1 from a recognised ECAI;
+
+(iii)
+
+they are traded in large, deep and active repo or cash markets characterised by a low level of concentration;
+
+(iv)
+
+they have a proven record as a reliable source of liquidity in the markets (repo or sale) even during stressed market conditions, (i.e. maximum decline of price or increase in haircut over a 30-day period during a relevant period of significant liquidity stress not exceeding 20%);
+
+(v)
+
+the underlying asset pool is restricted to residential mortgages and does not contain structured products;
+
+(vi)
+
+the underlying mortgages are “full recourse’’ loans (i.e. in the case of foreclosure the mortgage owner remains liable for any shortfall in sales proceeds from the property) and have a maximum loan-to- value ratio (LTV) of 80% on average at issuance; and
+
+(vii)
+
+the securitisations are subject to “risk retention” regulations which
+
+390
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+require issuers to retain an interest in the assets they securitise;
+
+(b) corporate debt securities (including commercial paper) that satisfy all of
+
+the following conditions, subject to a 50% haircut:
+
+(i)
+
+they are not issued by a financial institution or any of its affiliated entities;
+
+(ii)
+
+they have a Credit Quality Grade of 2 or 3 from a recognised ECAI or, in the case the assets do not have a credit assessment by a recognised ECAI, are internally rated as having a probability of default (PD)

@@ -1,0 +1,164 @@
+. Effect of commencement of summary winding up of protected cell company
+
+1067. Court may determine liability of protected cell companies
+
+1068. Definitions relevant to this Part
+
+PART 36A INVESTMENT COMPANIES
+
+1068A. Application and interperation, power of the Board
+
+1068B. Formation of investment companies
+
+1068C. Names of investment companies
+
+1068D. Directors
+
+43
+
+1068E. Statutory pre-emption rights
+
+1068F. Issue and allotment of shares
+
+1068G. Share transfers
+
+1068H. Redemptions
+
+1068I. Definitions relevant to these regulations
+
+PART 37 GENERAL SUPPLEMENTARY PROVISIONS
+
+1069. Resolutions and subordinate legislation
+
+1070. Power to make consequential amendments and provide relief
+
+PART 38 FINAL PROVISIONS
+
+1071. Short title, extent and commencement
+
+SCHEDULE 1 CONNECTED PERSONS: REFERENCES TO AN INTEREST IN SHARES OR DEBENTURES
+
+SCHEDULE 2 MATTERS FOR DETERMINING UNFITNESS OF DIRECTORS
+
+Part 1 Matters applicable in all cases
+
+Part 2 Matters applicable in insolvency
+
+SCHEDULE 3 INDEX OF DEFINED EXPRESSIONS
+
+SCHEDULE 4 DOCUMENTS AND INFORMATION SENT OR SUPPLIED TO A COMPANY
+
+Part 1 Introduction
+
+Part 2 Communications in hard copy form
+
+Part 3 Communications in electronic form
+
+Part 4 Other agreed forms of communication
+
+SCHEDULE 5 COMMUNICATIONS BY A COMPANY
+
+Part 1 Introduction
+
+Part 2 Communications in hard copy form
+
+Part 3 Communications in electronic form
+
+Part 4 Communications by means of a website
+
+Part 5 Supplementary provisions
+
+44
+
+SCHEDULE 6 MEANING OF “SUBSIDIARY” ETC: SUPPLEMENTARY PROVISIONS
+
+SCHEDULE 7 PARENT AND SUBSIDIARY UNDERTAKINGS: SUPPLEMENTARY PROVISIONS
+
+45
+
+COMPANIES REGULATIONS 2020
+
+Regulations to make provision for the formation and registration of companies in the Abu Dhabi Global Market.
+
+Date of Enactment: 29 April 2020
+
+The Board of Directors of the Abu Dhabi Global Market, in exercise of its powers under Article 6(1) of Law No. 4 of 2013 concerning the Abu Dhabi Global Market issued by His Highness the Ruler of the Emirate of Abu Dhabi, hereby enacts the following Regulations–
+
+PART 1
+
+GENERAL INTRODUCTORY PROVISIONS
+
+Companies
+
+1.
+
+Companies
+
+(1)
+
+In these Regulations, unless the context otherwise requires “company” means a company formed or registered under these Regulations (whether or not it was incorporated under these Regulations).
+
+(2)
+
+Federal Law No. 8 of 1984 of the United Arab Emirates (as amended from time to time) shall not apply to companies formed or registered under these Regulations.
+
+Types of company
+
+2.
+
+Limited and unlimited companies
+
+(1)
+
+A company is a “limited company” if the liability of its members is limited by its constitution.
+
+It may be limited by shares or limited by guarantee.
+
+(2)
+
+If their liability is limited to the amount, if any, unpaid on the shares held by them, the company is “limited by shares”.
+
+(3)
+
+If their liability is limited to such amount as the members undertake to contribute to the assets of the company in the event of its being wound up, the company is “limited by guarantee”.
+
+(4)
+
+If there is no limit on the liability of its members, the company is an “unlimited company”.
+
+46
+
+3.
+
+Private and public companies1
+
+(1)
+
+A “private company” is any company that is not a public company.
+
+(2)
+
+A “public company” is a company limited by shares–
+
+(a)
+
+whose certificate of incorporation states that it is a public company, and
+
+(b)
+
+in relation to which the requirements of these Regulations as to registration or re-registration as a public company have been complied with.
+
+(3)
+
+A “private company” may apply to the Registrar to be registered as a restricted scope company at its formation.
+
+(4)
+
+A company may only be registered as a restricted scope company if–
+
+(a)
+
+it is a subsidiary undertaking of another body corporate that prepares and publishes group accounts under these Regulations or such other enactment as the Registrar may recognise for the purposes of this section,
+
+(b)
+

@@ -1,0 +1,41 @@
+ price should provide an appropriate basis of valuation for the Fund. The Fund Manager should, however, document the choice of methodology and ensure that the procedures are applied consistently and fairly; and
+
+b.
+
+where there has been no recent trade in the Security concerned, or no reliable price exists, an Investment should be valued at a price which, reflects a fair and reasonable price for that investment. For example, a Fund Manager may obtain a valuation from three experienced brokers and average the value. In such cases, the Fund Manager is required to
+
+107
+
+FUNDS VER10.100625
+
+document the reasons for his decision and should be prepared to justify any assumptions made.
+
+7.
+
+Where instances of incorrect pricing occur, the de minimis provisions set out in this guidance should apply only where the Fund Manager and Trustee or the Person providing oversight functions are able to meet the standards set out in this guidance. Evidence of persistent or repetitive errors, or errors consistently in the Fund Manager's favour, are likely to make it more difficult for the Fund Manager to demonstrate that he is able to meet the standards in this guidance.
+
+Pricing controls by the Fund Manager
+
+8.
+
+Unit prices and currency rates used in Fund valuations should be up to date and from a reputable source. The mere use of a source for prices and rates does not amount to delegation under these Rules. Although it should not be necessary to carry out significant substantive checking, the reliability of the source of prices and rates should be kept under regular review, and the use of doubtful prices or rates should be followed up.
+
+9.
+
+The mere use of a source for prices and rates does not amount to delegation under these Rules. However, the use of a third party to carry out the pricing function, whether it is an Associate of the Fund Manager, or the Trustee or any Associate of the directors of the company or Persons providing the oversight function, or any independent third party, amounts to outsourcing. In this case the Fund Manager still retains its operating responsibilities and duties and, remains liable for the acts and omissions of that third party in performing the pricing functions as if they were the acts or omissions of the Fund Manager. The Fund Manager should ensure that the third party contracts to provide the service on a basis which takes account of the Fund Manager's responsibilities which require the Fund to be priced in accordance with the applicable Rules and the Fund's Constitution.
+
+10. Where the pricing function is outsourced, the Fund Manager is required, in accordance with these Rules, to satisfy himself that the pricing agent remains competent to carry out the function, and that he has taken reasonable care to ensure that the pricing agent has carried out his duties in a competent manner. The Fund Manager should seek assurance that the pricing agent's system is robust and will produce accurate results. The Fund Manager should review the outputs from the system at least annually, and on any significant system change. In addition, if the pricing agent is also responsible for calculation of dealing prices of Units, the Fund Manager should ensure that this system is reviewed to his satisfaction at least annually.
+
+10. Where the pricing function is outsourced, the Fund Manager is required, in accordance with these Rules, to satisfy himself that the pricing agent remains competent to carry out the function, and that he has taken reasonable care to ensure that the pricing agent has carried out his duties in a competent manner. 11.
+
+Unless the valuation and record keeping systems are integrated, the valuation output should be agreed with the Fund Manager's records of a Fund at each valuation point. In addition, the Fund Manager's records, including debtors and creditors, should be agreed with an Eligible Custodian's records of stocks and both capital and income cash at least monthly, with reconciling items followed up promptly, with debtors reviewed for recoverability.
+
+13.
+
+Systems should be in place whereby all transactions are confirmed in writing or by electronic means to the Fund Manager or to a pricing agent as quickly as possible. It is desirable that all deals to which the Fund is committed, which
+
+108
+
+FUNDS VER10.100625
+
+have been notified, at most, one hour before a valuation, are included in that valuation, at estimated prices if necessary. Unless, however, there is likely to be significant movement in a price of a Unit, it is more important that an accurate cut-off procedure is in place to ensure that omissions or duplications do not take place, than it is to ensure that estimates are included in

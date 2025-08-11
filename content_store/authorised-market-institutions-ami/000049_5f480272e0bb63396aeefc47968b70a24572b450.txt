@@ -1,0 +1,133 @@
+ address risks relating to:
+
+(a)
+
+custody of its own assets, in accordance with (2); and
+
+(b)
+
+investments, in accordance with (3).
+
+(2)
+
+For the purposes of (1)(a), a Clearing House must:
+
+77
+
+AMI/VER28/03-25
+
+7.2.5
+
+AUTHORISED MARKET INSTITUTIONS (AMI)
+
+(a)
+
+hold its own assets with entities which are Licensed by the DFSA or a Financial Services Regulator for holding deposits or providing custody, as appropriate;
+
+(b)
+
+be able to have prompt access to its assets when required; and
+
+(c)
+
+regularly evaluate and understand its exposures to entities which hold its assets.
+
+(3)
+
+For the purposes of (1)(b), a Clearing House must ensure that:
+
+(i)
+
+it has an investment strategy which is consistent with its overall risk-management strategy and is fully disclosed to its Members and other participants using its facilities; and
+
+(ii)
+
+its investments comprise instruments with minimal credit, market, and liquidity risks. For this purpose, the investments must be secured by, or be claims on, high-quality obligors, allowing for quick liquidation with little, if any, adverse price effect.
+
+Guidance
+
+A Clearing House which holds assets for its Members and other participants is subject to the “safe custody” requirements in section 5.10. In addition to those requirements, a Clearing House is required to manage risks associated with custody of its own assets (which may comprise cash) under Rule 7.2.4.
+
+Money settlement
+
+(1) Where a Clearing House conducts its money settlements using commercial bank money, it must adopt appropriate measures to minimise and strictly control the credit and liquidity risk arising from such use.
+
+(2)
+
+For the purposes of (1), a Clearing House must:
+
+(a)
+
+conduct its money settlements using only such settlement assets with little or no credit or liquidity risk;
+
+(b)
+
+monitor, manage, and limit its credit and liquidity risks arising from commercial settlement banks. In particular, it must establish and monitor adherence to strict criteria for the use of settlement banks, which take into account, among other things, the regulation and supervision, creditworthiness, capitalisation, access to liquidity, and operational reliability of the relevant settlement banks;
+
+(c)
+
+monitor and manage the concentration of credit and liquidity exposures to its commercial settlement banks; and
+
+(d)
+
+ensure that its legal agreements with any settlement banks, at a minimum:
+
+(i)
+
+specify clearly when transfers on the books of individual settlement banks are expected to occur and when they are final; and
+
+78
+
+AMI/VER28/03-25
+
+7.2.5A
+
+7.2.6
+
+AUTHORISED MARKET INSTITUTIONS (AMI)
+
+(ii)
+
+ensure that funds received are transferable as soon as possible, if not intra-day, at least by the end of the day to enable it and its Members and other participants on its facilities to manage their credit and liquidity risks.
+
+Use of Fiat Crypto Tokens for clearing and settlement
+
+(1)
+
+A Clearing House must ensure that clearing and settlement of transactions relating to Crypto Tokens takes place only by means of a fiat currency or, subject to (2), a Fiat Crypto Token.
+
+(2)
+
+A Clearing House may use a Fiat Crypto Token for clearing and settlement of Crypto Token transactions only if:
+
+(a)
+
+the Fiat Crypto Token is a Recognised Crypto Token; and
+
+(b)
+
+the Clearing House is reasonably satisfied that the risks associated with using the Fiat Crypto Token, including market, credit and liquidity risks, are low.
+
+Guidance
+
+A Fiat Crypto Token is defined in GEN A2.5.5 as a Crypto Token the value of which purports to be determined by reference to a fiat currency or fiat currencies. The DFSA would expect the following features to be in place if a Fiat Crypto Token is used for clearing and settlement:
+
+a.
+
+a comprehensive governance framework with a clear allocation of accountability for the functions and activities of the Crypto Token;
+
+b.
+
+effective risk management frameworks for reserve management, operational resilience, cyber security and AML/CTF requirements;
+
+c.
+
+robust systems for collecting, storing and safeguarding data, as well as appropriate recovery and resolution plans;
+
+d.
+
+comprehensive and transparent disclosures on the functioning of the Crypto Token, including with respect to its stabilisation, reserve and redemption mechanisms;
+
+e.
+
+settlement finality features, demonstrated through clear

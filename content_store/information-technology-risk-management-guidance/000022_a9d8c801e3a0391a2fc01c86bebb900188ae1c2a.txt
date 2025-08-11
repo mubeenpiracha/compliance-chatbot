@@ -1,0 +1,63 @@
+ conflicts, systems should be tested in an environment physically or logically separate from the live IT environment running production systems and data.
+
+5.2.31 All issues noted during testing (software bugs, configuration errors, etc.) should be tracked and resolved. Where an issue cannot be resolved, the financial institution should ensure that any deviations from the established functional, performance, security, and resilience requirements are approved by an appropriate level of management prior to system deployment in the production environment.
+
+5.2.32 Following testing, a financial institution should ensure that all deployments and updates to the IT environment adhere to established procedures. Further guidance is provided in Chapter 7.
+
+Desired Outcome 5.3 – System Refresh and Decommissioning
+
+Technology Refresh Management
+
+5.3.1
+
+Financial institutions should avoid using outdated or unsupported systems. Financial institutions should have in place a procedure to track the lifespan, warranties, and support contracts of all systems in use, and a process to notify relevant staff of impending end-of-support dates. A financial institution can assess the system’s age, performance, business alignment, and overall condition to determine whether to update, replace, or decommission systems in accordance to established procedures.
+
+5.3.2 Where there is no alternative to the outdated or unsupported system, or if refreshing such a system poses greater risk than retaining it, a financial institution should conduct a thorough evaluation on the risks and follow its established risk acceptance processes to obtain approval for the system’s continued use.
+
+5.3.3 Where new technology is deployed or updates are made to the system, a financial institution should ensure that staff interacting with the system are adequately trained on the new or updated system, and that any data migrated during the refresh is done so safely and securely.
+
+System Decommissioning
+
+5.3.4
+
+Systems that approach end-of-life may be misappropriated or accidentally lost or destroyed if there are no measures to ensure that they are disposed of properly. This can lead to potential risk events that could impact a financial institution’s reputation if data is exposed by threat actors or if the uninstallation of hardware and software is not handled carefully resulting in system disruptions.
+
+37
+
+VER01.201124
+
+5.3.5
+
+A financial institution should establish an asset decommissioning strategy to safely and securely decommission systems and their associated hardware, software, and data. The strategy should include a risk assessment for each system to be decommissioned and make clear what assets are to be reused, recycled or destroyed and the means to conduct those activities. All decommissioning activities should be documented to ensure compliance with any applicable regulations, including for document retention, and for future reference during investigations.
+
+5.3.6 Where third parties are engaged for decommissioning activities, a financial institution should perform a third-party risk assessment with due attention to the service provider’s track record, product or service standards, alignment with required services, and data protection standards.
+
+5.3.7
+
+A financial institution should ensure that any existing data on the system being decommissioned is fully wiped from the system and a chain of custody is documented to validate that the responsible party, including service providers, had performed the data wipe.
+
+5.3.8
+
+A financial institution should include in its asset decommissioning strategy procedures for non-tangible assets (e.g., internet domains, online subscriptions, cloud instances, network connections between the corporate network and external systems, etc.) and leased assets (e.g., multi-function printers, proprietary terminals, leased servers and network devices, etc.) to ensure that any corporate data is promptly deleted, destroyed, or rendered unusable.
+
+38
+
+VER01.201124
+
+Chapter 6 –Technology Asset Management
+
+Desired Outcomes for Technology Asset Management
+
+Desired Outcome 6.1 – Asset Identification and Classification: A financial institution should know what assets it has and how critical those assets are.
+
+Desired Outcome 6.2 – Asset Accountability: A financial institution’s assets should be responsibly managed in a way that is commensurate with the criticality of the assets.
+
+Desired Outcome 6.1 – Asset Identification and Classification
+
+6.1.1
+
+In the course of business, a financial institution is likely to accumulate various physical and non-physical technology assets to support its operations and services. If left unchecked, the growth in assets can heighten risk as each asset could be exploited or abused by threat actors.
+
+6.1.2
+
+A financial institution should

@@ -1,0 +1,59 @@
+ to the OWASP top 10 for Large Language Model Applications.
+
+81
+
+VER01.201124
+
+Desired Outcome 14.2 – Safe Development and Usage
+
+14.2.1 Where a financial institution develops ADS to serve as a tool for business decisions, the
+
+established governing framework should incorporate the following:
+
+14.2.1.a The financial institution should be able to provide clear explanations on what
+
+data was used by the ADS and the decision process that led to an output46.
+
+14.2.1.b ADS should be designed to maintain decision parameters that are aligned
+
+with the financial institution’s ethical norms.
+
+14.2.1.c ADS do not systematically disadvantage any individual or groups of individuals unless justified, and comply with all applicable laws.
+
+14.2.2 Where a financial institution intends to incorporate a ‘human-in-the-loop’ design consideration into an ADS to improve outcomes and mitigate biases, the financial institution should ensure that the appropriate and responsible staff is/are adequately trained in the ADS and for the role(s) to be performed, and escalation procedures are in place to manage issues arising from the use of the ADS.
+
+14.2.3 Where a financial institution exposes an ADS for interaction with external parties (e.g., customers), the financial institution should ensure that the ADS is regularly reviewed for compromise resulting from attacks by threat actors. Such attacks include model or data poisoning47, model or data extraction48, denial-of-service49, etc.
+
+14.2.4 Where the ADS makes use of data from external parties (e.g., customers) for decision making that impacts those external parties, the external parties should be informed that they are interacting with an ADS, given adequate information on interacting with the ADS50, and the associated risks and limitations of the ADS.
+
+14.2.5 A financial institution should regularly test and validate its developed ADS models for accuracy, performance, errors, or unintentional biases both in the decision points and in the data supplied to the model. Where practical, such tests should also measure the ADS’ adherence to the established governance framework.
+
+14.2.6 Where over time the ADS model has drifted beyond the parameters defined in the ADS governance framework, the financial institution should review the suitability of the ADS
+
+46 For example, financial institutions can leverage on interpretability or transparency techniques such as coefficients of logistic regressions, LIME, Shapley values techniques (QII, SHAP), and integrated gradient explanations. 47 Such attacks arise when a threat actor attempts to provide large volumes of malicious input that would skew the ADS decision making towards the intended malicious outcome. 48 Model or data extraction attacks are performed to extract information about an ADS such as its architecture or decision parameters. 49 A denial-of-service attack on an ADS involves attempts to disrupt the performance by flooding the ADS with queries that would exhaust the computation resources of the ADS. 50 For avoidance of doubt, such information does not include exposure of the financial institution’s intellectual property, proprietary source code or details on sensitive or confidential internal processes.
+
+82
+
+VER01.201124
+
+solution and take appropriate steps to either recalibrate the model where possible or cease its use.
+
+14.2.7 A financial institution should ensure that the use of ADS does not weaken existing controls. For example, prior to granting an ADS solution access to sensitive or critical data, adequate safeguards should be in place to ensure that the users of the ADS also have the requisite access rights to interact with such data.
+
+83
+
+VER01.201124
+
+Chapter 15 – Decentralised Infrastructure Solutions
+
+Desired Outcomes for Decentralised Infrastructure Solutions
+
+Desired Outcome 15.1 – Understanding Decentralised Infrastructure Solutions: A financial institution should establish a clear understanding of the nature and nuances of each decentralised infrastructure solution it interacts with.
+
+Desired Outcome 15.2 – Secure Participation: A financial institution should ensure that its resources interacting with the decentralised infrastructure solution are securely managed.
+
+Desired Outcome 15.1 – Understanding Decentralised Infrastructure Solutions
+
+15.1.1 The rise of distributed ledger technology has the potential to transform financial services and is increasingly being adopted by financial institutions. Distributed ledger technology can be combined with other technologies to create decentralised infrastructure solutions where activities take place both on and off the blockchain. As these technologies develop and grow in complexity, potential unique risks arise that require financial institutions to develop specific expertise to manage those risks.
+
+15.1.2 This

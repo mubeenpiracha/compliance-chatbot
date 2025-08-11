@@ -1,0 +1,83 @@
+ in the Data Controller or in a Third Party to whom the Personal Data are disclosed; or
+
+f) Processing is necessary for the purposes of the legitimate interests pursued by the Data Controller or by the Third Party to whom the Personal Data are disclosed, except where such interests are overridden by compelling legitimate interests of the Data Subject relating to the Data Subject's particular situation.
+
+2 Section 2 of the ADGM Data Protection Regulations 2015.
+
+Office of Data Protection, Registration Authority
+
+Page 7 of 15
+
+Data Protection Guide
+
+9. Requirements for Processing Sensitive Personal Data3
+
+9.1 Due to the nature of Sensitive Personal Data and its vulnerability to be misused, Section 3 of the Data Protection Regulations prohibits the processing of Sensitive Personal Data unless certain criteria are satisfied, including but not limited to:
+
+a) Additional written consent to the processing of this kind of Personal Data has been obtained
+
+from the Data Subject;
+
+b) Processing is necessary for the purposes of carrying out the obligations and specific rights of
+
+the Data Controller; or
+
+c) Processing is necessary to protect the vital interests of the Data Subject or of another person
+
+where the Data Subject is physically or legally incapable of giving his/her consent.
+
+9.2 Please refer to the Data Protection Regulations for the full list of criteria.
+
+10. Notifications to the Registration Authority 4
+
+Initial Registration as a Data Controller
+
+10.1 The registration of any data controller residing within Al Maryah Island is mandatory with the Registration Authority. If you are an entity applying to be registered / incorporated in ADGM and will be processing Personal Data, it is therefore essential for you to complete the Data Protection initial registration form and pay the applicable fee. A Data Controller shall establish and maintain records of any Personal Data Processing operations or set of such operations intended to secure a single purpose or several related purposes.
+
+Application for renewal of Registration as a Data Controller
+
+10.2 Registration as a Data Controller is valid for one (1) year and can be renewed annually by submitting an “Application for renewal of registration – Data Protection” via the Registration Authority’s Online Solution available at https://www.registration.adgm.com and by paying the the company’s applicable incorporation/registration.
+
+fee. Renewal must be done on every anniversary of
+
+Appointment and Cessation of Data Processor
+
+10.3 A Data Controller must notify the Registration Authority of the appointment or cessation of a Data Processor. This notification can done by completing a Notice of Appointment / Cessation of Data Processor through the Registration Authority’s Online Solution.
+
+Change in Particulars of Data Processor
+
+10.4 A Data Controller must give notice to the Registration Authority of any change in the particulars of Data Processor. Such notice can be done by completing a Notice of Change of Particulars of Data Processor through the Registration Authority’s Online Solution.
+
+3 Section 3 of the ADGM Data Protection Regulations 2015. 4 Section 12 of the ADGM Data Protection Regulations 2015.
+
+Office of Data Protection, Registration Authority
+
+Page 8 of 15
+
+Data Protection Guide
+
+Change in business contact details
+
+10.5 A Data Controller must notify the Registration Authority in case of any change in its business contact details, for example the data protection contact person’s name, contact number, email, etc.
+
+Data Breach Notifications within 72 hours
+
+10.6 10.6 An unauthorized intrusion involving Personal Data is serious issue. Organizations must react appropriately when they become aware of breaches involving customer or employee personal information. A Data Controller must notify the Registration Authority in case of any security breach involving Personal Data as soon as possible.
+
+10.7 Breach notifications must be filed electronically via the Registration Authority’s Online Solution
+
+available at https://www.registration.adgm.com.
+
+11. Transfers of Personal Data out of the ADGM5:
+
+11.1 Personal Data shall not be transferred to a country or territory outside ADGM unless that country or territory ensures an adequate level of protection for the rights and freedoms of Data Subjects in relation to the processing of Personal Data.
+
+11.2 The adequacy of the level of protection ensured by laws to which the Recipient is subject, shall be assessed in the light of all the circumstances surrounding a Personal Data transfer operation or set of Personal Data transfer operations, including, but not limited to:
+
+a) the nature of the Personal Data;
+
+b) the purpose and duration of the proposed Processing operation or operations;
+
+c)
+
+if the data do not

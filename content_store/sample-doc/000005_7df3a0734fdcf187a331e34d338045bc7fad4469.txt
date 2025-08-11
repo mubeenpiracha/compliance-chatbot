@@ -1,0 +1,167 @@
+ Offer of a Unit if he:
+
+(a)
+
+makes an offer to another person which, if accepted, would give rise to a contract for the issue or sale of Units by him or by another person with whom he has made arrangements for the issue or sale of the Units; or
+
+(b)
+
+invites another person to make an offer which, if accepted by him, would give rise to a contract for the issue or sale of Units by him or by another person with whom he has made arrangements for the issue or sale of the Units,
+
+whether or not the offer or invitation referred to in Article 19(2)(a) or (b) is made by way of a financial promotion of the Units.
+
+(3)
+
+For the purposes of Article 19(2), a “financial promotion” includes an advertisement or any other form of promotion, marketing or inducement inviting a person to:
+
+(a)
+
+enter into an agreement;
+
+(b)
+
+offer to enter into an agreement; or
+
+6
+
+(4)
+
+(5)
+
+(c)
+
+exercise any rights conferred by a Unit
+
+to acquire, dispose of, underwrite or convert a Unit.
+
+In Article 19(3), the financial promotion may be communicated in any manner including, but not limited to, the following:
+
+(a)
+
+orally;
+
+(b)
+
+electronically; or
+
+(c)
+
+in writing.
+
+For the purposes of Article 19(2) and (3), where a Fund Manager of a Listed Fund discloses information in accordance with the requirements of the Markets Law 2012 or the Rules made for the purposes of that law, disclosure of such information is not a financial promotion provided the disclosure of the information does not:
+
+(a)
+
+include an express invitation or offer; or
+
+(b)
+
+expressly encourage a person;
+
+to engage in any of the activities specified in Article 19(2) (a) or (b).
+
+7
+
+PART 3: ROLES AND FUNCTIONS OF THE FUND MANAGER AND TRUSTEE
+
+Chapter 1: General prohibitions
+
+20.
+
+Fund Manager
+
+(1)
+
+A person shall not manage a Domestic Fund unless:
+
+(a)
+
+that person:
+
+(i)
+
+is a body corporate;
+
+(ii)
+
+is an Authorised Firm whose Licence authorises it to act as the Fund Manager of the particular type or specialist class of the Fund; and
+
+(iii) meets any additional criteria, requirements or conditions that may be
+
+prescribed in the Rules;
+
+or
+
+(b)
+
+the person is an External Fund Manager.
+
+(2)
+
+For the purposes of this Law, any other DFSA administered law and any rules made for the purposes of those laws, the person who “manages” a Fund, subject to Article 20(3), is the person who:
+
+(a)
+
+is legally accountable to the Unitholders in the Fund for the management of the Fund, including the property held for or within the Fund (“Fund Property”); and
+
+(b)
+
+establishes, manages or otherwise operates or winds up the Fund.
+
+(3)
+
+The DFSA may, by Rules, prescribe when a person who engages in any of the activities specified in Article 20(2) is not managing a Fund.
+
+(4)
+
+A person referred to in Article 20(1)(a) or (b) is a “Fund Manager” and a reference to a “Fund Manager” in this Law or in any other DIFC Law or any legislation made for the purposes of such laws includes both persons, unless otherwise provided.
+
+(5)
+
+A person is an External Fund Manager if that person:
+
+(a)
+
+is a body corporate;
+
+(b)
+
+manages a Domestic Fund:
+
+(i)
+
+which is not an External Fund; and
+
+(ii)
+
+which is excluded from the Financial Services Prohibition under Article 41(9) of the Regulatory Law 2004; and
+
+(c)
+
+manages the Fund in (b):
+
+8
+
+(i)
+
+from a place of business in a Recognised Jurisdiction or a jurisdiction otherwise acceptable to the DFSA; and
+
+(ii)
+
+in accordance with any additional requirements prescribed by the DFSA for the purposes of this Article.
+
+21.
+
+Trustee
+
+(1)
+
+A person shall not act as a Trustee of a Domestic Fund which is an Investment Trust unless that person is either:
+
+(a)
+
+a body corporate which is an Authorised Firm with a Licence authorising it to act as a Trustee or to Provide Custody; or
+
+(b)
+
+a person regulated and supervised by a Financial

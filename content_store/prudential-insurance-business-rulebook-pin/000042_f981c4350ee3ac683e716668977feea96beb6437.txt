@@ -1,0 +1,155 @@
+ limits are brought within the pre-approved limits within a set timeframe;
+
+d.
+
+processes for reducing or cancelling limits to a particular counterparty where the counterparty is known to be experiencing problems;
+
+e.
+
+processes for approving requests for temporary increases in limits;
+
+f.
+
+processes to review credit exposures (at least annually but more frequently in cases where there is evidence of a deterioration in credit quality);
+
+g.
+
+a management information system that is capable of aggregating exposures to any one counterparty (or group of Related counterparties), asset class, industry or region in a timely manner; and
+
+h.
+
+a process for reporting to the Governing Body and senior management:
+
+i.
+
+significant breaches of limits; and
+
+ii.
+
+large exposures and other credit risk concentrations.
+
+3.
+
+Further guidance in respect of credit quality risk in respect of reinsurance counterparties is contained at Rule A2.14.
+
+A2.12 Business continuity planning risk
+
+Guidance
+
+1.
+
+Disruptions in an Insurer's business can lead to unexpected losses of both a financial and non-financial nature (e.g. data, premises, reputation etc).
+
+68
+
+PIN VER07.290725
+
+Disruptions may occur as a result of events such as power failure, denial of access to premises or work areas, systems failure (computers, data, building equipment), fire, fraud and loss of key staff.
+
+2.
+
+An Insurer's risk management system in respect of business continuity planning risk will normally be expected to include at least the following policies and procedures:
+
+a.
+
+processes for identifying:
+
+i.
+
+events that may lead to a disruption in business continuity;
+
+ii.
+
+the likelihood of those events occurring;
+
+iii.
+
+the processes most at risk; and
+
+iv.
+
+the consequences of those events.
+
+b.
+
+a business continuity plan (BCP) describing:
+
+i.
+
+procedures to be followed if business continuity problems arise;
+
+ii.
+
+detailed procedures for enacting the BCP, including manual processes, the activation of an off-site recovery site (if needed) and the person(s) responsible for activating the BCP;
+
+iii.
+
+a communications strategy and contact information for relevant staff, suppliers, (including exchanges), major clients, the media and other key people;
+
+regulators, market authorities
+
+iv.
+
+a schedule of critical systems covered by the BCP and the timeframe for restoring these systems;
+
+v.
+
+the pre-assigned responsibilities of staff and procedures for training staff on all aspects of the BCP; and
+
+vi.
+
+procedures for regular testing and review of the BCP; and
+
+c.
+
+procedures for backing up important data on a regular basis and storing the information off site.
+
+A2.13 Outsourcing risk
+
+Guidance
+
+1.
+
+Financial firms frequently decide to outsource aspects of their operations to other parties, Related or not. Outsourcing can bring significant benefits to a firm in terms of efficiency, cost reduction and risk management. However, both the process of implementing outsourcing arrangements and the outsourcing relationship itself may expose a firm to additional risk. It is therefore important
+
+69
+
+PIN VER07.290725
+
+that firms take care to supervise the conduct of activities that are outsourced. GEN 3.3.32(1) requires an Authorised Person to inform the Regulator about any material outsourcing arrangement.
+
+2.
+
+The activities of outsource contractors have the ability to undermine the risk management activities of Insurers. Insurers should take particular care if outsourcing activities such as underwriting and claims management, where inappropriate performance of the functions can expose the Insurer to serious financial loss, for example through acceptance of inappropriate insurance risks, mis-pricing, failure to obtain appropriate reinsurance cover, or failure to detect invalid claims. These considerations apply to such arrangements as binding authorities and other agencies appointed by Insurers.
+
+3.
+
+In negotiating a contract with an outsource contractor or in assessing an existing agreement, an Insurer should give consideration to matters relevant to risk management, including the following:
+
+a.
+
+setting and monitoring of authority limits and referral requirements;
+
+b.
+
+the identification and assessment of performance targets;
+
+c.
+
+procedures for evaluation of performance against targets;
+
+d.
+
+provisions for remedial action;
+
+e.
+
+reporting requirements imposed on the outsource contractors (including both content and frequency of reports);
+
+f.
+
+the ability of the Insurer and its risk management functions (for example, internal auditors), and its external auditors, to obtain access to the outsource contractors and their records;
+
+g.
+
+pro

@@ -1,0 +1,115 @@
+ marketing; or
+
+(e)
+
+a Fund Manager of a Fund Offering the Units of a Fund it manages.
+
+3.3.2 Requirements
+
+(a)
+
+Subject to Rule 3.3.2(b), an Authorised Person must not carry on a Regulated Activity where this involves provision of a service to a Client unless:
+
+(i)
+
+there is a Client Agreement entered into between the Authorised Person and that Person containing the key information specified in Chapter 12 which is entered into either between the Authorised Person and that Person or in accordance with the requirements in Rule 3.3.2(c); and
+
+(ii)
+
+before entering into the Client Agreement with the Person, the Authorised Person has provided to that Person the key information referred to in Chapter 12 in good time to enable him to make an informed decision relating to the relevant Regulated Activity.
+
+(b)
+
+An Authorised Person may carry on a Regulated Activity where this involves provision of a service to a Client without having to comply with the requirement in Rule 3.3.2(a);
+
+(i)
+
+where it is, on reasonable grounds, impracticable to comply, in which case an Authorised Person carrying on the Regulated Activity must:
+
+(A)
+
+first explain to the Person why it is impracticable to comply; and
+
+(B)
+
+enter into a Client Agreement as soon as practicable thereafter.
+
+14
+
+COBS VER19.290725
+
+(ii)
+
+where the Client has expressly agreed to dispense with the requirement in regard to a legal structure or vehicle the Client has established for investment purposes.
+
+(c)
+
+An Authorised Person may rely on a Client Agreement executed other than by the Authorised Person in the following circumstances:
+
+(i)
+
+An Authorised Person which is a Branch may rely on a Client Agreement executed by its head office or any other branch of the same legal entity if:
+
+(A)
+
+the Client Agreement adequately and clearly applies to the Regulated Activities carried out the Branch; and
+
+(B)
+
+the Authorised Person ensures that the Client Agreement is available to the Regulator on request.
+
+(ii)
+
+an Authorised Person may rely on a Client Agreement executed by a member of its Group if:
+
+(A)
+
+it is carrying on a Regulated Activity where this involves provision of a service to a Client pursuant to Rule 2.6.4;
+
+(B)
+
+the Client Agreement clearly sets out the Regulated Activity carried on where this involves provision of a service to a Client by the Authorised Person and that the Client's rights in respect of the carrying on of the Regulated Activity are enforceable against the Authorised Person; and
+
+(C)
+
+the Authorised Person ensures that the Client Agreement is available to the Regulator on request.
+
+3.3.3
+
+[Deleted]
+
+Guidance
+
+1. Chapter 12 sets out the core information that must be included in every Client Agreement and additional disclosure for certain types of activities to which this chapter applies.
+
+2. An Authorised Person may either provide a Person with a copy of the proposed Client Agreement, or give that information in a separate form. If there are any changes to the terms and conditions of the proposed agreement, the Authorised Person must ensure that the Client Agreement to be signed with the Person accurately incorporates those changes.
+
+3. An Authorised Person may consider it is reasonably impracticable to provide the key information to a Person if that Person requests the Authorised Person to execute a Transaction on a time critical basis. Where an Authorised Person has explained why it is impracticable to comply with the requirement to enter into a Client Agreement orally, it must maintain records to demonstrate to the Regulator that it has provided that information to the Client.
+
+15
+
+COBS VER19.290725
+
+3.3.4 Changes to the Client Agreement
+
+If the Client Agreement provided to a Retail Client allows an Authorised Person to amend the Client Agreement without the Client's prior written consent, the Authorised Person must give at least fourteen days' notice to the Client before carrying on a Regulated Activity where this involves provision of a service to a Client on any amended terms, unless it is impracticable to do so.
+
+3.4
+
+Suitability
+
+3.4.1 Application
+
+The Rules in this section do not apply where the Authorised Person undertakes:
+
+(a)
+
+a Transaction with a Professional Client which is a Market Counterparty;
+
+(b)
+
+an Execution-Only Transaction;
+
+(c)
+
+the Regulated Activities of Accepting Deposits, Providing Credit, Operating a

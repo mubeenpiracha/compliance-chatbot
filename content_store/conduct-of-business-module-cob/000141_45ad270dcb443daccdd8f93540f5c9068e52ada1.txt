@@ -1,0 +1,139 @@
+ exchange rates, the process for notifying changes to rates and
+
+when the changes take effect; and
+
+(c)
+
+details of any fees and charges for adding funds to Stored Value and for early or late redemption of Stored Value.
+
+A7.1.3 Transmission of Information
+
+An Authorised Firm must inform a User of:
+
+(a) how, and in what form, information and communications relating to the services will be transmitted to the User, including timing, frequency and language;
+
+223
+
+COB/VER48/03-25
+
+CONDUCT OF BUSINESS (COB)
+
+(b) any technical requirements for the User’s equipment and software to receive
+
+information and communications; and
+
+(c)
+
+the User’s right to obtain a copy of such information or communications and the Client Agreement.
+
+A7.1.4 Safeguards and corrective measures
+
+An Authorised Firm must provide to a User:
+
+(a) a description of the steps the User needs to take in order to keep a Payment
+
+Instrument safe;
+
+(b) information on how the User may notify the firm of the loss, theft or
+
+misappropriation of a Payment Instrument;
+
+(c) details of the procedure the firm will follow to contact the User in the event of
+
+suspected or actual fraud or a security threat;
+
+(d) details of the circumstances under which the firm proposes to reserve the right
+
+to stop or prevent the use of a Payment Instrument;
+
+(e) information on the circumstances in, and the extent to which, the User may be
+
+liable for unauthorised Payment Transactions;
+
+(f) information:
+
+(i) on how the User must notify the firm of any unauthorised transactions; and
+
+(ii) informing the User that, to obtain redress, the notification must be made to the firm no later than 6 months from the date of the unauthorised transaction;
+
+(g) information about the firm’s liability for unauthorised transactions; and
+
+(h) information about the conditions under which a refund is payable to the User in
+
+relation to an unauthorised transaction initiated by a third party.
+
+A7.1.5 Confirmation of transactions
+
+An Authorised Firm must provide to the User:
+
+(a) confirmation of the successful initiation of the Payment Transaction;
+
+(b) a reference to identify the Payment Transaction, and, where appropriate,
+
+information relating to the payee or payer;
+
+(c) the amount of the Payment Transaction in the currency of the Payment Order or
+
+currency of the relevant Payment Account;
+
+(d) any charges payable by the User in relation to the Payment Transaction, in
+
+accordance with Rule A7.1.2(a);
+
+(e) the currency exchange rate applied for the Payment Transaction and the
+
+amount of payment after conversion to that currency; and
+
+(f)
+
+the date the Money Services Provider received the Payment Order.
+
+Guidance
+
+1.
+
+The form and procedure for giving consent referred to in Rule A7.1.1(c) may include, for example, that consent may be given or verified: (a) in writing; (b) by a signature;
+
+224
+
+COB/VER48/03-25
+
+2.
+
+CONDUCT OF BUSINESS (COB)
+
+(c) by the use of a fingerprint; (d) by means of a payment card and PIN number: (e) over a secure password-protected website; (f) by telephone; or (g) by use of a password pin, password, verification code or phone number.
+
+In Rule A7.1.1(f) the spending limits include, for example, any card limits that apply to the User.
+
+225
+
+COB/VER48/03-25
+
+CONDUCT OF BUSINESS (COB)
+
+A7.2 Rights and obligations of parties
+
+Guidance
+
+This table sets out the requirements that must be complied with by an Authorised Firm under section 13.5.
+
+A7.2.1
+
+Charges
+
+(1) An Authorised Firm must ensure that fees and charges imposed on a User
+
+are reasonable.
+
+(2) An Authorised Firm must ensure that the quoted currency rate, fees and charges accurately reflect the rates, fees and charges expected to be applied when the Payment Transaction is executed.
+
+(3) The Authorised Firm must ensure, except where the payer and payee have
+
+agreed otherwise, that:
+
+(a) the payee pays any charges levied by the payee’s Money Services
+
+Provider; and
+
+(b) the payer pays any charges levied

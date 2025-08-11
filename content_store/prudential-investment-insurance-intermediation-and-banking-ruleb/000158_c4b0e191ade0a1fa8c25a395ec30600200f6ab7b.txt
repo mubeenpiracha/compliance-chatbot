@@ -1,0 +1,111 @@
+ portion with E equal to the latest fair value of the eligible financial Collateral; and
+
+(ii)
+
+an uncollateralised portion with E equal to the E of the CR Exposure less the latest fair value of the eligible financial Collateral;
+
+and
+
+(b)
+
+for the purposes of calculating the Credit RWA amount pursuant to Rule 4.8.3, use:
+
+(i)
+
+for the collateralised portion, the CRW that is applicable to the eligible financial Collateral as though the Authorised Person had a direct Exposure to that Collateral; and
+
+(ii)
+
+for the uncollateralised portion, the CRW that is applicable to the obligor.
+
+A4.3.28
+
+If the CRW determined in accordance with A4.3.27(b)(i) is less than 20%, an Authorised Person must apply a CRW of 20% to the collateralised portion of the CR Exposure, except in the following cases:
+
+(a)
+
+a qualifying SFT where the Counterparty in the transaction is a core market participant, in which case the Authorised Person may apply a risk weight of 0%;
+
+(b)
+
+a qualifying SFT where the Counterparty in the transaction is not a core market participant, in which case the Authorised Person may apply a risk weight of 10%;
+
+(c)
+
+an OTC Derivative transaction subject to daily mark-to-market that is collateralised by cash, and where there is no currency mismatch, in which case the Authorised Person may apply a risk weight of 0%;
+
+(d)
+
+an OTC Derivative transaction subject to daily mark-to-market that is collateralised by Exposures to central governments, central banks or PSE or a combination thereof qualifying for a 0% risk weight in accordance with the Rules in Chapter 4, and where there is no currency mismatch, in which case the Authorised Person may apply a risk weight of 10%; and
+
+(e)
+
+a transaction where there is no currency mismatch and the Collateral comprises -
+
+285
+
+PRU VER17.290725
+
+(i)
+
+cash on Deposit as set out in Rule 4.13.5(a); or
+
+(ii)
+
+Exposures in the central government and central bank asset class or in the PSE asset class or a combination thereof qualifying for a 0% risk weight under the Rules in Section 4.12, and the latest fair value of such Collateral has been discounted by 20% for the purposes of determining the value of the collateralised portion of the CR Exposure in accordance with Rule A4.3.27(a)(i), in which case the Authorised Person may apply a CRW of 0%.
+
+A4.3.29 An Authorised Person which is using FCSA must not recognise the effects of CRM of
+
+any Collateral with a Maturity Mismatch.
+
+A4.4
+
+Qualifying Securities Financing Transactions (SFTs)
+
+A4.4.1
+
+A qualifying SFT must comply with the following requirements:
+
+(a)
+
+both the Exposure and the Collateral are cash, or a Security issued by a central government or central bank qualifying for a 0% risk weight under the Rules in Section 4.12;
+
+(b)
+
+both the Exposure and the Collateral are denominated in the same currency;
+
+(c)
+
+either the transaction is overnight or both the Exposure and the Collateral are marked-to-market daily and are subject to daily remargining;
+
+(d)
+
+following a Counterparty's failure to remargin, the time that is required between the last mark-to-market before the failure to remargin and the liquidation of than four business days;
+
+the Collateral
+
+is considered
+
+to be no more
+
+(e)
+
+the transaction is settled across a recognised settlement system for that type of transaction;
+
+(f)
+
+is standard market the documentation covering documentation for repos, reverse repos, Securities, lending transactions or Securities borrowing transactions in the Securities concerned;
+
+the agreement
+
+(g)
+
+the transaction is governed by documentation specifying that if the Counterparty fails to satisfy an obligation to deliver cash or Securities or to deliver margin, or otherwise defaults, then the transaction may be terminated immediately; and
+
+(h)
+
+upon any event of default, regardless of whether the Counterparty is insolvent or bankrupt, the Authorised Person has the unfettered, legally enforceable right to immediately seize and liquidate the Collateral for the benefit of the Authorised Person.
+
+A4.5
+
+Requirements for use of Va

@@ -1,0 +1,97 @@
+ to fail financially or operationally.
+
+2.
+
+The risk management systems required by the Rules should be integrated with the operational processes of a business. Insurers are expected to instil a strong risk control culture throughout their operations, so that material risks and potential problems that emerge can be identified, managed and promptly resolved in the normal course of business operations. The absence of such a control culture is likely to be taken as evidence that more specific control objectives are unlikely to be attained.
+
+A2.3 Risk management systems
+
+Guidance
+
+1.
+
+The Rules require an Insurer to develop, implement and maintain sound and prudent risk management systems, appropriate to the size, business mix and complexity of the Insurer’s operations. The responsibility for ensuring compliance lies with the Governing Body and senior management of the Insurer.
+
+2.
+
+The nature and extent of the systems and controls which an Insurer will need to maintain will depend upon a variety of factors including:
+
+a.
+
+the nature, size and complexity of its business;
+
+b.
+
+the diversity of its operations, including geographical diversity;
+
+c.
+
+the volume and size of its transactions; and
+
+d.
+
+the degree of risk associated with each area of its operations.
+
+3.
+
+To enable it to comply with its obligation to maintain appropriate systems and controls, an Insurer should regularly review its management of risk in the context of relevant environmental and operational factors and changes in those factors.
+
+4.
+
+The Rules lay down certain minimum processes and procedures that must be maintained by Insurers. These include a written risk management strategy, risk management policies and procedures, and allocated responsibilities and controls.
+
+5.
+
+The risk management strategy should cover not only the identification, assessment, control and monitoring of risks but also contingency plans to deal with the crystallisation of risks or adverse developments in important areas of risk. This will be assisted by stress and scenario testing tailored to the risk characteristics of the Insurer.
+
+6. While the risk management systems of an Insurer must address all material risks, section 2.3 lays down specific requirements for an Insurer to maintain risk management systems in respect of the following areas:
+
+a.
+
+balance sheet and market risk;
+
+b.
+
+credit quality risk;
+
+c.
+
+non-financial or operational risk;
+
+52
+
+PIN/VER18/04-23
+
+PRUDENTIAL – INSURANCE BUSINESS (PIN)
+
+d.
+
+reinsurance risk; and
+
+e.
+
+Group risk.
+
+7.
+
+An Insurer should have regard to the need for adequate risk management systems at the level of any Group the Insurer is a member of (subject to exemptions for Groups that are intermediate Groups or Groups that are headed by Insurers, in which case the holding company is already subject to the risk management requirements in its own right). The Insurer bears a responsibility to take reasonable actions to ensure that the Group as a whole complies with the risk management requirements of the Rules. Although an Insurer may not be in a position to control the risk management systems of the Group, Group risk management systems are likely to have a material impact on the exposure of the Insurer to risks arising from its membership of the Group.
+
+8.
+
+Further considerations in respect of Group risk generally are contained in section A2.5.
+
+9.
+
+The Rules do not prohibit an Insurer from outsourcing its risk management systems. Where the Insurer is a member of a Group, it may be practicable for some processes to be performed on a Group-wide basis. An Insurer would not normally outsource risk management systems outside the Group. However the Insurer remains responsible under the Rules for the adequacy of its risk management systems, whether or not those processes are outsourced. Senior management cannot delegate their regulatory responsibility for ensuring that the Insurer’s risk management systems are adequate. The fact that a system is partially or wholly outsourced would be a factor in the Insurer’s assessment of whether the system was adequate. To decide whether any system is adequate, senior management would be expected to have assessed the design and operation of the system, including the design and the operations of controls over outsourcing decisions and monitoring. Because an Insurer must be in a position to demonstrate that it has complied with its regulatory requirements, adequate documentary evidence of these assessments should be maintained.
+
+10.
+
+Further considerations in respect of outsourcing generally are contained in A2.13.
+
+A2.4 Control mechanisms
+
+Guidance
+
+1.
+
+An Insurer should have appropriate control mechanisms in place to ensure that the policies and procedures established for risk management are adhered

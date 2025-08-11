@@ -1,0 +1,149 @@
+the name and address of the Person giving the notice; and
+
+(b)
+
+the details relating to the notifiable interest, including the date on which the notifiable interest arose or changed.
+
+Market Disclosure
+
+7.4.4 Upon receiving a notice relating to a notifiable interest, the Reporting Entity must, as soon
+
+as possible, make a Disclosure of that notice in accordance with Rule 7.7.1.
+
+7.5
+
+Power to direct Disclosure
+
+Guidance
+
+Section 84 of FSMR gives the Regulator the power to direct a Reporting Entity to Disclose specified information or take such other steps as the Regulator considers appropriate where it is satisfied that it is in the interest of ADGM to do so.
+
+7.5.1
+
+(1)
+
+The Regulator may, pursuant to its power under section 84 of FSMR, issue a written notice directing a Reporting Entity (a "Direction Notice") to disclose
+
+Confidential
+
+87
+
+MKT VER09.020125
+
+specified information and to take any other steps as the Regulator considers appropriate in the following circumstances:
+
+(a)
+
+where a Reporting Entity fails to comply with an obligation to Disclose any information under FSMR and these Rules;
+
+(b)
+
+to correct or prevent a false market if the Regulator considers that there is or is likely to be a false market in a Listed Entity's Securities;
+
+Guidance
+
+The Regulator would consider, for example, that there is, or is likely to be, a false market in the Listed Entity’s Securities if:
+
+(i)
+
+a Listed Entity/Reporting Entity has information that has not been Disclosed, for example, due to Rule 7.2.1(4) applying;
+
+(ii)
+
+there is a reasonably specific media comment or rumour concerning the Listed Entity that has not been confirmed or clarified by a Disclosure by the Reporting Entity; and
+
+(iii)
+
+there is evidence that the comment or rumour is having, or the Regulator considers that the comment or rumour is likely to have, a significant impact on the price of the Listed Entity’s Securities.
+
+(c)
+
+where it is in the interests of:
+
+(i)
+
+actual or potential investors;
+
+(ii)
+
+market integrity; or
+
+(iii)
+
+ADGM.
+
+(2)
+
+A Reporting Entity which receives a Direction Notice issued pursuant to (1) must comply with the terms of that notice.
+
+7.6
+
+Other matters that require Disclosure
+
+7.6.1 A Reporting Entity must Disclose in accordance with Rule 7.7.1 the matters specified in
+
+APP 2.
+
+7.7 Manner of Disclosure
+
+7.7.1
+
+(1)
+
+When a Reporting Entity is required to make a Disclosure of any information, such information must be released to the market by way of a Disclosure made via the Regulator’s disclosure platform.
+
+(2)
+
+Without prejudice to its obligations relating to Disclosure, a Reporting Entity must take reasonable care to ensure that any information it is required to Disclose is clear, fair, and not false, misleading, or deceptive.
+
+Confidential
+
+88
+
+MKT VER09.020125
+
+7.7.2
+
+[Deleted]
+
+7.7.3 A Reporting Entity must retain on its website all information that has been Disclosed for
+
+a period of one year following publication.
+
+7.8
+
+Trading Halts
+
+7.8.1 The Regulator may, at any time and upon the request of a Reporting Entity, halt trading on a Recognised Investment Exchange of Securities of a Listed Entity to enable the Listed Entity time to Disclose Inside information.
+
+Guidance
+
+The Regulator is not obliged to act upon any request by a Reporting Entity to halt trading.
+
+7.8.2 A Trading Halt imposed pursuant to Rule 7.8.1 cannot exceed two Business Days or such
+
+shorter period as the Regulator agrees.
+
+7.8.3 The Regulator may impose a suspension in accordance with Rule 2.6 upon completion of the duration of the Trading Halt established under Rule 7.8.2, or at any time during the Trading Halt established under Rule 7.8.1.
+
+8.
+
+SYSTEMS AND CONTROLS
+
+8.1
+
+Application
+
+8.1.1 This chapter applies to:
+
+(1)
+
+every Listed Entity and Reporting Entity; and
+
+(2)
+
+the Board or the Governing Body of a Listed Entity and Reporting Entity,
+
+as applicable.
+
+Adequacy

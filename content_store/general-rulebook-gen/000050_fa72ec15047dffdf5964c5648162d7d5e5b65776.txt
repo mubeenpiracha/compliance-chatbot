@@ -1,0 +1,143 @@
+ to the proposed acquisition under Rule 8.8.7;
+
+(d) makes the proposed acquisition after the period for which the Regulator
+
+has deemed the approval to be effective under Rule 8.8.5(5);
+
+(e)
+
+breaches a direction in a restriction notice given under Rule 8.8.13(8); or
+
+(f)
+
+provides false information to the Regulator.
+
+(2)
+
+Any Contravention in (1) will entitle the Regulator to exercise its powers in Part 19 of FSMR.
+
+8.9
+
+Creation of additional Cell of a Protected Cell Company or an Incorporated Cell Company for an Insurer
+
+This Rule applies to Insurers that are Protected Cell Companies or Incorporated Cell
+
+Companies.
+
+Guidance
+
+1.
+
+An Insurer that is a Protected Cell Company is a company incorporated as, or converted into, a Protected Cell Company in accordance with the provisions of the Companies Regulations.
+
+2.
+
+An Insurer that is an Incorporated Cell Company is a company incorporated as, or converted into, an Incorporated Cell Company in accordance with the provisions of the Companies Regulations.
+
+A Protected Cell Company and an Incorporated Cell Company cannot be established in
+
+ADGM without the consent of the Regulator.
+
+An application to the Regulator in connection with the proposed establishment of a Protected Cell Company and an Incorporated Cell Company must be made in such form, and be accompanied by such Documents, as the Regulator may from time to time prescribe.
+
+An Insurer that is a Protected Cell Company or an Incorporated Cell Company may not
+
+create a new Cell unless approval has been granted by the Regulator.
+
+An application to the Regulator for the approval for the creation of a new Cell must be made in such form as the Regulator shall prescribe, and shall be accompanied by such Documents and information and verified in such manner, as the Regulator may require.
+
+8.9.6
+
+(1)
+
+The Regulator may:
+
+(a)
+
+grant approval;
+
+88
+
+GEN VER11.290725
+
+(b)
+
+grant approval with conditions or restrictions; or
+
+(c)
+
+refuse approval;
+
+for the creation of a new Cell.
+
+(2)
+
+The procedures in Part 21 of FSMR apply to a decision of the Regulator under (1)(b) and (1)(c).
+
+(3)
+
+If the Regulator decides to exercise its power under (1)(b) and (c), the Insurer may refer the matter to the Appeals Panel for review.
+
+8.10 Notifications
+
+(1)
+
+This Rule applies to every Authorised Person and Recognised Body, unless otherwise provided, with respect to the carrying on of Regulated Activities and any other activities whether or not financial.
+
+(2)
+
+This Rule does not apply to a Representative Office.
+
+Guidance
+
+1.
+
+This Chapter sets out Rules on specific events, changes or circumstances that require notification to the Regulator and outlines the process and requirements for notifications.
+
+2.
+
+The list of notifications outlined in this Chapter is not exhaustive. Other areas of the Rulebook may also detail additional notification requirements.
+
+3.
+
+Each Authorised Person, Recognised Body and its Auditors is also required under Part 16 and section 193 of FSMR respectively, to disclose to the Regulator any matter which may indicate a breach or likely breach of, or a failure or likely failure to comply with, Regulations or Rules. Each Authorised Person and Recognised Body is also required to establish and implement systems and procedures to enable its Auditors with notification requirements.
+
+its compliance and compliance by
+
+Core information
+
+Each Authorised Person must provide the Regulator with reasonable advance notice of
+
+a change in:
+
+(1)
+
+its name;
+
+(2)
+
+any business or trading name under which it carries on a Regulated Activity in or from ADGM;
+
+(3)
+
+the address of its principal place of business in ADGM;
+
+(4)
+
+in the case of a Branch, its registered office or head office address;
+
+89
+
+GEN VER11.290725
+
+(5)
+
+its legal structure; or
+
+(6)
+
+an Approved Person's name or any material matters relating to his fitness and propriety.
+
+A Domestic Firm must provide the Regulator with reasonable advance notice of the establishment or closure of a branch office anywhere outside the jurisdiction of ADGM from which it carries on Regulated Activities.
+
+When giving notice under Rule 8.10.3 in relation to the establishment of a branch, a Domestic Firm must at the same time submit to the Reg

@@ -1,0 +1,159 @@
+Defined Terms
+
+Agent
+
+Agreeing to Carry On Specified Kinds of Activity
+
+Allotment
+
+AML
+
+AML Return
+
+Ancillary Stabilisation
+
+Appeals Panel
+
+Applicant
+
+Appointed Fund Administrator
+
+Appointed Trustee
+
+Approval
+
+Definitions
+
+(a)
+
+its Fund Manager;
+
+(b)
+
+its Governing Body;
+
+(c)
+
+its Eligible Custodian;
+
+(d)
+
+its Trustee or other Persons providing oversight;
+
+(e)
+
+any Advisor;
+
+(f)
+
+a holder of 5% or more of the Units of the Fund; or
+
+(g)
+
+any Associate of any Person listed in paragraphs (a) to (f) of this definition.
+
+Means any Person who has been appointed by the Fund Manager of a Passported Fund to Promote the Units of that Passported Fund.
+
+Has the meaning given in paragraph 70 of Schedule 1 of FSMR.
+
+In relation to MKT Chapter 6, means the process or processes by which the number of Relevant Securities to be received by investors who have previously subscribed or applied for them is determined.
+
+Means the Anti-Money Laundering and Sanctions Rulebook.
+
+Means the Regulatory Return which is required to be completed by Relevant Persons in accordance with AML 4.6.
+
+In relation to MKT Chapter 6, means the exercise of an Overallotment Facility or of a Greenshoe Option by Authorised Persons, in the context of a Significant Distribution of Relevant Securities, exclusively for facilitation Stabilisation activity.
+
+Means the panel appointed by the Board in accordance with section 225 of FSMR.
+
+Has the meaning given in section 258 of FSMR.
+
+Has the meaning given in FUNDS 7.1.2(1)(a).
+
+Has the meaning given in FUNDS 7.1.2(1)(a).
+
+Means the approval granted in accordance with section 43 of FSMR.
+
+7
+
+GLO VER23.290725
+
+Defined Terms
+
+Approved Assets
+
+Approved Person
+
+Approved Stock Exchange
+
+Approved Prospectus
+
+Arboun
+
+Arranging Credit
+
+Arranging Deals in Investments
+
+Arranging Custody
+
+Definitions
+
+Means
+
+(1) A certificate of deposit with a maximum term to maturity of six
+
+months issued by and held with an Eligible Bank;
+
+(2) A term deposit with an Eligible Bank with a remaining term to
+
+maturity of one year or less;
+
+(3) A negotiable debt instrument, with a remaining term to maturity of five years or less, where the instrument, or issuer thereof, is Rated at least AA by Standard & Poor’s, or the equivalent by another rating agency;
+
+(4) A repurchase agreement which is fully collateralised with negotiable debt instruments meeting the rating criterion in (3), and where the credit rating of the counterparty also meets the criteria; or a bond fund meeting the rating criterion in (3) and where the designated bank account for redeemed investment is an Insurance Bank Account held by the Authorised firm in accordance with the requirement of COBS Rule 7.11.6.
+
+Means an individual who has been authorised by the Regulator to perform one or more Controlled Functions for an Authorised Person.
+
+A stock exchange designated as approved by a written notice from the Regulator, subject to any conditions that the Regulator may specify in that notice.
+
+In relation to Securities to which section 61 of FSMR applies, means a prospectus approved by the Regulator.
+
+Means a down payment in the form of a non-refundable deposit paid by a buyer and which gives the buyer the right to confirm or cancel a sale at a future date.
+
+Has the meaning given in paragraph 50 of Schedule 1 of FSMR.
+
+Has the meaning given in paragraph 16 of Schedule 1 of FSMR.
+
+In relation to:
+
+(a)
+
+COBS, means arranging for one or more Persons to Provide Custody; and
+
+(b)
+
+GEN and FEES, has the meaning given in paragraph 46 of Schedule 1 of FSMR.
+
+8
+
+GLO VER23.290725
+
+Defined Terms
+
+Arranging Deals in Investments
+
+Assets
+
+Assets Requirement
+
+Associate
+
+Definitions
+
+Has the meaning given in paragraph 16 of Schedule 1 of FSMR.
+
+Means, unless specified otherwise, collateral held to cover positions and includes the right to the transfer of assets equivalent to that collateral or the proceeds of the realisation of any collateral, but does not include Default Fund Contributions.
+
+Has the meaning given in FSMR.
+
+In

@@ -1,0 +1,99 @@
+ an Unrestricted PSIA should apply risk weightings for Islamic Contracts in respect of calculating relevant E and CRW for its PSIACOMcredit component of the PSIACOM.
+
+Table 2
+
+1. Islamic Contract type
+
+2. Underlying investment or asset
+
+3. CRW
+
+Binding Murabaha for the Purchase Orderer (MPO)
+
+Asset with an Authorised Firm before purchase by the Counterparty
+
+CRW in accordance with PIB Rule A4.6.2
+
+Murabaha and Non-binding Murabaha for the Purchase Orderer (MPO) Mudaraba and Musharaka
+
+Accounts receivable for the contract, i.e. amounts due from the Counterparty less any provision for doubtful debts Accounts receivable for the contract, i.e. amounts due from the Counterparty less any provision for doubtful debts Where the underlying investment meets the requirements for inclusion in the Trading Book
+
+CRW in accordance with PIB chapter 4
+
+CRW in accordance with PIB chapter 4
+
+Market Risk Capital Requirement for the exposure associated with the underlying investment determined in accordance with PIB chapter 5
+
+22
+
+IFR/VER21/03-25
+
+1. Islamic Contract type
+
+Ijarah/Ijarah Muntahia Bittamleek
+
+Full recourse Istisna’a -with or without parallel Istisna’a and limited / non-recourse Istisna’a with/without parallel Istisna’a Salam and parallel Salam
+
+Kefala
+
+Sukuk held in the Non- Trading Book
+
+ISLAMIC FINANCE RULES (IFR)
+
+2. Underlying investment or asset
+
+3. CRW
+
+Investment in commercial enterprise to undertake business ventures other than trading activities (or other than those which meet the requirements for inclusion in the Trading Book) Investment in real estate assets and other movable assets, using underlying Ijarah and Murabaha contracts
+
+Asset with an Authorised Firm available for lease before purchase by the Counterparty – for both contracts with both binding or non-binding promise to lease
+
+CRW of 400% on the exposure
+
+CRW of the lessee for the underlying Ijarah contracts or the CRW of the counterparty of the underlying Murabaha contract, in accordance with PIB App4 CRW in accordance with PIB Rule A4.6.2
+
+Residential real estate where the lessee has the right to purchase property at the end of the lease and the lessor has a legally enforceable first charge over the property Total estimated value of lease receivables for the whole duration of the Ijarah, less any recovery value of the leased asset Net balance of the work-in-progress
+
+CRW in accordance with PIB section 4.12
+
+CRW of Ijarah lessee, in accordance with PIB Section 4.12
+
+Total amount receivable from the counterparty, pursuant to contract billings
+
+CRW of the Istisna’a buyer, in accordance with PIB Section 4.12 CRW of Istisna’a buyer, in accordance with PIB Section 4.12
+
+Value of the underlying asset receivable for the Salam contract Assets acquired Balance in relevant accounts receivable CRW in accordance with PIB
+
+CRW in accordance with PIB Section 4.12 100%
+
+The amount of the guarantee
+
+Section 4.12 CRW in accordance with PIB Section 4.12
+
+Receivables from the Sukuk structure, including the principal and any returns associated with it, arising from any of the following as underlying contracts:
+
+CRW applicable to underlying Ijarah, Salam or Murabaha contracts, in accordance with PIB Section 4.12
+
+Salam Istisna’a Ijarah Murabaha Mudaraba Musharaka
+
+If the Sukuk provides recourse to the issuer, CRW applicable to the issuer or CRW applicable to underlying contracts of the Sukuk is in accordance with PIB Section 4.12, whichever is higher
+
+23
+
+IFR/VER21/03-25
+
+ISLAMIC FINANCE RULES (IFR)
+
+1. Islamic Contract type
+
+2. Underlying investment or asset
+
+3. CRW
+
+Usufructs/services
+
+Leased assets
+
+Investment agency
+
+CRW applicable to underlying service provider or usufruct owner, in accordance with PIB Section

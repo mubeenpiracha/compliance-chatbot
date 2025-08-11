@@ -1,0 +1,143 @@
+ Technical Study of the Mining Reporting Entity’s Mineral Resources and Ore Reserves Holdings.
+
+Non-Equivalent Estimates – Summary of Reserves and Resources
+
+11.7.6 If a Mining Reporting Entity has previously disclosed Non-Equivalent Estimates compliance with Rule 11.7.3 which have not subsequently been disclosed as Mineral Resources or Ore Reserves in accordance with a Mining Reporting Standard, then:
+
+(1)
+
+the Mining Reporting Entity must disclose in its Summary of Reserves and Resources, the:
+
+(a)
+
+steps it has taken in evaluating the previously disclosed Non-Equivalent Estimates;
+
+(b)
+
+status of any further evaluation and/or exploration work required to verify and disclose the Non-Equivalent Estimates as Mineral Resources or Ore Reserves in accordance with the Mining Reporting Standard; and
+
+(c)
+
+status of the proposed source of funding for the evaluation and/or exploration work referred to in Rule 11.7.6(1)(b); and
+
+Confidential
+
+126
+
+MKT VER09.020125
+
+(2)
+
+if it has been more than three years since the first disclosure of the Non- Equivalent Estimates under Rule 11.7.4 and those estimates have not been subsequently verified and disclosed as Mineral Resources or Ore Reserves in accordance with a Mining Reporting Standard, then the Mining Reporting Entity must disclose in its Summary of Reserves and Resources:
+
+(a)
+
+an explanation of why the Non-Equivalent Estimates have not been in verified and disclosed as Mineral Resources or Ore Reserves accordance with a Mining Reporting Standard; and
+
+(b)
+
+the Mining Reporting Entity’s intention, proposed timetable and proposed source of funding with regard to verifying and disclosing the Non- Equivalent Estimates as Mineral Resources or Ore Reserves in accordance with a Mining Reporting Standard.
+
+11.8 Production Targets
+
+11.8.1 A Mining Reporting Entity must not disclose a Production Target that is based wholly on:
+
+(1)
+
+an Exploration Target;
+
+(2)
+
+a combination of Inferred Mineral Resources and an Exploration Target; or
+
+(3)
+
+or in part on, Non-Equivalent Estimates.
+
+11.8.2 A Production Target may be disclosed by a Mining Reporting Entity in relation to:
+
+(1)
+
+the Mining Reporting Entity’s Mineral Resources and Ore Reserves Holdings; or
+
+(2)
+
+a material Mining Project of the Mining Reporting Entity (or two or more Mining Projects which, together, are material).
+
+11.8.3 A Mining Reporting Entity’s disclosure pursuant to Rule 11.8.2 must include:
+
+(1)
+
+in relation to the assumptions used to determine the Production Target:
+
+(a)
+
+all material economic assumptions employed; or
+
+(b)
+
+if the Mining Reporting Entity considers the material economic assumptions to be commercially sensitive, a statement to that effect and an explanation of the methodology used to determine the material economic assumptions; and
+
+Guidance
+
+A Mining Reporting Entity that considers certain information relating to the material economic assumptions to be commercially sensitive should refer to paragraphs 47-54 of the Guidance on Mining and paragraphs 127 and 128 of the Guidance on Continuous Disclosure.
+
+(c)
+
+all other material assumptions utilised.
+
+Confidential
+
+127
+
+MKT VER09.020125
+
+(2)
+
+if forecast commodity prices have been used in the determination of the Production Target, a statement that such forecast commodity pricing was arrived at on reasonable grounds.
+
+(3)
+
+the proportions of the Production Target based on:
+
+(a)
+
+Probable Ore Reserves and Proved Ore Reserves;
+
+(b)
+
+Indicated Mineral Resources and Measured Mineral Resources;
+
+(c)
+
+Inferred Mineral Resources; and
+
+(d)
+
+an Exploration Target.
+
+(4)
+
+a statement that the respective proportions of Inferred Mineral Resources and the Exploration Target (if applicable) are not the determining factors in the viability of the Production Target and do not feature as a significant proportion in the early mine plan;
+
+(5)
+
+if the Production Target is wholly based on Inferred Mineral Resources:
+
+(a)
+
+an explanation as to why the Mining Reporting Entity believes it has a reasonable basis for disclosing a Production Target wholly based on Inferred Mineral Resources;
+
+(b)
+
+the level of confidence in relation to which the Inferred Mineral Resources are estimated and the basis for that level of confidence;
+
+(c)
+
+a Technical Study of a sufficient level of confidence to support the Production Target, prepared by, or under the supervision of, a named independent Competent Person(s); and
+
+(d)
+
+an at least equally prominent, and proximate, statement to the effect that:
+
+“The level of geological confidence associated with inferred

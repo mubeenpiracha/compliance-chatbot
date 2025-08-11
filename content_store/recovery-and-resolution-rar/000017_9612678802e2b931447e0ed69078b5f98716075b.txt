@@ -1,0 +1,87 @@
+ Tool
+
+3.3.3 Where an Authorised Firm is not a Branch, if a transfer under the Sale of Business Tool is effected by way of a transfer of Shares of the Authorised Firm in Resolution, the Authorised Firm may exercise any rights following the transfer that it was entitled to exercise before the transfer.
+
+Rights of the purchaser under the Sale of Business Tool
+
+3.3.4
+
+(1) Where a transfer under the Sale of Business Tool results in the purchaser acquiring activities or services that require it to be an Authorised Firm, the purchaser may, subject to it satisfactory complying with any other regulatory requirements, continue to operate the business without complying with the requirement for authorisation in the DIFC for a period not exceeding six months, within which period the purchaser must apply for authorisation in the DIFC.
+
+(2) Where a transfer under the Sale of Business Tool has been effected by a transfer of rights, assets and liabilities, the purchaser is entitled to exercise any such rights following the transfer that the Authorised Firm in Resolution was entitled to exercise before the transfer and is subject to all such liabilities, including membership rights and access to AMIs, Regulated Exchanges, payment systems, Central Counterparties, Securities Settlement Systems and Central Securities Depositories and rights and liabilities between such entities and the purchaser, provided that the purchaser meets the criteria for such membership or participation in such systems.
+
+(3) Shareholders and creditors of an Authorised Firm in Resolution and other third parties whose rights, assets and liabilities are not transferred under the Sale of Business Tool shall not have any rights over or in relation to the rights, assets or liabilities transferred.
+
+Marketing of rights, assets, liabilities or Shares
+
+3.3.5
+
+(1) Except as provided in (4) and Rule 3.3.6, when the DFSA applies the
+
+Sale of Business Tool to an Authorised Firm, it:
+
+(a)
+
+shall market or arrange for the marketing of the rights, assets, liabilities or Shares that the DFSA intends to transfer; and
+
+(b)
+
+may market separately under (a) pools of rights, assets, liabilities or Shares.
+
+(2) The DFSA shall ensure that marketing under (1):
+
+(a)
+
+involves good faith efforts not to materially misrepresent the rights, assets, liabilities, or Shares that the DFSA intends to transfer, having regard to the circumstances and in particular the need to maintain financial stability;
+
+(b)
+
+does not unduly favour or discriminate between identified potential purchasers;
+
+(c)
+
+is free from conflicts of interest;
+
+(d)
+
+does not confer any unfair advantage on a potential purchaser;
+
+28
+
+RAR/VER1/04-20
+
+RECOVERY AND RESOLUTION (RAR)
+
+(e)
+
+takes account of the need to effect a rapid Resolution Action; and
+
+(f)
+
+aims to maximise, as far as possible, the sale price for the rights, assets, liabilities or Shares involved.
+
+(3) The principles in (2) do not prevent the DFSA from soliciting particular
+
+potential purchasers.
+
+(4) The DFSA may apply the Sale of Business Tool to an Authorised Firm without complying with the requirement to market under (1)(a) if the DFSA determines that compliance with such requirements is likely to undermine one or more of the Resolution Objectives and, in particular, if the DFSA considers that complying with the requirement is likely to undermine the effectiveness of the Sale of Business Tool in addressing the failure or likely failure identified under Article 84K(2) of the Law or achieving the Resolution Objectives.
+
+Residual Institution to be Wound Up
+
+3.3.6
+
+If the Sale of Business Tool has been used to transfer Critical Functions or the viable business of an Authorised Firm to a private sector purchaser, the Residual Institution shall be wound up under insolvency proceedings, within an appropriate timeframe, having regard to any need for the Residual Institution to provide services or support to enable the purchaser to carry on the activities or services acquired by virtue of that transfer.
+
+3.4 The Bail-In Tool
+
+Application of Bail-in Tool
+
+3.4.1
+
+(1)
+
+The DFSA may exercise one or more Resolution Powers, in particular the Write Down or Conversion Power as set out in rule 3.2.5 in order to apply the Bail-in Tool to an Authorised Firm.
+
+(2)
+
+The Bail-in Tool may be applied in respect of any capital instrument and liability

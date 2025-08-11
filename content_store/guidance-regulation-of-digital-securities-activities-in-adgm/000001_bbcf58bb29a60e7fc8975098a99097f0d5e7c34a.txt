@@ -1,0 +1,41 @@
+ – Regulatory Framework for Private Financing Platforms’.3
+
+2) This Guidance is applicable to entities considering the use of, or using, ‘Digital Securities’ within ADGM, including activities undertaken by Recognised Investment Exchanges (RIEs), Multilateral Trading Facilities (MTFs), Issuers, Reporting Entities, Authorised Persons conducting a Regulated Activity in relation to Virtual Assets, and Authorised Persons Providing Custody or Operating a Private Financing Platform (‘PFP’), amongst others. The Guidance clarifies the use of Digital Securities within ADGM for both primary market and secondary market contexts. Readers seeking clarity on the licensing requirements for activities in relation to Virtual Assets should refer to the Virtual Asset Guidance.
+
+3) For the purposes of this Guidance, ‘Digital Securities’ are defined are types of digital assets that possess the features and characteristics of a Security (as defined in Schedule 1 – Part 3 of Specified Investments of FSMR).4 Digital Securities also include ‘tokenised’ offerings of Securities.
+
+4) This Guidance is separated into distinct chapters and is not necessarily best read from front to back. This Guidance may be most useful to a reader who needs to understand a specific aspect of FSRA policy in relation to Digital Securities, and who may therefore wish to better understand FSRA’s regulatory treatment in the context of the reader’s individual circumstances. Examples of such specific aspects could include (but are not limited to): a) a potential Issuer seeking to make an Offer of Digital Securities into ADGM;
+
+b) Issuers/Reporting Entities seeking to have Digital Securities admitted to the Official
+
+List of Securities;
+
+c) an MTF (using Virtual Assets) wanting to become a Digital Securities trading venue, whether that be as a RIE (refer to paragraphs 68 – 72) or an MTF (refer to paragraphs 63 -67);
+
+1 https://en.adgm.thomsonreuters.com/rulebook/guidance-regulation-digital-security-offerings-and-virtual- assets-under-financial-services 2 https://en.adgm.thomsonreuters.com/rulebook/guidance-regulation-virtual-asset-activities-adgm 3 https://en.adgm.thomsonreuters.com/rulebook/guidance-regulatory-framework-private-financing-platforms 4 Securities, as set out in Schedule 1 of FSMR, include the following,: Shares (paragraph 87); Instruments creating of acknowledging indebtedness (paragraph 88); Sukuk (paragraph 89); Government and public Financial Instruments (paragraph 90); Instruments giving entitlements to investments (paragraph 91); Certificates representing certain Financial Instruments (paragraph 92); and Units in a Collective Investment Fund (paragraph 93).
+
+VER02.240220
+
+4
+
+d) a ‘conventional’ RIE or MTF wanting to operate a Digital Securities trading venue
+
+(refer to paragraphs 41 – 44 for RIEs and paragraphs 45 – 48 for MTFs);
+
+e) an Authorised Person that is Providing Custody in relation to Virtual Assets (a “Virtual Asset Custodian”), seeking to provide Digital Settlement Facility services (refer to paragraphs 73 - 75);
+
+f) a ‘conventional’ intermediary, such as a broker, custodian, advisor, fund manager or asset manager, seeking to provide its services in relation to Digital Securities (refer to paragraphs 87-92); or
+
+g) an Operator of a PFP seeking to market Digital Securities on its electronic platform
+
+(refer to paragraphs 93 - 96).
+
+5) Except as otherwise set out, when interpreting (and demonstrating compliance with) the Rules discussed in this Guidance, readers are to interpret the Rules referenced in this Guidance (for example, in relation to the MIR, MKT, COBS, GEN and AML Rulebooks) in the way those Rules are written. Where this Guidance cross refers to the Virtual Assets Guidance, it is the FSRA’S general expectation that readers apply those relevant aspects of the Virtual Assets Guidance in the context of Digital Securities, with such changes in terminology being read (and understood) as required.
+
+6) This Guidance is not an exhaustive source of the FSRA’s policy on the exercise of its regulatory functions and powers. The FSRA is not bound by the requirements set out in this Guidance and may:
+
+a) impose additional requirements to address any specific risks posed by Digital
+
+Securities; and/or
+
+b) waive

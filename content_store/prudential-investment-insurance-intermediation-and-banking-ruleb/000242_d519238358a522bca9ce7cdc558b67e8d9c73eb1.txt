@@ -1,0 +1,135 @@
+FR derivative assets are greater than NSFR derivative liabilities
+
+NSFR Shari’a compliant hedging assets net of NSFR Shari’a compliant hedging liabilities (where NSFR Shari’a compliant hedging assets are greater than NSFR Shari’a compliant hedging liabilities)
+
+100%
+
+all other assets not included in the above categories, including non- performing loans, loans to financial institutions with a residual maturity of one year or more, non-exchange-traded equities, fixed assets, items deducted from regulatory capital, retained interest, insurance assets, subsidiary interests and defaulted securities
+
+20% of derivative liabilities (i.e. negative replacement cost amounts) as calculated according to A10.4.4(a) (before deducting variation margin posted)
+
+20% of Shari’a compliant hedging liabilities
+
+Guidance
+
+Guidance on the characteristics of “operational” Deposits is given under Rule A10.2.15.
+
+A10.4.17 For encumbered assets not captured in the table in Rule A10.4.16, an Authorised Person must assign an RSF factor for Required Stable Funding in accordance with the following.
+
+(a)
+
+Assets encumbered for a period of between six months and less than one year that would, if unencumbered, receive an RSF factor lower than or equal to 50% must receive an RSF factor of 50%.
+
+(b) Assets encumbered for between six months and less than one year that would, if unencumbered, receive an RSF factor higher than 50% retain that higher RSF factor.
+
+(c) Where assets have less than six months remaining in the encumbrance period, those assets may receive the same RSF factor as an equivalent asset that is unencumbered.
+
+(d)
+
+For the purposes of calculating the NSFR, assets that are encumbered for exceptional central bank liquidity operations must receive the RSF factor that they would if they were unencumbered.
+
+A10.4.18 An Authorised Person must calculate the Required Stable Funding that it needs for
+
+the assets to which Rule A10.4.17 applies by:
+
+427
+
+PRU VER17.290725
+
+(a) multiplying the Carrying Value of each of those assets by the RSF factor
+
+identified in Rule A10.4.17; and
+
+(b)
+
+summing those weighted values.
+
+A10.4.19 An Authorised Person must calculate the Required Stable Funding that it needs for its off-balance sheet items, including potential liquidity exposures, by:
+
+(a)
+
+assigning each off-balance sheet items to one of the RSF off-balance categories in the following table;
+
+(b) multiplying the value of each of those items by the RSF factor associated with
+
+that off-balance sheet category; and
+
+(c)
+
+summing those weighted values.
+
+RSF factor
+
+RSF off-balance sheet category
+
+5% of the currently undrawn portion
+
+
+
+Irrevocable and conditionally revocable credit and liquidity facilities to any client
+
+Other contingent funding obligations, including products and instruments such as:
+
+5%
+
+o unconditionally revocable credit and liquidity facilities
+
+n o i t e r c s d
+
+i
+
+3%
+
+10%
+
+o
+
+trade finance-related obligations (including guarantees and letters of credit)
+
+o guarantees and letters of credit unrelated to trade finance
+
+obligations
+
+l
+
+a n o i t a N
+
+100%
+
+o non-contractual obligations such as:
+
+▪ potential requests for debt repurchases of the bank’s own debt or that of related conduits, securities investment vehicles and other such financing facilities
+
+▪ structured products where customers anticipate ready
+
+marketability, such as adjustable rate notes and variable rate demand notes (VRDNs)
+
+▪ managed funds that are marketed with the objective of
+
+maintaining a stable value
+
+428
+
+PRU VER17.290725
+
+APP11 SUPERVISORY REVIEW AND EVALUATION PROCESS
+
+A11.1
+
+IRAP
+
+Guidance
+
+Application
+
+1.
+
+This Guidance in Section 10.3 (that is, a firm in Category 1, 2, 3A, 3B, 3C, or 5) in regard to an Internal Risk Assessment Process (referred to in this Guidance as an IRAP).
+
+is relevant
+
+to an Authorised Person described
+
+2.
+
+The following Guidance generally assumes that the Rules relating to

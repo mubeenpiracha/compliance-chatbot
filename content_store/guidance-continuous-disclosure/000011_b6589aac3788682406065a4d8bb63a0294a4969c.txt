@@ -1,0 +1,43 @@
+ in this context as the mere passing of time between when a Reporting Entity first becomes obligated to make a Disclosure and when it actually makes the Disclosure, but rather deferring or postponing the Disclosure to a later time. 15 This may arise where there has been a leak of information (loss of confidentiality) about a transaction under negotiation, and the Reporting Entity considers it appropriate to delay the Disclosure until after negotiations have concluded and therefore release a more definitive and informative Disclosure than if it was to make an immediate Disclosure relating to the current state negotiations.
+
+12
+
+VER01.280922
+
+complete a complex transaction, or set of transactions, that is critical to its continued financial viability.
+
+56) The Listing Authority strongly recommends that where a Reporting Entity is considering, or unsure about, requesting a Trading Halt or Suspension (to cover the period of time needed for the Reporting Entity to make its Disclosure of Inside Information), the Reporting Entity should contact the Listing Authority to discuss the situation at the earliest opportunity. If a Reporting Entity decides not to request a Trading Halt or Suspension (to stop or prevent the Listed Entity’s Securities trading on an RIE ahead of the Disclosure of Inside Information), the Listing Authority encourages the Reporting Entity to monitor the various matters set out in paragraph 88 below, in order to monitor whether the Inside Information remains confidential. If a Reporting Entity does detect that confidentiality is lost, the Reporting Entity should contact the Listing Authority immediately to discuss whether it is appropriate to request a Trading Halt or Suspension.
+
+Listing Authority process for granting a Trading Halt / Suspension
+
+58) Not every circumstance in which a Reporting Entity intends to Disclose, but has not Disclosed, Inside Information (on the basis of one of the examples in paragraph 53 above), will warrant a Trading Halt or a Suspension. On this basis, when a Reporting Entity makes a request to the Listing Authority for a Trading Halt or Suspension (pursuant to Rule 7.8, or Rules 2.6 and 2.6.3, as applicable), to allow it the time needed to prepare, and release, the Disclosure of Inside Information under Rule 7.2.1, the Listing Authority will usually ask the Reporting Entity to outline the: nature of the Inside Information in question;16
+
+b)
+
+reasons for requesting the Trading Halt or Suspension;
+
+c)
+
+event expected to occur which will conclude the Trading Halt or Suspension; and
+
+d)
+
+intended scope of, and timing for, the release of the Disclosure;
+
+and assess for itself whether the circumstances warrant the granting of the Trading Halt or Suspension.
+
+59)
+
+If the Listing Authority considers that the information is of a nature that is unlikely to be Inside Information or that the circumstances do not warrant the granting of a Trading Halt or Suspension, the Listing Authority may decline the request and require the Reporting Entity to make its Disclosure as quickly possible. The Listing Authority, however, considers the likelihood of this occurring to be quite rare.
+
+60) When granting a Trading Halt or Suspension, the Listing Authority will normally Disclose both its notice of Trading Halt or Suspension, and the written request (setting out the details in paragraph 58 above) sent by the Reporting Entity to the Listing Authority, immediately upon granting the Trading Halt or Suspension.
+
+16 Which is intended to form the basis for the Disclosure of Inside Information made by the Reporting Entity in due course, and lift the Suspension imposed by the Listing Authority (if granted by the Listing Authority).
+
+13
+
+VER01.280922
+
+61) At the point in time when the Reporting Entity is in a position to make the Disclosure of the Inside Information (as it relates to paragraph 58c) above), the Listing Authority recommends that the Reporting Entity share the draft Disclosure (that will be the basis for lifting the Trading Halt or Suspension) prior to it being submitted to and released onto the FSRA Disclosure Platform, to allow the Listing Authority to review the draft Disclosure. When the Listing Authority has formed the view that the Disclosure is suitable for release, upon the Reporting Entity submitting it into the FSRA Disclosure Platform, the Listing Authority will simultaneously release the relevant Disclosure and its notice formally lifting the Trading Halt or Suspension. 62)
+
+61) At the point in time when the Reporting Entity is in a position to make the Disclosure of the Inside Information (as it relates to paragraph 58c) above), the Listing Authority recommends that the Reporting Entity share the draft Disclosure

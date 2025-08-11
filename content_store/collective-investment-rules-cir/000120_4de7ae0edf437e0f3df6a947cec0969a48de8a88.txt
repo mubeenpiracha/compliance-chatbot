@@ -1,0 +1,158 @@
+ to that effect.
+
+189
+
+CIR/VER38/08-24
+
+COLLECTIVE INVESTMENT RULES (CIR)
+
+7.2 Sufficient information to enable investors to understand:
+
+(a) the ETF’s cost structure, covering:
+
+(i)
+
+any performance fees of the Fund Manager, if applicable;
+
+(ii)
+
+its operational costs; and
+
+(iii)
+
+if applicable, costs of underlying transactions (such as swaps, brokerage commissions and additional costs associated with leverage or use of collateral, and the rebalancing of the portfolio costs); and
+
+(b) any revenue derived by the Fund Manager through the use of the ETF’s portfolio assets, and how that revenue is distributed between the ETF and the Fund Manager.
+
+Additional mandatory disclosure for Funds on a Fund Platform
+
+1.
+
+A Fund Manager of a Fund that is an Incorporated Cell of an Incorporated Cell Company must ensure that the Fund Prospectus includes information that:
+
+(a)
+
+the Fund is an Incorporated Cell of an ICC;
+
+(b)
+
+the Fund, being an Incorporated Cell:
+
+(i)
+
+is a separate legal entity to the ICC and to any other Incorporated Cells of the ICC; and
+
+(ii)
+
+does not have a subsidiary or holding company relationship with the ICC;
+
+(c)
+
+the ICC, which is the Fund Platform, contains the infrastructure needed by the Fund Manager for managing the Fund; and
+
+(d)
+
+the Fund Manager is:
+
+(i)
+
+responsible for the sound and prudent operation of the Fund Platform; and
+
+(ii)
+
+liable for any acts or omissions of the Fund Platform in respect of the Fund.
+
+190
+
+CIR/VER38/08-24
+
+App 8 Guidance for Hedge Fund Managers
+
+Click here to view the DFSA’s Hedge Fund Code of Practice
+
+191
+
+COLLECTIVE INVESTMENT RULES (CIR)
+
+CIR/VER38/08-24
+
+COLLECTIVE INVESTMENT RULES (CIR)
+
+APP9 USE OF PRICE INFORMATION PROVIDERS
+
+A9.1 Application
+
+A9.1.1 This Appendix applies to a Fund Manager of:
+
+(a)
+
+an Exchange Traded Fund; or
+
+(b)
+
+a Fund that has any Fund Property that consists of Crypto Tokens.
+
+Use of price information providers
+
+A9.1.2
+
+(1)
+
+A Fund Manager of an ETF may only use an index or other benchmark provided by a Price Information Provider for the purposes referred to in Rule 13.9.3 if it has undertaken appropriate due diligence to ensure that the Price Information Provider, on an on-going basis, meets the requirements set out in (3).
+
+(2)
+
+A Fund Manager of a Fund that has any Fund Property that consists of Crypto Tokens may only use an index or other benchmark provided by a Price Information Provider to value the Crypto Tokens if it has undertaken appropriate due diligence to ensure that the Price Information Provider, on an on-going basis, meets the requirements set out in (3).
+
+(3)
+
+The requirements relating to the Price Information Provider are that:
+
+(a)
+
+it has fair and non-discriminatory procedures for establishing prices of Investments or Crypto Tokens which are made public.
+
+(b)
+
+it can demonstrate adequate and appropriate transparency over the methodology, calculation and inputs to allow users to understand how the benchmark or index is derived and its potential limitations by:
+
+(i)
+
+making publicly available all the methodology, composition, components and value, and relative weighting of securities in each index or benchmark within a reasonable time frame as appropriate to the nature of the index and its users; and
+
+the rules
+
+that govern
+
+(ii)
+
+not making changes to the rules for index compilation without giving advance public notice before any changes are made;
+
+(c)
+
+where appropriate, it gives priority to concluded transactions in making assessments and adopts measures to minimise selective reporting;
+
+(d)
+
+it is of good standing and repute as an independent and objective price reporting agency or index provider;
+
+(e)
+
+it has a sound corporate governance framework;
+
+(f)
+
+it has adequate arrangements to avoid its staff having any conflicts of interest where such conflicts have, or are likely to have, a material
+
+192
+
+CIR/VER38/08-24
+
+COLLECTIVE INVESTMENT RULES (CIR)
+
+adverse impact on price establishment process, and in particular, it does not employ ETF staff, for the purposes relating to the creation, development or modification of the index compilation rules and their review; and
+
+(g)
+
+it has adequate complaint resolution mechanisms to resolve any complaints about the Price Information Provider’s assessment process and methodology.
+

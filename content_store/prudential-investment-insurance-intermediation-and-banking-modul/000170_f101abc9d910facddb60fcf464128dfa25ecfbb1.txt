@@ -1,0 +1,53 @@
+22. An Authorised Firm should be sensitive to rapid expansion of specific types of lending. Such trends may often be accompanied by deterioration of credit standards and thus merit increased focus on more marginal borrowers.
+
+23. An Authorised Firm should ensure through periodic independent audits that the credit approval function is being properly managed and that credit Exposures comply with prudential standards and internal limits. The results of such audits should be reported directly to the Governing Body, the credit committee or senior management as appropriate. Risk control
+
+24. An Authorised Firm should consider setting credit limits for maximum Exposures to single and Connected Counterparties, as well as limits for aggregate Exposures to economic sectors, geographic areas, and on total Credit Risk arising from specific types of products. By limiting Exposures in these categories, an Authorised Firm can manage credit Exposure more carefully and avoid excessive concentrations of risk. The Credit Risk policy of an Authorised Firm should include a policy to control and monitor Large Exposures and other risk concentrations. An Authorised Firm should carefully manage and avoid excessive risk concentrations of various kinds. These include Exposure to:
+
+a.
+
+individual borrowers (in particular Exposure exceeding 10% of the firm’s capital base);
+
+b.
+
+Groups of borrowers with similar characteristics, economic and geographical sectors; and
+
+c.
+
+types of lending with similar characteristics (e.g. those based on assets with similar price behaviour).
+
+26. Notwithstanding the Concentration Risk limit specified as part of the prudential Rules on Large Exposures, Authorised Firms should exercise particular care in relation to facilities exceeding 10% of capital base.
+
+262
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+27. Authorised Firms should recognise and control the Credit Risk arising from their new products and services. Well in advance of entering into business transactions involving new types of products and activities, they should ensure that they understand the risks fully and have established appropriate Credit Risk policies, procedures and controls, which should be approved by the Governing Body or its appropriate delegated committee. A formal risk assessment of new products and activities should also be performed and documented.
+
+28. An Authorised Firm in Category 1, 2, 3A or 5 is also subject to concentration limits and notification requirements as spelt out in chapter 4.
+
+Risk measurement
+
+29. An Authorised Firm should measure its Credit Risk using a robust and consistent methodology, which should be described in its Credit Risk policy. The Authorised Firm should consider whether the measurement methodology should be back-tested and the frequency of any such back-testing.
+
+30. An Authorised Firm should also be able to measure its total Exposure across the entire credit portfolio or within particular categories such as Exposures to particular industries, economic sectors or geographical areas.
+
+31. Where an Authorised Firm is a member of a Group, the Group should be able to monitor credit Exposures on a consolidated basis.
+
+32. An Authorised Firm should have the capability to measure its credit Exposure to individual Counterparties on at least a daily basis.
+
+33. Authorised Firms should analyse their credit portfolios to identify material inter-dependencies which can exaggerate risk concentrations. The importance can be illustrated by the contagion effects that a substantial decline in property or stock prices may have on the default rate of those commercial and industrial loans which rely heavily on such types of Collateral.
+
+34. Authorised Firms should establish a system of regular independent credit and compliance audits. These audits should be performed by independent parties, e.g. internal audit and compliance, which report to the Governing Body or the audit committee.
+
+35.
+
+Credit audits should be conducted to assess individual credits on a sampling basis and the overall quality of the credit portfolio. Such audits are useful for evaluating the performance of account officers and the effectiveness of the credit process. They can also enable Authorised Firms to take early measures to protect their loans.
+
+Risk monitoring
+
+36. An Authorised Firm should implement an effective system for monitoring its Credit Risk, which should be described in its Credit Risk policy. The system may monitor the use of facilities, adherence to servicing requirements and covenants, and monitor the value of Collateral and identify problem accounts.
+
+37. An Authorised Firm should consider the implementation of a system of management reporting which provides relevant, accurate, comprehensive, timely and reliable Credit Risk

@@ -1,0 +1,95 @@
+iii.
+
+in consideration for the transfer to another Insurer of Insurance Liabilities of the Insurer that are in respect of the Insurance Business that is, or has been placed into, run-off;
+
+46
+
+PIN/VER18/04-23
+
+PRUDENTIAL – INSURANCE BUSINESS (PIN)
+
+iv.
+
+withdrawal from the custody of the custodian for deposit with a different custodian approved by the DFSA;
+
+v.
+
+withdrawal from the custody of the custodian in accordance with Rule 9.4.12 ; or
+
+vi.
+
+withdrawal from the custody of the custodian in accordance with a written notice issued by the DFSA revoking or varying the collateral notice; and
+
+d.
+
+in the case of a letter of credit, the amount of the letter of credit may be reduced only:
+
+i.
+
+in order to achieve, in accordance with Rule 9.4.12 a reduction in the amount of assets made available by the Insurer; or
+
+ii.
+
+in accordance with a written notice issued by the DFSA revoking or varying the collateral notice.
+
+9.4.8
+
+The DFSA may, by written notice to an Insurer, require the Insurer to charge in favour of the DFSA part or all of any assets deposited with a custodian in accordance with Rule 9.4.6(a).
+
+9.4.9
+
+The Insurer must reassess, as at the end of March, June, September and December in each year, the amount of the assets that the Insurer is required by a collateral notice to make available, and the amount of assets made available by the Insurer.
+
+9.4.10 The Insurer must report to the DFSA, within two months of the date as at which the reassessment referred that in Rule 9.4.9 reassessment and details of any action taken or proposed to be taken as a result of that assessment.
+
+to
+
+is performed, the results of
+
+9.4.11
+
+If the reassessment referred to in Rule 9.4.9 shows that the amount of assets made available is less than the amount that the insurer is required to make available, the insurer must, within two months of the effective date of the reassessment, make additional assets available so that the Insurer complies with the requirements of the collateral notice.
+
+9.4.12
+
+If the reassessment shows that the amount of assets made available is more than the amount that the insurer is required to make available, the Insurer may, with the written consent of the DFSA, remove assets from those made available provided that the Insurer complies with the requirements of the collateral notice after the assets have been removed.
+
+9.5
+
+Provisions in respect of contracts relating to insurance business in run-off
+
+9.5.1
+
+This section applies to any Insurer referred to in Rule 9.4.1.
+
+9.5.2
+
+An Insurer to which this section applies must inform the DFSA in writing of the existence and principal features of any contract which it enters into in respect of its Insurance Business in run-off, including Insurance Business carried on through a Cell or a Long-Term Insurance Fund that is in run-off, or that is in existence at the time the Insurer places that Insurance Business into run-off, and that is of any of the following types:
+
+47
+
+PIN/VER18/04-23
+
+PRUDENTIAL – INSURANCE BUSINESS (PIN)
+
+(a)
+
+contracts, other than Contracts of Insurance effected by the Insurer prior to going into run-off, with parties that are Related to the Insurer;
+
+(b)
+
+contracts relating to the management of the Insurance Business in run-off, and any other contracts with the same counterparty or parties Related to that counterparty; or
+
+(c)
+
+contracts for reinsurance of the Insurance Business that is in run-off, and any other contracts with the same counterparty or parties Related to that counterparty.
+
+9.5.3
+
+The DFSA may by written notice require an Insurer to provide additional information as specified in that notice in respect of any contract notified to the DFSA in accordance with Rule 9.5.2
+
+9.6
+
+Limitations on distributions by DIFC incorporated insurers in run- off
+
+9.6.1 No DIFC Incorporated Insurer that is in run-off may make any distribution of profits or surplus however called or described,

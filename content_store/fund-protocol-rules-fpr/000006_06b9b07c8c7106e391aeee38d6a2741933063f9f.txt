@@ -1,0 +1,80 @@
+ that registration on the DFSA's Register of Passported Funds is complete under Rule 3.1.4(b)(ii),
+
+the Passported Fund may, subject to these Rules (including Rule 3.1.8), be
+
+10
+
+FPR/VER1/02-19
+
+FUND PROTOCOL RULES (FPR)
+
+Promoted to Qualified Investors in the Jurisdiction specified in its notification.
+
+3.1.8
+
+If the DFSA receives notice from a Host Regulator stating that the name of the Passported Fund is not available for use in the relevant Host Jurisdiction because it is already in use, or the use of the name is subject to restriction in that Host Jurisdiction, then the DFSA shall require the Fund Manager to immediately cease Promotion of the Passported Fund and the Passported Fund to adopt, as soon as practicable, an alternative name in the DIFC and in the relevant Host Jurisdiction in order to re-commence Promotion.
+
+3.1.9
+
+If, at any time between the notification under Rule 3.1.2 and the commencement of Promotion in a Host Jurisdiction, the Fund Manager becomes aware of any material change, error, or omission reasonably likely to be relevant to such notification, the Fund Manager must give written notice to the DFSA without delay. The DFSA will promptly provide the relevant Host Regulator with all relevant details of such material change, error or omission.
+
+3.1.10 If, as a result of any material change, error, or omission referred to in Rule 3.1.9, the Fund Manager will no longer comply with applicable legislation, including these Rules, or if the DFSA otherwise considers it necessary and appropriate in the circumstances, the DFSA shall take all due measures, including, if necessary, the de-registration of the Private Fund from the DFSA's Register of Passported Funds in accordance with these Rules.
+
+3.2
+
+Notification for Public Funds
+
+3.2.1
+
+This section applies if the DFSA is the Home Regulator of a Public Fund.
+
+3.2.2
+
+If the Fund Manager of a Public Fund wishes to use the passporting procedures under these Rules, it must notify the DFSA of its intention that the Public Fund be a Passported Fund.
+
+3.2.3
+
+The notice referred to in Rule 3.2.2 must:
+
+(a)
+
+be in such form as the DFSA may from time to time determine;
+
+(b)
+
+include a certification, given on behalf of the Fund Manager, to the effect that the Public Fund meets, and will continue to meet, the minimum requirements set out in App1;
+
+(c)
+
+identify the one or more Host Jurisdictions in which the Public Fund will be Promoted;
+
+(d)
+
+identify the Agents (if any) that will conduct the Promotion of the Public Fund;
+
+(e)
+
+include a copy of the prospectus containing a disclaimer to the following effect:
+
+“This Prospectus relates to a DIFC Fund in accordance with the Collective Investment Law 2010 and Rules of the Dubai Financial Services Authority (“DFSA”).
+
+11
+
+FPR/VER1/02-19
+
+3.2.4
+
+FUND PROTOCOL RULES (FPR)
+
+The DFSA has no responsibility for reviewing or verifying any Prospectus or other documents in connection with this Domestic Fund. Accordingly, the DFSA has not approved this Prospectus or any other associated documents nor taken any steps to verify the information set out in this Prospectus, and has no responsibility for it.
+
+No other regulatory authority in the UAE has any responsibility for reviewing or verifying this prospectus or any other documents in connection with the promotion of this fund. Accordingly, no regulatory authority in the UAE has approved this prospectus or any other associated documents, nor taken any steps to verify the information set out herein, and therefore no regulatory authority in the UAE has any responsibility for the same.
+
+This Passported Fund is a Public Fund and, accordingly, the units thereof may be promoted, including by means of a public offer of the units for public subscription, to persons in [insert relevant Host Jurisdiction(s)].
+
+The Units to which this Prospectus relates may be illiquid and/or subject to restrictions on their resale. Prospective purchasers of the Units offered should conduct their own due diligence on the Units.
+
+If you do not understand the contents of this document you should consult an authorised financial adviser.”;
+
+(f)
+

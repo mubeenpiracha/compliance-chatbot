@@ -1,0 +1,159 @@
+ all the Rules of the Regulator relevant to eKYC including, but not limited to, applicable requirements regarding the business risk assessment, as per Rule 6.1, and outsourcing, as per Rule 9.3;
+
+c.
+
+combine eKYC with transaction monitoring, anti-fraud and cyber-security measures to support a wider framework preventing applicable Financial Crime; and
+
+d.
+
+take appropriate steps to identify, assess and mitigate the risk of the eKYC system being misused for the purposes of Financial Crime.
+
+10.
+
+In undertaking CDD, a Relevant Person that is a Recognised Body should have regard to the provisions of the Market Infrastructure Rulebook (“MIR”) requiring appropriate measures be taken to prevent money laundering, Market Abuse and Financial Crime, including those set out at MIR 2.8.5(c) and MIR 2.9.
+
+8.3.3
+
+(1)
+
+For the purposes of Rule 8.3.1(1)(b), and subject to (4), a Relevant Person must identify the Beneficial Owners of a Body Corporate in accordance with this Rule.
+
+(2)
+
+The Relevant Person must identify any Natural Person who:
+
+(a)
+
+owns or controls (in each case whether directly or indirectly) 25% or more of the shares or voting rights in the Body Corporate;
+
+Confidential
+
+49
+
+AML VER10.020125
+
+(b)
+
+controls the Body Corporate; or
+
+(c)
+
+exercises ultimate control over the management of the Body Corporate.
+
+(3)
+
+For the purposes of (2)(b), a Natural Person controls a Body Corporate if such person:
+
+(a)
+
+holds, directly or indirectly:
+
+(i)
+
+25% or more of the Body Corporate’s shares;
+
+(ii)
+
+25% or more of the voting rights in the Body Corporate; or
+
+(iii)
+
+the right to appoint or remove a majority of the board of directors of the Body Corporate; or
+
+(b)
+
+has the right to exercise, or actually exercises, significant influence or control over the Body Corporate.
+
+(4)
+
+A Relevant Person is not required to comply with Rule 8.3.1(1)(b) if the customer is:
+
+(a)
+
+a Listed Body Corporate; or
+
+(b)
+
+a Body Corporate that is wholly-owned by the Federal Government of the UAE, or by any of the governments of the member Emirates of the UAE; or
+
+(c)
+
+a Body Corporate created by Emiri decree within the UAE.
+
+8.3.4
+
+(1)
+
+For the purposes of Rule 8.3.1(1)(b), a Relevant Person must identify the Beneficial Owners of a Partnership in accordance with this Rule.
+
+(2)
+
+The Relevant Person must identify any Natural Person who:
+
+(a)
+
+ultimately is entitled to or controls (in each case whether directly or indirectly) a 25% or more share of the capital or profits of the Partnership or 25% or more of the voting rights in the Partnership; or
+
+(b)
+
+otherwise exercises ultimate control over the management of the Partnership.
+
+8.3.5
+
+(1)
+
+For the purposes of Rule 8.3.1(1)(b), a Relevant Person must identify the Beneficial Owners of a customer that is a trustee of a trust or an equivalent position in respect of a similar Legal Arrangement in accordance with this Rule.
+
+(2)
+
+The Relevant Person must identify:
+
+(a)
+
+the settlor of the trust;
+
+(b)
+
+any other trustee(s) aside from the customer;
+
+(c)
+
+each beneficiary of the trust;
+
+Confidential
+
+50
+
+AML VER10.020125
+
+(d)
+
+where the persons or some of the persons benefiting from the trust have not been determined, the class of persons in whose main interest, in the opinion of the Registrar, the trust has been established or operates; and
+
+(e)
+
+any Natural Person who has control over the trust.
+
+(3)
+
+For the purposes of (2)(e) “control” means a power, whether exercisable alone, jointly with another person or with the consent of another person, under the trust instrument or by law to:
+
+(a)
+
+dispose of, advance, lend, invest, pay or apply trust property;
+
+(b)
+
+vary or terminate the trust;
+
+(c)
+
+add or remove a person as a beneficiary to or from a class of beneficiaries;
+
+(d)
+
+appoint or remove trustees or give another person control over the trust; and
+
+(e)
+
+direct, withhold consent to or veto the exercise of a power mentioned

@@ -1,0 +1,111 @@
+ Regulator will indicate why it will not hear oral representations and the Regulator will allow the Recognised Body or Applicant further time to respond.
+
+4. have regard to representations made;
+
+5.
+
+(when it has reached its decision) notify the Recognised Body or Applicant concerned in writing.
+
+6.10
+
+Disciplinary measures
+
+6.10.1
+
+If the Regulator considers that a Recognised Body has contravened a requirement imposed by the Regulator, or under any provision of FSMR or the Rules whose contravention constitutes an offence the Regulator has power to prosecute, it may:
+
+(a)
+
+publish a statement to that effect; or
+
+(b)
+
+impose on the body a financial penalty of such amount as it considers appropriate.
+
+6.10.2
+
+The procedures and policies which the Regulator will follow if it proposes to publish a statement or to impose a penalty, and if it decides to publish such statement or impose such penalty, are set out in FSMR.
+
+6.10.3
+
+In exercising or deciding whether to exercise its power to impose a penalty, the Regulator will also have regard to any statement of policy published under this section and in force at a time when the contravention in question occurred.
+
+103
+
+MIR VER10.290725
+
+6.10.4
+
+If the Regulator considers that a Controller of a Recognised Body has contravened a requirement of a direction given by the Regulator, or a Rule, it may:
+
+(a)
+
+impose a penalty of such amount as it considers appropriate on the Controller of the Recognised Body, or any Person who was knowingly concerned in the contravention; or
+
+(b)
+
+publish a statement censuring the Person.
+
+6.10.5
+
+The procedures which the Regulator will follow if it proposes to take action, and if it decides to take action against a Person, are set out in FSMR.
+
+6.10.6
+
+In exercising or deciding whether to exercise its power to impose a penalty or publish a statement of censure, the Regulator will also have regard to any statement of policy published under this section and in force at a time when the contravention in question occurred.
+
+6.11
+
+Publication of information
+
+6.11.1
+
+A Recognised Body must as soon as practicable after a Recognition Order is made in respect of it, publish such particulars of the ownership of the Recognised Body, including the identity and scale of interests of the Persons who are in a position to exercise significant influence over the management of the Recognised Body, whether directly or indirectly, as the Regulator may reasonably require.
+
+6.11.2
+
+A Recognised Body must as soon as practicable after becoming aware of a transfer of ownership of the Recognised Body which gives rise to a change of Persons who are in a position to exercise significant influence over the management of the Recognised Body, whether directly or indirectly, publish such particulars of any transfer as the Regulator may reasonably require.
+
+6.11.3
+
+A Recognised Body must publish such particulars of any decision it makes to suspend or remove a Financial Instrument from trading on a market operated by it as the Regulator may reasonably require.
+
+104
+
+MIR VER10.290725
+
+7
+
+REMOTE BODIES
+
+7.1
+
+Applications
+
+7.1.1
+
+Applicants for recognition as a Remote Investment Exchange or Remote Clearing House shall follow the same application procedures as apply in respect of Applicants for recognition as a Recognised Investment Exchange or Recognised Clearing House.
+
+7.1.2
+
+Applicants for recognition as a Remote Clearing House must demonstrate, where they act as a CCP, that they have QCCP status for the purposes of the paper issued by the Basel Committee on Banking Supervision entitled "Capital requirements for bank exposures to central counterparties"(BCBS282, April 2014).
+
+7.1.3
+
+In addition, applications for recognition as a Remote Investment Exchange or Remote Clearing House must contain:
+
+(a)
+
+the address of the Applicant's head office in its home jurisdiction;
+
+(b)
+
+the address of a place in ADGM for the service on the Applicant of notices or other documents required or authorised to be served on it;
+
+(c)
+
+information identifying any type of activity which the Applicant envisages undertaking in ADGM and the extent and nature of usage and membership;
+
+(d)
+
+a comparative analysis of the Applicant's regulatory requirements in its home

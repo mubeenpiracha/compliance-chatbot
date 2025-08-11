@@ -1,0 +1,97 @@
+The DFSA Rulebook
+
+Prudential – Insurance Business Module
+
+(PIN)
+
+PIN/VER18/04-23
+
+1
+
+1.1
+
+2
+
+2.1 2.2 2.3 2.4 2.5
+
+3
+
+3.1 3.2 3.3 3.4 3.5 3.6
+
+4
+
+4.1 4.2 4.3 4.4 4.5 4.6 4.7 4.8 4.9
+
+5
+
+5.1 5.2 5.3 5.4
+
+5.5 5.6
+
+5.7
+
+5.8
+
+PRUDENTIAL – INSURANCE BUSINESS (PIN)
+
+Contents
+
+The contents of this module are divided into the following chapters, sections and appendices:
+
+APPLICATION................................................................................... 1
+
+Application ........................................................................................................... 1
+
+MANAGEMENT AND CONTROL OF RISK ..................................... 2
+
+Introduction ......................................................................................................... 2 Risk management ............................................................................................... 2 Management of particular risks ............................................................................ 3 Record-keeping ................................................................................................... 4 Insurers that undertake surety insurance business .............................................. 5
+
+LONG-TERM INSURANCE BUSINESS ........................................... 7
+
+Introduction ......................................................................................................... 7 Establishment of long-term insurance funds ........................................................ 7 Attribution of contracts to a fund .......................................................................... 8 Segregation of assets and liabilities..................................................................... 8 Limitation on use of assets in long-term insurance fund ...................................... 9 Other requirements ............................................................................................10
+
+CAPITAL ADEQUACY .................................................................... 13
+
+Introduction ........................................................................................................13 Basic requirement ..............................................................................................13 Minimum capital requirement for insurers that are not protected cell companies 15 Minimum capital requirement for insurers that are protected cell companies ......15 Deleted ...............................................................................................................16 Insurers that undertake long-term insurance business .......................................16 Availability of assets of insurers incorporated outside the DIFC ..........................16 Failure to comply with this chapter .....................................................................17 Limitations on distributions by insurers ...............................................................18
+
+MEASUREMENT OF ASSETS AND LIABILITIES OF INSURERS.. 19
+
+General provisions .............................................................................................19 Classification of insurance business ...................................................................19 Basic principles of recognition and measurement ...............................................20 Recognition and measurement of insurance assets and liabilities in respect of general insurance ...............................................................................................20 Discount rates ....................................................................................................22 Recognition and measurement of assets and liabilities in respect of long-term insurance............................................................................................................22 Value of investments in subsidiaries and associates that are subject to minimum capital requirements ...........................................................................................23 Transfer of risk by an Insurer to an ISPV ............................................................23
+
+PIN/VER18/04-23
+
+PRUDENTIAL – INSURANCE BUSINESS (PIN)
+
+6
+
+FINANCIAL AND OTHER REPORTING BY INSURERS ............... 25
+
+6.1 6.2 6.3 6.4 6.5 6.6
+
+Introduction ........................................................................................................25 Annual regulatory return .....................................................................................25 Quarterly regulatory return .................................................................................26 Audit of annual regulatory return ........................................................................26 Submission of Returns to the DFSA ...................................................................27 Reporting of group capital adequacy ..................................................................29
+
+7
+
+ACTUARIES .................................................................................... 30
+
+7.1 7.2 7.3
+
+7.4 7.5
+
+Introduction ........................................................................................................30 The requirement for an actuarial report on general insurance business ..............31 The requirement for an actuarial investigation of and report on long-term insurance business .............................................................................................................32 Additional provisions relating to the report ..........................................................34 Qualifications of the actuary ...............................................................................35
+
+8
+
+CONSOLIDATED SUPERVISION .................................................. 36
+
+8.1 8.2 8.3 8.4 8.5
+
+Introduction ........................................................................................................36 Systems and controls requirements ....................................................................36 Financial group capital requirements and financial group capital resources ........37 Transactions within a group ................................................................................40 Significant transactions other than group transactions ........................................40
+
+9
+
+INSURERS IN RUN-OFF ................................................................ 41
+
+9.1 9.2 9.3 9.4 9.5 9.6
+
+Introduction ........................................................................................................41 Insurers ceasing to effect contracts of insurance in a class of business .............42 Run-off plans ......................................................................................................43 Requirements for collateral for insurers in run-off ...............................................44 Provisions in respect of contracts

@@ -1,0 +1,117 @@
+ is entered into by a person who has notice that a petition has been presented for the Winding-Up of the estate of the other party to the contract;
+
+(b)
+
+an order under section 154(1)(h) becomes irrevocable with respect to a person who has notice that a petition has been presented for the Winding-Up of the estate of another person affected by such order;
+
+(c)
+
+a product or security subject of a Market Contract under section 154(1)(i) becomes deliverable by or to a person who has notice that a petition has been presented for the Winding-Up of the estate of the other party to the dealing or contract; or
+
+(d)
+
+margin in relation to a Market Contract or Default Fund Contribution is accepted by a person who has notice that such a petition has been presented in relation to the person by whom or on whose behalf the margin or Default Fund Contribution is provided;
+
+the value of any profit to him arising from the contract or, as the case may be, the amount or value of the collateral to be transferred, deliverable, margin or Default Fund Contribution is recoverable from him by the Relevant Office-Holder unless the Court directs otherwise.
+
+Subsection (3)(a) does not apply where the person entering into the contract is a Recognised Body or Remote Body acting in accordance with its rules, or where the contract or order is effected under the Default Rules of such a Recognised Body or Remote Body, but subsection (3)(d) applies in relation to the provision of—
+
+(a)
+
+a margin in relation to any such contract, unless the contract has been transferred in accordance with the Default Rules of the Recognised Clearing House or Remote Clearing House;
+
+(b)
+
+a Default Fund Contribution;
+
+(c)
+
+a Collateral Security Arrangement;
+
+(d)
+
+orders for the delivery of Cash or non-Cash collateral to or from a Recognised Body or Remote Body which have become final and irrevocable under the rules of the Recognised Body or Remote Body; and
+
+(e)
+
+the Settlement or delivery of a product or security subject of a Market Contract following expiry or close-out of the Market Contract pursuant to the rules of a Recognised Body or Remote Body.
+
+Any sum recoverable by virtue of subsection (3) ranks for priority, in the event of the insolvency of the person from whom it is due, immediately before preferential debts.
+
+104
+
+161. Adjustment of prior transactions99
+
+(1)
+
+No order shall be made in relation to a transaction to which this section applies under—
+
+(a)
+
+section 257 of the Insolvency Regulations (Transactions at an undervalue); or
+
+(b)
+
+section 258 of the Insolvency Regulations (Preferences).
+
+(2)
+
+This section applies to—
+
+(a)
+
+a Market Contract to which a Recognised Body or Remote Body is a party or which is entered into under its Default Rules; and
+
+(b)
+
+a disposition of property in pursuance of a Market Contract referred to in paragraph (a).
+
+(3)
+
+Where margin is provided in relation to a Market Contract and (by virtue of subsection (2)(a) or otherwise) no such order or decree as is mentioned in subsection (1) has been, or could be, made in relation to that contract, this section applies to—
+
+(a)
+
+the provision of the margin;
+
+(b)
+
+a Qualifying Collateral Arrangement;
+
+(c)
+
+any contract effected by the Recognised Body or Remote Body in question for the purpose of realising the property provided as margin; and
+
+(d)
+
+any disposition of property in accordance with the rules of the Recognised Body or Remote Body in question as to the application of property provided as margin.
+
+(4)
+
+This section also applies to—
+
+(a)
+
+the provision of Default Fund Contribution to a Recognised Body or Remote Body;
+
+(b)
+
+any contract effected by a Recognised Body or Remote Body for the purpose of realising the property provided as Default Fund Contribution;
+
+(c)
+
+any disposition of property in accordance with the rules of the Recognised Body or Remote Body as to the application of property provided as Default Fund Contribution;
+
+(d)
+
+a transfer of a Clearing Member Client Contract, a Client Trade or a Qualifying Collateral Arrangement as mentioned in paragraphs (c) to (e) of section 154(1); and
+
+(e)
+
+a Qualifying Property Transfer.
+
+99 Amended 21 February 2018 and 8 August 2023.
+
+105
+
+162. Powers to give Directions100

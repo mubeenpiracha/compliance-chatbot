@@ -1,0 +1,161 @@
+ results of those activities as at the end of that period; and
+
+(g)
+
+for a Fund which invests a substantial proportion of its assets in other Funds, a statement as to the maximum proportion of management fees charged to the Fund itself and to other Funds in which that Fund invests.
+
+Comparative table
+
+Guidance
+
+In presenting past performance information, the Regulator recommends that Fund Managers follow the Global Investment Performance Standards (GIPS) issued by Institute of Chartered Financial Analysts of the USA.
+
+16.4.8
+
+The comparative table for the annual report for a Public Fund must set out:
+
+(a)
+
+the performance record over the last five calendar years, or if the Fund has not been in existence during the whole of that period, over the whole period in which it has been in existence, showing:
+
+(i)
+
+the highest and the lowest price of a Unit of each class in issue during each of those years; and
+
+(ii)
+
+the net income distributed or, for accumulation Units, allocated for a Unit of each class in issue during each of those years, taking account of any sub-division or consolidation of Units that occurred during that period;
+
+(b)
+
+as at the end of each of the last three annual accounting periods or all of the Fund's annual accounting periods, if less than three:
+
+(i)
+
+the total net asset value of the Fund Property at the end of each of those years;
+
+(ii)
+
+the net asset value per Unit of each class; and
+
+(iii)
+
+for a report of the directors of an Investment Company, the number of Units of each class in issue; or
+
+(iv)
+
+for a report of the Fund Manager of any other Fund, the number of Units of each class in existence or treated as in existence; and
+
+(c)
+
+if, in the period covered by the table:
+
+(i)
+
+the Fund Manager has been the subject of any event such as a transfer scheme having a material effect on the size of the Fund, but excluding any issue or cancellation of Units for cash; or
+
+(ii)
+
+there have been changes in the investment objectives of the Fund;
+
+84
+
+FUNDS VER10.100625
+
+an indication, related in the body of the table to the relevant year in the table, of the date of the event or change in the investment objectives and a brief description of its nature.
+
+16.5
+
+Table illustrating content of the annual report
+
+Guidance
+
+Type of Report
+
+Rule Ref
+
+Public Funds
+
+Exempt Funds
+
+QIF
+
+Annual and interim reports
+
+16.4.2
+
+✓
+
+✓
+
+Annual Report only. An interim report is required only if there has been a material change during the interim accounting period
+
+Fund Manager's Report
+
+16.4.7
+
+✓
+
+✓
+
+✓
+
+Fund Auditor's Report
+
+16.3.8(b), 16.3.9
+
+✓
+
+Rule 16.3.8(b) need not be complied with if a waiver is obtained pursuant to Rule 16.3.9
+
+Rule 16.3.8(b) need not be complied with if a waiver is obtained pursuant to Rule 16.3.9
+
+Oversight Report
+
+13.3.16
+
+✓
+
+Not applicable
+
+Not applicable
+
+Comparative Table
+
+16.4.8
+
+✓
+
+Not applicable
+
+Not applicable
+
+This table illustrates the different content requirements for reports of a Domestic Fund.
+
+17.
+
+FUND ADMINISTRATORS
+
+17.1
+
+General
+
+Application
+
+17.1.1
+
+(1) Subject to (2), this Chapter applies to an Authorised Person which is appointed as a Fund Administrator to either a Domestic or a Foreign Fund.
+
+(2) This Chapter does not apply to a Fund Manager or Trustee to the extent that it carries on the Regulated Activity of Acting as the Administrator of a Collective
+
+85
+
+FUNDS VER10.100625
+
+Investment Fund within the Regulated Activities of Managing a Collective Investment Fund or of Acting as the Trustee of an Investment Trust.
+
+Compliance with the AML Rules
+
+17.1.2
+
+The AML Rules apply to a Fund Administrator to the extent that it carries on the Regulated Activity of Acting as the Administrator of a Collective Investment Fund for a Domestic Fund or Foreign Fund, if managed by a Foreign Fund Manager, as if each reference in AML to a "customer" is a reference to a "Unitholder"

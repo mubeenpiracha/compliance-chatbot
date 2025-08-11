@@ -1,0 +1,161 @@
+)
+
+from a private company to a public company (see sections 77 (re-registration of private company as public) to 80 (issue of certificate of incorporation on re- registration)),
+
+(b)
+
+from a public company to a private company (see sections 81 (re-registration of public company as private) to 85 (issue of certificate of incorporation on re- registration)),
+
+(c)
+
+from a private limited company to an unlimited company (see sections 86 (re- registration of private limited company as unlimited) to 88 (issue of certificate of incorporation on re-registration)),
+
+(d)
+
+from an unlimited company to a limited company (see sections 89 (re- registration of unlimited company as limited) to 92 (statement of capital required where company already has share capital),
+
+(e)
+
+from a public company to an unlimited private company (see sections 93 (re- registration of public company as private and unlimited) to 95 (issue of certificate of incorporation on re-registration)), and
+
+(f)
+
+from a restricted scope company to a non-restricted scope company (see sections 96 (re-registration of a restricted scope company as a non-restricted scope company) to 99 (issue of certificate of incorporation on re-registration)).
+
+Re-registration of private company as public
+
+A private company (whether limited or unlimited and whether it is a restricted scope company or not) may be re-registered as a public company limited by shares if–
+
+(a)
+
+a special resolution that it should be so re-registered is passed,
+
+(b)
+
+the conditions specified below are met, and
+
+(c)
+
+an application for re-registration is delivered to the Registrar in accordance with section 78 (application and accompanying documents), together with–
+
+(i)
+
+the other documents required by that section, and
+
+(ii)
+
+a statement of compliance.
+
+79
+
+(2)
+
+The conditions are–
+
+(a)
+
+that the company has a share capital not less than the authorised minimum required for a public company, and
+
+(b)
+
+that the company has not previously been re-registered as unlimited.
+
+(3)
+
+The company must make such changes–
+
+(a)
+
+in its name, and
+
+(b)
+
+in its articles,
+
+as are necessary in connection with its becoming a public company.
+
+(4)
+
+If the company is unlimited it must also make such changes in its articles as are necessary in connection with its becoming a company limited by shares.
+
+78.
+
+Application and accompanying documents2
+
+(1)
+
+An application for re-registration as a public company must contain–
+
+(a)
+
+a statement of the company’s proposed name on re-registration, and
+
+(b)
+
+in the case of a company without a secretary, a statement of the company’s proposed secretary (see section 79 (statement of proposed secretary)).
+
+(2)
+
+The application must be accompanied by–
+
+(a)
+
+a copy of the special resolution that the company should re-register as a public company (unless a copy has already been forwarded to the Registrar under Chapter 3 of Part 3),
+
+(b)
+
+a copy of the company’s articles as proposed to be amended,
+
+(c)
+
+a balance sheet prepared as at a date not more than seven months before the date on which the application is delivered to the Registrar, or, for companies unable to satisfy the foregoing requirement, financial statements of its subsidiaries covering at least two years before the date on which the application is delivered to the Registrar, and
+
+(d)
+
+an unqualified report by the company’s auditor on that balance sheet or the financial statements of the company’s subsidiaries, as the case may be.
+
+(3)
+
+The statement of compliance required to be delivered together with the application is a statement that the requirements of this Part as to re-registration as a public company have been complied with.
+
+(4)
+
+The Registrar may accept the statement of compliance as sufficient evidence that the company is entitled to be re-registered as a public company.
+
+79.
+
+Statement of proposed secretary
+
+(1)
+
+The statement of the company’s proposed secretary must contain the required particulars of the person who is or the persons who are to be the secretary or joint secretaries of the company.
+
+2 Amended 28 February 2024
+
+80
+
+(2)
+
+(3)
+
+80.
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+(6)
+
+81.
+
+(1)
+
+(2)
+
+The required particulars are the particulars that will be required to be stated in the company’s register of secretaries (see sections 294 (particulars of secretaries to be registered

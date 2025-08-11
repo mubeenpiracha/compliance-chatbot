@@ -1,0 +1,123 @@
+ controls and thresholds on trading through Direct Electronic Access;
+
+(b)
+
+be able to identify orders and trades made through Direct Electronic Access; and
+
+(c)
+
+if necessary, be able to stop orders or trades made by a client using Direct Electronic Access provided by the Member without affecting the other orders or trades made or executed by that Member.
+
+(3)
+
+For the purposes of this Rule and elsewhere in the Rulebook, Direct Electronic Access means any arrangement, such as the use of the Member’s trading code, through which a Member or the clients of that Member are able to transmit orders relating to Investments or Crypto Tokens directly to the facility provided by the Authorised Market Institution.
+
+(4)
+
+For avoidance of doubt, a Person who is permitted to have Direct Electronic Access to an Authorised Market Institution’s facilities through a Member is not, by virtue of such permission, a Member of the Authorised Market Institution.
+
+Guidance
+
+In assessing the adequacy of the criteria used by an Authorised Market Institution to permit its Members to allow their clients to have Direct Electronic Access to Authorised Market Institution’s facilities, the DFSA will consider:
+
+a.
+
+whether such criteria include contractually binding arrangements between the Member and the clients;
+
+34
+
+AMI/VER28/03-25
+
+5.8
+
+5.8.1
+
+AUTHORISED MARKET INSTITUTIONS (AMI)
+
+b.
+
+whether such clients are subject to adequate training, competence and experience requirements and checks;
+
+c.
+
+how electronic access is approved and secured and the measures taken to prevent or resolve problems which would arise from the failure of such access;
+
+d.
+
+the rules and guidance governing the Person’s, procedures, controls and security arrangements for inputting instructions into the system;
+
+e.
+
+the rules and guidance governing facilities offered to Person’s permitted for inputting instructions into the system and restrictions placed on the use of those systems;
+
+f.
+
+the rules and practices to detect, identify and halt or remove instructions breaching any relevant instructions;
+
+g.
+
+the quality and completeness of the audit trail of any transaction processed through an electronic connection system; and
+
+h
+
+the procedures to determine whether to suspend trading by those systems or access to them by or through individual Members.
+
+Admission of Investments to trading or clearing
+
+Investment criteria
+
+(1)
+
+An Authorised Market Institution must have clear and objective criteria (“investment criteria”) included in its Business Rules according to which Investments or Crypto Tokens can be admitted to trading, or traded, on its facilities, or cleared and settled on its facilities, or both, as relevant to its operations. The investment criteria must include the requirements in (2), (3) and (4) as relevant.
+
+(2)
+
+An Authorised Market Institution must ensure that Investments are admitted to trading or traded on an Exchange it operates only if:
+
+(a)
+
+in the case of Securities, the Securities are admitted to the Official List of Securities; and
+
+(b)
+
+in the case of Derivative contracts (other than Crypto Token Derivatives), the contracts meet the contract design specifications in Rule 6.3.2.
+
+(3)
+
+An Authorised Market Institution must ensure that only Investments which meet the requirements in (a), (b) or (c) are traded on an MTF it operates:
+
+(a)
+
+in the case of Securities, the Securities are admitted to trading on a Regulated Exchange in a jurisdiction acceptable to the DFSA; and
+
+(b)
+
+in the case of Security Tokens that do not meet the criteria in (a):
+
+(i)
+
+there is a current Approved Prospectus relating to the Security Tokens;
+
+(ii)
+
+the Authorised Market Institution has taken adequate steps, before admitting the Security Tokens to trading, to
+
+35
+
+AMI/VER28/03-25
+
+AUTHORISED MARKET INSTITUTIONS (AMI)
+
+satisfy itself that both the Security Tokens and the relevant Reporting Entity meet the general eligibility requirements in MKT section 9.3; and
+
+(iii)
+
+the Authorised Market Institution has adequate systems and controls in place to effectively monitor and enforce a Reporting Entity’s compliance with the requirements of MKT Chapter 9B; or
+
+(c)
+
+in the case of Derivatives (other than Crypto Token Derivatives), the instruments meet the contract design specifications in Rule 6.3.2.
+
+(4)
+
+An Authorised Market Institution must ensure that Crypto Tokens or Crypto Token Derivatives are admitted to trading or traded on an MTF it operates, or cleared and settled on

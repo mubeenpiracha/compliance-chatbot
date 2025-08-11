@@ -1,0 +1,81 @@
+(f) where credit protection is provided to a non-securitisation Exposure, any entity that has an external credit assessment by a recognised external credit rating agency, including credit protection provided by a Parent or a Subsidiary; or
+
+(g) where credit protection is provided to a securitisation Exposure, any entity that has an external credit assessment by a recognised external credit rating agency of Credit Quality Grade 3 or above, including credit protection provided by a Parent or a Subsidiary.
+
+(2)
+
+An Authorised Firm must not recognise the effects of Credit Risk mitigation of a guarantee unless all of the following requirements are complied with:
+
+(a)
+
+the guarantee is an explicitly documented obligation assumed by the guarantor;
+
+(b)
+
+the guarantee represents a direct claim on the guarantor;
+
+134
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+(c)
+
+the extent of the credit protection cover is clearly defined and incontrovertible;
+
+(d) other than in the event of non-payment by the Authorised Firm of money due in respect of the guarantee if applicable, there is an irrevocable obligation on the part of the guarantor to pay out a pre- determined amount upon the occurrence of a credit event, as defined under the guarantee;
+
+(e)
+
+the guarantee does not contain any clause, the fulfilment of which is outside the direct control of the Authorised Firm, that:
+
+(i) would allow the guarantor to cancel the guarantee unilaterally;
+
+(ii) would increase the effective cost of the guarantee as a result of
+
+deteriorating credit quality of the underlying Exposure;
+
+(iii) could prevent the guarantor from being obliged to pay out in a timely manner in the event that the underlying obligor fails to make any payment due; or
+
+(iv) could allow the maturity of the guarantee agreed ex-ante to be
+
+reduced ex-post by the guarantor;
+
+(f)
+
+the Authorised Firm is able in a timely manner to pursue the guarantor for any monies outstanding under the documentation governing the transaction on the default of, or non-payment by, the underlying obligor without first having to take legal action to pursue the underlying obligor for payment; and
+
+(g)
+
+the guarantee covers all types of payments that the underlying obligor is expected to make under the documentation governing the transaction, except in the case of accrued interest, accrued expenses or fees outstanding, where these are deemed immaterial.
+
+(3)
+
+In (1)(e) the term ‘prudentially regulated financial institution’ means a legal entity:
+
+(a) whose activities are primarily financial in nature and which is supervised by a regulator that imposes prudential requirements consistent with international norms; or
+
+(b) which is included in a consolidated group where any substantial legal entity in the consolidated group whose activities are primarily financial in nature is supervised by a regulator that imposes prudential requirements consistent with international norms.
+
+Guidance
+
+1.
+
+Rule 4.13.9(2)(e) does not include any guarantee with a cancellation clause where it is provided that any obligation incurred or transaction entered into prior to any cancellation, unilateral or otherwise, continues to be guaranteed by the guarantor.
+
+135
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+2.
+
+The guarantee payments may be in the form of the guarantor making a lump sum payment of all monies to the Authorised Firm or the guarantor assuming the future payment obligations of the Counterparty covered by the guarantee, as specified in the relevant documentation governing the guarantee.
+
+3.
+
+Prudentially regulated financial institutions in Rule 4.13.9(3) include prudentially regulated insurance companies, broker/dealers, thrifts and futures commission merchants, and Qualifying CCPs.
+
+4.13.10 In addition to the requirements in Rule 4.13.9, where an Authorised Firm has an Exposure that is protected by a guarantee or that is counter-guaranteed by a central government or Central Bank, a regional government or local authority, a PSE referred to in Rule 4.12.3(2), a MDB or an international organisation to which a 0% risk weight is assigned under section 4.12, an Authorised Firm may treat the Exposure as being protected by a direct guarantee

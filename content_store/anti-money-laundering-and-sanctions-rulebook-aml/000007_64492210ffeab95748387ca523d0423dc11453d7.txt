@@ -1,0 +1,165 @@
+ Part 4 of Schedule 1 of FSMR.
+
+Contravention
+
+Means a contravention of any Regulations or Rules made by the ADGM Board and the Regulator, as the case may be.
+
+Correspondent Account
+
+Means an account opened on behalf of a Correspondent Banking Client to receive deposits from, to make payments on behalf of or to otherwise handle financial transactions for or on behalf of the Correspondent Banking Client.
+
+Correspondent Bank
+
+Means a bank in a jurisdiction other than ADGM where an Authorised Person opens a Correspondent Account.
+
+10
+
+Confidential
+
+AML VER10.020125
+
+Term
+
+Correspondent Banking Client
+
+Counterparty
+
+Credit Rating Agency
+
+Customer Due Diligence (CDD)
+
+Designated Non-Financial Business or Profession (DNFBP)
+
+Director
+
+Definition
+
+Means a Client of an Authorised Person which uses the firm's correspondent banking services account to clear transactions for its own customer base.
+
+Means any Person with or for whom an Authorised Person carries on, or intends to carry on, any regulated business or associated business. In this context, a Counterparty includes an individual, unincorporated association, Company, government, local authority or other public body.
+
+Means a Person carrying on, in or from ADGM, the Regulated Activity of Operating a Credit Rating Agency for which it has an authorisation under its Financial Services Permission.
+
+Has the meaning given in AML 8.3.
+
+Means the following class of Persons who carry out the following businesses in ADGM:
+
+(a)
+
+a real estate agency which carries out transactions with other Persons that involve the acquiring or disposing of real property;
+
+(b)
+
+a dealer in precious metals or precious stones;
+
+(c)
+
+a dealer in any saleable item of a price equal to or greater than USD15,000;
+
+(d)
+
+an accounting firm, audit firm, insolvency firm or taxation consulting firm;
+
+(e)
+
+a law firm, notary firm or other independent legal business; or
+
+(f)
+
+a Company Service Provider.
+
+Means:
+
+(a)
+
+In relation to an Undertaking established under the ADGM Companies Regulations, a Person who appears on the Register of Directors maintained by the ADGM Registrar of Companies;
+
+(b)
+
+In relation to all other Undertakings, a Person who has been admitted to a register which has a corresponding meaning to the Register of Directors
+
+11
+
+Confidential
+
+AML VER10.020125
+
+Term
+
+eKYC
+
+eKYC System
+
+Employee
+
+Enhanced Customer Due Diligence or Enhanced CDD
+
+Executive Office for Control and Non- Proliferation (EOCN)
+
+FATF
+
+FATF Recommendations
+
+Federal AML Legislation
+
+Definition
+
+or performs the function of acting in the capacity of a Director, by whatever name called;
+
+(c) who is employed or appointed by a Person in connection with that Person's business, whether under a contract of service or for services or otherwise; or
+
+(d) whose services, under an arrangement between that Person and a third party, are placed at the disposal and under the control of that Person.
+
+Means verification of customer electronic, non-face-to-face means only.
+
+identity by way of
+
+Means the technology and associated processes used to undertake eKYC.
+
+Means an individual:
+
+(a) who is employed or appointed by a Person in connection with that Person's business, whether under a contract of service or for services or otherwise; or
+
+(b) whose services, under an arrangement between that Person and a third party, are placed at the disposal and under the control of that Person.
+
+Means undertaking Customer Due Diligence and the enhanced measures under AML 8.4.
+
+Means the UAE federal body responsible for administering Cabinet Resolution No. (74) of 2020, as may be amended, and any subsequent resolutions and the focal point for implementation of Targeted Financial Sanctions in coordination with the Supreme Council of National Security.
+
+Means the Financial Action Task Force.
+
+Means the publication entitled the "International Standards on Combatting Money Laundering and the Financing of Terrorism & Proliferation", as published and amended by the FATF.
+
+Means the legislation described in section 258 of FSMR.
+
+12
+
+Confidential
+
+AML VER10.020125
+
+Term
+
+FFR
+
+FIU
+
+Financial Crime
+
+Financial Institution
+
+Financial Services Permission
+
+Financial Services Regulator
+
+FSMR
+
+goAML
+
+Governing Body
+
+Group
+
+Definition
+
+Means a fund freeze report to be filed

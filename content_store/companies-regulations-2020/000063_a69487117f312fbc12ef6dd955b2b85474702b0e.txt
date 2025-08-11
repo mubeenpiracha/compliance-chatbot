@@ -1,0 +1,141 @@
+165. Duty to avoid conflicts of interest
+
+(1)
+
+A director of a company must not act on behalf of a company, or exercise any of his powers as a director, in relation to any matter in which he has, or can have, a direct or indirect interest that conflicts, or possibly may conflict, with the interests of the company.
+
+(2)
+
+This applies in particular to the exploitation of any property, information or opportunity (and it is immaterial whether the company could take advantage of the property, information or opportunity).
+
+(3)
+
+This duty does not apply to a conflict of interest arising in relation to a transaction or arrangement with the company.
+
+(4)
+
+This duty is not infringed–
+
+(a)
+
+if the situation cannot reasonably be regarded as likely to give rise to a conflict of interest, or
+
+(b)
+
+if the matter has been authorised by the directors who do not have a direct or indirect interest that conflicts with the interests of the company in such matter (“non-conflicted directors”), or
+
+(c)
+
+if the matter is authorised by the members.
+
+(5)
+
+Authorisation may be given by the non-conflicted directors–
+
+(a)
+
+where the company is a private company and nothing in the company’s constitution invalidates such authorisation, by the matter being proposed to and authorised by the non-conflicted directors, or
+
+(b)
+
+where the company is a public company and its constitution includes provision enabling the non-conflicted directors to authorise the matter, by the matter being proposed to and authorised by them in accordance with the constitution.
+
+(6)
+
+The authorisation is effective only if–
+
+(a)
+
+any requirement as to the quorum at the meeting at which the matter is considered is met without counting the director in question or any other director with a direct or indirect interest that conflicts with the interests of the company in such matter, and
+
+(b)
+
+the matter was agreed to without their voting or would have been agreed to if their votes had not been counted.
+
+(7)
+
+Any reference in this section to a conflict of interest includes a conflict of interest and duty and a conflict of duties.
+
+166. Duty not to accept benefits from third parties
+
+(1)
+
+A director of a company must not accept a benefit from a third party conferred by reason of–
+
+(a)
+
+his being a director, or
+
+(b)
+
+his doing (or not doing) anything as director.
+
+123
+
+(2)
+
+A “third party” means a person other than the company, an associated body corporate or a person acting on behalf of the company or an associated body corporate.
+
+(3)
+
+Benefits received by a director from a person by whom his services (as a director or otherwise) are provided to the company are not regarded as conferred by a third party.
+
+(4)
+
+This duty is not infringed if the acceptance of the benefit cannot reasonably be regarded as likely to give rise to a conflict of interest.
+
+(5)
+
+Any reference in this section to a conflict of interest includes a conflict of interest and duty and a conflict of duties.
+
+167. Duty to declare interest in proposed transaction or arrangement
+
+(1)
+
+If a director of a company is in any way, directly or indirectly, interested in a proposed transaction or arrangement with the company, he must declare the nature and extent of that interest to the other directors.
+
+(2)
+
+The declaration may (but need not) be made–
+
+(a)
+
+at a meeting of the directors, or
+
+(b)
+
+by notice to the directors in accordance with–
+
+(i)
+
+section 173 (declaration made by notice in writing), or
+
+(ii)
+
+section 174 (general notice treated as sufficient declaration).
+
+(3)
+
+If a declaration of interest under this section proves to be, or becomes, inaccurate or incomplete, a further declaration must be made.
+
+(4)
+
+Any declaration required by this section must be made before the company enters into the transaction or arrangement.
+
+(5)
+
+This section does not require a declaration of an interest of which the director is not aware or where the director is not aware of the transaction or arrangement in question.
+
+For this purpose a director is treated as being aware of matters of which he ought reasonably to be aware.
+
+(6)
+
+A director need not declare an interest–
+
+(a)
+
+if it cannot reasonably be regarded as likely to give rise to a conflict of interest,
+
+(b)
+
+if, or to the extent that, the other directors are already aware of it (and for this purpose the other directors are treated as aware of anything of which they ought reasonably

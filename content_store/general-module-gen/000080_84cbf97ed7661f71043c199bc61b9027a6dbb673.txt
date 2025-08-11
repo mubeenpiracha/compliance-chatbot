@@ -1,0 +1,157 @@
+ perform more than one Licensed Function for the Authorised Firm only if it is reasonably satisfied that:
+
+(a)
+
+having regard to the nature, scale and complexity of the Authorised Firm’s business and the individual’s proposed duties, the different Licensed Functions can be performed effectively by one person;
+
+(b)
+
+the individual is fit and proper to perform each Licensed Function; and
+
+(c)
+
+there are no conflicts of interest or that actual or potential conflicts of interest are appropriately managed.
+
+(2)
+
+An Authorised Firm must not permit an individual to perform a Licensed Function specified in the left-hand column of the Table below with another Licensed Function specified in the top row of the Table where a cross appears in the relevant intersecting column and row.
+
+Table
+
+D/P
+
+SM
+
+SEO
+
+FO
+
+CO
+
+MLRO
+
+Director/Partner (D/P)
+
+
+
+✓
+
+✓
+
+✓
+
+✓
+
+Senior Manager (SM)
+
+Senior Executive Officer (SEO)
+
+
+
+✓
+
+✓
+
+✓
+
+✓ 
+
+✓ 
+
+✓ 
+
+Finance Officer (FO)
+
+✓
+
+✓
+
+
+
+
+
+
+
+Compliance Officer (CO)
+
+✓
+
+✓
+
+
+
+
+
+✓
+
+Money Laundering Reporting Officer (MLRO)
+
+✓
+
+✓
+
+
+
+
+
+✓
+
+✓ may be combined if the conditions in Rule 7.5.1A(1) are met 
+
+cannot be combined
+
+Guidance
+
+1.
+
+This Guidance addresses a range of circumstances:
+
+a.
+
+one individual performing more than one function in a single firm, as contemplated in Rule 7.5.1A;
+
+121
+
+GEN/VER67/03-25
+
+GENERAL (GEN)
+
+b.
+
+more than one individual performing one function in a single firm, not addressed by that Rule;
+
+c.
+
+one individual performing a single function in more than one firm, as contemplated in Rule 7.4.10.
+
+2.
+
+An Authorised Firm will need to satisfy itself of the matters set out in Rule 7.5.1A(1) before it permits an individual to perform combined roles for the firm. That is, that the individual will be able to carry out his role effectively, is fit and proper to do so, and that there are no conflicts of interest or that any actual or potential conflicts of interest are appropriately managed. The DFSA may refuse an application for Authorised Individual status for an individual intending to perform combined roles if it is not satisfied that all of these conditions is met.
+
+3.
+
+In what it considers to be exceptional circumstances, the DFSA may register more than one individual to perform the Licensed Function of Compliance Officer in respect of different internal business divisions within a large Authorised Firm. In this regard the DFSA may consider, amongst other things, the nature, scale and complexity of the activities of the firm, the clarity of demarcation between areas of responsibility, responsibility, and processes of communication with the DFSA.
+
+the potential
+
+for gaps
+
+in
+
+4.
+
+The DFSA may also register an individual as the Compliance Officer for more than one Authorised Firm. The DFSA will only do this where it is satisfied that the individual is able to carry out his functions effectively in each firm taking into consideration factors such as the amount and nature of business conducted by the firms. Each Authorised Firm has a duty under GEN 5 to monitor its compliance arrangements to ensure, as far as reasonably practicable, that it complies with all legislation applicable in the DIFC.
+
+5.
+
+The DFSA may, using its discretion to grant waivers or modifications, permit greater flexibility in combining Licensed Function roles where an Authorised Firm is winding down its business.
+
+7.5.2 The Authorised Individuals referred to in Rule 7.5.1(1)(a), (c) and (d) must be
+
+resident in the U.A.E.
+
+Guidance
+
+1.
+
+In appropriate circumstances, the DFSA may waive the requirement for a Compliance Officer or MLRO to be resident in the UAE. In determining whether to grant a waiver, the DFSA will consider a range of factors on a case by case basis focused on whether the firm can demonstrate that it has appropriate compliance arrangements (see GEN section 5.3). These

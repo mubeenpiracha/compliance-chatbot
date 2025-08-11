@@ -1,0 +1,111 @@
+.e. a body or association that represents a particular industry sector or that oversees, or provides services to, members of a particular profession. The Authorised Firm will, however, still need to assess if the Undertaking meets the knowledge and experience requirement in Rule 2.3.8(1)(b).
+
+Market Counterparties
+
+(1) An Authorised Firm may classify a Person as a Market Counterparty if:
+
+(a)
+
+that Person is:
+
+(i)
+
+a ‘deemed’ Professional Client pursuant to Rule 2.3.4;
+
+(ii)
+
+an ‘assessed’ Professional Client pursuant to Rule 2.3.8(2)(b) which is wholly owned by a Holding Company that is a ‘deemed’ Professional Client pursuant to Rule 2.3.4(1)(g) or (h); or
+
+(iii) a ‘deemed’ Market Counterparty pursuant to Rule (1A); and
+
+(b)
+
+in the case of Persons referred to in (a)(i) and (ii), the requirements in (2) have been met.
+
+(1A) An Insurer, Insurance Intermediary or Insurance Manager may ‘deem’ any one
+
+or more of the following Persons to be a Market Counterparty:
+
+(a) a ceding insurer; and
+
+(b)
+
+in respect of the services provided to that ceding insurer, any reinsurer, insurance agent or insurance broker that facilitates the provision of the services to the ceding insurer.
+
+(2) For the purposes of (1)(b), an Authorised Firm must, before classifying a
+
+Person as a Market Counterparty, ensure that:
+
+(a)
+
+the Person has been given a prior written notification of the classification as a Market Counterparty; and
+
+(b)
+
+that Person has not requested to be classified otherwise within the period specified in the notice.
+
+(3) The notification in (2)(a) may be given in respect of particular Financial in respect of all Financial Services and
+
+Services or Transactions or Transactions.
+
+14
+
+COB/VER48/03-25
+
+CONDUCT OF BUSINESS (COB)
+
+(4) The notification in (2)(a) need only be given:
+
+(a)
+
+in the case of a Fund, either to the Fund or its Fund Manager; and
+
+(b)
+
+in the case of a pension fund, either to such fund or its management company.
+
+Guidance
+
+When an Authorised Firm carries on, or provides or obtains, Financial Services with or from another Authorised Firm or a Regulated Financial Institution, as those entities are ‘deemed’ Professional Clients under Rule 2.3.4(1), they could be classified as Market Counterparties, provided the procedures set out in Rule 2.3.9(2) are complied with. For example, such services may include providing the Financial Services of custody, managing assets, or fund administration services to a Fund Manager of a Collective Investment Fund or a pension fund.
+
+2.4 Procedures relating to client classification
+
+Option for a Professional Client to be classified as a Retail Client
+
+2.4.1
+
+(1) For the purpose of Rule 2.3.3(1)(b), an Authorised Firm must, subject to (4), when first establishing a relationship with a Person as a Professional Client, inform that Person in writing of:
+
+(a)
+
+that Person’s right to be classified as a Retail Client;
+
+(b)
+
+the higher level of protection available to Retail Clients; and
+
+(c)
+
+the time within which the Person may elect to be classified as a Retail Client.
+
+(2)
+
+If the Person does not expressly elect to be classified as a Retail Client within the time specified by the Authorised Firm, the Authorised Firm may classify that Person as a Professional Client.
+
+(3)
+
+If a Person already classified as a Professional Client by an Authorised Firm expressly requests the Authorised Firm to be re-classified as a Retail Client, the Authorised Firm must, subject to (4), re-classify such a Person as a Retail Client.
+
+(4)
+
+If an Authorised Firm does not provide Financial Services to Retail Clients, it must inform the Person of this fact and any relevant consequences.
+
+Guidance
+
+1.
+
+The obligation in Rule 2.4.1(1) applies to an Authorised Firm when it first provides, or intends to provide, a Financial Service to a Professional Client.
+
+2.
+
+Once an Authorised Firm has first

@@ -1,0 +1,71 @@
+ or otherwise levying execution against any cellular assets of the company for all or any part of the amount owed to the creditor, the creditor shall hold those assets or their proceeds on trust for the cell of the company whose cellular assets were wrongfully seized or attached.
+
+(9) Where subsection (7) or subsection (8) applies, the creditor must–
+
+(a)
+
+keep the assets so held on trust separated and identifiable as trust property, and
+
+(b)
+
+pay or return them on demand to the protected cell company.
+
+(10)
+
+If a creditor fails to comply with the provisions of subsection (9), a contravention of these Regulations is committed by him.
+
+(11) A person who commits the contravention referred to in subsection (10) shall be liable
+
+to a level 3 fine.
+
+(12) Any amount recovered by a protected cell company by virtue of a trust mentioned in subsection (7) shall form part of the non-cellular assets of the company or, as the case may be, the cellular assets of the cell of the company whose cellular assets were wrongfully seized or attached.
+
+(13) Any amount recovered by a protected cell company by virtue of a trust mentioned in subsection (8) shall form part of the cellular assets of the cell of the company whose cellular assets were wrongfully seized or attached.
+
+(14)
+
+If a creditor becomes liable to pay an amount or to return assets to a protected cell company under subsection (4), subsection (5) or subsection (9)(b) and no amount or an insufficient amount is received, or no assets or less than all the assets are recovered, the company must cause or procure an auditor, acting as an expert and not as an arbitrator, to certify the loss suffered by the company and then, as the case may be–
+
+(a)
+
+transfer to the company from the cellular assets of the relevant cell, if the liability was attributable to it, an amount sufficient to make good the loss suffered by the company’s cellular or non-cellular assets, as the case may be, or
+
+(b)
+
+transfer from its non-cellular assets, if the liability was attributable to them an amount sufficient to make good the loss suffered by its the cellular assets.
+
+(15) Where an amount transferred by virtue of subsection (14)(a) was in respect of a loss suffered by the company’s cellular assets, the amount transferred shall be transferred to the cell of the company whose cellular assets were wrongfully made available to a creditor or seized, attached or executed against.
+
+591
+
+(16) An amount transferred by virtue of subsection (14)(b) shall be transferred to the cell of the company whose cellular assets were wrongfully made available to a creditor or seized, attached or executed against.
+
+(17)
+
+If a company fails to comply with subsection (14), (15) or (16), a contravention of these Regulations is committed by the company and every officer of it who is in default.
+
+(18) A person who commits the contravention referred to in subsection (17) shall be liable
+
+to a level 3 fine.
+
+(19) Subsections (4) to (16) do not apply to any payment made to a creditor by a protected
+
+cell company in accordance with section 1064(2) or section 1064(4).
+
+1066. Effect of commencement of summary winding up of protected cell company
+
+(1) Where a protected cell company is being wound up, section 195(1) (effect on business and status of company) of the Insolvency Regulations 2015 (effect on business and status of company) shall not apply in respect of any cell of the company.
+
+(2) Where a cell of a protected cell company is being wound up, section 195(1) (effect on business and status of company) of the Insolvency Regulations 2015 shall not apply in respect of the company or any other cell of the company.
+
+1067. Court may determine liability of protected cells companies
+
+The Court, on the application of a protected cell company, may determine, in accordance with this Part, if a liability of the company is to be met by its non-cellular assets, by the cellular assets of a specific cell of the company or by a combination of those assets.
+
+1068. Definitions relevant to this Part
+
+In this Part:
+
+“cell” means a cell of a cell company,
+
+“cell company” means a company that is an

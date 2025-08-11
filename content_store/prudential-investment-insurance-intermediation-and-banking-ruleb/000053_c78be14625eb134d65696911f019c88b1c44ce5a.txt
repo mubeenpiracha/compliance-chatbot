@@ -1,0 +1,135 @@
+ Requirement,
+
+the factor shall be 0.6.
+
+An Authorised Person must calculate the lower and upper bounds of each quartile of the Comibined Buffer requirement as follows:
+
+Lower bound of quartile = (Combined Buffer Requirement / 4) x (Qn – 1);
+
+and
+
+Upper bound of quartile = (Combined Buffer Requirement / 4) x Qn,
+
+where Qn indicates the ordinal number of the quartile concerned.
+
+If an Authorised Person undertakes any action under Rule 3.19.3(b), it must take that into account and reduce the maximum distributable amount accordingly.
+
+97
+
+PRU VER17.290725
+
+Guidance
+
+The expression of both CET1 Capital and the Combined Buffer Requirement above is in absolute terms rather than as a percentage of the Total Risk Exposure Amount.
+
+3.19.7
+
+For the purpose of Rule 3.19.3(b), where an Authorised Person intends to distribute any of its distributable profits or intends to undertake an action referred to in Rule 3.19.3(b)(i) or (ii), the Authorised Person must notify the Regulator and provide the following information:
+
+(a)
+
+the amount of capital maintained by the Authorised Person, subdivided as follows:
+
+(i)
+
+CET1 Capital;
+
+(ii)
+
+AT1 Capital; and
+
+(iii)
+
+T2 Capital;
+
+(b)
+
+the amount of its interim and year-end profits;
+
+(c)
+
+the maximum distributable amount calculated in accordance with Rule 3.19.6; and
+
+(d)
+
+the amount of distributable profits it intends to allocate between the following:
+
+(i)
+
+dividend payments;
+
+(ii)
+
+Share buybacks;
+
+(iii)
+
+payments on AT1 Capital instruments; and
+
+(iv)
+
+the payment of variable remuneration or discretionary pension benefits, whether by creation of a new obligation to pay, or by payment pursuant to an obligation to pay created at a time when the institution failed to meet its Combined Buffer Requirement.
+
+Guidance
+
+Upon receiving a notification under this Rule, the Regulator will make an assessment of the firm's ability to meet and maintain its Capital Requirement on a sustainable basis going forward.
+
+3.19.8
+
+An Authorised Person must maintain systems and processes to ensure that the amount of distributable profits and the maximum distributable amount are calculated accurately, and must be able to demonstrate the accuracy of the calculations to the Regulator on request.
+
+98
+
+PRU VER17.290725
+
+Capital conservation plan
+
+3.19.9 Where an Authorised Person fails to meet the Combined Buffer Requirement, it must prepare a capital conservation plan and submit it to the Regulator no later than five business days after it identified its failure to meet the Combined Buffer Requirement. The capital conservation plan must include the following:
+
+(a)
+
+estimates of income and expenditure and a forecast balance sheet;
+
+(b)
+
+measures to increase the CET1 Capital of the Authorised Person;
+
+(c)
+
+a plan and timeframe for the increase of CET1 Capital with the objective of restoring the Combined Buffer; and
+
+(d)
+
+any other information the Regulator might need in order to carry out its considerations referred to in Rule 3.19.10 effectively.
+
+3.19.10 (1)
+
+Following assessment, the Regulator will approve the capital conservation plan only if it considers that the plan, if implemented, would be reasonably likely to conserve or raise sufficient CET1 Capital to enable the Authorised Person to meet its Combined Buffer Requirement, within a period that the Regulator considers appropriate.
+
+(2)
+
+If the Regulator does not approve the capital conservation plan, the Regulator may require the Authorised Person to increase its CET1 Capital to meet the Combined Buffer Requirement, within a specified period of time. The Regulator may also impose more stringent restrictions on distributions than those imposed under Rule 3.19.3 where the capital conservation plan is not approved.
+
+Guidance
+
+Where the Risk Capital Requirement forms the Capital Requirement of an Authorised Person in Category 1, 2, or 5 it should therefore hold sufficient total Capital Resources of the quality required to meet the following requirements:
+
+a.
+
+the capital ratios specified in Rule 3.16.2;
+
+b.
+
+any Individual Capital Requirement as may be imposed pursuant to Chapter 10;
+
+c.
+
+the Combined Buffer; and
+
+d.
+
+any other buffer, where applicable.
+
+3.20
+
+Adequate Capital Resources For Categories 3B, 3C and 

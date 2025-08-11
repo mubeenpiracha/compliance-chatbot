@@ -1,0 +1,31 @@
+ share or debenture certificate), a Person who has physical possession of the certificate ‘holds’ it. It is possible that the Person who has physical possession is also the legal owner (i.e. the Person in whose name the title to the certificate is registered). If this is not the case, the Person who ‘holds’ the certificate is generally regarded as an agent of the legal owner whose name appears on the share or debenture certificate. An example would be a firm Providing Custody in whose name the certificates are registered, but the actual possession of the certificates is with a Third Party Agent (custodian) appointed by the firm. In this example, the firm Providing Custody continues to be subject to the Client Investments provisions in COB 6.13 and the Safe Custody Provisions in COB App6.
+
+12.
+
+In the case of Investments which are held in uncertificated or dematerialised form, the Person in whose name the rights to the relevant Investments are registered (by the central securities depository) is the holder and controller of the relevant Investments. Generally, the ‘PIN’ or other unique identifier of the owner of the Investments will be issued to the Person in whose name the dematerialised Investments are registered. Again, a firm that Provides Custody may appoint a Third Party Agent to hold and have access to them, in which case, the firm Providing Custody indirectly holds and controls those Investments, and remains accountable to the Client for the safe custody of those Investments. The firm must also comply with the Client Investments provisions in COB 6.13 and the Safe Custody Provisions in COB App6.
+
+13.
+
+A Person, who has the power and authority to give directions in relation to Investments, controls the relevant Investments. Generally, the Person who is the legal owner would have the power to give such directions. Examples are directions to effect transactions, to reinvest dividends or other income arising from the Investments, and to carry out corporate actions relating to the exercise of rights attaching to the Investments (e.g. to vote or appoint proxies to vote and to accept or renounce a rights offer/issue of Investments). A firm Providing Custody would carry out such tasks for the purposes of administering Client Investments, either directly (i.e. itself) or indirectly (i.e. through a Third Party Agent appointed by it).
+
+What is the relationship between ‘Providing Custody’ and ‘holding or controlling’ Client Assets for Crypto Tokens?
+
+14.
+
+Much of the above Guidance relating to Investments is equally applicable to Crypto Tokens. For example, a firm Providing Custody of Crypto Tokens, in safeguarding
+
+27
+
+GEN/VER67/03-25
+
+GENERAL (GEN)
+
+and administering those Tokens, must hold and control the Crypto Tokens. Therefore, the firm is subject to the Client Crypto Token provisions in COB section 6.13 and the Safe Custody Provisions in COB App6. The firm may hold and control Client Crypto Tokens directly (i.e. itself) or indirectly (i.e. through a Third Party Agent).
+
+15.
+
+In the case of Crypto Tokens, the Person in whose name the Token, cryptographic key or the Digital Wallet is registered on the blockchain is the holder and controller of that Token. For example, a private key or another unique identifier, expressed in the form of a string of numbers or QR code, will be issued to the Person in whose name the Tokens are registered. A firm that Provides Custody may appoint a Third Party Agent to hold and have access to them, in which case, the firm Providing Custody indirectly holds and controls those Tokens and remains accountable to the Client for the safe custody of the Tokens. The firm must also comply with the Client Asset provisions in COB 6.13 and the Safe Custody provisions in COB App6.
+
+16.
+
+A Person, who has the power and authority to give directions in relation to Crypto Tokens, controls that Token. Generally, the Person who is the legal owner would have the power to give such directions. For example, directions to effect transactions in the form of exchanging or transferring the Token, participating in the consensus mechanism where applicable, reinvesting rewards or other income arising from the token, or exercising other rights, including rights of early access or discounts to products and services offered on the native blockchain of the Token. A firm Providing Custody would carry out such tasks for the purposes of administering the Client’s Crypto Tokens, either

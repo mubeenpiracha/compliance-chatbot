@@ -1,0 +1,125 @@
+ the constitutional documents of the Insurer or the terms of insurance contracts or both, participate in the surpluses and losses of Takaful business;
+
+(c)
+
+the amount of any investment by the Insurer or by a Subsidiary of the Insurer, in the Insurer’s own shares;
+
+(d)
+
+the amount of any tax liability that would be attributable to unrealised gains on investments, if those gains were realised;
+
+(e)
+
+the amount of deferred acquisition costs;
+
+(f)
+
+the amount of any deferred tax asset;
+
+(g)
+
+the amount of any asset representing the value of in-force Long-Term Insurance Business of the Insurer;
+
+(h)
+
+the amount of any goodwill, patents, service rights, brands and any other intangible items;
+
+(i)
+
+the amount of any Zakah or charity fund of a Takaful Insurer;
+
+(j)
+
+the amount of any operating assets, including inventories, plant and equipment, and vehicles; and
+
+(k)
+
+the amount of any other assets that may not be applied to meet Insurance Liabilities of the Insurer.
+
+A3.4.4 Rule A3.4.3(l) does not require an Insurer to exclude assets attributable to a Long-
+
+Term Insurance Fund maintained by the Insurer.
+
+A3.5
+
+Hybrid capital adjustment
+
+Guidance
+
+1.
+
+This section acts to limit hybrid capital to 15% of an Insurer’s adjusted equity.
+
+2.
+
+The purpose of the hybrid capital adjustment is to limit the extent to which an Insurer may rely for its Adjusted Capital Resources on instruments that do not or may not constitute permanent capital of the Insurer. Such instruments include share capital contributed by a Holding Company, where the Holding Company’s investment is financed by debt rather than by its own capital.
+
+A3.5.1 Hybrid capital includes the following items:
+
+(a)
+
+subordinated debt;
+
+(b)
+
+preference shares;
+
+(c)
+
+Owners’ Equity in a Takaful Insurer, of the type described in Rule A3.3.3; and
+
+68
+
+PIN/VER18/04-23
+
+PRUDENTIAL – INSURANCE BUSINESS (PIN)
+
+(d)
+
+ordinary shares issued by an Insurer to a Holding Company whose own paid-up ordinary share capital, taken together with its general reserves, is lower than that of the Insurer.
+
+A3.5.2 Subject to Rule A3.5.3, an Insurer must calculate its hybrid capital adjustment as the amount by which the total amount of hybrid capital exceeds 15% of adjusted equity.
+
+A3.5.3 The DFSA may at its discretion and on the application of an Insurer, permit that Insurer to apply Rule A3.5.2 as though the figure of 15% was replaced with a higher figure approved in writing by the DFSA. The approved figure may not be more than the actual percentage which the hybrid capital represents of adjusted equity, and may not in any case exceed 30%.
+
+69
+
+PIN/VER18/04-23
+
+PRUDENTIAL – INSURANCE BUSINESS (PIN)
+
+APP4 CALCULATION OF MINIMUM CAPITAL REQUIREMENT
+
+A4.1 Purpose and general provisions
+
+A4.1.1 This appendix applies to all Insurers to which section 4.3 applies.
+
+Guidance
+
+1.
+
+This appendix sets out the manner in which an Insurer that is not a Protected Cell Company is required to calculate its Minimum Capital Requirement. The equivalent provisions for Insurers that are Protected Cell Companies are set out in App6.
+
+2.
+
+The Minimum Capital Requirement is calculated by determining individual components in respect of various specific risks that the Insurer is exposed to, and adding those components together to arrive at the Minimum Capital Requirement.
+
+A4.2 Minimum capital requirement
+
+A4.2.1 Subject to Rule A4.2.2, an Insurer must calculate its Minimum Capital Requirement
+
+according to the following applicable formula:
+
+(a)
+
+for an Insurer, other than a Captive Insurer: MCR = DRC + IVRC + OARC + OLRC + CRC + SFAC + URC + RRC + LIRC + AMRC;
+
+(b)
+
+for a Class 1 Captive Insurer: MCR = higher of URC and RRC; and
+
+(c)
+
+for a Class 2 and Class 3 Captive Insurer: MCR = DRC + IVRC + URC + RRC;’
+
+Where the following

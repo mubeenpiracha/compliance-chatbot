@@ -1,0 +1,113 @@
+ Financial Institution which is authorised to accept or take Deposits.
+
+(2)
+
+In respect of (1)(a) and (b), an Authorised Firm must not hold any excess Client Money with the Third Party Agent longer than necessary to effect a Transaction or satisfy the Client’s obligation.
+
+A5.7.2 When an Authorised Firm opens a Client Account with a Third Party Agent it must obtain, within a reasonable period, a written acknowledgement from the Third Party Agent stating that:
+
+(a)
+
+all Money standing to the credit of the account is held by the Authorised Firm as agent and that the Third Party Agent is not entitled to combine the account with any other account or to exercise any charge, mortgage, lien, right of set-off or counterclaim against Money in that account in respect of any sum owed to it on any other account of the Authorised Firm; and
+
+(b)
+
+the title of the account sufficiently distinguishes that account from any account containing Money that belongs to the Authorised Firm, and is in the form requested by the Authorised Firm.
+
+Guidance
+
+The DFSA would consider twenty days as being a reasonable period for an Authorised Firm to receive a written acknowledgement from the Third Party Agent.
+
+A5.7.3
+
+If the Third Party Agent does not provide the acknowledgement referred to in Rule A5.7.2 within a reasonable period, the Authorised Firm must refrain from making further deposits of Client Money with that Third Party Agent and withdraw any Client Money standing to the credit of that Client Account.
+
+A5.8 Payment of client money from client accounts
+
+A5.8.1 An Authorised Firm must have procedures for ensuring all withdrawals from a Client
+
+Account are authorised.
+
+A5.8.2 Subject to Rule A5.8.3, a Segregated Client’s Client Money must remain in a Client
+
+Account until it is:
+
+(a)
+
+due and payable to the Authorised Firm;
+
+210
+
+COB/VER48/03-25
+
+CONDUCT OF BUSINESS (COB)
+
+(b)
+
+paid to the Client on whose behalf the Client Money is held;
+
+(c)
+
+paid in accordance with a Client instruction on whose behalf the Client Money is held;
+
+(d)
+
+required to meet the payment obligations of the Client on whose behalf the Client Money is held; or
+
+(e)
+
+paid out in circumstances that are otherwise authorised by the DFSA.
+
+A5.8.3 Money paid out by way of cheque or other payable order under Rule A5.8.2 must remain in a Client Account until the cheque or payable order is presented to the Client’s bank and cleared by the paying agent.
+
+A5.8.4 An Authorised Firm must not use Client Money belonging of one Client to satisfy an
+
+obligation of another Client.
+
+Guidance
+
+The effect of Rule A5.8.4 is that an Authorised Firm would be required to deposit its own Money into a Client Account to remedy a shortfall arising from a client debit balance.
+
+A5.8.5 An Authorised Firm must have a system for ensuring no off-setting or debit
+
+balances occur on Client Accounts.
+
+A5.9 Client disclosure
+
+A5.9.1 Before, or as soon as reasonably practicable after, an Authorised Firm receives Client Money belonging to a Segregated Client, it must disclose to the Client on whose behalf the Client Money is held:
+
+(a)
+
+the basis and any terms governing the way in which the Client Money will be held;
+
+(b)
+
+that the Client is subject to the protection conferred by the DFSA’s Client Money Provisions and as a consequence:
+
+(i)
+
+this Money will be held separate from Money belonging to the Authorised Firm; and
+
+(ii)
+
+in the event of the Authorised Firm’s insolvency, winding up or other Distribution Event stipulated by the DFSA, the Client’s Money will be subject to the DFSA’s Client Money Distribution Rules;
+
+(c)
+
+whether interest is payable to the Client and, if so, on what terms;
+
+(d)
+
+if applicable, that the Client Money may be held in a jurisdiction outside the DIFC and the market practices, insolvency and legal regime applicable in that jurisdiction may differ from the regime applicable in the DIFC;
+
+(e)
+
+if applicable, details about how any Client Money arising out of Islamic Financial Business are to be held;
+
+211
+
+COB/VER48/03-25
+
+CONDUCT OF BUSINESS (COB)
+
+(f

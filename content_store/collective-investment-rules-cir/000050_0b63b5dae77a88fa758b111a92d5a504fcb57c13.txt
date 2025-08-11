@@ -1,0 +1,99 @@
+.4
+
+10.5.5
+
+10.5.6
+
+COLLECTIVE INVESTMENT RULES (CIR)
+
+Investment in other Funds
+
+A Fund may invest in Units of another Fund, except where otherwise provided in the Rules in this module, only where the Fund Manager has taken reasonable care to determine, before investing in that other Fund, it:
+
+(a)
+
+is the subject of an independent annual audit conducted in accordance with IFRS or US GAAP;
+
+(b)
+
+has mechanisms in place to enable Unitholders to redeem their Units within a reasonable time if it is an Open-ended Fund;
+
+(c)
+
+is prohibited from having more than 20% of its value in the Units of other Funds; and
+
+(d)
+
+has a proper and disclosed basis for asset valuation and the pricing of Units in that Fund.
+
+Transactions in derivatives
+
+(1)
+
+The total exposure of a Public Fund to Derivatives may not exceed the net asset value of the Fund Property.
+
+(2)
+
+The Fund Manager’s systems and controls must include adequate risk management processes which enable it to monitor and measure as frequently as appropriate the risk of a Fund’s Derivative positions and their contribution to the overall risk profile of the Fund.
+
+Guidance
+
+1. There are additional requirements relating to liquidity risk management, including liquidity risks resulting from the use of certain classes of assets (such as Derivatives) giving rise to credit or counterparty exposure in Open-ended Domestic Funds (see Rule 8.6A.1(2)).
+
+2. An Exchange Traded Fund (ETF) which is a ‘synthetic ETF’ (see Guidance items 11 – 14 under Rule 13.9.6 for descriptions of different types of synthetic ETFs) would use Derivatives, such as a total return swap, to replicate the performance of the specified index or other benchmark it tracks. The Prospectus of a synthetic ETF is required to include details relating to counterparty and collateral-related risks associated with the use of synthetic replication of the performance of the relevant underlying index or benchmark through the use of Derivatives (see Rule 14.4.8(i)).
+
+Stock lending and borrowing
+
+(1)
+
+Subject to the Fund’s Constitution and its most recent Prospectus, the Fund Manager, or the Eligible Custodian or Trustee at the request of the Fund Manager, may enter into:
+
+(a)
+
+stock lending arrangements in respect of any Securities forming the Fund Property; and
+
+(b)
+
+stock borrowing arrangements.
+
+79
+
+CIR/VER38/08-24
+
+10.5.7
+
+10.5.8
+
+10.5.9
+
+COLLECTIVE INVESTMENT RULES (CIR)
+
+(2)
+
+The Fund Manager must ensure that the value of any collateral for the stock lending arrangement is at all times at least equal to the value of the Securities transferred.
+
+Borrowing
+
+(1)
+
+Subject to the Fund’s Constitution and its most recent Prospectus, the Fund Manager, or the Eligible Custodian or Trustee on the instructions of the Fund Manager, may borrow money for the use of the Fund on terms that the borrowing is to be repayable out of the Fund Property.
+
+(2)
+
+The Fund Manager must ensure, except in the case of a Property Fund, that the Fund’s borrowing does not on any day exceed 20% of the net asset value of the Fund Property and must take reasonable care to ensure that arrangements are in place that will enable borrowings to be repaid to ensure such compliance.
+
+(3) Where the limit in (2) is breached, the Fund Manager must take
+
+immediate action to deal with that breach.
+
+(4)
+
+In this Rule, "borrowing" also includes any arrangement including a combination of Derivatives to achieve a temporary injection of money into the Fund Property in the expectation that the sum will be repaid.
+
+Investment in Real Property
+
+A Fund Manager of a Fund other than a Property Fund must before investing in Real Property, appoint, with the approval of the Person providing the oversight function for the Fund, a Valuer with relevant expertise who meets the requirements in Rule 13.4.19 and likewise upon any vacancy to ensure that any property in the Fund Property is expertly valued.
+
+(1)
+
+The Fund Manager must ensure that the Valuer appointed under Rule 10.5.8 procures the proper valuation of all the property held within the Fund Property, on the basis

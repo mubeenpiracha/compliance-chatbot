@@ -1,0 +1,97 @@
+ the applicable requirements in FSMR or these Rules.
+
+2.
+
+Rules 5.1.3 and 5.1.4 exclude from being treated as Offers any Transactions undertaken by an Authorised Person where such Transactions are Execution- only Transactions, or Transactions for the purposes of managing a discretionary portfolio for a Client, or for the purposes of redeeming a Unit of a Fund for a Client. Similarly, an offer made by an Authorised Person to a Market Counterparty is also excluded from being an Offer that is restricted by these Rules. As a result, such excluded Transactions and offers are not subject to the requirements in these Rules relating to the marketing of Units.
+
+3.
+
+This Part of the Rulebook sets out the detailed requirements that apply to the Offer of Units of Domestic and Foreign Funds, including Prospectus disclosure
+
+19
+
+FUNDS VER10.100625
+
+by Authorised Persons. The Rules in this Chapter supplement provisions of COBS, which also govern the carrying on of Regulated Activities by an Authorised Person, except where otherwise provided.
+
+4.
+
+Part 6 of MKT governs the listing of the Units of a Fund and continuous disclosure obligations that apply to in relation to Listed Funds.
+
+8.
+
+REGULATOR NOTIFICATION
+
+8.1
+
+Regulator Notification
+
+(1) An Authorised Person must, within 30 days of commencing marketing any Fund in or from ADGM, notify the Regulator of certain details relating to the Fund, being:
+
+(a)
+
+the name of the Fund;
+
+(b)
+
+the structure and type of vehicle of the Fund; and
+
+(c)
+
+the investment policy and strategy of the Fund.
+
+(2) The Regulator may require such notification to contain, and be accompanied by, such other information as the Regulator may reasonably require.
+
+(3) Rule 8.1 does not require a Fund Manager to make any notification to the Regulator in respect of a Fund where a registration or notification has already been made in respect of that Fund under Section 107 or Section 112 of FSMR.
+
+9.
+
+MARKETING OF DOMESTIC FUNDS AND PROSPECTUS DISCLOSURE
+
+9.1
+
+Prospectus disclosure for Domestic Funds
+
+Guidance
+
+1.
+
+While an Authorised Person is required by virtue of these Rules when making an Offer of a Unit of a Domestic Fund to another Person to make available to that other Person a Prospectus, the obligation to produce a Prospectus is imposed under Rule 9.2 on the Fund Manager of a Domestic Fund.
+
+2.
+
+This Chapter sets out the detailed requirements that apply to the Fund Manager who is obliged to produce a Prospectus, and the obligations and liabilities relating to Prospectuses, as well as the obligation relating to making available a Prospectus which applies to the activity of making an Offer of Units.
+
+3.
+
+Some requirements relating to Prospectus disclosure are common to all Domestic Funds. However, in other areas, particularly relating to the content of disclosure required in a Prospectus, and the manner of distribution, different requirements apply depending on whether the Fund is a Public Fund, Exempt Fund or Qualified Investor Fund.
+
+4.
+
+The requirements relating to Domestic Funds do not apply to a Foreign Fund managed by an Authorised Fund Manager, unless otherwise provided in FSMR or these Rules. As a result, the general Prospectus requirements set out in these Rules do not apply to Foreign Funds, except that:
+
+20
+
+FUNDS VER10.100625
+
+a.
+
+any offering document prepared in connection with the Foreign Fund is regarded as a Prospectus for the purposes of the requirements relating to the Offer of Units of such a Fund in or from ADGM; and
+
+b.
+
+the Regulator has the power to prescribe any additional disclosure to be included in such a document.
+
+Those requirements are specified in Rules 10.1.1 to 10.1.7.
+
+Application
+
+9.1.1
+
+(1) This Chapter applies, subject to (4), to a Fund Manager of a Domestic Fund, and each Director or partner of the Fund Manager and, if it has a Governing Body, each member of that body.
+
+(2) This Chapter also applies (to the extent stated herein) to an Authorised Person, and each of its Directors or partners, where such a Firm is not the Fund Manager and undertakes the marketing of Units of a Domestic Fund.
+
+(3) This Chapter also applies to other specified Persons to the extent so specified.
+
+(

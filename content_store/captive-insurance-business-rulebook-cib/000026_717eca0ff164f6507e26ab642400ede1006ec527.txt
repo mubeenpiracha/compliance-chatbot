@@ -1,0 +1,71 @@
+.2(4)(c) both apply, the amount set out in 10.3.2(4)(a); and
+
+44
+
+CIB VER06.290725
+
+(e)
+
+in the case of a Captive Insurer to which Rules 10.3.2(4)(c) and 10.3.2(4)(d) both apply, the amount set out in Rule 10.3.2(4)(d).
+
+(5)
+
+The assets referred to in Rule 10.3.2(1) must be made available in one of or a combination of the two arrangements:
+
+(a)
+
+assets of a type described in PIN 4.6.3 may be deposited with a custodian nominated or approved in writing by the Regulator; or
+
+(b)
+
+a Person, whose activities are primarily financial in nature and is nominated or approved in writing by the Regulator, may issue a confirmed letter of credit in favour of the Regulator, for the amount of the assets required to be made available.
+
+(6)
+
+The terms and conditions of a custody arrangement referred to in Rule 10.3.2(5)(a) or a letter of credit referred to in Rule 10.3.2(5)(b) and any change to those terms and conditions, must be notified to the Regulator, which may within two months of such notification require the Captive Insurer to make any change to the terms and conditions of the arrangement or letter of credit.
+
+(7)
+
+The Regulator may, by written notice to a Captive Insurer, require the Captive Insurer to charge in favour of the Regulator part or all of any assets deposited with a custodian in accordance with Rule 10.3.2(5)(a).
+
+(8)
+
+The Captive Insurer must reassess, as at the end of March, June, September and December in each year, the amount of the assets that the Captive Insurer is required by a collateral notice to make available, and the amount of assets made available by the Captive Insurer.
+
+(9)
+
+The Captive Insurer must report to the Regulator, within two months of the date as at which the reassessment referred to in Rule 10.3.2(8) is performed, the results of that reassessment and details of any action taken or proposed to be taken as a result of that assessment.
+
+(10)
+
+If the reassessment referred to in Rule 10.3.2(8) shows that the amount of assets made available is less than the amount that the Captive Insurer is required to make available, the Captive Insurer must, within two months of the effective date of the reassessment, make additional assets available so that the Captive Insurer complies with the requirements of the collateral notice.
+
+(11)
+
+If the reassessment shows that the amount of assets made available is more than the amount that the Captive Insurer is required to make available, the Captive Insurer may, with the written consent of the Regulator, remove assets from those made available provided that the Captive Insurer complies with the requirements of the collateral notice after the assets have been removed.
+
+10.3.3 Captive Insurers in run-off must notify Regulator of certain contracts
+
+(1)
+
+This Rule applies to any Captive Insurer referred to in Rule 10.3.1.
+
+45
+
+CIB VER06.290725
+
+(2)
+
+A Captive Insurer to which this Rule applies must inform the Regulator in writing of the existence and principal features of any contract which it enters into in respect of its Insurance Business in run-off, including Insurance Business carried on through a Captive Cell or a Long-Term Insurance Fund that is in run-off, or that is in existence at the time the Captive Insurer places that Insurance Business into run-off, and that is of any of the following types:
+
+(a)
+
+contracts, other than Contracts of Insurance effected by the Captive Insurer prior to going into run-off, with parties that are Related to the Captive Insurer;
+
+(b)
+
+contracts relating to the management of the Insurance Business in run- off, and any other contracts with the same counterparty or parties Related to that counterparty; or
+
+(c)
+
+contracts for reinsurance of the Insurance Business that is in run-off, and any other contracts with the same counter

@@ -1,0 +1,127 @@
+ of commodity type k in hedging set j.
+
+Guidance
+
+The effective notional for each commodity derivative, calculated in accordance with the above formula, is the sum of the trade-level adjusted notional amounts multiplied by the supervisory delta adjustments and the maturity factor.
+
+A4.6.56 The Authorised Person must determine the add-on for all commodity derivatives of
+
+commodity type k in accordance with the following formula:
+
+𝐴𝑑𝑑𝑂𝑛(𝑇𝑦𝑝𝑒𝑘
+
+𝑗) = 𝑆𝐹
+
+(𝐶𝑜𝑚) ∗ 𝐸𝑓𝑓𝑒𝑐𝑡𝑖𝑣𝑒𝑁𝑜𝑡𝑖𝑜𝑛𝑎𝑙𝑘 𝑗 𝑇𝑦𝑝𝑒𝑘
+
+(𝐶𝑜𝑚)
+
+300
+
+PRU VER17.290725
+
+A4.6.57 The Authorised Person must determine the add-on for its commodity hedging set in
+
+accordance with the following formula:
+
+2
+
+(𝐶𝑜𝑚) = [(𝜌𝑗
+
+𝐴𝑑𝑑𝑂𝑛𝐻𝑆𝑗
+
+(𝐶𝑜𝑚) ∗∑𝐴𝑑𝑑𝑂𝑛(𝑇𝑦𝑝𝑒𝑘 𝑗) )
+
++ (1 − (𝜌𝑗
+
+𝑘
+
+(𝐶𝑜𝑚))2) ∗∑(𝐴𝑑𝑑𝑂𝑛(𝑇𝑦𝑝𝑒𝑘
+
+2 𝑗))
+
+]
+
+1 2
+
+𝑘
+
+(com) is the appropriate correlation factor, determined in accordance with the
+
+where ρj table in A4.6.34, for the hedging set j.
+
+A4.6.58 The Authorised Person must determine the add-on for its commodity asset class in
+
+accordance with the following formula:
+
+(𝐶𝑜𝑚)
+
+𝐴𝑑𝑑𝑂𝑛(𝐶𝑜𝑚) = ∑𝐴𝑑𝑑𝑂𝑛𝐻𝑆𝑗
+
+𝑗
+
+A4.7
+
+Credit RWA - repurchase agreements, reverse repurchase agreements, similar transactions and other deferred settlements
+
+A4.7.1
+
+This Section applies to transactions in the Trading Book in relation to repurchase agreements, reverse repurchase agreements, similar transactions and deferred settlements.
+
+A4.7.2
+
+For repurchase agreements and reverse repurchase agreements the formula for Credit RWA, which must be calculated from T, is as follows:
+
+Credit RWA = E x CRW.
+
+A4.7.3
+
+For repurchase agreements:
+
+E = MV of the Securities sold - value of the Collateral or cash received.
+
+A4.7.4
+
+For reverse repurchase agreements:
+
+E = Amount paid or Collateral given - MV of the Securities received.
+
+A4.7.5
+
+If the E calculated is negative:
+
+Credit RWA = 0.
+
+A4.7.6
+
+The MV of Securities and the value of cash lodged must include accrued interest.
+
+A4.7.7
+
+The MV of Securities and the value of Collateral under Rules A4.7.3 to A4.7.6 should be calculated in accordance with the CRM provisions set out in Section 4.13.
+
+A4.7.8
+
+For deferred settlement purchases and sales transactions over the spot period:
+
+Credit RWA = 0.
+
+301
+
+PRU VER17.290725
+
+A4.7.9
+
+The 'spot period' means the shortest time between T and:
+
+(a)
+
+the contractual settlement date;
+
+(b)
+
+the normal local market settlement date; and
+
+(c)
+
+T + five business

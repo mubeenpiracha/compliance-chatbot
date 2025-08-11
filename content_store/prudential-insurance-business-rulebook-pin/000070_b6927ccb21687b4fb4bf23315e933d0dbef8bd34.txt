@@ -1,0 +1,55 @@
+Term
+
+Definition
+
+AMRC
+
+Asset management risk component in respect of the fund.
+
+A8.2.2 The methods of calculation of the components referred to in Rule A8.2.1 are set out in
+
+Rules A8.4, A8.5, A8.6, A8.7, A8.8, A8.9, A8.10 and A8.11.
+
+A8.2.3 The Minimum Fund Capital Requirement in respect of a Long-Term Insurance Fund must
+
+always be equal to or higher than $5,000,000.
+
+A8.3 Applicability of components to assets of the fund
+
+A8.3.1 Subject to Rule A8.3.2, an Insurer must calculate those components of the Minimum Fund Capital Requirement in respect of a Long-Term Insurance Fund, which are relevant to assets, in respect of every asset that is attributable to the Long-Term Insurance Fund.
+
+A8.3.2 Where an Insurer arranges its affairs such that Invested Assets attributable to a Long-Term Insurance Fund are held in a Related entity, the Insurer may, with the written approval of the Regulator, calculate components of the Minimum Fund Capital Requirement by reference to the interest of the Long-Term Insurance Fund in the assets that are held by the Related entity, instead of by reference to the interest that the Long-Term Insurance Fund has in that Related entity. In that case this appendix shall be interpreted as though the assets (representing the Long-Term Insurance Fund's interest) held by the Related entity were held directly by the Long-Term Insurance Fund.
+
+Guidance
+
+The effect of Rule A8.3.2 is to provide flexibility for Insurers whose investments are managed on a pooled basis within a Group, or which establish specialist Subsidiaries to manage their investments. While the Insurer's asset in such cases is a balance with, or investment in, a Related entity, this Rule permits the Insurer to 'look through' the corporate arrangement and apply this appendix to the assets of the Related entity as though they were the Insurer's own. This flexibility extends to Invested Assets attributable to Long-Term Insurance Funds, though this provision does not provide any exemption from Rule 3.4 in respect of segregation of assets.
+
+A8.4 Default risk component
+
+Guidance
+
+The purpose of the default risk component is to require an Insurer to set aside capital to cover the risk that amounts receivable from counterparties will not be received. The basic calculation model for this component, as it applies to Insurers that are not Cell Companies, is set out in Rule A4.4. The provisions in this section apply the relevant provisions of Rule A4.4 to each Long-Term Insurance Fund that an Insurer maintains.
+
+A8.4.1 An Insurer must calculate the default risk component in respect of a Long-Term Insurance Fund as the sum of the amounts obtained by multiplying the value of each
+
+115
+
+PIN VER07.290725
+
+asset attributed to the fund with the relevant percentage, in accordance with the following tables and subject to the provisions of Rules A8.4.2 and A8.4.3:
+
+(a)
+
+assets that are Invested Assets: the table set out in Rule A4.4.1(a); and
+
+(b)
+
+assets that are not Invested Assets: the table set out in Rule A4.4.1(b).
+
+A8.4.2 The provisions of Rules A4.4.2, A4.4.3, A4.4.4, A4.4.5 and A4.4.6 must be applied, mutatis mutandis, to assets attributed to a Long-Term Insurance Fund as though references in those Rules to an Insurer were instead references to a Long-Term Insurance Fund.
+
+A8.4.3 Notwithstanding anything else in this section:
+
+(a)
+
+the default risk component in respect of any asset that is subject to a fixed or floating charge, mortgage or other encumbrance must be 100% of the value of the asset to the extent of that charge, mortgage or encumbrance. In the case of such assets, the percentages set out in the tables referred to above must be applied only to the amount, if any, by which the value of the asset exceeds the amount

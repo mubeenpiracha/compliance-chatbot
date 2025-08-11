@@ -1,0 +1,93 @@
+ covered in this guidance.
+
+Note: if a Company has already been dissolved, it will need to be restored to the register before applying for liquidation. Please refer to the CR 2020 for the requirements on company restoration.
+
+How a liquidation is managed
+
+2.7
+
+Liquidation is overseen by a liquidator (insolvency practitioner). All liquidators appointed to a voluntary liquidation must be licensed as an insolvency practitioner under the CLR 2015 and registered on the register of Insolvency Practitioners under IR 2015.
+
+2.8
+
+For an MVL, the shareholders choose and appoint the liquidator, while for a CVL, the Company’s creditors choose and appoint the liquidator.
+
+2.9
+
+The expenses of the winding up, including the liquidator’s fees, are payable by the Company in priority to the claims of unsecured creditors.
+
+VER1.0-12082020
+
+Page 5 of 12
+
+Voluntary Liquidation Guidance
+
+Part 3 – Members’ Voluntary Liquidation (MVL)
+
+When an MVL is applicable
+
+3.1
+
+An MVL can take place where it has been decided that a Company is no longer required (for example, it is no longer needed, there is a lack of business or there no one to continue running the Company), and the directors of the Company believe that the Company is solvent (can pay its debts and liabilities).
+
+Declaration of solvency
+
+3.2
+
+Where it is proposed to wind up a Company using an MVL, the Directors (or, in the case of a Company having more than two Directors, the majority of them), must make a declaration of solvency.
+
+3.3
+
+The declaration of solvency must state that the directors have made a full inquiry into the Company’s affairs and that, having done so, they have formed the opinion that the Company will be able to pay its debts in full, together with interest, within 12 months from the start of the winding-up process.
+
+3.4
+
+The directors must make a declaration of solvency within the five weeks immediately before a resolution to wind up the Company is passed.
+
+Making a declaration of solvency
+
+In addition to writing a statement that the Directors have assessed and formed the opinion that the Company can pay its debts in full, with interest, you should include:
+
+a) the name and address of the company; b) the names and addresses of the company’s directors; and c) how long it will take the company to pay its debts (which must be no longer than 12
+
+months from the start of liquidation).
+
+Commencement of liquidation
+
+3.5
+
+The liquidation is deemed to have commenced at the time of the passing of a Special Resolution (“resolution”) by members for voluntary winding up at a general meeting.
+
+Notice of a members’ voluntary liquidation
+
+3.6
+
+When the members have passed a resolution for an MVL, the Company must publish a notice of the resolution in the ADGM within seven days.
+
+Publishing a notice of members’ voluntary winding up in the ADGM
+
+To satisfy the requirement to publish a notice in the ADGM, the Registrar expects that a Company will publish an advertisement in both an English and an Arabic language newspaper, each with a wide circulation that includes the ADGM and the Emirate of Abu Dhabi, UAE.
+
+The advertisement should be published for three consecutive days.
+
+VER1.0-12082020
+
+Page 6 of 12
+
+Voluntary Liquidation Guidance
+
+Status of Company once liquidation commences
+
+3.7
+
+From the commencement of the liquidation, a Company must cease to carry on business, except where required for its beneficial winding up. For example, a Company may sell any of its remaining inventory as this is required for its beneficial winding up.
+
+Conversion of MVL to CVL
+
+3.8
+
+During an MVL, if the liquidator decides that the company will not be able to pay its debts in full within the period stated in the directors’ declaration of solvency, the liquidation becomes a CVL (see Part 5 of the guidance for more information).
+
+3.9
+
+Where the liquidator takes that decision, the liquidator must call a meeting of the creditors, notice of which shall not be less than seven days. The liquidator must prepare a Statement of Affairs of the Company and provide it to the

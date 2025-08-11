@@ -1,0 +1,89 @@
+ of a Controlled Function is a disciplinary measure which we may use (in addition to, or as an alternative to, other disciplinary or regulatory actions) for the purpose of promoting high standards of regulatory and market conduct in the ADGM through specific and generic deterrence, and by demonstrating the benefits of compliant behaviour to the financial services industry. It may also be used for protective purposes if we consider an Approved Person presents a risk to the ADGM financial services industry.
+
+7.6
+
+Prohibition Orders
+
+We may make a Prohibition Order if it appears to us that an individual is not a fit and proper person to perform any function in relation to a Regulated Activity carried on by an Authorised Person. In assessing whether an individual is fit and proper, we will consider the factors set out in section 2.3. Anyone who performs or agrees to perform a function in breach of a Prohibition Order contravenes FSMR.
+
+We recognise that a Prohibition Order may significantly impact an individual. In determining whether to exercise this power, we may give due consideration to various factors and circumstances as relevant, including:
+
+(a)
+
+whether it appears that the individual is not fit and proper to perform any functions or Controlled Functions in relation to Regulated Activities;
+
+(b)
+
+the scope of Regulated Activities to which the individual’s lack of fitness and propriety is relevant; and
+
+(c)
+
+the severity of risk that the individual poses, or may pose, to users, or prospective users, of the ADGM Financial System.
+
+Depending on the circumstances of each case, the Regulator may decide to:
+
+(a)
+
+prohibit an individual from performing any functions in relation to any class of Regulated Activity carried on by any Authorised Person;
+
+(b)
+
+limit the Prohibition Order to particular functions or Controlled Functions; or
+
+(c)
+
+limit the Prohibition Order to functions in relation to a Specified Regulated Activity or Specified Regulated Activities, or in relation to all Authorised Persons or a Specified class of Authorised Persons.
+
+Confidential
+
+60
+
+GPM VER06.020125
+
+When imposing a Prohibition Order, we do not usually specify that it will remain in force for a specified period. That is because it is difficult to predict when an individual found to be not fit and proper will become fit and proper in the future. Instead, the person concerned may apply under section 234(5) of FSMR to vary or revoke a Prohibition Order. It is a matter of discretion for us whether to vary or revoke a Prohibition Order and we will take into consideration all relevant circumstances when deciding whether to exercise that discretion.
+
+7.7
+
+Disqualification of auditors and actuaries under section 233 of FSMR
+
+We recognise that the use of our powers to disqualify auditors and actuaries from being an auditor of, or acting as an actuary for, a firm will have serious consequences for the auditors or actuaries concerned and their clients.
+
+In deciding whether to exercise our power to disqualify an auditor or actuary under section 233(3) of FSMR, and what the scope of any disqualification will be, we will take into account all the circumstances of the case, including:
+
+(a)
+
+the nature and seriousness of any contravention of FSMR or Rules and the effect of that contravention;
+
+(b)
+
+whether any contravention of FSMR or Rules, or any failure to disclose information to us, has resulted in or is likely to result in:
+
+(i)
+
+loss to customers;
+
+(ii)
+
+damage to the reputation of the ADGM; or
+
+(iii)
+
+an increased risk that a firm, Recognised Body or Reporting Entity may be used for the purposes of financial crime;
+
+(c)
+
+any action taken by the auditor or actuary to remedy the contravention;
+
+(d)
+
+any disciplinary action taken (or to be taken) against the auditor or actuary by a relevant professional body, and whether that action adequately addresses the particular contravention; and
+
+(e)
+
+the previous compliance record of the auditor or actuary concerned, and whether the relevant regulatory body or professional body has imposed any previous disciplinary sanctions that may be relevant.
+
+7.8
+
+Private warnings
+
+In certain cases, despite concerns about a person's behaviour and evidence of a breach of FSMR or our Rules, we may decide that it is not appropriate to take formal disciplinary action having regard to all the circumstances of the case. In such cases, instead of a financial

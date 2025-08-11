@@ -1,0 +1,125 @@
+ the Rules in this Chapter, a Person is a "Related Person" of an Authorised Person if the Person:
+
+(a)
+
+is, or was in the past two years:
+
+(i)
+
+a member of a Group or Partnership in which the Authorised Person is or was also a member; or
+
+(ii)
+
+a Controller of the Authorised Person or a Close Relative of such a Controller;
+
+(b)
+
+is, or was in the past two years, a Director, Partner or senior manager of the Authorised Person or an entity referred to under (a)(i) or (ii), or a Close Relative of such a Director, Partner or senior manager; or
+
+111
+
+PRU VER17.290725
+
+(c)
+
+is an entity in which a Director, Partner or senior manager of the Authorised Person or an entity referred to in (a)(i) or (a)(ii), or a Close Relative of such a Director, Partner or senior manager has a significant interest by:
+
+(i)
+
+holding 20% or more of the Shares of that entity, or a Parent of that entity, if that entity is a company; or
+
+(ii)
+
+being entitled to exercise 20% or more of the voting rights in respect of that entity,
+
+except that a Partner is not a Related Person where that Person is a limited Partner of a Limited Partnership formed under the Limited Partnerships Act or any similar limited Partnership constituted under the law of a country or territory outside the ADGM.
+
+Credit procedures manual
+
+4.4.7
+
+An Authorised Person must implement and maintain a documented credit procedures manual, which sets out the criteria and procedures for granting new credits, for approving extensions of existing credits and exceptions, for conducting periodic and independent reviews of credits granted and for maintaining the records for credits granted.
+
+4.4.8
+
+The credit procedures manual must establish:
+
+(a)
+
+sound, well-defined criteria for granting credit, including a thorough understanding of the borrower or Counterparty, the purpose and structure of the credit and its source of repayment;
+
+(b)
+
+well-defined processes for approving new Exposures as well as renewing and refinancing existing Exposures;
+
+(c)
+
+effective credit administration processes, including continued analysis of a borrower's ability and willingness to repay under the terms of the debt, monitoring of documentation, legal covenants, contractual requirements and Collateral;
+
+(d)
+
+effective processes for classification and grading of credit assets consistent with the nature, size and complexity of the Authorised Person's activities;
+
+(e)
+
+comprehensive processes for reporting Exposures on an ongoing basis; and
+
+(f)
+
+comprehensive processes for identifying problem Exposures, managing problem Exposures, monitoring their collections and for estimating the required level of provisions.
+
+112
+
+PRU VER17.290725
+
+Guidance
+
+The same criteria should be applied to both advised and unadvised facilities and should deal with all Credit Risks associated with the Authorised Person's business whether in the Non-Trading or Trading Book or on or off balance sheet.
+
+4.5
+
+Processes for credit assessment
+
+4.5.1
+
+(1)
+
+When utilising external credit rating agencies as part of its credit assessment processes, an Authorised Person must:
+
+(a)
+
+maintain an internal credit grading system; and
+
+(b)
+
+stress test its capital position on at least an annual basis to consider the capital implications to the Authorised Person of a significant reduction in the credit quality and associated reduction on credit ratings from credit rating agencies for its credit portfolio.
+
+(2)
+
+An Authorised Person must not solely use external credit rating agency credit ratings as a basis for its assessment of the risks associated with an Exposure, in particular in respect of a Large Exposure, and must at all times conduct its own credit assessment of such an Exposure.
+
+Guidance
+
+An Authorised Person should closely monitor the adequacy of the internal credit assessment processes, in order to assess whether there is an upward bias in internal ratings.
+
+4.5.2
+
+An Authorised Person must implement and maintain appropriate policies, processes, systems and controls to:
+
+(a)
+
+administer its credit portfolios, including keeping the credit files current, information on borrowers and other getting up-to-date important Counterparties, documents;
+
+financial
+
+funds
+
+transfer, and electronic storage of
+
+(b)
+
+ensure that the valuations of Credit Risk mitigants employed by the Authorised Person are up-to-date, including periodic assessment of Credit Risk mitigants such as guarantees and Collateral;
+
+(c)
+
+review all material

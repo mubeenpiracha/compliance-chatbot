@@ -1,0 +1,49 @@
+ to interact via the online transactional service. The information provided to customers should include prevalent techniques used by threat actors to target customers and mitigating actions that customers can take to avoid becoming a victim of compromise.
+
+12.3.3 When a financial institution updates its online financial service platforms with new interfaces or functionalities, the financial institution should provide its customers with adequate instruction or information to familiarise customers with the updates.
+
+76
+
+VER01.201124
+
+Chapter 13 – Cryptography
+
+Desired Outcomes for Cryptography
+
+Desired Outcome 13.1 – Cryptographic Schemes: A financial institution should implement secure cryptographic schemes.
+
+Desired Outcome 13.2 – Key Lifecycle Management: A financial institution should ensure cryptographic keys are managed securely throughout its lifecycle.
+
+13.0.1 All cryptographic schemes comprise an algorithm and a key with the latter being the secret. The purpose of adopting cryptographic schemes is to protect the integrity and confidentiality of information that a financial institution determines as sensitive. Use of cryptographic schemes extends beyond data encryption at rest or transit and signature or certificate verification to API authentication and immutable recording of information.
+
+Desired Outcome 13.1 – Cryptographic Schemes
+
+13.1.1 A variety of cryptographic schemes are used across a financial institution’s IT implementation. A financial institution should therefore ensure that the appropriate cryptographic scheme is applied to best suit the security requirements of each use internationally recognised and tested case. Where possible, well-established cryptographic schemes should be adopted, configured to the most up-to-date security standards (e.g., key size, hash function, random function, etc.), and deployed in a manner optimised for the financial institution’s implementation. All deployment of cryptographic schemes should be in accordance with the financial institution’s established system development and testing framework.
+
+13.1.2 As technology advances, new techniques to overcome cryptography become available. Financial institutions should maintain an awareness of industry developments to ensure that their adopted cryptographic schemes remain resistant to such new techniques and update their outdated schemes with contemporary ones that are able to provide the required protection.
+
+13.1.3 Where a financial institution manages its own public key infrastructure for the management of digital certificates, the financial institution should ensure that the supporting functions (e.g., certificate authority, registration authority, central directory, certificate policy and the certificate management system, etc.) are securely configured, and controls implemented to protect them from compromise.
+
+13.1.4 Where a third-party public key infrastructure solution is used, a financial institution should conduct adequate due diligence on the third party prior to integration. Security characteristics of the solution should be assessed to ensure public key infrastructure is secured against threat actors.
+
+13.1.5 Financial institutions should evaluate the need for implementing post-quantum cryptography (PQC) or quantum key distribution (QKD) capabilities for sensitive
+
+77
+
+VER01.201124
+
+datasets and network communications. For example, in relation to the threat of ‘harvest now, decrypt later’42, financial institutions should assess the need to protect high-value data and communications that need to remain encrypted for the long term.
+
+Desired Outcome 13.2 – Key Lifecycle Management
+
+13.2.1 The secure management of cryptographic keys is essential to the effective use of cryptographic schemes. Where a financial institution administers its own cryptographic keys, policies and procedures on the secure generation, distribution, use, storage, renewal, revocation, recovery, and destruction should be established.
+
+13.2.2 A financial
+
+institution should ensure that keys are generated securely from cryptographic modules (hardware or software) using strong encryption algorithms. The generated keys should be stored in secure facilities such as physical or virtual hardware security modules, vaults, securely managed by a secrets management service, etc. Keys should not be hard coded into source code and should not be stored in the same location as the encrypted data. Backups of the keys should be accorded equally stringent security controls. The cryptographic key generation ceremony should be restricted to only the necessary and competent personnel.
+
+13.2.3 When cryptographic keys are used, transmitted, or transported, financial institutions should ensure that appropriate measures such as encrypting or ‘wrapping’ the keys are in place to protect against attacks on the keys’ integrity or interception by threat actors.
+
+13.2.4 Where the cryptographic scheme requires multiparty computation43, the financial institution should ensure that each key part is stored securely, and parts distributed to various parties are done so in a secure manner.
+
+13.2.5

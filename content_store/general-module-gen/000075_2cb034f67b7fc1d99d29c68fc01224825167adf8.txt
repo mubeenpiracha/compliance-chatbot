@@ -1,0 +1,155 @@
+ of DNFBPs are found in the AML module.
+
+4.
+
+This chapter should be read in conjunction with the RPP Sourcebook which sets out DFSA’s general regulatory policy and processes. Some additional processes may be outlined in other chapters of this module.
+
+5.
+
+Chapter 2 of the RPP Sourcebook sets out DFSA’s approach to the authorisation of undertakings and individuals to conduct Financial Services or Licensed Functions, as the case may be.
+
+7.2 Application for a Licence
+
+7.2.1 A Person, who intends to carry on one or more Financial Services in or from the DIFC must apply to the DFSA for a Licence, in accordance with the Rules in this section.
+
+112
+
+GEN/VER67/03-25
+
+7.2.2
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+(6)
+
+(7)
+
+(8)
+
+GENERAL (GEN)
+
+The DFSA will only consider an application for a Licence from a Person who, subject to (2), (4), (5), (6), (7) and (8) is:
+
+(a)
+
+a Body Corporate; or
+
+(b)
+
+a Partnership;
+
+and who is not an Authorised Market Institution.
+
+If the application is in respect of either or both of the following Financial Services:
+
+(a)
+
+Effecting Contracts of Insurance; or
+
+(b)
+
+Carrying Out Contracts of Insurance,
+
+the applicant must be a Body Corporate.
+
+Deleted.
+
+If the application is in respect of the Financial Service of Managing a Collective Investment Fund or Acting as the Trustee of a Fund, the applicant must be a Body Corporate.
+
+If the application is for the Financial Service of Operating or Acting as the Administrator of an Employee Money Purchase Scheme, the applicant must be a Body Corporate incorporated under the DIFC Companies Law.
+
+If the application is for Managing a Venture Capital Fund, the applicant must be a Body Corporate incorporated under the DIFC Companies Law.
+
+If the application is in respect of a Financial Service relating to a Crypto Token, the applicant must be a Body Corporate incorporated under the DIFC Companies Law, unless (8) applies.
+
+An applicant in respect of a Financial Service relating to a Crypto Token may be a Body Corporate incorporated outside the DIFC only if:
+
+(a)
+
+it was an Authorised Firm before the commencement date (as defined in Rule 10.5.1(1));
+
+(b)
+
+the Financial Service is not:
+
+(i)
+
+Operating an Alternative Trading System;
+
+(ii) Operating a Clearing House;
+
+(iii) Providing Custody; or
+
+(iv) Dealing as Principal where the applicant is to act as a
+
+Market Maker;
+
+(c)
+
+its head office is licensed to carry on the relevant Financial Service, and supervised, by a Regulator in a Recognised Jurisdiction;
+
+113
+
+GEN/VER67/03-25
+
+GENERAL (GEN)
+
+(d)
+
+its head office has arrangements in place to hold adequate regulatory capital against Crypto Tokens held on the balance sheet of the branch;
+
+(e)
+
+its head office has cyber security insurance that covers potential losses by the branch; and
+
+(f)
+
+where it will Advise on Crypto Tokens, its head office has appropriate professional that covers advising by the branch.
+
+indemnity
+
+insurance
+
+Guidance
+
+1.
+
+Section 2.2.8 of the RPP Sourcebook sets out matters which the DFSA takes into consideration when making an assessment under Rule 7.2.2.
+
+2.
+
+A Body Corporate incorporated under the DIFC Companies Law can be a Private Company or a Public Company.
+
+7.2.3 A Person licensed by the Emirates Securities and Commodities Authority to trade on an U.A.E. exchange will not be granted a Licence by the DFSA unless that Person has the prior approval of the Emirates Securities and Commodities Authority.
+
+7.2.4 A Person applying for a Licence must complete and submit the appropriate
+
+form or forms in AFN.
+
+Guidance
+
+A Person submitting an application under Rule 7.2.4 is required to:
+
+a.
+
+pay the appropriate application fee as set out in FER; and
+
+b.
+
+include information relating to its Controllers, completed by the relevant Controllers themselves, in the appropriate form in AFN.
+
+Consideration and assessment of applications
+
+7.2.5
+
+In order to become authorised to carry on one or more Financial Services, the applicant must demonstrate to the satisfaction of the DFSA that it:
+
+(a

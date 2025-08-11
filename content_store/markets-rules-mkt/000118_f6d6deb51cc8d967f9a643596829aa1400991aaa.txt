@@ -1,0 +1,97 @@
+TOKENS AND FUNDS THAT INVEST IN CRYPTO TOKENS
+
+A7.1 Additional content of a Prospectus for Security Tokens and Funds that
+
+invest in Crypto Tokens
+
+A7.1.1 For the purposes of Rules 2.5.1(3)(d), 2.7.1(3) and 6.3.3(3), the Person producing a Prospectus in relation to a Security Token or a Fund that invests in a Crypto Token must ensure that:
+
+(a)
+
+the Prospectus contains:
+
+(i)
+
+the additional information specified in Rule A7.1.2; and
+
+(ii)
+
+a statement confirming the matters specified in Rule A7.1.3 made by a suitably qualified independent third party professional, who has given consent under Rule 2.10.2(1) for that statement to be included in the Prospectus; and
+
+(b)
+
+in the case of a Security Token which will be admitted to trading on an Authorised Market Institution, Regulated Exchange, Alternative Trading System or other facility, the Prospectus contains the information specified in Rule A7.1.4.
+
+A7.1.2 The following information is specified for the purposes of Rule A7.1.1(a)(i):
+
+(a)
+
+the essential characteristics of the Security Token or Crypto Token, including the rights and obligations conferred by it and details of the Person or Persons responsible for meeting the obligations and against whom the rights can be exercised;
+
+(b)
+
+the type or types of Investment which the Security Token constitutes and a clear analysis as to how the Security Token meets the definition of the relevant type or types of Investment under GEN App 2;
+
+(c)
+
+details of the Distributed Ledger Technology that is used to issue, store or transfer the Security Token or Crypto Token;
+
+(d)
+
+how the holder of a Security Token may exercise any rights conferred by it, such as voting or participation in shareholder actions;
+
+(e)
+
+whether the Security Token or Crypto Token will be admitted to trading on an Institution, Regulated Exchange, Alternative Trading Authorised Market System or other facility and, if not, details as to how the Security Token or Crypto Token can be transferred or redeemed, how that might impact its liquidity and any resulting risks;
+
+(f)
+
+if the capital to be raised from issuing the Security Token is to be used to fund the creation of a new Token, detailed information about:
+
+(i)
+
+the project or venture to be funded;
+
+190
+
+MKT/VER24/03-25
+
+MARKETS RULES (MKT)
+
+(ii)
+
+whether it is the Issuer or a third party who will receive and apply the capital raised towards that project or venture (and if a third party, what rights and obligations a holder of the Security Token has in respect of that third party);
+
+(iii)
+
+the features of that new Token and any rights and obligations attaching to it;
+
+(iv)
+
+the terms and conditions relevant to the delivery or establishment of the project or venture, including any right of a Security Token holder to have their contribution refunded if any funding requirement is not met, the expected timetable for completion, any milestones included in that timetable and an explanation of the consequences if the timetable is not met; and
+
+(v)
+
+the risks associated with the project or venture, including those associated with the technology used to deliver or facilitate its completion or the Token’s ongoing use;
+
+(g)
+
+how title to the Security Tokens is established, certified or otherwise evidenced;
+
+(h)
+
+cybersecurity risks associated with the Security Token or Crypto Token or its underlying technology, including whether there is a risk of loss of the Security Token or Crypto Token in the event of a cyber attack, and details of steps that have been, or can be taken, to mitigate those risks;
+
+(i)
+
+details of other risks associated with the use of the DLT application, particularly those relating to Digital Wallets and the susceptibility of private cryptographic keys to misappropriation; and
+
+(j)
+
+any other information relevant to the Security Token or Crypto Token that would reasonably assist a prospective investor in making an informed decision about investing in the Security Token or Crypto Token.
+
+A7.1.3 The matters to be confirmed in the statement referred to in Rule A7.1.1(a)(ii) are that:
+
+(a)
+
+the DLT application, used to issue, store or transfer the Security Tokens offered under the Prospectus, complies with the requirements of these Rules and, is an authentic, valid and workable solution capable of

@@ -1,0 +1,35 @@
+LT, should review and consider a number of areas of the Virtual Assets Guidance (as applicable), including the following:
+
+a) Technology Governance and Controls (paragraphs 47-92); b) Accepted Virtual Assets (paragraph 25, including for Security (b) and Type of DLT(e)); c) Capital requirements (paragraphs 31-36); d) Margin Trading (paragraph 121); and e) Substance requirements (paragraphs 126-128).
+
+80) A particular area of focus for the FSRA will be the Applicant’s custody and settlement arrangements (pursuant to MIR Rules 2.10 and 3.8 (refer to paragraphs 43(b) and 44(a) respectively).
+
+MTFs & Digital Securities
+
+81) MTFs operating a market for traditional Securities seeking to operate a market in Digital Securities activities should engage with the FSRA at an early stage and be in a position to outline how they intend to continue to meet their obligations as an Authorised Person/MTF. It is important to recall that an MTF can only admit to trading Digital Securities offered by way of an Exempt Offer or that have already been admitted to a RIE (refer to paragraphs 46 and 47 respectively). As noted in paragraph 77 above, for an entity that is already operating as an MTF, one area of FSRA focus when considering an application for expansion into Digital Securities will be on the MTFs use of technology and the governance arrangements around technologies that are to be newly introduced. Further discussion about the FSRA’s expectations in this regard is set out at paragraphs 98 - 100.
+
+82) Another particular area of focus for the FSRA will be the Applicant’s custody and settlement arrangements (pursuant to MIR Rules 2.10 and 3.8 (refer to paragraphs 43(b) and 44(a) respectively).
+
+RCHs & Digital Securities
+
+83) RCHs providing services for the clearing and settlement of traditional Securities seeking to do the same for Digital Securities should engage with the FSRA at an early stage and be in a position to outline how they intend to continue to meet their obligations as a RCH (noting the points raised earlier in this Guidance in relation to the use of technology and governance arrangements of a RCH (as a Recognised Body) (refer to paragraphs 77 and 98-100). Depending on the technology used, a Securities RCH seeking to additionally operate with Digital Securities may potentially use their existing technology (DLT or similar) to enable the settlement of Digital Securities.
+
+84) In the context of clearing and settlement for Digital Securities, if it is determined that the RCH acts as a central counterparty (CCP) guaranteeing the settlement of transactions, then the RCH is considered to act as a clearing house.
+
+85) If instead, instantaneous settlement occurs within the RCH, then the RCH does not act as a CCP, as it does not establish / hold positions on either side of a trade prior to settlement
+
+VER02.240220
+
+23
+
+taking place, and it is therefore not considered to be a clearing house. Such a scenario may likely occur in the case of settlement for Digital Securities.
+
+86) RCHs (operating as a clearing house, as set out above) who settle transactions in Digital Securities, are also required to meet obligations in relation to Clearing, where this entails a process of establishing positions, including the calculation of net obligations and ensuring that Digital Securities, cash, or both are available to secure the exposures arising from such positions. DIGITAL SECURITIES – INTERMEDIARIES
+
+87) This section applies to conventional and virtual asset intermediaries such as brokers, dealers, managers, advisors and arrangers of Digital Securities.
+
+Conventional Intermediaries – Digital Securities
+
+88) A conventional intermediary licenced by the FSRA is able to provide Regulated Activities within the scope of its existing FSP in relation to Specified Investments, including Digital Securities.19 However, should such intermediaries intend to undertake activities in relation to Digital Securities, they must provide prior notification to their FSRA Supervision Relationship Manager of the proposed changes to their business model.
+
+89) Intermediaries intending to operate solely, in the context of Digital Securities, as a broker or dealer for Clients (including the operation of an OTC broking or dealing desk) are not permitted to structure their broking /

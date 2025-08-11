@@ -1,0 +1,53 @@
+ may not yet be fully developed. In such circumstances, the FSRA may require the Authorised
+
+7 IOSCO, 2019; https://www.iosco.org/library/pubdocs/pdf/IOSCOPD622.pdf
+
+7
+
+VER02.181223
+
+Person to delay the commencement of trading until such time that suitable controls have been developed and implemented.
+
+28) Due to Accepted Spot Commodities being determined for use on the basis of each individual Authorised Person, the FSRA will not maintain a ‘public’ list of Accepted Spot Commodities.
+
+Spot Commodity Title
+
+29) The FSRA’s regulatory approach under the Spot Commodities Framework allows for Accepted Spot Commodities to be settled through physical delivery or through the exchange of ownership title, which includes warrants, bills of lading or warehouse receipts. For the purposes of the Spot Commodities Framework therefore, the FSRA has defined Spot Commodity Title in GLO, as follows: “Spot Commodity Title” means an instrument that confers on the holder a right entitling the holder to hold, acquire, or transfer, an Accepted Spot Commodity.
+
+30) For clarification, and as relevant to COBS Rule 22.5, the FSRA considers a Spot Commodity Title is -
+
+a)
+
+an original legal document proving ownership over a defined and verifiable quantity or portion of a Spot Commodity;
+
+b)
+
+an original legal document that can be used to transfer ownership of a Spot Commodity;
+
+c)
+
+not a contract for the sale of a commodity under which delivery is to be made at a future date, other than the period generally accepted in the market for that Spot Commodity as the standard delivery period (it is not therefore considered a ‘Future’);
+
+d)
+
+not a Financial Instrument involving conventional assets (e.g., Securities or Derivatives); and
+
+e)
+
+not a digital, virtual or tokenised right over a Spot Commodity.
+
+31) The FSRA only permits activities involving a Spot Commodity Title where the underlying Spot Commodity which has been deemed by the FSRA to be an Accepted Spot Commodity. For the purposes of this guidance, activities applicable to Accepted Spot Commodities should be understood to include Spot Commodity Titles. Delivery & Storage
+
+32) The FSRA recognises that there is a wide range of practices related to the storage of Spot Commodities, which vary by type of Spot Commodity, trading venue, and jurisdiction. Disparities are found to varying degrees in practices related to the oversight, governance, operations and controls of storage facilities, and in the transparency afforded by those who practice it. While the FSRA does not expect that delivery and storage practices will become uniform across Accepted Spot Commodity activities, the FSRA does expect adherence to good or sound storage practices as established in COBS Rules 22.4.1 to 22.4.6.
+
+8
+
+VER02.181223
+
+33) Pursuant to COBS Rule 22.4.1, a delivery and/or storage facility used by an Authorised Person can be operated from within ADGM or outside ADGM. Specifically, for the purposes of COBS Rules 22.4.1, an Authorised Person will need to submit to the FSRA the details of how each delivery and storage facility that it proposes to use, whether located inside or outside ADGM, meets the requirements set out in Rule 22.4.2(a) to (e).
+
+34) For the purposes of COBS Rule 22.4.2(a), where the proposed storage facility is located outside ADGM, an Authorised Person should provide an assessment on how the rules and regulations of that jurisdiction are deemed (legally and operationally) equivalent to those of ADGM. The FSRA will also expect to review services agreements between the Authorised Person and the storage facility, to ensure the legal enforceability of these rules and regulations.
+
+35) When applying COBS Rule 22.4.2(d), an Authorised Person should have independent third party audits carried out at appropriate times, for the inventories and deliveries undertaken at the storage facility, as well as the facilities infrastructure itself. Where necessary, further third-party audits will be required for the obligations of Accepted Spot Commodities, as outlined in paragraph 26 above.
+
+36) COBS Rules 22.4.2(c)(i) and (ii) require a delivery and/or storage facility to adhere, or adopt,

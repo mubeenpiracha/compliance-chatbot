@@ -1,0 +1,157 @@
+)
+
+the nature of the Court order; and
+
+(b)
+
+the date of the order.
+
+Standard contents of notices of the results of meetings
+
+A notice of the result of a meeting must also specify—
+
+(a)
+
+the purpose of and venue for the meeting;
+
+(b)
+
+whether a required quorum was in attendance for the meeting to take place; and
+
+(c)
+
+if the meeting took place, the outcome of the meeting (including any resolutions passed).
+
+Standard contents of returns or reports of matters considered by correspondence
+
+A return or report of matters, consideration of which has been sought by correspondence, must also specify—
+
+(a)
+
+the purpose of the consideration; and
+
+(b)
+
+the outcome of the consideration (including any resolutions passed or deemed to be passed).
+
+PART 7
+
+APPLICATIONS TO THE COURT
+
+Standard contents and authentication of applications to the Court
+
+Subject to any relevant practice direction, an application to Court must state—
+
+(a)
+
+that the application is made under these Regulations;
+
+(b)
+
+the Section of these Regulations or paragraph of a Schedule to these Regulations under which it is made;
+
+(c)
+
+the names of the parties;
+
+(d)
+
+the name of the Company or non-Abu Dhabi Global Market Company which is the subject of the insolvency proceedings to which the application relates;
+
+(e)
+
+where the Court has previously allocated a number to the Insolvency Proceedings within which the application is made, that number;
+
+(f)
+
+the nature of the remedy or order applied for or the directions sought from the Court;
+
+(g)
+
+the names and addresses of the persons on whom it is intended to serve the application or that no person is intended to be served;
+
+171
+
+(h)
+
+where these Regulations require that notice of the application be delivered to specified persons, the names and addresses of all those persons (so far as known to the applicant); and
+
+(i)
+
+the applicant’s address for service.
+
+(2)
+
+The application must be authenticated by or on behalf of the applicant or the applicant’s solicitor or legal representative.
+
+29A Orders and procedures of the Court
+
+(1)
+
+Nothing in these Regulations shall:
+
+(a)
+
+prevent the Court from making such orders or providing such directions as it considers appropriate; or
+
+(b)
+
+limit or override any provision of the ADGM Court Procedure Rules or any practice direction unless otherwise stated.
+
+(2) Without limiting subparagraph (1), the Court shall be entitled to make or publish such rules or practice directions that it considers appropriate in connection with the conduct of Insolvency Proceedings and related matters before the Court.
+
+29B. Formal defects
+
+No Insolvency Proceedings shall be invalidated by any formal defect or by any other irregularity, unless the Court before which the objection is made considers that substantial injustice has been caused by the defect or irregularity and that the injustice cannot be remedied by any order of the Court.
+
+29C. Block transfer order
+
+The Court may make a block transfer order subject to and in accordance with the relevant practice direction.
+
+PART 8
+
+DELIVERY OF DOCUMENTS AND OPTING OUT
+
+30.
+
+Application of Part
+
+(1)
+
+This Part 8 applies where a document is required under these Regulations to be delivered, filed, forwarded, given, sent, or submitted unless—
+
+(a)
+
+these Regulations or an order of the Court makes different provision including one requiring service on a person; or
+
+(b)
+
+the recipient of a document is the Registrar.
+
+(2)
+
+A document is delivered, filed, forwarded, given, sent, or submitted if it is delivered in accordance with this Part 8.
+
+(3) Where these Regulations require an Office-holder to deliver a document to all the creditors, that requirement is satisfied by the delivery of that document to all those creditors of whose address the Office-holder is aware who have not opted out of receiving the particular document.
+
+172
+
+31.
+
+Opting out
+
+(1)
+
+Any provision of the Regulations which requires an Office-holder of a Company or a Deed of Company Arrangement to deliver, furnish, send or otherwise give a notice (which for this purpose includes any document or information in any other form) to creditors of a Company does not apply, in the circumstances prescribed in the Regulations, in relation to opted-out creditors, other than—
+
+(a)
+
+in relation to a notice of a distribution or proposed distribution to creditors; or
+
+(b)
+
+if any order of the Court requires a notice to be given to all creditors (or all creditors of a particular category).
+
+(2)
+
+Except as provided by the Regulations, a creditor may participate and

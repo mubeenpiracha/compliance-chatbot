@@ -1,0 +1,45 @@
+ any of the Rules relevant to Regulated Activities in relation to Spot
+
+Commodities, at its discretion, where appropriate.
+
+5) Unless otherwise defined or the context otherwise requires, the terms contained in this Guidance have the same meaning as defined in the FSMR and the FSRA Glossary Rulebook (“GLO”).
+
+6)
+
+For the purposes of this Guidance, an Authorised Person permitted to carry on Regulated Activities involving Spot Commodities, an RIE holding a stipulation on its Recognition Order permitting it to operate a Multilateral Trading Facility or Organised Trading Facility, or a RCH providing clearing/settlement services (in relation to Spot Commodities) is referred to as an Authorised Person.1
+
+1 Including in the context of a Recognised Body who has a stipulation for other Regulated Activities set out in its Recognition Order.
+
+1
+
+VER02.181223
+
+7)
+
+This Guidance sets out FSRA’s expectations as to the operation of the Spot Commodities Framework. its interpretation/expectations in relation to the operation of certain Rules, particularly those set out in Chapter 22 of the Conduct of Business Rules (“COBS”). There are a number of Rules set out in Chapter 22 of COBS, however, where the FSRA has not set out additional guidance in relation to that Rule within this Guidance. In such context, the FSRA expects Applicants/Authorised Persons to consider such Rules set out in Chapter 22 of COBS in their most appropriate context.
+
+Where applicable,
+
+the FSRA has set out
+
+8)
+
+For more details on the application of the Spot Commodities Framework and/or the process for authorisation as an RIE, RCH2, MTF, OTF or a Spot Commodity Settlement Facility (SCSF)3, please contact the FSRA at MIP@adgm.com. Similarly, for more details on the application of the Spot Commodities Framework and/or the process for authorisation for any other Spot Commodities business activities, please contact the FSRA at authorisation@adgm.com.
+
+PURPOSE & FEATURES OF THE SPOT COMMODITIES FRAMEWORK
+
+9) Spot Commodity markets operate globally, significantly impacting economic wellbeing and financial stability. Spot Commodity markets, however, frequently operate with little to no regulatory oversight, leaving them exposed to Market Abuse and Financial Crime, amongst other regulatory issues. Furthermore, given the connectivity of Spot Commodity markets to the wider financial system through Financial Instruments (including Derivatives), market intermediaries and supply chain financing, there are contagion risks to the stability, and operations, of the wider financial system. Examples of harm resulting from Spot Commodity market risks include the significant losses for banking institutions from the financing of fraudulent Spot Commodity inventories, and participants using Inside Information (from Spot Commodity markets) to profit in Commodity Derivative markets. Financial sector rules intended to prevent such abuse are often limited in scope or unenforceable, further harming market participants and consumers, and the ultimate integrity of Spot Commodity markets as a whole.
+
+10) Most commodity markets are distinguished by spot/cash markets in which physical commodities are sold, as well as Derivatives markets in which financial contracts for future delivery of the commodity or cash value on a final settlement price are exchanged. While, Derivatives markets generally operate under mature regulatory regimes, including through the direct supervision of trading venues and financial participants, as well as through specific adoption of regional or commodity specific codes of conduct, spot markets are mostly unregulated.
+
+11) The FSRA’s regulatory approach under the Spot Commodities Framework is to set out clear regulatory obligations for those Persons undertaking Spot Commodity activities within or from ADGM. The Spot Commodities Framework therefore intends to strengthen transparency, support and foster market integrity, identify and combat issues relating to sustainability, and provide a regulatory framework relating to delivery, settlement and key transactional activities relating to the global commodity trading ecosystem.
+
+12) While the Spot Commodities Framework allows for a number of potential Regulated Activities in relation to Spot Commodities to be undertaken within ADGM, the FSRA anticipates that the requirements of the Framework are such that they will most likely be
+
+2 Or a SCSF (as set out in paragraphs 89-94). 3 Refer to paragraph 89.
+
+2
+
+VER02.181223
+
+satisfied by Spot Commodity market participants and trading venues already operating in established markets. Examples of such activities may therefore include,

@@ -1,0 +1,79 @@
+ them to form a suspicion or to recognise when they have reasonable grounds to suspect that money laundering or terrorist financing is taking place. This should involve training that will enable relevant Employees to seek and assess the information that is required for them to judge whether a Person is involved in suspicious activity or Transactions related to money laundering or terrorist financing.
+
+3.
+
+Where appropriate, a Relevant Person should also utilise the methods described in paragraph 1 above to detect a range of Financial Crimes, including fraud. Bearing in mind the evolving nature of Financial Crime and the methods used to further it, a Relevant Person should apply best practice when determining which behaviours would be considered suspicious and what measures are required to detect suspicious activity and Transactions. Such practices may include, but are not limited to, incorporating the analysis of customer behaviour metrics into the monitoring of suspicious activity and Transactions.
+
+4.
+
+The requirement for Employees to notify the Relevant Person's MLRO should include situations when no business relationship was developed because the circumstances were suspicious.
+
+5.
+
+A Relevant Person may allow its Employees to consult with their line managers before sending a report to the MLRO. The Regulator would expect that such consultation does not prevent making a report whenever an Employee has stated that he has knowledge, suspicion or reasonable grounds for knowing or suspecting that a Person may be involved in money laundering. Whether or not an Employee consults with his line manager or other Employees, the responsibility remains with the Employee to decide for himself whether a notification to the MLRO should be made.
+
+6.
+
+An Employee, including the MLRO, who considers that a Person has engaged in or is engaging in activity or Transactions that he knows or suspects to be suspicious would not be expected to know the exact nature of the criminal
+
+Confidential
+
+86
+
+AML VER10.020125
+
+offence or that the particular funds were definitely those arising from the crime of money laundering or terrorist financing.
+
+7.
+
+Activity or Transactions that appear unusual are not necessarily suspicious. Even customers with a stable and predictable Transaction profile will have periodic Transactions that are unusual for them. Many customers will, for perfectly good reasons, have an erratic pattern of Transactions or account activity. So the unusual is, in the first instance, only a basis for further inquiry, which may in turn require judgement as to whether it is suspicious. A Transaction or activity may not be suspicious at the time, but if suspicions are raised later, an obligation to report it then arises.
+
+8.
+
+Effective CDD measures may provide the basis for recognising unusual and suspicious activity and Transactions. Refusal to provide documentation to support CDD or refusal to disclose a beneficial owner may be considered suspicious activity. Where there is a customer relationship, suspicious activity will often be one that is inconsistent with a customer's known legitimate activity, or with the normal business activities for that type of account or customer. Therefore, the key to recognising "suspicious activity" is knowing enough about the customer and the customer's normal expected activities to recognise when their activity is abnormal.
+
+9.
+
+A Relevant Person may consider implementing policies and procedures whereby disciplinary action is taken against an Employee who fails to notify the Relevant Person's MLRO.
+
+10.
+
+Relevant Persons should comply with guidance issued by the EOCN with regard to identifying and reporting suspicious activity and Transactions relating to money laundering, terrorist financing and proliferation financing.
+
+14.3 Suspicious Activity/Transaction Reports
+
+14.3.1 A Relevant Person must ensure that where the Relevant Person's MLRO receives an
+
+internal notification of suspicious activity under Rule 14.2.2, the MLRO, without delay:
+
+(a)
+
+investigates and documents the circumstances in relation to which the notification made under Rule 14.2.2 was made;
+
+(b)
+
+determines whether in accordance with Federal AML Legislation a SAR/STR must be made and documents such determination; and
+
+(c)
+
+if required, make a SAR/STR as soon as practicable.
+
+14.3.2 The MLRO must, following receipt of an internal notification of suspicious activity under
+
+Rule 14.2.2, document:
+
+(a)
+
+the steps taken to investigate the circumstances in relation to which the internal notification is made; and
+
+Confidential
+
+87
+
+AML VER10.020125
+
+(b)
+
+where no external SAR/STR is made, the reasons why no such report was made.
+
+14.3.3 Where, following a notification to the MLRO of suspicious activity under 14.2.2, no SAR/STR

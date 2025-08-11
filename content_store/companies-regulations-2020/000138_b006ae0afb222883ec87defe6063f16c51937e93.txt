@@ -1,0 +1,149 @@
+ conditions specified in subsection 399A(2) may choose not to provide the information required under subsection (2), only where the company submits to the Registrar a clear and reasoned written explanation for not doing so.
+
+244
+
+399C. Exemption for a company included in the group annual accounts of a larger group
+
+(1)
+
+Subject to (2), a company is exempt from the requirement to provide the information in section 399B(2) where it is a subsidiary undertaking and equivalent information is included in the consolidated group annual accounts or associated reports.
+
+(2)
+
+Exemption is conditional upon compliance with all the following conditions –
+
+(a)
+
+the consolidated group annual accounts or associated reports must be broadly equivalent to the ESG disclosure requirements in this Chapter;
+
+(b)
+
+the company must disclose in its individual annual accounts that it is exempt from the obligation to provide the information required under subsection 399B(2); and
+
+(c)
+
+the company must state in its individual annual accounts the name of the parent undertaking that draws up the consolidated group annual accounts or associated reports referred to in subsection (1) above.
+
+(3)
+
+If requested by the Registrar, the company must, within such time period as specified by the Registrar, deliver to the Registrar copies of the consolidated group annual accounts or associated reports referred to in subsection (1) above.
+
+399D. Companies exempted from the provisions in this Chapter
+
+(1)
+
+A company which satisfies the conditions in subsection 399A(2) is exempt from the requirement to provide information under section 399B where it is:
+
+(a)
+
+listed on an investment exchange and ESG disclosure is a requirement of the company to maintain its listing on that investment exchange; or
+
+(b)
+
+a Restricted Scope Company; or
+
+(c)
+
+an Investment Company.
+
+CHAPTER 5
+
+DIRECTORS’ REPORT
+
+Directors’ report
+
+400. Duty to prepare directors’ report
+
+(1)
+
+The directors of a company must prepare a directors’ report for each financial year of the company.
+
+(2)
+
+For a financial year in which–
+
+(a)
+
+the company is a parent company, and
+
+(b)
+
+the directors of the company prepare group accounts,
+
+245
+
+the directors’ report must be a consolidated report (a “group directors’ report”) relating to the undertakings included in the consolidation.
+
+(3)
+
+A group directors’ report may, where appropriate, give greater emphasis to the matters that are significant to the undertakings included in the consolidation, taken as a whole.
+
+(4)
+
+In the case of failure to comply with the requirement to prepare a directors’ report, a contravention of these Regulations is committed by every person who–
+
+(a)
+
+was a director of the company immediately before the end of the period for filing accounts and reports for the financial year in question, and
+
+(b)
+
+failed to take all reasonable steps for securing compliance with that requirement.
+
+(5)
+
+A person who commits the contravention referred to in subsection (4) shall be liable to a level 3 fine.
+
+(6)
+
+This Chapter shall not apply to a company that is a restricted scope company.
+
+401. Directors’ report: small companies exemption
+
+(1)
+
+A company is entitled to small companies exemption in relation to the directors’ report for a financial year if–
+
+(a)
+
+it is entitled to prepare accounts for the year in accordance with the small companies regime, or
+
+(b)
+
+it would be so entitled but for being or having been a member of an ineligible group.
+
+(2)
+
+The exemption is relevant to–
+
+section 402(1)(b) (contents of directors’ report: statement of amount recommended by way of dividend), and
+
+sections 418 to 421 (filing obligations of different descriptions of company).
+
+402. Contents of directors’ report: general
+
+(1)
+
+The directors’ report for a financial year must state–
+
+(a)
+
+the names of the persons who, at any time during the financial year, were directors of the company, and
+
+(b)
+
+except in the case of a company entitled to the small companies exemption, the amount (if any) that the directors recommend should be paid by way of dividend.
+
+(2)
+
+The Board may make rules as to other matters that must be disclosed in a directors’ report.
+
+403. Contents of directors’ report: statement as to disclosure to auditors
+
+(1)
+
+This section applies to a company unless–
+
+(a)
+
+it is exempt for the financial year in question from the requirements of Part 15

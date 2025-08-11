@@ -1,0 +1,157 @@
+)
+
+wallet audit and oversight.
+
+Private and public keys
+
+(b)
+
+Procedures describing the creation, management and controls of private and public keys, including, as applicable:
+
+(i)
+
+private key generation;
+
+(ii)
+
+private key exchange;
+
+(iii)
+
+private key storage;
+
+(iv)
+
+private key backup;
+
+(v)
+
+private key destruction;
+
+(vi)
+
+private key access management;
+
+(vii)
+
+public key sharing; and
+
+(viii)
+
+public key re-use.
+
+114
+
+COBS VER19.290725
+
+Origin and destination of Virtual Asset funds or, as applicable, funds transferred in relation to the issuance, purchase and sale or redemption of Fiat-Referenced Tokens.
+
+(c)
+
+Systems and controls to mitigate the risk of misuse of Virtual Assets or Fiat- Referenced Tokens, as applicable, setting out how:
+
+(i)
+
+the origin of Virtual Assets or Fiat-Referenced Tokens, as applicable, is determined, in case of an incoming transaction; and
+
+(ii)
+
+the destination of Virtual Assets or Fiat-Referenced Tokens, as applicable, is determined, in case of an outgoing transaction.
+
+Security
+
+(d)
+
+A security plan describing the security arrangements relating to:
+
+(i)
+
+the privacy of sensitive data;
+
+(ii)
+
+networks and systems;
+
+(iii)
+
+cloud based services;
+
+(iv)
+
+physical facilities; and
+
+(v)
+
+documents, and document storage.
+
+Risk management
+
+(e)
+
+A risk management plan containing a detailed analysis of likely risks with both high and low impact, as well as mitigation strategies. The risk management plan must cover, but is not limited to:
+
+(i)
+
+operational risks;
+
+(ii)
+
+technology risks, including ‘hacking’ related risks;
+
+(iii) market risk for each Accepted Virtual Asset; and
+
+(iv)
+
+risk of Financial Crime.
+
+Guidance
+
+GEN 3.5 contains additional requirements that apply to Authorised Persons in relation to Cyber risk management.
+
+17.6 Additional disclosure requirements
+
+17.6.1 Prior to entering into an initial Transaction for, on behalf of, or with a Client, an Authorised Person conducting a Regulated Activity in relation to Virtual Assets must disclose in a clear, fair and not misleading manner all material risks associated with (i) its products, services and activities (ii) Virtual Assets generally and (iii) the Accepted Virtual Asset that is the subject of the Transaction.
+
+115
+
+COBS VER19.290725
+
+17.7 Additional Rules Applicable to an Authorised Person Operating a Multilateral Trading
+
+Facility in relation to Virtual Assets
+
+17.7.1 In addition to the general requirements applicable to an Authorised Person conducting a Regulated Activity in relation to Virtual Assets as set out in Rules 17.1 – 17.6, an Authorised Person Operating a Multilateral Trading Facility in relation to Virtual Assets must comply with the requirements set out in:
+
+(a)
+
+COBS, MIR and GEN, as set out in Rules 17.7.2 – 17.7.6; and
+
+(b)
+
+Rule 17.8 if also Providing Custody in relation to Virtual Assets.
+
+17.7.2 An Authorised Person that is Operating a Multilateral Trading Facility in relation to Virtual
+
+Assets must comply with the requirements set out in COBS, Chapter 8.
+
+17.7.3 For the purposes of Rule 17.7.2, the following references in COBS, Chapter 8 should be
+
+read as follows:
+
+(a)
+
+references to “Investment” or “Investments” shall be read as references to “Virtual Asset” or “Virtual Assets”, as applicable; and
+
+(b)
+
+references to “Financial Instrument” or “Financial Instruments” (including those in MIR as incorporated by virtue of COBS Rule 8.2.1) shall be read as references to “Virtual Asset” or “Virtual Assets”, as applicable.
+
+17.7.4 An Authorised Person that is Operating a Multilateral Trading Facility in relation to Virtual Assets must comply with the following requirements set out in MIR, Chapter 5:
+
+(a)
+
+Rules 5.1 - 5.3; and
+
+(b)
+
+Rule 5.4.1, in the circumstances identified in Items 19, 20, 24 (a) and (b), 27, 28, 32, 33, 35, 37, 38, 39, 40, 41, 43, 45, 46, 47, 48, 

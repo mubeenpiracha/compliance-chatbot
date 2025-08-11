@@ -1,0 +1,89 @@
+ pari passu on a pro rata basis between the Authorised Firm and the protection provider, the protected portion of the Exposure receives the treatment applicable to eligible guarantees or Credit Derivatives with the remainder treated as unprotected.
+
+(4) Where an Authorised Firm transfers a part of the risk of an Exposure in one or
+
+more tranches, the Rules in section 4.14 apply.
+
+A4.4 Qualifying securities financing transactions (SFTs)
+
+A4.4.1 A qualifying SFT must comply with the following requirements:
+
+(a)
+
+both the Exposure and the Collateral are cash, or a Security issued by a central government, Central Bank or PSE qualifying for a 0% risk weight under the Rules in section 4.12;
+
+(b)
+
+both the Exposure and the Collateral are denominated in the same currency;
+
+(c)
+
+either the transaction is overnight or both the Exposure and the Collateral are marked-to-market daily and are subject to daily remargining;
+
+277
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+(d)
+
+following a Counterparty’s failure to remargin, the time that is required between the last mark-to-market before the failure to remargin and the liquidation of the Collateral is considered to be no more than four business days;
+
+(e)
+
+the transaction is settled across a recognised settlement system for that type of transaction;
+
+(f)
+
+the documentation covering the agreement is standard market documentation for repos, reverse repos, Securities, lending transactions or Securities borrowing transactions in the Securities concerned;
+
+(g)
+
+the transaction is governed by documentation specifying that if the Counterparty fails to satisfy an obligation to deliver cash or Securities or to deliver margin, or otherwise defaults, then the transaction may be terminated immediately; and
+
+(h)
+
+upon any event of default, regardless of whether the Counterparty is insolvent or bankrupt, the Authorised Firm has the unfettered, legally enforceable right to immediately seize and liquidate the Collateral for the benefit of the Authorised Firm.
+
+A4.5
+
+[Deleted]
+
+A4.6 Credit RWA - Unsettled Transactions
+
+A4.6.1 This section applies to all securities, foreign exchange instruments and commodities transactions that give rise to a risk of delayed settlement or delivery including:
+
+(a) any transaction through a recognised clearing house that is subject to daily mark- to-market and payment of daily variation margins and that involves a mismatched trade;
+
+but excluding;
+
+(b) any transaction that is subject to the treatment in section 4.14A; and
+
+(c)
+
+any SFT.
+
+Guidance
+
+1.
+
+An Authorised Firm is exposed to the risk associated with unsettled securities, commodities and foreign exchange transactions from trade date. Irrespective of the booking or the accounting of the transaction, unsettled transactions are taken into account for regulatory capital requirements purposes.
+
+2.
+
+Transactions settled through a delivery-versus-payment system (DvP), providing simultaneous exchanges of securities for cash, expose an Authorised Firm to a risk of loss on the difference between the transaction valued at the agreed settlement price and the transaction valued at current market price (ie positive current exposure). PIB Rule A4.6.2 requires an Authorised Firm to calculate RWAs for such Exposures if the payments have not yet taken place five business days after the settlement date.
+
+278
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+3.
+
+Transactions where cash is paid without receipt of the corresponding receivable (securities, foreign currencies, gold, or commodities) or, conversely, deliverables were delivered without receipt of the corresponding cash payment (non-DvP, or free deliveries) expose firms to a risk of loss on the full amount of cash paid or deliverables delivered. PIB Rule A4.6.3 requires an Authorised Firm that has made the first contractual payment/delivery leg to calculate RWAs for the Exposure if the second leg has not been received by the end of the business day. The RWAs increase if the second leg has not been received within five business days.
+
+4.
+
+This section applies to transactions whether on balance sheet or off balance sheet. Where a transaction does not appear on balance sheet (i.e. settlement date accounting), the Authorised Firm should apply

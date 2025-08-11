@@ -1,0 +1,91 @@
+8
+
+VER01.201124
+
+risk controls that have traditionally been carried out manually. Financial institutions should ensure that the documentation of their control environment takes such embedded or automated controls into account.
+
+9
+
+VER01.201124
+
+SECTION A: ESTABLISHING A CULTURE OF EFFECTIVE IT RISK MANAGEMENT
+
+Chapter 1 – Governance and Oversight
+
+Desired Outcomes for Governance and Oversight
+
+Desired Outcome 1.1 – Strategy Alignment: A financial institution should ensure that its IT strategies are aligned with and support its overall business strategy.
+
+Desired Outcome 1.2 – Competence: The Governing Body and senior management of a financial institution should ensure that its staff, and any third parties, are competent to perform their roles.
+
+Desired Outcome 1.3 – Accountability: A financial institution should ensure that the appropriate staff are accountable for the management of IT risks.
+
+Desired Outcome 1.1 – Strategy Alignment
+
+1.1.1
+
+Aligning IT strategies with the business strategy is a key means for financial institutions to reduce IT risk. Systems and datasets that are not fit for purpose may expose the financial institution to greater risk than desired.
+
+1.1.2
+
+The Governing Body of a financial institution is responsible for ensuring that the financial institution’s IT strategies are aligned with the financial institution’s business strategy. This is in line with the Governing Body’s responsibility for setting and/or approving the business objectives of the financial institution.
+
+1.1.3
+
+The senior management of a financial institution is accountable to the Governing Body for ensuring that the implementation of the IT strategies effectively supports the business strategy. In turn, the Governing Body of the financial institution is responsible for providing the senior management with sufficient authority and resources to effectively implement the strategy.
+
+Desired Outcome 1.2 – Competence
+
+1.2.1
+
+The Governing Body and senior management should both have members who can understand and manage IT risks that the financial institution is exposed to. This is in line with the Governing Body’s obligation to provide effective oversight of the management of the financial institution. Depending on the nature, scale and complexity of IT in use, a financial institution should consider establishing dedicated roles, including senior management roles, for the management of IT and its associated risks (e.g., chief technology officer, chief information security officer, etc.).
+
+1.2.2
+
+Financial institutions should ensure that staff have the requisite skills and knowledge to perform their roles and manage IT risks effectively. This is especially so for roles where technical knowledge is necessary for staff to perform their duties.
+
+10
+
+VER01.201124
+
+1.2.3
+
+The Governing Body and senior management should establish a competency framework for staff in all functions that can guide hiring, appraisal, and training decisions. The financial institution should support training and development of its staff where appropriate.
+
+1.2.4
+
+Similarly, competence in delivery of the product or service offered should be a factor in the selection of third parties (e.g., contractors, freelancers, hardware and software vendors, etc.) that interact with the financial institution.
+
+Desired Outcome 1.3 – Accountability
+
+1.3.1
+
+Accountability incentivises staff to take action to mitigate IT risks. Lack of accountability may lead to staff being slow to act when a risk event occurs because they believe that other persons will be doing so.
+
+1.3.2
+
+The Governing Body is responsible for holding the senior management of the financial institution accountable for the effective management of IT risks. To this end, the Governing Body should ensure that the senior management of the financial institution:
+
+1.3.2.a
+
+includes appointment holders that have the requisite experience and expertise to understand and manage IT risks;
+
+1.3.2.b
+
+has developed an IT strategy that covers both the use of IT and the management of IT risks;
+
+1.3.2.c
+
+has sufficient authority, resources, and access to the Governing Body to execute on the IT strategy; and
+
+1.3.2.d
+
+has developed, documented, and implemented an effective framework to manage IT risks.
+
+1.3.3
+
+Financial institutions should clearly assign responsibility and accountability for managing IT risk to appropriate staff. This could be done through several means, including through a RACI matrix3.
+
+1.3.4
+
+Financial institutions should identify a clear owner of each source of technology or data risk (‘risk source’)

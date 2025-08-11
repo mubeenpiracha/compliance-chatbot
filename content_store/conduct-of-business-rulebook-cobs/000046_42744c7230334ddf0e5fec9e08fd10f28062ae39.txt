@@ -1,0 +1,103 @@
+ other things, are consistent with the business objectives and identified risk parameters within which the Authorised Person operates, and provide for effective alignment of risk outcomes and the roles and functions of the relevant Employees. The requirements set out in this section are designed to augment those remuneration requirements set out in GEN (in particular, Appendix 1.2 of GEN).
+
+9.14.2 A Credit Rating Agency must ensure that Employees involved in the provision of Credit Ratings have reporting lines and remuneration arrangements that are designed to eliminate, or effectively manage, actual and potential conflicts of interest.
+
+9.14.3 A Credit Rating Agency must ensure that its Employees are not remunerated, or their performance evaluated, based on the amount of revenue generated or expected from the Credit Ratings in which the Employee was involved.
+
+9.14.4 [Deleted]
+
+9.14.5 A Credit Rating Agency must conduct formal and periodic reviews of its remuneration policies and practices relating to Employees who participate in, or who might otherwise have an effect on, the rating process to ensure that those policies and practices do not compromise the objectivity of the Credit Rating activities.
+
+Guidance
+
+The Employees intended to be covered by this Rule are rating analysts and other Employees who are directly involved in producing or reviewing a Credit Rating, or who are able to influence the credit rating process (such as the senior management).
+
+9.15 Record keeping
+
+9.15.1 A Credit Rating Agency must, for a minimum of six years, maintain sufficient records in relation to each activity and function of the Credit Rating Agency and, where appropriate, audit trails of its Credit Rating activities. These must include, where applicable, the following:
+
+73
+
+COBS VER19.290725
+
+(a)
+
+for each Credit Rating:
+
+(i)
+
+the identity of the rating analysts participating in the determination of the Credit Rating;
+
+(ii)
+
+the identity of the individuals who have approved the Credit Rating;
+
+(iii)
+
+information as to whether the Credit Rating was solicited or unsolicited;
+
+(iv)
+
+information to support the Credit Rating;
+
+(v)
+
+the Accounting Records relating to Fees and charges received from or in respect of the Rating Subject;
+
+(vi)
+
+the internal records and files, including non-public information and working papers, used to form the basis of any Credit Rating; and
+
+(vii)
+
+credit analysis and credit assessment reports including any internal records and non-public information and working papers used to form the basis of the opinions expressed in such reports;
+
+(b)
+
+the Accounting Records relating to Fees received from any Person in relation to services provided by the Credit Rating Agency;
+
+(c)
+
+the Accounting Records for each subscriber to the Credit Rating Agency's services;
+
+(d)
+
+the records documenting the established procedures, methodologies, models and assumptions used by the Credit Rating Agency to determine Credit Ratings; and
+
+(e)
+
+copies of including electronic communications, received and sent by the Credit Rating Agency and its Employees that relate to Credit Rating activities.
+
+internal and external communications,
+
+9.15.2 For the purposes of Rule 9.15.1(a), the six-year period commences from the date the
+
+Credit Rating is disclosed to the public or distributed by subscription.
+
+9.15.3 Information to support a Credit Rating includes information received from the Rating Subject or information obtained through publicly available sources or third parties and verification procedures adopted in relation to information such as those obtained from public sources or third parties. In accordance with GEN 3.3.34-3.3.37, records must be kept in such a manner as to be readily accessible.
+
+9.15.4 Where a Credit Rating is subject to on-going surveillance and review, the Credit Rating Agency must retain records required under Rule 9.15.1 in relation to the initial Credit Rating as well as subsequent updates where such records are required to support the latest Credit Rating.
+
+74
+
+COBS VER19.290725
+
+10.
+
+CORE RULES – OPERATING A CENTRAL SECURITIES DEPOSITORY
+
+10.1 Application and interpretation
+
+10.1.1 This chapter applies to an Authorised Person which operates a Central Securities
+
+Depository ("CSD").
+
+10.1.2 Such an Authorised Person is referred to in this chapter as a CSD.
+
+10.1.3 An Authorised Person that is permitted to carry on the Regulated Activity of Providing Custody may apply in addition for permission to perform the activity of operating a CSD.
+
+10.2
+
+[Deleted]
+
+10.3 Additional

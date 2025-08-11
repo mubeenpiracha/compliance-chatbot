@@ -1,0 +1,99 @@
+-Term Insurance Business through a Long-Term Insurance Fund must ensure that at all times, in respect of each Long-Term Insurance Fund maintained by it, the Insurer has Adjusted Fund Capital Resources equal to or higher than the amount of the Minimum Fund Capital Requirement in respect of that Long-Term Insurance Fund.
+
+4.5.4 The Adjusted Fund Capital Resources in respect of a Long-Term Insurance Fund
+
+maintained by an Insurer must be calculated in accordance with APP7.
+
+4.5.5 The Minimum Fund Capital Requirement in respect of a Long-Term Insurance Fund
+
+maintained by an Insurer must be calculated in accordance with APP8.
+
+4.6
+
+Availability of assets of Insurers incorporated outside ADGM
+
+4.6.1 This section applies only to Insurers that are not ADGM Incorporated Insurers.
+
+Guidance
+
+The provisions in this section require an Insurer to have assets, of a minimum quality, available to meet its gross Insurance Liabilities arising from its ADGM Insurance Business plus a margin. Although the Insurer is required to cover its Insurance Liabilities gross of reinsurance, an Insurer still has benefit of its reinsurance arrangements because assets may include amounts receivable from reinsurers in respect of gross Insurance Liabilities, including amounts potentially receivable from reinsurers in respect of the exposures reflected in the Insurer's Premium Liability. No credit, however, may be taken in respect of a reinsurer that is Rated worse than BBB.
+
+4.6.2 An Insurer that is not an ADGM Incorporated Insurer must always have assets, of a type referred to in Rule 4.6.3, that are available to meet Insurance Liabilities of the Insurer
+
+14
+
+PIN VER07.290725
+
+arising in respect of operations conducted by the Insurer in ADGM, at least equal to the sum of the following:
+
+(a)
+
+the sum of the default risk component and the investment volatility risk component in respect of those assets, calculated according to the methods set out in Rules A4.4 and A4.5 respectively, applying those methods so far as concerns those assets only;
+
+(b)
+
+Insurance Liabilities of the Insurer in respect of its ADGM Insurance Business; and
+
+(c)
+
+the accordance with APP9.
+
+Insurer's ADGM Business Risk Capital Requirement, calculated
+
+Guidance
+
+1.
+
+Assets are not normally available to meet Insurance Liabilities of an Insurer arising in respect of operations conducted by the Insurer in ADGM, if those assets are required to meet liabilities of the Insurer in jurisdictions other than ADGM, except where those liabilities are also Insurance Liabilities of the Insurer arising in respect of operations conducted by the Insurer in ADGM.
+
+2.
+
+Assets are not normally available to meet Insurance Liabilities of an Insurer arising in respect of operations conducted by the Insurer in ADGM, if those assets are required, under the laws of any jurisdiction, to be located in a jurisdiction other than ADGM, except where the assets are required to be located in that jurisdiction to meet, or as collateral against, either:
+
+a.
+
+liabilities that are Insurance Liabilities of the Insurer arising in respect of operations conducted by the Insurer in ADGM; or
+
+b.
+
+liabilities that may arise in the future and that would, if they arose, be Insurance Liabilities of the Insurer arising in respect of operations conducted by the Insurer in ADGM.
+
+4.6.3 The assets available to an Insurer for the purposes of Rule 4.6.2 may comprise any
+
+combination of the following types of assets:
+
+(a)
+
+Cash at bank and in hand and deposits held with any Bank;
+
+(b)
+
+bonds Rated 'BBB' or better;
+
+(c)
+
+equities listed on an Approved Stock Exchange;
+
+(d)
+
+reinsurance recoverable in respect of General Insurance Liabilities referred to in Rule 4.6.2(b), where the reinsurer is Rated 'BBB' or better.
+
+4.6.4 An Insurer subject to this section must demonstrate to the satisfaction of the Regulator compliance with Rule 4.6.2, when the Regulator makes a written request to do so.
+
+in
+
+15
+
+PIN VER07.290725
+
+4.7
+
+Failure to comply
+
+4.7.1 An Insurer that becomes aware that it does not comply with the requirements in this
+
+Chapter:
+
+(a)
+
+must immediately notify

@@ -1,0 +1,137 @@
+ relation to debt instruments and other eligible liabilities issued by the Authorised Firm:
+
+(i)
+
+amend or alter the maturity;
+
+(ii)
+
+amend the amount of interest payable; or
+
+(iii)
+
+amend the date on which the interest becomes payable, including by suspending payment for a temporary period;
+
+(e)
+
+close out and terminate financial contracts or derivative contracts for the purposes of the application of the Bail-in Tool; and
+
+(f)
+
+require a person to discontinue or suspend the admission to trading of financial instruments relating to the Authorised Firm.
+
+74
+
+(3) The DFSA may exercise its Resolution Powers:
+
+(a)
+
+irrespective of any restriction on, or requirement to obtain consent for, the transfer of the financial instruments, rights, assets or liabilities in question that might otherwise apply;
+
+(b)
+
+without the requirement to obtain approval or consent from any person either public or private, including the shareholders or creditors of the Authorised Firm; and
+
+(c)
+
+without the requirement to notify any person, including any requirement to publish any notice or Prospectus or to file or register any document with any other authority.
+
+84O. Sale of Business Tool
+
+(1)
+
+The DFSA may apply the Sale of Business Tool to an Authorised Firm by effecting a sale of all or part of the business of the Authorised Firm to one or more purchasers by making:
+
+(a)
+
+one or more property transfer instruments for the transfer of all or any rights, assets or liabilities of the Authorised Firm; and
+
+(b)
+
+if an Authorised Firm is not a branch, one or more share transfer instruments for the transfer of all or part of the shares of the Authorised Firm.
+
+(2)
+
+The DFSA may apply the Sale of Business Tool to an Authorised Firm without:
+
+(a)
+
+the consent of the shareholders of the Authorised Firm or any third party other than the purchaser; and
+
+(b)
+
+complying with any procedural requirements under the Companies Law or the constitutional documents of the Authorised Firm.
+
+(3)
+
+The DFSA may prescribe Rules relating to the application of the Sale of Business Tool.
+
+84P. Bail-in Tool
+
+(1)
+
+The DFSA may apply the Bail-in Tool in relation to an Authorised Firm that is not a branch:
+
+(a)
+
+to recapitalise the Authorised Firm:
+
+(i)
+
+to the extent sufficient to restore the Authorised Firm’s ability to comply with the authorisation requirements as applicable:
+
+(ii)
+
+to continue to carry out the activities for which the Authorised Firm is authorised under the Law; or
+
+(iii)
+
+to sustain sufficient market confidence in the Authorised Firm; or
+
+75
+
+(b)
+
+to convert to shares or reduce the principal amount of claims or debt instruments that are transferred under the Sale of Business Tool.
+
+(2)
+
+The DFSA may, in applying the Bail-in Tool under (1), use the Write Down or Conversion Power in such manner as may be prescribed in the Rules.
+
+(3)
+
+The DFSA may prescribe Rules relating to the application of the Bail-in Tool.
+
+84Q. Temporary Administrator
+
+(1)
+
+The DFSA may appoint a Temporary Administrator to replace the management of an Authorised Firm.
+
+(2)
+
+The Temporary Administrator shall have such powers of the shareholders and management of the Authorised Firm, as are specified by the DFSA in the instrument of appointment.
+
+(3)
+
+The Temporary Administrator shall have a duty to take all measures necessary to promote the DFSA’s objectives in relation to that Resolution which duty may, where necessary, override any other duty placed upon a director under DIFC Law and the Authorised Firm’s constitutional documents.
+
+(4)
+
+The person appointed to be the Temporary Administrator may be an individual (or one or more individuals acting jointly) or a body corporate.
+
+(5)
+
+Before appointing a person to be a Temporary Administrator, the DFSA must be satisfied that the person has sufficient qualifications, experience, and the fitness and propriety necessary to carry out the functions of a Temporary Administrator.
+
+(6)
+
+A Temporary Administrator shall not be treated as a director (formally or de facto) of the Authorised Firm.
+
+(7)
+
+The instrument of appointment shall specify the date on which the appointment takes effect and the period of the appointment, which shall be for an initial period of not more than twelve months and the DFSA may extend that appointment for a further period not exceeding twelve months.
+
+(8)
+
+The instrument of appointment may require the Temporary Administrator to report to the DFSA

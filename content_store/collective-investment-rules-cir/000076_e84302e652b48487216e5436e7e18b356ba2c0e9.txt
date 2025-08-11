@@ -1,0 +1,161 @@
+ finance within a country and cross border trade finance is that cross border trade finance is operationally more complex and involves a higher degree of risk. The prohibition does not, however, prevent the use of certain forms of credit that are often used for trade finance such as discounting and factoring of invoices, where they are used only to finance trade within a country or for purposes unrelated to trade finance.
+
+13.12.5 The Fund Manager must ensure that the Credit Fund does not Provide Credit to any
+
+of the following:
+
+(a)
+
+a natural person;
+
+(b)
+
+the Fund Manager, a Related Party of the Fund Manager or any other person acting for or on behalf of the Fund Manager;
+
+(c)
+
+another fund or fund manager;
+
+(d)
+
+a Financial Institution or a person Related to a Financial Institution;
+
+(e)
+
+a person who intends to use the credit for the purpose of trading in Investments, commodities or crypto assets; or
+
+(f)
+
+a person who intends to use the credit for the purpose of providing credit.
+
+Policies and procedures for granting, acquiring, monitoring and managing
+
+credit
+
+13.12.6 (1)
+
+The Fund Manager must ensure that the Credit Fund has in place appropriate policies and procedures relating to:
+
+(a)
+
+the assessment, pricing, granting, managing and acquiring of credit, in accordance with a defined risk appetite statement;
+
+(b)
+
+credit monitoring, renewal and financing;
+
+(c)
+
+the criteria, governance and decision making structures for (a) and (b);
+
+(d)
+
+collateral management;
+
+(e)
+
+concentration risk management;
+
+(f)
+
+valuation, including collateral valuation and impairment;
+
+(g)
+
+identification and management of problem debt;
+
+119
+
+CIR/VER38/08-24
+
+COLLECTIVE INVESTMENT RULES (CIR)
+
+(h)
+
+forbearance;
+
+(i)
+
+delegated authority; and
+
+(j)
+
+documentation and security.
+
+(2)
+
+The Fund Manager of a Credit Fund must ensure that the policies and procedures referred to in (1) are kept up-to-date and are in writing.
+
+13.12.7 The Fund Manager of a Credit Fund must ensure that:
+
+(a)
+
+credit granting and acquisition is based on sound and well-defined criteria and, for that purpose, the process for approving, amending, renewing and re- financing credit and acquiring loans is clearly established;
+
+(b)
+
+internal methodologies are in place to assess the credit risk of exposures to individual obligors, securities or securitisation positions and credit risk at the portfolio level, which do not rely solely or mechanistically on external credit ratings;
+
+(c)
+
+there is ongoing monitoring and administration of the various credit risk bearing portfolio positions and exposures, including for identifying and managing problem credits and for making adequate value adjustments and provisions;
+
+(d) measures are in place for the adequate diversification of credit positions having
+
+regard to the target markets and overall credit strategy;
+
+(e)
+
+if credit risk mitigation techniques adopted prove less effective than expected, there are measures to address and control credit risks; and
+
+(f) measures
+
+to address concentration
+
+risk, arising
+
+from exposure
+
+to
+
+counterparties, include indirect exposures.
+
+Stress testing programme
+
+13.12.8 The Fund Manager of a Credit Fund must ensure that:
+
+(a)
+
+the Fund has a comprehensive stress-testing programme in place;
+
+(b)
+
+stress testing under the programme is carried out at least annually or, if requested by the DFSA, at more frequent intervals specified by the DFSA; and
+
+(c)
+
+the results of stress testing are reported to the Governing Body of the Fund at least annually or, if requested by the DFSA, at more frequent intervals specified by the DFSA.
+
+Guidance
+
+1.
+
+The stress testing programme for a Credit Fund should, among other things, identify possible events or future changes in economic conditions that could have unfavourable effects on the Fund’s credit exposures and assess the Fund’s ability to withstand such changes.
+
+2.
+
+The DFSA is likely to review the results of stress testing during the initial stages of a Fund’s operation and then on an ad hoc basis once the Fund becomes established.
+
+120
+
+CIR/VER38/08-24
+
+COLLECTIVE INVESTMENT RULES (CIR)
+
+Risk diversification strategy
+
+13.12.9 The Fund Manager of a Credit Fund must:
+
+(a)
+
+have a clear strategy which aims, within a specified period not exceeding three years from the date the Fund is established, to achieve a diversified portfolio of loans that limits exposure to any one person or

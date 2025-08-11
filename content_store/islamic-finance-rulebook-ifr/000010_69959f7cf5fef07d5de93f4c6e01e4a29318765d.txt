@@ -1,0 +1,101 @@
+ to Authorised Persons conducting Regulated Activities. Set out below are additional conduct requirements that apply to an Authorised Person carrying out any Regulated Activity in accordance with Shari'a. Certain conduct requirements detailed below also apply to a Recognised Body Conducting Islamic Financial Business.
+
+Confidential
+
+15
+
+IFR VER08.020125
+
+Disclosure relating to Shari'a Supervisory Board
+
+3.8.1
+
+(a)
+
+An Authorised Person or Recognised Body, must, subject to IFR 3.8.1(b) below, disclose to each client:
+
+(i)
+
+at the outset of the relationship and thereafter at any time on request, details of the members of the Shari’a Supervisory Board of the Authorised Person or Recognised Body, as relevant; and
+
+(ii)
+
+at any time on request, details of the manner and frequency of Shari'a reviews.
+
+(b)
+
+An Authorised Person does not have to make the disclosure required under IFR 3.8.1(a) if it is a Fund Manager of an Islamic Fund and is making an Offer of Units of that Islamic Fund in accordance with the disclosure requirements of these Islamic Finance Rules.
+
+(c)
+
+An Authorised Person or Recognised Body must disclose the following information to each Person granted access to its facilities at the outset of the relationship, and thereafter whenever the information changes:
+
+(i)
+
+the members of the Shari’a Supervisory Board of the Authorised Person or Recognised Body; and
+
+(ii)
+
+if the Person granted access to its facilities requests, the manner and frequency of Shari'a reviews.
+
+Guidance
+
+(i)
+
+An Authorised Person may make the initial disclosures required under IFR 3.8.1(a) by including such information in the Client Agreement provided under COBS 3.
+
+(ii)
+
+An Authorised Person Managing a PSIA may make additional disclosure required to be made relating to that PSIA by including such information in the Client Agreement. See IFR 5 for additional disclosure for PSIAs.
+
+(iii)
+
+A Fund Manager making an Offer of a Unit of an Islamic Fund it manages is required to include information specified in IFR 3.8.1(a) in the Prospectus which it must prepare and make available to clients, hence the exemption in IFR 3.8.1. A similar exemption is available to Fund Managers with regard to key information that must be provided to a client under COBS 3.3.1(e).
+
+(iv)
+
+A Recognised Body may make the initial disclosures required under (a) by including such information on its website.
+
+Marketing Material
+
+3.8.2
+
+In addition to information required by COBS 3.2, any Marketing Material communicated by an Authorised Person to a Person must state which Shari'a Supervisory Board has reviewed the products or services to which the material relates.
+
+Confidential
+
+16
+
+IFR VER08.020125
+
+Guidance
+
+COBS 3.2.4 sets out the meaning of "Marketing Material".
+
+Islamic window
+
+3.8.3
+
+(a)
+
+An Authorised Person that operates an Islamic Window must, subject to (b) disclose to its clients and any Person granted access to its facilities whether or not it commingles funds attributable to its Islamic Financial Business with funds attributable to conventional financial business.
+
+(b)
+
+An Authorised Person does not have to make the disclosure required under (a) if it is a Fund Manager of an Islamic Fund and is making an Offer of Units of that Islamic Fund in accordance with the disclosure requirements in these Islamic Finance Rules.
+
+Guidance
+
+See Guidance under IFR 6.5.1 for the type of information required to be included in a Prospectus. The disclosures required under IFR 3.8.3(a) should initially be made in writing at the beginning of the relationship with a client or with a Person granted access to an Authorised Person's facilities. Additional disclosure should also be made if the Authorised Person changes its policy relating to commingling of funds attributable to its Islamic Financial Business with funds attributable to its conventional financial business.
+
+Disclosure relating to client Money provisions
+
+3.8.4 An Authorised Person must disclose to its clients details about how any Client Money
+
+arising out of its Islamic Financial Business is or will be held.
+
+3.9
+
+Prudential requirements
+
+3.9.1 An Authorised Person in prudential Category 1, 2, 3

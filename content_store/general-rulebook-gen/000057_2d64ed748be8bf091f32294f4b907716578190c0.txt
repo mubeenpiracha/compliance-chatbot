@@ -1,0 +1,109 @@
+.
+
+The Regulated Activity of Operating a Representative Office is defined in Schedule 1 of FSMR. By virtue of this Schedule, the Regulated Activity of Operating a Representative Office is a stand-alone Regulated Activity.
+
+4.
+
+Whilst much Representative Office activity will not involve a continuing relationship with the Persons to whom marketing is directed, where such a relationship is necessary, the Representative Office will need to be careful to ensure that it does not carry on any activities other than the activity of Operating a Representative Office.
+
+5.
+
+A Representative Office which undertakes a Regulated Activity which is outside the scope of its Financial Services Permission will be in breach of Part 4 of FSMR. If the Regulator believes that a Representative Office is in breach of Part 4 of FSMR, it may take steps which may include withdrawal of authorisation and formal enforcement action under FSMR.
+
+9.2
+
+Financial Services Permission application
+
+A Person, referred to in this chapter as an applicant, who intends to carry on the Regulated Activity of Operating a Representative Office must apply to the Regulator for a Financial Services Permission in such form as the Regulator shall prescribe.
+
+(1)
+
+An application to Operate a Representative Office may only be made by a Person who is:
+
+(a)
+
+incorporated; and
+
+100
+
+GEN VER11.290725
+
+(b)
+
+regulated by a Non-ADGM Financial Services Regulator
+
+in a jurisdiction other than ADGM.
+
+(2)
+
+The Regulator will not consider an application for the activity of Operating a Representative Office from an applicant who intends to operate in ADGM as a Domestic Firm.
+
+9.3
+
+Consideration and assessment of applications
+
+An Applicant will only be authorised to carry on the Regulated Activity of Operating a
+
+Representative Office if the Regulator is satisfied that:
+
+(a)
+
+the Applicant is fit and proper to hold a Financial Services Permission;
+
+(b)
+
+the Applicant’s proposed activity will be limited to that of marketing, as defined in paragraph 67 of Schedule 1 of FSMR, and it will not engage in any other Regulated Activity; and
+
+(c)
+
+authorising the Applicant to carry on the Regulated Activity of Operating a Representative Office furthers one or more of the Regulator’s objectives as outlined in section 1(3) of FSMR.
+
+In making the assessment under paragraph 1(a), the Regulator may consider:
+
+(a) whether the applicant is subject to supervision by a Non-ADGM Financial
+
+Services Regulator;
+
+(b) whether the applicant’s Non-ADGM Financial Services Regulator in its home state has been made aware of the proposed application and has expressed itself as having no objection to the establishment by the applicant of a Representative Office in ADGM; and
+
+(c)
+
+any other relevant matters.
+
+Guidance
+
+The GPM sets out matters which the Regulator takes into consideration when making an assessment of the kind under Rule 9.3.1.
+
+In relation to the assessment under Rule 9.3.1, amongst other considerations:
+
+(1)
+
+the applicant must demonstrate to the Regulator’s satisfaction that it is fit and proper;
+
+(2)
+
+the applicant must demonstrate to the Regulator’s satisfaction that its Principal Representative is fit and proper;
+
+(3)
+
+the Regulator will consider any matter which may harm or may have harmed the integrity or the reputation of the Regulator or ADGM;
+
+101
+
+GEN VER11.290725
+
+(4)
+
+the Regulator will consider the activities of the applicant and the associated risks, and accumulation of risks, that those activities pose to the Regulator’s objectives described under section 1(3) of FSMR; and
+
+(5)
+
+the Regulator will consider the cumulative effect of factors which, if taken individually, may be regarded as insufficient to give reasonable cause to doubt the fitness and propriety of an applicant.
+
+A Representative Office applying to change the scope of its Financial Services Permission, or to have a condition or restriction varied or withdrawn, must provide the Regulator with written details of the proposed changes.
+
+Guidance
+
+A Representative Office applying to change the scope of its Financial Services Permission should bear in mind that it may have to change its legal structure. The process will involve a fundamental review of the Representative Office by the Regulator to ascertain whether the Representative Office meets all the relevant criteria to enable the proposed change in scope of its Financial Services Permission.
+
+For the purposes of IFR and Schedule 1 of FSMR, a Representative Office will not be

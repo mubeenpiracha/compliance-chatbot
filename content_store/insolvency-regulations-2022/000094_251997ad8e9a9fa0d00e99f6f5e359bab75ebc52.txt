@@ -1,0 +1,85 @@
+the conduct of the winding-up proceedings and if such proceedings are to be conducted as ‘ancillary proceedings’ to the foreign proceedings; and
+
+126
+
+(b)
+
+the realisation of assets located in the Abu Dhabi Global Market and any remittal of such assets to the foreign proceedings.
+
+(8)
+
+The insolvency law of the Abu Dhabi Global Market shall apply to the conduct of any winding-up proceedings commenced under these Regulations, whether conducted as ancillary proceedings to foreign proceedings or otherwise.
+
+267.
+
+Inability to pay debts: unpaid creditor for $2,000 or more
+
+(1)
+
+An unregistered company is deemed (for the purpose of Section 266 (Winding-up of unregistered companies)) unable to pay its debts if there is a creditor, by assignment or otherwise, to whom the unregistered company is indebted in a sum exceeding $2,000 then due and—
+
+(a)
+
+the creditor has served on the unregistered company, by leaving at its principal place of business, or by delivering to the secretary or some Director, manager or principal officer of the unregistered company, or by otherwise serving in such manner as the Court may approve or direct, a written demand containing the information specified in Section 201(3) (The statutory demand) requiring the unregistered company to pay the sum due; and
+
+(b)
+
+the unregistered company has for three (3) weeks after the service of the demand neglected to pay the sum or to secure or compound for it to the creditor’s satisfaction.
+
+(2)
+
+The money sum of the time being specified in subsection (1) is subject to increase or reduction by these Regulations; but no increase in the sum so specified affects any case in which the winding-up petition was presented before the coming into force of the increase.
+
+268.
+
+Inability to pay debts: other cases
+
+(1)
+
+An unregistered company is deemed (for purposes of Section 266 (Winding-up of unregistered companies)) unable to pay its debts—
+
+(a)
+
+if execution or other process issued on a judgment, decree or order obtained in any Court in favour of a creditor against the unregistered company or any member of it as such, or any person authorised to be sued as nominal defendant on behalf of the unregistered company, is returned unsatisfied; or
+
+(b)
+
+if it is otherwise proved to the satisfaction of the Court that the unregistered company is unable to pay its debts as they fall due.
+
+(2)
+
+An unregistered company is also deemed unable to pay its debts if it is proved to the satisfaction of the Court that the value of the non-Abu Dhabi Global Market Company’s assets is less than the amount of its liabilities, taking into account its contingent and prospective liabilities.
+
+269. Company incorporated outside the Abu Dhabi Global Market may be wound up though dissolved
+
+Where a company incorporated outside the Abu Dhabi Global Market which has been carrying on business in the Abu Dhabi Global Market ceases to carry on business in the Abu Dhabi Global Market, it may be wound up as an unregistered company under this Part 6 (Cross-border Insolvency), notwithstanding that it has been dissolved or otherwise ceased to exist as a company under or by virtue of the laws of the country under which it was incorporated.
+
+127
+
+270. Outstanding property of a defunct unregistered company
+
+(1)
+
+This Section applies where, after the dissolution of an unregistered company, outstanding property of the unregistered company remains in the Abu Dhabi Global Market.
+
+(2)
+
+All property and rights of the unregistered company vests in the Abu Dhabi Global Market in accordance with Section 296 (Property of dissolved Company).
+
+Chapter 2 - Recognition of foreign insolvency proceedings
+
+271. UNCITRAL Model Law to have force of law
+
+(1)
+
+The UNCITRAL Model Law shall have the force of law in the Abu Dhabi Global Market in the form set out in Schedule 10 (Application of UNCITRAL Model Law) (which contains the UNCITRAL Model Law with certain modifications to adapt it for application in the Abu Dhabi Global Market).
+
+(2) Without prejudice to any practice of the Court as to the matters which may be considered apart from this subsection, the following documents may be considered in ascertaining the meaning or effect of any provision of the UNCITRAL Model Law as set out in Schedule 10 (Application of UNCITRAL Model Law)—
+
+(a)
+
+the UNCITRAL Model Law;
+
+(b)
+
+any documents of the United Nations Commission on International Trade Law

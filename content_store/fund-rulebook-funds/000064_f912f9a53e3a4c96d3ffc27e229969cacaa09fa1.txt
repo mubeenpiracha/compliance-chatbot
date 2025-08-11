@@ -1,0 +1,153 @@
+ from the list of ADGM Green Funds and ADGM
+
+Climate Transition Funds maintained on the Regulator’s website.
+
+99
+
+FUNDS VER10.100625
+
+APP 1
+
+DELEGATION AND OUTSOURCING
+
+A1.1
+
+Application
+
+A1.1.1
+
+(1)
+
+This Appendix (APP 1) applies to a Fund Manager and, if appointed, the Trustee in relation to every:
+
+(a)
+
+Delegation Agreement; and
+
+(b)
+
+Outsourcing Agreement.
+
+made or entered into pursuant to these Rules.
+
+(2)
+
+This Appendix does not apply to a Qualified Investor Fund.
+
+A1.2
+
+Mandatory provisions
+
+A1.2.1
+
+(1)
+
+A Fund Manager or Trustee must ensure that any agreement specified in Rule A1.1.1(1):
+
+(a)
+
+sets out the functions or activities and service standards that will be applied to the carrying out of such functions or activities;
+
+(b)
+
+provides that the Service Provider cannot in turn delegate any activities delegated to it, or outsource any functions outsourced to it, without prior approval of the Fund Manager or Trustee as applicable;
+
+(c)
+
+requires the Service Provider to:
+
+(i)
+
+maintain records to show and explain transactions in relation to each activity or function performed in relation to the Fund;
+
+(ii)
+
+maintain such records in a manner to enable the Fund Manager or Trustee to prepare accounts in compliance with these Rules and any other applicable legislation;
+
+(iii)
+
+retain the records for at least six years from the date to which they relate;
+
+(iv)
+
+keep the records, at all reasonable times, open to inspection by the Regulator, the Fund's Auditor and any Person providing the oversight function for the Fund; and
+
+(v)
+
+ensure that the records are, if requested by the Regulator, capable of reproduction within a reasonable period not exceeding 3 days, in hard copy and in English.
+
+(2)
+
+A Fund Manager or Trustee must ensure that a Delegation Agreement contains an undertaking by the Service Provider to:
+
+(a)
+
+comply with any Regulator Rules applicable to the activity; and
+
+100
+
+FUNDS VER10.100625
+
+(b)
+
+disclose to the Regulator and to the Fund Manager or Trustee, as the case may be, any material information that it would disclose to its Financial Services Regulator, if relevant, in relation to the conduct of the activity.
+
+(3)
+
+A Fund Manager or Trustee must maintain records of all agreements, and any instructions given to a Service Provider under the terms of an agreement, for at least six years.
+
+Guidance
+
+1.
+
+Other Rules may also impact on the contents of a Delegation Agreement or Outsourcing Agreement. For instance, consideration should be given to GEN Rules 3.3.31 and 3.3.32 and accompanying Guidance.
+
+2.
+
+Without limiting the application of any Rules, the Regulator expects that any agreement relating to a material delegation would include as a minimum:
+
+a.
+
+unambiguous descriptions and definitions of the activities or functions to be provided by the Service Provider and the duties of both parties;
+
+b.
+
+an agreed standard between the parties or resources and services supported as necessary by performance measures in accordance with the applicable Rules;
+
+c.
+
+the requirement for regular detailed reporting to a specified frequency from the Service Provider in respect of its duties and activities;
+
+d.
+
+provisions relating to the reporting of relevant events such as technological changes or error reporting and, in particular, any event which undermines the ability of the Service Provider to fulfil its duties; and
+
+e.
+
+the requirement for an annual review (at a minimum) of the performance of the Service Provider.
+
+A1.3
+
+Provisions relating to Eligible Custodians
+
+A1.3.1
+
+(1)
+
+A Fund Manager or Trustee must ensure that a Delegation Agreement in relation to Providing Custody will:
+
+(a)
+
+require that the title of any account of the Eligible Custodian to hold Fund Property sufficiently distinguishes that account from any account containing Investments belonging to the Eligible Custodian, and is in the form requested by the Fund Manager or Trustee;
+
+(b)
+
+require that the Fund's Investments will only be credited and withdrawn in accordance with the instructions of the Fund Manager or Trustee;
+
+(c)
+
+require, subject to (2), that the Eligible Custodian will hold the Fund's Investments separately from assets belonging to the Eligible Custodian;
+
+101
+
+FUNDS VER

@@ -1,0 +1,131 @@
+ follows:
+
+a.
+
+An Authorised Firm may have a fixed-rate loan portfolio in the Non-Trading Book. Although the Non-Trading Book does not attract a regulatory capital charge for interest rate risk, the portfolio is subject to interest rate risk. Firms may prefer to transfer this risk to the Trading Book where it may be actively managed.
+
+b.
+
+The Authorised Firm may transfer this interest rate risk by entering into, for example, a fixed versus floating rate swap between the Trading Book and the Non-Trading Book. The notional long and short positions created as result of the swap are recorded in the Trading Book, and the swap positions may be treated as financial instruments provided that appropriate documentation is in place (see Rule A2.1.14). The General Market Risk requirements associated with the swap legs are allocated to the appropriate Trading Book General Market Risk bucket and thus may reduce the overall General Market Risk requirement in the Trading Book.
+
+241
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+c.
+
+For an Authorised Firm to undertake such a transaction there should be existing positions in the Trading Book, which result in a sufficient General Market Risk requirement to offset the General Market Risk created as a result of the swap.
+
+A2.1.14 Appropriate documentation under A2.1.13 must cover:
+
+(a)
+
+details of the instruments or Exposures being transferred and the method used to transfer; and
+
+(b)
+
+the pricing of the transfer.
+
+Guidance
+
+1.
+
+Separate documentation need not be produced for every transfer. If the same method is used for a number of transfers, a single document detailing the procedures will suffice. However, an Authorised Firm must still be able to distinguish transactions that have been undertaken for risk transfer purposes from other transactions.
+
+2.
+
+Arm’s-length prices must be used in any transfer. ‘Arm’s-length’ means the prevailing market price for the particular transaction.
+
+A2.2 Trading Book policy
+
+Guidance
+
+The requirement for a Trading Book policy is prescribed in Rule A2.1.1.
+
+A2.2.1 A Trading Book policy must include clearly defined policies, procedures and
+
+methodologies by which the Authorised Firm:
+
+(a)
+
+defines its Trading Book and identifies positions to be included in its Trading Book;
+
+(b)
+
+allocates positions between the Non-Trading Book and the Trading Book;
+
+(c)
+
+actively manages and values its positions in the Trading Book;
+
+(d)
+
+measures its Trading Book risks; and
+
+(e)
+
+controls transfers of positions between the Non-Trading Book and the Trading Book.
+
+A2.2.2 An Authorised Firm must obtain the approval of its Governing Body for its Trading Book policy. The Authorised Firm must review and where necessary update the policy at least annually. The Authorised Firm must obtain the approval of the Governing Body for all significant changes.
+
+A2.2.3 An Authorised Firm must, without undue delay, notify the DFSA when its Governing Body approves the adoption of a Trading Book policy or approves any changes to the policy.
+
+Guidance
+
+1.
+
+At a minimum, the DFSA expects that a Trading Book policy will address the following:
+
+a.
+
+the definition of Trading Book and trading strategy, including:
+
+242
+
+PIB/VER50/07-25
+
+b.
+
+c.
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+i.
+
+the activities that the Authorised Firm considers to be trading and the types of positions that are to be allocated to the Trading Book for the purposes of calculating its regulatory Capital Requirements;
+
+ii.
+
+the types of positions that are excluded from the Trading Book; and
+
+iii.
+
+the procedures to ensure that the criteria by which positions are allocated to the Trading Book are adhered to on a consistent basis, including details on:
+
+A.
+
+the organisational unit or department within the Authorised Firm responsible for monitoring adherence to the Trading Book policy;
+
+B.
+
+the frequency of monitoring;
+
+C.
+
+process and methodology of this monitoring; and
+
+D.
+
+how the continuing appropriateness of allocations is confirmed;
+
+the extent of active management and valuation, including:
+
+i.
+
+the extent to which a position can be marked-to-market daily by reference to an active, liquid two-way market;
+
+ii.
+
+for positions which are marked-to-model, the extent to which the Authorised Firm

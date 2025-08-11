@@ -1,0 +1,93 @@
+ ETF Units on the relevant exchange, where retail investors can buy and sell ETF Units at a price close to NAV.
+
+17
+
+CIR/VER38/08-24
+
+3.1.13
+
+3.1.14
+
+COLLECTIVE INVESTMENT RULES (CIR)
+
+4.
+
+See further Guidance about ETFs under CIR 13.9.6.
+
+Venture Capital Fund
+
+A Fund is a Venture Capital Fund if it is an Exempt Fund or a Qualified Investor Fund and its investment objective is to invest:
+
+(a)
+
+at least 90% of its committed capital in unlisted business ventures that have been incorporated for no more than ten years at the time of the Fund’s initial investment in each business; and
+
+(b)
+
+by means of Shares, convertible debt or other instruments carrying equity participation rights or reward that are directly issued by the unlisted business ventures.
+
+Guidance
+
+1.
+
+A Venture Capital Fund is expected to finance small to medium sized businesses which are in the early stages of business development and growth. Some business ventures would be using innovative technologies or new ways of doing business. However, where an established large-scale business spins off subsidiaries to expand existing businesses and operations, this would not be considered to be a start-up or small to medium sized business in which a Venture Capital Fund should invest.
+
+2.
+
+The term “committed capital” refers to the total amount that Unitholders have agreed to contribute to the Venture Capital Fund.
+
+3.
+
+A business venture is “unlisted” if it does not have securities admitted to an official list of securities of an exchange, or admitted to trading on a MTF or an OTF.
+
+4.
+
+The type of investments referred to in Rule 3.1.13(b) include Warrants which confer rights to acquire unissued Shares or Units in an unlisted business venture. However, Warrants over unissued Debentures do not confer equity participation rights and are not included. Structured Products can also be used if the contractual rights confer on the Venture Capital Fund the right to participate in profits and assets of the business venture, in which the Fund invests.
+
+5.
+
+A Venture Capital Fund may also invest in a business venture using tokens that give the Fund rights attaching or analogous to holding Shares or Units, i.e. equity participation rights in the profits and assets of the venture, with or without governance rights. However, a right to receive utility tokens or payment tokens issued by a business venture, for example, operating in the distributed ledger or similar technology sector, which does note provide such rights, will not be an equity participation right referred to in Rule 3.1.13(b). The DFSA may consider, on a case-by-case basis, any new arrangements relating to tokens as a means of investing in a venture operating in distributed ledger or similar technology sector, to assess whether those tokens meet the criteria in Rule 3.1.13(b).
+
+Investment Token Funds
+
+A Fund is an Investment Token Fund if its main purpose is investing in Investment Tokens.
+
+18
+
+CIR/VER38/08-24
+
+3.1.15
+
+3.1.16
+
+COLLECTIVE INVESTMENT RULES (CIR)
+
+Credit Fund
+
+(1) A Domestic Fund is a Credit Fund if its investment objective is to use at least 90% of its Fund Property to Provide Credit, including by acquiring loans.
+
+(2) A Foreign Fund is a Credit Fund if its investment objective is, or includes,
+
+Providing Credit, including by acquiring loans.
+
+(3)
+
+In this Rule, “acquire” a loan means to purchase, take transfer of, take credit risk or part of credit risk attaching to, or take other exposures to, the loan.
+
+Crypto Token Funds
+
+A Fund is a Crypto Token Fund if its main purpose is investing in Crypto Tokens.
+
+Guidance
+
+A Fund in the DIFC is, except as specified in GEN Rule 3A.2.1(3), only permitted to invest in a Recognised Crypto Token i.e. a Crypto Token that the DFSA has recognised as meeting criteria specified in GEN section 3A. See also the definition in GEN Rule 3A.1.2 of when a Fund invests in a Crypto Token, which applies for the purposes of the requirement in GEN 3A.2.1.
+
+19
+
+CIR/VER38/08-24
+
+4.
+
+4.1
+
+4.

@@ -1,0 +1,93 @@
+ Firm expressly requests the Authorised Firm to be re-classified as a Retail Client, the Authorised Firm must, subject to (4), re-classify such a Person as a Retail Client.
+
+(4)
+
+If an Authorised Firm does not provide Financial Services to Retail Clients, it must inform the Person of this fact and any relevant consequences.
+
+Guidance
+
+1.
+
+The obligation in Rule 2.4.1(1) applies to an Authorised Firm when it first provides, or intends to provide, a Financial Service to a Professional Client.
+
+2.
+
+Once an Authorised Firm has first classified a Person as a Professional Client, under the procedures in Rule 2.3.3(1), that Professional Client has a right at any subsequent time to ask, under Rule 2.4.1(3), to be re-classified as a Retail Client to obtain a higher level of protection.
+
+15
+
+COB/VER48/03-25
+
+CONDUCT OF BUSINESS (COB)
+
+Although the right to ask the firm to be re-classified as a Retail Client is available to the Professional Client, as a matter of good practice:
+
+a.
+
+the firm should also periodically review whether the circumstances relating to the particular Client remain the same; and
+
+b.
+
+if the firm becomes aware of any circumstances which would warrant a re-classification of the Client, initiate the process with the Client to give that Client a more appropriate classification.
+
+3. Where an existing Professional Client is offered a new Financial Service or new financial product, a re-classification might be appropriate if:
+
+a.
+
+the new Financial Service or financial product is substantially different to those previously offered to that Client; and
+
+b.
+
+the Client’s experience and understanding appears not to extend to the new Financial Service or financial product.
+
+4.
+
+An Authorised Firm cannot provide Financial Services to a Retail Client unless it has a Retail Endorsement on its Licence. However, such a firm may refer to another appropriately licensed firm any Person who elects to opt-in as a Retail Client.
+
+Assessment of net assets
+
+2.4.2 An Authorised Firm, when calculating net assets of an individual for the purposes of
+
+the requirement under Rule 2.3.7(1)(a):
+
+(a) must exclude the value of the primary residence of that Person;
+
+(b) must exclude Crypto Tokens belonging to that Person that are not Recognised
+
+Crypto Tokens;
+
+(c) must include only 33% of the market value of Recognised Crypto Tokens
+
+belonging to the Person; and
+
+(d) may include any other assets held directly or indirectly by that Person.
+
+Guidance
+
+1.
+
+The reference to “assets held directly or indirectly” is designed to include assets held by direct legal ownership, by beneficial ownership (for example, as a beneficiary in a trust), or by both legal and beneficial ownership. Such assets may be held, for instance, through a special purpose or personal investment vehicle, a foundation, or the like. Similarly, any real property held subject to an Islamic mortgage, where the lender has the legal title to the property, may be counted as indirectly held property of a Client, less the amount owing on the mortgage, where it is not a primary residence.
+
+2.
+
+As the test is to determine the net assets (not gross assets) of an individual, any mortgages or other charges held over the property to secure any indebtedness of the individual should be deducted from the value of the assets.
+
+3.
+
+An individual’s primary residence is excluded from the calculation of their net assets. If an individual who is an expatriate has a primary residence in his home country, such a residence should not generally be counted for the purposes of meeting the net asset test, particularly if the current residence in their host country is rented. However, if the current residence in the host country is owned by the individual, then that may be treated as their primary residence and the
+
+16
+
+COB/VER48/03-25
+
+2.4.3
+
+CONDUCT OF BUSINESS (COB)
+
+value of the residence in the home country of the individual may be counted for the purposes of meeting the net asset test, provided there is sufficient evidence of ownership and an objective valuation of the relevant premises.
+
+4.
+
+An Authorised Firm should be able to demonstrate that it has objective evidence of the ownership and valuation of any assets taken into account for the purposes of meeting the net asset test.
+
+Assessment of knowledge

@@ -1,0 +1,119 @@
+ (Cell Liquidation Order) of this Schedule;
+
+“cellular assets” has the meaning given in the Companies Regulations 2020;
+
+“cell member” means the member of a cell; and
+
+“non-cellular assets” has the meaning given in the Companies Regulations 2020.
+
+2.
+
+Liquidation of a Protected Cell Company
+
+(1)
+
+The members of a Protected Cell Company shall not pass a resolution to appoint a liquidator to the Protected Cell Company under these Regulations or the Companies Regulations 2020 if any cell is subject to a Cell Liquidation Order.
+
+(2)
+
+Any resolution passed contrary to sub-paragraph (1) shall be void and of no effect.
+
+(3)
+
+In the liquidation of a Protected Cell Company, the liquidator—
+
+(a)
+
+shall, in the course of winding-up the Protected Cell Company, wind-up each cell of the Protected Cell Company;
+
+(b)
+
+shall be bound to deal with the Protected Cell Company’s cellular assets and non-cellular assets in accordance with the requirements set out in Section 1057 (Application of the Insolvency Regulations 2015 to cell Companies) of Part 36 (Cell Companies) of the Companies Regulations 2020; and
+
+(c)
+
+in discharge of the claims of creditors of the Protected Cell Company, shall apply the Protected Cell Company’s cellular assets and non-cellular assets to those entitled to have recourse thereto.
+
+(4)
+
+Parts 3 (Winding-Up) and 4 (Protection of Assets in Liquidation and Administration) of these Regulations shall apply to the liquidation of a Protected Cell Company with such modifications as are necessary to give effect to paragraph (3), and in the event of any conflict between the provisions of Parts 3 (Winding-Up) and 4 (Protection of Assets in Liquidation and Administration) and this Schedule the provisions of this Schedule shall prevail.
+
+3.
+
+Application of these Regulations to cells
+
+(1)
+
+Subject to sub-paragraph (2), these Regulations shall apply to a cell of a Protected Cell Company which is the subject of a Cell Liquidation Order as if, where the context admits—
+
+(a)
+
+the cell was a separate Company;
+
+(b)
+
+the cell members were members of that separate Company;
+
+259
+
+(c)
+
+the cellular assets attributable to the cell were the assets of that separate Company;
+
+(d)
+
+references to liquidation or winding-up include a reference to a Cell Liquidation Order; and
+
+(e)
+
+references to Insolvency Proceedings include a reference to a Cell Liquidation Order.
+
+(2)
+
+Parts 1 (Administration), 2 (Receivership) and 6 (Cross-Border Insolvency) and Chapters 1 (General), 2 (Voluntary winding-up), 3 (Members’ voluntary winding-up), 4 (Creditors’ voluntary winding-up), 5 (Provisions applying to both kinds of voluntary winding-up) and 6 (Compulsory winding-up) of Part 3 (Winding-Up) of these Regulations shall not apply to a cell of a Protected Cell Company.
+
+(3)
+
+In the event of any conflict between the provisions of this Schedule and other provisions of these Regulations, the provisions of this Schedule shall prevail.
+
+4.
+
+Cell Liquidation Order
+
+(1)
+
+Subject to the provisions of this paragraph, if in relation to a Protected Cell Company the Court is satisfied—
+
+(a)
+
+that the cellular assets attributable to a particular cell of the Protected Cell Company are or are likely to be insufficient to discharge the claims of creditors in respect of that cell; and
+
+(b)
+
+that the making of an order under this paragraph would achieve the purposes set out in sub-paragraph (3),
+
+the Court may make a Cell Liquidation Order under this paragraph in respect of that cell.
+
+(2)
+
+A Cell Liquidation Order may be made in respect of one or more cells of a Protected Cell Company.
+
+(3)
+
+A Cell Liquidation Order is an order directing that the business and cellular assets attributable to a cell shall be managed by a Cell Liquidator specified in the order for the purposes of—
+
+(a)
+
+the orderly closing down of the business attributable to the cell; and
+
+(b)
+
+the distribution of the cellular assets attributable to the cell to those entitled to have recourse thereto.
+
+(4) Where the Court makes a Cell Liquidation Order it shall, at the same time, appoint a
+
+liquidator to act as Cell Liquidator under the Cell Liquidation Order.
+
+(5)
+
+A Cell Liquidator appointed under

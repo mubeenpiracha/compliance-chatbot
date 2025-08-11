@@ -1,0 +1,117 @@
+:
+
+1. When considering this Rule the Authorised Firm should consider the following factors:
+
+a.
+
+the structure, independence and control of the arrangements;
+
+transaction, including governance
+
+b.
+
+the inter relatedness of the underlying Exposures;
+
+c.
+
+beneficial owners of the underlying Exposures and whether they could be deemed Connected or Closely Related; and
+
+d.
+
+whether the transactions are conducted on an arm’s length basis.
+
+2.
+
+An Authorised Firm should look through the structure to determine whether there are any Counterparties or Exposures that should be considered a Concentration Risk.
+
+Connected Counterparty exemptions
+
+A4.11.9 (1) This Rule applies to an Authorised Firm in Category 2 and 3A.
+
+(2) An Authorised Firm may treat as exempt from the Concentration Risk limits
+
+in chapter 4 an Exposure to a Counterparty or Counterparties Connected to the Authorised Firm if all of the following conditions are met:
+
+(a)
+
+the Authorised Firm has given the DFSA written notice one month in advance of its intention to use the exemption and explained how it will ensure that it will still meet the Concentration Risk limits on a continuing basis when using the exemption;
+
+312
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+(b)
+
+the total amount of the Exposures that an Authorised Firm is treating as exempt under this Rule does not exceed 50% of the Authorised Firm's Tier 1 Capital;
+
+(c)
+
+the Authorised Firm makes and retains a record that identifies each Exposure it has treated in this way;
+
+(d)
+
+the Authorised Firm is subject to consolidated supervision;
+
+(e)
+
+the Counterparty is:
+
+(i)
+
+an Authorised Firm which is the subject of consolidated supervision; or
+
+(ii)
+
+a member of the Authorised Firm's Group which is the subject of consolidated supervision to the satisfaction of the DFSA; and
+
+(f)
+
+the Exposure satisfies one or more of conditions (i) to (iii):
+
+(i)
+
+it is a loan made by the Authorised Firm with a maturity of one year or less in the course of the Authorised Firm carrying on a treasury role for other members of its Group;
+
+(ii)
+
+it is a loan to the Parent of the Authorised Firm made in the course of a business carried on by the Authorised Firm of lending to its parent cash that is surplus to the needs of the Authorised Firm, provided that the amount of that surplus fluctuates regularly; or
+
+(iii)
+
+it arises from the Authorised Firm or a Counterparty Connected to the Authorised Firm operating a central risk management function for Exposures arising from Derivatives contracts.
+
+Measuring Exposure to Counterparties and Issuers
+
+A4.11.10 Rules A4.11.12 to A4.11.28 apply to both Non-Trading Book and Trading Book
+
+Exposures.
+
+A4.11.11 When calculating an Exposure, an Authorised Firm must include accrued interest and
+
+dividends due.
+
+A4.11.12 An Authorised Firm must not offset Non-Trading Book and Trading Book Exposures.
+
+A4.11.13 A net short position is not an Exposure for the purposes of Concentration Risk.
+
+A4.11.14 (1)
+
+Subject to (2), the value of an Authorised Firm's Exposure to a Counterparty, whether in its Non-Trading Book or its Trading Book, is the amount at risk calculated in accordance with chapter 4.
+
+(2)
+
+For the purposes of calculating the value of an Authorised Firm's Exposure to a Counterparty under (1), the CCF factors taken into account under A4.2 are subject to a minimum floor of 10%.
+
+313
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+Exposures to Issuers
+
+A4.11.15 An Authorised Firm must calculate the value of an Exposure to the Issuer of a Security which is held in the Authorised Firm's Non-Trading Book as the sum of the excess, where positive, of the book value of all long positions over all short positions (the net long position), for each identical instrument issued by that Issuer.
+
+A4.11.16 For the

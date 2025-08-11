@@ -1,0 +1,91 @@
+ Business that is in run-off, and any other contracts with the same counterparty or parties Related to that counterparty.
+
+9.5.3
+
+The DFSA may by written notice require an Insurer to provide additional information as specified in that notice in respect of any contract notified to the DFSA in accordance with Rule 9.5.2
+
+9.6
+
+Limitations on distributions by DIFC incorporated insurers in run- off
+
+9.6.1 No DIFC Incorporated Insurer that is in run-off may make any distribution of profits or surplus however called or described, or return of capital, or any payment of management fees (other than fees payable under a contract notified to the DFSA in accordance with Rule 9.5.2), without the written consent of the DFSA. Any such distribution or return of capital or payment of management fees must be made within the period, if any, specified in the written notice of consent given by the DFSA.
+
+48
+
+PIN/VER18/04-23
+
+PRUDENTIAL – INSURANCE BUSINESS (PIN)
+
+10
+
+INSURANCE SPECIAL PURPOSE VEHICLES
+
+10.1 Application
+
+10.1.1 This chapter applies only to Insurers that are Authorised ISPVs.
+
+10.1.2 An Authorised ISPV must ensure that at all times its assets are equal to or greater
+
+than its liabilities.
+
+Guidance
+
+It is the policy of the DFSA that an Authorised ISPV should be fully funded. The DFSA considers that to be fully funded an ISPV must have actually received the proceeds of the debt issuance or other mechanism by which it is financed. The DFSA would not, for example, authorise an ISPV where part of the financing for its reinsurance liabilities was on a contingent basis, i.e. a stand by facility or letter of credit.
+
+10.1.3 The assets of an Authorised ISPV must be held by, or on behalf of:
+
+(i)
+
+the Authorised ISPV; or
+
+(ii)
+
+the insurer which cedes to the Authorised ISPV the risks in respect of which the relevant assets are held.
+
+10.1.4 An Authorised ISPV must develop, implement and maintain a risk management system to address all material risks to which it is subject. In particular, it must have regard to the Guidance on managing investment risk set out in section A.2.6.
+
+Guidance
+
+In developing, implementing and maintaining a risk management system as required under Rule 10.1.4 an Authorised ISPV should have proper regard to the Guidance on investment risk set out in section A2.6.
+
+10.1.5 An Authorised ISPV must include in each of its contracts of reinsurance terms which ensure that its aggregate maximum liability at any time under those contracts of reinsurance does not exceed the amount of its assets at that time.
+
+10.1.6 An Authorised ISPV must ensure that under the terms of any debt issuance or other financing arrangements used to fund its reinsurance liabilities the rights of the providers of that debt or other financing are fully subordinated to the claims of creditors under its contracts of reinsurance.
+
+10.1.7 An Authorised ISPV must only enter into contracts or otherwise assume obligations which are necessary for it to give effect to the reinsurance arrangements which represent the special purpose for which it has been established.
+
+10.1.8 Where the Authorised ISPV is a Protected Cell Company, Rules 10.1.2 to 10.1.7
+
+should be read as applying to each Cell individually.
+
+49
+
+PIN/VER18/04-23
+
+PRUDENTIAL – INSURANCE BUSINESS (PIN)
+
+APP1 GUIDE TO THE APPENDICES
+
+A1.1 Guide to the appendices
+
+Guidance
+
+1.
+
+In PIN, appendices have been used to present detailed material which would otherwise break up the flow of the main text.
+
+2.
+
+App2 presents detailed guidance on systems and controls issues particularly relevant to Insurers.
+
+3.
+
+The remaining appendices are all concerned with capital adequacy calculations and reporting.
+
+4.
+
+A fundamental requirement of chapter 4 of the Rules is that an Insurer’s capital resources should be at least equal to its capital requirement.
+
+5.
+
+App3 contains the Rules for the calculation of an Insurer’s capital resources, for a normally structured Insurer. App5 and App7 contain the

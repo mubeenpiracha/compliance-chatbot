@@ -1,0 +1,107 @@
+ contingent obligation to effect a purchase by virtue of an existing contractual obligation;
+
+(b)
+
+holdings of the AT1 Capital instruments of Relevant Entities where those entities have a reciprocal cross-holding with the Authorised Person which have the effect of artificially inflating the Capital Resources of the Authorised Person;
+
+(c)
+
+the amount determined in accordance with Rule 3.11.8 of direct and indirect holdings by the Authorised Person of the AT1 Capital instruments of Relevant
+
+79
+
+PRU VER17.290725
+
+Entities where the Authorised Person does not have a significant investment in those entities;
+
+(d)
+
+direct and indirect holdings by the Authorised Person of the AT1 Capital instruments of Relevant Entities where the Authorised Person has a significant investment in those entities, excluding Underwriting positions held for five working days or fewer; and
+
+(e)
+
+the amounts required to be deducted Rule 3.12.4 that exceed the T2 Capital of the Authorised Person.
+
+from T2 Capital pursuant to
+
+AT1 Deductions - holdings of own AT1 Capital instruments
+
+3.11.5
+
+For the purposes of Rule 3.11.4(a), an Authorised Person must calculate holdings of its own AT1 Capital instruments on the basis of gross long positions subject to the following exceptions:
+
+(a)
+
+an Authorised Person must calculate the amount of holdings of own AT1 Capital instruments in the Trading Book on the basis of the net long position provided the long and short positions are in the same underlying Exposure and the short positions involve no Counterparty Credit Risk;
+
+(b)
+
+an Authorised Person must determine the amount to be deducted for indirect holdings in the Trading Book of own AT1 Capital instruments that take the form of holdings of index Securities by calculating the underlying Exposure to own AT1 Capital instruments in the indices; and
+
+(c)
+
+an Authorised Person must net gross long positions in own AT1 Capital instruments in the Trading Book resulting from holdings of index Securities against short positions in own AT1 instruments resulting from short positions in the underlying indices, including where those short positions involve Counterparty Credit Risk.
+
+AT1 Deductions - investments in AT1 Capital instruments of Relevant Entities
+
+3.11.6
+
+For the purposes of Rule 3.11.4(b), (c) and (d), the amount of holdings of AT1 Capital instruments of Relevant Entities to be deducted must be calculated on the basis of the gross long positions.
+
+3.11.7
+
+For the purposes of Rule 3.11.4(c) and (d), an Authorised Person must make the deductions in accordance with the following:
+
+(a)
+
+the holdings in the Trading Book of the capital instruments of Relevant Entities must be calculated on the basis of the net long position in the same underlying Exposure provided the maturity of the short position matches the maturity of the long position or has a residual maturity of at least one year; and
+
+(b)
+
+the amount to be deducted for indirect holdings in the Trading Book of the capital instruments of Relevant Entities that take the form of holdings of index
+
+80
+
+PRU VER17.290725
+
+Securities must be determined by calculating the underlying Exposure to the capital instruments of the Relevant Entities in the indices.
+
+AT1 Deductions - significant investment in a Relevant Entity
+
+3.11.8
+
+(1)
+
+For the purposes of Rule 3.11.4(c), an Authorised Person must calculate the applicable amount to be deducted by multiplying the amount referred to in (a) by the factor derived from the calculation referred to in (b):
+
+(a)
+
+the amount referred to in Rule 3.10.16(1)(a);
+
+(b)
+
+the amount of direct and indirect holdings by the Authorised Person of the AT1 Capital instruments of Relevant Entities divided by the aggregate amount of all direct and indirect holdings by the Authorised Person of the CET1, AT1 and T2 Capital instruments of those Relevant Entities.
+
+(2)
+
+An Authorised Person must exclude Underwriting positions held for in five working days or Rule 3.10.16(1)(a) and from the calculation of the factor referred to in (1)(b).
+
+fewer
+
+from
+
+the
+
+amount
+
+referred
+
+to
+
+(3)
+
+An Authorised Person must determine the portion of holdings of AT1 Capital instruments that is to be deducted pursuant to (1) by dividing the amount specified in (a) by the amount specified in (b):
+
+(a)
+
+the amount of holdings required to

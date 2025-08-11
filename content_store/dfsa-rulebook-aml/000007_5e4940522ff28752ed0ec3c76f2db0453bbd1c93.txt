@@ -1,0 +1,155 @@
+ and head office is in a jurisdiction other than the DIFC; and
+
+(c)
+
+through which business in or from the DIFC.
+
+the Relevant Person carries on
+
+Cabinet Decision No. 10 of 2019
+
+Means Federal Cabinet Decision No. 10 of 2019 on the Implementing Regulations of Federal Law No. 20 of 2018.
+
+Cabinet Decision No. 74 of 2020
+
+Means Federal Cabinet Decision No. 74 of 2020 regarding Implementation of UN Terrorism Lists Regulation and Security Council Resolutions on the Suppression and Combating of Terrorism, Terrorist Financing, Countering the Proliferation of Weapons of Mass Destruction and its Financing, and Related Resolutions.
+
+Client
+
+Has the meaning in chapter 2 of the Conduct of Business module.
+
+company service provider
+
+Means a person, not falling into parts (1)(a) to (e) of the definition of a DNFBP that, by way of business, provides any of the following services to a customer:
+
+(a)
+
+acting as a formation agent of legal persons;
+
+(b)
+
+acting as (or arranging for another person to act as) a director or secretary of a company, a partner of a partnership, or a similar position in relation to other legal persons;
+
+(c)
+
+providing a registered office, business address or accommodation, correspondence or administrative address for a company, a partnership or any other legal person or arrangement; or
+
+(d)
+
+acting as (or arranging for another person to act as) a nominee shareholder for another person.
+
+Contract of Insurance
+
+Has the meaning in GEN Rule A4.1.1.
+
+CTF
+
+Means counter-terrorist financing.
+
+customer
+
+Unless otherwise provided, means:
+
+(a)
+
+a person where, in relation to a business relationship between the person and a Relevant Person, there is a firm intention or commitment by each party to enter into a contractual relationship or where there is a firm
+
+10
+
+AML/VER27/03-25
+
+Anti-Money Laundering, Counter-Terrorist Financing and Sanctions Module (AML)
+
+commitment by each party to enter into a transaction, in connection with a product or service provided by the Relevant Person;
+
+(b)
+
+a Client of an Authorised Firm;
+
+(c)
+
+a Member or prospective Member of, or an applicant for admission of Securities to trading on, an Authorised Market Institution; or
+
+(d)
+
+a person with whom a Relevant Person is otherwise establishing or has established a business relationship.
+
+Customer Due Diligence (CDD)
+
+Means the measures referred to in section 7.3.
+
+Designated Non- Financial Business or Profession (DNFBP)
+
+Means:
+
+(1)
+
+The following class of persons whose business or profession is carried on in or from the DIFC:
+
+(a)
+
+a real estate developer or agency which carries out transactions with a customer involving the buying or selling of real property;
+
+(b)
+
+a dealer in precious metals or precious stones which carries out any single cash transaction or several transactions that appear to be connected and the value of which is equal to or greater than $15,000;
+
+(c)
+
+a person who issues, or provides services relating to, Non-Fungible Tokens or Utility Tokens unless;
+
+(i)
+
+in the case of an issuer of a NFT or Utility Token, each issue involves a or multiple single transactions that are interrelated, that are equal to or less than $15,000 in value; or
+
+transaction,
+
+(ii)
+
+in the case of a service relating to a NFT or Utility Token, the service is providing or technology advice to an issuer;
+
+technology
+
+support
+
+(d)
+
+a law firm, notary firm, or other independent legal business;
+
+(e)
+
+an accounting firm, audit firm or insolvency firm; or
+
+(f)
+
+a company service provider.
+
+(2)
+
+A person who Registered Auditor is not a DNFBP.
+
+is an Authorised Person or a
+
+11
+
+AML/VER27/03-25
+
+Anti-Money Laundering, Counter-Terrorist Financing and Sanctions Module (AML)
+
+DIFC entity
+
+Means a legal person which is incorporated or registered in the DIFC (excluding a registered Branch).
+
+Domestic Fund
+
+A Fund established or domiciled in the DIFC.
+
+Employee
+
+Means an individual:
+
+(a)
+
+who is employed or appointed by a person in connection with that person's business, whether under a contract of service or for services or otherwise; or
+
+(b

@@ -1,0 +1,103 @@
+15
+
+COBS 8.2.2
+
+VER02.181223
+
+A PFP Operator must establish and maintain compliance arrangements, including processes and procedures that ensure and evidence, as far as reasonably practicable, that it complies with all Regulations and Rules.
+
+While compliance support may be provided by a third party service related entity and/or for providers, compliance with applicable laws and regulations lies with PFP Operator’s SEO and Governing Body.
+
+the
+
+ultimate
+
+responsibility
+
+The PFP operator is required as part of customer due diligence to assess whether the Client has the relevant knowledge or experience to understand the risks and features of the Exempt Offer.
+
+A PFP Operator’s internal audit arrangements should be appropriate to the scale, nature and complexity of its operations.
+
+The internal audit may be conducted by the internal audit function within the PFP Operator, its Group’s internal audit function or outsourced to a third party service provider.
+
+A MTF Operator trading of Securities offered by way of an Exempt Offer on its platform, must ensure that it has effective systems and controls in place to: (i)
+
+that provides
+
+Admit only Securities of Exempt Offers that are made on its own platform or other platforms approved by FSRA; identify those Persons Exempt Offer was made; comply with MIR 3.9.1 (Admission to trading), as applicable in relation to the relevant Securities; comply with MIR 2.8.3 in relation to Clients permitted to trade on the MTF; and allow users of its market to obtain Inside Offer including Information, documents. relevant to the Securities.
+
+(ii)
+
+to whom
+
+(iii)
+
+(iv)
+
+(iv)
+
+any
+
+the
+
+8
+
+VER02.181223
+
+Conflicts of Interest
+
+GEN 2.2.7 & 3.3.21 – 3.3.24
+
+A PFP Operator must have arrangements in place ensure that conflicts of interest between itself and its Customers, between its Employees and Customers, and between one Customer and another are identified and prevented or managed or disclosed, in such a way that the interests of a Customer are not adversely affected.
+
+(f) Capital Requirements
+
+A PFP Operator will fall within Prudential Category 4. As set out in PRU Chapter 3, a PFP Operator must maintain at all times Capital Resources in excess of its Capital Requirement, which is the higher of its Base Capital Requirement or Expenditure-Based Capital Minimum.
+
+The table below sets out the Capital Requirement for PFP Operators:
+
+Client Asset Arrangements
+
+PFP Operator does not hold or control Client Assets
+
+Base Capital Requirement (USD)
+
+10,000
+
+Expenditure Based Capital Minimum 6/52 x AAE1
+
+PFP Operator holds or controls Clients Assets
+
+150,000
+
+18/52 X AAE
+
+(g) Professional Indemnity Insurance (“PII”)
+
+In accordance with PRU Rule 6.12, a PFP Operator must maintain PII cover appropriate to the nature, size, scale and risk profile of its business.
+
+4.5 Prior to issuing an FSP, the FSRA may require the technology utilised by a PFP to be at a suitably advanced stage in order for the PFP Applicant to demonstrate the functionality of the platform and its compliance with the PFP Framework.
+
+4.6 For more details on the process for authorisation as a PFP Operator, please contact
+
+the FSRA at authorisation@adgm.com.
+
+5. ONGOING REQUIREMENTS FOR PFP OPERATORS
+
+5.1 Upon authorisation, a PFP Operator, as a holder of an FSP, must comply at all times with the relevant requirements in FSMR and the FSRA Rulebooks, including GEN, COBS, PRU and AML.
+
+5.2 The principal conduct rules that apply to PFP Operators are set out in COBS Chapter
+
+18, and are outlined below:
+
+(a) Risk Warning
+
+1 Annual Audited Expenditure, calculated in accordance with Rule 3.7.2
+
+9
+
+VER02.181223
+
+A PFP Operator must publish a prominent risk warning on the PFP which identifies the risks involved in participating in a PFP Transaction. As a minimum the risk warning should address the risks set out in section 2.3 of this Guidance.
+
+Prior to registering a Client to access the PFP, a PFP Operator must obtain their acknowledgement that they

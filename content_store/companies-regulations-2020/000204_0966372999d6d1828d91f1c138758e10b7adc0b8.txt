@@ -1,0 +1,109 @@
+ otherwise) is void, except as permitted by this section.
+
+(2)
+
+In the case of any description of company, a charge is permitted if the shares are not fully paid up and the charge is for an amount payable in respect of the shares.
+
+(3)
+
+In the case of a company whose ordinary business-
+
+(a)
+
+includes the lending of money, or
+
+(b)
+
+consists of the provision of credit or the bailment of goods under a hire-purchase agreement, or both,
+
+a charge is permitted (whether the shares are fully paid or not) if it arises in connection with a transaction entered into by the company in the ordinary course of that business.
+
+(4)
+
+In the case of a company that has been re-registered as a public company, a charge is permitted if it was in existence immediately before the application for re-registration.
+
+Supplementary provisions
+
+611.
+
+Interests to be disregarded in determining whether company has beneficial interest
+
+In determining for the purposes of this Chapter whether a company has a beneficial interest in shares, there shall be disregarded any such interest as is mentioned in-
+
+(a)
+
+section 612 (residual interest under pension scheme or employees’ share scheme),
+
+(b)
+
+section 613 (employer’s charges and other rights of recovery), or
+
+(c)
+
+section 614 (rights as personal representative or trustee).
+
+612. Residual interest under pension scheme or employees’ share scheme
+
+(1) Where the shares are held on trust for the purposes of a pension scheme or employees’ share scheme, there shall be disregarded any residual interest of the company that has not vested in possession.
+
+(2)
+
+A “residual interest” means a right of the company to receive any of the trust property in the event of-
+
+(a)
+
+all the liabilities arising under the scheme having been satisfied or provided for,
+
+352
+
+(b)
+
+the company ceasing to participate in the scheme, or
+
+(c)
+
+the trust property at any time exceeding what is necessary for satisfying the liabilities arising or expected to arise under the scheme.
+
+(3)
+
+In subsection (2)-
+
+(a)
+
+the reference to a right includes a right dependent on the exercise of a discretion vested by the scheme in the trustee or another person, and
+
+(b)
+
+the reference to liabilities arising under a scheme includes liabilities that have resulted, or may result, from the exercise of any such discretion.
+
+(4)
+
+For the purposes of this section a residual interest vests in possession-
+
+(a)
+
+in a case within subsection 612(2)(a), on the occurrence of the event mentioned there (whether or not the amount of the property receivable pursuant to the right is ascertained),
+
+(b)
+
+in a case within subsection 612(2)(b) or (c), when the company becomes entitled to require the trustee to transfer to it any of the property receivable pursuant to that right.
+
+(5) Where by virtue of this section shares are exempt from section 600 or 601 (shares held by company’s nominee) at the time they are taken, issued or acquired but the residual interest in question vests in possession before they are disposed of or fully paid up, those sections apply to the shares as if they had been taken, issued or acquired on the date on which that interest vests in possession.
+
+(6) Where by virtue of this section shares are exempt from sections 602 to 610 (shares held by or for public company) at the time they are acquired but the residual interest in question vests in possession before they are disposed of, those sections apply to the shares as if they had been acquired on the date on which the interest vests in possession.
+
+613. Employer’s charges and other rights of recovery
+
+(1) Where the shares are held on trust for the purposes of a pension scheme there shall be
+
+disregarded-
+
+(a)
+
+any charge or lien on, or set-off against, any benefit or other right or interest under the scheme for the purpose of enabling the employer or former employer of a member of the scheme to obtain the discharge of a monetary obligation due to him from the member,
+
+(b)
+
+any right to receive from the trustee of the scheme, or as trustee of the scheme to retain, an amount that can be recovered or retained as reimbursement or partial reimbursement for any contributions equivalent premium paid in connection with the scheme, or
+
+(2) Where the shares are held on trust for the purposes of an employees’ share scheme, there shall be disregarded any charge or lien on,

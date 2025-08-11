@@ -1,0 +1,107 @@
+ or REP and may be fettered by the continuing operation of the Federal Law.
+
+2.2.3 Each activity specified in Rule 2.2.2:
+
+(a)
+
+is to be construed in the manner provided under these Rules; and
+
+(b)
+
+is subject to exclusions under these Rules which may apply to such an activity.
+
+Permitted Financial Services for Authorised Firms
+
+2.2.4 Pursuant to Article 42(1)(a) of the Regulatory Law 2004 an Authorised Firm, subject to the Rules, may carry on any one or more Financial Services.
+
+2.2.5 The Financial Services of Effecting Contracts of Insurance and Carrying Out Contracts of Insurance may be carried on only by an Authorised Firm which by virtue of its Licence is permitted to carry on such Financial Services and no other Financial Services.
+
+2.2.6 The Financial Service of Managing a Profit Sharing Investment Account may be carried on only by an Authorised Firm which by virtue of an appropriate endorsement on its Licence is permitted to conduct Islamic Financial Business.
+
+2.2.7 The Financial Service of Managing a Collective Investment Fund may be carried on in respect of an Islamic Fund only by an Operator which by virtue
+
+4
+
+GEN/VER67/03-25
+
+GENERAL (GEN)
+
+of an appropriate endorsement on its Licence is permitted to conduct Islamic Financial Business.
+
+2.2.7A (1) An Authorised Firm may use a Fund Platform only if it:
+
+(a)
+
+is a Fund Manager; and
+
+(b) has an endorsement on its Licence permitting it to use the Fund
+
+Platform.
+
+(2) In (1), an Authorised Firm uses a Fund Platform if it uses an that Incorporated Cell Company (ICC) facilitates the establishment, management, operation or winding up of a Fund that is an Incorporated Cell of the ICC.
+
+to provide
+
+infrastructure
+
+Guidance
+
+1. A Fund Platform is an Incorporated Cell Company (ICC) that provides infrastructure to one or more Funds that are Incorporated Cells of the ICC.
+
+2.
+
+Infrastructure that facilitates a Fund Manager to manage Funds may include common rules and procedures, technical facilities, human resources, risk management tools and procedures, compliance and oversight facilities and other infrastructure relating to fund administration and asset management activities.
+
+3. Both CIR and the ICC Regulations contain additional requirements that apply to a Fund Manager using a Fund Platform.
+
+2.2.8
+
+(1)
+
+An Authorised Firm may carry on a Financial Service with or for a Retail Client only if it is permitted to do so by an endorsement on its Licence.
+
+(2)
+
+An endorsement under (1) is not required by an Authorised Firm when:
+
+(a)
+
+Operating an Employee Money Purchase Scheme; or
+
+(b)
+
+Acting as the Administrator of an Employee Money Purchase Scheme.
+
+2.2.9 An Authorised Firm which is licenced to carry on the Financial Service of Operating a Representative Office may not be licenced to carry on any other Financial Service.
+
+2.2.10 An Authorised Firm (other than a Representative Office) may carry on an activity of the kind described in Rule 2.26.1 that constitutes marketing without the need for any additional authorisation to do so.
+
+2.2.10A (1) An Authorised Firm may hold or control Client Assets only if it is
+
+permitted to do so by an endorsement on its Licence.
+
+(2)
+
+In (1), the expression “hold or control Client Assets” has the meaning given in COB Rule 6.11.4.
+
+(3) An endorsement under (1) is not required by an Authorised Firm that
+
+has an authorisation for Providing Custody.
+
+2.2.10B An Insurance Intermediary or Insurance Manager may hold Insurance
+
+Monies only if it is permitted to do so by an endorsement on its Licence.
+
+5
+
+GEN/VER67/03-25
+
+GENERAL (GEN)
+
+2.2.10C An Insurance Intermediary may conduct Insurance Intermediation activities in respect of a contract of Long-Term Insurance, that is not a contract of reinsurance, only if it is permitted to do so by an endorsement on its Licence.
+
+2.2.10D The Financial Service of Operating a Crowdfunding Platform may be carried on only by a Body Corporate incorporated under the DIFC Companies Law.
+
+2.2.10E A Crowdfunding Operator must not carry on the following activities:
+
+(a) Managing

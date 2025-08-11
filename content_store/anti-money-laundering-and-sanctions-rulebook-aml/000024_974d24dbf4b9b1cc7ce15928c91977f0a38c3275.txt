@@ -1,0 +1,99 @@
+ and that risk is effectively managed; and
+
+(ii)
+
+doing so would interrupt or delay the normal course of business in respect of effecting the Transaction.
+
+(2)
+
+(a)
+
+A Relevant Person that is a DNFBP must fulfil the appropriate CDD and reporting obligations where applicable before the Relevant Person prepares for or carries out a Transaction or provision of a service in Rule 8.1.1(2)(a), (d), (e) or (f).
+
+(b)
+
+A Relevant Person that is a DNFBP as a result of carrying on one or more of the business activities referred to in Rule 8.1.1(2)(b) or (c) must fulfil the appropriate CDD and reporting obligations where applicable before the Relevant Person prepares for or carries out a transaction that includes a total cash payment of USD15,000 or more, whether in a single cash payment or multiple cash payments.
+
+(3)
+
+The Relevant Person does not have to fulfil the verification of the identity of a customer and Beneficial Owners obligations under the AML Rules preparing for or carrying out a Transaction for its customer concerning those business activities referred to in Rule 8.1.1(2) where it has, on reasonable grounds, established that:
+
+Confidential
+
+44
+
+AML VER10.020125
+
+(i)
+
+there is little risk of money laundering and that risk is effectively managed; and
+
+(ii)
+
+doing so would interrupt or delay the normal course of business in respect of effecting the Transaction.
+
+(4)
+
+A Relevant Person that has relied on Rule 8.2.1(1)(b) or 8.2.1(3) must fulfil its CDD obligations as soon as practicable after effecting the Transaction.
+
+(5)
+
+Where the Relevant Person, having relied on Rule 8.2.1(1)(b) or 8.2.1(3) is unable to complete the verification of the identity of a customer and any Beneficial Owners within twenty Business Days of effecting a Transaction or occasional transaction it must:
+
+(a)
+
+consider the circumstances and determine whether to make an internal notification of suspicious activity to the MLRO under Rule 14.2.2;
+
+(b)
+
+where it has determined that it is unnecessary to make such a report, return to the customer any monies associated with the Transaction or occasional transaction, excluding any reasonable costs incurred by the Relevant Person;
+
+(c)
+
+where it has determined that it is necessary to make such a report, not return any monies or provide any investments to the customer, unless instructed to do so by the MLRO and otherwise act in accordance with instructions issued by the MLRO; and
+
+(d)
+
+not establish any further business relationship with that customer until the verification process has been completed for that customer in accordance with these Rules.
+
+8.2.2
+
+(1)
+
+A Relevant Person must ensure that its AML/TFS systems and controls referred to in Rule 6.2.1 include risk management policies and procedures concerning the conditions under which business relationships may be established with a customer before completing verification of the identity of a customer and Beneficial Owners.
+
+Guidance
+
+1.
+
+Examples of situations that might lead a Relevant Person to have doubts about the veracity or adequacy of documents, data or information previously obtained might be where: there is a suspicion of money laundering in relation to that customer; there is a material change in the way that the customer's account is operated which is not consistent with the customer's business profile; or it appears to the Relevant Person that a Person other than the nominal customer is the real customer.
+
+2.
+
+Situations that the Relevant Person may take into account include, for example, accepting subscription monies during a short offer period or executing a time critical Transaction which, if not executed immediately, would or may cause a
+
+Confidential
+
+45
+
+AML VER10.020125
+
+customer to incur a financial loss due to price movement or loss of opportunity or when a customer seeks immediate insurance cover.
+
+3.
+
+When complying with Rule 8.2.1, a Relevant Person should also, where relevant, consider Rule 8.7.1 regarding failure to conduct or complete CDD and Chapter 14 regarding Suspicious Activity/Transaction Reports and tipping off.
+
+8.3
+
+Customer Due Diligence requirements
+
+8.3.1
+
+(1)
+
+In undertaking CDD a Relevant Person must:
+
+(a)
+
+identify the customer and verify the customer’s

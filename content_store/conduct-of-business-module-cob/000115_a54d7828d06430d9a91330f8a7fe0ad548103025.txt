@@ -1,0 +1,159 @@
+1 Application
+
+15.1.1 (1)
+
+Sections 15.2 and 15.3 apply to an Authorised Firm that Operates a MTF that trades Crypto Tokens.
+
+(2)
+
+Section 15.4 applies to an Authorised Firm that:
+
+(a)
+
+Provides Custody of Crypto Tokens; or
+
+(b)
+
+Operates a MTF and appoints a third party to Provide Custody of Crypto Tokens.
+
+(3)
+
+Sections 15.5 and 15.6 apply to an Authorised Firm that carries on Crypto Business and, where specified, to an Authorised Firm that carries on business relating to Crypto Token Derivatives.
+
+(4)
+
+Sections 15.7 and 15.8 apply to an Authorised Firm that uses DLT or other similar technology to provide any of the following services:
+
+(a)
+
+Operate a MTF that trades Crypto Tokens;
+
+(b)
+
+hold or control Client Crypto Tokens; or
+
+(c)
+
+carry on any other Financial Service relating to Crypto Tokens.
+
+Guidance
+
+1.
+
+The term “Crypto Business” is defined in GLO to mean any one or more of the following Financial Services relation to Crypto Tokens:
+
+a.
+
+Dealing in Investments as Principal;
+
+b.
+
+Dealing in Investments as Agent;
+
+c.
+
+Arranging Deals in Investments;
+
+d.
+
+Managing Assets;
+
+e.
+
+Advising on Financial Products;
+
+f.
+
+Providing Custody;
+
+g.
+
+Arranging Custody; or
+
+h.
+
+Operating a Multilateral Trading Facility.
+
+2.
+
+As sections 15.5 and 15.6 apply to Crypto Business they also apply to an MTF Operator, unless otherwise stated.
+
+179
+
+COB/VER48/03-25
+
+CONDUCT OF BUSINESS (COB)
+
+15.2 Operating a MTF for Crypto Tokens which permits direct access
+
+15.2.1 An MTF Operator that has Direct Access Members must comply with the requirements that would apply to an ATS Operator under section 14.2 (other than Rule 14.2.3(1)(d)).
+
+Guidance
+
+Rule 14.2.3(1)(d) does not apply as it refers to prospectus and ongoing disclosure requirements in MKT that are not applicable to Crypto Tokens. Section 15.3 sets out the information disclosure requirements that apply to a MTF that trades Crypto Tokens.
+
+15.3 Disclosure of information about Crypto Tokens on a MTF
+
+Publication of key features document
+
+15.3.1 (1)
+
+An MTF Operator must not permit a Crypto Token to be traded on the MTF unless it has published a key features document on its website for the Crypto Token.
+
+(2)
+
+The key features document must contain the following information about the Crypto Token:
+
+(a)
+
+information about the issuer, if any, and the individuals responsible for designing the Crypto Token;
+
+(b)
+
+the essential characteristics of the Crypto Token, including rights attaching to the Crypto Token and any project or venture to be funded (if relevant);
+
+(c)
+
+the regulatory status of the Crypto Token in other jurisdictions;
+
+(d)
+
+details of Persons responsible for performing obligations associated with the Crypto Token and details of where and against whom rights conferred by the Crypto Token may be exercised;
+
+(e)
+
+information on the underlying DLT or similar technology used for the Crypto Token, including details of the technology that is used to issue, store or transfer the Crypto Token and any interoperability with other DLT;
+
+(f)
+
+information on the underlying technology used by the Authorised Firm, including protocols and technical standards adhered to;
+
+(g)
+
+details about how ownership of the Crypto Token is established, certified or otherwise evidenced;
+
+(h)
+
+how the Crypto Token will be valued, and an explanation of how this is carried out and what benchmarks, indices or third parties are relied on;
+
+(i)
+
+details of any Regulated Exchange, MTF or other facility on which the Crypto Token is traded;
+
+180
+
+COB/VER48/03-25
+
+CONDUCT OF BUSINESS (COB)
+
+(j)
+
+the risks relating to the volatility and unpredictability of the price of the Crypto Token;
+
+(k)
+
+in the case of a Fiat Crypto Token, details about the reserves backing the Fiat Crypto Token and the stabilisation and redemption mechanisms;
+
+(l)
+
+cybersecurity risks associated with the Crypto Token or its underlying technology, including whether there is a risk of loss of the Crypto Token in the event of a cyberattack, and details of steps that have been, or can be taken to mitigate those

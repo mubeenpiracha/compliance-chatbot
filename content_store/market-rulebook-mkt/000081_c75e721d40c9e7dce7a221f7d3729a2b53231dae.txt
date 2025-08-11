@@ -1,0 +1,99 @@
+ or Ore Reserves, as the case may be, and the supporting information is presented in the disclosure.
+
+Guidance
+
+This requirement applies to disclosures containing Exploration Results under Rule 11.4 or any original or updated estimates of Mineral Resources or Ore Reserves under Rules 11.5 or 11.6. For the requirement relating to the Summary of Reserves and Resources, refer to Rule 11.11.
+
+11.12.3 Rule 11.12.1 only applies the first time a Mining Reporting Entity discloses Exploration Results in accordance with Rule 11.4 or original or updated estimates of Mineral Resources or Ore Reserves in accordance with Rules 11.5 or 11.6 provided that:
+
+(1) any subsequent disclosure that refers to those Exploration Results or estimates of Mineral Resources or Ore Reserves references the earlier disclosure that was in compliance with Rule 11.12.1; and
+
+(2)
+
+the Mining Reporting Entity confirms in the subsequent disclosure that it is not aware of any new information or data that materially affects the information included in the earlier disclosure(s) and, in the case of estimates of Mineral Resources or Ore Reserves, that all material assumptions and technical parameters underpinning the estimates in the earlier disclosure(s) continue to apply and have not materially changed.
+
+Mining Tenement joint venture disclosures
+
+11.12.4 A Mining Reporting Entity must not, and must ensure that its controlled entities do not, enter a joint venture agreement to investigate or explore a Mining Tenement, unless the agreement provides that:
+
+133
+
+Confidential
+
+MKT VER09.020125
+
+(1)
+
+if the Mining Reporting Entity requests it, the operator of the joint venture will provide the Mining Reporting Entity all the information the Mining Reporting Entity requires in order to comply with these Rules; and
+
+(2)
+
+the Mining Reporting Entity may disclose that information as necessary for the Mining Reporting Entity to comply with these Rules.
+
+NI 43-101 Reports
+
+11.12.5 Where a requirement within NI 43-101 specifically requires a report to be lodged with the Canadian System for Electronic Document Analysis and Retrieval or “SEDAR”, a Mining Reporting Entity is to disclose such report as otherwise set out, and in accordance, with these Rules.
+
+12.
+
+ADDITIONAL OBLIGATIONS FOR PETROLEUM REPORTING ENTITIES
+
+Guidance
+
+Chapter 12 sets out the additional disclosure requirements additional to those applicable to Persons who make, or intend to make, an Offer of Securities as provided for in chapter 4 and/or those Persons who are a Listed Entity/Reporting Entity or an Applicant for admission to the Official List of Securities, where such disclosure relates to Petroleum Resources, including Petroleum Reserves, Contingent Resources or Prospective Resources.
+
+12.1 Application
+
+12.1.1 This Chapter applies to Persons who make, or intend to make, a disclosure relating to
+
+Petroleum Resources including:
+
+(1)
+
+a Petroleum Reporting Entity;
+
+(2)
+
+a Person who makes or intends to make an Offer of Securities in ADGM;
+
+(3)
+
+an Issuer; and
+
+(4)
+
+a Listed Entity.
+
+12.1.2 For the purposes of this chapter, a reference to a Petroleum Reporting Entity shall also
+
+include Persons in Rule 12.1.1(2), (3) and (4), as applicable.
+
+12.1.3 Terms that are defined in the Petroleum Reporting Standard are deemed to be defined
+
+terms in this Chapter 12.
+
+12.2 General rules for Petroleum activity disclosures
+
+Requirements for all disclosures
+
+12.2.1 A disclosure by a Petroleum Reporting Entity that includes a statement about Petroleum Resources, including estimates of Petroleum Reserves, Contingent Resources or Prospective Resources must be prepared in accordance with:
+
+Confidential
+
+134
+
+MKT VER09.020125
+
+(1)
+
+the Petroleum Reporting Standard; and
+
+(2)
+
+this Chapter 12 of the Rules.
+
+Guidance
+
+Rule 12.2.1 applies to all disclosures made or required to be made under these Rules which include a statement about Petroleum Resources, including estimates of Petroleum Reserves, Contingent Resources or Prospective Resources, including within a Prospectus, Exempt Offer document, bidder’s and target’s statements, annual reports, financial statements, technical papers, presentations, and website content and disclosures.
+
+To ensure consistency of its disclosures, Issuers and Petroleum Reporting Entities should be mindful of the table format for disclosure of

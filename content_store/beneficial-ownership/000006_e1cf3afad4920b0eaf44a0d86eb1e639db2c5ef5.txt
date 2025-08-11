@@ -1,0 +1,111 @@
+ (and calculation) for each individual is set out in the table below. The control in the LLP is divided among the three designated members.
+
+Individual
+
+Individual 1
+
+Individual 2
+
+Individual 3
+
+Individual 4 Individual 5
+
+Member’s Partnership A 20% (member’s interest)
+
+Interest
+
+20% (member’s interest)
+
+20% (member’s interest)
+
+20% (member’s interest) 20% (member’s interest)
+
+in
+
+Voting Rights
+
+33.33% member) 33.33% member) 33.33% member) n/a n/a
+
+(as
+
+(as
+
+(as
+
+designated
+
+designated
+
+designated
+
+Beneficial Owners: Individual 1, Individual 2, and Individual 3, each having 33.33% control of the voting rights each in Partnership A are the beneficial owners.
+
+Test 3 – The Management Test
+
+If no natural person is identified as the beneficial owner under either test 1 or 2 above, any natural person who holds the position of officer of the LLP.
+
+Note: Officer is defined as members of the LLP exercising functions under the members’ agreement equivalent to the functions of the officers of a company
+
+Example 3:
+
+In this example, - Partnership A is a Limited Liability Partnership established in ADGM. -
+
+Individual 1, Individual 2, Individual 3, Individual 4 and Individual 5 have a member’s interest of 20% each in Partnership A. Individual 1 and Individual 2 are designated members.
+
+- Designated members are exercising functions under the members’ agreement as officers of the Partnership A.
+
+In this example, none of the members own 25% or more in Partnership A and it has been confirmed that no one controls the LLP, directly or indirectly. Hence by using Test 3 (i.e. he Management test), the designated members of the LLP are considered as the beneficial owners.
+
+Beneficial Owners: Individual 1 and Individual 2, being the designated members of the Partnership A are the beneficial owners.
+
+Limited Partnership How to determine the UBO of a Limited Partnership?
+
+Test 1: The Ownership Test Any natural person who ultimately is entitled to or controls (in each case whether directly or indirectly) 25% or more of the share of the equity or profits of the partnership
+
+Example 1:
+
+In this example, - Partnership B is a Limited Partnership that has legal personality and registered under the Limited
+
+
+
+Partnership Act of 1907 in ADGM Individual 1, and Individual 2 have 50% of a share of the equity and profits each in Partnership B.
+
+Beneficial Owners: Individual 1 and Individual 2, having 50% share of the capital and profits each in Partnership B are the beneficial owners.
+
+Test 2 – The Control Test Even if a natural person is identified under Test 1, any natural person who is ultimately entitled to or controls 25% (in each case whether directly or indirectly) 25% or more of the voting rights in the partnership
+
+Example 2:
+
+In this example,
+
+Partnership A is a Limited Partnership that has legal personality and registered under the Limited
+
+
+
+Partnership Act of 1907 in ADGM Individual 1, Individual 2, Individual 3, Individual 4 and Body Corporate 1 have 20% each share in the equity or profits of Partnership B.
+
+Body Corporate 1 is the General Partner. - -
+
+The General Partner has voting rights in the Partnership B. The General Partner is a private company limited by shares and wholly owned by Individual 5.
+
+None of the partners has 25% or more share in the capital or profits of Partnership B, hence by using Test 2 (i.e. the Control test), a beneficial owner can still be identified. For this example, the percentage in the share capital, profit and the control (and calculation) for each individual is set out in the table below (for both the LP and the General Partner).
+
+Partners
+
+Individual 1
+
+Share in the capital or profits in Partnership B 20% (Share in the capital or
+
+Voting Rights
+
+n/a
+
+Individual 2
+
+Individual 3
+
+Individual 4
+
+Body Corporate 1 Individual 5
+
+profits) 20% (Share in the capital or profits) 20% (Share in the capital or profits) 20% (Share in the capital or profits) 20

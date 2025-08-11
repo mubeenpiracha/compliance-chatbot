@@ -1,0 +1,83 @@
+ potential lending amount which is related to an obligor's reported cash flow. If the facility is constrained in this way, the Authorised Person must have sufficient line monitoring and management procedures to support this contention.
+
+5.
+
+Any foreign exchange transaction or translation gain or loss from a foreign currency-denominated off-balance sheet item should be allocated to the Exposure to which it accrues.
+
+Recognition of eligible financial Collateral for on-balance sheet assets and off-balance sheet items other than Counterparty Exposures
+
+4.9.5
+
+(1)
+
+An Authorised Person which has taken eligible financial Collateral for any transaction other than an equity Exposure, an SE Exposure, an OTC Derivative transaction, long settlement transaction or SFT may recognise the effect of such Collateral in accordance with Rules 4.9.6 and 4.9.7.
+
+(2)
+
+An Authorised Person must use either the:
+
+(a)
+
+Financial Collateral Simplified Approach (FCSA) which adopts the treatment under Rule 4.13.5 in relation to the composition of financial Collateral; or
+
+(b)
+
+Financial Collateral Comprehensive Approach (FCCA) which adopts the treatment under Rule 4.13.6;
+
+to recognise the effect of eligible financial Collateral.
+
+(3)
+
+An Authorised Person must apply the chosen approach consistently to its entire Non-Trading Book and must not use a combination of both approaches.
+
+4.9.6
+
+An Authorised Person using the FCSA may recognise the effect of eligible financial Collateral in accordance with the Rules in Section 4.13.
+
+4.9.7
+
+An Authorised Person using the FCCA may calculate the CR Exposure adjusted for eligible financial Collateral (referred to in these Rules as "E*"), in accordance with Rules in Section A4.3 of App4 and substitute E* for E when calculating the Credit Risk-weighted Exposure amount for that CR Exposure under Section 4.8.
+
+Recognition of eligible financial Collateral for securitisation (SE) Exposures
+
+4.9.8
+
+An Authorised Person that has taken eligible financial Collateral for an SE Exposure may recognise the effect of such Collateral in accordance with Rules 4.9.9 to 4.9.11.
+
+4.9.9
+
+An Authorised Person calculating RWAs for SE Exposures must use either the FCSA or the FCCA approaches to recognise the effect of eligible financial Collateral. An Authorised Person must apply the chosen approach consistently to the entire Non- Trading Book and must not use a combination of both approaches.
+
+125
+
+PRU VER17.290725
+
+4.9.10
+
+An Authorised Person using the FCSA approach for an SE Exposure may recognise the effect of eligible financial Collateral in accordance with Section 4.13 and Rule 4.14.70.
+
+4.9.11
+
+An Authorised Person using the FCCA approach for an SE Exposure must calculate E*, the SE Exposure adjusted for eligible financial Collateral, in accordance with Rules in Section A4.3 of App4 and substitute E* for E when calculating the RWA for SE Exposure under Section 4.8.
+
+Measurement of E for Counterparty Exposures
+
+Guidance
+
+Rules 4.9.12 to 4.9.21 should be read in conjunction with Sections A4.6 to A4.8.
+
+Measurement of E for Counterparty Exposures arising from OTC Derivative transactions and long settlement transactions
+
+4.9.12
+
+For each OTC Derivative transaction or long settlement transaction which is not covered by a qualifying cross-product Netting agreement, an Authorised Person should calculate E for the pre-settlement Counterparty Exposure arising from that OTC Derivative transaction or long settlement transaction using the method set out in Sections A4.6 to A4.8.
+
+Measurement of E for pre-settlement Counterparty Exposures arising from SFTs
+
+4.9.13
+
+An SFT must be treated as collateralised lending, notwithstanding the wide range of structures which could be used for SFTs.
+
+4.9.14
+
+An Authorised Person must calculate E, for a pre-settlement Counterparty Exposure arising from an SFT, other than an Exposure covered by a qualifying cross-product Netting agreement, in accordance with Rules 4.9.15 to 4.9.

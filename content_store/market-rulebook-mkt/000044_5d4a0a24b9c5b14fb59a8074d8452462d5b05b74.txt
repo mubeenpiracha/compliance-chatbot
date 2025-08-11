@@ -1,0 +1,97 @@
+ Entity's annual accounts are, or following such a distribution would become, lower than the amount of the subscribed capital plus those reserves which may not be distributed under applicable enactments or the statutes of the Listed Entity; and
+
+(d)
+
+only fully paid-up Shares may be included in the transaction.
+
+(2)
+
+Prior to the start of trading, full details of the programme must be Disclosed. Those details must include the objective of the programme, the maximum consideration, the maximum number of Shares to be acquired and the duration of the period for which authorisation for the programme has been given. Subsequent changes to the programme must be Disclosed.
+
+Confidential
+
+70
+
+MKT VER09.020125
+
+(3)
+
+The Reporting Entity must have in place the mechanisms ensuring that it fulfils trade reporting obligations to the Regulator. These mechanisms must record each transaction related to Buy-back Programmes.
+
+(4)
+
+The Reporting Entity must Disclose details of all transactions as referred to in paragraph (3) no later than the end of the seventh Business Day following the date of execution of such transactions.
+
+6.2.5 Conditions for trading
+
+(1)
+
+Insofar as prices are concerned, the Listed Entity must not, when executing trades under a Buy-back Programme, purchase Shares at a price higher than the higher of the price of the last independent trade and the highest current independent bid on the trading venues where the purchase is carried out.
+
+(2)
+
+If the trading venue is not a Recognised Investment Exchange, the price of the last independent trade or the highest current independent bid taken in reference shall be the one of the Recognised Investment Exchange.
+
+(3)
+
+Where the Listed Entity carries out the purchase of own Shares through Derivatives, the exercise price of those Derivatives shall not be above the higher of the price of the last independent trade and the highest current independent bid.
+
+(4)
+
+Insofar as volume is concerned, the Listed Entity must not purchase more than 25% of the average daily volume of the Shares in any one day on the Recognised Investment Exchange on which the purchase is carried out.
+
+(5)
+
+The average daily volume figure must be based on the average daily volume traded in the month preceding the month of Disclosure of that programme and fixed on that basis for the authorised period of the programme.
+
+(6)
+
+Where the programme makes no reference to that volume, the average daily volume figure must be based on the average daily volume traded in the 20 trading days preceding the date of purchase.
+
+(7)
+
+For the purposes of paragraph (4), in cases of extremely low liquidity on the relevant Recognised Investment Exchange, the Listed Entity may exceed the 25% limit, provided that the following conditions are met:
+
+(a)
+
+the Listed Entity informs the Regulator, in advance, of its intention to deviate from the 25% limit;
+
+(b)
+
+the Reporting Entity Discloses the fact that the Listed Entity may deviate from the 25% limit; and
+
+(c)
+
+the Listed Entity does not exceed 50% of the average daily volume.
+
+Confidential
+
+71
+
+MKT VER09.020125
+
+6.2.6 Restrictions
+
+(1)
+
+In order to benefit from the exemption provided by FSMR, the Listed Entity shall not, during its participation in a Buy-back Programme, engage in the following:
+
+(a)
+
+selling of own Shares during the life of the Buy-back Programme;
+
+(b)
+
+trading during a Close period; or
+
+(c)
+
+trading where the Reporting Entity has decided to delay the Disclosure of Inside Information in accordance with chapter 7 and FSMR.
+
+(2)
+
+Paragraph (1)(a) shall not apply if the Listed Entity is a Reporting Entity and has established effective information barriers subject to supervision by the Regulator, between those responsible for the handling of Inside Information related directly or indirectly to the Listed Entity and those responsible for any decision relating to the trading of own Shares (including the trading of own Shares on behalf of Clients), when trading in own Shares on the basis of such any decision.
+
+(3)
+
+Paragraphs (1)(b) and (c) shall not apply if the Listed Entity is a Reporting Entity and has established effective information barriers subject to supervision by the Regulator, between those responsible for the handling of Inside Information related directly or indirectly to the Listed Entity (including trading decisions under the Buy-back Programme) and those responsible for the trading of own Shares on behalf of Clients, when trading in own Shares on

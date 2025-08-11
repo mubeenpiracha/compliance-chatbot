@@ -1,0 +1,153 @@
+ FSMR.
+
+(1) Refers to the risk of incurring losses due to the failure of systems, processes, and personnel, whether internal or external to the Authorised Person, to perform expected tasks.
+
+(2) Operational Risk losses also include losses
+
+arising out of legal risk.
+
+The requirement calculated in accordance with Section 6.11.
+
+An Option is an instrument that confers on the holder, upon exercise, rights of the kind referred to in any of the following:
+
+(a)
+
+a right to acquire or dispose of:
+
+(i)
+
+a Security (other than a Warrant) based or Investment;
+
+contractually
+
+(ii)
+
+currency of any country or territory; or
+
+(iii)
+
+a commodity of any kind;
+
+(b)
+
+a right to receive a cash settlement, the value of which is determined by reference to:
+
+(i)
+
+the value or price of an index, interest rate or exchange rate; or
+
+(ii)
+
+any other rate or variable; or
+
+30
+
+PRU VER17.290725
+
+Option Risk Capital Requirement
+
+Organised Trading Facility (OTF)
+
+Original Maturity
+
+Originator
+
+OTC Derivative or OTC Derivative Contract
+
+Parent
+
+Partner
+
+Partnership
+
+(c)
+
+a right to acquire or dispose of another Option under (a) or (b).
+
+A component of the Market Risk Capital Requirement and calculated in accordance with Section 5.8.
+
+Means a system which brings together multiple third party buying and selling interests in Investments, in accordance with its discretionary rules, in a way that results in a contract in respect of such Investments.
+
+(1) The time period between the date an offer is
+
+made and the date it expires or lapses.
+
+(2)
+
+In relation to Debentures, the interval between its issue date and the date on which it becomes due and payable.
+
+(1) An entity which, either itself or through related indirectly, creates the
+
+entities, directly or Exposure being securitised; or
+
+(2) any entity which purchases or advises or causes an SPE to purchase the Exposures of a third party, which are in a securitisation (for avoidance of doubt, selling credit protection such that the entity or the SPE has a long position in the Credit Risk of the obligor is equivalent to purchasing Exposures).
+
+then used
+
+(3) Where an entity lends to an SPE with a view to enabling that SPE to make loans which are then used in a securitisation, the entity will generally be deemed to be acting as an Originator.
+
+Means a Derivative Contract the execution of which does not take place on a Recognised Investment Exchange.
+
+Means a Holding Company as defined section 1015 of the Companies Regulations.
+
+In relation to an Undertaking which is a Partnership, a Person occupying the position of a Partner, by whatever name called.
+
+Means any partnership, including a partnership constituted under the law of a country, jurisdiction or
+
+31
+
+in
+
+PRU VER17.290725
+
+Person
+
+PII
+
+Potential Future Credit Exposure (PFCE)
+
+Private Equity Fund
+
+Profit Equalisation Reserve
+
+Profit Sharing Investment Account (PSIA)
+
+territory outside the ADGM, but not including a Limited Liability Partnership.
+
+includes any natural person, Body A Person Corporate or body unincorporated, including a legal person, company, Partnership, unincorporated association, government or state.
+
+Professional indemnity insurance.
+
+An amount calculated by multiplying the nominal principal amount of an OTC Derivative contract by a specified percentage dependent on the nature and residual maturity of the contract.
+
+A Fund is a Private Equity Fund if it;
+
+(a)
+
+invests in unlisted companies, by means of Shares, convertible debt or other instruments carrying equity participation rights or reward; or
+
+(b) participates in management buy-outs or
+
+buy-ins.
+
+Represents the amount appropriated out of the Mudaraba income, before allocating the Mudarib's share, in order to maintain a certain level of investment returns for investment account holders and to increase owners' equity.
+
+An account or portfolio managed:
+
+(a)
+
+in relation to property of any kind, including the currency of any country or territory, held for or within the account or portfolio;
+
+(b)
+
+in accordance with Shari'a and held out as such; and
+
+(c)
+
+under the term of an agreement whereby:
+
+(i)
+
+the investor agrees to share any profit with the manager of the in account accordance a predetermined specified percentage or ratio; and
+
+or

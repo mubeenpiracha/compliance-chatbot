@@ -1,0 +1,93 @@
+-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+alia the credit worthiness of the borrowers, the adequacy of the documentation, compliance with covenants, performance of each loan and the existence and value of any Collateral.
+
+Problem Exposures
+
+47. An Authorised Firm should have processes for the timely identification and management of problem Exposures. These processes should be described in the Credit Risk policy.
+
+48. An Authorised Firm involved in providing credit should establish a dedicated unit to handle the recovery and work-out of problem loans and should establish policies for the referral of loans to this unit.
+
+49. An Authorised Firm should ensure that its loan portfolio is properly classified and has an effective early-warning system for problem loans.
+
+50. An Authorised Firm should develop and implement internal risk rating systems for managing Credit Risk. The rating system should be consistent with the nature, size and complexity of the Authorised Firm’s activities. In using internal risk ratings, an Authorised Firm should seek to achieve a high granularity in the rating system and adopt multiple grades for loans that are not yet irregular and to develop the ability to track the migration of individual loans through the various internal credit ratings.
+
+51. Depending on the size and nature of the Authorised Firm, it may be appropriate for problem Exposures to be managed by a specialised function, independent of the functions that originate the business or maintain the on-going business relationship with the Counterparty.
+
+52.
+
+Exposures identified as problems or potential problems should be closely monitored by management, and an Authorised Firm should set out, for example, whether a loan grading system or a watch or problem list is used and, in the latter case, the criteria for adding an asset to or taking an asset off that list.
+
+53.
+
+It is recommended that Authorised Firms establish a dedicated unit to handle the recovery and work- out of problem loans and put in place policies for the referral of loans to this unit.
+
+54. An Authorised Firm should have adequate procedures for recovering Exposures in arrears or those which had provisions made against them. These should allocate responsibility both internally and externally for its arrears management and recovery and define the involvement of the Authorised Firm's solicitors. Requirements relating to provisioning against loss on problem Exposures are covered in chapter 4.
+
+Risk mitigation
+
+56. Various methods can be used to mitigate Credit Risk, such as taking security or Collateral, obtaining a guarantee from a third party, purchasing insurance or Credit Derivatives. Authorised Firms should view these as complementary to, rather than a replacement for, thorough credit analysis and procedures. In controlling Credit Risk, an Authorised Firm may utilise certain mitigation techniques. Normally, they include:
+
+a.
+
+accepting Collateral, standby letters of credit and guarantees;
+
+b.
+
+entering into Netting arrangements,
+
+c.
+
+setting strict loan covenants; and
+
+265
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+d.
+
+using Credit Derivatives and other hedging instruments.
+
+58.
+
+In determining which types of credit mitigation techniques should be used, firms should also consider:
+
+a.
+
+their own knowledge and experience in using such techniques;
+
+b.
+
+cost-effectiveness;
+
+c.
+
+type and financial strength of the Counterparties or Issuers;
+
+d.
+
+correlation with the underlying credits;
+
+e.
+
+availability, liquidity and realisability of the credit mitigation instruments;
+
+f.
+
+the extent to which legally recognised documentation, e.g. ISDA Master Agreement, can be adopted; and
+
+g.
+
+the degree of supervisory recognition of the mitigation technique.
+
+59. While mitigation through Collateral and guarantees is usually dealt with at the time of granting of credits, Credit Derivatives and Netting are often employed after the credit is in place, or used to manage the overall portfolio risk. When the mitigation arrangements are in place they should then be controlled. Authorised Firms should have written policies, procedures and controls for the use of credit mitigation techniques. They should also ensure adequate systems are in place to manage these activities.
+
+60. Authorised Firms should revalue their Collateral and mitigation instruments on a regular basis. The method and frequency of revaluation depends on the nature of the hedge and the products involved.
+
+61.
+
+If an Authorised Firm takes

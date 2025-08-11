@@ -1,0 +1,113 @@
+ contract, the following percentage of capital at risk, subject to a maximum reduction for reinsurance of 50%:
+
+(i)
+
+where the contract is term assurance of not more than three years, 0.1%;
+
+(ii)
+
+where the contract is term assurance of between three and five years, 0.15%; and
+
+(iii)
+
+in all other cases, 0.3%;
+
+(c)
+
+in the case of Class III, where the Insurer bears no investment risk and the allocation to cover management expenses is not fixed for more than five years, 25% of the Insurer’s net administrative expenses in the past financial year pertaining to such business;
+
+(d)
+
+in the case of Class IV, the higher of:
+
+(i)
+
+18% of Gross Written Premium, reducing to 16% for the amount of Gross Written Premium in excess of $50 million, and subject to a maximum reduction for reinsurance of 50%; and
+
+(ii)
+
+26% of the average gross claims incurred over the three preceding financial years, reducing to 23% for the amount of that average in
+
+86
+
+PIN/VER18/04-23
+
+PRUDENTIAL – INSURANCE BUSINESS (PIN)
+
+excess of $35 million, and subject to a maximum reduction for reinsurance of 50%; and
+
+(e)
+
+in the case of Class V, 1% of the assets of the tontine;
+
+A4.13 Asset management risk component
+
+Guidance
+
+This section requires an Insurer to set aside capital in respect of assets that it manages. The circumstances under which an Insurer may conduct asset management activities are restricted by COB.
+
+A4.13.1 An Insurer must calculate its asset management risk component as 0.5% of the
+
+market value of assets managed by it.
+
+A4.13.2 Assets that are recognised as assets of the Insurer in accordance with generally
+
+accepted accounting principles are not assets managed by it.
+
+APP5 CALCULATION OF ADJUSTED NON-CELLULAR CAPITAL RESOURCES AND ADJUSTED CELLULAR CAPITAL RESOURCES
+
+A5.1 Purpose and general provisions
+
+A5.1.1
+
+This appendix applies to all Insurers to which section 4.4 applies.
+
+Guidance
+
+1.
+
+This appendix sets out the manner in which an Insurer that is a Protected Cell Company is required to calculate its Adjusted Non-Cellular Capital Resources and the Adjusted Cellular Capital Resources applicable to each Cell. The calculation is in each case analogous to that applicable to Insurers that are not Protected Cell Companies, so that (except where changes are necessary to reflect structural differences) the capital of each Cell, and of the non-cellular portion of the Insurer, is determined as though it was an Insurer subject to App3.
+
+2.
+
+The Adjusted Non-Cellular Capital Resources and Adjusted Cellular Capital Resources are calculated by making adjustments to the non-cellular equity of the Insurer or cellular equity of the Cell, as at the Solvency Reference Date.
+
+3.
+
+Provisions in respect of adjusted non-cellular capital resources are set out in sections A5.2 to A5.5. Provisions in respect of adjusted cellular capital resources are set out in sections A5.6 to A5.10.
+
+A5.2 Adjusted non-cellular capital resources
+
+A5.2.1 An Insurer must calculate its Adjusted Non-Cellular Capital Resources according to
+
+the formula:
+
+ANCR = ANE – HNCA
+
+87
+
+PIN/VER18/04-23
+
+PRUDENTIAL – INSURANCE BUSINESS (PIN)
+
+where:
+
+ANCR means the Insurer’s Adjusted Non-Cellular Capital Resources;
+
+ANE means the Insurer’s adjusted non-cellular equity; and
+
+HNCA means the Insurer’s hybrid non-cellular capital adjustment.
+
+A5.2.2 Adjusted non-cellular equity is calculated as set out in section A5.4. The hybrid
+
+non-cellular capital adjustment is set out in section A5.5
+
+A5.3 Base non-cellular capital
+
+Guidance
+
+The commencement point for calculating an Insurer’s adjusted non-cellular equity is the Insurer’s base non-cellular capital.
+
+A5.3.1 Subject to Rules A5.3.2 and A5.3.3, an Insurer’s base non-cellular capital consists
+
+of the following capital

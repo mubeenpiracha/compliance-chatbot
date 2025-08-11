@@ -1,0 +1,111 @@
+, including actuarial reserves, policyholders' surplus and any loans outstanding.
+
+Confidential
+
+19
+
+IFR VER08.020125
+
+4.2.4 An Authorised Person which Manages a PSIA must ensure that the financial statements required to be produced by it under GEN 6 contain the following additional disclosures:
+
+(a)
+
+an analysis of income according to types of investments and their financing by customers;
+
+(b)
+
+the basis for the allocation of profits between Owners' Equity and PSIA holders;
+
+(c)
+
+the equity of PSIA holders at the end of the reporting period;
+
+(d)
+
+the bases used to determine any Profit Equalisation Reserve or Investment Risk Reserve;
+
+(e)
+
+the changes which have occurred in the Profit Equalisation Reserve and the Investment Risk Reserve during the reporting period;
+
+(f)
+
+any deductions made by the Authorised Person from its share of income, and any expenses borne by the Authorised Person on behalf of PSIA holders, as a contribution to increase the income of PSIA holders, if such contribution was material; and
+
+(g)
+
+the identity of any person to whom any remaining balances of any Profit Equalisation Reserve or Investment Risk Reserve is attributable in the event of liquidation.
+
+5.
+
+MANAGING PROFIT SHARING INVESTMENT ACCOUNTS
+
+5.1
+
+Application
+
+5.1.1 This chapter applies to an Authorised Person which conducts the Regulated Activity of
+
+Managing a Profit Sharing Investment Account (PSIA).
+
+Guidance
+
+(i)
+
+A PSIA does not constitute a Deposit, owing to the fact that a PSIA is managed in relation to property of any kind, and the risk of loss of capital remains with the client and is limited to the amount contributed to the PSIA by that client. Accordingly, an Authorised Person should take great care to ensure that a PSIA is not represented as a deposit, either directly or indirectly. The Regulator may conclude that the Authorised Person is accepting a deposit instead of Managing a PSIA in certain circumstances, for example, where the Authorised Person attaches to the investment account characteristics or facilities that are generally regarded to be those of a Deposit or current account such as providing:
+
+(A)
+
+an explicit or implicit guarantee to the client against the risk of loss of capital; or
+
+(B)
+
+a cheque book, an ATM card or a debit card.
+
+(ii)
+
+The prudential Category for Islamic Financial Institutions and other Authorised Persons (acting through an Islamic Window) undertaking the Regulated Activity of
+
+Confidential
+
+20
+
+IFR VER08.020125
+
+Managing PSIAs (which may be either a Restricted PSIA or an Unrestricted PSIA) is determined in accordance with PRU Rule 1.3. An Authorised Person which Manages PSIAs (whether as an Islamic Financial Institution or through an Islamic Window) must comply with the requirements in PRU in relation to specific prudential requirements relating to Trading Book and Non-Trading Book activities, including Credit Risk, Market Risk, Liquidity Risk and Group Risk.
+
+5.2
+
+Additional disclosure requirements for PSIAs
+
+5.2.1 An Authorised Person must, prior to Managing a PSIA, provide written notice to the client that the client alone will bear any losses arising from the PSIA, which are limited to the amount of that client's contribution to the PSIA, unless there is negligence, misconduct or breach of contract on the part of the Authorised Person in Managing the PSIA in which case the losses caused by such negligence, misconduct or breach of contract shall be borne by the Authorised Person.
+
+Client Agreement
+
+5.2.2
+
+In addition to matters referred to in COBS 3.3, an Authorised Person must ensure that the following information is included in the Client Agreement relating to a PSIA:
+
+(a)
+
+how and by whom the funds of the client will be managed and invested including details of its policy on diversification of the portfolio;
+
+(b)
+
+the basis for the allocation of profit between the Authorised Person and the client;
+
+(c)
+
+confirmation of the client's investment objectives including details of any restrictions requested by the client, as agreed between the client and the Authorised Person;
+
+(d)
+
+a summary of the policies and procedures for valuation of assets or portfolio;
+
+(e)
+
+a summary of policies and procedures for the transfer of funds to and from the Profit Equalisation Reserve or Investment Risk Reserve accounts, if applicable;
+
+(f)
+
+particulars of the management of the PSIA and of any

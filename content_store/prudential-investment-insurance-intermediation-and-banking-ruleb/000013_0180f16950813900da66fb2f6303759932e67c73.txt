@@ -1,0 +1,203 @@
+ Manager Insurance provides Management;
+
+(b)
+
+any shareholder of an Insurer mentioned
+
+in (a); or
+
+(c)
+
+any Person on whose behalf Insurance Manager undertakes establish that Person as an Insurer.
+
+A Person carrying on in the ADGM either or both of the following Regulated Activities for which it has Services authorisation Permission:
+
+under
+
+its
+
+Financial
+
+(a)
+
+Effecting Contracts of Insurance; or
+
+(b) Carrying Out Contracts of Insurance as
+
+Principal.
+
+A component of Market Risk Capital Requirement and calculated in accordance with Section 5.4.
+
+25
+
+the to
+
+PRU VER17.290725
+
+Internal Capital Adequacy Assessment Process (ICAAP)
+
+Internal Risk Assessment Process (IRAP)
+
+International Financial Reporting Standards
+
+Investment
+
+Investment Business
+
+The internal capital adequacy assessment process prescribed in Chapter 10.
+
+The internal risk assessment process prescribed in Section 10.3.
+
+Means International Financial Reporting Standards as issued and amended from time to time by the International Accounting Standards Board.
+
+the
+
+(1) Means either a Security or Derivative.
+
+(2) Such Security or Derivative includes:
+
+(a)
+
+a right or interest in the relevant Security or Derivative; and
+
+(b)
+
+any instrument declared as a Security or Derivative by the GEN rules.
+
+The business of:
+
+(a) Dealing in Investments as Principal;
+
+(b) Dealing in Investments as Agent;
+
+(c) Arranging Credit;
+
+(d) Arranging Deals in Investments;
+
+(e) Managing Assets;
+
+(f)
+
+Advising on Investments or Credit;
+
+(g) Operating a Collective Investment Fund;
+
+(h) Providing Custody;
+
+(i)
+
+Arranging Custody;
+
+(j) Managing a Profit Sharing Investment
+
+Account; or
+
+(k) Acting as the Trustee of an Investment
+
+Trust.
+
+26
+
+PRU VER17.290725
+
+Investment Grade
+
+Investment Risk Reserve
+
+Investment Trust
+
+Islamic Contracts
+
+Islamic Financial Business
+
+Islamic Financial Institution
+
+Issuer
+
+Large Exposure
+
+LCR Requirement
+
+Leverage Ratio
+
+A credit rating which maps to a Credit Quality Grade of 1, 2 or 3.
+
+Represents the amount that is appropriated out of the income of investment account holders, after allocating the Mudarib's share, in order to meet future losses attributable to investment account holders.
+
+Means an express trust created solely for collective investment purposes under section 114 of FSMR.
+
+Any contract designed to comply with Shari'a.
+
+Any part of the financial business of an Authorised Person or Recognised Body which is carried out in accordance with Shari'a.
+
+An Authorised Person or Recognised Body which has, on an endorsement authorising it to conduct its entire financial business in accordance with Shari'a.
+
+its
+
+Financial Services Permission,
+
+In relation to:
+
+(a)
+
+any Security other than a Unit in a Collective Investment Fund, means the Person by whom it is or is to be issued;
+
+(b) a Unit in a Collective Investment Fund,
+
+means the Fund Manager; and
+
+(c)
+
+an Partnership, means the Partnership.
+
+interest
+
+in a Limited Liability
+
+An Exposure aggregated across an Authorised Person's Non-Trading Book and Trading Book to a Counterparty, a group of Connected Counterparties or a group of Closely Related Counterparties that equals or exceeds 10% of the Authorised Person's Tier 1 Capital.
+
+The LCR required to be maintained by an Authorised Person under Rule 9.3.4.
+
+The amount expressed as a percentage value that is calculated in accordance with Rule 3.21.
+
+27
+
+PRU VER17.290725
+
+Liquidity Coverage Ratio (LCR)
+
+Liquidity Mismatch Approach
+
+Liquidity Risk
+
+Managing a Collective Investment Fund
+
+Managing a Profit Sharing Investment Account
+
+Managing Assets
+
+Market Counterparty
+
+Market Risk
+
+Market Risk Capital Requirement
+
+Matched Principal
+
+Maturity Ladder
+
+Maturity Method
+
+Maturity Mismatch
+
+MDB
+
+The amount expressed as a percentage value that is calculated in accordance with Rule 9.3.4 and section A10.2 of App10.
+
+For the purposes of liquidity, an assessment of the short-term liquidity of an Authorised Person.
+
+The risk that an Authorised Person, although solvent, either does not have available sufficient financial resources to enable it to meet its obligations as they fall due, or can secure such resources only at excessive cost.
+
+Means the Regulated Activity specified in paragraph 59 of Schedule 1 of FSMR.
+
+Means the Reg

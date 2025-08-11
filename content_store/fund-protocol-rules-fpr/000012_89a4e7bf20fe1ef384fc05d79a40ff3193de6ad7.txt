@@ -1,0 +1,119 @@
+ the DFSA is the Home Regulator of a Passported Fund.
+
+9.3.2
+
+The DFSA may refuse to act on a request by a Host Regulator under section 9.2 for cooperation in relation to an inspection if:
+
+(a)
+
+the DFSA has already commenced, or concluded, enforcement action in respect of the same conduct and the same Persons; or
+
+(b)
+
+judicial proceedings have already been initiated, or concluded, in respect of the same conduct and the same Persons.
+
+9.4
+
+Exercise of DFSA's powers at the request of another authority
+
+9.4.1
+
+This section applies if the DFSA is the Home Regulator or Host Regulator of a Passported Fund.
+
+9.4.2
+
+The DFSA's powers may be exercised at the request of, or for the purpose of assisting, another Authority in relation to a Passported Fund.
+
+22
+
+FPR/VER1/02-19
+
+FUND PROTOCOL RULES (FPR)
+
+9.4.3
+
+If a request has been submitted to the DFSA to exercise its powers under these Rules, the DFSA will, in deciding whether or not to exercise those powers in response to the request, consider whether it is necessary and permitted under applicable law to do so.
+
+9.4.4
+
+In deciding whether or not to exercise its powers, the DFSA may take into account factors including, but not limited to, the following:
+
+(a) whether the case concerns the breach of a law, or other requirements,
+
+in the DIFC;
+
+(b)
+
+the seriousness of the case and its importance in the public interest to give the assistance sought; and
+
+(c) whether it would further one or more of the DFSA's statutory objectives.
+
+9.4.5 Nothing in this section limits any other powers that DFSA may exercise at the
+
+request of, or for the purpose of assisting, another Authority.
+
+9.5
+
+Exercise of the DFSA’s powers as Host Regulator
+
+9.5.1
+
+This section applies if the DFSA is the Host Regulator of a Passported Fund.
+
+9.5.2
+
+If, despite the measures, if any, taken by a Home Regulator in relation to a Passported Fund, a Fund Manager's activities, or the activities of its Agent or any other Licensed Person that is Promoting the Passported Fund in the DIFC, appear to the DFSA to be materially prejudicial to either:
+
+(a) Unitholders of the Passported Fund who are situated in the DIFC; or
+
+(b)
+
+the interests of the DIFC,
+
+the DFSA may request urgent discussions with the Home Regulator.
+
+9.5.3
+
+If the urgent discussions referred to in Rule 9.5.2 fail to resolve the issues to the satisfaction of the DFSA within a period that is reasonable in the circumstances, then the DFSA may take all appropriate measures needed in order to protect the interests of Unitholders situated in the DIFC or the interests of the DIFC.
+
+9.5.4
+
+Subject to Rule 9.5.2, the DFSA may take any action that is necessary and appropriate to enable it to further its objectives, including, but not limited to:
+
+(a)
+
+preventing the Fund Manager, its Agent or any other Licensed Person from further Promotion of the Passported Fund in the DIFC, including de-registering the relevant Passported Fund from its Register of Passported Funds; and
+
+(b)
+
+imposing a penalty on the Fund Manager, its Agent or any other Licensed Person, of such amount as it considers appropriate under the applicable legislation of the DIFC, following consultation with the Home Regulator.
+
+23
+
+FPR/VER1/02-19
+
+FUND PROTOCOL RULES (FPR)
+
+APP 1
+
+MINIMUM REQUIREMENTS FOR PUBLIC FUNDS
+
+A1.1.1 The Fund Manager of a Passported Fund that is a Public Fund must ensure
+
+that:
+
+(a)
+
+the incorporation and other legal formalities relating to the formation of the Public Fund are completed;
+
+(b)
+
+if it is a trust, it has a trustee which meets the requirements set out for acting as a trustee of a Public Fund in the Home Jurisdiction;
+
+(c)
+
+it has appointed an auditor who complies with the relevant audit rules in the Home Jurisdiction; and
+
+(d)
+
+the Prospectus

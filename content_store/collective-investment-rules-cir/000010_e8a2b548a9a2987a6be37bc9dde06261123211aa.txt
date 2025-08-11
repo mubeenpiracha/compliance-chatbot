@@ -1,0 +1,111 @@
+ of Units of Foreign Funds) in or from the DIFC. Article 54(1) of the Law provides the limited circumstances in which an Authorised Firm may market Units of a Foreign Fund. An Authorised Firm may, under Article 54(1)(a), (b) or (c) of the Law, offer Units of a Foreign Fund if the conditions of the relevant paragraph are met. For example, under Article 54(1)(c), the offer is required to be by private placement to Professional Clients who invest at least US$ 50,000. Such marketing activities are also subject to additional requirements that are prescribed in this module – see chapter 15. An Authorised Firm marketing Units of a Foreign Fund should take reasonable steps to ensure that the Fund meets the applicable requirements including the relevant criteria for being a specialist class of Fund.
+
+Islamic Fund
+
+A Fund is an Islamic Fund if its entire operations are conducted, or held out as being conducted, in accordance with Shari’a.
+
+Guidance
+
+IFR module contains the additional requirements that apply to a Domestic Fund by virtue of it being an Islamic Fund.
+
+Fund of Funds
+
+A Fund is a Fund of Funds if it restricts its investment activities to investing in Units or Debentures of only two or more other Funds.
+
+13
+
+CIR/VER38/08-24
+
+3.1.4
+
+3.1.5
+
+3.1.6
+
+3.1.7
+
+COLLECTIVE INVESTMENT RULES (CIR)
+
+Guidance
+
+A Fund of Funds does not cease to be a Fund of Funds merely because it holds some investments in cash or transferable securities to meet its on-going obligations such as for redemption purposes.
+
+Feeder Fund
+
+A Fund is a Feeder Fund if it is dedicated to investing in the Units or Debentures of a single other Fund (Master Fund).
+
+Guidance
+
+1.
+
+A Domestic Feeder Fund may have as its Master Fund a Foreign Fund.
+
+2.
+
+A Sub-Fund of an Umbrella Fund is not a Feeder Fund.
+
+Master Fund
+
+A Fund is a Master Fund if it issues its Units or Debentures only to other Funds which are dedicated to investing in that Master Fund.
+
+Guidance
+
+A Domestic Master Fund may have Foreign Funds as its Feeder Funds.
+
+Private Equity Fund
+
+A Fund is a Private Equity Fund if it;
+
+(a)
+
+invests in unlisted companies, by means of Shares, convertible debt or other instruments carrying equity participation rights or reward; or
+
+(b)
+
+participates in management buy-outs or buy-ins,
+
+and does not meet the criteria in Rule 3.1.13 to be a Venture Capital Fund.
+
+Property Fund
+
+A Fund is a Property Fund if its main purpose is investment in Real Property and in Securities issued by Bodies Corporate whose main activities are investing in, dealing in, developing or redeveloping Real Property.
+
+Guidance
+
+1. Whether an arrangement, particularly if it is a closed-ended company which invests in Real Property, is a Fund or a commercial company is not always an easy question to answer. The following guidance is intended to help answer this question. The examples are indicative only and not exhaustive. If a property company is in doubt as to whether it is an investment company or a commercial company, it may seek further clarification from the DFSA. Please also refer to the Guidance under Rule 2.1.10 for the general distinction between Collective Investment Funds and other commercial arrangements.
+
+14
+
+CIR/VER38/08-24
+
+3.1.8
+
+3.1.9
+
+COLLECTIVE INVESTMENT RULES (CIR)
+
+Practical examples
+
+3.
+
+Applying the indicators under Rule 2.1.10, the DFSA considers the following type of closed-ended property companies to be commercial companies, rather than investment companies:
+
+a.
+
+a property developer or a property construction company which is in the business of developing and constructing (i.e. creating) the property;
+
+b.
+
+a real estate company which operates a business of selling or leasing real estate for its customers;
+
+c.
+
+a property management or maintenance company – which generates profits through fees charged for those services; and
+
+d.
+
+a property valuation service provider – which is a property related service provider.
+
+4.
+
+In contrast, there are certain types of closed-ended companies which directly or indirectly invest in Real Property and therefore are clearly investment companies. For example a

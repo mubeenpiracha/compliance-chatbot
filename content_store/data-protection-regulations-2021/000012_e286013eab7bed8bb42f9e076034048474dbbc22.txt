@@ -1,0 +1,85 @@
+ taken based solely on automated Processing; and
+
+(ii)
+
+the Data Subject has not, before the end of a period of 1 month beginning with the receipt of the notification, requested the Controller to either reconsider the decision or take a new decision that is not based solely on automated decision making.
+
+(3)
+
+In the cases referred to in sections 20(2)(a) and 20(2)(b), the Controller must implement suitable measures to safeguard the Data Subject's rights and legitimate interests, at least the right to obtain human intervention on the part of the Controller, to express his or her point of view and to contest the decision.
+
+(4) Decisions referred to in section 20(2) must not be based on Special Categories of Personal Data, unless section 7(2)(a) or 7(2)(k) applies and suitable measures to safeguard the Data Subject's rights and legitimate interests are in place.
+
+21. Restrictions
+
+(1) The obligations and rights provided for in sections 10 to 20 and 33, and section 4 (to the extent the provisions correspond to the rights and obligations provided for in sections 10 to 20), do not apply to the extent such obligations and rights:
+
+(a)
+
+would be likely to prejudice national security, national defence, the prevention or detection of crime, apprehension or prosecution of offenders, or the assessment or collection of a tax or duty or an imposition of a similar nature;
+
+(b)
+
+relate to information required to be disclosed by Applicable Law (including by court order) or in connection with legal proceedings, obtaining legal advice or establishing, exercising or defending legal rights, to the extent that the application of those provisions would prevent the Controller from complying with the obligations and rights;
+
+(c)
+
+would be likely to prejudice the discharge of public functions designed to protect the public against:
+
+(i)
+
+dishonesty, malpractice or other seriously improper conduct including, but not limited to, protection from financial loss by, or the unfitness or incompetence of, persons concerned in the provision of banking, insurance, investment or other financial services or the management of bodies corporate;
+
+(ii)
+
+financial loss due to the conduct of insolvent body corporates or individuals; or
+
+(iii)
+
+business conduct that adversely affects the public;
+
+(d)
+
+would be likely to prejudice the proper discharge of public functions designed to:
+
+22
+
+(i)
+
+secure workers’ health, safety and welfare or to protect others against health and safety risks in connection with (or arising from) someone at work; or
+
+(ii)
+
+regulate conduct (or agreements) preventing, restricting or distorting commercial competition, or to regulate undertakings abusing a dominant market position;
+
+(e)
+
+would be likely to prejudice ADGM’s ability to comply with international obligations and standards to which it is a signatory (including the International Organisation of Securities Commissions), where inspection of Personal Data is required;
+
+(f)
+
+would require the disclosure of information the disclosure of which is prohibited or restricted by Applicable Law;
+
+(g)
+
+would be likely to prejudice audit functions for supervising the quality of public accounting and financial reporting by a public authority;
+
+(h)
+
+would be likely to prejudice the regulatory functions of a public authority; or
+
+(i)
+
+would be likely to prejudice judicial appointments, independence and proceedings, including any individual or court acting in a judicial capacity.
+
+(2) The obligations and rights provided for in sections 13(1) to 13(3), and section 4 (to the extent the provisions correspond to the obligations and rights provided for in the provisions identified in sections 13(1) to 13(3)) do not oblige a Controller to disclose information to the Data Subject to the extent that doing so would involve disclosing information relating to another individual who can be identified from the information, unless:
+
+(a)
+
+the Data Subject has Consented to the disclosure; or
+
+(b)
+
+it would be reasonable to disclose the information without the Consent of the individual.
+
+(3) The obligations and rights provided for in sections 11(1) to 11(3), sections 12(1) to 12(4) and sections 13(1) to 13(3), and section 4 (to the extent the provisions correspond to the rights and obligations identified in sections 11(1) to 11(3), sections 12(1) to 12(4) and sections 13(1) to 13(3)), do

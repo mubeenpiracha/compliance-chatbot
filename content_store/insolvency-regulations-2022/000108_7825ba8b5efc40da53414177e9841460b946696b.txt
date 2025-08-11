@@ -1,0 +1,85 @@
+ forward or other securities or commodities transaction;
+
+(t)
+
+a securities contract, including a margin loan and an agreement to buy, sell, borrow or lend securities, such as a securities repurchase or reverse repurchase agreement, a securities lending agreement or a securities buy/sell- back agreement, including any such contract or agreement relating to mortgage loans, interests in mortgage loans or mortgage-related securities;
+
+(u)
+
+a commodities contract, including an agreement to buy, sell, borrow or lend commodities, such as a commodities repurchase or reverse repurchase agreement, a commodities lending agreement or a commodities buy/sell-back agreement;
+
+(v)
+
+a collateral arrangement;
+
+148
+
+(w)
+
+an agreement to clear or settle securities transactions or to act as a depository for securities;
+
+(x)
+
+any other agreement, contract or transaction similar to any agreement, contract or transaction referred to in paragraphs (a) to (w) with respect to one or more reference items or indices relating to (without limitation) interest rates, currencies, commodities, energy products, electricity, equities, weather, bonds and other debt instruments, precious metals, quantitative measures associated with an occurrence, extent of an occurrence, or contingency associated with a financial, commercial or economic consequence, or economic or financial indices or measures of economic or financial risk or value;
+
+(y)
+
+any swap, forward, option, contract for differences or other derivative in respect of, or combination of, one or more agreements or contracts referred to in paragraphs (a) to (x) or (z) or (aa) below;
+
+(z)
+
+any Sharia’a compliant contract or undertaking (including a murabaha, musawama or wa’ad) which individually or together with any other such contract or undertaking has or is entered into with a view to having an economic effect similar to any instrument of a kind described in any of paragraphs (a) to (y) above or paragraph (aa) below; and
+
+(aa)
+
+any agreement, contract or transaction designated as such by the Board by published notice, such designation being revocable by further published notice.
+
+“Real Property Regulations 2015” means the Real Property Regulations 2015, issued by the Board.
+
+“receiver” has the meaning given in Section 152(1) (Appointment and powers of receivers and administrative receivers) and includes, where the context allows, an administrative receiver but does not include any Court-appointed receiver appointed under the ADGM Court Procedure Rules.
+
+“Recognised Body” has the meaning given to that term in the Financial Services and Markets Regulations 2015.
+
+“registered company auditor” means a person who is appointed as an auditor in accordance with Part 35 (Auditors) of the Companies Regulations 2020.
+
+“Registrar” means the Abu Dhabi Global Market’s Registration Bureau established by Article 10 of the ADGM Founding Law and governed by Article 11 of that law.
+
+“these Regulations” means the Insolvency Regulations 2022, issued by the Board.
+
+“relevant obligations” means the obligations which are incurred under, secured or otherwise covered by a netting agreement or collateral arrangement and such obligations may consist of or include—
+
+(a)
+
+present or future, actual or contingent or prospective obligations (including such obligations arising under a master agreement or similar arrangement);
+
+(b)
+
+obligations owed to the collateral-taker, by a person other than the collateral- provider; or
+
+(c)
+
+obligations of a specified class or kind arising from time to time.
+
+“residential address” means the current residential address of a person or, if that is not known, the last known residential address.
+
+149
+
+“retention of title agreement” means an agreement—
+
+(a)
+
+which does not constitute a charge on the goods, but
+
+(b)
+
+under which, if the seller is not paid and the Company is wound up, the seller will have priority over all other creditors of the Company in respect of the goods or any property representing the goods.
+
+“Ruler” means the ruler of the Emirate of Abu Dhabi.
+
+“seal” or “sealed” shall mean the seal provided for, or a document having been sealed in accordance with the requirements of, the ADGM Court Procedure Rules.
+
+“secured creditor” of a Company means a creditor of a Company who holds security in respect of his debt over property of the Company.
+
+“security” means any mortgage, charge (including floating charge), pledge, lien or other security.
+
+“service” means both for Court documents and other documents, service

@@ -12,6 +12,7 @@ from langgraph.graph import StateGraph, END
 # It's good practice to load API keys from environment variables.
 # Ensure the OPENAI_API_KEY environment variable is set.
 from backend.core.config import OPENAI_API_KEY # Assuming this works
+from backend.core.enhanced_ai_service import get_enhanced_documents, initialize_enhanced_ai_service
 # For standalone testing, you can use:
 #OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 
@@ -26,7 +27,10 @@ class AgentState(TypedDict):
     chat_history: List[BaseMessage]
     contextualized_query: str
     query_confidence: float  # 0.0-1.0 confidence in understanding the query
-    query_type: Literal["GREETING", "COMPLIANCE", "EXPLORATORY", "CLARIFICATION"]
+    query_type: Literal["GREETING", "COMPLIANCE", "EXPLORATORY", "CLARIFICATION", "SPECIFIC"]
+    regulatory_topics: List[str]  # Regulatory topics identified
+    jurisdiction_indicators: List[str]  # Jurisdiction indicators found  
+    document_types: List[str]  # Types of documents needed
     retrieved_docs: List[Document]
     conversational_response: str
     compliance_response: str
@@ -40,21 +44,27 @@ class AgentState(TypedDict):
 # Updated models for more flexible conversation handling
 
 class QueryAnalysis(BaseModel):
-    """Analysis of user query with confidence scoring."""
-    query_type: Literal["GREETING", "COMPLIANCE", "EXPLORATORY", "CLARIFICATION"] = Field(
-        description="The type of query: GREETING (hello, thanks), COMPLIANCE (specific regulatory question), EXPLORATORY (general browsing), CLARIFICATION (follow-up)"
+    """Enhanced analysis of user query with compliance context."""
+    query_type: Literal["GREETING", "COMPLIANCE", "EXPLORATORY", "CLARIFICATION", "SPECIFIC"] = Field(
+        description="The type of query: GREETING (hello, thanks), COMPLIANCE (regulatory question), EXPLORATORY (general browsing), CLARIFICATION (follow-up), SPECIFIC (detailed regulatory inquiry)"
     )
     confidence: float = Field(
         description="Confidence in understanding the query (0.0-1.0)"
     )
     should_retrieve: bool = Field(
-        description="Whether this query would benefit from document retrieval"
+        description="Whether this query requires document retrieval for regulatory content"
     )
     should_converse: bool = Field(
         description="Whether this query would benefit from conversational response"
     )
-    key_topics: List[str] = Field(
-        description="Key compliance topics mentioned in the query"
+    regulatory_topics: List[str] = Field(
+        description="Regulatory topics identified: AML, Capital, Licensing, Employment, Fund, Banking, Insurance, Conduct, DataProtection, ESG"
+    )
+    jurisdiction_indicators: List[str] = Field(
+        description="Jurisdiction indicators found: DIFC, ADGM, DFSA, FSRA"
+    )
+    document_types: List[str] = Field(
+        description="Types of documents that might be helpful: Rulebooks, Guidance, Forms, Circulars"
     )
 
 class ExplorationSuggestions(BaseModel):
@@ -132,25 +142,48 @@ def analyze_query(state: AgentState) -> dict:
         }
     
     prompt = [
-        SystemMessage(content="""You are an expert compliance assistant. Analyze the user's query and determine:
+        SystemMessage(content="""Your task is to analyze the user query and provide structured analysis for a compliance chatbot.
 
-1. Query Type:
-   - GREETING: Personal questions, small talk, thanks, hellos
+Analyze these aspects:
+
+1. Query Type Classification:
+   - GREETING: Basic greetings, thanks, or casual conversation
    - COMPLIANCE: Questions about regulations, rules, requirements, procedures
    - EXPLORATORY: General questions about compliance topics that might benefit from documents
    - CLARIFICATION: Follow-up questions about previous compliance discussions
+   - SPECIFIC: Detailed questions about particular rules, forms, or procedures
 
 2. Confidence in understanding (0.0-1.0)
 
-3. Should retrieve documents: ONLY if the query relates to specific regulatory content, rules, procedures, or compliance requirements. DO NOT retrieve for:
+3. Regulatory Topics: Identify any of these topics mentioned:
+   - AML (Anti-Money Laundering)
+   - Capital Requirements
+   - Licensing/Authorization
+   - Employment/HR
+   - Fund Management
+   - Banking/Deposit Taking
+   - Insurance/Takaful
+   - Conduct of Business
+   - Data Protection
+   - Environmental/ESG
+
+4. Jurisdiction Indicators: Look for DIFC, ADGM, DFSA, FSRA mentions
+
+5. Document Types Needed: Identify if user might need:
+   - Rulebooks
+   - Guidance documents
+   - Forms/Templates
+   - Circulars/Notices
+
+6. Should retrieve documents: ONLY if the query relates to specific regulatory content, rules, procedures, or compliance requirements. DO NOT retrieve for:
    - Personal questions about the assistant
    - General greetings or thanks  
    - Casual conversation
-   - Questions that can be answered conversationally
+   - Questions that can be answered conversationally without regulatory reference
 
-4. Should provide conversational response: Almost always true unless purely technical document lookup
+7. Should provide conversational response: Almost always true unless purely technical document lookup
 
-Be conservative with document retrieval - only use it for actual compliance/regulatory questions."""),
+Be conservative with document retrieval - only use it for actual compliance/regulatory questions that require regulatory text or specific procedures."""),
         HumanMessage(content=f"User Query: {state['contextualized_query']}")
     ]
     
@@ -160,12 +193,17 @@ Be conservative with document retrieval - only use it for actual compliance/regu
         print(f"  - Confidence: {result.confidence}")
         print(f"  - Should Retrieve: {result.should_retrieve}")
         print(f"  - Should Converse: {result.should_converse}")
+        print(f"  - Regulatory Topics: {result.regulatory_topics}")
+        print(f"  - Jurisdiction: {result.jurisdiction_indicators}")
         
         return {
             "query_type": result.query_type,
             "query_confidence": result.confidence,
             "should_retrieve": result.should_retrieve,
-            "should_converse": result.should_converse
+            "should_converse": result.should_converse,
+            "regulatory_topics": result.regulatory_topics,
+            "jurisdiction_indicators": result.jurisdiction_indicators,
+            "document_types": result.document_types
         }
     except Exception as e:
         print(f"  - Error in analysis, using fallback: {e}")
@@ -204,7 +242,7 @@ If they're asking specific compliance questions, acknowledge that while being pe
 
 def retrieve_documents(state: AgentState) -> dict:
     """
-    Retrieve relevant documents using enhanced retrieval if available.
+    Retrieve relevant documents using enhanced multi-namespace retrieval.
     """
     print("--- NODE: retrieve_documents ---")
     
@@ -213,16 +251,16 @@ def retrieve_documents(state: AgentState) -> dict:
         return {"retrieved_docs": []}
     
     try:
-        # Try enhanced retrieval first
-        from backend.core.ai_service import get_enhanced_documents
+        # Initialize enhanced AI service if needed
+        initialize_enhanced_ai_service()
         
         jurisdiction = state.get("jurisdiction")
         query = state.get("contextualized_query", "")
         
         print(f"  - Enhanced retrieval for: '{query}' in {jurisdiction}")
         
-        # Use enhanced retrieval
-        enhanced_docs = get_enhanced_documents(query, jurisdiction)
+        # Use enhanced retrieval with smart namespace handling
+        enhanced_docs = get_enhanced_documents(query, jurisdiction, top_k=8)
         
         if enhanced_docs:
             # Convert to Document format for compatibility
@@ -231,17 +269,25 @@ def retrieve_documents(state: AgentState) -> dict:
                 content = doc_data.get('content', '')
                 metadata = doc_data.get('metadata', {})
                 score = doc_data.get('score', 0.0)
+                namespace = doc_data.get('namespace', '')
                 
-                if content and jurisdiction.upper() in metadata.get("jurisdiction", "").upper():
-                    from langchain.schema import Document
-                    retrieved_docs.append(Document(page_content=content, metadata=metadata))
+                # Add namespace and score to metadata for better context
+                enhanced_metadata = {**metadata, 'score': score, 'namespace': namespace}
+                
+                if content:  # No jurisdiction filtering - let enhanced retriever handle it
+                    from langchain_core.documents import Document
+                    retrieved_docs.append(Document(page_content=content, metadata=enhanced_metadata))
             
-            print(f"  - Enhanced retrieval: {len(retrieved_docs)} relevant documents")
+            print(f"  - Smart retrieval: {len(retrieved_docs)} documents from enhanced service")
             return {"retrieved_docs": retrieved_docs}
+        else:
+            print("  - No documents found with enhanced retrieval")
+            return {"retrieved_docs": []}
         
     except Exception as e:
         print(f"  - Enhanced retrieval failed: {e}")
-        print("  - Falling back to basic retrieval")
+        # Return empty instead of fallback for cleaner error handling
+        return {"retrieved_docs": []}
     
     # Fallback to original retrieval method
     try:

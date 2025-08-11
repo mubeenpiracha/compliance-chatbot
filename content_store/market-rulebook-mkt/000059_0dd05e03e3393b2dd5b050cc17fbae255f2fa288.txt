@@ -1,0 +1,129 @@
+ distribution (or part of a dividend or distribution) is in arrears in respect of a Security;
+
+(2)
+
+on a resolution that affects rights attached to the Preference Security;
+
+(3)
+
+on a resolution relating to a reduction of the Share capital of a Listed Entity;
+
+(4)
+
+on a resolution relating to a buy-back agreement;
+
+(5)
+
+on a resolution for a Listed Entity to be wound up;
+
+(6)
+
+on a resolution for a Listed Entity to dispose of the whole of its business and undertaking; or
+
+(7)
+
+during the winding up of a Listed Entity.
+
+9.3.11 The terms of issue of a Preference Security that is not a Share must contain rights for the Security holder to vote in the same manner as set out in Rule 9.3.10, with any necessary adaptation having regard to the form of the Preference Security.
+
+9.3.12 A holder of a Preference Security must have rights to receive notices, reports and audited financial statements, and admission to meetings of Shareholders, equal to the rights of holders of Ordinary Securities.
+
+9.3.13 When a Listed Entity is wound up, the holder of a Preference Security must have a right to
+
+the return of capital in preference to holders of Ordinary Securities.
+
+Weighted Voting Rights
+
+9.3.14 A Listed Entity may, upon approval from the Regulator, allot, issue or grant Shares with Weighted Voting Rights, altering its Share capital in relation to the equality and proportionality of Shareholder voting power and equity interest (as established in Rule 9.3.3).
+
+9.3.15 A Listed Entity, with Shares with Weighted Voting Rights on issue, must ensure that:
+
+(1)
+
+its Share capital must not result, in the view of the Regulator, in the potential for material conflicts between the interests of controlling shareholders’ interests, and those of its other shareholders;
+
+Confidential
+
+96
+
+MKT VER09.020125
+
+Guidance
+
+Listed Entities must consider their wider governance responsibilities, including as set out in these Rules and the Corporate Governance Best Practice Standards in APP 4. Consideration of the use of ‘sunset clauses’, whether they be event-driven or time-based, is also expected.
+
+(2)
+
+the beneficiaries of Shares with Weighted Voting Rights must beneficially own collectively at least 10% of the underlying economic interest in the Listed Entity’s total issued Share capital at the time of admission to the Official List;
+
+(3)
+
+Weighted Voting Rights must not account for more than 75% of voting rights represented in person or by proxy and voting in favour of a resolution at any shareholder meeting of a Listed Entity; and
+
+(4)
+
+the offer of Shares with Weighted Voting Rights must not increase the proportion of Shares that carry Weighted Voting Rights above the proportion on issue at the time of admission to the Official List.
+
+Restriction on Transfer of Shares with Weighted Voting Rights
+
+9.3.16 The Weighted Voting Rights attached to a beneficiary’s Shares must cease upon transfer to another person of the beneficial ownership of, or economic interest in, those Shares or the control over the voting rights attached to them (through voting proxies or otherwise).
+
+Resolutions requiring voting on a one vote per Share basis
+
+9.3.17 All Weighted Voting Rights attached to any class of a Listed Entity’s Shares must be disregarded and must not entitle the beneficiary to more than one vote per share on any resolution to approve the following matters:
+
+(1)
+
+changes to the Listed Entity’s constitutional documents;
+
+(2)
+
+variation of rights attached to any class of Securities;
+
+(3)
+
+the appointment or removal of an independent non-executive director;
+
+(4)
+
+the appointment or removal of auditors; and
+
+(5)
+
+the voluntary winding-up of the Listed Entity.
+
+9.4
+
+Dealings by Restricted Persons
+
+Application
+
+9.4.1
+
+(1)
+
+This section applies to:
+
+(a)
+
+the Board of every Listed Entity; and
+
+(b)
+
+a Restricted Person in relation to such a Listed Entity.
+
+Confidential
+
+97
+
+MKT VER09.020125
+
+(2)
+
+For the purposes of (b), a Person is a Restricted Person in relation to a Listed Entity if he is involved in the Senior Management of the Listed Entity.
+
+Guidance
+
+1.
+
+Persons are considered as involved in the Senior Management if they are in a position of authority and influence in making management or executive decisions with

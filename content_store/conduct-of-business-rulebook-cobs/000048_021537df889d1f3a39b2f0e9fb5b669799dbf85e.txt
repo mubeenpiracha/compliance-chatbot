@@ -1,0 +1,153 @@
+ links the results of due diligence undertaken in respect of the matters specified in Rule 10.4.1(b) to demonstrate that those requirements are met. Where a CSD changes any existing CSD arrangements, a further notification relating to such changes, along with details of its due diligence relating to the new CSD link, must be provided to the Regulator in advance of the proposed change.
+
+11.
+
+RECORDS OF ORDERS AND TRANSACTIONS
+
+11.1 Minimum Contents of Transaction Records
+
+11.1.1 Receipt of Client Order or Discretionary Decision to Transact
+
+An Authorised Person must, pursuant to Rule 6.8.2(a), make a record of the following in respect of each Client order:
+
+(a)
+
+the identity and account number of the Client;
+
+76
+
+COBS VER19.290725
+
+(b)
+
+the date and time when the instructions were received or the decision was taken by the Authorised Person to deal;
+
+(c)
+
+the identity of the Employee who received the instructions or made the decision to deal;
+
+(d)
+
+the Investment, including the number of Instruments or their value and any price limit; and
+
+(e)
+
+whether the instruction relates to a purchase or sale, long, short, buyer, seller or other relevant position.
+
+11.1.2 Executing a Transaction
+
+An Authorised Person must, pursuant to Rule 6.8.2(b), make a record of the following in respect of each Transaction:
+
+(a)
+
+the identity and account number of the Client for whom the Transaction was Executed, or an indication that the Transaction was for its own account;
+
+(b)
+
+the name of the counterparty;
+
+(c)
+
+the date and time where the Transaction was Executed;
+
+(d)
+
+the identity of the Employee executing the Transaction;
+
+(e)
+
+the Investment, including the number of instruments or their value and price; and
+
+(f)
+
+whether the Transaction was a purchase or a sale, long, short, buyer, seller or other relevant position.
+
+11.1.3 Passing a Client Order to another Person for Execution
+
+An Authorised Person must, pursuant to Rule 6.8.2(c), make a record of the following:
+
+(a)
+
+the identity of the Person instructed;
+
+(b)
+
+the terms of the instruction; and
+
+(c)
+
+the date and time that the instruction was given.
+
+11.1.4 Sending Confirmation Notes
+
+1. An Authorised Person must include the following information in its confirmation notes:
+
+(a)
+
+the Authorised Person's name and address;
+
+(b)
+
+whether the Authorised Person Executed the Transaction as principal or agent;
+
+(c)
+
+the Client's name, account number or other identifier;
+
+77
+
+COBS VER19.290725
+
+(d)
+
+a description of the Investment or Fund, including the amount invested or number of units involved;
+
+(e)
+
+whether the Transaction is a sale or purchase;
+
+(f)
+
+the price or unit price at which the Transaction was Executed, or where the order is executed in tranches the average price of the Transaction as a whole supplemented by, at the request of the Client, information about the price of each tranche of the Transaction;
+
+(g)
+
+if applicable, a statement that the Transaction was Executed on an Execution- Only basis;
+
+(h)
+
+the date and time of the Transaction;
+
+(i)
+
+the total amount payable and the date on which it is due;
+
+(j)
+
+the amount the Authorised Person charges in connection with the Transaction, including Commission charges and the amount of any Mark-up or Mark-down, Fees, taxes or duties;
+
+(k)
+
+the amount or basis of any charges shared with another Person or statement that this will be made available on request; and
+
+(l)
+
+for Collective Investment Funds, a statement that the price at which the Transaction has been Executed is on a historic price or forward price basis, as the case may be.
+
+2. An Authorised Person must combine items (f) and (j) in respect of a Transaction where the Client has requested a confirmation showing a single price combining both of these items.
+
+11.2 Additional Information: Derivatives
+
+For the purposes of Rule 6.10.2, and in relation to Transactions in Derivatives, an Authorised Person must include the following additional information:
+
+(a)
+
+the maturity, delivery or expiry date of the Derivative;
+
+(b)
+
+in the case of an Option, the date of exercise or a reference to the last exercise date;
+
+(c)
+
+whether the exercise creates a sale or purchase

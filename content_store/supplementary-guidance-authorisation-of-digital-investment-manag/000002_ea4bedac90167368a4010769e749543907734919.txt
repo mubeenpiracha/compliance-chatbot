@@ -1,0 +1,27 @@
+ person to another person ("the custodian") who is authorised by the FSRA or a Non-Abu Dhabi Global Market Regulator to carry on the activity of Providing Custody, if the introducer is not connected with the custodian. An introducer is considered to be connected to a custodian if (a) the custodian is a member of the same Group as the introducer or (b) the introducer is remunerated by the custodian or a member of the custodian's Group for making the introduction. 3 If the Digital Investment Manager operates advisory accounts or arranges deals in investments that are separate from, or not incidental to, its discretionary investment management activities, it will have to apply for permission to carry on one or both of the Regulated Activities of Arranging Deals in Investments and/or Advising on Investments or Credit as applicable. 4 Note that the applicable Capital Requirement is the higher of the Base Capital Requirement and Expenditure Based Capital Minimum. Where a Digital Investment Manager undertakes a combination of activities, the highest prudential category will apply.
+
+DIM VER01.020719
+
+Supplementary Guidance – Authorisation for Digital Investment Management (“Robo-Advisory” Activities)
+
+3.7 The higher prudential capital requirement for Digital Investment Managers engaged in Managing Assets, compared with those that are only engaged in Advising on Investments or Credit and/or Arranging Deals in Investments, is primarily a function of:
+
+a. the risks inherent in an investment process whereby an investment manager has discretion to make investment decisions for the client without first obtaining the client’s approval; and
+
+b. the increased operational complexity involved in holding Client Assets as part of the
+
+discretionary asset management process.
+
+3.8 The FSRA recognises that many Digital Investment Managers engaged in Managing Assets only exercise discretion in the investment management process when ‘rebalancing’ a client’s portfolio, in order to ensure that the asset allocation remains suitable in light of the client’s investment objectives and parameters.5 This approach is typical of Digital Investment Managers that apply passive investment strategies that track the performance of an index or benchmark by investing in products such as exchange traded funds (“ETFs”) and index trackers.
+
+3.9 These products are generally well-diversified, causing them to be less volatile relative to Financial Instruments that are commonly traded in active investment strategies (such as shares in a particular company, for example). A consequence of lower volatility is that the Digital Investment Manager has less cause for trading, including to adjust for market movements that would cause the portfolio to become unbalanced relative to the allocation agreed with the client.6 Digital Investment Managers that operate in this way present less risk than traditional investment managers who may have greater discretion to buy and sell a broader set of Financial Instruments for their clients on a more frequent basis as part of an active investment strategy.
+
+3.10 Similarly, some Digital Investment Managers engaged in Managing Assets do not hold Client Assets, arranging instead for Client Assets to be held by an independent third-party financial institution under an agreement between the financial institution and the client. Digital Investment Managers who adopt this approach are less complex from an operational perspective. They take less time to wind down in the event of insolvency because Client Assets are easily identifiable, being held by a business that remains a going concern, has a direct relationship with the investor-client, and are protected from the claims of the Digital Investment Manager’s creditors. As such, less capital needs to be set aside to ensure that an insolvency practitioner can effect an orderly wind down of the Digital Investment Manager’s business.
+
+3.11 In light of these considerations, the FSRA will lower the prudential capital requirements applicable to Digital Investment Managers that are engaged in Managing Assets with a business model that meets all of the following conditions.
+
+a. Financial Instruments: the product offering is limited to passive investment products such as ETFs and index trackers. The Digital Investment Manager must satisfy the FSRA that the passive investment products are sufficiently liquid, non-complex and diversified.
+
+5 Typically, the initial decision to invest in a portfolio of Financial Instruments is taken with the client’s consent. Thereafter, the decision to rebalance a client’s portfolio by buying or selling Financial Instruments is taken by the Digital Investment Manager without first obtaining the client’s consent for the specific transaction to go ahead. 6 That is, the initial decision to invest in a portfolio of Financial Instruments is not discretionary but subject to the client’s agreement.
+
+DIM

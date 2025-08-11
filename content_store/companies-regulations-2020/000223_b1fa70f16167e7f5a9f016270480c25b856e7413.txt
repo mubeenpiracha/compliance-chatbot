@@ -1,0 +1,115 @@
+ capital
+
+(1)
+
+This section applies where a payment out of capital is made in accordance with Chapter 5 (redemption or purchase of own shares by private company out of capital).
+
+(2)
+
+If the permissible capital payment is less than the stated capital of the shares redeemed or purchased, the amount of the difference must be transferred to the company’s capital redemption reserve.
+
+(3)
+
+If the permissible capital payment is greater than the stated capital of the shares redeemed or purchased-
+
+(a)
+
+the amount of any capital redemption reserve or fully paid share capital of the company, and
+
+(b)
+
+any amount representing unrealised profits of the company for the time being standing to the credit of any revaluation reserve maintained by the company,
+
+may be reduced by a sum not exceeding (or by sums not in total exceeding) the amount by which the permissible capital payment exceeds the stated capital of the shares.
+
+(4) Where the proceeds of a fresh issue are applied by the company in making a redemption or purchase of its own shares in addition to a payment out of capital under this Chapter, the references in subsections (2) and (3) to the permissible capital payment are to be read as referring to the aggregate of that payment and those proceeds.
+
+676. Effect of company’s failure to redeem or purchase
+
+(1)
+
+This section applies where a company-
+
+(a)
+
+issues shares on terms that they are or are liable to be redeemed, or
+
+(b)
+
+agrees to purchase any of its shares.
+
+(2)
+
+The company is not liable in damages in respect of any failure on its part to redeem or purchase any of the shares.
+
+This is without prejudice to any right of the holder of the shares other than his right to sue the company for damages in respect of its failure.
+
+(3)
+
+The Court shall not grant an order for specific performance of the terms of redemption or purchase if the company shows that it is unable to meet the costs of redeeming or purchasing the shares in question out of distributable profits.
+
+(4)
+
+If the company is wound up and at the commencement of the winding up any of the shares have not been redeemed or purchased, the terms of redemption or purchase may be enforced against the company.
+
+383
+
+When shares are redeemed or purchased under this subsection, they are treated as cancelled.
+
+(5)
+
+Subsection (4) does not apply if-
+
+(a)
+
+the terms provided for the redemption or purchase to take place at a date later than that of the commencement of the winding up, or
+
+(b)
+
+during the period-
+
+(i)
+
+beginning with the date on which the redemption or purchase was to have taken place, and
+
+(ii)
+
+ending with the commencement of the winding up,
+
+the company could not at any time have lawfully made a distribution equal in value to the price at which the shares were to have been redeemed or purchased.
+
+(6)
+
+There shall be paid in priority to any amount that the company is liable under subsection (4) to pay in respect of any shares-
+
+(a)
+
+all other debts and liabilities of the company (other than any due to members in their character as such), and
+
+(b)
+
+if other shares carry rights (whether as to capital or as to income) that are preferred to the rights as to capital attaching to the first-mentioned shares, any amount due in satisfaction of those preferred rights.
+
+Subject to that, any such amount shall be paid in priority to any amounts due to members in satisfaction of their rights (whether as to capital or income) as members.
+
+677. Meaning of “distributable profits”
+
+In this Part (except in Chapter 2 (financial assistance): see section 622) “distributable profits”, in relation to the making of any payment by a company, means profits out of which the company could lawfully make a distribution (within the meaning given by section 761 (distributions to be made only out of profits available for the purpose) equal in value to the payment.
+
+384
+
+Part 18
+
+DEBENTURES
+
+General provisions
+
+678. Meaning of “debenture”
+
+In these Regulations “debenture” includes debenture stock, loan stock, bonds and any other securities of a company, whether or not constituting a charge on the assets of the company.
+
+679. Perpetual debentures
+
+(1)
+
+A condition contained in debentures, or in a deed for securing debentures, is not invalid by reason only that the debentures are made

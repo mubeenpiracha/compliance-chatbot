@@ -1,0 +1,103 @@
+ing on Credit
+
+2.28.1 (1)
+
+In Rule 2.2.2, Arranging Credit and Advising on Credit means:
+
+(a)
+
+making arrangements for another Person, whether as principal or agent, to borrow money by way of a Credit Facility; or
+
+(b)
+
+giving advice to a Person in his capacity as a borrower or potential borrower or as agent for a borrower or potential borrower on the merits of his entering into a particular Credit Facility.
+
+(2)
+
+Advice in (1)(b) includes a statement, opinion or report:
+
+(a)
+
+where the intention is to influence a Person, in making a decision, to enter into a particular Credit Facility; or
+
+(b)
+
+which could reasonably be regarded as being intended to have such an influence.
+
+Guidance
+
+Activities that constitute ‘Arranging Credit’
+
+1.
+
+Generally, the following activities constitute Arranging Credit:
+
+a.
+
+Introducing potential borrowers to a credit provider (who can be in the DIFC or outside the DIFC);
+
+b.
+
+Assisting a potential borrower to obtain credit, such as completing application forms and other processes relevant to the transaction;
+
+c.
+
+Negotiating terms of credit, including any fees payable to the arranger; and
+
+d.
+
+Arranging collateral or other assurances needed by the potential borrower to obtain credit.
+
+2.
+
+The Guidance under ‘Arranging Deals in Investments’ is generally relevant for ‘Arranging Credit’, although the activities relate to ‘credit’ in this context, instead of ‘Investments’. Therefore, a reference to Investment in that Guidance should be read as ‘credit’ for the purposes of ‘Arranging Credit’.
+
+Exclusions
+
+2.28.2 A Person does not carry on the activity of Arranging Credit under Rule 2.28.1(1)(a) if that Person enters, or is to enter, into the transaction to Provide Credit. This exclusion does not apply in the case of a branch which makes arrangements for its head office, or any other branch of the same legal entity as itself, to enter into a transaction as provided under Rule 2.28.1(1)(a).
+
+2.28.3 A Person does not make arrangements referred to in Rule 2.28.1(1)(a) merely by providing means by which one party to a transaction is able to communicate with other such parties.
+
+42
+
+GEN/VER67/03-25
+
+GENERAL (GEN)
+
+2.28.4 A Person does not carry on the activity referred to in Rule 2.28.1(1)(a) by making arrangements under which another Person accepts or is to accept an instrument creating or acknowledging indebtedness in respect of any loan, credit, guarantee or other similar financial accommodation which he or his principal has made or provided.
+
+2.28.5 A Person does not Arrange Credit merely by making arrangements having as their sole purpose the provision of finance to enable a Person to buy, sell, subscribe for or underwrite Investments.
+
+2.28.6 A Person does not carry on the activities in Rule 2.28.1(1)(a) or (b) if the
+
+activity:
+
+(a)
+
+is carried on in the course of Providing Legal Services or Providing Accountancy Services, which does not otherwise consist of the carrying on of Financial Services;
+
+(b)
+
+may reasonably be regarded as a necessary part of any other services provided in the course of Providing Legal Services or Providing Accountancy Services; and
+
+(c)
+
+is not remunerated separately from the other services.
+
+2.28.7 A Person does not carry on the activity in Rule 2.28.1(1)(b) by giving advice in any newspaper, journal, magazine, broadcast service or similar service in any medium if the principal purpose of the publication or service, taken as a whole, is neither:
+
+(a)
+
+that of giving advice of the kind mentioned in Rule 2.28.1(1)(b); nor
+
+(b)
+
+that of leading or enabling Persons to enter into a particular Credit Facility.
+
+2.28.8 A Crowdfunding Operator does not Arrange Credit to the extent that it
+
+Operates a Loan Crowdfunding Platform.
+
+Guidance
+
+The Guidance relating to the exclusions from the activity of ‘Arranging Deals in Investments’ is generally relevant for the exclusions from ‘Arranging Credit’, although the activities relate to ‘credit’ in this context, instead of ‘Investments’. To the extent relevant, a

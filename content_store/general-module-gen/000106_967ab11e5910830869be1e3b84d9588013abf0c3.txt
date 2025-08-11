@@ -1,0 +1,93 @@
+ of which the DFSA would reasonably expect to be notified.
+
+163
+
+GEN/VER67/03-25
+
+GENERAL (GEN)
+
+11.10.18
+
+(1)
+
+An Authorised Person must notify the DFSA immediately it becomes aware, or has information that reasonably suggests, that it:
+
+(a)
+
+has or may have provided the DFSA with information which was or may have been false, misleading, incomplete or inaccurate; or
+
+(b)
+
+has or may have changed in a material particular.
+
+(2)
+
+Subject to (3), the notification in (1) must include details of the information which is or may be false or misleading, incomplete or inaccurate, or has or may have changed and an explanation why such information was or may have been provided and the correct information.
+
+(3)
+
+If the correct information in (2) cannot be submitted with the notification it must be submitted as soon as reasonably possible.
+
+11.10.19
+
+In the case of an Insurer which is a Protected Cell Company or an Incorporated Cell Company, an Insurer must advise the DFSA immediately if it becomes aware of any actual or prospective significant change in the type or scale of the business conducted through a Cell, or in the ownership of the Cell shares of the Protected Cell Company or of an Incorporated Cell of the ICC.
+
+Information relating to corporate governance and remuneration
+
+11.10.20 (1)
+
+Subject to (2), an Authorised Firm must provide to the DFSA notice of any significant changes to its corporate governance framework or the remuneration structure or strategy as soon as practicable.
+
+(2)
+
+An Authorised Firm which is a Branch must provide notice of any significant changes to its corporate governance framework or the remuneration structure or strategy only if the changes are relevant to the activities and operations of the Branch.
+
+Guidance
+
+1.
+
+The purpose of these notifications is to ensure that the DFSA is informed of any significant changes to the Authorised Firm’s corporate governance framework and remuneration structure and strategies.
+
+2.
+
+Significant changes that the DFSA expects Authorised Firms to notify the DFSA pursuant to Rule 11.10.20 generally include:
+
+a. any major changes to the composition of the Governing Body;
+
+b. any changes relating to Persons Undertaking Key Control Functions, such as their
+
+removal or new appointments or changes in their reporting lines; and
+
+c.
+
+significant changes to the remuneration structure that apply to the members of the Governing Body, senior management, Persons Undertaking Key Control Functions and major risk taking Employees.
+
+3.
+
+The DFSA expects Branches to provide to the DFSA notification of significant changes that are relevant to the Branch operations.
+
+164
+
+GEN/VER67/03-25
+
+GENERAL (GEN)
+
+Significant events affecting Crypto Tokens
+
+11.10.21 (1) This Rule applies to an Authorised Person that carries on a Financial
+
+Service relating to a Crypto Token.
+
+(2) The Authorised Person must notify the DFSA immediately if it becomes aware of any significant event or development that reasonably suggests that the Crypto Token no longer meets the criteria referred to in Rule 3A.3.4 for it to be a Recognised Crypto Token.
+
+(3) A notification is not required under (2) if the Authorised Person reasonably believes that the information is already generally available to the public.
+
+Guidance
+
+1.
+
+The DFSA would not normally expect an Authorised Person to carry out daily monitoring of whether a Crypto Token continues to meet the eligibility criteria for recognition. Rather, if the Authorised Person becomes aware of a significant event or development during the normal course of its business, it should inform the DFSA. There may, however, be certain services where an Authorised Person may be either required or more likely to be aware of developments relating to a Crypto Token. For example, this might occur where an Authorised Firm operates a MTF that trades the Crypto Token, acts as a Market Maker for the Crypto Token or is involved in the development, offer or marketing of the Crypto Token. In such situations the DFSA would expect the Authorised Person to have greater knowledge and awareness of developments relating to the Crypto Token and therefore to be more likely to report adverse events or developments.
+
+2.
+
+As set out in the Guidance under Rule 3A.2.1, the DFSA’s recognition of a Crypto Token does not relieve an Authorised Person of its obligation to conduct adequate

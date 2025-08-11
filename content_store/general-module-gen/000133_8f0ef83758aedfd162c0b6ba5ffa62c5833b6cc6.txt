@@ -1,0 +1,88 @@
+ this example), in exchange for Tokens. These people make their contributions in the expectation that Firm B will pool those contributions to buy fine art, manage a business of hiring the fine art for corporate events to generate income, and also sell some art to make capital gains. The further expectation is that Firm B will distribute such income and capital gains to the contributors, pro rata to the amounts they contributed. This arrangement is a Fund. If the Tokens issued by Firm B to participants confer on them the rights to participate as expected in the profits and income of the arrangement, such a Token confers on the participants rights that are substantially similar in nature to a Unit in a Fund and so it is a Security Token that is considered a Unit.
+
+When is an Investment Token a Structured Product?
+
+34.
+
+A Structured Product is an instrument comprising rights under a contract where:
+
+a.
+
+the gain or loss of each party to the contract is determined by reference to the fluctuations in the value or price of an underlying factor, (such as gold, an index, an interest or exchange rate, in relation to which there is readily available public information);
+
+b.
+
+the gain or loss of each party is settled by cash or set off between the parties; and
+
+c.
+
+each party is not exposed to any contingent liabilities to the other (i.e. there is no leverage).
+
+35.
+
+If the rights and obligations of the parties to a contract that meets the above criteria are conferred by a Token, the Token confers rights and obligations that are substantially similar in nature to a Structured Product, and so the Token is considered an Investment Token that is a Structured Product.
+
+36.
+
+Although a Structured Product is similar to a contract for difference, it can be distinguished from a Future due to the absence of leverage on the part of the investor and the availability of readily accessible public information relating to the underlying factor referenced by it. Structured Products are categorised as Securities and can be included in the Official List of Securities. An Investment Token that is a Structured Product is therefore also a Security Token.
+
+Example
+
+37.
+
+Firm B enters into a contract with its client, A. The contract provides that A will receive a profit or incur a liability to Firm B, based on whether the underlying price of gold has moved up or down between the opening day, and the closing day, of the contract. The contract does not contain any leverage (for example, where the profit or loss of A would be 50 times the amount of margin A posted with B to open the position). This is a Structured Product. The terms of the contract are embedded in a Token issued by Firm B, and the contract is created when A accepts those terms by accepting ownership of the Token. As the Token confers the rights and obligations of the contract, it confers rights and obligations substantially similar in nature to those conferred by a Structured Product. The Token is therefore a Security Token that is considered a Structured Product.
+
+When is an Investment Token an Option?
+
+205
+
+GEN/VER67/03-25
+
+GENERAL (GEN)
+
+38.
+
+An Option is an instrument that confers on the holder, upon exercise, a right to:
+
+a.
+
+acquire or dispose of:
+
+i.
+
+a Security (other than a Warrant);
+
+ii.
+
+a contractually based investment (e.g. a Future);
+
+iii.
+
+currency of any country or territory; or
+
+iv.
+
+a commodity of any kind; or
+
+b.
+
+receive a cash settlement determined by reference to the value or price of an index, interest rate, exchange rate or any other rate or variable; or
+
+c.
+
+a right to acquire or dispose of an Option under a) or b).
+
+39.
+
+If a person issues a Token that confers on the holder rights that meet the criteria in paragraph 38 a), b) or c) which the holder may, but is not required to exercise, the Token is an Investment Token that is an Option and therefore also a Derivative Token.
+
+Example
+
+40.
+
+B owns an issued Share in a company. B issues a Token to A which confers on A the right to buy that Share from B at a set price on a certain date, should A choose to do so. The Token confers rights and obligations that are substantially similar in nature to those conferred by a call Option and is therefore a Derivative Token that is considered to be an Option.
+
+When is an Investment Token a Future?
+
+41.
+

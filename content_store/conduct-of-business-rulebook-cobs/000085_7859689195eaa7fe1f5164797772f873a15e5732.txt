@@ -1,0 +1,105 @@
+ is stated in the Framework Contract and:
+
+(a)
+
+redemption is requested before the termination of the Framework Contract;
+
+(b)
+
+the Framework Contract provides for a termination date and the Payment Service User has terminated the Framework Contract before that date; or
+
+137
+
+COBS VER19.290725
+
+(c)
+
+redemption is requested more than twelve months after the date of termination of the Framework Contract.
+
+(3) Where before the termination of the Framework Contract a Payment Service User that is a Natural Person makes a request for redemption of Stored Value, the Payment Service User may request redemption of the monetary value of the Stored Value in whole or in part, and the Payment Service Provider must redeem the amount so requested, subject to any Fee imposed in accordance with Rule 19.15.5(2).
+
+(4) Where a Payment Service User makes a request for redemption of Stored Value on, or up to one year after the date of the termination of the Framework Contract, the Payment Service Provider must redeem the total monetary value of the Stored Value held.
+
+(5)
+
+(3) and (4) shall not apply in the case of a Payment Service User which is not a Natural Person, and, in such a case, the redemption rights of that Payment Service User shall be subject to the Framework Contract between that Payment Service User and the Payment Service Provider.
+
+(6)
+
+A Payment Service Provider is not required to redeem the monetary value of Stored Value where the Payment Service User makes a request for redemption more than six years after the date of termination of the Framework Contract.
+
+(7)
+
+A Payment Service Provider which issues Stored Value must not award:
+
+(a)
+
+interest in respect of the holding of Stored Value; or
+
+(b)
+
+any other benefit, monetary or otherwise, related to the length of time during which an Payment Service User holds Stored Value.
+
+(8)
+
+For the purposes of this Rule, a Framework Contract between a Payment Service Provider and a Payment Service User terminates when the right to use Stored Value for the purpose of making Payment Transactions ceases.
+
+19.16 Authentication
+
+19.16.1 (1)
+
+A Payment Service Provider must employ Strong Customer Authentication where a Payment Service User:
+
+(a)
+
+accesses its Payment Account online, whether directly or through an Account Information Service Provider;
+
+(b)
+
+initiates an Electronic Remote Payment Transaction; or
+
+(c)
+
+carries out any action through a remote means of communication which may permit a risk of payment fraud or other abuses.
+
+(2) Where a Payer initiates an Electronic Remote Payment Transaction directly or through a Payment Initiation Service Provider, the Payer’s Payment Service
+
+138
+
+COBS VER19.290725
+
+Provider must apply Strong Customer Authentication that includes elements that dynamically link the transaction to a specific amount and a specific Payee.
+
+(3)
+
+A Payment Service Provider must maintain adequate security measures to protect the confidentiality and integrity of Payment Service Users’ Personalised Security Credentials.
+
+19.17 Notification and rectification of unauthorised or incorrectly executed Payment
+
+Transactions
+
+19.17.1 A Payment Service User is entitled to redress under this Chapter only if it notifies its Payment Service Provider without undue delay, and in any event no later than twelve months after the debit date, on becoming aware of any unauthorised or incorrectly executed Payment Transaction.
+
+19.17.2 Where the Payment Service Provider has failed to provide or make available information concerning the Payment Transaction in accordance with Section 19.5, the Payment Service User is entitled to redress under the Rules in this Chapter notwithstanding that the Payment Service User has failed to notify the Payment Service Provider within the time period stated in Rule 19.17.1.
+
+19.18
+
+Evidence on authentication and execution of Payment Transactions
+
+19.18.1 (1) Where a Payment Service User:
+
+(a)
+
+denies having authorised an executed Payment Transaction; or
+
+(b)
+
+claims that a Payment Transaction has not been correctly executed;
+
+it is for the Payment Service Provider to prove that the Payment Transaction was authenticated, accurately recorded, entered in the Payment Service Provider’s accounts and not affected by a technical breakdown or some other deficiency in the service provided by the Payment Service Provider or any third party it relies upon for the performance of operational functions.
+
+(2) Where a Payment Service User denies having authorised an executed Payment Transaction, the use of a Payment Instrument recorded by the Payment Service Provider, including a Payment Initiation Service Provider where appropriate, is not in itself necessarily sufficient to prove either that:
+
+(a)
+
+the

@@ -1,0 +1,101 @@
+ are not Cell Companies, as set out in APP4. This appendix therefore incorporates references to the provisions of APP4.
+
+3.
+
+The calculation of the Minimum Non-Cellular Capital Requirement takes into account only Non-Cellular Assets and Non-Cellular liabilities, while the Minimum Cellular Capital Requirement in respect of a Cell takes into account only Cellular Assets of that Cell and Cellular Liabilities of the same Cell.
+
+4.
+
+The methods of calculation for the Minimum Non-Cellular Capital Requirement and the Minimum Cellular Capital Requirement in respect of a Cell are identical, so the term Minimum Segmental Capital Requirement is used to refer to both. Similarly, the term 'segment' is used in this appendix to refer to both a Cell and the non-cellular part of an Insurer.
+
+A6.2 Minimum Segmental Capital Requirement
+
+A6.2.1 Every Insurer must calculate its Minimum Non-Cellular Capital Requirement and the Minimum Cellular Capital Requirement applicable to each Cell, in accordance with this appendix.
+
+102
+
+PIN VER07.290725
+
+A6.2.2 Subject to Rules A6.2.4, A6.2.5, and A6.2.6, an Insurer must calculate its Minimum
+
+Segmental Capital Requirement according to the formula:
+
+MSCR = DRC + IVRC + OARC + OLRC + CRC + SFAC + URC + RRC + LIRC + AMRC
+
+where:
+
+Term
+
+Definition
+
+MSCR
+
+Insurer's Minimum Segmental Capital Requirement;
+
+DRC
+
+Insurer's default risk component in respect of that segment;
+
+IVRC
+
+Insurer's investment volatility risk component in respect of that segment;
+
+OARC
+
+Insurer's off-balance sheet asset risk component in respect of that segment;
+
+OLRC
+
+Insurer's off-balance sheet liability risk component in respect of that segment;
+
+CRC
+
+Insurer's concentration risk component in respect of that segment;
+
+SFAC
+
+Insurer's size factor adjustment component in respect of that segment;
+
+URC
+
+Insurer's underwriting risk component in respect of that segment;
+
+RRC
+
+Insurer's reserving risk component in respect of that segment;
+
+LIRC
+
+Insurer's Long-Term Insurance risk component in respect of that segment;
+
+AMRC
+
+Insurer's asset management risk component in respect of that segment.
+
+Guidance
+
+Because of the provision in Chapter 1 that all Insurance Business of an Insurer that is a Cell Company must be conducted through its Cells, the URC, RRC and LIRC components will apply only to Cells.
+
+A6.2.3 The methods of calculation of the components referred to in Rule A6.2.2 are set out in
+
+Rules A6.4, A6.5, A6.6, A6.7, A6.8, A6.9, A6.10, A6.11, A6.12 and A6.13.
+
+A6.2.4 An Insurer's Minimum Non-Cellular Capital Requirement must always be equal to or
+
+higher than $50,000.
+
+A6.2.5 The Minimum Cellular Capital Requirement in respect of a Cell must always be equal to
+
+or higher than $50,000.
+
+103
+
+PIN VER07.290725
+
+A6.2.6 Where the aggregate of the Minimum Segmental Capital Requirements of the segments of an Insurer, calculated in accordance with the formula set out in Rule A6.2.2 is less than $250,000, the difference between that aggregate and $250,000 must be added to the Minimum Non-Cellular Capital Requirement.
+
+A6.3 Applicability of components to assets of the Insurer
+
+A6.3.1 Subject to Rules A6.3.2 and A6.3.3, an Insurer must calculate those components of a Minimum Segmental Capital Requirement that are relevant to assets, in respect of every asset that is attributable to that segment and that is available to meet liabilities attributable to that segment.
+
+A6.3.2 Where an Insurer arranges its affairs such that Invested Assets attributable to a segment are held in a Related entity, the Insurer may, with the written approval of the Regulator, calculate components of the relevant Minimum Segmental Capital Requirement by reference to the Insurer's interest in the assets that are held by the Related entity, instead of by reference to

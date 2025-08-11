@@ -1,0 +1,127 @@
+, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+(3)
+
+An Authorised Firm must provide to the DFSA, if requested, any of the following information in relation to its Group or Financial Group:
+
+(a) details as to the entities within the Group or Financial Group;
+
+(b)
+
+the structure of the Group or Financial Group; and
+
+(c)
+
+the systems and controls in place to manage Group Risk.
+
+Guidance
+
+1.
+
+If more than one member of the same Group is subject to an obligation to provide information in respect of a position of the Group or Financial Group, one or more of those Authorised Firms may make application to the DFSA for an appropriate waiver or modification.
+
+2.
+
+For the purposes of Rule 8.1.2, the DFSA would consider a range of factors when requiring an Authorised Firm to form a Financial Group. These factors would include regulatory risk factors, including but not limited to, (direct and indirect) participation, influence or contractual obligations, interconnectedness, intra group exposures, intra group services, regulatory status and legal framework.
+
+Systems and controls requirements
+
+An Authorised Firm in Category 1, 2 (other than a Matched Principal) or 5 that is a member of a Group must establish and maintain systems and controls for the purpose of:
+
+(a)
+
+monitoring the effect on the Authorised Firm of:
+
+(i)
+
+its relationship with other members of its Group;
+
+(ii)
+
+its membership in its Group; and
+
+(iii)
+
+the activities of other members of its Group;
+
+(b)
+
+monitoring compliance with Financial Group supervision requirements below, including systems for the production of relevant data;
+
+(c)
+
+monitoring funding within the Group; and
+
+(d)
+
+monitoring compliance with Financial Group reporting requirements.
+
+Guidance
+
+For the purposes of the above requirement, an Authorised Firm may take into account its position within its Group. For instance, it would be reasonable for a small Authorised Firm within a larger Group to place some reliance on its parent to ensure that appropriate systems and controls are in place.
+
+(1)
+
+An Authorised Firm must have systems and controls to enable it to determine and monitor:
+
+(a)
+
+its Financial Group Capital Requirement; and
+
+199
+
+PIB/VER50/07-25
+
+8.3
+
+8.3.1
+
+8.3.2
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+(b) whether the amount of its Financial Group Capital Resources is, and is likely to remain, greater than the amount of its Financial Group Capital Requirement.
+
+(2)
+
+Such systems and controls must include an analysis of:
+
+(a)
+
+realistic scenarios which are relevant to the circumstances of the Financial Group; and
+
+(b)
+
+the effects on the Financial Group Capital Requirement and on the Financial Group Capital Resources if those scenarios occurred.
+
+Financial Group Capital Requirements and Financial Group Capital Resources
+
+Guidance
+
+By Rule 8.1.1(2), this section applies to an Authorised Firm in Category 1, 2 (other than a Matched Principal) or 5.
+
+(1)
+
+The other Rules in section 8.3 do not apply to an Authorised Firm if:
+
+(a)
+
+the Authorised Firm’s Financial Group is already the subject of Financial Group prudential supervision by the DFSA as a result of the authorisation of another Financial Group member;
+
+(b)
+
+the DFSA has confirmed in writing, in response to an application from the Authorised Firm, that it is satisfied that the Authorised Firm’s Group is the subject of consolidated prudential supervision by an appropriate regulator; or
+
+(c)
+
+except where the DFSA has directed the inclusion of an entity pursuant to Rule 8.1.2, the percentage of total assets of Authorised Firms and Financial Institutions in the Financial Group is less than 40% of the total Financial Group assets.
+
+(2)
+
+If an Authorised Firm receives confirmation in writing from the DFSA in accordance with (1)(b), it must immediately advise the DFSA in writing if the circumstances upon which the confirmation was based change.
+
+An Authorised Firm must ensure at all times that its Financial Group Capital Resources, as calculated in Rule 8.3.4, are equal to or in excess of its Financial Group Capital Requirement as calculated in Rule 8.3.3.
+
+Guidance
+
+If an Authorised Firm breaches Rule 8.3.

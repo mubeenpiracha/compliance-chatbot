@@ -1,0 +1,63 @@
+ investors/policyholders.
+
+19
+
+GEN/VER67/03-25
+
+GENERAL (GEN)
+
+Arranging Long-Term Insurance
+
+10. An ‘Investment’ is defined in Rule 2.9.1(4) to include rights under a contract of Long-Term Insurance (other than a contract of reinsurance). As a result, arranging activities relating to contracts of Long-Term Insurance fall within Arranging Deals in Investments. ‘Long-Term Insurance’ is defined in GLO, in summary, as a contract of the type described in Rule A4.1.2 (certain types of life insurance) that is expressed to be in force for more than one year and meets specified conditions.
+
+Exclusions
+
+2.9.2 A Person does not carry on the activity of Arranging Deals in Investments under Rule 2.9.1(1) in relation to a transaction if the Person becomes, or proposes to become, a party to the transaction (regardless of whether the transaction is effected). This exclusion does not apply in the case of a branch which makes arrangements for its head office, or any other branch of the same legal entity as itself, to enter into a transaction as provided under Rule 2.9.1(1).
+
+2.9.3 A Person does not Arrange Deals in Investments merely by providing means by which one party to a transaction is able to communicate with other such parties.
+
+2.9.4 A Person does not Arrange Deals in Investments by making arrangements under which another Person accepts or is to accept an instrument creating or acknowledging indebtedness in respect of any loan, credit, guarantee or other similar financial accommodation which he or his principal has made or provided.
+
+2.9.5 A Person does not Arrange Deals in Investments merely by making arrangements having as their sole purpose the provision of finance to enable a Person to buy, sell, subscribe for or underwrite Investments or Crypto Tokens.
+
+2.9.6 A Person does not Arrange Deals in Investments by making arrangements for
+
+the issue or redemption of Securities or Crypto Tokens issued by it.
+
+2.9.7 A Person does not Arrange Deals in Investments if the activity:
+
+(a)
+
+is carried on in the course of providing legal or accountancy services, which do not otherwise consist of the carrying on of Financial Services;
+
+(b)
+
+may reasonably be regarded as a necessary part of any other services provided in the course of providing legal or accountancy services;
+
+(c)
+
+is not remunerated separately from the other services; and
+
+(d)
+
+in the case of a contract of Long-Term Insurance, does not assist in the conclusion or performance of the contract.
+
+2.9.8 An Exchange does not make arrangements referred to in Rule 2.9.1(1), merely by making arrangements for, or taking steps that facilitate, another Person to act as Central Counterparty to transactions entered into on a facility operated by the Exchange.
+
+20
+
+GEN/VER67/03-25
+
+GENERAL (GEN)
+
+2.9.9 A Crowdfunding Operator does not Arrange Deals in Investments to the
+
+extent that it Operates an Investment Crowdfunding Platform.
+
+Guidance
+
+1.
+
+Rule 2.9.2 excludes the activities of a party to a transaction from being ‘arranging’. This is because a person cannot be both a party to a transaction, and its arranger.
+
+2. Where a Person (an arranger) makes arrangements in the DIFC for another Person to obtain dealing services (e.g. broking services) from its head office, the arranger is not regarded as ‘Dealing in Investments as Agent’ in the DIFC merely because it is the same legal entity as its head office. However, to be able to do so without breaching the Financial Services Prohibition, the arranger would need to have an Authorisation for ‘Arranging Deals in Investments’. It would also need to take care not to conduct activities that go beyond ‘arranging’ (see Guidance under Rule 2.9.1 for activities which constitute arranging). Rule 2.9.3 excludes providers of means by which one party to a transaction (or potential transaction) communicates with the other contracting parties, from being arrangers. Communication channel providers, such as internet or telecommunication network providers, are excluded from being arrangers under this exclusion. However, if such a provider goes beyond being a ‘mere’ communication channel provider, for example, by adding

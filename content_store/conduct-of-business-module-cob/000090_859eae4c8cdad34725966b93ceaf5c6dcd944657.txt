@@ -1,0 +1,147 @@
+, insurance and taxation costs and how they will be paid for; and
+
+(h)
+
+the term of the investment, what happens at the end of the term, the circumstances, if any, in which the property may be sold before the end of the term and whether the term may be extended.
+
+Operator not to provide both regulated and unregulated crowdfunding services
+
+11.3.4 An operator must ensure that it does not provide both regulated and unregulated
+
+crowdfunding services.
+
+Guidance
+
+Some crowdfunding services may not need to be authorised e.g. reward or donation crowdfunding that do not involve an Investment or loan or other services carried on with Persons in certain jurisdictions. An operator needs to ensure that it does not provide both regulated and unregulated crowdfunding services from the same legal entity. If it wishes to provide unregulated crowdfunding services, it should do so using a separate legal entity. This removes any risk that Clients of the Authorised Firm will not understand that parts of the service are unregulated.
+
+Crowdfunding due diligence
+
+11.3.5 An operator must not permit a borrower or an Issuer to use its service unless the
+
+borrower or Issuer is a Body Corporate.
+
+Guidance
+
+This Rule does not apply to the seller of a property using a Property Investment Crowdfunding Platform who may be a natural person, body corporate, partnership or other entity.
+
+11.3.6
+
+(1) An operator must conduct due diligence on each borrower, Issuer or seller
+
+before allowing it to use its service.
+
+(2) For Loan Crowdfunding or Investment Crowdfunding, the due diligence under (1) must include, as a minimum, taking reasonable steps to verify in relation to the borrower or Issuer:
+
+(a)
+
+its identity, registration;
+
+including details of
+
+its
+
+incorporation and business
+
+134
+
+COB/VER48/03-25
+
+CONDUCT OF BUSINESS (COB)
+
+(b)
+
+the identity and place of domicile of each of its directors, officers and controllers;
+
+(c)
+
+its fitness and propriety and that of each of the Persons referred to in (b);
+
+(d)
+
+its financial strength, including checking financial statements;
+
+(e)
+
+its financial history and past performance and its credit history, including checking with external credit agencies;
+
+(f)
+
+any credentials or expertise it claims to have;
+
+(g)
+
+the valuation of its business, current borrowing or funding levels (if any) and the source of any existing borrowing or funding;
+
+(h)
+
+its business proposal;
+
+(i)
+
+its commitment and that of its directors, officers and controllers to the business, including how much capital they have provided and any potential flight risk; and
+
+(j)
+
+that its business is being carried on in accordance with applicable laws in the jurisdiction where it is based.
+
+(3) For Property Investment Crowdfunding, the due diligence under (1) must
+
+include, as a minimum, taking reasonable steps to verify:
+
+(a)
+
+the identity of the seller, including, if it is a Body Corporate, details of its incorporation and business registration;
+
+(b)
+
+the condition of the property;
+
+(c)
+
+that the seller holds valid legal title to the property and is able to sell the property free of any encumbrance;
+
+(d)
+
+that construction of the property has been completed; and
+
+(e)
+
+whether the property is let or in a lettable condition and, if it requires renovation or other work before it can be let, whether planning permission for the renovation or other work can be readily obtained.
+
+Guidance
+
+1.
+
+The type of background checks the DFSA expects an operator to conduct under Rule 11.3.6(2)(c) include, for example, whether the Person has been:
+
+a.
+
+found guilty of a criminal offence;
+
+b.
+
+the subject of any finding in a civil proceeding of fraud, misfeasance or other misconduct;
+
+c.
+
+the subject of a judgment or agreed settlement in a civil proceeding exceeding $10,000;
+
+135
+
+COB/VER48/03-25
+
+11.3.7
+
+CONDUCT OF BUSINESS (COB)
+
+d.
+
+disqualified from acting as a director or taking part in the management of a company; or
+
+e.
+
+bankrupt or the director, or a person concerned in the management, of a company which has gone into liquidation or administration.
+
+2.
+
+The purpose of the due diligence under Rule 11.3.6(2)(j) is to check that the business itself is lawful in the place in which it is

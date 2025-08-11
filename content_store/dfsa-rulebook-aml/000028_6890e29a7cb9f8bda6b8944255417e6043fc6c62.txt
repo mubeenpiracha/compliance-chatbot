@@ -1,0 +1,109 @@
+Guidance
+
+1.
+
+In Rule 7.6.2, a “relevant sanctions list” may include U.A.E, EU, U.K. HM Treasury, U.S. OFAC lists and any other list which may apply to a Relevant Person.
+
+2.
+
+A Relevant Person should also be aware of its obligations under Article 21 of Cabinet Decision No. 74 of 2020, which include the obligations to register with the Executive Office for Control and Non-Proliferation (EOCN), screen its databases and transactions, apply or cancel freezing orders, report to regulatory authorities, set-up internal controls and procedures, establish and implement policies and cooperate with the EOCN and regulatory authorities.
+
+Failure to conduct or complete customer due diligence
+
+(1) Where, in relation to any customer, a Relevant Person is unable to conduct or complete the requisite Customer Due Diligence in accordance with Rule 7.1.1 it must, to the extent relevant:
+
+(a)
+
+not carry out a transaction with or for the customer through a bank account or in cash;
+
+(b)
+
+not open an account or otherwise provide a service;
+
+(c)
+
+not otherwise establish a business relationship or carry out a transaction;
+
+(d)
+
+terminate or suspend any existing business relationship with the customer;
+
+(e)
+
+return any monies or assets received from the customer; and
+
+(f)
+
+consider whether the inability to conduct or complete Customer Due Diligence necessitates the making of a Suspicious Activity Report under Rule 13.3.1(c).
+
+41
+
+AML/VER27/03-25
+
+Anti-Money Laundering, Counter-Terrorist Financing and Sanctions Module (AML)
+
+(2) A Relevant Person is not obliged to comply with (1) (a) to (e) if:
+
+(a)
+
+to do so would amount to “tipping off” the customer, in breach of Federal AML legislation; or
+
+(b)
+
+the FIU directs the Relevant Person to act otherwise.
+
+Guidance
+
+1.
+
+In complying with Rule 7.7.1(1) a Relevant Person should apply one or more of the measures in (a) to (f) as appropriate in the circumstances. Where CDD cannot be completed, it may be appropriate not to carry out a transaction pending completion of CDD. Where CDD cannot be conducted, including where a material part of the CDD, such as identifying and verifying a Beneficial Owner cannot be conducted, a Relevant Person should not establish a business relationship with the customer.
+
+2.
+
+A Relevant Person should note that Rule 7.7.1 applies to both existing and prospective customers. For new customers it may be appropriate for a Relevant Person to terminate the business relationship before a product or service is provided. However, for existing customers, while termination of the business relationship should not be ruled out, suspension may be more appropriate depending on the circumstances. Whichever route is taken, the Relevant Person should be careful not to tip off the customer.
+
+3.
+
+A Relevant Person should adopt the RBA for CDD of existing customers. For example, if a Relevant Person considers that any of its existing customers (which may include customers which it migrates into the DIFC) have not been subject to CDD at an equivalent standard to that required by this module, it should adopt the RBA and take remedial action in a manner proportionate to the risks and within a reasonable period of time whilst complying with Rule 7.7.1.
+
+42
+
+AML/VER27/03-25
+
+8
+
+8.1
+
+8.1.1
+
+Anti-Money Laundering, Counter-Terrorist Financing and Sanctions Module (AML)
+
+RELIANCE AND OUTSOURCING
+
+Reliance on a third party
+
+(1) A Relevant Person may rely on the following third parties to conduct one or
+
+more elements of Customer Due Diligence on its behalf:
+
+(a)
+
+an Authorised Person;
+
+(b)
+
+a law firm, notary, or other independent legal business, accounting firm, audit firm or insolvency practitioner or an equivalent person in another jurisdiction;
+
+(c)
+
+a Financial Institution; or
+
+(d)
+
+a member of the Relevant Person’s Group.
+
+(2)
+
+In (1), a Relevant Person may rely on the information previously obtained by a third party which covers one or more elements of Customer Due Diligence.
+
+(3) Where a Relevant Person seeks to rely on a person in (1) it

@@ -1,0 +1,131 @@
+ authorisations required to enable the business to be transferred to be carried on in the same manner by the transferee;
+
+(b)
+
+has adequate financial resources to carry on the business in accordance with the governing law of the jurisdiction to which it is to be transferred (if applicable).
+
+91. Modifications
+
+The Regulator may by Rules modify any provision in this Chapter where necessary for the purpose of furthering one or more of its objectives.
+
+Part 8 Market Abuse
+
+Market abuse
+
+92. Market abuse38
+
+(1)
+
+For the purposes of these Regulations, Market Abuse is Behaviour (whether by one person alone or by two or more persons jointly or in concert) which—
+
+(a)
+
+occurs in relation to—
+
+(i)
+
+Financial Instruments admitted to trading on a—
+
+(A)
+
+Prescribed Market; or
+
+(B)
+
+a similar market or trading venue situated inside or outside the Abu Dhabi Global Market and accessible electronically, or otherwise, from within the Abu Dhabi Global Market;39
+
+(ii)
+
+Financial Instruments in respect of which a request for admission to trading on such a market has been made;
+
+(iii)
+
+in the case of subsection (2) or (3) Behaviour, instruments which are Related Instruments in relation to such Financial Instruments; or
+
+38 Amended 25 June 2018, 17 February 2020 and 20 September 2022.
+
+39 Amended 21 February 2018.
+
+52
+
+(iv)
+
+an Accepted Virtual Asset admitted to trading on a Multilateral Trading Facility, an Accepted Spot Commodity admitted to trading on a Prescribed Market or any other investments as specified by the Regulator admitted to trading on an Organised Trading Facility; and
+
+(b)
+
+falls within any one or more of the types of Behaviour set out in subsections (2) to (6).
+
+(2)
+
+The first type of Behaviour is where an Insider deals, or attempts to deal, in a Financial Instrument, Related Instrument, an Accepted Virtual Asset or an Accepted Spot Commodity on the basis of Inside Information relating to the Financial Instruments, Related Instruments, Accepted Virtual Assets or Accepted Spot Commodities in question.
+
+(3)
+
+The second is where an Insider discloses Inside Information to another person otherwise than in the proper course of the exercise of his employment, profession or duties.
+
+(4)
+
+The third is where the Behaviour consists of effecting transactions or orders to trade (otherwise than for legitimate reasons and in conformity with Accepted Market Practices on the relevant market) which—
+
+(a)
+
+give, or are likely to give, a false or misleading impression as to the supply of, or demand for, or as to the price of, one or more Financial Instruments, Accepted Virtual Assets or Accepted Spot Commodities; or
+
+(b)
+
+secure the price of one or more such instruments at an abnormal or artificial level.
+
+(5)
+
+The fourth is where the Behaviour consists of effecting transactions or orders to trade which employ fictitious devices or any other form of deception or contrivance.
+
+(6)
+
+The fifth is where the Behaviour consists of the dissemination of information by any means which gives, or is likely to give, a false or misleading impression as to a Financial Instrument, an Accepted Virtual Asset or an Accepted Spot Commodity by a person who knew or could reasonably be expected to have known that the information was false or misleading.
+
+93.
+
+Supplementary provision about certain Behaviour40
+
+(1)
+
+Behaviour is to be taken into account for the purposes of this Part only if it occurs—
+
+(a)
+
+in the Abu Dhabi Global Market; or
+
+(b)
+
+in relation to41—
+
+40 Amended 20 September 2022.
+
+41 Amended 25 June 2018 and 17 February 2020.
+
+53
+
+(i)
+
+Financial Instruments which are admitted to trading on a Prescribed Market situated in, or operating in, the Abu Dhabi Global Market;
+
+(ii)
+
+Financial Instruments for which a request for admission to trading on such a Prescribed Market has been made; or
+
+(iii)
+
+Accepted Virtual Assets admitted to trading on a Multilateral Trading Facility, or Accepted Spot Commodities admitted to trading on a Prescribed Market.
+
+(2)
+
+For the purposes of section 92(6), the dissemination of information by a person acting in the capacity of a journalist is to be assessed taking into account the codes governing his profession unless he derives, directly or indirectly, any advantage or profits from the dissemination of the information.
+
+(3)
+
+Behaviour does not amount to Market Abuse for the purposes of these Regulations if—
+
+(a)
+
+it

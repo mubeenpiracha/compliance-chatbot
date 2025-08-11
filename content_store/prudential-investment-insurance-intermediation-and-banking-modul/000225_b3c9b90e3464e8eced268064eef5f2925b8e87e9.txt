@@ -1,0 +1,131 @@
+Remai n-ing 300 long carried
+
+>6 months < 1 year
+
+>1 year < 2 years
+
+400 short
+
+Nothing matched
+
+400 matched
+
+100 long remains unmatched
+
+>2 years < 3 years
+
+200 long carried
+
+> 3 years
+
+200 long
+
+Nothing matched
+
+Spread charges 800x$20x1.5% + 400x $20x1.5% = $360
+
+Carry charges 300x$20x0.6%x3 + 200x$20x0.6%x2 = $156
+
+Outright charge 100x$20x15% = $300
+
+Total
+
+$816
+
+Simplified Approach
+
+A5.5.6 An Authorised Firm using the Simplified Approach to calculate the Commodities Risk
+
+Capital Requirement must sum:
+
+344
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+(a)
+
+15% of the net position multiplied by the spot price for the commodity; and
+
+(b)
+
+3% of the gross position (long plus short, ignoring the sign) multiplied by the spot price of the commodity.
+
+A5.6 Option Risk Capital Requirement
+
+Guidance
+
+Section A5.6 presents the method for the calculation of Option Risk Capital Requirement for the purpose of Rule 5.8.1(b).
+
+A5.6.1 An Authorised Firm which calculates its Option Risk Capital Requirement in
+
+accordance with Rule 5.8.1(b) must apply the Rules in this section.
+
+Calculation of Option Risk Capital Requirement
+
+A5.6.2 (1)
+
+An Authorised Firm may use the Simplified Approach set out in Rule A5.6.3 to calculate its Option Risk Capital Requirement only if:
+
+(a)
+
+it does not write options; or
+
+(b) where it writes options, all written options are hedged by perfectly
+
+matched long positions in exactly the same options.
+
+(2)
+
+An Authorised Firm which writes options must, unless (1) applies, use the advanced approach known as the Delta-plus method set out in Rule A5.6.5 to calculate its Option Risk Capital Requirement.
+
+Simplified Approach
+
+A5.6.3 An Authorised Firm using the Simplified Approach must treat the positions for the options and the associated underlying instrument, cash or forward, and calculate the capital charge for each position, by reference to the following table:
+
+Position
+
+Treatment
+
+Long cash and long put or short cash and long call.
+
+The capital charge is the market value of the underlying instrument multiplied by the sum of Specific and General Market Risk percentages for the underlying Instrument less the amount the option is in the money, if any, bounded at zero.
+
+Long call or long put.
+
+The capital charge will be the lesser of:
+
+the market value of
+
+the underlying instrument multiplied by the sum of Specific and General Market Risk percentages underlying instrument; or
+
+for
+
+the
+
+the market value of the options.
+
+345
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+Guidance
+
+As an example of how the calculation would work, if a holder of 100 shares currently valued at $10 each holds an equivalent put option with a strike price of $11, the capital charge would be: $1,000 x 16% (i.e., 8% specific plus 8% General Market Risk) = $160, less the amount the option is in the money ($11– $10) x 100 = $100, i.e., the capital charge would be $60. A similar methodology applies for options whose underlying instrument is a Foreign Currency, an interest rate related instrument or a commodity.
+
+A5.6.4 (1)
+
+For the purposes of Rule A5.6.3, the Specific Risk percentage for:
+
+(a) a currency option is 8%; and
+
+(b) an option on commodities is 15%.
+
+(2)
+
+For the purposes of Rule A5.6.3, in the case of an option with a residual maturity of more than six months, the strike price must be compared with the forward, not current price, or if the Authorised Firm is unable to do this, then the money amount must be taken to be zero.
+
+Delta-plus

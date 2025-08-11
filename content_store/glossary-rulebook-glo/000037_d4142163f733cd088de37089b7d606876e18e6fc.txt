@@ -1,0 +1,130 @@
+
+
+Defined Terms
+
+Restricted Scope Company
+
+Restriction Agreement
+
+Restriction Period
+
+Retail Client
+
+Retail Debenture or Sukuk
+
+Retakaful
+
+Reverse Takeover
+
+Rules
+
+Rulebooks
+
+Safe Custody Asset
+
+Safe Custody Auditor's Report
+
+Definitions
+
+Has the meaning given in section 3(4) of the Companies Regulations.
+
+Means an agreement in the form set out in MKT Form 9-1.
+
+Means the specified time during which Restricted Securities are subject to a Restriction Agreement and cannot be disposed of by the Security Holder and/or Controller.
+
+Means a Client specified under COBS 2.3.
+
+Means any Debenture or Sukuk with an Offer allowing for a denomination of US$100,000 or less, not including when the Offer of such Securities is only made by way of an Exempt Offer.
+
+Means reinsurance cover provided in respect of Takaful cover in accordance with Shari'a.
+
+Means a Takeover where a Listed Entity is proposing to acquire Securities over another body and the aggregate number of Equity Securities issued or to be issued by the Listed Entity:
+
+(a)
+
+under the Takeover; and/or
+
+(b)
+
+to fund the cash consideration payable under the Takeover,
+
+is equal to or greater than the number of fully paid Ordinary Securities on issue in the Listed Entity at the date of disclosure of the Takeover. Separate issues may be aggregated if, in the opinion of the Regulator, they form part of the same commercial transaction.
+
+Means Rules made by the Regulator or the ADGM Board, as applicable, in accordance with Part 2 of FSMR.
+
+Means the collection of Rules made by the Regulator or the ADGM Board as applicable, in a single body of work, comprising GLO, GEN, PRU, PIN, MIR, AML, MKT, COBS, FUNDS, CIB, IFR and FEES.
+
+Means:
+
+(a)
+
+a designated Client Investment, which is not the property of the Authorised Person, which is held or to be held for safekeeping by an Authorised Person or Third-Party Agent; or
+
+(b)
+
+a Reserve Investment.
+
+Means a report referred to in GEN 6.6.1(d) and containing the information specified in GEN 6.6.7.
+
+74
+
+GLO VER23.290725
+
+Defined Terms
+
+Definitions
+
+Safe Custody Rules
+
+Means the Rules in COBS 15.
+
+Salam
+
+Means a contract where the payment for goods is made in advance with such goods to be delivered at a later date.
+
+SAMREC Code
+
+Means the South African Code for the Reporting of Exploration Results, Mineral Resources and Mineral Reserves (the SAMREC Code), 2016, and available as specified at: www.samcode.co.za, or as amended or updated.
+
+SAMVAL Code
+
+Means the South African Code for Reporting of the Mineral Asset Valuation (the SAMVAL Code), 2016, and available as specified at: www.samcode.co.za, or as amended or updated.
+
+Sanctions
+
+Means any law executing foreign policy, security, sanction, trade embargo, or anti-terrorism objectives or similar restrictions imposed, administered or enforced from time to time by: (i) the UAE; (ii) the United Nations Security Council; (iii) the European Union; (iv) H.M. Treasury of the United Kingdom; (v) the Office of Foreign Assets Control (OFAC) of the U.S. Department of the Treasury; (vi) any other relevant governmental authority; or (vii) any of their successors.
+
+Sanctions List
+
+Means any official list of Persons or entities targeted by Sanctions from time to time.
+
+Scoping Study
+
+Has the meaning of the term or equivalent terms in a Mining Reporting Standard.
+
+SEC
+
+Means the Securities and Exchange Commission (SEC) of the United States of America.
+
+Securities Note
+
+Means, in relation to a Prospectus structured as multiple documents, the document referred to in MKT 4.5.1(3)(c).
+
+Security
+
+Has the meaning given in section 258 of FSMR.
+
+Security Holder
+
+Means a holder of Securities in a Listed Entity.
+
+Security Purchase Plan Means a program that enables individual investors to purchase a
+
+Listed Entity’s Equity Securities direct from the Listed Entity.
+
+Senior Executive Officer Means, in relation to an Authorised Person, the Controlled Function
+
+described in GEN 5.3.2.
+
+Senior Management
+

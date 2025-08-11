@@ -1,0 +1,117 @@
+ in managing country risk and transfer risk.
+
+74. When setting country or regional limits, an Authorised Person should consider:
+
+a.
+
+the macroeconomic circumstances prevailing in the country of region, including its:
+
+(i)
+
+external financial condition i.e., its capacity to fulfil its financial commitments. This will include consideration of indicators such as total debt, foreign debt, maturity profile of debt, debt service as a percentage of its gross domestic product, exports, international reserves, amongst other indicators;
+
+(ii)
+
+sources of and access to funding whether through voluntary markets, bilaterally or through multilateral organisations, including any sovereign or other guarantees;
+
+(iii) macroeconomic conditions, including consideration of indicators such as a country’s gross domestic product and its growth, inflation rate, tax conditions, investment and savings trends, balance of
+
+271
+
+PRU VER17.290725
+
+payments, restrictions on capital flows, and the condition of its financial sector, amongst other indicators; and
+
+(iv)
+
+the credit ratings of the country;
+
+b.
+
+the political, social and institutional conditions prevailing in the country, or the wider region if relevant, that could jeopardise its stability;
+
+c.
+
+the transfer risks associated with any particular country or region;
+
+d.
+
+the type and maturity of business undertaken by the Authorised Person in a particular country or region; and
+
+e.
+
+the Authorised Person's existing concentration of country or regional risk.
+
+75.
+
+The Senior Management of an Authorised Person, including its risk management and/or compliance functions, is responsible for the development and implementation of its country risk and transfer risk management policies and procedures, and providing the results of such efforts to its Governing Body with appropriate details and frequency. The Governing Body of the Authorised person must ensure the adequacy and proportionality of the country risk and transfer risk policy and its implementation, including reviewing the exposure limits set therein and the methodology and/or results of stress testing etc. Independent audit functions within the Authorised Person must have unrestricted access to relevant resources and the information used to assess and implement country risk and transfer risk management policies and procedures.
+
+Provisioning
+
+76.
+
+Depending upon the nature of the Authorised Person and its business, the Authorised Person's provisioning policy should set out:
+
+a.
+
+who has responsibility for reviewing the provisioning policy and approving any changes;
+
+b.
+
+how frequently the policy should be reviewed;
+
+c.
+
+when the review will take place, including the circumstances in which a review might be more frequent;
+
+d.
+
+who has primary responsibility for ensuring the provisioning policy remains appropriate, including any division of responsibilities;
+
+e.
+
+the areas of its business to which the provisioning policy relates - it should include both on balance sheet and off balance sheet Exposures and assets;
+
+f.
+
+where it takes different approaches to different lines of its business and the key features of those differences;
+
+272
+
+PRU VER17.290725
+
+g.
+
+h.
+
+i.
+
+j.
+
+k.
+
+l.
+
+m.
+
+n.
+
+o.
+
+p.
+
+who has responsibility for monitoring its asset portfolio on a regular basis in order to identify problem or potential problem Exposures and the factors it takes into account in identifying them;
+
+whether a loan grading system or a watch or problem list is used and, in the latter case, the criteria for adding an asset to or taking an asset off that list;
+
+the extent to which the value of any Collateral, guarantees or insurance which the Authorised Person holds affects the need for or size of provision;
+
+on what basis the Authorised Person makes its provisions, including the extent to which the level of provisioning is left to managerial judgement or to a committee or involves specified formulae and the methodologies or debt management systems and other formulae used to determine provisioning levels for different business lines and the factors applied within these methodologies;
+
+is responsible for ensuring that the Authorised Person's who provisioning policy is being implemented properly, and the measures the Authorised Person has in place if its provisioning polices are not adhered to;
+
+who is responsible for the regular reviews of the Authorised Person's specific and general provisions and who decides whether provision levels are satisfactory. The reviews should take account of changes in the status of the Exposures and potential losses and changes in the conditions associated with them;
+
+the reports used to enable management to ensure that the Authorised Person's provisioning levels remain satisfactory, the frequency and purpose of those reports and their circulation;
+
+the procedures for recovering Exposures in arrears or Exposures which have had provisions made against them,

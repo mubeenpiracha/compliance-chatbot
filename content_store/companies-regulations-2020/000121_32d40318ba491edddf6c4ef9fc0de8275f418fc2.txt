@@ -1,0 +1,123 @@
+ would have the effect of requiring notice of termination to be received by the company or another person earlier than the following time–
+
+(a)
+
+in the case of a meeting or adjourned meeting, 48 hours before the time for holding the meeting or adjourned meeting,
+
+(b)
+
+in the case of a poll taken more than 48 hours after it was demanded, 24 hours before the time appointed for the taking of the poll,
+
+(c)
+
+in the case of a poll taken not more than 48 hours after it was demanded, the time at which it was demanded.
+
+(7)
+
+In calculating the periods mentioned in subsections (3)(b) and (6) no account shall be taken of any part of a day that is not a working day.
+
+350. Saving for more extensive rights conferred by articles
+
+Nothing in sections 342 (rights to appoint proxies) to 349 (notice required of termination of proxy’s authority) prevents a company’s articles from conferring more extensive rights on members or proxies than are conferred by those sections.
+
+351. Resolution passed at adjourned meeting
+
+Where a resolution is passed at an adjourned meeting of a company, the resolution is for all purposes to be treated as having been passed on the date on which it was in fact passed, and is not to be deemed passed on any earlier date.
+
+352. Sending documents relating to meetings etc in electronic form
+
+(1) Where a company has given an electronic address in a notice calling a meeting, it is deemed to have agreed that any document or information relating to proceedings at the meeting may be sent by electronic means to that address (subject to any conditions or limitations specified in the notice).
+
+(2) Where a company has given an electronic address–
+
+(a)
+
+in an instrument of proxy sent out by the company in relation to the meeting, or
+
+(b)
+
+in an invitation to appoint a proxy issued by the company in relation to the meeting,
+
+it is deemed to have agreed that any document or information relating to proxies for that meeting may be sent by electronic means to that address (subject to any conditions or limitations specified in the notice).
+
+217
+
+(3)
+
+In subsection (2), documents relating to proxies include–
+
+(a)
+
+the appointment of a proxy in relation to a meeting,
+
+(b)
+
+any document necessary to show the validity of, or otherwise relating to, the appointment of a proxy, and
+
+(c)
+
+notice of the termination of the authority of a proxy.
+
+(4)
+
+In this section “electronic address” means any address or number used for the purposes of sending or receiving documents or information by electronic means.
+
+353. Application to class meetings
+
+(1)
+
+The provisions of this Chapter apply (with necessary modifications) in relation to a meeting of holders of a class of shares as they apply in relation to a general meeting.
+
+This is subject to subsections (2) to (3).
+
+(2)
+
+The following provisions of this Chapter do not apply in relation to a meeting of holders of a class of shares–
+
+(a)
+
+sections 320 (members’ power to require directors to call general meeting) to 322 (power of members to call meeting at company’s expense), and
+
+(b)
+
+section 323 (power of Court to order meeting).
+
+(3)
+
+The following provisions (in addition to those mentioned in subsection (2)) do not apply in relation to a meeting in connection with the variation of rights attached to a class of shares (a “variation of class rights meeting”)–
+
+(a)
+
+section 335 (quorum at meetings), and
+
+(b)
+
+section 338 (right to demand a poll).
+
+(4)
+
+The quorum for a variation of class rights meeting is–
+
+(a)
+
+for a meeting other than an adjourned meeting, two persons present holding at least one-third in number of the issued shares of the class in question (excluding any shares of that class held as treasury shares),
+
+(b)
+
+for an adjourned meeting, one person present holding shares of the class in question.
+
+(5)
+
+For the purposes of subsection (4), where a person is present by proxy or proxies, he is treated as holding only the shares in respect of which those proxies are authorised to exercise voting rights.
+
+(6)
+
+At a variation of class rights meeting, any holder of shares of the class in question present may demand a poll.
+
+(7)
+
+For the purposes of this section–
+
+(a)
+
+any amendment of a provision contained in a company’s articles for the variation of

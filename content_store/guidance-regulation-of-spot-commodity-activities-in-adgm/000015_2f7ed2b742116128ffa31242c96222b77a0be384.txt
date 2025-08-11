@@ -1,0 +1,29 @@
+ the reporting requirements imposed on RIEs, MTFs and OTFs in relation to Financial Instruments (pursuant to section 149 of FSMR), such entities are also required to report details of orders and transactions in Accepted Spot Commodities traded on their platforms. The FSRA expects these RIEs, MTFs and OTFs using Spot Commodities to report to the FSRA on both a real-time and batch basis. Auction Platforms
+
+83) Complementing the other activities offered by Spot Commodity trading venues, auction platforms can provide Spot Commodity market participants with a transparent platform to trade and price Spot Commodities for immediate delivery. The FSRA, therefore, may grant a stipulation allowing an Authorised Person (for the purposes of this paragraph, an RIE, MTF or OTF) to operate an Accepted Spot Commodity Auction Platform, upon being satisfied that the Authorised Person meets the requirements of COBS Rule 22.9. Settlement
+
+84) Two broad types of entities are able to provide Spot Commodity settlement facilities to RIEs, MTFs and OTFs, in accordance with MIR Rules 2.10, 3.8 and 4.3. In choosing an RCH or Spot Commodity Settlement Facility (SCSF) to utilise for custody operations (MIR 2.10) or settlement (MIR 3.8), an MTF or OTF can only use a proposed RCH or SCSF when the FSRA has been able to determine that the relevant settlement facility allows it to meet its MIR obligations. Recognised Investment Exchanges (RIEs)
+
+85) Subject to being granted a Recognition Order, RIEs operating within ADGM are Instruments (and Accepted Spot permitted Commodities, pending FSRA approval by way of stipulation in its Recognition Order). An RIE must demonstrate to the FSRA that it is able to meet the Recognition in Financial
+
+18
+
+VER02.181223
+
+Requirements as set out in MIR Chapters 2 and 3 before a Recognition Order can be granted. Once it has been granted, an RIE must continue to comply with the Recognition Requirements (contained within MIR Chapters 2 and 3) on an ongoing basis.
+
+86) As set out in paragraphs 76-78, an RIE may also operate an MTF or OTF, provided that its Recognition Order includes a stipulation permitting it to do so.
+
+Recognised Clearing Houses (RCHs)
+
+87) Subject to being granted a Recognition Order, RCHs operating within ADGM are permitted to settle different types of Financial Instruments (and Accepted Spot Commodities, pending FSRA approval by way of stipulation in its Recognition Order). An RCH must demonstrate to the FSRA that it is able to meet the Recognition Requirements as set out in MIR Chapters 2 and 4 before a Recognition Order can be granted. Once it has been granted, a RCH must continue to comply with the Recognition Requirements (contained within MIR Chapters 2 and 4) on an ongoing basis.
+
+88) RIEs, MTFs and OTFs operating within ADGM may engage the services of an RCH for the purposes of MIR Rules 2.10 and 3.8.
+
+Spot Commodity Settlement Facilities (SCSFs)
+
+89) For the purposes of this Guidance and distinct from RCHs, the FSRA will consider SCSFs suitable for the purposes of settlement (MIR Rule 3.8) of Spot Commodities. A SCSF, holding an FSP for Providing Custody, may provide settlement services in Spot Commodities for MTFs or OTFs (as applicable). Therefore, for the purposes of settlement of Spot Commodities, the arrangements that an MTF or OTF would normally have in place with a RCH can be met with suitable arrangements in place with an SCSF, if the requirements as described in this section are met.
+
+90) Pursuant to MIR Rule 3.8.1, MTFs/OTFs are required to have satisfactory arrangements for securing the timely discharge of the rights and liabilities of the parties to transactions taking place on its platform. MIR Rule 3.8.2 allows for a RCH or Remote Clearing House to be deemed as sufficient for the purposes of satisfying MIR Rule 3.8.1.
+
+91) Pursuant to

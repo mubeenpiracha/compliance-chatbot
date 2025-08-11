@@ -1,0 +1,155 @@
+
+
+(1)
+
+In undertaking Customer Due Diligence required by Rule 7.1.1(1)(a) a Relevant Person must:
+
+(a)
+
+identify the customer and verify the customer’s identity;
+
+(b)
+
+identify any Beneficial Owners of the customer and take reasonable measures to verify the identity of the Beneficial Owners, so that the Relevant Person is satisfied that it knows who the Beneficial Owners are;
+
+(c)
+
+if the customer is a legal person or legal arrangement, take reasonable measures to understand the nature of the customer’s business and its ownership and control structure; and
+
+(d)
+
+undertake on-going due diligence of relationship under Rule 7.6.1.
+
+the customer business
+
+(2)
+
+If a person (“A”) purports to act on behalf of the customer, the Relevant Person must, in addition to (1)(a):
+
+(a)
+
+verify that A is authorised to act on the customer’s behalf; and
+
+(b)
+
+identify A and verify A’s identity.
+
+(3) The verification under (1) and (2) must be based on reliable and independent
+
+source documents, data or information.
+
+Identifying and verifying the customer
+
+(1) For the purposes of Rule 7.3.1(1)(a), a Relevant Person must identify a customer and verify the customer’s identity in accordance with this Rule.
+
+(2)
+
+If a customer is a natural person, a Relevant Person must obtain and verify information about the person’s:
+
+(a)
+
+full name;
+
+(b)
+
+date of birth;
+
+(c)
+
+nationality;
+
+(d)
+
+legal domicile; and
+
+(e)
+
+current residential address (other than a post office box).
+
+(3)
+
+If a customer is a body corporate, the Relevant Person must obtain and verify:
+
+(a)
+
+the full name of the body corporate and any trading name;
+
+(b)
+
+the address of its registered office and, if different, its principal place of business;
+
+(c)
+
+the date and place of incorporation or registration;
+
+31
+
+AML/VER27/03-25
+
+7.3.3
+
+Anti-Money Laundering, Counter-Terrorist Financing and Sanctions Module (AML)
+
+(d) a copy of the certificate of incorporation or registration;
+
+(e)
+
+the articles of association or other equivalent governing documents of the body corporate; and
+
+(f)
+
+the full names of its senior management.
+
+(4)
+
+If a customer is a foundation, the Relevant Person must obtain and verify:
+
+(a) a certified copy of the charter and by-laws of the foundation or any other
+
+documents constituting the foundation; and
+
+(b) documentary evidence of the appointment of the guardian or any other
+
+person who may exercise powers in respect of the foundation.
+
+(5)
+
+If a customer is an express trust or other similar legal arrangement, the Relevant Person must obtain and verify:
+
+(a) a certified copy of the trust deed or other documents that set out the
+
+nature, purpose and terms of the trust or arrangement; and
+
+(b) documentary evidence of the appointment of the trustee or any other
+
+person exercising powers under the trust or arrangement.
+
+Guidance
+
+In complying with Rule 7.3.2(2)(a), a Relevant Person should include any current legally recognised name(s) as well as any previously recognised name(s).
+
+Identifying and verifying beneficial owners: body corporate
+
+(1)
+
+If a customer is a body corporate, a Relevant Person must identify and verify the Beneficial Owners under Rule 7.3.1(1)(b) in accordance with this Rule.
+
+(2)
+
+The Relevant Person must identify:
+
+(a)
+
+the natural persons who ultimately have a controlling ownership interest in the body corporate, whether legal or beneficial, direct or indirect; and
+
+(b)
+
+if there is any doubt about whether the natural persons identified under (a) exert control through ownership interests, or if no natural person exerts control through ownership interests, the natural persons exercising control of the body corporate through other means.
+
+(3)
+
+A Relevant Person does not have to identify an ownership interest under (2)(a) if, having regard to a risk-based assessment of the customer, it is reasonably satisfied that the ownership interest is minor and in the circumstances poses no or negligible risk of money laundering.
+
+(4)
+
+If a Relevant Person has exhausted all possible means but has not been able to identify the Beneficial Owners under (2), and provided it has no grounds for suspecting money laundering, it must treat the senior management of the body corporate as

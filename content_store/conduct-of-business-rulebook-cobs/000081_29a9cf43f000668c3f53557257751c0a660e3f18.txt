@@ -1,0 +1,103 @@
+ of these Rules;
+
+(b)
+
+be used only in relation to Payment Transactions; and
+
+(c)
+
+be used only for holding Relevant Money.
+
+19.7.3 No person other than the Payment Service Provider may have any interest in or right over the Relevant Money placed in a Payment Account in accordance with Rule 19.7.2, except as provided by these Rules.
+
+19.7.4 The Payment Service Provider must keep records of all Relevant Money segregated in
+
+accordance with Rule 19.7.2.
+
+19.7.5 A Payment Service Provider must maintain organisational arrangements sufficient to minimise the risk of any loss of Relevant Money through fraud, misuse, negligence or poor administration.
+
+19.8 Record keeping
+
+19.8.1 A Payment Service Provider must maintain relevant records of all Relevant Money received, including all records of agreements with Payment Service Users, and all Payment Transactions and keep those records for a period of at least six years from the date on which the record was created.
+
+19.9 Payment Accounts and outsourcing of operational functions
+
+19.9.1 Where a Payment Service Provider relies on a third party for the performance of operational functions it must take all reasonable steps to ensure that these Rules are complied with.
+
+Guidance
+
+GEN 3.3.31 and 3.3.32 and PRU 6.8 also govern outsourcing of functions and activities by an Authorised Person. A Payment Service Provider is required to comply with those Rules.
+
+131
+
+COBS VER19.290725
+
+19.10 Authorisation of Payment Transactions
+
+Consent and withdrawal of consent
+
+19.10.1 (1)
+
+A Payment Transaction is to be regarded as having been authorised by the Payer for the purposes of this Rule only if the Payer has given its consent to:
+
+(a)
+
+the execution of the Payment Transaction; or
+
+(b)
+
+the execution of a series of Payment Transactions of which that Payment Transaction forms part.
+
+(2)
+
+Such consent:
+
+(a)
+
+may be given before or, if agreed between the Payer and its Payment Service Provider, after the execution of the Payment Transaction;
+
+(b)
+
+must be given in the form, and in accordance with the procedure, agreed between the Payer and its Payment Service Provider; and
+
+(c)
+
+may be given via the Payee or a Payment Initiation Service Provider.
+
+(3)
+
+The Payer may withdraw its consent to an individual Payment Transaction at any time before the point at which the Payment Order can no longer be revoked under Rule 19.14.3.
+
+(4)
+
+Subject to Rule 19.14.3(2) and (3) concerning time limits, the Payer may withdraw consent to the execution of a series of Payment Transactions at any time with the effect that any future Payment Transactions previously consented to are not regarded as authorised for the purposes of this Chapter.
+
+Limits on the use of Payment Instruments and access to Payment Accounts
+
+19.10.2 (1) Where a specific Payment Instrument is used for the purpose of giving consent to the execution of a Payment Transaction, the Payer and its Payment Service Provider may agree on spending limits for any Payment Transactions executed through that Payment Instrument.
+
+(2)
+
+A Framework Contract may provide for the Payment Service Provider to have the right to stop the use of a Payment Instrument on reasonable grounds relating to the security of the Payment Instrument or the suspected unauthorised or fraudulent use of the Payment Instrument.
+
+(3)
+
+The Payment Service Provider must inform the Payer that it intends to stop the use of the Payment Instrument and provide its reasons for doing so, in the manner agreed between the Payment Service Provider and the Payer, before carrying out any measures to stop the use of the Payment Instrument, or, if not possible, as soon as reasonably possible thereafter.
+
+132
+
+COBS VER19.290725
+
+(4)
+
+The Payment Service Provider must immediately report any incident arising under (2) to the Regulator in such form as the Regulator may direct, and such report must include the details of the case and the reasons for taking action.
+
+(5)
+
+The Payment Service Provider must restore access to the Payment Account once the reasons for denying access no longer justify such denial of access.
+
+19.11 Obligations of the Payment Service Provider in relation to Payment Instruments
+
+19.11.1 (1)
+
+A Payment Service Provider issuing a Payment Instrument must ensure that the Personalised Security Credentials are not accessible to persons other than the Payment

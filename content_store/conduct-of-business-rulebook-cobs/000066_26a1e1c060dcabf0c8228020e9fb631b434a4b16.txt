@@ -1,0 +1,91 @@
+ to start producing or revising these documents.
+
+2. The contents of the documents that constitute the Resolution Pack should be reviewed periodically or where there is a material change in the matters they cover and updated appropriately, such as when reconciliations are undertaken in accordance with chapters 14, 15 or 17.
+
+16.2.2 [Deleted]
+
+16.2.3 [Deleted]
+
+16.2.4 An Authorised Person is required to retrieve the Resolution Pack only
+
+circumstances prescribed in Rule 16.2.6.
+
+16.2.5 For the purpose of this chapter, an Authorised Person will be treated as satisfying Rule 16.2.1 requiring it to include a document in its Resolution Pack if a member of that Authorised Person's Group includes that document in its own Resolution Pack, provided that:
+
+(a)
+
+that Group member is subject to Rule 16.2.6; and
+
+(b)
+
+the Authorised Person is still able to comply with Rule 16.2.6.
+
+16.2.6 In relation to each document in an Authorised Person's Resolution Pack an Authorised
+
+Person must:
+
+in the
+
+106
+
+COBS VER19.290725
+
+(a)
+
+put in place adequate arrangements to ensure that an administrator, receiver, trustee, liquidator or analogous officer appointed in respect of it or any material part of its property is able to retrieve each document as soon as practicable and in any event within forty-eight hours of that officer's appointment; and
+
+(b)
+
+ensure that it is able to retrieve each document as soon as practicable, and in any event within forty-eight hours, where it has taken a decision to do so or as a result of a request by the Regulator.
+
+16.2.7 Where documents are held by members of an Authorised Person's Group in accordance with Rule 16.2.5, the Authorised Person must have adequate arrangements in place with its Group members which allow for delivery of the documents within the timeframe referred to in Rule 16.2.6.
+
+16.2.8 For the purpose of Rule 16.2.6, the following documents and records must be retrievable
+
+immediately:
+
+(a)
+
+the document identifying the institutions referred to in Rule 16.3.1(b);
+
+(b)
+
+the document identifying individuals pursuant to Rule 16.3.1(d); and
+
+(c)
+
+the most recent reconciliations relating to Client Money, Relevant Money and Safe Custody Assets.
+
+16.2.9 Where an Authorised Person is reliant on the continued operation of certain systems for the provision of component documents in its Resolution Pack, it must have arrangements in place to ensure that these systems will remain operational and accessible to it after its insolvency.
+
+Guidance
+
+1. Contravention of either Rule 16.2.8 or 16.2.9 may be relied upon as tending to establish contravention of Rule 16.2.6.
+
+2. Where an Authorised Person anticipates that it might be the subject of an insolvency order, it is likely to have sought advice from an external adviser. The Authorised Person should make the Resolution Pack available promptly, on request, to such an adviser.
+
+16.2.10 [Deleted]
+
+16.2.11 [Deleted]
+
+16.2.12 An Authorised Person must ensure that it reviews the content of its Resolution Pack on an ongoing basis to ensure that it remains accurate. In relation to any change of circumstances that has the effect of rendering inaccurate, in any material respect, the content of a document specified in Rule 16.2.1, an Authorised Person must ensure that any inaccuracy is corrected promptly and in any event no more than five days after the change of circumstances arose.
+
+16.2.13 [Deleted]
+
+107
+
+COBS VER19.290725
+
+16.2.14 An Authorised Person may hold in electronic form any document in its Resolution Pack provided that it continues to be able to comply with Rule 16.2.6 in respect of that document.
+
+16.2.15 An Authorised Person must notify the Regulator in writing immediately if it has not
+
+complied with or is unable to comply with Rule 16.2.1.
+
+16.3 Core Content Requirements
+
+16.3.1 An Authorised Person must include within its Resolution Pack:
+
+(a)
+
+a master document containing information sufficient to

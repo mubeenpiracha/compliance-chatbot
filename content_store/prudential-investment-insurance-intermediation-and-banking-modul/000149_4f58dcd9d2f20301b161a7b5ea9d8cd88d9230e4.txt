@@ -1,0 +1,97 @@
+ Requirement;
+
+and
+
+c.
+
+its expectations regarding the potential duration of the situation.
+
+2.
+
+An Authorised Firm that makes a notification should discuss with the DFSA what, if any, further steps it should take to deal with the situation.
+
+224
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+10
+
+SUPERVISORY REVIEW AND EVALUATION PROCESSES
+
+Introduction
+
+Guidance
+
+1.
+
+This chapter deals with the regulatory requirements arising out of the need for Authorised Firms to carry out a self-assessment of their risk which can be reviewed and assessed by the regulator. This chapter details the Rules stipulating the need to complete internal risk assessments by Authorised Firms in defined frequencies and the DFSA’s role in reviewing the results of such assessments. In the case of Authorised Firms facing financial risks, the requirements in this chapter mandate completion of an internal capital adequacy assessment process. The DFSA will review the results of such internal risk assessments. This chapter also sets out how the DFSA may impose an additional capital requirement on a firm-specific basis in addition to the minimum requirement specified in chapter 3 of this module.
+
+2.
+
+Appendix 10 provides detailed Guidance on the various components of the supervisory review and evaluation process and explains the role of the different parties in completing the required processes.
+
+10.1 Application
+
+10.1.1 This chapter applies to an Authorised Firm in Category 1, 2 or 5.
+
+10.1.2 Where an Authorised Firm to which this chapter applies is part of a Financial Group, this chapter applies on a consolidated basis in relation to all the entities within the Financial Group.
+
+10.1.3
+
+In implementing the requirements prescribed in this chapter, an Authorised Firm must give due and appropriate regard to the provisions in App10.
+
+Guidance
+
+1.
+
+If an Authorised Firm is part of a Financial Group which is already subject to requirements similar to those prescribed in this chapter, the DFSA may consider a request for a waiver or modification in relation to the requirements of this chapter.
+
+2.
+
+In appropriate cases, the DFSA may use its supervisory powers to require an Authorised Firm in a Category not specified in Rule 10.1.1, to comply with requirements equivalent to one or more of those specified in this chapter.
+
+10.2 Overview
+
+Guidance
+
+1.
+
+These Rules are designed to implement key aspects of Pillar 2 of the revised framework of capital adequacy, commonly known as Basel III, published by the Basel Committee.
+
+Internal Risk Assessment Process (IRAP)
+
+2.
+
+An Authorised Firm in Category 1, 2 or 5 is required to carry out an IRAP. An IRAP is a comprehensive internal risk evaluation as detailed in section 10.3. More detail on the
+
+225
+
+PIB/VER50/07-25
+
+10.3
+
+10.3.1
+
+10.3.2
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+establishment of an IRAP and the manner of carrying out an IRAP assessment is provided in App10.
+
+Internal Capital Adequacy Assessment Process (ICAAP)
+
+3.
+
+An Authorised Firm in Category 1, 2 or 5 is also required to carry out an ICAAP as detailed in section 10.4. This process enables such an Authorised Firm to determine and maintain an adequate amount and quality of capital, relative to its risk profile. More detail on the establishment of an ICAAP and the manner of carrying out an ICAAP assessment is provided in App10.
+
+Supervisory Review and Evaluation Process (SREP)
+
+4.
+
+The documented results of IRAP and ICAAP assessments are required to be submitted to the DFSA. The DFSA then applies a process known as the SREP as detailed in section 10.5. As part of the SREP, the DFSA will evaluate the quality, completeness and consistency of the IRAP and, where applicable, the ICAAP of the Authorised Firm, to form a view on the overall risk profile of the firm and whether the capital held by the firm is sufficient to deal with the risks. More detail concerning the SREP is provided in App10.
+
+5.
+
+Following review of the IR

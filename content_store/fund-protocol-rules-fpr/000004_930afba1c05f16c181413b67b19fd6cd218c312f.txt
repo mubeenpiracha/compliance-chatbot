@@ -1,0 +1,123 @@
+ Qualified Investor classified as a Qualified Investor under (3) may withdraw his confirmation given to have decisions on behalf of him made by the Qualified Investor who is the primary account holder of the joint account. An Authorised Person must ensure that once such a withdrawal is made, the withdrawing individual is no longer classified as a Qualified Investor.
+
+Undertakings
+
+6
+
+FPR/VER1/02-19
+
+Register Passported Funds
+
+Retail Investor
+
+Unit
+
+Unitholder
+
+of
+
+FUND PROTOCOL RULES (FPR)
+
+(8) An undertaking is an "assessed" Qualified Investor if the undertaking:
+
+(a) has own funds or called up capital of at least US$1,000,000 (or an equivalent amount in another currency); and
+
+(b) appears, on reasonable grounds, to have sufficient experience and understanding of relevant financial markets, products or transactions and any associated risks.
+
+(9) An undertaking is an “assessed” Qualified Investor if the undertaking has a controller, holding company, a subsidiary or a joint venture partner which meets the requirement to be an “assessed” Qualified Investor under (1), (2) or (4), or a “deemed” Qualified Investor.
+
+(a) In relation to the DFSA, the register of Passported
+
+Funds maintained by the DFSA; and
+
+(b) In relation
+
+to another Authority, Passported Funds maintained by that Authority.
+
+the register of
+
+A Person who is not classified as a Qualified Investor
+
+A unit in or a share representing the rights or interests of a Unitholder in a Fund.
+
+In relation to a Fund, any holder of a Unit in the Fund or of any right or interest in such a Unit, and whose name is entered on the Fund’s register in relation to that Unit.
+
+7
+
+FPR/VER1/02-19
+
+2.
+
+2.1
+
+2.1.1
+
+2.1.2
+
+2.1.3
+
+2.1.4
+
+FUND PROTOCOL RULES (FPR)
+
+PASSPORTED FUNDS
+
+Passported Funds
+
+This section applies if the DIFC is the Home Jurisdiction or Host Jurisdiction of a Passported Fund.
+
+A Domestic Fund that is registered as a Passported Fund in accordance with these Rules must be either a Public Fund or a Private Fund.
+
+If a Passported Fund is a Private Fund, the Fund Manager, its Agent and any other Licensed Person may Promote the Units in the Fund only by way of private placement to Qualified Investors and if the initial subscription is not less than $50,000 (or its equivalent in another currency).
+
+If a Passported Fund is a Public Fund, the Fund Manager, its Agent and any other Licensed Person may Promote the Units in the Fund to Retail Investors and Qualified Investors.
+
+Guidance
+
+A Public Fund as defined in these Rules corresponds to a Public Fund under CIR and a Private Fund as defined in these Rules corresponds to an Exempt Fund or QIF under CIR.
+
+8
+
+FPR/VER1/02-19
+
+3
+
+3.1
+
+3.1.1
+
+3.1.2
+
+3.1.3
+
+FUND PROTOCOL RULES (FPR)
+
+PROCEDURE FOR NOTIFICATION
+
+Notification for Private Funds
+
+This section applies if the DFSA is the Home Regulator of a Private Fund.
+
+If the Fund Manager of a Private Fund wishes to use the passporting procedures under these Rules, it must notify the DFSA of its intention that the Private Fund be a Passported Fund.
+
+The notice referred to in Rule 3.1.2 must:
+
+(a)
+
+be in such form as the DFSA may from time to time determine;
+
+(b)
+
+identify the one or more Host Jurisdictions in which the Private Fund will be Promoted;
+
+(c)
+
+identify the Agents (if any) that will conduct the Promotion of the Private Fund;
+
+(d)
+
+include a copy of the offering document containing a disclaimer to the following effect:
+
+“This Prospectus relates to a DIFC Fund in accordance with the Collective Investment Law 2010 and Rules of the Dubai Financial Services Authority (“DFSA”).
+
+The DFSA has no responsibility for reviewing or verifying any Prospectus or other documents in connection with this Domestic Fund. Accordingly, the DFSA has not approved this Prospectus or any other associated documents nor taken any steps to verify the information set out in this Prospectus, and has

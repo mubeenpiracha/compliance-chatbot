@@ -1,0 +1,120 @@
+(1) Without limiting the generality of its other powers, the DFSA may, subject only to (2), object to a Person as a Controller of an Authorised Market Institution where such a Person:
+
+(a)
+
+has acquired or increased the level of control that Person has in an Authorised Market Institution without the prior written approval of the DFSA as required under Rule 8.2.1;
+
+93
+
+AMI/VER28/03-25
+
+AUTHORISED MARKET INSTITUTIONS (AMI)
+
+(b)
+
+has breached the requirement in Rule 8.2.5 to comply with conditions of approval applicable to that Person; or
+
+(c)
+
+is no longer acceptable to the DFSA as a Controller.
+
+(2) Where the DFSA proposes to object to a Person as a Controller of an Authorised Market Institution, the DFSA must provide such a Person with:
+
+(a)
+
+a written notice stating:
+
+(i)
+
+the DFSA’s reasons for objecting to that Person as a Controller; and
+
+(ii)
+
+any proposed conditions subject to which that Person may be approved by the DFSA; and
+
+(b)
+
+an opportunity to make representations within 14 days of the receipt of such notice or such other longer period as agreed to by the DFSA.
+
+(3)
+
+The DFSA must, as soon as practicable after receiving representations, or if no representations are made, after the expiry of the period for making representations referred to in (2)(b), issue a final notice stating that:
+
+(a)
+
+the proposed objections and any conditions are withdrawn and the Person is an approved Controller; or
+
+(b)
+
+the Person is approved as a Controller subject to conditions specified in the notice; or
+
+(c)
+
+the Person is an unacceptable Controller and accordingly, must dispose of that Person’s holdings.
+
+(4) Where the DFSA has issued a final notice imposing any conditions subject to which a Person is approved as a Controller, that Person must comply with those conditions.
+
+(5) Where the DFSA has issued a final notice declaring a Person to be an unacceptable Controller that Person must dispose of the relevant holdings within such period as specified in the final notice.
+
+(6)
+
+If the DFSA decides to exercise its power under this Rule to object to a Person as a Controller, to impose conditions on an approval or to require a Person to dispose of their holdings, the Person may refer the matter to the FMT for review.
+
+94
+
+AMI/VER28/03-25
+
+9
+
+9.1
+
+9.1.1
+
+9.2
+
+9.2.1
+
+9.2.2
+
+9.3
+
+9.3.1
+
+9.4
+
+9.4.1
+
+AUTHORISED MARKET INSTITUTIONS (AMI)
+
+SUPERVISION OF AUTHORISED MARKET INSTITUTIONS
+
+Application
+
+This chapter applies to every Authorised Market Institution.
+
+Relations with regulators and the risk based approach
+
+An Authorised Market Institution must deal with regulatory authorities in an open and co-operative manner and keep the DFSA promptly informed of significant events or activities, wherever they are carried on, relating to the Authorised Market Institution, of which the DFSA would reasonably expect to be notified.
+
+An Authorised Market Institution must advise the DFSA immediately if it becomes aware, or has reasonable grounds to believe, that a significant breach of a Rule or Licensing Requirement by the Authorised Market Institution or any of its Employees may have occurred or may be about to occur.
+
+Notifications
+
+Unless otherwise provided, notifications in this section may be made orally or in writing, whichever is more appropriate in the circumstances, but where the Authorised Market Institution gives notice or information orally, it must confirm that notice or information in writing without delay.
+
+Key Individuals
+
+Notifications
+
+An Authorised Market Institution must, where an individual ceases or is reasonably likely to cease to be a Key Individual of the Authorised Market Institution, give written notice to the DFSA of that event and take prompt action to replace the Key Individual who has ceased to perform the relevant functions.
+
+Guidance
+
+1.
+
+An Authorised Market Institution must lodge with the DFSA the relevant applications for the approval of the proposed Key Individual in accordance with the requirements in section 3.3.
+
+2.
+
+An Authorised Market Institution should ensure that functions that are assigned to Key Individuals as per the definitions of those functions are carried out by the relevant Key Individuals or other individuals subject to appropriate oversight and control of the relevant Key Individuals.
+

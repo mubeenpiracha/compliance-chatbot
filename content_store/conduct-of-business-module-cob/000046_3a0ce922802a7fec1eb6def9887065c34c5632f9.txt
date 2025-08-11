@@ -1,0 +1,79 @@
+ trade in Restricted Speculative Investments with the Authorised Firm, provide that Retail Client with a risk warning, which states that:
+
+(a)
+
+the types of contracts which the Authorised Firm will be entering into with the person are complex financial instruments where the loss or profit of the person is determined by reference to the movement of the value or price of the underlying reference;
+
+(b)
+
+this type of trading in complex financial instruments has a high probability of the person losing money rapidly, particularly due to the gain or loss being leveraged, based on the fluctuation of the price of the underlying reference; and
+
+(c)
+
+before deciding to trade in a Restricted Speculative Investment, the person needs to consider carefully whether they understand how the Restricted Speculative Investments offered work, and whether they can afford to take the high risk of losing money.
+
+(2) The risk warning in (1) must be:
+
+(a)
+
+given in writing and in good time before the Authorised Firm opens an account for the Retail Client to trade in Restricted Speculative Investments; and
+
+(b)
+
+provided in a stand alone document and not be part of the Client Agreement or any other document provided to the Retail Client.
+
+(3) The warning:
+
+(a)
+
+in (1)(a) must include the type of Restricted Speculative Investment to which the warning relates (e.g. the type of leveraged contracts for
+
+65
+
+COB/VER48/03-25
+
+CONDUCT OF BUSINESS (COB)
+
+difference offered by the Authorised Firm) and the relevant underlying reference factor (e.g. the type of commodity, index, interest rate or exchange rate); and
+
+(b)
+
+in (1)(b) must, except as provided in (4), include the percentage of Restricted Speculative Investment accounts of Retail Clients that made a loss during the relevant period (relative to all Restricted Speculative Investment accounts of Retail Clients).
+
+(4) An Authorised Firm that is a start-up and is a member of a Group where one in Restricted Speculative or more Group Members conduct Investments with Retail Clients must, during the first 12 months of its business, include, for the purposes of (3)(b):
+
+trading
+
+(a)
+
+the percentage of Restricted Speculative Investment accounts of the Group Members’ Retail Clients that have made a loss during the relevant period (relative to all Restricted Speculative Investment accounts of Retail Clients in the Group); and
+
+(b)
+
+the percentage of Restricted Speculative Investment accounts of the Authorised Firm’s Retail Clients that made a loss for the period it has been in business (relative to all Restricted Speculative Investment accounts of Retail Clients).
+
+(5) For the purposes of (3)(b) and (4)(a), the “relevant period” is the period of
+
+twelve months before the date of the issue of the risk warning.
+
+(6) An Authorised Firm must provide to a Retail Client an update of the
+
+information required under (3)(b) and (4) at least on a quarterly basis.
+
+Guidance
+
+1.
+
+The provision of a risk warning in good time before opening an account for a Retail Client to trade in Restricted Speculative Investments under Rule 6.16.4(2) is intended to give a Retail Client sufficient time to consider the information in the risk warning and to be able to make an informed decision before agreeing to obtain the relevant service from the Authorised Firm.
+
+2.
+
+An Authorised Firm should be able to demonstrate that the risk warning required under Rule 6.16.4 has been provided to the Retail Client, for example, through a record of emails or other communications sent to the Retail Client (see also Rule 6.16.14).
+
+3.
+
+The ratio of Retail Client accounts that made a loss as against the Authorised Firm’s total number of accounts referred to in Rule 6.16.4(3)(b) and (4) should present a fair and balanced view of all the relevant retail accounts operated by the Authorised Firm or, where relevant, its Group members. The data should not be used on a selective basis to create a misleading impression (i.e. not cherry picked).
+
+4.
+
+For the purposes of calculating the losses of trading accounts under Rule 6.16.4(3)(b) and (4), an Authorised Firm needs to take into account all realised and unrealised profits and losses arising from trading in Restricted Speculative Investments, less fees and charges levied to the relevant account.

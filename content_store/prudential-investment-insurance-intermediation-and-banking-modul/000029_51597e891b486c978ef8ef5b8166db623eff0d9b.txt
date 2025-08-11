@@ -1,0 +1,101 @@
+ of the circumstances specified in COB Rule 6.11.4(a) to (c), 9/52.
+
+4.
+
+If an Authorised Firm’s Licence authorises it to Operate an Employee Money Purchase Scheme and it holds Client Assets in any of the circumstances specified in COB Rule 6.11.4(a) to (c), 18/52.
+
+If an Authorised Firm’s Licence authorises it to Operate an Employee Money Purchase Scheme or Provide Money Services (where it issues Stored Value) and it does not hold Client Assets in any of the circumstances specified in COB Rule 6.11.4(a) to (c), 13/52.
+
+6.
+
+If an Authorised Firm’s Licence authorises it to Act as the Administrator of an Employee Money Purchase Scheme, 18/52.
+
+Category 4
+
+1.
+
+If an Authorised Firm’s Licence authorises it to Operate a Crowdfunding Platform and it holds Client Money in any of the circumstances specified in COB Rule 6.11.4(a) to (c), 13/52.
+
+2.
+
+If an Authorised Firm’s Licence authorises it to Provide Money Services (where it only provides Money Transmission) and it holds Client Money in any of the circumstances specified in COB Rule 6.11.4(a) to (c), 18/52.
+
+3.
+
+If an Authorised Firm’s Licence authorises it to Provide Money Services (where it only provides Money Transmission) and it does not hold Client Money in any of the circumstances specified in COB Rule 6.11.4(a) to (c), 6/52.
+
+4.
+
+If an Authorised Firm’s Licence authorises it to Provide Insurance Intermediation or Insurance Management and it holds Insurance Monies, 9/52.
+
+43
+
+PIB/VER50/07-25
+
+3.7.3
+
+3.7.3A
+
+3.7.4
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+Annual Audited Expenditure
+
+(1)
+
+Subject to Rules 3.7.3A and 3.7.4, Annual Audited Expenditure constitutes all expenses and losses that arise in the Authorised Firm’s normal course of business in a twelve month accounting period (excluding exceptional items) which are recorded in the Authorised Firm’s audited profit and loss account, less the following items (if they are included in the Authorised Firm’s audited profit and loss account):
+
+(a)
+
+staff bonuses, except to the extent that they are non-discretionary;
+
+(b) employees’ and directors’ shares in profits, including share options,
+
+except to the extent that they are non-discretionary;
+
+(c)
+
+other appropriations of profits, except to the extent that they are automatic;
+
+(d)
+
+shared commissions and fees payable that are directly related to commissions and fees receivable, which are included with total revenue;
+
+(e)
+
+fees, brokerage and other charges paid to clearing houses, exchanges and intermediate brokers for the purposes of executing, registering or clearing transactions;
+
+(f)
+
+any expenses for which pre-payments or advances have already been made to the respective claimant (e.g. pre-paid rent, pre-paid communication charges etc.) and deducted from Capital Resources as illiquid assets;
+
+(g)
+
+charges for the amortisation of intangible assets;
+
+(h)
+
+charges for the depreciation of fixed assets;
+
+(i)
+
+foreign exchange losses; and
+
+(j)
+
+contributions to charities.
+
+(2)
+
+For the purposes of (1)(c), a management charge must not be treated as an appropriation of profits.
+
+If a Fund Manager uses a Fund Platform, the Annual Audited Expenditure of the Fund Manager is to be calculated as the aggregate of the expenses and losses of the Authorised Firm and the expenses and losses of the Incorporated Cell Company (the Fund Platform) calculated in accordance with Rule 3.7.4.
+
+(1)
+
+For the purposes of Rule 3.7.3, an Authorised Firm must calculate its relevant Annual Audited Expenditure with reference to the Authorised Firm’s most recent audited financial statements.
+
+(2)
+
+If the Authorised Firm’s most recent audited financial statements do not represent a twelve month accounting period, it must calculate its Annual Audited Expenditure on a pro rata basis so as to produce an equivalent annual amount

@@ -1,0 +1,111 @@
+ foreign bank. In such instances, the committed funding facility from the Parent entity must meet both of the following criteria:
+
+(a)
+
+the facility must be an irrevocable commitment and must be appropriately documented; and
+
+414
+
+PRU VER17.290725
+
+(b)
+
+the facility must be quantified.
+
+(2)
+
+A committed funding facility from a Parent entity referred to in (1) can be recognised as a cash inflow only from day 16 of the LCR scenario. The cash inflow from a Parent entity can be sufficient in size to cover only net cash outflows against items with a maturity or next call date between days 16 and 30 of the LCR.
+
+A10.2.18 The following table specifies, for each of the various categories and types of contractual receivables, the rates at which they are expected to flow in for the purpose of the calculation of the LCR.
+
+Cash Inflows
+
+Item
+
+Factor
+
+Maturing secured lending (including reverse repos and Securities borrowing), backed by the following as Collateral: • Level 1 HQLA • Level 2A HQLA
+
+0%
+
+15%
+
+Level 2B HQLA
+
+o Eligible RMBS o Other assets
+
+25%
+
+50%
+
+Margin lending backed by all other Collateral
+
+50%
+
+All other assets
+
+100%
+
+Credit or liquidity facilities provided to the reporting Authorised Person
+
+0%
+
+Operational Deposits held at other Financial Institutions (including Deposits held at centralised institution of network of co-operative banks)
+
+0%
+
+Other inflows by Counterparty:
+
+Amounts receivable from retail Counterparties
+
+50%
+
+Amounts receivable from non-financial wholesale Counterparties, from transactions other than those listed in the above inflow categories
+
+50%
+
+Amounts receivable from Financial Institutions and central banks, from transactions other than those listed in the above inflow categories
+
+100%
+
+Net Derivative receivables
+
+100%
+
+Other contractual cash inflows
+
+100%
+
+415
+
+PRU VER17.290725
+
+Guidance
+
+Maturing secured lending, including reverse repos and Securities borrowing
+
+1.
+
+An Authorised Person should assume that maturing reverse repurchase or Securities borrowing agreements secured by Level 1 HQLA will be rolled over and will not give rise to any cash inflows (zero %). Maturing reverse repurchase or Securities borrowing agreements secured by Level 2 HQLA should be modelled as cash inflows, equivalent to the relevant haircut for the specific assets. An Authorised Person is assumed not to roll-over maturing reserve repurchase or Securities borrowing agreements secured by non-HQLA assets and can assume it will receive 100% of the cash related to those agreements. Collateralised loans extended to customers for the purpose of taking leveraged trading positions, i.e. margin loans, should be modelled with a 50% cash inflow from contractual inflows made against non-HQLA Collateral.
+
+2.
+
+An exception to paragraph 1 is the situation where, if the Collateral obtained through reverse repo, Securities borrowing or Collateral swaps, which matures within the 30-day period, is re-used (i.e. rehypothecated) and is tied up for 30 days or longer to cover short positions. An Authorised Person should then assume that such reverse repo or Securities borrowing arrangements will be rolled over and will not give rise to any cash inflows (zero %), reflecting its need to continue to cover the short position or to repurchase the relevant Securities.
+
+3.
+
+An Authorised Person should manage its Collateral so that it is able to fulfil obligations to return Collateral whenever the Counterparty decides not to roll- over any reverse repo or Securities lending transaction. This is especially the case for non-HQLA Collateral, since such outflows are not captured in the LCR framework.
+
+Lines of credit
+
+4.
+
+Lines of credit, liquidity facilities and other contingent funding facilities that an Authorised Person holds at other institutions for its own purposes should be assumed to be able to be drawn and so such facilities should receive a zero % inflow rate.
+
+Inflows by Counterparty
+
+5.
+
+All inflows should be taken only at the latest possible date, based on the contractual rights available to Counterparties. Inflows from loans that have no specific maturity should not be included, with the exception of minimum payments of principal, fee or interest associated with an open maturity loan.
+
+6

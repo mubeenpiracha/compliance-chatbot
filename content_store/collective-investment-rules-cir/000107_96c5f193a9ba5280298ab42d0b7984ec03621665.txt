@@ -1,0 +1,57 @@
+. These key elements could, where relevant, include the movement of the overall price of the Fund against relevant markets, the movement of the prices and values of individual stocks, changes in currency rates, and accrual figures for income, expenses, and tax. In addition, prices which appear not to have changed after a fixed period of time should be investigated, since this may be the result of a price movement having been missed.
+
+19.
+
+Cash should be reconciled to the bank account regularly, with outstanding items promptly followed up, and a full reconciliation sent to the trustee or depositary monthly.
+
+20.
+
+Controls should be in place to ensure that the correct number of Units in issue is recorded at each valuation point. This should be reconciled with the Unitholder register at least monthly.
+
+21.
+
+A copy of the valuation should be sent to the Fund Manager or the Fund’s investment manager, if applicable, at least weekly. He should specifically check that the correct securities are recorded.
+
+Pricing and valuation checks by oversight arrangement
+
+22.
+
+The Persons providing oversight functions have a duty under the Rules to ensure that the Fund Manager’s pricing methodology and operation is properly controlled. Its main emphasis should be to ensure that the Fund Manager keeps its controls and systems for pricing under review and to obtain evidence from the Fund Manager’s systems that Unit prices are calculated correctly. This would also apply where the Fund Manager has outsourced some or all of its pricing functions to a Service Provider. The following paragraphs set out the minimum checks which DFSA expects any Person providing the oversight function to carry out in order to be satisfied with the Fund Manager’s pricing methodology and operation, and to ensure that the likelihood of incorrect prices will be minimised.
+
+23.
+
+The Persons providing the oversight function should carry out a thorough review of the Fund Manager’s overall system for pricing. This should include an analysis of the controls in place to determine the extent to which reliance can be placed on them. This review should be carried out at the start of the appointment of a Person who will provide oversight functions, and also when major changes are made by the Fund Manager to its system. On an ongoing basis, the systems should be kept under review to ensure that a series of minor changes do not, over a period of time, have a significant effect on the integrity of the systems.
+
+24.
+
+The Persons providing oversight functions should conduct a review at least annually to confirm that the Fund Manager’s systems and controls are satisfactory. This will need to be more frequent where the oversight arrangement knows or suspects that the Fund Manager’s systems and controls and are weak and unsatisfactory. The Persons providing oversight functions should ensure that any issues which are identified are properly followed up and resolved. Additionally, the Persons providing oversight functions should carry out a review of the valuation of the property of each Fund for which it is responsible, at least annually, which verifies, on a sample basis if necessary, the assets, liabilities, accruals, Units in issue, and any other relevant matters, for example, an accumulation factor or a currency conversion factor.
+
+25.
+
+Where the Fund Manager’s systems are manual, or have been installed or amended recently and are therefore unproven, the level of checking will need to be increased
+
+167
+
+CIR/VER38/08-24
+
+COLLECTIVE INVESTMENT RULES (CIR)
+
+accordingly. This will also be necessary where a number of instances of incorrect pricing have previously been identified.
+
+Incorrect pricing
+
+26.
+
+The Fund Manager should record each instance where the Unit price is incorrect and, as soon as the error is discovered, report the fact to the Persons providing oversight functions together with details of the action taken, or to be taken, to avoid repetition.
+
+27.
+
+The Fund Manager and the Persons providing the oversight function should if they become aware, report material instances of incorrect pricing to the DFSA as provided in the Rules. Materiality should be determined by taking into account a number of factors, including whether the Fund Manager has followed the pricing controls set out in this guidance.
+
+28.
+
+The significance of any breakdown in management controls or other checking procedures should also be taken into account. The significance of any failure of systems should be considered. This may include situations where inadequate back-up arrangements exist. The duration of an error should also be taken into account; the longer an error persists, the more likely that it will have a material effect on a price.
+
+29.
+
+The level of compensation paid to Unitholders,

@@ -1,0 +1,119 @@
+ information in relation to the Payment Service, whether by supplying a copy of the draft Single Payment Service Contract or a copy of the draft Payment Order or otherwise, before the Payment Service User is bound by the Single Payment Service Contract:
+
+(a)
+
+the information or unique identifier that has to be provided by the Payment Service User in order for a Payment Order to be properly initiated or executed;
+
+(b)
+
+the maximum time in which the Payment Service will be executed;
+
+(c)
+
+the charges payable by the Payment Service User to the its Payment Service Provider and, where applicable, a breakdown of such charges;
+
+(d)
+
+where applicable, the actual or Reference Exchange Rate to be applied to the Payment Transaction; and
+
+(e)
+
+such of the information specified in Rule 19.2.1 as is relevant to the Single Payment Service Contract in question.
+
+19.5
+
+Information required after the initiation of a Payment Order
+
+Guidance
+
+This information is required whether a Payment Order is initiated under a Framework Contract or a Single Payment Service Contract, or through a Payment Initiation Service Provider, whether it is a Low Value Payment Instrument or not.
+
+19.5.1 Subject to Rule 19.5.3, a Payment Service Provider must provide or make available to the Payer and, where applicable, to the Payee, immediately after the initiation of a Payment Order:
+
+(a)
+
+confirmation of the successful initiation of the Payment Order with the Payer’s Payment Service Provider;
+
+(b)
+
+a reference enabling the Payer and the Payee to identify the Payment Transaction, including the Payer and Payee, and, where appropriate, any information transferred with the Payment Order;
+
+(c)
+
+the amount of the Payment Transaction, in the currency used in the Payment Order;
+
+(d)
+
+the amount of any charges payable in relation to the Payment Transaction and, where applicable, a breakdown of the amounts of such charges expressed in the currency of the Payment Order;
+
+128
+
+COBS VER19.290725
+
+(e)
+
+where an exchange rate is used in the Payment Transaction the actual rate used or a reference to it, and the amount of the Payment Transaction after that currency conversion;
+
+(f)
+
+the date on which the Payment Service Provider received the Payment Order; and
+
+(g)
+
+the Credit Value Date.
+
+19.5.2 Where a Payment Order is initiated through a Payment Initiation Service Provider, the Payment Service Provider must obtain and disclose the reference for the Payment Transaction from the Payment Initiation Service Provider in order to fulfil its obligations under Rule 19.5.1, unless otherwise excluded by Rule 19.6.2.
+
+Avoidance of duplication of information under a Framework Contract
+
+19.5.3 Where a Payment Order for an individual Payment Transaction is transmitted by way of a Payment Instrument issued under a Framework Contract, the Payment Service Provider in respect of that single Payment Transaction need not provide or make available under Rule 19.5.1 the general information which has been provided or will be provided under Section 19.2 by another Payment Service Provider in respect of a Framework Contract.
+
+19.6 Disapplication of requirements for non-Natural Persons
+
+19.6.1 Where the Payment Service User is not a Natural Person, the Payment Service User and the Payment Service Provider may agree in writing the following Rules do not apply:
+
+(a)
+
+Rules 19.2.16 and 19.2.17 (charges for information);
+
+(b)
+
+Rule 19.10.1 (3) and (4) (withdrawal of consent);
+
+(c)
+
+Rule 19.18.1 (evidence on authentication and execution);
+
+(d)
+
+Rule 19.20.1 (Payer or Payee’s liability for unauthorised transactions);
+
+(e)
+
+Rules 19.17.1 and 19.17.2 (requests for refund);
+
+(f)
+
+Rule 19.14.3 (revocation of a Payment Order);
+
+(g)
+
+Rule 19.21.2 (defective execution of Payer-initiated transactions);
+
+(h)
+
+Rule 19.21.3 (defective execution of Payee-initiated transactions);
+
+(i)
+
+Rule 19.21.5 (liability for charges); and
+
+the parties may agree that a different time period applies concerning unauthorised or incorrectly executed Payment Transactions for the purposes of Rule 19.17.1.
+
+Disapplication of certain Rules in the case of Low Value Payment Instruments
+
+19.6.2
+
+(1)
+
+The parties may agree that the following Rules do

@@ -1,0 +1,143 @@
+:
+
+(a)
+
+an Authorised Firm that is authorised to Provide Custody, if:
+
+(i)
+
+the Crypto Token is not a Prohibited Token;
+
+(ii)
+
+the Authorised Firm is reasonably satisfied that:
+
+(A)
+
+the Client Counterparty; and
+
+is a Professional Client or Market
+
+(B)
+
+the lending is solely for the purpose of staking; and
+
+(ii)
+
+the requirements in (3) have been met; or
+
+(b)
+
+the provision of any Crypto Token to the Authorised Firm as Collateral.
+
+Before offering or providing any facility or service under (2)(a), the Authorised Firm must:
+
+(a)
+
+undertake due diligence on itself, on reasonable grounds, that the borrower is suitable and provides an appropriate level of protection for the Client, taking into account the following factors:
+
+the borrower
+
+to satisfy
+
+(i)
+
+the borrower’s:
+
+(A)
+
+governance and internal controls;
+
+(B)
+
+financial status; and
+
+(C)
+
+compliance with relevant applicable legal requirements;
+
+(ii)
+
+the infrastructure used and security measures and procedures applied by the borrower when staking; and
+
+(iii)
+
+the amount of Crypto Tokens staked by the borrower on its own nodes;
+
+(b)
+
+provide the Client with a statement that explains the risks of staking in plain language and includes at least the following information:
+
+(i)
+
+details of the staking mechanism and the role of all third parties involved;
+
+(ii)
+
+details of the due diligence performed under (a);
+
+(iii)
+
+the general risks related to staking, including risk of loss due to technical errors or bugs in the protocol; hacks or theft of the Crypto Tokens, and how losses will be allocated to Clients;
+
+(iv)
+
+bonding and unbonding periods and what this might mean if a Client cannot withdraw their Staked Crypto Tokens;
+
+(v)
+
+fees and charges; and
+
+190
+
+COB/VER48/03-25
+
+CONDUCT OF BUSINESS (COB)
+
+(vi)
+
+how rewards are calculated, and how they are paid out to Clients; and
+
+(c)
+
+obtain the written consent of the Client to transfer the Crypto Token to the borrower for staking.
+
+(4) The requirement to undertake due diligence under (3)(a) does not apply
+
+where the Authorised Firm is the borrower.
+
+(5) An Authorised Firm must inform its Client as soon as practicable of any
+
+material change to the information in (3)(b).
+
+(6)
+
+In this Rule, “staking” means participating in the proof-of-stake consensus mechanism on the DLT or other similar technology that hosts the relevant Crypto Token.
+
+Guidance
+
+Staking refers to the activity where holders of Crypto Tokens lend their Tokens to firms, miners or other persons, in exchange for a return or other reward for the use of the Tokens. Rule 15.6.5 permits an Authorised Firm to offer or provide such a service or facility only if the lending is for use in the proof-of-stake consensus mechanism i.e. the process that involves committing Crypto Tokens to support a blockchain network and confirm transactions. In addition, such a service or facility may be offered or provided only to Professional Clients or Market Counterparties, and where the Authorised Firm meets the additional requirements in Rule 15.6.5(3).
+
+Restrictions on the use of certain terms
+
+15.6.6 An Authorised Firm must not refer to a service or facility it provides in relation to Crypto Tokens as a “market”, “marketplace”, “platform”, “venue” or any other similar term, unless it is authorised under its Licence to operate a MTF for Crypto Tokens.
+
+Further protections relating to Crypto Token Derivatives
+
+15.6.7 (1)
+
+An Authorised Firm must not open a position with or for a Retail Client relating to a Crypto Token Derivative unless the Retail Client has posted a Margin of at least 50% of the value of the exposure that the trade provides.
+
+(2)
+
+An Authorised Firm referred to in (1) must ensure that the net equity in a Retail Client’s account does not fall below 50% of the overall Margin deposited in that account.
+
+(3) Where a Retail Client’s net equity falls below 50% of the overall Margin deposited in that account, the Authorised Firm must close all open positions in the Retail Client’s account:
+
+(a)
+
+as soon as market conditions allow; and
+
+(b)
+
+in accordance with the best execution requirement in Rule 6.

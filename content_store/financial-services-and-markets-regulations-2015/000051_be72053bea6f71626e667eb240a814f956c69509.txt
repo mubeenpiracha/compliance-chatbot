@@ -1,0 +1,119 @@
+)
+
+An OTF shall report details of orders and transactions in other investments as specified by the Regulator traded on its platform which are inputted, executed, or reported, through its systems.
+
+(5)
+
+The Regulator may make Rules specifying—
+
+(a)
+
+the information to be included in reports made under subsection (1) and (2); and
+
+(b)
+
+the manner in which such reports are to be made.
+
+Part 13 Settlement Finality
+
+150.
+
+Introduction
+
+(1)
+
+This Part has effect for the purposes of safeguarding the operation of certain financial markets by provisions with respect to—
+
+(a)
+
+the insolvency, Winding-Up or Default of a person party to transactions in the market (sections 151 to 165);
+
+(b)
+
+the effectiveness or enforcement of certain Charges given to secure obligations in connection with such transactions (sections 167 to 169); and
+
+(c)
+
+rights and remedies in relation to certain property provided as cover for margin in relation to such transactions or as Default Fund Contributions, or subject to such a Charge (sections 170 to 174).
+
+(2)
+
+For the purposes of this Part, "notice" will be deemed to have been given if the person to whom the notice was given deliberately failed to make enquiries as to that matter in circumstances in which a reasonable and honest person would have done so. This does not apply for the purposes of a provision requiring actual notice or actual written notice.
+
+Recognised Investment Exchanges, Recognised Clearing Houses and Remote Bodies86
+
+151. Market Contracts87
+
+(1)
+
+In relation to a Recognised Investment Exchange or a Remote Investment Exchange, this Part applies to—
+
+(a)
+
+contracts entered into by a member or Designated Non-Member of the Recognised Investment Exchange with a person other than the Recognised Investment Exchange which are either—
+
+(i)
+
+contracts made on the Recognised Investment Exchange or on a Recognised Investment Exchange to whose undertaking the Recognised
+
+86 Amended 21 February 2018.
+
+87 Amended 21 February 2018.
+
+91
+
+(2)
+
+(3)
+
+(4)
+
+Investment Exchange has succeeded whether by amalgamation, merger or otherwise; or
+
+(ii)
+
+contracts in the making of which the member or Designated Non-Member was subject to the rules of the Recognised Investment Exchange or of a Recognised Investment Exchange to whose undertaking the Recognised Investment Exchange has succeeded whether by amalgamation, merger or otherwise;
+
+(b)
+
+contracts entered into by the Recognised Investment Exchange or Remote Investment Exchange, in its capacity as such, with a member of the Recognised Investment Exchange or Remote Investment Exchange, or with a Recognised Clearing House, a Remote Clearing House or with another Recognised Investment Exchange or Remote Investment Exchange for the purpose of enabling the rights and liabilities of that member, Recognised Clearing House, Remote Clearing House or other Recognised Investment Exchange or Remote Investment Exchange under a transaction to be settled; and
+
+(c)
+
+contracts entered into by the Recognised Investment Exchange or Remote Investment Exchange with a member of the Recognised Investment Exchange or Remote Investment Exchange, or with a Recognised Clearing House, a Remote Clearing House or with another Recognised Investment Exchange or Remote Investment Exchange for the purpose of providing Clearing Services to that member or Recognised Clearing House, Remote Clearing House, other Recognised Investment Exchange or other Remote Investment Exchange.
+
+In relation to transactions which are cleared through a Recognised Clearing House or Remote Clearing House, this Part applies to—
+
+(a)
+
+Clearing Member House Contracts;
+
+(b)
+
+Clearing Member Client Contracts;
+
+(c)
+
+Client Trades, other than Client Trades excluded by subsections (3) or (4); and
+
+(d)
+
+contracts entered into by the Recognised Clearing House or Remote Clearing House with a member of the Recognised Clearing House or Remote Clearing House for the purpose of providing Clearing Services to that member or Recognised Body or Remote Body.
+
+A Client Trade is excluded by this subsection from subsection (2)(c) if—
+
+(a)
+
+the Clearing Member which is a party to the Clearing Member Client Contract corresponding to the Client Trade Defaults; and
+
+(b)
+
+the Clearing Member Client Contract is not transferred to another Clearing Member within the period specified for this purpose in the Default Rules of the Recognised Clearing House or Remote Clearing House.
+
+A Client Trade is also excluded by this subsection from subsection (2)(c) if—
+
+92
+
+(a)
+
+the Client Trade

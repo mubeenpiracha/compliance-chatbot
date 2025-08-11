@@ -1,0 +1,131 @@
+4.
+
+Where the DFSA grants admission of Securities to an Official List of Securities, it will include such Person in its Official List of Securities published on the DFSA website.
+
+References
+
+5.
+
+Under Article 34(7) of the Law, an Applicant may commence a reference to the FMT in relation to any decision by the DFSA to object or refuse an application for admission of Securities to the Official List of Securities, or to impose conditions or restriction on the admission of Securities to the Official List of Securities, or to vary such conditions or restrictions.
+
+6.
+
+Under Article 29 of the Regulatory Law, a Person that commences a reference to the FMT must do so within 30 days of the relevant decision.
+
+7.
+
+The form of submission that a reference must take is specified in the rules of procedure of the FMT.
+
+92
+
+MKT/VER24/03-25
+
+MARKETS RULES (MKT)
+
+9.6 Suspending, delisting and restoring a Listing
+
+Guidance
+
+1.
+
+Under Article 35 of the Law, the DFSA may, suspend or delist, or require an Authorised Market Institution to suspend or delist, Securities from an Official List of Securities with immediate effect or from such date and time as may be specified where it is satisfied that there are circumstances that warrant such action or it is in the interests of the DIFC.
+
+References
+
+2.
+
+Under Article 35(4) of the Law, a Person may commence a reference to the FMT in relation to any decision by the DFSA to suspend or delist such Person’s Securities from the Official List of Securities or to direct an Authorised Market Institution to suspend or delist the Person’s Securities.
+
+3.
+
+Under Article 29 of the Regulatory Law, a Person that commences a reference to the FMT must do so within 30 days of the relevant decision.
+
+4.
+
+The form of submission that a reference must take is specified in the rules of procedures of the FMT.
+
+Suspending Securities from the Official List of Securities
+
+Guidance
+
+Examples of circumstances that warrant the suspension by the DFSA of Securities from the Official List of Securities include:
+
+1.
+
+the Listed Entity has failed to meet its continuing obligations for listing;
+
+2.
+
+the Listed Entity has failed to publish financial information in accordance with the Markets Rules;
+
+3.
+
+the Listed Entity is unable to assess accurately its financial position and inform the market accordingly;
+
+4.
+
+there is insufficient publicly-available information in the market about a proposed transaction which involves the Listed Entity or the relevant Securities;
+
+5.
+
+the Listed Entity 's Securities have been suspended elsewhere;
+
+6.
+
+the Listed Entity has appointed administrators or receivers, or is an Investment Trust or Fund and is winding up;
+
+7.
+
+the relevant Securities are a securitised Derivative and any underlying instrument is suspended;
+
+8.
+
+for a Derivative which carries a right to buy or subscribe for another Security, the Security over which the Derivative carries a right to buy or subscribe has been suspended; or
+
+9.
+
+the DFSA considers it is in the interests of the DIFC, including the interests of investors, potential investors or the DIFC capital markets.
+
+9.6.1 A Listed Entity which has had the Listing of any of its Securities suspended must
+
+continue to comply with all relevant Listing Rules applicable to it.
+
+9.6.2
+
+If the DFSA suspends the Listing of any Securities, it may impose such requirements on the procedure for lifting the suspension as it considers appropriate.
+
+93
+
+MKT/VER24/03-25
+
+MARKETS RULES (MKT)
+
+Suspension or delisting at the Listed Entity’s request
+
+9.6.3
+
+(1)
+
+If a Listed Entity wishes to have its Listed Securities suspended or delisted from the List, it must submit a request in writing to the DFSA and include:
+
+(a)
+
+the reasons for the request;
+
+(b)
+
+the date and time on which the suspension or delisting is to take place; and
+
+(c)
+
+any other information regarding the Securities or the circumstances of the suspension or delisting which the DFSA requires.
+
+(2)
+
+The DFSA may impose such conditions or requirements as it considers appropriate on the suspension or delisting in (1).
+
+Guidance
+
+1.
+
+A Listed Entity requesting delisting should submit such request in reasonable time for the DFSA to consider the request and satisfy the DFSA that a delisting would be appropriate

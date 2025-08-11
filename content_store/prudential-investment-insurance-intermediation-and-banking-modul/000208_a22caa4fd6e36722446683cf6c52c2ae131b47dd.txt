@@ -1,0 +1,121 @@
+12.15 For the purpose of calculating the risk weight of a guaranteed Exposure, an Authorised Firm must assign the guaranteed portion the risk weight of the eligible guarantors. The uncovered portion of the Exposure must be assigned the risk weight of the underlying Counterparty.
+
+A4.12.16 An Authorised Firm can apply a 0% risk weight to any portions of Exposures guaranteed by central governments or Central Banks of a GCC member country where the guarantee is denominated in the domestic currency of that country, and the Exposure is funded in that same domestic currency.
+
+A4.12.17 An Authorised Firm must treat any materiality thresholds on payments below which no payment will be made in the event of loss as retained First Loss Positions and must deduct the full amount from its Capital Resources.
+
+318
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+APP5 MARKET RISK
+
+A5.1 Market Risk systems and controls
+
+Guidance
+
+1.
+
+In accordance with section 5.2, an Authorised Firm is required to have a Market Risk policy. The Market Risk policy should address all aspects of Market Risk whether arising from assets, liabilities or the mismatch between assets and liabilities and whether off or on-balance sheet. Such a policy would be expected to include the following information:
+
+a.
+
+how, with particular reference to its activities, the Authorised Firm defines and measures Market Risk;
+
+b.
+
+the Authorised Firm’s investment or trading strategy distinguishing, as applicable, between its Trading and Non-Trading Books;
+
+c.
+
+the detailed limit structure for Market Risk which should:
+
+i.
+
+address all key risk factors;
+
+ii.
+
+be commensurate with the volume and complexity of activity; and
+
+iii.
+
+be consistent with the Authorised Firm’s strategy, historical performance, and the overall level of earnings or capital the Authorised Firm is willing to risk;
+
+d.
+
+procedures for:
+
+i.
+
+approving new products and activities that give rise to Market Risk;
+
+ii.
+
+regular risk position and performance reporting;
+
+iii.
+
+limit exception reporting and approval; and
+
+iv.
+
+reporting and controlling of off-market trades, if these are permitted;
+
+e.
+
+where internal models are used to set Capital Requirements (as provided for in section 5.3), the methods and assumptions used in these models and how the models are tested; and
+
+f.
+
+the allocation of responsibilities for implementing the Market Risk policy and for monitoring adherence to, and the effectiveness of, the policy.
+
+2.
+
+An Authorised Firm should measure its Market Risk using a robust and consistent methodology. The appropriate method of measurement will depend upon the nature of the products traded. The Authorised Firm should consider whether the measurement methodologies should be tested, for example, through back-testing, and the frequency of such testing.
+
+3.
+
+An Authorised Firm should be able to measure its Market Risk Exposure both across risk types, such as interest rate, foreign exchange and commodities, and across the entire portfolio.
+
+4. Where an Authorised Firm is a member of a Group, which is subject to consolidated supervision, the Group should be able to monitor Market Risk Exposures on a consolidated basis (chapter 8).
+
+319
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+5.
+
+An Authorised Firm should have the capability to assess the impact of any new transaction on its Market Risk position on an on-going basis, and should be capable of carrying out a full measurement of its positions at least daily.
+
+6.
+
+An Authorised Firm should implement an effective system for monitoring its Market Risk. This system should be independent of those within the Authorised Firm who are responsible for taking Market Risk.
+
+7.
+
+An Authorised Firm should implement a system of management reporting which provides relevant, accurate, comprehensive, timely and reliable Market Risk reports to relevant functions within the Authorised Firm. These reports should:
+
+a.
+
+alert senior management’s attention to the size of Exposures and the relationship between these Exposures and limits;
+
+b.
+
+cover exceptions to the Authorised Firm’s Market Risk policy;
+
+c.
+
+present the results from stress tests undertaken; and
+
+d.
+
+analyse and explain any changes to the level and nature of Market Risk and any remedial action proposed or taken.
+
+8.
+
+An Authorised Firm should have procedures

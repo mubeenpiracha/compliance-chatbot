@@ -1,0 +1,125 @@
+ that the Annual Accounts and Auditor’s Reports required to be prepared pursuant to these Regulations comply with the requirements of these Regulations,
+
+and Accounting Records of the DLT Foundations must:
+
+i.
+
+include the following details, to the extent applicable:
+
+(1) bank statements for all accounts;
+
+(2) confirmation of interest paid into bank;
+
+(3) confirmation of any decisions on making any payments to Founders,
+
+Beneficiaries, Tokenholders and other Persons;
+
+(4) details of income;
+
+(5) details of expenses; and
+
+(6)
+
+records of any types of payments to, receivables from and delegations to founders, beneficiaries, tokenholders and others;
+
+ii.
+
+include the following details with respect to Tokens, if applicable:
+
+(1) balances of Tokens of any type, including Tokens which may not have a
+
+monetary value; and
+
+(2)
+
+tokens and coins paid, received, or delegated to a third party;
+
+iii.
+
+contain records and underlying documents comprising all accounting entries and associated supporting documents such as:
+
+(1) cheques;
+
+(2)
+
+records of electronic fund transfers and any on-chain transactions;
+
+(3)
+
+invoices;
+
+(4) contracts;
+
+(5)
+
+the general and subsidiary ledgers, journal entries and other adjustments to the financial statements that are not reflected in journal entries;
+
+76
+
+(6) work sheets and spread sheets supporting cost allocations, computations,
+
+reconciliations and disclosures; and
+
+(7) a record of the DLT Foundation Assets and liabilities of the DLT Foundation.
+
+“Accounting Standards” has the meaning set forth in section 46;
+
+“ADGM” has the meaning set forth in the preamble;
+
+“ADGM Founding Law” has the meaning set forth in the Interpretation Regulations 2015;
+
+“Annual Accounts” has the meaning set forth in section 46;
+
+“Assets” means any property in which a DLT Foundation has any interest or over which it has any rights, including, without limitation, any Tokens;
+
+“Auditor’s Report” has the meaning set forth in section 77;
+
+“Beneficial Owner” shall have the meaning prescribed to it in Schedule 1 (Meaning of Beneficial Owner) of the Beneficial Ownership and Control Regulations 2022;
+
+“Beneficiary” has the meaning set forth in section 39;
+
+"Board” means the Board of Directors of ADGM;
+
+“Charter” means the charter of a DLT Foundation, as may be amended from time to time under these Regulations;
+
+“Company Service Provider” has the meaning set forth in section 11(1);
+
+“Confirmation Statement” means a confirmation statement covering the period from 1 January to 31 December (inclusive) of the preceding year which must be executed by a Councillor and delivered by a DLT Foundation to the Registrar in accordance with these Regulations and confirm:
+
+(a)
+
+that there are no violations by the DLT Foundation of these Regulations which the Councillor is aware of or should be aware of and all information required to be delivered by the DLT Foundation under these Regulations, for the Confirmation Statement period, has either been delivered or is being delivered with the Confirmation Statement;
+
+(b)
+
+the information comprising Relevant Disclosure and, if Tokens are issued, the current nature and use of Tokens; and
+
+(c)
+
+any other information reasonably prescribed or separately requested by the Registrar from time to time;
+
+“Council” means the council of a DLT Foundation;
+
+“Councillor” means a natural person or Legal Person appointed as a member of the DLT Foundation’s Council;
+
+77
+
+“Court” has the meaning set forth in the Interpretation Regulations 2015;
+
+“creditor” means, in respect of a DLT Foundation, any Person with a debt claim in money or money's worth or another claim which provides rights against such DLT Foundation, and includes any contingent or prospective creditor;
+
+“Delegated Matters” has the meaning set forth in section (2);
+
+“DLT” means distributed ledger technology;
+
+“DLT Foundation” has the meaning set forth in section 3(1);
+
+“DLT Foundations Register” means the public register of DLT Foundations kept by the Registrar under section 14(12);
+
+“DLT Framework” means a framework for utilizing DLT prepared, adopted and maintained by each DLT Foundation, which, at a minimum meets the following criteria:
+
+(a)
+
+it must be prepared in accordance with recognized industry standards as prescribed by the Registrar;
+
+(b

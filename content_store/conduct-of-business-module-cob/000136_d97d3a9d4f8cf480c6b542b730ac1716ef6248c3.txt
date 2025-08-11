@@ -1,0 +1,149 @@
+outstanding amounts remaining payable to Segregated Clients but not satisfied from the application of (a) above;
+
+(c)
+
+thirdly, upon resolution of claims in relation to Segregated Clients, any Money remaining with the Authorised Firm must be paid to each Client in full or, where insufficient funds are held by the Authorised Firm, proportionately, in accordance with each Client’s valid claim over that Money; and
+
+(d)
+
+fourthly, upon satisfaction of all claims in (a), (b) and (c) above, in the event of:
+
+(i)
+
+the appointment of a liquidator, receiver or administrator, or trustee in bankruptcy over the Authorised Firm, payment must be made accordance with the Insolvency Law 2019; or
+
+(ii)
+
+all other Distribution Events, payment must be made in accordance with the direction of the DFSA.
+
+Guidance
+
+A Segregated Client would not have a valid claim over Client Money held in a Client Account if that Client Account was not established to hold Client Money for that Client.
+
+A5.13.3 Following a Distribution Event, an Authorised Firm must sell all Collateral and use
+
+the proceeds of the sale to satisfy claims made in accordance with Rule A5.13.2
+
+A5.14 Failure to comply with this appendix
+
+A5.14.1 An Authorised Firm which becomes aware that it does not comply with any Rule in
+
+this appendix must, within one day, give notice of that fact to the DFSA.
+
+215
+
+COB/VER48/03-25
+
+CONDUCT OF BUSINESS (COB)
+
+APP6 SAFE CUSTODY PROVISIONS
+
+A6.1 Application
+
+A6.1.1 This appendix applies to an Authorised Firm in accordance with Rule 6.13.3.
+
+A6.2 General requirements
+
+A6.2.1 The provisions of this appendix are referred to as the Safe Custody Provisions.
+
+A6.2.2 An Authorised Firm must:
+
+(a)
+
+comply with the Safe Custody Provisions; and
+
+(b)
+
+have adequate systems and controls in place to be able to evidence compliance with the Safe Custody Provisions.
+
+A6.3 Recording, registration and holding requirements
+
+A6.3.1 An Authorised Firm which Provides Custody or holds or controls Client Investments or Client Crypto Tokens must ensure that Safe Custody Investments are recorded, registered and held in an appropriate manner to safeguard and control such property.
+
+A6.3.2 Subject to Rule A6.4.1, an Authorised Firm which Provides Custody or holds or controls Client Investments or Client Crypto Tokens must record, register and hold Safe Custody Investments separately from its own Investments.
+
+A6.4 Client accounts in relation to Client Investments or Client Crypto
+
+Tokens
+
+A6.4.1 An Authorised Firm which Provides Custody or holds or controls Client Investments or Client Crypto Tokens must register or record all Safe Custody Investments in the legal title of:
+
+(a)
+
+a Client Account; or
+
+(b)
+
+the Authorised Firm where, due to the nature of the law or market practice, it is not feasible to do otherwise.
+
+A6.4.2 A Client Account in relation to Client Investments or Client Crypto Tokens is an
+
+account which:
+
+(a)
+
+is held with a Third Party Agent or by an Authorised Firm which is authorised under its Licence to provide Custody;
+
+(b)
+
+is established to hold Client Assets;
+
+216
+
+COB/VER48/03-25
+
+CONDUCT OF BUSINESS (COB)
+
+(c)
+
+when held by a Third Party Agent, is maintained in the name of;
+
+(i)
+
+if a Domestic Firm, the Authorised Firm; or
+
+(ii)
+
+if not a Domestic Firm, a Nominee Company controlled by the Authorised Firm; and
+
+(d)
+
+includes the words ‘Client Account’ in its title.
+
+A6.4.3 (1)
+
+An Authorised Firm must maintain a master list of all Client Accounts.
+
+(2)
+
+The master list must detail:
+
+(a)
+
+the name of the account;
+
+(b)
+
+the account number;
+
+(c)
+
+the location of the account;
+
+(d)
+
+whether the account is currently open or closed; and
+
+(e)
+
+the date of opening or closure.
+
+(3)
+
+The details of the master list must be documented and maintained for a minimum period of six years following the closure of an account.
+
+Guidance
+
+1.
+
+An Author

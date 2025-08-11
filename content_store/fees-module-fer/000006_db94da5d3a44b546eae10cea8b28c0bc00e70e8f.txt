@@ -1,0 +1,123 @@
+ who is applying to register the Fund, must pay to the DFSA an application fee of $1,000.
+
+2.5
+
+Notification of intention to be a Passported Fund
+
+2.5.1
+
+(1) A Fund Manager of a Domestic Fund notifying the DFSA of its intention to be a Passported Fund, must pay to the DFSA a notification fee of $9,500.
+
+(2) For the purposes of calculating the fee under (1), if the Fund is an umbrella fund, including, without limitation, a segregated portfolio company or cell company, a fee must be paid for each sub-fund,
+
+9
+
+FER/VER33/07-25
+
+FEES MODULE (FER)
+
+segregated portfolio or cell, as the case may be, instead of for the umbrella fund, segregated portfolio company or cell company.
+
+Guidance
+
+The fee in Rule 2.5.1 is payable only where the DFSA is the Home Regulator of the relevant Domestic Fund that intends to use the passporting procedures (see FPR section 7).
+
+2.6
+
+Application for Recognition as a Recognised Body or Recognised Member
+
+2.6.1 An applicant for Recognition as a Recognised Body must pay to the DFSA
+
+an application fee of $15,000.
+
+2.6.2
+
+An applicant for Recognition as a Recognised Member must pay to the DFSA an application fee of $1,000.
+
+2.7
+
+Applications relating to Authorised Individuals and Key Individuals
+
+2.7.1
+
+An Authorised Firm applying to the DFSA:
+
+(a)
+
+for Authorised Individual status for an individual;
+
+(b)
+
+to amend an Authorised Individual’s authorisation to include a new Licensed Function; or
+
+(c)
+
+to substitute one Authorised Individual for another performing a particular Licensed Function in the Authorised Firm,
+
+must pay to the DFSA an application fee of $750 for each Authorised Individual for whom it is seeking authorisation; to amend the scope of the authorisation; or to substitute as an Authorised Individual (as the case may be).
+
+2.7.2
+
+An Authorised Market Institution applying to the DFSA:
+
+(a)
+
+for Key Individual status for an individual;
+
+(b)
+
+to amend a Key Individual’s authorisation to include a new Licensed Function; or
+
+(c)
+
+to substitute one Key Individual for another performing a particular Licensed Function in the Authorised Market Institution,
+
+must pay to the DFSA an application fee of $750 for each Key Individual for whom it is seeking authorisation; to amend the scope of the authorisation; or to substitute as a Key Individual (as the case may be).
+
+Guidance
+
+Rules 2.7.1 and 2.7.2 apply if a Person is already licensed by the DFSA and applies to add or change an Authorised Individual or Key Individual. A fee is not payable for an application for Authorised Individual or Key Individual status if the application is made at the same time
+
+10
+
+FER/VER33/07-25
+
+FEES MODULE (FER)
+
+as an initial application for a Licence.
+
+2.8
+
+Application to add a new cell to an existing PCC
+
+2.8.1 A Licenced PCC applying to add one or more new cells must pay to the
+
+DFSA $1,000 in respect of each cell to be added.
+
+2.9
+
+Application for admittance of Securities to the Official List of Securities
+
+2.9.1 An applicant for admission of Securities to the Official List of Securities must
+
+pay to the DFSA an application fee of $2,500.
+
+Guidance
+
+An applicant for admission of Securities to the Official List of Securities under Rule 2.9.1 may include an applicant who is an Exempt Offeror (as defined in Article 13(2) of the Markets Law).
+
+2.9A Request to delist Shares from the Official List
+
+2.9A.1 A Listed Entity submitting a request to have its Shares delisted from the
+
+Official List of Securities must pay to the DFSA a fee of $2,500.
+
+2.9B Application for a Crypto Token to be a Recognised Crypto
+
+Token
+
+2.9B.1 An applicant for a Crypto Token to be recognised as a Recognised Crypto
+
+Token must pay to the DFSA an application fee of $5,000.
+
+2.10 Application relating to a

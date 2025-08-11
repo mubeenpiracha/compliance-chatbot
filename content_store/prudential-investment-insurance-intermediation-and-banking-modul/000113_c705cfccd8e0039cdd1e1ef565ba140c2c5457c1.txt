@@ -1,0 +1,105 @@
+ guarantee must be a bank regulated to standards acceptable to the DFSA;
+
+(v)
+
+the total amount of guarantees provided to the Authorised Firm must be less than 10% of the Parent (or other) Authorised Firm’s Tier 1 Capital;
+
+(vi)
+
+the Parent must be rated as a Credit Quality Grade of 1 or 2 by a recognised credit rating agency;
+
+(vii)
+
+the Authorised Firm must provide confirmation from the home state Financial Services Regulator that it is satisfied that the Parent Authorised Firm has sufficient resources to provide such guarantees and has no objection to the provision of such guarantees;
+
+(viii)
+
+the Authorised Firm should provide an annual confirmation that there are no changes to the enforceability of such guarantees; and
+
+(ix)
+
+the Authorised Firm must notify the DFSA when such guarantees represent 200%, 400% and 600% of Tier 1 Capital and the overall Large Exposure limit must not exceed 800%.
+
+167
+
+PIB/VER50/07-25
+
+5
+
+5.1
+
+5.1.1
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+MARKET RISK
+
+Introduction
+
+Guidance
+
+1.
+
+This chapter addresses the regulatory requirements in respect of managing the Market Risk exposures of an Authorised Firm. Market Risk refers to the risk of incurring losses on positions due to adverse changes in market prices or in underlying value drivers. This chapter aims to ensure that an Authorised Firm engaging in activities exposing the firm to risks associated with potential adverse movements in market prices adopts appropriate and effective risk management practices and holds regulatory capital of the right quality that is also commensurate with the risks involved.
+
+2.
+
+This chapter includes requirements that an Authorised Firm:
+
+a.
+
+implement a comprehensive Market Risk management framework to manage, measure and monitor Market Risk commensurate with the nature, scale and complexity of the firm’s operations; and
+
+b.
+
+calculate the Market Risk Capital Requirement and hold the same.
+
+3.
+
+The chapter allows the use of standard pre-defined methodologies for estimating the capital requirement and also allows the use of DFSA-approved internal models to calculate elements of a firm’s Market Risk Capital Requirement. The chapter covers Rules for determining Market Risk Capital Requirement on exposures involving interest rate risk, equity risk, foreign exchange risk, commodities risk, options risk, collective investment fund risk, securities underwriting risk and credit valuation adjustment risk.
+
+4.
+
+Appendix 5 provides the detailed requirements, parameters, calculation methodologies and formulae in respect of the primary requirements outlined in chapter 5. Appendix 5 also provides detailed guidance on criteria for approval of internal models for calculation of Market Risk Capital Requirement, incorporation of incremental risk charges in internal models, if allowed and guidance on the required level of stress testing.
+
+Application
+
+This chapter applies to an Authorised Firm in Category 1, 2, 3A or 5 as follows:
+
+(a)
+
+sections 5.2 to 5.11 apply to an Authorised Firm in Category 1 or 2 (other than a Matched Principal);
+
+(b)
+
+sections 5.2 and 5.6 apply to an Authorised Firm in Category 2 (if it meets the definition of Matched Principal) or 3A; and
+
+(c)
+
+sections 5.2, 5.3 and 5.5 to 5.11 apply to an Authorised Firm in Category 5.
+
+Guidance
+
+1.
+
+Rule 5.3.1 provides that the Market Risk Capital Requirement of an Authorised Firm is calculated as the sum of a number of subsidiary Capital Requirements. Sections 5.4 to 5.10 set
+
+168
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+out the manner in which each of those subsidiary Capital Requirements must be calculated, monitored and controlled by an Authorised Firm.
+
+2.
+
+In addition to complying with the applicable Rules in chapter 5, an Authorised Firm investing in or holding Islamic Contracts whether or not for the purpose of a PSIA will need to take account of the provisions under IFR Rules 5.4.8 to 5.4.14 to calculate the Market Risk for those Islamic Contracts.
+
+5.2 Market Risk systems and controls
+
+5.2.1
+
+(1)
+
+An Authorised Firm in Category 1

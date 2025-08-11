@@ -1,0 +1,30 @@
+IR) Chapter 2 (Rules Applicable to All Recognised Bodies) and Chapter 4 (Rules Applicable to RCHs) before a Recognition Order can be granted by the FSRA. Once it has been granted a Recognition Order, a RCH must continue to comply with the Recognition Requirements (contained within MIR Chapters 2 and 4) on an ongoing basis.
+
+52) Platforms allowing the trading of Digital Securities (RIEs and MTFs) may engage the services of a RCH operating in the ADGM. Subject to meeting the Recognition Requirements set out in MIR Chapters 2 and 4, the FSRA may allow RCHs to use DLT platforms, or conventional clearing/settlement technologies. The FSRA remains technology agnostic in its approach to the technology used by RCHs.
+
+53) Within ADGM, RCHs are to be operated independently from a RIE/MTF, requiring a RCH to be incorporated as a stand-alone, independent legal entity for the purposes of providing settlement services.
+
+54) While acceptable for use for the purposes of MIR Rules 2.10 and 3.8, the FSRA does not anticipate that RCHs will be the prevalent type of entity used for facilitating custody and settlement functions in relation to Digital Securities, given the costs related to establishing/capitalising a RCH and that mechanisms for close to real-time settlement may potentially remove the need for considerable parts of RCH functionality. Digital Settlement Facilities (DSFs)
+
+55) For the purposes of this Guidance and distinct from RCHs, the FSRA will consider DSFs suitable for the purposes of settlement (MIR Rule 3.8) and custody (MIR Rule 2.10) of Digital Securities. A DSF, holding an FSP for Providing Custody, may provide custody and settlement services in Digital Securities for RIEs and MTFs (as applicable). Therefore, for the purposes of custody and settlement of Digital Securities, the arrangements that a RIE or MTF would normally have in place with a RCH can be replaced with arrangements provided by a DSF, provided that certain requirements, as described in this section, are met.
+
+56) Pursuant to MIR Rule 3.8.1, RIEs or MTFs are required to have satisfactory arrangements for securing the timely discharge of the rights and liabilities of the parties to transactions taking place on its platform. MIR Rule 3.8.2 normally allows for a RCH or Remote Clearing House (noting the FSRA’s position that it will not permit Remote Clearing Houses for this 17
+
+56) Pursuant to MIR Rule 3.8.1, RIEs or MTFs are required to have satisfactory arrangements for securing the timely discharge of the rights and liabilities of the parties to transactions taking place on its platform. MIR Rule 3.8.2 normally allows for a RCH or Remote Clearing House (noting the FSRA’s position that it will not permit Remote Clearing Houses for this 17
+
+purpose in the context of Digital Securities) to be deemed as sufficient for the purposes of satisfying MIR Rule 3.8.1.
+
+57) Pursuant to MIR Rule 3.8.3, however, and in the context of Digital Securities, a RIE or MTF must provide the FSRA, in writing, with the details of the satisfactory arrangements made when such RIE or MTF does not engage a RCH (for example, to use in this context, a DSF). To clarify, the FSRA will require that arrangements to use a DSF for settlement purposes will require the DSF to comply with the requirements of MIR Rule 4.3.3 (with the references to a RCH being read as references to a DSF).
+
+58) Pursuant to MIR Rule 4.3.3, in determining whether there are satisfactory arrangements for securing the timely discharge of the rights and liabilities of the parties to transactions, the FSRA may have regard to the DSF’s:
+
+a) rules and practices relating to clearing and settlement, including its arrangements
+
+with another Person for the provision of clearing and settlement services;
+
+b) arrangements for matching trades and ensuring that the parties are in agreement
+
+about trade details;
+
+c) where relevant, arrangements for making deliveries and payments, in all relevant
+

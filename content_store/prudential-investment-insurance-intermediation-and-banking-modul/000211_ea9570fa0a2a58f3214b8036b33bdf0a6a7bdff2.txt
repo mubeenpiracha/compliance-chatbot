@@ -1,0 +1,157 @@
+)
+
+where an Authorised Firm sells an interest rate future or buys a forward rate agreement:
+
+(i)
+
+the notional short position has a maturity equal to the time to expiry of the future (or the settlement date of the forward rate agreements) plus the maturity of the borrowing period; and
+
+322
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+(ii)
+
+the notional long position has a maturity equal to the time to expiry of the future (or the settlement date of the forward rate agreement); and
+
+(b)
+
+where an Authorised Firm buys an interest rate future or sells a forward rate agreement:
+
+(i)
+
+the notional short position has a maturity equal to the time to expiry of the future (or the settlement date of the forward rate agreement); and
+
+(ii)
+
+the notional long position has a maturity equal to the time to expiry of the future (or the settlement date of the forward rate agreement) plus the maturity of the deposit period.
+
+Futures and forwards on a single debt security
+
+A5.2.7 A future and a forward on a single debt Security must be treated as a notional debt
+
+Security and a notional zero coupon government Security as follows:
+
+(a)
+
+where an Authorised Firm has bought the future or forward:
+
+(i)
+
+a notional long position in the underlying Security with a maturity:
+
+(A)
+
+in the case of a fixed rate bond, equal to the underlying Security; and
+
+(B)
+
+in the case of a floating rate bond, at the time to the next reset; and
+
+(ii)
+
+a notional short position in a zero coupon government Security with a maturity equal to the time to expiry of the futures contract; and
+
+(b)
+
+where an Authorised Firm has sold the future or forward:
+
+(i)
+
+a notional short position in the underlying Security with a maturity:
+
+(A)
+
+in the case of a fixed rate bond, equal to the underlying Security; and
+
+(B)
+
+in the case of a floating rate bond, at the time to the next reset; and
+
+(ii)
+
+a notional long position in a zero coupon government Security with a maturity equal to the time to expiry of the futures contract.
+
+Future or forward on a basket of debt securities
+
+A5.2.8 A future and a forward on a basket of debt Securities must be treated as a set of notional
+
+positions in the constituent debt Securities.
+
+Interest rate and currency swaps
+
+A5.2.9 An interest rate and a currency swap must be treated as two notional government
+
+Securities as follows:
+
+323
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+(a)
+
+where the Authorised Firm is receiving fixed rate interest and paying floating rate interest:
+
+(i)
+
+a notional long position with a maturity equal to the length of the swap; and
+
+(ii)
+
+a notional short position with a maturity equal to the period remaining to the next interest rate reset date;
+
+(b)
+
+where the Authorised Firm is paying fixed rate interest and receiving floating rate interest:
+
+(i)
+
+a notional short position with a maturity equal to the length of the swap; and
+
+(ii)
+
+a notional long position with a maturity equal to the period remaining to the next interest rate reset date;
+
+(c)
+
+where the Authorised Firm is receiving fixed rate interest and paying fixed rate interest:
+
+(i)
+
+a notional long position with a maturity equal to the length of the swap; and
+
+(ii)
+
+a notional short position with a maturity equal to the length of the swap.
+
+(d)
+
+where the Authorised Firm is receiving floating rate interest and paying floating rate interest:
+
+(i)
+
+a notional long position with a maturity equal to the period remaining to the next interest date reset date; and
+
+(ii) a notional short position with a maturity equal to the period remaining to
+
+the next interest rate reset date; and
+
+(e)
+
+the two notional government Securities must have a coupon equal to the rate of interest payable or receivable on the leg.
+
+Guidance
+
+A currency swap is also subject to a Foreign Exchange Risk Capital Requirement (see section 5.6).
+
+Dual currency bonds
+
+A5.2.10 A dual currency bond must be treated as two positions as follows:
+
+(a)
+
+a debt Security denominated in the currency in which the dual currency

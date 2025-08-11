@@ -1,0 +1,141 @@
+ or less;
+
+20%
+
+(iii)
+
+which are unconditionally cancellable at any time by the Authorised Person without prior notice, or that effectively provide for automatic cancellation due to a deterioration in the creditworthiness of an obligor
+
+0%
+
+Guidance
+
+1.
+
+In cases where there is an undertaking to provide a commitment on another off-balance sheet Exposure, an Authorised Person should apply the lower of the applicable CCFs. Examples of direct credit substitutes include general guarantees of indebtedness, standby letters of credit serving as financial (including guarantees endorsements with the character of acceptances). Examples of transaction-related contingent items include performance bonds, bid bonds, warranties and standby letters of credit related to particular transactions.
+
+for
+
+loans and Securities, and acceptances
+
+2.
+
+Documentary credits collateralised by the underlying shipments are an example of short-term self-liquidating trade-related contingent items. In respect of item (f) in the table above, the terms of the agreement should be such that there is no substantial transfer of all risks and rewards of ownership to the Counterparty. Other commitments with certain drawdown would include forward purchase, forward Deposits and partly paid Securities. Formal standby lines are examples of other commitments, referred to in item (h) of the table above.
+
+facilities and credit
+
+3.
+
+In respect of item (h)(iii) in the table above, an Authorised Person, if required to by the Regulator, should be able to demonstrate that it actively monitors the financial condition of the obligor, and that its internal control systems are such that it is able to cancel the facility upon evidence of a deterioration in the credit quality of the obligor.
+
+CCFs for off-balance sheet SE Exposures
+
+A4.2.2
+
+(1)
+
+The applicable CCFs for off-balance sheet SE Exposures are provided in the table below.
+
+275
+
+PRU VER17.290725
+
+Description of off-balance sheet item
+
+CCF
+
+(a) Unrated eligible liquidity facilities
+
+50%
+
+(b)
+
+Eligible Servicer cash advance facilities
+
+0%
+
+(c) Others
+
+100%
+
+(2)
+
+An Authorised Person must notify the Regulator if it intends to provide eligible Servicer cash advance facilities and when there is a drawdown.
+
+Guidance
+
+Eligible Servicer cash advance facilities refers to undrawn Servicer cash advances or facilities that are contractually provided for and unconditionally cancellable without prior notice, so long as the Servicer is entitled to full reimbursement and this right is senior to other claims on cash flows from the underlying Exposures.
+
+A4.3
+
+Collateral calculations and haircuts
+
+Core market participants
+
+A4.3.1
+
+For the purposes of this Section, "core market participant" means:
+
+(a)
+
+any central government or central bank;
+
+(b)
+
+any PSE;
+
+(c)
+
+any qualifying MDB;
+
+(d)
+
+any banking institution or Securities firm;
+
+(e)
+
+any Financial Institution eligible for a 20% risk weight under Section 4.12;
+
+(f)
+
+any central counterparty;
+
+(g)
+
+any regulated mutual fund that is subject to capital or leverage requirements; or
+
+(h)
+
+any regulated pension fund.
+
+Calculation of E* for collateralised transactions other than OTC Derivative transactions and long settlement transactions
+
+A4.3.2
+
+An Authorised Person using the FCCA to calculate E* must adjust both the amount of the Exposure to the Counterparty and the value of any Collateral received in support of that Counterparty to take into account possible future fluctuations in the value of either due to market movements, by using the methods and haircuts set out in Rules A4.3.6 to A4.3.29.
+
+276
+
+PRU VER17.290725
+
+A4.3.3
+
+An Authorised Person must calculate the appropriate haircuts to be applied using one of the following methods:
+
+(a)
+
+standard supervisory haircuts; or
+
+(b)
+
+own-estimate haircuts.
+
+A4.3.4
+
+[Reserved]
+
+A4.3.5
+
+(1)
+
+As an alternative to the use of standard supervisory haircuts or own-estimate haircuts, an Authorised Person may, subject to approval by the Regulator, use VaR models to reflect the price volatility of the Exposure and Collateral for SFTs which are covered by a qualifying bilateral Netting agreement. The requirements relating to the use of this approach

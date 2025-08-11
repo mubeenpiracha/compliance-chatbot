@@ -1,0 +1,93 @@
+ capital, profit and the control (and calculation) for each individual is set out in the table below (for both the LP and the General Partner).
+
+Partners
+
+Individual 1
+
+Share in the capital or profits in Partnership B 20% (Share in the capital or
+
+Voting Rights
+
+n/a
+
+Individual 2
+
+Individual 3
+
+Individual 4
+
+Body Corporate 1 Individual 5
+
+profits) 20% (Share in the capital or profits) 20% (Share in the capital or profits) 20% (Share in the capital or profits) 20% (Share in the capital or profits) n/a
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+100% Partner)
+
+(as General
+
+Beneficial Owners: Individual 5, being the sole shareholder of Partnership B’s general partner is the beneficial owner.
+
+Test 3 – The Management Test
+
+If no natural person is identified as the beneficial owner under test 1 or test 2 above, any natural person who holds the position of officer of the partnership and any natural person who is the beneficial owner of a person holding the position of an officer of the partnership.
+
+Note: Officer means the general partner, or the officers of the general partner, if the general partner is not a natural person.
+
+Example 3:
+
+In this example,
+
+Partnership B is a Limited Partnership that has legal personality and registered under the Limited
+
+Partnership Act of 1907 in ADGM Individual 1, Individual 2, Individual 3, Individual 4 and Body Corporate 1 have 20% each share in the equity or profits of Partnership B. - Body Corporate 1 is the general partner. -
+
+
+
+Individual 1 and Individual 2 are appointed as the directors of Body Corporate 1.
+
+In this example, none of the partners has a share in capital or profit of 25% or more in Partnership B and no one controls the LP, hence by using Test 3 (i.e. The Management test), the directors of Body Corporate, as the general partner, are considered as the beneficial owners.
+
+Beneficial Owners: Individual 1 and Individual 2, being the directors of the Body Corporate are the beneficial owners.
+
+Foundation How to determine the beneficial owners of a Foundation or DLT Foundation?
+
+-
+
+-
+
+
+
+the founder. the foundation council members (except council members that are ADGM registered company service providers). the guardian, if any. the beneficiaries (if named) or designee (if applicable) in whose main interest the foundation or arrangement has been established or operates; or any person who has control over the foundation. Note:
+
+Control means:
+
+holds, directly or indirectly, 25% or more of the voting rights in a foundation registered under the Foundations Regulations;
+
+holds, directly or indirectly, including by means of being a tokenholder, 10% or more of the voting rights in a foundation registered under the DLT Foundations Regulations; or - holds the right, directly or indirectly, to appoint or remove the foundation’s officers and/or beneficiaries.
+
+Example 1:
+
+ABC Foundation is a Foundation established in ADGM. - Below are the members of the Foundation: Individual 1 – Founder Individual 2 – Council Member Individual 3 – Guardian Individual 4 - Beneficiary o o o o
+
+Beneficial Owners: Individual 1, Individual 2, Individual 3, and Individual 4, being members of the ABC Foundation are the beneficial owners.
+
+Trust
+
+How to determine the beneficial owners of a Trust?
+
+- - - - where the persons (or some of the persons) benefiting from the trust have not been determined, the class of persons in whose main interest the trust has been established or operates; and any other person who, in the reasonable opinion of the trustee, has control over the trust.
+
+the settlor of the trust. any other trustee(s) aside from the ADGM Person. each beneficiary of the trust. any protector or enforcer appointed to the trust.
+
+
+
+Note: Control means a power (whether exercisable alone, jointly with another person or with the consent of another person) under the trust instrument or by law to:
+
+dispose of, advance, lend, invest, pay or apply trust property. vary or terminate the trust. - add or remove a person as a beneficiary or to or from a class of beneficiaries. - appoint or remove trustees or give another person control over the trust; and - - direct, withhold consent to

@@ -1,0 +1,71 @@
+GEN/VER67/03-25
+
+GENERAL (GEN)
+
+2.2.10C An Insurance Intermediary may conduct Insurance Intermediation activities in respect of a contract of Long-Term Insurance, that is not a contract of reinsurance, only if it is permitted to do so by an endorsement on its Licence.
+
+2.2.10D The Financial Service of Operating a Crowdfunding Platform may be carried on only by a Body Corporate incorporated under the DIFC Companies Law.
+
+2.2.10E A Crowdfunding Operator must not carry on the following activities:
+
+(a) Managing Assets;
+
+(b) Advising on Financial Products;
+
+(c) Managing a Collective Investment Fund; or
+
+(d) Advising on Credit.
+
+2.2.10F A Crowdfunding Operator must not Operate a Crowdfunding Platform that facilitates a Person investing in the following kinds of Investments or Tokens through the platform:
+
+(a) Warrants, Units or Structured Products;
+
+(b) Derivatives; or
+
+(c) Crypto Tokens.
+
+2.2.10G An Authorised Firm must not carry on the activity of currency exchange or issuing Payment Instruments in the DIFC unless each of those activities is in connection with, and a necessary part of, providing another Financial Service, including another Money Service activity referred to in paragraphs (a) to (f) of Rule 2.6.1(1).
+
+Guidance
+
+1. Providing currency exchange or issuing Payment Instruments, although a specified Money Service under Rule 2.6.1(1)(a) and (e), cannot be provided as a stand-alone financial service in or from the DIFC. An Authorised Firm may, however, provide currency exchange or issue Payment Instruments where it is in connection with, and a necessary part of, providing another Money Service or another Financial Service (see Rule 2.2.10G). An Authorised Firm may also arrange for another person outside the DIFC to provide a currency exchange service or to issue Payment Instruments if the Authorised Firm is authorised to Arrange or Advise on Money Services (see Rule 2.32.1).
+
+2. An Authorised Firm that Provides Money Services is also subject to further restrictions relating to not using physical cash and the settlement of Dirham transactions (see COB section 13.2).
+
+2.2.10H (1) An Authorised Firm must not Operate or Act as the Administrator of an Employee Money Purchase Scheme to which this Rule applies, unless the Scheme is established in the DIFC.
+
+(2) This Rule applies to an Employee Money Purchase Scheme if the Scheme receives contributions that are required to be made by an employer under:
+
+(a)
+
+the Employment Law; or
+
+6
+
+GEN/VER67/03-25
+
+GENERAL (GEN)
+
+(b) another Dubai law.
+
+Guidance
+
+An Authorised Firm can act as the Operator or Administrator of two types of Employee Money Purchase Schemes: a scheme established in the DIFC (a “DIFC Scheme”) or a scheme established outside the DIFC (a “Non-DIFC Scheme”). However, under Rule 2.2.10H, an Authorised Firm is prohibited from Operating or Acting as the Administrator of a Non-DIFC Scheme where that Scheme receives employer contributions required to be made under the Employment Law or another Dubai law. The prohibition does not apply to the operation or administration of Non-DIFC Schemes that fall within the exclusion in Rule 2.3.7.
+
+Permitted Financial Services for Authorised Market Institutions
+
+2.2.11 Pursuant to Article 42(1)(b) of the Regulatory Law 2004 and subject to Rule 2.2.12, an Authorised Market Institution may carry on any one or more of the following Financial Services:
+
+(a) Operating an Exchange;
+
+(b) Operating a Clearing House; or
+
+(c) Operating an Alternative Trading System to the extent that such activities constitute operating a Multilateral Trading Facility as defined in Rule 2.22.1(1)(a).
+
+2.2.12 The Financial Service of Operating an Alternative Trading System, to the extent that such activities constitute operating a Multilateral Trading Facility, may be carried on by an Authorised Market Institution which is permitted to do so by an endorsement on its Licence.
+
+Other permitted activities
+
+2.2.13 (1)
+
+The activity of maintaining a Trade Repository may be carried

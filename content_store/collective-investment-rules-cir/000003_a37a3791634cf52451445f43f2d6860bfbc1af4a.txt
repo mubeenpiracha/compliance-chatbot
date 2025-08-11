@@ -1,0 +1,169 @@
+ Eligible Custodian;
+
+(f)
+
+a Trustee; and
+
+(g)
+
+an oversight provider.
+
+(1)
+
+CIR also applies to an Authorised Firm other than a Representative Office that:
+
+(a)
+
+provides a Financial Service; or
+
+(b)
+
+undertakes a Transaction in or from the DIFC;
+
+in relation to a Domestic Fund or Foreign Fund.
+
+(2)
+
+In the case of a Representative Office, only the Rules in chapter 15 apply.
+
+Guidance
+
+In regard to Rule 1.1.4(2), a Representative Office is authorised under its Licence to market, among other financial products, the Units of Foreign Funds, however, the scope of such marketing is limited to marketing the Units of the Foreign Funds that fulfil the criteria set out under REP section 4.7 as appropriate.
+
+(1)
+
+CIR also applies to a Fund whether or not it has a separate legal personality.
+
+(2) Where a Rule imposes an obligation on a Fund, each Director, Partner or other Person charged with the management of that Fund must take reasonable steps to ensure compliance with the requirement by the Fund.
+
+Guidance
+
+1.
+
+The Rules in this module (CIR) establish a regime to regulate Domestic Funds, which may be Public Funds, Exempt Funds or Qualified Investor Funds. Domestic Funds include External Funds as defined in Article 14(1) of the Law. In addition, this module also regulates Fund Managers, which include External Fund Managers as defined in Article 20(5) of the Law.
+
+2.
+
+CIR also applies to marketing and selling of Units of Foreign Funds in or from the DIFC and to the provision of a Financial Service to a Foreign Fund where any such activity is undertaken by an Authorised Firm. In that regard, the COB Rules also apply to the provision of Financial Services by an Authorised Firm.
+
+3.
+
+If a Domestic Fund or Foreign Fund intends to list its Units on an Authorised Market Institution (AMI), it will need to comply with the relevant Rules in the MKT module and
+
+2
+
+CIR/VER38/08-24
+
+COLLECTIVE INVESTMENT RULES (CIR)
+
+the AMI’s listing Rules in respect of Domestic Funds. Exempt Funds and Qualified Investor Funds cannot be listed.
+
+4.
+
+A Public Property Fund is required to be a Closed-ended and Listed Fund and to be structured as an Investment Company or an Investment Trust. A Property Fund that is an Exempt Fund or QIF can be either Open-ended or Closed-ended.
+
+1.2
+
+Interpretation
+
+1.2.1
+
+Any references to “the Law” or to “Articles” are to be construed as references to the Collective Investment Law 2010 and to Articles in that law.
+
+1.3
+
+Client Classification
+
+1.3.1
+
+For the purposes of Article 16(7)(a) of the Law:
+
+(a)
+
+the criteria to be classified as a Professional Client are specified in COB Rule 2.3.3, and
+
+(b)
+
+the criteria to be classified as a Retail Client are specified in COB Rule 2.3.2.
+
+1.4
+
+The different types of Domestic Funds
+
+Guidance
+
+Article 13 of the Law defines Funds as either Domestic Funds or Foreign Funds. Article 15 of the Law then further divides Domestic Funds into three categories which are listed below in terms of the level of regulation (from most intensively regulated to least intensively regulated):
+
+(a)
+
+Public Funds;
+
+(b)
+
+Exempt Funds; and
+
+(c)
+
+Qualified Investor Funds.
+
+This table illustrates the different Rules applicable to the three categories of Domestic Fund.
+
+CIR chapters
+
+Public Fund
+
+Exempt Fund
+
+QIF
+
+Chapter 1: Application & Interpretation
+
+
+
+
+
+
+
+Chapter 2: Arrangements not constituting a CIF
+
+
+
+
+
+
+
+Chapter 3: Specialist Classes of Fund
+
+
+
+
+
+
+
+Chapter 4: Excluded Offers
+
+
+
+
+
+
+
+Chapter 5: Fund Administrator
+
+
+
+
+
+
+
+Rule 5.1.4 does not apply
+
+3
+
+CIR/VER38/08-24
+
+CIR chapters
+
+Chapter 6: External Fund Managers and External Funds
+
+Chapter 6A

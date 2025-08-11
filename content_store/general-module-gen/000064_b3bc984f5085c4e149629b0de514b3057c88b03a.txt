@@ -1,0 +1,143 @@
+ Persons to monitor its IT Systems and Networks and respond to actual or potential Cyber Incidents, and, if applicable, resume its operations responsibly; and
+
+93
+
+GEN/VER67/03-25
+
+5.5.1
+
+5.5.2
+
+GENERAL (GEN)
+
+f.
+
+Rule 5.5.19 requires an Authorised Person to report material Cyber Incidents to the DFSA.
+
+In this section:
+
+(a)
+
+“Cyber Incident” means an incident arising from the malicious use of information or communication technology that adversely affects an Authorised Person’s ICT Assets;
+
+(b)
+
+“Cyber Risk” means the risk of:
+
+(i)
+
+financial loss, operational disruption or damage; or
+
+(ii)
+
+loss of confidentiality, integrity or availability of ICT Assets,
+
+resulting from a Cyber Incident;
+
+(c)
+
+“Cyber Risk Management Framework” means the framework to identify, assess and manage Cyber Risk required by Rule 5.5.2;
+
+(d)
+
+“Cyber Incident Response Plan” means the plan for dealing with Cyber Incidents required by Rule 5.5.17;
+
+(e)
+
+“ICT Asset” or “Information and Communication Technology Asset” means any data, any device or any other component of the information technology infrastructure, such as application software, firmware, databases, hardware, or end-user computing tools;
+
+(f)
+
+“ICT Service” or “Information and Communication Technology Service” means an information and communication technology related service, such as hosting, maintenance or repair services of ICT Assets or any other service that involves accessing an Authorised Person’s IT Systems or Networks or accessing or processing an Authorised Person’s data;
+
+(g)
+
+“IT System” means an assembly of ICT Assets and related methods and procedures, organised information processing functions;
+
+to provide
+
+(h)
+
+“Network” means a group of ICT Assets that are interconnected to exchange data, together with the communication channels between those ICT Assets; and
+
+(i)
+
+“Third-Party Cyber Risk” means Cyber Risk that may arise from the use of ICT Services provided by a third party or a subcontractor of that third party.
+
+Cyber Risk Management Framework
+
+(1)
+
+An Authorised Person must establish and maintain a Cyber Risk Management Framework to identify, assess and manage Cyber Risk effectively in an integrated and comprehensive manner.
+
+(2)
+
+An Authorised Person must ensure the Cyber Risk Management Framework is in writing and is approved by its Governing Body.
+
+(3)
+
+The Cyber Risk Management Framework must:
+
+94
+
+GEN/VER67/03-25
+
+GENERAL (GEN)
+
+(a)
+
+include systems and controls which are appropriate to the nature, scale and complexity of the activities conducted by the Authorised Person; and
+
+(b) have clearly defined
+
+including accountability for decision making during business-as-usual operations as well as in stressed situations.
+
+roles and
+
+responsibilities,
+
+(4)
+
+The systems and controls in (3)(a) must include:
+
+(a) a system for identifying and assessing Cyber Risk which enables the Authorised Person to implement the requirements in Rule 5.5.5;
+
+(b) a system for protecting ICT Assets in accordance with Rules
+
+5.5.6 to 5.5.15; and
+
+(c) a system for managing and controlling Cyber Incidents which enables the Authorised Person to comply with the requirements in Rules 5.5.16 to 5.5.18.
+
+(5)
+
+An Authorised Person must review periodically, and at least annually, its Cyber Risk Management Framework to ensure that it remains appropriate, effective and up-to-date.
+
+(6)
+
+An Authorised Person must integrate its Cyber Risk Management Framework within its overall risk management framework established under GEN Rules 5.3.4 to 5.3.6.
+
+Guidance
+
+1.
+
+An Authorised Person’s Cyber Risk Management Framework can be based on, or informed by, standards prepared by international organisations or recognised professional institutions, including the following standards:
+
+a.
+
+International Organisation for Standardisation: Information technology – Security techniques – Information security management systems – Overview and vocabulary (ISO standard no. 27000:2018);
+
+b.
+
+US National Institute of Standards and Technology: Framework for Improving Critical Infrastructure Cybersecurity (2018);
+
+c.
+
+Center for Internet Security: Critical Security Controls (2018);
+
+d.
+
+Committee on Payments and Market Infrastructures and the International Organisation of Securities Commissions: Guidance on cyber resilience for financial market infrastructures (2016); and
+
+e.
+
+Cloud Security Alliance: Cloud Controls Matrix

@@ -1,0 +1,207 @@
+ as a cash item.
+
+4.12.3
+
+An Authorised Person must apply a 20% risk weight to cheques, drafts and other items drawn on other banking institutions that are either payable immediately upon presentation or that are in the process of collection.
+
+Central government and central bank asset class
+
+4.12.4
+
+Subject to Rules 4.12.5, an Authorised Person must risk-weight any CR Exposure in the central government and central bank asset class in accordance with the table below.
+
+Risk weights for the central government and central bank asset class
+
+Credit Quality Grade Risk Weight
+
+1
+
+0%
+
+2
+
+20%
+
+3
+
+50%
+
+4
+
+100%
+
+5
+
+100%
+
+6
+
+150%
+
+4.12.5
+
+An Authorised Person may apply a 0% risk weight to any CR Exposure to central governments or central banks of a GCC member country which are denominated and funded in the domestic currency of the GCC member country. For the purposes of this Rule, individual Emirates of the UAE will be considered as though they were GCC member countries.
+
+Guidance
+
+Where the requirements of Rule 4.12.5 are not met the CR Exposure should be treated in accordance with Rule 4.12.4.
+
+Public Sector Entities (PSE) asset class
+
+4.12.6
+
+(1)
+
+Subject to Rule 4.12.8, an Authorised Person must risk-weight any CR Exposure in the PSE asset class in accordance with the following table:
+
+Unrate d 100%
+
+132
+
+PRU VER17.290725
+
+Risk weights for the PSE asset class
+
+Credit Quality Grade Risk Weight
+
+1
+
+20%
+
+2
+
+50%
+
+3
+
+100%
+
+4
+
+100%
+
+5
+
+100%
+
+6
+
+150%
+
+(2)
+
+In (1), sovereign PSEs in the UAE and GCC that exhibit Credit Risks comparable to their central government must be treated in accordance with the requirements set out in Rule 4.12.5, where they meet the requirements in relation to the denomination and funding of the CR Exposure, otherwise they must be treated in accordance with Rule 4.12.6(1).
+
+(3)
+
+For the purposes of this Rule, a sovereign PSE is a PSE which has been designated as such by its national authorities.
+
+(4)
+
+Any foreign currency claims on sovereign PSEs which are determined to meet the conditions of (2) must be treated as one grade less favourable than the risk weight allocated in accordance with Rules 4.12.4 and 4.12.5.
+
+Guidance
+
+Any PSE which exhibits risk characteristics of a commercial enterprise should be treated in accordance with Rules 4.12.13 to 4.12.15.
+
+Multilateral development bank (MDB) asset class
+
+4.12.7
+
+Subject to Rule 4.12.8, an Authorised Person must risk-weight any CR Exposure in the MDB asset class in accordance with the following table:
+
+Risk Weights for the MDB asset class
+
+Credit Quality Grade Risk Weight
+
+1
+
+0%
+
+2
+
+50%
+
+3
+
+50%
+
+4
+
+100%
+
+5
+
+100%
+
+6
+
+150%
+
+4.12.8
+
+An Authorised Person must apply a 0% risk weight to any CR Exposure to the qualifying MDBs set out below:
+
+(a)
+
+The World Bank Group comprised of the International Bank for Reconstruction and Development (IBRD), the Multilateral Investment Guarantee Agency (MIGA), and the International Finance Corporation (IFC);
+
+(b)
+
+The Asian Development Bank (ADB);
+
+(c)
+
+The African Development Bank (AfDB);
+
+(d)
+
+The European Bank for Reconstruction and Development (EBRD);
+
+(e)
+
+The Inter-American Development Bank (IADB);
+
+Unrated
+
+100%
+
+Unrate d 50%
+
+133
+
+PRU VER17.290725
+
+(f)
+
+The European Investment Bank (EIB);
+
+(g)
+
+The European Investment Fund (EIF);
+
+(h)
+
+The Nordic Investment Bank (NIB);
+
+(i)
+
+The Caribbean Development Bank (CDB);
+
+(j)
+
+The Islamic Development Bank (IDB); and
+
+(k)
+
+The Council of Europe Development Bank (CEDB).
+
+International organisation asset class
+
+4.12.9
+
+An Authorised Person must apply a 0% risk weight to any CR Exposure to the Bank for International Settlements, the International Monetary Fund, the European Central Bank or the European Commission.
+
+Bank asset class
+
+4.12.10 Subject to Rules

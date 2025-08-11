@@ -1,0 +1,112 @@
+ the Authorised Person.
+
+Treatment of structural foreign exchange positions
+
+A2.1.7
+
+An Authorised Person in Category 1 or 5 which has assumed a position in order to hedge partially or totally against the adverse effect of the exchange rate on its Capital Resources, in respect of an asset or any other item, may exclude such a position from the calculation of its net open foreign exchange positions subject to the following:
+
+(a)
+
+the position is of a non-dealing nature;
+
+(b)
+
+the position does no more than protect the Capital Resources of the Authorised Person; and
+
+(c)
+
+any exclusion of the position is applied consistently, with the treatment of the hedge remaining the same for the life of the asset or other item.
+
+A2.1.8
+
+In calculating its net open foreign exchange positions, an Authorised Person may exclude any foreign exchange position related to:
+
+(a)
+
+items which are included as deductions from T1 Capital or deductions from T2 Capital, such as investments in unconsolidated subsidiaries; and
+
+(b)
+
+associated companies and joint ventures, denominated in foreign currencies, which are reported in the published accounts of an Authorised Person at historic cost.
+
+Repurchase and reverse repurchase agreements
+
+A2.1.9
+
+An Authorised Person must include in its Trading Book an Exposure due to a repurchase agreement, reverse repurchase agreement, Securities and commodities borrowing, or Securities and commodities lending transactions if:
+
+(a)
+
+the Exposure is marked to market daily (cash borrowed or lent under a repurchase agreement or a reverse repurchase agreement may be included in the Trading Book even if not marked to market provided that the residual maturity of the borrowing or lending is one month or less);
+
+(b)
+
+the Collateral is adjusted to take account of changes in the value of the Securities or commodities involved;
+
+240
+
+PRU VER17.290725
+
+(c)
+
+the agreement or transaction provides for the Authorised Person's claims to be automatically and immediately offset against its Counterparty's claims if the latter defaults; and
+
+(d)
+
+such agreements and transactions are confined to their accepted and appropriate use and artificial transactions, especially those not of a short-term nature, are excluded.
+
+Guidance
+
+The Trading Book treatment for such Exposures is set out in Rule A4.7.
+
+A2.1.10 Where the conditions under Rule A2.1.9 are not met, an Authorised Person must, subject to Rule A2.1.3, include an Exposure arising under a repurchase agreement, reverse repurchase agreement, Securities and commodities borrowing or Securities and commodities lending in its Non-Trading Book.
+
+Guidance
+
+The Non-Trading Book treatment for such Exposures is set out in Rules in A4.8 and A4.9.
+
+Hedging of a Trading Book Exposure by a non-Financial Instrument
+
+A2.1.11
+
+(1)
+
+An Authorised Person may hedge a Trading Book Exposure, completely or partially, by a non-Financial Instrument that is not listed in A2.1.3. The General Market Risk Exposure associated with the non-Financial Instrument may be incorporated into the calculation of General Market Risk in the Trading Book if:
+
+(a)
+
+the specific instrument is used to hedge an Exposure in an Authorised Person's Trading Book;
+
+(b)
+
+the hedge position satisfies the Netting rules contained in the relevant Sections of the Market Risk Chapter; and
+
+(c)
+
+the hedge position is marked to market or marked to model and is valued regularly on a prudent and consistent basis.
+
+(2)
+
+For the purposes of (1), the non-Financial Instrument must be treated as attracting capital charges as if it were a Financial Instrument.
+
+Guidance
+
+1.
+
+If the conditions for incorporating non-Financial Instruments in the calculation of General Market Risk in the Trading Book under Rule A2.1.11 are not met, they will be treated as Non-Trading Book items.
+
+2.
+
+For the purposes of Section A2.1, a loan will attract General Market Risk (see Chapter 5) and Counterparty Risk (see Chapter 4) on the marked-to-market valuation.
+
+241
+
+PRU VER17.290725
+
+A2.1.12
+
+(1)
+
+If an internal hedge meets the criteria specified in (2), an Authorised Person may include it in the Trading Book without prejudice to the Capital Requirement application to the Non-Trading Book "leg" of the internal hedge.
+

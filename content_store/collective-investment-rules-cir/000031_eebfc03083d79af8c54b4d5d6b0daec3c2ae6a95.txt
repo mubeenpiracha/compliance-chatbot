@@ -1,0 +1,125 @@
+ Fund liquidity and risk management - Good Practices and Issues for Consideration” issued by OICU- at IOSCO http://www.iosco.org/library/pubdocs/pdf/IOSCOPD591.pdf). The DFSA believes that the measures identified in that report would, if adopted by the Fund Managers as appropriate to the nature, scale and complexity of their Funds, would enable such managers to meet their overarching obligations in Rule 8.6A.1. In the DFSA’s view, there are certain specialist classes of Funds which generally do not lend themselves to be Open-ended, such as Private Equity Funds (because of the long-term nature of their investments), and Fund of Funds or Feeder Funds (unless the Funds in which they invest themselves are Open-ended). Conversely, there are Funds which may lend themselves better to being structured as Open-ended Funds offering redemptions, such as Funds investing in transferable securities (e.g. UCITS style Funds), or ETFs – due to the liquidity of the underlying classes of their assets, provided they meet the liquidity risk management controls referred to in Rule 8.6A.1. However, it is
+
+47
+
+CIR/VER38/08-24
+
+8.6B
+
+8.6B.1
+
+8.7
+
+8.7.1
+
+COLLECTIVE INVESTMENT RULES (CIR)
+
+a matter for the Fund Manager to objectively assess the liquidity profile of the Fund and associated risks.
+
+Confirmation notes
+
+(1) When the Fund Manager of a Public Fund Executes a Transaction relating to a Unit of the Fund, it must ensure that a confirmation note is sent to the Unitholder as soon as possible and no later than two business days after the date of Execution of the Transaction.
+
+(2)
+
+The confirmation note must set out:
+
+(a)
+
+the Fund Manager’s name and address;
+
+(b)
+
+the Unitholder’s name;
+
+(c)
+
+a description of the Fund;
+
+(d)
+
+the date and time of receipt of the request for the Transaction to be executed and the method of payment;
+
+(e)
+
+the nature of the Transaction;
+
+(f)
+
+the number of Units subject to the Transaction;
+
+(g)
+
+the date, time and price at which it was executed;
+
+(h)
+
+the reference valuation date;
+
+(i)
+
+the gross value of including charges subscribing or net amount after charges for redemptions; and
+
+the Transaction,
+
+for
+
+(j)
+
+the total sum of commissions and expenses charged, and a breakdown of those commissions and charges.
+
+Unitholder register
+
+(1)
+
+Subject to (5), a Fund Manager must maintain a register of Unitholders.
+
+(2)
+
+The register must contain:
+
+(a)
+
+the name and address of each Unitholder;
+
+(b)
+
+the number of Units including fractions of a Unit of each class held by each Unitholder; and
+
+(c)
+
+the date on which the Unitholder was registered in the register for the Units standing in his name.
+
+(3)
+
+A Fund Manager must take all reasonable steps and exercise all due diligence to ensure that the register is kept complete and up to date.
+
+48
+
+CIR/VER38/08-24
+
+8.8
+
+8.8.1
+
+8.8.2
+
+8.8.3
+
+(1)
+
+(2)
+
+COLLECTIVE INVESTMENT RULES (CIR)
+
+(4)
+
+A Fund Manager or, if applicable the Appointed Fund Administrator or Appointed Custody Provider, must, subject to (5), make the Unitholder register in electronic or hard copy form available for inspection by Unitholders during normal business hours at the Fund Manager’s or Appointed Fund Administrator’s place of business in the DIFC or otherwise in a designated location in the DIFC.
+
+(5) Where a Fund is structured as an Investment Trust, the Trustee must maintain the register of Unitholders in accordance with the requirements in the Investment Trust Law 2006 and make the register in electronic or hard copy form available for inspection by Unitholders during normal business hours at the Trustee’s place of business in the DIFC or otherwise in a designated location in the DIFC.
+
+Meetings of Unitholders
+
+In the case of a Public Fund, the Fund Manager must hold at least two meetings of the Governing Body of every Public Fund which has such a Body every 12 month period from the date of registration of that Fund with the DFSA.
+
+The

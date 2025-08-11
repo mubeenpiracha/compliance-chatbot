@@ -1,0 +1,117 @@
+ and documentary proof that such authorisations have been obtained.
+
+(4)
+
+The requirement in subsection (1)(a) is subject to section 819 (publication of documents on merging company website).
+
+(5)
+
+The requirements of subsection (3)(b) and (3)(c) are subject to section 824 (circumstances in which certain particulars and reports not required) and section 829 (agreement to dispense with reports etc).
+
+(6)
+
+Section 1005 (right to hard copy version) does not apply to a document sent or supplied in accordance with subsection (1)(b) to a member who has consented to information being sent or supplied by the merging company by electronic means and has not revoked that consent.
+
+(7)
+
+Part 4 of Schedule 5 (communications by means of a website) does not apply for the purposes of subsection (1)(b) (but see section 819(4)).
+
+(8)
+
+The requirements in this section are subject to section 825 (other circumstances in which reports and inspection not required).
+
+819. Publication of documents on merging company website (merger)34
+
+(1)
+
+Section 818(1)(a) does not apply to a document if the conditions in subsections (2) to (4) are met in relation to that document. This is subject to subsection (6).
+
+(2)
+
+The first condition is that the document is made available on a website which–
+
+(a)
+
+is maintained by or on behalf of the merging company, and
+
+(b)
+
+identifies the merging company.
+
+(3)
+
+The second condition is that access to the document on the website is not conditional on payment of a fee or otherwise restricted.
+
+(4)
+
+The third condition is that the document remains available on the website throughout the period beginning one month before, and ending on, the date of any meeting of the merging company summoned for the purpose of approving the scheme.
+
+(5)
+
+A person is able to obtain a copy of a document as required by section 818(1)(b) if–
+
+(a)
+
+the conditions in subsections (2) and (3) are met in relation to that document, and
+
+(b)
+
+the person is able, throughout the period specified in subsection (4)–
+
+(i)
+
+to retain a copy of the document as made available on the website, and
+
+(ii)
+
+to produce a hard copy of it.
+
+(6) Where members of a merging company are able to obtain copies of a document only as mentioned in subsection (5), section 818(1)(a) applies to that document even if the conditions in subsections (2) to (4) are met.
+
+34 Amended 9 September 2024
+
+456
+
+820. Report on material changes of assets of merging companies
+
+The directors or equivalent office holders of each of the merging companies must report–
+
+(a)
+
+to every meeting of the members, or any class of members, of that merging company summoned for the purpose of agreeing to the scheme, and
+
+(b)
+
+to the directors or equivalent office holders of every other merging company,
+
+any material changes in the property and liabilities of that merging company between the date when the draft terms were adopted and the date of the meeting in question.
+
+(2)
+
+The directors or equivalent office holders of each of the other merging companies must in turn–
+
+(a)
+
+report those matters to every meeting of the members, or any class of members, of that merging company summoned for the purpose of agreeing to the scheme, or
+
+(b)
+
+send a report of those matters to every member entitled to receive notice of such a meeting.
+
+(3)
+
+The requirement in this section is subject to section 825 (other circumstances in which reports and inspection not required) and section 829 (agreement to dispense with reports etc).
+
+821. Approval of articles of the surviving company (merger by consolidation)
+
+In the case of a merger by consolidation, the articles of the surviving company, or a draft of them, must be approved by ordinary resolution of each of the merging companies.
+
+822. Protection of holders of securities to which special rights attached (merger)
+
+(1)
+
+The scheme must provide that where any securities of a merging company (other than shares) to which special rights are attached are held by a person otherwise than as a member or creditor of the company, that person is to receive rights in the surviving company of equivalent value.
+
+(2)
+
+Subsection (1) does not apply if

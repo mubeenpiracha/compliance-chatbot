@@ -1,0 +1,101 @@
+;0} − min{𝐶𝑀𝐴;0};0
+
+}
+
+𝑁𝑆∈𝑀𝐴
+
+𝑁𝑆∈𝑀𝐴
+
+where:
+
+NS =
+
+the index that denotes the Netting Sets that are subject to the single Margin Agreement
+
+VNS =
+
+the current net mark-to-market value of all the transactions within the Netting Set
+
+283
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+CMA =
+
+the net haircut value of all currently available Collateral (including both NICA and VM) under the Margin Agreement
+
+Guidance
+
+1.
+
+There are two formulations of RC depending on whether the transactions with a Counterparty are unmargined or margined.
+
+2.
+
+For unmargined transactions the RC intends to capture the loss that would occur if a Counterparty were to default and were closed out of its transactions immediately. For margined transactions the RC intends to capture the loss that would occur if a counterparty were to default at the present or at a future time, assuming that the close-out and replacement of transactions occur instantaneously.
+
+3.
+
+In both cases, the haircut applicable to non-cash Collateral in the RC formulation represents the potential change in value of the Collateral during the appropriate time period (one year for unmargined transactions and the MPoR for margined transactions).
+
+4.
+
+To calculate the net Collateral amount under Rule A4.8.3(3), an Authorised Firm should account Collateral received with a positive sign and the amount posted with a negative sign.
+
+5.
+
+In the formula in Rule A4.8.3(2), TH + MTA – NICA represents the largest exposure that would not trigger a Variation Margin call and it contains levels of Collateral that need always to be maintained. For example, without initial margin, the greatest exposure that would not trigger a Variation Margin call is the threshold plus any minimum transfer amount. In the adapted formulation, NICA is subtracted from TH + MTA. This makes the calculation more accurate by fully reflecting both the actual level of exposure that would not trigger a margin call and the effect of Collateral held and /or posted by a bank. The calculation is floored at zero, recognising that the Authorised Firm may hold NICA in excess of TH + MTA, which could otherwise result in a negative replacement cost.
+
+Allocation of transactions to asset classes
+
+A4.8.4 (1) An Authorised Firm must allocate each transaction of a Netting Set to one of the following asset classes to determine the potential future exposure of the Netting Set under Rule A4.8.6:
+
+(a)
+
+interest rate asset class;
+
+(b)
+
+foreign exchange asset class;
+
+(c)
+
+credit asset class;
+
+(d) equity asset class; or
+
+(e)
+
+commodity asset class.
+
+(2) An Authorised Firm must conduct the allocation in (1) on the basis of the primary
+
+risk factor of the underlying instrument.
+
+(3)
+
+If a transaction is exposed to multiple risk factor referencing multiple asset classes, an Authorised Firm must:
+
+(a)
+
+take sensitivities and volatility of the underlying instrument into account for determining the primary risk factor; and
+
+284
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+(b) assign the transaction to a single asset class except where the DFSA requires the Authorised Firm to assign the transaction to more than one asset class.
+
+Guidance
+
+1.
+
+Most transactions have one primary risk factor (for example, an interest curve for an interest rate swap, a reference entity for a credit default swap, a foreign exchange rate for a foreign exchange call option, etc.). When this primary risk factor is clearly identifiable, the transaction will fall into one the asset classes.
+
+2.
+
+Under Rule A4.8.4(3)(b) the DFSA may require more complex trades (i.e. trades that may have more than one risk driver such as multi-asset or hybrid derivatives) to be allocated to more than one asset class, resulting in the same position being included in multiple classes. In this case, for each asset class to which the position is allocated, the Authorised Firm should determine appropriately

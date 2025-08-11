@@ -1,0 +1,77 @@
+ and reliable. These systems should be integrated with other risk management systems within the organisation (such as credit analysis). Such systems are expected to include:
+
+a.
+
+documented policies and procedures for the process of valuation. This includes clearly defined responsibilities of the various areas involved in the determination of the valuation, sources of market information and review of their appropriateness, guidelines for the use of unobservable inputs reflecting the Authorised Person's assumptions of what market participants would use in pricing the position, frequency of independent valuation, timing of closing prices, procedures for adjusting valuations, end of the month and ad-hoc verification procedures; and
+
+b.
+
+clear and independent (i.e. independent of front office) reporting lines for the department accountable for the valuation process. The reporting line should ultimately be to a main board executive Director or equivalent.
+
+247
+
+PRU VER17.290725
+
+Valuation methodologies
+
+Marking-to-market
+
+3.
+
+Marking-to-market is at least the daily valuation of positions at readily available close out prices in orderly transactions that are sourced independently. Examples of readily available close out prices include exchange prices, screen prices, or quotes from several independent reputable brokers.
+
+4.
+
+Authorised Persons should mark-to-market as much as possible. The more prudent side of bid/offer should be used unless the institution is a significant market maker in a particular position type and it can close out at mid-market. Authorised Persons should maximise the use of relevant observable inputs and minimise the use of unobservable inputs when estimating fair value using a valuation technique. However, observable inputs or transactions may not be relevant, such as in a forced liquidation or distressed sale, or transactions may not be observable, such as when markets are inactive. In such cases, the observable data should be considered, but may not be determinative.
+
+Marking-to-Model
+
+5.
+
+Only where marking-to-market is not possible should Authorised Persons mark-to-model, but in such cases, the Authorised Person should be able to demonstrate to the Regulator that the approach is prudent. Marking-to-model is defined as any valuation which has to be benchmarked, extrapolated or otherwise calculated from a market input. When marking-to-model, an extra degree of conservatism is appropriate. The Regulator will consider the following in assessing whether a mark-to-model valuation is prudent:
+
+a.
+
+senior management should be aware of the elements of the Trading Book or of other fair-valued positions which are subject to mark-to-model and should understand the materiality of the uncertainty this creates in the reporting of the risk/performance of the business;
+
+b.
+
+market inputs should be sourced, to the extent possible, in line with market prices (as discussed above). The appropriateness of the market inputs for the particular position being valued should be reviewed regularly;
+
+c.
+
+where available, generally accepted valuation methodologies for particular products should be used as far as possible;
+
+d.
+
+where the model is developed by the Authorised Person itself, it should be based on appropriate assumptions, which have been assessed and challenged by suitably qualified parties independent of the development process. The model should be developed or approved independently of the front office. It should be independently tested. This includes validating the mathematics, the assumptions and the software implementation;
+
+248
+
+PRU VER17.290725
+
+e.
+
+there should be formal change control procedures in place and a secure copy of the model should be held and periodically used to check valuations;
+
+f.
+
+risk management should be aware of the weaknesses of the models used and how best to reflect those in the valuation output;
+
+g.
+
+the model should be subject to periodic review to determine the accuracy of continued appropriateness of the assumptions, analysis of profit and loss versus risk factors, comparison of actual close out values to model outputs); and
+
+its performance
+
+(e.g. assessing
+
+h.
+
+valuation adjustments should be made as appropriate, for example, to cover the uncertainty of the model valuation (see also valuation adjustments in Guidance notes 6 to 14.)
+
+Independent price verification
+
+6.
+
+Independent price verification is distinct from daily mark-to-market. It is the process by which market prices or model inputs are regularly verified for accuracy. While daily marking-to-market may be performed by dealers, verification of market prices or model inputs should be performed by a unit independent of the dealing room, at least monthly (or, depending on the nature of the market/trading activity, more frequently). It need not be performed as frequently as daily mark

@@ -1,0 +1,41 @@
+. The financial institution should have visibility into the monitoring rules and escalation protocols employed by the third party specific to the financial institution, as well as regular reporting from the third party on cyber event case management. The financial institution should integrate the third party’s cyber event response into its incident management framework.
+
+Desired Outcome 10.3 – Security Testing
+
+10.3.1 A financial institution should validate the effectiveness of IT controls. Baseline validation can take the form of vulnerability assessments while more advanced validation can be obtained by adversarial forms of testing.
+
+10.3.2 A financial institution should establish a process to conduct vulnerability assessments (e.g., identifying configuration errors, insecure design, outdated anti-virus signature library, etc.) of its IT environment both on a regular basis and as relevant cyber threat information comes to light. Critical systems should be prioritised for assessment and findings from the vulnerability assessments should be addressed in accordance with the institution’s change and patch management processes. Such assessments can take reference from common industry standards or from vendor recommendations for security configurations.
+
+financial
+
+10.3.3 A financial institution should regularly arrange for adversarial types of testing on its production systems and networks with adequate safeguards. Such testing can take the form of traditional penetration tests of online platforms, social engineering exercises such as phishing email campaigns on staff, threat hunting exercises, bug bounty programmes where ethical hackers are incentivised to report vulnerabilities to the financial institution, or red teaming exercises where a team of cyber security experts are permitted to simulate sophisticated threat intelligence-driven targeted attacks against the financial institution. Findings arising from these adversarial tests should inform remediations or enhancements to controls in the financial institutions IT environment as well as improvements to policies, procedures, and processes where a technical control cannot be implemented.
+
+10.3.4
+
+In determining the scope of adversarial testing, the financial institution should consider the following:
+
+10.3.4.a A review should be conducted to identify what assets should be tested and
+
+the objectives to be achieved from testing those assets.
+
+10.3.4.b Based on the identified assets, scenarios of compromise should be defined based on the channels through which a threat actor could reach the assets28.
+
+27 These are typically provided via managed security operation centres that offer a suite of monitoring, protection, detection, and incident response services. 28 With the scenarios of compromise identified, a financial institution can take steps to then define countermeasures to prevent, or mitigate the effects of, threats to the asset as part of a threat modelling exercise.
+
+65
+
+VER01.201124
+
+10.3.4.c The approach and methodology of the test should be defined. The approach could take the form of the examples listed in 10.14 or other types of test approaches which are outcome-based (e.g., capture-the-flag29). Where applicable, the testing methodology should include an agreed ‘stop point’ which can be used a criterion to evaluate the results of the test (e.g., compromising privileged account credentials, performing privilege escalation, etc.). The stop point is crucial in containing the potential harm that may arise from the testing party’s infiltration activities.
+
+10.3.4.d Appropriate tools should be chosen to perform the test in accordance with
+
+the test objectives, approach, and methodology.
+
+10.3.4.e An appropriate duration should be set commensurate with the test objectives, approach, and methodology. If such tests are performed on the production environment, the tests should not compromise the delivery of financial services to customers e.g., scheduling such tests outside of peak usage periods.
+
+10.3.4.f All findings should be formally documented and prioritised according to the severity, impact, and likelihood of the identified vulnerabilities. Where appropriate, the financial institution should establish or adopt a risk rating methodology30 that would enable a standardised approach to classifying vulnerabilities relevant to their business impact on the financial institution. The financial institution should remediate all findings and retest them to validate the effectiveness of remediation prior to closure of the finding.
+
+10.3.5 Where appropriate and depending on the nature and objectives of the test or exercise, a financial institution should involve relevant stakeholders, such as the governing body, senior management, business functions, third party service provides and customers.
+
+29 Capture-the-flag exercises involve ethical or white hat hackers who are given a specific target within an organisation’s IT infrastructure to ‘compromise’. The hackers can use any tools and exploit any channel to reach the target within a time

@@ -1,0 +1,131 @@
+ account respectively.
+
+(2)
+
+The Fund Manager must ensure that any agreement in (1) is permitted by the Constitution and specified in the Prospectus in sufficient detail for a Unitholder or a prospective Unitholder to make an informed decision in relation to the allocation of such charges and expenses to be paid from the capital property or the income property as the case may be.
+
+Payments of liabilities on transfer of assets
+
+8.13.8 Where the property of a Body Corporate or of another Fund is transferred to a Fund or to the Fund Manager for the account of the Fund or to the Trustee to hold on trust for the Unitholders in consideration of the issue of Units in the Fund to Unitholders in that Body Corporate or in that other Fund, Rule 8.13.9 applies.
+
+8.13.9
+
+The Fund Manager or in the case of an Investment Trust, the Trustee, as the successor in title to the property transferred, may pay out of the Fund Property any liability arising after the transfer which, had it arisen before the transfer, could properly have been paid out of the property transferred, but only if:
+
+(a)
+
+there is nothing in the Constitution of the Fund expressly forbidding the payment; and
+
+(b)
+
+the Fund Manager or the Trustee, as the case may be, is of the opinion that proper provision was made for meeting such liabilities as were known or could reasonably have been anticipated at the time of the transfer.
+
+57
+
+CIR/VER38/08-24
+
+9
+
+9.1
+
+9.1.1
+
+9.2
+
+9.2.1
+
+9.2.2
+
+9.2.3
+
+9.2.4
+
+COLLECTIVE INVESTMENT RULES (CIR)
+
+ACCOUNTING, AUDIT AND PERIODIC REPORTING OF A FUND
+
+Application
+
+(1)
+
+This chapter applies to a Fund Manager and a Trustee of a Domestic Fund.
+
+(2)
+
+In this Chapter, references to a “Fund” mean a “Domestic Fund”.
+
+Guidance
+
+The IFR module contains specific requirements relating to reporting that apply to a Fund and its Fund Manager where that Fund is an Islamic Fund.
+
+Preparation of Fund financial statements
+
+Financial statements and financial reporting standards
+
+(1)
+
+A Fund Manager of a Fund must prepare financial statements for each financial year of the Fund.
+
+(2)
+
+A Fund Manager must, in respect of a Fund, prepare and maintain all financial statements in accordance with the International Financial Reporting Standards (IFRS) or USGAAP as supplemented by the Statement of Recommended Practice (SORP).
+
+Accounting Records
+
+A Fund Manager must keep Accounting Records that are sufficient to show and explain transactions and are as such, to:
+
+(a)
+
+be capable of disclosing the financial position of the Fund on an ongoing basis; and
+
+(b)
+
+record the financial position of the Fund as at its financial year end.
+
+Accounting Records must be maintained by a Fund Manager such as to enable the Governing Body and, if appointed, the Trustee or any Persons providing the oversight function of the Fund to ensure that any financial statements prepared by the Fund Manager in relation to the Fund comply with the legislation applicable in the DIFC.
+
+The Accounting Records must be:
+
+(a)
+
+retained by the Fund Manager or Fund for at least six years from the date to which they relate;
+
+(b)
+
+at all reasonable times, open to inspection by the DFSA or the Registered Auditor of the Fund; and
+
+58
+
+CIR/VER38/08-24
+
+9.3
+
+9.3.1
+
+9.3.2
+
+9.3.3
+
+9.3.4
+
+COLLECTIVE INVESTMENT RULES (CIR)
+
+(c)
+
+capable of reproduction, within a reasonable period not exceeding 3 business days, in hard copy and in English.
+
+Auditors of a Fund
+
+Guidance
+
+1.
+
+Article 27(1)(c) of the Law requires every Domestic Fund to have a Registered Auditor appointed to it in accordance with Part 8 of the Regulatory Law and any Rules made for the purposes of that Part.
+
+2.
+
+Part 8 of the Regulatory Law sets out how an Auditor must be appointed to each Domestic Fund and the main duties and functions of the Auditor. This section sets out additional requirements that apply in relation to Registered Auditors of a Fund.
+
+3.
+
+Under Article 97C(1) of the Regulatory

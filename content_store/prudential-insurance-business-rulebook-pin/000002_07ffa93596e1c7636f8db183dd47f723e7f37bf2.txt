@@ -1,0 +1,63 @@
+ A5.4 Adjusted non-cellular equity ............................................................................... 96 A5.5 Hybrid non-cellular capital adjustment ............................................................... 97 A5.6 Adjusted Cellular Capital Resources ................................................................... 98 A5.7 Base cellular capital ........................................................................................... 98 A5.8 Adjusted cellular equity ...................................................................................... 99 A5.9 Non-cellular capital adjustment ....................................................................... 100 A5.10 Hybrid cellular capital adjustment .................................................................... 101
+
+iii
+
+PIN VER07.290725
+
+APP6 CALCULATION OF MINIMUM NON-CELLULAR CAPITAL REQUIREMENT AND
+
+MINIMUM CELLULAR CAPITAL REQUIREMENT .................................................. 102
+
+A6.1 Purpose and general provisions ........................................................................ 102 A6.2 Minimum Segmental Capital Requirement ........................................................ 102 A6.3 Applicability of components to assets of the Insurer .......................................... 104 A6.4 Default risk component .................................................................................... 105 A6.5 Investment volatility risk component ................................................................. 105 A6.6 Off-balance sheet asset risk component ........................................................... 106 A6.7 Off-balance sheet liability risk component ........................................................ 106 A6.8 Concentration risk component ......................................................................... 107 A6.9 Size factor component ...................................................................................... 108 A6.10 Underwriting risk component ............................................................................ 109 A6.11 Reserving risk component ................................................................................. 109 A6.12 Long-Term Insurance risk component ............................................................... 109 A6.13 Asset management risk component .................................................................. 110
+
+APP7 CALCULATION OF ADJUSTED FUND CAPITAL RESOURCES ............................... 111
+
+A7.1 Purpose and general provisions ........................................................................ 111 A7.2 Adjusted Fund Capital Resources ..................................................................... 111 A7.3 Base fund capital ............................................................................................. 111 A7.4 Adjusted fund equity ......................................................................................... 112 Fund hybrid capital adjustment ......................................................................... 113 A7.5
+
+APP8 CALCULATION OF MINIMUM FUND CAPITAL REQUIREMENT ............................. 114
+
+A8.1 Purpose and general provisions ........................................................................ 114 A8.2 Minimum Fund Capital Requirement ................................................................. 114 A8.3 Applicability of components to assets of the fund .............................................. 115 A8.4 Default risk component .................................................................................... 115 A8.5 Investment volatility risk component ................................................................. 116 A8.6 Off-balance sheet asset risk component ........................................................... 116 A8.7 Off-balance sheet liability risk component ........................................................ 117 A8.8 Concentration risk component ......................................................................... 118 A8.9 Size factor component ...................................................................................... 119 A8.10 Long-Term Insurance risk component ............................................................... 119 A8.11 Asset management risk component .................................................................. 120
+
+APP9 CALCULATION OF ADGM BUSINESS RISK CAPITAL REQUIREMENT .................... 121
+
+A9.1 Purpose and general provisions ........................................................................ 121 A9.2 ADGM Business Risk Capital Requirement ........................................................ 121 A9.3 ADGM underwriting risk component .................................................................. 121 A9.4 ADGM reserving risk component ....................................................................... 122 A9.5 ADGM long-term insurance risk component ...................................................... 122
+
+APP10 REPORTING TO THE REGULATOR ...................................................................... 123
+
+A10.1 Purpose and general provisions ........................................................................ 123 A10.2 Returns for Cells, Long-Term Insurance Funds and ADGM business ................... 123
+
+iv
+
+PIN VER07.290725
+
+A10.3 Completion of Forms ........................................................................................ 125 A10.4 Statement by Directors ..................................................................................... 126
+
+v
+
+PIN VER07.290725
+
+1
+
+APPLICATION
+
+1.1
+
+Application
+
+1.1.1 Subject to Rule 1.1.2, this Rulebook ("PIN") applies to every Insurer except to the extent
+
+that a provision specifies a narrower application.
+
+Guidance
+
+1.
+
+An Insurer is an Authorised Person which is authorised under its Financial Services Permission to carry on in or from ADGM, one or more of the Regulated Activities constituting Insurance Businesses.
+
+2.
+
+The Rules in PIN apply in relation to all activities of an Insurer.
+
+1.1.2 Chapters 2, 3, 4, 6, 7 and 9 do not apply to an Insurer that is an Authorised ISPV.
+
+1.1.3 Except where alterative provision is made

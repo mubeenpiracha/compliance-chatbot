@@ -1,0 +1,109 @@
+ Risk mitigation has been considered as part of any rating applied to a tranche of a securitisation, the risk weighting should be used and no additional capital recognition is permitted.
+
+4.14.23 An Authorised Firm must treat any securitisation Exposure as an unrated Exposure
+
+where:
+
+(a)
+
+the external credit assessment incorporates the credit protection provided directly to the SPE by a protection provider which is not an eligible protection provider;
+
+(b)
+
+the external credit assessment is at least partly based on unfunded support provided by the Authorised Firm itself (e.g. if an Authorised Firm buys ABCP) where it provides an unfunded securitisation Exposure extended to the ABCP Programme, such as a liquidity facility or Credit Enhancement, and that Exposure plays a role in determining the credit assessment on the ABCP, the Authorised Firm must treat the ABCP as if it were not rated and continue to hold capital against the other securitisation Exposures it provides);
+
+(c)
+
+the Credit Risk mitigant is not obtained by the SPE but is separately obtained and applied to a specific securitisation Exposure (e.g. a particular tranche); or
+
+(d)
+
+the Credit Risk mitigation does not meet the eligibility criteria for mitigation specified in section 4.13.
+
+148
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+4.14.24 Where Credit Risk mitigation is applied to a specific Exposure within a securitisation the Authorised Firm must treat the Exposure as unrated, and then use the mitigation as set out in section 4.13 should the Rules contained in that section apply.
+
+4.14.25 An Authorised Firm must not use an external credit rating agency rating for risk weighting purposes where the assessment is at least partly based on unfunded support provided by the Authorised Firm itself.
+
+4.14.26 The treatment outlined in Rule 4.14.24 also applies to Exposures in the Authorised Firm’s Trading Book. An Authorised Firm’s Capital Requirement for such Exposures held in the Trading Book can be no less than the amount required under the Non- Trading Book.
+
+Calculation of RWA amounts for securitisation Exposures
+
+4.14.27 (1)
+
+In order to calculate the RWA amount for a securitisation position, the relevant risk weight must be assigned to the Exposure value of the position in accordance with this section, based on the credit quality of the position.
+
+(2)
+
+For the purposes of this Rule, the credit quality of a position must be determined by reference to the applicable credit quality assessment from a recognised external credit rating agency.
+
+4.14.28 In cases where there are Exposures to different tranches in a securitisation, the
+
+Exposure to each tranche must be considered a separate securitisation position.
+
+4.14.29 The Exposure value of an off-balance sheet securitisation position must, subject to
+
+A4.2.2, be its nominal value multiplied by a CCF of 100%, wherever applicable.
+
+4.14.30 The Exposure value of a securitisation position arising from a financial derivative must be determined in accordance with Rules 4.6.14 to 4.6.21 dealing with treatment of financial derivatives.
+
+Assigning risk weights
+
+4.14.31 An Authorised Firm must assign a risk weight for any SE Exposure in accordance
+
+with the tables below, to calculate the Credit RWA amounts for that Exposure.
+
+149
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+Risk Weights for Long-Term securitisation Exposures
+
+Long Term rating category
+
+Credit Quality Grade
+
+1
+
+2
+
+3
+
+4
+
+5 and above including unrated
+
+Risk Weight to be applied to securitisation Exposures(excluding Re-securitisation Exposures)
+
+20%
+
+50%
+
+100%
+
+350%
+
+1000% or Deduction from Capital Resources
+
+Risk weight applied to Re-securitisation Exposures
+
+40%
+
+100%
+
+225%
+
+650%
+
+1000% or Deduction from Capital Resources
+
+Risk Weights for Short-Term securitisation Exposures
+
+Short- term

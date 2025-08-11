@@ -1,0 +1,89 @@
+ amount of minority interests of a Subsidiary that is eligible for inclusion in its consolidated CET1 Capital by subtracting from the minority interests of that Subsidiary the result of multiplying the amount referred to in (a) by the percentage referred to in (b):
+
+(a)
+
+the CET1 Capital of the Subsidiary minus the lesser of the following:
+
+(i)
+
+the amount of CET1 Capital of that Subsidiary required to meet the sum of the Subsidiary’s CET1 Capital requirement (on a solo basis) of 60% of the Risk Capital Requirement and its Capital Conservation Buffer requirement of 25% of the Risk Capital Requirement; or
+
+(ii)
+
+the amount of consolidated CET1 Capital that relates to that Subsidiary that is required on a consolidated basis to meet the sum of its Financial Group’s CET1 Capital requirement of 60% of the Risk Capital Requirement and its Capital Conservation Buffer requirement of 25% of the Risk Capital Requirement;
+
+76
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+(b)
+
+the minority interests of the Subsidiary expressed as a percentage of all CET1 Capital instruments of that Undertaking plus the related retained earnings and share premium accounts.
+
+Qualifying AT1, T1, T2 Capital and qualifying own funds
+
+3.16.4 Qualifying AT1, T1, T2 Capital and qualifying Capital Resources must include the minority interest, AT1, T1 or T2 Capital instruments, as applicable, plus the related retained earnings and share premium accounts, of a Subsidiary, only where the following conditions are met:
+
+(a)
+
+the Subsidiary is one of the following:
+
+(i)
+
+an Authorised Firm; or
+
+(ii)
+
+a regulated entity,
+
+(b)
+
+the Subsidiary is a member of the Financial Group and included in the scope of consolidated supervision in accordance with chapter 8; and
+
+(c)
+
+those instruments are owned by persons other than the Undertakings included in the Financial Group.
+
+Qualifying AT1 and T2 Capital issued by a special purpose entity
+
+3.16.5 AT1 and T2 Capital instruments issued by an SPE, and the related retained earnings and share premium accounts, are included in qualifying AT1 or T2 Capital or qualifying Capital Resources, as applicable, only where the following conditions are met:
+
+(a)
+
+the SPE issuing those instruments is included fully in the Financial Group to which the Authorised Firm belongs;
+
+(b)
+
+the instruments, and the related retained earnings and share premium accounts, are included in qualifying AT1 Capital only where the conditions laid down in Rule 3.14.3(1) are satisfied;
+
+(c)
+
+the instruments, and the related retained earnings and share premium accounts, are included in qualifying T2 Capital only where the conditions laid down in Rule 3.15.3(1) are satisfied; and
+
+(d)
+
+the only asset of the SPE is its investment in the Capital Resources of any of its Parents or their Subsidiaries, which are included fully in the Financial Group to which the Authorised Firm belongs, the form of which satisfies the relevant conditions laid down in Rule 3.14.3(1) or Rule 3.15.3(1), as applicable.
+
+Guidance
+
+If the DFSA considers the assets of a special purpose entity to be minimal and insignificant for such an entity, the DFSA may consider waiving the condition specified in Rule 3.16.5(d).
+
+77
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+Qualifying T1 Capital instruments included in consolidated T1 Capital
+
+3.16.6 An Authorised Firm must determine the amount of qualifying T1 Capital of a Subsidiary that is included in consolidated T1 Capital of the Authorised Firm’s Financial Group by subtracting from the qualifying T1 Capital of that Subsidiary the result of multiplying the amount referred to in (a) by the percentage referred to in (b):
+
+(a)
+
+the lesser of the following:
+
+(i)
+
+the amount of T1 Capital of that Subsidiary required to meet the sum of the subsidiary’s T1 Capital requirement (on a solo basis) of 80% of the Risk Capital Requirement

@@ -1,0 +1,81 @@
+ in the securitisation in line with section 4.13.
+
+4.14.49 An Authorised Firm must not recognise any SPE which is an Issuer of securitisation Exposures, as an eligible credit protection provider. Guarantees provided must meet the requirements of section 4.13.
+
+4.14.50 For the purpose of setting regulatory capital against a maturity mismatch, the Capital Requirement must be determined in accordance with section 4.13. When Exposures being hedged have different maturities, the longest maturity must be used. Maturity of credit protection must be calculated in accordance with section 4.13.
+
+Capital Requirements for securitisations with Early Amortisation provisions
+
+4.14.51 An Authorised Firm which is the Originator or Sponsor of a securitisation involving revolving Exposures as well as an Early Amortisation provision, must calculate an additional RWA amount in accordance with Rule 4.14.57 to address the possibility that its Credit Risk Exposure levels may increase following the operation of the Early Amortisation provision.
+
+Guidance
+
+1.
+
+This section sets out the methodology for calculation of the Credit RWA amount by an Originator, when it sells revolving Exposures into a securitisation that contains an Early Amortisation provision.
+
+2.
+
+Early Amortisation of the Securities describes the process whereby the repayment of the investors’ interest is brought forward upon the occurrence of specified events. Events that are economic in nature by reference to the financial performance of the transferred assets are known as economic triggers.
+
+4.14.52 (1)
+
+An Authorised Firm which is the Originator or Sponsor of a securitisation involving revolving Exposures, must calculate Credit RWA amounts in respect of the total Exposure related to a securitisation (both drawn and undrawn balances) when:
+
+(a)
+
+the Authorised Firm sells Exposures into a structure that contains an Early Amortisation feature; and
+
+(b)
+
+the Exposures are of a revolving nature.
+
+(2)
+
+Where the underlying pool of a securitisation comprises revolving and term Exposures, an Authorised Firm must apply the amortisation treatment outlined below for determining applicable regulatory capital only to that portion of the underlying pool containing revolving Exposures.
+
+154
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+4.14.53 An Authorised Firm which is the Originator of a Revolving Securitisation that includes economic triggers for Early Amortisation may regard the Exposures as transferred for the period up to the point of repayment, provided that:
+
+(a)
+
+during the amortisation period there is full sharing of interest, principal, expenses, losses and recoveries; and
+
+(b)
+
+the Authorised Firm’s risk management system provides warning indicators when economic or non-economic triggers may be activated.
+
+Guidance
+
+Examples of such triggers include tax events, legal changes resulting in an Authorised Firm’s non- performance in its role as a servicing agent, and triggers relating to the insolvency of the Originator.
+
+4.14.54 An Authorised Firm is not required to calculate a Capital Requirement for Early
+
+Amortisation in the following situations:
+
+(a)
+
+replenishment structures where the underlying Exposures do not revolve and the Early Amortisation ends the ability of the Authorised Firm to add new Exposures;
+
+(b)
+
+where the risk associated with revolving assets containing amortisation features that mimic term structures, where the risk does not return to the Authorised Firm;
+
+(c)
+
+structures where the Authorised Firm securitises one or more credit lines and where investors remain fully exposed to future draws by borrowers so that the risk on the underlying facilities does not return to the Originator even after an Early Amortisation event has occurred; or
+
+(d)
+
+where the Early Amortisation clause is solely triggered by events not related to the performance of the Securitised assets or the Authorised Firm, such as material changes in tax laws or regulations.
+
+4.14.55 For an Authorised Firm subject to the Capital Requirement referred to in Rule 4.14.51, the maximum Credit RWA calculated under that Rule must not exceed the greater of the following:
+
+(a)
+
+the RWA amounts calculated in respect of its positions in the investors

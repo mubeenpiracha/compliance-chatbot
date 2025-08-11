@@ -1,0 +1,27 @@
+., capital requirements - in relation to credit, counterparty, and market risks);
+
+MIR Rule 4.5 (e.g., default management); • MIR Rule 4.6 (e.g., stress testing); • MIR Rule 4.7 (risk management); • MIR Rule 4.10 (collateral management and margin); and • MIR Rule 4.12 (segregation and portability of Client Assets).
+
+AUTHORISED PERSONS CONDUCTING A REGULATED ACTIVITY IN RELATION TO VIRTUAL ASSETS – EXTENSION INTO TO DIGITAL SECURITIES ACTIVITIES
+
+62) This section of the Guidance sets out the FSRA’s views as to how Authorised Persons conducting a Regulated Activity (such as Operating an MTF, acting as a Virtual Asset Custodian or other intermediary activities) in relation to Virtual Assets can extend their Regulated Activities by undertaking Digital Securities-related Regulated Activities as well (including across RIEs, MTFs, and DSFs). RIEs, or Authorised Persons conducting a 14 Whether at the point of In-Principle Approval or at the time of Final Approval. 15 DvP is considered to be the irrevocable and unconditional transfer of an asset or Financial Instrument, or the discharge of obligations arising under the underlying contract by the parties to the contract (as per the definition contained in MIR Rule 4.11.3).
+
+VER02.240220
+
+19
+
+Regulated Activity in relation to Virtual Asset activities, wishing to expand into Digital Securities markets will need to apply to the FSRA for the relevant additional regulatory approvals to do so.
+
+MTFs using Virtual Assets – Extension into trading of Digital Securities
+
+63) MTFs using Virtual Assets (“Virtual Asset MTFs”) can apply to the FSRA for additional approval to trade Digital Securities. The MTF would therefore be able to have Digital Securities admitted to trading, where such Digital Securities were directly offered/issued based on an Exempt Offer, or have already been admitted to a RIE (as the primary venue for trading - refer to paragraph 42).
+
+64) Virtual Asset MTFs seeking to extend their operations to include Digital Securities will be required to demonstrate that they can comply with those requirements applicable to operating a MTF (e.g., COBS, MIR, GEN, AML) in the context of undertaking new Digital Securities-related financial services. While the FSRA anticipates that the technology utilised by an MTF for the purposes of trading of Virtual Assets may be the same, or substantially similar, as that required for the purposes of trading Digital Securities, the MTF will still be required to demonstrate to the FSRA how each of the applicable Authorised Person/MTF requirements are to be met taking into account Digital Securities requirements.
+
+65) For the purposes of MIR Rule 3.8 (settlement), Virtual Asset MTFs seeking to extend their operations to include Digital Securities will not be permitted to clear and settle transactions within the same legal entity that is conducting MTF-trading activities. In such circumstances, the MTF will be required to separately establish, or make arrangements to use, a separate clearing and settlement entity (refer to the sections above in relation to RCHs or DSFs, in paragraphs 53 or 59 respectively).16
+
+66) Subject to any differences between the MTF’s operations (particularly from a technology perspective) in relation to the trading of Virtual Assets and the trading of Digital Securities, an extension from the former to the latter may not raise significant technical issues. However, the update/integration of a Virtual Assets MTF’s technology in order to introduce new primary market and secondary market functionalities (offers, issuance and (Member) trading of Digital Securities) may likely impose new regulatory and technical burdens on Virtual Asset MTFs extending into Digital Securities.
+
+67) Please note that the relief provided by FSRA in May 2019 (to allow Virtual Asset MTFs) to operate a direct client access market has not been extended to allow MTFs to operate on a similar basis in relation to Digital Securities. As such, due to the policy/operational requirements at play, the FSRA suggests that MTFs wanting to operate on a ‘direct client’ basis (in relation to Digital Securities) engage with the FSRA as early as possible.
+
+16 The requirement to use a separate entity for the (

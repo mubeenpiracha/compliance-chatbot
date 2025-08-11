@@ -1,0 +1,111 @@
+ its business.
+
+7.5.2 The Authorised Individuals referred to in Rule 7.5.1(1)(a), (c) and (d) must be
+
+resident in the U.A.E.
+
+Guidance
+
+1.
+
+In appropriate circumstances, the DFSA may waive the requirement for a Compliance Officer or MLRO to be resident in the UAE. In determining whether to grant a waiver, the DFSA will consider a range of factors on a case by case basis focused on whether the firm can demonstrate that it has appropriate compliance arrangements (see GEN section 5.3). These factors may include, but are not limited to: the nature, scale and complexity of the activities of the firm; the ability of a remote officer to carry out his functions in differing time zones and a differing working week; the size, resourcing and capabilities of a remote compliance function; the ability of a remote officer to liaise and communicate readily with the DFSA; and the competency and capability of a remote officer and whether the remote officer is able effectively to undertake or supervise regular compliance monitoring and keep up to date with applicable Rules.
+
+2.
+
+The DFSA will also take into account factors such as the relevant regulatory experience of the proposed Authorised Individual and whether the applicant firm has previously been subject to financial services regulation.
+
+7.5.3
+
+In the case of a Trust Service Provider, the Authorised Individuals referred to in Rule 7.5.1 (1)(c) and (d) must not act also as trustees on behalf of the Trust Service Provider.
+
+122
+
+GEN/VER67/03-25
+
+GENERAL (GEN)
+
+7.5.4 An Authorised Firm which is a Body Corporate (other than a Limited Liability Partnership) whose head office and registered office are located in the DIFC, must register with the DFSA all of its Directors as Licensed Directors.
+
+7.5.5
+
+(1)
+
+In the case of an Authorised Firm which is a partnership established under either the DIFC General Partnership Law or Limited Liability Partnership Law, the Licensed Partner function must be carried out by:
+
+(a) each individual Partner who must be registered as a Licensed
+
+Partner; and
+
+(b)
+
+in the case of a Partner which is a Body Corporate, by an individual nominated by that Body Corporate and registered as a Licensed Partner to act on its behalf.
+
+(2)
+
+In the case of an Authorised Firm which is a partnership established under the DIFC Limited Partnership Law, the Licensed Partner function must be carried out by:
+
+(a) each individual General Partner who must be registered as a
+
+Licensed Partner; and
+
+(b)
+
+in the case of a General Partner which is a Body Corporate, by an individual nominated by that Body Corporate and registered as a Licensed Partner to act on its behalf.
+
+Guidance
+
+An Authorised Firm that is a Branch is not required to register its Directors as Licensed Directors under Rule 7.5.4 or its Partners as Licensed Partners under Rule 7.5.5.
+
+7.6 Application for Authorised Individual status
+
+7.6.1
+
+In submitting applications for Authorised Individual status, both the individual and Authorised Firm must complete and submit the appropriate form in AFN.
+
+7.6.2 When an individual and an Authorised Firm apply to the DFSA for that individual to be an Authorised Individual, the individual must satisfy the DFSA that he is a fit and proper person to carry out the role.
+
+Consideration and assessment of applications
+
+7.6.3 An individual will only be authorised to carry on one or more Licensed Functions if the DFSA is satisfied that the individual is fit and proper to be an Authorised Individual. In making this assessment, the DFSA will consider:
+
+(a)
+
+the individual’s integrity;
+
+(b)
+
+the individual’s competence and capability;
+
+(c)
+
+the individual’s financial soundness;
+
+(d)
+
+the individual’s proposed role within the Authorised Firm; and
+
+(e)
+
+any other relevant matters.
+
+123
+
+GEN/VER67/03-25
+
+GENERAL (GEN)
+
+Guidance
+
+Section 2.3 of the RPP Sourcebook sets out matters which the DFSA takes into consideration when making an assessment of the kind under Rule 7.6.3.
+
+7.6.4
+
+In Rule 7.6.3, an individual may not be considered as fit and proper where:
+
+(a)
+
+he is bankrupt;
+
+(b)
+
+he has been

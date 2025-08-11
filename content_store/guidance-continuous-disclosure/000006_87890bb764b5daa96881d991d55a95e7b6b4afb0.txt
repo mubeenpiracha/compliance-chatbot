@@ -1,0 +1,81 @@
+ no intention of selling, or no capacity to sell, or the prospective purchaser does not have the ultimate ability to complete the purchase, the information may not necessarily be Inside Information.
+
+33) The need to assess information in context also means that new Inside Information may need to be Disclosed due to its impact on Inside Information previously Disclosed. Information that a Listed Entity has, for example, investigated and decided not to pursue a particular business transaction may not be Inside Information, if there was no knowledge or expectation within the market that the Listed Entity was considering the transaction. If, however, the Reporting Entity has previously Disclosed that the Listed Entity was intending to undertake such a transaction, the fact that the Listed Entity has changed its mind may be Inside Information, and require Disclosure under Rule 7.2.1.
+
+34) The Listing Authority considers that information that causes the price of a Listed Entity’s Securities to remain at, or about, its current level can be Inside Information when the price would otherwise have been expected to move significantly in a particular direction in line with price movements in the market generally or in the particular Listed Entity’s sector. Examples of information that may be considered Inside Information
+
+35) Set out below is a list (that is neither exhaustive nor definitive) of circumstances which would likely require a Reporting Entity to consider whether the information constitutes Inside Information that may require Disclosure under Rule 7.2.1:
+
+a)
+
+A transaction for which the consideration payable, or receivable, is a significant proportion of the written down value of a Listed Entity’s consolidated assets. The Listing Authority expects that normally an amount of 5% or more would be significant, but a smaller amount may be significant in a particular circumstance;
+
+b)
+
+A transaction that will lead to a significant change in the nature or scale of a Listed Entity’s activities;
+
+c)
+
+A change in a Listed Entity’s financial forecast or expectations, or the fact that the Listed Entity’s earnings will be significantly different from market expectations;
+
+d)
+
+The entry into, variation or termination of a material agreement;
+
+e)
+
+The development, or key amendment to, significant Intellectual Property (IP) of the Listed Entity;
+
+f)
+
+A significant capital raising (e.g., via Shares, Debentures, Sukuk);
+
+g) Over or under subscription to an Offer of Securities;
+
+h)
+
+A significant change to a Listed Entity’s capital structure;
+
+i)
+
+Giving or receiving a notice of intention to make a Takeover;
+
+j)
+
+The granting, amendment or withdrawal of a material licence;
+
+7
+
+VER01.280922
+
+k)
+
+Becoming a party to, or the outcome of, material legal proceedings;
+
+l)
+
+A significant Mining or Petroleum discovery;
+
+m) The completion of a development/testing phase of a new pharmaceutical product;
+
+n)
+
+Failure to comply with covenants in financing arrangements, including the consequences of such non-compliance;
+
+o)
+
+Any rating applied by a credit rating agency to a Listed Entity, or its Securities, and any change to such a rating;
+
+p)
+
+The appointment of an administrator or receiver; or
+
+q)
+
+A copy of a document containing Inside Information of a Listed Entity disclosed to or via a non-ADGM recognised investment exchange, or other regulatory body equivalent to the Listing Authority, that is available to the public in jurisdictions outside ADGM. The copy Disclosed via the FSRA Disclosure Platform must be in English.
+
+36) Where possible, and practicable, the Listing Authority will be prepared to work with Reporting Entities to review Inside Information that should/is to be Disclosed. Such assistance, however, will not relieve the Reporting Entity from its responsibility and obligation, under the Rules, to make an immediate Disclosure of Inside Information. A Reporting Entity is not to withhold a Disclosure of information it reasonably believes to be Inside Information on account of a desire to have a discussion on the matter with the Listing Authority. Any assistance from, or engagement with, the Listing Authority should not be taken to constitute legal advice pertaining to a Reporting Entity’s obligations. BECOMING AWARE OF INSIDE INFORMATION
+
+37)
+
+In considering the operation of Rule 7.2.1,6 the concept of ‘awareness’, or knowledge, of Inside Information is central to operation of FSRA’s continuous disclosure framework. In interpreting Rule 7.2.1, the Listing Authority considers that a Reporting Entity7 becomes ‘aware’ of Inside Information if, and as soon as, an Officer8 of the Reporting Entity has, or ought

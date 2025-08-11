@@ -1,0 +1,125 @@
+ Rule 15.3.1 to publish a key features document before the relevant Crypto Token is traded on the MTF.
+
+Dissemination of a white paper
+
+15.5.2 If an Authorised Firm publishes a white paper relating to a Crypto Token or disseminates or makes the white paper available to existing or potential new Clients., it must:
+
+(a)
+
+take reasonable steps to ensure that the version of the white paper is the latest version;
+
+(b)
+
+identify the authors of the white paper, if known, and when it was published; and
+
+(c)
+
+disclose prominently that:
+
+(i)
+
+it has not prepared the white paper or verified the accuracy of information in the white paper; and
+
+185
+
+COB/VER48/03-25
+
+CONDUCT OF BUSINESS (COB)
+
+(ii)
+
+investors should take care in relying on information in the white paper as it may be inaccurate or out of date.
+
+Guidance
+
+1.
+
+A ‘white paper’ is a concept paper prepared by the developers of a Crypto Token. It sets out the idea for, and the overall value proposition of, the Crypto Token. It also commonly outlines a development roadmap for the Crypto Token and the key milestones the developers expect to meet.
+
+2.
+
+An Authorised Firm is not required to publish or make available a white paper for a Crypto Token; however, if it decides to do so it must ensure that the requirements in Rule 15.5.2 are met.
+
+Risk Warnings
+
+15.5.3 (1)
+
+An Authorised Firm must display prominently on its website the following risk warnings relating to Crypto Tokens:
+
+(a)
+
+that Crypto Tokens are subject to extreme volatility and the value of the Crypto Token can fall as quickly as it can rise;
+
+(b)
+
+that an investor in Crypto Tokens may lose all, or part, of their money;
+
+(c)
+
+that Crypto Tokens may not always be liquid or transferable;
+
+(d)
+
+that investments in Crypto Tokens may be complex making it hard to understand the risks with buying, selling, holding or lending them;
+
+(e)
+
+that Crypto Tokens can be stolen because of cyber attacks; and
+
+(f)
+
+that investing in, and holding, Crypto Tokens is not comparable to investing in traditional investments such as Securities.
+
+(2) Where an Authorised Firm presents any marketing or educational materials and other communications relating to a Crypto Token on a website, in the general media or as part of a distribution made to existing or potential new Clients, it must include the risk warning referred to in (1) in a prominent place at or near the top of each page of the materials or communication.
+
+(3)
+
+If the material referred to in (1) is provided on a website or an application that can be downloaded to a mobile device, the warning must be:
+
+(a)
+
+statically fixed and visible at the top of the screen even when a person scrolls up or down the webpage; and
+
+(b)
+
+included on each linked webpage on the website.
+
+Past performance of Crypto Tokens
+
+Guidance
+
+Rule 3.2.6 sets out requirements for Authorised Firms providing information about past performance, or future forecasts based on past performance or other assumptions, which is provided to or targeted at
+
+186
+
+COB/VER48/03-25
+
+CONDUCT OF BUSINESS (COB)
+
+Retail Clients. The requirements also apply to Authorised Firms carrying on Crypto Business. An Authorised Firm should in providing information about the past performance of a Crypto Token:
+
+a.
+
+consider the knowledge and sophistication of the audience to whom the information is targeted;
+
+b.
+
+fully disclose the source and the nature of the past performance presented, for example, whether the past performance is net of fees, commissions or other charges;
+
+c.
+
+ensure that the time period used is not an inappropriately short period, or a selective period, that is chosen to show a better performance; and
+
+d.
+
+if a comparison is being made with other financial products, ensure that the comparison is between similar financial products and that the same calculation method and period is being used, for example a comparison with traditional financial products is unlikely to be fair, balanced or meaningful due to key differences between Crypto Tokens and traditional products.
+
+15.6 General requirements relating to Crypto Tokens and Crypto Token
+
+Derivatives
+
+Interpretation
+
+15.6.1 In this section, “Margin” means the pre-agreed amount a Client in required to pay to
+
+open and maintain a position relating to a Crypto Token Der

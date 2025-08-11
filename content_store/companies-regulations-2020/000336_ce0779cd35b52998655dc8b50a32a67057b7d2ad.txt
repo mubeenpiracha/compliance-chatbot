@@ -1,0 +1,135 @@
+ an instrument.
+
+1026. Meaning of “contributory”
+
+(1)
+
+In these Regulations “contributory” means every person liable to contribute to the assets of a company in the event of its being wound up.
+
+(2)
+
+For the purposes of all proceedings for determining, and all proceedings prior to the final determination of, the persons who are to be deemed contributories, the expression includes any person alleged to be a contributory.
+
+(3)
+
+The reference in subsection (1) to persons liable to contribute to the assets does not include a person so liable by virtue of a declaration by the Court under–
+
+(a)
+
+section 251 (fraudulent trading) of the Insolvency Regulations 2015, or
+
+(b)
+
+section 252 (wrongful trading) of the Insolvency Regulations 2015.
+
+General
+
+1027. References to requirements of these Regulations
+
+References in the company law provisions of these Regulations to the requirements of these Regulations include the requirements of rules made under them.
+
+1028. Minor definitions: general44
+
+(1)
+
+In these Regulations–
+
+“body corporate” and “corporation” include a body incorporated other than under these Regulations, but do not include–
+
+(a)
+
+a corporation sole, or
+
+(b)
+
+a partnership that, whether or not a legal person, is not regarded as a body corporate under the law by which it is governed,
+
+“conditional sale agreement” means an agreement for the sale of goods or land under which the purchase price or part of it is payable by instalments, and the property in the goods or land is to remain in the seller (notwithstanding that the buyer is to be in possession of the goods or land) until such conditions as to the payment of instalments or otherwise as may be specified in the agreement are fulfilled,
+
+"financial institution" means‐
+
+(a)
+
+an Authorised Person;
+
+(b)
+
+any person which carries out as its principal business an activity which would, if carried out in the Abu Dhabi Global Market, be a Regulated Activity; and
+
+(c)
+
+is not one of the following‐
+
+A. a governmental organisation, including the Central Bank of any State; or
+
+44 Amended 17 March 2022
+
+566
+
+B. a multilateral development bank;
+
+“firm” means any entity, whether or not a legal person, that is not an individual and includes a body corporate, a corporation sole and a partnership or other unincorporated association,
+
+“hire-purchase agreement” means an agreement, other than a conditional sale agreement, under which−
+
+goods are bailed in return for periodical payments by the person to whom they are bailed, and
+
+the property in the goods will pass to that person if the terms of the agreement are complied with and one or more of the following occurs−
+
+(i)
+
+the exercise of an option to purchase by that person,
+
+(ii)
+
+the doing of any other specified act by any party to the agreement,
+
+(iii)
+
+the happening of any other specified event;
+
+“non-ADGM company” means a body corporate not formed or registered under these Regulations.
+
+“officer”, in relation to a body corporate, includes a director, manager or secretary,
+
+“parent company” means a company that is a parent undertaking (see section 1018 and Schedule 7), and
+
+“working day”, in relation to a company, means every day except Saturday, Sunday and public holidays in the United Arab Emirates.
+
+(2)
+
+Terms used in these Regulations which are defined in the Financial Services and Markets Regulations 2015 (including where the terms are capitalised in those regulations) shall have the meanings given to them in those regulations.
+
+1029. Index of defined expressions
+
+Schedule 3 contains an index of provisions defining or otherwise explaining expressions used in these Regulations.
+
+Part 35
+
+AUDITORS
+
+Chapter 1
+
+INTRODUCTORY
+
+1030. Main purposes of Part
+
+The main purposes of this Part are–
+
+(a)
+
+to secure that only persons who are properly supervised and appropriately qualified are appointed as auditors, and
+
+567
+
+(b)
+
+to secure that audits by persons so appointed are carried out properly, with integrity and with a proper degree of independence.
+
+1031. Meaning of “auditor” etc.
+
+(1)
+
+In this Part “auditor” means a person appointed as auditor under Part 15 of these Regulations and the expressions “audit” and “audit work” are to be construed accordingly.
+
+(2

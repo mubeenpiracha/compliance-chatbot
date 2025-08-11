@@ -1,0 +1,133 @@
+ providers (including within its Group) is not relieved of its regulatory obligations and remains responsible for compliance with legislation applicable in the DIFC.
+
+(2)
+
+The outsourced function under this Rule shall be deemed as being carried out by the Authorised Person itself.
+
+(3)
+
+An Authorised Person which uses such service providers must ensure that it:
+
+(a)
+
+has undertaken due diligence in choosing suitable service providers;
+
+(b)
+
+effectively supervises the outsourced functions or activities; and
+
+(c)
+
+deals effectively with any act or failure to act by the service provider that leads, or might lead, to a breach of any legislation applicable in the DIFC.
+
+5.3.22 (1)
+
+An Authorised Person must inform the DFSA about any material outsourcing arrangements.
+
+(2)
+
+An Authorised Person which has a material outsourcing arrangement must:
+
+(a)
+
+establish and maintain comprehensive outsourcing policies, contingency plans and outsourcing risk management programmes;
+
+(b)
+
+enter into an appropriate and written outsourcing contract; and
+
+85
+
+GEN/VER67/03-25
+
+GENERAL (GEN)
+
+(c)
+
+ensure that the outsourcing arrangements neither reduce its ability to fulfil its obligations to customers and the DFSA, nor hinder supervision of the Authorised Person by the DFSA.
+
+(3)
+
+An Authorised Person must ensure that the terms of its outsourcing contract with each service provider under a material outsourcing arrangement require the service provider to:
+
+(a)
+
+provide for the provision of information under section 11.1 in relation to the Authorised Person and access to their business premises; and
+
+(b)
+
+deal in an open and co-operative way with the DFSA.
+
+Guidance
+
+1.
+
+An Authorised Person’s outsourcing arrangements should include consideration of:
+
+a.
+
+applicable guiding principles for outsourcing in financial services issued by the Joint Forum; or
+
+b.
+
+any equivalent principles or regulations the Authorised Person is subject to in its home country jurisdiction.
+
+2.
+
+An outsourcing arrangement would be considered to be material if it is a service of such importance that weakness or failure of that service would cast serious doubt on the Authorised Person’s continuing ability to remain fit and proper or to comply with DFSA administered Laws and Rules.
+
+3.
+
+GEN Section 5.5 contains additional requirements that apply to an Authorised Person that receives services directly from a third party or a subcontractor of the third party which involve accessing the Authorised Person’s IT systems or networks or accessing or processing its data.
+
+Business continuity and disaster recovery
+
+5.3.23 (1)
+
+An Authorised Person must have in place adequate arrangements to ensure that it can continue to function and meet its obligations under the legislation applicable in the DIFC in the event of an unforeseen interruption.
+
+(2)
+
+These arrangements must be kept up to date and regularly tested to ensure their effectiveness.
+
+Guidance
+
+1.
+
+In considering the adequacy of an Authorised Person’s business continuity arrangements, the DFSA will have regard to the Authorised Person’s management of the specific risks arising from interruptions to its business including its crisis management and disaster recovery plans.
+
+2.
+
+The DFSA expects an Authorised Person to have:
+
+a.
+
+arrangements which establish and maintain the Authorised Person’s physical security and protection for its information systems for business continuity purposes in the event of planned or unplanned information system interruption or other events that impact on its operations;
+
+b.
+
+considered its primary data centres’ and business operations’ reliance on infrastructure components, for example transportation, telecommunications
+
+86
+
+GEN/VER67/03-25
+
+GENERAL (GEN)
+
+networks and utilities and made the necessary arrangements to minimise the risk of interruption to its operations by arranging backup of infrastructure components and service providers; and
+
+c.
+
+considered, in its plans for dealing with a major interruption to its primary data centre or business operations, its alternative data centres’ and business operations’ reliance on infrastructure components and made the necessary arrangements such that these do not rely on the same infrastructure components and the same service provider as the primary data centres and operations.
+
+Records
+
+5.3.24 (1)
+
+An Authorised Person must make and retain records of matters and dealings, including Accounting Records and corporate governance practices which are the subject of requirements and standards under the legislation applicable in the DIFC.
+
+(2)
+
+Such records, however stored, must be capable of reproduction on paper within a reasonable period not exceeding 3 business days.
+
+5.3.25 Subject to Rule 5.3.26, the records

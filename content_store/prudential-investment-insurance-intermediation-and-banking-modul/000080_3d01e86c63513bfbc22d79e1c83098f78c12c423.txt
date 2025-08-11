@@ -1,0 +1,109 @@
+ constituting a securitisation Exposure.
+
+(3) An Authorised Firm must assign a risk weight of 250% to any equity Exposure,
+
+unless it is:
+
+(a) an equity investment in accordance with paragraph (4); or
+
+(b)
+
+required to be deducted or risk-weighted in accordance with PIB Part 3.
+
+(4) An Authorised Firm must assign a risk weight of 400% to any equity investment in unlisted companies that are invested for short-term resale purposes or are considered venture capital or similar investments which are subject to price volatility and are acquired in anticipation of significant future capital gains.
+
+(5) An Authorised Firm must risk-weight any subordinated debt or capital instrument that is not an equity Exposure at 150% unless it is required to be deducted or risk-weighted in accordance with PIB Part 3.
+
+Real Estate Exposures
+
+4.12.19 (1) An Authorised Firm must apply the risk weights in accordance with Rules
+
+4.12.23 and 4.12.24 to Regulatory Real Estate Exposures.
+
+120
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+(2) An Authorised Firm must apply the risk weights in accordance with Rule 4.12.25
+
+to Other Real Estate Exposures.
+
+(3) An Authorised Firm must apply the risk weights in Rule 4.12.26 to ADC
+
+Exposures.
+
+4.12.20 A Real Estate Exposure is a Regulatory Real Estate Exposure if all of the following
+
+conditions are met:
+
+(a)
+
+the property securing the Exposure meets at least one of the following conditions:
+
+(i)
+
+it has been fully completed;
+
+(ii)
+
+it is forest or agricultural land;
+
+(iii)
+
+it is Residential Real Estate under construction or land upon which Residential Real Estate is planned to be constructed where that plan has been approved by all authorities concerned and where any of the following conditions are met:
+
+(A)
+
+the property does not have more than four residential housing units and will be the primary residence of the obligor and the lending to the individual is not indirectly financing ADC Exposures; or
+
+(B)
+
+the central government or PSE involved have the legal powers and ability to ensure that the property under construction will be finished;
+
+(b)
+
+it is valued in accordance with the requirements in Rule 4.12.21;
+
+(c)
+
+the Exposure is secured by:
+
+(i)
+
+a first lien held by the Authorised Firm on the property; or
+
+(ii)
+
+a junior lien held by the Authorised Firm and the Authorised Firm holds the first lien and any sequentially lower ranking lien on that property; or
+
+(iii) a junior lien held by the Authorised Firm in jurisdictions where junior liens provide the holder with a claim for Collateral that is legally enforceable and constitutes an effective credit risk mitigant and the following requirements are met:
+
+(A) each party holding a lien on a property can initiate the sale of the property independently from other entities holding a lien on the property;
+
+(B) where the sale of the property is not carried out by means of a public auction, parties holding a senior lien take reasonable steps to obtain a fair market value or the best price that may be obtained in the circumstances when exercising any power of sale on their own;
+
+121
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+(d)
+
+the security is enforceable in all relevant jurisdictions and the applicable legal framework must allow the Authorised Firm to realise the value of the property within a reasonable time frame following a default;
+
+(e)
+
+the Authorised Firm has assessed the borrower as able to repay in accordance with its Credit Risk policy required under Rule 4.4.2; and
+
+(f)
+
+all the information required at origination of the Exposure and for monitoring purposes is properly documented, including information on the ability of the borrower to repay and on the valuation of the property.
+
+4.12.21 For the purpose of Rules 4.12.23 and 4.12.24, an Authorised Firm must calculate the loan-to-value (LTV) by dividing the loan amount by the value of the property in accordance with the following requirements:
+
+(a)
+
+the value of the property must be equal to the value measured at origination unless any

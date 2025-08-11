@@ -1,0 +1,119 @@
+ for which a global liquidity concession is valid.
+
+Guidance
+
+Section A10.1 in App10 provides guidance in respect of the type of information upon which the Regulator will base its assessment of an application for a global liquidity concession.
+
+HQLA requirement
+
+9.3.3
+
+An Authorised Person must at all times maintain an adequate level of HQLA to meet its liquidity needs for a minimum 30 calendar day period under a severe stress scenario.
+
+Rules A10.2.2 to A10.2.9 in App10 set out the conditions for assets to be treated as HQLA.
+
+Liquidity Coverage Ratio
+
+9.3.4
+
+An Authorised Person must, except as provided in Rule 9.3.7, maintain an LCR of at least 100%.
+
+Guidance
+
+Rule 9.3.4 sets a minimum level and is not intended to limit the generality of the requirement in Rule 9.3.3.
+
+9.3.5
+
+An Authorised Person must calculate its LCR using the following formula and in accordance with the Rules in section A10.2 of App10.
+
+LCR = Value of stock of HQLA / Total Net Cash Outflows over the next 30 calendar days.
+
+Guidance
+
+1.
+
+Section A10.2 of App10 sets out how the value of stock of HQLA and Total Net Cash Outflows are to be calculated.
+
+2.
+
+An Authorised Person active in multiple currencies should:
+
+a.
+
+maintain HQLA consistent with the distribution of its liquidity needs by currency;
+
+b.
+
+assess its aggregate foreign currency liquidity needs and determine an acceptable level of currency mismatches; and
+
+222
+
+PRU VER17.290725
+
+c.
+
+undertake a separate analysis of its strategy for each currency in which it has material activities, considering potential constraints in times of stress.
+
+9.3.6
+
+(1)
+
+The Regulator may by written notice to an Authorised Person in relation to the LCR Requirement applying to it:
+
+(a)
+
+adjust the LCR Requirement;
+
+(b)
+
+adjust requirements under section A10.2 of App10 for calculating its stock of HQLA or the Total Net Cash Outflows;
+
+(c)
+
+alter the calculation methodologies or parameters for the purposes of the LCR Requirement;
+
+(d)
+
+disapply the LCR Requirement; or
+
+(e)
+
+impose additional requirements based on its assessment of the Liquidity Risk Exposure of that Authorised Person.
+
+(2)
+
+If the Regulator amends a requirement under (1)(a), (b), (c) or (e), the Authorised Person must comply with the requirement as amended. If the Regulator disapplies a requirement under (1)(d), the Authorised Person need not comply with that requirement.
+
+Liquid assets buffer
+
+9.3.7
+
+(1)
+
+An Authorised Person must, except as provided under Rule 9.3.8, maintain a buffer of HQLA over the minimum level of LCR required under its LCR Requirement, appropriate to the nature, scale and complexity of its operations and in line with its Liquidity Risk tolerance.
+
+(2)
+
+The Regulator may require an Authorised Person to maintain an additional buffer of liquid assets in cases where the Regulator assesses that the Authorised Person has failed to carry out stress tests effectively.
+
+Guidance
+
+An Authorised Person should conduct its own stress tests to assess the level of liquidity it should hold beyond the minimum required under this section, and construct its own scenarios that could cause difficulties for its specific business activities. Such internal stress tests should incorporate longer periods than the one required under this section. Authorised Persons are expected to share the results of these additional stress tests with the Regulator.
+
+Liquidation of assets during periods of stress
+
+9.3.8
+
+During a period of financial or liquidity stress, an Authorised Person may liquidate part of its stock of HQLA and use the cash generated to cover cash outflows. Subject to Rule 9.3.9, the Authorised Person's level of HQLA may fall below the levels required under
+
+223
+
+PRU VER17.290725
+
+its LCR Requirement to the extent necessary to deal with cash outflows during that period.
+
+Notification if LCR Requirement is not met
+
+9.3.9
+
+An Authorised Person must notify the Regulator in writing immediately if it does not meet

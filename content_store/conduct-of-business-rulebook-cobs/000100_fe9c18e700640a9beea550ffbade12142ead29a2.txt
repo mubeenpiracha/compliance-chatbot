@@ -1,0 +1,113 @@
+.
+
+Customer’s liability for unauthorised Third Party Transactions
+
+20.12.6 Except where the Customer has acted fraudulently or has with intent or gross negligence failed to ensure that its Personalised Security Credentials are not accessible to persons other than the Customer, the Customer is not liable for any losses incurred in respect of an unauthorised Third Party Transaction:
+
+(a)
+
+arising after notification to the Third Party Provider in the agreed manner on becoming aware of the loss, theft, misappropriation or unauthorised use of the Customer’s Personalised Security Credentials;
+
+(b)
+
+where the Third Party Provider has failed at any time to provide, in accordance with Rule 20.9.2, appropriate means for notification; or
+
+(c)
+
+where the Third Party Provider has Authentication.
+
+failed to apply Strong Customer
+
+20.13 Dispute resolution
+
+20.13.1 A Third Party Provider must put in place and utilise adequate and effective complaint resolution procedures for the settlement of complaints from Customers about the rights and obligations arising under this Chapter.
+
+20.13.2 All complaints must be recorded, investigated and resolved within an adequate timeframe and at the latest fifteen days after the day on which the Third Party Provider received the complaint.
+
+20.13.3 A Third Party Provider must make available to the Customer the details of the dispute resolution services able to deal with disputes concerning the rights and obligations arising under this Chapter in a clear, comprehensive and easily accessible form.
+
+20.13.4 The information to be made available under Rule 20.13.3 must be made available:
+
+(a)
+
+on the website of the Third Party Provider;
+
+(b)
+
+at the main office and any branches of the Third Party Provider; and
+
+(c)
+
+in the general terms and conditions of the Governing Contract.
+
+162
+
+COBS VER19.290725
+
+20.14 Reporting and Risk mitigation
+
+Management of operational and security risks
+
+20.14.1 (1)
+
+A Third Party Provider must establish a framework with appropriate mitigation measures and control mechanisms to manage the operational and security risks relating to the Third Party Services it provides.
+
+(2)
+
+As part of that framework, the Third Party Provider must establish and maintain effective incident management procedures, including for the detection and classification of major operational and security incidents.
+
+(3)
+
+A comprehensive assessment of operational and security risks must be undertaken by the Third Party Provider relating to the Third Party Services it provides, at least annually or more frequently if requested by the Regulator, and provided to the Regulator on request.
+
+(4)
+
+The assessment must address the adequacy of the mitigation measures and control mechanisms implemented in response to those risks in such form and manner, and contain such information, as the Regulator may direct.
+
+Guidance
+
+1.
+
+The Regulator may provide further guidance to Third Party Providers on their management of technology and data risks that sets out the Regulator’s expectations on how Third Party Providers should meet their obligations under this section and other applicable Rules. A Third Party Provider’s use of such guidance will be taken into account as part of the ongoing supervisory process of assessing Third Party Providers’ risk profile.
+
+2.
+
+GEN 3.5 contains additional requirements that apply to Authorised Persons in relation to Cyber Risk management.
+
+Incident reporting
+
+20.14.2 (1)
+
+A Third Party Provider must notify the Regulator without undue delay if it becomes aware of a major operational or security incident.
+
+(2)
+
+A notification under (1) must be in such form and manner, and contain such information, as the Regulator may direct.
+
+(3)
+
+The Third Party Provider must inform its Customers without undue delay of the incident and the measures that it will take to mitigate the incident if the incident has or may have an impact on the financial interests of its Customers.
+
+Guidance
+
+1.
+
+Upon receipt of the notification referred to in 20.14.2(1), the Regulator may notify any other relevant authorities in the UAE.
+
+163
+
+COBS VER19.290725
+
+2.
+
+If the Regulator receives notification of an incident from any relevant regulator in the UAE or internationally, it may direct the Third Party Provider to take appropriate measures to protect the immediate safety of their Customers and the financial system.
+
+3.
+
+GEN 3.5.18 and 8.10.6 also require Authorised Persons to notify the Regulator in certain cirmustances.
+
+Safety and Integrity of Interfacing Systems
+
+20.14.3 (1)
+
+A

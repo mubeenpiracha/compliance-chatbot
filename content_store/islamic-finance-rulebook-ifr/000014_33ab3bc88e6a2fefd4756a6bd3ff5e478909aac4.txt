@@ -1,0 +1,117 @@
+ PSIA holder to fund its own corporate activities.
+
+5.4
+
+Prudential requirements
+
+Application and Interpretation
+
+5.4.1
+
+(a)
+
+This chapter applies when calculating Credit Risk or Market Risk in respect of Islamic Contracts invested in or held by an Authorised Person Managing a PSIA, which is an Unrestricted PSIA.
+
+(b)
+
+In Rule 5.4.1(a), the Islamic Contracts referred to are contracts which are funded by amounts invested in the relevant Unrestricted PSIA.
+
+(c)
+
+In this chapter, the term "investing in or holding Islamic Contracts" means investing in or holding as principal.
+
+Initial and ongoing capital requirements
+
+Guidance
+
+(i)
+
+An Authorised Person undertaking Islamic Financial Business is required to meet initial and ongoing Capital Requirements in accordance with the Rules in Part 3 of Chapter 3 of PRU.
+
+(ii)
+
+In accordance with the Rules in Part 4 of chapter 3 of PRU, an Authorised Person undertaking Islamic Financial Business is required to ensure that only the eligible components of capital are included in the calculation of capital.
+
+(iii)
+
+In accordance with PRU Rule 3.12.9, an Authorised Person undertaking Islamic Financial Business is required to exclude from T2 Capital any amount by which the total of the Profit Equalisation Reserve and the Investment Risk Reserve exceeds the Displaced Commercial Risk Capital Requirement.
+
+(iv)
+
+For the purpose of calculating Capital Requirements, an Authorised Person undertaking Islamic Financial Business or otherwise investing in or holding Islamic Contracts should give due importance to the economic substance of the transaction contemplated by an Islamic Contract, in addition to the legal and Shari'a form of the Islamic Contract.
+
+Confidential
+
+23
+
+IFR VER08.020125
+
+Systems and controls in relation to PSIAs
+
+Guidance
+
+The requirements in IFR 5.4.2 and 5.4.3 below are in addition to and not in replacement of the requirements in GEN 3.
+
+5.4.2 An Authorised Person Managing a PSIA must ensure that its senior management establishes and maintains systems and controls that ensure that the Authorised Person is financially sound and able at all times to satisfy the specific prudential requirements arising out of Managing PSIAs, as detailed in the PRU Rulebook.
+
+5.4.3
+
+(a)
+
+In addition to IFR 5.2.4, an Authorised Person Managing a PSIA must set out in a written policy how it proposes to organise and control the activities that arise from Managing a PSIA and ensure that the activities undertaken by it in Managing a PSIA are conducted in accordance with Shari'a.
+
+(b)
+
+The policy must as a minimum address, where appropriate, the following matters:
+
+(i)
+
+how the interests of that Authorised Person’s shareholders and its PSIA holders are safeguarded;
+
+(ii)
+
+how the Authorised Person will limit the exposure of PSIA holders to the Authorised Person;
+
+(iii)
+
+a description of the controls to ensure that the funds of the PSIA are invested in accordance with the investment guidelines agreed in the PSIA Investment Contract;
+
+(iv)
+
+the basis for allocating profits and losses to the PSIA holders;
+
+(v)
+
+the policy for making provisions and reserves and, in respect of PSIAs, to whom these provisions and reserves revert in the event of a write-off or recovery;
+
+(vi)
+
+the Authorised Person's policy on the prioritisation of investment of own funds and those of Unrestricted PSIA holders;
+
+(vii)
+
+how liquidity mismatch will be monitored;
+
+(viii)
+
+the basis for allocating expenses to PSIA holders; and
+
+(ix)
+
+how the Authorised Person will monitor the value of its own assets and the assets of PSIA holders.
+
+Displaced commercial risk
+
+5.4.4 An Authorised Person Managing a PSIA, which is an Unrestricted PSIA, must calculate a Displaced Commercial Risk Capital Requirement in respect of its PSIA business.
+
+Confidential
+
+24
+
+IFR VER08.020125
+
+Guidance
+
+(i)
+
+An Authorised Person Managing a PSIA, on an unrestricted basis is subject to a unique type of risk referred to as Displaced Commercial Risk. This risk reflects the fact that an Authorised Person may find itself under commercial pressure to pay a rate of return to its PSIA holders which is sufficient to induce those investors to maintain the investment of their funds in an Unrestricted PSIA managed by the Authorised Person, rather than withdrawing those funds from the Un

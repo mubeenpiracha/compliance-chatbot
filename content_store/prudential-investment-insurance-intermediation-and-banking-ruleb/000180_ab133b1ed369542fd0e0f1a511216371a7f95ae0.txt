@@ -1,0 +1,123 @@
+
+
+1.
+
+An individual Counterparty is a natural or legal Person, which include governments, local authorities, Public Sector Entities (PSEs), trusts, corporations, unincorporated businesses and non-profit-making bodies.
+
+2.
+
+Examples of a Counterparty include:
+
+a.
+
+the customer or borrower;
+
+b.
+
+where the Authorised Person is providing a guarantee, the Person guaranteed;
+
+c.
+
+for a Derivatives contract, the Person with whom the contract was made;
+
+d.
+
+for most exchange-traded contracts involving a central clearing mechanism, that central clearing mechanism; and
+
+e.
+
+where a bill held by an Authorised Person has been accepted by another Financial Institution, the acceptor.
+
+Group of Closely Related Counterparties
+
+A4.11.5
+
+(1)
+
+An Authorised Person need not assess whether Persons are economically independent for a transaction where the sum of all Exposures to one individual Counterparty is less than 5% of the Authorised Person’s Tier 1.
+
+(2)
+
+The Regulator may, at its discretion, require an Authorised Person to treat two or more Persons as Closely Related to each other and to aggregate Exposures to such Persons accordingly.
+
+(3)
+
+Persons who are Closely Related to each other are also Connected with each other.
+
+(4)
+
+The requirement to aggregate Exposures where Persons are Closely Related does not apply where an Authorised Person can demonstrate to the Regulator that it is unlikely that Persons who are Closely Related will default at the same time and the Regulator has, by notice in writing, disapplied the requirement.
+
+A4.11.6
+
+(1)
+
+A single group of Closely Related Counterparties means, in relation to an Authorised Person, all the Persons to which the Authorised Person has an Exposure and which are Closely Related to each other.
+
+(2)
+
+An Authorised Person must treat two or more Persons as falling within a group of Closely Related Counterparties if the Authorised Person has Exposures to
+
+316
+
+PRU VER17.290725
+
+them all and any loss to the Authorised Person on any of the Exposures to one is likely to be associated with a loss to the Authorised Person with respect to at least one Exposure to each of the others.
+
+Connected Counterparties
+
+A4.11.7
+
+(1)
+
+The Regulator may, at its discretion, require an Authorised Person to treat a Person as a Connected Counterparty of another Person and to aggregate Exposures to such Persons accordingly.
+
+(2)
+
+A Person is not considered to be a Connected Counterparty, where an Authorised Person can satisfy the Regulator that effective governance and controls are in place to mitigate risks resulting from effective control of one Person by the other and the Regulator has, by notice in writing, specified that they are not to be so considered.
+
+Guidance
+
+A group of Connected Counterparties would be considered to be such where the entities share the same ultimate owner even though they may not be formally structured as a Group.
+
+Exposures to transactions, schemes or Funds
+
+A4.11.8 Where an Authorised Person has an Exposure to a transaction, scheme, Fund, or other Exposure to a pool of underlying Exposures, the Authorised Person must assess the Exposure to determine whether the Exposure is a group of Closely Related Counterparties in its economic substance.
+
+Guidance
+
+1.
+
+When considering this Rule the Authorised Person should consider the following factors:
+
+a.
+
+the structure, independence and control of the transaction, including governance arrangements;
+
+b.
+
+the inter relatedness of the underlying Exposures;
+
+c.
+
+beneficial owners of the underlying Exposures and whether they could be deemed Connected or Closely Related; and
+
+d.
+
+whether the transactions are conducted on an arm's length basis.
+
+2.
+
+An Authorised Person should look through the structure to determine whether there are any Counterparties or Exposures that might give rise to risks arising from a Large Exposure.
+
+317
+
+PRU VER17.290725
+
+Connected Counterparty exemptions
+
+A4.11.9 An Authorised Person may treat as exempt from the Large Exposure limits in Chapter 4 an Exposure to a Counterparty or Counterparties Connected to the Authorised Person if all of the following conditions are met:
+
+(a)
+
+the Authorised Person has given the Reg

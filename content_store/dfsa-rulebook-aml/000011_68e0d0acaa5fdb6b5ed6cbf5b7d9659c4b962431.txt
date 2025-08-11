@@ -1,0 +1,165 @@
+ section 14.4. These Rules apply in relation to Rule 4.1.1(b)(iii).
+
+17
+
+AML/VER27/03-25
+
+5
+
+5.1
+
+5.1.1
+
+Anti-Money Laundering, Counter-Terrorist Financing and Sanctions Module (AML)
+
+BUSINESS RISK ASSESSMENT
+
+Figure 2. Business risk-based assessment
+
+Assessing business AML risks
+
+A Relevant Person must:
+
+(a)
+
+take appropriate steps to identify and assess money laundering risks to which its business is exposed, taking into consideration the nature, size and complexity of its activities;
+
+(b)
+
+when identifying and assessing the risks in (a), take into account, to the extent relevant, any vulnerabilities relating to:
+
+(i)
+
+its type of customers and their activities;
+
+(ii)
+
+the countries or geographic areas in which it does business;
+
+(iii)
+
+its products, services and activity profiles;
+
+(iv)
+
+its distribution channels and business partners;
+
+(v)
+
+the complexity and volume of its transactions;
+
+(vi)
+
+the development of new products and new business practices, including new delivery mechanisms, channels and partners; and
+
+18
+
+AML/VER27/03-25
+
+5.1.2
+
+5.1.3
+
+Anti-Money Laundering, Counter-Terrorist Financing and Sanctions Module (AML)
+
+(vii)
+
+the use of new or developing technologies for both new and pre- existing products;
+
+(c)
+
+take appropriate measures to ensure that any risk identified as part of the assessment in (a) is taken into account in its day-to-day operations, including in relation to:
+
+(i)
+
+the development of new products, business practices and technologies referred to in Rule 5.1.3;
+
+(ii)
+
+the taking on of new customers; and
+
+(iii)
+
+changes to its business profile.
+
+A Relevant Person must use the information obtained in undertaking its business risk assessment to:
+
+(a)
+
+develop and maintain its AML policies, procedures, systems and controls required by Rule 5.2.1;
+
+(b)
+
+ensure that its AML policies, procedures, systems and controls adequately mitigate the risks identified as part of the assessment in Rule 5.1.1;
+
+(c)
+
+assess the effectiveness of its AML policies, procedures, systems and controls as required by Rule 5.2.1(c);
+
+(d)
+
+assist in allocation and prioritisation of AML resources; and
+
+(e)
+
+assist in the carrying out of the customer risk assessment under chapter 6.
+
+New products, business practices and technologies
+
+(1)
+
+This Rule applies in relation to:
+
+(a)
+
+the development of new products and new business practices, including new delivery mechanisms, channels and partners; and
+
+(b)
+
+the use of new or developing technologies for both new and existing products.
+
+(2)
+
+Without limiting Rules 5.1.1 and 5.1.2, a Relevant Person must take reasonable steps to ensure that it has:
+
+(a) assessed and identified the money laundering risks relating to the
+
+product, business practice or technology; and
+
+(b)
+
+taken appropriate steps to manage and mitigate the risks identified under (a),
+
+before it launches or uses the new product, practice or technology.
+
+Guidance
+
+1.
+
+Unless a Relevant Person understands the money laundering risks to which it is exposed, it cannot take appropriate steps to prevent its business being used for the purposes of money laundering. Money laundering risks vary from business to business depending on the nature of the business, the type of customers a business has, and the nature of the products and services sold.
+
+19
+
+AML/VER27/03-25
+
+5.2
+
+5.2.1
+
+Anti-Money Laundering, Counter-Terrorist Financing and Sanctions Module (AML)
+
+2.
+
+Using the RBA, a Relevant Person should assess its own vulnerabilities to money laundering and take all reasonable steps to eliminate or manage such risks. The results of this assessment will also feed into the Relevant Person’s risk assessment of its customers under chapter 6.
+
+3.
+
+Under Article 4 of Cabinet Decision No.10 of 2019, in assessing its money laundering risks and taking steps to mitigate those risks, a Relevant Person is required to take into consideration the results of the National Risk Assessment prepared by the National Anti- Money Laundering and Combating Financing of Terrorism Committee (NAMLCFTC).
+
+AML systems and controls
+
+A Relevant Person must:
+
+(a)
+
+establish and maintain effective policies

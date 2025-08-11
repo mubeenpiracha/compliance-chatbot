@@ -1,0 +1,89 @@
+ relation to a person who is or has been a member of a Limited Liability Partnership where, in the course of winding up of that Limited Liability Partnership, it appears that subsection (2) of this Section applies in relation to that person.
+
+(2)
+
+(2)
+
+This subsection applies in relation to a person if –
+
+(a)
+
+(b)
+
+within the period of two years ending with the commencement of the winding up, he was a member of the Limited Liability Partnership who withdrew property of the Limited Liability Partnership, whether in the form of a share of profits, salary, repayment of or payment of interest on a loan to the Limited Liability Partnership or any other withdrawal of property, and it is proved by the liquidator to the satisfaction of the Court that at the time of the withdrawal he knew or had reasonable ground for believing that the Limited Liability Partnership – (i)
+
+was at the time of the withdrawal unable to pay its debts within the meaning of Section 200 (Definition of inability to pay debts), or
+
+(ii)
+
+would become so unable to pay its debts after the assets of the Limited Liability Partnership had been depleted by that withdrawal taken together with all other withdrawals (if any) made by any that members withdrawal or that withdrawal was made.
+
+contemporaneously
+
+with
+
+in contemplation when
+
+280
+
+Section 253 (Proceedings under Sections 251 and 252)
+
+Section 255(2)(a) (Duty to cooperate with Office - holder)
+
+Section 255(2)(d) (Duty to cooperate with Office- holder)
+
+(3) Where this Section has effect in relation to any person the Court, on the application of the liquidator, may declare that that person is to be liable to make such contribution (if any) to the Limited Liability Partnership’s assets as the court thinks proper. The Court shall not make a declaration in relation to any person the amount of which exceeds the aggregate of the amounts or values of all the withdrawals referred to in subsection (2) made by that person within the period of two years referred to in that subsection. The Court shall not make a declaration under this Section with respect to any person unless that person knew or ought to have concluded that after each withdrawal referred to in subsection (2) there was no reasonable prospect that the Limited into Liability Partnership would avoid going insolvent liquidation. For the purposes of subsection (5) the facts which a member ought to know or ascertain and the conclusions which he ought to reach are those which would be known, ascertained, or reached by a reasonably diligent person having both: (a)
+
+(4)
+
+(5)
+
+(6)
+
+(b)
+
+the general skill and reasonably be experience expected of a person carrying out the same functions as are carried out by that member in relation to the Limited Liability Partnership, and the general experience that that member has.
+
+knowledge,
+
+that may
+
+knowledge,
+
+skill and
+
+(7)
+
+(8)
+
+(9)
+
+For the purposes of this section a Limited Liability Partnership goes into insolvent liquidation if it goes into liquidation at a time when its assets are insufficient for the payment of its debts and other liabilities and the expenses of the winding up. In this section “member” includes a shadow member. This section is without prejudice to Section 252.”
+
+Add after “Section 252 (Wrongful trading)” the following - “or Section 252A (Adjustment of withdrawals)”
+
+Omit “secretary of”
+
+Omit “or secretary of”
+
+281
+
+Section 256 (Inquiry into Company’s dealings)
+
+Section 298 (Defined Terms) (definition of “Connected Person”)
+
+Section 298 (Defined Terms) (definition of “designated member”)
+
+Section 298 (Defined Terms) (definition of “Limited Liability Partnership”)
+
+Section 298 (Defined Terms) (definition of “Limited Liability Partnerships Regulations”)
+
+Section 298 (Defined Terms) (definition of “member”)
+
+Section 298 (Defined Terms) (definition of “shadow member”)
+
+Section 299(2) (Meaning of “liability”, “into liquidation” and “into insolvent liquidation” and “in
+
+Omit “or secretary”
+
+Replace the existing definition of Connected Person with the following - ““Connected Person” means a person is connected with a Company (including a Limited Liability Partnership) if - he is a Director or shadow director of the a Company or an Associate of such a Director or shadow director (including a member or

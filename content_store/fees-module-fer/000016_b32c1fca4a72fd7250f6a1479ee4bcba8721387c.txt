@@ -1,0 +1,145 @@
+ must be included in the calculation of the value of the Bid, but Bids for non-equity Share capital, Convertibles, Options and the like must not;
+
+(b)
+
+when a merger is effected by Bids for both entities by a new entity created to make the Bids, the fee will be determined by the value of the lower of the two Bids; and
+
+(c)
+
+when the fee falls to be calculated on the basis of the value of the Securities to be issued as consideration, it must be computed by reference to the closing price of the relevant Securities at the last practicable date before the publication of the Bid Document as stated in that document or, as the case may be, by reference to the estimated value of any unlisted Securities consideration given in the document.
+
+(4)
+
+This is the table referred to in (2):
+
+Value of the Bid in
+
+Fee in
+
+US$ million
+
+US$
+
+Less than 5
+
+7,500
+
+Over 5 to 25
+
+15,000
+
+Over 25 to 100
+
+55,000
+
+Over 100 to 500
+
+150,000
+
+Over 500
+
+370,000
+
+Guidance
+
+1. Where a Bidder issues a revised Bid Document that increases the value of the Bid, the DFSA will require payment of the difference between the fee that would be applicable under the table in Rule 5.1.1 (4) in respect of the value of the revised Bid, and the fee previously paid in respect of the value of the initial Bid.
+
+27
+
+FER/VER33/07-25
+
+5.1.2
+
+FEES MODULE (FER)
+
+2.
+
+In relation to the giving of an estimated value of any unlisted Securities consideration, see TKO Rule 1.4.1 (m).
+
+In all cases a note setting out the calculation of the fee must accompany the Bid Document provided to the DFSA. If the Bid is revised, a similar note must be provided with the revised Bid Document and any necessary further payment.
+
+28
+
+FER/VER33/07-25
+
+FEES MODULE (FER)
+
+6
+
+FEES FOR OTHER SUPERVISORY EVENTS
+
+Application to approve change of control
+
+6.1.1 A Person applying for written approval to acquire or to increase its level of
+
+control in a Domestic Firm must pay to the DFSA an application fee of:
+
+(a) $5,000 if the application is complex; or
+
+(b)
+
+$3,000 in any other case.
+
+6.1.2 A Person applying for written approval to become the Controller of or to increase its level of control in an Authorised Market Institution must pay to the DFSA an application fee of:
+
+(a)
+
+$5,000 if the application is complex; or
+
+(b)
+
+$3,000 in any other case.
+
+6.1.3 An application is ‘complex’ for the purposes of Rule 6.1.1 or 6.1.2 if the Person who proposes to acquire, become a Controller of, or increase its level of control in, the relevant Authorised Person:
+
+(a)
+
+is from a jurisdiction where there is no bilateral memorandum of understanding in place between the DFSA and the relevant Financial Services Regulator in that jurisdiction;
+
+(b) has no experience of operating or controlling the type of business to
+
+which the application relates;
+
+(c)
+
+has previously contravened any legislation or been the subject of enforcement, supervisory or civil action by a government body or agency, the DFSA or any other Financial Services Regulator;
+
+(d)
+
+is a Controller of another Authorised Person in the DIFC and approval of the application may give rise to a material conflict of interest; or
+
+(e) proposes, in connection with the acquisition or change of control, to change the business model, business activities or senior management of the Authorised Person.
+
+Request to withdraw a Licence
+
+6.1.4 An Authorised Person applying to have its Licence withdrawn must pay to
+
+the DFSA an application fee of:
+
+(a)
+
+$5,000 if, when it applies, the Authorised Person:
+
+(i)
+
+Provides Custody;
+
+(ii)
+
+has Deposits that must be repaid;
+
+(iii) holds or controls Client Assets or Insurance Monies;
+
+29
+
+FER/VER33/07-25
+
+6.1.5
+
+FEES MODULE (FER)
+
+(iv) has a significant liability to a creditor;
+
+(v)
+
+is the subject

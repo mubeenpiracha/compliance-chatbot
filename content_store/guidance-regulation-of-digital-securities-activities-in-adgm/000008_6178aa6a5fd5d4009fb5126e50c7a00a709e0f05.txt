@@ -1,0 +1,35 @@
+ to require the appointment by an Issuer of a Sponsor, compliance adviser or other expert adviser. Due to the complexities involved and the relative infancy of Digital Securities, the FSRA will generally expect an Issuer of Digital Securities to appoint a Sponsor as required by MKT Rule 5.1.2; and
+
+d) for Digital Securities in the form of Units of a Fund, Chapter 3 (instead of Chapter 2)
+
+of MKT contains the relevant Listing Rules.
+
+VER02.240220
+
+13
+
+DIGITAL SECURITIES & TRADING VENUES
+
+40) As set out in this Guidance so far, the FSRA’s regulatory framework allows for Digital Securities to be offered, admitted to the Official List (maintained by FSRA) and traded on secondary markets within ADGM. This section of the Guidance will now set out the FSRA’s expectations in relation to how ADGM trading venues (RIEs, MTFs and Organised Trading Facilities (“OTFs”)) interact with Digital Securities. The FSRA’s policy position and expectations in relation to the operation of these different market infrastructures is set out below. Recognised Investment Exchanges (RIEs)
+
+41) RIEs may operate both primary and secondary markets in Financial Instruments (including Digital Securities). A RIE must demonstrate to the FSRA that it is able to meet the Recognition Requirements as set out in Market Infrastructure Rules (MIR) Chapter 2 (Rules Applicable to All Recognised Bodies) and Chapter 3 (Rules Applicable to RIEs) before a Recognition Order can be granted by the FSRA. Once it has been granted a Recognition Order, a RIE must continue to comply with all Recognition Requirements (contained with MIR Chapters 2 and 3) on an ongoing basis.
+
+42) Pursuant to section 50(3) of FSMR, a RIE shall not permit trading of Securities on its facilities unless those Securities are admitted to, and not suspended from, the Official List. Section 61(1) of FSMR is linked to section 50(3), such that an Issuer cannot ‘have Securities admitted to trading on a RIE, unless there is an Approved Prospectus in relation to the relevant Securities’. An Issuer therefore wanting to have its Securities traded on a RIE needs to have such Securities:9 a) admitted to the Official List of Securities (maintained by FSRA); and
+
+b) offered by way of an Approved Prospectus.
+
+43) Application of MIR Chapter 2: As noted in paragraph 41 above, where an Applicant applies to become a RIE, the entirety of MIR Chapter 2 (Rules Applicable to All Recognised Bodies) will apply. Applicants should also, however, take note of the following:
+
+a) MIR Rule 2.8 (Membership criteria and access): MIR Rule 2.8.1 requires that a RIE ‘must ensure that access to its facilities is subject to criteria designed to protect the orderly functioning of the market and the interests of investors’. Applicants should take into account, where relevant, the guidance provided by FSRA in relation to MIR Rule 2.8 in paragraph 131 of the Virtual Assets Guidance (relating to ‘direct client’ vs ‘membership’ models) which should be read in the context of a RIE operating a Digital Securities market;
+
+9 That cannot rely an exemption provided for under FSMR or MKT.
+
+VER02.240220
+
+14
+
+b) MIR Rule 2.10 – Custody:10 Considering that the safeguarding and administration of Securities is a key requirement for a RIE, and that Digital Securities custody arrangements and technologies are still being developed globally, the custody of Digital Securities may possess higher inherent risks in comparison to traditional securities custody. The FSRA is therefore of the view that where an Applicant seeks to provide custody services within its Group, this can only occur via a separate legal entity appropriately licenced for such activities (see paragraphs 53 and 59 on RCHs and DSFs respectively);11 and
+
+c) MIR Rule 3.2.1 – Capital Requirements: Pursuant to this Rule, RIEs operating a market in Digital Securities will generally be required to hold 12 months operating expenses as regulatory capital.12
+
+44) Application of MIR Chapter 3: As noted in paragraph 41 above, where an Applicant applies to become

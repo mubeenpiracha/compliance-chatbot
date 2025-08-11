@@ -1,0 +1,155 @@
+ entitled to disturb any dividend declared (whether or not distributed) before the date of the alteration.
+
+44.
+
+Disqualification from dividend
+
+If a creditor contravenes any provision of these Regulations relating to the valuation of securities, the Court may, on the application of the Office-holder, order that the creditor be wholly or partly disqualified from participation in any dividend.
+
+45.
+
+Assignment of right to dividend
+
+(1)
+
+If a person entitled to a dividend (“the entitled person”) delivers notice to the Office- holder that the entitled person wishes the dividend to be paid to another person, or that the entitled person has assigned the entitlement to another person, the Office-holder must pay the dividend to that other person accordingly.
+
+(2)
+
+A notice delivered under this paragraph must specify the name and address of the person to whom payment is to be made.
+
+46.
+
+Debt payable at future time
+
+(1) Where a creditor has proved for a debt of which payment is not due at the date of the declaration of dividend, the creditor is entitled to dividend equally with other creditors, but subject as follows.
+
+(2)
+
+For the purpose of dividend (and no other purpose) the amount of the creditor’s admitted proof (or, if a distribution has previously been made to the creditor, the amount remaining outstanding in respect of the creditor’s admitted proof) must be reduced by applying the following formula—
+
+𝑥 1.05(cid:3041)
+
+where—
+
+“X” is the value of the admitted proof; and
+
+“n” is the period beginning with the relevant date and ending with the date on which the payment of the creditor’s debt would otherwise be due, expressed in years (part of a year being expressed as a decimal fraction of a year).
+
+47.
+
+Power to exclude creditors not proving in time
+
+The Court may fix a time or times within which creditors are to prove their debts or claims or else to be excluded from the benefit of any distribution made before those debts are proved provided that the Court is satisfied that all necessary steps have been taken to bring the Insolvency Proceedings to the attention of creditors.
+
+208
+
+1.
+
+(1)
+
+(2)
+
+(3)
+
+2.
+
+(1)
+
+(2)
+
+(3)
+
+3.
+
+(1)
+
+(2)
+
+SCHEDULE 6
+
+MEETINGS AND CORRESPONDENCE
+
+PART 1
+
+APPLICATION OF SCHEDULE
+
+Types of proceeding to which Schedule applies
+
+This Schedule applies to making decisions, except where these Regulations provide otherwise—
+
+(a)
+
+in administration;
+
+(b)
+
+where a Deed of Company Arrangement is applicable;
+
+(c)
+
+in administrative receivership;
+
+(d)
+
+in a creditors’ voluntary winding-up; and
+
+(e)
+
+in a winding-up by the Court.
+
+This Schedule also applies to decision making and meetings under Section 183 (Effect of Company’s insolvency).
+
+These Regulations determine which procedures may be used in a particular circumstance.
+
+PART 2
+
+RESOLUTION BY CORRESPONDENCE
+
+Application of Part
+
+This Part applies where these Regulations allow an Office-holder to invite the creditors or contributories to pass a resolution by correspondence.
+
+This Part does not apply to a resolution which these Regulations require to be passed at a meeting.
+
+A reference in these Regulations to a resolution passed at a meeting of creditors or contributories includes a reference to a resolution passed in accordance with this Part.
+
+Resolution by correspondence
+
+For a resolution to be passed by correspondence the convener must deliver a notice to every creditor or (as the case may be) contributory who would be entitled to notice of a meeting at which the resolution could be passed.
+
+The notice must in addition to the standard contents—
+
+(a)
+
+set out the resolutions to be voted on;
+
+(b)
+
+state the deadline for voting;
+
+(c)
+
+state that in order to be counted a vote by a creditor must be accompanied by written details of the creditor’s claim (unless previously supplied) failing which the vote will be disregarded;
+
+(d)
+
+provide a space for the creditor or contributory to authenticate the vote;
+
+209
+
+(e)
+
+provide a space for a person authenticating on behalf of a creditor to state the capacity in which the vote is authenticated; and
+
+(f)
+
+be authenticated and dated by the Office-holder or Appointed Person.
+
+(3)
+
+The notice must contain a deadline for voting, set at the discretion of the Office-holder or Appointed Person, but which must be not less than 14 days from the date of delivery of the notice.
+
+(4)
+
+In order to be

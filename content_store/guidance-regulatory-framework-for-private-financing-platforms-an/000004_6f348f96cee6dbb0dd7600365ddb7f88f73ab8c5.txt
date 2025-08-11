@@ -1,0 +1,103 @@
+ record in corporate finance or a related business, of a minimum of five years, in a jurisdiction that has a legislative and regulatory framework that is of comparable standard to that of the FSRA. The PFP Applicant or its Group, where applicable, should also be subject to proper supervision by a competent regulatory authority.
+
+Alternatively, where a PFP Applicant does not have an established track-record of at least five years or meet the regulatory status requirement, the FSRA may take into account (i) the track record of the PFP Applicant’s Controllers/substantial shareholders and (ii) the experience and qualifications of the PFP Applicant’s key individuals, when assessing the application.
+
+(c) Governing Body
+
+(i)
+
+Licensed Directors – A PFP Applicant which is a Body Corporate incorporated in the ADGM, must register all its Directors with the FSRA in accordance with GEN Rule 5.5.4.
+
+(ii)
+
+Licensed Partners – A PFP Applicant which is Partnership established in the ADGM, must register all its Partners with the FSRA in accordance with GEN Rule 5.5.5.
+
+These appointments are not required for PFP Applicants that are branches of legal entities domiciled outside the ADGM.
+
+The PFP Applicant must demonstrate that its Governing Body has sufficient collective skills and experience in corporate finance or related fields to oversee the firm’s operations.
+
+(d) Mandatory Appointments
+
+A PFP Applicant must also appoint the following individuals in accordance with GEN Rule 5.5.1:
+
+(i)
+
+Senior Executive Officer (“SEO”) – an SEO who is ultimately responsible for the day-to-day operation, supervision and control of the firm’s operation. The SEO must possess a minimum of five years’ relevant and demonstrable experience and qualifications.
+
+6
+
+VER02.181223
+
+(ii) Finance Officer (“FO”) – a Finance Officer with the relevant expertise to
+
+prepare and oversee its financial reporting.
+
+(iii) Compliance Officer (“CO”) – a suitably experienced and qualified Compliance Officer who is independent of the firm’s operations and oversees the compliance function.
+
+(iv) Money Laundering Reporting Officer (“MLRO”) – a suitably experienced and qualified MLRO who is independent of the firm’s operations and responsible for the implementation of the firm’s anti-money laundering controls and the day-to-day oversight of its compliance with the Anti- Money Laundering and Sanctions Rules (AML) and Guidance.
+
+Other considerations for PFP Applicants:
+
+(i)
+
+The SEO, CO and MLRO must all be resident in the UAE;
+
+(ii) The CO and MLRO functions may be carried out by the same individual; and
+
+(iii) The FO, CO and MLRO may be carried out in-house or outsourced to another
+
+Group entity or service provider.
+
+The FSRA will consider the collective suitability of all of the PFP Applicant’s proposed staff and whether there is a sufficient range of individuals with appropriate knowledge, skills and experience to understand, operate and manage the firm's affairs in a sound and prudent manner.
+
+(e) Systems and Controls
+
+The FSRA will assess the following governance and control requirements in relation to the PFP Applicant.
+
+Requirement
+
+Rule(s)
+
+Note
+
+Risk Management
+
+GEN 3.3.4 – 3.3.6
+
+A PFP Operator must establish and maintain risk management systems and controls to enable it to identify, assess, monitor, mitigate and control its risks.
+
+This framework should include measures to minimise technology risks associated with the PFP. In particular, a PFP Operator should have measures in place to ensure data integrity and the protection of fraud, impairment, tampering, misuse or unauthorised access.
+
+its
+
+technology
+
+from
+
+7
+
+Compliance Arrangements
+
+Internal audit
+
+Multilateral Trading Facility
+
+GEN 3.3.7 – 3.3.12
+
+GEN 3.3.13 – 3.3.15
+
+COBS 8.2.2
+
+VER02.181223
+
+A PFP Operator must establish and maintain compliance arrangements, including processes and procedures that ensure and evidence, as far as reasonably practicable, that it complies with all Regulations and Rules.
+
+While compliance support may be provided by a third party service related entity and/or for providers, compliance with applicable laws and regulations lies with PFP Operator’s SEO and Governing Body.
+
+the
+
+ultimate
+
+responsibility
+
+The PFP operator is required as part of customer due diligence to assess whether the Client has the relevant knowledge or experience

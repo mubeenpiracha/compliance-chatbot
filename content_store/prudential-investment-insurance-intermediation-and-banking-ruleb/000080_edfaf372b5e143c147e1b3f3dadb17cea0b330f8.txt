@@ -1,0 +1,127 @@
+ to hedge Investments listed in Rule 4.13.5 should not preclude the Units in that Fund from being recognised as eligible financial Collateral.
+
+4.13.6
+
+For an Authorised Person using the FCCA, eligible financial Collateral comprises:
+
+(a)
+
+any instrument listed in Rule 4.13.5;
+
+(b)
+
+any equity Security (including a convertible bond) that is traded on a regulated exchange; and
+
+(c)
+
+any Unit in a Collective Investment Fund which invests in equity Securities referred to in (b), where:
+
+(i)
+
+a price for the Units is publicly quoted daily; and
+
+(ii)
+
+at least 90% of the deposited property of the Fund is invested in instruments listed in this Rule and Rule 4.13.5.
+
+142
+
+PRU VER17.290725
+
+4.13.7
+
+In the case of any Counterparty Risk Exposures in Rules 4.13.5 and 4.13.6 arising from an SFT which are included in the Trading Book, eligible financial Collateral includes all instruments which an Authorised Person may include in its Trading Book.
+
+Guidance
+
+For an Authorised Person using Units of a Fund under the FCSA approach, the use or potential use by that Fund of Derivative instruments solely to hedge Investments listed in Rule 4.13.5 should not preclude the Units in that Fund from being recognised as eligible financial Collateral.
+
+Requirements for Recognition of Collateral
+
+4.13.8
+
+An Authorised Person must ensure that the following requirements are complied with before it recognises the effects of CRM of any Collateral:
+
+(a)
+
+the legal mechanism by which Collateral is pledged, assigned or transferred must confer on the Authorised Person the right to liquidate or take legal possession of the Collateral, in a timely manner, in the event of the default, insolvency or bankruptcy (or one or more otherwise-defined credit events set out in the transaction documentation) of the Counterparty (and, where applicable, of the custodian holding the Collateral);
+
+(b)
+
+the Authorised Person has taken all steps necessary to fulfil those requirements under the law applicable to the Authorised Person's interest in the Collateral for obtaining and maintaining an enforceable security interest by registering it with a registrar or for exercising a right to net or set off in relation to title transfer Collateral;
+
+(c)
+
+the credit quality of the Counterparty and the value of the Collateral do not have a material positive correlation;
+
+(d)
+
+Securities issued by the Counterparty or any Closely Related Counterparty are not eligible;
+
+(e)
+
+the Authorised Person has implemented procedures for the timely liquidation of Collateral to ensure that any legal conditions required for declaring default of Counterparty and liquidating the Collateral are observed, and that the Collateral can be liquidated promptly; and
+
+(f)
+
+where the Collateral is held by a custodian, the Authorised Person has taken reasonable steps to ensure that the custodian segregates the Collateral from its own assets.
+
+Guarantees
+
+4.13.9
+
+(1)
+
+An Authorised Person may recognise the effects of CRM of a guarantee only if it is provided by any of the following entities:
+
+(a)
+
+central government or central banks;
+
+143
+
+PRU VER17.290725
+
+(2)
+
+(b)
+
+the MDBs referred to in Rule 4.12.8;
+
+(c)
+
+the international organisations referred to in Rule 4.12.9;
+
+(d)
+
+PSEs;
+
+(e)
+
+banks and Securities firms which qualify for inclusion in bank asset class; or
+
+(f)
+
+any other entity that has an external credit assessment from an ECAI that maps to a Credit Quality Grade 3 or better.
+
+An Authorised Person must not recognise the effects of CRM of a guarantee unless all of the following requirements are complied with:
+
+(a)
+
+the guarantee is an explicitly documented obligation assumed by the guarantor;
+
+(b)
+
+the guarantee represents a direct claim on the guarantor;
+
+(c)
+
+the extent of the credit protection cover is clearly defined and incontrovertible;
+
+(d)
+
+other than in the event of non-payment by the Authorised Person of Money due in respect of the guarantee if applicable, there is an irrevocable obligation on the part of the guarantor to pay out a pre-determined amount upon the occurrence of a credit event, as defined under the guarantee;
+
+(e)
+
+the guarantee does not contain any clause,

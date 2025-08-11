@@ -1,0 +1,83 @@
+ of the financial institution’s risk profile.
+
+Desired Outcome 2.4 – Risk Monitoring
+
+2.4.1
+
+Risk controls may not always function as intended and changes in the environment could degrade their effectiveness. This could lead to financial institutions having a false sense of security, being exposed to more risk than is acceptable. It is therefore crucial that financial institutions monitor the effectiveness and adequacy of their risk controls on an ongoing basis.
+
+2.4.2
+
+Financial institutions should define metrics to measure the effectiveness of their risk controls. As far as possible, financial institutions should seek to use common metrics across multiple risk sources, as well as augmenting these common metrics with risk source-specific metrics where needed. The metrics should include both quantitative measures as well qualitative measures of effectiveness. Such metrics should at a minimum take into account risk events that have occurred or been averted, observations raised by auditors or regulators as well as applicable regulatory requirements.
+
+2.4.3
+
+Financial institutions should put systems and processes in place to collect the control effectiveness metrics in an accurate and timely manner. The systems and processes should be regularly reviewed and updated to ensure that they continue to collect metrics in an accurate and timely manner.
+
+2.4.4
+
+Financial institutions should regularly review the control effectiveness metrics that they have collected to determine whether their risk controls have been effective at preventing or reducing risk. Based on this review, financial institutions should update their risk controls to address deficiencies in effectiveness. Financial institutions should take the severity of the deficiencies as well as the impact of the changes on other risk controls and risk sources into account when planning these updates.
+
+18
+
+VER01.201124
+
+2.4.5 Where a control repeatedly fails to achieve its expected effectiveness metric, a financial institution should review the design of the control to determine the root cause of the failure and take appropriate steps to implement alternative controls or processes that address the attendant risks.
+
+Desired Outcome 2.5 – Incident Management
+
+2.5.1
+
+Even though risk controls can be put in place to minimise occurrence, it is not possible to prevent all risk events from materialising. It is therefore crucial that financial institutions establish controls and processes that allow them to detect, respond to and recover from materialised risk events i.e., incidents, in a timely way.
+
+2.5.2
+
+During the early stages of an incident, it is often hard to obtain clear and actionable information. Erroneous information can often propagate. Having a well-structured process for responding to an incident lets financial institutions focus on decision making. Clear communication is equally essential, to prevent the spread of misinformation that could cause erroneous decisions to be taken.
+
+2.5.3
+
+Financial institutions should have an incident management framework in place to ensure that incidents are dealt with swiftly and effectively, including:
+
+2.5.3.a
+
+how the financial institution should investigate risk events, in particular in maintaining and protecting evidence should a risk event be an incident;
+
+2.5.3.b
+
+how the financial institution classifies the severity of each incident;
+
+2.5.3.c what processes the financial institutions has for detecting, responding to and recovering from different types of incidents such as cyber-attacks or software failure;
+
+2.5.3.d who is responsible for what role in detecting, responding to and recovering
+
+from incidents;
+
+2.5.3.e which stakeholders should be updated, at what point the stakeholders should be updated during the incident and what information should be shared with the stakeholders; and
+
+2.5.3.f
+
+defined criteria for when the incident’s severity warrants activation of business continuity plans and convening of crisis management teams for prompt decision making.
+
+2.5.4
+
+Financial institutions should regularly review, test, and update the framework to ensure that it remains relevant and effective.
+
+Incident Detection
+
+2.5.5
+
+Financial institutions should put systems in place to detect risk events when they occur. Financial institutions should also put processes in place to allow reporting of risk events
+
+19
+
+VER01.201124
+
+by staff and by external parties. These systems and processes should capture the risk event’s nature and scale.
+
+2.5.6
+
+Incidents may occur at any time and at any system in the financial institution’s technology implementation. A financial institution should monitor all hardware, software, networks, and connections for risk events.
+
+2.5.7
+
+Financial institutions should regularly broadcast the incident management framework to ensure that staff are apprised

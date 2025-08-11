@@ -1,0 +1,41 @@
+ considerations relevant to Digital Securities. Technology Governance and Controls
+
+98) While the FSRA adopts a technology-neutral approach to the regulation of Digital Securities markets, there is considerable industry appetite to use and deploy DLT, and related technologies. The development, and usage, of such technologies, however, is still widely considered to be in its early years of development and usage at scale. While it does not seek to regulate specific technologies such as DLT directly, the FSRA expects users of such technology to meet particular requirements in terms of their technology systems, governance and controls.
+
+99) All Authorised Persons and holders of Recognition Orders (in relation to Digital Securities) will need to take into account considerations relating to technology governance and controls, for the purposes of compliance with primarily, in the case of a RIE, MIR Rules
+
+20 See paragraph 49 for the FSRA’s policy position on OTFs with regard to Digital Securities.
+
+VER02.240220
+
+25
+
+2.5 and 2.6, and in the case of an MTF, GEN Rule 3.3. The FSRA would further recommend that when Applicants are seeking to comply with these requirements, they take into account paragraphs 51-66, 69-70 and 77-87 of of the Virtual Assets Guidance in relation to their technology governance (with Virtual Assets being read as Digital Securities for the purposes of that Guidance).
+
+100) The FSRA acknowledges that non-DLT technologies may be used for the secure custody, clearing and settlement of Digital Securities. Where this is the case, the relevant licence holders are still required to meet MIR Rules 2.6 and 2.10, as applicable, at all times.
+
+DLT Access Implications - Offers, Issuance & Trading
+
+101) The FSRA expects that the particular use, and surrounding controls related to the use, of DLT will have implications for how Digital Securities are offered, issued, traded and ultimately settled. On issuance, for example, the FSRA expects that Offers of Digital Securities to be limited/linked to an initial venue (e.g., MTF or RIE), due to the likelihood that permissioned access to a DLT will be limited due to commercial or technology compatibility issues. The implication therefore is that where an MTF or RIE, for example, controls access to a distributed ledger there may be a limit/restriction on an investor to transfer Digital Securities to another investor. This is in contrast to Virtual Assets (for example, Bitcoin), where access to the Bitcoin distributed ledger is not permissioned.
+
+102) Access to DLT may alternatively be controlled by a DSF/RCH, or the Issuer of a Digital Security itself. Whatever the model of access/permission, the FSRA would expect any costs for the transfer of a Digital Security to be clearly disclosed and be undertaken on a reasonable commercial basis.
+
+Subscriptions to an Offer of Digital Securities
+
+103) Pursuant to various requirements set out in MKT, an Offer of Securities should be denominated and priced is recognised, however, that fiat currency. subscriptions/payments for an Offer of Digital Securities could be made via fiat currencies and/or Accepted Virtual Assets. Subscription amounts collected in Accepted Virtual Assets, therefore, are subject to the prevailing exchange rate between the (denominated) fiat currency and the relevant Accepted Virtual Asset at the time of payment. It
+
+in
+
+104) Accordingly, an ADGM-licenced intermediary will also need to ensure that its FSP permits it to offer subscription services, or alternatively may engage the services of an Authorised Person with such permission.
+
+Market Abuse, Transaction Reporting and Misleading Impressions (FSMR)
+
+105) The Market Abuse Provisions in Part 8 of FSMR specifically cover Market Abuse Behaviour in relation to Securities (including Digital Securities) admitted to trading on a RIE or an MTF.
+
+VER02.240220
+
+26
+
+106) FSMR Section 149 sets out the reporting obligations imposed on RIEs and MTFs which are required to report details of transactions in Securities (including Digital Securities) traded on their platforms. Consistent with its treatment of all RIEs and MTFs, the FSRA expects RIEs and MTFs (providing markets in Digital Securities) to report order/trading data to the FSRA on both a real-time and batch basis.
+
+107) In addition, the FSMR provisions on Misleading Statements apply to Securities (

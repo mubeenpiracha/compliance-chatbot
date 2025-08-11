@@ -1,0 +1,153 @@
+, the scenarios must include both constant and forecast prices. In relation to the rate of discount, the scenarios must include the weighted average cost of capital;
+
+Confidential
+
+120
+
+MKT VER09.020125
+
+(4)
+
+an estimate of net present value. If the valuation is arrived at on an alternative basis, an explanation of the basis and reasons for adopting the alternative basis; and
+
+(5)
+
+a risk factor highlighting the uncertainties inherent in the assumptions made in arriving at the valuation, and the effects they may have on the valuation of the Mineral Resources and Ore Reserves and the value of the offered Securities.
+
+11.4 Exploration Results
+
+11.4.1 A Mining Reporting Entity disclosing Exploration Results that are material and that have not been previously disclosed by the Mining Reporting Entity must ensure the disclosure contains the following:
+
+(1)
+
+all information that is material to understanding the Exploration results;
+
+Guidance
+
+For a Reporting Entity disclosing against the JORC Code or SAMREC Code, for example, the Reporting Entity would need to have regard to each of the factors listed in:
+
+a.
+
+Section 1 (sampling techniques and data); and
+
+b.
+
+Section 2 (reporting of exploration results),
+
+of Table 1 of the JORC Code or the SAMREC Code.
+
+(2)
+
+if certain information is not included because the Mining Reporting Entity considers it not to be material, an explanation as to why that information/factor is not material to understanding the Exploration results;
+
+(3)
+
+in respect of material drill holes, a separate table setting out the following, unless the Mining Reporting Entity determines that the information is not material to understanding the Exploration results:
+
+(a)
+
+easting and northing of the drill hole collar;
+
+(b)
+
+elevation or RL of the drill hole collar;
+
+(c)
+
+dip and azimuth of the hole;
+
+(d)
+
+down hole width and depth; and
+
+(e)
+
+end of hole;
+
+(4)
+
+where the Mining Reporting Entity has determined that any of the information in (3) is not material to understanding the Exploration results, an explanation from the Mining Reporting Entity as to why the information is not material.
+
+Confidential
+
+121
+
+MKT VER09.020125
+
+Guidance
+
+The Mining Reporting Standards set out additional requirements for public reports on Exploration Results. For example, clauses 18 and 19 of the JORC Code are applicable.
+
+11.5 Mineral Resources
+
+11.5.1 A Mining Reporting Entity disclosing estimates of Inferred Mineral Resources, Indicated Mineral Resources or Measured Mineral Resources that are material and that have not previously been disclosed by the Mining Reporting Entity or that have materially changed from the estimates last publicly disclosed, must ensure its disclosure contains the following:
+
+(1)
+
+a fair and balanced representation of the information contained in the report prepared in accordance with (2), including a summary of all information material to understanding the reported estimates of Mineral Resources in relation to the:
+
+(a)
+
+geology and geological interpretation;
+
+(b)
+
+drilling techniques;
+
+(c)
+
+sampling and sub-sampling techniques;
+
+(d)
+
+sample analysis method;
+
+(e)
+
+estimation methodology;
+
+(f)
+
+mining and metallurgical methods and parameters, and other material modifying factors considered to date;
+
+(g)
+
+cut-off grade(s), including the basis for the selected cut-off grade(s); and
+
+(h)
+
+criteria used for classification, including drill, data spacing and distribution; where estimates for more than one category of Mineral Resources are reported, separately identifying the drill spacing used to classify each category of Mineral Resources, i.e. Inferred Mineral Resources, Indicated Mineral Resources and Measured Mineral Resources.
+
+(2)
+
+a report providing all information that is material to understanding the estimates of Mineral Resources, taking into account the:
+
+(a)
+
+sampling techniques and data;
+
+(b)
+
+reporting of Exploration results;
+
+(d)
+
+estimation and reporting of Mineral Resources;
+
+(e)
+
+estimation and reporting of diamonds and other gemstones; or
+
+Confidential
+
+122
+
+MKT VER09.020125
+
+(3)
+
+if certain information from (2) is not included because the Mining Reporting Entity considers it not to be material to understanding the estimates of Mineral Resources, an explanation from the Mining Reporting Entity as to why that information is not material to understanding the estimates of Mineral Resources.
+
+11.6 Ore Reserves
+
+11.6.1 A Mining Reporting Entity disclosing estimates of Probable Ore Reserves or Proved Ore Reserves that are material, and that have not been previously disclosed by the Reporting Entity, or

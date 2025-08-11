@@ -1,0 +1,123 @@
+SA; and
+
+(vii)
+
+if applicable, there have been any material discrepancies in the reconciliation of Client Money.
+
+Guidance
+
+Where an Authorised Firm does not hold or control any Client Money as at the date on which the Authorised Firm’s audited statement of financial position was prepared, the DFSA expects that a nil balance be stated to comply with Rule A2.1.1 (a) in this Appendix.
+
+28
+
+AUD/VER9/07-25
+
+APP3
+
+A3.1.1
+
+Auditor Module (AUD)
+
+INSURANCE MONIES AUDITOR’S REPORT
+
+In producing an Insurance Monies Auditor’s Report, an Auditor must state as at the date on which the Authorised Firm’s audited statement of financial position was prepared:
+
+(a)
+
+the amount of Insurance Monies an Authorised Firm was holding and controlling in accordance with COB section 7.12; and
+
+(b) whether:
+
+(i)
+
+the Authorised Firm has maintained throughout the year systems and controls to enable it to comply with the relevant provisions of COB section 7.12;
+
+(ii)
+
+the Authorised Firm's controls are such as to ensure that Insurance Monies are identifiable and secure at all times;
+
+(iii)
+
+any of the requirements in COB section 7.12 have not been met;
+
+(iv)
+
+if applicable, the Authorised Firm was holding and controlling an appropriate amount of Insurance Monies in accordance with COB section 7.12 as at the date on which the Authorised Firm’s audited statement of financial position was prepared;
+
+(v)
+
+the regulatory form B510 (Insurance Intermediation or Management) has been properly prepared by the Authorised Firm in accordance with the applicable rules in PIB
+
+(vi)
+
+the Auditor has received all necessary information and explanations for the purposes of preparing the report to the DFSA; and
+
+(vii)
+
+if applicable, there have been any material discrepancies in the reconciliation of Insurance Monies.
+
+Guidance
+
+Where an Authorised Firm does not hold or control any Insurance Monies as at the date on which the Authorised Firm’s audited statement of financial position was prepared, the DFSA expects that a nil balance be stated to comply with Rule A3.1.1 (a) in this Appendix.
+
+29
+
+AUD/VER9/07-25
+
+Auditor Module (AUD)
+
+APP4 SAFE CUSTODY AUDITOR’S REPORT
+
+A4.1.1
+
+In producing a Safe Custody Auditor’s Report, an Auditor must state as at the date on which the Authorised Firm’s audited statement of financial position was prepared:
+
+(a)
+
+the extent to which the Authorised Firm was holding and controlling Client Investments or Client Crypto Tokens, or Providing Custody; and
+
+(b) whether:
+
+(i)
+
+the Authorised Firm has, throughout the year, maintained systems and controls to enable it to comply with the Safe Custody Provisions;
+
+(ii)
+
+the Safe Custody Investments or Safe Custody Crypto Tokens, as applicable, are registered, recorded or held in accordance with the Safe Custody Provisions;
+
+(iii)
+
+there have been any material discrepancies in the reconciliation of Safe Custody Investments or Safe Custody Crypto Tokens;
+
+(iv)
+
+if applicable, the systems, processes and procedures for the storage of Crypto Tokens operate effectively and ensure adequate protection against hacking, theft or fraud;
+
+(v)
+
+the Auditor has received all necessary information and explanations for the purposes of preparing this report to the DFSA; and
+
+(vi) any of the requirements of the Safe Custody Provisions have not been met.
+
+Guidance
+
+1. Where an Authorised Firm does not hold or control any Client Investments or Client Crypto Tokens, Arrange Custody or Provide Custody as at the date on which the Authorised Firm’s audited statement of financial position was prepared, the DFSA expects that such fact be stated to comply with Rule A4.1.1 (a) in this Appendix.
+
+2.
+
+In producing a Safe Custody Auditor’s Report an Auditor will need to consider which parts of COB App 6 are relevant to the Authorised Firm and only include an opinion to the extent relevant to the Authorised Firm’s activity.
+
+30
+
+AUD/VER9/07-25
+
+Auditor Module (AUD)
+
+APP5 FUND AUDITOR’S REPORT
+
+A5.1.1
+
+In producing a Fund Auditor’s Report, an Auditor must state:
+
+(a) whether the financial statements have

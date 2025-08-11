@@ -1,0 +1,107 @@
+ problem Exposures (at an individual level or at a portfolio level for credits with
+
+118
+
+PRU VER17.290725
+
+homogeneous characteristics) and review the asset classification, provisioning and write-offs for each of those problem Exposures.
+
+PART 3 - CRCOM
+
+4.6
+
+Application
+
+Guidance
+
+1.
+
+As indicated in Rule 4.1.1, this Chapter 4 (including this Part 3) applies to Authorised Persons in Categories 1, 2, 3A and 5. However, the provisions in this part are applied in a differentiated manner in that Category 3A firms must, and Category 2 firms may, use the Simplified Approach under Section 4.7.
+
+2.
+
+The Credit Risk Capital Requirement (also referred to in these Rules as CRCOM) is a component of the calculation of the overall Capital Requirement of an Authorised Person, as provided in Rules 3.5.1 and 3.5.2. The Rules in this Part 3, supplemented by App4, govern the manner of calculation of the CRCOM.
+
+4.7
+
+Simplified Approach
+
+Category 3A firms
+
+4.7.1
+
+(1)
+
+This Rule applies only to an Authorised Person in Category 3A.
+
+(2)
+
+Subject to (3) and (4), an Authorised Person must apply the Simplified Approach as prescribed in Section A4.12 in App4.
+
+(3)
+
+An Authorised Person is not required to apply the Simplified Approach if it obtains prior written approval of the Regulator not to do so.
+
+(4)
+
+After obtaining approval under (3), a firm must not revert to the Simplified Approach without obtaining further prior written approval from the Regulator.
+
+Guidance
+
+1.
+
+In effect, the Simplified Approach reduces undue regulatory burden on Category 3A firms to reflect more appropriately their risk profile.
+
+2.
+
+In relation to (3) and (4), the Regulator may consider granting its approval for a change of approach if it is satisfied that there are no regulatory capital arbitrage opportunities. Firms should be able to demonstrate to the Regulator solid and reasonable grounds to be able to move from one approach to the other. For instance, in assessing whether or not to grant approval, the Regulator may consider whether or not there has been a material change in the business of the firm.
+
+Category 2 firms
+
+4.7.2
+
+(1)
+
+This Rule applies only to an Authorised Person in Category 2.
+
+119
+
+PRU VER17.290725
+
+(2)
+
+Subject to (3) and (4), an Authorised Person may apply the Simplified Approach, as prescribed in Section A4.12 in App4, upon obtaining the prior written approval to do so from the Regulator.
+
+(3)
+
+After obtaining approval under (2), a firm must not disapply the Simplified Approach without further prior written approval from the Regulator.
+
+(4)
+
+The Regulator may revoke its approval under (2) and require a firm to disapply the Simplified Approach, if the Regulator considers that this is warranted by the firm's business model and risk profile.
+
+Guidance
+
+In relation to (3) and (4), the Regulator may consider granting its approval for a change of approach if it is satisfied that there are no regulatory capital arbitrage opportunities. Firms should be able to demonstrate to the Regulator reasonable grounds to be able to move from one approach to the other. For instance, in assessing whether or not to grant approval, the Regulator may consider whether or not there has been a material change in the business of the firm.
+
+4.8
+
+Calculation of the CRCOM
+
+4.8.1
+
+(1)
+
+The Credit Risk Capital Requirement is calculated as follows: CRCOM = 10% x Credit RWA
+
+(2)
+
+The Credit RWA of an Authorised Person is the sum of:
+
+(a)
+
+its risk weighted assets (RWA) for all its Credit Risk Exposures (referred to in these Rules as "CR Exposures") calculated in accordance with Rules 4.8.2 and 4.8.3;
+
+(b)
+
+its RWA for all its securitisation Exposures (referred to in these Rules as "SE Exposures") calculated in accordance with Rule 4.8.4

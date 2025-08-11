@@ -1,0 +1,93 @@
+ as well as the risk characteristics of the pools underlying securitisation Exposures;
+
+(b)
+
+ability to access the performance information on the underlying pools on an on-going basis in a timely manner; and
+
+(c)
+
+a thorough understanding of all structural features of a securitisation transaction that would materially impact the performance of the Authorised Person's Exposure to the transaction, such as waterfall triggers, Credit Enhancements, liquidity enhancements, market value triggers and deal specific definitions of default.
+
+153
+
+PRU VER17.290725
+
+Guidance
+
+1.
+
+An Authorised Person which is an investor, Originator or Sponsor of a Securitisation should fully understand the risks it has assumed in order to ensure that it can accurately determine the Capital Requirements for the Exposures arising from the securitisation in accordance with the Rules in this Section.
+
+2.
+
+For the purposes of Rule 4.14.6(b) information should include the percentage of loans 30, 60, 90 days past due, default rates, prepayment rates, loans in foreclosure, property type, occupancy, average credit score etc. For Re-securitisations, Authorised Persons should have information relating to not only the underlying securitisation transactions but also the characteristics and performance of the underlying pools of such transactions.
+
+4.14.7 Where an Authorised Person is either an Originator or a Sponsor of a Traditional
+
+Securitisation or a Synthetic Securitisation:
+
+(a)
+
+the Authorised Person intending to conduct the securitisation must notify the Regulator at least 30 days in advance of the proposed execution of the securitisation;
+
+(b)
+
+the Authorised Person conducting the securitisation must calculate its Credit RWAs for all resultant Exposures from that securitisation, in accordance with Section 4.8, provided the requirements of this Section are met; and
+
+(c)
+
+the securitisation must produce the Authorised Person conducting documentation reflecting the execution and economic substance of the transaction.
+
+Guidance
+
+The notification made to the Regulator under (a) should include, inter alia, amounts of assets subject to securitisation, amounts retained, details of securitisation including legal structure, rating, tranches, details of legal transfer and any CRM applied and implications on the capital and liquidity position on the Authorised Person.
+
+Calculation of Credit RWA arising from securitisations
+
+4.14.8
+
+An Authorised Person must calculate the Credit RWA amounts for Exposures arising from securitisations according to the requirements in this Section.
+
+Guidance
+
+1.
+
+An Authorised Person should apply the securitisation framework set out in this Section for determining the Capital Requirements on Exposures arising from traditional and Synthetic Securitisations or similar structures that contain features common to both.
+
+154
+
+PRU VER17.290725
+
+2.
+
+This Section sets out the requirements for Originators, Authorised Persons which transfer Credit Risk from their balance sheets and Sponsors in a securitisation transaction involving Non-Trading Book Exposures. This Section also sets out the methodologies for calculation of RWA amounts for securitisation Exposures. The Rules setting out the methodologies for calculation of Market Risk Capital Requirement amounts for securitisation Exposures held in the Trading Book are specified in Chapter 5 and App6 of these Rules.
+
+3.
+
+As securitisations may be structured in many different ways, an Authorised Person engaging in the activities relating to securitisations (whether traditional or a Synthetic Securitisation) must ensure that the economic substance of the transaction is fully considered, and reflected, in determining the capital treatment of a securitisation, rather than relying on the legal form of the Securitisation.
+
+4.14.9
+
+An Authorised Person is required, subject to Rule 4.14.12, to include all securitisation Exposures in its calculation of Credit RWAs relating to securitisations, including the following:
+
+(a)
+
+those arising from the provision of Credit Risk mitigants to a securitisation;
+
+(b)
+
+investments in asset backed Securities;
+
+(c)
+
+retention of a subordinated tranche;
+
+(d)
+
+extension of a liquidity facility; and
+
+(e)
+
+extension of Credit Enhancement.
+
+4.14.10 An Authorised Person must include in its calculation of Credit

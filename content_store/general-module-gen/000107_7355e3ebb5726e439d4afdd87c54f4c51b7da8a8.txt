@@ -1,0 +1,119 @@
+ this might occur where an Authorised Firm operates a MTF that trades the Crypto Token, acts as a Market Maker for the Crypto Token or is involved in the development, offer or marketing of the Crypto Token. In such situations the DFSA would expect the Authorised Person to have greater knowledge and awareness of developments relating to the Crypto Token and therefore to be more likely to report adverse events or developments.
+
+2.
+
+As set out in the Guidance under Rule 3A.2.1, the DFSA’s recognition of a Crypto Token does not relieve an Authorised Person of its obligation to conduct adequate due diligence on the Crypto Token both before and when carrying on an activity or service relating to the Crypto Token .
+
+165
+
+GEN/VER67/03-25
+
+GENERAL (GEN)
+
+11.12 Requirement to provide a report
+
+11.12.1 This section applies to every Authorised Person.
+
+Guidance
+
+1.
+
+Under Article 74, the DFSA may require an Authorised Person to provide it with a report on any matter. The Person appointed to make a report must be a Person nominated or approved by the DFSA. This Person will be referred to throughout the Rulebook as an independent expert.
+
+2.
+
+When requesting a report under Article 74, the DFSA may take into consideration the matters set out in the RPP Sourcebook.
+
+Independent Expert
+
+11.12.2 (1)
+
+The DFSA may, by sending a notice in writing, require an Authorised Person to provide a report by an independent expert. The DFSA may require the report to be in whatever form it specifies in the notice.
+
+(2)
+
+The DFSA will give written notification to the Authorised Person of the purpose of its report, its scope, the timetable for completion and any other relevant matters.
+
+(3)
+
+The independent expert must be appointed by the Authorised Person and be nominated or approved by the DFSA.
+
+(4)
+
+The Authorised Person must pay for the services of the independent expert.
+
+Guidance
+
+1.
+
+If the DFSA decides to nominate the independent expert, it will notify the Authorised Person accordingly. Alternatively, if the DFSA is content to approve the independent expert selected by the Authorised Person it will notify it of that fact.
+
+2.
+
+The DFSA will only approve an independent expert that in the DFSA’s opinion has the necessary skills to make a report on the matter concerned.
+
+11.12.3 When an Authorised Person appoints an independent expert, the Authorised
+
+Person must ensure that:
+
+(a)
+
+the independent expert co-operates with the DFSA; and
+
+(b)
+
+the Authorised Person provides all assistance that the independent expert may reasonably require.
+
+11.12.4 When an Authorised Person appoints an independent expert, the Authorised
+
+Person must, in the contract with the independent expert:
+
+(a)
+
+require and permit the independent expert to co-operate with the DFSA in relation to the Authorised Person and to communicate to the DFSA information on, or his opinion on, matters of which he has, or had, become aware in his capacity as an independent expert reporting on the Authorised Person in the following circumstances:
+
+166
+
+GEN/VER67/03-25
+
+GENERAL (GEN)
+
+(i)
+
+the independent expert reasonably believes that, as regards the Authorised Person concerned:
+
+(A)
+
+there is or has been, or may be or may have been, a contravention of any relevant requirement that applies to the Authorised Person concerned; and
+
+(B)
+
+that the contravention may be of material significance to the DFSA in determining whether to exercise, in relation to the Authorised Person concerned, any powers conferred on the DFSA under any provision of the Regulatory Law 2004;
+
+(ii)
+
+the the information on, or his opinion on, those matters may be of material significance to the DFSA in determining whether the Authorised Person concerned satisfies and will continue to satisfy the fit and proper requirements; or
+
+independent expert
+
+reasonably believes
+
+that
+
+(iii)
+
+the the Authorised Firm is not, may not be, or may cease to be, a going concern;
+
+independent expert
+
+reasonably believes
+
+that
+
+(b)
+
+require the independent expert to prepare a report within the time specified by the DFSA; and
+
+(c)
+
+waive any duty of confidentiality owed by the independent expert to the Authorised Person which might limit the provision of information or opinion by that independent expert to

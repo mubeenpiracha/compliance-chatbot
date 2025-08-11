@@ -1,0 +1,139 @@
+ reduced or repaid other than in the liquidation of the Authorised Person, and the Authorised Person does not otherwise provide such an indication prior to or at issuance of the instruments;
+
+the distributions:
+
+instruments meet
+
+the
+
+following conditions as
+
+regards
+
+(i)
+
+there are no preferential distributions, including in relation to other CET1 Capital instruments, and the terms governing the instruments do not provide preferential rights to payment of distributions;
+
+(ii)
+
+distributions to holders of the instruments may be paid only out of distributable items;
+
+(iii)
+
+the conditions governing the instruments do not include a cap or other restriction on the maximum level of distributions;
+
+(iv)
+
+the level of distributions is not determined on the basis of the amount for which the instruments were purchased at issuance;
+
+(v)
+
+the conditions governing the instruments do not include any obligation for the Authorised Person to make distributions to its holders and the Authorised Person is not otherwise subject to such an obligation;
+
+(vi)
+
+non-payment of distributions does not constitute an event of default of the Authorised Person; and
+
+66
+
+PRU VER17.290725
+
+(vii)
+
+the cancellation of distributions imposes no restrictions on the institution;
+
+(i)
+
+compared to all the capital instruments issued by the Authorised Person, the instruments absorb the first and proportionately greatest share of losses as they occur, and each instrument absorbs losses to the same degree as all other CET1 Capital instruments;
+
+(j)
+
+the instruments rank below all other claims in the event of insolvency or liquidation of the Authorised Person;
+
+(k)
+
+the instruments entitle their owners to a claim on the residual assets of the Authorised Person, which, in the event of its liquidation and after the payment of all senior claims, is proportionate to the amount of such instruments issued and is not fixed or subject to a cap;
+
+(l)
+
+the instruments are not secured, or guaranteed by any of the following:
+
+(i)
+
+the Authorised Person or its Subsidiaries;
+
+(ii)
+
+any Parent of the Authorised Person or its Subsidiaries; or
+
+(iii)
+
+any member of its Financial Group; and
+
+(m)
+
+the instruments are not subject to any arrangement, contractual or otherwise, that enhances the seniority of claims under the instruments in insolvency or liquidation.
+
+(2)
+
+The conditions in (1)(i) must be complied with notwithstanding a write-down on a permanent basis of the principal amount of AT1 Capital instruments.
+
+(3)
+
+Where any of the conditions in (1) cease to be met:
+
+(a)
+
+the instrument must cease to qualify as a CET1 Capital instrument; and
+
+(b)
+
+the share premium accounts that relate to that instrument must cease to qualify as a CET1 element.
+
+3.10.4
+
+For the purposes of Rule 3.10.2(c), an Authorised Person may include interim or year-end net profits in CET1 Capital before the Authorised Person has approved its annual audited accounts confirming its final profit or loss for the year, but only where:
+
+(a)
+
+those profits have been reviewed by the external Auditor of the Authorised Person, which is responsible for auditing its accounts; and
+
+(b)
+
+the Authorised Person is fully satisfied that any foreseeable charge or dividend has been deducted from the amount of those net profits.
+
+67
+
+PRU VER17.290725
+
+Guidance
+
+The review of the interim or year-end profits of the Authorised Person referred to in Rule 3.10.4 should be undertaken in accordance with the requirements of GEN 6 and provide an adequate level of assurance that those profits have been evaluated in accordance with the principles set out in the International Financial Reporting Standards. The Regulator may request an Authorised Person to provide it with a copy of its external Auditor's opinion on whether the interim profits are reasonably stated.
+
+CET1 Adjustments
+
+3.10.5
+
+An Authorised Person must, in the calculation of CET1 Capital, exclude the following:
+
+(a)
+
+any Standards, including:
+
+increase
+
+in
+
+its equity under the International Financial Reporting
+
+(i)
+
+where such an increase is associated with future margin income that results in a gain on sale for the Authorised Person; and
+
+(ii)
+
+where the Authorised Person is the Originator of a securitisation, net gains that arise from the capitalisation of future income from the securitised assets that provide Credit Enhancement to positions in the securitisation;
+
+(b)
+
+the amount of cash

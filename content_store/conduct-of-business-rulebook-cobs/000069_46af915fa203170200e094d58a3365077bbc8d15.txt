@@ -1,0 +1,91 @@
+.
+
+17.1.4 The following COBS Rules must be read as applying to all Transactions undertaken by an Authorised Person conducting a Regulated Activity in relation to Virtual Assets, irrespective of any restrictions on application or any exception to these Rules elsewhere in this Rulebook. All references to Specified Investments or Investments in such Rules must be read as encompassing “Virtual Asset” or “Virtual Assets”, as applicable:
+
+(a)
+
+Rule 3.4 (Suitability);
+
+(b)
+
+Rule 6.5 (Best Execution);
+
+(c)
+
+Rule 6.7 (Aggregation and Allocation);
+
+(d)
+
+Rule 6.10 (Confirmation Notes);
+
+(e)
+
+Rule 6.11 (Periodic Statements); and
+
+(f)
+
+Chapter 12 (Key Information and Client Agreement).
+
+17.2 Accepted Virtual Assets
+
+17.2.1 An Authorised Person conducting a Regulated Activity in relation to Virtual Assets must not conduct such Regulated Activity with a Virtual Asset which is not an Accepted Virtual Asset.
+
+17.2.2 For the purposes of determining whether a Virtual Asset meets the requirements of being an Accepted Virtual Asset, an Authorised Person conducting a Regulated Activity must adequately assess the following criteria:
+
+(a)
+
+Traceability / monitoring: whether the Authorised Person is able to demonstrate the origin and destination of the specific Virtual Asset, the Virtual Asset enables
+
+111
+
+COBS VER19.290725
+
+the transactions in the Virtual Asset can be adequately monitored;
+
+identification of counterparties to each transaction, and on-chain
+
+(b)
+
+Security: whether the Virtual Asset is able to withstand, adapt, respond to, and improve on its specific risks and vulnerabilities, including relevant factors and risks relating to its use, including testing, maturity, and ability to allow the appropriate safeguarding of secure private keys;
+
+(c)
+
+Market Profile: the duration the Virtual Asset has been in existence, the sufficiency, depth and breadth of market demand, the proportion of the Virtual Asset that is in circulation , the controls/processes to manage volatility of such Virtual Asset and all sanctions and adverse media in respect of the parties associated with the Virtual Asset, including founders, contributors, foundation members, investors and key decision-makers. This extends to establishing whether there is any association of the Virtual Asset with illegal activities or any serious concerns that its use may circumvent sanctions restrictions;
+
+(d)
+
+Exchange connectivity: whether there are exchanges that support the Virtual Asset; the jurisdictions of these exchanges and whether such exchanges are suitably regulated;
+
+(e)
+
+DLT infrastructure and ecosystem (“DLT”): whether there are issues relating to the security and/or usability of the DLT used for the purposes of the Virtual Asset; whether the Virtual Asset leverages an existing DLT for network and other synergies, and, if not, whether a new DLT has been demonstrably stress tested;
+
+(f)
+
+Innovation / efficiency: whether the Virtual Asset demonstrates utility by, for instance, helping to solve a fundamental problem, addressing an unmet market need or creating value for network participants; and
+
+(g)
+
+Practical application / functionality: whether the Virtual Asset possesses quantifiable functionality.
+
+17.2.3 Prior to commencing a Regulated Activity in relation to a Virtual Asset, an Authorised Person must satisfy themselves that the Virtual Asset meets the assessment criteria set out in Rule 17.2.2.
+
+17.2.4 An Authorised Person must notify the Regulator of its intention to conduct a Regulated Activity with a Virtual Asset not later than five Business Days prior to commencing such Regulated Activity. Notification under this Rule must be in such form as the Regulator may prescribe.
+
+17.2.5 In the absence of written direction given under Section 5B of FSMR, an Authorised Person may consider a Virtual Asset for which it has submitted the notification required under Rule 17.2.4 as an Accepted Virtual Asset and, subject to Rule 17.2.6, may commence the conduct of a Regulated Activity with such Accepted Virtual Asset.
+
+17.2.6 An Authorised Person conducting a Regulated Activity in relation to an Accepted Virtual
+
+Asset must:
+
+112
+
+COBS VER19.290725
+
+(a)
+
+maintain upon its website a current list of all Accepted Virtual Assets with which it it is permitted to conduct a Regulated Activity; and
+
+(b)
+
+continuously monitor all Accepted Virtual Assets with which it conducts a Regulated Activity to ensure its continuing satisfaction of the criteria specified in Rule 17.

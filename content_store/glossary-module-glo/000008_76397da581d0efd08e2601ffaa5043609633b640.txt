@@ -1,0 +1,105 @@
+ a jurisdiction other than the DIFC where an Authorised Firm opens a Correspondent Account. A Client of an Authorised Firm which uses the firm’s correspondent banking services account to clear Transactions for its own customer base. Means any person with or for whom an Authorised Firm carries on, or intends to carry on, any regulated business or associated business. In this context, a counterparty includes an individual, unincorporated body, company, government, local authority or other public body.
+
+The risk that an Authorised Firm’s Counterparty does not perform its obligations under the terms of a contract.
+
+The DIFC Court.
+
+A swap or Option, which has a payout linked to changes in an underlying Reference Asset’s creditworthiness and protects the Protection Buyer against the risk of credit loss over a specified time period with the payout being conditional on some form of Credit Event.
+
+An over the counter financial Derivative instrument, which enables the isolation and separate transfer of Credit Risk and whose payout is linked to changes in the Reference Assets’ creditworthiness.
+
+An event related to the creditworthiness of Reference Assets or Reference Entities in a Credit Derivatives contract, which triggers the termination or a payout under the contract.
+
+17
+
+GLO/VER62/07-25
+
+Defined Term
+
+Credit Event Payment
+
+Credit Facility
+
+Credit Fund
+
+Credit Provider
+
+Credit Rating
+
+Credit Rating Activities
+
+Credit Rating Agency
+
+Credit Risk
+
+Credit Risk Capital Requirement
+
+GLOSSARY (GLO)
+
+Definition
+
+The consideration, which the Protection Seller pays to the Protection Buyer under a Credit Derivatives contract upon occurrence of a Credit Event. includes any arrangement or Any agreement which extends monetary credit whether funded or unfunded to a Person including but not limited to any loan or syndicated loan, mortgage, overdraft, financial lease, letter of credit, financial guarantee, finance for the acquisition of goods or services, trade finance, finance, asset finance, or the financing, discounting or factoring of invoices.
+
+facility which
+
+transaction
+
+finance, project
+
+This definition includes, without limiting the generality of the definition, an arrangement or agreement under which:
+
+(a) no, or reduced, interest or charges are payable by the Person to whom credit is extended if that Person repays all or a specified part of the credit on or before a certain date; and
+
+(b) if the Person does not make payment in accordance with (a), interest or charges are payable, or are payable at a higher rate, in respect of all or a specified part of the credit.
+
+For the purposes of this definition, “monetary credit” means any credit denominated in a national currency, supranational currency or unit of precious metal having a currency designation under the ISO 4217 (being the International Organization of Standardization (ISO) standard for the delineation of currency designation).
+
+Has the meaning given in CIR Rule 3.1.15.
+
+A Person who provides a Credit Facility.
+
+Has the meaning given to it in GEN Rule 2.27.1(2)(b).
+
+Has the meaning given to it in GEN Rule 2.27.1(2)(a).
+
+A Person carrying on in or from the DIFC the Financial Service of Operating a Credit Rating Agency for which it has an authorisation under its Licence.
+
+In relation to an Authorised Firm, the risk of loss if another party fails to perform on its financial obligation to the Authorised Firm.
+
+The requirement calculated in accordance with PIB section 4.6.
+
+18
+
+GLO/VER62/07-25
+
+Defined Term
+
+Credit Spread Option
+
+Credit-linked Note
+
+Crowdfunding Loan Agreement A
+
+Crowdfunding Operator
+
+Crowdfunding Platform
+
+Crypto Token
+
+Crypto Business
+
+Crypto Token Derivative
+
+GLOSSARY (GLO)
+
+Definition
+
+A type of contract where one Counterparty sells an Option to another Counterparty on a nominal amount of an asset swap on a specified Security, exercisable during a set period of time, in exchange for a payment of a premium where the Option gives the buyer the right to put the asset swap back to the seller at a strike spread over a pre-determined benchmark rate.
+
+A Security whose coupon payments are linked to the return on, and repayment of principal and is linked to the creditworthiness of, the Reference Assets.
+
+into using a Loan Crowdfunding Platform operated by a Crowdfunding Operator.
+
+loan agreement entered
+
+A Person who is authorised under a Licence to Operate a Crowdfunding

@@ -1,0 +1,127 @@
+identified, assessed, mitigated, controlled and monitored.
+
+Guidance
+
+1.
+
+The Governing Body of the Authorised Firm may delegate responsibility for establishing Non- Trading Book interest rate risk policies and strategies to the Asset and Liability Committee (ALCO) or an equivalent committee, which is the designated senior management committee for managing balance sheet structure and interest rate risk associated with it.
+
+2.
+
+An Authorised Firm involved in banking activities or complex principal dealing activities should have a designated committee for design and implementation of Non-Trading Book interest rate risk management.
+
+3.
+
+An Authorised Firm should establish and enforce operating limits and other practices that maintain Exposures within levels consistent with their internal policies and that accord with their approach to measuring the risk. In particular, Authorised Firms should set a limit on the extent to which floating rate Exposures are funded by fixed rate sources and vice versa to limit the risk. In floating rate lending, Authorised Firms should limit the extent to which they run any basis risk that may arise if lending and funding are not based on precisely the same market interest rate.
+
+197
+
+PIB/VER50/07-25
+
+8
+
+8.1
+
+8.1.1
+
+8.1.2
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+GROUP RISK
+
+Introduction
+
+Guidance
+
+1.
+
+This chapter deals with management of Group Risk exposure of an Authorised Firm. Group Risk refers to the risk of potential losses incurred by an Authorised Firm on account of its relationship with other members of its Financial Group, if it were to be part of one.
+
+2.
+
+This chapter includes requirements that an Authorised Firm implement:
+
+a.
+
+an effective management framework for Group Risk exposure;
+
+b.
+
+a specified methodology for the calculation of Financial Group Capital Resources and Financial Group Capital Requirements.
+
+3.
+
+This chapter also includes requirements limiting Financial Group exposures and restrictions on the ownership or control of deposit-taking firms.
+
+Application
+
+(1)
+
+This section and section 8.5 apply to an Authorised Firm in any Category.
+
+(2)
+
+Sections 8.2 to 8.4 apply only to an Authorised Firm in Category 1, 2 (other than a Matched Principal) or 5.
+
+Guidance
+
+1.
+
+Group membership may be a source of both strength and weakness to an Authorised Firm. The purpose of Group Risk requirements is to ensure that an Authorised Firm takes proper account of the risks related to the Authorised Firm’s membership of a Group. The Group Risk requirements form a key part of the DFSA’s overall approach to prudential supervision.
+
+2.
+
+Section 8.5 imposes important restrictions on the ability of Authorised Firms in Category 3A, 3B, 3C, 3D or 4, and non-regulated Financial Institutions, to be a Parent of an Authorised Firm in Category 1 or 5, or of a firm carrying on similar activities outside of the DIFC.
+
+Requirements by the DFSA
+
+(1)
+
+The DFSA may require an Authorised Firm to:
+
+(a)
+
+form a Financial Group with any other entity within its Group; or
+
+(b)
+
+include within its Financial Group any other entity within its Group;
+
+where the DFSA considers it necessary or desirable to do so in the interests of effective supervision of the Authorised Firm.
+
+(2)
+
+An Authorised Firm may, for the purposes of this section, exclude from its Financial Group any entity the inclusion of which would be misleading or inappropriate for the purposes of Financial Group supervision, provided the Authorised Firm has obtained the DFSA’s prior written approval.
+
+198
+
+PIB/VER50/07-25
+
+8.2
+
+8.2.1
+
+8.2.2
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+(3)
+
+An Authorised Firm must provide to the DFSA, if requested, any of the following information in relation to its Group or Financial Group:
+
+(a) details as to the entities within the Group or Financial Group;
+
+(b)
+
+the structure of the Group or Financial Group; and
+
+(c)
+
+the systems and controls in place to manage Group Risk.
+
+Guidance
+
+1.
+
+If more than one member of the same Group is subject to an obligation to provide information in respect of a position of the Group or Financial Group,

@@ -1,0 +1,109 @@
+Guidance – Continuous Disclosure (VER01.280922)
+
+VER01.280922
+
+TABLE OF CONTENTS INTRODUCTION .................................................................................................................. 1
+
+IMPORTANCE OF CONTINUOUS DISCLOSURE ............................................................... 2
+
+Rules 7.2.1 and 7.2.2 ........................................................................................................ 3
+
+THE POLICY OBJECTIVE OF THE FSRA’S CONTINUOUS DISCLOSURE FRAMEWORK 3
+
+INSIDE INFORMATION ........................................................................................................ 4
+
+When is information Inside Information? ............................................................................ 5
+
+Assessing, and the context of, Inside Information .............................................................. 6
+
+Examples of information that may be considered Inside Information ................................. 7
+
+BECOMING AWARE OF INSIDE INFORMATION ................................................................ 8
+
+IMMEDIATELY .................................................................................................................... 10
+
+Use of a Trading Halt or Suspension to manage Disclosure issues ................................. 11
+
+Listing Authority process for granting a Trading Halt / Suspension .................................. 13
+
+EXEMPTIONS FROM DISCLOSURE OF INSIDE INFORMATION – RULE 7.2.2 ............... 14
+
+TYPES OF INSIDE INFORMATION EXEMPT FROM DISCLOSURE (RULE 7.2.2(1)) ....... 14
+
+Incomplete matter or negotiation (Rule 7.2.2(1)(a)) ......................................................... 14
+
+Breach of law (Rule 7.2.2(1)(b))....................................................................................... 15
+
+Matters of supposition, or insufficiently certain or definite (Rule 7.2.2(1)(c)) .................... 15
+
+Information created for internal management purposes (Rule 7.2.2(1)(d)) ....................... 16
+
+Trade secrets (Rule 7.2.2(1)(e)) ...................................................................................... 17
+
+CONFIDENTIALITY (RULE 7.2.2(2)) .................................................................................. 17
+
+THE REASONABLE PERSON TEST (RULE 7.2.2(3)) ........................................................ 20
+
+FALSE MARKET (RULE 7.5.1(b)) ....................................................................................... 21
+
+Listing Authority Direction powers to correct or prevent a false market ............................ 21
+
+Media reports, analyst reports and market rumours ......................................................... 22
+
+HOW DOES RULE 7.2.1 INTERACT WITH OTHER DISCLOSURE OBLIGATIONS? ........ 24
+
+DISCLOSURES – SYSTEMS, CONTROLS & CONTENT .................................................. 25
+
+The contents of a Disclosure ........................................................................................... 25
+
+Commercially sensitive information ................................................................................. 27
+
+Disclosure headings ........................................................................................................ 27
+
+Who can make a Disclosure under Rule 7.2.1 ................................................................. 28
+
+Board approval of Disclosures ......................................................................................... 28
+
+Interaction with non-listed entities .................................................................................... 29
+
+Non-release of Inside Information before Disclosing ........................................................ 30
+
+Other Reporting Entity steps to assist with compliance with Rule 7.2.1 ........................... 30
+
+DISCLOSING FINANCIAL INFORMATION ......................................................................... 31
+
+EARNINGS GUIDANCE ..................................................................................................... 32
+
+Informal earnings guidance ............................................................................................. 33
+
+Significant differences to earnings guidance .................................................................... 34
+
+VER01.280922
+
+Correcting analyst forecasts ............................................................................................ 35
+
+SUPERVISION BY LISTING AUTHORITY .......................................................................... 36
+
+Monitoring and Surveillance ............................................................................................ 36
+
+Actions taken by the Listing Authority if abnormal trading is detected .............................. 36
+
+Market Activity Query (MAQ) Letters ............................................................................... 37
+
+Aware Letters .................................................................................................................. 39
+
+Listing Authority requests for further information .............................................................. 40
+
+Complaints or allegations of non-compliance by Reporting Entities ................................. 40
+
+VER01.280922
+
+INTRODUCTION
+
+1)
+
+This Guidance is issued under section 15(2) of the Financial Services and Markets Regulations 2015 (“FSMR”). It should be read in conjunction with FSMR and the Market Rules (MKT) of the Financial Services Regulatory Authority (“FSRA”).
+
+2)
+
+Pursuant to section 50 of FSMR,1 the FSRA is required to maintain the Official List, and may admit to the Official List such Securities as it considers appropriate. It is important to note that, pursuant to section 50 of FSMR, only the FSRA can maintain an Official

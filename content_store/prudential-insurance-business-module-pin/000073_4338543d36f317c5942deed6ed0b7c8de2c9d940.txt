@@ -1,0 +1,109 @@
+ of that fund.
+
+A7.5.1 Fund hybrid capital includes the following items:
+
+(a)
+
+subordinated debt attributable to the fund; and
+
+(b)
+
+Owners’ Equity in a Takaful Insurer of the type described in Rule A7.3.4.
+
+A7.5.2 Subject to Rule A7.5.3, an Insurer must calculate its fund hybrid capital adjustment as the amount by which the total amount of hybrid capital exceeds 15% of adjusted fund equity.
+
+A7.5.3 The DFSA may at its discretion permit an Insurer to apply Rule A7.5.2 as though the figure of 15% was replaced with a higher figure approved in writing by the DFSA. The approved figure may not be more than the actual percentage which the fund hybrid capital represents of adjusted fund equity, and may not in any case exceed 30%.
+
+105
+
+PIN/VER18/04-23
+
+PRUDENTIAL – INSURANCE BUSINESS (PIN)
+
+APP8 CALCULATION OF MINIMUM FUND CAPITAL REQUIREMENT
+
+A8.1 Purpose and general provisions
+
+A8.1.1 This appendix applies to all Insurers to which section 4.6 applies.
+
+Guidance
+
+1.
+
+This appendix sets out the manner in which an Insurer that conducts Long-Term Insurance Business through a Long-Term Insurance Fund is required to calculate the Minimum Fund Capital Requirement in respect of each Long-Term Insurance Fund.
+
+2.
+
+The Minimum Fund Capital Requirement is calculated on a basis that is analogous to the basis of calculation of the Minimum Capital Requirement for Insurers other than Protected Cell Companies, as set out in App4.
+
+3.
+
+The effect therefore is as though each Long-Term Insurance Fund maintained by an Insurer were itself an Insurer that had to calculate a Minimum Capital Requirement in accordance with App4. Consequently, this appendix incorporates references to the provisions of App4.
+
+A8.2 Minimum fund capital requirement
+
+A8.2.1 Subject to Rule A8.2.3, an Insurer must calculate the Minimum Fund Capital Requirement in respect of each Long-Term Insurance Fund maintained by it, according to the formula:
+
+MFCR = DRC + IVRC + OARC + OLRC + CRC + SFAC + LIRC + AMRC
+
+where:
+
+Term
+
+Definition
+
+MFCR
+
+Minimum Fund Capital Requirement in respect of the fund;
+
+DRC
+
+Default risk component in respect of that fund;
+
+IVRC
+
+Investment volatility risk component in respect of the fund;
+
+OARC
+
+Off-balance sheet asset risk component in respect of the fund;
+
+OLRC
+
+Off-balance sheet liability risk component in respect of the fund;
+
+CRC
+
+Concentration risk component in respect of the fund;
+
+SFAC
+
+Size Factor Adjustment Component in respect of the fund;
+
+LIRC
+
+Long-Term Insurance risk component in respect of the fund; and
+
+AMRC
+
+Asset management risk component in respect of the fund.
+
+106
+
+PIN/VER18/04-23
+
+PRUDENTIAL – INSURANCE BUSINESS (PIN)
+
+A8.2.2 The methods of calculation of the components referred to in Rule A8.2.1 are set out
+
+in sections A8.4, A8.5, A8.6, A8.7, A8.8, A8.9, A8.10 and A8.11.
+
+A8.2.3 The Minimum Fund Capital Requirement in respect of a Long-Term Insurance Fund
+
+must always be equal to or higher than $5,000,000.
+
+A8.3 Applicability of components to assets of the fund
+
+A8.3.1 Subject to Rule A8.3.2, an Insurer must calculate those components of the Minimum Fund Capital Requirement in respect of a Long-Term Insurance Fund, that are relevant to assets, in respect of every asset that is attributable to the Long- Term Insurance Fund.
+
+A8.3.2 Where an Insurer arranges its affairs such that Invested Assets attributable to a Long-Term Insurance Fund are held in a Related entity, the Insurer may, with the written approval of the DFSA, calculate components of the Minimum Fund Capital Requirement by reference to the interest of the Long-Term Insurance Fund in the assets that are held by the Related entity, instead of by reference to the interest that the Long-Term Insurance Fund has in that

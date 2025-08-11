@@ -1,0 +1,45 @@
+VER02.240220
+
+26
+
+106) FSMR Section 149 sets out the reporting obligations imposed on RIEs and MTFs which are required to report details of transactions in Securities (including Digital Securities) traded on their platforms. Consistent with its treatment of all RIEs and MTFs, the FSRA expects RIEs and MTFs (providing markets in Digital Securities) to report order/trading data to the FSRA on both a real-time and batch basis.
+
+107) In addition, the FSMR provisions on Misleading Statements apply to Securities (including Digital Securities). The FSRA expects that all communications (including advertising or investment materials or other publications) made by a RIE or an MTF will be made in an appropriate manner and those infrastructures will implement suitable policies and procedures to comply with the relevant requirements of FSMR. Substance requirements
+
+108) In order to operate effectively within ADGM, Authorised Persons and holders of Recognition Orders for the operation of market infrastructures (including for all RIEs, MTFs, RCHs and DSFs) must commit resources of a nature allowing them to be operating in substance within ADGM. The FSRA expects to see substantive resources committed within ADGM across all lines of activity, including, but not limited to, commercial, governance, compliance/surveillance, operations, technical, IT and HR functions. In particular, the FSRA expects ‘mind and management’ to be located within ADGM. Third party audit obligations
+
+109) All Authorised Persons and Recognised Bodies carrying out Digital Securities activities should have independent third party verification or checks carried out at least annually to verify that the amount and value of Digital Securities (and Client Money (e.g., fiat) held on custody on behalf of Clients) is correct and matches what is supposed to be held.
+
+Third party outsourcing
+
+110) FSRA’s policy position on outsourcing is set out paragraphs 82-87 of the Virtual Assets Guidance, and applies equally to entities engaged in Digital Securities activities. In addition, FSRA expects that any outsourcing arrangements will meet international regulatory guidelines applicable to outsourcing arrangements, including in relation to its contractual arrangements. Anti-Money Laundering and Countering Financing of Terrorism
+
+111) As is required of all Authorised Persons and Recognised Bodies operating within the ADGM, those entities seeking to undertake Digital Securities-based financial services activities are required to comply with the FSRA’s Anti Money Laundering and Countering Financing of Terrorism “AML/CFT” framework including, among other things:
+
+a) UAE AML/CFT Federal Laws, including the UAE Cabinet Resolution No. (10) of 2019 Concerning the Executive Regulation of the Federal Law No. 20 of 2018 concerning Anti-Money Laundering and Combating Terrorism Financing;
+
+VER02.240220
+
+27
+
+b) UAE Cabinet Resolution 20 of 2019 concerning the procedures of dealing with those listed under the UN sanctions list and UAE/local terrorist lists issued by the Cabinet, including the FSRA AML and Sanctions Rules and Guidance (“AML Rules”) or such other AML rules as may be applicable in ADGM from time to time; and
+
+c) the FSRA AML and Sanctions Rules and Guidance (“AML Rules”) or such other AML
+
+rules as may be applicable in ADGM from time to time; and
+
+d) the adoption of international best practices (including FATF Recommendations).
+
+112) For a further understanding of the FSRA’s policy position in relation to AML, the FSRA recommends readers consider, as applicable, paragraphs 37-45 of the Virtual Assets Guidance, particularly as it relates to Digital Securities and the FATF Recommendations.
+
+International Tax Reporting Obligations
+
+113) All entities seeking to engage in Digital Securities-based financial services activities must consider and, if applicable, adhere to their tax reporting obligations including, as applicable, under the Foreign Account Tax Compliance Act (“FATCA”) and the ADGM Common Reporting Standard Regulations 2017.
+
+Data protection obligations for Issuers
+
+114) Issuers, and other holders of client data, should familiarise themselves with the data protection obligations applying within ADGM. Further information regarding the ADGM’s data protection requirements is addressed at paragraphs 113 - 118 of the Virtual Assets Guidance.
+
+Margin trading
+
+115) Entities wishing to provide margin trading to its Clients will need to submit for approval details of the terms

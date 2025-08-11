@@ -1,0 +1,143 @@
+ to its IT Systems and Networks that can be accessed from the internet;
+
+99
+
+GEN/VER67/03-25
+
+GENERAL (GEN)
+
+(c)
+
+MFA or equivalent protection permissions; and
+
+for privileged access rights or
+
+(d)
+
+encryption techniques to secure communication between a user and the Authorised Person’s IT Systems and Networks.
+
+Guidance
+
+1.
+
+The DFSA expects that an Authorised Person’s strong password controls require, at the minimum, a change of password upon initial logon, minimum password length and history requirements, password complexity, maximum validity periods as well as lockout thresholds after a number of unsuccessful logon attempts.
+
+2.
+
+For mobile devices, access controls and encryption techniques should address threats raised by their use outside the Authorised Person’s premises.
+
+5.5.10 (1)
+
+An Authorised Person must have a comprehensive change management process that considers Cyber Risk before and during a change to its IT Systems and Networks and any new Cyber Risk created after the change.
+
+(2)
+
+The process in (1) must include systems and controls that ensure changes to its IT System and Networks are:
+
+(a) adequately tested;
+
+(b) approved before their implementation; and
+
+(c)
+
+implemented quickly if needed to resolve major Cyber Incidents or security vulnerabilities.
+
+Guidance
+
+1.
+
+The purpose of the change management process is to ensure that changes and patches to production systems and hardware devices are adequately assessed, tested, approved and implemented.
+
+2.
+
+The DFSA expects an Authorised Person to establish a separate physical or logical environment for the development, testing and production of systems or patches. Moreover, the DFSA expects an Authorised Person to ensure a clear segregation of tasks so that no single individual develops, tests or implements any change.
+
+3.
+
+The DFSA recognises that, while any emergency change should be implemented in a controlled manner, the process requires swift actions and decisions. Therefore, some aspects of an Authorised Person’s change management process, such as change documentation or testing, can be completed after a change has been implemented, on an exceptional basis.
+
+5.5.11 (1)
+
+An Authorised Person must establish a process for the management of software updates that addresses security vulnerabilities in any of the Authorised Person’s ICT Assets.
+
+(2)
+
+The process in (1) must ensure that:
+
+(a) software updates are identified and classified by how critical they
+
+are to mitigate Cyber Risk;
+
+(b) software updates are applied in a timely manner; and
+
+100
+
+GEN/VER67/03-25
+
+GENERAL (GEN)
+
+(c)
+
+the implementation of critical software updates is prioritised.
+
+(3)
+
+An Authorised Person must accordance with the process required under Rule 5.5.10.
+
+implement software updates
+
+in
+
+5.5.12 (1)
+
+An Authorised Person must techniques to protect the confidentiality and integrity of information.
+
+implement appropriate encryption
+
+(2)
+
+The encryption techniques implemented must be commensurate to the sensitivity of that information.
+
+Guidance
+
+1.
+
+The DFSA expects encryption techniques to be used to protect the confidentiality and integrity of sensitive information. In particular, encryption techniques should be used where such information is stored on workstation memory drives, external drives such as USB pen drives, external hard discs, mobile phones, tablets and similar electronic equipment used to store or process critical and sensitive information.
+
+2.
+
+Appropriate measures should also be taken when exchanging sensitive information. These encryption measures could include sending information through encrypted channels or encrypting the information using strong encryption with an adequate key length.
+
+5.5.13 (1)
+
+An Authorised Person must limit physical access to its data centres and server rooms, if any, to individuals who have a legitimate business need.
+
+(2)
+
+For the purposes of (1), the Authorised Person must establish a process for:
+
+(a)
+
+the approval of an individual’s request for physical access; and
+
+(b)
+
+the immediate revocation of such access if the conditions for granting approval are no longer met.
+
+(3)
+
+An Authorised Person must implement appropriate security measures to prevent unauthorised physical access to its data centres and server rooms.
+
+Guidance
+
+1.
+
+The DFSA expects that where physical access is granted to individuals who are not members of an Authorised Person’s staff they are accompanied at all times while performing their tasks.
+
+2.
+
+The DFSA expects that an Authorised Person monitors and records activities that take place inside its data centres and server rooms.
+
+5.5.14 (1)
+
+An Authorised

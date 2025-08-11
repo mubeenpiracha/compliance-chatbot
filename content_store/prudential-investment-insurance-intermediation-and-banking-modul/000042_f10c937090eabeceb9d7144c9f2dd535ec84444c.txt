@@ -1,0 +1,87 @@
+ 1 Capital; and
+
+b.
+
+all other deferred tax assets that rely on future profitability.
+
+2.
+
+An Authorised Firm should allocate the associated deferred tax liabilities according to the proportion of deferred tax assets that rely on future profitability that the items referred to in Guidance note 1a and b represent.
+
+3.13.10 (1)
+
+An Authorised Firm must apply a risk weight in accordance with chapter 4 as applicable, to deferred tax assets that do not rely on future profitability.
+
+(2)
+
+For the purpose of (1), deferred tax assets that do not rely on future profitability comprise the following:
+
+(a) overpayments of tax by the Authorised Firm for the current year;
+
+63
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+(b)
+
+current year tax losses of the Authorised Firm carried back to previous years that give rise to a claim on, or a receivable from, a central government, regional government or local tax authority; and
+
+(c)
+
+deferred tax assets arising from temporary differences which, in the event the Authorised Firm incurs a loss, becomes insolvent or enters liquidation, are replaced, on a mandatory and automatic basis in accordance with the applicable national law, with a claim on the central government of the jurisdiction in which the Authorised Firm is incorporated which must absorb losses to the same degree as CET1 Capital instruments on a going concern basis and in the event of insolvency or liquidation of the Authorised Firm.
+
+Deductions relating to defined benefit pension fund assets
+
+3.13.11 For the purposes of Rule 3.13.7(d), the amount of defined benefit pension fund assets
+
+to be deducted from CET1 Capital must be reduced by the following:
+
+(a)
+
+the amount of any associated deferred tax liability which could be extinguished if the assets became impaired or were derecognised under the International Financial Reporting Standards; and
+
+(b)
+
+the amount of assets in the defined benefit pension fund which the Authorised Firm has an unrestricted ability to use where the Authorised Firm has provided adequate advance notification of its intention to use those assets to the DFSA. Those assets used to reduce the amount to be deducted must receive a risk weight in accordance with chapter 4 of PIB.
+
+Deductions relating to holdings of own CET1 Capital instruments
+
+3.13.12 For the purposes of Rule 3.13.7(e), an Authorised Firm must calculate holdings of its own CET1 Capital instruments on the basis of gross long positions subject to the following exceptions:
+
+(a)
+
+an Authorised Firm must calculate the amount of holdings of own CET1 Capital instruments in the Trading Book on the basis of the net long position, provided the long and short positions are in the same underlying Exposure and the short positions involve no Counterparty Credit Risk;
+
+(b)
+
+an Authorised Firm must determine the amount to be deducted for indirect holdings in the Trading Book that take the form of holdings of index Securities by calculating the underlying Exposure to own CET1 Capital instruments included in the indices; and
+
+(c)
+
+an Authorised Firm must net gross long positions in own CET1 Capital instruments in its Trading Book resulting from holdings of index Securities against short positions in own CET1 Capital instruments resulting from short positions in the underlying indices, including where those short positions involve Counterparty Credit Risk.
+
+64
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+CET1 deductions relating to significant investment in a Relevant Entity
+
+3.13.13 For the purposes of Rules 3.13.7(g) and (h), an investment by an Authorised Firm in a Relevant Entity must be considered as a significant investment if it meets any of the following conditions:
+
+(a)
+
+the Authorised Firm owns more than 10% of the CET1 Capital instruments issued by that entity;
+
+(b)
+
+the Authorised Firm has Close Links with that entity and owns CET1 Capital instruments issued by that entity; and
+
+(c)
+
+the Authorised Firm owns CET1 Capital instruments issued by that entity and the entity is not included in consolidation pursuant to chapter 8 of PIB but is included in the same accounting consolidation as the Authorised Firm for the purposes of financial reporting under the International Financial Reporting Standards.
+
+Deductions relating to CET1 Capital instruments in Relevant

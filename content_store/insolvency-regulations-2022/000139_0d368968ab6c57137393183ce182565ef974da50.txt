@@ -1,0 +1,135 @@
+-up which immediately preceded the administration.
+
+A sum must be treated as being due to or from the Company for the purposes of sub- paragraph (2) whether—
+
+(a)
+
+it is payable at present or in the future;
+
+(b)
+
+the obligation by virtue of which it is payable is certain or contingent; or
+
+(c)
+
+its amount is fixed or liquidated, or is capable of being ascertained by fixed rules or as a matter of opinion.
+
+For the purposes of this paragraph 24—
+
+(a)
+
+Paragraph 15 (Administration and winding-up: estimate of value of debt) of Part 3 (Creditors’ claims) of this Schedule applies to an obligation which, by reason of its being subject to a contingency or for any other reason, does not bear a certain value;
+
+199
+
+(b)
+
+Paragraphs 26 (Debt in foreign currency), 27 (Payments of periodical nature) and 28 (Interest) of Part 3 (Creditors’ claims) of this Schedule shall apply to sums due to the Company which—
+
+(i)
+
+are payable in a currency other than dollars;
+
+(ii)
+
+are of a periodical nature; or
+
+(iii)
+
+bear interest; and
+
+(c)
+
+paragraph 46 (Debt payable at future time) of Part 4 (Distributions to creditors) of this Schedule applies to a sum due to or from the Company which is payable in the future.
+
+25. Winding-up: mutual dealings and set-off
+
+(1)
+
+This paragraph 25 applies in a winding-up where, before the Company goes into liquidation, there have been mutual dealings between the Company and a creditor of the Company proving for a debt in the liquidation.
+
+(2)
+
+An account must be taken of what is due from the Company and the creditor to each other in respect of their mutual dealings and the sums due from the one must be set off against the sums due from the other.
+
+(3)
+
+If there is a balance owed to the creditor then only that balance is provable in the winding-up.
+
+(4)
+
+If there is a balance owed to the Company then that must be paid to the liquidator as part of the assets. However if all or part of the balance owed to the Company results from a contingent or prospective debt owed by the creditor then the balance (or that part of it which results from the contingent or prospective debt) must be paid in full (without reduction under paragraph 46 (Debt payable at future time) of Part 4 (Distributions to creditors) of this Schedule) if and when that debt becomes due and payable.
+
+(5)
+
+In this paragraph 25—
+
+(a)
+
+“obligation” means an obligation however arising, whether by virtue of an agreement, rule of law or otherwise; and
+
+(b)
+
+“mutual dealings” means mutual credits, mutual debts or other mutual dealings between the Company and a creditor proving for a debt in the winding- up but does not include any of the following—
+
+(i)
+
+a debt arising out of an obligation incurred at a time when the creditor had notice that—
+
+(aa)
+
+a meeting of creditors had been summoned under Section 186 (Meetings of members and creditors) of these Regulations; or
+
+(bb)
+
+a petition for the winding-up of the Company was pending;
+
+(ii)
+
+a debt which has been acquired by a creditor by assignment or otherwise, under an agreement between the creditor and another party where that agreement was entered into at a time when the creditor had notice that—
+
+(aa)
+
+a meeting of creditors had been summoned under Section 186 (Meetings of members and creditors) of these Regulations; or
+
+200
+
+(6)
+
+(7)
+
+(bb)
+
+a winding-up petition was pending;
+
+(iii)
+
+a debt arising out of an obligation where—
+
+(aa)
+
+at the time the obligation was incurred, the creditor had notice that an administration application was pending or a person had delivered notice of intention to appoint an administrator; and
+
+(bb)
+
+an administration immediately preceded the winding-up;
+
+(iv)
+
+a debt which has been acquired by a creditor by assignment or otherwise, under an agreement between the creditor and another party where that agreement was entered into—
+
+(aa)
+
+at a time when the creditor had notice that an administration application was pending or a person had delivered notice of intention to appoint an administrator; and
+
+(bb)
+
+an administration immediately preceded the winding-up;
+
+(v)
+
+a debt arising out of an obligation incurred during an administration which immediately preceded the winding-up;
+
+(vi)
+
+a

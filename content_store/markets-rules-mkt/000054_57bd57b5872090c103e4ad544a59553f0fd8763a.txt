@@ -1,0 +1,113 @@
+ LISTING RULES
+
+9.1 Application
+
+9.1.1
+
+(1)
+
+This chapter applies to every:
+
+(a)
+
+Listed Entity; and
+
+(b)
+
+Applicant for admission of Securities to the Official List of Securities.
+
+(2)
+
+In this chapter:
+
+(a)
+
+a “Listed Entity” means the Reporting Entity of Securities which are admitted to the Official List of Securities;
+
+(b)
+
+“Applicant” means an applicant for admission of Securities to the Official List of Securities and includes, where the context requires, the Issuer; and
+
+(c)
+
+a reference to Listed Securities is a reference to the Securities of the Issuer or, where the context requires, the Securities for which the Listed Entity is a Reporting Entity but not the Issuer.
+
+Guidance
+
+1.
+
+Listed Entities should note that some of the Listing Rules are Security-specific and many apply exclusively to Issuers of Shares.
+
+2.
+
+The DFSA may waive or modify one or more requirements of this chapter for Issuers of non- debt or equity Securities where appropriate provided such waiver or modification would not unduly prejudice holders of the Issuer’s Securities.
+
+3.
+
+The DFSA may waive or modify one or more requirements of this chapter for an Issuer of a secondary Listing if:
+
+a.
+
+the Issuer is from a jurisdiction acceptable to the DFSA because the regulatory regime as it applies to listing is broadly equivalent to the DFSA’s regulatory regime;
+
+b.
+
+adequate arrangements exist, or will exist, for co-operation between the DFSA and the Financial Services Regulator or other Person responsible for regulating the Exchange on which the Securities are listed on a primary listing basis or for regulating listed companies in the jurisdiction where the Securities are listed on a primary listing basis; and
+
+c.
+
+holders of the Issuer’s Shares would not be unduly prejudiced by the waiver or modification.
+
+4.
+
+The DFSA may also modify one or more requirements of this chapter for an Exempt Offeror who wishes to voluntarily comply with the Listing Rules in order to include its Securities on the Official List and thereby seek admission to trading on an AMI. Without such a modification an Exempt Offeror cannot have its Securities included in the Official List. This is because Article 29(6) of the Law requires that an AMI shall not permit trading of Securities on its facilities unless those Securities are admitted to, and not suspended from, an Official List of Securities.
+
+5.
+
+The DFSA is aware that the timing of admittance to trading may not always coincide with the Listing application process. However, in practice, the DFSA will generally provide the
+
+83
+
+MKT/VER24/03-25
+
+MARKETS RULES (MKT)
+
+Applicant with a notice of admittance to the List on condition of a successful admittance to trading on an AMI within a specified period. This notice of admittance can be provided to the relevant AMI when seeking admission to trading on an AMI. At all relevant times the DFSA expects to be in contact with the relevant AMI on which the Securities are to be admitted to trading.
+
+6.
+
+The DFSA will maintain the List on the DFSA website.
+
+7.
+
+A Person who wishes to make a complaint about a Listed Entity should use the complaints portal on the DFSA website.
+
+9.2 The Listing Principles
+
+Guidance
+
+1.
+
+The purpose of the Listing Principles is to ensure that Listed Entities pay due regard to the fundamental role played by them in maintaining market confidence and ensuring a fair and orderly market. The Listing Principles are designed to assist Listed Entities in identifying their obligations and responsibilities under the Listing Rules.
+
+2.
+
+The Listing Principles apply in addition to the Corporate Governance Principles in Chapter 3 which apply to all Reporting Entities (other than Reporting Entities of Listed Funds).
+
+Principle 1
+
+9.2.1 A Listed Entity must take reasonable steps to ensure that its senior management and any other relevant Employees understand and comply with their responsibilities and obligations under the Listing Rules.
+
+Principle 2
+
+9.2.2 A Listed Entity must take reasonable steps to establish and maintain adequate policies, procedures, systems and controls to enable it to comply with its obligations under the Listing Rules.
+
+Principle 3
+
+9.2.3 A Listed Entity must act with integrity towards holders and potential holders of its
+
+Listed Securities.
+
+Principle 4
+
+9.2.4 A Listed Entity must communicate information to holders and potential holders of its Listed

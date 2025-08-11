@@ -1,0 +1,139 @@
+(i)
+
+its relationship with other members of its Group;
+
+(ii)
+
+its membership in its Group; and
+
+(iii)
+
+the activities of other members of its Group;
+
+(b)
+
+monitoring compliance with Financial Group supervision requirements below, including systems for the production of relevant data;
+
+(c)
+
+monitoring funding within the Group; and
+
+208
+
+PRU VER17.290725
+
+(d)
+
+monitoring compliance with Financial Group reporting requirements.
+
+Guidance
+
+For the purposes of the above requirement, an Authorised Person may take into account its position within its Group. For instance, it would be reasonable for a small Authorised Person within a larger Group to place some reliance on its Parent to ensure that appropriate systems and controls are in place.
+
+8.2.2
+
+(1)
+
+An Authorised Person must have systems and controls to enable it to determine and monitor:
+
+(a)
+
+its Financial Group Capital Requirement; and
+
+(b)
+
+whether the amount of its Financial Group Capital Resources is, and is likely to remain, greater than the amount of its Financial Group Capital Requirement.
+
+(2)
+
+Such systems and controls must include an analysis of:
+
+(a)
+
+realistic scenarios which are relevant to the circumstances of the Financial Group; and
+
+(b)
+
+the effects on the Financial Group Capital Requirement and on the Financial Group Capital Resources if those scenarios occurred.
+
+8.3
+
+Financial Group Capital Requirements and Financial Group Capital Resources
+
+Guidance
+
+By Rule 8.1.1(2), this Section applies to an Authorised Person in Category 1, 2 or 5.
+
+8.3.1
+
+(1)
+
+The other Rules in Section 8.3 do not apply to an Authorised Person if:
+
+(a)
+
+the Authorised Person's Financial Group is already the subject of Financial Group prudential supervision by the Regulator as a result of the authorisation of another Financial Group member;
+
+(b)
+
+the Regulator has confirmed in writing, in response to an application from the Authorised Person, that it is satisfied that the Authorised Person's Group is the subject of consolidated prudential supervision by an appropriate regulator; or
+
+(c)
+
+except where the Regulator has directed the inclusion of an entity pursuant to Rule 8.1.3, the percentage of total assets of Authorised Persons and Financial Institutions in the Financial Group is less than 40% of the total Financial Group assets.
+
+(2)
+
+If an Authorised Person receives confirmation in writing from the Regulator in accordance with (1)(b), it must immediately advise the Regulator in writing if the circumstances upon which the confirmation was based change.
+
+209
+
+PRU VER17.290725
+
+8.3.2
+
+An Authorised Person must ensure at all times that its Financial Group Capital Resources, as calculated in Rule 8.3.4, are equal to or in excess of its Financial Group Capital Requirement as calculated in Rule 8.3.3.
+
+Guidance
+
+If an Authorised Person breaches Rule 8.3.2, the Regulator will take into account the full circumstances of the case, including any remedial steps taken by another regulator or the Authorised Person, in determining what enforcement action, if any, it will take.
+
+Financial Group Capital Requirement
+
+8.3.3
+
+(1)
+
+An Authorised Person in Category 1, 2 or 5 must calculate its Financial Group Capital Requirement by applying the accounting consolidation method, which calculates the Capital Requirement of the Financial Group based on the Financial Group's consolidated financial statements, and using applicable prudential Rules as set out in these Rules.
+
+(2)
+
+For the purposes of this Rule, the consolidated financial statements of the Financial Group must be prepared in accordance with International Financial Reporting Standards.
+
+Financial Group Capital Resources
+
+8.3.4
+
+(1)
+
+An Authorised Person in Category 1, 2 or 5 must calculate its Financial Group Capital Resources by applying either of the following methods, excluding those amounts referred to in Rule 8.3.5:
+
+(a)
+
+the accounting consolidation method, which calculates the Capital Resources of the Financial Group based on the Financial Group's consolidated financial statements; or
+
+(b)
+
+the aggregation method, which is the sum of:
+
+(i)
+
+the Capital Resources of the Parent of the Financial Group;
+
+(ii)
+
+subject to (2), the Capital Resources of any Authorised Persons and Financial Institutions included in the Financial Group; and
+
+(iii)
+
+the Financial Group's proportionate share of Capital Resources

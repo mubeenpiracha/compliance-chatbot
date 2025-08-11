@@ -1,0 +1,103 @@
+ised Firm may attribute a value of zero to E for:
+
+(a)
+
+any Counterparty Exposure arising from any Derivative transaction or SFT outstanding with a CCP and which has not been rejected by that CCP, provided that the Exposure is fully Collateralised on a daily basis; and
+
+(b)
+
+any Credit Risk Exposure arising from any Derivative transaction, SFT or spot transaction which an Authorised Firm has outstanding with a CCP for which the latter acts as a custodian on the Authorised Firm’s behalf, provided that the Exposure is fully Collateralised on a daily basis.
+
+Guidance
+
+Credit Risk (CR) Exposures outstanding with a CCP would, for example, include credit Exposures arising from monies placed and from Collateral posted, with the Counterparty.
+
+4.10 Categorisation of Credit Risk Exposures (CR Exposures)
+
+Guidance
+
+This section categorises Exposures for the purpose of determining the CRW for CR Exposures, as provided in Rule 4.8.3.
+
+4.10.1 An Authorised Firm must categorise any CR Exposure into one of the following
+
+Exposure classes:
+
+(a)
+
+Exposures to central governments and Central Banks;
+
+(b)
+
+Exposures to Public Sector Entities;
+
+(c)
+
+Exposures to Multilateral Development Banks;
+
+(d)
+
+Exposures to international organisations;
+
+(e)
+
+Exposures to banks;
+
+(f)
+
+Exposures to corporates;
+
+(g)
+
+Retail Exposures;
+
+106
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+(h)
+
+Subordinated debt, equity and other capital instruments;
+
+(i)
+
+Real Estate Exposures;
+
+(j)
+
+Exposures in default; and
+
+(k)
+
+Other Exposures.
+
+4.11 Credit Quality Grade and External Credit Assessments
+
+Guidance
+
+This section governs credit assessments of Exposures for the purpose of determining the CRW for Credit Risk (CR) Exposures as provided in Rule 4.8.3 and for securitisation (SE) Exposures as provided in Rule 4.8.4.
+
+4.11.1 An Authorised Firm must assign a CR Exposure to a Credit Quality Grade based on the external credit assessment that is applicable to the CR Exposure in accordance with tables mapping the ratings from an ECAI to Credit Quality Grades, which will be published by the DFSA.
+
+4.11.2 An Authorised Firm must only use an external credit assessment which is accessible to the public. An Authorised Firm may not use a credit assessment that is made available only to the parties to a transaction.
+
+4.11.3 An Authorised Firm must only use external credit assessments by a recognised ECAI.
+
+The DFSA may impose conditions on the use of such external credit assessments.
+
+4.11.4 An Authorised Firm must use its chosen recognised external credit rating agencies and their external credit assessments consistently for each type of Exposure, for both risk weighting and risk management purposes. Where an Authorised Firm has two external credit assessments which map into different Credit Quality Grades, it must assign the CR Exposure to the Credit Quality Grade associated with the higher risk weight. Where an Authorised Firm has three or more external credit assessments which map into two or more different Credit Quality Grades, it must assign the CR Exposure to the Credit Quality Grade associated with the higher of the two lowest risk weights.
+
+Guidance
+
+For illustration, if there are three external credit assessments mapping into Credit Quality Grades with risk weights of 0%, 20% and 50%, then the applicable risk weight is 20%. If the external credit assessments map into Credit Quality Grades with risk weights of 20%, 50% and 50%, then the applicable risk weight is 50%.
+
+4.11.5 An Authorised Firm must not recognise the effects of Credit Risk mitigation if such mitigation is already reflected in the issue-specific external credit assessment of the CR Exposure.
+
+4.11.6 Where a CR Exposure has an issue-specific external credit assessment from a recognised ECAI, an Authorised Firm must use such assessment. Where a CR Exposure does not have an issue-specific external credit assessment, an Authorised Firm must:
+
+107
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (

@@ -1,0 +1,105 @@
+ person in respect of any loss or damage resulting from his action except in so far as the loss or damage is caused by the Relevant Office- Holder's own negligence.
+
+(2)
+
+Any failure by a Recognised Body or Remote Body to comply with its own rules in respect of any matter shall not prevent that matter being treated for the purposes of this Part as done in accordance with those rules so long as the failure does not substantially affect the rights of any person entitled to require compliance with the rules.
+
+(3)
+
+No Recognised Body or Remote Body, nor any officer or servant or member of the governing body of a Recognised Body or Remote Body, shall be liable in damages for anything done or omitted in the discharge or purported discharge of any functions to which this subsection applies unless the act or omission is shown to have been in bad faith.
+
+(4)
+
+The functions to which subsection (3) applies are the functions of the Recognised Body or Remote Body so far as relating to, or to matters arising out of—
+
+(a)
+
+its Default Rules; or
+
+(b)
+
+any obligations to which it is subject by virtue of this Part.
+
+(5)
+
+No person to whom the exercise of any function of a Recognised Body or Remote Body is delegated under its Default Rules, nor any officer or servant of such a person, shall be liable in damages for anything done or omitted in the discharge or purported discharge of those functions unless the act or omission is shown to have been in bad faith.
+
+178. Action taken under Default Rules125
+
+(1)
+
+For the purposes of the definition of "Defaulter", where a Recognised Clearing House or Remote Clearing House takes action under the rules referred to in the definition of
+
+124 Amended 21 February 2018.
+
+125 Amended 21 February 2018.
+
+118
+
+"Default Rules", the action is to be treated as taken in respect of the Client providing the Indirect Clearing Services.
+
+(2)
+
+If a Recognised Body or Remote Body takes action under its Default Rules in respect of a person, all subsequent proceedings under its rules for the purposes of or in connection with the Settlement of Market Contracts to which the Defaulter is a party shall be treated as done under its Default Rules.
+
+179. Power of the Regulator to make Rules under this Part
+
+(1)
+
+The Regulator may by Rules, in accordance with the procedure in Part 2, make further provision as to126—
+
+(a)
+
+the duties of persons to give assistance to a Recognised Body or Remote Body for the purposes of its Default Proceedings, and the duties of the Recognised Body or Remote Body with respect to information supplied to it;
+
+(b)
+
+the Charges granted in favour of any such person as is mentioned in sections 167(1)(a), (b) or (d) which are to be treated as "Collateral Security Arrangements" for the purposes of this Part, where the Regulator may—
+
+(i)
+
+add, amend or repeal the provisions of sections 167(1) or (2); and
+
+(ii)
+
+provide that a Charge shall or shall not be treated as a Collateral Security Arrangement if or to the extent that it secures obligations of a specified description, is a Charge over property of a specified description or contains provisions of a specified description;
+
+(c)
+
+the application of this Part to contracts of any specified description in relation to which settlement arrangements are provided by the Regulator, as it applies to contracts connected with a Recognised Body or Remote Body;
+
+(d)
+
+the effect of the Insolvency Regulations on specific Charges, in accordance with section 169;127
+
+(e)
+
+the application of these Regulations to a Remote Body approved in accordance with section 165, together with exceptions, additions and adaptations as deemed necessary;
+
+(f)
+
+the priority of a Collateral Security Arrangement which is a floating Charge, in accordance with section 171;
+
+(g)
+
+the application of this Part to contracts connected with a Non-ADGM Clearing House or Non-ADGM Investment Exchange which—128
+
+126 Amended 21 February 2018.
+
+127 Amended 8 August 2023.
+
+128 Amended 30 December 2024.
+
+119
+
+(i)
+
+is not a Remote Body; but
+
+(ii)
+
+is approved by the Regulator in accordance with such requirements as may be so specified;
+
+(h)
+
+modifications to the Insolvency Regulations relating to Collateral Security Arrangements and action taken in enforcing them,

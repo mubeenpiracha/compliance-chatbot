@@ -1,0 +1,133 @@
+ the Authorised Firm that it has elected to waive the requirement.
+
+135
+
+GEN/VER67/03-25
+
+9.4.3
+
+9.4.4
+
+GENERAL (GEN)
+
+Complaints to be resolved within 15 business days
+
+(1) An Authorised Firm must, except as provided in (2), advise the complainant in writing of the resolution of the Complaint and, if applicable, provide the complainant with clear terms of redress no later than 15 business days after the day on which it received the Complaint.
+
+(2)
+
+If the Authorised Firm cannot comply with (1) for reasons beyond its control, it must send a holding reply, clearly indicating the reasons for the delay and specifying the deadline by which the complainant will receive a full reply.
+
+(3) When the Authorised Firm advises the complainant of the outcome of
+
+a Complaint, it must inform the Client in writing:
+
+(a)
+
+that the Client may refer the matter to the independent complaints handling service referred to in Rule 9.4.4 if the Client is not satisfied with the outcome;
+
+(b) details of the independent complaints handling scheme and how
+
+the Client may access the service; and
+
+(c)
+
+that the firm will pay the costs of the application fee to the scheme in the circumstances specified in Rule 9.4.4 (c).
+
+Independent complaints handling service
+
+An Authorised Firm must:
+
+(a) ensure that Clients have access to an independent complaints handling service that can determine Complaints where a Client is not satisfied with the outcome of the firm’s resolution of a Complaint;
+
+(b) ensure that the service referred to in (a) is easily accessible to its
+
+Clients; and
+
+(c)
+
+bear the cost of any application fee payable for the use of the service referred to in (a), unless the Complaint is found to be unsuccessful, in which case the firm may recover the cost of that fee from the Client.
+
+Guidance
+
+An independent complaints handling service referred to in Rule 9.4.4 may be a small claims tribunal provided that the tribunal has jurisdiction to hear and determine disputes of the nature covered under this section i.e. relating to money services.
+
+136
+
+GEN/VER67/03-25
+
+GENERAL (GEN)
+
+10
+
+TRANSITIONAL RULES
+
+10.1 Endorsements to hold client assets and insurance monies
+
+Interpretation
+
+10.1.1 In this section:
+
+“commencement date” means the day on which Rule-Making Instrument No 166 of 2016 comes into force;
+
+“endorsement” means an endorsement under:
+
+(a)
+
+Rule 2.2.10A permitting an Authorised Firm to hold or control Client Assets; or
+
+(b)
+
+Rule 2.2.10B permitting an Authorised Firm to hold Insurance Monies;
+
+“transitional period” means the period starting on the commencement date and ending six months after that day.
+
+Endorsement not required during transitional period
+
+10.1.2 An Authorised Firm is not required to hold an endorsement before the end of
+
+the transitional period.
+
+Grant of endorsement for Firms that already hold or control Client Assets
+
+10.1.3 (1)
+
+This Rule applies to an Authorised Firm that has, in the 12 months before the commencement date, submitted to the DFSA under Rule8.6.2:
+
+(a)
+
+an Auditor’s Report referred to in Rule 8.6.1(c) (a Client Money Auditor’s Report); or
+
+(b)
+
+an Auditor’s Report referred to in Rule 8.6.1(e) (a Safe Custody Auditor’s Report).
+
+(2)
+
+An Authorised Firm to which this Rule applies may, within the transitional period, send a written notification to the DFSA confirming that it:
+
+(a)
+
+wishes to obtain an endorsement to hold or control Client Assets;
+
+(b)
+
+has submitted to the DFSA an Auditor’s Report referred to in (1) in the 12 months before the commencement date; and
+
+(c)
+
+has in place adequate systems and controls to meet the applicable requirements in COB sections 6.11 to 6.14.
+
+137
+
+GEN/VER67/03-25
+
+GENERAL (GEN)
+
+(3)
+
+The DFSA may require the notification in (2) to be in such form and verified in such manner as it thinks fit.
+
+(4)
+
+If an Authorised Firm provides a duly completed notification

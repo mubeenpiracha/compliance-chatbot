@@ -1,0 +1,91 @@
+ by a CCyB Authority is more than 2.5% then it is taken to be equal to 2.5%, unless the DFSA specifies otherwise.
+
+3.9A.8 (1)
+
+If the DFSA considers that the CCyB Rate in a jurisdiction outside the State is not sufficient to protect Authorised Firms from the risks of excessive credit growth in that jurisdiction, it may, for credit exposures in that jurisdiction:
+
+(a)
+
+specify a CCyB Rate even though no rate is imposed by the CCyB Authority for that jurisdiction; or
+
+50
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+(b)
+
+specify a CCyB Rate that is higher than the rate imposed by the CCyB Authority for that jurisdiction.
+
+(2)
+
+If the DFSA specifies a rate under this Rule, then that rate applies for Non- Financial Private Sector Credit Exposures in the jurisdiction.
+
+(3)
+
+The DFSA may vary or cancel a specified rate under this Rule.
+
+(4)
+
+The DFSA must notify affected Authorised Firms if it specifies a rate, or if it varies or cancels a rate, under this Rule.
+
+Effective date of CCyB Rates
+
+3.9A.9 (1)
+
+This Rule specifies when a CCyB Rate takes effect for the purposes of calculating a CCyB Buffer under this section.
+
+(2)
+
+A CCyB Rate for a jurisdiction takes effect from whichever is the later of:
+
+(a)
+
+12 months after the CCyB Authority announces the rate or the DFSA notifies the rate under Rule 3.9A.8 (as the case may be); or
+
+(b)
+
+1 July 2018.
+
+(3)
+
+In exceptional circumstances, the DFSA may specify that a CCyB Rate is to take effect from a date earlier or later than that specified in (2).
+
+Guidance
+
+1. CCyB Rates are usually specified to apply after an advance announcement period i.e. a period between when it is announced and when it takes effect, which gives Authorised Firms sufficient time to adopt the new capital buffer. The effect of Rule 3.9A.9(2)(a) is that Authorised Firms will usually have 12 months from the announcement to adopt a buffer.
+
+2. As a transitional measure, Rule 3.9A.9(2)(b) has the effect that Authorised Firms will have at least 6 months from the day on which this section commences (1 January 2018) to adopt a buffer, even if the relevant rate was announced 12 months before the day the section commences.
+
+For example: If a CCyB Authority announced on 1 February 2017 a CCyB Rate of 1% that would apply to credit exposures in its jurisdiction, this would usually take effect on 1 February 2018. However, under Rule 3.9A.9(2)(b), instead an Authorised Firm has until 1 July 2018 (6 months after the commencement of this Rule) to adopt the buffer.
+
+3.9B HLA Capital Buffer
+
+Guidance
+
+Under section 1.4, the DFSA may designate an Authorised Firm as a systemically important bank (SIB). This section requires a SIB to maintain a further capital buffer, a higher loss absorbency capital buffer (HLA Capital Buffer), and sets out how the HLA Capital Buffer is calculated.
+
+3.9B.1 This section applies to an Authorised Firm in Category 1, 2 (other than a Matched
+
+Principal) or 5 that the DFSA has designated as a SIB.
+
+HLA Capital Buffer Requirement
+
+51
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+3.9B.2 A SIB must maintain an HLA Capital Buffer of CET1 Capital that is calculated using
+
+the following formula:
+
+HLA Capital Buffer = HLA Ratio x Relevant RWA
+
+where:
+
+“HLA Capital Buffer” is the HLA Capital Buffer that the Authorised Firm must maintain;
+
+“HLA Ratio” is the ratio determined by the DFSA for that Authorised Firm under Rule 

@@ -1,0 +1,116 @@
+ 1, 2 or 5 must:
+
+(a)
+
+notify the Regulator in writing of the proposed acquisition or investment, in accordance with 8.10.6A(1), at least 45 days prior to the proposed date for effecting the transaction; and
+
+(b)
+
+give to the Regulator all the relevant information relating to that acquisition or investment to enable the Regulator to assess the impact of the proposed transaction on the Authorised Person.
+
+(3)
+
+An Authorised Person which is a Branch in Category 1, 2 or 5, must:
+
+(a)
+
+notify the Regulator in writing in advance of any proposed acquisition or investment in accordance with 8.10.6A(1); and
+
+(b)
+
+provide to the Regulator a copy of any information that their head office provided to their Non-ADGM Financial Services Regulator or any further information that the Regulator may request.
+
+(4)
+
+If the Regulator is not satisfied with any aspects related to a proposed transaction following a notification in accordance with Rule 8.10.6A(1), the Regulator may:
+
+91
+
+GEN VER11.290725
+
+(a)
+
+require an Authorised Person not to proceed with the transaction; or
+
+(b)
+
+impose conditions on the proposed transaction or additional prudential requirements on the Authorised Person.
+
+(5)
+
+The procedures in Part 21 of the FSMR apply to a decision of the Regulator under 8.10.6A(4).
+
+(6)
+
+If the Regulator decides to exercise its power under 8.10.6A(4), the Authorised Person may refer the matter to the Appeals Panel for review.
+
+Guidance
+
+1. Rule 8.10.6A(1) does not apply to:
+
+a. any interest held by way of security for the purposes of a transaction entered
+
+into in the ordinary course of the business of the Authorised Person;
+
+b. any shareholding or interest acquired or held by an Authorised Person in the course of satisfaction of debts due in accordance with the terms of a contract entered into by the Authorised Person as an incidental part of its ordinary business; or
+
+c. a routine transaction for managing the Authorised Person’s own investment portfolio, such as investments included in the trading book or those intended to be disposed of within a short term, which can reasonably be regarded as made for a purpose other than acquiring management or control of an entity either directly or indirectly.
+
+2. When considering whether to exercise its powers under Rule 8.10.6A(4), the Regulator may have regard to:
+
+a.
+
+whether the Authorised Person has the financial, managerial and organisational capacity to handle the proposed investment or acquisition, this being particularly important where the entity being acquired or to which the investment relates is involved in non-banking related activities;
+
+b.
+
+the adequacy of the Authorised Person’s systems, controls and resources to identify, measure, monitor, manage and, as required, report exposures and risks arising from the activity;
+
+c.
+
+whether the proposed acquisition or investment will expose the Authorised Person to undue risks;
+
+d.
+
+whether the transaction exposes the Authorised Person to substantial contagion risks or hinders effective supervision, including the ability of the Regulator to exercise supervision on a consolidated basis, if applicable;
+
+92
+
+GEN VER11.290725
+
+e.
+
+whether the proposed acquisition will hinder effective implementation of corrective measures including whether the proposed acquisition creates an obstacle to the orderly resolution of the Authorised Person; and
+
+in the future,
+
+f.
+
+any other factors the Regulator considers to be relevant.
+
+3.
+
+Prior notification in Rule 8.10.6A, and where relevant in 8.10.6(6), applies regardless of the type of activity the relevant subsidiary or entity is or will be carrying out, whether financial services or otherwise.
+
+Fraud and errors
+
+Each Authorised Person and Recognised Body must notify the Regulator immediately if
+
+one of the following events arises in relation to its activities in or from ADGM:
+
+(a)
+
+it becomes aware that an Employee may have committed a fraud against one of its Customers;
+
+(b)
+
+a serious fraud has been committed against it;
+
+(c)
+
+it has reason to believe that a Person is acting with intent to commit a serious fraud against it;
+
+(d)
+
+it identifies significant irregularities in its accounting or other records, whether or not there is evidence of fraud; or
+

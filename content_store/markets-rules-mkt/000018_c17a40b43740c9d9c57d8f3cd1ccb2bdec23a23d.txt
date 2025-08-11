@@ -1,0 +1,105 @@
+;
+
+(b)
+
+he believed on reasonable grounds that the statement or report was true and not misleading or that the matter, the omission of which caused the loss, was properly omitted;
+
+(c)
+
+he made all enquiries that were reasonable in the circumstances and believed that there was no misleading or deceptive statement or omission in the Expert’s statement included in the Prospectus; or
+
+(d)
+
+before the Securities were acquired by any Person in reliance of the Prospectus, he had taken all such steps as it was reasonable for him to have taken to secure that a correction was promptly brought to the attention of Persons likely to acquire the Securities in question.
+
+(4) Without prejudice to (2) and (3), a Person does not incur any liability under Article 24(1) of the Law for any loss in respect of any Securities caused by any statement or omission as is mentioned in that Article if:
+
+(a)
+
+before the Securities were acquired by any Person, a correction or, where the statement was such as is mentioned in (2)(c), the fact that the Expert was not competent or had not consented to the inclusion of the statement attributed to that Expert in the Prospectus had been published in a manner designed to bring to the attention of Persons likely to acquire the Securities in question; or
+
+(b)
+
+he took all such steps as it was reasonable for him to take to secure such publication and believed on reasonable grounds that such a publication had taken place before the Securities were acquired.
+
+(5)
+
+A Person does not incur any liability under Article 24(1) of the Law for any loss resulting from a statement made by a public official or contained in a
+
+25
+
+MKT/VER24/03-25
+
+MARKETS RULES (MKT)
+
+official public document which is included in the Prospectus if the statement is accurately and fairly reproduced.
+
+(6)
+
+A Person does not incur any liability under Article 24(1) of the Law if the Person incurring the loss acquired the Securities in question with knowledge:
+
+(a)
+
+that the statement was false or misleading;
+
+(b)
+
+of the omitted matter or of the change; or
+
+(c)
+
+of the new matter or inaccuracy.
+
+2.12 Financial promotions
+
+2.12.1
+
+(1) A Person who makes a Prospectus Offer must not, and must ensure that any agent of that Person or a member of its Group or other Persons associated or connected with the Prospectus Offer do not, during the Offer Period, make a Financial Promotion relating to a Prospectus Offer unless the Financial Promotion:
+
+(a)
+
+states that a Prospectus has been approved by the DFSA and published or is to be published; and
+
+(b)
+
+gives an address from which a Prospectus is or will be made available in the DIFC or provides a link to a website from which the Prospectus can be accessed.
+
+(2) Where a Person making a Prospectus Offer uses a Prospectus that comprises multiple documents as provided in Rule 2.5.1(1), the obligation to give or provide access to a Prospectus in (1)(b) means giving or providing access to all the documents comprising the Prospectus.
+
+Guidance
+
+The requirements relating to Financial Promotions in Rule 2.12.1 do not apply, due to the definitional exclusion provided in Article 12(1) of the Law, to any communication:
+
+a.
+
+made in connection with the trading of Securities on an Authorised Market Institution or Regulated Exchanges;
+
+b.
+
+made for the purposes of complying with the on-going reporting requirements of an Authorised Market Institution or the DFSA; or
+
+c.
+
+which is an Exempt Communication as defined in Rule 2.2.1.
+
+2.13 Miscellaneous
+
+2.13.1 (1)
+
+The DFSA may require a Prospectus Offer to be underwritten by an underwriter acceptable to the DFSA.
+
+(2)
+
+The procedures in Schedule 3 to the Regulatory Law apply to a decision of the DFSA under this Rule.
+
+26
+
+MKT/VER24/03-25
+
+MARKETS RULES (MKT)
+
+(3)
+
+If the DFSA decides to exercise its power under this Rule, the Offeror may refer the matter to the FMT for review.
+
+2.13.2 If one or more Directors of an Issuer are offering Shares they hold in the Issuer as part of a Prospectus Offer, an Issuer must ensure that the Prospect

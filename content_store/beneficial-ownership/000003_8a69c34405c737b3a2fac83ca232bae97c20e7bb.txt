@@ -1,0 +1,89 @@
+isdiction,
+
+company
+
+that
+
+In such cases it shall be the beneficial treated as owner of the ADGM Limited Partnership
+
+without having to their beneficial owners.
+
+identify
+
+
+
+
+
+Emirates, or by any of the governments of the member Emirates of the United Arab Emirates; or a company created by Emiri decree within the United Arab Emirates; or a is wholly owned by a government or government agency of a Relevant Jurisdiction,
+
+company
+
+that
+
+it shall be In such cases treated as the beneficial owner of the role holder without having to identify their beneficial owners.
+
+
+
+
+
+Emirates, or by any of the governments of the member Emirates of the United Arab Emirates; or a company created by Emiri decree within the United Arab Emirates; or a is wholly owned by a government or government agency of a Relevant Jurisdiction,
+
+company
+
+that
+
+it shall be In such cases treated as the beneficial owner of the role holder identify without having to their beneficial owners.
+
+Beneficial ownership vs legal ownership
+
+There is a difference between “beneficial” and “legal” ownership. The legal owner of a company is the person who holds the shares on the share register, but they may be holding the shares on behalf of someone else. The legal owner could be a natural person, or it could be another company. In these scenarios the shareholder is called a ‘Nominee Shareholder,’ and the nominee shareholder or legal owner may not exert actual control over the entity.
+
+It is therefore essential to determine the natural person(s) who ultimately own or control the entity (i.e., the beneficial owner).
+
+Nominee Directors
+
+A director is a nominee director if they are a person under an obligation to act in accordance with the directions, instructions or wishes of another person.
+
+An ADGM Person which has one or more nominee directors must take reasonable steps to ascertain the true, accurate and complete identity of the person on whose behalf each nominee director acts. In the event such person is not a natural person, the ADGM Person must take reasonable steps to determine the identity of each natural person who is a beneficial owner of such person.
+
+An ADGM Person which has one or more nominee directors must keep a record of all persons identified in a record referred to in these regulations as the “record of nominee directors”.
+
+Company How to determine the UBO of a Company?
+
+Test 1: The Ownership Test
+
+Any natural person who owns (in each case whether directly or indirectly), including through bearer share holdings or by other means, 25% or more of the shares in the ADGM company;
+
+Example 1: Direct Ownership
+
+In this example, - Company A is a private company limited by shares registered in ADGM. - Company A is 100% owned by Individual 1.
+
+Beneficial Owners: Individual 1, being a direct owner of 100% of Company A is the beneficial owner.
+
+Example 2: Direct Ownership
+
+In this example, - Company A is a private company limited by shares registered in ADGM. - Company A is 50% owned by Individual 1 and 50% owned by Individual 2.
+
+Beneficial Owners: Individual 1 and Individual 2, being a direct owner of 50% each of Company A are the beneficial owners.
+
+Example 3: Direct Ownership
+
+In this example, - Company A is a private company limited by shares registered in ADGM.
+
+Company A is 80% owned by Individual 1 and 20% owned by Individual 2.
+
+Beneficial Owners: Individual 1, being a direct owner of 80% each of Company A is the beneficial owners.
+
+Example 4: Indirect Ownership
+
+In this example, - Company A is a private company limited by shares registered in ADGM. - Company A is 100% owned by Body Corporate 1. - Body Corporate 1 is 100% owned by Individual 1
+
+Beneficial Owners: Individual 1, being an indirect owner of 100% of Company A is the beneficial owner.
+
+Example 5: Indirect Ownership
+
+In this example, - Company A is a private company limited by shares registered in ADGM. - Company A is 50% owned by Body Corporate 1 and 50% owned by Individual 1 - Body Corporate 1 is 100% owned by Individual 2
+
+Beneficial Owners: Individual 1 and Individual 2, being a direct owner and indirect owner of 50% each respectively of Company A are the beneficial owners.
+
+Example 6

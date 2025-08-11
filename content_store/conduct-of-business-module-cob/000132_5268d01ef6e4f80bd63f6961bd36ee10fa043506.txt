@@ -1,0 +1,123 @@
+ Versus Payment Transaction where:
+
+(i)
+
+in respect of a Client purchase, Client Money from the Client will be due to the Authorised Firm within one day upon the fulfilment of a delivery obligation; or
+
+(ii)
+
+in respect of a Client sale, Client Money will be due to the Client within one day following the Client’s fulfilment of a delivery obligation; or
+
+(d)
+
+held in the Client’s own name where the Authorised Firm has a mandate to manage the Money on a discretionary basis.
+
+A5.5.2 An Authorised Firm must pay Client Money of the type described in Rule A5.5.1(b) or (c) into a Client Account where it has not fulfilled its delivery or payment obligation within three days of receipt of the Money, Investments or Crypto Tokens unless in the case of the type of Client Money referred to in Rule A5.5.1(c)(ii) it instead safeguards Client Investments or Client Crypto Tokens at least equal to the value of such Client Money.
+
+208
+
+COB/VER48/03-25
+
+CONDUCT OF BUSINESS (COB)
+
+A5.5.3 (1)
+
+An Authorised Firm must maintain adequate records of all cheques and payment orders received in accordance with Rule A5.5.1(a) including, in respect of each payment, the:
+
+(a)
+
+date of receipt;
+
+(b)
+
+name of the Client for whom payment is to be credited; and
+
+(c)
+
+date when the cheque or payment order was presented to the Authorised Firm’s Third Party Agent.
+
+(2)
+
+The records must be kept for a minimum of six years.
+
+A5.5.4 The exceptions in Rule A5.5.1(b) to (d) do not apply to Client Money held for, or in
+
+connection with, Providing Money Services.
+
+A5.6 Appointment of a third party agent
+
+A5.6.1 (1)
+
+An Authorised Firm may only pay, or permit to be paid, Client Money to a Third Party Agent in accordance with Rule A5.7.1 where it has undertaken a prior assessment of the suitability of that agent and concluded on reasonable grounds that the Third Party Agent is suitable to hold that Client Money in a Client Account.
+
+(2)
+
+When assessing the suitability of the Third Party Agent, the Authorised Firm must ensure that the Third Party Agent will provide protections equivalent to the protections conferred by this appendix.
+
+(3)
+
+An Authorised Firm must have systems and controls in place to ensure that the Third Party Agent remains suitable.
+
+A5.6.2 An Authorised Firm must be able to demonstrate to the DFSA’s satisfaction the grounds upon which the Authorised Firm considers the Third Party Agent to be suitable to hold that Client Money.
+
+Guidance
+
+When assessing the suitability of a Third Party Agent, an Authorised Firm should have regard to:
+
+a.
+
+its credit rating;
+
+b.
+
+its capital and financial resources in relation to the amount of Client Money held;
+
+c.
+
+the insolvency regime of the jurisdiction in which it is located;
+
+d.
+
+its regulatory status and history;
+
+e.
+
+its Group structure; and
+
+f.
+
+its use of agents and service providers.
+
+209
+
+COB/VER48/03-25
+
+CONDUCT OF BUSINESS (COB)
+
+A5.7 Payment of client money to a third party agent
+
+A5.7.1 (1)
+
+Subject to Rule A5.7.3, an Authorised Firm may only pass, or permit to be passed, a Segregated Client’s Money to a Third Party Agent if:
+
+(a)
+
+the Client Money is to be used in respect of a Transaction or series or Transactions for that Client;
+
+(b)
+
+the Client Money is to be used to meet an obligation of that Client; or
+
+(c)
+
+the Third Party Agent is a bank or a Regulated Financial Institution which is authorised to accept or take Deposits.
+
+(2)
+
+In respect of (1)(a) and (b), an Authorised Firm must not hold any excess Client Money with the Third Party Agent longer than necessary to effect a Transaction or satisfy the Client’s obligation.
+
+A5.7.2 When an Authorised Firm opens a Client Account with a Third Party Agent it must obtain, within a reasonable period, a written acknowledgement from the Third Party Agent stating that:
+
+(a)
+
+all Money standing to the credit of the account is held by the Authorised Firm as agent and that the

@@ -1,0 +1,117 @@
+ its business to withhold the information held from those employed in that other part of the business,
+
+but only to the extent that the business of one of those parts involves the carrying on of Regulated Activities or ancillary activities.
+
+14
+
+GEN VER11.290725
+
+Information may also be withheld or not used by an Authorised Person when this is required by an established arrangement Maintained between different parts of the business (of any kind) in the same group. This provision does not affect any requirement to transmit or use information that may arise apart from the rules in COBS.
+
+For the purposes of this Rule, "Maintains" includes taking reasonable steps to ensure that the arrangements remain effective and are adequately monitored, and must be interpreted accordingly.
+
+Acting in conformity with Rule 3.3.25 does not amount to Market Abuse.
+
+When any of the rules of COBS apply to an Authorised Person that acts with knowledge, the Authorised Person will not be taken to act with knowledge for the purposes of that rule if none of the relevant individuals involved on behalf of the Authorised Person acts with that knowledge as a result of arrangements established under Rule 3.3.25.
+
+When an Authorised Person manages a conflict of interest using the arrangements in Rule 3.3.25 which take the form of an information barrier, individuals on the other side of the wall will not be regarded as being in possession of knowledge denied to them as a result of the information barrier.
+
+Outsourcing
+
+(1)
+
+An Authorised Person which outsources any of its functions or activities directly related to Regulated Activities to service providers (including within its Group) is not relieved of its regulatory obligations and remains responsible for compliance with the Regulations and Rules.
+
+(2)
+
+The outsourced function under this Rule shall be deemed as being carried out by the Authorised Person itself.
+
+(3)
+
+An Authorised Person which uses such service providers must ensure that it:
+
+(a)
+
+has undertaken due diligence in choosing suitable service providers;
+
+(b)
+
+effectively supervises the outsourced functions or activities; and
+
+(c)
+
+deals effectively with any act or failure to act by the service provider that leads, or might lead, to a breach of any Regulations or Rules.
+
+3.3.32 (1)
+
+An Authorised Person must inform the Regulator about any material outsourcing arrangements.
+
+(2)
+
+An Authorised Person which has a material outsourcing arrangement must:
+
+(a)
+
+establish and maintain comprehensive outsourcing policies, contingency plans and outsourcing risk management programmes;
+
+(b)
+
+enter into an appropriate and written outsourcing contract; and
+
+15
+
+GEN VER11.290725
+
+(c)
+
+ensure that the outsourcing arrangements neither reduce its ability to fulfil its obligations to Customers and the Regulator, nor hinder supervision of the Authorised Person by the Regulator.
+
+(3)
+
+An Authorised Person must ensure that the terms of its outsourcing contract with each service provider under a material outsourcing arrangement require the service provider to:
+
+(a)
+
+provide for the provision of information under Rule 8.1 in relation to the Authorised Person and access to their business premises; and
+
+(b)
+
+deal in an open and cooperative way with the Regulator.
+
+Guidance
+
+1.
+
+An Authorised Person's outsourcing arrangements should include consideration of:
+
+a.
+
+applicable guiding principles for outsourcing in financial services issued by the Basel Committee on Banking Supervision, IOSCO or any other international body promulgating standards for outsourcing by Financial Institutions; or
+
+b.
+
+any equivalent principles or regulations the Authorised Person is subject to in its home country jurisdiction.
+
+2.
+
+An outsourcing arrangement would be considered to be material if it is a service of such importance that weakness or failure of that service would cast serious doubt on the Authorised Person's continuing ability to remain fit and proper or to comply with the Regulator's administered Regulations and Rules.
+
+3.
+
+Rule 3.5 contains additional requirements that apply to an Authorised Person that receives services directly from a third party or a subcontractor of a third party which involve accessing the Authorised Person’s IT Systems or Networks or accessing or processing its data.
+
+Business continuity and disaster recovery
+
+(1)
+
+An Authorised Person must have in place adequate arrangements to ensure that they can continue to function and meet their obligations under the Regulations and Rules in the event of an unforeseen interruption.
+
+(2)
+
+These arrangements must be kept up to date and regularly tested to ensure their effectiveness.
+
+Guidance
+
+1.
+
+In considering the adequacy of an Authorised Person

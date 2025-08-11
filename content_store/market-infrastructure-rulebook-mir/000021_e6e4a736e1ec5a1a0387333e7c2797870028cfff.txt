@@ -1,0 +1,126 @@
+ in relation to positions.
+
+Position Reports
+
+3.3.12
+
+A Recognised Investment Exchange must make public, and provide to the Regulator, a weekly report detailing the aggregate positions held by each category of participant for each Derivative that is admitted to trading on the Recognised Investment Exchange, specifying:
+
+(a)
+
+the number of long and short positions by such categories;
+
+(b)
+
+any changes in positions since the previous report;
+
+(c)
+
+the percentage of the total open interest represented by each category of participant; and
+
+(d)
+
+the number of persons holding a position in each category of participant.
+
+3.3.13
+
+Upon request by the Regulator, the Recognised Investment Exchange must provide the Regulator with a detailed overview of the positions held by all Members, other participants, and their clients, in relation to each Derivative admitted to trading on the Recognised Investment Exchange.
+
+38
+
+MIR VER10.290725
+
+3.3.14
+
+For the weekly report referred to under Rule 3.3.12, the Recognised Investment Exchange must:
+
+(a)
+
+categorise persons in accordance with Rule 3.3.15; and
+
+(b)
+
+differentiate, to the extent possible, between positions identified as:
+
+positions which in an objectively measurable way reduce risks directly relating to commercial activities; and
+
+other positions.
+
+3.3.15
+
+A Recognised Investment Exchange should, to the extent possible, classify all persons holding positions in Derivatives according to the nature of their main business, taking into account any applicable authorisation or registration, including as:
+
+(a)
+
+a financial intermediary including those Dealing in Investments as Agent, Dealing in Investments as Principal or Arranging Credit, or those treated as a financial intermediary under an equivalent term in a jurisdiction outside ADGM;
+
+(b)
+
+an investment fund, including those Managing Assets or Managing a Collective Investment Fund, or those treated similarly in a jurisdiction outside ADGM;
+
+(c)
+
+another Financial Institution, including insurance management; or
+
+(d)
+
+a commercial undertaking.
+
+3.4
+
+Rules Applicable to Recognised Investment Exchanges that are also MTF or OTF Operators, and rules on Trade Repositories, Accepted Spot Commodities and Specified Benchmarks
+
+3.4.1
+
+A Recognised Investment Exchange may carry on the Regulated Activity of operating an MTF or OTF provided that its Recognition Order includes a stipulation permitting it to do so. If it does include such a stipulation, the specific rules on MTFs and OTFs in COBS will apply to that function, but that function only.
+
+3.4.2
+
+A Recognised Investment Exchange operating an MTF or an OTF, must also operate a market that complies with the Recognition Requirements.
+
+3.4.3
+
+A Recognised Investment Exchange may also act as a Trade Repository if its Recognition Order includes a stipulation permitting it to do so. Acting as a Trade Repository will result in it being subject to the additional conduct requirements in Appendix 2 of GEN.
+
+3.4.4
+
+A Recognised Investment Exchange may also conduct activities in relation to Accepted Spot Commodities if its Recognition Order includes a stipulation permitting it to do so. If it does include such a stipulation, the additional rules on Spot Commodities in COBS chapter 22 will apply to that function, but that function only.
+
+39
+
+MIR VER10.290725
+
+3.4.5
+
+A Recognised Investment Exchange may also conduct the activities of Administering a Specified Benchmark or of Providing Information in relation to a Specified Benchmark if its Recognition Order includes a stipulation permitting it to do so. If it does include such a stipulation, the additional rules on Benchmarks in COBS chapter 22 will apply to that function, but that function only.
+
+3.5
+
+Pre-trade transparency obligations
+
+3.5.1
+
+A Recognised Investment Exchanges shall, in relation to Financial Instruments traded on its systems, make public continuously throughout its normal trading hours, and submit to the Regulator, in accordance with the type of trading system they operate:
+
+(a)
+
+the information specified in Rule 3.5.5; and
+
+(b)
+
+current bid and offer prices and the depth of trading interests at those prices which are advertised through their systems.
+
+3.5.2
+
+[Deleted]
+
+3.5.3
+
+[Deleted]
+
+3.5.4
+
+[Deleted]
+
+3.5.5
+

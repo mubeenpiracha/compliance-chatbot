@@ -1,0 +1,31 @@
+ Disclosed. In some circumstances, information of this nature may be so uncertain or indefinite that it falls at the first hurdle and does not, in fact, constitute Inside Information in which case it is not required to be Disclosed under Rule 7.2.1, regardless of whether it falls within the exception provided by this Rule.
+
+72)
+
+It should be noted that the exception in paragraph 71d) will not apply in circumstances where a Listed Entity/Reporting Entity is aware of information about a known event (and that the event constitutes Inside Information), but needs time to enable the Listed Entity/Reporting Entity to determine the financial impact of the event. In this scenario, Rule 7.2.1 will generally require such Inside Information to be Disclosed immediately. It is not appropriate for a Reporting Entity to delay Disclosing Inside Information of this nature on the basis of this exception due to it being unable to state the financial impact of the event in its Disclosure.
+
+73)
+
+In the event that a Reporting Entity is not in the position to include the financial impact of the Inside Information in its Disclosure, it is appropriate for the Reporting Entity to immediately Disclose whatever information is in its possession, and signal that a further Disclosure will be made when it has completed its assessment of the financial impact. If the Reporting Entity is concerned that Disclosing the Inside Information, without providing further information in relation to the financial impact of that information, could lead to a false market in the Listed Entity’s Securities, it should consult with the Listing Authority and discuss whether it would be appropriate to request a Trading Halt or Suspension (in order to obtain the time it needs to assess the financial impact of the Inside Information, and to make a more complete Disclosure).
+
+Information created for internal management purposes (Rule 7.2.2(1)(d))
+
+74) Rule 7.2.2(1)(d) allows for the non-Disclosure by a Reporting Entity of Inside Information that has been generated for a Listed Entity’s internal management purposes. This includes Inside Information generated not only for the internal management purposes of the Listed Entity itself, but also for the internal management purposes of any controlled entity of the Listed Entity, or any other entity in which the Listed Entity may have an economic interest.
+
+75) A number of a Listed Entity’s internal management documents clearly fall within the exception in this Rule, including budgets, management accounts, forecasts and business plans.
+
+76) The Inside Information does not have to be generated internally to fall within the exception in this Rule. Inside Information generated externally (e.g., Sponsor, compliance advisor, Competent Person, professional/legal advisors or consultant) may fall within this Rule provided the information is going to be used for a Listed Entity’s internal management purposes (for example, to help inform a management decision). It should be noted that the simple inclusion, or mention, of Inside Information in a document used or generated for internal management purposes does not automatically mean that the Inside Information is necessarily protected from Disclosure by the exception in this Rule. Management documents will often include Inside Information (relating to (potential) events or circumstances) that will require Disclosure under Rule 7.2.1, where such Inside Information could not appropriately be described as information generated for internal management purposes only.
+
+16
+
+VER01.280922
+
+Trade secrets (Rule 7.2.2(1)(e))
+
+78)
+
+Inside Information that also constitutes a Trade secret is exempted from Disclosure due to the proprietary nature of such information. The term ‘trade secret’ refers to something that has economic value to a Listed Entity, due to it not being generally known, or easily discoverable by observation, and for which effort has been made to maintain secrecy. This may include a formula, recipe, device, program, method, technique or process. It may also include a compilation of information, such as a client list, pricing list or database.
+
+79) Trade secrets are often protected by copyright, or may otherwise give rise to rights in equity that are capable of being protected by an action for breach of confidence. In some jurisdictions they may also be protected by statute.
+
+80) As Rules 7.2.2(1), 7.2.2(2) and 7.2.2(3) operate collectively, where a Listed Entity has lost confidentiality in relation to a trade secret (that is, it has been observed or become generally known), the Reporting Entity may no longer be

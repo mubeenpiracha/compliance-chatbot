@@ -1,0 +1,81 @@
+ market scenario.
+
+2.
+
+The frequency and extent of stress testing to fulfil the requirements of Rule 4.14.5 should be determined on the basis of the materiality of the Authorised Firm’s securitisation volumes and its off-balance sheet Exposures.
+
+3.
+
+An Authorised Firm should have procedures in place to assess and respond to the results produced from the stress testing and these should be taken into account under the ICAAP.
+
+4.14.6
+
+In order to qualify for using the Rules specified in this section, and particularly the risk weighting approach outlined below, an Authorised Firm must demonstrate the following:
+
+(a)
+
+a comprehensive understanding of the risk characteristics of its individual securitisation Exposures, whether on balance sheet or off balance sheet, as well as the risk characteristics of the pools underlying securitisation Exposures;
+
+(b)
+
+ability to access the performance information on the underlying pools on an on-going basis in a timely manner; and
+
+(c)
+
+a thorough understanding of all structural features of a securitisation transaction that would materially impact the performance of the Authorised Firm’s Exposure to the transaction, such as waterfall triggers, Credit Enhancements, liquidity enhancements, market value triggers and deal specific definitions of default.
+
+144
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+Guidance
+
+1.
+
+An Authorised Firm which is an investor, Originator or Sponsor of a Securitisation should fully understand the risks it has assumed in order to ensure that it can accurately determine the Capital Requirements for the Exposures arising from the securitisation in accordance with the Rules in this section.
+
+2.
+
+For the purposes of Rule 4.14.6(b) information should include the percentage of loans 30,60, 90 days past due, default rates, prepayment rates, loans in foreclosure, property type, occupancy, average credit score etc. For Re-securitisations, Authorised Firms should have information relating to not only the underlying securitisation transactions but also the characteristics and performance of the underlying pools of such transactions.
+
+4.14.7 Where an Authorised Firm is either an Originator or a Sponsor of a Traditional
+
+Securitisation or a Synthetic Securitisation:
+
+(a)
+
+the Authorised Firm intending to conduct the securitisation must notify the DFSA at least 30 days in advance of the proposed execution of the securitisation;
+
+(b)
+
+the Authorised Firm conducting the securitisation must calculate its Credit RWAs for all resultant Exposures from that securitisation, in accordance with section 4.8, provided the requirements of this section are met; and
+
+(c)
+
+the securitisation must produce the Authorised Firm conducting documentation reflecting the execution and economic substance of the transaction.
+
+Guidance
+
+The notification made to the DFSA under (a) should include, inter alia, amounts of assets subject to securitisation, amounts retained, details of securitisation including legal structure, rating, tranches, details of legal transfer and any Credit Risk mitigation applied and implications on the capital and liquidity position on the Authorised Firm.
+
+Calculation of Credit RWA arising from securitisations
+
+4.14.8 An Authorised Firm must calculate the Credit RWA amounts for Exposures arising
+
+from securitisations according to the requirements in this section.
+
+Guidance
+
+1.
+
+An Authorised Firm should apply the securitisation framework set out in this section for determining the regulatory Capital Requirements on Exposures arising from traditional and Synthetic Securitisations or similar structures that contain features common to both.
+
+2.
+
+This section sets out the requirements for Originators, Authorised Firms which transfer Credit Risk from their balance sheets and Sponsors in a securitisation transaction involving Non- Trading Book Exposures. This section also sets out the methodologies for calculation of RWA amounts for securitisation Exposures. The Rules setting out the methodologies for calculation of Market Risk Capital Requirement amounts for securitisation Exposures held in the Trading Book are specified in chapter 5 and App5 of this module.
+
+3.
+
+As securitisations may be structured in many different ways, an Authorised Firm engaging in the activities relating to securitisations (

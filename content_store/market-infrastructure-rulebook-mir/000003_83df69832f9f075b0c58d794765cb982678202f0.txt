@@ -1,0 +1,143 @@
+ including its standing with the Regulator or any Non-Abu Dhabi Global Market Financial Services Regulator;
+
+breaches of any law or regulation by that other Person;
+
+the roles of any of the Recognised Body's Key Individuals who have a position within organisations under the control or influence of that other Person, including their responsibilities in that organisation and the extent and type of their access to its Senior Management or Governing Body;
+
+the extent to which the Recognised Body operates as a distinct entity notwithstanding its connection with that other Person; and
+
+the extent to which the Recognised Body's Governing Body is responsible for its day-to-day management and operations,
+
+noting that nothing in this paragraph should be taken to imply any restriction on the ability of a Recognised Body to outsource any function to any Person in a manner consistent with the rules on outsourcing set out in Rule 2.14.4.
+
+2.2.2
+
+[Deleted]
+
+2.3
+
+Governance and Key Individuals
+
+Governance
+
+2.3.1
+
+A Recognised Body's Governing Body must comply with the requirements set out in GEN Rules 3.3.41 and 3.3.42.
+
+4
+
+MIR VER10.290725
+
+Key Individuals
+
+2.3.2
+
+A Recognised Body must, for the purposes of the proper discharge of its Regulatory Functions, appoint the following Key Individuals, where deemed necessary and required by the Regulator, ensuring that they are held by one or more individuals at all times:
+
+(a)
+
+Members of the Governing Body;
+
+(b)
+
+Senior Executive Officer;
+
+(c)
+
+Finance Officer;
+
+(d)
+
+Chief Operating Officer;
+
+(e)
+
+Chief Technology Officer;
+
+(f)
+
+Chief Information Security Officer;
+
+(g)
+
+Head of Market Supervision;
+
+(h)
+
+Chief Compliance Officer
+
+(i)
+
+Money Laundering Reporting Officer; and
+
+(j)
+
+Chief Risk Officer.
+
+2.3.3
+
+The Recognised Body must appropriately consider, and make a reasonable determination, as to what other functions within its business are deemed Regulatory Functions, requiring the appointment of a Key Individual to head such function. The Regulator may also make its own determination as to whether any other function in the Recognised Body should be deemed a Regulatory Function, requiring the appointment of a Key Individual to head such function.
+
+2.3.4
+
+Any appointment of a Key Individual by a Recognised Body is subject to approval by the Regulator.
+
+Determination of application to act as a Key Individual
+
+2.3.5
+
+The Regulator may approve an application for appointment as a Key Individual only if it is satisfied that the person in respect of whom the application is made is a fit and proper person to act as a Key Individual for the Regulatory Function to which the application relates.
+
+In order to be considered fit and proper, a Key Individual must adhere to the six Principles for Approved Persons set out in GEN 2.4 in respect of every Regulatory Function.
+
+For the purposes of this Rule and Rule 2.3.8, all references in GEN 2.4 to “Approved Persons” and “Controlled Functions” shall be read as references to “Key Individuals” and “Regulatory Functions” respectively.
+
+5
+
+MIR VER10.290725
+
+2.3.6
+
+The Regulator may approve the Application:
+
+(a)
+
+subject to any conditions that it considers appropriate; and
+
+(b)
+
+for a limited period only;
+
+if it appears to the Regulator that it is desirable to do so in order to further one or more of its objectives.
+
+2.3.7
+
+A Recognised Body that makes an application for approval of a Key Individual may withdraw the application by giving written notice to the Regulator at any time before the Regulator determines it.
+
+Withdrawal of Key Individual approval
+
+2.3.8
+
+The Regulator may withdraw an approval given in respect of a Key Individual if it considers that the person is not a fit and proper person to act as a Key Individual.
+
+Variation of approval at request of Recognised Body
+
+2.3.9
+
+Where an application for approval of a Key Individual is granted subject to one or both of the conditions under Rule 2.3.6, the Recognised Body concerned may apply to the Regulator to vary the approval. The Regulator may then:
+
+(a)
+
+vary a condition;
+
+(b)
+
+remove a condition; or
+
+(c)
+
+impose a new condition.
+
+2.3.10
+
+The Regulator

@@ -1,0 +1,133 @@
+ A to person B by means of an electronic platform for the purpose of person A directly or indirectly Buying or subscribing for a Specified Investment issued by person B;
+
+(c)
+
+introduces person A to person B by means of an electronic platform for the purpose of person A directly or indirectly Buying an instrument acknowledging or creating indebtedness arising from the supply of goods or the delivery of services by person B;
+
+(d)
+
+enters into an arrangement with person A for the purpose of facilitating the activity described in (a), (b), or (c), whether through an intermediary investment vehicle or otherwise;356
+
+(e)
+
+facilitates an arrangement described in (d);
+
+(f)
+
+holds or controls Client Money or Arranges Custody in connection with an arrangement described in (a), (b), (c) or (d), above; or
+
+352 Amended 21 February 2018, 10 September 2018 and 24 January 2021.
+
+353 Amended 25 June 2018 and 17 February 2020.
+
+354 Amended 10 September 2018.
+
+355 Amended 8 August 2023.
+
+356 Amended 13 January 2020.
+
+258
+
+(g)
+
+operates an incidental facility on a Private Financing Platform enabling person A to offer its rights in an arrangement described in (a), (b), (c) or (d) to another person.
+
+(3)
+
+For the purposes of this paragraph -
+
+(a)
+
+a “Private Financing Platform” is an undertaking that uses an electronic platform to facilitate the provision of financing from person A, whether in the form of debt, equity or otherwise, to person B for use by person B;
+
+(b)
+
+an “electronic platform” means a website or other form of electronic media;
+
+(c)
+
+to “facilitate” means, whether carried out by a person Operating a Private Financing Platform or under an arrangement with another person:
+
+(i)
+
+to provide information to person A relating to a Specified Investment offered, directly or indirectly, by person B;
+
+(ii)
+
+to take steps to obtain the repayment to person A of a debt owed by person B, directly or indirectly, to person A; or
+
+(iii)
+
+to exercise rights or perform obligations relating to a Specified Investment on behalf of person A; and
+
+(d)
+
+an “arrangement” includes the sale by a person Operating a Private Financing Platform to person A of shares or other rights in, or conferred by, any investment vehicle, established, owned or managed by the person Operating a Private Financing Platform.
+
+Exclusions
+
+A person is not Operating a Private Financing Platform by providing means by which one party to a transaction is able to communicate directly with other parties to the transaction.
+
+Chapter 17D Providing Third Party Services357
+
+The activity
+
+73F. Providing Third Party Services
+
+(1)
+
+Providing Third Party Services is a specified kind of activity.
+
+(2)
+
+Providing Third Party Services is an activity that means the accessing, processing and transfer of Specified Information.
+
+73G.
+
+[Deleted]
+
+357 Amended 21 March 2021 and 20 September 2022.
+
+259
+
+Exclusions
+
+73H. Connected Services
+
+An Authorised Person does not Provide Third Party Services if it does so in relation to the carrying on of another Regulated Activity where Providing Third Party Services is in connection with and a necessary part of that other Regulated Activity.
+
+73I. Other exclusions
+
+The following do not constitute Third Party Services—
+
+(a)
+
+payment or securities settlement systems that require the accessing, processing or transfer of Specified Information;
+
+(b)
+
+technical services that access, process or transfer Specified Information without having a relationship with the Person to whom the Specified Information relates; and
+
+(c)
+
+services that access, process or transfer Specified Information that is contained in physical form.
+
+Chapter 18 Exclusions Applying to Several Specified Kinds of Activity
+
+Trustees, nominees and personal representatives
+
+(1)
+
+A person ("X") does not carry on an activity of the kind specified by paragraph 4 where he enters into a transaction as bare trustee for another person ("Y") and—
+
+(a)
+
+X is acting on Y's instructions; and
+
+(b)
+
+X does not hold himself out as providing a service of Buying and Selling Securities, Derivatives or Contracts of Insurance.358
+
+(2)
+
+Subject to sub-paragraph (5), there are excluded from paragraphs 16(1) and (2) arrangements made by

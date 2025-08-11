@@ -1,0 +1,73 @@
+ Individual 1, being an indirect owner of 100% of Company A is the beneficial owner.
+
+Example 5: Indirect Ownership
+
+In this example, - Company A is a private company limited by shares registered in ADGM. - Company A is 50% owned by Body Corporate 1 and 50% owned by Individual 1 - Body Corporate 1 is 100% owned by Individual 2
+
+Beneficial Owners: Individual 1 and Individual 2, being a direct owner and indirect owner of 50% each respectively of Company A are the beneficial owners.
+
+Example 6: Indirect Ownership
+
+In this example, - Company A is a private company limited by shares registered in ADGM.
+
+Company A is 50% owned by Body Corporate 1 and 50% owned by Body Corporate 2. - Body Corporate 1 is 100% owned by Individual 1 and Body Corporate 2 is 100% owned by Individual 2.
+
+Beneficial Owners: Individual 1 and Individual 2, being indirect owners of 50% each of Company A are the beneficial owners (the control test must also be applied however for additional beneficial owners).
+
+Example 7: Indirect Ownership
+
+In this example,
+
+Company A is a private company limited by shares registered in ADGM. - Company A is 50% owned by Body Corporate 1 and 50% owned by Body Corporate 2. - Body Corporate 1 is 100% own by Individual 1. - Body Corporate 2 is own by: o Body Corporate 3 – 5%. o Body Corporate 4 – 25%. o Body corporate 5 – 70%.
+
+Body Corporate 3 is 100% owned by Individual 2. - Body Corporate 4 is 100% owned by Individual 3. - Body Corporate 5 is 100% owned by Individual 4.
+
+In this example, there are multiple individuals, companies, and indirect ownership. The percentage ownership (and calculation) for each individual is set out in the table below.
+
+Individual Individual 1
+
+Ownership in Company A. 50%
+
+Calculation 100% * 50% = 50%
+
+Individual 2 Individual 3 Individual 4
+
+2.5% 12.5% 35% 100%
+
+5% * 50% = 2.5% 25% * 50% = 12.5% 70% * 50% = 35%
+
+Beneficial Owners: Individual 1 and Individual 4, being indirect owners of 50% and 35% of Company A respectively are the beneficial owners (the control test must also be applied however for additional beneficial owners).
+
+Test 2 – The Control Test Even if a natural person is identified as the beneficial owner under test 1 above, any natural person who controls (in each case whether directly or indirectly) the ADGM company other than by positions held as officer of the ADGM company.
+
+Note: Control means a natural person that:
+
+holds, or may exercise, directly or indirectly, 25% or more of the voting rights in the company; or holds, or may exercise, the right, directly or indirectly, to appoint or remove a majority of the board of directors of the company.
+
+Example 8:
+
+In this example, - Company A is a private company limited by shares registered in ADGM. - Company A is own by:
+
+o o
+
+Individual 1 – 20% (ordinary shares) Individual 2 – 20% (ordinary shares)
+
+o o o
+
+Individual 3 – 20% (ordinary shares) Individual 4 – 20% (ordinary shares) Individual 5 – 20% (Class A shares)
+
+-
+
+Each of Ordinary shares has one voting rights. Each of Class A shares has two voting rights.
+
+For this example, the percentage ownership and percentage of voting rights (and calculation) for each individual is set out in the table below.
+
+Individual
+
+Individual 1 Individual 2 Individual 3 Individual 4 Individual 5
+
+Ownership in Company A.
+
+20% (ordinary shares) 20% (ordinary shares) 20% (ordinary shares) 20% (ordinary shares) 20% (Class A shares)
+
+Calculation rights) 20% * 1 (vote) = 16.67% 20% * 1 (vote) = 16.67% 20% * 

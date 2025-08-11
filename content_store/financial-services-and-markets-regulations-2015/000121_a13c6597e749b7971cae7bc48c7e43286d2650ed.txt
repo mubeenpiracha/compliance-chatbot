@@ -1,0 +1,165 @@
+ in
+
+to combat money
+
+laundering,
+
+means a suspension of Listing in accordance with section 53.
+
+for the purposes of—
+
+(a) that
+
+sections 21 to 23, has the meaning given to term in section 22(1)(b); and
+
+(b)
+
+section 254, means the party referred to in subsections (1)(a) and (4)(a) of that section.
+
+means an Authorised Person which holds a Financial Services Permission to carry on the Regulated Activity of Providing Third Party Services.
+
+means the Rules made under section 7(2).
+
+has the meaning given to that term in section 7(2).
+
+means a legal person that centrally collects and maintains the records of Derivatives.
+
+includes, for the purposes of section 180, trading taking place other than on a Recognised Investment Exchange or Multilateral Trading Facility.
+
+means—
+
+(a)
+
+in relation to a Market Contract—
+
+(i)
+
+an assignment;
+
+(ii)
+
+a novation;
+
+(iii)
+
+terminating or closing out the Market Contract an equivalent position between different parties; and
+
+and
+
+establishing
+
+(i)
+
+establishing an equivalent position between different parties where, as a
+
+224
+
+Transfer Scheme
+
+Trust Administration Services
+
+Trust Deed
+
+result of or immediately prior to the Default, the Market Contract was terminated or closed out.
+
+For the purposes of this definition—
+
+(a)
+
+where a Market Contract is recorded in the accounts of a Recognised Clearing House or Remote Clearing House as a position held for the account of an Indirect Client or group of Indirect Clients, the Clearing Member Client Contract is to be treated as having been transferred if the position is transferred to a different account at the Recognised Clearing House or Remote Clearing House; and
+
+(b)
+
+a reference to a transfer of a Qualifying an Arrangement Collateral assignment or a novation.
+
+includes
+
+has the meaning given to that term in section 85(2).
+
+means, the provision of administration services to a trust, including—
+
+(a)
+
+the keeping of accounting records relating to an express trust and the preparation of trust accounts;
+
+(b)
+
+the preparation of trust instruments or other documents relating to an express trust;
+
+(c)
+
+the management and administration of trust assets subject to an express trust;
+
+(d)
+
+dealing with trust assets subject to an express trust, including the investment, transfer and disposal of such assets;
+
+(e)
+
+the distribution of trust assets subject to an express trust; and
+
+(f)
+
+the payment of expenses or remuneration out of an express trust.
+
+means the deed entered into by a Fund Manager and the Trustee to create an Investment Trust.
+
+225
+
+Trustee312
+
+means, in relation to a Fund, the person who is appointed under a Trust Deed as the trustee of an Investment Trust to hold the Fund Property on trust for the Unitholders and to oversee the operation of the Fund and, in relation to a Domestic Fund, is authorised under its Financial Services Permission to Act as the Trustee of an Investment Trust.
+
+UAE313
+
+means the United Arab Emirates.
+
+Umbrella Fund
+
+has the meaning given to that term in the Rules made by the Regulator.
+
+Undertaking314
+
+has, for the purposes of section 261, the same meaning given to that term as in the Companies Regulations.
+
+Unitholders
+
+has the meaning given to that term in section 106(2).
+
+Units
+
+means the rights or interests (however described) of the Unitholders in a Collective Investment Fund.
+
+Unlawful Communication
+
+means, section 25, a the purposes of communication in relation to which there has been a contravention of section 18.
+
+for
+
+Unsolicited Real Time Communication
+
+has the meaning given to that term in paragraph 1(f) of Schedule 2.
+
+Virtual Asset315
+
+means a digital representation of value that can be digitally traded and functions as
+
+(a) a medium of exchange; and/or
+
+(b) a unit of account; and/or
+
+(c) a store of value, but does not have legal tender
+
+status in any jurisdiction.
+
+A Virtual Asset is -
+
+(a) neither issued nor guaranteed by a government or central bank of any jurisdiction, and fulfils the
+
+312 Amended 30 December 2024.
+
+313 Amended 30 December 2024.
+
+314 Amended 8 August 2023.
+
+315 Amended 25 June 2018, 17 February 2020 and

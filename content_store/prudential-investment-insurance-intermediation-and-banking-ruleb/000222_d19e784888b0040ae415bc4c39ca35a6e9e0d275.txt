@@ -1,0 +1,149 @@
+ gross income.
+
+A7.2
+
+Standardised Approach
+
+A7.2.1
+
+An Authorised Person which uses the Standardised Approach:
+
+(a)
+
+(i)
+
+subject to (b), must calculate its Operational Risk Capital Requirement in accordance with Rule A7.2.2;
+
+(ii) where an Authorised Person does not have sufficient data to meet the three-year requirement in (i) it must use its forecast annual gross income projections for that part of the three year time period for which it does not have sufficient historical data, and must start using historical data as soon as it is available;
+
+(b)
+
+(i)
+
+subject to (ii), may in any given year offset negative gross income in any business line against positive gross income in other business lines without limit; and
+
+(ii) must input to the numerator a value of zero if the aggregate annual gross
+
+income across all business lines within a given year is negative.
+
+A7.2.2
+
+An Authorised Person which uses the Standardised Approach must calculate its Operational Risk Capital Requirement, KSA, according to the following formula:
+
+KSA = {Ʃ years 1-3 max[Ʃ (GI1-8 * B1-8), 0]}/ 3
+
+where:
+
+KSA=
+
+the capital charge under the Standardised Approach
+
+GI1-8 =
+
+annual gross income in a given year, as defined above in the Basic Indicator Approach, for each of the eight business lines
+
+B1-8 =
+
+a fixed percentage, termed a “beta factor”, for each of the eight business lines, set out in Rule A7.2.3.
+
+A7.2.3
+
+An Authorised Person which uses the Standardised Approach must calculate its Operational Risk Capital Requirement using the following beta factors:
+
+Business Line Corporate finance Trading and sales Retail banking Commercial banking Payment and settlement Agency services
+
+Beta factor 18% 18% 12% 15% 18% 15%
+
+390
+
+PRU VER17.290725
+
+Asset management Retail brokerage
+
+12% 12%
+
+Guidance
+
+The gross income is measured for each business line, not the whole institution, i.e. in corporate finance, the indicator is the gross income generated in the corporate finance business line.
+
+A7.3
+
+Alternative Standardised Approach
+
+A7.3.1
+
+An Authorised Person which uses the Alternative Standardised Approach must calculate in accordance with the Standardised Approach in Section A7.2 as modified by replacing annual gross income for its retail banking and commercial banking business lines with loans and advances multiplied by a fixed factor 'm'.
+
+its Operational Risk Capital Requirement
+
+A7.3.2
+
+Subject to Rule A7.3.4, an Authorised Person which uses the Alternative Standardised Approach must calculate its Operational Risk Capital Requirement for its retail banking business line according to the following formula:
+
+KRB = BRB × m × LARB
+
+where:
+
+KRB =
+
+the Capital Requirement for the retail banking business line
+
+BRB =
+
+the beta factor for the retail banking business line
+
+LARB =
+
+total outstanding retail loans and advances (non-risk weighted and gross of provisions), averaged over the past three years
+
+m =
+
+0.035
+
+A7.3.3
+
+Subject to Rule A7.3.4, an Authorised Person which uses the Alternative Standardised Approach must calculate its Operational Risk Capital Requirement for its commercial banking business line according to the following formula:
+
+KCB =BCB × m × LACB
+
+where:
+
+KCB =
+
+the Capital Requirement for the commercial banking business line
+
+BCB =
+
+the beta factor for the commercial banking business line
+
+LACB = total outstanding commercial banking
+
+loans and advances (non-risk
+
+weighted and gross of provisions), averaged over the past three years
+
+m =
+
+0.035
+
+391
+
+PRU VER17.290725
+
+A7.3.4
+
+An Authorised Person may, in calculating its Operational Risk Capital Requirement under Rule A7.3.1:
+
+(a)
+
+aggregate retail and commercial banking using a single beta of 15%; or
+
+(b)
+
+if it is unable to disaggregate gross income in its six other business lines, aggregate the total gross income for these six business lines using a beta of 18%, with negative gross income treated as described in the Standardised Approach.
+
+Guidance
+
+1.
+
+For the purposes of the Alternative Standardised Approach, total loans and advances in the retail banking business

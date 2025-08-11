@@ -1,0 +1,109 @@
+details of the appointment of each Stabilisation Agent, including the date of the appointment;
+
+(c)
+
+the general terms and instructions (including details of the price floor and Stabilisation Window) determined by the Stabilisation Manager for his Stabilisation Agents and the date and time of the communication, variation or revocation of that information and instructions;
+
+(d)
+
+details of all correspondence passing between the Stabilisation Manager and his Stabilisation Agents relating to the Price Stabilisation, including all instructions and variations or revocations of appointments;
+
+(e)
+
+each and every transaction undertaken by the Stabilisation Manager and Stabilisation Agents in the course of the Price Stabilisation, including but not limited to the following transaction details:
+
+(i)
+
+the type of Relevant Securities;
+
+(ii)
+
+the price;
+
+(iii)
+
+the size;
+
+(iv)
+
+whether the transactions were undertaken on or off the central order book of the relevant Recognised Investment Exchange;
+
+(v)
+
+the date and time;
+
+(vi)
+
+details of the counterparty (if known); and
+
+(vii)
+
+details of the allotment of the Relevant Securities.
+
+(3)
+
+The Stabilisation Manager must keep the register in the English language and keep it in a location that would allow for it, or a certified copy, to be available within three Business Days to any Person permitted by Rules 6.2.16(4) and 6.2.16(5) to inspect it.
+
+(4)
+
+The following Persons are permitted to inspect the register upon written request:
+
+(a)
+
+the Regulator;
+
+(b)
+
+the Recognised Investment Exchange upon which the Relevant Securities are admitted to trading; and
+
+(c)
+
+any other Person the Regulator considers appropriate.
+
+(5)
+
+During the Stabilisation Window and within three months from the end of the Stabilisation Window, the Stabilisation Manager must, on any Business Day, permit the Issuer of the Relevant Securities to which the Price Stabilisation Rules apply to inspect the part of the register kept in accordance with Rule 6.2.16(2)(e).
+
+Confidential
+
+79
+
+MKT VER09.020125
+
+(6)
+
+The Stabilisation Manager must keep the register for a period of six years from the end of the Stabilisation Window.
+
+Guidance
+
+Rule 6.2.16(1)(e)(vi) recognises that some Recognised Investment Exchanges using, for example, anonymous order books or anonymous indications of interest, allow for the identity of counterparties to sometimes be unknown prior to the effecting of transactions.
+
+Rule 6.2.16 also accepts that some participants in the Price Stabilisation may have accrued uneconomic positions during Price Stabilisation and therefore permits a single transaction, probably at the end-of-day, to ‘square-off’ the positions between participants. The terms on which these transactions can be carried may often be agreed in the terms of engagement between the Stabilisation Manager and the Stabilisation Agents. The Regulator may when inspecting records kept relating to Price Stabilisation seek the rationale for any of these transactions and the price at which they were conducted.
+
+6.2.17 Price Stabilisation and Dual-listings
+
+(1)
+
+This Rule applies to a Person who carries out Price Stabilisation of dual-listed Relevant Securities.
+
+(2)
+
+For the purposes of (1), ‘dual-listed Relevant Securities’ are Relevant Securities which are listed concurrently on a Recognised Investment Exchange and on either a Remote Investment Exchange or an exchange in a jurisdiction other than ADGM.
+
+Guidance
+
+‘Dual-listed Relevant Securities’ in (2) would, in relation to one Listed Security, include Certificates (e.g., global depository receipts) and Warrants over the other Listed Security.
+
+Price Stabilisation in ADGM
+
+(3)
+
+Subject to (4), a Person who conducts Price Stabilisation of dual-listed Relevant Securities in ADGM must comply with Rules 6.2.9 to 6.2.16.
+
+(4)
+
+A Person who conducts Price Stabilisation in ADGM of dual-listed Relevant Securities may, where the non-ADGM jurisdiction is a Zone 1 jurisdiction and where the prior consent of the Regulator has been obtained, conduct such Price Stabilisation in accordance with the law of that Zone 1 jurisdiction.
+
+(5)
+
+The Regulator may give its consent to the conduct of Price Stabilisation referred to

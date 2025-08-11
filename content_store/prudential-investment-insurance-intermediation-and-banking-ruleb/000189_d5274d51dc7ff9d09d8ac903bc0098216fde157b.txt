@@ -1,0 +1,135 @@
+
+
+Interest Rate Risk Capital Requirement
+
+Guidance
+
+Section A6.2 presents the method for the calculation of Specific Risk and General Market Risk in respect of the Interest Rate Risk Capital Requirement as referred to in Rule 5.4.1(b).
+
+A6.2.1
+
+An Authorised Person which calculates its Interest Rate Risk Capital Requirement in accordance with Rule 5.4.1(b) must apply the Rules in this Section.
+
+A6.2.2
+
+An Authorised Person must calculate its Interest Rate Risk Capital Requirement as the sum of the two following separate charges:
+
+(a)
+
+Specific Risk of each net position as calculated in accordance with Rule A6.2.13; and
+
+(b)
+
+General Market Risk calculated in accordance with Rule A6.2.15.
+
+A6.2.3
+
+An Authorised Person must calculate its Interest Rate Risk Capital Requirement in Trading Book positions in all fixed-rate and floating-rate debt Securities and instruments which behave like them, including:
+
+(a)
+
+non-convertible preference Shares;
+
+(b)
+
+Futures or forwards on a debt security or on interest rates;
+
+(c)
+
+swaps (or contracts for differences) whose value is based on interest rates;
+
+(d)
+
+the cash leg of a repurchase or a reverse repurchase agreement;
+
+(e)
+
+forward foreign exchange contracts or currency Futures;
+
+(f)
+
+interest rate legs of equity swaps;
+
+(g)
+
+interest rate legs of equity Futures or forwards; and
+
+(h)
+
+interest rate legs of equity based Options treated under internal models in Section 5.3.
+
+Guidance
+
+Where these positions will require the derivation of notional positions before they can be included in the calculation of Specific Risk and General Market Risk requirements, an Authorised Person must derive the notional positions in accordance with Rules A6.2.5 to A6.2.12.
+
+A6.2.4
+
+(1)
+
+An Authorised Person may net, by value, long and short positions in the same debt instrument in its Trading Book to generate the individual net position in that instrument.
+
+(2)
+
+Instruments are considered to be the same for the purposes of (1) where:
+
+330
+
+PRU VER17.290725
+
+(a)
+
+the Issuer is the same;
+
+(b)
+
+the instruments have equivalent standing in liquidation; and
+
+(c)
+
+the currency, coupon and maturity are the same.
+
+Derivation of notional positions for certain instruments (including interest rate Derivatives)
+
+A6.2.5
+
+(1)
+
+The interest rate risk measurement must include all interest rate Derivatives and off-balance sheet instruments in the Trading Book that react to changes in interest rates, including forward rate agreements other forward contracts, Futures, interest rate and cross-currency swaps and forward foreign exchange positions.
+
+(2)
+
+Derivatives must be converted into positions in the relevant underlying instruments and are subject to Specific and General Market Risk requirements set out in Rules A6.2.13 and A6.2.15. The amounts used in the calculation must be the market values of the principal amount of the underlying instrument or of the notional underlying instrument.
+
+(3)
+
+The manner in which an Authorised Person must derive a notional position (in the currency concerned) for certain instruments (including interest rate Derivatives) is set out in Rules A6.2.6 to A6.2.12.
+
+Futures on interest rates and forward rate agreements
+
+A6.2.6
+
+A Future on an interest rate and a forward rate agreement must be treated as two notional zero coupon government Securities as follows:
+
+(a)
+
+where an Authorised Person sells an interest rate Future or buys a forward rate agreement:
+
+(i)
+
+the notional short position has a maturity equal to the time to expiry of the Future (or the settlement date of the forward rate agreements) plus the maturity of the borrowing period; and
+
+(ii)
+
+the notional long position has a maturity equal to the time to expiry of the Future (or the settlement date of the forward rate agreement); and
+
+(b)
+
+where an Authorised Person buys an interest rate Future or sells a forward rate agreement:
+
+(i)
+
+the notional short position has a maturity equal to the time to expiry of the Future (or the settlement date of the forward rate agreement); and
+
+(ii)
+
+the notional long position has a maturity equal to the time to expiry of the Future (or the settlement date of the forward rate agreement) plus the maturity of the Deposit

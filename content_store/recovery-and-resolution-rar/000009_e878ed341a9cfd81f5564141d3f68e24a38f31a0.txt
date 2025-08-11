@@ -1,0 +1,112 @@
+VER1/04-20
+
+a.
+
+b.
+
+c.
+
+d.
+
+e.
+
+f.
+
+g.
+
+h.
+
+i.
+
+j.
+
+k.
+
+l.
+
+m.
+
+n.
+
+o.
+
+p.
+
+RECOVERY AND RESOLUTION (RAR)
+
+the extent to which the Authorised Firm is able to map Core Business Lines and Critical Functions to legal persons;
+
+the extent to which legal and corporate structures are aligned with Core Business Lines and Critical Functions;
+
+the extent to which there are arrangements in place to provide for essential staff, infrastructure, funding, liquidity and capital to support and maintain the Core Business Lines and the Critical Functions;
+
+the extent to which the service agreements that the Authorised Firm maintains are fully enforceable in the event of the Resolution of the Authorised Firm;
+
+the extent to which the governance structure of the Authorised Firm is adequate for managing and ensuring compliance with the Authorised Firm’s internal policies with respect to its service level agreements;
+
+the extent to which the Authorised Firm has a process for transitioning the services provided under service level agreements to third parties in the event of the separation of Critical Functions or of Core Business Lines;
+
+the extent to which there are contingency plans and measures in place to ensure continuity in access to AMIs, Regulated Exchanges, payment systems, Central Counterparties, Securities Settlement Systems and Central Securities Depositories;
+
+the adequacy of the Management Information Systems in ensuring that the DFSA is able to gather accurate and complete information regarding the Core Business Lines and Critical Functions so as to facilitate rapid decision making;
+
+the capacity of the Management Information Systems to provide the information essential for the effective Resolution of the Authorised Firm at all times even under rapidly changing conditions;
+
+the extent to which the Authorised Firm has tested its Management Information Systems under stress scenarios;
+
+the extent to which the Authorised Firm can ensure the continuity of its Management Information Systems both for the affected Authorised Firm and the new institution in the case that the Critical Functions and Core Business Lines are separated from the rest of the operations and business lines;
+
+the extent to which the Authorised Firm has established adequate processes to ensure that it provides the DFSA with the information necessary to identify depositors;
+
+where the Authorised Firm’s Group uses intragroup financial support, the extent to which those guarantees are provided at market conditions and to which the risk management systems concerning those guarantees are robust;
+
+where the Authorised Firm or the Authorised Firm’s Group engages in back- to-back transactions, the extent to which those transactions are performed at market conditions and to which the risk management systems concerning those transactions practices are robust;
+
+the extent to which the use of intragroup financial support or back-to-back booking transactions increases contagion across the Authorised Firm’s Group;
+
+the extent to which the legal structure of the Authorised Firm or its Group
+
+15
+
+RAR/VER1/04-20
+
+3.
+
+RECOVERY AND RESOLUTION (RAR)
+
+inhibits the application of a Resolution Tool as a result of the number of legal persons, the complexity of the Group structure or the difficulty in aligning business lines to the Group entities;
+
+q.
+
+the existence and robustness of service level agreements;
+
+r.
+
+the amount and type of Eligible Liabilities of the Authorised Firm;
+
+s.
+
+the extent to which the Resolution of the Authorised Firm could have a negative impact on its Group, where applicable;
+
+t.
+
+whether Resolution Authorities in the other jurisdictions in which the Authorised Firm’s Group operates have the power to apply a Resolution Tool necessary to support Resolution Actions by the DFSA and the extent to which there is scope for cooperation between such Resolution Authorities and the DFSA;
+
+u.
+
+the feasibility of applying a Resolution Tool in such a way which meets the Resolution Objectives, given the tools available and the Authorised Firm’s structure;
+
+v.
+
+the extent to which the structure of the Authorised Firm’s Group allows the Resolution Authorities of the Group entities to resolve the whole Group or one or more of its Group entities without causing a significant direct or indirect adverse effect on the financial system, market confidence or the financial services industry in the DIFC and with a view to maximising the value of the Group as a whole including the DIFC Branch/es and Subsidiaries;
+
+w.
+
+the arrangements and means through which Resolution could be facilitated in the cases of Groups that have subsidiaries established in different jurisdictions;
+
+x.
+
+the arrangements and means by which Resolution could be hampered due to collateral arrangements being established in different jurisdictions;
+
+y.
+

@@ -1,0 +1,235 @@
+ carry on a Regulated Activity in relation to Spot Commodities must pay to the Regulator, in addition to the application fees due in respect of each Regulated Activity which the Applicant proposes to undertake, an application fee of:
+
+(a) $20,000; or
+
+(b) $125,000 if the Regulated Activity is Operating a Multilateral Trading Facility or
+
+Organised Trading Facility without any additional Regulated Activity.
+
+3.19.2 An Authorised Person with a Financial Services Permission to carry on a Regulated Activity in relation to Spot Commodities must pay to the Regulator, in addition to the supervision fees due in respect of each Regulated Activity which the Authorised Person undertakes, an annual supervision fee of:
+
+(a) $15,000; or
+
+(b) $60,000 if the Regulated Activity is Operating a Multilateral Trading Facility or
+
+Organised Trading Facility without any additional Regulated Activity.
+
+Guidance
+
+Where an application concerns activities relating to Spot Commodities that will be carried on by a Recognised Body, whether a Recognised Investment Exchange or Recognised Clearing House, the fees in Section 4.1 will apply.
+
+3.20 OTC Leveraged Products
+
+3.20.1 An Applicant for a Financial Services Permission to carry on a Regulated Activity in relation to OTC Leveraged Products must pay to the Regulator, in addition to the application fees due in respect of each Regulated Activity which the Applicant proposes to undertake, an application fee of:
+
+(a) $5,000; or
+
+(b) $40,000 where those OTC Leveraged Products are to be offered to Retail Clients.
+
+3.20.2 An Authorised Person with a Financial Services Permission to carry on a Regulated Activity in relation to OTC Leveraged Products must pay to the Regulator, in addition to the supervision fees due in respect of each Regulated Activity which the Authorised Person undertakes, an annual supervision fee of:
+
+(a) $5,000; or
+
+(b) $40,000 where those OTC Leveraged Products are to be offered to Retail Clients.
+
+14
+
+FEES VER19.100625
+
+Guidance
+
+The table below provides a summary of the fees for applications and supervision where a Regulated Activity is carried out on a standalone basis. Where more than one Regulated Activity is carried out Section 3.2 and the relevant Rule(s) in Chapter 3 provide details of the binding requirements and the appropriate treatment.
+
+Section(s)
+
+Application ($k)
+
+Supervision ($k)
+
+Group
+
+Regulated Activity
+
+TRADITIONAL ASSETS
+
+3.3
+
+70
+
+100
+
+Accepting Deposits
+
+Accepting Deposits
+
+3.8
+
+15
+
+15
+
+Advising on Investments or Credit
+
+Advising on Investments or Credit
+
+3.8
+
+15
+
+15
+
+Arranging Deals in Investments
+
+Arranging Deals in Investments
+
+3.10 3.10
+
+3.10
+
+10
+
+10
+
+10
+
+10
+
+10
+
+10
+
+Collective Investments
+
+Acting as the Administrator of a Collective Investment Fund
+
+Acting as Trustee of an Investment Trust
+
+Managing a Collective Investment Fund
+
+3.10
+
+10
+
+10
+
+Managing a Venture Capital Fund and co-investments
+
+3.10
+
+3.3
+
+10
+
+70
+
+10
+
+100
+
+Credit
+
+Arranging Credit
+
+Providing Credit
+
+3.8
+
+3.6
+
+15
+
+25
+
+15
+
+25
+
+Custody
+
+Arranging Custody
+
+Providing Custody
+
+3.4
+
+40
+
+50
+
+Dealing in Investments as Principal
+
+3.4
+
+25
+
+25
+
+Dealing in Investments
+
+Dealing in Investments as Matched Principal
+
+3.4
+
+25
+
+25
+
+Dealing in Investments as Agent
+
+Carrying Out Contracts of Insurance as Principal
+
+Effecting Contracts of Insurance
+
+3.11 3.11
+
+40
+
+5
+
+50
+
+5
+
+Insurance
+
+as an Insurer
+
+as a Captive Insurer or Insurance Special Purpose Vehicle
+
+3.11
+
+8 plus 1 per Cell
+
+8 plus 1 per Cell
+
+as a Cell Company (additional to fees above)
+
+3.8
+
+15
+
+15
+
+Insurance Intermediation
+
+15
+
+FEES VER19.100625
+
+Section(s)
+
+Application ($k)
+
+3.7
+
+15
+
+3.5
+
+30
+
+3.6
+
+25
+
+3.

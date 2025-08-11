@@ -1,0 +1,107 @@
+ result of subsection (2) if, having considered any representations made to it in response to a warning notice, there are reasonable grounds for it to be satisfied that—
+
+(a)
+
+the Person Concerned believed, on reasonable grounds, that his Behaviour did not fall within paragraph (a) or (b) of that subsection; or
+
+(b)
+
+he took all reasonable precautions and exercised all due diligence to avoid behaving in a way which fell within paragraph (a) or (b) of that subsection.
+
+(5)
+
+The power referred to in subsections (1) and (2) is a power to require the Person Concerned, in accordance with such arrangements as the Regulator considers appropriate, to pay to the Appropriate Person or distribute among the Appropriate Persons such amount as appears to the Regulator to be just having regard—
+
+(a)
+
+in a case within paragraph (a) of subsection (1) or (3), to the profits appearing to the Regulator to have accrued;
+
+(b)
+
+in a case within paragraph (b) of subsection (1) or (3), to the extent of the loss or other adverse effect;
+
+(c)
+
+in a case within paragraphs (a) and (b) of subsection (1) or (3), to the profits appearing to the Regulator to have accrued and to the extent of the loss or other adverse effect.
+
+242. Actions for damages
+
+(1)
+
+Unless otherwise provided under Rules made by the Regulator, where a person (whether or not a Private Person)—
+
+(a)
+
+intentionally, recklessly or negligently commits a breach of duty, requirement, prohibition, obligation or responsibility imposed by or under these Regulations; or
+
+164
+
+(b)
+
+commits fraud or other dishonest conduct in connection with a matter arising under such Regulations;
+
+that person is liable to compensate any other person for any loss or damage caused to that other person as a result of such conduct, and otherwise is liable to restore such other person to the position they were in prior to such conduct.
+
+(2)
+
+The Court may, on application of the Regulator or a person who has suffered loss or damages caused as a result of conduct described in subsection (1), make orders for the recovery of damages or for compensation or for the recovery of property or for any other order as the Court sees fit, except where such liability is excluded under these Regulations or any Rules made by the Regulator.
+
+(3)
+
+Nothing in this section affects the powers that any person or the Court may have apart from this section.
+
+243. Power of the Regulator to intervene in proceedings167
+
+(1)
+
+The Regulator may intervene as a party in any proceedings in the Court where it considers such intervention appropriate to further one or more of its objectives.
+
+(2)
+
+Where the Regulator so intervenes, it shall, subject to any other law, have all the rights, duties and liabilities of such a party.
+
+244. Compulsory Winding up
+
+(1)
+
+Where it appears to the Regulator that it is just and equitable in the interests of the Abu Dhabi Global Market that a Company which is or has been—
+
+(a)
+
+an Authorised Person or Recognised Body; or
+
+(b)
+
+carrying on Regulated Activities in breach of the General Prohibition;
+
+should be wound up, it may apply to the Court for, and the Court may make orders considered necessary and desirable for, the winding up of such Company.
+
+245. Undertakings as to damages
+
+(1)
+
+If the Regulator makes an application to the Court for the grant of an injunction under these Regulations, the Court must not require the Applicant or any other person, as a condition of granting an interim injunction, to give any undertakings as to damages.
+
+167 Amended 20 September 2022.
+
+165
+
+Part 21 Enforcement Procedure
+
+246. Requirement to give warning notices168
+
+(1)
+
+If the Regulator proposes to exercise any of the following powers, it must give a warning notice to any person in relation to whom the power is proposed to be exercised169—
+
+(a)
+
+refusing an application for DNFBP registration under the Rules made under section 7(6)(c);
+
+(b)
+
+exercising its power to suspend or withdraw the registration of a DNFBP on its own initiative under the Rules made under section 7(6)(c);
+
+(c)
+
+exercising its power under section 30(2) to refuse a Financial Services Permission and section 30

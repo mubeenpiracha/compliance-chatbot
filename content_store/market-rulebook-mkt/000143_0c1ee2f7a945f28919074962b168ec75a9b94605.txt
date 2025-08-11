@@ -1,0 +1,154 @@
+ an Applicant (or a Related Party of an Applicant).
+
+254
+
+MKT VER09.020125
+
+Category
+
+Category 1
+
+(“Founders / Related Parties / Relevant Service Providers”)
+
+Category 2
+
+(“Non-related investors”)
+
+Circumstances for the acquisition of the Securities
+
+A Person who provided capital to the Applicant and who, at the time of the application for admission is a:
+
+(a) Related Party of the Applicant; or
+
+(b) Relevant Service Provider of the
+
+Applicant,
+
+and the Person acquired the Securities for cash or in consideration for the repayment of debt.
+
+A Person who provided capital to the Applicant and who, at the time of the application for admission is not a:
+
+(a) Related Party of the Applicant; or
+
+(b) Relevant Service Provider to the
+
+Applicant,
+
+and the Person acquired the Securities for cash or in consideration for the repayment of debt.
+
+Number of Securities subject to a Restriction Period
+
+(a) For Shares or Warrants, the number as determined by the Restriction Formula.
+
+(b) All other Securities.
+
+(a) Securities which are fully paid Shares, for
+
+which consideration per Security was at least 80% of the price paid in any public offering of the Applicant’s securities at the time of Applicant’s application for admission to the Official List – Not subject to a Restriction Period
+
+(b) Subject to (a), where the consideration for the Securities or Options was less than 80%, the number as determined by the Restriction Formula.
+
+(c) All other Securities.
+
+Restriction Period
+
+Two years from the time the Applicant’s Securities are first admitted to trading on a Recognised Investment Exchange.
+
+One year from the time the Applicant’s Securities are first admitted to trading on a Recognised Investment Exchange.
+
+255
+
+MKT VER09.020125
+
+Category 3
+
+(“Related Vendors of Unproven Assets”)
+
+Category 4
+
+(“Unrelated Vendors of Unproven Assets”)
+
+A Vendor who immediately before the time of the acquisition of the Unproven Asset is a:
+
+(a) Related Party of the Applicant; or
+
+(b) Relevant Service Provider to the
+
+Applicant,
+
+and the Vendor acquired the Securities in consideration for the Unproven Asset before the Applicant’s Securities were admitted to the Official List.
+
+A Vendor who immediately before the time of the acquisition of the Unproven Asset is not a:
+
+(a) Related Party of the Applicant; or
+
+(b) Relevant Service Provider of the
+
+Applicant,
+
+and the Vendor acquired the Securities in:
+
+(i) consideration for the Unproven
+
+Asset, or
+
+(ii) circumstances that included
+
+subscriptions of securities under a relevant agreement, where the cash subscription amounts were used to pay for the Unproven Asset,
+
+All Securities.
+
+All Securities.
+
+Two years from the time the Applicant’s Securities are first admitted to trading on a Recognised Investment Exchange.
+
+One year from the time the Applicant’s Securities are first admitted to trading on a Recognised Investment Exchange.
+
+256
+
+MKT VER09.020125
+
+Category 5
+
+(“Related Party Transaction”)
+
+Category 6
+
+(“Unrelated Vendor Transaction”)
+
+before the Applicant’s Securities were admitted to the Official List.
+
+A Vendor who immediately before the time of the acquisition of the Unproven Asset is a Person referred to in Rule 9.5.3, and the Person acquired the Securities in:
+
+(a)
+
+consideration for the Unproven Asset, or
+
+(b)
+
+circumstances that included subscriptions of securities under a relevant agreement, where the cash subscription amounts were used to pay for the Unproven Asset,
+
+after the Listed Entity was admitted to the Official List.
+
+A Vendor who immediately before the time of the acquisition of the Unproven Asset is NOT a Person referred to in Rule 9.5.3, and the Person acquired the Securities in:
+
+(a)
+
+consideration for the Unproven Asset, or
+
+(b)
+
+circumstances that included subscriptions of securities under a relevant agreement, where the cash subscription amounts were used to pay for the Unproven Asset,
+
+All Securities.
+
+(a) If the Vendor will have a relevant interest in at least 20% of the Listed Entity’s issued capital, including if the Regulator determines to aggregate separate transactions – all of the Securities.
+
+(b) In any other case – Not subject to a
+
+Restriction Period.
+
+One year after the later of the following dates:
+
+(a) the Restricted
+

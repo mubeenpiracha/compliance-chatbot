@@ -1,0 +1,79 @@
+ a RCH can be met with suitable arrangements in place with an SCSF, if the requirements as described in this section are met.
+
+90) Pursuant to MIR Rule 3.8.1, MTFs/OTFs are required to have satisfactory arrangements for securing the timely discharge of the rights and liabilities of the parties to transactions taking place on its platform. MIR Rule 3.8.2 allows for a RCH or Remote Clearing House to be deemed as sufficient for the purposes of satisfying MIR Rule 3.8.1.
+
+91) Pursuant to MIR Rule 3.8.3, however, and in the context of Accepted Spot Commodities, an MTF/OTF must provide the FSRA the satisfactory arrangements made when such MTF or OTF does not engage a RCH (for example, to use in this context, when it has engaged, or proposing to engage, an SCSF). To clarify, the FSRA will require that arrangements to use an SCSF for settlement purposes will require the SCSF to comply with the requirements of MIR Rule 4.3.3 (with the references to a RCH being read as references to an SCSF).
+
+92) Pursuant to MIR Rule 4.3.3, in determining whether there are satisfactory arrangements for securing the timely discharge of the rights and liabilities of the parties to transactions, the FSRA may have regard to the SCSF’s:
+
+a)
+
+rules and practices relating to clearing and settlement, including its arrangements with another Person for the provision of clearing and settlement services;
+
+b)
+
+arrangements for matching trades and ensuring that the parties are in agreement about trade details;
+
+c)
+
+arrangements for making deliveries and payments, in all relevant jurisdictions;
+
+19
+
+VER02.181223
+
+d)
+
+procedures to detect and deal with the failure of a Member (or participants) to settle in accordance with its rules;
+
+e)
+
+arrangements for taking action to settle a trade if a Member (or participant) does not settle in accordance with its rules;
+
+f)
+
+arrangements for monitoring its Members’ settlement performance; and
+
+g) Default Rules and default procedures.
+
+93) The FSRA reserves the right at any point in time, either during the Authorisation process13 or as part of its supervisory oversight of an SCSF, to consider the applicability of other Rules within MIR Chapter 4 (Rules Applicable to RCHs), dependent on the relevance of those Rules to the business model/operations of the SCSF.
+
+94) Entities seeking to operate as SCSF’s should take note of the following:
+
+a)
+
+For transactions where delayed settlement occurs (e.g., on an end of day or t+n basis), the FSRA may likely require the SCSF to integrate specific risk management functions within its operations, as per the requirements of MIR Chapter 4, including in relation to (but not limited) to the scenarios identified in (b) and (c) below.
+
+b)
+
+For transactions with instantaneous delivery versus payment (DvP)14, the FSRA may deem certain aspects relating to default management to not apply. For transactions where end of day, or t+n DvP occurs, there may be scope for the SCSF to implement default management provisions commensurate to the length of the settlement time-horizon.
+
+c)
+
+In the case of a SCSF performing DvP on a delayed basis, the FSRA may impose certain further obligations on the SCSF (as set out in Chapter 4 of MIR) including in relation to the following:
+
+
+
+MIR Rule 4.2 (capital requirements – in relation to credit, counterparty, and market risks);
+
+
+
+MIR Rule 4.5 (default management);
+
+
+
+MIR Rule 4.6 (stress testing);
+
+
+
+MIR Rule 4.7 (risk management);
+
+
+
+MIR Rule 4.10 (collateral management and margin); and
+
+
+
+MIR Rule 4.12 (segregation and portability of Client Assets).
+
+13 Whether at the point of In-Principle Approval or at the time of Final Approval. 14 DvP is considered to be the irrevocable and unconditional transfer of an asset of an asset (including an Accepted Spot Commodity) or Financial Instrument, or the discharge of obligations arising under the underlying contract

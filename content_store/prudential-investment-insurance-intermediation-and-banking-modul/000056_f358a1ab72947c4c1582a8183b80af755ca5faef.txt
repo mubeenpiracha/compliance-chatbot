@@ -1,0 +1,149 @@
+4.8 provide that the Authorised Firm’s CRCOM is 8% of the Credit RWA of the firm, which in turn is calculated as the sum of:
+
+a.
+
+the RWA for Credit Risk Exposures (CR Exposures);
+
+b.
+
+the RWA for securitisation Exposures (SE Exposures);
+
+c.
+
+the RWA for Counterparty Credit Risk Exposures (CCR Exposures); and
+
+85
+
+PIB/VER50/07-25
+
+4.
+
+5.
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+d.
+
+the RWA for settlement risk Exposures (SR Exposures).
+
+This chapter sets out the manner in which each of those components must be calculated, monitored and controlled by an Authorised Firm.
+
+In addition to complying with the applicable Rules in this chapter, an Authorised Firm investing in or holding Islamic Contracts whether or not for the purpose of a PSIA will need to take account of the provisions under IFR Rules 5.4.6 and 5.4.7 to calculate the Credit Risk for those Islamic Contracts.
+
+86
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+PART 2 – Credit Risk systems and controls
+
+4.2
+
+Application of this part
+
+4.2.1
+
+This part applies to an Authorised Firm in Category 1, 2, 3A or 5 with respect to both its Non-Trading Book and Trading Book transactions.
+
+4.3
+
+Credit Risk management systems
+
+4.3.1
+
+An Authorised Firm must implement and maintain comprehensive Credit Risk management systems which:
+
+(a)
+
+are appropriate to the firm’s type, scope, complexity and scale of operations;
+
+(b)
+
+enable the firm to effectively identify, assess, monitor and control Credit Risk and to ensure that adequate Capital Resources are available to cover the risks assumed; and
+
+(c)
+
+ensure effective implementation of the Credit Risk strategy and policy.
+
+Guidance
+
+1.
+
+Credit Risk is the risk that a borrower or Counterparty fails to meet its obligations. It exists in both the Non-Trading Book and the Trading Book, and both on and off the balance sheet of an Authorised Firm.
+
+2.
+
+Obviously, Credit Risk arises from loans but there are other sources of Credit Risk such as.
+
+a.
+
+trade finance and acceptances;
+
+b.
+
+interbank transactions;
+
+c.
+
+commitments and guarantees;
+
+d.
+
+interest rate, foreign exchange and Credit Derivatives (including swaps, options, forward rate agreements and financial futures);
+
+e.
+
+bond and equity holdings; and
+
+f.
+
+settlement of transactions.
+
+3.
+
+The objective of the Credit Risk management system must be to ensure that every Authorised Firm holds adequate capital to cover Credit Risk and absorb any potential losses arising from that risk. Since Authorised Firms need to provide credit as part of their usual business, this needs to be achieved by effectively managing the Credit Risk assumed by the Authorised Firm as part of its credit business.
+
+4.
+
+Failure to manage Credit Risk effectively could cause an Authorised Firm to face a situation of inadequate capital, which would threaten its safety and soundness. Such problems normally arise from:
+
+a.
+
+lax credit standards for borrowers and Counterparties;
+
+b.
+
+poor portfolio risk management; and
+
+87
+
+PIB/VER50/07-25
+
+4.3.2
+
+4.3.3
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+c.
+
+failure to identify in good time changes in economic or other conditions that may impair the financial strength of borrowers and Counterparties.
+
+5.
+
+Therefore, it is essential for Authorised Firms involved in the business of providing credit to design, implement and maintain comprehensive and effective systems to manage Credit Risk.
+
+The Credit Risk management framework of an Authorised Firm must have at least the following principal elements effectively implemented to ensure that the Credit Risk Exposures of the Authorised Firm are of a sufficiently good quality:
+
+(a)
+
+an appropriate Credit Risk environment, defined by a documented Credit Risk strategy and a documented Credit Risk policy;
+
+(b)
+
+application of the Credit Risk strategy and policy, where appropriate, on a consolidated basis and at the level of individual subsidiaries;
+
+(c)
+
+sound processes for assuming and managing

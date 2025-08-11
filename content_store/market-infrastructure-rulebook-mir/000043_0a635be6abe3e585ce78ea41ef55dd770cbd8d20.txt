@@ -1,0 +1,119 @@
+ or omnibus basis or a Clearing Member default for different accounts; and
+
+(d)
+
+there are any constraints, such as legal or operational, that may impair its ability to segregate or transfer a Member's or other participant's Clients' positions and related collateral.
+
+4.12.7
+
+In this section, assets refers to collateral held to cover positions and include the right to the transfer of assets equivalent to that collateral or the proceeds of the realisation of any collateral, but does not include default fund contributions.
+
+4.12.8
+
+In relation to a Remote Clearing House, this chapter does not prevent other customer segregation models being offered to Clearing Members outside ADGM. In relation to clearing members of clearing houses incorporated outside ADGM, this chapter does not require such clearing members to offer levels of segregation which are not made available by such clearing houses.
+
+4.13
+
+Rules relating to Central Securities Depositories
+
+4.13.1
+
+If a Recognised Clearing House also carries out functions of a Central Securities Depository, it may do so pursuant to its exemption or alternative may seek an additional registration as an Authorised Person solely in respect of its activities as a Central Securities Depository, provided that its Recognition Order includes a stipulation permitting it to do so. If the Recognition Order does include such a stipulation, the Rules that are applicable to Central Securities Depositories in COBS pursuant to COBS 10.2 will apply to that function, but that function only, and no other provisions of the Rulebook except MIR and such provisions of COBS shall apply.
+
+76
+
+MIR VER10.290725
+
+5
+
+NOTIFICATION RULES FOR RECOGNISED BODIES
+
+5.1
+
+Application and purpose
+
+Application
+
+5.1.1
+
+The notification Rules in this chapter apply to Recognised Bodies.
+
+5.1.1A
+
+For the purposes of this chapter, any reference to the rules of a Recognised Body, is made to its:
+
+(a)
+
+Business Rules, in the case of a Recognised Investment Exchange;
+
+(b)
+
+Clearing Rules, in the case of a Recognised Clearing House; and
+
+(c)
+
+Default Rules, as applicable.
+
+Guidance
+
+Remote Body notification requirements are set out in Rule 7.4.2.
+
+5.1.2
+
+The notification Rules in this chapter are in addition to the requirements on Recognised Bodies to give notice or information to the Regulator that exist elsewhere in FSMR and the Rules.
+
+5.1.3
+
+The requirements relating to the form and method of notification in Rule 5.2 also apply to Remote Bodies.
+
+5.2
+
+Form and method of notification
+
+Form of notification
+
+5.2.1
+
+Where a Recognised Body is required to give any notice or information under any notification rule, it may do so (unless that rule expressly provides otherwise) orally or in writing, whichever is the more appropriate in the circumstances, but where it gives notice or information orally, it must confirm that notice or information in writing promptly.
+
+Method of notification
+
+5.2.2
+
+Unless otherwise stated in the notification rule, a written notification required from a Recognised Body under any notification rule must be given to, or addressed for the attention of, the Recognised Body's usual supervisory contact at the Regulator and delivered by:
+
+(a)
+
+recorded courier to the address in Rule 5.2.3;
+
+(b)
+
+electronic mail to an address for the Recognised Body's usual supervisory contact at the Regulator and obtaining an electronic confirmation of receipt; or
+
+(c)
+
+hand to the Recognised Body's usual supervisory contact at the Regulator.
+
+77
+
+MIR VER10.290725
+
+5.2.3
+
+The address for a written notification to the Regulator is:
+
+Financial Services Regulatory Authority Abu Dhabi Global Market Abu Dhabi Global Market Square Al Maryah Island P.O. Box 111999 Abu Dhabi United Arab Emirates
+
+Timely notification
+
+5.2.4
+
+If a notification rule requires notification within a specified period:
+
+(a)
+
+the Recognised Body must give the notification so it will be received by the Regulator no later than the end of that period; and
+
+(b)
+
+if the end of that period falls on a day which is not a Business Day, the notification must be given so as to be received by the Regulator no later than the start of the first Business Day after the end of

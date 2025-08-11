@@ -1,0 +1,127 @@
+2), an Authorised Firm must calculate the effective notional IR, by aggregating the effective notional amounts
+
+amount for hedging set ‘j’, EffNotj of each maturity bucket using the following formula:
+
+EffNotj
+
+2 IR = √(Dj,1 IR)
+
+2 IR) + (Dj,2
+
+2 IR) + (Dj,3
+
+IR ∙ Dj,2
+
+IR + 1.4 ∙ Dj,2
+
+IR ∙ Dj,3
+
+IR + 0.6 ∙ Dj,1
+
+IR IR ∙ Dj,3
+
++ 1.4 ∙ Dj,1
+
+where:
+
+IR =
+
+Dj,k
+
+the effective notional amount for maturity bucket ‘k’ of hedging set ‘j’, calculated in accordance with (5)
+
+(4) By way of derogation from (3), an Authorised Firm may calculate the effective IR, by aggregating the effective notional
+
+notional amount for hedging set ‘j’, EffNotj amounts of each maturity bucket using the following formula:
+
+EffNotj
+
+IR = |Dj,1
+
+IR| +|Dj,2
+
+IR| IR| +|Dj,3
+
+where:
+
+IR =
+
+Dj,k
+
+the effective notional amount for maturity bucket ‘k’ of hedging set ‘j’, calculated in accordance with (5)
+
+(5) For the purpose of (3) and (4), an Authorised Firm must calculate the effective
+
+notional amount of bucket ‘k’ of hedging set ‘j’, Dj,k
+
+IR, using the following formula:
+
+288
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+𝐈𝐑 = ∑ 𝛅𝐢 ∙ 𝐀𝐝𝐣𝐍𝐨𝐭𝐢
+
+𝐃𝐣,𝐤
+
+𝐈𝐑 ∙ 𝐌𝐅𝐢
+
+𝐢∈𝐈(𝐣,𝐤)
+
+where:
+
+I(j,k) =
+
+the set of all interest rate transactions belonging to maturity bucket ‘k’ and hedging set ‘j’
+
+j =
+
+the index that denotes all the hedging sets of the interest rate asset class, formed in accordance with Rule A4.8.5
+
+δi =
+
+the supervisory delta for the transaction ‘i’, calculated in accordance with Rule A4.8.12
+
+MFi =
+
+the maturity factor of the transaction ‘i’, calculated in accordance with Rule A4.8.15
+
+AdjNoti
+
+IR = the adjusted notional amount accordance with Rule A4.8.13(a)
+
+for
+
+transaction
+
+‘i’, calculated
+
+in
+
+Guidance
+
+1.
+
+The calculation of the add-on for the interest rate asset class captures the risk of interest rate transactions of different maturities being imperfectly correlated. It does this by allocating trades to maturity buckets, in which full offsetting of long and short positions is permitted, and by using an aggregation formula that only permits limited offsetting between maturity buckets. This allocation of transactions to maturity buckets and the process of aggregation are only used in the interest rate asset class.
+
+2.
+
+The formula for the aggregation of the effective notional amounts across the three maturity buckets in Rule A4.8.7(3) allows for the partial offsetting. An Authorised Firm may elect not to recognise any offsetting across maturity buckets. In this case it must aggregate the effective notional amounts using the formula in Rule A4.8.7(3).
+
+3.
+
+Under this Rule, an Authorised Firm may treat inflation derivatives (which SA-CCR does not specifically assign to a particular asset class) in the same manner as they treat interest rate derivatives and subject them to the same 0.5% supervisory factor. Derivatives referencing inflation rates for the same currency should form a separate hedging set.
+
+Add-on for transactions in the foreign exchange asset class
+
+A4.8.8 (1) An Authorised Firm must calculate the add-on for each hedging set of the foreign
+
+exchange asset class,AddOnj
+
+FX, using the following formula:
+
+AddOnj
+
+FX = SFFX

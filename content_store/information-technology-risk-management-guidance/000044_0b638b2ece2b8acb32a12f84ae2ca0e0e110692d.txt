@@ -1,0 +1,57 @@
+ to the in-person enrolment, cross referencing biometric authentication solution (e.g., government-issued identity document, etc.). The enrolment process should be administrated by qualified personnel or staff who have been adequately trained to conduct enrolment correctly.
+
+11.3.16 A financial institution should adhere to any regulatory obligations applicable to the
+
+protection of biometric data and templates.
+
+Single Sign On (SSO)
+
+11.3.17 While SSO facilitates productivity and reduces friction in user experience, it can be a significant source of risk if not adequately secured against threat actors that exploit SSO to gain unfettered unauthorised access to systems and data.
+
+11.3.18 A financial institution that enables SSO should ensure that the SSO policy server or equivalent is configured and kept up to date with the financial institution’s established authorisation policies. It should log SSO tokens activities for audit and review. Where SSO is employed for access to sensitive systems and data, the financial institution should apply MFA.
+
+11.3.19 Where a third-party SSO solution is used, a financial institution should conduct adequate due diligence on the solution prior to integration. It should assess the security
+
+38 These metrics include false acceptance rates and false rejection rates. 39 For example, voice matching with enrolled voiceprint, face matching with identity document, liveness detection during video capture, blood flow detection during fingerprint scanning, etc. 40 Biometric data and templates may be stored centrally on a server managed by the financial institution or a third- party, or stored in a distributed manner on user mobile devices.
+
+72
+
+VER01.201124
+
+characteristics of the solution(s) to ensure that the generation and transmission of the SSO token is secured against threat actors and only requisite data is transmitted.
+
+73
+
+VER01.201124
+
+Chapter 12 – Online Transaction Security
+
+Desired Outcomes for Online Transaction Security
+
+Desired Outcome 12.1 – Online Transaction Security: A financial institution should design its systems and processes with the aim of reducing the potential for fraudulent activity taking place via its online financial services.
+
+Desired Outcome 12.2 – Fraud Mitigation: A financial institution should implement capabilities to detect and mitigate fraudulent activities on its online financial services.
+
+Desired Outcome 12.3 – Customer IT Risk Awareness: A financial institution should regularly inform customers of the risks associated with the use of online financial services.
+
+12.0.1 The provision of financial services online brings significant benefits to both financial institutions and customers. However, as financial institutions move from only provisioning informational services online to including transactional services in the online platforms, the risk of threat actors exploiting such advancements is high. Financial institutions should secure their online transactional services to prevent risk events from materialising and causing significant disruption to their business operations and distress to customers.
+
+Desired Outcome 12.1 – Online Transaction Security
+
+12.1.1 A financial institution that enables customers to access financial services through its
+
+online platforms should implement MFA at login.
+
+12.1.2 A financial institution should implement authentication mechanisms for high-risk activities (e.g., adding payee, updating contact information and limits, etc.) performed by customers through online financial service platforms. Such authentication mechanisms could include transaction signing with digital certificates, behavioural analysis, etc.
+
+12.1.3 Where MFA is applied for high-risk transactions, the MFA request should be distinct, and where practical, a different channel from the MFA request used for login. Such an implementation increases the difficulty that a threat actor would need to overcome to compromise a customer’s account.
+
+12.1.4 A financial institution should ensure that upon login to the online financial service platform by a customer, each authenticated session is time-delimited, measures are implemented to prevent session hijacking, and the session is terminated promptly when a compromise is detected.
+
+74
+
+VER01.201124
+
+12.1.5 A financial institution should disallow network protocols that are used with the intention of obfuscating identity or attribution41 from performing login or high-risk transactions on its online financial services to reduce the likelihood of threat actors exploiting financial services for criminal gains.
+
+12.1.6 Prior to exposing any financial services on third-party mobile communications platform (e.g., voice or messaging mobile application) or via third-party providers (e.g., payment intermediaries), a financial institution should conduct adequate due diligence on the platform prior to integration. Security characteristics of the platform

@@ -1,0 +1,153 @@
+ corporate governance structure of the Authorised Firm as well as the policies and procedures governing the approval of the Recovery Plan and identification of the persons in the organisation responsible for preparing and implementing the Recovery Plan;
+
+(k)
+
+arrangements and measures Authorised Firm’s own funds;
+
+to conserve or restore
+
+the
+
+(l)
+
+arrangements and measures to ensure that the Authorised Firm has adequate access to contingency funding sources, including potential liquidity sources, an assessment of available collateral and an assessment of the possibility to transfer liquidity across Group entities and business lines, to ensure that it can continue to carry out its operations and meet its obligations as they fall due;
+
+7
+
+RAR/VER1/04-20
+
+RECOVERY AND RESOLUTION (RAR)
+
+(m) arrangements and measures to reduce risk and leverage;
+
+(n) arrangements and measures to restructure liabilities;
+
+(o) arrangements and measures to restructure business lines;
+
+(p) arrangements and measures necessary to maintain continuous
+
+access to financial markets infrastructures;
+
+(q) arrangements and measures necessary
+
+the continuous functioning of the Authorised Firm’s operational processes, including infrastructure and IT services;
+
+to maintain
+
+(r)
+
+preparatory arrangements to facilitate the sale of assets or business lines in a timeframe appropriate for the restoration of financial soundness;
+
+(s)
+
+other management actions or strategies to restore financial soundness and the anticipated financial effect of those actions or strategies;
+
+(t)
+
+preparatory measures that the Authorised Firm has taken or plans to take in order to facilitate the implementation of the Recovery Plan, timely recapitalisation of the Authorised Firm; and
+
+including
+
+those necessary
+
+to enable
+
+the
+
+(u)
+
+stress scenarios that consider the Financial Stability Board (FSB) “Guidance on Recovery Triggers and Stress Scenarios”, relating them to the Authorised Firm’s particular business model and specific fragile points which can cause it to become non-viable or fail.
+
+(2) The Recovery Plan of a DIFC Company, or a Branch of an international
+
+Group, shall include at least two scenarios:
+
+(a)
+
+one DIFC entity-specific scenario; and
+
+(b)
+
+one macroeconomic scenario that impacts the DIFC entity,
+
+and the scenarios are to be tested to ensure that the Recovery Plan is suitable for use in a range of various types of stress.
+
+Guidance
+
+1.
+
+The Recovery Plan should serve as a guide or a “road map” for the Authorised Firm and the DFSA in a recovery scenario, i.e., a situation of distress where there is still a reasonable prospect of recovery, if appropriate Recovery Measures are taken, and the Resolution Conditions have not been met.
+
+2.
+
+While the stress scenarios in Recovery Plans need not be the same for all Authorised Firms, they should be realistic and specific to each Authorised Firm’s business model. The DFSA will check the assumptions used in the scenarios and may require additional scenarios.
+
+3.
+
+The DFSA expects a Recovery Plan to adopt a structure, as follows:
+
+a.
+
+a high-level substantive summary of the key recovery strategies;
+
+b.
+
+the analysis that underlies the key recovery strategies;
+
+8
+
+RAR/VER1/04-20
+
+4.
+
+5.
+
+6.
+
+RECOVERY AND RESOLUTION (RAR)
+
+c.
+
+a range of factors indicating that the implementation of Recovery Measures may be necessary (recovery indicators);
+
+d.
+
+tangible and practical options for Recovery Measures;
+
+e.
+
+description of preparatory actions to ensure that the Recovery Measures can be implemented effectively and in a timely manner;
+
+f.
+
+an operational plan for implementation of the Recovery Plan, including sequencing and indication of time needed for implementing each step;
+
+g.
+
+details of any potential material impediments to an effective and timely execution of the Recovery Plan and how these are being addressed;
+
+h.
+
+responsibilities implementation of the Recovery Plan and the actual Recovery Measures; and
+
+for executing
+
+the preparatory actions,
+
+triggering
+
+the
+
+i.
+
+internal and external communication and disclosure plan to manage any potential negative market reactions, if applicable.
+
+The strategic analysis referred to in item 3.b should include the Authorised Firm’s analysis and, where relevant, identification of essential and systemically important functions carried out by the Authorised Firm, which it should aim to maintain as part of the recovery process. The strategic analysis should also cover:
+
+a.
+
+actions necessary for maintaining operations of, and funding for, those essential and systemically important functions, if such are identified;
+
+b.
+
+assessment of the viability of any business lines and legal entities which may be

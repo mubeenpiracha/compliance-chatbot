@@ -1,0 +1,81 @@
+240220
+
+6
+
+Category of Digital Assets / Instruments
+
+“Digital Securities”
+
+(e.g., digital/virtual tokens that have the features and characteristics of a Security under the FSMR (such as Shares, Debentures and Units a Collective in Investment Fund)).
+
+“Virtual Assets”
+
+(e.g., currencies, virtual tokens’).
+
+non-fiat
+
+asset
+
+virtual
+
+‘exchange
+
+Derivatives and Collective Investment Funds of Virtual Assets, Digital Securities and Utility Tokens
+
+VER02.240220
+
+Regulatory Approach
+
+Deemed to be Securities pursuant to Paragraph 58(2)(b) of FSMR.
+
+All financial services activities in relation to Digital Securities, such as operating primary / secondary markets, dealing / trading / managing investments in or advising on Digital Securities, are subject to the relevant regulatory requirements under the FSMR.
+
+Market intermediaries and market operators dealing or managing investments in Digital Securities need to be licensed / approved by FSRA as FSP holders (including as Multilateral Trading Facilities), Recognised Investment Exchanges or Recognised Clearing Houses, as applicable.
+
+Treated as commodities and, therefore, not deemed Specified Investments under the FSMR.
+
+Market intermediaries (e.g., broker dealers, custodians, asset managers) dealing in or managing Virtual Assets, and Multilateral Trading Facilities using Virtual Assets, need to be licensed / approved by FSRA. Only activities in Accepted Virtual Assets will be permitted.
+
+Capital formation activities are not provided for under the Virtual Asset Framework, and such activities are not envisaged under the Market Rules (MKT).
+
+Regulated as Specified Investments under the FSMR.
+
+Market intermediaries and market operators dealing in such Derivatives and Collective Investment Funds will need to be licensed
+
+7
+
+/ approved by FSRA as FSP holders, Recognised Investment Exchanges or Recognised Clearing Houses, as applicable.
+
+“Utility Tokens”
+
+Treated as commodities and, therefore, not deemed Specified Investments under the FSMR.
+
+(e.g., tokens which can be redeemed for access to a specific product or service, typically provided using a DLT platform, do not exhibit and the features a characteristics / regulated instrument the FSMR).
+
+of
+
+investment under
+
+Unless such Utility Tokens are caught as Accepted Virtual Assets, spot trading and transactions in Utility Tokens do not constitute Regulated Activities, activities envisaged under a Recognition Order (e.g., those of a Recognised Investment Exchange or Recognised Clearing House), or activities envisaged under MKT.
+
+“Fiat Tokens”
+
+Treated as a form of digital representation of Fiat Currency.
+
+stablecoins whose (e.g. value are fully backed by underlying fiat currencies)
+
+Where used as a payment instrument for the purposes of Money Transmission as defined under the FSMR, the activity will be licensed and regulated as Providing Money Services.
+
+REGULATORY TREATMENT OF DIGITAL SECURITIES
+
+15) As set out in the ICO Guidance, the FSRA’s assessment of whether an offering of a digital/virtual token is regulated under FSMR is conducted on a case-by-case basis (in keeping with FSRA’s treatment of ‘conventional’ Securities). If a digital/virtual token being offered is assessed to exhibit the (economic and legal) features and characteristics of a Security, the FSRA will deem the digital/virtual token (being a “Digital Security”) as a Security pursuant to Section 58(2)(b)6 of FSMR. This approach has been taken by the FSRA to ensure the protection of investors, noting that while a Digital Security may have the characteristics of a Security, this position is not always clear and accordingly requires review by the FSRA.
+
+16) To use its powers under Section 58(2)(b), the FSRA expects that an Issuer will provide to it such information as is required to demonstrate that the proposed Digital Security meets the requirements of a “Security” (as defined in FSMR). In circumstances:
+
+a)
+
+requiring the submission of an Approved Prospectus to the FSRA, the FSRA will use the documentation submitted as part of this approval process to determine whether it will deem a Digital Security a Security under Section 58(2)(b) of FSMR; or
+
+6 Section 58(2) of FSMR sets out that the FSRA may, by written notice ‘deem any investment which is not a Security to be a Security for the purposes of these Regulations and the Rules made under these Regulations.’
+
+VER02.240

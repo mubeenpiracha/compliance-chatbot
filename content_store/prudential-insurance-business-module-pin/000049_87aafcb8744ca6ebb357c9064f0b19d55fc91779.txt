@@ -1,0 +1,129 @@
+ calculate its Minimum Capital Requirement
+
+according to the following applicable formula:
+
+(a)
+
+for an Insurer, other than a Captive Insurer: MCR = DRC + IVRC + OARC + OLRC + CRC + SFAC + URC + RRC + LIRC + AMRC;
+
+(b)
+
+for a Class 1 Captive Insurer: MCR = higher of URC and RRC; and
+
+(c)
+
+for a Class 2 and Class 3 Captive Insurer: MCR = DRC + IVRC + URC + RRC;’
+
+Where the following definitions apply:
+
+70
+
+PIN/VER18/04-23
+
+PRUDENTIAL – INSURANCE BUSINESS (PIN)
+
+Term
+
+Definition
+
+MCR
+
+Insurer’s Minimum Capital Requirement;
+
+DRC
+
+Insurer’s default risk component;
+
+IVRC
+
+Insurer’s investment volatility risk component;
+
+OARC
+
+Insurer’s off-balance sheet asset risk component;
+
+OLRC
+
+Insurer’s off-balance sheet liability risk component;
+
+CRC
+
+Insurer’s concentration risk component;
+
+SFAC
+
+Insurer’s size factor adjustment component;
+
+URC
+
+Insurer’s underwriting risk component;
+
+RRC
+
+Insurer’s reserving risk component;
+
+LIRC
+
+Insurer’s Long-Term Insurance risk component; and
+
+AMRC
+
+Insurer’s asset management risk component.
+
+A4.2.2 The methods of calculation of the components referred to in Rule A4.2.1 are set out
+
+in sections A4.4, A4.5, A4.6, A4.7, A4.8, A4.9, A4.10, A4.11, A4.12 and A4.13.
+
+A4.2.3 An Insurer’s Minimum Capital Requirement must always be equal to or higher than:
+
+(a)
+
+in the case of a Class 1 Captive Insurer, $ 150,000;
+
+(b)
+
+in the case of a Class 2 Captive Insurer, $ 500,000 or if a higher amount is specified under Rule A4.2.4, that amount;
+
+(c)
+
+in the case of a Class 3 Captive Insurer, $ 1,000,000; and
+
+(d)
+
+in the case of all other Insurers, $ 10,000,000.
+
+A4.2.4 (1)
+
+The DFSA may, based on the business and risk profile of a Class 2 Captive Insurer, specify in writing a higher Minimum Capital Requirement than the figure set out in Rule A4.2.3(b), but the amount specified must be less than $1,000,000.
+
+(2)
+
+The DFSA may, in setting a higher amount under (1), take into account factors relating to the nature, size and complexity of the business or operations of the Insurer, including:
+
+(a)
+
+the percentage of Gross Written Premium obtained from Contracts of Insurance that relate to risks arising out of the business or operations of the Group as compared to the total Gross Written Premium;
+
+71
+
+PIN/VER18/04-23
+
+PRUDENTIAL – INSURANCE BUSINESS (PIN)
+
+(b)
+
+the Classes of Business covered in Contracts of Insurance effected by the Captive Insurer;
+
+(c)
+
+the type of Policyholders of Contracts of Insurance effected by the Captive Insurer; and
+
+(d)
+
+risks arising from the nature, size and complexity of the business of the Group, that affect or are likely to affect the Captive Insurer’s activity.
+
+A4.3 Applicability of components to assets of the insurer
+
+A4.3.1 Subject to Rule A4.3.2, an Insurer must calculate those components of its Minimum Capital Requirement that are relevant to assets, in respect of every asset that is owned by the Insurer and that is available to meet the liabilities of the Insurer.
+
+A4.3.2 Where an Insurer arranges its affairs such that its Invested Assets are held in a related entity, the Insurer may, with the written approval of the DFSA, calculate components of its Minimum Capital Requirement by reference to the Insurer’s interest in the assets that are held by the related entity, instead of by reference to the interest that the Insurer has in that related entity. In that case this appendix shall be interpreted as though the assets (representing the Insurer’s

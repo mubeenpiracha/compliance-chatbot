@@ -1,0 +1,125 @@
+taking the amount of the assets and liabilities to be as stated in the company's accounting records immediately before the financial assistance is given.
+
+(5)
+
+For this purpose a company's liabilities include any amount retained as reasonably necessary for the purposes of providing for any liability-
+
+(a)
+
+the nature of which is clearly defined, and
+
+(b)
+
+which is either likely to be incurred or certain to be incurred but uncertain as to amount or as to the date on which it will arise.
+
+CHAPTER 3
+
+SUPPLEMENTARY PROVISIONS
+
+Arrangement of provisions
+
+768. Realised losses and profits and revaluation of fixed assets
+
+(1)
+
+The following provisions have effect for the purposes of this Part.
+
+(2)
+
+Realised losses include provisions of any kind (except revaluation provisions).
+
+(3)
+
+A “revaluation provision” means a provision in respect of a diminution in value of a fixed asset appearing on a revaluation of all the fixed assets of the company, or of all of its fixed assets other than goodwill.
+
+(4)
+
+For the purpose of subsections (2) and (3) any consideration by the directors of the value at a particular time of a fixed asset is treated as a revaluation provided-
+
+(a)
+
+the directors are satisfied that the aggregate value at that time of the fixed assets of the company that have not actually been revalued is not less than the aggregate amount at which they are then stated in the company's accounts, and
+
+(b)
+
+it is stated in a note to the accounts-
+
+(i)
+
+that the directors have considered the value of some or all of the fixed assets of the company without actually revaluing them,
+
+(ii)
+
+that they are satisfied that the aggregate value of those assets at the time of their consideration was not less than the aggregate amount at which they were then stated in the company's accounts, and
+
+(iii)
+
+that accordingly, by virtue of this subsection, amounts are stated in the accounts on the basis that a revaluation of fixed assets of the company is treated as having taken place at that time.
+
+(5) Where-
+
+(a)
+
+on the revaluation of a fixed asset, an unrealised profit is shown to have been made, and
+
+424
+
+(b)
+
+on or after the revaluation, a sum is written off or retained for depreciation of that asset over a period,
+
+an amount equal to the amount by which that sum exceeds the sum which would have been so written off or retained for the depreciation of that asset over that period, if that profit had not been made, is treated as a realised profit made over that period.
+
+769. Determination of profit or loss in respect of asset where records incomplete
+
+In determining for the purposes of this Part whether a company has made a profit or loss in respect of an asset where-
+
+(a)
+
+there is no record of the original cost of the asset, or
+
+(b)
+
+a record cannot be obtained without unreasonable expense or delay,
+
+its cost is taken to be the value ascribed to it in the earliest available record of its value made on or after its acquisition by the company.
+
+770. Treatment of development costs
+
+(1) Where development costs are shown or included as an asset in a company's accounts, any amount shown or included in respect of those costs is treated for the purposes of section 761 (distributions to be made only out of profits available for the purpose) as a realised loss.
+
+This is subject to the following exceptions.
+
+(2)
+
+Subsection (1) does not apply to any part of that amount representing an unrealised profit made on revaluation of those costs.
+
+(3)
+
+Subsection (1) does not apply if-
+
+(a)
+
+there are special circumstances in the company's case justifying the directors in deciding that the amount there mentioned is not to be treated as required by subsection (1),
+
+(b)
+
+it is stated in any note to the accounts, that the amount is not to be so treated, and
+
+(c)
+
+the note explains the circumstances relied upon to justify the decision of the directors to that effect.
+
+771. Distributions in kind: determination of amount
+
+(1)
+
+This section applies for determining the amount of a distribution consisting of or including, or treated as arising in consequence of, the sale, transfer or other disposition by a company of a non-cash asset where-
+
+(a)
+
+at the time of the distribution the company has profits available for distribution, and
+
+(b)
+
+if the amount of the distribution were to be determined in

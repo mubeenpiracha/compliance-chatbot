@@ -1,0 +1,101 @@
+(f)
+
+issuing Stored Value.
+
+In this Rule:
+
+(a)
+
+“Money Transmission” means the transmission of money or monetary value, without a Payment Account being created in the name of the payer or the payee, where funds are:
+
+(i)
+
+received from a payer for the sole purpose of transferring a corresponding amount to a payee or to another Payment Service Provider acting on behalf of the payee; or
+
+(ii)
+
+received on behalf of, and made available to, the payee.
+
+(b)
+
+“Payment Account” means an account held in the name of one or more Users which to execute Payment Transactions;
+
+is used
+
+(c)
+
+“Payment Instrument” means a:
+
+(i)
+
+personalised device; or
+
+(ii)
+
+personalised set of procedures agreed between the User and the provider,
+
+that is used by the User to initiate a Payment Order;
+
+(d)
+
+“Payment Order” means an instruction by a payer or payee to their respective Payment Service Provider requesting the execution of a Payment Transaction;
+
+(e)
+
+“Payment Service” means an activity referred to in (1)(b),(c),(d) or (e);
+
+(f)
+
+“Payment Service Provider” means a Person providing a Payment Service;
+
+(g)
+
+“Payment Transaction” means an act initiated by the payer or payee, or on behalf of the payer, of placing, transferring or withdrawing funds, irrespective of any underlying obligations between the payer and payee;
+
+(h)
+
+"Stored Value" means (including any magnetically) stored monetary value as represented by a claim on the issuer which is issued on receipt of funds or other assets for the purpose of making Payment Transactions, but does not include monetary value that can be used only to pay for goods or services referred to in Rule 2.6.4.
+
+electronically
+
+13
+
+GEN/VER67/03-25
+
+GENERAL (GEN)
+
+Guidance
+
+1. The following diagram illustrates the different types of Money Services:
+
+Providing Money Services
+
+providing currency exchange *currently not permitted as a standalone service in the DIFC
+
+providing Money Transmission
+
+Payment Services
+
+providing or operating a Payment Account
+
+executing Payment Transactions on a Payment Account provided or operated by another Person
+
+issuing Payment Instruments
+
+Issuing Stored Value
+
+2. A particular service provided by an Authorised Firm may involve only one of the above activities e.g. Money Transmission, or a combination of activities e.g. issuing Stored Value, issuing Payment Instruments and operating a Payment Account.
+
+3. The DFSA does not consider that a Person issuing Stored Value would be providing Money Transmission, merely because Stored Value is used to transfer or withdraw funds. However, an issuer may be involved in other Money Services such as providing or operating a Payment Account by creating, for example, Payment Accounts in the name of one or more of its Users to execute Payment Transactions.
+
+4. The term “Payment Service” is used to describe all or any of the activities in Rule 2.6.1(1) other than providing currency exchange or issuing Stored Value.
+
+5. A Payment Account is an account that is used to execute Payment Transactions. Funds are usually expected to remain in a Payment Account only for a short period. A provider of such an account is prohibited from paying any interest or other return on funds in the account (COB Rule A7.2.16). This is because paying interest or any other return on the account is likely to result in the account being a Deposit or a Profit Sharing Investment Account (PSIA).
+
+6. A “User” means a user of a Money Service and, in relation to a Payment Service, includes a person acting in the capacity of payer, payee or both (see the definition in GLO).
+
+7. The reference in the “Stored Value” definition in Rule 2.6.1(2)(h) to receipt of “other assets” includes, for example, the receipt of digital currencies or any other form of assets that may be accepted by an issuer of stored value. Stored Value does not, however, include a loyalty programme where a person earns points that can be redeemed directly for goods or services of the loyalty programme provider.
+
+8. COB Rule A7.3.3 limits the total amount of Stored Value that may be issued to an individual User at any point in time to $5,000 and the total value of a single Payment Transaction to $1,000.
+
+9. Rule 3A.2.

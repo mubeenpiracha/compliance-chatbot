@@ -1,0 +1,87 @@
+Rated Government agencies are not
+
+A8.8.3 An Insurer must calculate its concentration risk component in respect of a Long-Term Insurance Fund as the sum of the amounts obtained by multiplying each investment exposure of that fund that exceeds 10% of the adjusted segmental capital resources, by the relevant factor percentage set out in the table set out in Rule A4.8.3, reading that table as though all references to Adjusted Capital Resources were references to Adjusted Fund Capital Resources, and subject to Rule A4.8.4
+
+A8.8.4 If the concentration risk component in respect of an investment exposure of a Long-Term Insurance Fund, aggregated with the sum of the default risk component, investment volatility risk component and off-balance sheet asset risk component (so far as concerns that fund), in respect of the assets and off-balance sheet exposures comprising that investment exposure, exceeds 100% of that investment exposure, the concentration risk component in respect of that investment exposure must be reduced so that the total of
+
+118
+
+PIN VER07.290725
+
+the three components in respect of that investment exposure is equal to 100% of that investment exposure.
+
+A8.9 Size factor component
+
+Guidance
+
+The effect of the size factor component is to provide a relatively higher capital requirement in respect of Long-Term Insurance Funds with smaller portfolios of Invested Assets. The provisions in this section apply the relevant provisions of Rule A4.9 to each Long-Term Insurance Fund that an Insurer maintains.
+
+A8.9.1 The base figure for the size factor component is determined by aggregating the following
+
+components, for the Long-Term Insurance Fund:
+
+(a)
+
+the default risk components determined in accordance with Rule A8.4;
+
+(b)
+
+the investment volatility risk component determined in accordance with Rule A8.5; and
+
+(c)
+
+the concentration risk component determined in accordance with Rule A8.8.
+
+A8.9.2 An Insurer must calculate the size factor component in respect of Long-Term Insurance Fund by multiplying the base figure for that fund as determined in accordance with Rule A8.9.1 by the factor derived by applying the following formula, where x represents the total Invested Assets attributable to that fund, expressed in millions of dollars:
+
+(a)
+
+if x ≤ 100, the factor is 1.5;
+
+(b)
+
+if 100 < x ≤ 200, the factor is (150 + 0.5(x-100))/x;
+
+(c)
+
+if 200 < x ≤ 1,200, the factor is (200 – 0.2(x-200))/x; and
+
+(d)
+
+if x > 1,200, the factor is zero.
+
+A8.10 Long-Term Insurance risk component
+
+Guidance
+
+The purpose of the Long-Term Insurance risk component is to require an Insurer to set aside capital to address the risk that the net present value of future Policy Benefits will vary from the amounts recorded as Long-Term Insurance Liabilities in the Insurer's balance sheet. The provisions in this section apply the relevant provisions of Rule A4.12 to each Long-Term Insurance Fund that an Insurer maintains.
+
+A8.10.1 An Insurer must calculate the Long-Term Insurance risk component in respect of a Long-Term Insurance Fund according to the method set out in Rule A4.12, applied as though all references in that Rule to an Insurer were instead references to that fund.
+
+119
+
+PIN VER07.290725
+
+A8.11 Asset management risk component
+
+Guidance
+
+This section requires an Insurer to set aside capital in respect of assets that it manages. The provisions in this section apply the relevant provisions of Rule A4.13 to each Long-Term Insurance Fund that an Insurer maintains.
+
+A8.11.1 An Insurer must calculate the asset management risk component in respect of a Long-Term Insurance Fund according to the method set out in Rule A4.13, applied as though all references in that Rule to an Insurer were instead references to that fund.
+
+120
+
+PIN VER07.290725
+
+APP9 CALCULATION OF ADGM BUSINESS RISK CAPITAL REQUIREMENT
+
+A9.1 Purpose and general provisions
+
+A9.1.1 This appendix applies to all Insurers to which Rule 4.6 applies.
+
+Guidance
+
+1.
+
+This appendix sets out the manner in which an

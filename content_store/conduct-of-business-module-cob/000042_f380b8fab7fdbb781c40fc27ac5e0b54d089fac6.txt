@@ -1,0 +1,127 @@
+ Authorised Firm, and may be used by the Authorised Firm in the course of the Authorised Firm’s business; and
+
+(c)
+
+in the event of insolvency, winding up or other Distribution Event stipulated by the DFSA:
+
+(i)
+
+in the case of a Domestic Firm, such Client Money will be subject to and distributed in accordance with the DFSA Client Money Distribution Rules; and
+
+(ii)
+
+in the case of a non-Domestic Firm, such Client Money will be subject to a regime which may differ from the regime applicable in the DIFC.
+
+(2)
+
+The Authorised Firm must obtain that Market Counterparty’s written acknowledgement of the disclosures made in (1) prior to holding or controlling Client Money for that Market Counterparty.
+
+Distribution event
+
+6.12.4 Following a Distribution Event, an Authorised Firm must comply with the Client Money Distribution Rules and all Client Money will be subject to such Rules.
+
+Record keeping
+
+6.12.5
+
+(1)
+
+An Authorised Firm must maintain records:
+
+(a)
+
+which enable the Authorised Firm to demonstrate compliance with Rule 6.11.2;
+
+(b)
+
+which enable the Authorised Firm to demonstrate and explain all entries of Money held or controlled in accordance with this chapter; and
+
+(c)
+
+of all cheques received and forwarded in accordance with Rule 6.12.1(e).
+
+(2)
+
+Records must be kept for a minimum of six years.
+
+Guidance
+
+The DFSA expects an Authorised Firm to maintain proper books and accounts based on the double- entry booking principle. They should be legible, up to date and contain narratives with the entries which identify and provide adequate information about each transaction. Entries should be made in chronological order and the current balance should be shown on each of the Authorised Firm’s ledgers.
+
+59
+
+COB/VER48/03-25
+
+CONDUCT OF BUSINESS (COB)
+
+6.13 Client investments and Client Crypto Tokens
+
+6.13.1 An Authorised Firm must treat all Investments held or controlled on behalf of a Client in the course of, or in connection with, the carrying on of Investment Business as Client Investments.
+
+6.13.1A An Authorised Firm must treat all Crypto Tokens held or controlled on behalf of a Client in the course of, or in connection with, carrying on Crypto Business as Client Crypto Tokens.
+
+6.13.2 An Authorised Firm which holds or controls Client Investments or Client Crypto Tokens must have systems and controls in place to ensure the proper safeguarding of Client Investments or Client Crypto Tokens.
+
+Guidance
+
+Instead of safeguarding Client Investments or Client Crypto Tokens, an Authorised Firm may choose to safeguard Client Money equal to the value of the Client Investments or Client Crypto Tokens.
+
+6.13.3
+
+(1)
+
+Subject to (2), an Authorised Firm:
+
+(a)
+
+holding or controlling Client Investments or Client Crypto Tokens; or
+
+(b)
+
+Providing Custody,
+
+in or from the DIFC must do so in accordance with the Safe Custody Provisions in App6.
+
+(2)
+
+The Safe Custody Provisions in App6 do not apply to Client Investments or Client Crypto Tokens held as Collateral unless stated otherwise.
+
+Guidance
+
+An Authorised Firm Arranging Custody must comply with the requirements specified in Rule 6.11.2(3).
+
+Holding collateral
+
+6.13.4 Before an Authorised Firm holds Collateral from a Client it must disclose to that
+
+Client:
+
+(a)
+
+the basis and any terms governing the way in which the Collateral will be held, including any rights which the Authorised Firm may have to realise the Collateral;
+
+(b)
+
+if applicable, that the Collateral will not be registered in that Client’s own name;
+
+(c)
+
+if applicable, that the Authorised Firm proposes to return to the Client Collateral other than the original Collateral, or original type of Collateral; and
+
+60
+
+COB/VER48/03-25
+
+CONDUCT OF BUSINESS (COB)
+
+(d)
+
+that in the event of the insolvency, winding up or other Distribution Event stipulated by the DFSA:
+
+(i)
+
+of a Domestic Firm, any excess Collateral will be sold and the resulting Client Money shall be distributed in accordance with the DFSA Client Money Distribution Rules; or
+
+(ii)
+
+of a non-Domestic Firm, that Collateral will be subject to a regime which may differ from the regime applicable in

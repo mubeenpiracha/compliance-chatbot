@@ -1,0 +1,96 @@
+ance
+
+In considering what constitutes a non-performing exposure under this Rule or elsewhere under this section, the relevant classifications in PIB section 4.5 are likely to be useful to classify, manage and report problem debt.
+
+Risk warnings in marketing materials
+
+13.12.13 A Fund Manager must take reasonable steps to ensure that marketing material
+
+relating to a Credit Fund includes a prominent risk warning setting out:
+
+(a)
+
+the particular risks that arise from Providing Credit or acquiring loans;
+
+(b)
+
+that return of capital in an investment in the Fund is not guaranteed; and
+
+(c)
+
+that it is possible that investors in Units of the Fund may suffer investment losses or that the Units may become illiquid.
+
+13.13 Funds investing in Crypto Tokens
+
+Restrictions on use of certain terms
+
+13.13.1 A Fund Manager of a Fund must ensure that its offer document or marketing material does not refer to it as a “Crypto Token Fund” or “Crypto Fund”, or otherwise hold it out as being a Fund which has as its main purpose investing in Crypto Tokens, unless the Fund meets the criterion in Rule 3.1.16.
+
+122
+
+CIR/VER38/08-24
+
+COLLECTIVE INVESTMENT RULES (CIR)
+
+Use of benchmarks for valuations
+
+13.13.2 A Fund Manager of a Fund that has any Fund Property that consists of Crypto Tokens must ensure that it does not use an index or benchmark provided by a Price Information Provider to value the Crypto Tokens unless the Price Information Provider meets the requirements in App 9.
+
+Guidance
+
+1.
+
+A Fund in the DIFC is, except as specified in GEN Rule 3A.2.1(3), only permitted to invest in a Recognised Crypto Token i.e. a Crypto Token that the DFSA has recognised under GEN section 3A.
+
+2.
+
+A “Price Information Provider” is a price reporting agency or an index or benchmark provider which constructs, compiles, assesses or reports, on a regular and systematic basis, prices of Investments, Crypto Tokens, rates, indices, commodities or figures, which are made available to users, including a Fund Manager – see the definition in Rule 13.9.4.
+
+3.
+
+The requirement in Rule 13.13.2 applies to a Fund that has any Fund Property that consists of Crypto Tokens. That is, it does not apply only to a Fund which has investing in Crypto Tokens as its main purpose (i.e. a Crypto Token Fund).
+
+123
+
+CIR/VER38/08-24
+
+COLLECTIVE INVESTMENT RULES (CIR)
+
+PART 7: MARKETING OF DOMESTIC AND FOREIGN FUNDS
+
+Guidance
+
+1.
+
+Part 7 of the Law sets out the overarching provisions that apply to the Offer (also called marketing) of Units of both Domestic and Foreign Funds; and in the case of the latter, where Units of such Funds are marketed in or from the DIFC.
+
+2.
+
+Article 50 of the Law contains the Marketing Prohibition. Under this prohibition, no Person is permitted to Offer a Unit of a Fund to prospective or existing Unitholders unless:
+
+a.
+
+a Prospectus that complies with the relevant requirements in the Law and the Rules is made available to the person to whom the Offer is made;
+
+b.
+
+the Person making the Offer of the Unit is either the Fund Manager of the Fund or an Authorised Firm whose licence authorises it to do so; and
+
+c.
+
+the Offer is made in accordance with the applicable requirements in the Law or the Rules.
+
+3.
+
+Article 19 of the Law defines the activities that constitute an Offer. Under this Article, a Person is to be regarded as making an Offer of a Unit if he:
+
+a. makes an offer to another Person which, if accepted, would give rise to a contract for the issue or sale of Units by him or by another Person with whom he has made arrangements for the issue or sale of the Units; or
+
+b.
+
+invites another Person to make an offer which, if accepted by him, would give rise to a contract for the issue or sale of Units by him or by another Person with whom he has made arrangements for the issue or sale of the Units,
+
+whether or not the offer or invitation referred to in Article 19(2)(a) or (b) is made by way of a financial promotion of the Units..
+
+4.
+

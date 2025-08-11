@@ -1,0 +1,135 @@
+....................................... 98 11.4 Decision-making ......................................................................................................... 98 11.5 Costs and Publicity ..................................................................................................... 98 11.6
+
+Confidential
+
+4
+
+GPM VER06.020125
+
+1.
+
+INTRODUCTION
+
+1.1
+
+General
+
+This document is called the Guidance and Policies Manual (“GPM”). The GPM is for information purposes only and explains how we may regulate and supervise financial services firms and markets that operate in ADGM. The GPM has purposely been written in plain English. The GPM contains guidance on:
+
+(a)
+
+our regulatory policies;
+
+(b)
+
+our risk-based approach to authorisation, supervision and enforcement; and
+
+(c) what we consider and take into account when exercising our powers.
+
+The GPM is meant to assist persons operating or intending to operate financial services or a market in ADGM and should be read in conjunction with FSMR and the associated Rulebooks.
+
+The GPM is not meant to be all of our guidance and policies on how we will operate and exercise our powers and we are not bound to follow it on all occasions. It is merely an informative document, which sets how we may act when exercising our powers.
+
+1.2
+
+Defined terms
+
+Where we have used a defined term in the GPM, these are identified by the capitalisation of the word or a phrase capitalised. You can find the meanings of these defined terms in the GLO Rulebook. There are also defined terms in FSMR. If there is no capitalisation of the initial letter, the word or phrase has its normal everyday meaning.
+
+When we refer to ‘legislation’ in GPM, unless the context requires otherwise, we mean laws, regulations and rules or equivalent legislative and regulatory instruments. References to a ‘person’ can mean a natural or legal person or both, depending on the context.
+
+1.3
+
+Updating the GPM
+
+We will make amendments to the GPM when we make changes in our policies or
+
+processes to ensure it remains current.
+
+1.4
+
+Our mandate
+
+We are committed to fostering, promoting and maintaining a fair, efficient and responsive
+
+regulatory environment for our market participants and stakeholders.
+
+Confidential
+
+5
+
+GPM VER06.020125
+
+2.
+
+BECOMING REGULATED
+
+2.1
+
+Our approach to authorisation
+
+Introduction
+
+This Chapter outlines our approach when assessing if an applicant or registrant can
+
+become:
+
+(a)
+
+an Authorised Person;
+
+(b)
+
+a Recognised Body;
+
+(c)
+
+a Representative Office;
+
+(d)
+
+an Approved Person; or
+
+(e)
+
+a Principal Representative.
+
+Before submitting an application, an applicant or registrant should contact our
+
+Authorisation Function at authorisation@adgm.com.
+
+General Prohibition and by way of business
+
+FSMR imposes a prohibition on all persons who carry on an activity regulated by us in ADGM "by way of business" unless the person is an Authorised Person or an Exempt Person.
+
+Whether or not an activity is carried on by way of business is a question of fact that takes
+
+account several factors, including:
+
+(a)
+
+how often the activity is conducted;
+
+(b) whether there is a commercial element involved;
+
+(c)
+
+the size and proportion of non-regulated activities carried on by the same person; and
+
+(d)
+
+the nature, context and circumstances of the activity that is carried on.
+
+Whether someone is carrying on their own business
+
+Another aspect of the prohibition is that an employee will not breach the prohibition by carrying on an activity on behalf of their employer, as in such cases it is the employer who is carrying on that activity. The employee is simply carrying on the employer's business. This principle potentially also applies to agents and others who assist another to carry on that other’s business. However, a person may be ‘Knowingly Concerned’ in a breach by another (see section 6.2.5).
+
+Confidential
+
+6
+
+GPM VER06.020125
+
+The need for a Financial Service Permission or Recognition Order
+
+Schedule 1 to FSMR contains a complete list of Regulated Activities. When determining whether an applicant will require a Financial Services Permission to engage in a specific Regulated Activity, the applicant should first, determine that such Regulated Activity will be carried on in or from the ADGM ‘by way of business’ as described in paragraph 2.1.4. If they are then the applicant will need to consider whether any of the

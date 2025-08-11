@@ -1,0 +1,157 @@
+ were to make a distribution of that character would be available for that purpose (see section 772 (distributions in kind: treatment of unrealised profits)), and
+
+“distribution” has the same meaning as in Part 22 (distributions) (see section 760 (meaning of “distribution”)).
+
+(2)
+
+In this Chapter-
+
+(a)
+
+a reference to a person incurring a liability includes his changing his financial position by making an agreement or arrangement (whether enforceable or unenforceable, and whether made on his own account or with any other person) or by any other means, and
+
+(b)
+
+a reference to a company giving financial assistance for the purposes of reducing or discharging a liability incurred by a person for the purpose of the acquisition of shares includes its giving such assistance for the purpose of
+
+358
+
+wholly or partly restoring his financial position to what it was before the acquisition took place.
+
+Chapter 3
+
+REDEEMABLE SHARES
+
+623. Power of limited company to issue redeemable shares
+
+(1)
+
+A limited company having a share capital may issue shares that are to be redeemed or are liable to be redeemed at the option of the company or the shareholder (“redeemable shares”), subject to the following provisions.
+
+(2)
+
+The articles of a private limited company may exclude or restrict the issue of redeemable shares.
+
+(3)
+
+A public limited company may only issue redeemable shares if it is authorised to do so by its articles.
+
+(4)
+
+No redeemable shares may be issued at a time when there are no issued shares of the company that are not redeemable.
+
+624. Terms and manner of redemption
+
+(1)
+
+The directors of a limited company may determine the terms, conditions and manner of redemption of shares if they are authorised to do so-
+
+(a)
+
+by the company’s articles, or
+
+(b)
+
+by a resolution of the company.
+
+(2)
+
+A resolution under subsection 624(1)(b) may be an ordinary resolution, even though it amends the company’s articles.
+
+(3) Where the directors are authorised under subsection (1) to determine the terms,
+
+conditions and manner of redemption of shares-
+
+(a)
+
+they must do so before the shares are allotted, and
+
+(b)
+
+any obligation of the company to state in a statement of capital the rights attached to the shares extends to the terms, conditions and manner of redemption.
+
+(4) Where the directors are not so authorised, the terms, conditions and manner of redemption of any redeemable shares must be stated in the company’s articles.
+
+625. Payment for redeemable shares
+
+(1)
+
+Redeemable shares in a limited company may not be redeemed unless they are fully paid.
+
+(2)
+
+The terms of redemption of shares in a limited company may provide that the amount payable on redemption may, by agreement between the company and the holder of the shares, be paid on a date later than the redemption date.
+
+359
+
+(3)
+
+Unless redeemed in accordance with a provision authorised by subsection (2), the shares must be paid for on redemption.
+
+626. Financing of redemption
+
+(1)
+
+A private limited company may redeem redeemable shares out of capital in accordance with Chapter 5.
+
+(2)
+
+Subject to that, redeemable shares in a limited company may only be redeemed out of-
+
+(a)
+
+distributable profits of the company, or
+
+(b)
+
+the proceeds of a fresh issue of shares made for the purposes of the redemption.
+
+(3)
+
+This section is subject to section 676(4) (terms of redemption enforceable in a winding up).
+
+627. Redeemed shares treated as cancelled
+
+Where shares in a limited company are redeemed-
+
+(a)
+
+the shares are treated as cancelled, and
+
+(b)
+
+the amount of the company’s issued share capital is diminished accordingly by the issue price of the shares redeemed.
+
+628. Notice to Registrar of redemption
+
+(1)
+
+If a limited company redeems any redeemable shares it must within one month after doing so give notice to the Registrar, specifying the shares redeemed.
+
+(2)
+
+The notice must be accompanied by a statement of capital.
+
+(3)
+
+The statement of capital must state with respect to the company’s share capital immediately following the redemption-
+
+(a)
+
+the total number of shares of the company,
+
+(b)
+
+the aggregate issue price of those shares,
+
+(c)
+
+for each class of shares-
+
+(i)
+
+prescribed particulars of the rights attached to the shares,
+
+(ii)
+
+the total number of shares of

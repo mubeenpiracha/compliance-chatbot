@@ -1,0 +1,75 @@
+-linearity of products, deep out-of-the-money positions, positions subject to the gapping of prices and other risks that may not be captured appropriately in the internal models. The shocks applied should reflect the nature of the portfolios and the time it could take to hedge out or manage risks under severe market conditions; and
+
+h.
+
+the Authorised Person should conduct, as part of its regular internal auditing process, an independent review of its internal models, and including the ones used for purposes of Chapter 5.
+
+The review referred to in h. of Guidance note 1 above, should include the activities both of the business trading units and of the independent risk-control unit. At least once a year, the Authorised Person should conduct a review of its overall risk management process. The review should consider the following:
+
+a.
+
+the adequacy of the documentation of the risk-management system and process and the organisation of the risk-control unit;
+
+b.
+
+the integration of risk measures into daily risk management and the integrity of the management information system;
+
+c.
+
+the process the Authorised Person employs for approving risk-pricing models and valuation systems that are used by front and back-office personnel;
+
+d.
+
+the scope of risks captured by the risk-measurement model and the validation of any significant changes in the risk-measurement process;
+
+e.
+
+the accuracy and completeness of position data, the accuracy and appropriateness of volatility and correlation assumptions, and the accuracy of valuation and risk sensitivity calculations;
+
+f.
+
+the verification process the Authorised Person employs to evaluate the consistency, timeliness and reliability of data sources used to run internal models, including the independence of such data sources; and
+
+g.
+
+the verification process the Authorised Person uses to evaluate back-testing that is conducted to assess the models' accuracy.
+
+374
+
+PRU VER17.290725
+
+3.
+
+As techniques and best practices evolve, Authorised Persons should apply those new techniques and practices in any internal model used for purposes of Chapter 5.
+
+Specification of Market Risk factors
+
+4.
+
+Any internal model used to calculate Capital Requirements for equity position risk, interest rate risk, foreign exchange risk, commodities risk and any internal model for correlation trading should meet all of the following requirements:
+
+a.
+
+the model must capture accurately reflect, on a continuous basis, all material price risks, including General Market Risks and, where approval has been granted in relation to Specific Risk, Specific Risks arising on the underlying portfolio, and should ensure that sufficient risk factors are properly specified; and
+
+b.
+
+the model should capture a sufficient number of risk factors, depending on the level of activity of the Authorised Person in the respective markets. The risk factors in the model should be sufficient to capture the risks inherent in the Authorised Person's portfolio of on and off-balance sheet trading positions. The Authorised Person should at least incorporate those risk factors in its model that are incorporated into its pricing model. The risk-measurement model should capture nonlinearities for Options and other products as well as correlation risk and basis risk. Where proxies for risk factors are used they should show a good track record for the actual position held. Although an Authorised Person will have some discretion in specifying the risk factors for its internal models, the Regulator expects that such models will meet the criteria specified in the following paragraphs.
+
+5.
+
+Any internal model used to calculate Capital Requirements for position risk, foreign exchange risk or commodities risk should meet all of the following requirements:
+
+a.
+
+the model should incorporate a set of risk factors corresponding to the interest rates in each currency in which the Authorised Person has interest rate sensitive on or off balance sheet positions. The Authorised Person should model the yield curves using one of a number of generally accepted approaches, for example, by estimating forward rates of zero-coupon yields. For material Exposures to interest-rate risk in the major currencies and markets, the yield curve should be divided into a minimum of six maturity segments, to capture the variations of volatility of rates along the yield curve. The model should also capture the risk of less than perfectly correlated movements between different yield curves. The risk measurement system should incorporate separate risk factors to capture spread risk, for example, between bonds and swaps;
+
+375
+
+PRU VER17.290725
+
+6.
+
+b.
+
+the model should incorporate risk factors corresponding to gold and to the individual foreign currencies in which the Authorised Person's positions are denominated. For Collective Investment Funds the actual foreign exchange positions of the Fund should be taken into account. Author

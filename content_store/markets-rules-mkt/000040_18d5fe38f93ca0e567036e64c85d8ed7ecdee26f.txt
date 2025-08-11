@@ -1,0 +1,99 @@
+ of the Securities to which the Prospectus relates to any particular investor or type of investor. If you do not understand the contents of this Prospectus or are unsure whether the Securities to which the Prospectus relates are suitable for your individual investment objectives and circumstances, you should consult an authorised financial advisor.”
+
+Guidance
+
+A “Public Fund” in Rule 6.3.1(4) has the meaning given in FPR Rule 1.3.1.
+
+Approval of a prospectus
+
+(1)
+
+The DFSA will approve a Fund Prospectus which has been filed with the DFSA in accordance with Rule 6.3.1 as soon as reasonably practicable where it is satisfied that the Prospectus complies with all the requirements applicable to that Prospectus.
+
+(2)
+
+A Fund Prospectus is not an Approved Prospectus for the purposes of Article 14(2) of the Law unless the DFSA has issued to the applicant a notice stating its approval:
+
+(a)
+
+of the Prospectus or Supplementary Prospectus, as the case may be; and
+
+(b)
+
+in the case of a, Prospectus in (a) comprising multiple documents, of all the multiple documents.
+
+(3)
+
+The procedures in Schedule 3 to the Regulatory Law apply to a decision of the DFSA under this Rule not to approve a Fund Prospectus.
+
+(4)
+
+If the DFSA decides to exercise its power not to approve a Fund Prospectus under this Rule, the applicant may refer the matter to the FMT for review.
+
+Guidance
+
+1.
+
+A Person intending to apply to the DFSA for approval of a Fund Prospectus pursuant to Rule 6.3.1 should consider submitting a draft Prospectus for preliminary review by the DFSA prior
+
+62
+
+MKT/VER24/03-25
+
+MARKETS RULES (MKT)
+
+to formally submitting the Prospectus for DFSA approval. See the RPP Sourcebook for procedures for applying for DFSA approval.
+
+2.
+
+The approval of a Fund Prospectus by the DFSA will not prevent the use by the DFSA of its powers, such as the stop order power in Article 25 of the Law, in circumstances where the need for such action is subsequently identified. For example, if the DFSA becomes aware, after the approval of the Fund Prospectus, that it contains any misleading or deceptive information, or it breaches the Prospectus provisions in other respects, the DFSA may use its stop order power or take any other action as appropriate in the circumstances.
+
+6.3.3
+
+(1)
+
+For the purposes of Rule 6.3.1(b)(ii), the offer document relating to the Foreign Fund must comply with the requirements:
+
+(a)
+
+relating to a Designated Fund in a Recognised Jurisdiction; or
+
+(b)
+
+in a jurisdiction which provides a level of regulation relating to the offer which is acceptable to the DFSA.
+
+(2)
+
+The DFSA may accept an offer document referred to in (1)(b) subject to such conditions or restrictions imposed by the DFSA as it sees fit.
+
+(3) Where an offer document referred to in (1) relates to a Security Token it must also contain additional information equivalent to that specified in App 7.
+
+(4) Where the offer document referred to in (1) is not in the English language, it must be accompanied by an English translation acceptable to the DFSA.
+
+(5)
+
+The procedures in Schedule 3 to the Regulatory Law apply to a decision of the DFSA under this Rule to impose conditions or restrictions.
+
+(6)
+
+If the DFSA decides to exercise its power under this Rule to impose conditions or restrictions, the applicant may refer the matter to the FMT for review.
+
+Publication of a prospectus
+
+6.3.4 A Fund Prospectus approved by the DFSA pursuant to Rule 6.3.1 must:
+
+(a)
+
+be filed with the Authorised Market Institution on which the Units are to be admitted to trading as soon as possible after the DFSA has granted its approval; and
+
+(b)
+
+be published in accordance with the requirements in section 6.10.
+
+Exempt offers in respect of units
+
+6.3.5 The prohibition in Article 14(1)(b) of the Law does not apply, subject to the requirement in Rules 6.3.6, to the admission to trading on an Authorised Market Institution of:
+
+(a)
+
+Units representing, over

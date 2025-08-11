@@ -1,0 +1,81 @@
+15 (1)
+
+An Authorised Firm must determine the maturity of the underlying Exposure and the maturity of the Credit Risk mitigant conservatively. The residual maturity of the underlying Exposure must be gauged as the longest possible remaining time before the Counterparty is scheduled to fulfil its obligation, taking into account any applicable grace period.
+
+(2)
+
+In the case of Credit Risk mitigant, embedded options which may reduce the term of the credit protection must be taken into account so that the shortest possible residual maturity is used. Where a call is at the discretion of the protection seller, the residual maturity will be at the first call date. If the call is at the discretion of the Authorised Firm but the terms of the arrangement at origination of the Credit Derivative contain a positive incentive for the Authorised Firm to call the transaction before contractual maturity, the remaining time to the first call date will be deemed to be the residual maturity.
+
+4.13.16 (1)
+
+An Authorised Firm must calculate the value of the Credit Risk mitigation adjusted for any maturity mismatch, 𝑃𝑎, using the following formula:
+
+𝑃𝑎 = 𝑃 ∙
+
+𝑡 − 0.25 𝑇 − 0.25
+
+140
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+where
+
+P = value of the credit protection (e.g. Collateral amount, guarantee
+
+amount) adjusted for any haircuts
+
+t = min {T, residual maturity of the Credit Risk mitigant expressed in years}
+
+T = min {five years, residual maturity of the Exposure expressed in years}
+
+(2)
+
+For residual maturity of the Exposure in the case of a basket of Exposures with different maturities, an Authorised Firm must use the longest maturity of any of the Exposures as the maturity of all the Exposures being hedged.
+
+Guidance
+
+The positive incentive for an Authorised Firm to call the transaction before contractual maturity as referred in Rule 4.13.15 would be, for example, a situation wherein there is a step-up in cost in conjunction with a call feature or where the effective cost of cover remains the same even if credit quality remains the same or increases.
+
+On-balance sheet Netting
+
+4.13.17 (1)
+
+An Authorised Firm may recognise as eligible the Netting of an on-balance sheet Exposure against an offsetting on-balance sheet item if the related Netting agreement meets the condition in Rule 4.13.19.
+
+(2)
+
+Eligibility for Netting is limited to reciprocal cash balances between the Authorised Firm and its Counterparty. Only loans and deposits of the Authorised Firm may be subject to a modification of their Credit RWAs as a result of an on-balance sheet Netting agreement.
+
+4.13.18 (1)
+
+Assets (loans) and liabilities (deposits) subject to recognised on-balance sheet Netting are to be treated as cash Collateral using the formula in A4.3.6, under which an Authorised Firm may use zero haircuts for Exposure and Collateral.
+
+(2)
+
+When a currency mismatch exists, an Authorised Firm must apply the standard supervisory haircut of 8% for currency mismatch.
+
+(3)
+
+When a maturity mismatch exists between the off-setting items, an Authorised Firm must apply the Rules 4.13.14 to 4.13.16 to address the maturity mismatch.
+
+(4)
+
+Net credit Exposure, after taking into account recognised Netting, will be subject to the applicable CRW for the Counterparty.
+
+4.13.19 For an Authorised Firm to recognise an on-balance sheet Netting agreement for the purposes of Rule 4.13.17, all of the following conditions must be satisfied:
+
+(1)
+
+(a) both the on-balance sheet Exposure (asset) and the offsetting on- balance sheet item (liability) are owing between the Authorised Firm and the same Counterparty;
+
+141
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+(b)
+
+the Authorised Firm nets the on-balance sheet Exposure (asset) and the offsetting on-balance sheet item (liability) in

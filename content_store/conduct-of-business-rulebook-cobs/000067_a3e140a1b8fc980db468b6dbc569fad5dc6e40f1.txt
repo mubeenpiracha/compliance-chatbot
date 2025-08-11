@@ -1,0 +1,111 @@
+ VER19.290725
+
+16.2.14 An Authorised Person may hold in electronic form any document in its Resolution Pack provided that it continues to be able to comply with Rule 16.2.6 in respect of that document.
+
+16.2.15 An Authorised Person must notify the Regulator in writing immediately if it has not
+
+complied with or is unable to comply with Rule 16.2.1.
+
+16.3 Core Content Requirements
+
+16.3.1 An Authorised Person must include within its Resolution Pack:
+
+(a)
+
+a master document containing information sufficient to retrieve each document in the Authorised Person's Resolution Pack;
+
+(b)
+
+a document which identifies the institutions the Authorised Person has appointed:
+
+(i)
+
+in the case of Client Money or Relevant Money, to hold and maintain Client Accounts or Payment Accounts, respectively; and
+
+(ii)
+
+in the case of Safe Custody Assets, for the deposit of those assets in accordance with Rule 15.5.1;
+
+(c)
+
+a document which identifies each tied agent, field representative or other agent of the Authorised Person which receives Client Money, Relevant Money or Safe Custody Assets in its capacity as the Authorised Person's agent in accordance with Rule 15.5.1 and Rule 15.6;
+
+(d)
+
+a document which identifies all senior manager, directors and other individuals, and the nature of their responsibility within the Authorised Person or elsewhere, that are critical or important to the performance of operational functions related to any of the obligations imposed on the Authorised Person by this chapter;
+
+(e)
+
+for each institution identified in Rule 16.3.1 (b) a copy of each executed agreement, including any side letters or other agreements used to clarify or modify the terms of the executed agreement, between that institution and the Authorised Person that relates to the holding of Client Money, Relevant Money or Safe Custody Assets;
+
+(f)
+
+a document which:
+
+(i)
+
+identifies each member of the Authorised Person's Group involved in operational functions related to any obligations imposed on the Authorised Person under this chapter, including, in the case of a member that is a nominee company, identification as such; and
+
+(ii)
+
+identifies each third party which the Authorised Person uses for the performance of operational functions related to any of the obligations imposed on the Authorised Person by this chapter;
+
+108
+
+COBS VER19.290725
+
+(g)
+
+for each Group member identified in Rule 16.3.1(b), the type of entity (such as branch, subsidiary and/or nominee company) the Group member is, its jurisdiction of incorporation if applicable, and a description of its related operational functions;
+
+(h)
+
+a copy of each executed agreement, including any side letters or other agreements used to clarify or modify the terms of the executed agreement, between the Authorised Person and each third party identified in Rule 16.3.1(b);
+
+(i)
+
+where the Authorised Person relies on a third party identified in Rule 16.3.1(c), a document which describes how to:
+
+(i)
+
+gain access to relevant information held by that third party; and
+
+(ii)
+
+effect a transfer of any of the Client Money, Relevant Money or Safe Custody Assets held by the Authorised Person, but controlled by that third party; and
+
+(j)
+
+a copy of the Authorised Person's manual which records its procedures for the management, recording and transfer of the Client Money, Relevant Money or Safe Custody Assets that it holds.
+
+Guidance
+
+For the purpose of Rule 16.3.1(d), examples of individuals within the Authorised Person or elsewhere who are critical or important to the performance of operational function include:
+
+(a)
+
+those necessary to carry out both internal and external Client Money, Relevant Money and Safe Custody Asset reconciliations; and
+
+(b)
+
+those in charge of client documentation involving Client Money, Relevant Money and Safe Custody Assets.
+
+16.3.2 For the purpose of Rule 16.3.1(b) the document must record:
+
+(a)
+
+the full name of the individual institution in question;
+
+(b)
+
+the postal, physical and email addresses and telephone number of that institution; and
+
+(c)
+
+the numbers and names of all accounts opened by that Authorised Person with that institution.
+
+16.3.3 [Deleted]
+
+16.4 Existing records to be included in the Resolution Pack
+
+16.4.1 The following records must be included in the Resolution Pack of

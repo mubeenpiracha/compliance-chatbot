@@ -1,0 +1,67 @@
+ Party Lifecycle Management: A financial institution should closely monitor and review its third parties’ performance and risk posture.
+
+Desired Outcome 3.3 – Supply Chain Resilience: A financial institution should actively monitor and mitigate risks arising from its third parties’ supply chain.
+
+Desired Outcome 3.1 – Third Party Risk Governance
+
+3.1.1
+
+For the purposes of this chapter, a third party is any entity that provides or consumes technology services or products to or from the financial institution.
+
+3.1.2
+
+A financial institution may engage third parties for various purposes including for reasons such as cost efficiency or to leverage on an established expertise. As risk events impacting third parties can in turn impact financial institutions, these relationships need to be managed and associated risks mitigated effectively.
+
+3.1.3
+
+Regardless of how the financial institution assigns liability to its third parties through contractual arrangements, the financial institution is ultimately accountable to its customers and stakeholders for any risk events that impact them. A financial institution cannot absolve itself of its responsibility for managing risks arising from third party arrangements.
+
+Oversight and Accountability
+
+3.1.4
+
+As the Governing Body is ultimately responsible for the financial institution’s activities, a financial institution should include third party risk management as part of its risk management framework, with adequate reporting by senior management to the Governing Body.
+
+3.1.5
+
+A financial institution should establish a third-party management framework that governs management of third parties throughout their lifecycle. A forum with appropriate management representatives should be established for decision making pertaining to third party arrangements and changes to the third-party management framework. Each third-party arrangement should be overseen by a competent individual or function within the financial institution to facilitate monitoring of the third party’s performance.
+
+3.1.6
+
+For financial institutions that rely on intra-group or related entities for products or services, the financial institution should establish processes that enable it to have effective oversight and the ability to influence the products or services provided to it by
+
+23
+
+VER01.201124
+
+the intra-group entities. The financial institution should establish formal agreements with the intra-group or related entities to clearly demarcate between dedicated and shared resources. The financial institution should be able to manage third party risks specific to itself as it is still responsible for its operations and services to its customers. The financial institution should also ensure that the intra-group or related entities comply with its regulatory obligations.
+
+3.1.7
+
+A financial institution’s third-party management framework should include key performance indicators with thresholds that senior management use to track and monitor the performance and risk posture of all its third-party arrangements. Such indicators should be meaningful for decision making and should not be limited to financial metrics.
+
+3.1.8
+
+A financial institution should maintain a register of all third-party arrangements that is readily accessible for review by the Governing Body and senior management. The register should be updated on a timely basis and reviewed regularly to ensure information on the third parties are up to date.
+
+3.1.9
+
+A financial institution should also consider concentration risk when determining the suitability of a third party. While there are benefits to engaging third parties that service a large number of financial institutions and unavoidable in some scenarios (e.g., utilities, telecommunications, financial transaction messaging, etc.), financial institutions should be cognisant of the potential risks arising from being party to third party arrangements that exhibit high concentration risk. The following are some ways in which third party concentration risk can manifest and have a significant impact should a risk event result in a disruption to the concentrated product or service.
+
+3.1.9.a
+
+A financial institution relying on a single third party for multiple products or services (e.g., online workspace application service providers).
+
+3.1.9.b
+
+A financial institution that has multiple third parties relying on a single fourth party (e.g., web hosting service providers).
+
+3.1.9.c Multiple financial institutions relying on a single or few third parties for products or services (e.g., computer hardware, web services, etc.).
+
+Materiality
+
+3.1.10 A financial institution’s third-party management framework should include procedures
+
+for assessing the materiality8 of a third-party arrangement.
+
+8 The definition of materiality follows the Guidance following GEN Rule 3.3.32 for outsourcing arrangements. As additional guidance and for arrangements not considered outsourcing, a third-party arrangement is material when a financial institution assesses that a potential risk event occurring at the third-party results

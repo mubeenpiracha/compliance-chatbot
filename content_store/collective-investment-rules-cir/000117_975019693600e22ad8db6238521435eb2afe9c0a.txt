@@ -1,0 +1,121 @@
+2
+
+Instead of the statement referred to in 1.3 under ‘Mandatory disclosure for all Public Funds’, a statement as follows:
+
+“The DFSA does not accept responsibility for the content of the information included in the Prospectus, including the accuracy or completeness of such information. The liability for the content of the Prospectus lies with the Issuer of the Prospectus and other Persons, such as experts, whose opinions are included in the Prospectus with their consent. The DFSA has also not assessed the suitability of the Securities to which the Prospectus relates to any particular investor or type of investor and has not determined whether they are Shari’a compliant. If you do not understand the contents of this Prospectus or are unsure whether the Securities to which the Prospectus relates are suitable for your individual investment objectives and circumstances, you should consult an authorised financial advisor.”
+
+184
+
+CIR/VER38/08-24
+
+COLLECTIVE INVESTMENT RULES (CIR)
+
+1.3
+
+The names of the members of the Shari’a Supervisory Board and their qualifications and experience.
+
+1.4
+
+If, pursuant to IFR 6.2.1(2), the Shari’a Supervisory Board appointed to the Fund is also the Shari’a Supervisory Board of the Fund Manager, a statement to that effect.
+
+1.5
+
+If the Fund does not have a Shari’a Supervisory Board appointed to it pursuant to IFR 6.2.1(3), what widely acceptable screening methodologies are used by the Fund to ensure Shari’a compliance when making investments for the Fund and the board that has approved them.
+
+1.6
+
+If applicable, the manner and frequency of Shari’a reviews.
+
+1.7 How earnings or assets prohibited by Shari’a will be disposed of.
+
+1.8 Whether Zakah is the responsibility of the Fund or the responsibility of the
+
+Unitholders.
+
+1.9
+
+The additional disclosure, if applicable, prescribed under IFR section A1.1 of App 1.
+
+2.
+
+Feeder Fund
+
+2.1 Disclosure of:
+
+(a) a prominent risk warning to alert prospective Unitholders to the fact that they will be subject to higher fees arising from the layered investment structure;
+
+(b)
+
+the fees arising at the level of:
+
+(i)
+
+the Feeder Fund itself;
+
+(ii) if applicable, the Master Fund of the Feeder Fund; and
+
+(iii) if applicable, any underlying Funds into which the Master Fund
+
+invests, to the extent known.
+
+3.
+
+Property Fund
+
+3.1 Whether the Fund is investing in:
+
+(a) Real Property only;
+
+(b) Securities issued by Bodies Corporate whose main activities are investing
+
+in, dealing in, developing or redeveloping Real Property only; or
+
+(c) a combination of (a) and (b).
+
+185
+
+CIR/VER38/08-24
+
+3.2
+
+3.3
+
+3.4
+
+COLLECTIVE INVESTMENT RULES (CIR)
+
+(a) What percentage of the Property Fund’s net assets may consist of property related assets, referred to in 3.1(b), which are not traded in or dealt on markets provided for in the Constitution.
+
+(b) Unless the Constitution and the Prospectus state that the Fund invests in a single property, the maximum percentage of the Fund’s net assets which may be invested in any single property or, if applicable, the conditions under which the Fund may derogate from this restriction.
+
+(c) The maximum percentage of the Property Fund’s net assets which may be invested in properties which are vacant, in the process of development or requiring development.
+
+(d) The maximum percentage of the Property Fund’s net assets which may
+
+be invested in properties which are subject to a mortgage.
+
+For investment in Real Property:
+
+(a)
+
+the countries or territories in which the Fund may invest;
+
+(b)
+
+the types of Real Property in which the Fund may invest and the policy in relation to encumbrances and lease period, if applicable;
+
+(c)
+
+the policy of the Fund Manager in relation to insurance of Real Property forming part of the Fund Property;
+
+(d)
+
+the risks involved in this type of Fund;
+
+(e) details of the Property Fund’s appointed valuer under Rule 13.4.18(1);
+
+(f) a statement to explain the standards according to which the property
+
+valuations are conducted;
+
+(g) a statement with respect to any material policy regarding Real

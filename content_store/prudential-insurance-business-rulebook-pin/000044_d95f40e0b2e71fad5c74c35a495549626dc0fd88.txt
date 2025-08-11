@@ -1,0 +1,159 @@
+ programmes that are already in place.
+
+5.
+
+Senior management should review an Insurer's reinsurance management systems on a regular basis. The review should cover:
+
+a.
+
+the reinsurance is attached;
+
+identification and recording of policies underwritten to which
+
+b.
+
+the identification of the dates when an obligation to pay reinsurance premiums arises;
+
+c.
+
+the identification of losses triggering recoveries under reinsurance contracts;
+
+d.
+
+management of the timing of payments to, and collections from, reinsurance counterparties;
+
+e.
+
+the credit standing and capacity of reinsurance counterparties to meet obligations to which they are subject as a result of claims incurred or to which they would become subject in the event of occurrence of losses;
+
+f.
+
+any concentration of reinsurance arrangements with reinsurance counterparties which would create large exposures or detract from diversification benefits in the event of occurrence of losses;
+
+g.
+
+the extent of reliance on reinsurance with related parties, and the accessibility of intra-group funding under a range of realistic conditions; and
+
+h.
+
+the impact of any adverse trends in estimated Insurance Liabilities on the reinsurance arrangements, and any adequacy of implications for the capacity of the Insurer to meet its future policyholder obligations.
+
+the
+
+Insurer's
+
+6.
+
+Procedures for assessing the credit standing of reinsurance counterparties may include the following:
+
+a.
+
+establishment of a security committee with a specific brief to undertake the procedures;
+
+72
+
+PIN VER07.290725
+
+b.
+
+obtaining appropriate advice from reinsurance brokers;
+
+c.
+
+review of ratings published by ratings agencies;
+
+d.
+
+monitoring of key performance indicators in reinsurers' published reports; and
+
+e.
+
+consideration of general conditions in the relevant reinsurance market.
+
+A2.15 Group risk
+
+Guidance
+
+1.
+
+The senior management of an Insurer remain responsible for its regulatory compliance, including in any areas that are delegated or outsourced to other Group members.
+
+2.
+
+The overall governance, high-level controls and reporting lines within the Group should be clear so far as they affect the Insurer. An Insurer should not, for example, be subject to material control or influence from other Group members that is exercised through informal or undocumented channels.
+
+3.
+
+Reliance upon functions performed at a Group level (for example, Group risk management, capital planning, liquidity and compliance) should be subject to approval and monitoring by senior management of the Insurer.
+
+4.
+
+Where an Insurer relies upon functions that are performed at a Group level the protocols for the performance of those functions should be clear.
+
+5.
+
+Senior management should establish and maintain systems and controls to identify and monitor the effect on the Insurer of its relationship with other members of the Group and the activities of other members of its Group. These systems and controls should include procedures to monitor the following matters:
+
+a.
+
+changes in relationships between Group members;
+
+b.
+
+changes in the activities of Group members;
+
+c.
+
+conflicts of interest arising within the Group; and
+
+d.
+
+events in the Group, particularly those that may affect the Insurer's own regulatory compliance (for example, failures of control or compliance in other Group members).
+
+6.
+
+The Insurer should have in place procedures to insulate the Insurer, so far as practicable, from potentially adverse effects of Group activities (for example, transfer pricing or fronting) or Group events that may expose the Insurer to risk. Such procedures could include requirements for transactions with Group
+
+73
+
+PIN VER07.290725
+
+members to be at arm's length, and for maintenance of 'Chinese walls', and development of contingency plans.
+
+7.
+
+Senior management should take reasonable steps to ensure that:
+
+a.
+
+relevant Group members are aware of the management and reporting obligations;
+
+Insurer's Group risk
+
+b.
+
+Group capital and Group risk reporting requirements are complied with; and
+
+c.
+
+information in respect of the Group provided to the Regulator is of appropriate quality.
+
+74
+
+PIN VER07.290725
+
+APP3 CALCULATION OF ADJUSTED CAPITAL RESOURCES
+
+A3.1 Purpose and general provisions
+
+A3.1.1 This appendix applies to all Insurers to which Rule 4.3 applies.
+
+Guidance
+
+1.
+
+This appendix sets out the manner in which an Insurer that is not a Cell Company is required to calculate its Adjusted Capital Resources. The equivalent provisions for Insurers that are Cell Companies are set out in APP5.
+
+2.
+
+The Adjusted Capital Resources are calculated by making

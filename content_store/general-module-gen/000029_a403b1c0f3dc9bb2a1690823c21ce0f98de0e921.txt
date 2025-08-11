@@ -1,0 +1,151 @@
+ Trustee of a Fund
+
+38
+
+GEN/VER67/03-25
+
+GENERAL (GEN)
+
+2.25.1 (1)
+
+In Rule 2.2.2, Acting as the Trustee of a Fund means holding the assets of a Fund on trust for the Unitholders where the Fund is in the form of an Investment Trust.
+
+(2)
+
+To the extent that any activity under (1) constitutes Providing Fund Administration or Providing Custody, such a Financial Service is taken to be incorporated within Acting as the Trustee of a Fund.
+
+Guidance
+
+Rule 2.25.1(2) alleviates any requirement upon a Trustee to obtain further authorisations for certain Financial Services where the activities fall within the ordinary scope of the activity of Acting as the Trustee of a Fund. The provision also facilitates the delegation of these discrete activities under CIR section 7.3.
+
+Exclusions
+
+2.25.2 A Person is not Acting as the Trustee of a Fund merely because he is acting
+
+as an agent, employee or delegate of a Trustee.
+
+2.26 Operating a Representative Office
+
+2.26.1 (1)
+
+In Rule 2.2.2 Operating a Representative Office means the marketing of one or more financial services or financial products, provided such services or products are those offered:
+
+(a)
+
+in a jurisdiction other than the DIFC; and
+
+(b)
+
+by a related party of the Representative Office.
+
+(2)
+
+For the purposes of (1) and (4) ‘marketing’ means:
+
+(a)
+
+providing information on one or more financial products or financial services;
+
+(b)
+
+engaging in Financial Promotions in relation to (a); or
+
+(c)
+
+making introductions or referrals in connection with the offer of financial services or financial products;
+
+provided that such activities do not constitute:
+
+(d)
+
+Advising on Financial Products;
+
+(e)
+
+Advising on Credit; or
+
+(f)
+
+‘arranging’ under Rules 2.9.1, 2.14.1, 2.19.1(1)(c) and 2.28.1(1)(a), including receiving and transmitting orders in relation to a financial product.
+
+(3) For the purposes of this Rule:
+
+(a)
+
+a ‘financial product’ means an Investment, a Credit Facility, a Deposit, a Profit Sharing Investment Account, a Contract of
+
+39
+
+GEN/VER67/03-25
+
+GENERAL (GEN)
+
+Insurance or, for the purposes of the prohibition in (4), a Crypto Token; and
+
+(b)
+
+a ‘related party’ of a Representative Office means:
+
+(i)
+
+the same Body Corporate as the Representative Office, including its head office or any other branch; and
+
+(ii)
+
+a member of the same Group as the Body Corporate referred to in (i).
+
+(4) A Person must not Operate a Representative Office that markets:
+
+(a)
+
+a Crypto Token;
+
+(b)
+
+an Investment relating to a Crypto Token; or
+
+(c)
+
+a Financial Service relating to:
+
+(i)
+
+a Crypto Token; or
+
+(ii)
+
+an Investment relating to a Crypto Token.
+
+Exclusions
+
+2.26.2 An Authorised Firm other than a Representative Office does not Operate a Representative Office if it undertakes any activities of the kind described in Rule 2.26.1 that constitute marketing.
+
+2.26.3 Any communication which amounts to marketing in respect of a financial service or financial product, which is issued by or on behalf of a government or non-commercial government entity, does not constitute marketing for the purposes of Rule 2.26.1.
+
+Guidance
+
+1.
+
+Refer to Guidance under REP section 1.3 for the scope of the activities which a Representative Office can conduct under its Licence.
+
+2.
+
+Rule 2.26.1(4) prohibits the use of a Representative Office to market:
+
+a.
+
+a Crypto Token or an Investment relating to a Crypto Token (such as a Derivative relating to a Crypto Token or a Unit of a Fund that invests in Crypto Tokens); or
+
+b.
+
+a Financial Service relating to a Crypto Token or such an Investment.
+
+2.27 Operating a Credit Rating Agency
+
+2.27.1 (1)
+
+In Rule 2.2.2, Operating a Credit Rating Agency means undertaking one or more Credit Rating Activities for the purpose of producing a Credit Rating with a view to that Credit Rating being:
+
+(a)
+
+disse

@@ -1,0 +1,105 @@
+ replacement cost amount.
+
+408
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+APP10 SUPERVISORY REVIEW AND EVALUATION PROCESSES
+
+A10.1 IRAP
+
+Guidance
+
+Application
+
+1.
+
+This Guidance is relevant to an Authorised Firm to whom section 10.3 applies (that is, a firm in Category 1, 2 or 5) in regard to an Internal Risk Assessment Process (referred to in this Guidance as an IRAP).
+
+2.
+
+The following Guidance generally assumes that the Rules relating to capital adequacy in PIB apply to an Authorised Firm on a solo basis. However, the Guidance is to be read as also applying where the capital adequacy requirements in these modules apply to the Financial Group of an Authorised Firm on a consolidated basis.
+
+Purpose of the IRAP
+
+3.
+
+The IRAP is an internal process of an Authorised Firm which enables it to identify, assess, aggregate and monitor its risks adequately. The objective of the IRAP is to develop a comprehensive and detailed risk profile for the firm. The IRAP should help the firm ensure that sound risk management systems are in place, address any weaknesses in its risk management framework, and maintain adequate internal capital relative to its risk profile.
+
+4.
+
+An Authorised Firm should ensure that the IRAP forms an integral part of the firm's risk management framework and decision-making processes. The IRAP should cover all activities of the Authorised Firm and should be proportionate to the nature and complexity of the firm's activities.
+
+5.
+
+The Authorised Firm should be able to demonstrate to the DFSA that its internal risk assessment is comprehensive and adequate relative to the nature of risks posed by its business activities and its operating environment.
+
+6.
+
+The DFSA does not prescribe any specific approach for the IRAP and, consequently, an Authorised Firm can choose to implement an IRAP which is proportionate to the nature, size and complexity of the business activities.
+
+7.
+
+The IRAP should be subject to adequate internal controls and reviews by internal audit to ensure the integrity and objectivity of the process. The IRAP should consider the quality and effectiveness of the Authorised Firm’s risk management framework while determining its risk profile.
+
+8.
+
+The IRAP should:
+
+a.
+
+identify and outline all related parties of the Authorised Firm, and list the types of transactions that occur between those related parties and the firm;
+
+b.
+
+identify the most significant risks to which the firm is exposed, which should, at a minimum, include the risks identified in Guidance note 9;
+
+c.
+
+identify each of the firm’s major business lines and prepare a comprehensive list of the major risks to which each of the businesses are exposed;
+
+d.
+
+identify the controls and risk management measures used to address the risks referred to in b. and c. and assess the strength of such controls and systems; and
+
+409
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+e.
+
+consider the impact of an economic or industry downturn on its future earnings, taking into account its business plans.
+
+9.
+
+The IRAP should, in addition to the aforementioned factors:
+
+a.
+
+estimate, with the aid of historical data, where available, the range and distribution of possible losses which might arise from each of those risks and consider using stress tests to provide risk estimates;
+
+b.
+
+consider the extent to which the firm's Capital Requirement adequately addresses the type of risks referred to under Guidance note 8 (b) and (c); and
+
+c.
+
+estimate the expected change in the firm's risk profile on the basis of projections of the firm's business activities for the next 3 to 5 years.
+
+10.
+
+If the firm’s IRAP is based on this Guidance, it may enable the DFSA more easily to review the IRAP as part of its SREP. However, the DFSA may decide to rely on an IRAP that is not consistent with the elements of this Guidance, owing to specific reasons and/or circumstances which necessitate an alternative approach.
+
+Guidance on risks to be covered as part of the IRAP
+
+11. An Authorised Firm should consider the following risks, where relevant, in its IRAP:
+
+a.
+
+Credit Risk, including Large Exposures and Concentration Risks;
+
+b

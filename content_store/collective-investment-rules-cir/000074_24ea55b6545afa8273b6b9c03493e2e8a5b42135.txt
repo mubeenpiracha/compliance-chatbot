@@ -1,0 +1,61 @@
+ ETFs (see Rule 13.9.3) as there is less transparency relating to the underlying portfolio of assets. This gives rise to potential difficulties in clearly identifying risks associated with exposures to counterparties and any collateral used in such ETFs, compared to ETFs that passively track the performance of a specified index or other benchmark.
+
+13.10 Venture Capital Funds
+
+Guidance
+
+See Rule 3.1.13 for the definition of a Venture Capital Fund.
+
+13.10.1 A Fund Manager must ensure that the investment vehicle used for a Venture
+
+Capital Fund is:
+
+(a)
+
+a Closed-ended legal structure; and
+
+(b) either an Investment Company or an Investment Partnership.
+
+13.10.2 (1)
+
+The requirement in Article 27(1)(e) of the Law does not apply to the Fund Manager of a Venture Capital Fund that is an Exempt Fund.
+
+(2)
+
+If the Fund Manager of a Venture Capital Fund referred to in (1) itself holds Fund Property, it must have in place effective arrangements which ensure that the Fund Property is not available to the creditors of the Fund Manager, or of any other Fund it manages, in the event of the Fund Manager’s insolvency.
+
+Guidance
+
+1. Article 27(1)(e) of the Law requires a Fund Manager to appoint an Eligible Custodian with whom the legal title to the Fund Property is registered, unless the Rules provide otherwise.
+
+116
+
+CIR/VER38/08-24
+
+COLLECTIVE INVESTMENT RULES (CIR)
+
+Rule 12A.3.1(2)(c) provides that this requirement does not apply to a Qualified Investor Fund that is a Venture Capital Fund. Rule 13.10.2 makes similar provision for the requirement not to apply where a Venture Capital Fund is an Exempt Fund.
+
+2. Where a Fund Manager of a Venture Capital Fund holds Fund Property of any type, whether investments, cash or other liquid assets, the Fund Manager must ensure that the property is clearly identifiable as Fund Property and is properly segregated from all other assets belonging to, or managed by, the Fund Manager, so it is not available to creditors in the event of the insolvency of the Fund Manager.
+
+3. The Fund Manager of a Venture Capital Fund does not need to have an internal audit function (see GEN Rule 5.3.13) or a Finance Officer (see GEN Rule 7.5.1) if the Fund Manager only manages Venture Capital Funds. The DFSA may, in the case of such a Fund Manager, also consider granting temporary relief from requirements in GEN section 7.5 for the appointment of other Authorised Individuals (such as a Compliance Officer) during the period between authorisation and any initial commitment of capital.
+
+4. The DFSA may, in the case of a Fund Manager of a Venture Capital Fund, also consider granting temporary relief from the requirements in Rule 9.2.1 for the preparation of financial statements for the Fund for the period between authorisation and any initial commitment of capital.
+
+5. The requirements in sections 8.3 and 8.4, other than Rules 8.3.1(2) and 8.4.1(1)(a), do not
+
+apply to a Fund Manager of a Venture Capital Fund (see Rule 8.1.1(3) and (4)).
+
+6.
+
+If a Fund Manager of a Venture Capital Fund obtains the services of special advisers, for example, to select venture capital businesses to invest in, or to monitor their on-going performance, those advisers should not be held out as being an investment committee of the type referred to in Rule 13.3.1. Such a description would be misleading, unless the Fund Manager chooses to follow the requirements in that Rule.
+
+13.11 Funds investing in Investment Tokens
+
+Restrictions on use of certain terms
+
+13.11.1 A Fund Manager of a Fund must ensure that its offer document or marketing material does not refer to it as an “investment token fund”, or otherwise hold it out as being a Fund which has as its main purpose investing in Investment Tokens, unless the Fund meets the criterion in Rule 3.1.14.
+
+Guidance
+
+Other descriptions of a Fund that are likely to fall within the scope of Rule 13.11.1 include the use of terms such as ‘security token fund’, ‘derivative token

@@ -1,0 +1,137 @@
+ consider factors including the following:
+
+a.
+
+appropriate systems and controls should be in place to ensure that all liabilities or potential liabilities notified to the Insurer are recorded promptly and accurately. Accordingly, the systems and controls in place should ensure that a proper record is established for each notified claim;
+
+b.
+
+suitable systems should be in place to identify and quantify, for the key claims handling procedures, timeliness of processing, the effects of processing backlogs and the need for any corrective action;
+
+58
+
+PIN/VER18/04-23
+
+PRUDENTIAL – INSURANCE BUSINESS (PIN)
+
+c.
+
+suitable controls should be maintained to ensure that estimates for reported claims and additional estimates based on statistical evidence are appropriately made on a consistent basis and are properly categorised;
+
+d.
+
+regular reviews of the actual outcome of the estimates made should be carried out to check for inconsistencies and to ensure that procedures remain appropriate. The reviews should include the use of statistical techniques to compare the estimates with the eventual cost of settling the claims, after deducting the amounts already paid at the time the estimates were made;
+
+e.
+
+appropriate systems and procedures should be in place to ensure that claim files without activity are reviewed on a regular basis;
+
+f.
+
+appropriate systems and procedures should be in place to assess the validity of notified claims by reference to the underlying Contracts of Insurance and reinsurance treaties;
+
+g.
+
+suitable systems and procedures should be in place to accommodate the use of suitable experts such as loss adjusters, lawyers, actuaries, accountants etc. as and when appropriate, and to monitor their use; and
+
+h.
+
+there should be suitable systems and procedures in place to identify and handle large or unusual claims, including systems to ensure that senior management are involved from the outset in the processing of claims that are significant because of their size or nature.
+
+A2.9 Product design and pricing risk
+
+Guidance
+
+1.
+
+The pricing of an insurance product involves the estimation of claims and costs arising from that product and the estimation of investment income arising from the investment of premium income attaching to the product. An Insurer may be exposed to significant loss where the claims, costs or investment returns arising from the sale of a product are inaccurately calculated. This risk is particularly acute in the case of Long-Term Insurance, where the Insurer does not have the option to cancel an unprofitable policy, but is also relevant to General Insurance.
+
+2.
+
+The risk management system for product design and pricing should normally include at least the following policies and procedures:
+
+a.
+
+minimum requirements for documentation of pricing and design decisions;
+
+b.
+
+clear identification of product lines that the Insurer is prepared to engage in or has chosen not to engage in;
+
+c.
+
+clearly defined and appropriate levels of delegation for approval of all material aspects of product design and pricing;
+
+d.
+
+processes for assessing specific risks, including risks arising from:
+
+i.
+
+inflation;
+
+ii.
+
+anti-selection (the tendency of poorer risks in a population to seek insurance while better risks self-insure);
+
+iii. moral hazard (the tendency of insured persons to manage their own risk less
+
+effectively, in the knowledge that they are insured);
+
+iv.
+
+changes in mortality and morbidity patterns;
+
+59
+
+PIN/VER18/04-23
+
+PRUDENTIAL – INSURANCE BUSINESS (PIN)
+
+v.
+
+technology changes;
+
+vi.
+
+catastrophes, natural or man-made;
+
+vii.
+
+legal decisions;
+
+viii.
+
+changes in government policy; and
+
+ix.
+
+investment returns;
+
+e.
+
+procedures for limiting risk through, for example, diversification, exclusions and reinsurance;
+
+f.
+
+processes to ensure that policy documentation is adequately drafted to give effect to the proposed level of coverage under the product;
+
+g.
+
+how emerging experience is to be reflected in price adjustments;
+
+h.
+
+how the Insurer’s product pricing responds to competitive pressures; and
+
+i.
+
+methods for monitoring compliance with product design and pricing policies and procedures.
+
+A2.10 Liquidity management risk
+
+Guidance
+
+1.
+
+An Insurer should have access to sufficient liquidity to meet all cash outflow commitments to policyholders (and other creditors) as and when they fall due. The nature of insurance activities means that the timing and amount of cash outflows are uncertain. This uncertainty may affect the ability of an Insurer to meet its obligations to policyholders or may require Insurers to incur additional costs through, for example, raising additional funds at a premium on the market or through the

@@ -1,0 +1,103 @@
+ Part to the "rules" or "Default Rules" of a Recognised Clearing House are to be taken not to include references to any Relevant Provisions unless—
+
+(a)
+
+the Relevant Provisions satisfy the Relevant Requirements; or
+
+(b)
+
+the Regulator has made an order under section 165(7) recognising that the Relevant Provisions of its Default Rules satisfy the Relevant Requirements and the order has not been revoked.
+
+Collateral Security Arrangements
+
+167. Collateral Security Arrangements
+
+(1)
+
+In this Part "Collateral Security Arrangements" means any realisable assets provided under a Charge, whether fixed or floating, or a repurchase or similar agreement or otherwise (including money provided under a Charge), granted113—
+
+(a)
+
+in favour of a Recognised Investment Exchange or Remote Investment Exchange, for the purpose of securing debts or liabilities arising in connection with the Settlement of Market Contracts;
+
+(b)
+
+in favour of a Recognised Clearing House or Remote Clearing House, for the purpose of securing debts or liabilities arising in connection with their ensuring the performance of Market Contracts;
+
+(c)
+
+to a central bank for the purpose of security rights and obligations in connection with its operations in carrying out its function as a central bank; or
+
+(d)
+
+in favour of a person who agrees to make payments as a result of the transfer or allotment of specified Financial Instruments or payments made through the medium of a computer based system established by the Regulator, for the purpose of securing debts or liabilities of the transferee or allottee arising in connection therewith.
+
+(2)
+
+Where a Charge is granted partly for purposes specified in subsections (1)(a), (b) or (d) and partly for other purposes, it is a "Collateral Security Arrangement" so far as it has effect for the specified purposes.
+
+113 Amended 21 February 2018.
+
+112
+
+168. Administration orders114
+
+(1)
+
+The insolvency provisions outlined in the Insolvency Regulations have effect in relation to Collateral Security Arrangements and action taken in enforcing them subject to the provisions of this section.
+
+(2)
+
+The following provisions of Part 1 of the Insolvency Regulations do not apply in relation to a Collateral Security Arrangement—
+
+(a)
+
+section 46 (Interim moratorium); and
+
+(b)
+
+section 101 (Hire-purchase property).
+
+(3)
+
+Section 159 of the Insolvency Regulations (Vacation of office) does not apply to a receiver appointed under a Collateral Security Arrangement.
+
+(4)
+
+However, where a Collateral Security Arrangement falls to be enforced after the occurrence of an event to which subsection (5) applies, and there exists another Charge over some or all of the same property ranking in priority to or pari passu with the Collateral Security Arrangement, on the application of any person interested the Court may order that there shall be taken after enforcement of the Collateral Security Arrangement such steps as the Court may direct for the purpose of ensuring that the chargee under the other Charge is not prejudiced by the enforcement of the Collateral Security Arrangement.
+
+(5)
+
+This subsection applies to—
+
+(a)
+
+making an Administration application under section 8 of the Insolvency Regulations; and
+
+(b)
+
+filing with the Court a copy of notice of intention to appoint an Administrator under Chapter 4 of Part 1 of the Insolvency Regulations.
+
+(6)
+
+Section 170 of the Insolvency Regulations (Power to dispose of charged property) does not apply in relation to a Collateral Security Arrangement.
+
+(7)
+
+Section 209 of the Insolvency Regulations (Consequences of Winding-Up order) does not apply to a disposition of property as a result of which the property becomes subject to a Collateral Security Arrangement or any transaction pursuant to which that disposition is made.
+
+(8)
+
+However, if a person who is party to a disposition mentioned in subsection (7) has notice at the time of the disposition that a petition has been presented for the Winding-Up or bankruptcy of the estate of the party making the disposition, the value of any profit to him arising from the disposition is recoverable from him by the Relevant Office-Holder unless—
+
+(a)
+
+the person is a chargee under the Collateral Security Arrangement;
+
+114 Amended 8 August 2023.
+
+113
+
+(b)
+
+the disposition is made in accordance with the Default Rules of a Recognised Clearing House or Remote Clearing House for

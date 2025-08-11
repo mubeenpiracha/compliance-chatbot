@@ -1,0 +1,145 @@
+ a division where each of the transferee companies is a new company.
+
+(1)
+
+If all the shares in each of the transferee companies are to be allotted to the members of the transferor company in proportion to their rights in the allotted share capital of the transferor company, the following requirements do not apply.
+
+(2)
+
+The requirements which do not apply are–
+
+(a)
+
+the requirements of–
+
+(i)
+
+section 835 (directors’ explanatory report),
+
+(ii)
+
+section 836 (expert’s report),
+
+(iii)
+
+section 837 (supplementary accounting statement), and
+
+(iv)
+
+section 840 (report on material changes in assets of transferor company), and
+
+(b)
+
+the requirements of section 838 (inspection of documents) so far as relating to any document required to be drawn up under the provisions mentioned in subsection (a)(i), (a)(ii) or (a)(iii) above.
+
+473
+
+848. Power of Court to exclude certain requirements (division)
+
+(1)
+
+In the case of a division, the Court may by order direct that–
+
+(a)
+
+in relation to any company involved in the division, the requirements of–
+
+(i)
+
+section 832 (publication of draft terms), and
+
+(ii)
+
+section 838 (inspection of documents),
+
+do not apply, and
+
+(b)
+
+in relation to an existing transferee company, section 845 (circumstances in which meeting of members of transferee company not required) has effect with the omission of the first, second and third conditions specified in that section,
+
+if the Court is satisfied that the following conditions will be fulfilled in relation to that company.
+
+(2)
+
+The first condition is that the members of that company will have received, or will have been able to obtain free of charge, copies of the documents listed in section 838–
+
+(a)
+
+in time to examine them before the date of the first meeting of the members, or any class of members, of that company summoned for the purposes of agreeing to the scheme, or
+
+(b)
+
+in the case of an existing transferee company where in the circumstances described in section 845 no meeting is held, in time to require a meeting as mentioned in subsection 845(4) of that section.
+
+(3)
+
+The second condition is that the creditors of that company will have received or will have been able to obtain free of charge copies of the draft terms in time to examine them–
+
+(a)
+
+before the date of the first meeting of the members, or any class of members, of the company summoned for the purposes of agreeing to the scheme, or
+
+(b)
+
+in the circumstances mentioned in subsection (2)(b) above, at the same time as the members of the company.
+
+(4)
+
+The third condition is that no prejudice would be caused to the members or creditors of the transferor company or any transferee company by making the order in question.
+
+Chapter 4
+
+SUPPLEMENTARY PROVISIONS
+
+849. Expert’s report: valuation by another person
+
+(1) Where it appears to an expert–
+
+(a)
+
+that a valuation is reasonably necessary to enable him to draw up his report, and
+
+(b)
+
+that it is reasonable for that valuation, or part of it, to be made by (or for him to accept a valuation made by) another person who–
+
+(i)
+
+appears to him to have the requisite knowledge and experience to make the valuation or that part of it, and
+
+474
+
+(ii) meets the independence requirement in section 850,
+
+he may arrange for or accept such a valuation, together with a report which will enable him to make his own report under section 816 or 836.
+
+(2) Where any valuation is made by a person other than the expert himself, the latter’s
+
+report must state that fact and must also–
+
+(a)
+
+state the former’s name and what knowledge and experience he has to carry out the valuation, and
+
+(b)
+
+describe so much of the undertaking, property and liabilities as was valued by the other person, and the method used to value them, and specify the date of the valuation.
+
+850. Experts and valuers: independence requirement
+
+(1)
+
+A person meets the independence requirement for the purposes of section 816 or 836 (expert’s report) or section 849 (valuation by another person) only if–
+
+(a)
+
+he is not–
+
+(i)
+
+an officer or employee of any of the companies or bodies corporate concerned in the scheme, or
+
+(ii)
+
+a partner

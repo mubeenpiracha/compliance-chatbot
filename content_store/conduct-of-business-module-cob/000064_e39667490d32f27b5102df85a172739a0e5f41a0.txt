@@ -1,0 +1,133 @@
+B/VER48/03-25
+
+8.3.4
+
+8.3.5
+
+CONDUCT OF BUSINESS (COB)
+
+Credit Ratings
+
+A Credit Rating Agency must ensure that:
+
+(a)
+
+the role and responsibility of assigning a Credit Rating rests clearly on the Credit Rating Agency and not on any of its Rating Analysts;
+
+(b)
+
+the information it uses for the purposes of preparing or reviewing a Credit Rating is of sufficient quality to support a credible Credit Rating;
+
+(c)
+
+its Credit Ratings:
+
+(i)
+
+reflect all the Relevant Information;
+
+(ii)
+
+do not contain any misrepresentations, and are not misleading in respect of the creditworthiness of the Rating Subject; and
+
+(iii)
+
+contain clear and prominent statements if they are premised on limited historical data, are not subject to on-going surveillance or are subject to any other limitation which has or may have a material impact on the relevant Credit Rating; and
+
+(d)
+
+it does not produce a Credit Rating where it has reasonable doubts as to whether a credible Credit Rating can be produced due to the complexity of, or the lack of adequate information relating to, a potential Rating Subject.
+
+Guidance
+
+Relevant Information is defined in Rule 8.3.1(2). A Credit Rating Agency should adopt adequate measures to ensure that the quality of information it uses is reliable to support a credible Credit Rating. Such measures may include:
+
+a.
+
+relying on independently audited financial statements and public disclosures where available;
+
+b.
+
+conducting random sampling examination of the information received; and
+
+c.
+
+having contractual arrangements with Persons who request a Credit Rating, or any third party source from whom information is obtained, that render such Persons liable if they knowingly provide materially false or misleading information, or fail to conduct due diligence they are reasonably expected to carry out to verify the accuracy of the Relevant Information.
+
+On-going monitoring and review of the Credit Ratings
+
+(1)
+
+Unless a Credit Rating clearly states that it will not be subject to on-going review, a Credit Rating Agency must:
+
+(a)
+
+have adequate personnel and financial resources committed for the on-going surveillance of the creditworthiness of the Rating Subject;
+
+(b)
+
+ensure a review of a Credit Rating is undertaken regularly, and in any case, promptly upon becoming aware of information reasonably likely to result in a Rating Action; and
+
+(c)
+
+take any appropriate Rating Action promptly.
+
+93
+
+COB/VER48/03-25
+
+8.4
+
+8.4.1
+
+CONDUCT OF BUSINESS (COB)
+
+(2)
+
+For the purposes of (1), a Rating Action is an upward or downward move of a Credit Rating, a confirmation of an existing Credit Rating or a withdrawal of a Credit Rating.
+
+(3)
+
+Following the review in (1)(b), a Credit Rating Agency must issue a notice of its Rating Action. Such a notice must:
+
+(a)
+
+be promptly disseminated subscription, as applicable; and
+
+to
+
+the public or distributed by
+
+(b)
+
+contain a clear and prominent statement specifying:
+
+(i)
+
+the date on which the Credit Rating was last updated; and
+
+(ii)
+
+the date on which the new Credit Rating is effective; or
+
+(iii)
+
+if the Credit Rating is withdrawn, the effective date from which it is withdrawn and the reasons for such withdrawal.
+
+(4)
+
+Without prejudice to the obligation to conduct on-going surveillance and review of a Credit Rating, where a Credit Rating Agency forms an opinion on reasonable grounds that it does not have adequate or credible Relevant Information, it must not support an existing Credit Rating, and must withdraw such a Credit Rating immediately. Where it does so, it must issue a notice of withdrawal of the Credit Rating in accordance with (3).
+
+Guidance
+
+1.
+
+A Credit Rating Agency may use separate teams of Rating Analysts for determining initial Credit Ratings and subsequent review of such ratings. It should ensure that each team has the requisite level of expertise and resources to perform its functions effectively.
+
+2.
+
+A Credit Rating Agency should undertake both periodic and ad hoc reviews of its Credit Ratings as appropriate to the nature of the Rating Subject, the market conditions and reasonable expectations of users of such Credit Ratings. Such reviews should apply any changes in its rating methodologies and models, including rating assumptions.
+
+3.
+
+A Credit Rating Agency should have clear and published parameters relating to the review of Credit Ratings, including, to the extent possible, when it will undertake any ad hoc reviews. Such parameters should include any material change in the risk characteristics of the Rating Subject or

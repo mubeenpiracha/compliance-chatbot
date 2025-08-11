@@ -1,0 +1,67 @@
+ulated Activity in relation to Spot Commodities are required to demonstrate to the FSRA that the proposed Spot Commodity meets the requirements of being an Accepted Spot Commodity. The following table sets out the FSRA’s regulatory approach to determining if a Spot Commodity meets the requirements of an Accepted Spot Commodity:
+
+Requirement
+
+Regulatory Approach
+
+Responsible and Sustainable Sourcing
+
+(COBS Rule 22.2.2(a))
+
+The FSRA requires Accepted Spot Commodities to meet appropriate for responsible and sustainable sourcing, standards including adherence internationally recognised certification standards. to Particular regard is given to due diligence over mandatory labour, environmental and such supply chain controls, as well as the enforceability of rules preventing the use of conflict minerals.
+
+Authorised Persons will be required to demonstrate provisions for third- party audits of producers’ environmental and occupational health and safety practices and investigatory and enforcement powers, as well as grievance mechanisms whereby third parties can report potential instances of non-compliance.
+
+6
+
+VER02.181223
+
+Market Fundamentals
+
+(COBS Rule 22.2.2(b))
+
+The FSRA will consider the size of the Spot Commodity market, including its market practices, liquidity, depth and breadth of demand, the number of active participants, and the controls/processes to manage volatility of a particular Spot Commodity (for transparency and fair and orderly trading purposes).
+
+Delivery Soundness
+
+(COBS Rule 22.2.2(c))
+
+There are a wide range of practices related to the storage of Spot Commodities, which vary by type of Spot Commodity, trading venue, and jurisdiction. The FSRA requires Accepted Spot Commodity storage and delivery mechanisms to adhere to appropriate standards, including alignment with IOSCO’s Good and Sound Practices7, with particular regard for oversight, transparency, conflicts of interest, fees and incentives and operations.
+
+Fungibility
+
+(COBS Rule 22.2.2(c))
+
+The FSRA requires Accepted Spot Commodities to be able to be delivered and be freely replaceable by another of a similar nature or kind for the purposes of the relevant contract (or is normally regarded as such in the Spot Commodities market), the two goods will be fungible in nature for these purposes.
+
+Sanctions and Anti Money Laundering
+
+(AML and COBS Rule 22.2.2(c))
+
+The FSRA requires Accepted Spot Commodities to have had appropriate due diligence and controls relating to Sanctions and Anti Money Laundering in relation to any delivery in accordance with applicable laws.
+
+Delivery Jurisdiction
+
+(COBS Rule 22.2.2(c))
+
+The FSRA requires Accepted Spot Commodities to be delivered in jurisdictions where the storage or delivery facility operates under rules and regulations deemed, by the FSRA, to have equivalent standards as with those of Abu Dhabi Global Market and the United Arab Emirates.
+
+Spot Commodities that are produced, processed, stored, delivered, owned, financed or otherwise associated with jurisdictions that are subject to international or regional sanctions, as well as jurisdictions considered as having strategic Anti Money Laundering and Financial Crime deficiencies, will not be permitted.
+
+The FSRA may also recognise, for all requirements set out in this paragraph 26, where a Spot Commodity, or Spot Commodity Activities generally, are regulated by an IOSCO Member.
+
+27) Authorised Persons will need to submit the details of how each Accepted Spot Commodity that is proposed to be used meets the requirements for the purposes of COBS Rule 22.2.2 and paragraphs 25 and 26 above. The use of each Accepted Spot Commodity will be approved as part of the formal application process for review and approval of an FSP. Though an Authorised Person may, for example, propose to admit to trading a commonly traded Spot Commodity, the Authorised Person’s controls relating to responsible and sustainable sourcing, and sound delivery mechanisms may not yet be fully developed. In such circumstances, the FSRA may require the Authorised
+
+7 IOSCO, 2019; https://www.iosco.org/library/pubdocs/pdf/IOSCOPD622.pdf
+
+7
+
+VER02.181223
+
+Person to delay the commencement of trading until such time that suitable controls have been developed and implemented.
+
+28) Due to Accepted Spot Commodities being determined for use on the basis of each individual Authorised Person, the FSRA will not maintain a ‘public’ list of Accepted Spot Commodities.
+
+Spot Commodity Title
+
+29)

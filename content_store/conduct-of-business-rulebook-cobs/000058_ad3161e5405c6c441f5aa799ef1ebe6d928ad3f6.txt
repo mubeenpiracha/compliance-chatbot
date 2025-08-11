@@ -1,0 +1,85 @@
+ by a
+
+member of the Authorised Person who has adequate seniority.
+
+93
+
+COBS VER19.290725
+
+14.11.7 The individual referred to in Rule 14.11.6 must provide a written statement confirming the reconciliation has been undertaken in accordance with the requirements of this section.
+
+14.11.8 An Authorised Person must notify the Regulator without undue delay where there has been a material discrepancy with the reconciliation which has not been rectified.
+
+14.11.9 Records under Rule 14.11 must be kept for a minimum of six years.
+
+Guidance
+
+1. A material discrepancy includes multiple small discrepancies which occur over time which have a cumulative effect of being material.
+
+2. An Authorised Person engaged in Investment Business whose Financial Service Permission entitles them to hold Client Money must also arrange for a Client Money Auditor's Report to be submitted to the Regulator on an annual basis in accordance with GEN 6.6.6.
+
+14.12 Deemed Trusts
+
+14.12.1 An Authorised Person receives and holds Client Money as trustee in accordance with the
+
+following trusts:
+
+(a)
+
+where an Authorised Person has established one or more separate Client Accounts to hold Client Money for one or more individual Clients, subject to (c), the Client Money in each separate Client Account is held for the Clients of the Authorised Person for whom such money is held, according to their respective interests in it;
+
+(b)
+
+for each Client Account which an Authorised Person maintains a general pool of Client Money, subject to (c), the Authorised Person holds such Client Money in trust for the Clients for whom that pooled money is held, according to their respective interests in it;
+
+(c)
+
+for each trust, for the payment of the costs properly attributable to the distribution of the Client Money in accordance with (a) or (c); and
+
+(d)
+
+after all valid claims and costs under (a) to (c) have been met, for the Authorised Person itself.
+
+14.13 Client Money Distribution Rules
+
+14.13.1 To the extent that the rules in this section ("the Client Money Distribution Rules") are
+
+inconsistent with section 225 of the Insolvency Regulations, these Rules will prevail.
+
+14.13.2 If an Authorised Person becomes insolvent, or a Pooling Event Occurs, the available
+
+funds in each Client Account must be distributed in accordance with Rule 14.13.4.
+
+14.13.3 A Pooling Event occurs:
+
+(a)
+
+on the Failure of an Authorised Person;
+
+94
+
+COBS VER19.290725
+
+(b)
+
+on the Failure of a Third-Party Agent;
+
+(c) where the Authorised Person has failed to perform reconciliations as required under Rule 14.11, or claims of Client against Money held in the Client Account cannot be identified and allocated in the records of the Authorised Person;
+
+(d)
+
+on the vesting of assets in a trustee in accordance with an Assets Requirement imposed under section 38 of FSMR; or
+
+(e) where the Regulator makes an order or decision to this effect under FSMR.
+
+14.13.4 A pooling event under Rule 14.13.3(c) does not occur when the Authorised Person has notified the Regulator in accordance with Rule 14.11.8 and the Authorised Person is taking steps, in consultation with the Regulator, to rectify those records and there are reasonable grounds to conclude that the records will be capable of reconciliation within a reasonable period.
+
+Guidance
+
+Where multiple Third-Party Agents have been engaged by an Authorised Person, the Failure of one Third-Party Agent will not trigger the obligation to distribute all Client Money to Clients in respect of Client Accounts operated by Third-Party Agents which have not Failed, unless the Authorised Person has also failed.
+
+14.13.5 Following a Pooling Event, an Authorised Person must liquidate all Collateral held by the Authorised Person and distribute Client Money in the following order of priorities:
+
+(a)
+
+first, in relation to Client Money held in a Client Account, or Client Money that should be held in a Client Account, claims relating to that Money must be paid to each Client for whom Money was placed, or intended to be placed, in that Client Account, in full or, where insufficient funds are held in the Client Account, proportionately, in accordance with each Client’s valid claim over

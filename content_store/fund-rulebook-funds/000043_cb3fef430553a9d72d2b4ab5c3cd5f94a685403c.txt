@@ -1,0 +1,103 @@
+ breach of the Fund's Constitution, or of FSMR, or of these Rules.
+
+Record keeping
+
+13.3.18
+
+(1) A Fund Manager must keep records of:
+
+(a)
+
+the due diligence process it has undertaken to assess whether the Persons appointed for the oversight function meet the suitability criteria in Rule 13.3.3; and
+
+(b)
+
+the matters identified and reported to it by the Persons providing the oversight function under Rule 13.3.16 and any remedial measures adopted by it to address such matters.
+
+13.4
+
+Investment and borrowing requirements for Public Funds
+
+Application
+
+13.4.1
+
+This Chapter applies to the Fund Manager of a Domestic Fund which is a Public Fund, an Eligible Custodian and, where appropriate, a Trustee, and, to Persons appointed to perform the oversight function for such a Fund, to the extent specified in Rule 13.3.5.
+
+Spread of risk and protection of Fund Property
+
+13.4.2
+
+A Fund Manager must take reasonable steps to ensure that the Fund Property of a Public Fund provides a spread of risk that is consistent with the investment objectives and policy of the Fund as stated in its Constitution and/or most recently published Prospectus, and in particular, any investment objectives as regards return to the Unitholders whether through capital appreciation or income or both.
+
+13.4.3
+
+(1) A Fund Manager must avoid the Fund Property being used or invested contrary to any provision in this Chapter.
+
+67
+
+FUNDS VER10.100625
+
+(2) On becoming aware of any breach of a Rule in this Chapter, a Fund Manager must take action, at its own expense, to rectify that breach.
+
+(3) A Fund Manager must take the action in (2) immediately, except in circumstances where it decides doing so would not be in the best interests of Unitholders, in which case the action must be taken as soon as such circumstances cease to apply.
+
+(4) A Fund Manager must not postpone taking action in accordance with (2) unless the Persons providing oversight functions have given their consent.
+
+Investment in other Funds
+
+13.4.4
+
+A Fund may invest in Units of another Fund, except where otherwise provided for in these Rules. Before investing in another Fund, the Fund Manager must take reasonable care to determine that it:
+
+(a)
+
+is the subject of an independent annual audit conducted in accordance with IFRS or US GAAP;
+
+(b)
+
+has mechanisms in place to enable Unitholders to redeem their Units within a reasonable time if it is an open-ended Fund;
+
+(c)
+
+is prohibited from having more than 20% of its gross asset value in the Units of other Funds; and
+
+(d)
+
+has a proper and disclosed basis for asset valuation and the pricing of Units in that Fund.
+
+Transactions in derivatives
+
+13.4.5
+
+(1) The total exposure of a Public Fund to Derivatives may not exceed the net asset value of the Fund Property.
+
+(2) The Fund Manager's systems and controls must include adequate risk management processes which enable it to monitor and measure as frequently as appropriate the risk of a Fund's Derivative positions and their contribution to the overall risk profile of the Fund.
+
+Stock lending and borrowing
+
+13.4.6
+
+(1) Subject to the Fund's Constitution and its most recent Prospectus, the Fund Manager, or the Eligible Custodian or Trustee at the request of the Fund Manager, may enter into:
+
+(a)
+
+stock lending arrangements in respect of any Securities forming the Fund Property; and
+
+(b)
+
+stock borrowing arrangements.
+
+(2) The Fund Manager must ensure that the value of any collateral for the stock lending arrangement is at all times at least equal to the value of the Securities transferred.
+
+68
+
+FUNDS VER10.100625
+
+Borrowing
+
+13.4.7
+
+(1) Subject to the Fund's Constitution and its most recent Prospectus, the Fund Manager, or the Eligible Custodian or Trustee on the instructions of the Fund Manager, may borrow money for the use of the Fund on terms that the borrowing is to be repayable out of the Fund Property.
+
+(2) The Fund Manager must ensure, except in the case of a Property Fund, that the Fund's borrowing does not on any day exceed 20% of the gross asset value of the Fund Property and must take reasonable care to ensure that arrangements are in place that

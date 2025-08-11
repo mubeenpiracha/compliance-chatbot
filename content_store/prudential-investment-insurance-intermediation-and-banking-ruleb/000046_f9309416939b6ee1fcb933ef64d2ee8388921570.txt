@@ -1,0 +1,113 @@
+ or has a residual maturity of at least one year; and
+
+(b)
+
+the amount to be deducted for indirect holdings in the Trading Book of the capital instruments of Relevant Entities that take the form of holdings of index Securities must be determined by calculating the underlying Exposure to the capital instruments of the Relevant Entities in the indices.
+
+T2 deductions - insignificant investment in a Relevant Entity
+
+3.12.8
+
+(1)
+
+For the purposes of Rule 3.12.4(c), an Authorised Person must calculate the applicable amount to be deducted by multiplying the amount referred to in (a) by the factor derived from the calculation referred to in (b):
+
+(a)
+
+the amount referred to in Rule 3.10.16(1)(a);
+
+(b)
+
+the amount of direct and indirect holdings by the Authorised Person of the T2 Capital instruments of Relevant Entities divided by the aggregate amount of all direct and indirect holdings by the Authorised Person of the CET1, AT1 and T2 Capital instruments of those Relevant Entities.
+
+(2)
+
+An Authorised Person must exclude Underwriting positions held for five working days or in Rule 3.10.16(1)(a) and from the calculation of the factor referred to in (1)(b).
+
+fewer
+
+from
+
+the
+
+amount
+
+referred
+
+to
+
+(3)
+
+An Authorised Person must determine the portion of holdings of T2 Capital instruments that is to be deducted by dividing the amount specified in (a) by the amount specified in (b):
+
+(a)
+
+the amount of holdings required to be deducted pursuant to (1)(a);
+
+(b)
+
+the aggregate amount of direct and indirect holdings by the Authorised Person of the capital instruments of Relevant Entities in which the Authorised Person does not have a significant investment.
+
+86
+
+PRU VER17.290725
+
+T2 Exclusion - Managing an unrestricted Profit Sharing Investment Account
+
+3.12.9
+
+An Authorised Person must exclude from T2 Capital any amount by which the total of the Profit Equalisation Reserve and the Investment Risk Reserve exceeds the Displaced Commercial Risk Capital Requirement calculated in accordance with the IFR rules.
+
+3.13
+
+Minority interests and instruments issued by Subsidiaries
+
+Minority interests that qualify for inclusion in consolidated CET1 Capital
+
+3.13.1 Minority interests must include the CET1 Capital instruments, plus the related retained earnings and Share premium accounts of a Subsidiary, only where all of the following conditions are met:
+
+(a)
+
+the Subsidiary is one of the following:
+
+(i)
+
+an Authorised Person; or
+
+(ii)
+
+a regulated entity;
+
+(b)
+
+the Subsidiary is a member of the Financial Group and included in the scope of consolidated supervision in accordance with Chapter 8; and
+
+(c)
+
+those CET1 Capital instruments are owned by Persons other than the Undertakings included in the Financial Group.
+
+3.13.2 Minority interests that are funded, directly or indirectly, through a Special Purpose Entity (SPE) or otherwise, by the Parent of the Authorised Person or any member of its Financial Group must not qualify for inclusion in the consolidated CET1 Capital of the Financial Group.
+
+3.13.3
+
+An Authorised Person must determine the amount of minority interests of a Subsidiary that is eligible for inclusion in its consolidated CET1 Capital by subtracting from the minority interests of that Subsidiary the result of multiplying the amount referred to in (a) by the percentage referred to in (b):
+
+(a)
+
+the CET1 Capital of the Subsidiary minus the lesser of the following:
+
+(i)
+
+the amount of CET1 Capital of that Subsidiary required to meet the sum of the Subsidiary's CET1 Capital requirement (on a solo basis) of 6.0% of its Total Risk Exposure Amount, calculated in accordance with Rule 3.5.7, and its Combined Buffer Requirement; or
+
+(ii)
+
+the amount of consolidated CET1 Capital that relates to that Subsidiary that is required on a consolidated basis to meet the sum of its Financial Group's CET1 Capital requirement of 6.0% of its Total Risk Exposure Amount, calculated in accordance with Rule 3.5.7, and its Combined Buffer Requirement;
+
+87
+
+PRU VER17.290725
+
+(b)
+
+the minority interests of the Subsidiary expressed as a percentage of all CET1 Capital instruments of that Undertaking

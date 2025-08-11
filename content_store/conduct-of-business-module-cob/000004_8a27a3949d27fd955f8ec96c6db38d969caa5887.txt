@@ -1,0 +1,99 @@
+ Person.
+
+3.
+
+Other Authorised Firms can also conduct marketing activities, of the kind described in GEN Rule 2.26.1, under the exclusion in GEN Rule 2.26.2.
+
+2
+
+COB/VER48/03-25
+
+CONDUCT OF BUSINESS (COB)
+
+2.2 Overview
+
+Guidance
+
+1.
+
+This chapter sets out the manner in which an Authorised Firm is required to classify its Clients, as well as good practice it may follow. The scope of application of the Rulebook modules will vary depending on whether the Person with or for whom an Authorised Firm is carrying on Financial Services is classified as a Retail Client, Professional Client or Market Counterparty.
+
+Risk based approach
+
+2.
+
+The Rules in this chapter reflect the DFSA’s risk based approach to regulation. Therefore, to achieve the underlying objective of client classification, which is to ensure that firms provide to their clients an appropriate level of regulatory protection, the Rules, for example:
+
+a.
+
+take into account the higher degree of knowledge and experience (‘expertise’) and resources available to certain institutional and wholesale clients (see Rule 2.3.4);
+
+b.
+
+take into account who primarily bears the risk associated with a particular type of a Financial Service (see Rule 2.3.5);
+
+c.
+
+take into account the type of Persons to whom a Financial Service is usually provided (see Rules 2.3.6, 2.3.7 and 2.3.8);
+
+d.
+
+provide flexibility for an Authorised Firm to rely on a client classification made by its head office or a Group member, provided risks associated with such reliance are effectively addressed (see Rules 2.4.4 and 3.3.4);
+
+e.
+
+provide flexibility for group-based Financial Services to be provided where risks associated with such services are effectively addressed (see Rule 2.4.5); and
+
+f.
+
+provide flexibility for look-through arrangements where reliance can be placed on expertise and resources available to a Client, such as at its Holding Company or controller level (see Rule 2.3.8(2)).
+
+Types of clients
+
+3.
+
+There are three types of Clients:
+
+a.
+
+a Retail Client;
+
+b.
+
+a Professional Client; or
+
+c.
+
+a Market Counterparty.
+
+However, a Person may be classified as a Professional Client in relation to one Financial Service or financial product, but a Retail Client in relation to another. Similarly, a Person classified as a Professional Client may be classified as a Market Counterparty in relation to some Financial Services or financial products but not others (see paragraphs 8 and 9 below).
+
+Retail Clients
+
+4.
+
+A Person who cannot be classified as a Professional Client or Market Counterparty in accordance with the Rules is required to be classified as a Retail Client (see Rule 2.3.2). If an Authorised Firm chooses to provide Financial Services to a Person as a Retail Client, it may do so by simply classifying that Person as a Retail Client without having to follow any further procedures as required for classifying Persons as Professional Clients or Market Counterparties.
+
+3
+
+COB/VER48/03-25
+
+CONDUCT OF BUSINESS (COB)
+
+Professional Clients
+
+5.
+
+There are three routes through which a Person may be classified as a Professional Client:
+
+a.
+
+‘deemed’ Professional Clients under Rule 2.3.4. As these Persons have significant assets under their control, and, therefore, either possess, or have the resources to obtain, the necessary expertise to manage such assets, they can be classified as ‘deemed’ Professional Clients without having to meet any additional net asset and expertise criteria;
+
+b.
+
+‘service-based’ Professional Clients under Rule 2.3.5, Rule 2.3.6 or Rule 2.3.6A. Due to their inherent nature, certain Financial Services activities such as credit provided to an Undertaking for business purposes (‘commercial credit’), advisory and arranging activities relating to corporate structuring and financing and crowdfunding services provided to a Body Corporate that is a borrower or an Issuer, are generally provided to Persons with sufficient expertise to obtain such services or are of relatively low risk to the Client. Therefore, a Person to whom such a Financial Service is provided can be classified as a ‘service-based’ Professional Client; and
+
+c.
+
+‘assessed’ Professional Clients under Rules 2.3.7 and

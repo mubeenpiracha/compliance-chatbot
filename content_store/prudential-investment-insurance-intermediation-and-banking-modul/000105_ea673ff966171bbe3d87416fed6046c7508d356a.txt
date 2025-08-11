@@ -1,0 +1,94 @@
+ not return to the Originator even after an Early Amortisation event has occurred; or
+
+(d)
+
+where the Early Amortisation clause is solely triggered by events not related to the performance of the Securitised assets or the Authorised Firm, such as material changes in tax laws or regulations.
+
+4.14.55 For an Authorised Firm subject to the Capital Requirement referred to in Rule 4.14.51, the maximum Credit RWA calculated under that Rule must not exceed the greater of the following:
+
+(a)
+
+the RWA amounts calculated in respect of its positions in the investors’ interest; or
+
+(b)
+
+the RWA amounts that would be calculated in respect of the Securitised Exposures, if those had not been securitised.
+
+4.14.56 An Authorised Firm must deduct from its CET1 Capital any gain-on-sale and Credit- Enhancing Interest-Only Strips arising from any securitisation subject to the provisions of the Rules above.
+
+Calculation of Credit RWA amounts for securitisation positions subject to Early Amortisation clause
+
+4.14.57 In regard to securitisation positions subject to an Early Amortisation clause, the Credit RWA amounts for an Authorised Firm acting as the Originator are calculated as the product of the following:
+
+155
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+(a)
+
+the investors’ interest
+
+(b)
+
+the appropriate CCF (in accordance with the table in Rule 4.14.61); and
+
+(c)
+
+the appropriate risk weight for the underlying Exposure type.
+
+Guidance
+
+In relation to Rule 4.14.57(c), the Authorised Firm should also consider whether a line, or facility, is committed or uncommitted. A line is considered to be uncommitted if it is unconditionally cancellable without prior notice by the Authorised Firm. They also differ according to whether the Securitised Exposures are committed retail credit lines or credit lines (such as revolving credit facilities).
+
+4.14.58 (1)
+
+An Early Amortisation provision that does not satisfy the conditions for a Controlled Early Amortisation provision will be treated as a non-Controlled Early Amortisation provision.
+
+(2)
+
+For the purpose of (1), the conditions for a Controlled Early Amortisation provision are as follows:
+
+(a)
+
+the Authorised Firm must have an appropriate capital/liquidity plan in place to ensure that it has sufficient capital and liquidity available in the event of an Early Amortisation;
+
+(b)
+
+throughout the duration of the transaction, including the amortisation period, there is the same pro rata sharing of interest, principal, expenses, losses and recoveries based on the firm’s and investors’ relative shares of the receivables outstanding at the beginning of each month;
+
+(c)
+
+the firm must set a period for amortisation that would be sufficient for at least 90% of the total debt outstanding at the beginning of the Early Amortisation period to have been repaid or recognised as in default; and
+
+(d)
+
+the pace of repayment should not be any more rapid than would be allowed by straight-line amortisation over the period set out in (c).
+
+4.14.59 For uncommitted retail credit lines in securitisations containing Controlled Early Amortisation which is triggered by the Excess Spread level falling to a specified level, an Authorised Firm must compare the three month average Excess Spread level with the Excess Spread levels at which the Excess Spread is required to be trapped.
+
+4.14.60 Where the securitisation does not require Excess Spread to be trapped, the trapping point is deemed to be 4.5 percentage points greater than the Excess Spread level at which Early Amortisation is triggered.
+
+4.14.61 An Authorised Firm must divide the Excess Spread level by the transaction’s Excess the appropriate segments and apply
+
+to determine Spread corresponding conversion factors as set out in the following table:
+
+trapping point
+
+156
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+Controlled Early Amortisation features
+
+Uncommitted
+
+Committed
+
+Retail Credit Lines
+
+3 Month average Excess Spread CCF
+

@@ -1,0 +1,105 @@
+ money laundering
+
+3. AML Rule 6.1.2 sets out factors that may indicate higher money laundering risks and AML Rule
+
+6.1.3 sets out factors that may indicate lower money laundering risks.
+
+4. AML screening of a Member may be warranted before accepting voluntary contributions to a Scheme in certain circumstances, such as where the voluntary contributions:
+
+a.
+
+substantially exceed the amount of mandatory contributions for that Member; or
+
+b. are fully or freely withdrawable or assignable by the Member before the release of the
+
+mandatory contributions.
+
+152
+
+COB/VER48/03-25
+
+CONDUCT OF BUSINESS (COB)
+
+Approval of Scheme
+
+12.2.2 An Operator of a Scheme must obtain the DFSA’s prior written approval for:
+
+(a) a Scheme before it operates the Scheme in or from the DIFC; and
+
+(b) any material change to the Scheme after it has been approved under (a).
+
+Additional oversight functions
+
+12.2.2A (1) This Rule applies to a DIFC Scheme that is exempted under the Employment Regulations from the requirement to have a Supervisory Body.
+
+(2) The Operator of a DIFC Scheme referred to in (1) must ensure that each
+
+employer making contributions to the Scheme:
+
+(a)
+
+carries out the oversight function for the Scheme that would, but for the exemption, be carried out by the Supervisory Body;
+
+(b)
+
+has sufficient information relating to the operation of the Scheme to be able to properly carry out the oversight function;
+
+(c)
+
+has the power under the Constitution of the Scheme, to appoint and remove the Operator of the Scheme, in accordance with the requirements under the Employment Law or any other applicable law; and
+
+(d)
+
+covenants, in the Constitution of the Scheme, to negotiate the fees and charges of the Operator and to assess the performance of the Operator, in the best interests of the Members of the Scheme.
+
+Guidance
+
+1. Under the Employment Law and the DFSA requirements, all Schemes established in the DIFC are required to be constituted as a trust.
+
+2. Under the Employment Regulations, a Qualifying Scheme must have a Supervisory Body, unless an exemption has been granted by the DIFCA Board. The DIFCA Board will grant an exemption from the requirement for a Supervisory Body, where the employer making contributions to the Scheme is able to demonstrate certain matters to the Board. Rule 12.2.2A(2) reflects the matters that the employer must be able to demonstrate. If an exemption is granted, the oversight function in respect of the Scheme may be carried out either by the employer itself or by a delegate acting on its behalf.
+
+Additional requirements for a Non-DIFC Scheme
+
+12.2.3 The Operator and Administrator of a Non-DIFC Scheme must:
+
+153
+
+COB/VER48/03-25
+
+CONDUCT OF BUSINESS (COB)
+
+(a)
+
+in addition to complying with any applicable requirements of legislation in the DIFC, comply with the applicable requirements of legislation in the jurisdiction in which the Scheme is established; and
+
+(b)
+
+notify the DFSA, as soon as is practicable, of any event or matter that has, or could have, a material adverse impact on its ability to comply with the requirements referred to in (a).
+
+Guidance
+
+An Operator or Administrator is prohibited under GEN Rule 2.2.10H from Operating or Acting as the Administrator of a Non-DIFC Scheme if that Scheme receives contributions required to be made by a DIFC employer under the Employment Law or contributions required to be made by any other employer under a Dubai law.
+
+Constitution of the Scheme
+
+12.2.4 An Operator of a Scheme must:
+
+(a) manage the Scheme and any property of the Scheme in accordance with the
+
+terms of the Constitution and any applicable laws;
+
+(b) perform the functions and duties conferred on it by the Constitution and
+
+applicable laws; and
+
+(c)
+
+ensure that the Administrator carries out the functions and duties in accordance with the Constitution and applicable laws.
+
+12.2.5 An Operator of a Scheme must ensure that the Constitution of the Scheme:
+
+(a) does not contain any provision that is inconsistent with the requirements of legislation administered by the DFSA that apply to the Operator or Administrator of a Scheme or a Third Party Service Provider;
+
+(b)
+
+requires the property of the Scheme to be held irrev

@@ -1,0 +1,103 @@
+ rates or emission allowances.
+
+4. Options over Options are covered under A2.3.1(a)(iii).
+
+Futures
+
+(b)
+
+a Future is an instrument comprising rights under a contract:
+
+(i)
+
+for the sale of a commodity or property of any other description under which delivery is to be made at a future date and at a price agreed on when the contract is made, and that contract:
+
+(A)
+
+is made or traded on a regulated exchange;
+
+(B)
+
+is made or traded on terms that are similar to those made or traded on a regulated exchange; or
+
+(C)
+
+would, on reasonable grounds, be regarded as made for investment and not for commercial purposes; or
+
+(ii)
+
+where the value of the contract is ultimately determined by reference, wholly or in part, to fluctuations in:
+
+(A)
+
+the value or price of property of any description; or
+
+(B)
+
+an index, interest rate, any combination of these, exchange rate or other factor designated for that purpose in the contract; and
+
+which is wholly settled by cash or set-off between the parties but excludes:
+
+184
+
+GEN/VER67/03-25
+
+A2.4
+
+A2.4.1
+
+GENERAL (GEN)
+
+(C)
+
+rights under a contract where one or more of the parties takes delivery of any property to which the contract relates;
+
+(D)
+
+a contract under which money is received by way of deposit or an acknowledgement of a debt on terms that any return to be paid on the sum deposited or received will be calculated by reference to an index, interest rate, exchange rate or any combination of these or other factors; or
+
+(E)
+
+a Contract of Insurance.
+
+Guidance
+
+1. An over the counter (OTC) contract may qualify as a Future under Rule A2.3.1(b)(i)(C) if it can reasonably be regarded as being made for investment and not for commercial purposes. Some of the indicative factors that such a contract is reasonably likely to be made for commercial rather than investment purposes include the following: a.
+
+1. An over the counter (OTC) contract may qualify as a Future under Rule A2.3.1(b)(i)(C) if it can reasonably be regarded as being made for investment and not for commercial purposes. Some of the indicative factors that such a contract is reasonably likely to be made for commercial rather than investment purposes include the following: a party to the contract is the producer or a user of the underlying commodity;
+
+b.
+
+the delivery of the underlying commodity is intended to take place within 7 days of the date of the contract;
+
+c.
+
+there is no provision made in the contract for margin arrangements; and
+
+the terms of the contract are not standardised terms.
+
+2. A contract under Rule A2.3.1(b)(i) can provide for the physical delivery of the underlying commodity or property. Further, the price agreed under such a contract can be by reference to an underlying factor, such as by reference to an index or a spot price on a given date. Contracts for differences (CFDs) fall under the definition in A2.3.1(b)(ii) and may include credit default swaps (CDSs) and forward rate agreements (FRAs). More exotic types of Derivative contracts may also fall within the definition in A2.3.1(b)(ii). These can include weather or electricity derivatives where the underlying factor by reference to which the parties’ entitlements are calculated can be the number of days in a period in which the temperature would reach below or above a specified level.
+
+4.
+
+The reference to “property” in Rule A2.3.1(b) will include a Crypto Token, therefore the definition covers a Future relating to a Crypto Token.
+
+Financial instrument declared as an investment
+
+(1)
+
+The DFSA may, subject to (5), declare by written notice any financial instrument or class of financial instruments to be a particular type of an existing Security or Derivative as defined in these Rules or a new type of a Security or Derivative. It may do so on such terms and conditions as it considers appropriate.
+
+(2)
+
+The DFSA may exercise the power under (1) either upon written application made by a Person or on its own initiative.
+
+185
+
+GEN/VER67/03-25
+
+A2.5
+
+GENERAL (GEN)
+
+(3) Without limiting the generality of the matters that the DFSA may consider when exercising its power under

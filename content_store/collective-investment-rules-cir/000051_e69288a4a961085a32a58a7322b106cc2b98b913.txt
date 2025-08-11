@@ -1,0 +1,94 @@
+ be repaid.
+
+Investment in Real Property
+
+A Fund Manager of a Fund other than a Property Fund must before investing in Real Property, appoint, with the approval of the Person providing the oversight function for the Fund, a Valuer with relevant expertise who meets the requirements in Rule 13.4.19 and likewise upon any vacancy to ensure that any property in the Fund Property is expertly valued.
+
+(1)
+
+The Fund Manager must ensure that the Valuer appointed under Rule 10.5.8 procures the proper valuation of all the property held within the Fund Property, on the basis of a full valuation with physical inspection including, where the property is or includes a building, an internal inspection at least once a year.
+
+(2)
+
+For the purposes of (1), any inspection in relation to adjacent properties of a similar nature and value may be limited to that of only one such representative property.
+
+(3)
+
+The Fund Manager must, subject to (4), ensure that the Valuer values the property, on the basis of a review of the last full valuation, at least every 12 months.
+
+(4)
+
+If any event occurs which may on reasonable grounds have a material effect on the valuation of the relevant property the Fund Manager must consult with the Valuer with a view to arranging a fresh valuation before any Units in the Fund are issued or redeemed after the date of the event.
+
+(5)
+
+The Fund Manager must require that any valuation by the Independent Valuer is on the basis of an 'open market value' as defined in the Constitution and Prospectus.
+
+80
+
+CIR/VER38/08-24
+
+COLLECTIVE INVESTMENT RULES (CIR)
+
+Guidance
+
+The DFSA would expect the Fund Manager to define ‘open market value’ to be based on an authoritative text such as the Royal Institute of Chartered Surveyors’ Appraisal and Valuation Standards (fifth edition) (“Red Book”) or similar practitioners text used by surveyors for the valuation to be a proper valuation under Rule 10.5.9(5).
+
+81
+
+CIR/VER38/08-24
+
+11
+
+NOT IN USE
+
+82
+
+COLLECTIVE INVESTMENT RULES (CIR)
+
+CIR/VER38/08-24
+
+12
+
+12.1
+
+12.1.1
+
+COLLECTIVE INVESTMENT RULES (CIR)
+
+REQUIREMENTS SPECIFIC TO EXEMPT FUNDS
+
+Meeting the conditions to be classified as an Exempt Fund
+
+Guidance
+
+1.
+
+Article 16(2) of the Law provides that a Domestic Fund may be constituted as an Exempt Fund only if it satisfies all of the conditions in Article 16(4). Article 16(4) provides that an Exempt Fund must:
+
+a.
+
+have its Units offered to persons only by way of a Private Placement;
+
+b.
+
+have only Unitholders each of whom meets the criteria to be classified as a Professional Client; and
+
+c.
+
+have a minimum subscription of at least US$50,000 for a person to become a Unitholder in the Fund,
+
+and not satisfy the conditions in Article 16(5) to be a Qualified Investor Fund.
+
+2.
+
+Under Article 26(1) of the Law, an Exempt Fund is required to have one of the permitted forms, i.e. an Investment Company, Investment Partnership or an Investment Trust. However, certain types of Exempt Funds which belong to a specialist class of Funds may be permitted to use only some and not all the permitted forms. See Part 6 for those variations.
+
+3.
+
+If an Exempt Fund can no longer meet the relevant conditions to be classified as an Exempt Fund, the Fund Manager of that Fund is required, under Article 34(3), to apply for the winding up of that Fund. Alternatively, the Fund Manager may have that Fund moved to the classification of a Public Fund, which requires the satisfaction of the requirements and formalities specific to that type of Fund. An Exempt Fund may also, if it wishes to, convert to a Qualified Investor Fund provided it meets the conditions applicable to a Qualified Investor Fund in Article 16(5) of the Law.
+
+4.
+
+In addition to the requirements specific to Exempt Funds, such a Fund must also meet, except where otherwise provided, the other requirements that are common to all Domestic Funds, which are set out in Part 4 of this module.
+

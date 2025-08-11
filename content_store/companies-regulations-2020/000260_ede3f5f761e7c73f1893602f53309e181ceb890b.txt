@@ -1,0 +1,135 @@
+ class of them, or
+
+(b)
+
+its members, or any class of them.
+
+(2)
+
+In this Part–
+
+“arrangement” includes a reorganisation of the company’s share capital by the consolidation of shares of different classes or by the division of shares into shares of different classes, or by both of those methods, and
+
+“company”, unless the context otherwise requires, means–
+
+(a)
+
+in section 806 (powers of Court to facilitate reconstruction or amalgamation or merger or division):
+
+(i)
+
+in the case of a compromise or arrangement falling within sections 806(1)(a) or 806(1)(c), a company formed or registered under these Regulations, and
+
+(ii)
+
+in the case of a compromise or arrangement falling within section 806(1)(b), a company formed or registered under these Regulations and
+
+443
+
+any non-ADGM company whose jurisdiction of incorporation permits such non-ADGM company to merge into a single company or body corporate or into a new company (or to become such a new company) as described in section 810(1)(a) or 810(1)(b), and
+
+(b)
+
+elsewhere in this Part, any company liable to be wound up under the Insolvency Regulations 2015 and any non-ADGM company whose jurisdiction of incorporation permits such non-ADGM company to merge into a single company or body corporate or into a new company (or to become such a new company) as described in section 810(1)(a) or 810(1)(b).
+
+(3)
+
+The provisions of this Part have effect subject to Part 26 (mergers and divisions) where that Part applies (see sections 808 and 809).
+
+802. Court order for holding of meeting
+
+(1)
+
+The Court may, on an application under this section, order a meeting of the creditors or class of creditors, or of the members of the company or class of members (as the case may be), to be summoned in such manner as the Court directs.
+
+(2)
+
+An application under this section may be made by–
+
+(a)
+
+the company,
+
+(b)
+
+any creditor or member of the company,
+
+(c)
+
+if the company is being wound up, the liquidator, or
+
+(d)
+
+if the company is in administration, the administrator.
+
+(3)
+
+Section 341 (representation of corporations at meetings) applies to a meeting of creditors under this section as to a meeting of the company (references to a member of the company being read as references to a creditor).
+
+803. Statement to be circulated or made available
+
+(1) Where a meeting is summoned under section 802–
+
+(a)
+
+every notice summoning the meeting that is sent to a creditor or member must be accompanied by a statement complying with this section, and
+
+(b)
+
+every notice summoning the meeting that is given by advertisement must either–
+
+(i)
+
+include such a statement, or
+
+(ii)
+
+state where and how creditors or members entitled to attend the meeting may obtain copies of such a statement.
+
+(2)
+
+The statement must–
+
+(a)
+
+explain the effect of the compromise or arrangement, and
+
+(b)
+
+in particular, state–
+
+(i)
+
+any material interests of the directors of the company (whether as directors or as members or as creditors of the company or otherwise), and
+
+444
+
+(ii)
+
+the effect on those interests of the compromise or arrangement, in so far as it is different from the effect on the like interests of other persons.
+
+(3) Where the compromise or arrangement affects the rights of debenture holders of the company, the statement must give the like explanation as respects the trustees of any deed for securing the issue of the debentures as it is required to give as respects the company’s directors.
+
+(4) Where a notice given by advertisement states that copies of an explanatory statement can be obtained by creditors or members entitled to attend the meeting, every such creditor or member is entitled, on making application in the manner indicated by the notice, to be provided by the company with a copy of the statement free of charge.
+
+(5)
+
+If a company fails to comply with this section, a contravention of these Regulations is committed by–
+
+(a)
+
+the company, and
+
+(b)
+
+every officer of the company who is in default.
+
+This is subject to subsection (7) below.
+
+(6)
+
+For this purpose the following are treated as officers of the company–
+
+(a)
+
+a liquidator or administrator of the company,

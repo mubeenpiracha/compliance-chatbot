@@ -1,0 +1,95 @@
+ Restricted Speculative Investment should be able to demonstrate to the DFSA the basis upon which it was reasonably satisfied that the issuer or provider of the Restricted Speculative Investment was subject to substantially similar requirements to those applicable under COB section 6.16.
+
+3.5.4 A Person must not make or approve a Financial Promotion that refers to a Token as an ‘investment token’, ‘security token’, ‘derivative token’ or uses any other name that suggests or implies it is an Investment or a particular type of Investment, unless the Person reasonably believes that it is such an Investment, or the particular type of Investment, as defined in App 2.
+
+Guidance
+
+A Person making or approving a Financial Promotion relating to a Token referred to in Rule 3.5.4 will also need to ensure that other aspects of the Financial Promotion are clear, fair and not misleading.
+
+3.6 Approval of Financial Promotions by an Authorised Firm
+
+3.6.1 For the purposes of GEN Rule 3.4.1(4)(a) and (b), an Authorised Firm must
+
+not approve a Financial Promotion unless:
+
+58
+
+GEN/VER67/03-25
+
+GENERAL (GEN)
+
+(a)
+
+the Financial Promotion includes a clear and prominent statement that it has been “approved by” the relevant Authorised Firm; and
+
+(b)
+
+the Financial Promotion is made in accordance with the requirements in Section 3.5.
+
+3.6.2 An Authorised Firm must not approve a Financial Promotion which is directed at a Person who appears on reasonable grounds to be a Retail Client unless:
+
+(a)
+
+it has an endorsement on its License which permits it to carry on a Financial Service with or for a Retail Client; and
+
+(b)
+
+the scope of its License includes the Financial Service and, if applicable, the particular financial product, to which the Financial Promotion relates.
+
+3.6.3 An Authorised Firm must ensure that a Financial Promotion it has approved
+
+complies with the requirements in this chapter on an on-going basis.
+
+Guidance
+
+An Authorised Firm which proposes to approve a Financial Promotion where all or part of that promotion will be real time, such as a live event, will need to consider whether it is able to comply effectively with any relevant Rules in relation to the Financial Promotion or its approval.
+
+59
+
+GEN/VER67/03-25
+
+GENERAL (GEN)
+
+3A. CRYPTO TOKEN REQUIREMENTS
+
+Guidance
+
+1.
+
+A Crypto Token is defined in section A2.5 of Appendix 2 of these Rules.
+
+2.
+
+Under chapter 2, only certain Financial Services directly apply to Crypto Tokens: Dealing in Investments as Principal; Dealing in Investments as Agent; Arranging Deals in Investments; Managing Assets; Advising on Financial Products; Providing Custody; Arranging Custody; Operating a Clearing House and Operating a Multilateral Trading Facility. However, other Financial Services may indirectly relate to a Crypto Token. For example, a Fund Manager may manage a Collective Investment Fund that invests in a Crypto Token, an Authorised Firm may (subject to the express restrictions in COB 15.6) Provide Credit to, or Arrange Credit for, a non- retail Crypto Token investor or a Money Services Provider may use a Crypto Token in limited circumstances (see Rule 3A.2.5).
+
+3.
+
+Under chapter 2A, a Crypto Token is a Financial Product to which the general prohibitions against misconduct in Article 41B of the Regulatory Law apply.
+
+4.
+
+Chapter 3 relating to Financial Promotions applies to Crypto Tokens.
+
+5.
+
+Other parts of GEN will also apply to Financial Services related to Crypto Tokens.
+
+6.
+
+This chapter sets out several requirements relating to Crypto Tokens that apply across different Financial Services and activities (e.g. Financial Promotions and Offers to the Public).
+
+3A.1 Definitions
+
+3A.1.1 In this chapter:
+
+(a)
+
+“Algorithmic Token” means a Crypto Token which uses, or purports to use, an algorithm to increase or decrease the supply of Crypto Tokens in order to stabilise its price or reduce volatility in its price;
+
+(b)
+
+“application” means an application to the DFSA for recognition of a Crypto Token;
+
+(c)
+
+“Privacy Device” means any technology, Digital Wallet or other mechanism or device (excluding a VPN), which has any feature or features used, or intended to be used, to hide, anonymise, obscure or prevent

@@ -1,0 +1,125 @@
+leading
+
+i.
+
+assess the risks associated with clearing and settlement on the MTF;
+
+ii.
+
+calculate the amount of clearing guarantee fund that is necessary;
+
+iii.
+
+recalibrate the figures in base and stress scenarios, for both spot and futures trades;
+
+iv.
+
+at all times, maintain enough capital resources to cover any drawdowns on the fund, over and above the buffers required to meet the minimum regulatory capital; and
+
+v.
+
+on an annual basis, present to the DFSA for approval the methodology and results of assessing the clearing and settlement risks, calculating the amount of the fund, designing the stress scenario, and planning the level of capital adequacy.
+
+After assessing these arrangements, the DFSA may ask the ATS Operator to present additional information or submit new reports, as well as require them to stop certain operations or hold more capital and liquidity, where required. Without limiting the application of general systems and controls requirements, the ATS Operator will be expected to have additional arrangements to mitigate the clearing and settlement risk further, with a view to minimising the chance of draw-down on the clearing guarantee fund. This would include, at a minimum:
+
+a.
+
+on-chain periodic clearing and settlement arrangements, where intra-day is the default option for the reflection of trading activity on any blockchain;
+
+b.
+
+account monitoring tools to detect users who are more likely than others to fail on their orders, and the use of dissuasive actions against such users (e.g., higher trading fees, penalties, temporary trading suspensions);
+
+c.
+
+technology solutions that enable pre-validation checks and control over both legs of the trade, for example, through a temporary hold on accounts and private keys of trading counterparties;
+
+d.
+
+where pre-validation controls are failing, adequate margin requirements or other mechanisms that could act as a defence against default, either technical or financial; and
+
+e.
+
+procedures for dealing with technical disruptions, for cancellation, amendment or correction of orders or matched transactions, or for unwinding trades, where needed.
+
+124
+
+COB/VER48/03-25
+
+9.7
+
+9.7.1
+
+9.8
+
+9.8.1
+
+CONDUCT OF BUSINESS (COB)
+
+ATS Operator not to execute orders against its own capital
+
+A Person operating a MTF or OTF must not execute any orders made on the facility against its own proprietary capital.
+
+Use of ‘investment token market’ and similar terms to refer to a facility
+
+An ATS Operator must not refer to a facility it operates as an ‘investment token market’, ‘security token market’, ‘derivative token market’, or using any other similar term, unless it is a facility on which only Investment Tokens are traded.
+
+Guidance
+
+1.
+
+An ATS Operator should not refer to a facility, where both Investment Tokens and conventional Investments are traded, using terms referred to in Rule 9.8.1.
+
+2.
+
+An ATS Operator that trades both conventional Investments and Investment Tokens may operate a distinct facility on which only Investment Tokens are traded, provided it is able to effectively maintain and demonstrate a clear separation between that facility and its other facilities on which conventional Investments are traded or cleared.
+
+125
+
+COB/VER48/03-25
+
+CONDUCT OF BUSINESS (COB)
+
+10
+
+CUSTODY PROVIDERS ACTING AS A CENTRAL SECURITIES DEPOSITORY (“CSD”)
+
+10.1 Application and interpretation
+
+10.1.1
+
+(1) This chapter applies to an Authorised Firm which operates a Central
+
+Securities Depository (CSD).
+
+(2) Such an Authorised Firm is referred to in this chapter as a CSD.
+
+Guidance
+
+The Financial Service of Providing Custody includes the activity of operating a CSD. See GEN Rule 2.13.1(1)(c) and (3).
+
+10.2 Additional requirements for CSDs
+
+10.2.1
+
+(1) A CSD must have rules and procedures, including robust accounting
+
+practices and controls that:
+
+(a)
+
+ensure the integrity of the securities issues; and
+
+(b)
+
+minimise and manage risks associated with the safekeeping and transfer of securities.
+
+(2) A CSD must ensure that securities referred to in (1)(a) are recorded in book-
+
+entry form prior to the trade date.
+
+(3) For the purposes of (1)(a), a CSD’s systems and controls must ensure that:
+
+(a)
+
+the unauthorised creation or deletion of securities

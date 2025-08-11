@@ -1,0 +1,109 @@
+ or
+
+(b)
+
+provides a book-entry Securities Settlement System (“SSS”),
+
+regardless of whether or not such a Person also operates a Central Securities Depository.
+
+(2)
+
+In (1), confirmation, clearance and settlement means the process of:
+
+(a)
+
+establishing settlement positions, including the calculation of net positions arising from any transactions in Investments or Crypto Tokens (the transactions);
+
+(b)
+
+checking that Investments, Crypto Tokens, cash or any combination of those assets, including margin, are available to secure the exposure arising from the transactions; and
+
+(c)
+
+securing the timely discharge (whether by performance, compromise or otherwise) of the rights and liabilities in relation to the transactions.
+
+(3)
+
+In (1)(a), a Person operates as a CCP where it:
+
+(a)
+
+ensures to Investments or Crypto Tokens made on a facility for trading Investments or Crypto Tokens; and
+
+the performance of open contracts relating
+
+(b)
+
+does so by interposing itself between counterparties to such contracts by becoming either the buyer to every seller, or the seller to every buyer.
+
+(4)
+
+In (1)(b), a Person operates an SSS where it operates a system which enables Investments held in accounts to be transferred and settled by book entry according to a set of predetermined multilateral rules.
+
+(5)
+
+Acting as a Central Securities Depository in (1) means holding securities in uncertificated (dematerialised) form to enable book entry transfer of such securities for the purposes of clearing or settlement of transactions on its own facility and on any other similar facility, including an Alternative Trading Facility or a facility supervised or regulated by another Financial Services Regulator.
+
+(6)
+
+To the extent that any activity under (1) constitutes Dealing In Investments as Principal, Dealing in Investments as Agent, Arranging Deals in Investments, Managing Assets, Arranging Custody or Arranging Credit, such Financial Services are taken to be incorporated within Operating a Clearing House, provided such activities are carried out as an incidental and integral part of Operating a Clearing House.
+
+Guidance
+
+1.
+
+The activity of operating a Central Securities Depository may be carried on by an Authorised Market Institution licensed to Operate a Clearing House in conjunction with its regulated activities, particularly operating an SSS. An Authorised Firm
+
+31
+
+GEN/VER67/03-25
+
+GENERAL (GEN)
+
+which has a licence authorising it to carry on Providing Custody may also operate a CSD under its licence (see Rule 2.13.1(3)). If a Clearing House were to operate a CSD through a subsidiary, that subsidiary would need to be licensed separately as an Authorised Firm Providing Custody.
+
+2.
+
+An Authorised Market Institution licensed to Operate a Clearing House may also act as a Trade Repository if it has an endorsement on its Licence that permits it to do so (see Rule 2.2.13). Acting as a Trade Repository does not constitute a Financial Service but is subject to the additional conducts requirements in App 5.
+
+3.
+
+In the case of Crypto Tokens, acting as a Central Counterparty is the only Clearing House activity relevant to Crypto Tokens, as providing a Securities Settlement System or acting as a Central Securities Depository are relevant only to Investments and Securities. For Crypto Tokens, transfers of the Crypto Tokens take place by means of Distributed Ledger Technology or other similar technology.
+
+2.19 Insurance intermediation
+
+2.19.1 (1)
+
+In Rule 2.2.2, Insurance Intermediation means:
+
+(a)
+
+advising on a Contract of Insurance;
+
+(b)
+
+acting as agent for another Person in relation to the buying or selling of a Contract of Insurance for that other Person;
+
+(c)
+
+making arrangements with a view to another Person, whether as principal or agent, buying a Contract of Insurance; or
+
+(d)
+
+operating an Insurance Aggregation Site.
+
+(2)
+
+In (1)(a), ‘advising’ means giving advice to a Person in his capacity as a Policyholder, or in his capacity as agent for a Policyholder on the merits of his entering into a Contract of Insurance whether as principal or agent.
+
+(3)
+
+In (2), ‘advice’ includes a statement, opinion or report:
+
+(a)
+
+where the intention is to influence a Person, in making a decision, to select a Contract of Insurance or insurance cover; or
+
+(b)
+
+which could reasonably be regarded as being intended to have such

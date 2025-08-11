@@ -1,0 +1,155 @@
+)
+
+Information which the Regulator requires in connection with an Application must be provided in such form, or verified in such manner, as the Regulator may direct.
+
+(3)
+
+Different directions may be given, or requirements imposed, by the Regulator with respect to different Applications.
+
+124. Recognition orders61
+
+(1)
+
+If it appears to the Regulator that the Applicant satisfies the Recognition Requirements applicable in its case, the Regulator may—
+
+(a)
+
+where the Application is made under section 121, make a Recognition Order declaring the Applicant to be a Recognised Investment Exchange;
+
+(b)
+
+where the Application is made under section 122, make a Recognition Order declaring the Applicant to be a Recognised Clearing House.
+
+(2)
+
+In considering an Application made under section 121 or 122, the Regulator may have regard to any information which it considers is relevant to the Application.
+
+(3)
+
+A Recognition Order must specify a date on which it is to take effect.
+
+(4)
+
+Section 135 has effect in relation to a decision to refuse to make a Recognition Order—
+
+(a)
+
+as it has effect in relation to a decision to revoke such an order; and
+
+(b)
+
+as if references to a Recognised Body were references to the Applicant.
+
+124A. Imposition of Requirements by the Regulator
+
+(1)
+
+Where a person has applied to the Regulator for a Recognition Order, or a Recognised Body, Remote Body or Remote Member has applied to the Regulator for the variation of a Recognition Order previously granted, the Regulator may impose on that person such Requirements, taking effect on or after the giving or variation of the Recognition Order, as the Regulator considers appropriate.
+
+(2)
+
+The Regulator's power under this subsection is a power to—
+
+(a)
+
+impose a new Requirement;
+
+61 Amended 21 February 2018.
+
+70
+
+(b)
+
+vary a Requirement imposed by the Regulator under this section; or
+
+(c)
+
+cancel such a Requirement.
+
+(3)
+
+The Regulator's power under subsection (2) is referred to in these Regulations as its Own-Initiative Requirement Power.
+
+(4)
+
+The Regulator may refuse an application under subsection (1) for the variation of a Recognition Order if it appears to it that it is desirable to do so in order to further one or more of its objectives.
+
+124B. Requirements under section 124A: further provisions
+
+(1)
+
+A Requirement may, in particular, be imposed so as to require the person concerned to —
+
+(a)
+
+take action specified by the Regulator; or
+
+(b)
+
+refrain from taking action specified by the Regulator.
+
+(2)
+
+A Requirement may be imposed by reference to the person's relationship with—
+
+(a)
+
+the person's Group; or
+
+(b)
+
+other members of the person's Group.
+
+(3)
+
+A Requirement may be expressed to expire at the end of such period as the Regulator may specify, but the imposition of a Requirement that expires at the end of a specified period does not affect the Regulator's power to impose a new Requirement.
+
+(4)
+
+A Requirement may refer to the past conduct of the person concerned (for example, by requiring the person concerned to review or take remedial action in respect of past conduct).
+
+124C. Exercise of Own Initiative Requirement Power: Procedure
+
+(1)
+
+This section applies to an exercise of Own-Initiative Requirement Power by the Regulator in relation to a Recognised Body ("A").
+
+(2)
+
+The imposition or variation of a Requirement takes effect—
+
+(a)
+
+immediately, if the notice given states that that is the case;
+
+(b)
+
+on such date as may be specified in the notice; or
+
+(c)
+
+if no date is specified in the notice, when the matter to which the notice relates is no longer open to review.
+
+(3)
+
+The imposition or variation of a Requirement may be expressed to take effect immediately or on a specified date only if the Regulator, having regard to the grounds on which it is exercising its Own-Initiative Requirement Power, reasonably considers that it is
+
+71
+
+necessary for the imposition or variation of the Requirement, to take effect immediately or on that date.
+
+(4)
+
+If the Regulator proposes to impose or vary a Requirement, or imposes or varies a Requirement with immediate effect, it must give A written notice.
+
+(5)
+
+The notice must—
+
+(a)
+
+give details of the Requirement or its variation;
+
+(b)
+
+state the Regulator's reasons for the

@@ -1,0 +1,109 @@
+ for whom the transaction is made to which the arrangement relates.
+
+201. Loans etc.: consequences of contravention
+
+(1)
+
+This section applies where a company enters into a transaction or arrangement in contravention of section 186 (loans to directors), 187 (quasi-loans to directors), 189 (loans or quasi-loans to persons connected with directors), 190 (credit transactions) or 192 (related arrangements).
+
+(2)
+
+The transaction or arrangement is voidable at the instance of the company, unless–
+
+(a)
+
+restitution of any money or other asset that was the subject matter of the transaction or arrangement is no longer possible,
+
+(b)
+
+the company has been indemnified for any loss or damage resulting from the transaction or arrangement, or
+
+(c)
+
+rights acquired in good faith, for value and without actual notice of the contravention by a person who is not a party to the transaction or arrangement would be affected by the avoidance.
+
+(3) Whether or not the transaction or arrangement has been avoided, each of the persons
+
+specified in subsection (4) is liable–
+
+(a)
+
+to account to the company for any gain that he has made directly or indirectly by the transaction or arrangement, and
+
+(b)
+
+(jointly and severally with any other person so liable under this section) to indemnify the company for any loss or damage resulting from the transaction or arrangement.
+
+(4)
+
+The persons so liable are–
+
+(a)
+
+any director of the company or of its holding company with whom the company entered into the transaction or arrangement in contravention of section 186 (loans to directors), 187 (quasi-loans to directors), 190 (credit transactions) or 192 (related arrangements),
+
+(b)
+
+any person with whom the company entered into the transaction or arrangement in contravention of any of those sections who is connected with a director of the company or of its holding company,
+
+(c)
+
+the director of the company or of its holding company with whom any such person is connected, and
+
+143
+
+(d)
+
+any other director of the company who authorised the transaction or arrangement.
+
+(5)
+
+Subsections (3) and (4) are subject to the following two subsections.
+
+(6)
+
+In the case of a transaction or arrangement entered into by a company in contravention of section 189 (loans or quasi-loans to persons connected with directors), 190 (credit transactions) or 192 (related arrangements) with a person connected with a director of the company or of its holding company, that director is not liable by virtue of subsection (4)(c) if he shows that he took all reasonable steps to secure the company’s compliance with the section concerned.
+
+(7)
+
+In any case–
+
+(a)
+
+a person so connected is not liable by virtue of subsection (4)(b), and
+
+(b)
+
+a director is not liable by virtue of subsection (4)(d),
+
+if he shows that, at the time the transaction or arrangement was entered into, he did not know the relevant circumstances constituting the contravention.
+
+(8)
+
+Nothing in this section shall be read as excluding the operation of any rule of law applicable in the Abu Dhabi Global Market by virtue of which the transaction or arrangement may be called in question or any liability to the company may arise.
+
+202. Loans etc.: effect of subsequent affirmation
+
+Where a transaction or arrangement is entered into by a company in contravention of section 186 (loans to directors), 187 (quasi-loans to directors), 189 (loans or quasi-loans to persons connected with directors), 190 (credit transactions) or 192 (related arrangements) but, within a reasonable period, it is affirmed–
+
+(a)
+
+in the case of a contravention of the requirement for a resolution of the members of the company, by a resolution of the members of the company, and
+
+(b)
+
+in the case of a contravention of the requirement for a resolution of the members of the company’s holding company, by a resolution of the members of the holding company,
+
+the transaction or arrangement may no longer be avoided under section 201 (loans etc.: consequences of contravention).
+
+Payments for loss of office
+
+203. Payments for loss of office
+
+(1)
+
+In this Chapter a “payment for loss of office” means a payment made to a director or past director of a company–
+
+(a)
+
+by way of compensation for loss

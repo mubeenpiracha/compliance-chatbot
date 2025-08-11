@@ -1,0 +1,157 @@
+ of the PRMS Guidelines provide specific guidance on Reference Points.
+
+(4)
+
+If Petroleum Reserves are not disclosed net of CiO up to the Reference Point, the disclosure is to identify the portion of the Petroleum Reserves that will be consumed as fuel in production and lease plant operations;
+
+Guidance
+
+Section 9.1 of the PRMS Guidelines provide specific guidance on CiO (lease fuel).
+
+(5)
+
+it must not disclose a mean estimate of Petroleum Reserves;
+
+(6) where the disclosure represents aggregated estimates of Petroleum Reserves:
+
+(a)
+
+it must include the aggregation method used, which must be either:
+
+(i)
+
+an arithmetic summation by category, being 1P, 2P or 3P; or
+
+(ii)
+
+a statistical aggregation of uncertainty distributions up to the field, property of project level; and
+
+(b)
+
+where Rule 12.7.1(5)(a)(i) applies, it must include a statement to the effect that the aggregate 1P may be a very conservative estimate and the aggregate 3P may be a very optimistic estimate due to the portfolio effects of arithmetic summation.
+
+Guidance
+
+The Petroleum Reporting Standard defines ‘aggregated’ in section 4.2.5 and its Appendix A. Sections 1.1, 2.1, 4.1, 5.1, 6.26 and 8.1 of the PRMS Guidelines provide additional guidance on aggregation.
+
+(7)
+
+if Petroleum Reserves are disclosed beyond the field, property or project level, estimates of Petroleum Reserves must be aggregated by arithmetic summation by category beyond the relevant field, property or project level;
+
+Confidential
+
+142
+
+MKT VER09.020125
+
+(8)
+
+if a Petroleum Reserves replacement ratio is disclosed, it must disclose an explanation of how the Petroleum Reserves replacement ratio was calculated.
+
+12.12 Petroleum Reserves – Material Changes
+
+12.12.1 A Petroleum Reporting Entity disclosing estimates of Petroleum Reserves that are material and that have not previously been disclosed by the Petroleum Reporting Entity must ensure the disclosure contains:
+
+(1)
+
+in relation to the assumptions used to calculate the estimates of Petroleum Reserves:
+
+(a)
+
+all material economic assumptions utilised; or
+
+(b)
+
+if the Petroleum Reporting Entity considers the material economic assumptions to be commercially sensitive, a statement to that effect and an explanation of the methodology used to determine the material economic assumptions;
+
+Guidance
+
+A Petroleum Reporting Entity that considers certain information relating to the material economic assumptions to be commercially sensitive should refer to paragraphs 66-74 of the Guidance on Petroleum Disclosures and paragraphs 127 and 128 of the Guidance on Continuous Disclosure.
+
+(2) details of whether the Petroleum Reporting Entity has operator or non-operator
+
+interests, and if applicable, the name of the operator;
+
+(3) a description:
+
+(a)
+
+the basis for confirming commercial producibility;
+
+(b)
+
+the method of estimation;
+
+(c)
+
+the proposed Extraction method/parameters;
+
+(d)
+
+any specialised processing required following Extraction; and
+
+(e)
+
+any other modifying factors or information that would reasonably be required to allow investors to make informed decisions on the validity of the Petroleum Reserves;
+
+(4)
+
+if the estimate of Petroleum Reserves relate to Developed Petroleum Reserves, the estimated quantities (in aggregate) to be recovered from existing wells and facilities;
+
+(5)
+
+if the estimate of Petroleum Reserves relate to Undeveloped Petroleum Reserves, details of the:
+
+Confidential
+
+143
+
+MKT VER09.020125
+
+(a)
+
+status of the relevant project, including any environmental approvals required;
+
+(b)
+
+estimated quantities (in aggregate) to be recovered through future investment;
+
+(c)
+
+date anticipated for development of the well(s);
+
+(d)
+
+marketing, and investment, arrangements that justify development; and
+
+(e)
+
+requirements for access to transportation infrastructure, if applicable.
+
+(6)
+
+if the estimates of Petroleum Reserves relate to Unconventional Petroleum Resources, the
+
+(a)
+
+type(s) of Unconventional Petroleum Resource;
+
+(b)
+
+land area;
+
+(c)
+
+number of wells; and
+
+(d)
+
+specialised extraction technology proposed, if applicable, to be utilised.
+
+Guidance
+
+The Petroleum Reporting Standard defines ‘Unconventional Resources’ in section 2.4 and its Appendix A. Sections 1.1 and 8.6 of the PRMS Guidelines provide additional guidance on Unconventional Petroleum Resources.
+
+(7)
+
+if 1P is zero for the

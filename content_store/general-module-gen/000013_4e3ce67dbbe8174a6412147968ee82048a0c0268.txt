@@ -1,0 +1,145 @@
+ as a necessary part of any other services provided in the course of providing legal or accountancy services; and
+
+(c)
+
+is not remunerated separately from the other services.
+
+2.8.3 A Person does not Deal in Investments as Agent if that Person:
+
+(a)
+
+is merely receiving and transmitting a Client order in respect of an Investment or Crypto Token; and
+
+(b)
+
+does not execute the Client order for and on behalf of the Client or otherwise commit the Client to the transaction relating to the relevant Investment or Crypto Token.
+
+2.8.4 An Exchange does not Deal in Investments as Agent merely by taking action
+
+in accordance with its Default Rules.
+
+2.9 Arranging deals in investments
+
+2.9.1
+
+(1)
+
+In Rule 2.2.2, Arranging Deals in Investments means making to another Person buying, selling, arrangements with a view subscribing for or underwriting an Investment or Crypto Token (whether that other Person is acting as principal or agent).
+
+(2)
+
+The arrangements in (1) include:
+
+(a) arrangements which do not bring about the transaction; and
+
+(b) arrangements comprising or
+
+receipt and transmission of Client orders in relation to Investments or Crypto Tokens.
+
+involving
+
+the
+
+(3)
+
+The arrangements in (1) do not include arrangements which amount to Operating an Alternative Trading System.
+
+(4)
+
+In this Rule and in Rules 2.9.2 to 2.9.7, an “Investment” includes rights under a contract of Long-Term Insurance, that is not a contract of reinsurance.
+
+Guidance
+
+What constitutes ‘Arranging deals in Investments’?
+
+17
+
+GEN/VER67/03-25
+
+GENERAL (GEN)
+
+1.
+
+The activities which constitute making arrangements with a view to another Person buying, selling, underwriting or subscribing for an Investment or Crypto Token (whether that other Person is acting as principal or agent) generally involve the following elements:
+
+a.
+
+the purpose of such an arrangement is to ‘facilitate’ or ‘bring about’ transactions between other parties such as:
+
+i.
+
+buyers and sellers of Investments or Crypto Tokens;
+
+ii.
+
+issuers of and subscribers for Securities (note – subscription is generally an activity associated with an initial offer of Securities);
+
+iii.
+
+issuers of and buyers of Crypto Tokens
+
+iv.
+
+issuers and underwriters of Securities or Crypto Tokens (note – underwriting here is an activity associated with an initial offer of Securities or Crypto Tokens, as opposed to underwriting of risks, which is an activity of an insurer); and
+
+v.
+
+insurers writing Long-Term Insurance and policyholders who wish to obtain such insurance.
+
+b. such arrangements can be either of an on-going nature, for example, an arrangement which is available to potential buyers or sellers of Investments or Crypto Tokens, or an arrangement which is bespoke (i.e. available on a one-off basis for a particular client, such as an underwriter of Securities or Crypto Tokens).
+
+2.
+
+The activities referred to in Guidance item 1 can include one or more of the following:
+
+a.
+
+the introduction of:
+
+i.
+
+potential buyers of Investments or Crypto Tokens to issuers or sellers of Investments or Crypto Tokens, or vice versa;
+
+ii.
+
+potential subscribers for Securities to issuers;
+
+iii.
+
+potential underwriters to issuers of Securities or Crypto Tokens, or vice– versa;
+
+iv.
+
+potential parties to a derivatives transaction; and
+
+v.
+
+policyholders or cedants to insurers or reinsurers underwriting Long-Term Insurance;
+
+b.
+
+assisting any of the parties referred to in a. through activities, such as, completing the applications or other processes relevant to the transaction;
+
+c.
+
+negotiating and settling terms of the contracts between the parties referred to in a.;
+
+d.
+
+collecting and processing fees, commissions or other payments (such as premiums in the case of Long-Term Insurance); and
+
+e.
+
+transmitting instructions or confirmations relating to transactions.
+
+Do arrangements which form part of another facility constitute arranging?
+
+18
+
+GEN/VER67/03-25
+
+GENERAL (GEN)
+
+3.
+
+An arrangement which is part of a wider arrangement for the purpose of bringing about transactions in Investments or Crypto Tokens still falls within the scope of the Financial Service of arranging. For example, an arranger may arrange (i.e. allow access) for potential investors to access a facility set up by an offeror of Securities. The arrangement to allow access constitutes arranging

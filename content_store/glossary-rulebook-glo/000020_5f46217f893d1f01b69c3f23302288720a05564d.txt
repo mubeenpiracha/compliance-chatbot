@@ -1,0 +1,113 @@
+ Reporting Standard.
+
+In relation to GEN 8.8, means, in respect of a Person, shares, voting rights or a right to acquire shares or voting rights in an Authorised Person or a Holding Company of that firm held by that Person either alone or with any Associate, and 'Holds', 'Hold', 'Held' and 'Holder' shall be interpreted accordingly.
+
+Has the meaning given in section 1015 of the Companies Regulations.
+
+Means, in relation to a Fund, the Jurisdiction in which the Fund is established or domiciled.
+
+Means:
+
+(a)
+
+in relation to a Passported Fund, the Authority that is responsible for regulating the Passported Fund in the Home Jurisdiction where the Fund is established or domiciled; and
+
+(b)
+
+in relation to the Fund Manager of a Passported Fund, the Authority that is responsible for regulating the Fund Manager in the Home Jurisdiction where the Passported Fund is established or domiciled.
+
+Means, in relation to a Passported Fund, a Jurisdiction into which the Passported Fund may be Promoted under the Fund Passporting Rules.
+
+Means in relation to a Passported Fund, the Authority in the Host Jurisdiction into which a Passported Fund may be Promoted in accordance with the Fund Passporting Rules.
+
+Means the Green Bond Principles developed by the International Capital Market Association as may be amended from time to time.
+
+Means the Guidelines for Green, Social and sustainability Debentures Reviews developed by the International Capital Market Association as may be amended from time to time.
+
+Means the Sustainability-Linked Bond Principles developed by the International Capital Market Association as may be amended from time to time.
+
+41
+
+GLO VER23.290725
+
+Defined Terms
+
+ICT Asset
+
+ICT Service
+
+Identity and Access Management Practices
+
+IFR
+
+IFRS for Small and Medium Sized Enterprises
+
+Ijara
+
+Ijara Muntahia Bittamleek
+
+Ijma
+
+Ijtihad
+
+Incorporated Cell Company
+
+Indicated Mineral Resources
+
+Individual Client Segregation
+
+Definitions
+
+Means any data, any device or any other component of information technology infrastructure, such as application software, firmware, databases, hardware, or end-user computing tools being used for information and communication technology (ICT) activity.
+
+Means an information and communication technology (ICT) related service, such as the hosting, maintenance or provision of repair services of ICT Assets or any other service that involves accessing an Authorised Person’s IT Systems or Networks or accessing or processing an Authorised Person’s data.
+
+Means the people, processes, procedures and technology that identify and manage the information used in an IT System to authenticate users and grant or deny access rights to information and IT system resources.
+
+Means the Islamic Finance Rulebook.
+
+Means the International Financial Reporting Standards for small and medium sized enterprises as issued and amended from time to time by the International Accounting Standards Board.
+
+Means a contract of lease/hire.
+
+Means a form of leasing contract which includes a promise by the lessor to transfer the ownership of the leased property to the lessee, either at the end of the term of the lease period or by stages during the term of the contract.
+
+Means consensus of the Islamic community on a particular issue.
+
+Means effort, exertion, industry or diligence; the endeavour of a qualified Islamic jurist to derive or formulate a rule of law on the basis of evidence found in the sources of Islam.
+
+Means a company incorporated as, or converted into, an Incorporated Cell Company in accordance with the provisions of the regulations made under Companies Regulations.
+
+Has the meaning of the term or equivalent term in a Mining Reporting Standard.
+
+Means in relation to a Recognised Clearing House, keeping separate records and accounts enabling each Clearing Member to distinguish in accounts with the Recognised Clearing House the assets and positions held for the account of a Client from those held for the account of other Clients.
+
+42
+
+GLO VER23.290725
+
+Defined Terms
+
+Definitions
+
+Inferred Mineral Resources
+
+Has the meaning of the term or equivalent term in a Mining Reporting Standard.
+
+Inside Information
+
+Has the meaning given in section 95 of FSMR.
+
+Insider
+
+Has the meaning given in section 94 of FSMR.
+
+Insider Dealing
+
+Means the behaviour specified in section 92(2) of FSMR.
+
+Insolvency Regulations Means the Insolvency Regulations 2022.
+
+Instrument
+
+Means, in relation to a Derivative, any Investment, asset or thing on which the value of the Derivative may be

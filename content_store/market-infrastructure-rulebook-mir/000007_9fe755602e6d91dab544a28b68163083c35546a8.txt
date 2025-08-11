@@ -1,0 +1,169 @@
+ the extent appropriate and practicable, made publicly available.
+
+Information transmission
+
+8.
+
+When assessing its systems and controls in relation to transmission of is information, a Recognised Body should ensure that transmitted promptly and accurately:
+
+information
+
+(a)
+
+within the Recognised Body itself;
+
+(b)
+
+to its Members; and
+
+(c)
+
+(where appropriate) to other market participants or other relevant Persons.
+
+Risk management
+
+9.
+
+When assessing its systems and controls for assessing and managing risk, a Recognised Body should ensure that is able to:
+
+(a)
+
+identify, measure and control all the general, operational, legal and market risks wherever they arise in its activities;
+
+(b)
+
+allocate responsibility for risk management to Persons with appropriate knowledge and expertise; and
+
+(c)
+
+provide sufficient, reliable information to Key Individuals and, where relevant, the Governing Body of the Recognised Body.
+
+Internal and external audit
+
+10.
+
+When assessing whether it has appropriate internal and external audit arrangements in place, a Recognised Body should consider the:
+
+(a)
+
+size, composition and terms of reference of any audit committee of the Recognised Body's Governing Body;
+
+(b)
+
+frequency and scope of external audit;
+
+(c)
+
+provision and scope of internal audit;
+
+(d)
+
+staffing and resources of the Recognised Body's internal audit department;
+
+12
+
+MIR VER10.290725
+
+(e)
+
+internal audit department's access to the Recognised Body's records and other relevant information; and
+
+(f)
+
+position, responsibilities and reporting lines of the internal audit department and its relationship with other departments of the Recognised Body.
+
+Information technology systems
+
+11.
+
+When assessing the adequacy of its information technology systems, a Recognised Body should:
+
+(a)
+
+consider the organisation, management and resources of information technology department;
+
+(b)
+
+consider its arrangements for controlling and documenting the design, development, information technology systems;
+
+implementation and use of
+
+(c)
+
+consider the performance, capacity and reliability of information technology systems; and
+
+(d)
+
+have arrangements technical and operational standards and specifications information technology systems, including:
+
+for maintaining, recording and enforcing for
+
+procedures for the evaluation, selection and testing of information technology systems;
+
+procedures for problem management and system change;
+
+arrangements to monitor and report system performance,
+
+availability and integrity;
+
+arrangements (including spare capacity and access to back-up facilities) made to ensure information technology systems are resilient and not prone to failure;
+
+arrangements made to ensure business continuity in the event that an information technology system does fail;
+
+arrangements made to protect information technology systems from damage, tampering, misuse or unauthorised access; and
+
+arrangements made to ensure the integrity of data forming part information technology
+
+of, or being processed through, systems; and
+
+arrangements to keep clear and complete audit trails of all uses of information technology systems and to reconcile (where
+
+its
+
+13
+
+MIR VER10.290725
+
+appropriate) the audit trails with equivalent information held by system users and other interested parties.
+
+Effecting and monitoring of transactions and operation of settlement arrangements
+
+12.
+
+When assessing its systems and controls for the effecting and monitoring of transactions, and for the operation of settlement arrangements, a Recognised Body should have regard to the totality of the arrangements and processes through which its transactions are effected, cleared and settled, including:
+
+(a)
+
+its arrangements under which orders are received and matched, its arrangements for trade and transaction reporting, and (if relevant) its arrangements with another Person under which any rights or liabilities arising including arrangements for transmission to a settlement system or Recognised Clearing House;
+
+from transactions are discharged
+
+(b)
+
+if relevant, its arrangements under which instructions relating to a transaction to be cleared by another person by means of a Clearing Service are entered into its systems by the relevant person providing the Clearing Service and transmitted to the Recognised Body; and
+
+(c)
+
+its arrangements for monitoring and reviewing the operation of these systems and controls.
+
+Safeguarding and administration of assets
+
+13.
+
+When assessing its systems and controls for the safeguarding and administration of assets belonging to users of its facilities, a Recognised Body should have regard to the totality of the arrangements and processes by which it:
+
+(a)
+
+records the assets held and the identity of the owners of (and other persons with relevant rights over) those assets;
+
+(b)
+
+records any instructions given in relation to those assets;
+
+(c)
+
+records the carrying out of those instructions;
+
+(d)
+
+records any movement in those assets (or any corporate actions

@@ -1,0 +1,101 @@
+ and futures commission merchants, and Qualifying CCPs.
+
+4.13.10 In addition to the requirements in Rule 4.13.9, where an Authorised Firm has an Exposure that is protected by a guarantee or that is counter-guaranteed by a central government or Central Bank, a regional government or local authority, a PSE referred to in Rule 4.12.3(2), a MDB or an international organisation to which a 0% risk weight is assigned under section 4.12, an Authorised Firm may treat the Exposure as being protected by a direct guarantee from the central government or Central Bank in question, provided the following requirements are complied with:
+
+(a)
+
+the counter-guarantee covers all Credit Risk elements of the Exposure;
+
+(b)
+
+both the original guarantee and the counter-guarantee comply with all the requirements for guarantees set out in this section, except that the counter- guarantee need not be direct and explicit with respect to the original Exposure; and
+
+(c)
+
+the Authorised Firm is able to satisfy the DFSA that the cover is robust and that nothing in the historical evidence suggests that the coverage of the counter-guarantee is less than effectively equivalent to that of a direct guarantee by the entity in question.
+
+Credit Derivatives
+
+4.13.11 (1)
+
+An Authorised Firm may recognise the effects of Credit Risk mitigation of a Credit Derivative only if it is provided by any of the following entities:
+
+(a)
+
+central government or Central Bank;
+
+(b) MDB referred to in Rules 4.12.4 to 4.12.5;
+
+(c)
+
+International Organisations referred to in Rule 4.12.6;
+
+(d) PSE;
+
+(e) prudentially regulated financial institutions;
+
+(f) where credit protection is provided to a non-securitisation Exposure, any entity that has an external credit assessment by a recognised external credit rating agency, including credit protection provided by a Parent or a Subsidiary; or
+
+(g) where credit protection is provided to a securitisation Exposure, any entity that has an external credit assessment by a recognised external credit rating agency of Credit Quality Grade 3 or above, including credit protection provided by a Parent or a Subsidiary.
+
+136
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+(2)
+
+An Authorised Firm may recognise the effects of Credit Risk mitigation of only the following types of Credit Derivatives:
+
+(a)
+
+credit default swaps;
+
+(b)
+
+total return swaps;
+
+(c)
+
+credit linked notes which are cash funded; and
+
+(d)
+
+instruments that are composed of, or are similar in economic substance, to one or more of the Credit Derivatives in (a) to (c).
+
+(3)
+
+An Authorised Firm must not recognise the effects of Credit Risk mitigation of first-to-default and all other nth-to-default credit derivatives.
+
+(4)
+
+In (1)(e) the term ‘prudentially regulated financial institution’ means a legal entity:
+
+(a) whose activities are primarily financial in nature and which is supervised by a regulator that imposes prudential requirements consistent with international norms; or
+
+(b) which is included in a consolidated group where any substantial legal entity in the consolidated group whose activities are primarily financial in nature is supervised by a regulator that imposes prudential requirements consistent with international norms.
+
+Guidance
+
+1.
+
+Prudentially regulated financial institutions in Rule 4.13.11(4) include prudentially regulated insurance companies, broker/dealers, thrifts and futures commission merchants, or Qualifying CCPs.
+
+4.13.12 (1)
+
+An Authorised Firm must not, subject to (2), recognise the effects of Credit Risk mitigation of any Credit Derivative unless all of the following requirements are complied with:
+
+(a)
+
+the terms and conditions of any credit protection obtained via a Credit Derivative must be set out in writing by both the Authorised Firm and the provider of credit protection;
+
+(b)
+
+the Credit Derivative must represent a direct claim on the provider of credit protection;
+
+(c)
+
+the extent of the credit protection cover is clearly defined and incontrovertible;
+
+(d) other than in the event of non-payment by the Authorised Firm of money due in respect of the Credit Derivative, there is an irrevocable obligation on the part of the provider of the credit protection to pay

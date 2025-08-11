@@ -1,0 +1,189 @@
+ Services
+
+Mergers and acquisitions, Underwriting, privatisations, securitisation, research, debt (government, high yield), equity, syndications, IPO, secondary private placements.
+
+Trading and Sales
+
+Sales
+
+Market Making
+
+Proprietary Positions
+
+Treasury
+
+Fixed income, equity, foreign exchanges, commodities, credit, funding, own position Securities, lending and repos, brokerage, debt, prime brokerage.
+
+393
+
+PRU VER17.290725
+
+Level 1
+
+Retail Banking
+
+Commercial Banking
+
+Payment and Settlement
+
+Agency Services
+
+Asset Management
+
+Level 2
+
+Retail Banking
+
+Private Banking
+
+Card Services
+
+Commercial Banking
+
+External Clients
+
+Custody
+
+Corporate Agency
+
+Corporate Trust
+
+Discretionary Fund Management
+
+Non-Discretionary Fund Management
+
+Activity Groups
+
+Retail lending and Deposits, banking services, trust and estates.
+
+Private lending and Deposits, banking services, trust and estates, investment advice.
+
+Merchant/commercial/ corporate cards, private labels and retail.
+
+Project finance, real estate, export finance, trade finance, factoring, leasing, lending, guarantees, bills of exchange.
+
+Payments and collections, funds transfer, clearing and Settlement.
+
+Note: Payment and settlement losses related to an Authorised Person's own activities would be incorporated in the loss experience of the affected business line.
+
+Escrow, depository receipts, Securities lending (customers) corporate actions.
+
+Issuer and paying agents.
+
+n/a
+
+Pooled, segregated, retail, institutional, closed, open, private Equity.
+
+Pooled, segregated, retail, institutional, closed, open.
+
+394
+
+PRU VER17.290725
+
+Level 1
+
+Retail Brokerage
+
+Level 2
+
+Retail Brokerage
+
+Activity Groups
+
+Execution and full service.
+
+395
+
+PRU VER17.290725
+
+APP8 NOT USED
+
+APP9 NOT USED
+
+396
+
+PRU VER17.290725
+
+APP10
+
+LIQUIDITY
+
+A10.1
+
+Application for a global liquidity concession
+
+A10.1.1
+
+(1)
+
+This Rule applies to an Authorised Person carrying on business in or from the ADGM through a Branch that applies for a global liquidity concession under Rule 9.3.2.
+
+(2)
+
+The Authorised Person must demonstrate to the Regulator that:
+
+(a)
+
+its Branch complies with all applicable liquidity systems and controls requirements in section 9.2;
+
+(b)
+
+its head office is established in a jurisdiction where there are no legal constraints imposed by the home supervisor or any other authority on the provision of liquidity to its Branch; and
+
+(c)
+
+its head office is subject to equivalent or more restrictive liquidity requirements, than those imposed by the Regulator.
+
+(3)
+
+The Regulator may, when considering an application from the Authorised Person for a global liquidity concession, impose additional or alternative conditions to those specified in (2) or disapply a condition in (2).
+
+Guidance
+
+1.
+
+An application for a global liquidity concession pursuant to Rule 9.3.2 should include at least the following:
+
+a.
+
+a clear description of the home supervisor's requirements for managing, monitoring and controlling liquidity risk;
+
+b.
+
+a clear description of the systems and controls used by the head office to ensure the adequacy of the Branch's liquidity;
+
+c.
+
+a written assurance from the Authorised Person's head office that it will:
+
+i.
+
+ensure that adequate liquidity is available at all times to support the Branch;
+
+ii.
+
+notify the Regulator, at the same time as it notifies its home supervisor, of any material issues concerning its Exposure to Liquidity Risk and issues in relation to its compliance with applicable liquidity limits, including its liquidity coverage ratio; and
+
+iii.
+
+in the event of a liquidity crisis, provide the Regulator with all relevant information on the whole Authorised Person's liquidity, and a list of any known constraints on the head office, legal or otherwise, providing the Branch with liquidity.
+
+397
+
+PRU VER17.290725
+
+d.
+
+a notification from the Authorised Person's home supervisor:
+
+i.
+
+expressing no objection to the Branch obtaining the Regulator's liquidity concession or acknowledging the Branch application to the Regulator for a global liquidity concession; and
+
+ii.
+
+providing information about, and confirming, the quality of Liquidity Risk systems and controls and the liquidity Exposures at the Authorised Person's head office.
+
+2.
+
+Under Rule A10.1.1(2)(b),

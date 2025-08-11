@@ -1,0 +1,109 @@
+ not less than its relevant Base Capital Requirement at the time that it obtains authorisation and at all times thereafter.
+
+Expenditure Based Capital Minimum
+
+This section applies to an Authorised Firm if it is:
+
+(a)
+
+in Category 2;
+
+(b)
+
+in Category 3A, 3B, 3C (other than an Authorised Firm that only Manages a Venture Capital Fund) or 3D and meets any of the following conditions:
+
+41
+
+PIB/VER50/07-25
+
+3.7.2
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+(i)
+
+it holds Client Assets in any of the circumstances specified in COB Rule 6.11.4(a) to (c); or
+
+(ii)
+
+its Licence authorises it to:
+
+(A) Provide Custody;
+
+(B) Act as the Trustee of a Fund;
+
+(C) Manage a Collective Investment Fund
+
+(D) Provide Money Services;
+
+(E) Operate an Employee Money Purchase Scheme; or
+
+(F) Act as the Administrator of an Employee Money Purchase Scheme;
+
+or
+
+(c)
+
+in Category 4 and meets any of the following conditions:
+
+(i)
+
+its Licence authorises it to carry on the Financial Service of Operating a Crowdfunding Platform and it holds Clients Assets in any of the circumstances specified in COB Rule 6.11.4(a) to (c);
+
+(ii)
+
+its Licence authorises it to carry on the Financial Service of Providing Money Services (where it only provides Money Transmissions); or
+
+(iii)
+
+it holds Insurance Monies and its Licence authorises it to carry on any of the following Financial Services:
+
+(A)
+
+Insurance Intermediation; or
+
+(B)
+
+Insurance Management.
+
+Guidance
+
+The Expenditure Based Capital Minimum is a component of the calculation of the Capital Requirement under sections 3.4 and 3.5 and is a key factor in the calculation of the capital components under Rule 3.2.7.
+
+An Authorised Firm must calculate its Expenditure Based Capital Minimum by multiplying its Annual Audited Expenditure, calculated in accordance with Rule 3.7.3, with the applicable ratio, as set out in the following table:
+
+Category
+
+Applicable ratio
+
+Category 2
+
+1.
+
+If an Authorised Firm holds Client Assets in any of the circumstances specified in COB Rule 6.11.4(a) to (c), 18/52.
+
+2.
+
+In any other case, 13/52.
+
+42
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+Category 3
+
+1. Subject to points (2) to (6), if an Authorised Firm holds Client Assets in any of the circumstances specified in COB Rule 6.11.4(a) to (c), or its Licence authorises it to Provide Custody, Act as the Trustee of a Fund or Manage a Collective Investment Fund, 13/52. 2.
+
+1. Subject to points (2) to (6), if an Authorised Firm holds Client Assets in any of the circumstances specified in COB Rule 6.11.4(a) to (c), or its Licence authorises it to Provide Custody, Act as the Trustee of a Fund or Manage a Collective Investment Fund, 13/52. If an Authorised Firm’s Licence authorises it to Provide Money Services and it holds Client Assets in any of the circumstances specified in COB Rule 6.11.4(a) to (c), 18/52.
+
+3.
+
+If an Authorised Firm’s Licence authorises it to Provide Money Services (where it does not issue Stored Value) and it does not hold Client Assets in any of the circumstances specified in COB Rule 6.11.4(a) to (c), 9/52.
+
+4.
+
+If an Authorised Firm’s Licence authorises it to Operate an Employee Money Purchase Scheme and it holds Client Assets in any of the circumstances specified in COB Rule 6.11.4(a) to (c), 18/52.
+
+If an Authorised Firm’s Licence authorises it to Operate an Employee Money Purchase Scheme or Provide Money Services (where it issues Stored Value) and it does not hold Client Assets in any of the circumstances specified in

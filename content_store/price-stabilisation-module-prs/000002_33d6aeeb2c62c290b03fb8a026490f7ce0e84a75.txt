@@ -1,0 +1,95 @@
+ permitted by (a), (b), (c), and (d).
+
+2.2.3 Any over-allotment permitted by Rule 2.2.2(a) must meet the following criteria:
+
+(a)
+
+Eligible Securities may be over-allotted only during the Offer period and at the Offer Price;
+
+(b)
+
+the over-allotment option may be exercised by the beneficiaries of such an option only where Eligible Securities have been over-allotted;
+
+(c)
+
+the over-allotment option may not amount to more than 15% of the original Offer;
+
+(d)
+
+the exercise period of the over-allotment option must be the same as the Stabilisation Window; and
+
+(e)
+
+the exercise of the over-allotment option must be disclosed to the market promptly, together with all appropriate details, including in particular the date of exercise and the number and nature of Eligible Securities involved.
+
+2.2.4 For the purposes of Rule 2.2.2, an ‘over-allotment option’ means an option granted by the Issuer in favour of the Stabilisation Manager and/or his Stabilisation Agents involved in the Offer for the purpose of covering over- allotments, under the terms of which such Stabilisation Manager or his Stabilisation Agents may purchase up to a certain amount of Eligible Securities at the Offer Price during the Stabilisation Window.
+
+Guidance
+
+The Stabilisation Manager may also often be the lead manager in respect of the same offer and therefore can over-allot Eligible Securities in the initial allocation and then facilitate the stabilisation by purchasing Eligible Securities during the Stabilisation Window. A Stabilisation Manager and his Stabilisation Agents may also sell short on the market to facilitate stabilisation or in order to close out or liquidate positions established by Price Stabilisation.
+
+2.3 Deleted
+
+4
+
+PRS/VER7/04-18
+
+PRICE STABILISATION (PRS)
+
+3.
+
+APPOINTMENT OF STABILISATION MANAGER AND AGENTS
+
+3.1 Application
+
+3.1.1 This chapter applies to an Issuer and its Stabilisation Manager and is of
+
+relevance to any appointed Stabilisation Agent.
+
+3.2 Appointment
+
+3.2.1 An Issuer who intends to carry out Price Stabilisation of its Eligible Securities
+
+must:
+
+(a)
+
+appoint in writing a Stabilisation Manager;
+
+(b)
+
+notify the DFSA of the appointment, including the name and business address of the Stabilisation Manager, the date of the commencement of the appointment and an address for service in the DIFC of the Stabilisation Manager; and
+
+(c)
+
+prior to the appointment of the Stabilisation Manager, take reasonable steps to ensure that the Stabilisation Manager has the required skills, resources and experience to conduct the functions of a Stabilisation Manager.
+
+3.2.2
+
+(1)
+
+An Issuer must notify the DFSA immediately if the appointment of the Stabilisation Manager is to be terminated, or on the resignation of its Stabilisation Manager, giving the reasons for the cessation of the appointment.
+
+(2)
+
+An Issuer must appoint a Stabilisation Manager to fill any vacancy in relation to the occurrence of an event specified in (1) and ensure that the replacement Stabilisation Manager can serve as such at the time the vacancy arises or as soon as reasonably practicable.
+
+3.2.3
+
+(1) Where a Stabilisation Manager appointed by an Issuer is not suitable in the opinion of the DFSA, or where a Stabilisation Manager has not been appointed, the DFSA may direct the Issuer to replace or appoint a Stabilisation Manager in accordance with the requirements in this chapter.
+
+(2)
+
+The procedures in Schedule 3 to the Regulatory Law apply to a decision of the DFSA under (1). The DFSA must give both the Issuer and, if in the DFSA’s opinion the Stabilisation Manager is not suitable, the Stabilisation Manager an opportunity to make representations under those procedures.
+
+5
+
+PRS/VER7/04-18
+
+PRICE STABILISATION (PRS)
+
+(3)
+
+If the DFSA decides to exercise its power under (1), the Issuer or the Stabilisation Manager may refer the matter to the FMT for review.
+
+3.3 Terms of appointment for a Stabilisation Manager

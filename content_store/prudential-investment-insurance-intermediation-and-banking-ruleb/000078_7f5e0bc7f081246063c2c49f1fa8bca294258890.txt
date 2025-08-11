@@ -1,0 +1,93 @@
+ Large Exposures and other concentration risks, e.g. sectoral or geographic, arising from the use of CRM and the interaction of such risk with the overall Credit Risk profile of the Authorised Person.
+
+2.
+
+In order to fulfil the above, an Authorised Person should ensure a clearly articulated strategy for the use of CRM as an intrinsic part of the general credit strategy of an Authorised Person.
+
+3.
+
+Where an Exposure is subject to CRM, credit managers should continue to assess the Exposure on the basis of the obligor's creditworthiness. Credit managers should obtain and analyse sufficient financial information to determine the obligor's risk profile and its management and operational capabilities.
+
+4.
+
+Collateral should be revalued frequently, and the unsecured Exposure should also be monitored frequently. Frequent revaluation is prudent, and the revaluation of marketable Securities should occur on at least a daily basis. Furthermore, measures of the potential unsecured Exposure under collateralised transactions should be calculated under stressed and normal conditions. One such measure would take account of the time and cost involved if the obligor or Counterparty were to default and the Collateral had to be for collateralised Counterparties should take account of the potential unsecured Exposure. Stress tests and scenario analysis should be conducted to enable the Authorised Person to understand the behaviour of its portfolio of CRM arrangements under unusual market conditions. Any unusual or disproportionate risk identified should be managed and controlled.
+
+liquidated. Furthermore,
+
+the setting of
+
+limits
+
+139
+
+PRU VER17.290725
+
+5.
+
+6.
+
+7.
+
+8.
+
+9.
+
+4.13.4
+
+(1)
+
+(2)
+
+Clear policies and procedures should be established in respect of Collateral management, including:
+
+a.
+
+the terms of Collateral agreements;
+
+b.
+
+the types of Collateral and enforcement of Collateral terms (e.g. waivers of posting deadlines);
+
+c.
+
+the management of legal risks;
+
+d.
+
+the administration of agreements (e.g. detailed plans for determining default and liquidating Collateral); and
+
+e.
+
+the prompt resolution of disputes, such as valuation of Collateral or positions, acceptability of Collateral, fulfilment of legal obligations and the interpretation of contract terms.
+
+The policies and procedures referred to under Guidance note 1.d. should be supported by Collateral management systems capable of tracking the location and status of posted Collateral (including re-hypothecated Collateral), outstanding Collateral calls and settlement problems.
+
+Where an Authorised Person obtains credit protection that differs in maturity from the underlying credit Exposure, the Authorised Person should monitor and control its roll-off risks, i.e. the fact that the Authorised Person will be fully exposed when the protection expires, and the risk that it will be unable to purchase credit protection or ensure its capital adequacy when the credit protection expires.
+
+Taking as Collateral large quantities of instruments issued by one obligor potentially creates Large Exposures and other concentration risks, e.g. sectoral or geographic. An Authorised Person should have a clearly defined policy with respect to the amount of those risks it is prepared to run. Such a policy might, for example, include a cap on the amount of Collateral it would be prepared to take from a particular Issuer or market. The Authorised Person should also take Collateral and purchased credit protection into account when assessing the potential concentrations in its overall credit profile.
+
+Notwithstanding the presence of CRM considered for the purposes of calculating Credit RWA amounts, an Authorised Person should continue to undertake a full Credit Risk assessment of the underlying Exposure.
+
+An Authorised Person must be able to satisfy the Regulator that it has systems in place to manage potential concentration of risk arising from its use of guarantees and Credit Derivatives.
+
+An Authorised Person must be able to demonstrate how its strategy in respect of its use of CRM techniques, and in particular use of Credit Derivatives and guarantees interacts with its management of its overall risk profile.
+
+140
+
+PRU VER17.290725
+
+Collateral
+
+Guidance
+
+In order to recognise the effects of CRM of the types of Collateral set out in Rules 4.13.5 to 4.13.7, an Authorised Person must ensure that the relevant requirements in Rule 4.13.8 are complied with.
+
+4.13.5
+
+(1)
+
+For an Authorised Person using the FCSA, eligible financial Collateral comprises:
+
+(a)
+
+cash (as well as certificates of

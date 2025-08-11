@@ -1,0 +1,53 @@
+, as appropriate, PRU 6.6 – 6.9.8
+
+Algorithm governance
+
+4.4 Algorithms are at the core of the service offered by Digital Investment Managers. They are used to undertake critical components of the investment management process such as risk profiling, portfolio allocation and rebalancing. Accordingly, the FSRA expects that Digital Investment Managers will establish internal governance structures that enable its Board and Senior Management to have robust oversight and control over the design, performance, deployment and security of algorithms.9 The roles and responsibilities of all personnel who oversee the design, performance and integrity of algorithms must be clearly defined.10
+
+4.5
+
+In assessing the adequacy of the oversight and controls that the Digital Investment Manager establishes in relation to the development and deployment of its algorithms, the FSRA will take into account the following considerations.11
+
+a. Qualifications and competency of staff: the Digital Investment Manager must ensure that it has qualified and competent staff to ensure the proper functioning and supervision of the algorithm model (the “Model”) on an ongoing basis. The Digital Investment Manager must have adequate training and documented manuals in place to address any key-man and business continuity risks.12
+
+b. Developing and testing the Model: the Digital Investment Manager must maintain proper documentation explaining the decision tree or logic of the algorithm to ensure that the outcomes produced by the Model are explainable, traceable and repeatable. The Digital Investment Manager must also ensure the relevance of any data or assumptions upon which the Model is based, and that any client questionnaire it uses takes into account potential behavioural biases that may lower the accuracy of client responses. The Digital Investment Manager must carry out sufficient testing to demonstrate that its Model meets these principles. Where appropriate (e.g. in the case of a complex Model), the FSRA may require a third-party audit to validate the performance outcomes of the Model as purported.
+
+c. Managing and maintaining the Model: the Digital Investment Manager must establish safeguards, including with respect to access controls and security, to protect the integrity of the Model (including algorithm source code). The Digital Investment Manager should maintain the ability and relevant resources to modify the Model in the event that there is a need to stop the algorithm or make changes to it. The FSRA will also require the Digital
+
+8 These sections of PRU pertain to information technology systems, information security, outsourcing, and business continuity. 9 Refer to GEN 2.2.3 and 2.2.11. 10 Refer to GEN 3.3.2(1). 11 Sub paragraphs (b), (c) and (d) follow from GEN 2.2.2. 12 Refer to GEN 3.3.33 and PRU 6.9.
+
+DIM VER01.020719
+
+Supplementary Guidance – Authorisation for Digital Investment Management (“Robo-Advisory” Activities)
+
+Investment Manager to demonstrate that it has a clear process for detecting and reporting programming errors and unexpected outcomes. In the event of failure or outage of the Model, the Digital Investment Manager must have contingency plans to ensure that its services to clients are not adversely affected and that the clients’ interests are safeguarded.13
+
+d. Ongoing monitoring and reviews: the Digital Investment Manager must conduct ongoing monitoring and reviews to assess whether the Model effectively achieves its intended objectives and outcomes, and to manage the risks of inaccuracy, bias or exception. The Board and Senior Management must also periodically review the Digital Investment Manager’s internal governance structure and measures to ensure that they remain appropriate and effective.
+
+Technology governance
+
+4.6 The Digital Investment Manager must ensure that its systems and controls are adequate and appropriate for the scale, nature and complexity of its business.14 This applies in particular to systems and controls concerning:
+
+a. the transmission and storage of information;
+
+b. the assessment, mitigation and management of risks relating to the provision of digital
+
+investment management services, including data security;
+
+c.
+
+the effecting and monitoring of transactions by the Digital Investment Manager;
+
+d. the technical operations of the Digital Investment Manager, including contingency
+
+arrangements for disruption to its facilities;
+
+e. the operation of its functions relating to the safeguards and protections to investors; and
+
+f. outsourcing.
+
+4.7
+
+In assessing whether the systems and controls used by the Digital Investment Manager are adequate and appropriate for the scale and nature of its business, the FSRA may have regard to the following:
+
+a. the distribution of

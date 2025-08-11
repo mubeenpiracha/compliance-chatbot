@@ -1,0 +1,101 @@
+ the Regulator shall notify the Responsible Body, and unless within three Business Days after the day on which the notice is received the Responsible Body—
+
+(a)
+
+takes action under its Default Rules; or
+
+(b)
+
+notifies the Regulator that it proposes to do so forthwith;
+
+then, subject as follows, the provisions of sections 154 to 161 do not apply in relation to Market Contracts to which the Person in Default is a party or to anything done by the Responsible Body for the purposes of, or in connection with, the Settlement of any such contract.
+
+(6)
+
+The provisions of sections 154 to 161 are not disapplied if before the end of the period mentioned in subsection (5) the Regulator gives the Responsible Body a Direction under section 162(2)(a). No such Direction may be given after the end of that period.
+
+(7)
+
+If the Responsible Body notifies the Regulator that it proposes to take action under its Default Rules forthwith, it shall do so, and that duty is enforceable, on the application of the Regulator, by injunction.
+
+164. Supplementary provisions104
+
+(1)
+
+Sections 132 and 134 apply in relation to a failure by a Recognised Body or Remote Body to comply with an obligation under this Part as to a failure to comply with an obligation under those sections.
+
+(2)
+
+Where the recognition of a Recognised Body or Remote Body is revoked under section 134, the Regulator may, before or after the Revocation Order, give such Directions as it thinks fit with respect to the continued application of the provisions of this Part, with such exceptions, additions and adaptations as may be specified in the Direction, in relation to cases where a relevant event of any description specified in the Directions occurred before the Revocation Order takes effect.
+
+(3)
+
+Part 21 may make provision in relation to a notice, Direction or other Document required or authorised by or under this Part to be given to or served on any person other than the Regulator.
+
+165. Certain Non-ADGM Clearing Houses 105
+
+(1)
+
+This Part applies to transactions cleared through a Non-ADGM Clearing House by a Clearing Member or a Client as it applies to transactions cleared through a Recognised
+
+104 Amended 21 February 2018.
+
+105 Amended 21 February 2018, 30 December 2021 and 30 December 2024.
+
+109
+
+Clearing House or Remote Clearing House, but subject to the modifications in subsections (2) and (3).106
+
+(2)
+
+The Regulator shall not approve a Non-ADGM Clearing House unless it is satisfied—107
+
+(a)
+
+that the rules and practices of the body, together with the law of the country in which the body's head office is situated, provide adequate procedures for dealing with the default of persons party to contracts connected with the body; and
+
+(b)
+
+that it is otherwise appropriate to approve the body;
+
+together being the “Relevant Requirements” for this Part.
+
+(3)
+
+The reference in subsection (2)(a) to default is to a person being unable to meet his obligations.
+
+(4)
+
+A Non-ADGM Clearing House may apply to the Regulator for an order recognising that the Relevant Provisions of its Default Rules satisfy the Relevant Requirements.108
+
+(5)
+
+The Application must be made in such manner, and must be accompanied by such information, Documents and reports, as the Regulator may direct.
+
+(6)
+
+Information, Documents and reports required under subsection (5) must be provided in English and be given at such times, in such form and at such place, and verified in such manner, as the Regulator may direct.
+
+(7)
+
+The Regulator may make an order recognising that the Relevant Provisions of the Default Rules satisfy the Relevant Requirements.
+
+(8)
+
+The Regulator may by order revoke an order made under subsection (7) if—109
+
+(a)
+
+the Non-ADGM Clearing House consents;
+
+(b)
+
+the Non-ADGM Market Clearing House has failed to pay a fee which is owing to the Regulator in accordance with Rules made under section 7(8);
+
+(c)
+
+the Non-ADGM Market Clearing House is failing or has failed to comply with a requirement of or imposed under section 153 (as modified by section 166); or
+
+(d)
+
+it appears to the Regulator that the Relevant

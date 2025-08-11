@@ -1,0 +1,135 @@
+ requirements set out in the Law and this module do not apply to External Funds, except that:
+
+a.
+
+any offer document prepared for the purposes of complying with the requirements applicable in the jurisdiction in which the External Fund is established is regarded as a Prospectus for the purposes of the requirements relating to the Offer of Units of such a Fund in or from the DIFC (see Article 50(3)(c) of the Law); and
+
+b.
+
+the DFSA has the power to prescribe any additional disclosure to be included in such a document (see Article 51(2) of the Law).
+
+Those requirements are specified in Rules 14.2.4 – 14.2.7.
+
+5.
+
+If a Domestic Fund is a Passported Fund and the DIFC is the Home Jurisdiction of the Fund, certain requirements relating to the Prospectus for the Fund are specified in the Fund Protocol Rules (FPR), rather than in this chapter. These include requirements relating to the form of the disclaimer in the Prospectus, the minimum contents of the Prospectus and the need for a Key Investor Information Document (KIID) that summarises the key features of the Fund and is in both Arabic and English. This chapter cross-refers to requirements in those Rules where applicable.
+
+Application
+
+(1)
+
+This chapter applies, subject to (4), to:
+
+(a) a Fund Manager of a Domestic Fund;
+
+(b)
+
+each Director or partner of the Fund Manager;
+
+125
+
+CIR/VER38/08-24
+
+14.2
+
+14.2.1
+
+COLLECTIVE INVESTMENT RULES (CIR)
+
+(c)
+
+if the Fund Manager is a Corporate Director, the individuals who are Directors of that Corporate Director; and
+
+(d)
+
+if the Fund has a Governing Body, each member of that body.
+
+(2)
+
+This chapter also applies to an Authorised Firm, and each of its Directors or partners, where such a Firm is not the Fund Manager and undertakes the marketing of Units of a Domestic Fund.
+
+(3)
+
+This chapter also applies to other specified Persons to the extent so specified.
+
+(4)
+
+Only this Rule and the following requirements in this chapter apply to, or in relation to, a Qualified Investor Fund:
+
+(a)
+
+Rule 14.2.1;
+
+(b)
+
+Rules 14.2.4 to 14.2.7;
+
+(c)
+
+Rules 14.4.6, 14.4.11, 14.4.12 and 14.4.13;
+
+(d)
+
+Rules 14.5.1 and 14.5.2; and
+
+(e)
+
+Rules in section 14.6.
+
+Guidance
+
+1. An External Fund Manager must also comply with the requirements in this chapter, because it is managing a Domestic Fund (i.e. a Fund established or domiciled in the DIFC- See Article 13(2)(a) of the Law).
+
+2. A Fund that is an Incorporated Cell of an Incorporated Cell Company (i.e. a Fund on a Fund Platform) will be a Domestic Fund as the Incorporated Cell is established under the DIFC Companies Law and the ICC Regulations.
+
+General Requirements relating to Prospectuses
+
+(1)
+
+The Prospectus must not contain any provision which is unfairly prejudicial to the interests of Unitholders generally or to the Unitholders of any class of Units.
+
+(2)
+
+For the purposes of the information that must be included in a Prospectus pursuant to Article 52 of the Law:
+
+(a)
+
+such information must be material information; and
+
+(b)
+
+information is material if it is either:
+
+(i)
+
+within the knowledge of the Directors or partners of the Fund Manager; or
+
+126
+
+CIR/VER38/08-24
+
+14.2.2
+
+COLLECTIVE INVESTMENT RULES (CIR)
+
+(ii)
+
+which such Directors or partners ought reasonably have obtained by making reasonable enquiries.
+
+(3)
+
+The Prospectus must, except as provided in (4), be in the English language.
+
+(4)
+
+The Key Investor Information Document (KIID) for a Passported Fund must be in both Arabic and English.
+
+(5)
+
+The expiry date of a Prospectus must be no later than 12 months after the date of the Prospectus.
+
+(6)
+
+A reference to a Director in this Rule includes the Corporate Director of an Investment Company, and the individual directors of that Corporate Director.
+
+Guidance

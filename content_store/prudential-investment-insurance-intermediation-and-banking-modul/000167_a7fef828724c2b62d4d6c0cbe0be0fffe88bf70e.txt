@@ -1,0 +1,145 @@
+ should take into account scenarios in which expected correlations occur and where they might break down.
+
+5.
+
+In identifying scenarios and assessing their impact, an Authorised Firm should take into account how changes in circumstances might impact upon:
+
+a.
+
+the nature, scale and mix of future activities; and
+
+b.
+
+the behaviour of Counterparties, and of the Authorised Firm itself, including the exercise of choices (including options embedded in financial instruments).
+
+6.
+
+In determining whether it would have adequate financial resources in the event of each identified adverse scenario, an Authorised Firm should:
+
+a.
+
+only include financial resources that could reasonably be relied upon as being available in the circumstances of the identified scenario; and
+
+257
+
+PIB/VER50/07-25
+
+b.
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+consider any legal or other restriction on the purposes for which financial resources may be used, including any restriction on the transfer to the DIFC of assets held in other jurisdictions.
+
+258
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+APP4 CREDIT RISK
+
+A4.1 Credit Risk systems and controls
+
+Guidance
+
+1.
+
+Depending on an Authorised Firm’s nature, scale, frequency, and complexity of Credit Risk granted or incurred, the Credit Risk policy of an Authorised Firm should address the following elements:
+
+a.
+
+how, with particular reference to its activities, the Authorised Firm defines and measures Credit Risk;
+
+b.
+
+the Authorised Firm’s business aims in incurring Credit Risk including:
+
+i.
+
+identifying the types and sources of Credit Risk to which the Authorised Firm wishes to be exposed (and the limits on that Exposure) and those to which the Authorised Firm wishes not to be exposed;
+
+ii.
+
+specifying the level of diversification required by the Authorised Firm and the Authorised Firm's tolerance for risk concentrations and the limits on those Exposures and concentrations; and
+
+iii.
+
+stating the risk-return that the Authorised Firm is seeking to achieve on Credit Risk Exposures;
+
+c.
+
+types of facilities to be offered, along with ceilings, pricing, profitability, maximum maturities and maximum debt-servicing ratios for each type of lending;
+
+d.
+
+a ceiling for the total loan portfolio, in terms, for example, of the loan-to-deposit ratio, undrawn commitment ratio, a maximum dollar amount or a percentage of capital base;
+
+e.
+
+portfolio limits for maximum aggregate Exposures by country, industry, category of borrower/Counterparty (e.g. banks, non-bank financial institutions, corporates and retail), product (e.g. property lending), Groups of related parties and single borrowers;
+
+f.
+
+limits, terms and conditions, approval and review procedures and records kept for Connected lending - all Authorised Firms should have a formal policy statement, endorsed by the Governing Body, on such lending covering these matters;
+
+g.
+
+types of acceptable Collateral, loan-to-value ratios and the criteria for accepting guarantees; and
+
+h.
+
+how Credit Risk is assessed both when credit is granted or incurred and subsequently, including how the adequacy of any security and other risk mitigation techniques are assessed;
+
+i.
+
+the detailed limit structure for Credit Risk, which should:
+
+i.
+
+address all key risk factors, including intra-Group Exposures;
+
+ii.
+
+be commensurate with the volume and complexity of activity; and
+
+iii.
+
+be consistent with the Authorised Firm’s business aims, historical performance, and the level of capital the Authorised Firm is willing to risk;
+
+259
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+j.
+
+procedures for:
+
+i.
+
+approving new products and activities which give rise to Credit Risk;
+
+ii.
+
+regular risk position and performance reporting;
+
+iii.
+
+limit exception reporting and approval; and
+
+iv.
+
+identifying and dealing with problem Exposures;
+
+k.
+
+the allocation of responsibilities for implementing the Credit Risk policy and for monitoring adherence to, and the effectiveness of, the policy; and
+
+l.
+
+the required information systems, staff and other resources.
+
+2.
+
+The Credit Risk policy should emphasize the principles of prudence and should be enforced consistently. The policy and its implementation should ensure that credit facilities

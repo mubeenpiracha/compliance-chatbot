@@ -1,0 +1,76 @@
+ bank’s own debt or that of related conduits, securities investment vehicles and other such financing facilities; and
+
+(b) other non-contractual obligations not mentioned above.
+
+Guidance
+
+1.
+
+An Authorised Firm’s RSF represents the liquidity risk profile of its assets and OBS Exposures (or potential liquidity Exposures).
+
+2. When determining its RSF, an Authorised Firm should:
+
+a.
+
+include financial instruments, foreign currencies and commodities for which a purchase order has been executed; and
+
+b. exclude financial instruments, foreign currencies and commodities for which a sales order has been executed, even if such transactions have not been reflected in the balance sheet under a settlement-date accounting model, provided that:
+
+i.
+
+the transactions are not reflected as derivatives or secured financing transactions in the firm’s balance sheet; and
+
+ii.
+
+the effects of such transactions will be reflected in the firm’s balance sheet when settled.
+
+3.
+
+For secured funding arrangements, use of balance sheet and accounting treatments should generally result in a firm excluding, from their assets, securities which they have borrowed in securities financing transactions (such as reverse repos and collateral swaps) where they do not
+
+407
+
+PIB/VER50/07-25
+
+4.
+
+5.
+
+6.
+
+7.
+
+8.
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+have beneficial ownership. In contrast, a firm should include securities they have lent in securities financing transactions where they retain beneficial ownership. A firm should also not include any securities they have received through collateral swaps if those securities do not appear on their balance sheet. Where a firm has encumbered securities in repos or other securities financing transactions, but has retained beneficial ownership and those assets remain on its balance sheet, the firm should allocate such securities to the appropriate RSF Category.
+
+SFT with a single counterparty should be measured net when calculating the NSFR, provided that the netting conditions set out in Rules 4.9.13 to 4.9.20 are met.
+
+Derivative assets are calculated first based on the replacement cost for derivative contracts (obtained by marking to market) where the contract has a positive value. When an eligible bilateral netting contract is in place that meets the conditions as specified in the instructional guidelines for Form B300 set out in PRU Section 1.48, the replacement cost for the set of derivative exposures covered by the contract will be the net replacement cost.
+
+Shari’a compliant hedging liabilities (e.g. Islamic swaps) are calculated first based on the replacement cost for the Shari’a compliant hedging contracts (obtained by marking to market), such as ISDA/IIFM Tahawwut Master Agreement (TMA), where the contract has a negative value. When an eligible bilateral netting contract is in place, the replacement cost for the set of Shari’a compliant hedging exposures covered by the contract will be the net replacement cost.
+
+In calculating NSFR derivative assets, collateral received in connection with derivative contracts should not offset the positive replacement cost amount, regardless of whether or not netting is permitted under the firm’s operative accounting or risk-based framework, unless it is received in the form of cash variation margin and meets the conditions as specified in the instructional guidelines for Form B300 set out in PRU section 1.48. Any remaining balance sheet liability associated with: (a) variation margin received that does not meet the criteria above; or (b) initial margin received; may not offset derivative assets and should be assigned a 0% ASF Factor.
+
+In calculating NSFR Shari’a compliant hedging liabilities, collateral posted in the form of variation margin that follows Shari’a principles in connection with Shari’a compliant hedging contracts as in the TMA contract, regardless of the asset type, must be deducted from the negative replacement cost amount.
+
+408
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+APP10 SUPERVISORY REVIEW AND EVALUATION PROCESSES
+
+A10.1 IRAP
+
+Guidance
+
+Application
+
+1.
+
+This Guidance is relevant to an Authorised Firm to whom section 10.3 applies (that is, a firm in Category 1, 2 or 5) in regard to an Internal Risk Assessment Process (referred to in this Guidance as an IRAP).
+

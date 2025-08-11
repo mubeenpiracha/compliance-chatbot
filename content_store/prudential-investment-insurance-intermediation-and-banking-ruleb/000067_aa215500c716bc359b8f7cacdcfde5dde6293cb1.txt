@@ -1,0 +1,93 @@
+ accordance with (b); and
+
+(d)
+
+add the RWA amounts calculated in accordance with (c) for all its SE Exposures to the RWA amounts calculated in accordance with Rule 4.8.5 in respect of its Early Amortisation Exposures.
+
+4.8.5
+
+To calculate its RWA for Early Amortisation Exposures, an Authorised Person must:
+
+(a)
+
+calculate the value of the Exposure (EAE) for each of its Early Amortisation Exposures in accordance with Exposure measurement methodology specified in Section 4.9 and recognising the effects of any applicable CRM;
+
+(b)
+
+calculate the risk-weighted Exposure amount for each Early Amortisation Exposure using the following formula: RWA(EAE) = EAE x CRW
+
+where:
+
+(i)
+
+"RWA(EAE)" refers to the risk-weighted Exposure amount for that Early Amortisation Exposure;
+
+(ii)
+
+"EAE" refers to the Exposure value or amount, for that Early Amortisation Exposure calculated in accordance with (a); and
+
+(iii)
+
+"CRW" refers to the applicable risk weight for the underlying Exposure type as if the Exposure had not been securitised; and
+
+(c)
+
+add the RWA amounts calculated in accordance with (b) for all its Early Amortisation Exposures.
+
+4.8.6
+
+The aggregate RWA amount for all of the SE Exposures of an Authorised Person to a securitisation and Exposures arising from CRM applied to those SE Exposures must not exceed the aggregate RWA amount corresponding to the underlying Exposures of the securitisation had they been on the balance sheet of the Authorised Person and included in the calculation of the Credit RWA of the Authorised Person. For avoidance of doubt, the aggregate RWA amount must not include any deduction for a gain-on-sale or a Credit-Enhancing Interest-Only Strip arising from the securitisation.
+
+4.9
+
+Methodology for measurement of Exposures
+
+4.9.1
+
+An Authorised Person must apply the Exposure measurement methodology set out in the Rules in this part to calculate the value or amount of an Exposure for any CR Exposure or SE Exposure.
+
+122
+
+PRU VER17.290725
+
+Guidance
+
+1.
+
+The measurement methodology in this Section prescribes the manner of calculation of Exposures for the purpose of determining the Credit RWA for Credit Risk (CR) Exposures as provided in Rule 4.8.3 and for securitisation (SE) Exposures as provided in Rule 4.8.4.
+
+2.
+
+Due regard should be given to the Guidance relating to prudent valuation in Section 2.4 and related provisions in App2.5.
+
+3.
+
+An Authorised Person should consult with the Regulator on the appropriate treatment to apply in the measurement of E, for transactions that have not been addressed in this part.
+
+4.9.2
+
+An Authorised Person must calculate E for any CR Exposure or SE Exposure, net of any individual impairment provision attributable to such Exposures, as determined in accordance with the International Financial Reporting Standards.
+
+Measurement of E for on-balance sheet assets
+
+4.9.3
+
+For each on-balance sheet asset, E should be the Carrying Value of the asset.
+
+Guidance
+
+1.
+
+For any asset, E should be equal to the fair value of that asset presented in the balance sheet, except that:
+
+a.
+
+for any asset held at cost, E should be equal to the cost of the asset presented in the balance sheet; and
+
+b.
+
+for any available-for-sale (AFS) debt security or AFS loan, E, should be equal to the fair value less provision for impairment of that AFS debt security or AFS loan, adjusted by deducting any unrealised fair value gains and adding back any unrealised fair value losses on revaluation (broadly equivalent to the amortised cost of the AFS debt security or AFS loan less any provision for impairment).
+
+2.
+
+In the case of a lease where the Authorised Person is exposed to residual value risk (i.e. potential loss due to the fair value of the leased asset declining below the estimate of its residual value reflected on the balance sheet of the Authorised Person at lease inception), the Authorised Person should calculate (i) an Exposure to the les

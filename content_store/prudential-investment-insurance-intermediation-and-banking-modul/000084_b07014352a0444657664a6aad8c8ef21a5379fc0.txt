@@ -1,0 +1,113 @@
+ table:
+
+Condition
+
+Risk Weight
+
+Where specific provisions are less than 20% of the outstanding amount of the Exposure
+
+150%
+
+Where specific provisions are not less than 20% of the outstanding amount of the Exposure
+
+100%
+
+(2) For the purposes of (1)(b), and subject to (3) a defaulted borrower is a borrower
+
+in respect of whom any of the following events have occurred:
+
+(a)
+
+the borrower is more than 90 days past due on any material credit obligation to the Authorised Firm. For overdrafts, days past due commence once an obligor has breached an advised limit or has been advised of a limit smaller than current outstandings;
+
+(b)
+
+the Authorised Firm puts a material credit obligation of the borrower on a non-accrued status;
+
+(c)
+
+the Authorised Firm recognises a specific provision resulting from a significant perceived decline in credit quality subsequent to the Authorised Firm taking on the Exposure;
+
+(d)
+
+the Authorised Firm sells the credit obligation at a material credit-related economic loss;
+
+(e)
+
+the Authorised Firm consents to the distressed restructuring of the credit obligation where this is likely to result in a diminished financial obligation caused by the material forgiveness, or postponement, of principal, interest or, where relevant, fees;
+
+126
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+(f)
+
+the borrower’s bankruptcy or a similar order in respect of any of the borrower’s credit obligations to the Authorised Firm or any member of the Authorised Firm’s Group has been filed;
+
+(g)
+
+the borrower has sought or has been placed in bankruptcy or similar protection where this would avoid or delay repayment of any of the credit obligations to the Authorised Firm or any member of the Authorised Firm’s Group; or
+
+(h)
+
+the Authorised Firm considers that the borrower is unlikely to pay its credit obligations in full without recourse by the Authorised Firm to actions such as realising security.
+
+(3) For Retail Exposures, an Authorised Firm may apply the definition of defaulted borrower in (2) at the level of a particular credit obligation, rather than in relation to the total obligations of the borrower and the default by a borrower on one obligation does not require the Authorised Firm to treat all other obligations to the Authorised Firm or any member of the Authorised Firm’s Group as in default.
+
+(4) An Authorised Firm must risk-weight any unsecured Regulatory Residential Real Estate Exposure referred to in Rule 4.12.23(1) net of specific provisions and partial write-offs at 100% if a default has occurred in accordance with Rule 4.12.28(1)(a) or (b).
+
+4.12.29 For the purposes of Rule 4.12.28(1) and (4), an Authorised Firm must calculate the
+
+unsecured portion of any Exposure as follows:
+
+(a)
+
+for an Authorised Firm using the FCSA:
+
+Unsecured Portion = E – P – Cf
+
+where:
+
+(i)
+
+E = E calculated in accordance with section 4.9;
+
+(ii) P = notional amount of eligible credit protection received; and
+
+(iii) Cf = fair value of eligible financial Collateral received; or
+
+(b)
+
+for an Authorised Firm using the FCCA:
+
+Unsecured Portion = E*– P
+
+where -
+
+(i)
+
+E* = E* calculated in accordance with section 4.9; and
+
+(ii) P = notional amount of eligible credit protection received.
+
+Other Exposures
+
+4.12.30 (1) An Authorised Firm must, subject to (2) and (3), risk-weight any Exposure which does not fall within any of the categories in Rule 4.10.1(a) to (j) at 100%, with the exception of the following Exposures:
+
+127
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+(2) An Authorised Firm must assign:
+
+(i)
+
+a 0% risk weight to:
+
+(A) cash owned by the Authorised Firm or in transit;
+
+(B) gold bullion held at the Authorised Firm or held in another banking institution to the extent that the gold bullion assets are backed by gold bullion labilities

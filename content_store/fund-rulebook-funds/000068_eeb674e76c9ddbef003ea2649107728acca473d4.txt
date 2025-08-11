@@ -1,0 +1,113 @@
+ such as dilution policy or allocation of payments policy; or
+
+3.
+
+an increase in the preliminary charge where Units are purchased through a group savings plan.
+
+A3.2.3
+
+(1)
+
+A Fund Manager must inform Unitholders in an appropriate manner and timescale of any notifiable changes that are reasonably likely to affect, or to have affected, the operation of the Fund.
+
+(2)
+
+A notifiable change in (1) is a change or event, other than a fundamental change or a significant change specified in this Appendix, which a Unitholder must be made aware of unless the Fund Manager concludes that the change is insignificant.
+
+Guidance
+
+1.
+
+The circumstances causing a notifiable change may or may not be within the control of the Fund Manager.
+
+2.
+
+For the purpose of this Chapter, a notifiable change might include:
+
+a.
+
+a change of a named investment manager where the Fund has been marketed on the basis of that investment manager's involvement;
+
+b.
+
+a significant political event which impacts on the Fund or its operation;
+
+c.
+
+a change to the time of the valuation point;
+
+d.
+
+the introduction of limited issue arrangements; or
+
+e.
+
+a change in the name of the Fund.
+
+3.
+
+The appropriate manner and timescale of notification in this Chapter would depend on the nature of the change or event. Consequently, the Fund Manager will need to assess each change or event individually.
+
+4.
+
+An appropriate manner of notification could include:
+
+a.
+
+sending an immediate notification to the Unitholder;
+
+b.
+
+publishing the information on a website; or
+
+c.
+
+the information being included in the next periodical report of the Fund.
+
+106
+
+FUNDS VER10.100625
+
+APP 4 GUIDANCE ON ASSET VALUATION AND PRICING
+
+Guidance
+
+General
+
+1.
+
+This guidance relates to the calculation of a single price and net asset value in accordance with these Rules. Under these Rules, the Fund Manager should take all reasonable steps, and exercise due diligence, to ensure that the Fund Property is valued in accordance with FSMR, these Rules and the Fund's Constitution.
+
+2.
+
+This guidance sets out the expected minimum standards of control in relation to the valuation of the Fund Property to which the Fund Manager, the Trustee and the Persons providing the oversight function should have regard in determining whether they have met their obligations under the applicable Rules and the Fund's Constitution.
+
+3.
+
+The Fund Manager should take action forthwith to rectify any breach in respect of valuation. Where the breach relates to the incorrect pricing of Units, rectification should extend to the reimbursement or payment of money by the Fund Manager to Unitholders, former Unitholders or to the Investment Undertaking.
+
+4.
+
+The Trustee or the Persons providing the oversight function may direct that rectification need not extend to reimbursement where it appears that the incorrect pricing is of minimal significance. This would only be appropriate where the Fund Manager has adequate controls in place.
+
+5.
+
+The price of a Unit of any class should be calculated by valuing the Fund Property attributable to Units of that class and dividing that value by the number of Units of the class in issue. All the Fund Property should be valued at each valuation point and any part of the Fund Property which is not an Investment should be valued at fair value. The Regulator expects a Fund Manager to agree on its methodology for valuing the Fund Property with the Trustee or Eligible Custodian, or other Persons providing the oversight function and that the methodology in place is applied consistently.
+
+6.
+
+In respect of Securities quoted on an Exchange:
+
+a.
+
+the Fund's Constitution should set out the valuation policy that will be adopted by the Fund Manager where a single price for buying and selling a Security is quoted; and also where separate buying and selling prices are quoted on an Exchange. Either the official mid-market price or the last trade price should provide an appropriate basis of valuation for the Fund. The Fund Manager should, however, document the choice of methodology and ensure that the procedures are applied consistently and fairly; and
+
+b.
+
+where there has been no recent trade in the Security concerned, or no reliable price exists, an Investment should be valued at a price which, reflects a fair and reasonable price for that investment. For example, a Fund Manager may obtain a valuation from three experienced brokers and average the value. In such cases, the Fund Manager is required to
+
+107
+
+FUNDS VER10.100625
+
+document the reasons

@@ -1,0 +1,105 @@
+ Rule 2.2.2, Managing Assets means managing on a discretionary basis assets belonging to another Person if the assets include any Investment, Crypto Token or rights under a contract of Long-Term Insurance, not being a contract of reinsurance.
+
+21
+
+GEN/VER67/03-25
+
+GENERAL (GEN)
+
+Exclusions
+
+2.10.2 A Person who is not an Authorised Firm or an Authorised Market Institution
+
+does not Manage Assets if:
+
+(a)
+
+he is a Person formally appointed in writing by the owner of the assets to manage the assets in question; and
+
+(b)
+
+all day-to-day decisions relating to the Investments or Crypto Tokens which are included in those assets are taken by an Authorised Firm or a Regulated Financial Institution.
+
+Guidance
+
+1. A Person does not become a Fund Manager of a Fund merely by being appointed by a Fund Manager of a Fund to provide the Financial Service of Managing Assets to the Fund. This is because the Fund Manager remains legally accountable to the Unitholders of the Fund for the proper management of the Fund in accordance with its Constitution and Prospectus. If an Authorised Firm has a discretionary portfolio mandate from a Client to manage assets on behalf of the Client, the firm controls those Client Assets as it can execute transactions relating to those assets, within the parameters set in the mandate (see also COB Rule 6.11.4(d)).
+
+1. A Person does not become a Fund Manager of a Fund merely by being appointed by a Fund Manager of a Fund to provide the Financial Service of Managing Assets to the Fund. This is because the Fund Manager remains legally accountable to the Unitholders of the Fund for the proper management of the Fund in accordance with its Constitution and Prospectus. If an Authorised Firm has a discretionary portfolio mandate from a Client to manage assets on behalf of the Client, the firm controls those Client Assets as it can execute transactions relating to those assets, within the parameters set in the mandate (see also COB Rule 6.11.4(d)).
+
+2.11 Advising on financial products
+
+2.11.1 (1)
+
+In Rule 2.2.2, Advising on Financial Products means giving advice to a Person in his capacity as an investor or potential investor, or in his capacity as agent for an investor or a potential investor, on the merits of his buying, selling, holding, subscribing for or underwriting a particular financial product (whether as principal or agent).
+
+(2)
+
+Advice in (1) includes a statement, opinion or report:
+
+(a)
+
+where the intention is to influence a Person, in making a decision, to select a particular financial product or an interest in a particular financial product; or
+
+(b)
+
+which could reasonably be regarded as being intended to have such an influence.
+
+(3)
+
+Giving advice to a Person under (1) includes operating an Insurance Aggregation Site relating to contracts of Long-Term Insurance, other than contracts of reinsurance.
+
+(4)
+
+For the purposes of this Rule and Rule 2.11.2, a “financial product” is:
+
+(a)
+
+an Investment;
+
+(b)
+
+a Deposit;
+
+(c)
+
+a Profit Sharing Investment Account;
+
+22
+
+GEN/VER67/03-25
+
+GENERAL (GEN)
+
+(d)
+
+a right under a contract of Long-Term Insurance, that is not a contract of reinsurance;
+
+(e)
+
+a right under an Employee Money Purchase Scheme;
+
+(f)
+
+a right or interest in a pension, superannuation, retirement or gratuity scheme or arrangement, or a broadly similar scheme or arrangement; or
+
+(g)
+
+a Crypto Token.
+
+Guidance
+
+1.
+
+As a ‘financial product’ is defined in Rule 2.11.1(4) to include rights under a contract of Long-Term Insurance (other than a contract of reinsurance), advice on contracts of Long-Term Insurance will fall within Advising on Financial Products.
+
+2.
+
+An ‘Insurance Aggregation Site’ is defined in GLO. In summary, it is a website or other form of electronic media that provides a facility for a user to search for, and then to conclude, directly or indirectly, a Contract of Insurance. The site may, for example, enable the user to conclude a Contract of Insurance:
+
+a.
+
+directly, if the user can enter into the Contract of Insurance by clicking a button on the website itself; or
+
+b.
+
+indirectly, if it provides a link to

@@ -1,0 +1,81 @@
+ Benchmark;
+
+(d)
+
+a Share or Debenture issued or otherwise provided by an entity that in the reasonable opinion of the Authorised Person:
+
+(i)
+
+has published credible net zero emissions targets and strategies; and
+
+(ii)
+
+is on course to meet its net zero emissions targets; or
+
+(e)
+
+a Unit in an ADGM Climate Transition Fund.
+
+25
+
+COBS VER19.290725
+
+Guidance
+
+1. The Climate Transition Portfolio Investment Requirement may be met by investment in any combination of Eligible Climate Transition Portfolio Assets meeting the criteria in any one of Rules 3.8.12(a) to (e).
+
+2. When considering whether assets meet the criteria in Rule 3.8.12, an Investment Manager should consider not only the investment in the immediate asset but also any underlying assets. For example, where investing in Units, the Investment Manager should consider whether the underlying assets of the Fund would meet the Climate Transition Portfolio Investment Requirement.
+
+3. An asset should be subject to ongoing assessment to ensure it meets the criteria in Rule 3.8.12. For example, a green bond that fails to retain the positive opinion of a third party following its post-issuance review should be reassessed by the Investment Manager in terms of whether it can still be considered an Eligible Climate Transition Portfolio Asset. An Investment Manager should document its considerations regarding ongoing assessment of the appropriateness of classifying assets as Eligible Climate Transition Portfolio Assets.
+
+4. Where an ADGM Climate Transition Portfolio includes Shares or Debentures issued by an entity that has adopted a net-zero emission objective or strategy, the Authorised Person should consider whether the entity’s net zero target has been validated under the Science-Based Targets initiative (SBTi). Failure to obtain validation under the SBTi or equivalent framework should be considered as reducing the likelihood that the entity has a credible net zero target for the purpose of Rule 3.8.12(d).
+
+3.8.13 An Authorised Person must keep records of the due diligence process it has undertaken to confirm that an asset meets the criteria in Rule 3.8.12 at the time of acquisition and on an ongoing basis.
+
+The Climate Transition Portfolio Attestation Requirement
+
+3.8.14 The Authorised Person acting as the Investment Manager of an ADGM Climate Transition Portfolio must appoint a third party to attest to its compliance with the Climate Transition Portfolio Investment Requirement on an ongoing basis and at least annually. This requirement only applies to Eligible Climate Transition Portfolio Assets that are aligned with an Acceptable Climate Transition Taxonomy in accordance with Rule 3.8.12(a), and not to Eligible Climate Transition Portfolio Assets under Rules 3.8.12(b) to (e). This is referred to as the “Climate Transition Portfolio Attestation Requirement”.
+
+3.8.15 An Authorised Person must, prior to the appointment of a third party to provide an attestation under Rule 3.8.14, take reasonable steps to ensure that the third party:
+
+(a)
+
+has the required skills, resources and experience to provide the attestation;
+
+(b)
+
+is independent of, and not subject to any conflict of interest with respect to the Authorised Person; and
+
+26
+
+COBS VER19.290725
+
+(c)
+
+has been provided with all documents, records and information necessary to give the attestation pursuant to Rule 3.8.16.
+
+3.8.16 An Authorised Person must ensure that an attestation obtained for the purposes of the Climate Transition Portfolio Attestation Requirement is addressed to and may be relied upon by the Authorised Person. The attestation must specify that:
+
+(a)
+
+during the period reviewed, the investment objectives of the Model Portfolio have been adhered to and have met the Climate Transition Portfolio Investment Requirement; and
+
+(b)
+
+as at the date of the attestation, the Model Portfolio meets the Climate Transition Portfolio Investment Requirement.
+
+Guidance
+
+An attestation obtained for the purposes of the Climate Transition Portfolio Attestation Requirement should include the following statement:
+
+“We attest that, as regards the model portfolio titled [insert name] of [insert name of Authorised Person] (the Model Portfolio):
+
+(i)
+
+during the period reviewed, the investment objectives of the model portfolio have been adhered to and have met the Climate Transition Portfolio Investment Requirement; and
+
+(ii)
+
+as at the date of the attestation, the model portfolio meets the Climate Transition Portfolio Investment Requirement.”
+
+3.8.17 The

@@ -1,0 +1,99 @@
+ debt security is classified as senior debt, not subordinated to any other debt obligations of its Issuer;
+
+(iii) all other rated debt securities issued by the same Issuer which rank equally with the mentioned debt security have a long term or short term (as applicable) Credit Quality Grade by a recognised ECAI of “3” or better;
+
+131
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+(iv)
+
+the Authorised Firm is not aware of information to suggest that the issue would justify a Credit Quality Grade of below “3” as indicated in (iii) above; and
+
+(v)
+
+the Authorised Firm can demonstrate to the DFSA that the market liquidity of the debt security is sufficient to enable the Authorised Firm to dispose the debt security at market price.
+
+(e) any equity security (including convertible bonds) that is included in a
+
+main index; or
+
+(f)
+
+any Unit in a Collective Investment Fund where:
+
+(i)
+
+a price for the units is publicly quoted daily; and
+
+(ii)
+
+all of the deposited property of the Fund is invested in instruments listed in this Rule,
+
+but excluding Collateral representing a re-securitisation under Rule 4.14.2(c).
+
+(2)
+
+Cash-funded credit-linked notes issued by an Authorised Firm against Exposures in the Non-Trading Book which fulfil the criteria for eligible Credit Derivatives must be treated as cash collateralised transactions.
+
+(3)
+
+Cash, mentioned in (1)(a), includes cash on deposit, certificates of deposit or other similar instruments issued by the Authorised Firm that are held as Collateral at a third-party bank in a non-custodial arrangement and that are pledged or assigned to the Authorised Firm. This is subject to the pledge or assignment being unconditional and irrevocable. Under the FCSA, the risk weight to be applied to the Exposure covered by such Collateral must be the risk weight of the third-party bank.
+
+Guidance
+
+1.
+
+For the purposes of Rule 4.13.5 and 4.13.6, eligible financial Collateral excludes any T1 Capital instrument or T2 Capital instrument issued by any entity in the Financial Group of the Authorised Firm, which is held by the Authorised Firm or any of its Financial Group entities as Collateral.
+
+2.
+
+For an Authorised Firm using Units of a Fund under the FCSA approach, the use or potential use by that Fund of Derivative instruments solely to hedge investments listed in Rule 4.13.5 should not preclude the Units in that Fund from being recognised as eligible financial Collateral.
+
+4.13.6 For an Authorised Firm using the FCCA, eligible financial Collateral comprises:
+
+(a)
+
+any instrument listed in Rule 4.13.5;
+
+(b)
+
+any equity Security (including a convertible bond) that is traded on a regulated exchange;
+
+(c)
+
+any Unit in a Collective Investment Fund which invests in equity securities referred to in (b), where:
+
+(i)
+
+a price for the Units is publicly quoted daily; and
+
+132
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+(ii)
+
+all of the deposited property of the Fund is invested in instruments listed in this Rule and Rule 4.13.5.
+
+4.13.7
+
+In the case of any Counterparty Credit Risk Exposures in Rules 4.13.5. and 4.13.6 arising from an SFT which are included in the Trading Book, eligible financial Collateral includes all instruments which an Authorised Firm may include in its Trading Book.
+
+Guidance
+
+For an Authorised Firm using Units of a Fund under the FCSA approach, the use or potential use by that Fund of Derivative instruments solely to hedge investments listed in Rule 4.13.5 should not preclude the Units in that Fund from being recognised as eligible financial Collateral.
+
+Requirements for Recognition of Collateral
+
+4.13.8 An Authorised Firm must ensure that the following requirements are complied with
+
+before it recognises the effects of Credit Risk mitigation of any Collateral:
+
+(a)
+
+the legal mechanism by which Collateral is pledged, assigned or transferred must confer on the Authorised Firm the right to liquidate or take legal

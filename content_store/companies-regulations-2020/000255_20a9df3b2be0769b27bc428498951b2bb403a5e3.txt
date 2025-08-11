@@ -1,0 +1,159 @@
+ instrument takes effect
+
+Charge not created or evidenced by an instrument
+
+The date on which the charge comes into effect.
+
+(2) Where a charge is created or evidenced by an instrument made between two or more parties, references in the Table in subsection (1) to execution are to execution by all the parties to the instrument whose execution is essential for the instrument to take effect as a charge.
+
+(3)
+
+This section applies for the purposes of this Chapter even if further forms, notices, registrations or other actions or proceedings are necessary to make the charge valid or effectual for any other purposes.
+
+(4)
+
+For the purposes of this Chapter, the Registrar is entitled without further enquiry to accept a charge as created on the date given as the date of creation of the charge in a charge filing statement.
+
+(5)
+
+In this section “deed” means–
+
+(a)
+
+a deed governed by the law of the Abu Dhabi Global Market, or
+
+(b)
+
+an instrument governed by a law other than the law of the Abu Dhabi Global Market which requires delivery under that law in order to take effect.
+
+435
+
+(6)
+
+References in this section to delivery, in relation to a deed, include delivery as a deed where required.
+
+789. Extension of period allowed for delivery
+
+(1)
+
+Subsection (3) applies if the Court is satisfied that–
+
+(a)
+
+neither the company nor any other person interested in the charge has delivered to the Registrar the documents required under section 784 or (as the case may be) 785 before the end of the period allowed for delivery under the section concerned, and
+
+(b)
+
+the requirement in subsection (2) is met.
+
+(2)
+
+The requirement is–
+
+(a)
+
+that the failure to deliver those documents–
+
+(i)
+
+was accidental or due to inadvertence or to some other sufficient cause, or
+
+(ii)
+
+is not of a nature to prejudice the position of creditors or shareholders of the company, or
+
+(b)
+
+that on other grounds it is just and equitable to grant relief.
+
+(3)
+
+The Court may, on the application of the company or a person interested, and on such terms and conditions as seem to the Court just and expedient, order that the period allowed for delivery be extended.
+
+790. Personal information etc in certified copies
+
+(1)
+
+The following are not required to be included in a certified copy of an instrument or debenture delivered to the Registrar for the purposes of any provision of this Chapter–
+
+(a)
+
+personal information relating to an individual (other than the name of an individual),
+
+(b)
+
+the number or other identifier of a bank or securities account of a company or individual,
+
+(c)
+
+a signature.
+
+(2)
+
+The Registrar is entitled without further enquiry, to accept the certified copy of an instrument whether or not any of the information in subsection (1) is contained within the instrument.
+
+791. Consequence of failure to deliver charges
+
+(1)
+
+This section applies if–
+
+(a)
+
+a company creates a charge to which section 784 or 785 applies, and
+
+(b)
+
+the documents required by section 784 or (as the case may be) 785 are not delivered to the Registrar by the company or another person interested in the charge before the end of the relevant period allowed for delivery.
+
+(2)
+
+“The relevant period allowed for delivery” is–
+
+436
+
+(a)
+
+the period allowed for delivery under the section in question, or
+
+(b)
+
+if an order under section 789(3) has been made, the period allowed by the order.
+
+(3) Where this section applies, the charge is void (so far as any security on the company’s
+
+property or undertaking is conferred by it) against–
+
+(a)
+
+a liquidator of the company,
+
+(b)
+
+an administrator of the company, and
+
+(c)
+
+a creditor of the company.
+
+(4)
+
+Subsection (3) is without prejudice to any contract or obligation for repayment of the money secured by the charge; and when a charge becomes void under this section, the money secured by it immediately becomes payable.
+
+792. Entries on the register
+
+(1)
+
+This section applies where a charge is registered in accordance with a provision of this Chapter.
+
+(2)
+
+The Registrar must–
+
+(a)
+
+allocate to the charge a unique reference code and place a note in the register recording that reference code, and
+
+(b)
+
+include in the register any documents delivered under section 784(3) or (5), 785(3), (4) or (7

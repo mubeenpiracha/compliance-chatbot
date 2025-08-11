@@ -1,0 +1,101 @@
+ must ensure that a prominent statement appears in the Prospectus or other offering document which clearly states that the Offer of Securities may be subject to Price Stabilisation and also identifies by name the Stabilisation Manager.
+
+(2)
+
+For the purpose of (1), “prominent” means that the statement must appear under its own separate heading in the first few pages of a Prospectus or other offering document.
+
+(3)
+
+The existence and principal terms of any option or right to purchase the Eligible Securities which are the subject of the Price Stabilisation from the Issuer, must be disclosed in the relevant Prospectus or other offering document.
+
+Guidance
+
+1. The existence of any Stabilisation Agents does not have to be disclosed.
+
+2. The following is an example of the wording of a statement under Rule 4.2.1(1) (this does not include the disclosure required under Rule 4.2.1(3));
+
+“In connection with this [issue][offer], [name of Stabilisation Manager] may over-allot or effect transactions with a view to supporting the market price of [description of relevant Securities] at a level higher than that which might otherwise prevail for a limited period after the issue date. However, there may be no obligation on [name of Stabilisation Manager] [or any of his agents] to do this. Such stabilising, if commenced, may be discontinued at any time, and will be brought to an end after a limited period.”
+
+4.2.2
+
+(1)
+
+A Stabilisation Manager must not conduct, or permit his Stabilisation Agent to conduct, any Price Stabilisation unless:
+
+(a)
+
+the requirements of Rule 4.2.1 are fulfilled;
+
+8
+
+PRS/VER7/04-18
+
+PRICE STABILISATION (PRS)
+
+(b)
+
+the Authorised Market Institution or other exchange on which the Eligible Securities are admitted to trading have been informed that Price Stabilisation in those Eligible Securities may take place during the Stabilisation Window and that any requirements been complied with; and
+
+(c)
+
+there are systems and controls in place to ensure compliance with PRS.
+
+(2)
+
+A Stabilisation Manager must establish a register of Price Stabilisation and take reasonable steps to satisfy himself that the mechanisms required to update the register are in place.
+
+4.2.3 The Stabilisation Manager must not conduct, nor allow his Stabilisation Agent to
+
+conduct, Price Stabilisation in any case where:
+
+(a)
+
+the Market Price of the Eligible Securities is falsely higher than the price which would otherwise prevail; and
+
+(b)
+
+the Stabilisation Manager knows or ought reasonably to have known that the falsity in the Market Price was attributable in whole or in part to any conduct by a Person who was in breach of the Market Misconduct provisions; or
+
+(c)
+
+any requirements of an Authorised Market Institution or any other exchange have not been complied with.
+
+4.3 Post Price Stabilisation Disclosure
+
+4.3.1
+
+If a Stabilisation Manager has conducted Price Stabilisation during the Stabilisation Window, then he must, within 2 business days following a Price Stabilisation transaction, disclose to the DFSA the following details:
+
+(a)
+
+the total number of Eligible Securities transacted by the Stabilisation Manager and any Stabilisation Agents;
+
+(b)
+
+the average price of Eligible Securities transacted during the Price Stabilisation;
+
+(c)
+
+whether a Price Stabilisation transaction was undertaken otherwise than through the central order book of the relevant Authorised Market Institution;
+
+(d)
+
+if the Stabilisation Manager has an outstanding short position, the number of Eligible Securities in that short position; and
+
+9
+
+PRS/VER7/04-18
+
+4.3.2
+
+PRICE STABILISATION (PRS)
+
+(e)
+
+any additional information which the DFSA requires the Stabilisation Manager to disclose.
+
+Guidance
+
+Rule 4.3.1 requires a Stabilisation Manager to disclose to the DFSA details of each Price Stabilisation transaction conducted during the Stabilisation Window. The purpose of this Rule is to provide the DFSA with an understanding of the level of price support afforded to the Eligible Securities during the Stabilisation Window and the manner in which Price Stabilisation occurred.
+
+If a Stabilisation Manager has conducted Price Stabilisation during the Stabilisation Window

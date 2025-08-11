@@ -1,0 +1,105 @@
+
+
+51
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+3.9B.2 A SIB must maintain an HLA Capital Buffer of CET1 Capital that is calculated using
+
+the following formula:
+
+HLA Capital Buffer = HLA Ratio x Relevant RWA
+
+where:
+
+“HLA Capital Buffer” is the HLA Capital Buffer that the Authorised Firm must maintain;
+
+“HLA Ratio” is the ratio determined by the DFSA for that Authorised Firm under Rule 3.9B.6; and
+
+“Relevant RWA”:
+
+(a)
+
+for a G-SIB, is the value of the its Risk Weighted Assets; or
+
+(b)
+
+for a D-SIB, is the value of its Risk Weighted Assets in jurisdictions for which it is considered to be systemically important.
+
+3.9B.3
+
+If an Authorised Firm is both a G-SIB and a D-SIB, the HLA Capital Buffer that applies under this section is the higher of the amount calculated under Rule 3.9B.2 for the firm as a G-SIB and the amount calculated under that Rule for the firm as a D-SIB.
+
+3.9B.4 An Authorised Firm must not apply CET1 Capital that it maintains to meet an HLA
+
+Capital Buffer Requirement towards meeting:
+
+(a)
+
+its Risk Capital Requirement;
+
+(b)
+
+its Capital Conservation Buffer Requirement;
+
+(c)
+
+its Countercyclical Capital Buffer Requirement; or
+
+(d)
+
+an Individual Capital Requirement that the DFSA has imposed on it under chapter 10.
+
+3.9B.5 The HLA Capital Buffer Requirement applies on both a solo and a consolidated basis
+
+for Authorised Firms forming part of a Group.
+
+HLA ratio
+
+3.9B.6 (1)
+
+The DFSA must determine an HLA Ratio for each Authorised Firm that it designates as a G-SIB or D-SIB.
+
+(2)
+
+The HLA Ratio determined under (1) for a D-SIB must be not less than 1% and not more than 3.5%.
+
+(3)
+
+The DFSA may vary the HLA Ratio determined under this Rule, provided that for a D-SIB the ratio as varied is within the range specified in (2).
+
+(4)
+
+The procedures in Schedule 3 to the Regulatory Law apply to a DFSA decision to set or vary an HLA Ratio for an Authorised Firm.
+
+(5)
+
+If the DFSA decides to set or vary an HLA Ratio, the Authorised Firm may refer the matter to the FMT for review.
+
+52
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+(6)
+
+Paragraphs (4) and (5) do not apply to a decision relating to the HLA Ratio for a G-SIB designated under Rule 1.4.1.
+
+Guidance
+
+1. The DFSA is likely to base the HLA Ratio it determines for a G-SIB on the rate specified for that G-SIB by the Financial Stability Board, in consultation with the Basel Committee. For a D-SIB, the DFSA will determine an HLA Ratio that is between 1% and 3.5% (see Rule 3.9B.6(2)).
+
+2. The Schedule 3 procedures and the right of review by the FMT do not apply to a rate applied to a G-SIB designated under Rule 1.4.1. This is because the rate specified by the DFSA for such a G-SIB will be the rate recommended by the FSB and Basel Committee.
+
+3.9C Failure to meet a Capital Buffer Requirement
+
+Guidance
+
+This section sets out measures that an Authorised Firm must take if it is not meeting a Capital Buffer Requirement, i.e. its Capital Conservation Buffer Requirement, CCyB Requirement or HLA Capital Buffer Requirement. The measures, such as not distributing capital and preparing a plan to restore capital, do not limit other action that the DFSA may take against the firm for failing to meet the requirement.
+
+3.9C.1 This section applies to an Authorised Firm in Category 1, 2 (other than a Matched
+
+Principal) or

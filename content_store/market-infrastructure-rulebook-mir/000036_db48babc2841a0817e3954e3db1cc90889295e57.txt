@@ -1,0 +1,103 @@
+ Rule 4.7.16(b) at least on a two-monthly basis, unless more frequent analysis is warranted because the Investments cleared or markets served display high volatility, become less liquid, or when the size or concentration of positions held by its participants increase significantly;
+
+(b)
+
+consider carrying out daily stress testing to measure and monitor its risk exposures, especially if its operations are complex or widely spread over multiple jurisdictions; and
+
+(c)
+
+perform a full validation of its risk-management models at least annually.
+
+4.7.18
+
+A Recognised Clearing House must establish explicit Clearing Rules, Default Rules and procedures that address fully any credit losses it may face as a result of any individual or combined default among its Members and other participants with
+
+64
+
+MIR VER10.290725
+
+respect to any of their obligations to the Recognised Clearing House. Such Clearing Rules, Default Rules and procedures should:
+
+(a)
+
+address how any potentially uncovered credit losses would be allocated, including the repayment of any funds the Recognised Clearing House may borrow from its liquidity providers; and
+
+(b)
+
+indicate the Recognised Clearing House's process to replenish any financial resources that it may employ during a stress event, so that it can continue to operate in a safe and sound manner.
+
+4.7.19
+
+A Recognised Clearing House must document its supporting rationale for, and have appropriate governance arrangements relating to, the amount of total financial resources it maintains.
+
+4.7.20
+
+A Recognised Clearing House must have clear procedures to report the results of its stress tests to its Governing Body and Senior Management as appropriate.
+
+4.7.21
+
+A Recognised Clearing House must use the results of its stress tests to evaluate the adequacy of its total financial resources and make any adjustments as appropriate.
+
+Liquidity risk
+
+4.7.22
+
+A Recognised Clearing House must:
+
+(a)
+
+determine the amount of its minimum liquid resources;
+
+(b)
+
+maintain sufficient liquid resources to be able to effect same-day, intra-day or multi-day settlement, as applicable, of its payment obligations with a high degree of confidence under a wide range of potential stress scenarios;
+
+(c)
+
+ensure that all resources held for the purposes of meeting its minimum liquid resource requirement are available when needed;
+
+(d)
+
+have a well-documented rationale to support the amount and form of total liquid resources it maintains for the purposes of (b) and (c); and
+
+(e)
+
+have appropriate arrangements in order to be able to maintain, on an on-going basis, such amount and form of its total liquid resources.
+
+4.7.23
+
+A Recognised Clearing House must have a robust framework for managing its liquidity risks. Such a framework must enable it to manage liquidity risks arising from its Members and other participants on its facilities, and any other involved parties, such as settlement banks, custodian banks, liquidity providers ("Members and other involved parties"). For that purpose, the framework must, at a minimum, include:
+
+(a)
+
+Clearing Rules, Default Rules and procedures that:
+
+enable the Recognised Clearing House to meet its payment obligations on time following any individual or combined default of its Members and other involved parties;
+
+65
+
+MIR VER10.290725
+
+address unforeseen and potentially uncovered liquidity shortfalls to avoid unwinding, revoking, or delaying the settlement of its payment obligations arising under the same-day, intra-day or multiday settlement obligations, as applicable; and
+
+indicate any liquidity resources the Recognised Clearing House may deploy, in the event of default by a Member or other involved parties, during a stress event to replenish the available liquid resources and the associated process, so that it can continue to operate in a safe and sound manner;
+
+(b)
+
+effective operational and analytical tools to identify, measure and monitor its settlement and funding flows on an on-going and timely basis; and
+
+(c)
+
+rigorous due diligence procedures relating to its liquidity providers to obtain a high degree of confidence that each provider (whether the provider is a Member or other participant using its facilities or an external party) has:
+
+sufficient information to assess, understand and manage its own liquidity risks; and
+
+the capacity to perform as required under their commitment.
+
+4.7.24
+
+The framework referred to in Rule 4.7.23 must enable the Recognised Clearing House to effectively measure, monitor, and manage its liquidity risk.
+
+4.7.25
+
+To

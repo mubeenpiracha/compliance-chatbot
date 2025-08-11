@@ -1,0 +1,41 @@
+ a homogeneous group. In deciding whether to treat a group of contracts as homogeneous, an Insurer should consider whether the group would remain homogeneous under realistic scenarios to which the Insurer could be exposed.
+
+2.
+
+Rule 5.6.7(d) prevents an Insurer from reducing the valuation by taking into account future lapses and surrenders, or future action by the policyholder to make the policy paid-up or to 'revive' a paid-up policy where the product features permit such action. Since persistency may be volatile, it is considered imprudent for an Insurer to rely upon 'lapse support' in its valuation. However, voluntary discontinuance of policies may increase a valuation as well as reduce it (for example, a guaranteed surrender value may exceed the actuarially-calculated liability for part of the life of the contract). In performing the valuation, the insurer should therefore make prudent allowance for the effect of lapses, surrenders, and related policyholder actions where these increase the valuation. The impact may vary over the life of a particular contract; for example, lapse at one stage in the contract life may represent a cost to the Insurer, whereas at another, it may represent a benefit.
+
+3.
+
+Rule 5.6.7(e)(iii) requires an Insurer to take into account bonuses not yet allocated in determining the liability for capital adequacy purposes. In essence, this Rule prevents an Insurer from counting as capital any surplus on participating contracts that is expected, under the terms of the contracts concerned, to accrue to the policyholders in the future. Therefore, although attribution of surplus on participating contracts is discretionary, the Insurer must make a reasonable estimate, taking into account the perceived and reasonable expectations of policyholders. Assumptions made in reaching this estimate (for example, on future investment income) should be consistent with those made for other purposes of the valuation. However, the recognition of future bonuses or other forms of participation in this liability does not affect the determination of surplus
+
+22
+
+PIN VER07.290725
+
+for other purposes, such as allocation of bonuses of surplus prior to allocation of those bonuses.
+
+4.
+
+For the purposes of Rule 5.6.7(f), an Insurer should ensure that yields used to determine the discount rate are adjusted to take account of the risk that yields will decrease. High yields that represent compensation for risks such as credit or currency risk should be adjusted down to account for those elements of the yield.
+
+5.6.8 The Regulator may specify actuarial principles to be followed by Insurers in measuring
+
+the liability referred to in Rule 5.6.6.
+
+5.6.9 Rule 5.6.6 does not require an Insurer to obtain a valuation by an Actuary of the liability referred to in that Rule, at a Solvency Reference Date other than the Insurer's annual reporting date.
+
+Guidance
+
+An Insurer is also required to provide a periodic report on its Long-Term Insurance Liabilities, prepared by an Actuary, including an actuarial investigation of the financial condition of its Long-Term Insurance Business. The relevant provisions are set out in Rule 7.3.
+
+5.7
+
+Value of investments in subsidiaries and associates that are subject to minimum capital requirements
+
+5.7.1 This section applies to all Insurers.
+
+5.7.2 Where an Insurer is the Parent of a Financial Group, the value of the Insurer's investment in any Subsidiary or Associate that is a Financial Institution must be taken as the amount of the Insurer's proportionate share of that Subsidiary or Associate's Capital Resources or Adjusted Capital Resources determined in accordance with Rule 8.3.5(1)(b), reduced by the Insurer's proportionate share of the Subsidiary or Associate's Capital Requirement determined in accordance with Rule 8.3.4(2).
+
+Guidance
+
+The impact of Rule 5.7.2 is that an Insurer's capital resources are calculated on a basis consistent with the manner of calculation of Financial Group Capital Resources, and that capital resources required to support the capital adequacy of Group companies are not used to support the individual capital adequacy of the Insurer itself. The Insurer's capital adequacy calculation is therefore also an indication of the degree of capital adequacy of the Financial Group of which it is the Parent

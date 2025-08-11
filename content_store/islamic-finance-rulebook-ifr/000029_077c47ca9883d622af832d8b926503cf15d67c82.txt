@@ -1,0 +1,101 @@
+ the Securities are Shari’a compliant;
+
+(d)
+
+in the case of issuance of Sukuk:
+
+(i)
+
+a description of the structure of the underlying transaction (including a structure diagram) and an explanation of the flow of funds; and
+
+(ii)
+
+where applicable, the disclosures required by the Shari'a Standards published from time to time by AAOIFI in respect of investment Sukuk; and
+
+(e)
+
+instead of the statement required under MKT Rule 4.5.1(3)(d), a prominent disclaimer in bold, on the front page of this Prospectus as follows:
+
+"The Regulator does not accept any responsibility for the content of the information included in the Prospectus, including the accuracy or completeness of such information. The liability for the content of the Prospectus lies with the issuer of the Prospectus and other Persons, such as Experts, whose opinions are included in the Prospectus with their consent. The Regulator has also not assessed the suitability of the Securities to which the Prospectus relates to any particular investor or type of investor and has not determined whether they are Shari'a compliant. If you do not understand the contents of this Prospectus or are unsure whether the Securities to which the Prospectus relates are suitable for your individual investment objectives and circumstances, you should consult an authorised financial advisor or other appropriately qualified Expert."
+
+7.3
+
+Continuous Disclosure relating to Islamic Securities
+
+7.3.1 The Reporting Entity responsible for Islamic Securities must, without delay, Disclose details of any changes to the membership of its Shari'a Supervisory Board, the identity, qualifications and experience of any new Shari'a Supervisory Board members and the identity of any Shari'a Supervisory Board members who resign or are dismissed.
+
+Confidential
+
+46
+
+IFR VER08.020125
+
+7.3.2 A Listed Entity with Islamic Securities admitted to the Official List of Securities must make the required Disclosures in accordance with the requirements under section A1.1 of App 1 and comply with the other continuing obligations under section A1.2 of App 1.
+
+7.4
+
+Admission of Islamic Securities to an Official List of Securities
+
+7.4.1
+
+If Securities are held out as being in accordance with Shari'a, copies of all material transaction documents pertaining to the Shari’a nature of the Securities must be submitted by the Applicant, in final form, to the Regulator by midday two Business Days before the Regulator is to consider the application.
+
+8.
+
+TAKAFUL
+
+8.1
+
+Application
+
+8.1.1
+
+(a)
+
+This IFR 8 applies to an Authorised Person who carries on or holds itself out as carrying on (either as an Islamic Financial Institution or through an Islamic Window) insurance business or insurance intermediation in the form of Takaful.
+
+(b)
+
+In addition to the requirements in this IFR 8, the requirements that apply to conventional insurance business or Insurance Intermediation shall apply to an Authorised Person that carries on or holds itself out as carrying on insurance business or Insurance Intermediation in the form of Takaful.
+
+8.2
+
+Specific disclosure for Takaful
+
+8.2.1 Where an insurer or an insurance intermediary conducts Takaful with a Retail Client, the
+
+disclosure for the purposes of COBS 6.7 must include:
+
+(a)
+
+the nature of the contracts between the Takaful Fund and the Takaful Operator;
+
+(b)
+
+the method of calculation of any fees or share of profits paid from the Takaful Fund to the Takaful Operator;
+
+(c)
+
+the basis on which any surpluses in the Takaful Fund will be shared; and
+
+(d)
+
+any circumstances in which additional contributions to the Takaful Fund may be required.
+
+Guidance
+
+(i)
+
+Authorised Persons conducting insurance business comprising Takaful must comply with the requirements in PIN. Takaful-related prudential requirements are not included in these Islamic Finance Rules because of the closely integrated nature of such requirements with the requirements that apply to conventional insurance.
+
+(ii)
+
+Note that structures of Takaful Operators (including Retakaful Providers) vary, as do the Islamic contracts governing their business. As the Regulator has not as yet thought it appropriate to limit the permissible structures and contracts, the Regulator is willing to consider modifications to the Rulebooks to apply the most
+
+Confidential
+
+47
+
+IFR VER08.020125
+
+appropriate

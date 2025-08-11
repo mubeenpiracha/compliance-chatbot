@@ -1,0 +1,147 @@
+Islamic Finance Rulebook (IFR)
+
+(VER08.020125)
+
+Confidential
+
+IFR VER08.020125
+
+TABLE OF CONTENTS
+
+The contents of this Rulebook are divided into the following chapters, sections and appendices:
+
+1.
+
+INTRODUCTION .................................................................................................1
+
+2.
+
+ISLAMIC FINANCE ..............................................................................................2
+
+3.
+
+GENERAL OBLIGATIONS ................................................................................... 10
+
+4.
+
+ACCOUNTING AND AUDITING .......................................................................... 17
+
+5.
+
+MANAGING PROFIT SHARING INVESTMENT ACCOUNTS .................................... 20
+
+6.
+
+ISLAMIC COLLECTIVE INVESTMENT FUNDS ....................................................... 34
+
+7.
+
+OFFERS OF ISLAMIC SECURITIES ...................................................................... 45
+
+8.
+
+TAKAFUL ......................................................................................................... 47
+
+APP 1 CONTINUING OBLIGATIONS ............................................................................... 49
+
+Confidential
+
+i
+
+IFR VER08.020125
+
+1.
+
+INTRODUCTION
+
+1.1
+
+Application
+
+1.1.1 These Islamic Finance Rules apply to:
+
+(a)
+
+every Authorised Person who carries on, or holds itself out as carrying on, an Islamic Financial Business in ADGM whether as an Islamic Financial Institution or through an Islamic Window;
+
+(b)
+
+a Fund Manager of a Domestic Fund which is operated or held out as being operated as an Islamic Fund;
+
+(c)
+
+a Person making an Offer in ADGM relating to a Security which is, or is held out as being, a Shari'a-compliant Security; and
+
+(d)
+
+a Recognised Body that carries on, or holds itself out as carrying on, an Islamic Financial Business in ADGM.
+
+Guidance
+
+(i)
+
+A subset certain of the requirements that apply to Authorised Persons Conducting Islamic Financial Business or distributing Shari’a-compliant Securities are included in these Islamic Finance Rules. An Authorised Person that has a Financial Services Permission to operate as an Islamic Financial Institution or that has a Financial Services Permission to operate an Islamic Window will also be subject to the requirements relating to such Regulated Activity or specified category of Regulated Activity that are included in other Rulebooks as required by the terms of that Authorised Person’s Financial Services Permission.
+
+(ii)
+
+A subset of the requirements that apply to Recognised Bodies Conducting Islamic Financial Business are included in these Islamic Finance Rules. A Recognised Body that has a Recognition Order to operate an Islamic Financial Business will also be subject to those Rules in the FSRA’s Rulebooks that are applicable to Recognised Bodies.
+
+1.2
+
+Overview of the IFR Rulebook
+
+References in these Islamic Finance Rules to numbered IFRs are references to specific numbered chapters of these Islamic Finance Rules.
+
+Guidance
+
+(i)
+
+The rules in these Islamic Finance Rules are made under, or for the purposes of, FSMR. Guidance may indicate any additional rulebook to which these Islamic Finance Rules relate.
+
+(ii)
+
+IFR 2 and IFR 3 contain the general requirements and obligations that apply to an Authorised Person who conducts any Islamic Financial Business. IFR 4 contains the accounting and audit requirements that apply to such Authorised Persons.
+
+Confidential
+
+1
+
+IFR VER08.020125
+
+(iii)
+
+IFR 5 contains additional requirements that apply to an Authorised Person that carries on the Regulated Activity of Managing Profit Sharing Investment Accounts (PSIAs).
+
+(iv)
+
+IFR 6 contains the additional requirements that apply to a Fund Manager of an Islamic Fund.
+
+(v)
+
+IFR 7 contains specific requirements that apply to Reporting Entities that Offer Securities that are expressed to be Shari'a-compliant. Reporting Entities that Offer Securities that are expressed to be Shari’a-compliant will also be subject to the general requirements that apply to Offers of Securities and reporting entities must comply with such requirements as set out in the Markets Rules (MKT Rulebook).
+
+(vi)
+
+IFR 8 contains the additional requirements applying to Persons who carry on insurance business or insurance intermediation as Takaful.
+
+2.
+
+ISLAMIC FINANCE
+
+2.1
+
+Application
+
+2.1.1 This Chapter applies to every Authorised Person and Recognised Body to whom these
+
+Islamic Finance Rules apply in accordance with IFR 1.1.
+
+2.2
+
+Activities that constitute Conducting Islamic Financial Business
+
+Conducting Islamic Financial Business means:
+
+(a)
+
+in relation to an Authorised Person, carrying on one or more Regulated Activities or specified category

@@ -1,0 +1,131 @@
+ (PRS)
+
+(e)
+
+any additional information which the DFSA requires the Stabilisation Manager to disclose.
+
+Guidance
+
+Rule 4.3.1 requires a Stabilisation Manager to disclose to the DFSA details of each Price Stabilisation transaction conducted during the Stabilisation Window. The purpose of this Rule is to provide the DFSA with an understanding of the level of price support afforded to the Eligible Securities during the Stabilisation Window and the manner in which Price Stabilisation occurred.
+
+If a Stabilisation Manager has conducted Price Stabilisation during the Stabilisation Window, then he must within 2 business days following the end of the Stabilisation Window disclose to the market the following details:
+
+(a)
+
+the total number of Eligible Securities bought by the Stabilisation Manager and any Stabilisation Agents during the Stabilisation Window and the date of the first and last stabilisation transactions;
+
+(b)
+
+the average price of Eligible Securities bought on market during the Stabilisation Window;
+
+(c)
+
+whether a Price Stabilisation transaction was undertaken otherwise than through the central order book of the relevant Authorised Market Institution;
+
+(d)
+
+if the Stabilisation Manager has an outstanding short position, the number of Eligible Securities in that short position; and
+
+(e)
+
+any additional information which the DFSA requires the Stabilisation Manager to disclose.
+
+Guidance
+
+Rule 4.3.2 requires a Stabilisation Manager to disclose to the market details of the Price Stabilisation support conducted during the Stabilisation Window. The purpose of this Rule is to provide the market with an understanding of the level of price support afforded to the Eligible Securities during the Stabilisation Window.
+
+10
+
+PRS/VER7/04-18
+
+PRICE STABILISATION (PRS)
+
+5
+
+REGISTER
+
+5.1 Application
+
+5.1.1 This chapter applies to a Stabilisation Manager and is of relevance to his
+
+Stabilisation Agents.
+
+5.2 The creation and maintenance of the Register
+
+5.2.1 The Stabilisation Manager must, before carrying out any Price Stabilisation:
+
+(a)
+
+create a register to record the details relating to the Price Stabilisation as required by this chapter; and
+
+(b)
+
+establish and implement systems and controls to keep the register updated.
+
+5.2.2 The Stabilisation Manager must ensure that the register contains either on a real-
+
+time or daily updated basis the following information:
+
+(a)
+
+the names and contact details of all Stabilisation Agents appointed by him;
+
+(b)
+
+details of the appointment of each Stabilisation Agent, including the date of the appointment;
+
+(c)
+
+the general terms and instructions (including details of the price floor and Stabilisation Window) determined by the Stabilisation Manager for his Stabilisation Agents and the date and time of the communication, variation or revocation of that information and instructions;
+
+(d)
+
+details of all correspondence passing between the Stabilisation Manager and his Stabilisation Agent relating to the Price Stabilisation, including all instructions and variations or revocation of appointments;
+
+(e)
+
+each and every transaction undertaken by the Stabilisation Manager and Stabilisation Agent in the course of the Price Stabilisation, including not but limited to the following transaction details:
+
+(i)
+
+the type of Eligible Securities;
+
+(ii)
+
+the price;
+
+(iii)
+
+the size;
+
+11
+
+PRS/VER7/04-18
+
+PRICE STABILISATION (PRS)
+
+(iv)
+
+whether the transactions were undertaken on or off the central order book of the relevant Authorised Market Institution;
+
+(v)
+
+the date and time;
+
+(vi)
+
+details of the counterparty (if known); and
+
+(vii)
+
+details of the allotment of the Eligible Securities.
+
+Guidance
+
+1.
+
+Rule 5.2.2 (e)(vi) acknowledges that some market structures, for example anonymous order books or anonymous indications of interest, cause the identity of counterparties to sometimes be unknown prior to the effecting of transactions.
+
+2.
+
+Rule 5.2.2 also accepts that some participants in the Price Stabilisation may have accrued uneconomic positions during stabilisation and therefore permits a single transaction, probably at the end-of day, to ‘square-off’ the positions between participants. The terms on which these transactions be carried may often be agreed in the terms of engagement between the Stabilisation Manager and his Stabilisation Agents. The DFSA

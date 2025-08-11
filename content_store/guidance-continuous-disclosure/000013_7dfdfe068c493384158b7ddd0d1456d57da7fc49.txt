@@ -1,0 +1,55 @@
+ or negotiation (Rule 7.2.2(1)(a))
+
+66) Rule 7.2.2(1)(a) allows for non-Disclosure by a Reporting Entity of Inside Information that relates to an incomplete matter or negotiation. The Listing Authority considers that:
+
+17 Refer to paragraph 58d) above. 18 For more details on the process and timing’s related to the Trading Halt or Suspension and reinstatement of trading in a Listed Entity’s Securities by an RIE, please refer to the rules, procedures, notices and other relevant communication of the RIE (upon which the Listed Entity’s Securities are admitted to trading).
+
+14
+
+VER01.280922
+
+a) matters are generally considered complete at the point where the matter has been finally determined or resolved. For example, a recommendation to issue further capital made by a Listed Entity’s management to its Board is an incomplete matter. The matter becomes complete where the Board of the Listed Entity resolves to, and approves, the further capital raising; and
+
+b)
+
+negotiations are to be generally considered completed at the point in which contracts are signed or the Listed Entity is otherwise committed to proceeding with the transaction. It should be noted that a signed contract even if subject to conditions precedent or conditions subsequent will generally not be considered an incomplete negotiation.
+
+67)
+
+In cases where a Reporting Entity relies on a matter, or negotiation, not being final or complete until a Listed Entity’s Board decision is made, or a contract signed, it is understood that the Listed Entity may schedule the relevant Board decision, or signing of the contract, after trading on the relevant RIE closes, or before the RIE’s market reopens. The Listing Authority will generally have no concerns with this practice, provided confidentiality19 is maintained until the Board decision is made, or the contract is signed.
+
+68) The Listing Authority considers an agreement entered into in connection with the negotiation of a transaction to be very different to a principal agreement to implement the transaction. The Listing Authority will not normally consider a confidentiality agreement or an exclusivity agreement to indicate that a negotiation is complete. The terms, nevertheless, of a procedural agreement of this kind may require Disclosure, if such terms constitute (all or part of) Inside Information and Rules 7.2.2(2) and 7.2.2(3) are not met. Breach of law (Rule 7.2.2(1)(b))
+
+69) To fall within the exception contained in Rule 7.2.2(1)(b), Disclosure of the Inside Information must breach a specific law, regulation, rule, administrative order or court order binding on the Listed Entity.
+
+70) The fact that the Inside Information is subject to a confidentiality agreement or to duties of confidentiality under a general law, such that its Disclosure may give rise to legal action for damages or for injunctive or other relief, is not sufficient to fall within this Rule.
+
+Matters of supposition, or insufficiently certain or definite (Rule 7.2.2(1)(c))
+
+71) Rule 7.2.2(1)(c) provides an exception for the non-Disclosure of Inside Information due to it comprising matters of supposition or matters that are insufficiently certain or definite to warrant Disclosure. This refers to:
+
+a) matters which are assumed, or believed, without knowledge or proof;
+
+b)
+
+information that is vague or imprecise;
+
+c)
+
+information, the truth or accuracy of which is open to doubt; and
+
+d)
+
+a matter in relation to which the likelihood of it occurring, or the impact in the event that it does occur, is uncertain,
+
+19 Paragraphs 81 to 94 below provide further details on the concept of confidentiality.
+
+15
+
+VER01.280922
+
+such that a reasonable person would not expect it to be Disclosed. In some circumstances, information of this nature may be so uncertain or indefinite that it falls at the first hurdle and does not, in fact, constitute Inside Information in which case it is not required to be Disclosed under Rule 7.2.1, regardless of whether it falls within the exception provided by this Rule.
+
+72)
+
+It should be noted that the exception in paragraph 71d) will not apply in circumstances where a Listed Entity/Reporting Entity is aware of information about a known event (and that the event constitutes Inside Information), but needs time to enable the Listed Entity/

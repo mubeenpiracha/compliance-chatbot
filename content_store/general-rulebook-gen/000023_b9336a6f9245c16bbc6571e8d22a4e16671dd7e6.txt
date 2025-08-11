@@ -1,0 +1,109 @@
+ Rulebook to another provision of the Rulebook or other Regulations and Rules, it is a reference to that provision as amended from time to time.
+
+4.
+
+Unless the contrary intention appears:
+
+a.
+
+words in the Rulebook importing the masculine gender include the feminine gender and words importing the feminine gender include the masculine; and
+
+b.
+
+words in the Rulebook in the singular include the plural and words in the plural include the singular.
+
+5.
+
+If a provision in the Rulebook refers to a communication, notice, agreement, or other Document 'in writing' then, unless the contrary intention appears, it means in legible form and capable of being reproduced on paper, irrespective of the medium used. Expressions related to writing must be interpreted accordingly.
+
+6.
+
+Any reference to 'dollars' or '$' is a reference to United States Dollars unless the contrary intention appears.
+
+7.
+
+References to sections made throughout the Rulebook are references to sections in FSMR unless otherwise stated.
+
+40
+
+GEN VER11.290725
+
+8.
+
+If an obligation falls on a calendar day which is not a Business Day, the obligation must take place on the next calendar day which is a Business Day.
+
+Defined Terms
+
+9.
+
+Defined terms are identified throughout the Rulebook by the capitalisation of the initial letter of a word or of each word in a phrase and are defined in GLO, however, where a word or phrase is used only in a prudential context in PRU then for convenience purposes it is also defined under Rule 1.2.1 of PRU. Unless the context otherwise requires, where capitalisation of the initial letter is not used, an expression has its natural meaning.
+
+4.3
+
+Emergency
+
+(1)
+
+If an Authorised Person or Recognised Body is unable to comply with a particular Rule due to an emergency which is outside its or its Employees' control and could not have been avoided by taking all reasonable steps, the Authorised Person or Recognised Body will not be in Contravention of that Rule to the extent that, in consequence of the emergency, compliance with that Rule is impractical.
+
+(2)
+
+This Rule applies only for so long as the consequences of the emergency continue and the Authorised Person or Recognised Body is able demonstrate that it is taking all practical steps to deal with those consequences, to comply with the Rule, and to mitigate losses and potential losses to its Customers or users.
+
+(3)
+
+An Authorised Person or Recognised Body must notify the Regulator as soon as practical of the emergency and of the steps it is taking and proposes to take to deal with the consequences of the emergency.
+
+Guidance
+
+1.
+
+Procedures for notification to the Regulator are set out in Rule 8.11.
+
+2.
+
+The provisions in Rule 4.3.1 do not affect the powers of the Regulator under section 1(1) and (2) of FSMR.
+
+4.4
+
+Disclosure of regulatory status
+
+Neither an Authorised Person nor a Recognised Body must misrepresent its status
+
+expressly or by implication.
+
+(1)
+
+Each Authorised Person and Recognised Body must take reasonable care to ensure that every key business Document which is made available to third parties in connection with the Authorised Person or Recognised Body carrying on a Regulated Activity, or activity set out under a Recognition Order, in or from ADGM includes one of the disclosures under this Rule.
+
+(2)
+
+A key business Document includes letterhead whether issued by post, fax or electronic means, terms of business, Client Agreements, written promotional materials, business cards, Prospectuses and websites but does not include compliment slips, account statements or text messages.
+
+41
+
+GEN VER11.290725
+
+(3)
+
+The disclosure required under this Rule is: 'Regulated by the ADGM Financial Services Regulatory Authority'.
+
+(4)
+
+The Regulator's logo must not be reproduced without express written permission from the Regulator and in accordance with any conditions for use.
+
+(5)
+
+Rules 4.4.1(1) to (4) also apply to the operation and administration of an Official List of Securities by a Recognised Body.
+
+4.5
+
+Location of offices
+
+(1) Where an Authorised Person or a Recognised Body is a Body Corporate
+
+incorporated in ADGM, its head office and registered office must be in ADGM.
+
+(2)
+
+Where an Authorised Person or a Recognised Body is a Partnership

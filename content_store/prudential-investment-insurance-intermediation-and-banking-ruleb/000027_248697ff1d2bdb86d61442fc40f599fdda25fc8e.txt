@@ -1,0 +1,197 @@
+ or expected breach, of any of the provisions of this Chapter by the Authorised Person.
+
+Guidance
+
+1.
+
+App3 provides guidance on the nature and type of stress and scenario testing that Authorised Persons should be undertaking frequently to support their view that they have adequate financial resources to meet their obligations.
+
+53
+
+PRU VER17.290725
+
+2.
+
+The requirements in this Chapter apply to Authorised Persons on a solo basis. An Authorised Person may also be subject to Capital Resources requirements at a Group level. Group requirements are addressed in Chapter 8 of these Rules.
+
+PART 3– Calculating Capital Requirements
+
+3.3
+
+Base Capital Requirement
+
+3.3.1
+
+This Section applies to an Authorised Person in any Category.
+
+Guidance
+
+The Base Capital Requirement is a component of the calculation of the Capital Requirement under Sections 3.4 and 3.6.
+
+3.3.2
+
+The table below sets out the Base Capital Requirement for each Category of Authorised Persons.
+
+Category
+
+Base Capital Requirement (US $)
+
+1
+
+10 million
+
+2
+
+2 million
+
+500,000, except where an Authorised Person is conducting the
+
+Regulated Activity of Dealing in Investments as Principal (only
+
+3A
+
+as Matched Principal) in relation to OTC Leveraged Products
+
+with Retail Clients in which case the Base Capital Requirement
+
+is 2 million.
+
+3B
+
+4 million
+
+250,000, except where an Authorised Person has a Financial
+
+Services Permission:
+
+a) only to carry out the Regulated Activity of Managing a
+
+Collective Investment Fund, in which case the Base Capital
+
+Requirement is:
+
+3C
+
+i) 150,000 if the Authorised Person manages a Public
+
+Fund or any other type of fund that is available to retail
+
+customers; or
+
+ii) 50,000 if the Authorised Person manages a Fund other
+
+than those specified in i); or
+
+54
+
+PRU VER17.290725
+
+Category
+
+Base Capital Requirement (US $)
+
+b)
+
+to carry out the Regulated Activity of Issuing a Fiat-
+
+Referenced Token, in which case it is 2 million.
+
+10,000, except where an Authorised Person has a Financial
+
+Services Permission:
+
+a)
+
+to carry out the Regulated Activity of Operating a Private
+
+Financing Platform and holds Client Assets, in which
+
+4
+
+case the Base Capital Requirement is 150,000; or
+
+b)
+
+to carry out the Regulated Activity of Providing Third Party
+
+Services, in which case the Base Capital Requirement will
+
+be 50,000.
+
+5
+
+10 million
+
+3.3.3
+
+An Authorised Person must have Common Equity Tier 1 Capital (CET1 Capital), as defined in Section 3.10, of not less than its relevant Base Capital Requirement at the time that it obtains authorisation and at all times thereafter.
+
+3.4
+
+Capital Requirements for Categories 1, 2, 3A and 5
+
+3.4.1
+
+This Section applies to an Authorised Person in Category 1, 2, 3A or 5.
+
+3.4.2
+
+(1)
+
+The Capital Requirement for an Authorised Person is calculated, subject to (2), as the higher of:
+
+(a)
+
+the applicable Base Capital Requirement as set out in Section 3.3; or
+
+(b)
+
+its Risk Capital Requirement as set out in Section 3.5.
+
+(2)
+
+Where 1(b) is the higher and the Authorised Person has an ICR imposed on it then the Capital Requirement is its ICR plus Risk Capital Requirement.
+
+3.5
+
+Risk Capital Requirement
+
+3.5.1
+
+An Authorised Person must calculate its Risk Capital Requirement as the sum of the following:
+
+(a)
+
+the Credit Risk Capital Requirement (CRCOM);
+
+(b)
+
+the Market Risk Capital Requirement;
+
+(c)
+
+the Operational Risk Capital Requirement;
+
+(d)
+
+the Displaced Commercial Risk Capital Requirement, where applicable; and
+
+55
+
+PRU VER17.290725
+
+(e)
+
+the CVA Risk Capital Requirement.
+
+CRCOM
+
+3.5.2
+
+An Authorised Person must calculate its Credit Risk Capital Requirement in accordance with the applicable Rules in Chapter 4.
+
+Guidance
+
+1.
+
+Detailed Rules and Guidance in respect of the CRCOM are specified in Chapter 4. The CRCOM is based on the risk weighted assets (RWA) for

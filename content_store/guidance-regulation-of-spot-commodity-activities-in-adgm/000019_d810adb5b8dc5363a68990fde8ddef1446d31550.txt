@@ -1,0 +1,41 @@
+in relation to Spot Commodities).
+
+111) Pursuant to FEES Rule 3.18.2 annual supervision fees for an Authorised Person conducting a Regulated Activity using Spot Commodities, payable in accordance with paragraph 1 of the FEES Rulebook, are set as follows:
+
+a)
+
+$15,000; or
+
+b)
+
+$60,000 if the Applicant is seeking to operate an RIE, MTF or OTF (in relation to Spot Commodities).
+
+Cumulative application of Fees
+
+112) If an Applicant/Authorised Person will be conducting multiple Regulated Activities using Spot Commodities as part of its FSP, the fees (authorisation and supervision) payable by that Authorised Person will be cumulative, and considered across the following:
+
+a)
+
+Authorised Person intermediary-type activities (as outlined in paragraph 99 of this Guidance); or
+
+b)
+
+activities as an MTF or OTF.
+
+113) In practice, and to further clarify, this results in several scenarios for FEES relating to Spot Commodities activities, being:
+
+23
+
+VER02.181223
+
+a)
+
+Intermediary Activities only = Application Fee of $20,000 and annual supervision fee of $15,000; and
+
+b) MTF/OTF = Application fee of $125,000 and annual supervision fee of $60,000.
+
+114) Noting the above paragraph, if an Applicant/Authorised Person will be undertaking a Regulated Activity involving conventional assets (e.g., Securities or Derivatives) in addition to Spot Commodities, it will need to seek approval from the FSRA for its FSP to permit it to carry out its Regulated Activity in relation to both asset types (conventional and Spot Commodities). The fees attributable to that Authorised Person for its Regulated Activities, conventional and Spot Commodity-related, may not be cumulative should the FSRA apply its discretion to reduce or waive a fee, under FEES 1.2.8 (considering the high fees already imposed on Applicants/Authorised Persons conducting Regulated Activities using Spot Commodities.
+
+115) Pursuant to FEES Rule 1.2.4, the FSRA reserves its right to impose additional fees in circumstances where a ‘substantial additional’ regulatory burden is imposed on FSRA.
+
+24

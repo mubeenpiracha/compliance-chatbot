@@ -1,0 +1,161 @@
+ activity referred to in Rule 2.29.1 unless a loan or Investment is involved.
+
+8.
+
+A Crowdfunding Operator will need an endorsement on its Licence to deal with Retail Clients if it carries on its activities with a user that is a Retail Client (see Rule 2.2.8). It will also need an endorsement on its Licence if it holds or controls Client Assets (see Rule 2.2.10A).
+
+9.
+
+A Crowdfunding Operator must be a Body Corporate incorporated under the DIFC Companies Law (see Rule 2.2.10D).
+
+Exclusions
+
+2.29.2 A Person does not carry on the activity referred to in Rule 2.29.1 if the Person who carries on those activities is itself the sole lender or the sole investor on the electronic platform.
+
+Guidance
+
+The activity in Rule 2.29.1 does not cover an electronic platform where the operator itself is the sole lender providing the loans e.g. if it is a credit provider and provides an electronic facility for use by its clients. Similarly, it does not apply to a platform where the operator is the sole investor. However, if the operator itself lends or invests, it is likely to be carrying on the Financial Service of Providing Credit or Dealing in Investments as Principal, and will require a separate authorisation for that activity.
+
+2.30 Operating an Employee Money Purchase Scheme
+
+Interpretation
+
+2.30.1 In this section and in section 2.31:
+
+(a)
+
+“Member” means an employee on whose behalf a Participating Employer is required to make or has made contributions into a Scheme;
+
+46
+
+GEN/VER67/03-25
+
+GENERAL (GEN)
+
+(b)
+
+“Participating Employer” means an employer who is a contributor, in respect of its employees, to a Scheme; and
+
+(c)
+
+“Scheme” means an Employee Money Purchase Scheme.
+
+Guidance
+
+An Employee Money Purchase Scheme is defined in Schedule 1 to the Regulatory Law as an arrangement where:
+
+(a)
+
+the main purpose of the arrangement is to provide benefits to members in respect of their employment;
+
+(b)
+
+benefits are payable on termination of employment or on the occurrence of another specified event; and
+
+(c)
+
+the amount of the benefit is calculated by reference to:
+
+(i)
+
+the contributions made by an employer in respect of the member, whether or not the member may make additional contributions; and
+
+(ii) the investment performance of the scheme assets.
+
+2.30.2 (1)
+
+In Rule 2.2.2, Operating an Employee Money Purchase Scheme means:
+
+(a)
+
+in relation to a Scheme established in the DIFC under a trust, acting as the trustee of the trust; or
+
+(b)
+
+in relation to any other type of Scheme, acting as the manager of the Scheme.
+
+(2)
+
+If a Scheme is established under a master trust, the master trustee and each sub-trustee are taken to be Operating that Scheme.
+
+(3)
+
+To the extent that any activity under (1) constitutes:
+
+(a)
+
+Dealing as Principal;
+
+(b)
+
+Dealing as Agent;
+
+(c)
+
+Providing Trust Services; or
+
+(d)
+
+Managing Assets,
+
+such a Financial Service is taken to be incorporated within Operating an Employee Money Purchase Scheme.
+
+Exclusions
+
+2.30.3 A Scheme that is a Body Corporate does not carry on a Financial Service
+
+referred to in Rule 2.30.2(1) or (3) if:
+
+(a)
+
+it is operated by a Person who is authorised under a Licence to Operate a Scheme; and
+
+47
+
+GEN/VER67/03-25
+
+GENERAL (GEN)
+
+(b)
+
+the DFSA has approved the Scheme under COB Rule 12.2.2.
+
+2.31 Acting as the Administrator of an Employee Money Purchase
+
+Scheme
+
+2.31.1 (1)
+
+In Rule 2.2.2, Acting as the Administrator of an Employee Money Purchase Scheme means performing one or more of the following functions for or on behalf of the Operator of the Scheme:
+
+(a)
+
+technical operational functions relating to the Scheme;
+
+(b)
+
+communicating with Members or providing support services to Members;
+
+(c)
+
+operating an Investment Platform; or
+
+(d)
+
+reporting functions relating to the Scheme.
+
+(2)
+
+To the extent that any activity under (1) constitutes:
+
+(a)
+
+Dealing as Agent;
+
+(b)
+
+Providing Trust Services;
+
+(c)
+
+Managing Assets

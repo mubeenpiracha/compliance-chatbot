@@ -1,0 +1,119 @@
+ at risk in respect of Long-Term Insurance contracts the formulae set out in the following table:
+
+Amount of capital at risk expressed in dollars
+
+Formula to determine the amount referred to in Rule (5)
+
+(a)
+
+less than $500 million
+
+0.20% of the amount of capital at risk
+
+92
+
+PIN VER07.290725
+
+Amount of capital at risk expressed in dollars
+
+Formula to determine the amount referred to in Rule (5)
+
+(b) over $500 million up to
+
+$5 billion
+
+0.13% of the amount of capital at risk, plus $350,000
+
+(c) over $5 billion up to
+
+$25 billion
+
+0.10% of the amount of capital at risk, plus $1,850,000
+
+(d) over $25 billion
+
+0.08% of the amount of capital at risk, plus $6,850,000.
+
+A4.12.4 The non-proportional reinsurance element is calculated as 52% of the Insurer's Net
+
+Written Premium.
+
+A4.12.5 The finite risk reinsurance element is determined as the sum of the following
+
+three amounts:
+
+(a)
+
+subject to Rule A4.12.7, the sum of the amounts obtained by applying, to the amount outstanding in respect of each cedant, the percentages set out in Rule A4.4.1(a)(i) as though the cedant were a reinsurer and the amount outstanding were reinsurance recoverable;
+
+(b)
+
+the sum of the amounts obtained by applying, to the amount outstanding under each contract, the percentages set out in Rule A4.5.1, as though the amount outstanding were a bond; and
+
+(c)
+
+2.25% of the amount outstanding.
+
+A4.12.6 In Rule A4.12.5, the amount outstanding means the amount of any experience account or advance, however called or described, that, under the terms of the contract, will be paid to the Insurer on or before the termination of the contract.
+
+A4.12.7 For the purposes of Rule A4.12.5(b), Rules A4.4.4, A4.4.5 and A4.4.6 apply mutatis
+
+mutandis to the amount outstanding.
+
+A4.12.8 An Insurer who carries on Direct Long-Term Insurance Business through a branch located outside ADGM must calculate the Direct Long-Term Insurance Business element of its Long-Term Insurance risk component as the aggregate of the following, in respect of those contracts:
+
+(a)
+
+the following proportions of provisions in respect of Long-Term Insurance Business:
+
+(i)
+
+in the case of Class I, Class II, and Class VI, 4%;
+
+(ii)
+
+in the case of Class III and Class VII, where the Insurer bears investment risk, 4%; and
+
+93
+
+PIN VER07.290725
+
+(iii)
+
+in the case of Class III, where the Insurer bears no investment risk but the allocation to cover management expenses is fixed for more than five years, 1%;
+
+(b)
+
+in the case of all contracts where the Insurer bears a death risk under the contract, the following percentage of capital at risk, subject to a maximum reduction for reinsurance of 50%:
+
+(i)
+
+where the contract is term assurance of not more than three years, 0.1%;
+
+(ii)
+
+where the contract is term assurance of between three and five years, 0.15%; and
+
+(iii)
+
+in all other cases, 0.3%;
+
+(c)
+
+in the case of Class III, where the Insurer bears no investment risk and the allocation to cover management expenses is not fixed for more than five years, 25% of the Insurer's net administrative expenses in the past financial year pertaining to such business;
+
+(d)
+
+in the case of Class IV, the higher of:
+
+(i)
+
+18% of Gross Written Premium, reducing to 16% for the amount of Gross Written Premium in excess of $50 million, and subject to a maximum reduction for reinsurance of 50%; and
+
+(ii)
+
+26% of the average gross claims incurred over the three preceding financial years, reducing to 23% for the amount of that average in excess of $35 million, and subject to a maximum reduction for reinsurance of 50%; and
+
+(e)
+
+in the case of Class V, 

@@ -1,0 +1,97 @@
+ revenues and expenses of that Long-Term Insurance Fund.
+
+3.4.2
+
+An Insurer may at any time attribute any of its assets to a Long-Term Insurance Fund that were not previously attributed to such a Long-Term Insurance Fund.
+
+Guidance
+
+A transaction described in Rule 3.4.2 is sometimes described as a transfer of capital into the Long- Term Insurance Fund.
+
+3.4.3
+
+All revenues and expenses arising by way of earnings, revaluation or other change to the assets and liabilities of a Long-Term Insurance Fund must be recorded as revenues and expenses, or movements in capital, of that Long-Term Insurance Fund.
+
+8
+
+PIN/VER18/04-23
+
+3.4.4
+
+3.5
+
+3.5.1
+
+3.5.2
+
+3.5.3
+
+3.5.4
+
+PRUDENTIAL – INSURANCE BUSINESS (PIN)
+
+An Insurer which is required to maintain a Long-Term Insurance Fund must maintain adequate accounting and other records to identify the contracts and the assets, liabilities, revenues and expenses attributable to the Long-Term Insurance Fund.
+
+Limitation on use of assets in long-term insurance fund
+
+Except as provided in this section, assets that are attributable to a Long-Term Insurance Fund must be applied only for the purposes of the business attributed to the Long-Term Insurance Fund.
+
+Assets attributable to a Long-Term Insurance Fund may not be transferred so as to be available for other purposes of the Insurer except:
+
+(a)
+
+where the transfer constitutes appropriation of a surplus determined in accordance with section 7.3, provided that the transfer is performed within four months of the Reference Date of the actuarial investigation referred to in that Rule;
+
+(b)
+
+where the transfer constitutes a payment of dividend or return of capital, in accordance with Rules 3.5.3 and 3.5.4;
+
+(c)
+
+where the transfer is made in exchange for other assets at fair value;
+
+(d)
+
+where the transfer constitutes reimbursement of expenditure borne on behalf of the Long-Term Insurance Fund, and in respect of expenses attributable to the Long-Term Insurance Fund; or
+
+(e)
+
+where the transfer constitutes reattribution of assets attributed to the Long- Term Insurance Fund in error.
+
+Assets attributable to a Long-Term Insurance Fund must not be distributed by way of dividend or by way of return of capital, except by an Insurer or a Cell that is deemed to constitute a single Long-Term Insurance Fund.
+
+A dividend or return of capital by an Insurer or a Cell that is deemed to constitute a single Long-Term Insurance Fund may only be made where the dividend or return of capital constitutes appropriation of a surplus determined in accordance with section 7.3, and:
+
+(a)
+
+if the payment is made within four months of the Reference Date of the actuarial investigation determining that surplus, the payment does not cause the total aggregate amount of the dividends or returns of capital made by the Insurer or the Cell since that Reference Date to exceed the amount of that surplus; or
+
+(b)
+
+If the payment is made more than four months after the Reference Date of the actuarial investigation determining that surplus, the payment does not cause the total aggregate amount of the dividends or returns of capital made by the Insurer or the Cell since that Reference Date to exceed 50 per cent of the amount of that surplus.
+
+9
+
+PIN/VER18/04-23
+
+3.5.5
+
+3.5.6
+
+3.6
+
+3.6.1
+
+PRUDENTIAL – INSURANCE BUSINESS (PIN)
+
+Assets attributable to a Long-Term Insurance Fund must not be lent or otherwise made available for use for any other purposes of the Insurer or any purposes of any party Related to the Insurer.
+
+Guidance
+
+Rule 3.5.5 operates to prohibit, among other things, lending between Long Term Insurance Funds of the same Insurer. Assets must not be organised in such a manner as to create indebtedness between Long Term Insurance Funds.
+
+An Insurer may not enter into any arrangement, whether or not described as a contract of reinsurance, whereby a Long-Term Insurance Fund of the Insurer stands in the same relation to the Insurer as though the Insurer were the reinsurer in a contract of reinsurance in which the Long-Term Insurance Fund is the cedant.
+
+Guidance
+
+Rule 3.5.

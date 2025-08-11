@@ -1,0 +1,103 @@
+ both strength and weakness to an Insurer. The purpose of Group Risk requirements is to ensure that an Insurer takes proper account of the risks related to the Insurer’s membership of a Group. The Group Risk requirements form a key part of the DFSA's overall approach to prudential supervision.
+
+2.
+
+An Insurer is subject to separate reporting requirements in respect of changes in its Controllers. Those requirements are set out in chapter 11 of GEN. It may also be required to provide reports in respect of any Close Links it possesses.
+
+8.1.2
+
+(1)
+
+If an Insurer is a member of a Financial Group and the DFSA considers it necessary to extend the scope of the Financial Group to include entities outside of the Financial Group to ensure appropriate Financial Group supervision, an Insurer must also include in the scope of the Financial Group any entity the DFSA may direct the Insurer in writing to include.
+
+(2)
+
+An Insurer may, for the purposes of this section, exclude from its Financial Group, any entity the inclusion of which would be misleading or inappropriate for the purposes of Financial Group supervision, provided the Insurer has obtained the DFSA's prior written approval to do so.
+
+(3)
+
+An Insurer must provide to the DFSA, where requested, information regarding other Group entities, the Group structure and the systems and controls in place to manage Group Risk.
+
+Guidance
+
+If more than one member of the same Group is subject to an obligation to provide information in respect of a position of the Group, one or more of those Authorised Firms may make application to the DFSA for an appropriate waiver or modification of these Rules.
+
+8.1.3 Deleted
+
+8.2
+
+Systems and controls requirements
+
+8.2.1
+
+If an Insurer is a member of a Group, it must establish and maintain systems and controls for the purpose of:
+
+(a)
+
+monitoring the effect on the Insurer of:
+
+a.
+
+its relationship with other members of its Group;
+
+b.
+
+its membership in its Group; and
+
+c.
+
+the activities of other members of its Group; and
+
+36
+
+PIN/VER18/04-23
+
+PRUDENTIAL – INSURANCE BUSINESS (PIN)
+
+(b)
+
+monitoring compliance with Financial Group supervision requirements below, including systems for the production of relevant data:
+
+(i)
+
+monitoring funding within the Financial Group; and
+
+(ii)
+
+monitoring compliance with Financial Group reporting requirements.
+
+Guidance
+
+1.
+
+For the purposes of the above requirement, an Insurer may take into account its position within its Group, the materiality of the risk to which it is exposed because of its membership of the Group, and the access that it has to the systems and controls of other members of its Group and any information produced by them or by Associates. For example, it would be reasonable for a small Insurer within a larger Group to place some reliance on its Parent to ensure that appropriate systems and controls are in place.
+
+2.
+
+An Insurer may also consider together Groups whose Parents are all members of the same Group, except for any Group of which the Insurer is the Parent. An Insurer that is itself the Parent of a Group must give specific consideration to the risks to which it is exposed as the Parent. The DFSA will not otherwise however normally expect an Insurer to apply the provisions of this Rule to sub-Groups of a single Group.
+
+8.3
+
+Financial group capital requirements and financial group capital resources
+
+8.3.1
+
+(1)
+
+Section 8.3 does not apply to an Insurer if:
+
+(a)
+
+the Insurer’s Financial Group is already the subject of Financial Group prudential supervision by the DFSA as a result of the authorisation of another Financial Group member; or
+
+(b)
+
+the DFSA has confirmed in writing, in response to an application from the Insurer, that it is satisfied that the Insurer’s Group is the subject of consolidated prudential supervision by an appropriate regulator; or
+
+(c)
+
+except where the DFSA has directed the inclusion of an entity pursuant to Rule 8.1.2(1), the percentage of total assets of Authorised Firms and Financial Institutions in the Financial Group is less than 40% of the total Financial Group assets.
+
+(2)
+
+Where an Insurer has received confirmation in writing from the DFSA in accordance with (1)(b), it must immediately advise the DFSA in writing if the circumstances

@@ -1,0 +1,53 @@
+ read as references to a DSF).
+
+58) Pursuant to MIR Rule 4.3.3, in determining whether there are satisfactory arrangements for securing the timely discharge of the rights and liabilities of the parties to transactions, the FSRA may have regard to the DSF’s:
+
+a) rules and practices relating to clearing and settlement, including its arrangements
+
+with another Person for the provision of clearing and settlement services;
+
+b) arrangements for matching trades and ensuring that the parties are in agreement
+
+about trade details;
+
+c) where relevant, arrangements for making deliveries and payments, in all relevant
+
+jurisdictions;
+
+d) procedures to detect and deal with the failure of a Member (or participants) to settle
+
+in accordance with its rules;
+
+e) arrangements for taking action to settle a trade if a Member (or participant) does not
+
+settle in accordance with its rules;
+
+f) arrangements for monitoring its Members’ settlement performance; and
+
+g) where appropriate, Default Rules and default procedures.
+
+59) As set out earlier in paragraph 43(b), pursuant to MIR Rule 2.10, a RIE (but not an MTF) may be required to engage a custodian/settlement facility for the purposes of having satisfactory custody arrangements in place.13 A DSF, where engaged by a RIE for this purpose, will be required to have satisfactory arrangements in place in order to meet the full set of requirements set out in MIR Rule 2.10. As part of these services, DSFs may also record changes of ownership, maintain an Issuer’s security holder records, cancel and issue Digital Security certificates, and distribute dividends. It is important that DSFs maintain an open channel of communication with Issuers to determine whether Digital Securities need to be issued or redeemed.
+
+13 As set out in other parts of this Guidance, such custodian/settlement facility will need to be operated and established as a standalone legal entity.
+
+VER02.240220
+
+18
+
+60) In addition, the FSRA reserves the right at any point in time, either during the Authorisation14 process or as part of its supervisory oversight of a DSF, to consider the applicability of other Rules within MIR Chapter 4 (Rules Applicable to RCHs), dependent on the relevance of those Rules to the business model/operations of the DSF.
+
+61) Entities seeking to operate as DSFs should take note of the following:
+
+a) Entities providing custody of Digital Securities within ADGM, including DSFs, may also wish, or be required, to operate a CSD. COBS Chapter 10 sets out the requirements relevant to the operation of a CSD, including that as set out in COBS Rule 10.1.3, only an Authorised Person licenced for Providing Custody is permitted to act as a CSD.
+
+b) For transactions where delayed settlement occurs (e.g., on an end of day or t+n basis), the FSRA may likely require the DSF to integrate specific risk management functions within its operations, as per the requirements of MIR Chapter 4, including in relation to (but not limited to) the scenarios identified in paragraph (c) below.
+
+c) For transactions with instantaneous delivery versus payment (DvP),15 the FSRA may deem certain aspects relating to default management to not apply. For transactions where end of day, or t+n DvP occurs, there may be scope for the DSF to implement default management provisions commensurate to the length of the settlement time- horizon.
+
+d) In the case of a DSF performing DvP on a delayed basis, the FSRA may impose certain further obligations on the DSF (as set out within Chapter 4 of MIR) including in relation to the following:
+
+MIR Rule 4.2 (e.g., capital requirements - in relation to credit, counterparty, and market risks);
+
+MIR Rule 4.5 (e.g., default management); • MIR Rule 4.6 (e.g., stress testing); • MIR Rule 4.7 (risk management); • MIR Rule 4.10 (collateral management and margin); and • MIR Rule 4.12 (segregation and portability of Client Assets).
+
+AUTHORISED PERSONS CONDUCTING A REGULATED ACTIVITY IN RELATION TO VIRTUAL ASSETS – EXTENSION INTO TO DIGITAL

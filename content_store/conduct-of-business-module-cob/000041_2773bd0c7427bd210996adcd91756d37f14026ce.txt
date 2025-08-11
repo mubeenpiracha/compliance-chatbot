@@ -1,0 +1,115 @@
+ payable order, made payable to a third party other than a Person or account controlled by the Authorised Firm, provided the cheque or other payable order is intended to be forwarded to the third party within 1 business day of receipt; or
+
+(f)
+
+Fund Property of a Fund.
+
+Guidance
+
+1.
+
+Authorised Firms are reminded that the exemption in Rule 6.12.1(a) would not apply to Money which is passed to a third party i.e. not held in an account with the Authorised Firm itself.
+
+2.
+
+Pursuant to Rule 6.12.1(b), examples of Money which is immediately due and payable to an Authorised Firm includes Money which is:
+
+a.
+
+paid by the way of brokerage, fees and other charges to the Authorised Firm or where it is entitled to deduct such remuneration from the Client Money held or controlled;
+
+57
+
+COB/VER48/03-25
+
+CONDUCT OF BUSINESS (COB)
+
+b.
+
+paid by the Authorised Firm in relation to a Client purchase or in settlement of a margin payment in advance of receiving a payment from the Client; or
+
+c.
+
+owed by the Client to the Authorised Firm in respect of unpaid purchases by or for the Client if delivery of Investments or Crypto Tokens has been made to the Client or credited to his account.
+
+3.
+
+The CIR module contains specific provisions relating to the handing of Fund Property and also provisions relating to a Fund Administrator holding or controlling monies or assets belonging to third parties.
+
+6.12.1A (1) All Money received from, or for the benefit of, a User in connection with Providing Money Services is Client Money, including Stored Value and Money received from another Money Services Provider for the execution of a Payment Instruction on behalf of a User.
+
+(2) Where:
+
+(a) only a portion of the Money referred to in (1) is to be used for Money
+
+Services; and
+
+(b)
+
+the precise portion attributable to Money Services is variable or unknown in advance,
+
+the Client Money is such amount as the Authorised Firm reasonably estimates, based on historical data, to be representative of the portion attributed to Money Services.
+
+Client money provisions
+
+6.12.2
+
+(1)
+
+An Authorised Firm in Category 4 must not hold Client Money, except if it does so in connection with it Operating an Alternative Trading System, Operating a Crowdfunding Platform or providing Money Transmission.
+
+(2)
+
+An Authorised Firm which holds or controls Client Money for a Client must, subject to (3), comply with the Client Money Provisions in App5.
+
+(3)
+
+Where the Client is a Market Counterparty, an Authorised Firm may exclude the application of the Client Money Provisions but only where it has obtained the prior written consent of the Market Counterparty to do so.
+
+Guidance
+
+1.
+
+Providing Money Transmission is an activity that is included in the Financial Service of Providing Money Services – see the definition in GEN Rule 2.6.1(2).
+
+2.
+
+In accordance with GEN chapter 8, an Authorised Firm which holds or controls Client Money must arrange for a Client Money Auditor’s Report and, if it is Providing Money Services, a Money Services Auditor’s Report to be submitted to the DFSA on an annual basis.
+
+Client disclosure
+
+6.12.3
+
+(1)
+
+If an Authorised Firm holds or controls Client Money which is not subject to the Client Money Provisions pursuant to Rule 6.12.2 (2), it must disclose to that Market Counterparty in writing that:
+
+58
+
+COB/VER48/03-25
+
+CONDUCT OF BUSINESS (COB)
+
+(a)
+
+the protections conferred by the Client Money Provisions do not apply to such Client Money;
+
+(b)
+
+as a consequence of (a), such Client Money may be mixed with Money belonging to the Authorised Firm, and may be used by the Authorised Firm in the course of the Authorised Firm’s business; and
+
+(c)
+
+in the event of insolvency, winding up or other Distribution Event stipulated by the DFSA:
+
+(i)
+
+in the case of a Domestic Firm, such Client Money will be subject to and distributed in accordance with the DFSA Client Money Distribution Rules; and
+
+(ii)
+
+in the case of a non-Domestic Firm, such Client Money will be subject to a regime which may differ from the regime applicable in the DIFC.
+
+(2)
+
+The Author

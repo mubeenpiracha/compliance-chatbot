@@ -1,0 +1,153 @@
+SA may also refuse a request for the withdrawal of a Licence where:
+
+a.
+
+the Authorised Market Institution has failed to settle its debts to the DFSA; or
+
+b.
+
+it is in the interests of a current or pending investigation by the DFSA, or by another regulatory body or Financial Services Regulator.
+
+6.
+
+Under Article 63 where the DFSA grants a request for the withdrawal of a Licence, the DFSA may continue to exercise any power under the Regulatory Law, the Markets Law or Rules in relation to an Authorised Market Institution for a period of three years from the date on which it became aware of the matter giving rise to the right to exercise the power.
+
+10.3 Withdrawal of a licence on the DFSA’s initiative
+
+Guidance
+
+In section 10.2 above, an application to withdraw a Licence will be at the Authorised Market Institution’s request. Under Article 51 of the Regulatory Law, the DFSA may act on its own initiative to withdraw an Authorised Market Institution’s Licence in cases when the Authorised Market Institution no longer has authority to carry on any Financial Service, is no longer meeting the conditions of its Licence or has failed to remove a Controller in the circumstances described in Article 64 of the Regulatory Law.
+
+106
+
+AMI/VER28/03-25
+
+AUTHORISED MARKET INSTITUTIONS (AMI)
+
+11
+
+APPEALS FROM AUTHORISED MARKET DECISIONS
+
+INSTITUTION
+
+11.1 Application
+
+11.1.1
+
+(1)
+
+Pursuant to Article 30 of the Regulatory Law, any Person who:
+
+(a)
+
+is aggrieved by a decision of the Authorised Market Institution;
+
+(b)
+
+has a right to a further appeal of the Authorised Market Institution decision to a tribunal under the Business Rules of that Authorised Market Institution; and
+
+(c)
+
+has exhausted the internal appeal process of that Authorised Market Institution;
+
+may appeal the Authorised Market Institution decision by commencing a regulatory proceeding before the FMT.
+
+(2)
+
+The grounds on which an appeal may lie under this Rule are limited to the following:
+
+(a)
+
+an error of law or jurisdiction;
+
+(b)
+
+a breach of the rules of natural justice; or
+
+(c)
+
+the decision is manifestly unreasonable.
+
+107
+
+AMI/VER28/03-25
+
+AUTHORISED MARKET INSTITUTIONS (AMI)
+
+12.
+
+TRANSITION AND SAVING
+
+12.1
+
+Transitional Rule for Key Individuals
+
+12.1.1
+
+(1)
+
+In this Rule:
+
+(a)
+
+“Commencement Date” means the date on which the DIFC Law Amendment Law No. 1 of 2014 comes into force;
+
+(b)
+
+“Current Regime” means the provisions in the Regulatory Law and AMI module as in force on the Commencement Date; and
+
+(c)
+
+“Previous Regime” means the provisions in the Regulatory Law the and AMI module as Commencement Date.
+
+in
+
+force
+
+immediately before
+
+(2)
+
+A Person who was authorised as a Key Individual by the DFSA under the Previous Regime is on the Commencement Date deemed to be authorised as a Key Individual by the DFSA under the Current Regime.
+
+12.2 Deleted
+
+12.3
+
+Saving Rules
+
+12.3.1
+
+(1)
+
+Save as provided in Rule 12.2.1, anything done or omitted to be done pursuant to or for the purposes of the Previous Regime is deemed to be done or omitted to be done pursuant to or for the purposes of the Current Regime.
+
+(2) Without prejudice to (1):
+
+(a)
+
+any right, privilege, remedy, obligation or liability accrued to or incurred by any Person; and
+
+(b)
+
+any legal or administrative proceeding commenced or to be commenced in respect of any right, privilege, remedy, obligation or liability,
+
+investigation or
+
+under the Previous Regime continues and is enforceable under the Current Regime.
+
+108
+
+AMI/VER28/03-25
+
+AUTHORISED MARKET INSTITUTIONS (AMI)
+
+APP1 TESTING OF TECHNOLOGY SYSTEMS
+
+A1.1 Application
+
+A1.1.1 An Authorised Market Institution must, for the purposes of meeting the requirements in Rule 5.5.5 relating to the testing of its information technology systems, comply with the requirements in this Appendix.
+
+A1.2 Testing of technology systems
+
+A1.

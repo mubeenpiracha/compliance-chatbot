@@ -1,0 +1,97 @@
+
+
+18
+
+27
+
+(b) Class 3
+
+12
+
+12
+
+18
+
+(c) Class 4
+
+17
+
+17
+
+26
+
+(d) Class 5
+
+19
+
+19
+
+30
+
+(e) Class 6
+
+27
+
+27
+
+29
+
+(f)
+
+Classes 7(a) and 7(b)
+
+90
+
+90
+
+140
+
+(g) Class 8
+
+18
+
+18
+
+27
+
+A4.10.2 Where an Insurer underwrites Contracts of Insurance in Class 1 or Class 2, and those contracts constitute Long-Term Insurance contracts, the Insurer must not calculate an underwriting risk component in respect of those contracts but must instead calculate a Long-Term Insurance risk component as set out in section 4.12.
+
+A4.10.3 The DFSA may, on written application by an Insurer undertaking business in Class 2, give consent in writing to the use of percentages other than those stated in item A4.10.1(a), if the DFSA is satisfied that adequate mortality and morbidity information exists in respect of that business, to provide a reasonable basis for reliance on actuarial principles. The percentages that may be used must be those stated in the notice giving consent, but may not be lower than 12% in the case of direct insurance and proportional reinsurance, and 18% in the case of non- proportional or facultative reinsurance.
+
+A4.10.4 Where the Insurer’s estimated net retention as at the Solvency Reference Date in respect of a property catastrophe exceeds the sum of the amounts calculated in accordance with Rule A4.10.1 in respect of Class 5, before taking account of this Rule, the sum of those amounts must be replaced by the Insurer’s estimated net retention in respect of a property catastrophe when calculating the underwriting risk component.
+
+A4.10.5 For the purposes of Rule A4.10.4, the Insurer’s net retention means the sum of claims expected to be paid, associated direct and indirect settlement costs and reinstatement premiums expected to be paid in respect of reinsurance recoveries resulting from those claims, less the sum of reinstatement premiums expected to be received and reinsurance and other recoveries expected to be received resulting
+
+81
+
+PIN/VER18/04-23
+
+PRUDENTIAL – INSURANCE BUSINESS (PIN)
+
+from those claims, in the event of a property catastrophe representing a return period of not less than 100 years.
+
+A4.10.6 For the purposes of this section, and subject to Rule A4.10.8, the Insurer’s base
+
+premium means the higher of the two following amounts:
+
+(a)
+
+for an Insurer, other than a Captive Insurer, the higher of:
+
+(i)
+
+the Insurer’s Net Written Premium during the reference period; and
+
+(ii) 50% of the amount of the Insurer’s Gross Written Premium during the
+
+reference period; and
+
+(b)
+
+for a Captive Insurer: the amount of the Insurer’s Net Written Premium during the reference period.
+
+A4.10.7 In Rule A4.10.6, the reference period means the reporting period ending next before the Solvency Reference Date, except where the Insurer’s forecast Net Written Premium, according to its business plan, for the reporting period next after that reporting period, is higher, in which case the reference period will be the second of the two reporting periods and the Net Written Premium and Gross Written Premium used for the purposes of Rule A4.10.6 must be the forecast Net Written Premium and Gross Written Premium for that second reporting period.
+
+A4.10.8 Where an Insurer enters, as Insurer or cedant, into a General Insurance contract of longer than twelve months’ duration, the premium or reinsurance premium on that contract must not be included fully in the calculation of base premium in the reporting period in which the contract was effected, but must be apportioned over the duration of the contract by allocating to each reporting period a fraction of the premium proportionate to the fraction of the contract period that falls into that reporting period, or on a different basis approved in writing by the DFSA.
+
+A4.10.9 Where an Insurer enters as reinsurer into a finite risk reinsurance contract in respect of General Insurance Business, the underwriting risk component in respect of that contract, regardless

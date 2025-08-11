@@ -1,0 +1,83 @@
+3.3
+
+9.3.4
+
+PRUDENTIAL – INSURANCE BUSINESS (PIN)
+
+An Insurer to which this section applies must, within 28 days of a decision to cease to effect new Contracts of Insurance in a Class of Business, notify the DFSA of its decision, in a written notice specifying the following details:
+
+(a)
+
+the effective date of the decision to cease effecting Contracts of Insurance;
+
+(b)
+
+the Class of Business to which the decision relates; and
+
+(c)
+
+where relevant, the Cell or Long-Term Insurance Fund to which the decision relates.
+
+An Insurer which has provided a notice to the DFSA in accordance with Rule 9.2.2 must not effect any Contracts of Insurance in that Class of Business without the written permission of the DFSA. Where the notice referred to in Rule 9.2.2 relates to a Cell or Long-Term Insurance Fund of the Insurer, the restriction set out in this Rule applies only to that Cell or Long-Term Insurance Fund.
+
+Run-off plans
+
+This section applies to:
+
+(a)
+
+Insurers that are in run-off or that maintain Cells or Long-Term Insurance Funds that are in run-off;
+
+(b)
+
+Insurers that go into run-off or that place Cells or Long-Term Insurance Funds into run-off;
+
+(c)
+
+Insurers that make a decision to go into run-off or to place a Cell or Long- Term Insurance Fund into run-off; and
+
+(d)
+
+Insurers whose permission to effect Contracts of Insurance in respect of their entire Insurance Business or in respect of the entire business of a Cell or Long-Term Insurance Fund is withdrawn by the DFSA.
+
+If an Insurer takes a decision to go into run-off or to place a Cell or a Long-Term Insurance Fund into run-off, the Insurer must, at the same time as the notice referred to in Rule 9.2.2, provide the DFSA with a written run-off plan in respect of the Insurance Business being placed into run-off.
+
+If the DFSA withdraws an Insurer’s permission to effect Contracts of Insurance in respect of the Insurer’s entire Insurance Business or the entire Insurance Business of a Cell or Long-Term Insurance Fund, the Insurer must, within 28 days of the written notice of withdrawal of permission (or, if later, the period specified in that notice), provide the DFSA with a written run-off plan in respect of that Insurance Business.
+
+A run-off plan provided to the DFSA in accordance with this section must cover the period until all liabilities to policyholders relating to the Insurance Business in run-off are met and must include:
+
+(a)
+
+an explanation of how, or to what extent, all liabilities to policyholders will be met in full as they fall due;
+
+43
+
+PIN/VER18/04-23
+
+PRUDENTIAL – INSURANCE BUSINESS (PIN)
+
+(b)
+
+an explanation of how, or to what extent, the Insurer will maintain its compliance with the requirements of chapter 4 until such time as all liabilities to policyholders are met;
+
+(c)
+
+a description, appropriate to the scale and complexity of the Insurer’s business, of the Insurer’s business strategy;
+
+(d)
+
+financial projections showing, in a form appropriate to the scale and complexity of the Insurer’s operations, the forecast financial position of the Insurer as at the end of each reporting period during the period to which the run-off plan relates; and
+
+(e)
+
+an assessment of the sensitivity of the financial position of the Insurer to stress arising from realistic scenarios relevant to the circumstances of the Insurer.
+
+9.3.5 Where an Insurer’s Insurance Business in run-off relates to a Cell or a Long-Term Insurance Fund of that Insurer, the run-off plan must deal with the matters set out in Rule 9.3.4 so far as they relate to that Cell or Long-Term Insurance Fund.
+
+9.3.6
+
+An Insurer that has provided a written run-off plan to the DFSA must monitor the matters contained in the run-off plan and must notify the DFSA promptly and in writing of any significant departure from the run-off plan.
+
+Guidance
+
+An Insurer should decide whether a matter constitutes a significant departure from a run-off plan, having regard to the nature and size of the matter and its materiality relative to the size and complexity of the Insurer and, where relevant, the size and complexity of

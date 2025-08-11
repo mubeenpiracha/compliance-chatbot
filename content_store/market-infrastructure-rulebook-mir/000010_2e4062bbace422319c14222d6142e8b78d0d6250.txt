@@ -1,0 +1,133 @@
+ and the extent to which the record includes details for each transaction of:
+
+the name of the Financial Instrument (and, if relevant, the underlying asset) and the price, quantity and date of the transaction;
+
+the identities and, where appropriate, the roles of the counterparties to the transaction;
+
+if its rules make provision for transactions to be effected, cleared or to be cleared in more than one type of facility, or under more than one part of its rules, the type of facility in which, or the part of its rules under which, the transaction was effected, cleared or to be cleared; and
+
+the date and manner of settlement of the transaction.
+
+2.7.3
+
+Where transactions are effected on a Recognised Investment Exchange and cleared through a Recognised Clearing House, the Recognised Bodies concerned may agree which information is to be recorded by each Recognised Body and need not duplicate each other's records.
+
+2.8
+
+Membership criteria and access
+
+2.8.1
+
+A Recognised Body must ensure that access to its facilities is subject to criteria designed to protect the orderly functioning of the market and the interests of investors.
+
+2.8.2
+
+The Recognised Body must make transparent and non-discriminatory rules, based on objective criteria, governing access to, or membership of, its facilities. In particular, those rules must specify the obligations for users or Members of its facilities arising from:
+
+(a)
+
+the constitution and administration of the Recognised Body;
+
+(b)
+
+rules relating to transactions on a Recognised Body’s market;
+
+(c)
+
+its professional standards for staff of any Authorised Person, or Remote Member, having access to or membership of a financial market operated by the Recognised Body;
+
+(d)
+
+conditions established for access to or membership of a financial market operated by the Recognised Body by Persons other than Authorised Persons, including Remote Members; and
+
+(e)
+
+the rules and procedures for Clearing and settlement of transactions.
+
+2.8.3
+
+The Recognised Body shall only give access to or admit to membership a Person who:
+
+18
+
+MIR VER10.290725
+
+(a)
+
+is fit and proper and of sufficient good repute;
+
+(b)
+
+has a sufficient level of ability, competence and experience, including appropriate standards of conduct for its staff;
+
+(c)
+
+where applicable, has adequate organisational arrangements, including financial and technological resources; and
+
+(d)
+
+where that Person is a Remote Member, they have been granted a Recognition Order by the Regulator under section 138A of FSMR.
+
+2.8.4
+
+A Recognised Body must immediately notify the Regulator of the:
+
+(a)
+
+receipt of a Member application from a Remote Member;
+
+(b)
+
+approval by the Recognised Body of a Remote Member application; and
+
+(c)
+
+imposition of disciplinary measures or sanctions on a Remote Member by the Recognised Body.
+
+2.8.5
+
+[Deleted]
+
+Guidance
+
+When assessing whether access to its facilities is subject to criteria designed to protect the orderly functioning of the market, or of those facilities, and the interests of investors, a Recognised Body should consider whether:
+
+(a)
+
+it limits access as a Member to such Persons:
+
+over whom it can with reasonable certainty enforce its rules contractually;
+
+who have sufficient technical competence to use its facilities;
+
+whom it is appropriate to admit to membership having regard to the size and sophistication of users of its facilities and the nature of the business effected by means of, or cleared through, its facilities; and
+
+(if appropriate) who have adequate financial resources in relation to their exposure to the Recognised Body;
+
+(b)
+
+indirect access to its facilities is subject to suitable criteria, remains the responsibility of a Member of the Recognised Body and is subject to its rules;
+
+(c)
+
+where access is granted to Remote Members, there are adequate safeguards against Market Abuse and Financial Crime; and
+
+(d)
+
+its rules:
+
+set out the design and operation of the Recognised Body’s relevant systems;
+
+19
+
+MIR VER10.290725
+
+set out the risk for Members and other participants when accessing and participating on the Recognised Body’s facilities;
+
+contain provisions for the resolution of Members’ and other participants’ disputes and an appeal process for the decisions of the Recognised Body;
+
+contain disciplinary proceedings, including any sanctions that may be imposed by the Recognised Body against its Members and other participants; and
+
+any other matters necessary for the proper functioning of the Recognised Body and the facilities operated by it.
+
+2.

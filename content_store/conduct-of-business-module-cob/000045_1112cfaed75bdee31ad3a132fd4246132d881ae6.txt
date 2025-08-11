@@ -1,0 +1,87 @@
+ Derivatives which fall within the definition of a Restricted Speculative Investment may have labels such as ‘turbo certificates’, ‘knock out options’ and ‘delta options’. Where a contract has similar features to the contracts listed in Rule 6.16.2(e)(i), (ii) or (iii), it will also be subject to the requirements of this section (if offered or marketed to a Retail Client). In determining whether a contract is a Restricted Speculative Investment, the DFSA will look at the substance of an arrangement, as opposed to its mere form.
+
+4. Restricted Speculative Investments include binary options and other derivatives that have similar characteristics. Before an Authorised Firm offers or deals in such products, it should take appropriate steps, such as obtaining professional advice, to ensure that such contracts do not contravene the prohibition against gambling in the U.A.E Penal Code. Appropriateness Assessment
+
+6.16.3 An Authorised Firm must not Deal in a Restricted Speculative Investment with a Retail Client, unless the Authorised Firm has carried out an appropriateness assessment of the person and formed a reasonable view that the person has:
+
+(a) adequate skills and expertise to understand the risks involved in trading in the
+
+type of Restricted Speculative Investment; and
+
+(b)
+
+the ability to absorb potential significant losses resulting from trading in the Restricted Speculative Investment due to leverage.
+
+Guidance
+
+1. For the purpose of forming the reasonable view referred to in Rule 6.16.3 in relation to a person,
+
+an Authorised Firm needs to consider at a minimum whether that person:
+
+(a) has sufficient knowledge and experience in relation to the Restricted Speculative Investment
+
+of the type offered, having regard to factors such as:
+
+(i) how often and in what volumes that person has traded in the relevant type of Restricted
+
+Speculative Investment; and
+
+(ii) the person’s relevant qualifications, profession or former profession;
+
+(b) understands the characteristics and risks, including those relating to the underlying reference and the degree of volatility of the markets or prices affecting that underlying reference;
+
+(c) understands the impact of leverage, due to which, there is potential to make significant
+
+losses in trading in a Restricted Speculative Investment; and
+
+(d) has the ability, particularly in terms of net assets and liquidity available to the person, to absorb and manage any losses that may result from trading in the Restricted Speculative Investment offered.
+
+2. To be able to demonstrate to the DFSA that it has undertaken a proper appropriateness
+
+assessment, an Authorised Firm should have in place systems and controls that include:
+
+64
+
+COB/VER48/03-25
+
+CONDUCT OF BUSINESS (COB)
+
+(a) pre-determined and clear criteria against which a Retail Client’s ability to trade in a
+
+Restricted Speculative Investment can be assessed;
+
+(b) adequate records
+
+that appropriateness assessment in respect of each Retail Client (see Rule 6.16.14); and
+
+to demonstrate
+
+the Authorised Firm has undertaken
+
+the
+
+(c) in the case of an existing Retail Client with whom the Authorised Firm has previously to undertake a fresh
+
+traded appropriateness assessment if:
+
+in a Restricted Speculative Investment, procedures
+
+(i) a new Restricted Speculative Investment with a materially different risk profile is
+
+offered to that Retail Client; or
+
+(ii) there has been a material change in the Retail Client’s circumstances.
+
+3. Where an Authorised Firm forms the view that it is not appropriate for a person to trade in a Restricted Speculative Investment, the Authorised Firm needs to refrain from offering that service. As a matter of good practice, the Authorised Firm should inform the person of the firm’s decision. Risk Warning
+
+6.16.4 (1) An Authorised Firm must, before opening an account for a Retail Client to trade in Restricted Speculative Investments with the Authorised Firm, provide that Retail Client with a risk warning, which states that:
+
+(a)
+
+the types of contracts which the Authorised Firm will be entering into with the person are complex financial instruments where the loss or profit of the person is determined by reference to the movement of the value or price of the underlying reference;
+
+(b)
+
+this type of trading in complex financial instruments has a high probability of the person losing money rapidly, particularly due to the gain or loss being leveraged, based on the fluctuation of the price of the underlying reference; and
+
+(c

@@ -1,0 +1,147 @@
+ is created.
+
+799A. Date of registration of charges of continuing companies32
+
+Where a company applies for a certificate to continue as a company registered under these Regulations under section 102, and where such company is caught by section 102(1A), the charges registered against the company will be deemed to have been
+
+32 Amended 9 September 2024
+
+441
+
+registered on the date they were originally registered with the appropriate official or public body in the jurisdiction to which section 102(2)(a) refers directly prior to the issuance of a certificate of continuance under section 106.
+
+Chapter 2
+
+POWERS OF THE BOARD
+
+800. Power to make provision for effect of registration in special register
+
+(1)
+
+In this section a “special register” means a register, other than the register, in which a charge to which Chapter 1 applies is required or authorised to be registered.
+
+(2)
+
+The Board may make rules which make provision for facilitating the making of information-sharing arrangements between the person responsible for maintaining a special register (“the responsible person”) and the Registrar that meet the requirement in subsection (4).
+
+“Information-sharing arrangements” are arrangements to share and make use of information held by the Registrar or by the responsible person.
+
+(3)
+
+If the Board is satisfied that appropriate information-sharing arrangements have been made, it may make rules which provide that–
+
+(a)
+
+the Registrar is authorised not to register a charge of a specified description under Chapter 1,
+
+(b)
+
+a charge of a specified description that is registered in the special register within a specified period is to be treated as if it had been registered (and certified by the Registrar as registered) in accordance with the requirements of Chapter 1, and
+
+(c)
+
+the other provisions of Chapter 1 apply to a charge so treated with specified modifications.
+
+(4)
+
+The information-sharing arrangements must ensure that persons inspecting the register–
+
+(a)
+
+are made aware, in a manner appropriate to the inspection, of the existence of charges in the special register which are treated in accordance with provision so made, and
+
+(b)
+
+are able to obtain information from the special register about any such charge.
+
+(5)
+
+Rules under this section may–
+
+(a)
+
+modify any law or regulation applicable to the Abu Dhabi Global Market or rule of law which would otherwise restrict or prevent the responsible person from entering into or giving effect to information-sharing arrangements,
+
+(b)
+
+authorise the responsible person to require information to be provided to him for the purposes of the arrangements,
+
+(c)
+
+make provision about–
+
+442
+
+(i)
+
+the charging by the responsible person of fees in connection with the arrangements and the destination of such fees (including provision modifying any law or regulation applicable to the Abu Dhabi Global Market which would otherwise apply in relation to fees payable to the responsible person), and
+
+(ii)
+
+the making of payments under the arrangements by the Registrar to the responsible person,
+
+(d)
+
+require the Registrar to make copies of the arrangements available to the public (in hard copy or electronic form).
+
+(6)
+
+In this section “specified” means specified in rules under this section.
+
+(7)
+
+A description of charge may be specified, in particular, by reference to one or more of the following–
+
+(a)
+
+the type of company by which it is created,
+
+(b)
+
+the form of charge which it is,
+
+(c)
+
+the description of assets over which it is granted,
+
+(d)
+
+the length of the period between the date of its registration in the special register and the date of its creation.
+
+(8)
+
+Provision may be made under this section relating to registers maintained under the law of a country or territory outside the Abu Dhabi Global Market.
+
+Part 25
+
+ARRANGEMENTS AND RECONSTRUCTIONS
+
+801. Application of this Part
+
+(1)
+
+The provisions of this Part apply where a compromise or arrangement is proposed between a company and–
+
+(a)
+
+its creditors, or any class of them, or
+
+(b)
+
+its members, or any class of them.
+
+(2)
+
+In this Part–
+
+“arrangement” includes a reorganisation of the company’s share capital by the consolidation of shares of different classes or by the division of shares into shares of different classes, or by both of those methods, and
+
+“company”, unless the context otherwise requires, means–
+
+(a)
+
+in section 806 (powers of Court to facilitate reconstruction or amalgamation or merger or division):
+
+(i)
+
+in the case of a compromise or arrangement falling within sections 806(1)(a) or

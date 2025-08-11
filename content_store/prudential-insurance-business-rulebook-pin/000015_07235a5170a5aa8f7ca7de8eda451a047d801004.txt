@@ -1,0 +1,105 @@
+5.6.1 This section applies to assets and liabilities in respect of Long-Term Insurance contracts.
+
+5.6.2 Premiums in respect of reinsurance contracts entered into by an Insurer acting as insurer must be treated as receivable from the date on which they are due and receivable.
+
+5.6.3 Premiums in respect of reinsurance contracts entered into by an Insurer as cedant must
+
+be treated as payable from the date on which they are due and payable.
+
+20
+
+PIN VER07.290725
+
+5.6.4
+
+(1)
+
+Acquisition costs incurred in respect of Contracts of Insurance entered into by an Insurer must be treated as payable:
+
+(a)
+
+in the case of expenses directly related to the premiums in respect of the contract, at the same time as the premium is treated as receivable; and
+
+(b)
+
+in the case of expenses not directly related to the premiums in respect of the contract, at the time the contract is effected.
+
+(2)
+
+Expenses associated with the maintenance of Contracts of Insurance, including, but not limited to, the costs of reporting to policyholders and the costs of managing investments, must be treated as payable as they are incurred.
+
+5.6.5 An Insurer must treat as a liability the amount of Policy Benefits that are due for payment
+
+on or before the Solvency Reference Date.
+
+5.6.6 An Insurer must treat as a liability the net present value of future Policy Benefits under policies that are in force as at the Solvency Reference Date, taking into account all prospective liabilities as determined by the policy conditions for each existing contract, and taking credit for premiums payable after the Solvency Reference Date.
+
+5.6.7
+
+In measuring the liability referred to in Rule 5.6.6, the Insurer must:
+
+(a)
+
+use actuarial principles;
+
+(b)
+
+make proper provision for all liabilities on prudent assumptions that include appropriate margins for adverse deviation of the relevant factors; and
+
+(c)
+
+assign a liability value greater than or equal to zero to each contract or to each homogeneous group of contracts;
+
+(d)
+
+not make allowance for any future lapse, surrender, making paid-up or revival of a contract where such an allowance would result in a decrease in the liability in respect of that contract;
+
+(e)
+
+take specifically into account:
+
+(i)
+
+all guaranteed Policy Benefits, including guaranteed surrender values;
+
+(ii)
+
+vested, declared or allotted bonuses or other forms of participation to which policy holders are already either collectively or individually contractually entitled;
+
+(iii)
+
+reasonable expectations of policyholders in respect of bonuses or other forms of participation, other than as set out in (ii);
+
+(iv)
+
+all options available to the policy holder under the terms of the contract;
+
+(v)
+
+discretionary charges and deductions from Policy Benefits, in so far as they do not exceed the reasonable expectations of policy holders;
+
+21
+
+PIN VER07.290725
+
+(vi)
+
+expenses, including commissions; and
+
+(vii)
+
+any rights under contracts of reinsurance in respect of Long-Term Insurance Business: and
+
+(f)
+
+apply a discount rate determined with reference to the expected risk-adjusted yield on the assets allocated to cover the liability and investment of net receipts attributable to the policies. In arriving at the discount rate, prudent allowance must be made for the risk of adverse deviation in those expected yields.
+
+Guidance
+
+1.
+
+Because of Rule 5.6.7(c), no policy may be treated as an asset in the valuation and policies must be valued individually, unless they form part of a homogeneous group of contracts. This means an Insurer may treat groups of homogeneous contracts together and not breach the requirements in that Rule, provided that the valuation in respect of that group of homogeneous contracts does not collectively represent an asset. The onus is on the Insurer to demonstrate that the contracts represent a homogeneous group. In deciding whether to treat a group of contracts as homogeneous, an Insurer should consider whether the group would remain homogeneous under realistic scenarios to which the Insurer could be exposed.
+
+2.
+
+Rule 5.6.7(d) prevents an Insurer from reducing the valuation by taking into account future lapses and surrenders, or future action by the policyholder to make the policy paid-up or to 'revive' a paid-up policy where the product features permit such action. Since persistency may be volatile, it is considered imprudent for an Insurer to rely upon

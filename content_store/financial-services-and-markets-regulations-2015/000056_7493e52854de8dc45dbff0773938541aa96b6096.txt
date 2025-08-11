@@ -1,0 +1,87 @@
+ 158 stating the sum (if any) certified to be due to or from him.
+
+156. Duty to give assistance for purposes of Default Proceedings93
+
+(1)
+
+It is the duty of—
+
+(a)
+
+any person who has or had control of any assets of a Defaulter; and
+
+(b)
+
+any person who has or had control of any Documents of or relating to a Defaulter;
+
+to give a Recognised Body or Remote Body such assistance as it may reasonably require for the purposes of its Default Proceedings.
+
+This applies notwithstanding any duty of that person under the Insolvency Regulations.
+
+(2)
+
+A person shall not under this section be required to provide any information or produce any Document which is deemed to be a Privileged Communication (as defined in the Insolvency Regulations).
+
+(3)
+
+Where original Documents are supplied in pursuance of this section, the Recognised Body or Remote Body shall return them forthwith after the completion of the relevant Default Proceedings, and shall in the meantime allow reasonable access to them to the person by whom they were supplied and to any person who would be entitled to have access to them if they were still in the control of the person by whom they were supplied.
+
+(4)
+
+The expenses of a Relevant Office-Holder in giving assistance under this section are recoverable as part of the expenses incurred by him in the discharge of his duties and he shall not be required under this section to take any action which involves expenses which
+
+93 Amended 21 February 2018 and 8 August 2023.
+
+99
+
+cannot be so recovered, unless the Recognised Body or Remote Body undertakes to meet them. There shall be treated as expenses its reasonable sums as it may determine in respect of time spent in giving the assistance and for the purpose of determining the priority in which its expenses are payable out of the assets, sums in respect of time spent shall be treated as his remuneration and other sums shall be treated as his disbursements.
+
+157. Supplementary provisions as to Default Proceedings94
+
+(1)
+
+If the Court is satisfied on an application by a Relevant Office-Holder that a party to a Market Contract with a Defaulter intends to dissipate or apply his assets so as to prevent the Relevant Office-Holder recovering such sums as may become due upon the completion of the Default Proceedings, the Court may grant such interlocutory relief as it thinks fit.
+
+(2)
+
+A liquidator, Administrator or trustee of a Defaulter shall not—
+
+(a)
+
+declare or pay any dividend to the creditors; or
+
+(b)
+
+return any capital to contributories;
+
+unless he has retained what he reasonably considers to be an adequate reserve in respect of any claims arising as a result of the Default Proceedings of the Recognised Body or Remote Body concerned.
+
+(3)
+
+The Court may on an application by a Relevant Office-Holder make such order as it thinks fit altering or dispensing from compliance with such of the duties of his office as are affected by the fact that Default Proceedings are pending or could be taken, or have been or could have been taken.
+
+(4)
+
+Nothing in sections 42, 43, 44, 45 (including as applied by section 46), 193, or Article 20 of Chapter 3 of Schedule 10 of the Insolvency Regulations (all of which restrict the taking of certain legal proceedings and other steps), shall affect any action taken by a Recognised Body or Remote Body for the purpose of its Default Proceedings.95
+
+158. Duty to report on completion of Default Proceedings96
+
+(1)
+
+Subject to subsection (2), a Recognised Body or Remote Body shall, on the completion of proceedings under its Default Rules, report to the Regulator on its proceedings stating in respect of each creditor or debtor the sum or sums certified by them to be payable from or to the Defaulter or, as the case may be, the fact that no sum is payable.
+
+94 Amended 21 February 2018.
+
+95 Amended 8 August 2023.
+
+96 Amended 21 February 2018.
+
+100
+
+(2)
+
+A Remote Body shall not be subject to the obligation under subsection (1) unless it has been notified by the Regulator that a report is required for the purpose of insolvency proceedings in the Abu Dhabi Global Market.
+
+(3)
+
+The report under subsection (1) need not deal with a Market Contract which has been transferred in accordance with the Default Rules of

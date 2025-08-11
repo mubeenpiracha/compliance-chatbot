@@ -1,0 +1,127 @@
+ System can, in relation to Investments, be either operating a Multilateral Trading Facility (MTF) or operating an Organised Trading Facility (OTF). However, in the case of Crypto Tokens, the system can only be a MTF. See GEN Rule 2.22.1.
+
+2.
+
+An ATS Operator that is Operating a Facility for Investment Tokens is, in addition to the requirements in this chapter, subject to the applicable requirements in chapter 14.
+
+3.
+
+An Authorised Firm that Operates a MTF for Crypto Tokens is, in addition to the requirements in this chapter, subject to the applicable requirements in chapter 15.
+
+In this chapter:
+
+(a) a reference to a “member” is a reference to a Client of the ATS Operator who has been granted access to its facilities in accordance with the requirements in this chapter and, unless otherwise specified, includes a Direct Access Member;
+
+(b) a reference to a “facility” is a reference to a Multilateral Trading Facility (MTF) and an Organised Trading Facility (OTF), except where specific reference is made only to an MTF or OTF;
+
+(c)
+
+a reference to an “ATS Operator” is a reference to a Person operating an MTF and a Person operating an OTF, except where specific reference is made only to a Person operating an MTF or a Person operating an OTF; and
+
+(d) a Derivative relates to a Crypto Token if the value of the Derivative is
+
+determined by reference to:
+
+(i)
+
+the Crypto Token; or
+
+(ii)
+
+an index that includes the Crypto Token; and
+
+(e) where a Rule in this chapter conflicts with any other provision in the DFSA Rulebook, the Rule in this chapter prevails over those other provisions.
+
+Guidance
+
+Under Rule 9.3.1(1)(e), an ATS Operator that is Operating a Facility for Investment Tokens or Crypto Tokens is permitted to admit certain additional Persons as members, where their access is only for trading or clearing of Investment Tokens or Crypto Tokens. Such Persons are defined in GLO and referred to in this module as Direct Access Members.
+
+105
+
+COB/VER48/03-25
+
+CONDUCT OF BUSINESS (COB)
+
+9.2 Main requirements relating to trading on the facility
+
+9.2.1
+
+(1) An ATS Operator must, at the time a Licence is granted and at all times
+
+thereafter, have:
+
+(a)
+
+transparent and non-discriminatory rules and procedures to ensure fair and orderly trading of Investments or Crypto Tokens on its facility (“Operating Rules”);
+
+(b)
+
+objective criteria governing access to its facility (“Access Criteria”);
+
+(c)
+
+objective and transparent criteria for determining the Investments or Crypto Tokens that can be traded on its facility (“Investment Criteria”);
+
+(d)
+
+adequate technology resources (“Technology Resources”); and
+
+(e)
+
+rules and procedures to ensure only Investments or Crypto Tokens in which there is a Proper Market are traded on its facilities (“Proper Markets”).
+
+(2) A breach of the Operating Rules of an ATS Operator is a prescribed matter
+
+for the purposes of Article 67(1)(b) of the Regulatory Law 2004.
+
+Guidance
+
+Pursuant to Article 67(1) of the Regulatory Law 2004, an Authorised Firm is required to disclose to the DFSA anything which reasonably tends to show breaches or likely breaches of requirements as prescribed in Rules. Rule 9.2.1(2) prescribes a breach of Operating Rules as a matter which is reportable to the DFSA by an ATS Operator.
+
+Operating Rules
+
+9.2.2
+
+(1)
+
+The Operating Rules of an ATS Operator must be:
+
+(a)
+
+based on objective criteria;
+
+(b)
+
+non-discriminatory;
+
+(c)
+
+clear and fair;
+
+(d)
+
+legally binding and enforceable against each member and where relevant, any other Person who has been allowed access to the facility through the member; and
+
+(e)
+
+in the case of a Person operating an MTF, non-discretionary and made publicly available.
+
+(2)
+
+The Operating Rules of an ATS Operator must place obligations upon Persons who are admitted to trading on its facility (“members”):
+
+(a)
+
+when undertaking transactions on its facilities; and
+
+106
+
+COB/VER48/03-25
+
+9.2.3
+
+CONDUCT OF BUSINESS (COB)
+
+(b)
+
+relating to professional standards applicable to staff and

@@ -1,0 +1,129 @@
+ to a decision of the DFSA under (1). The DFSA must give both the Issuer and, if in the DFSA’s opinion the Stabilisation Manager is not suitable, the Stabilisation Manager an opportunity to make representations under those procedures.
+
+5
+
+PRS/VER7/04-18
+
+PRICE STABILISATION (PRS)
+
+(3)
+
+If the DFSA decides to exercise its power under (1), the Issuer or the Stabilisation Manager may refer the matter to the FMT for review.
+
+3.3 Terms of appointment for a Stabilisation Manager
+
+3.3.1 The terms of appointment of a Stabilisation Manager must include at least the
+
+following information:
+
+(a)
+
+the period of the Stabilisation Window;
+
+(b)
+
+the Offer Price;
+
+(c)
+
+whether the Stabilisation Manager has discretion to commence Price Stabilisation at the Offer Price;
+
+(d)
+
+whether the Stabilisation Manager is permitted to appoint Stabilisation Agents for the Price Stabilisation;
+
+(e)
+
+a term whereby the Stabilisation Manager agrees unconditionally to submit to the jurisdiction of the DFSA and the DIFC Courts in relation to the activities of the Stabilisation Manager and his Stabilisation Agents in carrying out Price Stabilisation; and
+
+(f)
+
+any other information that the Stabilisation Manager believes it will reasonably need to conduct Price Stabilisation effectively.
+
+3.4 Terms of appointment for a Stabilisation Agent
+
+3.4.1
+
+(1)
+
+The Stabilisation Manager may appoint Stabilisation Agents to assist him in conducting Price Stabilisation.
+
+in writing one or more
+
+(2)
+
+The terms of appointment of a Stabilisation Agent must not create a legal the relationship other Stabilisation Manager as principal is responsible and liable for any acts carried out by his Stabilisation Agent.
+
+than
+
+that of principal and agent whereby
+
+6
+
+PRS/VER7/04-18
+
+PRICE STABILISATION (PRS)
+
+3.5 Restrictions on transactions with Stabilisation Agents
+
+3.5.1
+
+(1)
+
+The Stabilisation Manager must not during the Stabilisation Window enter into a transaction as principal with any of his Stabilisation Agents in the Eligible Securities which are the subject of Price Stabilisation.
+
+(2)
+
+The requirement in (1) does not apply:
+
+(a)
+
+if at the time of the transaction, neither the Stabilisation Manager nor his Stabilisation Agent knew or could reasonably have known the identity of his counterparty; or
+
+(b)
+
+where the transaction between the Stabilisation Manager and his Stabilisation Agent is undertaken solely for the purpose of reallocating the Stabilisation Manager and his Stabilisation Agent in the course of Price Stabilisation and the transaction is priced accordingly.
+
+the risk of positions
+
+that were
+
+taken by
+
+Guidance
+
+Some participants in the Price Stabilisation may have accrued positions during stabilisation and Rule 3.5.1 permits transactions to ‘square-off’ the positions between participants. The terms on which these transactions may be carried may often be agreed in the terms of engagement between the Stabilisation Manager and his Stabilisation Agents. The DFSA may when inspecting records kept relating to stabilisation seek the rationale for any of these transactions and the price at which they were conducted.
+
+7
+
+PRS/VER7/04-18
+
+PRICE STABILISATION (PRS)
+
+4
+
+GENERAL CONDITIONS
+
+4.1 Application
+
+4.1.1 This chapter applies to an Issuer and its Stabilisation Manager and any
+
+appointed Stabilisation Agent.
+
+4.2 General conditions relating to the carrying out of Price
+
+Stabilisation
+
+4.2.1
+
+(1)
+
+For Price Stabilisation to occur an Issuer of the relevant Eligible Securities must ensure that a prominent statement appears in the Prospectus or other offering document which clearly states that the Offer of Securities may be subject to Price Stabilisation and also identifies by name the Stabilisation Manager.
+
+(2)
+
+For the purpose of (1), “prominent” means that the statement must appear under its own separate heading in the first few pages of a Prospectus or other offering document.
+
+(3)
+
+The existence and principal terms of any option or right to purchase the Eligible Securities which are the subject of the Price Stabilisation from the Issuer, must be disclosed in the

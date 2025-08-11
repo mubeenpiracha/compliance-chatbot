@@ -1,0 +1,121 @@
+ the borrowing limit set out in 6.8.5(a) has been exceeded, the Fund Manager shall:
+
+(c)
+
+immediately inform Unitholders and the Regulator of the details of the breach and the proposed remedial action;
+
+(d)
+
+use its best endeavours to reduce the excess borrowings;
+
+(e)
+
+not permit the Fund to engage in additional borrowing; and
+
+Confidential
+
+44
+
+IFR VER08.020125
+
+(f)
+
+inform Unitholders and the Regulator on a regular basis as to the progress of the remedial action.
+
+Guidance
+
+1.
+
+Remedial action may not require the disposal of Fund assets to pays off part of the borrowings where such disposal would be prejudicial to the interest of Unitholders.
+
+2.
+
+As there are no specific risks that arise by virtue of a Fund being an Islamic Fund, the prudential requirements that apply to a Category 3 firm as set out in the PRU Rulebook apply to such Fund Managers. However, if the underlying assets of the Fund are invested in financial products or instruments that are Islamic and have certain features which would raise any prudential risks, it is the responsibility of the Fund Manager to address such risks. The Regulator would provide any additional clarifications regarding such matters upon request.
+
+7.
+
+OFFERS OF ISLAMIC SECURITIES
+
+7.1
+
+Application
+
+7.1.1
+
+(a)
+
+Subject to (b), this chapter applies to any Person who Offers Islamic Securities in ADGM, unless the Offer is an Exempt Offer.
+
+(b)
+
+A Person making an Offer of Islamic Securities in ADGM must comply with the requirements in FSMR and the MKT Rulebook except to the extent otherwise provided in this chapter.
+
+(c)
+
+Islamic Securities, for the purposes of this chapter, do not include Units of an Islamic Fund.
+
+Guidance
+
+(i)
+
+IFR 7 applies to any Person that makes a Prospectus Offer of Islamic Securities in ADGM.
+
+(ii)
+
+When an Authorised Person Offers Islamic Securities in ADGM, IFR 7 applies irrespective of whether such Authorised Person is an Islamic Financial Institution, acts through an Islamic Window or is a conventional institution. A conventional institution may be held to offer Islamic Securities where it acts as the underwriter of an issuance of Sukuk or where it elects to act as the obligor under a Sukuk issuance.
+
+(iii)
+
+The issue of Securities is not an activity that constitutes a Regulated Activity. Therefore, activities such as the issue of Shares, Debentures (Sukuk) or Warrants do not attract the Regulated Activity prohibitions in FSMR. The Offer of Securities, however, is an activity to which FSMR and the MKT Rulebook apply. Under FSMR, a Person making an Offer of Securities in ADGM is subject to numerous disclosure requirements, unless exempt.
+
+Confidential
+
+45
+
+IFR VER08.020125
+
+(iv)
+
+Offers of Islamic Securities which are Units of a Fund are not subject to the requirements in this IFR 7 because FSMR and Fund Rules provide for such activities to be regulated. IFR 6 sets out additional requirements that apply to the Fund Manager when Offering Units of an Islamic Fund.
+
+(v)
+
+The definition of the term Islamic Securities is in GLO.
+
+7.2
+
+Contents of a Prospectus for Islamic Securities
+
+7.2.1 Where the relevant Securities are held out as being in accordance with Shari'a, the
+
+Prospectus relating to those Securities must include:
+
+(a)
+
+details of the members of the Shari'a Supervisory Board appointed by the Issuer who have undertaken the review of the relevant Securities;
+
+(b)
+
+details of the qualifications and experience of each of those Shari'a Supervisory Board members;
+
+(c)
+
+the opinion of the Shari’a Supervisory Board in respect of whether the Securities are Shari’a compliant;
+
+(d)
+
+in the case of issuance of Sukuk:
+
+(i)
+
+a description of the structure of the underlying transaction (including a structure diagram) and an explanation of the flow of funds; and
+
+(ii)
+
+where applicable, the disclosures required by the Shari'a Standards published from time to time by AAOIFI in respect of investment Sukuk; and
+
+(e)
+
+instead of the statement required under MKT Rule 4.5.1(3)(d), a prominent disclaimer in bold, on the front page of this Prospectus as follows:
+
+"The Reg

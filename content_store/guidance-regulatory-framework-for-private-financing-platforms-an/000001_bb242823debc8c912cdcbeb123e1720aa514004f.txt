@@ -1,0 +1,45 @@
+223
+
+2.2 PFPs can play an important role in improving access to alternative financing for start- ups and SMEs, which are key engines of economic growth and diversification in the MENA region. PFPs may include equity funding, private placement and invoice financing platforms that leverage data and technology to unlock new ways of raising money for small businesses from professional investors such as high net worth individuals, private equity, venture capital, family offices, accelerators / incubators and angel investors.
+
+2.3 Notwithstanding the benefits of a PFP Framework to the financing ecosystem for start- ups and SMEs, there are risks associated with PFP Transactions that include, but are not limited to, the following:
+
+(a) Loss of capital: PFPs may mainly attract start-ups and SMEs that have no or very little established track record, for which the observed failure rate is generally high.
+
+(b) Lack of liquidity: In the absence of a ready secondary market for PFP Transactions, Clients face the risk of not being able to exit their PFP Transactions or having to transfer them at a significant discount.
+
+(c) Lack of information: There may not be sufficient information on the start-ups and SMEs (“PFP Prospects”) seeking financing through the PFP to enable Clients to conduct proper due diligence and make fully informed investment decisions.
+
+(d) Platform failure: Clients of a PFP may not be able to readily recover their assets in the event that a PFP Operator that handles Client Assets fails and becomes insolvent.
+
+(e) Conflicts of interest between the PFP Operator and Clients: The remuneration of a PFP Operator is typically linked to the amount of funds raised so the interests of a PFP Operator may be more aligned with those of the PFP Prospect than those of its Client providing financing.
+
+2.4 While PFP Operators are limited to primary markets, they may wish to expand their offering by allowing investors to trade or transfer their PFP investments in secondary markets. Secondary market exposure is viewed as an important component of private market allocation by investors.
+
+2.5
+
+In respect of Securities offered by Exempt Offer, whether previously offered through a PFP or not, an MTF Operator may list Exempt Offer Securities on the MTF, enabling such Securities to be traded amongst an unlimited number of Professional Clients and not more than 200 Retail Clients which have been assessed by the MTF Operator to possess appropriate knowledge and experience of the relevant risks, in accordance with Market Infrastructure Rules (MIR) Rule 2.8.3. A description of the systems and controls required to be employed by a MTF Operator that seeks to admit Exempt Offer Securities to trading is set out in Conduct of Business Rules (COBS) Rule 8.2.2.
+
+2.6
+
+In light of these considerations, the FSRA has developed a proportionate, risk-based PCM Framework that facilitates access by start-ups and SMEs to alternate sources of funding, rather than traditional channels, while applying the necessary regulatory safeguards to ensure the PFP Operators and MTF Operators operate in a safe and sound manner to protect their Clients.
+
+2
+
+VER02.181223
+
+3. KEY FEATURES OF THE PRIVATE CAPITAL MARKETS FRAMEWORK
+
+3.1 Definition of Regulated Activity
+
+The Regulated Activity of Operating a Private Financing Platform is defined in Schedule 1, Chapter 17C, Section 73E of FSMR and captures a number of alternative financing arrangements.
+
+The Regulated Activity of Operating a Multilateral Trading Facility is defined in Schedule 1, Chapter 9, Section 54 of FSMR.
+
+3.2 Clients
+
+As retail investors in general may not fully understand the high risks associated with the transactions facilitated through a PFP, or trading in Exempt Offer Securities through a MTF, the FSRA intends to restrict the accessibility to Exempt Offer Securities through the PCM Framework primarily to Professional Clients and a limited number of Retail Clients assessed to demonstrate adequate knowledge and experience to assess the risks of such investments.
+
+PFP Operators and MTF Operators generally do not provide financial advisory services to Clients. Under these circumstances, the onus is on Clients to seek independent financial advice or to make their own evaluation of the risks associated with any potential loan or investment. Professional Clients are considered to be more sophisticated and have more resources and capacity to make informed decisions on prospective debt and equity instruments offered through a PFP or MTF after considering the inherent risks.
+
+There may

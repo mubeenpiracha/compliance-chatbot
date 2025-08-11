@@ -1,0 +1,53 @@
+ not Protected Cell Companies, is set out in section A4.5. The provisions in this section apply this basic model to the segments of a Protected Cell Company.
+
+A6.5.1 An Insurer must calculate the investment volatility risk component in respect of a segment as the sum of the amounts obtained by multiplying the value of each Invested Asset attributable to the segment with the relevant percentage, in accordance with the table set out in Rule A4.5.1, but subject to the provisions of Rule A4.5.2.
+
+A6.6 Off-balance sheet asset risk component
+
+Guidance
+
+The purpose of the off-balance sheet asset risk component is to require an Insurer to set aside capital to cover the risk of default and deterioration in value in respect of exposures that the Insurer has because it is a party to a derivative contract. The provisions in this section apply the basic provisions of section A4.6 to the segments of a Protected Cell Company.
+
+A6.6.1 An Insurer is required to calculate an off-balance sheet asset risk component, if the Insurer is, as at the Solvency Reference Date, a party to a derivative contract, including a forward, future, swap, option or other similar contract, but not including:
+
+(a)
+
+a put option serving as a guarantee;
+
+(b)
+
+a foreign exchange contract having an original maturity of 14 days or less; or
+
+(c)
+
+an instrument traded on a futures or options exchange, which is subject to daily mark-to-market and margin payments.
+
+A6.6.2 An Insurer must calculate the off-balance sheet asset risk component in respect of a segment as the sum of the amounts obtained by applying the calculations set out in Rule A6.6.3 in respect of each derivative contract entered into by the Insurer in respect of that segment that meets the description in Rule A6.6.1.
+
+A6.6.3 The amount in respect of a derivative contract is obtained by calculating, for an asset equivalent amount as determined in Rule A6.6.4, a default risk component as set out in section A6.4 and an investment volatility risk component as set out in section A6.5, as though the asset equivalent amount were a debt obligation due from the derivative counterparty.
+
+A6.6.4 The asset equivalent amount in respect of a derivative is calculated as the sum of the current mark-to-market exposure of the derivative (where this is positive) and the amount obtained by multiplying the notional principal amount of the derivative by the factors specified in the table set out in Rule A4.6.4, according to the nature and residual maturity of the derivative.
+
+98
+
+PIN/VER18/04-23
+
+PRUDENTIAL – INSURANCE BUSINESS (PIN)
+
+A6.7 Off-balance sheet liability risk component
+
+Guidance
+
+1.
+
+The purpose of the off-balance sheet liability risk component is to require an Insurer to set aside capital to cover the risk that it will be required to perform on a guarantee, letter of credit or other credit substitute that it has entered into. Although such items are not liabilities of the Insurer as at the Solvency Reference Date, they have the capacity to crystallise as liabilities at a subsequent date and therefore to affect the Insurer’s capital position. The provisions in this section apply the relevant provisions of section A4.7 to the segments of a Protected Cell Company.
+
+2.
+
+Credit substitutes that are Contracts of Insurance are excluded from the calculation of this component, as they are subject to a separate capital requirement under section 4.5.
+
+A6.7.1 An Insurer must calculate an off-balance sheet liability risk component in respect of a segment if the Insurer has issued guarantees, including put options serving as guarantees, letters of credit or any other credit substitute (other than an insurance contract) in favour of another party, so that the segment is exposed to the risk of having to make payment on those instruments should the guaranteed party default.
+
+A6.7.2 An Insurer must calculate its off-balance sheet risk component as the sum of the amounts obtained by applying the calculations set out in Rule A6.7.3 in respect of each guarantee, letter of credit or other credit substitute.
+
+A6.7.3 The amount in respect of a guarantee, letter of credit or other credit substitute (other than an insurance contract

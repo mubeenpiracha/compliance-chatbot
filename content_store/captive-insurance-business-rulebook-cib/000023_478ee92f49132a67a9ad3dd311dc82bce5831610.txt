@@ -1,0 +1,99 @@
+ of how the Captive Insurer intends to price such contracts, and to value them for the purposes of its capital adequacy calculations; and
+
+(c)
+
+an explanation of how the Captive Insurer intends to quantify, monitor and manage the risks to its capital adequacy represented by such features of contracts.
+
+8.5.3 The Regulator may grant a Captive Insurer permission to effect Direct Long-Term Insurance contracts having one or more features of the kind referred to in Rule 8.5.1. Permission shall be given in writing and shall be subject to such terms or conditions as the Regulator may specify in its notice granting permission. Where any terms and conditions are imposed on the Captive Insurer, the Captive Insurer shall comply with such terms and conditions.
+
+8.5.4 The Regulator may on its own initiative at any time vary or revoke permission given under Rule 8.5.3. Variation or revocation shall be communicated to the Captive Insurer in writing.
+
+8.5.5 A Captive Insurer which undertakes Direct Long-Term Insurance Business must supervise adequately the conduct of its Direct Long-Term Insurance Business in each jurisdiction in which that Business is undertaken.
+
+39
+
+CIB VER06.290725
+
+9
+
+TRANSFER OF INSURANCE BUSINESS
+
+9.1
+
+Accounting and Auditing
+
+A Captive Insurer must comply with the business transfer provisions set out in Part 7 of FSMR.
+
+40
+
+CIB VER06.290725
+
+10
+
+CAPTIVE INSURERS IN RUN-OFF
+
+10.1 General provisions
+
+10.1.1 Terms and concepts relating to run-offs
+
+(1)
+
+For the purposes of this Chapter, in determining whether a Captive Insurer is effecting Contracts of Insurance, or has ceased to effect Contracts of Insurance, including Contracts of Insurance effected through a Captive Cell or Long-Term Insurance Fund, Contracts of Insurance effected under a term of an existing Contract of Insurance shall be disregarded.
+
+(2)
+
+In this Chapter:
+
+(a)
+
+a Captive Insurer in run-off means a Captive Insurer that has ceased to effect Contracts of Insurance in respect of the whole of its Insurance Business, and a Captive Cell in run-off and a Long-Term Insurance Fund in run-off are to be construed accordingly; and
+
+(b)
+
+going into run-off or placing Insurance Business into run-off means ceasing to effect Contracts of Insurance, and placing a Captive Cell or a Long-Term Insurance Fund into run-off are to be construed accordingly.
+
+10.2 Notices and run-off plans
+
+10.2.1 Ceasing to effect contracts in a Class of Business
+
+This Rule 10.2 applies to a Captive Insurer that ceases or decides to cease to effect new Contracts of Insurance:
+
+(a)
+
+in a Class of Business in which the Captive Insurer has previously carried on Insurance Business; or
+
+(b)
+
+in respect of a Captive Cell or Long-Term Insurance Fund, in a Class of Business in which the Captive Insurer has previously carried on Insurance Business through that Captive Cell or Long-Term Insurance Fund.
+
+10.2.2 Notification to the Regulator
+
+(1)
+
+A Captive Insurer to which this Rule 10.2 applies must, within twenty-eight days of deciding to cease to effect new Contracts of Insurance in a Class of Business, notify the Regulator of its decision, in a written notice specifying the following details:
+
+(a)
+
+the effective date of the decision to cease effecting Contracts of Insurance;
+
+(b)
+
+the Class of Business to which the decision relates; and
+
+(c)
+
+where relevant, Captive Cell or Long-Term Insurance Fund to which the decision relates.
+
+41
+
+CIB VER06.290725
+
+(2)
+
+A Captive Insurer which has provided a notice to the Regulator in accordance with Rule 10.2.2(1) must not effect any Contracts of Insurance in that Class of Business without the written permission of the Regulator. Where the notice referred to in Rule 10.2.2(1) relates to a Captive Cell or Long-Term Insurance Fund of the Captive Insurer, the restriction set out in this Rule applies only to that Captive Cell or Long-Term Insurance Fund.
+
+10.2.3 Run-off plan – Captive Insurer decides to go into run-off
+
+(1)
+
+This Rule applies

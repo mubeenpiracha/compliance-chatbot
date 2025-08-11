@@ -1,0 +1,123 @@
+ to a risk of loss on the full amount of cash paid or deliverables delivered. PIB Rule A4.6.3 requires an Authorised Firm that has made the first contractual payment/delivery leg to calculate RWAs for the Exposure if the second leg has not been received by the end of the business day. The RWAs increase if the second leg has not been received within five business days.
+
+4.
+
+This section applies to transactions whether on balance sheet or off balance sheet. Where a transaction does not appear on balance sheet (i.e. settlement date accounting), the Authorised Firm should apply a 100% conversion factor to determine the credit equivalent amount of the unsettled exposure amount.
+
+5.
+
+An Authorised Firm should develop, implement and improve systems for tracking and monitoring the credit risk exposure arising from unsettled transactions and failed trades as appropriate so that they can produce management information that facilitates timely action. An Authorised Firm should closely monitor securities, commodities, and foreign exchange transactions that have failed, starting the first day they fail.
+
+Unsettled Transactions
+
+A4.6.2 An Authorised Firm must calculate the RWA for a transaction that remains unsettled after
+
+its due delivery date, using the following formula:
+
+CRW = PCEA ∙ RM ∙ 12.5
+
+where:
+
+PCEA =
+
+the positive current exposure amount of the transaction representing the difference between the agreed settlement price for the instrument in question and its current market value, where the difference could involve a loss for the Authorised Firm
+
+RM =
+
+the risk multiplier, determined in accordance with the table below
+
+Number of business days after due settlement date
+
+Risk Multiplier
+
+0-4
+
+0%
+
+5-15
+
+8%
+
+16-30
+
+50%
+
+31-45
+
+75%
+
+46 or more
+
+100%
+
+Free deliveries
+
+A4.6.3 For a transaction for which an Authorised Firm has:
+
+279
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+(a) delivered securities, foreign exchange instruments or commodities before
+
+receiving payment; or
+
+(b) paid for securities, foreign exchange instruments or commodities before receiving
+
+the item purchased; or
+
+(c)
+
+in the case of cross-border transactions, one day or more has elapsed since it made that payment or delivery,
+
+the Authorised Firm must treat its Exposure to the Counterparty of the transaction in accordance with the table below.
+
+Up to first contractual payment or delivery leg
+
+From first contractual payment or delivery leg up to four business days after second contractual payment or delivery leg
+
+From five business days post second contractual payment or delivery leg until extinction of the transaction
+
+No capital charge
+
+Treat as an Exposure risk weighted in accordance with PIB Rule 4.8.2
+
+Treat as an Exposure risk weighted at 1250%
+
+A4.6.4
+
+If the amount of an Exposure resulting from a transaction in Rule A4.6.3 is not material, an Authorised Firm may apply a risk weight of 100% to that Exposure, except where a risk weight of 1250% in accordance with the last column of the table above is required.
+
+A4.7
+
+[Deleted]
+
+A4.8 Standardised approach to Counterparty Credit Risk (SA-CCR)
+
+A4.8.1
+
+In this section:
+
+(a)
+
+“Basis Transaction” has the meaning given in Rule A4.8.5(2)(a);
+
+(b)
+
+“End Date” means the period of time between the calculation date (today) and the end date of the time period referenced by transaction ‘i’, measured in years; if a transaction references the value of another interest rate or credit transaction, such as a swaption or a bond option, the period must be determined on the basis of the underlying transaction;
+
+(c)
+
+“Margin Agreement” means a contractual agreement or provision to an agreement under which one Counterparty must supply Variation Margin to a second Counterparty when an Exposure of that second Counterparty to the first Counterparty exceeds a specified level;
+
+280
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+(d)
+
+“Margin Period of Risk” or “MPoR” means the time period from the last exchange of Collateral covering a Netting Set of

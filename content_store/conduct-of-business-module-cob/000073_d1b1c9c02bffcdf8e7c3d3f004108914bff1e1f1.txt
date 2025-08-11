@@ -1,0 +1,149 @@
+ each member and where relevant, any other Person who has been allowed access to the facility through the member; and
+
+(e)
+
+in the case of a Person operating an MTF, non-discretionary and made publicly available.
+
+(2)
+
+The Operating Rules of an ATS Operator must place obligations upon Persons who are admitted to trading on its facility (“members”):
+
+(a)
+
+when undertaking transactions on its facilities; and
+
+106
+
+COB/VER48/03-25
+
+9.2.3
+
+CONDUCT OF BUSINESS (COB)
+
+(b)
+
+relating to professional standards applicable to staff and other Persons allowed access to the facility through such a member.
+
+(3) Without limiting the generality of (1) and (2), the Operating Rules of an ATS
+
+Operator must contain:
+
+(a)
+
+criteria for admission of members to its facility, in accordance with Rule 9.3.1;
+
+(b)
+
+criteria relating to Investments or Crypto Tokens traded on its facility, in accordance with Rule 9.4.1;
+
+(c)
+
+the rules and procedures governing trading on the facility;
+
+(d)
+
+default rules;
+
+(e)
+
+the rules and procedures transactions executed on the facility; and
+
+for
+
+the clearing and settlement of
+
+(f)
+
+any other matters necessary for the proper functioning of its facility.
+
+Material changes to Current Arrangements
+
+(1)
+
+An ATS Operator may only make material changes its existing arrangements to meet the requirements in this chapter in accordance with the requirements in this Rule.
+
+to
+
+(2)
+
+The reference to “Existing Arrangements” in (1) is a reference to both the arrangements which were in place at the time of the initial grant of the Licence and any changes made to such arrangements in accordance with the requirements in this Rule.
+
+(3)
+
+For the purposes of obtaining the DFSA approval, an ATS Operator must provide to the DFSA, at least 30 days before the proposed change is intended to come into effect, a notice setting out:
+
+(a)
+
+the proposed change;
+
+(b)
+
+the reasons for the proposed change; and
+
+(c)
+
+what impact the proposed change would have on its members and its ability to operate the facility.
+
+(4)
+
+The DFSA must, upon receipt of a notice referred to in (1), approve or disapprove the proposed change as soon as practicable and in any event within 30 days of the receipt of the notice, unless that period has been extended by notification to the applicant.
+
+(5)
+
+The DFSA may, in circumstances where a material change to Current Arrangements is shown on reasonable grounds to be urgently needed, accept an application for approval of such a change on shorter notice than 30 days.
+
+107
+
+COB/VER48/03-25
+
+CONDUCT OF BUSINESS (COB)
+
+(6)
+
+The procedures in Schedule 3 to the Regulatory Law apply to a decision of the DFSA to reject a proposed change under this Rule.
+
+(7) Where the DFSA decides to reject a proposed change, the ATS Operator
+
+may refer the matter to the FMT for review.
+
+Guidance
+
+1.
+
+The period of 30 days will commence to run from the time the DFSA has received all the relevant information to assess the application.
+
+2.
+
+An ATS Operator should consider submitting its application for the DFSA approval well in advance of the date on which a proposed amendment is intended to come into effect, especially in the case of significant material changes to its existing arrangements, to allow the DFSA sufficient time to consider the application. If additional time is reasonably required to properly assess the impact of a proposed change due to its nature, scale and complexity, the DFSA may make an appropriate extension of time beyond 30 days. Such an extension would be made in consultation with the applicant.
+
+9.3 Member access criteria
+
+9.3.1
+
+(1)
+
+An ATS Operator may, subject to (2), (3) and (4), accept as a member:
+
+(a)
+
+an Authorised Firm;
+
+(b)
+
+a Recognised Member;
+
+(c)
+
+a Person who meets the criteria in GEN Rule 2.3.2(2);
+
+(d)
+
+a Person who is classified as a Professional Client pursuant to COB Rule 2.3.4(1)(g), (h) and (i); or
+
+(e)
+
+a Person not referred to in (a) to (d), only if:
+
+(i)
+
+the facility is one on which Investment Tokens or Crypto Tokens are traded; and

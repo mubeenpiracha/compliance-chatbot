@@ -1,0 +1,119 @@
+(iv)
+
+if investment in OTC financial Derivatives or repo-style transactions are allowed, a policy to limit Counterparty Risk arising from these transactions;
+
+(b)
+
+the Fund must publish half-yearly accounts and annual reports to enable an assessment to be made of the assets and liabilities, income and operations over the reporting period;
+
+(c)
+
+the Units of the Fund are redeemable in cash, out of the Fund's assets, on a daily basis at the request of the Unitholder;
+
+(d)
+
+Investments in the Fund must be segregated from the assets of the Fund Manager; and
+
+(e)
+
+there must be adequate risk assessment, by the investing firm, of the Fund.
+
+A6.7.7
+
+[Reserved]
+
+Standard Collective Investment Fund look through method: General
+
+A6.7.8
+
+In the case of an Authorised Person being aware of the underlying assets or Investments of the Fund on a daily basis, the Authorised Person may look through to those underlying Investments in order to calculate the Market Risk Capital Requirement (General Market Risk and Specific Risk) for those positions in
+
+365
+
+PRU VER17.290725
+
+accordance with the methods set out in the relevant Section of Chapter 5 for calculating the relevant Market Risk Capital Requirement.
+
+A6.7.9
+
+In this method, positions in Funds must be treated as positions in the underlying Investments of the Fund. Netting is permitted between positions in the underlying Investments of the Fund and other positions held by the Authorised Person, as long as for the Authorised Person holds a sufficient quantity of Units to allow redemption/creation in exchange for the underlying Investments.
+
+Standard Collective Investment Fund look through method: Index or Basket Funds
+
+A6.7.10
+
+(1)
+
+An Authorised Person may calculate the risk Capital Requirements for positions in Funds in accordance with the methods set out in various Sections of Chapter 5 applicable to various underlying assets or Investments, on assumed positions representing those necessary to replicate the composition and performance of the externally generated index or fixed basket of equities or debt Securities, subject to the following conditions:
+
+(a)
+
+the Fund's mandate is to replicate the composition and performance of an externally generated index or fixed basket of equities or debt Securities; and
+
+(b)
+
+a minimum correlation of 0.9 between daily price movements of the Fund and the index or basket of equities or debt Securities it tracks, exists over the previous six month period.
+
+(2)
+
+Correlation as referred to in (1)(b) means the correlation coefficient between daily returns on the Fund and that on the index or basket of equities or debt Securities it tracks.
+
+A6.8
+
+Securities Underwriting Risk Capital Requirement
+
+Guidance
+
+Section A6.8 presents the method for calculating a net Underwriting position or reduced net Underwriting position, which is then included in the calculation of Market Risk Capital Requirements as specified in this Chapter. Section A6.8 also deals with concentration risks.
+
+A6.8.1
+
+(1)
+
+An Authorised Person which calculates its Securities Underwriting Risk Capital Requirement in accordance with Rule 5.10.7(b) must apply the Rules in this Section.
+
+(2)
+
+An Authorised Person which underwrites or sub-underwrites an issue of Securities must, for the purposes of calculating its Market Risk Capital Requirement:
+
+(a)
+
+identify commitments to underwrite or sub-underwrite which give rise to an Underwriting position;
+
+366
+
+PRU VER17.290725
+
+(b)
+
+identify the time of initial commitment; and
+
+(c)
+
+calculate the net Underwriting position, reduced net Underwriting position or the net Underwriting Exposure.
+
+A6.8.2
+
+An Authorised Person must include the net Underwriting position or reduced net Underwriting position where:
+
+(a)
+
+debt Securities are being underwritten;
+
+(b)
+
+equities are being underwritten; or
+
+(c)
+
+Warrants are being underwritten.
+
+Guidance
+
+1.
+
+Sub-Underwriting is a commitment given by one firm to someone other than the Issuer or seller of the Securities to sub-underwrite all or part of an issue of Securities. The net Underwriting position calculated in Rule A6.8.6 will also be used in calculating the net Underwriting Exposure under Rules A6.8.11 to A6.8.14.
+
+2.
+
+The net Underwriting position or reduced net Underwriting position arising from Underwriting or sub-Underwriting a rights or Warrants issue

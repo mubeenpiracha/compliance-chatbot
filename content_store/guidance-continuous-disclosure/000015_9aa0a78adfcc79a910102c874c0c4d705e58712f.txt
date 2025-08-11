@@ -1,0 +1,37 @@
+ client list, pricing list or database.
+
+79) Trade secrets are often protected by copyright, or may otherwise give rise to rights in equity that are capable of being protected by an action for breach of confidence. In some jurisdictions they may also be protected by statute.
+
+80) As Rules 7.2.2(1), 7.2.2(2) and 7.2.2(3) operate collectively, where a Listed Entity has lost confidentiality in relation to a trade secret (that is, it has been observed or become generally known), the Reporting Entity may no longer be able to claim an exception under Rules 7.2.2(1)(e), 7.2.2(2) and 7.2.2(3) to its duty of Disclosure. CONFIDENTIALITY (RULE 7.2.2(2))
+
+81) For Rule 7.2.2(2) to apply, two different components must be satisfied, being the:
+
+a)
+
+relevant Inside Information must be confidential; and
+
+b)
+
+Listing Authority has not formed the view that the Inside Information has ceased to be confidential.
+
+82) Consideration of whether Inside Information is confidential is not subjective; it is objective. The Inside Information cannot be in the public domain, and accordingly, if it is not, it must be secret (confidential).
+
+83) To ensure that this Rule is met, where negotiations are in progress between a Listed Entity and another party, both the Listed Entity and the other party must keep the fact, and content, of those negotiations confidential. There may be a confidentiality agreement in place, but this is not necessary. It is important to recognise that Inside Information that is subject to a confidentiality agreement does not necessarily mean that the Inside Information is confidential in fact.
+
+84) Even with robust confidentiality arrangements in place, it is important to recognise that the greater the number of people who know, or are aware, of the confidential Inside Information, the greater the risk that the Inside Information will cease to remain confidential. As an example of this, if a Listed Entity is proposing to acquire another entity, business or asset and wants to, as part of its due diligence, make enquiries of the target business’ employees, customers or suppliers, or a Listed Entity is proposing to undertake a new issue of Securities and wishes to engage with advisers, brokers and potential investors, the Listed Entity/Reporting Entity, and the other parties involved in such a transaction, needs to be prepared that those discussions may result in a loss of confidentiality.
+
+85) As soon as Inside Information is received by a person who is not bound by an obligation of confidentiality, this Rule 7.2.2(2) can no longer be met, and the Inside Information must be Disclosed. This may be the case even if the Listed Entity has entered into
+
+17
+
+VER01.280922
+
+confidentiality arrangements in relation to the Inside Information and/or the Inside Information has come from a source other than the Listed Entity.
+
+86)
+
+In relation to media and third parties attempting to force a Reporting Entity, by way of speculation published within the media, to make a Disclosure, the Listing Authority is of the view that though there is, or has been, public, media or third party speculation, it does not necessarily mean the Inside Information relates is no longer confidential. The Listing Authority does not consider that, on its own, media speculation about a matter (that represents Inside Information) necessarily means that confidentiality has been lost. The more credible the source, however, of the media comment or speculation, and the specificity of the media comment or speculation, the more likely it is to indicate that confidentiality may have been lost.
+
+87) An assessment of whether Inside Information remains confidential will need to be made in the relevant circumstances, considering the parties involved, in relation to that Inside Information. The Listing Authority will review each particular circumstance on its own merit, and the Listing Authority’s approach, while being mindful of market integrity implications, is not to require a Disclosure where it is satisfied that confidentiality remains in place. If a Listed Entity is negotiating a significant transaction and is relying on Rule 7.2.2 to not Disclose the transaction (information in relation to which represents Inside Information), it is important that the Reporting Entity closely monitors the situation for any indication that confidentiality has been lost. In these circumstances, the Reporting Entity should be monitoring,20 as a matter of course:
+
+a

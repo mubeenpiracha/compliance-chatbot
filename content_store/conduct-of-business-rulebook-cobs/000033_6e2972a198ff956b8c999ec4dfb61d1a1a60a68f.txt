@@ -1,0 +1,153 @@
+ Client with full details of any premium or charges to be paid or returned.
+
+(b)
+
+An Insurer or Insurance Intermediary must provide a Client with written confirmation when the amendment is made and remit any return premium or charges due to the Client without delay.
+
+7.10.2 An Insurer or Insurance Intermediary must give adequate advance notification to a Client of the renewal or expiration date of an existing insurance policy so as to allow the Client sufficient time to consider whether continuing cover is required.
+
+7.10.3 On expiry or cancellation of the insurance, at the request of the Client, an Insurer or Intermediary must promptly make available all documentation and
+
+Insurance information to which the Client is entitled.
+
+Claims
+
+7.10.4 Where an Insurance Intermediary handles insurance claims it must:
+
+(a)
+
+on request, give the Client reasonable guidance, inform the Client of applicable procedures and provide the Client with the relevant forms in pursuing a claim under the relevant policy;
+
+(b)
+
+handle claims fairly and promptly and keep the Client informed of progress;
+
+(c)
+
+inform the Client in writing, with an explanation, if it is unable to deal with any part of a claim; and
+
+(d)
+
+forward settlement of any claim, as soon as reasonably practicable, once it has been agreed.
+
+7.10.5 An Insurer must:
+
+(a)
+
+handle claims fairly and promptly;
+
+(b)
+
+keep the Client informed of the progress of the claim;
+
+54
+
+COBS VER19.290725
+
+(c)
+
+not reject a claim unreasonably;
+
+(d)
+
+if only part of a claim is accepted:
+
+(i)
+
+provide a clear statement about the part of the claim that is accepted; and
+
+(ii)
+
+give clear reasons for rejecting that part of the claim that has not been accepted; and
+
+(e)
+
+settle the claim promptly.
+
+7.11
+
+Insurance Monies
+
+7.11.1 Application
+
+This section applies to an Insurance Intermediary and an Insurance Manager.
+
+7.11.2 General
+
+(a)
+
+Insurance Monies are any monies arising from Insurance Intermediation or the Insurance Management business which are any of the following:
+
+(i)
+
+premiums, additional premiums and return premiums of all kinds;
+
+(ii)
+
+claims and other payments due under Contracts of Insurance;
+
+(iii)
+
+refunds and salvages;
+
+(iv)
+
+Fees, charges, taxes and similar fiscal levies relating to Contracts of Insurance payable to a Person other than the Insurance Intermediary or Insurance Manager;
+
+(v)
+
+discounts, commissions and brokerage payable to a Person other than the Insurance Intermediary or Insurance Manager; or
+
+(vi)
+
+monies received from or on behalf of a Client of an Insurance Manager, in relation to his Insurance Management business.
+
+(b)
+
+Monies are not Insurance Monies where there is a written agreement in place between the Insurance Intermediary or Insurance Manager and the insurer to whom the relevant monies are to be paid (or from whom they have been received) under which the insurer agrees that:
+
+(i)
+
+the Insurance Intermediary or Insurance Manager, as the case may be, holds as agent for the insurer all monies received by it in connection with Contracts of Insurance effected or to be effected by the insurer;
+
+(ii)
+
+insurance cover is maintained for the Client once the monies are received by the Insurance Intermediary or the Insurance Manager, as the case may be; and
+
+55
+
+COBS VER19.290725
+
+(iii)
+
+the insurer's obligation to make a payment to the Client is not discharged until actual receipt of the relevant monies by the Client.
+
+7.11.3 In this section, a Client of an Insurance Manager means:
+
+(a)
+
+any insurer for which the Insurance Manager provides Insurance Management;
+
+(b)
+
+any shareholder of an insurer mentioned in Rule 7.11.3(a); or
+
+(c)
+
+any Person on whose behalf the Insurance Manager undertakes to establish that Person as an insurer.
+
+7.11.4 For the purposes of Rule 7.11.3:
+
+(a)
+
+an Insurer includes a Cell of a Protected Cell Company which is an Insurer; and
+
+(b)
+
+a shareholder includes a holder of Cell Shares.
+
+7.11.5 Pooling Event
+
+Following a Pooling Event, an Insurance Intermediary and Insurance Manager must comply with the Client Money Distribution Rules in Rule 14.13 and all Money will also be subject to such Rules in the same way as Client Money.
+
+7.11.

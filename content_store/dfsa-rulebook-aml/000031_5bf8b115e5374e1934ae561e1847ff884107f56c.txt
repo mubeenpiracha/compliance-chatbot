@@ -1,0 +1,153 @@
+ourced service provider to undertake CDD, a Relevant Person should undertake appropriate due diligence to assure itself of the suitability of the outsourced service provider and should ensure that the outsourced service provider’s obligations are clearly documented in a binding agreement.
+
+2.
+
+An Authorised Person should be mindful of its obligations regarding outsourcing set out in GEN Rules 5.3.21 and 5.3.22.
+
+45
+
+AML/VER27/03-25
+
+Anti-Money Laundering, Counter-Terrorist Financing and Sanctions Module (AML)
+
+8.3 Money Service Providers
+
+8.3.1
+
+(1) An Authorised Firm that Provides Money Services must:
+
+(a)
+
+maintain a complete, current and accurate register of all agents it uses to conduct its Money Services business and make the register available to the DFSA upon request;
+
+(b)
+
+include all agents referred to in (a) as part of its AML compliance programme and monitor agents’ compliance with the programme;
+
+(c)
+
+comply with all applicable AML requirements in the jurisdictions in which it operates, whether directly or through the use of agents;
+
+(d)
+
+when executing Payment Transactions, assess and consider all relevant information including information about the payer, payee and any beneficiary, as applicable, to determine whether a Suspicious Activity Report should be made; and
+
+(e)
+
+if appropriate, make a Suspicious Activity Report in any jurisdiction impacted or connected to a suspicious Payment Transaction, and make available relevant transaction information to the authorities responsible for AML compliance in the relevant jurisdiction.
+
+(2)
+
+An Authorised Firm making an assessment under (1) must rely only on sources of information that are reliable and up-to-date.
+
+(3)
+
+An Authorised Firm must keep adequate records of how it made its assessment under (1), including the sources and materials considered.
+
+46
+
+AML/VER27/03-25
+
+9
+
+9.1
+
+9.1.1
+
+9.2
+
+9.2.1
+
+9.2.2
+
+Anti-Money Laundering, Counter-Terrorist Financing and Sanctions Module (AML)
+
+CORRESPONDENT BANKING, ELECTRONIC FUND TRANSFERS AND AUDIT
+
+Application
+
+This chapter applies only to an Authorised Person, except section 9.3B which applies only to a DNFBP.
+
+Correspondent banking
+
+An Authorised Firm proposing to have a correspondent banking relationship with a respondent bank must:
+
+(a)
+
+undertake appropriate Customer Due Diligence on the respondent bank;
+
+(b)
+
+as part of (a), gather sufficient information about the respondent bank to understand fully the nature of the business, including making appropriate enquiries on its management, its major business activities and the countries or jurisdictions in which it operates;
+
+(c)
+
+the determine respondent bank and the quality of supervision, including whether it has been subject to a money laundering or terrorist financing investigation or relevant regulatory action;
+
+from publicly-available
+
+information
+
+the reputation of
+
+(d)
+
+assess the respondent bank’s AML controls and ascertain if they are adequate and effective in light of the FATF Recommendations;
+
+(e)
+
+ensure that prior approval of the Authorised Firm’s senior management is obtained before entering into a new correspondent banking relationship;
+
+(f)
+
+ensure the parties correspondent banking relationship are properly documented; and
+
+that
+
+the
+
+respective
+
+responsibilities of
+
+to
+
+the
+
+(g)
+
+be satisfied that, in respect of any customers of the respondent bank who have direct access to accounts of the Authorised Firm, the respondent bank:
+
+(i)
+
+has undertaken Customer Due Diligence (including ongoing Customer Due Diligence) at least equivalent to that in Rule 7.3.1 in respect of each customer; and
+
+(ii)
+
+is able to provide the relevant Customer Due Diligence information in (i) to the Authorised Firm upon request; and
+
+(h)
+
+document the basis for its satisfaction that the requirements in (a) to (g) are met.
+
+An Authorised Firm must:
+
+(a)
+
+not enter into a correspondent banking relationship with a Shell Bank; and
+
+47
+
+AML/VER27/03-25
+
+9.3
+
+9.3.1
+
+9.3.2
+
+Anti-Money Laundering, Counter-Terrorist Financing and Sanctions Module (AML)
+
+(b)
+
+take appropriate measures to ensure that it does not enter into, or continue a corresponding banking relationship with, a bank which is known to permit its accounts to be used by

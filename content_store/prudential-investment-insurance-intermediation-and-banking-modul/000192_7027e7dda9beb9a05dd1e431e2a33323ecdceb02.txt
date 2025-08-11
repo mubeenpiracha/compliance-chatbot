@@ -1,0 +1,195 @@
+ Ti
+
+)
+
+δ𝑖 = −Ф(
+
+ln(
+
+Pi Ki
+
+) + 0.5 ∙ σi
+
+σi ∙ √Ti
+
+2 ∙ Ti
+
+)
+
+Put options
+
+δ𝑖 = −Ф(
+
+ln(
+
+Pi Ki
+
+) + 0.5 ∙ σi
+
+σi ∙ √Ti
+
+2 ∙ Ti
+
+)
+
+δ𝑖 = Ф(
+
+ln(
+
+Pi Ki
+
+) + 0.5 ∙ σi
+
+σi ∙ √Ti
+
+2 ∙ Ti
+
+)
+
+where:
+
+Ф =
+
+the standard normal cumulative distribution function
+
+P𝑖 =
+
+the underlying price of option ‘i’
+
+K𝑖 =
+
+the strike price of option ‘i’
+
+σ𝑖 =
+
+the supervisory volatility of option ‘i’, determined in accordance with the table in Rule A4.8.18
+
+T𝑖 =
+
+the time interval between the calculation date and the latest contractual exercise date as referenced by transaction ‘i’, measured in years
+
+for options in the interest rate asset class for which the supervisory delta cannot be calculated in accordance with (c) because the underlying price of the option or the strike price of the option is negative, the supervisory delta must be calculated using the applicable formula in the table below:
+
+295
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+Bought
+
+Sold
+
+Call options
+
+𝛅𝒊 = Ф
+
+𝐥𝐧(
+
+𝐏𝐢 + 𝝀𝒋 𝐊𝐢 + 𝝀𝒋
+
+) + 𝟎.𝟓 ∙ 𝛔𝐢
+
+𝛔𝐢 ∙ √𝐓𝐢
+
+𝟐 ∙ 𝐓𝐢
+
+δ𝑖 = −Ф
+
+ln(
+
+Pi + 𝜆𝑗 Ki + 𝜆𝑗
+
+) + 0.5 ∙ σi
+
+σi ∙ √Ti
+
+2 ∙ Ti
+
+(
+
+)
+
+(
+
+)
+
+Put options
+
+δ𝑖 = −Ф
+
+ln(
+
+Pi + 𝜆𝑗 Ki + 𝜆𝑗
+
+) + 0.5 ∙ σi
+
+σi ∙ √Ti
+
+2 ∙ Ti
+
+δ𝑖 = Ф
+
+ln(
+
+Pi + 𝜆𝑗 Ki + 𝜆𝑗
+
+) + 0.5 ∙ σi
+
+σi ∙ √Ti
+
+2 ∙ Ti
+
+(
+
+)
+
+(
+
+)
+
+where:
+
+𝝀𝒋 =
+
+the shift parameter that represents the lowest possible extent to which interest rates in the respective currency can become negative
+
+all other terms are the ones set out in (c)
+
+(e)
+
+for tranches of collateralised debt obligations and a nth-to-default transaction in the credit asset class, the supervisory delta must be set according to the table below:
+
+Purchased (long protection)
+
+Sold (short protection)
+
+CDO tranches
+
+δi =
+
+15 (1 + 14 ∙ A𝑖) ∙ (1 + 14 ∙ D𝑖)
+
+δi = −
+
+15 (1 + 14 ∙ A𝑖) ∙ (1 + 14 ∙ D𝑖)
+
+where:
+
+Aj =
+
+the attachment point of the tranche or (n – l)/m for a nth-to-default transaction on a pool of ‘m’ reference names for transaction ‘i’
+
+Dj =
+
+the detachment point of the tranche or n/m for a nth-to-default transaction on a pool of ‘m’ reference names for transaction ‘i’
+
+Guidance
+
+1.
+
+The supervisory delta is used to ensure that the effective notional amounts take into account the direction of the trade, i.e. whether the trade is long or short, by having a positive or negative sign. It also takes into account whether the trade has a non-linear relationship with the underlying risk factor (which is the case for options and collateralised debt obligation tranches).
+
+2.
+
+To calculate the supervisory delta for options an Authorised Firm should use, whenever appropriate, the forward (rather than the spot)

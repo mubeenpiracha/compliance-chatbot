@@ -1,0 +1,75 @@
+comply or explain’ approach is effective in achieving the stated outcomes of the ESG Disclosures Framework. In the future, the RA may decide to impose a mandatory ESG disclosures framework for in-scope entities. Nothing in this Guidance should be interpreted as an assurance that the ‘comply or explain’ approach will continue in the future.
+
+3. Scope of the ESG Disclosures Framework
+
+Companies established in or continued into ADGM may be within the scope of the ESG Disclosures Framework. The following entities do not fall within the scope of the ESG Disclosures Framework, either by virtue of not being governed by the CR, or by being expressly exempted from the scope of the ESG Disclosures Framework.
+
+a. Foundations.
+
+b. Limited Liability Partnerships.
+
+4
+
+VER01.040723
+
+c. General and Limited Partnerships.
+
+d. Restricted Scope Companies.
+
+e. Publicly listed companies that already make equivalent disclosures in accordance with listing requirements. For the avoidance of doubt, entities considered ‘Listed Entities’ or ‘Reporting Entities’ for the purposes of the FSRA’s MKT Rulebook remain subject to the ESG disclosures requirements set out therein.
+
+f.
+
+Investment Companies.
+
+g. Branches of foreign companies.
+
+However, the ESG Disclosures Framework may be applied by all ADGM entities on a voluntary basis.
+
+4. Time to comply
+
+A company incorporated in or continued into ADGM will be required to comply with the ESG Disclosures Framework in the third year following its incorporation or continuance if it satisfies the Threshold Conditions. The three-year grace period applies from the date of incorporation or continuance as opposed to the date of amendment of the CR to include the ESG Disclosures Framework. This means an existing company may be required to comply in 2023.
+
+5. Threshold conditions
+
+A company incorporated in or continued into ADGM will be required to comply with the ESG Disclosures Framework if it satisfies the Threshold Conditions, being either a ‘turnover’ threshold or an ‘AUM’ threshold.
+
+The turnover threshold is reached when a company achieves more than US$ 68 million turnover in a financial year. The AUM threshold only applies to FSRA-licensed asset management companies which manage funds and/or portfolios with an aggregate value exceeding US$ 6 billion at any time during such financial year.
+
+The ESG Disclosures Framework does not apply to companies who no longer meet the threshold conditions for two consecutive years or more. Should the company subsequently meet the threshold conditions in a given year, the ESG Disclosures Framework will once again apply.
+
+6. ESG disclosures by companies - turnover threshold
+
+For the purposes of the CR, ‘turnover’ is defined as: the amounts derived from the provision of goods and services falling within a company’s ordinary activities, after the deduction of:
+
+a. trade discounts;
+
+b. value added tax; and
+
+c. any other taxes based on the amounts so derived.
+
+7. ESG disclosures by FSRA fund and asset managers – AUM threshold
+
+The ESG disclosures by FSRA-licensed fund and asset managers are entity-level disclosures relating to how the FSRA company takes ESG-related risks and opportunities into account in managing or administering assets on behalf of clients.
+
+5
+
+VER01.040723
+
+8. Calculation of AUM by asset managers and fund managers
+
+AUM should be calculated in accordance with applicable IAS, or such other international accounting standards as may be applicable to such portfolios or funds.
+
+9. Group annual accounts
+
+A parent company that prepares group accounts should prepare ESG disclosures on the basis of the turnover of the group for the purposes of the company turnover threshold in Section 399A(2)(a) of the CR, and also with reference to provisions in Section 398 of the CR on preparation of group accounts by a parent company.
+
+10. Disclosures standard
+
+A company which is required to prepare and submit ESG disclosures must prepare its submissions consistent with a standard which is globally recognised in the reasonable opinion of the company’s directors. The following is a non-exhaustive list of examples of globally recognised standards:
+
+Carbon Disclosure Project (CDP) • Global Reporting Initiative (GRI) • Higg Index • • Task Force on ESG Financial Disclosures (TCFD) • United Nations Sustainable Development Goals (UNSDG) International Sustainability Standards Board (ISSB)
+
+A company may change the applicable disclosures standard at its discretion.
+
+11. Review

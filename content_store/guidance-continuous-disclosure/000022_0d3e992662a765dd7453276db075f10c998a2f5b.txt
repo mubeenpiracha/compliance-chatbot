@@ -1,0 +1,47 @@
+.
+
+120) As a further example, in the course of preparing a financial disclosure as required under chapter 10 of the Rules, it may become clear to a Listed Entity/Reporting Entity that its reported earnings will differ significantly from those of the previous period. In such a circumstance, the Reporting Entity must immediately Disclose this expected significant difference in earnings under Rule 7.2.1. The Reporting Entity cannot wait until the scheduled release of the reported earnings (within the financial disclosure document) to Disclose the significant difference in earnings. DISCLOSURES – SYSTEMS, CONTROLS & CONTENT
+
+The contents of a Disclosure
+
+121) A Disclosure of Inside Information under Rule 7.2.1 must be accurate, complete and not misleading, as Disclosing materially false or misleading information potentially breaches Rule 7.2.1(2). Opinions expressed in a Disclosure, therefore, are to be honestly held and balanced, and should be clearly identified as a statement of opinion, rather than a statement of fact.
+
+122) Any forward looking statements in a Disclosure, such as earnings, or production, guidance, must also have a reasonable basis in fact, or they will otherwise be deemed as misleading. The Listing Authority encourages the inclusion of material assumptions and qualifications within a Disclosure, as it provides context and will help the market in the Listed Entity’s Securities to understand the basis for, and price in, the forward looking statements.32
+
+123) A Disclosure must be presented in language that is appropriate for publication. It should be factual, relevant and expressed in a clear and objective manner. Emotive, intemperate and defamatory language is not to be used, nor should vague or imprecise terms.
+
+124) Where possible, a Disclosure of Inside Information under Rule 7.2.1 should contain sufficient detail for investors (or their professional advisers) to understand the ramifications of the Disclosed Inside Information, and to assess its impact on the price, or value, of the Listed Entity’s Securities.33 For example, depending on the specific circumstances, a Disclosure that relates to the signing of a contract for a significant acquisition would likely include:
+
+31 The Listing Authority understands, and has no concern with, the market practice of having the Board of a Listed Entity review and approve, in principle, the disclosure of items such as financial reports/statements, preliminary financial report and dividends ahead of their scheduled Disclosure date, and then for the Board to formally approve such items just prior to the release of the relevant Disclosure (for example, on the morning of the Disclosure). One of the reasons supporting this practice is that this can ensure that any significant post-reporting date events can be accurately included in the relevant Disclosure. 32 Refer also to paragraph 154 below. 33 This does not apply to an ‘interim’ or ‘holding’ Disclosure that relates to an uncertain situation. In such circumstances, the Disclosure may only be able to outline the current situation and foreshadow that a further Disclosure will be made when the situation becomes more certain.
+
+25
+
+VER01.280922
+
+a)
+
+details of the assets proposed to be acquired;
+
+b)
+
+details of any material conditions that are required to be satisfied before the agreement becomes legally binding or proceeds to completion;
+
+c)
+
+information about the likely effect of the acquisition on the Listed Entity’s financial position including, but not limited to, total assets, total equity interests, annual revenue, annual expenditure/costs, and annual profit;
+
+d)
+
+if the Listed Entity is proposing to issue Securities as part of, or in conjunction with, the transaction, detailed information about the issue (including its effect on the total issued capital of the Listed Entity, and the (full) purposes for which the funds raised will be used);
+
+e)
+
+if any changes to the Listed Entity’s Board, or senior management, are proposed as a result of the transaction, details of those changes; and
+
+f)
+
+the timetable for implementing the transaction.
+
+125) It is open to a Reporting Entity to include in a Disclosure references or hyperlinks34 to other documents where further information can be found. If those documents, however, have not been Disclosed, the Disclosure referencing these other documents is required to include sufficient detail about significant contents of these documents, such that investors can understand and assess their significance and decide whether they need to read them.35
+
+126) Reporting Entities should not use a Disclosure under Rule 7.2.1 as a mechanism to Disclose

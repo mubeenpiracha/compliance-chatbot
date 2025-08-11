@@ -1,0 +1,109 @@
+ such an insurer, which are set out in this module (see IFR chapter 8). In addition, there are certain activities relating to insurance, such as advising and arranging, which are regulated as Insurance Intermediation (see GEN section 2.19). Persons conducting those activities in relation to Takaful insurance are regulated in the same way as Persons conducting such activities in relation to conventional insurance.
+
+Crypto Tokens
+
+10.
+
+The DFSA regulatory regime for Crypto Tokens applies to Persons who carry on certain Financial Services related to Crypto Tokens, for example, operating a MTF that trades Crypto Tokens or arranging, advising upon, or executing transactions relating to Crypto Tokens. It also applies to Persons who offer or promote Crypto Tokens in or from the DIFC.
+
+11.
+
+A Person may be able to offer Financial Services relating to Crypto Tokens either as an Islamic Financial Institution or through an Islamic Window, subject to the views of their Shari’a Supervisory Board.
+
+5
+
+IFR/VER21/03-25
+
+3
+
+3.1
+
+3.1.1
+
+3.2
+
+3.2.1
+
+3.3
+
+3.3.1
+
+ISLAMIC FINANCE RULES (IFR)
+
+GENERAL OBLIGATIONS
+
+Application
+
+This chapter applies to an Authorised Person which carries on Islamic Financial Business in or from the DIFC.
+
+Guidance
+
+“Authorised Person” is defined in the GLO module as an Authorised Firm or Authorised Market Institution.
+
+Constitution of an Islamic Financial Institution
+
+An Authorised Person which is an Islamic Financial Institution must ensure that its constitutional documents state that its entire business will be conducted in accordance with Shari’a.
+
+Guidance
+
+Article 10 of the Law Regulating Islamic Financial Business 2004 provides that an Islamic Financial Institution is an Authorised Person whose entire business is conducted in accordance with Shari’a.
+
+Systems and controls
+
+(1) An Authorised Firm conducting Islamic Finance Business must establish and maintain systems and controls which enable it to comply with the applicable Shari’a requirements.
+
+(2) An Authorised Firm using a Fund Platform that has one or more Islamic Funds on the Fund Platform must ensure that the Fund Platform has systems and controls which enable the Fund Manager to comply with the applicable Shari’a requirements in respect of the Islamic Funds.
+
+Guidance
+
+1.
+
+This Chapter should be read in conjunction with Chapter 5 of the GEN Module.
+
+2.
+
+Responsibility for ensuring that an Authorised Person complies with Shari’a ultimately rests with its senior management. The systems and controls required by Rule 3.3.1 will assist senior management to ensure that there is such compliance.
+
+3.
+
+The Governing Body should, when setting the business objectives and strategies of the firm and on an on-going basis, make use of the expertise of the firm’s Shari’a Supervisory Board as appropriate.
+
+4.
+
+Similarly, Persons Undertaking Risk Control Functions of the firm, particularly compliance and internal audit, should have easy access to the Shari’a Supervisory Board in relation to matters involving Shari’a compliance.
+
+6
+
+IFR/VER21/03-25
+
+3.4
+
+3.4.1
+
+3.5
+
+ISLAMIC FINANCE RULES (IFR)
+
+5.
+
+The members of the SSB should also have adequate access to the Governing Body, senior management and the Persons Undertaking Key Control Functions as appropriate to ensure that their roles can be effectively discharged.
+
+6.
+
+Both Islamic and conventional Funds can be established on the same Fund Platform, provided the requirements relating to Shari’a compliance are met both as to investments and as to relevant operational matters, and that appropriate governance is in place to achieve this. This would generally require either all the Funds on a Fund Platform to be Islamic Funds, or the Fund Platform to operate through an Islamic Window in the same way as the Fund Manager that is using the Fund Platform.
+
+Policy and procedures manual
+
+An Authorised Person undertaking Islamic Financial Business must implement and maintain an Islamic Financial Business policy and procedures manual which addresses the following matters:
+
+(a)
+
+the manner in which the compliance function will be undertaken, in respect of Shari’a compliance;
+
+(b)
+
+the manner in which the Shari’a Supervisory Board will oversee and advise in regard to the Islamic Financial Business conducted by the Authorised Person;
+
+(c)
+
+the manner in which Shari’a Supervisory Board fatwas, rulings and guidelines will be recorded

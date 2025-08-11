@@ -1,0 +1,93 @@
+ has multiple exchanges of the principal, the notional amount is multiplied by the number of exchanges of principal in the transaction.
+
+Maturity factor
+
+A4.8.15 For the purpose of Rules A4.8.7 to A4.8.11, an Authorised Firm must calculate the
+
+maturity factor, MFi, as follows:
+
+(a)
+
+for transactions included in an Unmargined Netting Set, the maturity factor must be calculated as follows:
+
+MFi = √min (max(Mi;
+
+10 OneBusinessYear
+
+);1)
+
+where:
+
+Mi =
+
+the period between the calculation day (today) and the latest date when the transaction ‘i’ may still be active, measured in years; if a transaction ’i’ has another derivative contract as its underlying and may be physically exercised into the underlying contract, then Mi the contract is the time period between the calculation date and the final settlement date of the underlying transaction. For a transaction that is structured such that on specified dates any outstanding exposure is settled and the terms are reset so that the fair value of the contract is zero, the remaining maturity, Mi , equals the time until the next reset date
+
+OneBusinessYear =
+
+one year expressed in business days
+
+(b)
+
+for transactions included in a Margined Netting Set, the maturity factor must be calculated using the following formula:
+
+MFi = 1.5 ∙ √
+
+𝑀𝑃𝑂𝑅𝑖 𝑂𝑛𝑒𝐵𝑢𝑠𝑖𝑛𝑒𝑠𝑠𝑌𝑒𝑎𝑟
+
+where:
+
+MPORi =
+
+the margin period of risk of the Netting Set, subject to the minimum holding periods specified in Rule A4.8.16
+
+OneBusinessYear =
+
+one year expressed in business days
+
+A4.8.16 (1) For the purpose of determining the margin period of risk of transaction ‘i’, MPORi
+
+referred to in Rule A4.8.15, an Authorised Firm must apply the following floors:
+
+298
+
+PIB/VER50/07-25
+
+A4.8.17
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+(a)
+
+ten business days for non-centrally cleared transactions subject to daily remargining; and
+
+(b)
+
+the sum of nine business days and the remargining period for non-centrally cleared transactions that are not subject to daily remargining.
+
+(2) Under the following circumstances, an Authorised Firm must apply a higher
+
+minimum holding period:
+
+(a)
+
+for a Netting Set consisting of more than 5,000 transactions at any point during a quarter, the minimum holding period of risk is 20 business days;
+
+(b)
+
+for a Netting Set containing one or more transactions involving either illiquid Collateral or an OTC derivative that cannot be easily replaced, the minimum holding period of risk is 20 business days; and
+
+(c)
+
+if an Authorised Firm has experienced more than two margin call disputes on a particular Netting Set over the previous two quarters that have lasted longer than the applicable minimum holding period (before consideration of this provision), the Authorised Firm must use a minimum holding period that is at least double the supervisory floor for that Netting Set for the subsequent two quarters.
+
+Guidance
+
+1.
+
+In Rule A4.8.16 (2)(b), the terms ‘illiquid Collateral’ and ‘OTC derivatives that cannot be easily replaced’ should be determined in the context of stressed market conditions and characterised by the absence of continuously active markets where a Counterparty would, with two or fewer days, obtain multiple price quotations that would not move the market or represent a price reflecting a market discount (in the case of Collateral) or premium (in the case of an OTC derivative). Examples of situations where transactions are deemed illiquid for this purpose include, transactions that are not marked daily and transactions that are subject to specific accounting treatment for valuation purposes (for example OTC derivatives referencing securities whose fair value is determined by models with inputs that are not observed in the market).
+
+2.
+
+Under Rule A4.8.16 (2)(c), an Authorised Firm should take into account only Variation Margin call disputes.
+
+Effective not

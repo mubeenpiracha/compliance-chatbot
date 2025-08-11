@@ -1,0 +1,101 @@
+ initial annual fee must be paid to the DFSA:
+
+(a)
+
+in the case of a Public Fund, at the time of registration; and
+
+(b)
+
+in the case of an Exempt Fund or Qualified Investor Fund, at the time of notification to the DFSA pursuant to Article 34 of the Collective Investment Law 2010.
+
+(3)
+
+The initial annual fee is $1000 for a Venture Capital Fund or $4,000 for any other type of Fund, multiplied in either case by the number of whole months between the date of registration or notification and the end of the calendar year and then divided by 12.
+
+3.10 Domestic Funds (subsequent periods)
+
+3.10.1
+
+(1) A Fund Manager must pay to the DFSA in respect of each Domestic Fund for which it is the Fund Manager the annual fee prescribed in (2) for any period after the initial period described in Rule 3.9.1.
+
+(2)
+
+The annual fee for any period after the initial period is:
+
+(a)
+
+for a Venture Capital Fund, $1,000; or
+
+(b)
+
+for any other type of Fund, $4,000.
+
+3.10A Passported Fund
+
+3.10A.1 (1) A Fund Manager must pay to the DFSA an annual fee of $2,000 in
+
+respect of each Passported Fund for which it is the Manager.
+
+(2) For the purposes of calculating the fee under (1), if the Fund is an umbrella fund, including, without limitation, a segregated portfolio company or cell company, a fee must be paid for each sub-fund, segregated portfolio or cell, as the case may be, instead of for the umbrella fund, segregated portfolio company or cell company.
+
+(3) The initial annual fee is payable in respect of the twelve month period following notification of intention to be a Passported Fund and any subsequent annual fee is payable in respect of the twelve month period commencing on the anniversary of that date.
+
+Guidance
+
+The annual fee in Rule 3.10A.1 is payable only where the DFSA is the Home Regulator of the Passported Fund (see FPR section 7).
+
+3.10B External Fund Managers (initial and subsequent periods)
+
+3.10B.1 (1) An External Fund Manager must pay to the DFSA:
+
+(a)
+
+the initial annual fee prescribed in (3); and
+
+22
+
+FER/VER33/07-25
+
+FEES MODULE (FER)
+
+(b)
+
+the annual fee prescribed in (4).
+
+(2)
+
+The initial annual fee must be paid to the DFSA on the day that the External Fund Manager commences managing a Domestic Fund of the type referred to in Article 20(5)(b) of the Collective Investment Law 2010.
+
+(3)
+
+The initial annual fee is the fee prescribed in (4) multiplied by the number of whole calendar months between the date referred to in (2) and the end of the calendar year and then divided by 12.
+
+(4)
+
+The annual fee is the fee specified in the table in Rule 3.2.1(3) that is payable by an Authorised Firm that Manages a Collective Investment Fund.
+
+3.11 Listed Entities
+
+3.11.1
+
+(1) A Listed Entity, other than a SME, that has equity securities admitted to the Official List of Securities must pay to the DFSA an annual fee consisting of $2,500 plus the additional fee (if any) calculated in accordance with the table to this Rule.
+
+Table
+
+Additional Fee Market millions of the Listed Entity
+
+capitalisation
+
+0 to 100 >100 to 500 >500 to 5,000 >5,000 to 10,000 >Greater than 10,000
+
+in USD
+
+Fee payable in respect of each USD million of market capitalisation $0 $5 $1 $0.50 $0.25
+
+(2) A Listed Entity that is a SME that has equity securities admitted to the Official List of Securities must pay to the DFSA an annual fee of $10,000.
+
+(3)
+
+In (1) and (2), “equity securities” means Shares, Certificates over Shares, Warrants over Shares and Units in a Foreign Fund.
+
+(4) For the purposes of the table to (1), the market capitalisation of the Listed Entity must be determined as at the last business

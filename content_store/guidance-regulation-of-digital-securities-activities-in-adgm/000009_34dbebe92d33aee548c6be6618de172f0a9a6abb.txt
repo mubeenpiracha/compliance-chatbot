@@ -1,0 +1,25 @@
+ view that where an Applicant seeks to provide custody services within its Group, this can only occur via a separate legal entity appropriately licenced for such activities (see paragraphs 53 and 59 on RCHs and DSFs respectively);11 and
+
+c) MIR Rule 3.2.1 – Capital Requirements: Pursuant to this Rule, RIEs operating a market in Digital Securities will generally be required to hold 12 months operating expenses as regulatory capital.12
+
+44) Application of MIR Chapter 3: As noted in paragraph 41 above, where an Applicant applies to become a RIE, the entirety of MIR Chapter 3 (Rules Applicable to RIEs) will apply. Applicants, however, should also take note of the following:
+
+a) MIR Rule 3.8 (Settlement and Clearing Services): MIR Rule 3.8 requires a RIE to ensure that “satisfactory arrangements are made for securing the timely discharge (whether by performance, compromise or otherwise), Clearing and settlement of the rights and liabilities of the parties…” The FSRA’s policy position in this regard is that clearing and settlement of Digital Securities can be undertaken by either a RCH or a DSF (see paragraphs 51 - 61). Further guidance on the clearing and settlement obligations of a RCH is set out at paragraphs 51 - 52 and further guidance in relation to a DSF is outlined at paragraphs 55 - 61. The FSRA has not yet formed a view as to whether Remote Clearing Houses would be suitable for this purpose. Until such time that the FSRA forms such a view, it will be the general FSRA position that a RIE/MTF seeking to meet MIR Rule 3.8 will only be able to do so by engaging an FSRA-regulated RCH or DSF.
+
+b) MIR Rules 3.5, 3.6 and 2.5 (normal trading hours): While a RIE’s technology may facilitate its market operating for 24 hours, 7 days a week, RIEs (including those operating Digital Securities markets) will be expected to operate on the same basis/market timings as how Securities markets are conducted globally. This is to continuous disclosure that ensure, amongst other obligations/market requirements /supervisory requirements can be suitably met (by the RIE itself, as well as for the FSRA, relevant Issuers, Reporting Entities and investors).
+
+things,
+
+the RIE’s
+
+10 MIR Rule 2.10 requires that for a Recognised Body ‘where its facilities include making provision for the safeguarding and administration of assets belonging to users of those facilities, satisfactory arrangements are made for that purpose with an appropriate custodian or settlement facility’. 11 This is distinctly different to the view currently taken by FSRA in relation to MTFs (using Virtual Assets) which are also permitted to operate, subject to suitable internal segregation, as Virtual Asset Custodians. 12 For further insight on issues relating to FSRA treatment of MIR Rule 3.2.1, please refer to paragraphs 31-36 of the Virtual Asset Guidance.
+
+VER02.240220
+
+15
+
+Multilateral Trading Facilities (MTFs)
+
+45) Applicants wishing to operate as an MTF within ADGM may apply for a Financial Services Permission (FSP) to do so. Where an Applicant seeks to be licenced as an MTF, COBS Chapter 8 and the MIR Rules set out in COBS Rule 8.2 shall apply (being MIR Rules 2.6, 2.7, 2.8, 2.9, 2.11, 3.3, 3.7, 3.8 and 3.10). As an Authorised Person, an MTF also needs to comply with the wider Rulebooks relevant to all Authorised Persons, including COBS, GEN and AML.
+
+46) MTFs may operate as a primary trading venue for Digital Securities offered and issued by way of an Exempt Offer, provided that membership and trading is limited to non-retail clients only. As set out in paragraphs 16 and 32 of this Guidance, an Issuer wishing to make an Exempt Offer in order to have its Digital Securities admitted to trading on an MTF will need to ensure that it includes all required information in its

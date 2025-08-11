@@ -1,0 +1,123 @@
+ stated to comply with Rule A4.1.1 (a) in this Appendix.
+
+2.
+
+In producing a Safe Custody Auditor’s Report an Auditor will need to consider which parts of COB App 6 are relevant to the Authorised Firm and only include an opinion to the extent relevant to the Authorised Firm’s activity.
+
+30
+
+AUD/VER9/07-25
+
+Auditor Module (AUD)
+
+APP5 FUND AUDITOR’S REPORT
+
+A5.1.1
+
+In producing a Fund Auditor’s Report, an Auditor must state:
+
+(a) whether the financial statements have been properly prepared in accordance with the financial reporting standards adopted by the Fund in accordance with the Collective Investment Rules in the Rulebook and the Constitution;
+
+(b) whether the financial statements give a true and fair view of the financial position of the Fund, including the net income and the net gains or losses of the Fund Property, or, as the case may be, the Fund Property attributable to the Sub-Fund for the annual accounting period in question and the financial position of the Fund or Sub- Fund as at the end of the annual accounting period;
+
+(c) whether proper accounting records for the Fund, or as the case may be, Sub-Fund have not been kept, or that the financial statements are not in agreement with the accounting records and returns, or that the financial statements do not comply with the applicable financial reporting standards;
+
+(d) whether it has been given all the information and explanations which, to the best of
+
+its knowledge and belief, are necessary for the purposes of its audit;
+
+(e) whether the information given in the report of the directors or in the report of the Fund Manager for that period is consistent with the financial statements; and
+
+(f)
+
+any other matter or opinion required by the Regulatory Law or the Rules.
+
+31
+
+AUD/VER9/07-25
+
+Auditor Module (AUD)
+
+APP6 PUBLIC LISTED COMPANY AUDITOR’S REPORT
+
+A6.1.1
+
+In producing a Public Listed Company Auditor’s Report, an Auditor must state whether the financial statements have been properly prepared in accordance with the Rules in MKT.
+
+32
+
+AUD/VER9/07-25
+
+Auditor Module (AUD)
+
+APP7 MONEY SERVICES AUDITOR’S REPORT
+
+A7.1.1
+
+In producing a Money Services Auditor’s Report, an Auditor must state as at the date on which the Authorised Firm’s audited statement of financial position was prepared:
+
+(a)
+
+the nature of the Money Services, Account Information Services or Payment Initiation Services carried on by the firm during the previous 12 months;
+
+(b)
+
+the amount of Client Money the firm was holding or controlling in connection with Money Services activities;
+
+(c)
+
+accounting information relevant to each Money Services activity carried on by the firm, including:
+
+(i)
+
+the amount of Stored Value on issue as at the relevant date;
+
+(ii)
+
+the amount of Stored Value redeemed during the previous 12 months;
+
+(iii)
+
+the amount of new Stored Value issued in the previous 12 months;
+
+(iv)
+
+the amount of funds held in Payment Accounts at the relevant date;
+
+(v)
+
+the amount of funds paid into Payment Accounts during the previous 12 months;
+
+(vi)
+
+the amount of funds paid out from Payment Accounts during the previous 12 months; and
+
+(vii)
+
+the number of Payment Transactions processed during the previous 12 months;
+
+(d) an opinion on whether the firm is contravening, or has contravened in the previous 12 months, any requirements or conditions imposed on the Authorised Firm in relation to the carrying on of Money Services, Account Information Services or Payment Initiation Services and details of any contravention and its materiality;
+
+(e) an expert opinion from a qualified security specialist on the adequacy of the security
+
+measures adopted by the firm in relation to:
+
+(i) when to apply (or not to apply) strong customer authentication within the meaning of PIB section 6.13, based on the assessment of risk factors;
+
+(ii)
+
+protecting the confidentiality and the integrity of the User's personal security credentials; and
+
+(iii) establishing common and secure standards for communicating with
+
+Payment Service Providers and Users of Payment Services;
+
+(f) whether the firm complies with relevant Rules imposing standards, including information technology systems and controls and security and authentication for the
+
+33
+
+AUD/VER9/07-25
+
+Auditor Module (AUD)
+
+carrying on of Money Services, Account

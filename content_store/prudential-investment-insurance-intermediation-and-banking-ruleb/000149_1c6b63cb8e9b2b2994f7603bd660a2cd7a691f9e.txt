@@ -1,0 +1,97 @@
+ should be retained for at least six years, subject to any requirement in the Rules requiring such records to be kept for a longer period.
+
+269
+
+PRU VER17.290725
+
+69.
+
+It is important that sound and legally enforceable documentation is in place for each credit agreement as this may be called upon in the event of a default or dispute. An Authorised Person should therefore consider whether it is appropriate for an independent legal opinion to be sought on documentation used by the Authorised Person. Documentation should be in place before the Authorised Person enters into a contractual obligation or releases funds.
+
+Country and transfer risk Exposure
+
+70. Country risk is the risk of exposure to loss caused by events in a foreign country. Country risk includes, among others:
+
+a.
+
+political risks i.e., potential of war, civil riot and other politically-motivated events; and;
+
+b.
+
+sovereign risk i.e., the possibility that a sovereign debtor cannot or is not willing to meet its financial obligations.
+
+County risk covers all forms of lending, trading or investment activity involving individual, corporates, banks or governments.
+
+71.
+
+Transfer risk is the risk of inability of a debtor in a given country to meet their financial obligations due to lack of availability of the currency in which the obligation is denominated regardless of the debtor’s particular financial condition. The inability to convert local currency into another nation’s currency could arise due to regulatory, exchange or other restrictions.
+
+72. An Authorised Person must develop and document its risk management processes for its operations and resources deployed outside the country. An Authorised Person’s country risk management framework should include appropriate policies and procedures to identify, measure, evaluate, monitor, report on and mitigate country risk. Such policies and procedures should be proportionate to the nature, size and complexity of an Authorised Persons’ operations and resources outside the country.
+
+73. An Authorised Person’s country risk or transfer risk policy should include, among other things:
+
+a.
+
+the methodology of country classification, exposure limits and stress testing, among other aspects, that are proportionate to the degree of size and complexity of country risk and transfer risk arising from its Exposures;
+
+b.
+
+identification of the geographical areas in which the Authorised Person does or intends to do business;
+
+c.
+
+its procedures to identify country risk and transfer risks (such as exchange restrictions) associated with doing business in each country or region;
+
+d.
+
+how to measure its total Exposure in each country or region and across several countries or regions;
+
+270
+
+PRU VER17.290725
+
+e.
+
+the types of business the Authorised Person intends to undertake in each country or region;
+
+f.
+
+limits on Exposures to an individual country or region which the Authorised Person deals with, and sub limits for different types of business if appropriate;
+
+g.
+
+the procedure for setting and reviewing country or regional limits;
+
+h.
+
+the process by which the Authorised Person's actual country or regional Exposures will be monitored against limits and the procedure to be followed if the limits are breached;
+
+i.
+
+the provisioning policy in relation to country risk and transfer risk, and detailed description of the methodology used for calculation of any such provisions;
+
+j.
+
+the methodology for conducting stress testing for country risk and transfer risk should include, among other considerations, elements such as the locally and globally, deterioration of macroeconomic conditions contagion effects between countries, liquidity events, impacts on funding sources etc.;
+
+k.
+
+policies around reporting in their disclosures, including its financial statements or annual reports, such information that will allow users to evaluate its country risk and transfer risk management framework, the amount of provisions for country risk and transfer risk and its overall country risk profile related to its operations, assets, liabilities and contingencies that are maintained outside of ADGM and the UAE; and
+
+l.
+
+documenting the roles and responsibilities of the different functions of the Authorised Person involved in managing country risk and transfer risk.
+
+74. When setting country or regional limits, an Authorised Person should consider:
+
+a.
+
+the macroeconomic circumstances prevailing in the country of region, including its:
+
+(i)
+
+external financial condition i.e., its capacity to fulfil its financial commitments. This will include consideration of indicators such as total debt, foreign debt, maturity profile of debt, debt service as a percentage of its gross domestic product, exports, international reserves, amongst other indicators;
+
+(ii)
+
+sources of and access to funding whether through voluntary markets, bilaterally or through multilateral organisations, including any sovereign

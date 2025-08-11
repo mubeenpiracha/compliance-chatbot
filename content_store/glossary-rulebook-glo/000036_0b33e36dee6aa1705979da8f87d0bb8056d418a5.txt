@@ -1,0 +1,181 @@
+ Exchange has been made, and which are the subject of a Significant Distribution.
+
+71
+
+GLO VER23.290725
+
+Defined Terms
+
+Definitions
+
+Remote Body
+
+Means a Remote Investment Exchange or Remote Clearing House which has been granted a Recognition Order in accordance with section 127 of FSMR.
+
+Remote Clearing House Means a clearing house operating outside the ADGM which has been granted a Recognition Order in accordance with section 127(2)(b) of FSMR.
+
+Remote Investment Exchange
+
+investment exchange or multilateral trading facility Means an operating outside the ADGM which has been granted a Recognition Order in accordance with section 127(2)(a) of FSMR.
+
+Remote Member
+
+Means a person located in a jurisdiction other than ADGM which has been granted a Recognition Order under section 138A of FSMR.
+
+Remote Member Requirements
+
+Means the requirements set out in MIR 8.2.2 in relation to the granting of a Recognition Order under section 138A of FSMR to a Remote Member.
+
+Remote Recognition Requirements
+
+Means the requirements set out in MIR 7.2.2 in relation to the granting of a Recognition Order under section 127 of FSMR to a Remote Body.
+
+Remuneration
+
+Means any form of remuneration, including benefits of any kind.
+
+Replacement Prospectus
+
+Means a replacement Prospectus produced in accordance with FUNDS 9.3.1, as applicable.
+
+Reporting Entity
+
+Has the meaning given in section 72 of FSMR.
+
+Representative Office
+
+Means the business operations of Person authorised to carry on the Regulated Activity of Operating a Representative Office in ADGM and which actually carries on the Regulated Activity of Operating a Representative Office.
+
+Reserve Account
+
+Means an account established with:
+
+(a)
+
+an Authorised Person which is authorised under its Financial Services Permission to Provide Custody; or
+
+(b)
+
+a Third-Party Agent located outside ADGM,
+
+which is intended to hold Reserve Investments.
+
+Reserve Assets
+
+Means:
+
+(a) Relevant Money arising from undertaking the Regulated Activity
+
+of Issuing a Fiat-Referenced Token; and
+
+72
+
+GLO VER23.290725
+
+Defined Terms
+
+Reserve Investments
+
+Resolution Pack
+
+Responsible Officer
+
+Restricted Party Associate
+
+Restricted Person
+
+Restricted Profit Sharing Investment Accounts (Restricted PSIA)
+
+Restricted Securities
+
+Definitions
+
+(b) Reserve Investments.
+
+Means:
+
+(a)
+
+cash equivalents and debt securities with up to three-month residual maturity issued by;
+
+(i)
+
+the government or central bank of the jurisdiction of the fiat currency to which the Fiat-Referenced Token is referenced; or
+
+(ii)
+
+organisations that are of both a governmental and an international nature of Credit Quality Grade 1 for CR Exposures;
+
+(b) money-market funds which invest in government debt, subject
+
+to Regulator-approved;
+
+(g)
+
+limits on the value of Reserve Investments to be held in such funds; and
+
+(ii)
+
+credit ratings of such funds; and
+
+(c)
+
+overnight reverse repurchase agreements overcollateralised by debt securities issued by a government or central bank of pegged currency, with a counterparty that is not affiliated with the issuer and is of strong financial standing.
+
+Means the documents and records specified in COBS 16.3.1 and 16.4.1.
+
+Means the Approved Function described in GEN 5.3.9.
+
+Means a spouse or a child of Restricted Person.
+
+Has the meaning given in MKT 9.4.1(2).
+
+Means a PSIA in respect of the investment account holder imposes certain restrictions as to where, how and for what purpose his funds are to be invested.
+
+Means Securities:
+
+(a)
+
+issued in the circumstances set out in APP 7 of MKT; or
+
+(b)
+
+that, in the opinion of the Regulator, should be treated as Restricted Securities.
+
+73
+
+GLO VER23.290725
+
+Defined Terms
+
+Restricted Scope Company
+
+Restriction Agreement
+
+Restriction Period
+
+Retail Client
+
+Retail Debenture or Sukuk
+
+Retakaful
+
+Reverse Takeover
+
+Rules
+
+Rulebooks
+
+Safe Custody Asset
+
+Safe Custody Auditor's Report
+
+Definitions
+
+Has the meaning given in section 3(4) of the Companies Regulations.
+
+Means an agreement in the form set out in MKT Form 9-1.
+
+Means the specified time during which Restricted Securities are subject to a Restriction Agreement and cannot be disposed of by the Security Holder and/or Controller.
+
+Means a Client specified under

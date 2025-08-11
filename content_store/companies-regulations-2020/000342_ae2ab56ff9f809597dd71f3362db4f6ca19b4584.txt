@@ -1,0 +1,148 @@
+ 6,
+
+“officer”, in relation to a body corporate, includes a director, a manager, a secretary or, where the affairs of the body are managed by its members, a member,
+
+“parent undertaking” and “subsidiary undertaking” are to be read in accordance with section 1018 and Schedule 7.
+
+575
+
+(2)
+
+The Board may make such modifications of this Part as appear to it to be necessary or appropriate for the purposes of its application in relation to any firm, or description of firm, which is not a body corporate or a partnership.
+
+Part 36
+
+CELL COMPANIES
+
+Chapter 1
+
+GENERAL PROVISIONS
+
+1047. Cell companies
+
+(1)
+
+A company is an incorporated cell company if its articles provide that it is an incorporated cell company.
+
+(2)
+
+A company is a protected cell company if its articles provide that it is a protected cell company.
+
+(3)
+
+A cell company may be−
+
+(a)
+
+a public or private company, and
+
+(b)
+
+a limited company (whether limited by shares or by guarantee) or an unlimited company.
+
+(4)
+
+A cell company cannot be a restricted scope company and a restricted scope company cannot be or become a cell company.
+
+1048. Cell companies may create cells
+
+(1)
+
+A cell company may, by special resolution by its non-cell members, resolve to create one or more cells.
+
+(2)
+
+That special resolution−
+
+(a)
+
+must assign to the cell a name that complies with these Regulations and rules made by the Registrar, and
+
+(b)
+
+must specify the terms of the articles of the cell that will apply to the cell in compliance with Chapter 2 of Part 3 (articles of association) of these Regulations.
+
+(3)
+
+A cell company may provide in the special resolution mentioned in subsection (1) that a cell it creates shall be wound up and dissolved upon−
+
+(a)
+
+the bankruptcy, winding up, death, expulsion, insanity, resignation or retirement of any cellular member of the cell, or
+
+(b)
+
+the happening of some other event that is not the expiration of a fixed period of time, or
+
+(c)
+
+the expiration of a fixed period of time,
+
+and this shall be taken to form part of the articles of that cell.
+
+576
+
+(4)
+
+A cell company may also provide in the special resolution mentioned in subsection (1)−
+
+(a)
+
+that, in respect of the cell it creates, there may be issued shares in one or more classes, or
+
+(b)
+
+that the cell it creates may have a guarantee member or guarantee members and this shall be taken to form part of the articles of that cell.
+
+(5)
+
+There shall be taken to be included in the articles of a cell–
+
+(a)
+
+a provision that the cell may not own shares in, or otherwise be a member of, its cell company, and
+
+(b)
+
+unless the contrary intention appears in the articles, a provision that the cell may own shares in, or otherwise be a member of, any other cell of its cell company.
+
+(6)
+
+The articles of a cell may be amended–
+
+(a)
+
+in the manner set out in those articles, or
+
+(b)
+
+in the absence of such a provision, by special resolution of both the cell and of the company of which it is a cell.
+
+1049. Effect of filing of special resolution creating a cell
+
+(1) When a cell company resolves by special resolution to create a cell, it shall file the resolution in accordance with section 27 (resolutions or agreements to be forwarded to Registrar) with the Registrar. The cell company must include with such filing such evidence as the Registrar may require that the creation of such cell has been approved by the Financial Services Regulator.
+
+(2)
+
+A special resolution filed in accordance with subsection (1) shall have effect as if it were an application for registration delivered to the Registrar in accordance with section 6 (registration documents) for the purposes of applying to form a company in accordance with that section.
+
+(3)
+
+The cell shall be taken to have been created when the Registrar issues–
+
+(a)
+
+in the case of a cell of an incorporated cell company, a certificate of incorporation in respect of the cell, or
+
+(b)
+
+in the case of a cell of a protected cell company, a certificate of recognition in respect of the cell.
+
+1050. Status of cells
+
+(1)
+
+Subject to this section, a cell of a cell company–
+
+(a)
+

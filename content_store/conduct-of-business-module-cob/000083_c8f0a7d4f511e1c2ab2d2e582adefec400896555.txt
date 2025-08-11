@@ -1,0 +1,77 @@
+an entity which is authorised and supervised by a Financial Services Regulator acceptable to the DFSA for the activity of clearing and settlement services and is operating under broadly equivalent standards as defined under Chapter 7 of the AMI module; and
+
+(b)
+
+notification of such arrangements (including any changes thereto) is the provided arrangements and the DFSA has not objected to such arrangements within that period.
+
+to
+
+the DFSA at
+
+least 30 days before making
+
+(3)
+
+An ATS Operator of a MTF that trades Crypto Tokens must ensure that clearing and settlement of transactions on the MTF takes place only by means of fiat currencies or Fiat Crypto Tokens that are Recognised Crypto Tokens.
+
+Guidance
+
+1.
+
+An ATS Operator is not authorised under its Licence to provide clearing and settlement services. Therefore, it must make suitable arrangements relating to clearing and settlement of transactions that are undertaken on its facility. For this purpose, it may arrange for its members to obtain such services from an appropriately licensed Person.
+
+2.
+
+For the clearing and settlement of Crypto Tokens, the DFSA would still expect to see an appropriately licensed entity interposed between counterparties to trades taking place on a MTF. However, due to a combination of reasons (e.g. lack of general regulation, absence of service providers, immature technologies and business models, interoperability issues between fiat and token markets), the ATS Operator may not be able to demonstrate proper clearing arrangements through a Central Counterparty at this stage of token market development.
+
+3.
+
+Where proper clearing arrangements through a Central Counterparty are not possible for a Crypto Token MTF, for reasons beyond the control of the ATS Operator, the DFSA may consider alternative arrangements, on a case-by-case basis to satisfy itself of the appropriateness of the clearing and settlement arrangements. Given the range of potential technological solutions for clearing and settlement of Crypto Tokens (such as off-chain settlement systems, pre-funded trading, smart contracts and atomic swaps, interoperability solutions, order internalisation mechanisms) an ATS Operator may demonstrate that it has satisfactory arrangements through any one of the following arrangements:
+
+a.
+
+Technological excellence: that is, the possibility that now, or at some point in the future, ATS Operators can demonstrate technological excellence that overcomes any current this would mean demonstrating real time on-chain functionality that leads to an immediate reflection of instant settlement finality and irrevocability of trades. In this instance, the DFSA might find that settlement and counterparty risks are substantially addressed through the trading system and
+
+limitations
+
+in post-trade
+
+facilities. Effectively,
+
+trades across various blockchains, with
+
+123
+
+COB/VER48/03-25
+
+4.
+
+CONDUCT OF BUSINESS (COB)
+
+therefore that the arrangements are satisfactory. However, the DFSA is not aware of any market operator internationally that has successfully implemented a real-time on- chain settlement model. Until workable solutions are found around the fundamental bottlenecks of distributed ledgers (e.g., scalability, security, high fees, environmental costs), real-time on-chain settlement systems might not emerge soon; or
+
+b.
+
+Clearing guarantee fund: that is, where the ATS Operator is unable to clear the trades against a CCP or demonstrate a real-time on-chain settlement arrangement, and that transactions are usually cleared off-chain before relevant updates are reflected on the blockchain to clear the latest batch of trades. This may take from several hours to several days, to an unsatisfactory situation, where settlement and counterparty risks are outside of the ATS Operator’s control. In this scenario, we would expect the ATS Operator to be able to demonstrate broadly equivalent standards as defined in Chapter 7 of the AMI module, as well as holding sufficient financial resources (a ‘clearing guarantee fund’) to cover the settlement and counterparty risk that is not removed from the system. We would expect the ATS Operator to:
+
+leading
+
+i.
+
+assess the risks associated with clearing and settlement on the MTF;
+
+ii.
+
+calculate the amount of clearing guarantee fund that is necessary;
+
+iii.
+
+recalibrate the figures in base and stress scenarios, for both spot and futures trades;
+
+iv.
+
+at all times, maintain enough capital resources to cover any drawdowns on the fund, over and above the buffers required to meet the minimum regulatory capital; and
+
+v.
+
+on an annual basis, present to the DFSA for approval the methodology and results of assessing the clearing and settlement risks, calculating the amount of the fund, designing

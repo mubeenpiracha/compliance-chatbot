@@ -1,0 +1,105 @@
+ trading activities, an Authorised Person should consider the following:
+
+a.
+
+staff members in support and control functions, comprising functions such as operations, settlement, finance, risk management, legal, compliance, internal and external audit, should have adequate representation and authority within the Authorised Person's overall governance framework so as to be able to effectively challenge the activities undertaken by the front office;
+
+b.
+
+Operational Risk management systems should set criteria, indicators and thresholds enabling the identification of material incidents detected by internal control procedures. This should include tracking of Operational Risk losses in trading activities and analysis of those losses for possible interconnections (i.e. losses based on one event or root cause);
+
+c.
+
+high professional standards and a sound risk culture should be promoted within the Authorised Person, particularly in the front office, in a way that supports professional and responsible behaviour. This should include, but is not limited to, developing and implementing appropriate policies and procedures, setting standards (often in the form of a "code of conduct") for relations between traders and their counterparts, and training procedures;
+
+d.
+
+there should be adequate segregation of duties between front office and the support and controls functions in charge of supporting, verifying and monitoring trade transactions;
+
+194
+
+PRU VER17.290725
+
+e.
+
+f.
+
+g.
+
+h.
+
+i.
+
+j.
+
+k.
+
+appropriate policies and procedures relating to leave requirements and staff movements should be developed, implemented and regularly monitored; in particular:
+
+i.
+
+procedures establishing a minimum absence requirement of at least two consecutive weeks' leave for traders (via a vacation, "desk holiday" or other absence from the office or trading) so that traders are physically unable to mark or value their own books, this responsibility being carried out by a different Person during those periods; and
+
+ii.
+
+Employees changing job positions between front, middle and back offices or IT should be properly tracked.
+
+terms of reference describing the activity of each trader or group of traders should be established. Adherence to these terms should be subject to monitoring by support and control functions;
+
+documentation requirements for trading activities should be properly defined so as to minimise legal uncertainties in enforceability of contracts with clients and Counterparties. This should include consideration of using contracts that are standardised as far as possible, particularly in OTC transactions;
+
+all trading positions, profits and losses, cash flows and calculations associated with a transaction should be clearly recorded in the Authorised Person's management information systems with a documented audit trail. The audit trail should allow for the tracing of cash flows at a sufficiently granular level (e.g. traders, books, products and portfolios);
+
+appropriate procedures for confirmation of the terms and conditions of transactions with external Counterparties/clients should be established;
+
+appropriate processes and procedures should be implemented for the settlement of transactions. This should include consideration of the following elements:
+
+i.
+
+the authorisation of inputs by the back office;
+
+ii.
+
+payment/settlements carried out against independent documents;
+
+iii.
+
+reconciliation between front office and back office systems; and
+
+iv.
+
+reconciliation procedures independent of the processing functions.
+
+controls should include daily reconciliation of positions and cash flows across various internal systems and external parties. The reconciliations should include all events attached to the transactions including amendments, cancellation, exercises, resets and expiries;
+
+195
+
+PRU VER17.290725
+
+l.
+
+procedures and processes should be established to ensure accurate and timely monitoring and follow up of margin or Collateral calls;
+
+m.
+
+profit attribution is a key control for understanding the risk in a trading operation and therefore the control and support functions should have a good understanding of the various aspects that lead to P&L generation, particularly in relation to more complex products. Major implausibilities discovered within the P&L in the context of the trading mandate and market developments should be further analysed to see if they are caused by Operational Risk events; and
+
+n.
+
+control procedures should be established to monitor and escalate unusual transactions, anomalies in confirmation and reconciliation processes, errors in recording, processing and settling transactions, along with cancellations, amendments, late trades and off-market rates.
+
+6.11
+
+Operational Risk Capital Requirement
+
+6.11.1
+
+This Section applies to an Authorised Person in Category 1, 2, 3A or 5.
+
+6.11.2
+
+(1)
+
+An Authorised Person must, subject to (2), use the Basic Indicator Approach as prescribed in App7 to calculate its Operational Risk Capital Requirement.
+
+(2

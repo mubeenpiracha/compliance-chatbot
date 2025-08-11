@@ -1,0 +1,138 @@
+(b)
+
+if the permission has been varied or the requirement imposed or varied, not to rescind the variation of the permission or the imposition or variation of the requirement;
+
+it must give A written notice.
+
+If, having considered any representations made by A, the Regulator decides—
+
+(a)
+
+not to vary the permission, or impose or vary the requirement, in the way proposed;
+
+(b)
+
+to vary the permission or requirement in a different way, or impose a different requirement; or
+
+(c)
+
+to rescind a variation or requirement which has effect;
+
+it must give A written notice.
+
+A notice under subsection (7) must inform A of A's right to refer the matter to the Appeals Panel.
+
+A notice under subsection (8)(b) must comply with subsection (5).
+
+For the purposes of subsection (2)(c), whether a matter is open to review is to be determined in accordance with section 252(7).
+
+29
+
+Part 5 Performance of Controlled Functions22
+
+Approval
+
+43.
+
+Approval to perform Controlled Functions23
+
+(1)
+
+An Authorised Person ("A") must take reasonable care to ensure that no person performs a Controlled Function in the business of A that is specified in the Rules as a Controlled Function requiring the Regulator’s approval, unless that person is an Approved Person acting in accordance with an Approval given by the Regulator under this Part in relation to that function.
+
+(2)
+
+A person ("P") must not perform a Controlled Function in the business of an Authorised Person that is specified in the Rules as a Controlled Function requiring the Regulator’s approval, unless P is an Approved Person acting in accordance with an Approval given by the Regulator under this Part in relation to that function.
+
+44.
+
+Applications for Approval
+
+(1)
+
+An Application for Approval to perform a Controlled Function in the business of an Authorised Person may be made by the Authorised Person.
+
+(2)
+
+Such Application may be made by a person who has applied for a Financial Services Permission and will become an Authorised Person if a Financial Services Permission is granted.
+
+(3)
+
+The Application must—
+
+(a)
+
+comply with any applicable Rules made by the Regulator;
+
+(b)
+
+contain, or be accompanied by, such other information as the Regulator may reasonably require; and
+
+(c)
+
+be made in such manner as the Regulator may direct.
+
+(4)
+
+At any time after the Application is received and before it is determined, the Regulator may require the Applicant to provide it with such further information as it reasonably considers necessary to enable it to determine the Application.
+
+(5)
+
+Different directions may be given, and different requirements imposed by the Regulator, in relation to different Applications or categories of Application.
+
+(6)
+
+If the Regulator decides to grant an Application made under this section, it must give written notice of its decision to each of the Interested Parties.
+
+22 Amended 12 December 2023.
+
+23 Amended 12 December 2023.
+
+30
+
+(7)
+
+The Regulator may require an Applicant to provide information which the Applicant is required to provide to it under this section in such form, or to verify it in such a way, as the Regulator may direct.
+
+45.
+
+Determination of Application to carry out Controlled Functions
+
+(1)
+
+The Regulator may grant the Application only if it is satisfied that the person in respect of whom the Application is made is a fit and proper person to perform the Controlled Function to which the Application relates.
+
+(2)
+
+The Regulator may in particular—
+
+(a)
+
+grant the Application subject to any conditions that the Regulator considers appropriate; and
+
+(b)
+
+grant the Application so as to give Approval only for a limited period;
+
+if it appears to the Regulator that it is desirable to do so in order to further one or more of its objectives.
+
+(3)
+
+A person who makes an Application under section 44 may withdraw his Application by giving written notice to the Regulator at any time before the Regulator determines it.
+
+46. Withdrawal of Controlled Function Approval
+
+The Regulator may withdraw an Approval given under section 45 if the Regulator considers that the person is not a fit and proper person to perform the Controlled Function in question.
+
+47.
+
+Variation of Approval at request of relevant Authorised Person
+
+(1)
+
+Where an Application for Approval under section 44 is granted subject to conditions, the Authorised Person concerned may apply to the Regulator to vary the Approval by—
+
+(a)
+
+varying a condition;
+

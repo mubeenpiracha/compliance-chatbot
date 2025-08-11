@@ -1,0 +1,149 @@
+ a venue for the hearing of the application, and the administrator of the Company or of a Deed of Company Arrangement shall as soon as reasonably practicable give notice of the venue to the person who is the holder of the security or, as the case may be, the owner under the agreement.
+
+(3)
+
+If an order is made under Section 100 (Charged property) or Section 101 (Hire- purchase property), the order shall be filed on the eCourts Platform where it will be made available to the administrator.
+
+(4)
+
+The administrator shall send a copy of the sealed order to the person who is the holder of the security or owner under the agreement.
+
+(5)
+
+The administrator must send a copy of the sealed order to the Registrar.
+
+103. Protection for secured or preferential creditor
+
+(1)
+
+A statement of proposals of an administrator of a Company under Section 56 (Administrator’s proposals) may not include any action which—
+
+(a)
+
+affects the right of a secured creditor of the Company to enforce his security;
+
+(b)
+
+would result in a preferential debt of the Company being paid otherwise than in priority to its non-preferential debts; or
+
+(c)
+
+would result in one preferential creditor of the Company being paid a smaller proportion of his debt than another.
+
+(2)
+
+Subsection (1) does not apply to—
+
+(a)
+
+action to which the relevant creditor consents;
+
+(b)
+
+a proposal for a compromise or arrangement to be sanctioned under Part 25 (Arrangements and Reconstructions) of the Companies Regulations 2020; or
+
+(c)
+
+a proposal for a Deed of Company Arrangement.
+
+(3)
+
+The reference to a statement of proposals in subsection (1) includes a reference to a statement as revised or modified.
+
+53
+
+104. Debts of insolvent Company to rank equally
+
+Debts other than preferential debts rank equally between themselves in the administration and, after the preferential debts, shall be paid in full unless the assets are insufficient for meeting them, in which case they abate in equal proportions between themselves.
+
+105. Challenge to administrator’s conduct
+
+(1)
+
+A creditor or member of a Company in administration or subject to a Deed of Company Arrangement may apply to the Court claiming that—
+
+(a)
+
+the administrator of the Company or of the Deed of Company Arrangement is acting or has acted so as unfairly to harm the interests of the applicant (whether alone or in common with some or all other members or creditors); or
+
+(b)
+
+the administrator of the Company or of the Deed of Company Arrangement proposes to act in a way which would unfairly harm the interests of the applicant (whether alone or in common with some or all other members or creditors).
+
+(2)
+
+A creditor or member of a Company in administration or subject to a Deed of Company Arrangement may apply to the Court claiming that the administrator of the Company or of the Deed of Company Arrangement is not performing his functions as quickly or as efficiently as is reasonably practicable.
+
+(3)
+
+The Court may—
+
+(a)
+
+grant relief;
+
+(b)
+
+dismiss the application;
+
+(c)
+
+adjourn the hearing conditionally or unconditionally;
+
+(d)
+
+make an interim order; and/or
+
+(e)
+
+make any other order it thinks appropriate.
+
+(4)
+
+In particular, an order under this Section may—
+
+(a)
+
+regulate the exercise by the administrator of his functions;
+
+(b)
+
+require the administrator to do or not do a specified thing;
+
+(c)
+
+require a creditors’ meeting or meeting of creditors to be held for a specified purpose;
+
+(d)
+
+provide for the appointment of an administrator to cease to have effect; and/or
+
+(e)
+
+make consequential provision.
+
+(5)
+
+An order may be made on a claim under subsection (1) whether or not the action complained of—
+
+(a)
+
+is within the powers of the administrator under these Regulations; or
+
+(b)
+
+was taken in reliance on an order under Section 100 (Charged property) or Section 101 (Hire-purchase property).
+
+54
+
+(6)
+
+An order may not be made under this Section if it would impede or prevent the implementation by the administrator of a Company of—
+
+(a)
+
+a compromise or arrangement sanctioned under Part 25 (Arrangements and Reconstructions) of the Companies Regulations 2020; or
+
+(b)
+
+proposals or a revision approved under Section 64 (Business and result of initial creditors’ meeting) or Section

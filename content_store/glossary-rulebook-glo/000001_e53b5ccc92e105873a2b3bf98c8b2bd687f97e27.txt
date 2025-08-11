@@ -1,0 +1,167 @@
+Accounting Records
+
+Definitions
+
+Means a classification system that determines which economic activities are environmentally sustainable using credible and independent accreditation standards, that is published by a governmental body or a reputable industry association and freely available.
+
+Means customary practices in the financial market or markets in question which are accepted by the Regulator.
+
+Has the meaning given in section 258 of FSMR.
+
+Has the meaning given in section 258 of FSMR.
+
+In relation to:
+
+(a)
+
+FUNDS, means:
+
+(i)
+
+money received by way of Deposit is lent to others; or
+
+(ii)
+
+any other activity of the Person accepting the Deposit is financed, wholly or to a material extent, out of the capital of or returns on any money received by way of Deposit; and
+
+(b)
+
+GEN and FEES, has the meaning given in paragraph 38 of Schedule 1 of FSMR.
+
+Means records and underlying documents comprising initial and other accounting entries and associated supporting documents such as:
+
+(a)
+
+cheques;
+
+(b)
+
+records of electronic fund transfers;
+
+(c)
+
+invoices;
+
+(d)
+
+contracts;
+
+(e)
+
+the general and subsidiary ledgers, journal entries and other adjustments to the financial statements that are not reflected in journal entries; and
+
+(f)
+
+work sheets and spread sheets supporting cost allocations, computations, reconciliations and disclosures.
+
+3
+
+GLO VER23.290725
+
+Defined Terms
+
+Acting as a Central Securities Depository
+
+Acting as the Administrator of a Collective Investment Fund
+
+Acting as the Trustee of an Investment Trust
+
+Activities
+
+Actuary
+
+ADGM
+
+ADGM Board
+
+ADGM Climate Transition Fund
+
+ADGM Climate Transition Fund Designation
+
+ADGM Climate Transition Fund Rules
+
+ADGM Climate Transition Portfolio
+
+ADGM Climate Transition Portfolio Designation
+
+Definitions
+
+Has the meaning given in section 258 of FSMR.
+
+Has the meaning given in paragraph 60 of Schedule 1 of FSMR.
+
+Has the meaning given in paragraph 61 of Schedule 1 of FSMR
+
+In relation to GEN 2.1.2 and 2.1.3, means:
+
+(a)
+
+a Regulated Activity;
+
+(b)
+
+activities carried on in connection with a Regulated Activity;
+
+(c)
+
+activities held out as being for the purpose of a Regulated Activity; and
+
+(d)
+
+in relation to any particular Principle, any activity specified in GEN 2.1.3(2), (3) and (4).
+
+Means an individual who is a 'Fellow', or the holder of an equivalent qualification or rank, of a professional actuarial body that is a full member of the International Actuarial Association.
+
+Means the Abu Dhabi Global Market.
+
+Means the Board of Directors of ADGM.
+
+Means a Fund that has received an ADGM Climate Transition Fund Designation from the Regulator.
+
+Means the designation provided by the Regulator to an ADGM Climate Transition Fund pursuant to FUNDS 20.4.4 or 20.4.6.
+
+Means FUNDS 20.3.
+
+Means a Model Portfolio that complies with the ADGM Climate Transition Portfolio Rules.
+
+Means the designation provided by the Regulator to an ADGM Climate Transition Portfolio pursuant to COBS 3.8.22.
+
+4
+
+GLO VER23.290725
+
+Defined Terms
+
+Definitions
+
+ADGM Climate Transition Portfolio Rules
+
+Means COBS 3.8.10 to 3.8.18
+
+ADGM Entity
+
+Means a Legal Person which is incorporated or registered in ADGM (excluding a registered Branch).
+
+ADGM Founding Law
+
+Means Abu Dhabi Law No. 4 of 2013 concerning the ADGM issued by His Highness the Ruler of the Emirate of Abu Dhabi.
+
+ADGM Green Debenture Means a Debenture that meets the requirements of MKT 4.15.2.
+
+ADGM Green Bond Designation
+
+Means the designation provided by the Regulator to an ADGM Green Debenture pursuant to MKT 4.15.7 to 4.15.11.
+
+ADGM Green Fund
+
+Means a Fund that has received an ADGM Green Fund Designation from the Regulator.
+
+ADGM Green Fund Designation
+
+Means the designation provided by the Regulator to an ADGM Green Fund pursuant to either FUNDS 20.4.4 or 20.4.6.
+
+ADGM Green Fund Rules Means FUNDS 20.2.
+
+ADGM Green Portfolio
+
+Means a Model Portfolio that has received an ADGM Green Portfolio Design

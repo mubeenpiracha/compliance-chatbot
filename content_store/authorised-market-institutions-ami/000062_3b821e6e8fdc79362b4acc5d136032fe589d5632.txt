@@ -1,0 +1,103 @@
+ them, at the same time as the proposal is communicated to the relevant users; and
+
+(b)
+
+any such change, no later than the date when it is published and notified to relevant parties.
+
+98
+
+AMI/VER28/03-25
+
+AUTHORISED MARKET INSTITUTIONS (AMI)
+
+9.7
+
+Complaints
+
+9.7.1 Where an Authorised Market Institution has investigated a complaint arising in connection with the performance of, or failure to perform, any of its Regulatory Functions, and the conclusion is, that the Authorised Market Institution should:
+
+(a)
+
+make a compensatory payment to any person; or
+
+(b)
+
+remedy the matter which was the subject of that complaint,
+
+the Authorised Market Institution must immediately notify the DFSA of that event and give the DFSA a copy of the report and particulars of the recommendation as soon as that report or those recommendations are available to it.
+
+9.8
+
+Notification
+
+Notification in respect of trading
+
+9.8.1 Where an Authorised Market Institution proposes to remove from trading or admit to trading, by means of its facilities, a class of Investment or Crypto Token which it has not previously traded, but is licensed to do so, it must give the DFSA notice of that event, at the same time as the proposal is communicated to persons granted access to its facilities or shareholders, with the following information;
+
+(a)
+
+a description of the Investment or Crypto Token to which the proposal relates;
+
+(b)
+
+where that Investment is a derivative product, the proposed terms of that derivative; and
+
+(c)
+
+the name of any clearing or settlement facility in respect of that Investment or Crypto Token.
+
+9.8.2
+
+Where an Authorised Market Institution decides to suspend, restore from suspension or cease trading any Investment or Crypto Token, it must immediately notify the DFSA and any person granted access to its facilities of the decision.
+
+9.8.3
+
+Where a Clearing House proposes to cease clearing or settling, or to commence clearing or settling, by means of its facilities, a class of Investment or Crypto Token which it has not previously cleared or settled, but is licensed to do so, it must give the DFSA notice of that event, at the same time as the proposal is communicated to persons granted access to its facilities or shareholders, with the following information;
+
+(a)
+
+a description of the Investment or Crypto Token to which the proposal relates;
+
+(b)
+
+where that Investment is a derivative product, the proposed terms of that derivative; and
+
+(c)
+
+the name of any trading facility in respect of that Investment or Crypto Token.
+
+99
+
+AMI/VER28/03-25
+
+AUTHORISED MARKET INSTITUTIONS (AMI)
+
+Delisting or suspension of Securities from an Official List of Securities
+
+Guidance
+
+An Authorised Market Institution which maintains an Official List of Securities has the power under Article 35(1) of the Markets Law 2012 to delist or suspend Securities from its Official List of Securities.
+
+9.8.4
+
+Where an Authorised Market Institution suspends, restores or delists from suspension any Securities from an Official List of Securities it maintains under an endorsement on its Licence, it must immediately notify the DFSA of its decision and the reasons for the decision.
+
+9.9
+
+Information technology systems
+
+9.9.1 Where an Authorised Market Institution changes any of its plans for action in response to a failure of any of its information technology systems resulting in disruption to the operation of its facilities, it must immediately give the DFSA notice of that event, and a copy of the revised or new plan.
+
+9.9.2 Where any reserve information technology system of an Authorised Market Institution fails in such a way that, if the main information technology system of that body were also to fail, it would be unable to operate any of its facilities during its normal hours of operation, that body must immediately give the DFSA notice of that event, and inform the DFSA of:
+
+(a)
+
+what action that Authorised Market Institution is taking to restore the operation of the reserve information technology system; and
+
+(b)
+
+when it is expected that the operation of that system will be restored.
+
+Inability to discharge regulatory functions
+
+9.9.3 Where, because of the occurrence of any event or circumstances, an Authorised Market Institution is unable to discharge any Regulatory Function, it must immediately give the DFSA written notice of its inability to discharge that function, and inform

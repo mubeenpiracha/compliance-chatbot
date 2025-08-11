@@ -1,0 +1,63 @@
+ formation/capital raising;
+
+c)
+
+any activities Commodities;
+
+involving Spot Commodities
+
+that are not Accepted Spot
+
+d)
+
+the securitisation of any Spot Commodity or group of Spot Commodities; or
+
+e)
+
+any other activity or arrangement using Spot Commodities that is deemed by the Regulator not to constitute part of a Regulated Activity, where necessary and appropriate in order for the Regulator to pursue its objectives.
+
+Regulated Activities using Spot Commodities
+
+17)
+
+In accordance with section 30 of FSMR, Applicants that qualify for authorisation to carry on Regulated Activities will be granted an FSP4 to carry on the relevant Regulated Activities. Separately, an Authorised Person may be required to also receive approval (including via a stipulation in its FSP) from the FSRA as to whether it can also use (certain) Specified Investments, Financial Instruments, Virtual Assets and Accepted Spot Commodities as part of its Regulated Activities.
+
+18) To be authorised to conduct Regulated Activities that allow for the use of Spot Commodities, an Applicant must satisfy FSRA that all applicable requirements of FSMR and the relevant FSRA Rulebooks have been, and will continue to be, complied with. Upon being granted an FSP, the Applicant will be an Authorised Person for the purposes of the FSMR and the FSRA Rulebook, and will have the same regulatory status within ADGM as any other Authorised Person.
+
+19) The principal Rules for Authorised Persons conducting Regulated Activities using Spot Commodities are set out in Chapter 22 of COBS. These product specific Rules apply in addition to any other Rules applicable to the Regulated Activity being conducted by Authorised Person (e.g., Operating a Multilateral Trading Facility, Operating an Organised Trading Facility or Dealing).
+
+20) COBS Rule 22.1.2 operates such that ‘Client Investments’ described in the General Rulebook (“GEN”) are read to include Spot Commodities. This means that the various Rules using these terms throughout the FSRA Rulebooks are expanded to capture Spot Commodities, including in particular the Rules contained in Chapters 3 and 6 of COBS. Within the Code of Market Conduct (“CMC”), the provisions relating to Market Abuse in relation to Financial Instruments, equally extend to Market Abuse in the context of Accepted Spot Commodities. Combination of Regulated Activities
+
+4 Or as applicable, a Recognition Order to operate as an RIE or RCH.
+
+4
+
+VER02.181223
+
+21) Applicants approved by the FSRA as an Authorised Person and permitted to use Spot Commodities will be granted an FSP for the relevant Regulated Activity being conducted by that Authorised Person.5 The operations of the Authorised Person when it is conducting its Regulated Activity will be limited such that it is only permitted to the engage in the use of Accepted Spot Commodities, unless it has been otherwise authorised by the FSRA. Any Applicant seeking to also to be permitted to use Specified Investments/Financial Instruments, in addition to Accepted Spot Commodities, will need to apply to the FSRA to be able to operate using those Specified Investments/Financial Instruments and will need and comply with the requirements of the FSRA in relation to those Specified Investments/Financial Instruments (including in relation to any relevant fees). Spot Commodities and Accepted Spot Commodities
+
+22) For the purposes of the Spot Commodities Framework, the FSRA has defined Spot Commodities in GLO as follows:
+
+“Spot Commodities” means any physical or energy good of a fungible nature that is capable of being delivered, which is, or can be, traded on a secondary market.
+
+23) For clarification, the FSRA considers that a Spot Commodity is:
+
+a)
+
+a good sold for cash and promptly delivered when the transaction is settled;
+
+b)
+
+not a contract for the sale of a commodity under which delivery is to be made at a future date, other than the period generally accepted in the market for that Spot Commodity as the standard delivery period (it is therefore not considered a ‘Future’);
+
+c)
+
+not a Financial Instrument involving conventional assets (e.g., Securities or Derivatives);
+
+d)
+
+not a service or other items that are not goods, such as currencies or rights in real estate, or that are intangible; and
+
+e)
+
+an Environmental Instrument6, where deemed by the Regulator to be a carbon

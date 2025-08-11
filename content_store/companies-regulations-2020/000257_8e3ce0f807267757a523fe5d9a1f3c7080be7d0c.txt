@@ -1,0 +1,177 @@
+ person who makes default in complying with the requirements of subsection (3) of this section commits a contravention of these Regulations.
+
+(9)
+
+A person who commits a contravention referred to in subsection (8) is liable to a level 2 fine.
+
+(10) This section applies only to a receiver or manager appointed–
+
+(a)
+
+by a Court in the Abu Dhabi Global Market, or
+
+(b)
+
+under an instrument governed by the law of the Abu Dhabi Global Market.
+
+438
+
+794. Entries of satisfaction and release
+
+(1)
+
+Subsection (5) applies if the statement set out in subsection (2) and the particulars set out in subsection (4) are delivered to the Registrar with respect to a registered charge.
+
+(2)
+
+The statement referred to in subsection (1) is a statement to the effect that–
+
+(a)
+
+the debt for which the charge was given has been paid or satisfied in whole or in part, or
+
+(b)
+
+all or part of the property or undertaking charged–
+
+(i)
+
+has been released from the charge, or
+
+(ii)
+
+has ceased to form part of the company’s property or undertaking.
+
+(3) Where a statement within subsection (2)(b) relates to part only of the property or undertaking charged, the statement must include a short description of that part.
+
+(4)
+
+The particulars referred to in subsection (1) are–
+
+(a)
+
+the name and address of the person delivering the statement and an indication of their interest in the charge,
+
+(b)
+
+the registered name and number of the company that–
+
+(i)
+
+created the charge (in a case within section 784 or 785), or
+
+(ii)
+
+acquired the property or undertaking subject to the charge (in a case within section 786),
+
+(c)
+
+in respect of a charge created before the effective date –
+
+(i)
+
+the date of creation of the charge,
+
+(ii)
+
+a description of the instrument (if any) by which the charge is created or evidenced,
+
+(iii)
+
+short particulars of the property or undertaking charged,
+
+(d)
+
+in respect of a charge created on or after the effective date, the unique reference code allocated to the charge.
+
+(5)
+
+The Registrar must include in the register–
+
+(a)
+
+a statement of satisfaction in whole or in part, or
+
+(b)
+
+a statement of the fact that all or part of the property or undertaking has been released from the charge or has ceased to form part of the company’s property or undertaking (as the case may be).
+
+795. Rectification of register
+
+(1)
+
+Subsection (3) applies if the Court is satisfied that–
+
+(a)
+
+there has been an omission or mis-statement in any statement or notice delivered to the Registrar in accordance with this Chapter, and
+
+(b)
+
+the requirement in subsection (2) is met.
+
+(2)
+
+The requirement is that the Court is satisfied–
+
+(a)
+
+that the omission or mis-statement–
+
+439
+
+(i)
+
+was accidental or due to inadvertence or to some other sufficient cause, or
+
+(ii)
+
+is not of a nature to prejudice the position of creditors or shareholders of the company, or
+
+(b)
+
+that on other grounds it is just and equitable to grant relief.
+
+(3)
+
+The Court may, on the application of the company or a person interested, and on such terms and conditions as seem to the Court just and expedient, order that the omission or mis-statement be rectified.
+
+(4)
+
+A copy of the Court’s order must be sent by the applicant to the Registrar for registration.
+
+796. Replacement of instrument or debenture
+
+(1)
+
+Subsection (2) applies if the Court is satisfied that–
+
+(a)
+
+a copy of an instrument or debenture delivered to the Registrar under this Chapter contains material which could have been omitted under section 790,
+
+(b)
+
+the wrong instrument or debenture was delivered to the Registrar, or
+
+(c)
+
+the copy was defective.
+
+(2)
+
+The Court may, on the application of the company or a person interested, and on such terms and conditions as seem to the Court just and expedient, order that the copy of the instrument or debenture be removed from the register and replaced.
+
+(3)
+
+A copy of the Court’s order must be sent by the applicant to the Registrar for registration.
+
+797. Companies to keep copies of instruments creating and amending charges
+
+(1)
+
+A company must keep available for inspection a copy of every–
+
+(a)
+
+instrument creating a charge capable of registration

@@ -1,0 +1,115 @@
+ facilities operated by an Authorised Market Institution, or in relation to a specified class of transactions; or
+
+(c)
+
+requiring an Authorised Market Institution to act in a specified manner or to exercise its powers under any rules that the Authorised Market Institution has made.
+
+(2) Without limiting the application of Article 75 of the Regulatory Law 2004, the
+
+DFSA may direct an Authorised Market Institution to:
+
+(a)
+
+close the market or facilities operated by an Authorised Market Institution in a particular manner or for a specified period;
+
+(b)
+
+suspend transactions on the market or through the facilities operated by the Authorised Market Institution;
+
+(c)
+
+suspend transactions in Investments or Crypto Tokens conducted on the market or through the facilities operated by the Authorised Market Institution;
+
+(d)
+
+prohibit trading in Investments or Crypto Tokens conducted on the market or through the facilities operated by the Authorised Market Institution;
+
+(e)
+
+defer for a specified period the completion date of transactions conducted on the market or through the facilities operated by the Authorised Market Institution;
+
+(f)
+
+prohibit a specified person from undertaking any transactions on the facilities operated by the Authorised Market Institution; or
+
+(g)
+
+do any act or thing, or not do any act or thing, in order to ensure an orderly market, or reduce risk to the DFSA’s objectives.
+
+11
+
+(3)
+
+The procedures in Schedule 3 to the Regulatory Law 2004 apply to a decision of the DFSA under this Article.
+
+(4)
+
+If the DFSA decides to exercise its power under this Article, the Authorised Market Institution may refer the matter to the FMT for review.
+
+27. Staff liabilities at Authorised Market Institutions
+
+Neither an Authorised Market Institution nor any director, officer, employee or agent of an Authorised Market Institution may be held liable for anything done or omitted to be done in the performance or discharge or purported performance or discharge of their respective duties and regulatory functions if the act or omission is shown to have been committed or omitted in good faith.
+
+28. Default Rules of Authorised Market Institutions
+
+(1)
+
+The DFSA may require an Authorised Market Institution to have rules which set out procedures dealing with circumstances where a member is unable to meet its obligations in respect of contracts (“default rules”) as a condition of its Licence.
+
+(2)
+
+The DFSA may, by Rules, prescribe provisions which shall be adopted as part of an Authorised Market Institution’s default rules.
+
+CHAPTER 2: OFFICIAL LIST OF SECURITIES
+
+29. Maintaining an Official List of Securities
+
+(1)
+
+Subject to Article 29(2), an Official List of Securities for an Authorised Market Institution may be maintained by either the relevant Authorised Market Institution or the DFSA.
+
+(2)
+
+An Authorised Market Institution may maintain an Official List of Securities provided it has an endorsement on its Licence authorising it to maintain an Official List of Securities.
+
+(3)
+
+The DFSA may, at any time, transfer an Official List of Securities maintained by:
+
+(a)
+
+the DFSA, to an Authorised Market Institution, provided the Authorised Market Institution has an endorsed Licence authorising it to maintain an Official List of Securities; and
+
+(b)
+
+an Authorised Market Institution, to the DFSA in the circumstances described in Article 29(4)(a) or (c).
+
+12
+
+(4)
+
+The DFSA may maintain an Official List of Securities where:
+
+(a)
+
+the Authorised Market Institution does not wish to maintain an Official List of Securities;
+
+(b)
+
+the DFSA has refused to grant an endorsement to an Authorised Market Institution to maintain an Official List of Securities; or
+
+(c)
+
+the DFSA has suspended or withdrawn an endorsement on an Authorised Market Institution’s Licence to maintain an Official List of Securities.
+
+(5)
+
+An Authorised Market Institution shall, when maintaining an Official List of Securities, comply with the relevant requirements in this Law, the Rules made for the purposes of this Law, its listing rules and any other applicable laws or requirements.
+
+(6)
+
+An Authorised Market Institution shall not permit trading of Securities on its facilities unless those Securities are admitted to, and not suspended from, an Official List of Securities maintained by the Authorised Market Institution or the DFSA except where otherwise prescribed in the Rules.
+
+(7)
+
+The DFSA may, by Rules, prescribe appropriate transitional arrangements when transferring an Official List of Securities from an Authorised Market Institution to the DFSA or from the DFSA to an Author

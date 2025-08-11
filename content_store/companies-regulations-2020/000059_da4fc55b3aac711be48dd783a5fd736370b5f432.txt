@@ -1,0 +1,175 @@
+ passed, no provision for the automatic reappointment of retiring directors in default of another appointment applies.
+
+(3)
+
+For the purposes of this section a motion for approving a person’s appointment, or for nominating a person for appointment, is treated as a motion for his appointment.
+
+(4)
+
+Nothing in this section applies to a resolution amending the company’s articles.
+
+116
+
+152. Validity of acts of directors
+
+(1)
+
+The acts of a person acting as a director are valid notwithstanding that it is afterwards discovered–
+
+(a)
+
+that there was a defect in his appointment,
+
+(b)
+
+that he was disqualified from holding office,
+
+(c)
+
+that he had ceased to hold office, and
+
+(d)
+
+that he was not entitled to vote on the matter in question.
+
+(2)
+
+This applies even if the resolution for his appointment is void under section 151 (appointment of directors of public company to be voted on individually).
+
+153. Register of directors
+
+(1)
+
+Every company must keep a register of its directors.
+
+(2)
+
+The register must contain the required particulars (see sections 154 (particulars of directors to be registered: individuals), 155 (particulars of directors to be registered: corporate directors and firms) and 156 (register of directors’ residential addresses)) of each person who is a director of the company.
+
+(3)
+
+The register must be kept available for inspection–
+
+(a)
+
+at the company’s registered office, or
+
+(b)
+
+at a place specified in rules made by the Board under section 996 (rules about where certain company records to be kept available for inspection).
+
+(4)
+
+The company must give notice to the Registrar–
+
+(a)
+
+of the place at which the register is kept available for inspection, and
+
+(b)
+
+of any change in that place,
+
+unless it has at all times been kept at the company’s registered office.
+
+(5)
+
+The register must be open to the inspection–
+
+(a)
+
+of any member of the company without charge, and
+
+(b)
+
+of any other person on payment of such fee as may be prescribed.
+
+(6)
+
+If default is made in complying with subsection (1), (2) or (3) or if default is made for 14 days in complying with subsection (4), or if an inspection required under subsection (5) is refused, a contravention of these Regulations is committed by–
+
+(a)
+
+the company, and
+
+(b)
+
+every officer of the company who is in default.
+
+For this purpose a shadow director is treated as an officer of the company.
+
+(7)
+
+A person who commits the contravention referred to in subsection (6) is liable to a level 1 fine.
+
+(8)
+
+In the case of a refusal of inspection of the register, the Court may by order compel an immediate inspection of it.
+
+(9)
+
+Subsection (5)(b) shall not apply to a restricted scope company.
+
+117
+
+154. Particulars of directors to be registered: individuals5
+
+(1)
+
+A company’s register of directors must contain the following particulars in the case of an individual–
+
+(a)
+
+name and any former name,
+
+(b)
+
+a service address, which must be a PO Box address for directors resident in the United Arab Emirates,
+
+(c)
+
+the country or state in which he is usually resident,
+
+(d)
+
+nationality,
+
+(e)
+
+business occupation (if any),
+
+(f)
+
+date of birth.
+
+(2)
+
+For the purposes of this section “name” means a person’s forename and surname.
+
+(3)
+
+For the purposes of this section a “former name” means a name by which the individual was formerly known for business purposes. Where a person is or was formerly known by more than one such name, each of them must be stated.
+
+(4)
+
+It is not necessary for the register to contain particulars of a former name in the following cases–
+
+(a)
+
+in the case of any person, where the former name–
+
+(i)
+
+was changed or disused before the person attained the age of 18 years, or
+
+(ii)
+
+has been changed or disused for 20 years or more.
+
+(5)
+
+A person’s service address may be stated as the company’s registered office or the office of its company service provider located in Abu Dhabi Global Market.
+
+155. Particulars of directors to be registered: corporate directors and firms
+
+A company’s register of directors must contain the following particulars in the case of a body corporate, or a firm that is a legal person

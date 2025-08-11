@@ -1,0 +1,83 @@
+
+
+adequate and orderly management of Clients' affairs.
+
+5.11.2 A Trust Service Provider must prepare proper accounts, at appropriately regular intervals
+
+on the trusts and underlying companies administered for its Clients.
+
+33
+
+COBS VER19.290725
+
+5.11.3 Where trusts and underlying companies are governed by the laws of a jurisdiction that require accounts to be kept in a particular form, the Trust Service Provider must meet those requirements.
+
+5.11.4 The Trust Service Provider's books and records must be sufficient to allow the recreation of the transactions of the business and its Clients and to demonstrate what assets are due to each Client and what liabilities are attributable to each Client.
+
+5.12 Due Diligence
+
+5.12.1 A Trust Service Provider must, at all times, have verified documentary evidence of the settlors, trustees (in addition to the Trust Service Provider itself) and principal named beneficiaries of trusts for which it Provides Trust Services. In the case of discretionary trusts with the capacity for the trustee to add further beneficiaries, a Trust Service Provider must also have verified, where reasonably possible, documentary evidence of any Person who receives a distribution from the trust and any other Person who is named in a memorandum or letter of wishes as being a likely recipient of a distribution from a trust.
+
+5.12.2 A Trust Service Provider must demonstrate that it has knowledge of the source of funds that have been settled into trusts or have been used to provide capital to companies or have been used in transactions with which the Trust Service Provider has an involvement.
+
+5.13
+
+Fitness and Propriety of Persons Acting as Trustees
+
+5.13.1 Where a Trust Service Provider arranges for a Person who is not an Employee of the Trust Service Provider to act as trustee for a Client of the Trust Service Provider, the Trust Service Provider must ensure that such Person is fit and proper.
+
+5.13.2 A Trust Service Provider must notify the Regulator of the appointment of a Person under Rule 5.13.1, including the name and business address if applicable and the date of commencement of the appointment.
+
+5.13.3 Prior to the appointment of such a Person to act as a trustee, the Trust Service Provider must take reasonable steps to ensure that the Person has the required skills, experience and resources to act as a trustee for a Client of the Trust Service Provider.
+
+5.13.4 A Trust Service Provider must notify the Regulator immediately if the appointment of such a Person is or is about to be terminated, or on the resignation of such Person, giving the reasons for the resignation and the measures which have been taken to ensure that a new trustee has been appointed.
+
+5.13.5 A Person appointed to act as trustee for a Client of a Trust Service Provider who is not an Employee of the Trust Service Provider, must agree in writing to be bound by and comply with the same legal and regulatory requirements as if he were an Employee of the Trust Service Provider.
+
+34
+
+COBS VER19.290725
+
+6.
+
+ADDITIONAL RULES – INVESTMENT BUSINESS
+
+6.1
+
+Application
+
+The Rules in this chapter apply to an Authorised Person when conducting Investment Business. The requirements in this chapter apply to an Authorised Person regardless of the classification of the Client, unless expressly provided otherwise.
+
+6.2
+
+Personal Account Transactions
+
+6.2.1 An Authorised Person must establish and maintain adequate policies and procedures so
+
+as to ensure that:
+
+(a)
+
+an Employee does not undertake a Personal Account Transaction unless:
+
+(i)
+
+the Authorised Person has, in a written notice, drawn to the attention of the Employee the conditions upon which the Employee may undertake Personal Account Transactions and that the contents of such a notice are made a term of his contract of employment or services;
+
+(ii)
+
+the Authorised Person has given its written permission to that Employee for that transaction or to transactions generally in Investments of that kind; and
+
+(iii)
+
+the transaction will not conflict with the Authorised Person's duties to its Clients;
+
+(b)
+
+it receives prompt notification or is otherwise aware of each Employee's Personal Account Transactions; and
+
+(c)
+
+if an Employee's Personal Account Transactions are conducted with the Authorised Person, each Employee's account must be clearly identified and distinguishable from other Clients' accounts.
+
+6.2.2 The written notice in Rule 6.2.1(a)(i) must make it explicit that, if an Employee is prohibited from

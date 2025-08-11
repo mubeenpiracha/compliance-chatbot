@@ -1,0 +1,125 @@
+ date of registration of the Passported Fund on the DFSA's Register of Passported Funds.
+
+5.1.5 At the request of another Authority, the DFSA will, as soon as practicable, make its Register of Passported Funds available to that Authority.
+
+15
+
+FPR/VER1/02-19
+
+6
+
+6.1
+
+6.1.1
+
+6.1.2
+
+6.2
+
+6.2.1
+
+6.2.2
+
+6.3
+
+6.3.1
+
+6.3.2
+
+6.3.3
+
+6.4
+
+6.4.1
+
+6.4.2
+
+6.5
+
+FUND PROTOCOL RULES (FPR)
+
+MANAGEMENT AND OPERATION OF A PASSPORTED FUND
+
+Compliance with Constitution
+
+This section applies if the DIFC is the Home Jurisdiction of a Passported Fund.
+
+The Fund Manager of a Passported Fund must:
+
+(a)
+
+ensure that the Passported Fund is at all times managed and operated in compliance with its Constitution, with the laws of the jurisdiction in which it is domiciled, and with these Rules; and
+
+(b) maintain, or cause to be maintained, a Unitholder register for the
+
+Passported Fund.
+
+Ongoing Appointment of Fund Manager
+
+This section applies if the DIFC is the Home Jurisdiction or the Host Jurisdiction of a Passported Fund.
+
+The governing body or trustee of a Passported Fund must at all times have appointed a Fund Manager that is authorised by its Home Regulator to conduct the activity of fund management in its Home Jurisdiction.
+
+Promotion by Fund Managers, Agents and other Licensed Persons
+
+This section applies if the DIFC is the Host Jurisdiction of a Passported Fund.
+
+The Fund Manager, its Agent and any other Licensed Person established or domiciled in another Jurisdiction, may Promote a Passported Fund in the DIFC without the need for further authorisation or approval by the DFSA, provided that such Promotion activities are limited to the Passported Fund and the DIFC is nominated as a Host Jurisdiction on the relevant Registers of Passported Funds.
+
+In performing any activities in connection with the Promotion of a Passported Fund in the DIFC, the Fund Manager, its Agent and any other Licensed Person must comply at all times with the legislation applicable to them in the Jurisdiction in which they are domiciled.
+
+Additional criteria for Public Funds
+
+This section applies if the DIFC is the Home Jurisdiction or the Host Jurisdiction of a Passported Fund.
+
+The Fund Manager of a Passported Fund that is a Public Fund must ensure that it meets the minimum requirements for Public Funds set out in App1.
+
+Custodian
+
+16
+
+FPR/VER1/02-19
+
+FUND PROTOCOL RULES (FPR)
+
+6.5.1
+
+This section applies if the DIFC is the Home Jurisdiction or the Host Jurisdiction of a Passported Fund.
+
+6.5.2
+
+To the extent that, under the legislation of its Home Jurisdiction, a custodian is required to be appointed for a Private Fund, the Fund Manager of a Passported Fund that is a Private Fund must ensure that the custodian:
+
+(a) meets all requirements as to eligibility and regulatory status as are imposed under the relevant legislation in its Home Jurisdiction; and
+
+(b)
+
+is not the Fund Manager.
+
+Guidance
+
+Passported Private Funds domiciled in the DIFC have to comply with the applicable CIR requirements regarding custodians.
+
+6.5.3
+
+The Fund Manager of a Passported Fund that is a Public Fund must ensure that, except in the case of a Property Fund, a custodian is appointed at all times in relation to the Fund. Such custodian must:
+
+(a) be authorised by the Securities and Commodities Authority to carry on the activity of providing custody or safekeeping and administration of property of a Fund; and
+
+(b) not be the Fund Manager.
+
+6.5.4 Nothing in this section prevents a custodian appointing sub-custodians in the
+
+UAE or elsewhere.
+
+6.6
+
+Reporting changes to the DFSA
+
+6.6.1
+
+This section applies if the DFSA is the Home Regulator of a Passported Fund.
+
+6.6.2
+
+The Fund Manager of the Passported Fund must notify the DFSA as

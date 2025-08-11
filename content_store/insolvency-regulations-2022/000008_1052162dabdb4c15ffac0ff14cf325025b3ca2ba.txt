@@ -1,0 +1,165 @@
+icable to achieve that objective; or
+
+(b)
+
+that the objective specified in subsection (1)(b) would achieve a better result for the Company’s creditors as a whole.
+
+2
+
+(4)
+
+3.
+
+4.
+
+5.
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+6.
+
+7.
+
+The administrator of a Company may perform his functions with the objective specified in subsection (1)(c) only if—
+
+(a)
+
+he thinks that it is not reasonably practicable to achieve either of the objectives specified in subsection (1)(a) and (b); and
+
+(b)
+
+he does not unnecessarily harm the interests of the creditors of the Company as a whole.
+
+Administrator
+
+The administrator of a Company must perform his functions as quickly and efficiently as is reasonably practicable.
+
+Status of administrators
+
+An administrator of a Company and an administrator of a Deed of Company Arrangement is an officer of the Court (whether or not he is appointed by the Court).
+
+General restrictions
+
+A person may be appointed as administrator of a Company or an administrator of a Deed of Company Arrangement only if he is an insolvency practitioner registered pursuant to Section 290 (Qualification and registration of insolvency practitioners).
+
+A person may not be appointed as administrator of a Company which is in administration (subject to the provisions of Chapter 11 (Replacing Administrator) of Part 1 (Administration) about replacement and additional administrators).
+
+A person may not be appointed as administrator of a Company which is in liquidation by virtue of—
+
+(a)
+
+a resolution for voluntary winding-up; or
+
+(b)
+
+a winding-up order.
+
+Subsection (3)(a) is subject to Section 39(4) and (5) (Application where Company in liquidation).
+
+Subsection (3)(b) is subject to Section 39 (Application where Company in liquidation).
+
+Chapter 2 - Appointment of Administrator by Court
+
+Administration order
+
+An administration order is an order appointing a person as the administrator of a Company.
+
+Conditions for making order
+
+The Court may make an administration order in relation to a Company only if satisfied—
+
+(a)
+
+that the Company is or is likely to become unable to pay its debts; and
+
+(b)
+
+that the administration order is reasonably likely to achieve the purpose of administration.
+
+3
+
+8.
+
+Administration application
+
+(1)
+
+An application to the Court for an administration order in respect of a Company (an “administration application”) may be made only by—
+
+(a)
+
+the Company;
+
+(b)
+
+the Directors of the Company;
+
+(c)
+
+one or more creditors of the Company; or
+
+(d)
+
+a combination of persons listed in paragraphs (a) to (c).
+
+(2)
+
+As soon as is reasonably practicable after the making of an administration application the applicant shall notify—
+
+(a)
+
+any person who has appointed an administrative receiver of the Company;
+
+(b)
+
+any person who is or may be entitled to appoint an administrative receiver of the Company;
+
+(c)
+
+any person who is or may be entitled to appoint an administrator of the Company under Section 21 (Power to appoint);
+
+(d)
+
+if an administrative receiver has been appointed, on him;
+
+(e)
+
+if there is pending a petition for the winding-up of the Company, on the petitioner (and also on the provisional liquidator, if any);
+
+(f)
+
+on the person proposed as administrator of the Company; and
+
+(g)
+
+on the Company, if the application is made by anyone other than the Company.
+
+(3)
+
+An administration application may not be withdrawn without the permission of the Court.
+
+(4)
+
+In subsection (1) “creditor” includes a contingent creditor and a prospective creditor.
+
+9.
+
+Witness statement in support of administration application
+
+(1) Where it is proposed to apply to the Court for an administration order to be made in relation to a Company, the administration application shall be in the prescribed form and a witness statement complying with Section 11 (Content of administration application and witness statement) must be prepared with a view to its being filed with the Court in support of the administration application.
+
+(2)
+
+If the administration application is to be made by the Company or by the Directors, the witness statement shall be made by one of the Directors, or the secretary of the Company, stating himself to make it on behalf of the Company or, as the case may be, on behalf of the Directors.
+
+(3)
+
+If the administration application is to be made by creditors, the witness statement shall be made by a person acting under the

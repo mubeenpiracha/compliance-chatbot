@@ -1,0 +1,123 @@
+ notice issued under Rule 9.4.2.
+
+The amount referred to in Rule 9.4.2(b)(ii) is calculated as follows:
+
+(a)
+
+in the case of an Insurer that is not a DIFC Incorporated Insurer, the amount of the assets that the Insurer is required by Rule 4.7.2 to make available;
+
+(b)
+
+in the case of a Cell of an Insurer, the sum of the following two amounts:
+
+(i)
+
+the Insurance Liabilities attributable to that Cell; and
+
+(ii)
+
+the Minimum Cellular Capital Requirement applicable to that Cell.
+
+(c)
+
+in the case of a Long-Term Insurance Fund, subject to (e) and (f), the sum of the following two amounts:
+
+(i)
+
+the Insurance Liabilities attributable to that Long-Term Insurance Fund; and
+
+(ii)
+
+the Minimum Fund Capital Requirement applicable to that Long- Term Insurance Fund;
+
+45
+
+PIN/VER18/04-23
+
+9.4.6
+
+9.4.7
+
+PRUDENTIAL – INSURANCE BUSINESS (PIN)
+
+(d)
+
+in the case of an Insurer that is a DIFC Incorporated Insurer and that is not a Protected Cell Company, the sum of the following two amounts:
+
+(i)
+
+the Insurer’s Insurance Liabilities; and
+
+(ii)
+
+the Insurer’s Minimum Capital Requirement.
+
+(e)
+
+in the case of an Insurer to which (a) and (c) both apply, the amount set out in (a); and
+
+(f)
+
+in the case of an Insurer to which (c) and (d) both apply, the amount set out in (d).
+
+Guidance
+
+Rule 9.4.5 describes the maximum amount of assets that the DFSA may require to be made available as collateral. The Rule includes provisions to avoid imposing multiple collateral requirements on the same Insurer in respect of the same Insurance Business in run-off.
+
+The assets referred to in Rule 9.4.2 must be made available in one of the following two manners or in a combination of those two manners:
+
+(a)
+
+assets of a type described in Rule 4.7.3 may be deposited with a custodian nominated or approved in writing by the DFSA; or
+
+(b)
+
+a financial institution nominated or approved in writing by the DFSA may issue a confirmed letter of credit in favour of the DFSA, for the amount of the assets required to be made available.
+
+The terms and conditions of a custody arrangement referred to in Rule 9.4.6(a) or a letter of credit referred to in Rule 9.4.6(b) and any change to those terms and conditions, must be notified to the DFSA, which may within two months of such notification require the Insurer to make any change to the terms and conditions of the arrangement or letter of credit.
+
+Guidance
+
+The terms and conditions of an arrangement or letter of credit will normally be expected to include provisions having the following effect:
+
+a.
+
+the arrangement or letter of credit is not revocable or cancellable at the option of the Insurer, and contains no provision for automatic cancellation on the insolvency of the Insurer;
+
+b.
+
+the DFSA has the right to apply assets deposited, or to draw upon the letter of credit, for the purpose of meeting Insurance Liabilities of the Insurer and any expenses incidental to that activity;
+
+c.
+
+in the case of a custody arrangement, the Insurer is prohibited from applying, directly or indirectly, the assets deposited, except in the following manners:
+
+i.
+
+in settlement of Insurance Liabilities of the Insurer that are in respect of the Insurance Business that is in run-off;
+
+ii.
+
+in exchange for fair value, for other assets of a type described in Rule 4.7.3 and deposited with the same custodian under the same conditions;
+
+iii.
+
+in consideration for the transfer to another Insurer of Insurance Liabilities of the Insurer that are in respect of the Insurance Business that is, or has been placed into, run-off;
+
+46
+
+PIN/VER18/04-23
+
+PRUDENTIAL – INSURANCE BUSINESS (PIN)
+
+iv.
+
+withdrawal from the custody of the custodian for deposit with a different custodian approved by the DFSA;
+
+v.
+
+withdrawal from the custody of the custodian in accordance with Rule 9.4.12 ; or
+
+vi.
+
+withdrawal from the custody of the custodian

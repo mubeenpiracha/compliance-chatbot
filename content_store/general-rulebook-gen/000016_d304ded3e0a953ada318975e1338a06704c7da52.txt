@@ -1,0 +1,102 @@
+2016);
+
+f.
+
+Cloud Security Alliance: Cloud Controls Matrix and CAIQ (2024);
+
+g.
+
+Risk assessment methodology: NIST SP800-30: Guide for Conducting Risk Assessments (2012);
+
+h.
+
+Cyber Risk Institute: Cyber Risk Institute Profile v2.1 (2023),
+
+and subsequent versions thereof.
+
+2.
+
+The systems and controls referred to in Rule 3.5.1(4)(b) should enable an Authorised Person to protect its ICT Assets in accordance with the requirements in Rules 3.5.5 to 3.5.14 in a way that minimises the likelihood and impact of a successful Cyber Incident on ICT Assets as identified under Rule 3.5.4(1). They should be commensurate with the outcome of the Cyber Risk assessment under
+
+26
+
+GEN VER11.290725
+
+Rule 3.5.4(2) and the Authorised Person’s Cyber Risk tolerance determined under Rule 3.5.3(2)(c).
+
+3.
+
+An Authorised Person may need to apply additional controls, depending on its nature, scale or complexity.
+
+4.
+
+An Authorised Person may also rely on Group-wide policies on Cyber Risk when developing its policies, procedures or controls.
+
+5.
+
+An Authorised Person should tailor standards or policies it chooses to adopt to its needs. Not all elements of the standards or policies may be applicable. Additional policies, procedures and controls may be required to address idiosyncratic risks.
+
+6.
+
+Systems and controls put in place pursuant to Rule 3.5.1 should include policies and procedures, in accordance with Rule 3.3.5.
+
+(1)
+
+An Authorised Person must manage Third-Party Cyber Risk as part of its Cyber Risk Management Framework established under Rule 3.5.1, including by:
+
+(a)
+
+undertaking due diligence to ensure that it chooses suitable third-party providers of ICT Services that comply with appropriate cyber security standards;
+
+(b)
+
+entering into appropriate contractual arrangements with third-party providers of ICT Services;
+
+(c)
+
+requiring third-party providers of ICT Services to:
+
+(i)
+
+notify the Authorised Person about all Cyber Incidents it experiences that has or is likely to have a material impact on the Authorised Person;
+
+(ii)
+
+cooperate with the Authorised Person in remediating the impact of those Cyber Incidents on the Authorised Person;
+
+(iii)
+
+allow the Authorised Person to verify that the third party continues to meet appropriate cyber security standards; and
+
+(d)
+
+effectively supervising the provision of the relevant ICT Services.
+
+(2)
+
+An Authorised Person that relies on the provision of ICT Services by a third party remains fully responsible for compliance with, and the discharge of, all obligations under the Regulations and the Rules, including Rule 3.5.
+
+Guidance
+
+1.
+
+This Rule supplements the overarching requirements that govern the outsourcing of functions and activities under Rules 3.3.31 and 3.3.32 and PRU 6.8.1 by an Authorised Person. The scope of this Rule is wider than the scope of
+
+27
+
+GEN VER11.290725
+
+those outsourcing requirements as it applies to the provision of all ICT Services, including the provision of cloud services and the maintenance of the servers of an Authorised Person.
+
+2.
+
+The supervision of the provision of ICT Services by a third party under Rule 3.5.2(1)(c) should include regular verification that the third party complies with appropriate security requirements. Verification may be achieved through a review of the third party’s control environment that the third party or Authorised Person conducts, through provision of independent audit reports or through other suitable means. The frequency, scope and nature of the verification should be determined based on the criticality of systems and the sensitivity of information contained in them. In certain circumstances, it may not be appropriate to allow the third party to undertake such review or verification itself.
+
+3.
+
+The Regulator expects an Authorised Person to apply adequate controls on the use of subcontractors by a third party. An Authorised Person should be aware of the scope of services that are carried out by subcontractors and what actions were undertaken to mitigate Cyber Risk by both the third party and all of its subcontractors.
+
+4.
+
+A contract with a third-party provider of ICT Services should set out appropriate requirements for the deletion or return of an Authorised Person’s information at the end of the contract.
+

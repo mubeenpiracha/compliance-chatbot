@@ -1,0 +1,175 @@
+IA (PSIAr)
+
+Retail Client
+
+Revolving Securitisation
+
+(t) Operating a Representative Office;
+
+(u) Operating a Credit Rating Agency;
+
+(v) Administering a Specified Benchmark;
+
+(w) Operating a Multilateral Trading Facility or
+
+Organised Trading Facility;
+
+(x)
+
+Providing Information in Relation to a Specified Benchmark; and
+
+(y)
+
+Shari’a-compliant Regulated Activities; and
+
+(2) Such activity prescribed in (1) is carried on By
+
+Way of Business.
+
+Means the regulator of Regulated Activities in ADGM.
+
+Has the meaning given in Rule 4.4.6.
+
+Means any of the following:
+
+(a)
+
+a Financial Institution; or
+
+(b)
+
+a financial Holding Company.
+
+A Person carrying on in the ADGM the Regulated Activity of Operating a Representative Office for which it has authorisation under its Financial Services Permission.
+
+The amount calculated in accordance with Rule A10.4.9.
+
+Has the meaning given in Section 4.14.
+
+Has the meaning given in Section 4.14.2(c).
+
+A PSIA in respect of the investment account holder imposes certain restrictions as to where, how and for what purpose his funds are to be invested.
+
+Means a Client specified under COBS 2.3.
+
+A Traditional or Synthetic Securitisation in which the specified items consist of revolving assets such as loan facilities or credit card balances which permit
+
+35
+
+PRU VER17.290725
+
+borrowers to vary the drawn amount within an agreed limit, or the scheme itself is revolving.
+
+Rho
+
+The measure of an Option's sensitivity to a change in interest rates.
+
+Risk Capital Requirement
+
+Has the meaning given in Section 3.5.
+
+Risk Exposure Amount Has the meaning given in Rule 3.5.8.
+
+RSF
+
+Required Stable Funding.
+
+RWAs
+
+Risk-weighted assets.
+
+SE Exposure
+
+The Exposure value or amount for a securitisation Exposure.
+
+Securities Underwriting Capital Requirement
+
+A component of the Market Risk Capital Requirement defined in Section 5.10.
+
+Security
+
+For the purposes of these Rules, a Security is:
+
+(a)
+
+a Share;
+
+(b)
+
+a Debenture;
+
+(c)
+
+a Warrant;
+
+(d)
+
+a Certificate;
+
+(e)
+
+a Unit;
+
+(f)
+
+a Structured Product; or
+
+(g)
+
+a Derivative.
+
+Servicer
+
+A Person that administers the securitised items.
+
+SFT
+
+Securities Financing Transactions, such as repo, reverse repo, security lending and borrowing, and margin lending transactions.
+
+Share
+
+Means a share or stock in the capital of any Body Corporate or any unincorporated body but excludes:
+
+(a)
+
+an instrument creating or acknowledging indebtedness for, or for Money borrowed to defray, the consideration payable
+
+36
+
+PRU VER17.290725
+
+under a contract for the supply of goods or services;
+
+(b)
+
+a cheque or other bill of exchange, a banker's draft or a letter of credit (but not a bill of exchange accepted by a banker);
+
+(c)
+
+a banknote, a statement showing a balance on a bank account, or a lease or other disposition of property; and
+
+(d)
+
+any Contract of Insurance.
+
+Shari’a-compliant Regulated Activities
+
+Means paragraph 64 of Schedule 1 of FSMR.
+
+the Regulated Activities specified
+
+Simplified Approach
+
+An alternative application of the provisions of Chapter 4 for an Authorised Person in Category 2 or 3A, as described in Sections 4.7 and A4.12.
+
+Special Purpose Entity (SPE)
+
+A corporation, trust, or other entity organised for a specific purpose, the activities of which are limited to those appropriate to accomplish the purpose of the SPE, and the structure of which is intended to isolate the SPE from the Credit Risk of an Originator or seller of Exposures. SPEs are commonly used as financing vehicles in which Exposures are sold to a trust or similar entity in exchange for cash or other assets funded by debt issued by the trust.
+
+Specific Risk
+
+The risk that losses on an Authorised Person's net long or short position in an individual equity or Security may arise from a negative or positive price movement of that equity or Security relative to the relevant market generally.
+
+Sponsor
+
+An Authorised Person that repackages third party assets directly into a securitisation scheme. Where an Authorised Person repackages non-investment Grade third party assets, it may fall

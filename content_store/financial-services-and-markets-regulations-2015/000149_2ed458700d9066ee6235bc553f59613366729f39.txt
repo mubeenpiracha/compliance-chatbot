@@ -1,0 +1,145 @@
+(b)
+
+the gain or loss of each party is wholly settled by cash or set-off between the parties;
+
+(c)
+
+each party is not exposed to any contingent liabilities to any other counterparty; and
+
+(d)
+
+there is readily available public information in relation to the underlying factor;
+
+but excludes any rights under a Financial Instrument:
+
+(e)
+
+where one or more of the parties takes delivery of any property to which the contract relates;
+
+(f)
+
+which is a Debenture; or
+
+(g)
+
+which is a Contract of Insurance.
+
+99B. Environmental Instruments370
+
+In this Regulation an “Environmental Instrument” is a Financial Instrument that is recognised by the Regulator which:
+
+(a)
+
+enables its holder to emit greenhouse gases into the atmosphere, in accordance with any emissions trading scheme (i.e. emissions allowances or equivalent);
+
+(b)
+
+attests to a reduction in greenhouse gases emitted into the atmosphere or the removal of greenhouse gases from the atmosphere (i.e. carbon credits or equivalent); or
+
+(c)
+
+attests to the environmental attributes of an underlying unit (i.e. renewable energy or environmental attribute certificates).
+
+Contracts of Insurance
+
+Definition of Contract of Insurance
+
+A Contract of Insurance means any contract of insurance or contract of reinsurance.
+
+Classes of Contracts of Insurance
+
+The classes of Contracts of Insurance are specified in the following paragraphs.
+
+370 Amended 30 December 2024.
+
+277
+
+Classes of Life Insurance
+
+Class 1 - Life and annuity
+
+Contracts of Insurance on human life or contracts to pay Annuities on Human Life, but excluding, in each case, contracts within paragraph 104 of this Part.
+
+Class 2 - Marriage and birth
+
+Contracts of Insurance to provide a sum on marriage or on the birth of a child, being contracts expressed to be in effect for a period of more than one year.
+
+Class 3 - Linked long term
+
+Contracts of Insurance on human life or contracts to pay Annuities on Human Life where the benefits are wholly or partly to be determined by reference to the value of, or the income from, property of any description (whether or not specified in the contracts) or by reference to fluctuations in, or in an index of, the value of property of any description (whether or not so specified).
+
+Class 4 - Permanent health
+
+Contracts of Insurance providing specified benefits against risks of individuals becoming incapacitated in consequence of sustaining injury as a result of an accident or of an accident of a specified class or of sickness or infirmity, being contracts that—
+
+(a)
+
+are expressed to be in effect for a period of not less than five years, or until the normal retirement age for the individuals concerned, or without limit of time; and
+
+(b)
+
+either are not expressed to be terminable by the insurer, or are expressed to be so terminable only in special circumstances mentioned in the contract.
+
+Class 5 - Tontines
+
+Tontines.
+
+Class 6 - Capital redemption
+
+Contracts, other than contracts in paragraph 100 of this Part, to provide a capital sum at the end of a term.
+
+Class 7 - Pension fund management
+
+(a)
+
+Pension fund management contracts; or
+
+(b)
+
+Contracts of the kind mentioned in sub-paragraph (a) that are combined with Contracts of Insurance covering either conservation of capital or payment of a minimum interest.
+
+278
+
+Chapter 2 Classes of Non-Life Insurance
+
+Class 1 - Accident
+
+(1)
+
+Contracts of Insurance providing fixed pecuniary benefits or benefits in the nature of the indemnity, or a combination of both, against risks of the person insured—
+
+(a)
+
+sustaining injury as the result of an accident or of an accident of a specified class;
+
+(b)
+
+dying as the result of an accident or of an accident of a specified class; or
+
+(c)
+
+becoming incapacitated in the consequence of disease or of disease of a specified class;
+
+inclusive of contracts relating to industrial injury and occupational disease.
+
+Class 2 - Sickness
+
+Contracts of Insurance providing fixed pecuniary benefits or benefits in the nature of indemnity, or a combination of the two, against risks of loss to the persons insured attributable to sickness or infirmity.
+
+Class 3 - Land Vehicles
+
+Contracts of Insurance against loss of or damage to vehicles used on land, including motor vehicles but excluding railway rolling stock.
+
+Class 4 - Marine, aviation and transport
+
+(1)
+
+Contracts of Insurance—
+
+(a)
+
+against loss of or damage to railway rolling stock;
+
+(b)
+
+upon aircraft or upon

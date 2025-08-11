@@ -1,0 +1,97 @@
+ legal person, this might be achieved by obtaining its financial or annual reports published on its website or news articles and press releases that reflect its financial situation or the profitability of its business; and
+
+38
+
+AML/VER27/03-25
+
+7.5
+
+7.5.1
+
+Anti-Money Laundering, Counter-Terrorist Financing and Sanctions Module (AML)
+
+b.
+
+for a natural person, this might include documentary evidence which corroborates answers given to questions on the source of wealth in an application form or customer questionnaire. For example, if a natural person attributes the source of his wealth to inheritance, he may be asked to provide a copy of the relevant will or grant of probate. In other cases, a natural person may be asked to provide sufficient bank or salary statements covering a number of years to draw up a picture of his source of wealth.
+
+9.
+
+A Relevant Person may commission a third party vendor report to obtain further information on a customer or transaction or to investigate a customer or Beneficial Owner in very high risk cases. A third party vendor report may be particularly useful where there is little or no publicly-available information on a person or on a legal arrangement or where a Relevant Person has difficulty in obtaining and verifying information.
+
+10.
+
+In Rule 7.4.1(f), circumstances where it may be applicable to require the first payment made by a customer in order to open an account with a Relevant Person to be carried out through a bank account in the customer’s name with a financial institution specified in that paragraph include:
+
+a.
+
+where, following the use of other Enhanced CDD measures, the Relevant Person is not satisfied with the results of due diligence; or
+
+b.
+
+as an alternative measure, where one of the measures in Rule 7.4.1 (a) to (e) cannot be carried out.
+
+Simplified customer due diligence
+
+(1) Where a Relevant Person is permitted to undertake Simplified Customer Due
+
+Diligence under Rule 7.1.1(2), modification of Rule 7.3.1 may include:
+
+(a)
+
+verifying the identity of the customer and any Beneficial Owners after the establishment of the business relationship under Rule 7.2.2(1);
+
+(b)
+
+deciding to reduce the frequency of, or as appropriate not undertake, customer identification updates;
+
+(c)
+
+deciding not to verify an identification document other than by requesting a copy;
+
+(d)
+
+reducing the degree of on-going monitoring of transactions, based on a reasonable monetary threshold or on the nature of the transaction; or
+
+(e)
+
+not collecting specific information or carrying out specific measures to understand the business relationship, but inferring such purpose and nature from the type of transactions or business relationship established.
+
+the purpose and
+
+intended nature of
+
+(2)
+
+The modification in (1) must be proportionate to the customer’s money laundering risks.
+
+Guidance
+
+1.
+
+Rule 7.5.1(1) provides examples of Simplified CDD measures. Other measures may also be used by a Relevant Person to modify CDD in accordance with the customer risks.
+
+2.
+
+A Relevant Person should not use a “one size fits all” approach for all its low risk customers. Notwithstanding that the risks may be low for all such customers, the degree of CDD undertaken needs to be proportionate to the specific risks identified on a case by case basis.
+
+39
+
+AML/VER27/03-25
+
+Anti-Money Laundering, Counter-Terrorist Financing and Sanctions Module (AML)
+
+3.
+
+A Relevant Person is not required to identify or verify Beneficial Owners for retail investment funds which are widely held and for investment funds where the investor invests via pension contributions.
+
+4.
+
+An example of circumstances where a Relevant Person might reasonably reduce the frequency of or, as appropriate, eliminate customer identification updates would be where the money laundering risks are low and the service provided does not offer a realistic opportunity for money laundering.
+
+5.
+
+An example of where a Relevant Person might reasonably reduce the degree of on-going monitoring and scrutinising of transactions, based on a reasonable monetary threshold or on the nature of the transaction, would be where the transaction is a recurring, fixed contribution to a savings scheme, investment portfolio or fund or where the monetary value of the transaction is not material for money laundering purposes given the nature of the customer and the transaction type.
+
+6.
+
+For the avoidance of doubt, a Relevant Person should not conduct

@@ -1,0 +1,65 @@
+ such as "low”, “medium” or "high", or a sliding, ordinal numeric scale such as 1 for the lowest risk to 10 for the highest, with at least three differentiated risk ratings. All the factors set out in both 7.1.2 and 7.1.3 should be considered in order to assess and allocate the appropriate risk rating to the customer.
+
+Confidential
+
+37
+
+AML VER10.020125
+
+2.
+
+Depending on the outcome of a Relevant Person's assessment of its customer's money laundering risk, a Relevant Person should decide to what degree CDD will need to be performed. For a customer exhibiting significant potential risk for money laundering the Relevant Person is required to carry out Enhanced CDD under Rule 8.4, in addition to the normal CDD required under Rule 8.3. For a customer rated low risk, the Relevant Person may be able to carry out Simplified CDD under Rule 8.5. For any other customer, the Relevant Person must undertake CDD under Rule 8.3.
+
+3.
+
+Using the RBA, a Relevant Person could, when assessing two customers with near identical risk profiles, consider that one is high-risk and the other low-risk. This may occur, for example, where both customers may be undertaking the same high-risk activity, but one customer may be a customer in relation to a low-risk product, or may be a long-standing customer of a Group company which has been introduced to the Relevant Person.
+
+Guidance on high-risk customers
+
+1.
+
+When assessing the risk factors referred to in 7.1.2(1), the presence of one or more risk factors may not always indicate a high risk of money laundering in a particular situation.
+
+2.
+
+An example of a business relationship conducted in unusual circumstances, for the purposes of Rule 7.1.2(1)(a)(i), would include, but is not limited to a business relationship or proposed business relationship that involves, or would involve, significant unexplained geographic distance between the location of the Relevant Person and the customer or proposed customer.
+
+3.
+
+The highest risk products or services in respect of money laundering are those where unlimited third-party funds can be freely received from or paid to third parties, without evidence of the identity of the third parties being obtained and the identity being verified.
+
+4.
+
+Money laundering risks are likely to be increased if a Person is able to hide behind corporate structures such as limited companies, trusts, special purpose vehicles and nominee arrangements. When devising its internal procedures, a Relevant Person should consider how its customers and operational systems impact the capacity of its staff to identify suspicious activities and Transactions. Generally, the lowest risk products in respect of money laundering are those where funds can only be received from a named customer by way of payment from an account held in the customer's name, and similarly where the funds can only be remitted to a named customer.
+
+Guidance on low-risk customers
+
+When assessing the risk factors referred to in 7.1.3(1), a Relevant Person must bear in mind that the presence or absence of one or more risk factors may not always indicate a high or low risk of money laundering respectively in a particular situation.
+
+Confidential
+
+38
+
+AML VER10.020125
+
+7.2
+
+Prohibition on establishing business relationships with certain customers
+
+7.2.1 A Relevant Person must not establish a business relationship with a prospective customer that is a Legal Person or Legal Arrangement if the ownership or control arrangements of the customer prevents the Relevant Person from identifying one or more of the customer's Beneficial Owners.
+
+7.2.2 A Relevant Person must not establish or maintain a business relationship with a Shell
+
+Bank.
+
+7.2.3 A Relevant Person must not knowingly establish or maintain an anonymous account, an account in a fictitious name, or a nominee account which is held in the name of one Person but which is controlled by or held for the benefit of another Person whose true identity has not been disclosed to the Relevant Person.
+
+Guidance
+
+1.
+
+In Rule 7.2.1, ownership arrangements which may prevent the Relevant Person from identifying one or more Beneficial Owners include bearer shares and other negotiable instruments in which ownership is determined by possession.
+
+2.
+
+A Shell Bank is a bank that has no physical presence in the country in which it is incorporated and licensed, and which is unaffiliated with a regulated financial Group that is subject to

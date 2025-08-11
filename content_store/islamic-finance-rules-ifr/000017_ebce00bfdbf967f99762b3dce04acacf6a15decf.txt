@@ -1,0 +1,95 @@
+ made using Musharaka or Mudaraba contracts with commodities as the underlying assets, an Authorised Firm must calculate its Commodities Risk Capital Requirement in accordance with PIB Rule 5.7.2.
+
+5.4.11
+
+An Authorised Firm which is exposed to the risk of foreign currencies and gold under any Islamic Contract, must calculate its Foreign Exchange Risk Capital Requirement in accordance with PIB Rule 5.6.2.
+
+5.4.12
+
+An Authorised Firm which is exposed to commodities including precious metals but excluding gold under any Islamic Contract, must calculate its Commodities Risk Capital Requirement in accordance with PIB Rule 5.7.2.
+
+5.4.13
+
+(1)
+
+Commodities held by an Authorised Firm for selling or leasing when executing a Murabaha, non-binding MPO, Salam or Parallel Salam Contract must be included in the calculation of its Commodities Risk Capital Requirement.
+
+(2) Where an Authorised Firm executes Salam and parallel Salam contracts, the resultant long and short positions may be set off for calculating the net open position, provided that the positions are in the same commodity, regardless of how its Commodities Risk Capital Requirement is calculated.
+
+5.4.14 Where an Authorised Firm executes Musharaka or Mudaraba contracts for investing in entities or investment vehicles that trade in foreign exchange, equities or commodities, it must include the relevant underlying assets in the calculation of its Market Risk Capital Requirement in accordance with PIB chapter 5.
+
+Concentration risk
+
+Guidance
+
+1.
+
+This section sets specific Large Exposure limits for assets financed by PSIAs, which are Unrestricted PSIAs. The DFSA uses these limits to provide constraints on the amount of Concentration Risk to which an Authorised Firm is subject in respect of its PSIA holdings. In assessing PSIA Large Exposures, an Authorised
+
+26
+
+IFR/VER21/03-25
+
+5.4.15
+
+5.4.16
+
+5.4.17
+
+ISLAMIC FINANCE RULES (IFR)
+
+Firms may take advantage of the exemptions and partial exemptions set out in PIB section A4.11.
+
+2.
+
+An Authorised Firm has a Large Exposure where its PSIA holders’ credit Exposure to a single Counterparty or issuer, or group of Closely Related or Connected Counterparties, is large in relation to the Authorised Firm’s Capital Resources. Where Exposure to a Counterparty or issuer is large, PSIA holders risk a large loss should the Counterparty default.
+
+3.
+
+Exposures arising from assets that are financed by an Authorised Firm’s own funds are dealt with in PIB section 4.15.
+
+Exposure limits
+
+An Authorised Firm Managing a PSIA, which is an Unrestricted PSIA, must not have an Exposure to a Counterparty or to a group of Closely Related Counterparties or to a group of Connected Counterparties that exceeds any one of the following percentages of its Capital Resources:
+
+(a)
+
+25% if financed by its Capital Resources or Unrestricted PSIAs; or
+
+(b)
+
+40% if financed by the total of its own Capital Resources and, Unrestricted PSIAs.
+
+Guidance
+
+In accordance with PIB section 4.15, the aggregate of an Authorised Firm’s Exposure to a Counterparty or to a group of Closely Related Counterparties may not exceed 25% of the Authorised Firm’s Capital Resources.
+
+The sum of an Authorised Firm’s non-exempt Large Exposures must not exceed 800% of its Capital Resources for Exposures funded by the Authorised Firm’s Capital Resources and Unrestricted PSIAs.
+
+An Authorised Firm must:
+
+(a)
+
+monitor and control its Exposures funded by PSIAs, which are Unrestricted PSIAs, on a daily basis to ensure they remain within the concentration risk limits specified in Rule 5.4.15; and
+
+(b)
+
+if a breach occurs, notify the DFSA immediately and confirm it in writing.
+
+27
+
+IFR/VER21/03-25
+
+6
+
+6.1
+
+6.1.1
+
+ISLAMIC FINANCE RULES (IFR)
+
+ISLAMIC COLLECTIVE INVESTMENT FUNDS
+
+Guidance
+
+This chapter contains additional requirements that apply to a Collective Investment Fund operated or held out as being operated as an Islamic

@@ -1,0 +1,207 @@
+ (Blank proxies) of Part 11 (Proxies and corporate representation) of Schedule 6 (Meetings and Correspondence).
+
+Time limits
+
+The ADGM Court Procedure Rules which provide for the calculation of periods of time expressed in days apply to the calculation of periods expressed in days in these Regulations.
+
+163
+
+(2)
+
+(3)
+
+4.
+
+5.
+
+(1)
+
+(2)
+
+6.
+
+(1)
+
+The beginning and the end of a period expressed in months in these Regulations are to be determined as follows—
+
+(a)
+
+if the beginning of the period is specified—
+
+(i)
+
+the month in which the period ends is the specified number of months after the month in which it begins; and
+
+(ii)
+
+the date in the month on which the period ends is—
+
+(aa)
+
+the date corresponding to the date in the month on which it begins; or
+
+(bb)
+
+if there is no such date in the month in which it ends, the last day of that month;
+
+(b)
+
+if the end of the period is specified—
+
+(i)
+
+the month in which the period begins is the specified number of months before the month in which it ends; and
+
+(ii)
+
+the date in the month on which the period begins is—
+
+(aa)
+
+the date corresponding to the date in the month on which it ends; or
+
+(bb)
+
+if there is no such date in the month in which it begins, the last day of that month.
+
+The provisions of the ADGM Court Procedure Rules which provide for the Court’s general powers of management apply so as to enable the Court to extend or shorten the time for compliance with anything required or authorised to be done by these Regulations.
+
+PART 2
+
+FORM AND CONTENT OF DOCUMENTS
+
+Requirement for writing
+
+A notice or statement must be in writing unless a provision in these Regulations provides otherwise.
+
+Form
+
+A document must be in electronic or hard-copy form.
+
+A document in electronic form must be capable of being—
+
+(a)
+
+read by the recipient in electronic form; and
+
+(b)
+
+reproduced by the recipient in hard-copy form.
+
+Authentication
+
+A document in electronic form is sufficiently authenticated—
+
+(a)
+
+if the identity of the sender is confirmed in a manner specified by the recipient; or
+
+164
+
+(b)
+
+where the recipient has not so specified, if the communication contains or is accompanied by a statement of the identity of the sender and the recipient has no reason to doubt the truth of that statement.
+
+(2)
+
+A document in hard-copy form is sufficiently authenticated if it is signed.
+
+(3)
+
+If a document is authenticated by the signature of an individual on behalf of—
+
+(a)
+
+a body of persons, the document must also state the position of that individual in relation to the body;
+
+(b)
+
+a body corporate of which the individual is the sole member, the document must also state that fact.
+
+7.
+
+Information required to identify persons and proceedings
+
+Where these Regulations require a document to identify various persons, provide contact details for an Office-holder or identify proceedings that must be done by providing the information set out below.
+
+Company or unregistered company
+
+In the case of a Company—
+
+(1)
+
+its registered name; and
+
+(2)
+
+its registered number or equivalent.
+
+In the case of a non-Abu Dhabi Global Market Company—
+
+(1)
+
+its name;
+
+(2)
+
+the country or territory in which it is incorporated;
+
+(3)
+
+the postal address of its principal place of business; and
+
+(4)
+
+the number, if any, under which it is so registered.
+
+Debtor
+
+(1)
+
+full name; and
+
+(2)
+
+residential address (subject to any order for limited disclosure under the ADGM Court Procedure Rules).
+
+Office-holder or proposed Office-holder
+
+(1)
+
+the name of the Office-holder or proposed Office-holder; and
+
+(2)
+
+the nature of the appointment held by the Office-holder or to be held by the proposed Office-holder.
+
+contact details for an Office-holder
+
+(1)
+
+a postal address for the Office- holder; and
+
+(2)
+
+either an email address, or a telephone number, through which the Office-holder may be contacted.
+
+165
+
+proceedings
+
+(1)
+
+to a for proceedings Company or unregistered company, the the Company or unregistered company; and
+
+relating
+
+information
+
+identifying
+
+(2)
+
+if applicable, any number assigned by the Court to those proceedings.
+
+PART 3
+
+STANDARD CONTENTS OF NOTICES TO BE PUBLISHED IN THE ABU

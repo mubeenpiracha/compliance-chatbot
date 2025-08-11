@@ -1,0 +1,111 @@
+Office of Data Protection
+
+Data Protection Guide
+
+February 2020 V.03: 18-Feb-2020
+
+Data Protection Guide
+
+1. Contents 2.
+
+Introduction ....................................................................................................................................... 3
+
+3. Overview ............................................................................................................................................ 4
+
+4. What is Data Protection? .................................................................................................................. 4
+
+5. What is ADGM’s Data Protection Regime? ....................................................................................... 4
+
+6. The Role and Responsibilities of the Data Controller ........................................................................ 4
+
+7.
+
+Five Key Principles of Data Protection: ............................................................................................. 5
+
+8. Requirements for Legitimate Processing of Personal Data ............................................................... 7
+
+9. Requirements for Processing Sensitive Personal Data ...................................................................... 8
+
+10. Notifications to the Registration Authority ....................................................................................... 8
+
+11. Transfers of Personal Data out of the ADGM: ................................................................................... 9
+
+12. Adequate level of protection .......................................................................................................... 10
+
+13. Transfers out of the ADGM in the absence of an adequate level of protection ............................. 11
+
+14. The use of consent for the purpose of data protection .................................................................. 11
+
+15. Difference between Personal Data and Sensitive Personal Data .................................................... 13
+
+16. Glossary of Defined Terms .............................................................................................................. 14
+
+Disclaimer ................................................................................................................................................ 15
+
+Office of Data Protection, Registration Authority
+
+Page 2 of 15
+
+Data Protection Guide
+
+2.
+
+Introduction
+
+Abu Dhabi Global Market
+
+2.1 Abu Dhabi Global Market (ADGM) is a broad based international financial center, established pursuant to Abu Dhabi Law No. 4 of 2013 in the Emirate of Abu Dhabi. With its own civil and commercial laws based on Common law, ADGM offers the local, regional and international business community a world-class legal system and regulatory regime.
+
+2.2 This guidance (“Guide”) is issued under section 28 of the Commercial Licensing Regulations 2015. The Guide has been prepared by the Registration Authority to assist ADGM registered entities in relation to data protection requirements.
+
+Registration Authority
+
+2.3 The Registration Authority is one of ADGM’s three independent authorities, together with the Financial Services Regulatory Authority and ADGM Courts. The Registration Authority is responsible for, among other things the registration and commercial licensing of businesses operating in or from Al Maryah Island, Abu Dhabi.
+
+The Office of Data Protection
+
+2.4 The ADGM Office of Data Protection is the data protection supervisor for the ADGM. The Office of Data Protection’s role is to administer the ADGM’s data protection regime (the Data Protection Regulations 2015 (as amended)), including maintaining a register of Data Controllers, enforcing the obligations upon Data Controllers and upholding the rights of individuals.
+
+2.5 The Office of Data Protection also provides guidance to registered entities and receives complaints
+
+from individuals.
+
+2.6 For more information and data protection resources, please go to the Office of Data Protection https://www.adgm.com/operating-in-adgm/office-of-data-
+
+micro-site protection/overview
+
+available
+
+at:
+
+2.7 For further information or enquiries please contact us via email at: Data.Protection@adgm.com
+
+Office of Data Protection, Registration Authority
+
+Page 3 of 15
+
+Data Protection Guide
+
+3. Overview
+
+3.1 This Guide has been written to assist ADGM registered entities in relation to ADGM’s data
+
+protection regime. This Guide covers:
+
+What is data protection; - - - - - -
+
+The five key principles of ADGM’s data protection regime; The rights of the Data Subject in relation to their personal data; The role and obligations of Data Controller and Data Processor; The process of transferring Personal Data and Sensitive Personal Data outside ADGM; The obligations to notify the Registration Authority; and The use of consent for the purpose of data protection.
+
+3.2 All capitalized terms are defined in a Glossary of defined terms at Section 16 of this Guide.
+
+4. What is Data Protection?
+
+4.1 Data protection is the process of safeguarding an individuals’ personal information, including how
+
+personal information is accessed, stored, disseminated and destroyed.
+
+4.2 Data protection regimes exist to create a balance between the rights of individuals to privacy and the needs of organizations to utilize data for the purposes of conducting their business, including sharing personal data with third parties.
+
+5. What is ADGM’s Data Protection Regime?
+
+5.1 ADGM’s

@@ -1,0 +1,149 @@
+ failing or has failed to comply with its obligations under the Law and the Rules, the Person must without undue delay:
+
+80
+
+MKT/VER24/03-25
+
+MARKETS RULES (MKT)
+
+(a)
+
+take reasonable steps to rectify the failure as soon as practicable; and
+
+(b)
+
+if the Person does not or is unable to rectify the failure as soon as practicable notify the DFSA of that fact.
+
+7.2.6 A Person required to appoint a compliance adviser must provide to the DFSA any information in such form and within such time as the DFSA may reasonably require regarding its compliance adviser or any advice the compliance adviser is providing, or has provided, to the Person regarding its continuing obligations under the Law and the Rules.
+
+7.2.7 A Person required to appoint a compliance adviser must take reasonable steps to ensure its compliance adviser cooperates in any investigation conducted by the DFSA including answering promptly and openly any questions addressed to the compliance adviser, promptly producing the originals or copies of any relevant documents and attending before any meeting or hearing at which the compliance adviser is requested to appear.
+
+Co-operation with compliance advisers
+
+7.2.8 A Person required to appoint a compliance adviser must take reasonable steps to
+
+ensure that it and its Employees:
+
+(a)
+
+provide such assistance as the compliance adviser reasonably requires to discharge its duties;
+
+(b)
+
+give the compliance adviser right of access at all reasonable times to relevant records and information;
+
+(c)
+
+do not hinder or interfere with the compliance adviser’s ability to discharge its duties;
+
+(d)
+
+do not withhold information that would assist the compliance adviser advising the Person of its duties;
+
+(e)
+
+do not provide misleading or deceptive information to the compliance adviser; and
+
+(f)
+
+report to the compliance adviser any matter which may significantly affect the financial position of the Person or the price or value of the Securities.
+
+Termination of compliance adviser
+
+7.2.9 Where a Person dismisses its compliance adviser, the Person must advise the DFSA in writing without delay of the dismissal, giving details of all relevant facts and circumstances.
+
+7.2.10 Where a compliance adviser resigns, the Person must without delay advise the DFSA in writing of the resignation, giving details of all relevant facts and circumstances.
+
+81
+
+MKT/VER24/03-25
+
+MARKETS RULES (MKT)
+
+8
+
+SYSTEMS AND CONTROLS
+
+8.1 Application
+
+8.1.1
+
+This chapter applies to:
+
+(a)
+
+every Reporting Entity;
+
+(b)
+
+the Board or the Governing Body of a Reporting Entity.
+
+Adequacy of systems and controls
+
+8.1.2
+
+(1)
+
+A Reporting Entity must have appropriate systems and controls to be able to demonstrate compliance with the requirements applicable to it including those set out in the Law and the Rules.
+
+(2)
+
+The Board of the Reporting Entity, and in the case of a Reporting Entity of a Listed Fund, its Governing Body, must ensure that that there are adequate systems and controls established and maintained on an on-going basis to meet the requirement in (1).
+
+(3) Without limiting the generality of the requirement in (1), the systems and
+
+controls of a Reporting Entity must include:
+
+(a)
+
+mechanisms to monitor compliance with the requirements relating to Corporate Governance, Connected Persons, Restricted Persons, Related Party Transactions, and control of Inside Information; and
+
+(b)
+
+where any records are required to be maintained, maintenance of such records at least for a period of 6 years, unless a shorter period is prescribed.
+
+(4)
+
+The DFSA may, where it considers appropriate to do so, require a Reporting Entity to produce third party confirmation on the adequacy of systems and controls established and maintained by a Reporting Entity.
+
+82
+
+MKT/VER24/03-25
+
+MARKETS RULES (MKT)
+
+9
+
+THE LISTING RULES
+
+9.1 Application
+
+9.1.1
+
+(1)
+
+This chapter applies to every:
+
+(a)
+
+Listed Entity; and
+
+(b)
+
+Applicant for admission of Securities to the Official List of Securities.
+
+(2)
+
+In this chapter:
+
+(a)
+
+a “Listed Entity” means the Reporting Entity of Securities which are admitted to the Official List of Securities;
+
+(b)
+
+“Applicant” means an applicant for admission of Securities to the Official List of Securities and includes, where the context requires, the Issuer; and
+
+(c)
+
+a reference to Listed Securities is

@@ -1,0 +1,97 @@
+ Enactment requires Information to be in writing, or provides for certain consequences if Information is not in writing, an Electronic Record satisfies that requirement if the Information within it is accessible so as to be usable for subsequent reference.
+
+3.
+
+Provision of Information in writing and presentation of Electronic Records
+
+(1)
+
+If parties have agreed to conduct a transaction by Electronic means or an Enactment requires a person to provide, send, or deliver Information in writing to another person, the requirement is satisfied if the Information is provided, sent, or delivered, as the case may be, in an Electronic Communication capable of retention once it is received.
+
+(2) For the purposes of section 3(1), Information is not capable of retention if the Originator or the Originator’s Information System inhibits the ability of the Addressee to access the Information for subsequent reference or retain the Electronic Communication.
+
+(3)
+
+If an Originator inhibits the ability of an Addressee to access the Information for subsequent reference or retain an Electronic Record, the Electronic Record is not enforceable against the Addressee.
+
+4. Conditions for Retention of Electronic Records
+
+(1) Where an Enactment requires a Record
+
+to be retained, or provides for certain consequences if it is not retained, that requirement is satisfied by retaining the Record in an Electronic Record if the following conditions are satisfied:
+
+(a)
+
+the Electronic Record preserves a Record of the Information it contains and is accessible so as to be usable for subsequent reference;
+
+(b)
+
+the Electronic Record is retained in the format in which it was originally created, or replicate the original in a format which can be demonstrated to accurately
+
+4
+
+Information;
+
+(c)
+
+Information contained in the Electronic Record, if any, is retained as enables the identification of the origin and destination of the Electronic Record, any party that sent or received the Electronic Record and the date and time the Electronic Record was sent or received; and
+
+(d)
+
+any additional requirements relating to the retention of such Electronic Records specified in an Enactment are complied with.
+
+(2) Section 4 (1) does not extend to the Electronic Communication used to send or receive the
+
+Electronic Record.
+
+(3) A person may satisfy the requirements referred to in section 4 (1) by using the services
+
+of a third party, if the conditions in sections 4(1) are complied with.
+
+(4)
+
+If an Enactment requires a Record to be presented or retained in its original form, or provides for certain consequences if the Record is not presented or retained in its original form, that requirement is satisfied by an Electronic Record retained in accordance with section 4(1) unless the Enactment expressly prohibits the use of an Electronic Record for the specified purpose.
+
+(5)
+
+If an Enactment requires the retention of a cheque, bill of exchange or promissory note, that requirement is satisfied by retention of an Electronic Record of the Information on the front of the bill of exchange or promissory note or the front and back of the cheque, in accordance with section 4(1).
+
+(6) A Record retained as an Electronic Record in accordance with section 4 (1) satisfies an Enactment requiring a person to retain a Record for evidentiary, audit, or similar purposes, unless the Enactment expressly prohibits the use of an Electronic Record for the specified purpose.
+
+5. Admissibility of Electronic Records in evidence
+
+An Electronic Record may be used as evidence of a Record in any Court proceedings.
+
+PART 2
+
+ELECTRONIC CONTRACTS
+
+6.
+
+Legal recognition of Electronic contracts
+
+An Electronic Record of a contract has the same legal effect, validity and enforceability as if it was in tangible written form.
+
+7.
+
+Formation and validity of contracts in an Electronic Communication
+
+(1)
+
+In the context of the formation of contracts, an offer and the acceptance of an offer may be made in an Electronic Communication.
+
+(2) Where an Electronic Communication is used in the formation of a contract, that contract has the same legal effect, validity and enforceability as if it was in tangible written form.
+
+5
+
+8.
+
+Effectiveness of intent or other statement
+
+Where an Electronic Communication is used for a declaration of intent or other statement, such intent or statement has the same legal effect, validity and enforceability as if it was made in tangible written form.
+
+9.
+
+Invitation to make an offer
+
+A proposal to conclude a contract made through Electronic

@@ -1,0 +1,212 @@
+6 and ≤ 12.0 y > 12 and ≤ 20 y
+
+200
+
+300
+
+0
+
+100
+
+300
+
+0
+
+5.25%
+
+6.00%
+
+8.00%
+
+10.50
+
+18.00
+
+5.25
+
+18.00
+
+5.25
+
+18.00
+
+5.25
+
+0.00
+
+> 20 y
+
+0
+
+0
+
+12.50%
+
+Total
+
+55.35
+
+4.30
+
+Total General Market Risk requirement = 10% ($55.35) + 40% ($0.00) + 30% ($0.00 + $4.50) + 40% ($1.30 + $3.95) + 100% ($4.30) + 100% ($0.00) = $13.29
+
+341
+
+PRU VER17.290725
+
+Duration Method
+
+A6.2.19 An Authorised Person with the necessary capability may, with the written consent of the Regulator, use the Duration Method, which produces a more accurate measure for General Market Risk than the Maturity Method. An Authorised Person must elect and use the Duration Method on a continuous basis and will be subject to supervisory monitoring of the systems used.
+
+A6.2.20 Under the Duration Method, the following steps must be carried out:
+
+(a)
+
+the duration weighted position for each instrument must be calculated by multiplying the market value of each individual long or short net position by the Modified Duration in years and the assumed interest rate change in the table below;
+
+(b)
+
+the sum of the weighted long and the sum of the weighted short positions in each time band must be calculated;
+
+(c)
+
+these weighted long and short positions must be matched within a maturity band to give the total matched weighted position in the maturity band and the total unmatched weighted position which will be long or short in the maturity band;
+
+(d)
+
+the matched weighted positions in all maturity bands must be summed;
+
+(e)
+
+the unmatched weighted positions in all the maturity bands must then be matched within a zone leaving an unmatched position for the zone (which will either be short or long); and
+
+(f)
+
+the unmatched positions in each zone must be matched with the unmatched positions in other zones leaving the residual unmatched weighted position.
+
+Assumed move in interest
+
+Zone
+
+Modified Duration
+
+rates
+
+≤ 1 month
+
+1.00%
+
+> 1 and ≤ 3 months
+
+1.00%
+
+A
+
+> 3 and ≤ 6 months
+
+1.00%
+
+> 6 and ≤ 12 months
+
+1.00%
+
+> 1.0 and ≤ 1.9 years
+
+0.90%
+
+B
+
+> 1.9 and ≤ 2.8 years
+
+0.80%
+
+> 2.8 and ≤ 3.6 years
+
+0.75%
+
+> 3.6 and ≤ 4.3 years
+
+0.75%
+
+> 4.3 and ≤ 5.7 years
+
+0.70%
+
+C
+
+> 5.7 and ≤ 7.3 years
+
+0.65%
+
+> 7.3 and ≤ 9.3 years
+
+0.60%
+
+342
+
+PRU VER17.290725
+
+Assumed move in interest
+
+Zone
+
+Modified Duration
+
+rates
+
+> 9.3 and ≤ 10.6 years
+
+0.60%
+
+> 10.6 and ≤ 12.0 years
+
+0.60%
+
+> 12.0 and ≤ 20.0 years
+
+0.60%
+
+> 20 years
+
+0.60%
+
+A6.2.21 For the purposes of this Section Modified Duration is calculated as follows:
+
+Modified Duration =
+
+r)(1+D
+
+where:
+
+𝐷 =
+
+∑
+
+∑
+
+𝑚 𝑡=1
+
+𝑚 𝑡=1
+
+𝑡.𝐶𝑡 (1 + 𝑟)𝑡 𝐶𝑡 (1 + 𝑟)𝑡
+
+r = yield to maturity
+
+Ct = cash payment in time t
+
+m = total maturity
+
+A6.2.22 The General Market Risk requirement for each currency must be calculated as the sum
+
+of the following:
+
+(a)
+
+5% of the matched weighted positions in each time band;
+
+(b)
+
+40% of the matched weighted position in zone A;
+
+(c)
+

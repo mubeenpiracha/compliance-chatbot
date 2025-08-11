@@ -1,0 +1,101 @@
+ hedging using swaps or other derivatives. Any such major hedging or risk management initiatives should be approved in advance by the Asset Liability Committee (ALCO) or the Governing Body of the Authorised Firm.
+
+The Non-Trading Book interest rate risk measurement systems referred to in Rule 7.4.1(2)(c) should encompass all material drivers of the risk. Such systems should evaluate the effect of rate changes on earnings or economic value meaningfully and accurately within the context and complexity of their activities. They should be able to flag any excessive Exposures. An effective risk measurement system should address the following:
+
+a.
+
+evaluate all significant interest rate risk arising from the full range of an Authorised Firm's assets, liabilities and off-balance sheet positions, both trading and non-trading;
+
+b.
+
+ensure that an integrated view of interest rate risk across products and business lines is available to management, particularly when different measurement systems and methods are used across different business lines;
+
+c.
+
+employ generally accepted financial models and ways of measuring risk; and
+
+d.
+
+ensure accurate and timely data on all aspects related to current positions.
+
+Authorised Firms should measure their vulnerability to loss in stressed market conditions, including the breakdown of key assumptions, and consider those results when establishing and reviewing their policies and limits for interest rate risk. Possible stress scenarios for this exercise should include:
+
+a.
+
+historical scenarios such as the Asian Crisis in the late 1990s;
+
+b.
+
+changes in the general level of interest rates, e.g. changes in yields of 200 basis points or more in one year;
+
+c.
+
+changes in the relationships between key market rates (i.e. basis risk), e.g.
+
+i.
+
+a surge in term and savings deposit rates and benchmark rates but no change in the prime rate, and
+
+ii.
+
+a drop in the prime rate but no change in term and savings deposit rates and benchmark rates;
+
+d.
+
+changes in interest rates in individual time bands to different relative levels (i.e. yield curve risk);
+
+196
+
+PIB/VER50/07-25
+
+7.4.3
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+e.
+
+changes in the liquidity of key financial markets or changes in the volatility of market rates; and
+
+f.
+
+changes in key business assumptions and parameters such as the correlation between two currencies. In particular, changes in assumptions used for illiquid instruments and instruments with uncertain contractual maturities help understanding of an Authorised Firm’s risk profile.
+
+5.
+
+An Authorised Firm should consider the standards for stress testing recommended in the paper published in July 2004 by the Basel Committee for Banking Supervision – Principles for management and supervision of interest rate risk – in developing the stress testing scenarios. In particular, an Authorised Firm should include the technical specifications of a standardised interest rate shock detailed in Annex 3 of that paper.
+
+Responsibilities of Governing Body
+
+(1)
+
+An Authorised Firm must ensure that its Governing Body is responsible for monitoring the nature and level of Non-Trading Book interest rate risk assumed by the Authorised Firm and the process used to manage that risk.
+
+(2)
+
+Without limiting the operation of (1), the responsibilities of an Authorised Firm’s Governing Body in respect of the risk include:
+
+(a) approving the Authorised Firm’s Non-Trading Book interest rate risk
+
+policy, including its strategy and management framework;
+
+(b) establishing and maintaining a senior management structure for the management of the risk and for ensuring compliance with the Authorised Firm’s risk strategy;
+
+(c) monitoring the Authorised Firm’s overall Non-Trading Book interest rate risk profile on a regular basis and being aware of any material changes in the Authorised Firm’s current or prospective profile; and
+
+(d) ensuring that Non-Trading Book interest rate risk is adequately
+
+identified, assessed, mitigated, controlled and monitored.
+
+Guidance
+
+1.
+
+The Governing Body of the Authorised Firm may delegate responsibility for establishing Non- Trading Book interest rate risk policies and strategies to the Asset and Liability Committee (ALCO) or an equivalent committee, which is the designated senior management committee for managing balance sheet structure and interest rate risk associated with it.
+
+2.
+
+An Authorised Firm involved in banking activities or complex principal dealing activities should have a designated committee for design and implementation of Non-Trading Book interest rate risk management.
+
+3.
+
+An Authorised Firm should establish and enforce operating

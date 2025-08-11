@@ -1,0 +1,143 @@
+ of the Listed Fund; and
+
+(b)
+
+for avoidance of doubt, a person does not become a Reporting Entity of a Listed Fund by merely offering the Units of the Fund to the public, unless the Units are also admitted to an Authorised Market Institution.
+
+(c)
+
+in the case of a Fund, other than a Listed Fund, where the Units are Security Tokens admitted to trading on an Alternative Trading System:
+
+(i)
+
+a reference to a Reporting Entity is a reference to the Fund Manager of that Fund or such other person as the DFSA may declare; and
+
+20
+
+(3)
+
+(4)
+
+(5)
+
+(6)
+
+(ii)
+
+any obligations of a Reporting Entity are, unless the context requires otherwise, obligations in respect of that Fund.
+
+A person is not a Reporting Entity:
+
+(a)
+
+if the person:
+
+(i)
+
+is an Exempt Offeror; or
+
+(ii)
+
+has made an Offer of Securities to the Public where that offer is an Exempt Offer;
+
+(b)
+
+if:
+
+(i)
+
+the person previously had Securities admitted to an Official List of Securities but currently has no Securities admitted to an Official List of Securities;
+
+(ii)
+
+the current holders of at least seventy five per cent of the Securities of the Reporting Entity or the Listed Fund, as is relevant, have agreed in writing that the person is no longer needed to be a Reporting Entity; and
+
+(iii)
+
+the DFSA has confirmed in writing upon being notified of the grounds referred to in Article 38(3)(b)(i) and (ii) that the person need no longer be a Reporting Entity; or
+
+(c)
+
+in the case of a person referred to in Article 38(1)(a), (b), (c) or (d) if that person is declared by the DFSA pursuant to Article 38(4)(a)(ii) not to be a Reporting Entity.
+
+The DFSA may upon application of a person or on its own initiative:
+
+(a)
+
+declare in writing that a person is:
+
+(i)
+
+a Reporting Entity; or
+
+(ii)
+
+not a Reporting Entity; and
+
+(b)
+
+impose such conditions or restrictions as it considers appropriate in respect of such a declaration.
+
+The procedures in Schedule 3 to the Regulatory Law 2004 apply to a decision of the DFSA under Article 38(4).
+
+If the DFSA decides to exercise its power under Article 38(4), the person may refer the matter to the FMT for review.
+
+21
+
+(7)
+
+(8)
+
+(9)
+
+The DFSA may, by Rules, prescribe requirements applicable to Reporting Entities including any circumstances in which such requirements may not apply to certain Reporting Entities.
+
+The DFSA may, by Rules, extend the requirements applicable to a Reporting Entity to any person who intends to undertake any activity specified in Article 38(1)(a), (b), (c) or (d) where it considers appropriate to do so.
+
+A reference to a Reporting Entity in the Law and the Rules made for the purposes of the Law includes, except where otherwise provided or the context implies otherwise, a person intending to have Securities admitted to trading on an Authorised Market Institution.
+
+22
+
+CHAPTER 2: GOVERNANCE OF REPORTING ENTITIES
+
+39.
+
+Corporate governance
+
+(1)
+
+A Reporting Entity shall have a corporate governance framework which is adequate to promote prudent and sound management of the Reporting Entity in the long-term interest of the Reporting Entity and its shareholders.
+
+(2)
+
+For the purposes of the requirement in Article 39(1), the DFSA shall, by Rules, prescribe:
+
+(a)
+
+corporate governance principles and standards that apply to a Reporting Entity, including any requirements applicable to its board of Directors and individual members, controllers, employees or any other person as appropriate;
+
+(b)
+
+requirements relating to fair treatment of shareholders; and
+
+(c)
+
+provisions to address conflicts of interests.
+
+(3)
+
+The DFSA may, by Rules, prescribe any circumstances in which such requirements do not apply to certain Reporting Entities.
+
+CHAPTER 3 – MARKET DISCLOSURE
+
+40.
+
+Database
+
+(1)
+
+The DFSA shall establish and maintain an electronic data gathering, analysis and retrieval system (the “database”) for the receipt and storage of information filed or disclosed under this Part and any Rules made under this Part. The database is for the purpose of making information available to the public except where such information is confidential as prescribed in the Rules.
+
+(2)
+
+The DFSA may delegate to any person all

@@ -1,0 +1,89 @@
+ persons who meet the criteria to be classified as
+
+Professional Clients; and
+
+iii. requires an initial subscription of at least US$50,000 to be paid by a person
+
+to become a Unitholder in the Fund.
+
+3.
+
+Under Article 54(2) of the Law, the DFSA has the power to prescribe any additional criteria, requirements or conditions that apply to the Offer of Units of a Foreign Fund, including disclosure that must be included in a Prospectus and the legal form and structure of the Fund such as being Open-ended or Closed ended or listed or not. This section contains additional criteria and requirements prescribed pursuant to Article 54(2) of the Law.
+
+4.
+
+The DFSA has specified that Passported Funds under the Fund Protocol for which the DFSA is the Host Regulator, are Designated Funds for the purposes of Article 54(1)(a)(i) of the Law. The effect of that designation is that an Authorised Firm may Offer a Unit of such a Foreign Fund. Rule 15.1.1 specifies which requirements in this chapter apply to an Authorised Firm marketing such a Passported Fund.
+
+5.
+
+An Authorised Firm should be mindful that, when Offering Units of a Foreign Fund, it remains subject to overarching obligations applicable to Authorised Firms, including but not limited to GEN chapters 3 (Financial Promotions) and 5 (Systems and controls requirements), GEN section 4.2 (The Principles for Authorised Firms) and COB section
+
+143
+
+CIR/VER38/08-24
+
+COLLECTIVE INVESTMENT RULES (CIR)
+
+3.4 (Suitability) and chapter 6 (Additional Rules - Investment Business and Crypto Business).
+
+Application
+
+15.1.1
+
+Only Rules 15.1.1A, 15.1.2, 15.1.4, 15.1.5(a), 15.1.8, 15.1.9, 15.1.10 and 15.1.11 apply to an Offer of a Unit of a Foreign Fund that is a Passported Fund where the DIFC is the Host Jurisdiction.
+
+Clients to whom Offers of Units of Foreign Funds can be made
+
+15.1.1A An Authorised Firm must not, in or from the DIFC, Offer a Unit of a Foreign Fund to a Retail Client unless the Units of the Foreign Fund can be offered, under the home jurisdiction regulation applying to that Fund, to retail investors.
+
+Prospectus disclosure relating to Foreign Funds
+
+15.1.2 Where an Authorised Firm Offers a Unit of a Foreign Fund to a Person, it must make available to that Person a copy of a current Prospectus relating to the Fund which complies with:
+
+(a)
+
+the additional requirements in Rule 15.1.3 at the time of the Offer; or
+
+(b)
+
+for a Passported Fund, the relevant requirements of the Home Jurisdiction, including its relevant Fund Protocol rules or regulations.
+
+Guidance
+
+Under Article 50(3)(c) of the Law, a Prospectus includes, in the case of a Foreign Fund the Units of which are marketed in or from the DIFC, any prospectus or other disclosure document prepared in accordance with the laws applicable to that Foreign Fund.
+
+15.1.3
+
+(1)
+
+The Prospectus of a Foreign Fund made available by an Authorised Firm must be in the English language.
+
+(2)
+
+The Prospectus must contain in a prominent position, or have attached to it, a statement that clearly:
+
+(a)
+
+describes the foreign jurisdiction and the legislation in that jurisdiction that applies to the Fund;
+
+(b)
+
+states the name of the relevant Financial Services Regulator in that jurisdiction;
+
+(c)
+
+describes the regulatory status accorded to the Fund by that Regulator;
+
+(d)
+
+includes the following warning:
+
+“This Prospectus relates to a Fund which is not subject to any form of regulation or approval by the Dubai Financial Services Authority (“DFSA”).
+
+144
+
+CIR/VER38/08-24
+
+COLLECTIVE INVESTMENT RULES (CIR)
+
+The DFSA has no responsibility for reviewing or verifying any Prospectus or other documents in connection with this Fund. Accordingly, the DFSA has not approved this Prospectus or any other associated documents nor taken any steps to verify the information set out in this Prospectus, and

@@ -1,0 +1,345 @@
+ between zones A and C; and
+
+(f)
+
+100% of the residual unmatched weighted positions.
+
+Guidance
+
+A worked example under the Maturity Method of the General Market Risk requirement calculation is as follows:
+
+339
+
+PRU VER17.290725
+
+Zone
+
+Time band (m = months, y = years)
+
+Coupon ≥3%
+
+Coupon <3%
+
+≤ 1m
+
+0 ≤ 1m
+
+> 1 and ≤ 3m > 1 and ≤ 3m
+
+A
+
+> 3 and ≤ 6 m > 6 and ≤ 12 m
+
+> 3 and ≤ 6 m
+
+> 6 and ≤ 12 m
+
+B
+
+> 1 and ≤ 2 y
+
+> 2 and ≤ 3 y
+
+> 3 and ≤ 4 y
+
+> 1.0 and ≤ 1.9 y > 1.9 and ≤ 2.8 y > 2.8 and ≤ 3.6 y
+
+C
+
+> 4 and ≤ 5 y
+
+> 5 and ≤ 7 y
+
+> 7 and ≤ 10 y > 10 and ≤ 15 y
+
+> 3.6 and ≤ 4.3 y > 4.3 and ≤ 5.7 y > 5.7 and ≤ 7.3 y > 7.3 and ≤ 9.3 y
+
+Aggregate positions per time band ($)
+
+Long
+
+Short
+
+100
+
+50
+
+200
+
+100
+
+300
+
+200
+
+400
+
+300
+
+100
+
+200
+
+200
+
+300
+
+300
+
+400
+
+100
+
+100
+
+200
+
+200
+
+300
+
+100
+
+100
+
+200
+
+Risk percentages
+
+0.00%
+
+0.20%
+
+0.40%
+
+0.70%
+
+1.25%
+
+1.75%
+
+2.25%
+
+2.75%
+
+3.25%
+
+3.75%
+
+4.50%
+
+340
+
+Long
+
+0.00
+
+0.40
+
+1.20
+
+2.80
+
+1.25
+
+3.50
+
+6.75
+
+2.75
+
+6.50
+
+11.25
+
+4.50
+
+Aggregate positions per time band – weighted ($) (M = matched, U = unmatched) By time band
+
+By zone
+
+Between zones
+
+Short
+
+M
+
+U
+
+M
+
+U
+
+M
+
+U
+
+0.00
+
+0.00
+
+0.00
+
+0.20
+
+0.20
+
+0.20 0.00 1.30
+
+0.80
+
+0.80
+
+0.40
+
+2.10
+
+2.10
+
+0.70
+
+2.50
+
+5.25
+
+1.25
+
+3.50
+
+1.25
+
+1.75 0.00
+
+5.25
+
+Zones A&B 1.30
+
+9.00
+
+6.75
+
+2.25
+
+Zones A&C 0.00
+
+2.75
+
+6.50
+
+2.75
+
+6.50
+
+0.00
+
+0.00
+
+Zones B&C 3.95
+
+3.75
+
+3.75
+
+7.50
+
+9.00
+
+4.50
+
+4.50 4.50 8.25
+
+PRU VER17.290725
+
+Zone
+
+Time band (m = months, y = years)
+
+Aggregate positions per time band ($)
+
+Risk percentages
+
+Aggregate positions per time band – weighted ($) (M = matched, U = unmatched) By time band
+
+By zone
+
+Between zones
+
+Coupon ≥3%
+
+Coupon <3%
+
+Long
+
+Short
+
+Long
+
+Short
+
+M
+
+U
+
+M
+
+U
+
+M
+
+U
+
+> 15 and ≤ 20 y
+
+> 20 y
+
+> 9.3 and ≤ 10.6 y > 10.6 and ≤ 12.0 y > 12 and ≤ 20 y
+
+200
+
+300
+
+0
+
+100
+
+300
+
+0
+
+5.25%
+
+6.00%
+
+8.00%
+
+10.50
+
+18.00
+
+5.25
+
+18.00
+
+5.25
+
+18.00
+
+5.25
+
+0.00
+
+> 20 y
+
+0
+
+0
+
+12.50%
+
+Total
+
+55.35
+
+4.30
+
+Total General Market Risk requirement = 10% ($55.35) + 40% ($0.00) +

@@ -1,0 +1,139 @@
+)
+
+An Authorised Person must implement and maintain an Operational Risk policy which enables it to identify, assess, control and monitor Operational Risk.
+
+(2)
+
+The policy must be documented and provide for a sound and well-defined risk management framework to address the Authorised Person's Operational Risk.
+
+(3)
+
+An Authorised Person must:
+
+(a)
+
+ensure that its risk management systems enable it to implement the Operational Risk policy;
+
+(b)
+
+identify, assess, mitigate, control and monitor the risk; and
+
+(c)
+
+review and update the policy at intervals that are appropriate to the nature, scale and complexity of its activities.
+
+6.2.2
+
+An Authorised Person must ensure that its Governing Body approves the Operational Risk policy in Rule 6.2.1.
+
+Guidance
+
+1.
+
+Some of the key aspects that an Authorised Person should consider in its Operational Risk policy include:
+
+a.
+
+the governance structures used to manage Operational Risk, including reporting lines and accountabilities;
+
+b.
+
+risk assessment tools and how they are used;
+
+c.
+
+the Authorised Person's accepted Operational Risk appetite, permissible thresholds or tolerances for inherent and residual risk, and approved risk mitigation strategies and instruments;
+
+d.
+
+the Authorised Person's approach to establishing and monitoring thresholds or tolerances for inherent and residual risk Exposure;
+
+e.
+
+risk reporting and MIS; and
+
+f.
+
+appropriate independent review and assessment of the Authorised Person's Operational Risk framework.
+
+2.
+
+An Authorised Person's Operational Risk policy should, amongst other things, include consideration of Principles for the Sound Management of Operational
+
+186
+
+PRU VER17.290725
+
+Risk, issued by the BCBS and the Guidelines on the management of Operational Risk in market-related activities issued by the European Banking Authority which are useful in relation to activities other than banking.
+
+Governing Body responsibilities
+
+1.
+
+The GEN rules contain Rules and Guidance regarding corporate governance requirements for Authorised Persons, including the responsibilities of an Authorised Person regarding risk management.
+
+2.
+
+In developing, implementing and maintaining an effective Operational Risk framework, an Authorised Person's Governing Body should:
+
+a.
+
+approve and review a risk appetite and tolerance for Operational Risk that articulates the nature, types and levels of Operational Risk that the Authorised Person is willing to assume;
+
+b.
+
+consider all relevant risks, the Authorised Person's level of risk appetite, its current financial condition and its strategic direction. The Governing Body should monitor management adherence to the risk appetite and tolerance and provide for timely detection and remediation of breaches;
+
+c.
+
+encourage a management culture, and develop supporting processes, which help to engender within the Authorised Person an understanding by relevant Employees of the nature and scope of the Operational Risk inherent in the Authorised Person's strategies and activities;
+
+d.
+
+provide senior management with clear guidance and direction the Authorised Person's regarding Operational Risk management the corresponding policies developed by senior management;
+
+the principles underlying
+
+framework and approve
+
+e.
+
+regularly review the Authorised Person's Operational Risk policy to ensure that the Authorised Person has identified and is managing the Operational Risk arising from external market changes and other environmental factors, as well as those Operational Risks associated with new strategies, products, activities, or systems, including changes in risk profiles and priorities (e.g. changing business volumes). Such review should also take into account the Operational Risk loss experience, the frequency, volume or nature of limit breaches, the effectiveness of risk management or mitigation strategies;
+
+the quality of
+
+the control environment and
+
+f.
+
+ensure that the Authorised Person's Operational Risk policy and framework is subject to effective independent review by audit or other appropriately-trained Persons;
+
+187
+
+PRU VER17.290725
+
+g.
+
+ensure that management is incorporating industry best practice in managing Operational Risk; and
+
+h.
+
+establish clear lines of management responsibility and accountability for implementing a strong control environment. The control environment should provide appropriate independence/separation of duties between Operational Risk control functions, business lines and support functions.
+
+Senior Management Responsibilities
+
+1.
+
+The GEN rules contain Rules and Guidance regarding senior management arrangements for Authorised Persons.
+
+2.
+
+In relation to establishing and maintaining a robust Operational Risk framework, an Authorised Person's senior management should:
+
+a.
+
+translate the Operational Risk management framework established by the Governing Body into specific policies and procedures that can be implemented and verified within the different business units;
+
+b.
+
+clearly assign authority, responsibility and reporting relationships to encourage and maintain accountability, and to ensure that the necessary resources are available to manage

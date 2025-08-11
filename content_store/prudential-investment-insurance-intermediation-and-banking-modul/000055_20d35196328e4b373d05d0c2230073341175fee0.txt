@@ -1,0 +1,125 @@
+ised Firm designated by the DFSA as a G-SIB must maintain a
+
+Leverage Ratio of at least the sum of 3% plus 50% of its HLA Ratio.
+
+(3) An Authorised Firm designated by the DFSA as a D-SIB must maintain a
+
+Leverage Ratio of at least 3.5%.
+
+(4) The DFSA may, by written notice, require an Authorised Firm to maintain a higher minimum Leverage Ratio than the percentage specified in (1), (2) or (3) if it considers it necessary to do so, and the Authorised Firm must comply with that requirement.
+
+Guidance
+
+1.
+
+In calculating its minimum Leverage Ratio under Rule 3.18.4(2) an Authorised Firm that, for example, is subject to a 2% HLA Ratio for being a G-SIB, should have a Leverage Ratio of at least 4%, consisting of 3% (the minimum Leverage Ratio) plus 1% (50% of its HLA Ratio).
+
+2.
+
+Circumstances in which the DFSA may require a higher minimum Leverage Ratio under Rule 3.18.4(4) include where:
+
+a.
+
+it is necessary due to the Authorised Firm’s risk profile;
+
+b.
+
+it has received a request from a regulator as part of measures to preserve financial stability; or
+
+c.
+
+it considers it reasonably necessary due to any other circumstances.
+
+83
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+84
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+4
+
+CREDIT RISK
+
+Introduction
+
+Guidance
+
+1.
+
+Chapter 4 deals with the prudential requirements relating to the management of Credit Risk by an Authorised Firm. Credit Risk refers to risk of incurring losses due to failure on the part of a borrower or a counterparty to fulfil their obligations in respect of a financial transaction.
+
+2.
+
+This chapter aims to ensure that an Authorised Firm holds sufficient regulatory capital of acceptable quality so that it can absorb unexpected losses arising out of its Credit Risk exposures, should the need arise and that it continues to operate in a sustainable manner.
+
+3.
+
+This chapter requires an Authorised Firm to:
+
+a.
+
+appropriately apply a risk-weight to all on-balance sheet assets and off-balance sheet exposures for capital adequacy purposes. A risk-weight is based on a Credit Quality Grade aligned with the likelihood of counterparty default;
+
+b.
+
+calculate the Credit Risk Capital Requirement for its on-balance sheet assets and off- balance sheet exposures; and
+
+c.
+
+reduce the Credit Risk Capital Requirement for its on-balance sheet assets and off- balance sheet exposures where the exposure is covered fully or partly by some form of eligible Credit Risk mitigant.
+
+4.
+
+Appendix 4 provides detailed requirements, parameters, calculation methodologies and formulae in respect of the primary requirements outlined in chapter 4.
+
+PART 1 – Application
+
+4.1
+
+Application
+
+4.1.1
+
+This chapter applies to an Authorised Firm in Category 1, 2, 3A or 5.
+
+Guidance
+
+1.
+
+This chapter imposes systems and controls pertaining to Credit Risk, and prescribes the manner of calculation of the Credit Risk Capital Requirement (also referred to in this module as CRCOM).
+
+2.
+
+Rules 3.8.2 and 3.8.3 provide that the CRCOM is a component in the calculation of the overall Risk Capital Requirement of an Authorised Firm, and that the CRCOM is to be calculated in accordance with this chapter 4.
+
+3.
+
+The Rules in section 4.8 provide that the Authorised Firm’s CRCOM is 8% of the Credit RWA of the firm, which in turn is calculated as the sum of:
+
+a.
+
+the RWA for Credit Risk Exposures (CR Exposures);
+
+b.
+
+the RWA for securitisation Exposures (SE Exposures);
+
+c.
+
+the RWA for Counterparty Credit Risk Exposures (CCR Exposures); and
+
+85
+
+PIB/VER50/07-25
+
+4.
+
+5.
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTER

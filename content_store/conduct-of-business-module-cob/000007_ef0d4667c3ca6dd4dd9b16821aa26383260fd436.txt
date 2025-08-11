@@ -1,0 +1,53 @@
+ Therefore, Rule 2.4.5 sets out the outcomes which need to be achieved by an Authorised Firm where it participates in a Group arrangement under which a bundle of Financial Services is provided to a Client by different members within its Group. See also Rule 3.3.4, which provides a degree of flexibility for an Authorised Firm participating in an arrangement under which a bundle of Financial Services is provided to a Client where reliance can be made on a Client Agreement executed by a Group member, provided the requirements in that Rule are met. Section 2.6 contains provisions designed to enable Authorised Firms to make a smooth transition to the new client classification regime that came into force on 1 April 2015. These Rules, among other things:
+
+Transitional Rules
+
+a.
+
+keep in force the client classifications made under the old client classification regime for the Financial Services that were provided to those Clients under that regime;
+
+5
+
+COB/VER48/03-25
+
+CONDUCT OF BUSINESS (COB)
+
+b.
+
+provide for the increased asset threshold of $1 million to come into effect on 1 April 2016; and
+
+c. 2.3 Types of Clients
+
+retain the asset threshold at $500,000 until 1 April 2016.
+
+2.3.1
+
+(1) An Authorised Firm must, before carrying on a Financial Service with or for a
+
+Person, classify that Person as a:
+
+(a) Retail Client;
+
+(b) Professional Client; or
+
+(c) Market Counterparty,
+
+in accordance with the requirements in this chapter.
+
+(2) An Authorised Firm may classify a Person as a different type of a Client for different Financial Services or financial products that are to be provided to such a Client.
+
+(3)
+
+If an Authorised Firm is aware that a Person (‘the agent’), with or for whom it is intending to carry on a Financial Service is acting as an agent for another Person (‘the principal’) in relation to the service then, unless the agent is another Authorised Firm or a Regulated Financial Institution, the Authorised Firm must treat the principal as its Client in relation to that service.
+
+(4)
+
+If an Authorised Firm intends to provide any Financial Service to a trust, it must, unless otherwise provided in the Rules, treat the trustee of the trust, and not the beneficiaries of the trust, as its Client.
+
+Guidance
+
+1. When a Person becomes a Client of an Authorised Firm is a question of fact that needs to be addressed by the firm in light of the nature of the relevant Financial Service (or financial product) involved, and the relations and interactions which the firm has with that Person. For instance, in certain types of Financial Services (such as corporate advisory services), a number of conversations (such as marketing and promotional activities) may occur between an Authorised Firm and a potential client before it may appear to the firm on a reasonable basis that the Person is likely to obtain a Financial Service from the firm, at which point a client classification is required. Given the many different circumstances in which interactions between a potential client and an Authorised Firm take place, it is not possible to include a more specific requirement than the current provision which requires the client classification to occur “before” a firm provides a Financial Service to a Person – see Rule 2.3.1(1). This provides an Authorised Firm flexibility to determine when exactly it would be appropriate for the firm to undertake client classification.
+
+1. When a Person becomes a Client of an Authorised Firm is a question of fact that needs to be addressed by the firm in light of the nature of the relevant Financial Service (or financial product) involved, and the relations and interactions which the firm has with that Person. For instance, in certain types of Financial Services (such as corporate advisory services), a number of conversations (such as marketing and promotional activities) may occur between an Authorised Firm and a potential client before it may appear to the firm on a reasonable basis that the Person is likely to obtain a Financial Service from the firm, at which point a client classification is required. 2.
+
+The DFSA expects Authorised Firms to adopt practices which are consistent with the underlying intent of the client classification provisions, which is to provide Clients an appropriate level of regulatory protection in light of the resources and expertise available to such Clients. Therefore, as soon as it is reasonably apparent that a potential customer is

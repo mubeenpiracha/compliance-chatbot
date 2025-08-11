@@ -1,0 +1,125 @@
+.2 A statement that Unitholders may exchange Units of one Sub-Fund for Units in
+
+another Sub-Fund of the Umbrella Fund.
+
+5.3 Whether an exchange of Units in one Sub-Fund for Units in another Sub-Fund is treated as a redemption of Units, and resale or reissue of Units in the relevant Sub-Fund, and costs and fees associated with such redemption, resale or reissue.
+
+5.4 Policy for allocating between Sub-Funds any assets of, or costs, charges and expenses payable out of, the Fund Property which are not attributable to any particular Sub-Fund.
+
+5.5
+
+Information relating to any cross-liability that may occur between Sub-Funds if the Fund is not using the PCC structure.
+
+5.6
+
+In respect of each Sub-Fund, if the currency is not the base currency of the Umbrella Fund, the currency in which the Fund Property allocated to it will be valued and the price of Units calculated and payments made.
+
+6.
+
+Money Market Fund
+
+6.1 A prominent warning:
+
+(a) drawing to the attention of investors the different nature of a Unit in a
+
+Money Market Fund compared to a Deposit;
+
+(b)
+
+that the capital of an investment in a Money Market Fund is not guaranteed; and
+
+(c)
+
+that the value of Units in the Money Market Fund may fluctuate.
+
+7.
+
+Exchange Traded Fund (“ETF”)
+
+7.1 Disclosure of:
+
+(a) the type of ETF and its characteristics;
+
+(b) the risks associated with the type of ETF;
+
+188
+
+CIR/VER38/08-24
+
+COLLECTIVE INVESTMENT RULES (CIR)
+
+(c) the investment methodology and strategies the ETF proposes to adopt to
+
+track the referenced index or benchmark;
+
+(d) the relevant indices or other benchmark the ETF is designed to track, and the underlying components (including their liquidity) of the relevant index or benchmark;
+
+(e) relevant websites or sources of information provided by Price Information Providers, including the methodology, composition, components and value, and relative weightings, relating to the indices or benchmarks;
+
+(f) whether iNAV is made available by the relevant exchange and, if so, how
+
+this information can be accessed by investors;
+
+(g) how the referenced index or benchmark will be tracked and the risks for investors in terms of the exposure they have to the underlying index and any counterparty risk;
+
+(h) the key elements which may affect the ETF’s ability to track fully the relevant index or benchmark, including, but not limited to, transaction costs, illiquid segments, and dividend re-investment;
+
+(i) in the case of a synthetic ETF using Derivatives to replicate the
+
+performance of an index or other benchmark:
+
+(i) whether the ETF uses a funded or unfunded model to replicate the
+
+performance of the specified index or benchmark;
+
+(ii)
+
+the counterparties collateral is used, details relating to such collateral; and
+
+to
+
+the Derivatives
+
+transactions and, where
+
+(iii)
+
+the risks associated with counterparty default and use of any collateral, and their impact on the ETF’s performance and investor returns, and how such risks are to be mitigated;
+
+(j) if the ETF is required to have a diversified portfolio, how the ETF proposes to achieve diversification of investments through its investment strategy;
+
+(k) if available, information about the past performance of the ETF, measured through tracking error information, on the anticipated level of tracking error during normal market conditions, and how this will be effectively minimised;
+
+its realised
+
+tracking difference and annual
+
+(l) the exchange on which the ETF is admitted to trading;
+
+(m) the Authorised Participant/s (AP) on the relevant exchange; and
+
+(n) the Price Information Provider (PIP) of the index or other benchmark which the ETF tracks and, if the PIP is a Related Party, a statement to that effect.
+
+189
+
+CIR/VER38/08-24
+
+COLLECTIVE INVESTMENT RULES (CIR)
+
+7.2 Sufficient information to enable investors to understand:
+
+(a) the ETF’s cost structure, covering:
+
+(i)
+
+any performance fees of the Fund Manager, if applicable;
+
+(ii)
+
+its operational costs; and
+
+(iii)
+
+if applicable, costs of underlying transactions (such as swaps, brokerage commissions and additional costs associated with leverage or use of collateral, and the rebalancing of the portfolio costs); and
+
+(b) any revenue derived by the Fund Manager

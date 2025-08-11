@@ -1,0 +1,101 @@
+ the Issuer of the Prospectus and other Persons, such as Experts, whose opinions are included in the Prospectus with their consent. The DFSA has also not assessed the suitability of the Securities to which the Prospectus relates to any particular investor or type of investor. If you do not understand the contents of this
+
+60
+
+MKT/VER24/03-25
+
+(2)
+
+(3)
+
+(4)
+
+MARKETS RULES (MKT)
+
+Prospectus or are unsure whether the Securities to which the Prospectus relates are suitable for your individual investment objectives and circumstances, you should consult an authorised financial advisor.”
+
+(c)
+
+where subsequent drafts or versions of the Fund Prospectus are submitted, a marked up version showing changes from the previous version submitted to the DFSA;
+
+(d)
+
+if information is incorporated in the Fund Prospectus by reference to another document, a copy of that other document;
+
+(e)
+
+the identity of the Person who is or intends to be the Reporting Entity;
+
+(f)
+
+contact details of two individuals who are sufficiently knowledgeable about the content of the document referred to in (b) to be able to answer queries of the DFSA during business hours; and
+
+(g)
+
+any other information that the DFSA may require.
+
+The application in (1) must be submitted to the DFSA:
+
+(a)
+
+in the case of an applicant who has not made a previous Prospectus Offer, at least [20] business days prior to the intended date on which the applicant expects the Prospectus to be approved;
+
+(b)
+
+in other cases, at least [10] business days before the intended date on which the applicant expects the Prospectus to be approved; and
+
+(c)
+
+in the case of a Supplementary Prospectus, as soon as is reasonably possible.
+
+In the case of a Supplementary Prospectus, the application for approval must:
+
+(a)
+
+be made using the appropriate form set out in the AFN module;
+
+(b)
+
+accompanied by the relevant fee prescribed in the FER module; and
+
+(c)
+
+include:
+
+(i)
+
+in the case of a Domestic Fund, a Supplementary Prospectus which meets the requirements in the Collective Investment Law 2010 and the CIR Rules, and where that Fund is an Islamic Fund, the additional requirements in IFR; and
+
+(ii)
+
+in the case of a Foreign Fund, a document which meets the equivalent requirements applicable in the jurisdiction in which the Fund is established or domiciled.
+
+In the case of a Passported Fund, the following disclaimer must be used instead of the disclaimer specified in (1)(b)(iii):
+
+“This is an Approved Prospectus for the purposes of admitting Securities, including units, to trading on an Authorised Market Institution in the Dubai International Financial Centre.
+
+61
+
+MKT/VER24/03-25
+
+6.3.2
+
+MARKETS RULES (MKT)
+
+Notwithstanding that the DFSA has approved the prospectus, the DFSA does not accept responsibility for the content of the information included in the Prospectus, including the accuracy or completeness of such information. The liability for the content of the Prospectus lies with the Issuer of the Prospectus and other Persons, such as Experts, whose opinions are included in the Prospectus with their consent.
+
+No other regulatory authority in the UAE has any responsibility for reviewing or verifying this prospectus or any other documents in connection with the promotion of this fund. Accordingly, no such authority in the UAE has approved this prospectus or any other associated documents, nor taken any steps to verify the information set out herein, and therefore no regulatory authority in the UAE has any responsibility for the same.
+
+This Passported Fund is a Public Fund and, accordingly, the units thereof may be promoted, including by means of a public offer of the units for public subscription, to persons in [insert relevant Host Jurisdiction(s)].
+
+The DFSA has also not assessed the suitability of the Securities to which the Prospectus relates to any particular investor or type of investor. If you do not understand the contents of this Prospectus or are unsure whether the Securities to which the Prospectus relates are suitable for your individual investment objectives and circumstances, you should consult an authorised financial advisor.”
+
+Guidance
+
+A “Public Fund” in Rule 6.3.1(4) has the meaning given in FPR Rule 1.3.1.
+
+Approval of a prospectus
+
+(1)
+
+The DFSA will approve a Fund Prospectus which has been filed with the DFSA in

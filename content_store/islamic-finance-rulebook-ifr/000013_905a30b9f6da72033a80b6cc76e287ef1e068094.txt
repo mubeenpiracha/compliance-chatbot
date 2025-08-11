@@ -1,0 +1,153 @@
+ details of its policy on diversification of the portfolio;
+
+(b)
+
+the basis for the allocation of profit between the Authorised Person and the client;
+
+(c)
+
+confirmation of the client's investment objectives including details of any restrictions requested by the client, as agreed between the client and the Authorised Person;
+
+(d)
+
+a summary of the policies and procedures for valuation of assets or portfolio;
+
+(e)
+
+a summary of policies and procedures for the transfer of funds to and from the Profit Equalisation Reserve or Investment Risk Reserve accounts, if applicable;
+
+(f)
+
+particulars of the management of the PSIA and of any third party to whom the Authorised Person has or will delegate or outsource the management of the PSIA, including:
+
+(i)
+
+the name of the third party;
+
+(ii)
+
+the regulatory status of the third party; and
+
+(iii)
+
+details of the arrangement.
+
+(g)
+
+details of early withdrawal, redemption or other exit arrangement and any costs to a client as a result thereof;
+
+(h)
+
+details of segregation of the funds of the client from the funds of the Authorised Person and from any claims by the creditors of the Authorised Person;
+
+Confidential
+
+21
+
+IFR VER08.020125
+
+(i)
+
+details of whether funds from one PSIA will be commingled with the funds of another PSIA; and
+
+(j)
+
+details of any applicable charges and the basis upon which such charges will be calculated including, any deductions of fees that may be made by the Authorised Person from the profits of the PSIA.
+
+Periodic Statements
+
+5.2.3
+
+(a)
+
+COBS 5.11 applies to an Authorised Person as if the Authorised Person is an Investment Manager in respect of those clients who are PSIA holders.
+
+(b)
+
+In addition to the requirements of COBS 5.11, an Authorised Person must ensure that a periodic statement provided to a client contains the following information:
+
+(i)
+
+details of the performance of the client's investment;
+
+(ii)
+
+the allocation of profit between the Authorised Person and the client; and
+
+(iii)
+
+where applicable, details of changes to the investment strategies that may affect the client's account or portfolio.
+
+Additional matters to be included in the policy and procedures manual
+
+5.2.4 Where an Authorised Person Manages a PSIA, its Islamic Financial Business policy and
+
+procedures manual must address the following additional matters:
+
+(a)
+
+the basis upon which a PSIA will be deemed restricted (a Restricted PSIA) or unrestricted (an Unrestricted PSIA);
+
+(b)
+
+the basis for allocation of profit or loss to the PSIA;
+
+(c)
+
+the basis for allocation of expenses to the PSIA;
+
+(d)
+
+the manner in which an Authorised Person's own funds, funds of Restricted PSIAs and funds from Unrestricted PSIAs are to be controlled;
+
+(e)
+
+the manner in which the funds of each PSIA holder (whether a Restricted PSIA or Unrestricted PSIA) will be managed;
+
+(f)
+
+the manner in which it will determine priority for investment of the Authorised Person's own funds and the funds of holders of Unrestricted PSIAs;
+
+(g)
+
+how provisions and reserves against equity and assets are to be applied; and
+
+(h)
+
+the manner in which losses incurred as a result of the misconduct, negligence or breach of contract for which the Authorised Person is responsible will be dealt with.
+
+Confidential
+
+22
+
+IFR VER08.020125
+
+Guidance
+
+For the purposes of IFR 5.2.4, the policy and procedures manual should include procedures to ensure that the Authorised Person manages the accounts of PSIA holders in accordance with their instructions.
+
+5.3
+
+Funds of PSIA holders
+
+5.3.1 Unless clearly expressed in the contract between an Authorised Person and a PSIA holder, the Authorised Person may not use funds provided by a PSIA holder to fund its own corporate activities.
+
+5.4
+
+Prudential requirements
+
+Application and Interpretation
+
+5.4.1
+
+(a)
+
+This chapter applies when calculating Credit Risk or Market Risk in respect of Islamic Contracts invested in or held by an Authorised Person Managing a PSIA, which is an Unrestricted PSIA.
+
+(b)
+
+In Rule 5.4.1(a), the Islamic Contracts referred to are contracts which are funded by amounts invested in the relevant Unrestricted PSIA.
+
+(c)
+
+In this chapter, the term "investing in or holding Islamic Contracts" means

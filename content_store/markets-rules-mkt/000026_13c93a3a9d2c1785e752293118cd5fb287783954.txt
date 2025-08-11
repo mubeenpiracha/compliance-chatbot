@@ -1,0 +1,85 @@
+ manner and not for promotional purposes. The use of imprecise and confusing language such as ‘double digit’ or ‘in excess of last year’ should be avoided as it does not allow investors to properly assess the information for the purpose of making an informed decision relating to the relevant Securities.
+
+3.
+
+Where a Reporting Entity realises that it has or may have breached its continuous disclosure obligations, it should contact the DFSA to discuss the matter and seek guidance on remedying the situation and on taking steps to ensure that similar breaches are prevented from recurring.
+
+4.
+
+A confidentiality agreement should not prevent an entity from complying with its obligations relating to the disclosure of Inside Information.
+
+5.
+
+If, for any reason, a Reporting Entity is unable, or unwilling to make a holding announcement it may be appropriate for the Reporting Entity to file a report pursuant to Rule 4.2.5 and for the trading of its Securities to be suspended until the Issuer is in a position to make an announcement.
+
+Identifying inside information
+
+6.
+
+Inside Information is defined in Article 63(1)(a) of the Law as:
+
+“information in relation to Investments of a precise nature which:
+
+(i)
+
+is not generally available;
+
+(ii)
+
+relates, directly or indirectly, to one or more Reporting Entities or the issuer of the Investments concerned or to one or more of the Investments; and
+
+(iii)
+
+would, if generally available, be likely to have a significant effect on the price of the Investments or on the price of related investments.”
+
+7.
+
+For the purposes of Article 63(1)(a), information is considered “precise” if it:
+
+a.
+
+indicates circumstances that exist or may reasonably be expected to come into existence or an event that has occurred or may reasonably be expected to occur; and
+
+b.
+
+is specific enough to enable a conclusion to be drawn as to the possible effect of those circumstances or that event on the price of Investments or related investments.
+
+8.
+
+Similarly, information would be likely to have a “significant effect on price” if and only if it is information of that kind which a reasonable investor would be likely to use as part of the basis of his investment decisions.
+
+9.
+
+The Reporting Entity is itself best placed to determine whether information, if made public, is likely to have a significant effect on the price of the relevant Securities, as what constitutes Inside Information will vary widely according to circumstances.
+
+Financial forecasts and expectations
+
+10.
+
+Where a Reporting Entity makes a market announcement which includes a profit or revenue forecast, such forecasts become, as soon as made, factored into the market pricing of the relevant Securities. If the Reporting Entity becomes aware that there is likely to be a material difference between the forecast and the true outcome, the Reporting Entity should make an announcement correcting the forecast as soon as possible so that the market pricing reflects the accurate position.
+
+11.
+
+In relation to financial forecasts published by a Reporting Entity, the DFSA considers that circumstances giving rise to a variation from the previous one should generally be considered Inside Information and should be disclosed by the Reporting Entity as soon as possible. Even
+
+39
+
+MKT/VER24/03-25
+
+MARKETS RULES (MKT)
+
+where a Reporting Entity has not made a previous forecast, circumstances giving rise to a variation of profit or revenue from the previous corresponding reporting period should be disclosed where such circumstances would have a significant effect on the price of relevant Securities. Generally, a change of 10% or more is a material change, but in some circumstances, a smaller variation may also be disclosable if it would reasonably be considered to have a significant effect on the price of the relevant Securities.
+
+12.
+
+In making such disclosure, the Reporting Entity should provide clear details of the extent of the variation. For example, a Reporting Entity may indicate that, based on management accounts, its expected net profit will be an approximate amount (e.g. approximately $15 million) or alternatively within a stated range (e.g. between $14m and $16m). Alternatively, a Reporting Entity may indicate an approximate percentage movement (e.g. up or down by 35%).
+
+Relationship between continuous disclosure and periodic disclosures
+
+13.
+
+Periodic disclosures by Reporting Entities are required in a number of circumstances, and examples can include interim and annual financial reports and accounts, prospectuses, bidder’s statements and target’s statements.
+
+14.
+
+In the course of preparing these disclosure documents, Reporting Entities may become aware of Inside Information which was previously

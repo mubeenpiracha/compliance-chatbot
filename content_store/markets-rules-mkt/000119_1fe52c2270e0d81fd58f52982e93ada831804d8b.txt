@@ -1,0 +1,85 @@
+ private cryptographic keys to misappropriation; and
+
+(j)
+
+any other information relevant to the Security Token or Crypto Token that would reasonably assist a prospective investor in making an informed decision about investing in the Security Token or Crypto Token.
+
+A7.1.3 The matters to be confirmed in the statement referred to in Rule A7.1.1(a)(ii) are that:
+
+(a)
+
+the DLT application, used to issue, store or transfer the Security Tokens offered under the Prospectus, complies with the requirements of these Rules and, is an authentic, valid and workable solution capable of meeting its intended purpose; and
+
+(b)
+
+the Prospectus accurately describes the architecture, functionality, effect, risks and vulnerabilities of the DLT application, including its compatibility with other technologies, applications and services with which it is intended to interact.
+
+A7.1.4 The following information is specified for the purposes of Rule A7.1.1(b):
+
+(a)
+
+details of each facility on which the Security Token is admitted to trading or cleared including:
+
+(i)
+
+the Person responsible for operating that facility and whether it is an AMI, ATS Operator, Regulated Exchange or other Person;
+
+191
+
+MKT/VER24/03-25
+
+MARKETS RULES (MKT)
+
+(ii)
+
+details of each DLT application used by the operator to facilitate trading or clearing of the Security Token and the functionality provided by that DLT application;
+
+(iii)
+
+details as to how the operator of the facility meets the technology and governance requirements set out in COB section 14.1;
+
+(b)
+
+details of the custody arrangements for the Security Token that are permitted or required by the operator of each facility, including, for each such arrangement:
+
+(i)
+
+the Person who carries out the function of the Digital Wallet service provider;
+
+(ii)
+
+the Person who is responsible for the safe custody of the Security Token when held in the Digital Wallet; and
+
+(iii)
+
+risks associated with the Digital Wallet, such as the consequences of the loss of cryptographic keys (private and public), cyber security risks associated with Digital Wallets held online, loss, theft or destruction of Digital Wallets held offline, and whether and how such risks are addressed;
+
+(c)
+
+whether smart contracts are being used or executed on the facility and, if so:
+
+(i)
+
+what form those smart contracts take;
+
+(ii)
+
+how the legal rights and obligations arising under the smart contracts are performed, including when contract or settlement finality occurs (whether by the smart contract itself, an underlying natural language contract or a combination of both); and
+
+(iii)
+
+details of the relationship between those smart contracts and any underlying natural language contract.
+
+Guidance
+
+1.
+
+The details provided under Rule A7.1.4(b)(ii) should make it clear for each custody arrangement permitted or required on a facility, whether the arrangement involves Self- Custody of Security Tokens, or whether either the operator of the facility is responsible or a Third Part Digital Wallet Service Provider is responsible for safe custody of the relevant Security Tokens (see COB section 14.3).
+
+2.
+
+The details provided under Rule A7.1.4(b)(iii) should make clear whether a given Digital Wallet is web based, or otherwise connected to the internet (sometimes referred to as a ‘hot wallet’), or whether it is held on hardware that is not connected to the internet (sometimes referred to as a ‘cold wallet’). They should also explain the differing risks associated with hot wallets as opposed to cold wallets, such as those arising from increased risk of hacking attempts being made against hot wallets, and the risk of physical loss or theft associated with cold wallets.
+
+192
+
+MKT/VER24/03-25

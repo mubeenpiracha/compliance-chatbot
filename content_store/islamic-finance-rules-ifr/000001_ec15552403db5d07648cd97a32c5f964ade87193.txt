@@ -1,0 +1,119 @@
+ari’a approval process statement for offers of Foreign Funds in or from the DIFC 44
+
+APP 2 CONTINUING OBLIGATIONS ............................................................ 45
+
+A2.1 Continuing obligations – Market disclosures for listed entities ................................... 45 A2.2 Other continuing obligations for listed entities ........................................................... 46
+
+IFR/VER21/03-25
+
+1.
+
+1.1
+
+1.1.1
+
+1.2
+
+ISLAMIC FINANCE RULES (IFR)
+
+INTRODUCTION
+
+Application
+
+This module (IFR) applies to:
+
+(a)
+
+every Person who carries on, or holds itself out as carrying on, a Financial Service in or from the DIFC as in accordance with Shari’a;
+
+(b)
+
+a Domestic Fund which is operated or held out as being operated as an Islamic Fund;
+
+(c)
+
+a Person making an Offer in or from the DIFC relating to an Investment or Crypto Token which is held out as Islamic or Shari’a compliant.
+
+Guidance
+
+1.
+
+Most of the requirements that apply to Persons conducting Financial Services or distributing Securities as Islamic or Shari’a compliant are included in this module. There are other more generic requirements relating to such Financial Services or activities that are included in other modules of the DFSA Rulebook.
+
+2.
+
+To enable Persons carrying on or proposing to carry on Islamic finance activities to easily access the Islamic finance related requirements applicable to their activities, the DFSA has created a web-based Islamic Finance Handbook. This handbook allows electronic navigation to reach the relevant provisions in the IFR and other DFSA Rulebook modules where Islamic finance related requirements applicable to specific Islamic finance activities are located. The handbook is accessible from the DFSA web-site.
+
+3.
+
+Investment Tokens are Investments defined in GEN A2.1.1(3). An Investment Token is likely to be held out as being Islamic or Shari’a compliant when it is referred to using terms such as ‘Islamic investment token, ‘Islamic security token’, ‘sukuk token’, ‘Islamic fund token’ or any other name that suggests or implies it is Islamic or Shari’a compliant.
+
+4.
+
+Crypto Tokens are Tokens that are used, or intended to be used, as a medium of exchange or for payment or investment purposes (see GEN A2.5.1). A Crypto Token is likely to be held out as being Islamic or Shari’a compliant when it is referred to using terms such as ‘Islamic Digital Token’, ‘Islamic Token’ or ‘Islamic Digital Asset’ or any other name that suggests or implies it is Islamic or Shari’a compliant.
+
+Overview of the IFR module
+
+Guidance
+
+1.
+
+Rules in this module are made under or for the purposes of a number of laws, including the Regulatory Law 2004, the Law Regulating Islamic Financial Business 2004 and the Collective Investment Law 2010. Guidance may indicate the relevant legislation.
+
+2.
+
+Chapters 2 and 3 contain the general requirements and obligations that apply to an Authorised Person who carries on any Financial Service as Islamic Financial
+
+1
+
+IFR/VER21/03-25
+
+3.
+
+4.
+
+5.
+
+6.
+
+ISLAMIC FINANCE RULES (IFR)
+
+Business. Chapter 4 contains the accounting and audit requirements that apply to such Persons.
+
+Chapter 5 contains additional requirements that apply to an Authorised Firm that carries on the Financial Service of Managing Profit Sharing Accounts.
+
+Chapter 6 contains the additional requirements that apply to a Fund Manager of an Islamic Fund.
+
+Chapter 7 contains specific requirements that apply to Reporting Entities which Offer Securities as Shari’a compliant. However, the general requirements that apply to such Offers with which the Reporting Entities must comply continue to be in the Markets Rules (MKT module).
+
+Chapter 8 contains the additional requirements applying to Persons who carry on Insurance Business or Insurance Intermediation as Takaful Insurance.
+
+2
+
+IFR/VER21/03-25
+
+2
+
+2.1
+
+2.1.1
+
+2.2
+
+2.3
+
+ISLAMIC FINANCE RULES (IFR)
+
+ISLAMIC FINANCE
+
+Application
+
+This chapter applies to every Person to whom this module applies in accordance with Section 1.1.
+
+Activities that constitute Islamic Financial Business
+
+Guidance
+
+1.
+
+Article 10 of the Law Regulating Islamic Financial Business 2004 prescribes what constitutes Islamic Financial Business. In essence,

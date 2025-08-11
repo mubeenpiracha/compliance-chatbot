@@ -1,0 +1,173 @@
+, where proxies are allowed, by proxy, at a general meeting for which notice specifying the intention to propose the resolution has been duly given.
+
+53
+
+GLO/VER62/07-25
+
+Defined Term
+
+Organised Trading Facility
+
+OTF
+
+Outsourcing Agreement
+
+Own Account Transaction
+
+Owner’s Equity
+
+GLOSSARY (GLO)
+
+Definition
+
+Pursuant to GEN Rule 2.22.1(b), a system which brings together multiple third party buying and selling interests in Investments, in accordance with its discretionary rules, in a way that results in a contract in respect of such Investments.
+
+An Organised Trading Facility.
+
+An agreement in writing entered into by an Fund Manager or Trustee with a Service Provider in relation to outsourced functions, which fulfils the criteria in CIR App 1.
+
+A transaction Executed by the Authorised Firm for its own benefit or for the benefit of its Associate.
+
+In relation to a Takaful Insurer, the amount of the assets, less the liabilities, of the Insurer that are not attributed to the insurance fund of the Insurer.
+
+54
+
+GLO/VER62/07-25
+
+P Back to top
+
+Defined Term
+
+Parent
+
+Participating Employer
+
+Partner
+
+Partnership
+
+Passported Fund
+
+Payment Account
+
+Payment Account Provider
+
+Payment Initiation Service
+
+Payment Instrument
+
+Payment Order
+
+Payment Schedule
+
+Payment Service
+
+Payment Service Provider Payment Transaction
+
+Permanent Health Insurance
+
+Permanent Share Capital
+
+Person
+
+Personal Account Transaction
+
+GLOSSARY (GLO)
+
+Definition
+
+A Holding Company.
+
+Has the meaning given in GEN Rule 2.30.1.
+
+In relation to an Undertaking which is a Partnership, a Person occupying the position of a partner, by whatever name called.
+
+Any partnership, including a partnership constituted under the law of a country or territory outside the DIFC, but not including a Limited Liability Partnership.
+
+Has the meaning given in FPR section 1.3.
+
+Has the meaning given in GEN Rule 2.6.1(2)
+
+A Person that provides or operates a Payment Account.
+
+Has the meaning given in GEN Rule 2.32.1(4).
+
+Has the meaning given in GEN Rule 2.6.1(2)
+
+Has the meaning given in GEN Rule 2.6.1(2).
+
+Has the meaning given in COB Rule 12.1.2.
+
+Has the meaning given in GEN Rule 2.6.1(2).
+
+Has the meaning given in GEN Rule 2.6.1(2).
+
+Has the meaning given in GEN Rule 2.6.1(2).
+
+Has the meaning given in GEN Rule A4.1.2(d).
+
+Ordinary paid-up share capital or similar shareholders’ or members’ equity, including retained earnings, however called.
+
+A Person includes any natural person, Body Corporate or body unincorporated, legal person, company, Partnership, unincorporated association, government or state.
+
+including a
+
+transaction undertaken by an Employee of an A Authorised Firm in an Investment or Crypto Token, other than:
+
+(a)
+
+a transaction in a government and public Security;
+
+55
+
+GLO/VER62/07-25
+
+Defined Term
+
+Persons Undertaking Key Control Functions
+
+PIB
+
+PIN
+
+Policyholder
+
+Policy Benefit
+
+Politically Exposed Person (PEP)
+
+Preliminary Notice
+
+Premium Liability
+
+Price Information Provider
+
+Price Sensitive Information
+
+Price Stabilisation
+
+GLOSSARY (GLO)
+
+Definition
+
+(b)
+
+a transaction in a life policy; or
+
+(c)
+
+a discretionary transaction if there is no prior communication with the discretion is not exercised by the Authorised Firm.
+
+the Employee and
+
+Persons undertaking compliance, risk management, internal audit and similar control functions.
+
+The Prudential - Investment, Insurance Intermediation and Banking module of the Rulebook.
+
+The Prudential – Insurance Business module of the Rulebook.
+
+Includes a potential policyholder.
+
+An amount payable under an insurance contract as a result of the occurrence of an event insured under the contract.
+
+Means a natural person (and includes, where relevant, a family member or close associate) who is or has been entrusted with a prominent public function, including but not limited to, a head of state or of government, senior politician, senior government, judicial or military official, ambassador, senior executive of a state owned corporation, or an important political party official, but not middle ranking or more

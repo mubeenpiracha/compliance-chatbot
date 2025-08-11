@@ -1,0 +1,141 @@
+)
+
+“payer” means the account holder who allows the fund transfer from that account or, if there is no account, the natural or legal person that places the fund transfer order with the ordering institution to perform the fund transfer;
+
+(l)
+
+“serial payment” means a direct sequential chain of payment where the fund transfer and accompanying payment message travel together from the ordering institution to the beneficiary institution, directly or through one or more intermediary institutions;
+
+(m)
+
+“straight-through processing” means payment transactions that are conducted electronically without the need for manual intervention; and
+
+(n)
+
+“unique transaction reference number” means a combination of letters, numbers or symbols, determined by the Financial Institution in accordance with the protocols of the payment and settlement system or messaging system used for the fund transfer, and which permits the traceability of the fund transfer.
+
+Requirements for ordering institution
+
+Before effecting a fund transfer, an Authorised Person that is an ordering institution must:
+
+(a)
+
+identify the payer and verify the identity of the payer if the identity has not previously been identified; and
+
+(b)
+
+record adequate details of the fund transfer that are sufficient to permit its reconstruction, including but not limited to, the date of the transfer, the payer and payee, and the type and amount of currency transferred and the value date.
+
+For a cross-border fund transfer where the amount to be transferred is $1000 or less, an Authorised Person that is an ordering institution must include in the message or payment instruction that accompanies or relates to the fund transfer the following:
+
+(a)
+
+the name of the payer;
+
+(b)
+
+the payer’s account number (or unique transaction reference number if no account number exists);
+
+(c)
+
+the name of the payee; and
+
+49
+
+AML/VER27/03-25
+
+9.3.5
+
+9.3.6
+
+9.3.7
+
+Anti-Money Laundering, Counter-Terrorist Financing and Sanctions Module (AML)
+
+(d)
+
+the payee’s account number (or unique transaction reference number if no account number exists).
+
+For a cross-border fund transfer where the amount to be transferred is more than $1,000, an Authorised Person that is an ordering institution must, in addition to the information required by Rule 9.3.4, include in the message or payment instruction that accompanies or relates to the fund transfer any one of the following:
+
+(a)
+
+the payer’s address:
+
+(b)
+
+the payer’s national identity number, such as an identity card number or passport number;
+
+(c)
+
+the payer’s customer identification number; or
+
+(d)
+
+the date and place of birth of the payer.
+
+If several individual cross-border fund transfers from a single payer are bundled in a batch file for transmission, then, in complying with Rules 9.3.4 and 9.3.5, an Authorised Person that is an ordering institution must ensure that:
+
+(a)
+
+the batch file contains the payer information required under Rule 9.3.4 and, if applicable, Rule 9.3.5;
+
+(b)
+
+it has verified the payer information referred to in (a); and
+
+(c)
+
+the batch file contains the payee information required under Rule 9.3.4 for each payee and that information is fully traceable in the payee’s country.
+
+For a domestic fund transfer, an Authorised Person that is an ordering institution must either:
+
+(a)
+
+include in the message or payment instruction that accompanies or relates to the fund transfer the following:
+
+(i)
+
+the name of the payer;
+
+(ii)
+
+the payer’s account number (or unique transaction reference number if no account number exists); and
+
+(iii)
+
+any one of the following:
+
+(A)
+
+the payer’s address;
+
+(B)
+
+the payer’s national identity number, such as an identity card number or passport number;
+
+(C)
+
+the payer’s customer identification number; or
+
+(D)
+
+the date and place of birth of the payer; or
+
+(b)
+
+include only the payer’s account number (or unique transaction reference number if no account number exists), provided that:
+
+(i)
+
+those details will permit the transaction to be traced back to the payer and payee; and
+
+50
+
+AML/VER27/03-25
+
+Anti-Money Laundering, Counter-Terrorist Financing and Sanctions Module (AML)
+
+(ii)
+
+the ordering institution must provide the payer information set out in paragraph (a) within 3 business days of a request for the the DFSA or information by immediately upon

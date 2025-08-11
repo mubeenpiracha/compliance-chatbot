@@ -1,0 +1,75 @@
+ an Insurer must be
+
+treated as payable at the time the contracts are effected.
+
+5.4.7 An Insurer must treat as a liability, the premium liability, which is the value of future claim payments and associated direct and indirect settlement costs, arising from future events insured under policies that are in force as at the Solvency Reference Date.
+
+Guidance
+
+The liability referred to in Rule 5.4.7 is commonly represented by insurers as two separate provisions, the unearned premium provision and the premium deficiency provision. The sum of the two provisions is sometimes referred to as the unexpired risk reserve, though this term is also sometimes used to describe the premium deficiency provision alone.
+
+5.4.8 An Insurer must treat as a liability the value of future claims payments and associated direct and indirect settlement costs, arising from insured events that have occurred as at the Solvency Reference Date.
+
+Guidance
+
+The liability referred to in Rule 5.4.8 is commonly referred to as the liability for outstanding claims. Some insurers represent this liability as three separate provisions: the liability in respect of reported claims; the liability in respect of claims incurred but not reported; and the liability in respect of settlement costs, also known as loss adjustment expenses.
+
+5.4.9 An Insurer must treat as an asset the value of reinsurance and other recoveries expected to be received in respect of claims referred to in Rules 5.4.7 and 5.4.8 in accordance with International Financial Reporting Standards.
+
+5.4.10 Where an Insurer is required to recognise a liability associated with the value of expected future payments, that liability must be measured as the net present value of those expected future payments.
+
+5.4.11 Where an Insurer is required to recognise an asset arising from expected future receipts, that asset must be measured as the net present value of those expected future receipts.
+
+19
+
+PIN VER07.290725
+
+5.4.12 Rules 5.4.10 and 5.4.11 do not require an Insurer to obtain a valuation by an Actuary of the assets and liabilities referred to in those Rules, at a Solvency Reference Date other than the Insurer's annual reporting date.
+
+Guidance
+
+An Insurer is also required to provide a periodic report on its General Insurance Liabilities and associated assets, prepared by an Actuary. The relevant provisions are contained in Chapter 7.
+
+5.5
+
+Discount rates
+
+5.5.1 The Regulator may specify actuarial principles to be used by an Insurer in measuring
+
+assets and liabilities.
+
+5.5.2 For the purposes of determining the net present value of expected future payments in accordance with Rule 5.4.10, an Insurer must use as a discount rate the gross redemption yield, as at the Solvency Reference Date, of a portfolio of AAA-Rated sovereign risk securities with a similar expected payment profile to the liability being measured.
+
+5.5.3 For the purposes of determining the net present value of expected future receipts in accordance with Rule 5.4.11, an Insurer must use as a discount rate the gross redemption yield, as at the Solvency Reference Date, of a portfolio of AAA-Rated sovereign risk securities with a similar expected payment profile to the asset being measured.
+
+Guidance
+
+1.
+
+Where an Insurer's Insurance Business includes more than one Class of Business, the Insurer will normally be expected to establish payment profiles separately for each material Class of Business.
+
+2.
+
+Where the expected payment profile of assets or liabilities cannot be matched – for example, because the duration is too long – the Insurer should assume a discount rate regarded as consistent with the intention of this section.
+
+5.6
+
+Recognition and measurement of assets and liabilities in respect of Long-Term Insurance
+
+5.6.1 This section applies to assets and liabilities in respect of Long-Term Insurance contracts.
+
+5.6.2 Premiums in respect of reinsurance contracts entered into by an Insurer acting as insurer must be treated as receivable from the date on which they are due and receivable.
+
+5.6.3 Premiums in respect of reinsurance contracts entered into by an Insurer as cedant must
+
+be treated as payable from the date on which they are due and payable.
+
+20
+
+PIN VER07.290725
+
+5.6.4
+
+(1)
+
+Ac

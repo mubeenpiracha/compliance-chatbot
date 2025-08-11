@@ -1,0 +1,105 @@
+
+
+PRU VER17.290725
+
+A4.6.36 SDi is determined in accordance with the following formula:
+
+𝑆𝐷𝑖 =
+
+exp(-0.05∗𝑆𝑖) − exp(-0.05∗𝐸𝑖) 0.05
+
+where Si and Ei are the start and end dates, respectively, of the time period referenced by the interest rate or credit derivative, floored by ten business days.
+
+Add-on for interest rate derivatives
+
+A4.6.37 The add-on for interest rate derivatives is the sum of the add-ons for each hedging set of interest rate derivatives transacted with a counterparty in a netting set.
+
+A4.6.38
+
+Interest rate derivatives consist of a separate hedging set for each currency. Interest rate derivatives are divided into three time 'buckets' as follows: less than or equal to one year, greater than one year and lessthanor equal to five years, and more than five years.
+
+A4.6.39 The add-on for a hedging set of interest rate derivatives is calculated in two steps:
+
+Step 1
+
+A4.6.40 The effective notional is calculated in accordance with the following formula:
+
+(𝐼𝑅) = ∑ 𝛿𝑖 ∗ 𝐷𝑗𝑘 𝑖∈(𝐶𝑐𝑦𝑗,𝑀𝐵𝑘)
+
+(𝐼𝑅) ∗ 𝑀𝐹𝑖 𝑑𝑖
+
+(𝑡𝑦𝑝𝑒)
+
+where:
+
+i ε (Ccyj, MBk) refers to trades of currency j that belong to maturity bucket k.
+
+Guidance
+
+The effect of this formula is that the effective notional for each time bucket and currency is the sum of the trade-level adjusted notional amounts multiplied by the supervisory delta adjustments and the maturity factor.
+
+Step 2
+
+A4.6.41 The Authorised Person must aggregate across maturity buckets for each hedging set
+
+in accordance with the following formula:
+
+EffectiveNotiona𝑙𝑗
+
+(𝐼𝑅)
+
+2 (𝐼𝑅))
+
+2 (𝐼𝑅))
+
+2 (𝐼𝑅))
+
+(𝐼𝑅)∗ 𝐷𝑗2
+
+(𝐼𝑅)+ 1.4
+
++ 1.4∗𝐷𝑗1 1 2 (𝐼𝑅)]
+
++(𝐷𝑗2
+
+= [(𝐷𝑗1
+
++(𝐷𝑗3
+
+(𝐼𝑅)∗ 𝐷𝑗3
+
+(𝐼𝑅)∗ 𝐷𝑗3
+
+(𝐼𝑅)+ 0.6 ∗ 𝐷𝑗1
+
+∗ 𝐷𝑗2
+
+297
+
+PRU VER17.290725
+
+A4.6.42 The Authorised Person must then determine the hedging set level add-on in
+
+accordance with the following formula:
+
+𝐴𝑑𝑑𝑂𝑛𝑗
+
+(𝐼𝑅) = 𝑆𝐹𝑗
+
+(𝐼𝑅) ∗ 𝐸𝑓𝑓𝑒𝑐𝑡𝑖𝑣𝑒𝑁𝑜𝑡𝑖𝑜𝑛𝑎𝑙𝑗
+
+(𝐼𝑅)
+
+A4.6.43 The Authorised Person must then aggregate the interest rate derivative add-on across
+
+hedging sets by simple summation, as follows:
+
+𝐴𝑑𝑑𝑂𝑛(𝐼𝑅) = ∑𝐴𝑑𝑑𝑂𝑛𝑗
+
+(𝐼𝑅)
+
+𝑗
+
+Add-on for credit derivatives
+
+A

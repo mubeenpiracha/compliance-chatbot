@@ -1,0 +1,117 @@
+ internal model in accordance with Rule 5.11.1 must have in place a rigorous and comprehensive stress-testing programme which meets the criteria set out in Rule A5.9.4.
+
+5.11.4 An Authorised Firm that has received approval for the use of an internal model may only revert to calculating its Market Risk Capital Requirement or any component of it in accordance with App5 with the prior written consent of the DFSA.
+
+Guidance
+
+1.
+
+This section sets out the conditions under which an Authorised Firm is permitted to use an internal model to calculate its Market Risk Capital Requirement or any component of its Market Risk Capital Requirement other than its Credit Valuation Adjustment Risk Capital Requirement. An Authorised Firm that wishes to use an internal model to calculate any part of this requirement is required to apply to the DFSA. Internal models will commonly permit more extensive Netting of long and short positions and have greater risk sensitivity.
+
+2.
+
+In assessing whether to give approval, the DFSA will consider an Authorised Firm’s risk management standards; the quantitative model standards; the stress-testing and back-testing standards and the process surrounding the calculation of the appropriate regulatory Capital Requirement.
+
+3.
+
+The DFSA will usually only give its approval for the use of an internal risk model if:
+
+a.
+
+the use of the model to calculate the Market Risk Capital Requirement has been approved by another appropriate regulator or the DFSA is satisfied having been provided by the Authorised Firm with such opinions from independent experts as it may require, that the model adequately addresses Market Risk requirements;
+
+b.
+
+use of the methodology is integrated into the governance and control framework of the Authorised Firm. Specifically, the Governing Body and senior management of the Authorised Firm receives and reviews appropriate reports in respect of the entity;
+
+c.
+
+it is satisfied that the Authorised Firm's risk management system is conceptually sound and is implemented with integrity;
+
+d.
+
+the Authorised Firm has sufficient numbers of staff skilled in the use of sophisticated models not only in the trading area but also in the risk control, audit, and if necessary, back office areas;
+
+e.
+
+the Authorised Firm's models have a proven track record of reasonable accuracy in measuring risk; and
+
+f.
+
+the Authorised Firm regularly conducts stress tests.
+
+4.
+
+In determining whether an internal value at risk (VaR) model meets the standard for approval, the DFSA will apply the criteria set out in section A5.9, which are based on the Basel Market Risk Capital Amendment 1996 and Basel Revisions to the Basel II Market Risk framework 2009 and which can be grouped under the following headings:
+
+174
+
+PIB/VER50/07-25
+
+5.
+
+6.
+
+7.
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+a.
+
+qualitative standards;
+
+b.
+
+specification of Market Risk factors;
+
+c.
+
+quantitative standards;
+
+d.
+
+adjustments to Market Risk Capital Requirements;
+
+e.
+
+stress testing; and
+
+f.
+
+combination of internally developed models and the Standardised Methodology.
+
+In addition to value-at-risk models, the DFSA recognises option risk aggregation models and interest rate ‘pre-processing’ or sensitivity models, as set out under the EU’s Capital Adequacy Directive (these are the so-called ‘CAD1 models’).
+
+Option risk aggregation models analyse and aggregate options risks for interest rate, equity, foreign exchange and commodity options.
+
+Interest rate pre-processing models are used to calculate weighted positions for inclusion in an Authorised Firm’s interest rate Market Risk Capital Requirement calculation under the Duration Method.
+
+175
+
+PIB/VER50/07-25
+
+6
+
+6.1
+
+6.1.1
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+OPERATIONAL RISK
+
+Introduction
+
+Guidance
+
+1.
+
+This chapter includes the detailed Rules and associated guidance in respect of a firm’s obligation to manage effectively its exposures to Operational Risk. Operational Risk refers to the risk of incurring losses due to the failure of systems, processes, and personnel to perform expected tasks. Operational Risk losses also include losses arising out of legal risk. This chapter aims to ensure that an Authorised Firm has a robust Operational Risk management framework commensurate with the nature, scale and complexity of its operations and that it holds sufficient regulatory capital against Operational Risk exposures.
+
+2.
+
+This chapter requires an Authorised Firm to:
+
+a.
+
+design

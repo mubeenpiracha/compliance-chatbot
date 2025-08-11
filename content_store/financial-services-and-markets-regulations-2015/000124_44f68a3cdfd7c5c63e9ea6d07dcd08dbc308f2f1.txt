@@ -1,0 +1,107 @@
+ relation to property of any kind).
+
+(3)
+
+Each provision specifying a kind of activity is subject to the exclusions applicable to that provision (including under Chapter 18). Accordingly any reference in this Schedule to an activity of the kind specified by a particular provision is to be read subject to any such exclusions.
+
+By way of Business
+
+(1)
+
+For the purpose of these Regulations, a person carries on an activity by way of business if the person—
+
+(a)
+
+engages in the activity in a manner which in itself constitutes the carrying on of a business;
+
+(b)
+
+holds himself out as willing and able to engage in that activity; or
+
+(c)
+
+regularly solicits other persons to engage with him in transactions constituting that activity.
+
+230
+
+Activities
+
+Dealing in Investments
+
+The activity
+
+Dealing in Investments as Principal319
+
+Buying or Selling Financial Instruments, Virtual Assets, or Spot Commodities or subscribing for or underwriting Financial Instruments as principal is a specified kind of activity.
+
+Exclusions
+
+Absence of holding out etc.
+
+(1)
+
+Subject to sub-paragraph (2), a person ("A") does not carry on an activity of the kind specified by paragraph 4 by entering into a transaction which relates to a Security, Virtual Asset or Spot Commodity (or is the assignment of a Contract of Insurance, or of an investment specified in paragraphs 98 or 99B, so far as relevant to such a contract), unless—320
+
+(a)
+
+A holds himself out as willing, as principal, to Buy, Sell or subscribe for investments of the kind to which the transaction relates at prices determined by him generally and continuously rather than in respect of each particular transaction;
+
+(b)
+
+A holds himself out as engaging in the business of Buying investments of the kind to which the transaction relates with a view to Selling them;
+
+(c)
+
+A holds himself out as engaging in the business of underwriting investments of the kind to which the transaction relates; or
+
+(d)
+
+A regularly solicits members of the public with the purpose of inducing them, as principals or agents, to enter into transactions constituting activities of the kind specified by paragraph 4, and the transaction is entered into as a result of his having solicited members of the public in that manner.
+
+(2)
+
+This paragraph does not apply where A enters into the transaction as bare trustee for another person and is acting on that other person's instructions.
+
+Deals with or through Authorised Persons or Exempt Persons or through foreign licensed persons
+
+(1)
+
+A person who is not an Authorised Person does not carry on an activity of the kind specified by paragraph 4 by entering into a transaction relating to a Derivative or a Contract of Insurance—
+
+319 Amended 17 February 2020 and 12 December 2023.
+
+320 Amended 12 December 2023 and 30 December 2024.
+
+231
+
+(a)
+
+with or through an Authorised Person, or an Exempt Person acting in the course of a business comprising a Regulated Activity in relation to which he is exempt; or
+
+(b)
+
+through an office outside the Abu Dhabi Global Market maintained by a party to the transaction, and with or through a person whose head office is situated outside the Abu Dhabi Global Market and whose ordinary business involves him in carrying on activities of the kind specified by any of paragraphs 4, 12, 16, 28, 43, 56, 59, 60, 61 or, so far as relevant to any of those paragraphs, paragraphs 64 or 70 (or would do so apart from any exclusion from any of those paragraphs made by this Schedule).
+
+Acceptance of instruments creating or acknowledging indebtedness
+
+(1)
+
+A person does not carry on an activity of the kind specified by paragraph 4 by accepting an instrument creating or acknowledging indebtedness in respect of any loan, Credit, guarantee or other similar financial accommodation or assurance which he has made, granted or provided.
+
+(2)
+
+The reference in sub-paragraph (1) to a person accepting an instrument includes a reference to a person becoming a party to an instrument otherwise than as a debtor or a surety.
+
+Issue by a Company of its own Shares etc.
+
+(1)
+
+There is excluded from paragraph 4 the issue by a Company of its own Shares or share warrants, and the issue by any person of his own debentures or debenture warrants.
+
+(2)
+
+In this paragraph—
+
+(a)
+
+"Company" means

@@ -1,0 +1,117 @@
+ of any provisions of these Regulations as referred to in subsection (1)(a)(v).
+
+142. Clearing obligation procedure
+
+(1)
+
+The Regulator may make Rules specifying—
+
+(a)
+
+a class of OTC Derivatives that shall be subject to the clearing obligation;
+
+(b)
+
+the date or dates from which the clearing obligation takes effect in respect of such class of OTC Derivatives, including any phase-in and the categories of counterparties to which the obligation applies; and
+
+(c)
+
+the minimum remaining maturity of the OTC Derivative Contracts referred to in section 141(1)(b)(ii).
+
+84
+
+(2)
+
+With the overarching aim of reducing systemic risk, the Regulator may take into consideration the following criteria79—
+
+(a)
+
+the degree of standardisation of the contractual terms and operational processes of the relevant class of OTC Derivatives;
+
+(b)
+
+the volume and liquidity of the relevant class of OTC Derivatives;
+
+(c)
+
+the availability of fair, reliable and generally accepted pricing information in the relevant class of OTC Derivatives;
+
+(d)
+
+the interconnectedness between counterparties using the relevant classes of OTC Derivatives;
+
+(e)
+
+the anticipated impact on the levels of Counterparty Credit Risk between counterparties;
+
+(f)
+
+the impact on competition in the Abu Dhabi Global Market;
+
+(g)
+
+the expected volume of the relevant class of OTC Derivatives;
+
+(h)
+
+whether more than one Recognised Clearing House or Remote Clearing House already clears the same class of OTC Derivatives;
+
+(i)
+
+the ability of the relevant Recognised Clearing Houses or Remote Clearing Houses to handle the expected volume and to manage the risk arising from the Clearing of the relevant class of OTC Derivatives;
+
+(j)
+
+the type and number of counterparties active, and expected to be active within the market for the relevant class of OTC Derivatives;
+
+(k)
+
+the amount of time a counterparty subject to the clearing obligation needs in order to put in place arrangements to clear its OTC Derivative Contracts through a Recognised Clearing House or Remote Clearing House; and
+
+(l)
+
+the risk management and the legal and operational capacity of the range of counterparties that are active in the market for the relevant class of OTC Derivatives and that would fall within the scope of the clearing obligation.
+
+143. Access to a Recognised Clearing House in relation to OTC Derivative Contracts
+
+(1)
+
+A Recognised Clearing House that has been authorised to clear OTC Derivative Contracts shall accept clearing such contracts on a non-discriminatory and transparent basis, regardless of the trading venue.
+
+(2)
+
+A Recognised Clearing House may require that a trading venue comply with the operational and technical requirements established by the Recognised Clearing House, including the risk-management requirements.
+
+79 Amended 21 February 2018.
+
+85
+
+(3)
+
+A Recognised Clearing House shall accede to or refuse a formal request for access by a trading venue within three months of such a request.
+
+(4)
+
+Where a Recognised Clearing House refuses access under subsection (3), it shall provide the trading venue with full reasons for such refusal.
+
+(5)
+
+Save where the competent authority of the trading venue and that of the Recognised Clearing House refuse access, the Recognised Clearing House shall, subject to subsection (6), grant access within three months of a decision acceding to the trading venue’s formal request in accordance with subsection (3).
+
+(6)
+
+The competent authority of the trading venue and that of the Recognised Clearing House may refuse access to the Recognised Clearing House following a formal request by the trading venue only where such access would threaten the smooth and orderly functioning of the markets or would adversely affect systemic risk.80
+
+144. Access to a trading venue in relation to OTC Derivative Contracts
+
+(1)
+
+A trading venue shall provide trade feeds on a non-discriminatory and transparent basis to any Recognised Clearing House that has been authorised to clear OTC Derivative Contracts traded on that trading venue upon request by the Recognised Clearing House.
+
+(2)
+
+Where a request to access a trading venue has been formally submitted to a trading venue by a Recognised Clearing House, the trading venue shall respond to the Recognised Clearing House within three months.
+
+(3)
+
+Where access is refused by a trading venue, it shall notify the Recognised Clearing House accordingly

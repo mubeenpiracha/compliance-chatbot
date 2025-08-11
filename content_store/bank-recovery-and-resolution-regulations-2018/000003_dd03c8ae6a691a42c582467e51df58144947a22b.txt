@@ -1,0 +1,177 @@
+ities contracts, including—
+
+(i)
+
+contracts for the purchase, sale or loan of a commodity or group or index of commodities for future delivery;
+
+(ii)
+
+options on a commodity or group or index of commodities; and
+
+(iii)
+
+repurchase repurchase transactions on any such commodity, group or index;
+
+or
+
+reverse
+
+futures and forwards contracts, including contracts (other than a commodities contract) for the purchase, sale or transfer of—
+
+(i)
+
+a commodity or property of any other description;
+
+(ii)
+
+a service; or
+
+(iii)
+
+a right or interest;
+
+for a specified price at a future date;
+
+swap agreements, including—
+
+(i)
+
+swaps and options relating to interest rates, spot or other foreign exchange agreements, currency, an equity index or equity, a debt index or debt, a commodity index or commodity, weather, emissions or inflation;
+
+(ii)
+
+total return, credit spread or credit swaps; and
+
+(iii)
+
+any agreements or transactions that are similar to an agreement referred to in subsections (i) or (ii) which is the subject of recurrent dealing the swaps or derivatives markets;
+
+in
+
+7
+
+Financial Services Permission
+
+Foreign Institution
+
+Foreign Resolution Action
+
+Foreign Resolution Order
+
+General Resolution Principles
+
+Group
+
+Group Entity
+
+Group Recovery Plan
+
+Group Resolution Plan
+
+Guidance
+
+Guiding Principles
+
+In-Scope Entity
+
+Individual Recovery Plan
+
+Individual Resolution Plan
+
+(e)
+
+inter-bank borrowing agreements where the term of the borrowing is three months or less; and
+
+(f)
+
+master agreements for any of the contracts or agreements referred to in subsections (a) to (e).
+
+is a permission given, or having effect as if so given, by the Regulator in accordance with Part 4 of the Financial Services and Markets Regulations 2015.
+
+means an entity, the head office of which is established in a jurisdiction other than the ADGM, that would, if it were established within the ADGM, be covered by the definition of an Institution.
+
+means an action under the law of a jurisdiction other than the ADGM to manage the failure or likely failure of a Foreign Institution where the action is comparable or equivalent, in terms of objectives and anticipated results, to Resolution Actions under these Regulations.
+
+means an order made by section 78(1).
+
+the Regulator under
+
+means the general principles of resolution set out in section 25.
+
+has the meaning given to that term under section 260(1) of the Financial Services and Markets Regulations 2015.
+
+means a legal person that is part of a Group.
+
+means a recovery plan prepared and maintained in accordance with section 8.
+
+means a resolution plan prepared and maintained in accordance with section 11.
+
+means the guidance issued by the Regulator in accordance with section 5.
+
+means the guiding principles specified in section 4.
+
+means any of the entities listed in section 2(1).
+
+means a recovery plan prepared and maintained in accordance with section 7.
+
+means a resolution plan prepared and maintained in accordance with section 10.
+
+8
+
+Insolvency Proceedings
+
+Institution
+
+Institution in Resolution
+
+Intragroup Financial Support
+
+Investigation
+
+Investment Firm
+
+Management
+
+Non-ADGM Financial Institution
+
+has the meaning given to that term under section 298 of the Insolvency Regulations 2015.
+
+means an Investment Firm or a Recognised Clearing House.
+
+means an Institution in respect of which Resolution Action is being taken.
+
+includes—
+
+(a)
+
+a loan, a guarantee, the provision of assets for use as collateral or any combination of these forms of support; and
+
+(b)
+
+provision for support (in any form) in one or more transactions or in a transaction entered into by a Group Entity which is an Institution that is the intended recipient of the support and any other person within that Institution's Group.
+
+means an investigation commenced by the Regulator under section 79.
+
+means an Authorised Person, excluding Non-ADGM Institutions, conducting any of the following Regulated Activities—
+
+(a)
+
+Accepting Deposits;
+
+(b)
+
+Dealing in Investments as Principal; or
+
+(c)
+
+Managing a Profit Sharing Investment Account.
+
+includes—
+
+(a)
+
+in relation to an Investment Firm, Recognised Clearing House, ADGM Parent Undertaking or ADGM Subsidiary, the Directors, senior managers or managers of same and, if applicable, former members of Management who are or were responsible both individually and collectively for the management of same; and
+
+(b)
+
+in relation to an ADGM Branch,

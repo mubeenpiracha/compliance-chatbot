@@ -1,0 +1,121 @@
+ home jurisdiction or in ADGM; (c) the date on which the revocation or modification took, or will take, effect and, if it is a temporary measure, any date on which, or any conditions that must be met before which, it will cease to have effect; and (d) any reasons given for the revocation or modification.
+
+108
+
+MIR VER10.290725
+
+Event
+
+7. A Remote Body admits for the first time a Member whose head or registered office is in ADGM.
+
+Timing As soon as practicable.
+
+Information requirement (a) notice of that event; (b) the address of the new Member.
+
+8. A Remote Body decides to put a Member into default.
+
+9. A Remote Body issues a consultation on proposed changes to its rules or procedures.
+
+9. A Remote Body issues a consultation on proposed changes to its rules or procedures.
+
+As close to when such a decision is taken by a Remote Body as practicable.
+
+(a) notice of that event; (b) the name of the Member and (where relevant) the class of membership; (c) the decision; and (d) the names of any other exchange, Clearing house or trading platform on which, to the best of that Remote Body's knowledge, that Member clears business or transacts for, or in respect of, its Clients. A copy of the consultation paper and accompanying documentation.
+
+reasons
+
+for
+
+that
+
+10. Changes to a Remote Body's rules or procedures become effective. 11. A Remote Body issues
+
+10. Changes to a Remote Body's rules or procedures become effective. 11. A Remote Body issues
+
+guidance on or a circular relating its rules or procedures.
+
+As soon as practicable.
+
+A copy of the amended rules or procedures.
+
+A copy of the guidance or circular.
+
+7.4.3
+
+The following events are examples of events likely to affect an assessment of whether a Remote Body is continuing to satisfy the Remote Recognition Requirements:
+
+(a)
+
+significant changes to any relevant law or regulation in its home jurisdiction, including laws or regulations:
+
+governing exchanges or Clearing houses;
+
+designed to prevent insider dealing, market manipulation or other forms of Market Abuse or misconduct;
+
+designed to protect the interests of Clients of Members of the Remote Body, or of a class of bodies which includes the Remote Body;
+
+which affect:
+
+A.
+
+the ability of the Remote Body to seek information (whether compulsorily or voluntarily) from its Members, including
+
+109
+
+MIR VER10.290725
+
+information relating to the price and volume of transactions, the identity of parties to transactions, and the movement of funds associated with transactions; and
+
+B.
+
+the ability of the Remote Body to pass such information, on request, to the Regulator;
+
+(b)
+
+significant changes to its internal organisation or structure;
+
+(c)
+
+significant changes to the practices of the Remote Body applying to any activities carried on by it in ADGM; or
+
+(d)
+
+any other event or series of events in relation to the body which:
+
+affects or may significantly affect cooperation between the Remote Body, or its supervisor in its home jurisdiction, and the Regulator;
+
+has or may have a substantial effect on the structure of the markets in which the body operates;
+
+brings about or may bring about a substantial change in the nature and composition of its membership in ADGM; or
+
+brings about or may bring about a substantial change in the activities undertaken by it in ADGM.
+
+Language of notice
+
+7.4.4
+
+Any notice to be given or information to be supplied under these notification rules must be supplied in English, and any document to be provided must be accompanied, if not in English, by an accurate English translation.
+
+7.4.5
+
+An English glossary of technical or statistical terms may be sufficient to accompany tables of statistical or financial information.
+
+Form and method of notification
+
+7.4.6
+
+The Rules relating to the form and method of notification in Rule 5.2 also apply to Remote Bodies.
+
+Waivers
+
+7.4.7
+
+Remote Bodies may apply to the Regulator for a waiver of any of the notification rules. The procedure is the same as that for applications from Recognised Bodies, as set out in Rule 5.3.1.
+
+7.5
+
+Powers to supervise
+
+7.5.1
+
+The Regulator has similar powers to supervise Non-Abu Dhabi Global Market Recognised

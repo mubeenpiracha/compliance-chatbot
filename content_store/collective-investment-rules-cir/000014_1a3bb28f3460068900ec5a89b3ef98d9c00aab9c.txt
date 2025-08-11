@@ -1,0 +1,117 @@
+ Fund in the DIFC is, except as specified in GEN Rule 3A.2.1(3), only permitted to invest in a Recognised Crypto Token i.e. a Crypto Token that the DFSA has recognised as meeting criteria specified in GEN section 3A. See also the definition in GEN Rule 3A.1.2 of when a Fund invests in a Crypto Token, which applies for the purposes of the requirement in GEN 3A.2.1.
+
+19
+
+CIR/VER38/08-24
+
+4.
+
+4.1
+
+4.1.1
+
+4.1.2
+
+4.1.3
+
+4.1.4
+
+4.1.5
+
+COLLECTIVE INVESTMENT RULES (CIR)
+
+EXCLUDED OFFERS
+
+Excluded transactions and offers
+
+Pursuant to Article 50(2) of the Law, the activities specified in Rules 4.1.2, 4.1.3, 4.1.4 and 4.1.5 are hereby prescribed as not constituting an Offer for the purposes of the Law and the Rules.
+
+A Person does not make an Offer of a Unit by offering to sell or transfer a Unit that is owned by that Person if the offer to sell or transfer:
+
+(a)
+
+is capable of acceptance only by the Person to whom that offer is made; and
+
+(b)
+
+is not made by way of a financial promotion as defined in Article 19(3) of the Law.
+
+Guidance
+
+While a Person who makes personal offers of the kind referred to in Rule 4.1.2 does not attract the Prospectus disclosure obligations in Part 7 of the CIR module, if that Person frequently sells Units held by him, he would be likely to be ‘Dealing in Investments as Principal’. As a result, such a Person would need to be licensed. Similarly, a Person who obtains Units for the purposes of secondary sales would be likely to be regarded as making those sales “by way of business” and would thus trigger the need to be licensed.
+
+(1)
+
+A Person does not make an Offer of a Unit if that Person is an Authorised Firm and it undertakes a Transaction in relation to a Unit of a Fund if the Transaction is:
+
+(a)
+
+an Execution-Only Transaction undertaken for or on behalf of a Client;
+
+(b)
+
+a trade executed for or on behalf of a Client in accordance with a Discretionary Portfolio Management Agreement entered into with that Client; or
+
+(c)
+
+effected with the Fund Manager of a Fund for the purposes of redeeming a Unit of that Fund for or on behalf of a Client.
+
+A Person does not make an Offer of a Unit if that Person is an Authorised Firm and the Offer is made only to, or directed only at, a Market Counterparty.
+
+A Person does not make an Offer of a Unit if:
+
+(a)
+
+the Unit is of a Passported Fund;
+
+(b)
+
+the DIFC is a Host Jurisdiction in relation to the Passported Fund;
+
+(c)
+
+the Person making the Offer is the Fund Manager of the Fund, its Agent or another Licensed Person; and
+
+20
+
+CIR/VER38/08-24
+
+(d)
+
+COLLECTIVE INVESTMENT RULES (CIR)
+
+the Offer is made in accordance with the offer requirements in the Home Jurisdiction of the Fund, including relevant Fund Protocol rules or regulations.
+
+21
+
+CIR/VER38/08-24
+
+COLLECTIVE INVESTMENT RULES (CIR)
+
+PART 3: FUND FUNCTIONARIES
+
+5
+
+FUND ADMINISTRATORS
+
+5.1
+
+General
+
+Application
+
+5.1.1
+
+(1)
+
+Subject to (2), this chapter applies to an Authorised Firm which is appointed as a Fund Administrator to either a Domestic or a Foreign Fund.
+
+(2)
+
+This chapter does not apply to a Fund Manager or Trustee to the extent that it carries on an activity of Providing Fund Administration within the Financial Services of Managing a Fund or of Acting as the Trustee of a Fund.
+
+Compliance with the AML Rules
+
+5.1.2
+
+The AML module applies to the activities of a Fund Administrator in Providing Fund Administration for a Domestic Fund or Foreign Fund as if each reference in AML to a “customer” is a reference to a “Unitholder” or “prospective Unith

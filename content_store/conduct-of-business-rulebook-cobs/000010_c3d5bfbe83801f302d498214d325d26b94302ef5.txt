@@ -1,0 +1,89 @@
+ written consent, the Authorised Person must give at least fourteen days' notice to the Client before carrying on a Regulated Activity where this involves provision of a service to a Client on any amended terms, unless it is impracticable to do so.
+
+3.4
+
+Suitability
+
+3.4.1 Application
+
+The Rules in this section do not apply where the Authorised Person undertakes:
+
+(a)
+
+a Transaction with a Professional Client which is a Market Counterparty;
+
+(b)
+
+an Execution-Only Transaction;
+
+(c)
+
+the Regulated Activities of Accepting Deposits, Providing Credit, Operating a Private Financing Platform, Operating a Multilateral Trading Facility, Operating an Organised Trading Facility or Providing Custody;
+
+(d)
+
+an activity of the kind described in section 67 of Chapter 14 of Schedule 1 of FSMR that constitutes marketing.
+
+3.4.2 Suitability Assessment
+
+(a)
+
+Subject to Rule 3.4.2(b), an Authorised Person must not recommend to a Client a Specified Investment or the carrying on of a Regulated Activity where this involves provision of a service to a Client, or execute a Transaction on a discretionary basis for a Client, unless the Authorised Person has a reasonable basis for considering the recommendation or Transaction to be suitable for that particular Client. For this purpose, the Authorised Person must:
+
+(i)
+
+undertake an appropriate assessment of the particular Client's needs, objectives, and financial situation, and also, to the extent relevant, risk tolerance, knowledge, experience and understanding of the risks involved; and
+
+(ii)
+
+take into account any other relevant requirements and circumstances of the Client of which the Authorised Person is, or ought reasonably to be aware.
+
+(b)
+
+An Authorised Person may, subject to Rule 3.4.2(c), limit the extent to which it will consider suitability when making a recommendation to, or undertaking a Transaction on a discretionary basis for or on behalf of, a Professional Client if, prior to carrying on that activity, the Authorised Person:
+
+(i)
+
+has given a written warning to the Professional Client in the form of a notice clearly stating either that the Authorised Person will not consider
+
+16
+
+COBS VER19.290725
+
+suitability, or will consider suitability only to the extent specified in the notice; and
+
+(ii)
+
+the Professional Client has given his express consent, after a proper opportunity to consider the warning, by signing that notice.
+
+(c)
+
+Where an Authorised Person is managing investments under a Discretionary Portfolio Management Agreement for a Professional Client for more than 12 months, it must consider whether or not to ensure that the account remains suitable for the particular Professional Client every 12 months, having regard to the matters specified in (a)(i) and (ii).
+
+(d)
+
+An Authorised Person Providing Trust Services does not have to undertake an assessment of the factors such as risk tolerance, knowledge and experience of a Client when assessing the suitability of the service to a particular Client.
+
+(e)
+
+The extent to which an Authorised Person needs to carry out a suitability assessment for a Professional Client depends on its agreement with such a Client. The agreement may limit the suitability assessment to a specified extent, or may dispense with the suitability assessment completely. To the extent a limited suitability assessment is agreed upon, the Authorised Person must carry out the suitability assessment as agreed. Limitations may, for example, relate to the objectives of the Client or the product range in respect of which the recommendations are to be made.
+
+3.4.3 An Authorised Person must take reasonable steps to ensure the information it holds
+
+about a Client is accurate, complete and up to date.
+
+3.5
+
+Conflicts of Interest
+
+3.5.1 Fair Treatment
+
+An Authorised Person must take reasonable steps to ensure that conflicts of interest and potential conflicts of interest between itself and its Clients and between one Client and another Client are identified and then prevented or managed in accordance with this Rule 3.5.
+
+3.5.2 Record of Conflicts
+
+An Authorised Person must keep and regularly update a record of the kinds of service or activity carried out by or on behalf of that Authorised Person in which a conflict of interest entailing a material risk of damage to the interests of one or more Clients has arisen or, in the case of an ongoing service or activity, may arise.
+
+3.5.3 Managing Conflicts
+
+An Authorised Person must maintain and operate effective organisational and

@@ -1,0 +1,191 @@
+) The Regulator may treat any type of Domestic Fund as a specialist class of a Domestic Fund pursuant to Rule 4 hereof.
+
+3.3
+
+Domestic Fund criteria
+
+3.3.1
+
+(1) A Domestic Fund shall be constituted as a Public Fund if:
+
+(a)
+
+some or all of its Units are or will be offered to investors by way of a public offer; or
+
+(b)
+
+its Unitholders include Retail Clients.
+
+3.3.2
+
+(1) A Domestic Fund may be constituted either as an Exempt Fund or as a Qualified Investor Fund but only if that Fund satisfies all of the conditions in Rule 3.3.3 or Rule 3.3.4 below, as applicable.
+
+3.3.3
+
+(1) A Domestic Fund is an Exempt Fund, if:
+
+(a)
+
+its Units are offered to persons only by way of a private placement;
+
+(b)
+
+all its Unitholders are persons who meet the criteria to be classified as Professional Clients; and
+
+(c)
+
+the initial subscription to be paid by a person to become a Unitholder is at least US$50,000,
+
+and it does not satisfy the conditions in Rule 3.3.4 below to be a Qualified Investor Fund.
+
+3.3.4
+
+(1) A Domestic Fund is a Qualified Investor Fund, if:
+
+6
+
+FUNDS VER10.100625
+
+(a)
+
+its Units are offered to persons only by way of a private placement;
+
+(b)
+
+all its Unitholders are persons who meet the criteria to be classified as Professional Clients; and
+
+(c)
+
+the initial subscription to be paid by a person to become a Unitholder is at least US$500,000.
+
+3.3.5
+
+(1) A Domestic Fund does not cease to be an Exempt Fund or a Qualified Investor Fund under Rule 3.3.3 or Rule 3.3.4 above merely because one or more Units in that Fund is registered in the name of a person who does not meet the criteria to be a Unitholder of that particular type of Fund as a result of:
+
+(a)
+
+inheritance from a registered Unitholder of the Fund; or
+
+(b)
+
+any legal action brought for or against a registered Unitholder.
+
+3.4
+
+The different types of Domestic Funds
+
+This table illustrates the different Rules applicable to the three categories of Domestic Fund.
+
+The Fund Rules Chapters
+
+Public Fund
+
+Exempt Fund
+
+QIF
+
+Chapter 1: Application and Client Classification
+
+✓
+
+✓
+
+✓
+
+Chapter Constituting a Fund
+
+2: Arrangements Not
+
+✓
+
+✓
+
+✓
+
+Chapter 3: Fund Criteria
+
+✓
+
+✓
+
+✓
+
+Chapter 4: Specialist Classes of Funds
+
+✓
+
+Rules 20.4.3 and 20.4.4 do not apply
+
+✓
+
+Rules 20.4.5 and 20.4.6 do not apply
+
+✓
+
+Rules 20.4.5 and 20.4.6 do not apply
+
+Chapter 5: Excluded Offers
+
+✓
+
+✓
+
+✓
+
+Chapter 6: Domestic Funds
+
+✓
+
+✓
+
+✓
+
+Rule 6.2 does not apply
+
+Rule 6.1 does not apply
+
+Rule 6.1 does not apply
+
+Chapter 7: Foreign Funds and Foreign Fund Managers
+
+✓
+
+✓
+
+✓
+
+Chapter 8: Regulator Notification
+
+✓
+
+✓
+
+✓
+
+Chapter 9: Marketing of Domestic Funds and Prospectus Disclosure
+
+✓ Rules 9.5.2 and 9.5.4 do not apply
+
+✓ Rules 9.5.1 does not apply
+
+✓
+
+Only Rules 9.1.1, 9.2, 9.3, 9.4.1, 9.4.2, 9.5.2, 9.5.4, 9.6.1, 9.7 & 9.8 apply
+
+7
+
+FUNDS VER10.100625
+
+The Fund Rules Chapters
+
+Chapter 11: Constitution
+
+Chapter Operation of a Fund
+
+12: Management
+
+and
+
+Chapter 13: Requirements Specific to Public Funds and Real Estate Investment Trusts
+
+Chapter 13A: Requirements Specific

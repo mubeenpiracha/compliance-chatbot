@@ -1,0 +1,119 @@
+ Capital Requirement in accordance with the applicable Rules in chapter 6.
+
+Displaced Commercial Risk Capital Requirement
+
+3.8.6
+
+An Authorised Firm Managing a PSIAu must calculate its Displaced Commercial Risk Capital Requirement in accordance with IFR chapter 5.
+
+3.8A Stored Value Capital Requirement
+
+3.8A.1 This section applies to an Authorised Firm in Category 3C that issues Stored Value.
+
+Calculation of Stored Value Capital Requirement
+
+3.8A.2 (1) An Authorised Firm must calculate its Stored Value Capital Requirement as an amount equal to 3% of the average daily outstanding Stored Value of the firm.
+
+(2)
+
+In (1), the average daily outstanding Stored Value of a firm means the average total of financial liabilities related to Stored Value in issue at the end of each calendar day where that average is calculated over the previous six calendar months.
+
+(3) The Authorised Firm must calculate its Stored Value Capital Requirement on the first calendar day of each calendar month and apply the resulting sum as its requirement for that month.
+
+46
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+(4)
+
+If the Authorised Firm has not completed its first six months of business, it must make the calculation under (2) and (3) based on the outstanding Stored Value projected in the business plan included with its application for authorisation, subject to any adjustment to that plan required by the DFSA.
+
+3.8B Transaction Based Capital Requirement
+
+3.8B.1 This section applies to an Authorised Firm that is a Payment Service Provider.
+
+Calculation of Transaction Based Capital Requirement
+
+3.8B.2 (1) An Authorised Firm must calculate its Transaction Based Capital Requirement
+
+as the sum of the following elements multiplied by the scaling factor:
+
+(a)
+
+4% of the first $5 million of payment volume;
+
+(b)
+
+2.5% of the next $5 million of payment volume;
+
+(c)
+
+1% of the next $90 million of payment volume;
+
+(d)
+
+0.5% of the next $150 million of payment volume; and
+
+(e)
+
+0.25% of any remaining payment volume.
+
+(2)
+
+In (1), payment volume means the total value of Payment Transactions executed by the Authorised Firm in the previous financial year divided by 12.
+
+(3)
+
+If an Authorised Firm has not completed a full financial year’s business, references in (2) to the previous financial year are to be read as the equivalent figure projected in the business plan provided in its application for authorisation, subject to any adjustment to that plan required by the DFSA.
+
+(4) A Payment Service Provider that also issues Stored Value may exclude from the payment volume in (1), payments directly related to issuing Stored Value.
+
+(5) The scaling factor in (1) is:
+
+(a)
+
+0.5 for an Authorised Firm that is authorised to provide only Money Transmission; or
+
+(b)
+
+1 for an Authorised Firm that is authorised to provide other types of Payment Services.
+
+3.9
+
+Capital Conservation Buffer
+
+3.9.1
+
+This section applies to an Authorised Firm in Category 1, 2 (other than a Matched Principal) or 5.
+
+3.9.2 Where, under section 3.3 or 3.4, the Risk Capital Requirement in section 3.8 applies to an Authorised Firm, then the firm is subject to a Capital Conservation Buffer Requirement.
+
+47
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+3.9.3
+
+The Capital Conservation Buffer Requirement is equivalent to 2.5% of an Authorised Firm’s Risk Weighted Assets and must constitute only CET1 Capital.
+
+3.9.4
+
+(1)
+
+An Authorised Firm must maintain the required buffer amount, calculated in accordance with Rule 3.9.3, at all times.
+
+(2)
+
+The Capital Conservation Buffer Requirement applies on both a solo and a consolidated basis for Authorised Firms forming part of Financial Groups.
+
+3.9.5
+
+An Authorised Firm must not apply CET1 Capital that it maintains to meet the Capital Conservation Buffer Requirement towards meeting:
+
+(a)
+
+any Individual Capital Requirement the DFSA may impose on

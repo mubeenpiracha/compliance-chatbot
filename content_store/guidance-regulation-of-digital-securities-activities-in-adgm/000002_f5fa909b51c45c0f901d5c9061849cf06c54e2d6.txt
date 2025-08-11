@@ -1,0 +1,77 @@
+ Rules are written. Where this Guidance cross refers to the Virtual Assets Guidance, it is the FSRA’S general expectation that readers apply those relevant aspects of the Virtual Assets Guidance in the context of Digital Securities, with such changes in terminology being read (and understood) as required.
+
+6) This Guidance is not an exhaustive source of the FSRA’s policy on the exercise of its regulatory functions and powers. The FSRA is not bound by the requirements set out in this Guidance and may:
+
+a) impose additional requirements to address any specific risks posed by Digital
+
+Securities; and/or
+
+b) waive or modify any of the Rules relevant to Digital Securities, at its discretion, where
+
+appropriate.
+
+7) Unless otherwise defined or the context otherwise requires, the terms contained in this Guidance have the same meaning as defined in FSMR and the FSRA Glossary Rulebook (“GLO”).
+
+8) For more details on the process for:
+
+a) conducting Offers of Securities, in or from ADGM, please contact the FSRA at
+
+MIP@adgm.com;
+
+b) recognition as a RIE and/or Recognised Clearing House (RCH), authorisation as an MTF or authorisation as an Authorised Person Providing Custody for services as a Digital Settlement Facility5 (“DSF”), please contact the FSRA at MIP@adgm.com; or
+
+5 This Guidance interchangeably uses terms relating to Providing Custody (and by extension providing DSF services) and DSF.
+
+VER02.240220
+
+5
+
+c) authorisation as an intermediary conducting other Digital Securities-based activities,
+
+please contact the FSRA at authorisation@adgm.com.
+
+BACKGROUND
+
+9)
+
+In October 2017, the FSRA published its ICO Guidance, setting out its regulatory position in relation to ICOs, ICOs deemed to be Securities, and Virtual Assets generally. In June 2018, the FSRA formally implemented its Virtual Asset Regulatory Framework, which specifically included the Rules and requirements (including the Virtual Assets Guidance) applicable to Authorised Persons conducting a Regulated Activity in relation to Virtual Assets. The FSRA released its first update to the Virtual Assets Guidance in May 2019.
+
+10) On the back of the publication of these regulatory frameworks/positions, the FSRA continues to see substantial interest across the digital assets space, including the related use of distributed ledger technology (DLT) platforms. This interest is spread across a wide spectrum of digital asset based financial services activities, including exchanges, custody, dealing, advising, fund management, payment and other-banking related services.
+
+11) Equally, in addition to there being interest across various digital asset-based financial services activities, there is also extensive interest spread across the various types of digital asset-related instruments (including Digital Securities, Virtual Assets, fiat tokens, Derivatives and Funds).
+
+12) This Guidance is intended to provide clarity to those seeking to undertake ‘Digital Securities’-related financial services activities within ADGM, including Issuers wanting to make an Offer of Digital Securities and to assist Authorised Persons conducting a a Regulated Activity in relation to Virtual Assets wanting to extend their digital assets/financial services activities beyond Accepted Virtual Assets. It is also intended to assist entities seeking to utilise new technologies (such as DLT) for the purposes of expanding their activities from the more ‘conventional’ Securities space into Digital Securities.
+
+13) In terms of Virtual Assets, the Virtual Asset Framework (including the Virtual Assets Guidance) provides clarity in relation to what is needed to undertake Virtual Asset-based financial services activity within ADGM. For readers interested in the Virtual Asset Framework, the FSRA suggests you read the Virtual Assets Guidance in the first instance.
+
+14) The diagram and table on the following pages set out the FSRA’s regulatory approach in relation to the different types of digital asset activities within ADGM.
+
+VER02.240220
+
+6
+
+Category of Digital Assets / Instruments
+
+“Digital Securities”
+
+(e.g., digital/virtual tokens that have the features and characteristics of a Security under the FSMR (such as Shares, Debentures and Units a Collective in Investment Fund)).
+
+“Virtual Assets”
+
+(e.g., currencies, virtual tokens’).
+
+non-fiat
+
+asset
+
+virtual
+
+‘exchange
+
+Derivatives and Collective Investment Funds of Virtual Assets, Digital Securities and Utility Tokens
+
+VER02.240220
+
+Regulatory Approach
+
+Deemed to be Securities pursuant to Paragraph 58(2)(b) of

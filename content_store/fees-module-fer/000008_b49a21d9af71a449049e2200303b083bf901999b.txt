@@ -1,0 +1,187 @@
+(b)
+
+the amount specified in the table to Rule 3.2.3 for each applicable factor specified in that table; plus
+
+(c)
+
+$1,000 for the first $1,000,000 of expenditure and $1 for each additional $1,000 of expenditure, where “expenditure” has the meaning given in Rule 3.2.2; plus
+
+(d)
+
+if the Authorised Firm is carrying on the Financial Service of Operating an Alternative Trading System:
+
+(i)
+
+$150,000 if it Operates an ATS that trades Security Tokens trading on an Institution or other Regulated Authorised Market Exchange;
+
+that are not admitted
+
+to
+
+(ii)
+
+the fee specified in Rule 3.2.4 if it Operates an ATS that trades Crypto Tokens; or
+
+(iii)
+
+$65,000 in any other case; plus
+
+(e)
+
+$4,000 for each additional Financial Service specified on its Licence (excluding the relevant Financial Service with the highest fee that applies under (a) and, if applicable, the Financial Service in (d)); plus
+
+13
+
+FER/VER33/07-25
+
+(3)
+
+FEES MODULE (FER)
+
+(f)
+
+the amount specified in the table in (4) for each applicable endorsement specified on its Licence.
+
+This is the table referred to in (2)(a):
+
+Accepting Deposits or Providing Credit.
+
+$100,000
+
+Dealing in Investments as Principal (except as a Matched Principal):
+
+(a) if the authorisation covers Crypto Tokens:
+
+$70,000
+
+(b) in any other case:
+
+$50,000
+
+Effecting Contracts of Insurance or Carrying Out Contracts of Insurance where the Authorised Firm is not carrying on business as a Captive Insurer, as a PCC, or as an ISPV:
+
+(a)
+
+if the Authorised Firm has notified the DFSA of its decision to go into run-off (as defined in PIN Rule 9.1.4) in accordance with PIN Rule 9.2.2:
+
+$25,000
+
+(b)
+
+in any other case:
+
+$50,000
+
+Dealing in Investments as a Matched Principal:
+
+(a) if the authorisation covers Crypto Tokens:
+
+$35,000
+
+(b) in any other case:
+
+$25,000
+
+Dealing in Investments as Agent:
+
+(a) if the authorisation covers Crypto Tokens:
+
+$35,000
+
+(b) in any other case:
+
+$25,000
+
+Managing Assets:
+
+(a) if the authorisation covers Crypto Tokens:
+
+$35,000
+
+(b) in any other case:
+
+$25,000
+
+Providing Custody:
+
+(a) if the authorisation covers Crypto Tokens:
+
+$35,000
+
+(b) in any other case:
+
+$25,000
+
+Insurance Management.
+
+$25,000
+
+Managing a Profit Sharing Investment Account.
+
+$25,000
+
+14
+
+FER/VER33/07-25
+
+Providing Trust Services (if it acts as trustee of one or more express trusts). Acting as the Trustee of a Fund.
+
+Acting as the Administrator of an Employee Money Purchase Scheme. Providing Money Services (if it issues Stored Value). Arranging Deals in Investments:
+
+(a) if the authorisation covers Crypto Tokens:
+
+(b) in any other case:
+
+Advising on Financial Products:
+
+(a) if the authorisation covers Crypto Tokens:
+
+(b) in any other case:
+
+Arranging Custody.
+
+Arranging Credit and Advising on Credit.
+
+Insurance Intermediation.
+
+Providing Trust Services (if it does not act as trustee of any express trust). Operating a Credit Rating Agency.
+
+Providing Fund Administration.
+
+Operating an Employee Money Purchase Scheme. Providing Money Services (if it does not issue Stored Value and does not only provide Money Transmission). Managing a Collective Investment Fund if any Fund managed is:
+
+(a) a Credit Fund; or
+
+(b) a Fund other than a Qualified Investor Fund, a Venture Capital Fund or an Investment Company managed by its Corporate Director.
+
+If any Fund invests in Crypto Tokens:
+
+In any other case:
+
+Operating a Crowdfunding Platform.
+
+Providing Money Services (if it only provides Money Transmission) Arranging or Advising on Money Services.
+
+15
+
+FEES MODULE (FER)
+
+$25,000
+
+$25,000
+
+$25,000
+
+$25,000
+
+$20,000
+
+$15,000
+
+$20,000
+
+$15,000
+
+$15,000
+
+$15

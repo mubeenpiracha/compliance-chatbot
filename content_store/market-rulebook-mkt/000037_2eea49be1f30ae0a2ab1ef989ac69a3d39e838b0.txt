@@ -1,0 +1,143 @@
+ specified period and on specified terms.
+
+(2)
+
+The Regulator may also require the appointment of a paying agent during the Offer period.
+
+Guidance
+
+See also Rule 9.4 which contains additional restrictions relating to dealings by Restricted Persons which may apply to executive Directors.
+
+4.14 Retail Debentures or Sukuk
+
+4.14.1 A Person may only make a Prospectus Offer of a Retail Debenture or Sukuk where:
+
+(1)
+
+the Issuer of the Retail Debenture or Sukuk has applied for its admission to trading on a Recognised Investment Exchange; and
+
+(2)
+
+the Issuer or guarantor of the Retail Debenture or Sukuk has received an investment grade credit rating from an authorised Credit Rating Agency or such other credit rating agency considered acceptable by the Regulator.
+
+Guidance
+
+The Regulator may consider a credit rating agency to be acceptable if it is regulated in a Zone 1 jurisdiction.
+
+4.15 ADGM Green Debentures and ADGM Sustainability-Linked Debentures
+
+Application
+
+4.15.1 This section sets out the requirements that apply to a Person making an Offer of Securities of ADGM Green Debentures or ADGM Sustainability-Linked Debentures.
+
+ADGM Green Debentures
+
+4.15.2 An ADGM Green Debenture is a Security falling within paragraph 88 or 90 of Schedule 1
+
+of FSMR that:
+
+(1)
+
+is the subject of an Offer of Securities;
+
+Confidential
+
+59
+
+MKT VER09.020125
+
+(2)
+
+seeks to comply with the Qualifying Green Debenture Principles in Rule 4.15.4;
+
+(3)
+
+is subject to external review in accordance with Rule 4.15.6; and
+
+(4)
+
+has been granted an ADGM Green Bond Designation by the Regulator in accordance with Rules 4.15.7 to 4.15.11.
+
+ADGM Sustainability-Linked Debentures
+
+4.15.3 An ADGM Sustainability-Linked Debenture is a Security falling within paragraph 88 or 90
+
+of Schedule 1 of FSMR that:
+
+(1)
+
+is the subject of an Offer of Securities;
+
+(2)
+
+seeks to comply with the Qualifying Sustainability-Linked Debenture Principles in Rule 4.15.5;
+
+(3)
+
+is subject to external review in accordance with Rule 4.15.6; and
+
+(4)
+
+has been granted an ADGM Sustainability-Linked Bond Designation by the Regulator pursuant to Rules 4.15.7 to 4.15.11.
+
+Qualifying Green Debenture Principles
+
+4.15.4 A Security will comply with Qualifying Green Debenture Principles if it adheres to:
+
+(1)
+
+the ICMA Green Bond Principles;
+
+(2)
+
+the EU Green Bond Standard; or
+
+(3)
+
+international principles equivalent to (1) or (2), which are approved by the Regulator.
+
+Qualifying Sustainability-Linked Debenture Principles
+
+4.15.5 A Security will comply with Qualifying Green Sustainability-Linked Debenture Principles
+
+if it adheres to:
+
+(1)
+
+the ICMA Sustainability-Linked Bond Principles; or
+
+(2)
+
+international principles equivalent to (1) which are approved by the Regulator.
+
+Guidance
+
+For the purposes of Rules 4.15.4 and 4.15.5, the Regulator may approve other green principles or sustainability-linked principles as Qualifying Green Debenture Principles or Qualifying Sustainability-Linked Debenture Principles where:
+
+a. the green principles or sustainability-linked principles are issued by a governmental
+
+body, reputable industry association or reputable investment exchange; and
+
+Confidential
+
+60
+
+MKT VER09.020125
+
+b. the green principles or sustainability-linked principles are published and freely
+
+available.
+
+External review
+
+4.15.6 A Security will be considered by the Regulator to be subject to external review if the Issuer
+
+appoints one or more external review providers to:
+
+(1)
+
+assess through a pre-issuance external review the alignment of the Security with the requirements of the relevant Qualifying Green Debenture Principles or Qualifying Sustainability-Linked Debenture Principles; and
+
+(2)
+
+verify on a regular basis post-issuance the Security’s performance against applicable criteria outlined in the Qualifying Green Debent

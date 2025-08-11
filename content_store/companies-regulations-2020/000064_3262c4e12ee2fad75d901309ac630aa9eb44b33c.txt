@@ -1,0 +1,121 @@
+This section does not require a declaration of an interest of which the director is not aware or where the director is not aware of the transaction or arrangement in question.
+
+For this purpose a director is treated as being aware of matters of which he ought reasonably to be aware.
+
+(6)
+
+A director need not declare an interest–
+
+(a)
+
+if it cannot reasonably be regarded as likely to give rise to a conflict of interest,
+
+(b)
+
+if, or to the extent that, the other directors are already aware of it (and for this purpose the other directors are treated as aware of anything of which they ought reasonably to be aware), or
+
+(c)
+
+if, or to the extent that, it concerns terms of his service contract that have been or are to be considered–
+
+(i)
+
+by a meeting of the directors, or
+
+(ii)
+
+by a committee of the directors appointed for the purpose under the company’s constitution.
+
+168. Consequences of breach of general duties
+
+(1)
+
+The consequences of breach (or threatened breach) of sections 161 (duty to act within powers) to 167 (duty to declare interest in proposed transaction or arrangement) are the
+
+124
+
+same as would apply if the corresponding common law rule or equitable principle applied pursuant to the laws applicable in the Abu Dhabi Global Market.
+
+(2)
+
+The duties in those sections, (with the exception of section 164 (duty to exercise reasonable care, skill and diligence)), are, accordingly, enforceable in the same way as any other fiduciary duty owed to a company by its directors.
+
+169. Cases within more than one of the general duties
+
+Except as otherwise provided, more than one of the general duties may apply in any given case.
+
+170. Consent, approval or authorisation by members
+
+(1)
+
+In a case where–
+
+(a)
+
+section 165 (duty to avoid conflicts of interest) is complied with by authorisation by the directors, or
+
+(b)
+
+section 167 (duty to declare interest in proposed transaction or arrangement) is complied with,
+
+the transaction or arrangement is not liable to be set aside by virtue of any common law rule or equitable principle requiring the consent or approval of the members of the company.
+
+This is without prejudice to any law or regulation applicable to the Abu Dhabi Global Market, or provision of the company’s constitution, requiring such consent or approval.
+
+(2)
+
+The application of the general duties is not affected by the fact that the case also falls within Chapter 4 (transactions requiring approval of members), except that where either of those Chapters applies and–
+
+(a)
+
+approval is given under the Chapter concerned, or
+
+(b)
+
+the matter is one as to which it is provided that approval is not needed,
+
+it is not necessary also to comply with section 165 (duty to avoid conflicts of interest) or section 166 (duty not to accept benefits from third parties).
+
+(3)
+
+Compliance with the general duties does not remove the need for approval under any applicable provision of Chapter 4 (transactions requiring approval of members).
+
+(4)
+
+The general duties–
+
+(a)
+
+have effect subject to any rule of law enabling the company to give authority, specifically or generally, for anything to be done (or omitted) by the directors, or any of them, that would otherwise be a breach of duty, and
+
+(b)
+
+where the company’s articles contain provisions for dealing with conflicts of interest, are not infringed by anything done (or omitted) by the directors, or any of them, in accordance with those provisions.
+
+(5)
+
+Otherwise, the general duties have effect (except as otherwise provided or the context otherwise requires) notwithstanding any rule of law applicable in the Abu Dhabi Global Market.
+
+125
+
+Chapter 3
+
+DECLARATION OF INTEREST IN EXISTING TRANSACTION OR ARRANGEMENT
+
+171. Declaration of interest in existing transaction or arrangement
+
+(1) Where a director of a company is in any way, directly or indirectly, interested in a transaction or arrangement that has been entered into by the company, he must declare the nature and extent of the interest to the other directors in accordance with this section.
+
+This section does not apply if or to the extent that the interest has been declared under section 167 (duty to declare interest in proposed transaction or arrangement).
+
+(2)
+
+The declaration must be made–
+
+(a)
+
+at a meeting of the directors, or
+
+(b)
+
+by notice in writing (see section 173 (declaration made by notice in

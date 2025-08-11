@@ -1,0 +1,175 @@
+
+
+Group
+
+Group Risk
+
+High Quality Liquid Assets (HQLA)
+
+Holding Company
+
+delivery of any property to which the contract relates;
+
+(iv)
+
+a contract under which Money is received by way of Deposit or an acknowledgement of a debt on terms that any return to be paid on the sum deposited or received will be calculated by reference to an index, interest rate, exchange rate or any combination of these or other factors; or
+
+(v)
+
+a Contract of Insurance.
+
+The measure of the rate of change of Delta.
+
+(1) For the purposes of the Interest Rate Risk Capital Requirement, means the risk that in losses may arise from price changes Securities caused by parallel or non-parallel shifts from price movements in the equity market for a given country;
+
+in
+
+the yield curve or
+
+(2) For the purposes of the Equity Risk Capital Requirement, means the risk that losses may arise from a price movement in the equity market for a given country; or
+
+(3) For the purposes of internal models, means
+
+both of the above risks.
+
+The board of Directors, Partners, committee of management or other Governing Body of an Undertaking.
+
+Has the meaning given in section 258 of FSMR.
+
+The risk of loss to the Authorised Person as a result of its membership of, or linkages within a Group.
+
+Liquid assets that meet the conditions in Rules A10.2.2 to A10.2.9 of App10.
+
+Has Regulations.
+
+the meaning given
+
+in
+
+the Companies
+
+23
+
+PRU VER17.290725
+
+Home State Regulator Means the relevant Regulated Activities regulator of a
+
+Branch in its home member state.
+
+ICR
+
+Means the Individual Capital Requirement given in Section 10.6.
+
+Implicit Support
+
+Arises when an Authorised Person provides support to a securitisation in excess of its predetermined contractual obligation.
+
+Insurance Intermediation
+
+Means the Regulated Activity specified in paragraph 33 of Schedule 1 of FSMR.
+
+Insurance Management Means the Regulated Activity specified in paragraph 36 of Schedule 1 of FSMR.
+
+Insurance Manager
+
+An Authorised Person whose Financial Services Permission authorises it to carry on the Regulated Activity of Insurance Management.
+
+Insurance Money
+
+(1) Means, subject to (2), any monies arising from Insurance Intermediation or the Insurance Management business which are any of the following:
+
+(a) premiums, additional premiums and
+
+return premiums of all kinds;
+
+(b)
+
+claims and other payments due under Contracts of Insurance;
+
+(c)
+
+refunds and salvages;
+
+(d)
+
+fees, charges, taxes and similar fiscal levies relating to Contracts of Insurance;
+
+(e) discounts, commissions and brokerage;
+
+or
+
+(f) monies received from or on behalf of a Client of an in relation to his Insurance Management business.
+
+Insurance Manager,
+
+(2) Monies are not Insurance Monies where there is a written agreement in place between the Insurance Intermediary or Insurance Manager and the Insurer to whom the relevant monies
+
+24
+
+PRU VER17.290725
+
+Insurer
+
+Interest Rate Risk Capital Requirement
+
+are to be paid (or from whom they have been received) under which the Insurer agrees that:
+
+(a)
+
+the Insurance Intermediary or Insurance Manager , as the case may be, holds as agent for the Insurer all monies received by it in connection with Contracts of Insurance effected or to be effected by the Insurer;
+
+(b)
+
+insurance cover is maintained for the Client once the monies are received by the the Insurance Manager , as the case may be; and
+
+Insurance
+
+Intermediary or
+
+(c)
+
+the to make a payment to the Client is not discharged until actual receipt of the relevant monies by the Client.
+
+Insurer's obligation
+
+(3)
+
+In this definition, a Client of an Insurance Manager means:
+
+(a)
+
+any Insurer for which the Insurance Manager Insurance provides Management;
+
+(b)
+
+any shareholder of an Insurer mentioned
+
+in (a); or
+
+(c)
+
+any Person on whose behalf Insurance Manager undertakes establish that Person as an Insurer.
+
+A Person carrying on in the ADGM either or both of the following Regulated Activities for which it has Services authorisation Permission:
+
+under
+
+its
+
+Financial
+
+(a)
+
+Effecting Contracts of Insurance; or
+
+(b) Carrying Out Contracts of Insurance as
+
+Principal.
+
+A component of Market Risk Capital Requirement and calculated in accordance with Section 5.4.
+
+25
+
+the to
+
+PRU VER

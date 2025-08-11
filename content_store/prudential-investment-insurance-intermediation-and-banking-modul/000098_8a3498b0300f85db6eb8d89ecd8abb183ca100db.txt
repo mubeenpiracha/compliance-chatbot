@@ -1,0 +1,93 @@
+irms which transfer Credit Risk from their balance sheets and Sponsors in a securitisation transaction involving Non- Trading Book Exposures. This section also sets out the methodologies for calculation of RWA amounts for securitisation Exposures. The Rules setting out the methodologies for calculation of Market Risk Capital Requirement amounts for securitisation Exposures held in the Trading Book are specified in chapter 5 and App5 of this module.
+
+3.
+
+As securitisations may be structured in many different ways, an Authorised Firm engaging in the activities relating to securitisations (whether traditional or Synthetic) must ensure that the economic substance of the transaction is fully considered, and reflected, in determining the capital treatment of a securitisation, rather than relying on the legal form of the Securitisation.
+
+145
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+4.14.9 An Authorised Firm is required, subject to Rule 4.14.12, to include all securitisation Exposures in its calculation of Credit RWAs relating to securitisations, including the following:
+
+(a)
+
+those arising from the provision of Credit Risk mitigants to a securitisation;
+
+(b)
+
+investments in asset backed Securities;
+
+(c)
+
+retention of a subordinated tranche;
+
+(d)
+
+extension of a liquidity facility; and
+
+(e)
+
+extension of Credit Enhancement.
+
+4.14.10 An Authorised Firm must include in its calculation of Credit RWA all of its those securitisation Exposures held securitisation Exposures which the Authorised Firm is required to include as deductions from T1 Capital and deductions from T2 Capital.
+
+in
+
+the Non-Trading Book, except
+
+for
+
+4.14.11 Repurchased securitisation transactions must be treated as retained securitisation
+
+Exposures.
+
+Deductions
+
+4.14.12 (1)
+
+An Authorised Firm may deduct SE Exposures which it has chosen not to treat in accordance with Rules 4.14.8 to 4.14.11 from Capital Resources - 100% from CET1.
+
+(2)
+
+Credit-Enhancing Interest-Only Strips (net of the deductions from CET1 Capital required at Rule 4.14.13) are deducted 100% from CET1 Capital.
+
+(3)
+
+Deductions from capital may be calculated net of specific provisions taken against relevant securitisation Exposures.
+
+4.14.13 An Authorised Firm must include as deductions from CET1 Capital any increase in issued capital or reserves resulting from a securitisation, such as that associated with expected future margin income resulting in a gain-on-sale that is recognised as issued capital or reserves.
+
+Guidance
+
+Gain-on-sale arises when there has been an increase in equity of the Authorised Firm associated with recognising the discounted value of the expected future margin income as part of the regulatory capital.
+
+4.14.14 An Authorised Firm must assign a securitisation Exposure to a Credit Quality Grade based on the external credit assessment (where available) that is applicable to the securitisation Exposure in accordance with relevant Rules in this chapter.
+
+Implicit Support
+
+4.14.15 An Originator or a Sponsor of a securitisation must not provide Implicit Support to a securitisation transaction with a view to reducing potential or actual losses to investors outside of its contractual obligations;
+
+4.14.16 If an Originator fails to comply with Rule 4.14.15 in respect of a securitisation, it:
+
+146
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+(a)
+
+must include all the underlying Exposures of the securitisation in its calculation of Credit RWAs as if those Exposures had not been Securitised and were on the balance sheet of the Authorised Firm;
+
+(b)
+
+must not recognise any gain-on-sale of assets to the securitisation; and,
+
+(c)
+
+must disclose to investors that the Authorised Firm has provided non contractual support and the regulatory capital impact of doing so.
+
+Requirements in order for a Traditional Securitisation to be excluded from the calculation of R

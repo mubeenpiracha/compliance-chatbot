@@ -1,0 +1,141 @@
+ branches and subsidiaries in another jurisdiction, it may take action, including making it a condition of the Authorised Person's Financial Services Permission that it must not operate a branch or subsidiary in that jurisdiction.
+
+4.3
+
+Group policies
+
+4.3.1 A Relevant Person which is part of a Group must ensure that it:
+
+(a)
+
+has developed and implemented policies and procedures for the sharing of information between Group entities, including the sharing of information relating to CDD and money laundering risks;
+
+(b)
+
+has in place adequate safeguards on the confidentiality and use of information exchanged between Group entities, including consideration of relevant data protection legislation;
+
+(c)
+
+remains aware of the money laundering risks of the Group as a whole and of its exposure to the Group and takes active steps to mitigate such risks;
+
+(d)
+
+contributes to a Group-wide risk assessment to identify and assess money laundering risks for the Group; and
+
+(e)
+
+provides its Group-wide compliance, audit and AML/TFS functions with customer account and Transaction information from its Branches and Subsidiaries when necessary for AML/TFS purposes.
+
+4.4
+
+Notifications
+
+4.4.1 A Relevant Person must inform the Regulator in writing immediately if, in the course of its activities carried on in or from ADGM or in relation to any of its Branches or Subsidiaries, it:
+
+(a)
+
+receives a request for information from a regulator or agency in another jurisdiction responsible for AML/TFS or Sanctions regarding enquiries into potential money laundering;
+
+(b)
+
+becomes aware, or has reasonable grounds to believe, that the following has or may have occurred in or through its business:
+
+(i)
+
+money laundering, contrary to relevant Federal AML Legislation;
+
+(ii)
+
+a breach of Sanctions; or
+
+Confidential
+
+22
+
+AML VER10.020125
+
+(iii)
+
+acts amounting to bribery under the Organisation for Economic Co- operation and Development (“OECD”) Convention on Combatting Bribery of Foreign Public Officials in International Business Transactions;
+
+(c)
+
+becomes aware of any money laundering or Sanctions matter in relation to the Relevant Person or a member of its Group which could result in adverse reputational consequences to the Relevant Person; or
+
+(d)
+
+becomes aware of a significant breach of a Rule in the AML Rulebook or breach of relevant Federal AML Legislation.
+
+4.4.2 A Relevant Person must inform the Regulator in writing as soon as possible if, in the course of its activities carried on in or from ADGM, it suspects or becomes aware that another Person outside of its business is engaged in:
+
+(a)
+
+money laundering, contrary to relevant Federal AML Legislation;
+
+(b)
+
+a breach of Sanctions; or
+
+(c)
+
+acts amounting to bribery under the OECD Convention on Combatting Bribery of Foreign Public Officials in International Business Transactions.
+
+This requirement does not apply to information or documents that are legally privileged or in the public domain.
+
+4.5
+
+Record keeping
+
+4.5.1 A Relevant Person must, where relevant, maintain the following records:
+
+(a)
+
+a copy of all documents and information obtained in undertaking initial and ongoing CDD or due diligence on business partners;
+
+(b)
+
+records, consisting of the original documents or certified copies, in respect of the customer business relationship, including:
+
+(i)
+
+business correspondence and other information relating to a customer’s account;
+
+(ii)
+
+sufficient records of transactions to enable individual transactions to be reconstructed; and
+
+(iii)
+
+internal findings and analysis relating to a transaction or any business, if the transaction or business appears unusual or suspicious, whether or not it results in a Suspicious Activity/Transaction Report;
+
+(c)
+
+internal notifications of suspicious activity made to its MLRO under Rule 14.2.2;
+
+(d)
+
+Suspicious Activity/Transaction Reports and any relevant supporting documents and information, including internal findings and analysis;
+
+Confidential
+
+23
+
+AML VER10.020125
+
+(e)
+
+any relevant communications with the FIU;
+
+(f)
+
+the documents in Rule 4.6.1; and
+
+(g)
+
+any other matter that the Relevant Person is expressly required to record under these Rules,
+
+for at least six years from the date on which the notification or report was made, the business relationship ends or the Transaction is completed, whichever occurs last.
+
+Guidance
+
+A Relevant Person must comply with all applicable Rules on record keeping, regardless of whether or not it is outsourcing an element of its CDD process, see also Rule 9.3.

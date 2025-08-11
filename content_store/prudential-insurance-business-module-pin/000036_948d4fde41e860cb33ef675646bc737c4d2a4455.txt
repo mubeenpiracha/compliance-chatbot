@@ -1,0 +1,145 @@
+ PIN, appendices have been used to present detailed material which would otherwise break up the flow of the main text.
+
+2.
+
+App2 presents detailed guidance on systems and controls issues particularly relevant to Insurers.
+
+3.
+
+The remaining appendices are all concerned with capital adequacy calculations and reporting.
+
+4.
+
+A fundamental requirement of chapter 4 of the Rules is that an Insurer’s capital resources should be at least equal to its capital requirement.
+
+5.
+
+App3 contains the Rules for the calculation of an Insurer’s capital resources, for a normally structured Insurer. App5 and App7 contain the corresponding rules for a Protected Cell Company and a segregated Long-Term Insurance Fund respectively.
+
+6.
+
+App4 contains the Rules for the calculation of an Insurer’s capital requirement, for a normally structured insurer. App6 and App8 contain the corresponding rules for a Protected Cell Company and a segregated Long-Term Insurance Fund respectively. They make frequent reference to App4.
+
+7.
+
+App9 contains the rules for the calculation of the DIFC Business Risk Capital Requirement referred to in Rule 4.7.2(d). It is only applicable to Insurers incorporated outside the DIFC.
+
+8.
+
+PRU and App10 contains financial reporting forms, and specifies how they must be completed.
+
+50
+
+PIN/VER18/04-23
+
+PRUDENTIAL – INSURANCE BUSINESS (PIN)
+
+APP2 MANAGEMENT AND CONTROL OF RISK
+
+A2.1
+
+Introduction
+
+Guidance
+
+1.
+
+This Guidance relates to the Rules on management and control of risk contained in chapter 2. It has been prepared to assist directors of Insurers, their Auditors, and others concerned in applying those Rules.
+
+2.
+
+The Rules in chapter 2 require an Insurer to address specific areas of risk, as well as maintain a generally sound risk management system. Insurers have some flexibility in their approach to these requirements.
+
+3.
+
+This appendix provides some general comment on the objectives of the Rules, risk management and control mechanisms. It also provides specific comment on the following selected aspects of the five broad areas of risk identified in section 2.3, that are considered to be of particular relevance to Insurers:
+
+a.
+
+Balance sheet and market risk components:
+
+i.
+
+reserving risk;
+
+ii.
+
+investment risk (including risks associated with the use of derivatives);
+
+iii.
+
+underwriting risk;
+
+iv.
+
+claims management risk;
+
+v.
+
+product design and pricing risk; and
+
+vi.
+
+liquidity management risk;
+
+b.
+
+Credit quality risk;
+
+c.
+
+Non-financial or operational risk components:
+
+i.
+
+business continuity planning risk; and
+
+ii.
+
+outsourcing risk;
+
+d.
+
+Reinsurance risk; and
+
+e.
+
+Group risk.
+
+4.
+
+It is not the purpose of this appendix to provide guidance in areas that are common to all or many Authorised Firms other than Insurers. The principal objective is to address areas that are of specific relevance to Insurers.
+
+5.
+
+The procedures set out in this appendix do not constitute a checklist of necessary procedures. An Insurer cannot assume that implementing all of the procedures set out in this appendix will guarantee that the Insurer complies with the requirements to which it is subject.
+
+6.
+
+Since this appendix is not intended to be prescriptive or exhaustive, it cannot be regarded as a substitute for reading the Rules themselves and taking professional advice. An Insurer should contact the DFSA if there are any areas which it would like to discuss further.
+
+51
+
+PIN/VER18/04-23
+
+PRUDENTIAL – INSURANCE BUSINESS (PIN)
+
+A2.2 Objectives of the rules
+
+Guidance
+
+1.
+
+The objective of the Rules contained in chapter 2 is that Insurers should control their own risks through sound and prudent risk management systems, such as to minimise the likelihood that events, internal or external to the Insurer, cause the Insurer to fail financially or operationally.
+
+2.
+
+The risk management systems required by the Rules should be integrated with the operational processes of a business. Insurers are expected to instil a strong risk control culture throughout their operations, so that material risks and potential problems that emerge can be identified, managed and promptly resolved in the normal course of business operations. The absence of such a control culture is likely to be taken as evidence that more specific control objectives are unlikely to be attained.
+
+A2.3 Risk management systems
+
+Guidance
+
+1.
+
+The Rules require an Insurer to develop, implement and maintain sound

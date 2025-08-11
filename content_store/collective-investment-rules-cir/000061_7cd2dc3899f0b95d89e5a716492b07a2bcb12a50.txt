@@ -1,0 +1,121 @@
+ financing.
+
+2. Rule 13.4.4.(5) does not require individual transactions to be specified in the Prospectus or approved by Special Resolution of Unitholders. Instead, it would be sufficient for general information relating to such arrangements, such as their legal effect, to be included in the Prospectus, failing which Unitholder approval by Special Resolution will be required. Similarly, Unitholders can by Special Resolution grant general approval for use of such Islamic financing arrangements, obviating the need for each specific transaction to be separately approved. Borrowing
+
+(1)
+
+The Fund Manager of a Public Property Fund may borrow either directly or through its Special Purpose Vehicle for financing investment or operating purposes, but aggregate borrowings must not at any time exceed 65% of the gross asset value of the Fund.
+
+(2)
+
+The Fund Manager of a Fund may pledge the Fund’s assets to secure borrowings under (1).
+
+(3)
+
+In the event that the borrowing limit under (1) is exceeded, the Fund Manager must inform the Trustee (if appointed), the Unitholders and the DFSA of the magnitude of the breach, the cause of the breach, and the proposed method of rectification. The Fund Manager must use its best endeavours to reduce as soon as reasonably possible the excess borrowings.
+
+(4)
+
+All borrowings by the Fund must be conducted at arm’s length.
+
+97
+
+CIR/VER38/08-24
+
+13.4.6
+
+13.4.7
+
+13.4.8
+
+COLLECTIVE INVESTMENT RULES (CIR)
+
+(5)
+
+Borrowings by any Special Purpose Vehicles held by the Fund must be aggregated for the purpose of calculating borrowings of the Fund for the purposes of this Rule.
+
+Guidance
+
+The gross asset value of a Fund should be calculated as the total value of the Fund Property, based on the most recent valuation under Rule 8.4.1(1), but without making the deductions provided for in the other paragraphs of that Rule.
+
+Joint Ownership Arrangement
+
+The Fund Manager must ensure that when a joint ownership arrangement is entered into, the Fund has a majority stake or holding in respect of that arrangement, that is, more than 50% ownership and control in each property at all times.
+
+(1)
+
+In making any joint ownership investment under Rule 13.4.6, the Fund Manager must:
+
+(a)
+
+be able to demonstrate that the arrangement, including the decision to own less than a 100% interest in the property, is in the interests of the Unitholders; and
+
+(b)
+
+must obtain a legal opinion in accordance with (2).
+
+(2)
+
+The legal opinion referred to in (1)(b) must include:
+
+(a)
+
+a description of the significant terms of the joint ownership arrangement;
+
+(b)
+
+a statement whether the Fund will have a good and marketable legal and beneficial interest in the property;
+
+(c)
+
+a description of the equity and profit sharing arrangements of the parties to the agreement;
+
+(d)
+
+a statement that the relevant contract and joint ownership arrangements are legal, valid, binding and enforceable under applicable law;
+
+(e)
+
+a statement that all necessary licences and consents required in the location where the subject property is located have been obtained by the Fund or its Special Purpose Vehicle;
+
+(f)
+
+any restriction on divestment by the Fund of its interest, in whole or in part, in the property; and
+
+(e)
+
+if applicable, the implication of foreign rules and regulations that may prohibit full ownership of the property by the Fund.
+
+The Fund Manager must ensure that:
+
+98
+
+CIR/VER38/08-24
+
+13.4.9
+
+13.4.10
+
+COLLECTIVE INVESTMENT RULES (CIR)
+
+(a)
+
+proper due diligence identifying restrictions and constraints that may limit a Fund’s direct ownership of a 100% interest in a property; and
+
+is conducted
+
+in
+
+(b)
+
+the liability of, or assumed by, the Fund does not exceed the percentage of its interest in the joint ownership arrangement and there is to be no assumption of unlimited liability by the Fund.
+
+The Fund Manager must disclose to Unitholders;
+
+(a)
+
+the ownership structure of the property interest and the material terms thereof, including restrictions on divestments and the impact or implication of such restrictions on the divestment value of the interest in the property;
+
+(b)
+
+the identity, background and ownership of the remaining

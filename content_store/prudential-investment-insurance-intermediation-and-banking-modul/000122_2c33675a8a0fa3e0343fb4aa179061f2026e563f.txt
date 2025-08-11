@@ -1,0 +1,105 @@
+ development and maintenance activities, including the allocation of responsibilities between IT development and operational areas.
+
+3.
+
+Additional requirements to manage cyber risk apply to an Authorised Firm under GEN section 5.5.
+
+[Deleted]
+
+Outsourcing
+
+An Authorised Firm must establish and maintain appropriate systems and controls to manage its outsourcing risk.
+
+Guidance
+
+1.
+
+GEN Rules 5.3.21 and 5.3.22 set out the DFSA requirements on outsourcing by Authorised Firms. This section complements the requirements in the GEN module and contains guidance on managing the Operational Risk associated with outsourcing arrangements.
+
+2.
+
+The assessment of outsourcing risk at an Authorised Firm may depend on several factors, including the scope and materiality of the outsourced activity, how well the Authorised Firm manages, monitors and controls outsourcing risk (including its general management of Operational Risk), and how well the service provider manages and controls the potential risks of the operation.
+
+3.
+
+Factors that an Authorised Firm should consider in establishing outsourcing arrangements include the following:
+
+a.
+
+the financial, reputational and operational impact on the Authorised Firm of the failure of a service provider to perform adequately the activity;
+
+b.
+
+potential losses to an Authorised Firm’s customers and counterparts in the event of a service provider failure;
+
+c.
+
+the consequences of outsourcing the activity on the ability and capacity of the Authorised Firm to conform with regulatory requirements and changes in such requirements;
+
+d.
+
+the interrelationship of the outsourced activity with other activities within the Authorised Firm;
+
+e.
+
+the cost associated with the outsourcing;
+
+f.
+
+any affiliation or other relationship between the Authorised Firm and the service provider;
+
+g.
+
+the regulatory status of the service provider;
+
+h.
+
+the degree of difficulty and time required to select an alternative service provider or to bring the business activity in-house, if necessary;
+
+i.
+
+the complexity of the outsourcing arrangement. For example, the ability to control the risks where more than one service provider collaborates to deliver an end-to-end outsourcing solution; and
+
+183
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+j.
+
+any data protection, security and other risks which may be adversely affected by the geographical location of an outsourcing service provider. To this end, Specific Risk management expertise in assessing country risk related, for example, to political or legal conditions, could be required when entering into and managing outsourcing arrangements that are taken outside of the home country.
+
+6.9
+
+Business continuity and disaster recovery
+
+Guidance
+
+See GEN chapter 5 regarding requirements relating to an Authorised Firm’s business continuity and disaster recovery arrangements.
+
+6.10 Management of Operational Risks in trading activities
+
+Guidance
+
+This section complements the Rules and Guidance set out in other sections of this chapter with more specific guidance for the identification, assessment, control and monitoring of Operational Risks in trading activities. In this Guidance, reference to “trading activities” should be construed in its natural sense in the context of Financial Services and should include an Authorised Firm’s activities in Dealing in Investments as Principal and Dealing in Investments as Agent. In addressing the Operational Risks arising from trading activities, an Authorised Firm should consider the following:
+
+a.
+
+staff members in support and control functions, comprising functions such as operations, settlement, finance, risk management, legal, compliance, internal and external audit, should have adequate representation and authority within the Authorised Firm’s overall governance framework so as to be able to effectively challenge the activities undertaken by the front office;
+
+b.
+
+Operational Risk management systems should set criteria, indicators and thresholds enabling the identification of material incidents detected by internal control procedures. This should include tracking of Operational Risk losses in trading activities and analysis of those losses for possible interconnections (i.e. losses based on one event or root cause);
+
+c.
+
+high professional standards and a sound risk culture should be promoted within the Authorised Firm, particularly in the front office, in a way that supports professional and responsible behaviour. This should include, but is not limited to, developing and implementing appropriate policies and procedures, setting standards (often in the form of a “code of conduct”) for relations between traders and their counterparts, and training procedures;
+
+d.
+
+there should be adequate segregation of duties between front office and the support and controls functions in charge of supporting, verifying and monitoring trade transactions;
+
+e.
+
+appropriate policies and procedures relating to leave requirements

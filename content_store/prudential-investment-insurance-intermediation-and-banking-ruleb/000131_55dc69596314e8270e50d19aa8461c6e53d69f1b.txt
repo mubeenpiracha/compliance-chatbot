@@ -1,0 +1,115 @@
+An Authorised Person must ensure that appropriate verification, whether internal or external, is performed in relation to any disclosure, and take all reasonable steps to ensure its accuracy and timeliness.
+
+11.2.3
+
+To the extent that any required disclosure is substantially similar to a disclosure required of the Authorised Person under the International Financial Reporting Standards, a disclosure under such standards must be taken to meet the requirement for disclosure under this Chapter.
+
+11.3
+
+Disclosure frequency, locations and process
+
+Frequency
+
+11.3.1
+
+(1)
+
+The disclosures set out in this Chapter must be made by the Authorised Person at least once a year, other than disclosures of CET1 Capital, T1 Capital and T2 Capital, deductions from Capital Resources, the Leverage Ratio and its components (the capital measure and the exposure measure), and the Liquidity Coverage Ratio and its components which must be made on a quarterly basis.
+
+(2)
+
+Reporting deadlines must be in accordance with quarterly and annual reporting obligations contained in these Rules.
+
+Locations
+
+11.3.2
+
+(1)
+
+An Authorised Person must, subject to (2), make these disclosures either in its annual report or periodic financial statements.
+
+(2)
+
+An Authorised Person may disclose the items marked as quantitative in App12 in a medium or location other than its annual report or periodic financial statements, provided that:
+
+(a)
+
+it has prior written approval of the Regulator to do so;
+
+(b)
+
+the annual report or periodic financial statements contain clear references to the location of such disclosures; and
+
+(c)
+
+such disclosures are readily accessible by the market.
+
+Guidance
+
+An Authorised Person has discretion to determine the form of the disclosures required, and may choose to use graphical and other representations where appropriate.
+
+233
+
+PRU VER17.290725
+
+Omissions
+
+11.3.3
+
+(1) An Authorised Person may omit certain disclosures if the omitted item is:
+
+(a)
+
+not material, in accordance with the concept of materiality under the International Financial Reporting Standards,
+
+(b)
+
+proprietary in nature, and the disclosure of the relevant information to the public would undermine the Firm's competitive position or render the Firm's investments in products and systems less valuable, or
+
+(c)
+
+confidential in nature, and the disclosure of the relevant information would violate or jeopardise confidentiality agreements with Clients or Counterparties.
+
+(2)
+
+Where in reliance upon (1)(b) or (c) an Authorised Person omits an item that is marked as a quantitative disclosure in App12, it must disclose general qualitative information about the subject matter of that particular requirement, together with the reasons for the omission.
+
+234
+
+PRU VER17.290725
+
+APP1
+
+CATEGORIES OF AUTHORISED PERSONS
+
+A1.1
+
+Categorisation of Authorised Persons
+
+Guidance
+
+1.
+
+This Section contains the table referred to in the Guidance notes at the commencement of Section 1.3. This table is for guidance purposes only.
+
+2.
+
+The activities set out in the boxes in the table are Regulated Activities (see FSMR). The Regulated Activities that an Authorised Person is authorised to carry on are specified in its Financial Services Permission. The Regulated Activities described in the emboldened boxes in the table are the determinants for the prudential Category to which the Authorised Person is assigned.
+
+3.
+
+Where a Person carries on any one or more of the Regulated Activities specified in an emboldened box under a Category, then the highest such Category is that Person's prudential Category for the purposes of these Rules.
+
+4.
+
+An exception to the above is an Islamic Financial Institution which Manages a Profit Sharing Investment Account which is a PSIAu. Such an institution falls into Category 5.
+
+5.
+
+This is not a definitive list of the Regulated Activities detailed in the FSMR: others exist that are not subject to these Rules.
+
+235
+
+PRU VER17.290725
+
+Category 1Category 2Category 3ACategory 3BCategory 3CCategory 4Category 5Accepting DepositsProviding CreditDealing in Investments as Principal (only as a Matched Principal)Providing Custody (only if for a Fund)Managing a Collective Investment FundArranging CreditAn Islamic Financial Institution Managing a Profit Sharing Investment Account which is a PSIAuManaging a Profit Sharing Investment Account which is a PSIAuDealing in Investments as Principal (not as Match

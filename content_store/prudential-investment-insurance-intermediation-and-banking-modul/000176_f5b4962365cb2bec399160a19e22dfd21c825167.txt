@@ -1,0 +1,143 @@
+ cases where there is an undertaking to provide a commitment on another off-balance sheet Exposure, an Authorised Firm should apply the lower of the applicable CCFs. For example, if an Authorised Firm has a commitment to open self-liquidating trade letters of credit arising from the movement of goods, in particular documentary credits collateralised by the underlying shipment with an Original Maturity of less than one year, a 20% CCF should be applied instead of a 40% CCF.
+
+CCFs for off-balance sheet SE Exposures
+
+A4.2.2 (1)
+
+The applicable CCFs for off-balance sheet SE Exposures are provided in the table below.
+
+270
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+Description of off-balance sheet item
+
+CCF
+
+(a) Unrated eligible liquidity facilities
+
+50%
+
+(b) Eligible Servicer cash advance facilities
+
+0%
+
+(c) Others
+
+100%
+
+(2)
+
+An Authorised Firm must notify the DFSA if it intends to provide eligible Servicer cash advance facilities and when there is a drawdown.
+
+Guidance
+
+Eligible Servicer cash advance facilities refers to undrawn Servicer cash advances or facilities that are contractually provided for and unconditionally cancellable without prior notice, so long as the Servicer is entitled to full reimbursement and this right is senior to other claims on cash flows from the underlying Exposures.
+
+A4.3 Collateral calculations and haircuts
+
+Core Market Participants
+
+A4.3.1 For the purposes of this section, “core market participant” means:
+
+(a) any central government or Central Bank;
+
+(b) any PSE;
+
+(c)
+
+any MDB referred to in Rule 4.12.5;
+
+(d) any banking institution or securities firm;
+
+(e) any financial institution eligible for a 20% risk weight under section 4.12;
+
+(f)
+
+any Qualifying CCP;
+
+(g) any regulated mutual fund that is subject to capital or leverage requirements; or
+
+(h) any regulated pension fund.
+
+Calculation of E* for collateralised transactions under FCCA
+
+A4.3.2 An Authorised Firm using the FCCA must, subject to A4.3.3, calculate the Exposure amount after risk mitigation, E*, of a collateralised transaction other than transactions referred to in Rule 4.14A1(a) to (c), using the following formula:
+
+E∗ = max{0,[E ∙ (1 + He) − C ∙ (1 − Hc − Hfx]}
+
+where:
+
+E =
+
+fair value of the Exposure, determined in accordance with section 4.9
+
+271
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+He =
+
+haircut appropriate to the Exposure, determined in accordance with Rule A4.3.5
+
+C =
+
+fair value of the eligible financial Collateral received
+
+Hc = haircut appropriate to the Collateral, determined in accordance with Rule A4.3.5
+
+Hfx = haircut appropriate for currency mismatch between the Collateral and Exposure,
+
+calculated in accordance with Rule 4.13.13
+
+Guidance
+
+Where the residual maturity of the Collateral is shorter than the residual maturity of the Exposure, the value of the Collateral received is adjusted under Rules 4.13.14 to 4.13.16.
+
+A4.3.3 (1) An Authorised Firm using the FCCA may, subject to (2), calculate the Exposure amount after risk mitigation, E*, for any SFT covered by a Qualifying Bilateral Netting Agreement, using the following formula:
+
+E∗ = max{0;∑Ei −∑Ci i
+
+i
+
++ 0.4 ∙ net exposure + 0.6 ∙
+
+gross exposure
+
+√N
+
++∑(Efx ∙ Hfx)
+
+FX
+
+}
+
+where:
+
+Ei =
+
+fair value of all cash lent and non-cash posted Collateral
+
+Ci =
+
+fair value of all cash borrowed and non-cash received Collateral
+
+net exposure = |∑ESHS
+
+|
+
+S
+
+gross exposure = ∑ES
+
+|HS|
+
+S
+
+ES =
+
+net

@@ -1,0 +1,119 @@
+ deliver notice to the applicant if the application is not dismissed—
+
+(a)
+
+after a hearing under sub-paragraph (4)(a); or
+
+(b)
+
+without a hearing in accordance with sub-paragraph (4)(b).
+
+271
+
+(6)
+
+(7)
+
+(8)
+
+(9)
+
+(10)
+
+10.
+
+(1)
+
+The venue must be fixed for not less than 28 days after delivery to the applicant of the notice under sub-paragraph (4).
+
+The applicant must, at least 14 days before the hearing, deliver to the Office-holder a notice stating the venue and accompanied by a copy of the application and of any evidence which the applicant intends to provide in support of it.
+
+If the Court considers the application to be well-founded, it must make one or more of the following orders—
+
+(a)
+
+an order reducing the amount of remuneration which the Office-holder is entitled to charge;
+
+(b)
+
+an order reducing any fixed amount;
+
+(c)
+
+an order changing the basis of remuneration;
+
+(d)
+
+an order that some or all of the remuneration or expenses in question be treated as not being expenses of the administration, expenses for the purposes of the Deed of Company Arrangement or winding-up expenses; and
+
+(e)
+
+an order that the administrator or liquidator or the administrator’s or liquidator’s personal representative pay to the Company the amount of the excess of remuneration or expenses or such part of the excess as the Court may specify,
+
+and may make any other order that it thinks just; but an order under sub- paragraph (8)(b) or (c) may be made only in respect of periods after the period covered by the relevant report.
+
+Unless the Court orders otherwise under sub-paragraph (10), the costs of the application must be paid by the applicant, and are not payable as an expense of the administration or the Deed of Company Arrangement or as winding-up expenses.
+
+The Court may order that the costs may be payable by the applicant, by the respondent or as an expense.
+
+Remuneration in winding-up where assets realised on behalf of charge holder
+
+A liquidator (including in a members’ voluntary winding-up) who realises assets on behalf of a secured creditor is entitled to such sum by way of remuneration as is arrived at—
+
+(a)
+
+in a winding-up where the assets are subject to a charge which when created was a mortgage or a fixed charge, by applying the realisation scale published by the Board to the moneys received by the liquidator in respect of the assets realised (after deducting any sums spent out of money received in carrying on the business of the Company);
+
+(b)
+
+in a winding-up where the assets realised are subject to a charge which when created was a floating charge, by—
+
+(i)
+
+applying the realisation scale published by the Board to moneys received by the liquidator from the realisation of those assets (ignoring any sums received which are spent in carrying on the business of the Company); and
+
+(ii)
+
+adding to the sum arrived at under sub-paragraph (b)(i) such sum as is arrived at by applying the distribution scale published by the Board to
+
+272
+
+(2)
+
+11.
+
+the value of the assets distributed to the holder of the charge and payments made in respect of preferential debts.
+
+The sum to which the liquidator is entitled must be taken out of the proceeds of the realisation.
+
+Voting on remuneration
+
+Where a resolution is proposed in a creditors’ voluntary winding-up or a compulsory winding-up which affects a person in relation to that person’s remuneration or conduct as liquidator, that person and the partners and employees of that person must not vote on it, whether as creditor, contributory, proxy-holder or corporate representative, unless the proxy specifically directs the proxy-holder to vote in that way.
+
+273
+
+SCHEDULE 13
+
+MODIFICATIONS TO THE INSOLVENCY REGULATIONS FOR LIMITED LIABILITY PARTNERSHIPS
+
+Provisions
+
+Modifications
+
+Section 1(3)(c) (Administration)
+
+For “Company or its Directors” substitute “Limited Liability Partnership”
+
+Section 5(3)(a) (General restrictions)
+
+For “resolution for voluntary winding up” substitute “determination to wind up voluntarily”
+
+Section 8(1)(b) (Administration application)
+
+Omit
+
+Section 29(2) (Power to appoint)
+
+Omit
+
+Section 32(2) (Notice

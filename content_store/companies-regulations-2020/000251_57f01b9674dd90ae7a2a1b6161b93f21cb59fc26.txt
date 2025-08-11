@@ -1,0 +1,127 @@
+ are kept there.
+
+(2)
+
+The information as to the company’s type must be given by reference to the classification scheme prescribed for the purposes of this section.
+
+29 Amended 23 February 2023
+
+428
+
+(3)
+
+The information as to the company’s principal business activities may be given by reference to one or more categories of any prescribed system of classifying business activities.
+
+(4)
+
+In this Part “return period”, in relation to a confirmation statement, means the period beginning immediately after the anniversary of incorporation to which the last return was made up (or, in the case of the first return, with the incorporation of the company) and ending with the next anniversary of incorporation.
+
+780. Required particulars of directors and secretaries
+
+(1)
+
+For the purposes of section 779(1)(c) the required particulars of a director are–
+
+(a)
+
+where the director is an individual, the particulars required by section 154 to be entered in the register of directors (subject to subsection (2) below), and
+
+(b)
+
+where the director is a body corporate or a firm that is a legal person under the law by which it is governed, the particulars required by section 155 to be entered in the register of directors.
+
+(2)
+
+The former name of a director who is an individual is a required particular in relation to a confirmation statement only if the director was known by the name for business purposes during the return period.
+
+(3)
+
+For the purposes of section 779(1)(c)(ii) the required particulars of a secretary are–
+
+(a)
+
+where a secretary is an individual, the particulars required by section 294 to be entered in the register of secretaries (subject to subsection (4) below), and
+
+(b)
+
+where a secretary is a body corporate or a firm that is a legal person under the law by which it is governed, the particulars required by section 295 (1) to be entered in the register of secretaries.
+
+(4)
+
+The former name of a secretary who is an individual is a required particular in relation to a confirmation statement only if the secretary was known by the name for business purposes during the return period.
+
+(5) Where all the partners in a firm are joint secretaries, the required particulars are the particulars that would be required to be entered in the register of secretaries if the firm were a legal person and the firm had been appointed secretary.
+
+781. Contents ofconfirmation statement: information about shares and share capital
+
+(1)
+
+The confirmation statement of a company having a share capital must also contain the following information.
+
+(2)
+
+The return must contain a statement of capital.
+
+(3)
+
+The statement of capital must state with respect to the company’s share capital at the date to which the return is made up–
+
+(a)
+
+the total number of shares of the company,
+
+(b)
+
+the aggregate value of those shares,
+
+(c)
+
+for each class of shares–
+
+429
+
+(i)
+
+the voting rights attached to the shares,
+
+(ii)
+
+the total number of shares of that class, and
+
+(iii)
+
+the aggregate value of shares of that class, and
+
+(d)
+
+the amount paid up and the amount (if any) unpaid on each share.
+
+(4)
+
+If any of the company’s shares were shares admitted to trading, the confirmation statement must also state whether any of the company’s shares were, at any time during the return period, shares admitted to trading on a recognised investment exchange, and state the name of each exchange.
+
+782. Contents ofconfirmation statement: information about shareholders
+
+(1)
+
+The return must contain the name (as it appears in the company’s register of members) of every person who was a member of the company at any time during the return period. The return must conform to the following requirements for the purpose of enabling the entries relating to any given person to be easily found–
+
+(a)
+
+the entries must be listed in alphabetical order by name, or
+
+(b)
+
+the return must have annexed to it an index that is sufficient to enable the name of the person in question to be easily found.
+
+(2)
+
+The return must also state–
+
+(a)
+
+the number of shares of each class held at the end of the date to which the return is made up by each person who was a member of the company at that time,
+
+(b)
+
+the number of shares of each class transferred during the return period by or to each person who was a member of the company at any time during that period, and

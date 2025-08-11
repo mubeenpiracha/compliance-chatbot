@@ -1,0 +1,63 @@
+ Relevant Person’s jurisdiction of origin, its business and/or customer base.
+
+5
+
+AML/VER27/03-25
+
+Anti-Money Laundering, Counter-Terrorist Financing and Sanctions Module (AML)
+
+Structure of the AML module
+
+6.
+
+Chapter 1 of this module contains an application table which should assist a Relevant Person to navigate through the module and to determine which chapters are applicable to it. Chapter 1 also specifies who is ultimately responsible for a Relevant Person’s compliance with the AML module. The DFSA expects the senior management of a Relevant Person to establish a robust and effective AML/CTF and sanctions compliance culture for the business.
+
+7.
+
+Chapter 2 provides an overview of the AML module and chapter 3 sets out the key definitions in the module. Note that not all definitions used in this module are capitalised.
+
+8.
+
+Chapter 4 explains the meaning of the risk-based approach (RBA), which should be applied when complying with this module. The RBA requires a risk-based assessment of a Relevant Person’s business (in chapter 5) and its customers (in chapter 6). A risk-based assessment should be a dynamic process involving regular review, and the use of these reviews to establish the appropriate processes to match the levels of risk. No two Relevant Persons will have the same approach, and implementation of the RBA and the AML module permits a Relevant Person to design and implement systems that should be appropriate to their business and customers, with the obvious caveat being that such systems should be reasonable and proportionate in light of the AML risks. The DFSA expects the RBA to determine the breadth and depth of the Customer Due Diligence (CDD) which is undertaken for a particular customer under chapter 7, though the DFSA understands that there is an inevitable overlap between the risk-based assessment of the customer in chapter 6 and CDD in chapter 7. This overlap may occur at the initial stages of customer on-boarding but may also occur when undertaking on-going CDD.
+
+9.
+
+Chapter 8 sets out when and how a Relevant Person may rely on a third party to undertake all or some of its CDD obligations. Reliance on a third-party CDD reduces the need to duplicate CDD already performed for a customer. Alternatively, a Relevant Person may outsource some or all of its CDD obligations to a service provider.
+
+10.
+
+Chapter 9 sets out certain obligations in relation to correspondent banking, wire transfers, the transfer of Crypto Tokens and other matters which (except for section 9.3B) apply to Authorised Persons, and, in particular, to banks. Section 9.3B applies to DNFBPs which send or receive NFTs or Utility Tokens.
+
+11.
+
+Chapter 10 sets out a Relevant Person’s obligations in relation to United Nations Security Council resolutions and sanctions, and government, regulatory and international findings (in relation to AML, terrorist financing and the financing of weapons of mass destruction).
+
+12.
+
+Chapter 11 sets out the obligation for a Relevant Person to appoint a Money Laundering Reporting Officer (MLRO) and the responsibilities of such a person.
+
+13.
+
+Chapter 12 sets out the requirements for AML training and awareness. A Relevant Person should adopt the RBA when complying with chapter 12, so as to make its training and awareness proportionate to the AML risks of the business and the employee role.
+
+14.
+
+Chapter 13 contains the obligations applying to all Relevant Persons concerning Suspicious Activity Reports, which are required to be made under Federal Law No. 20 of 2018 on Anti- Money Laundering and Combating the Financing of Terrorism and Illegal Organisations.
+
+15.
+
+Chapter 14 contains the general obligations applying to all Relevant Persons, including Group policies, notifications, record-keeping requirements and the annual AML Return.
+
+16.
+
+Chapter 15 sets out specific Rules applying to DNFBPs, including the requirement to register with the DFSA, and Chapter 16 contains certain transitional Rules.
+
+The U.A.E. criminal law
+
+17.
+
+The U.A.E. criminal law applies in the DIFC and, therefore, persons in the DIFC must be aware of their obligations in respect of the criminal law as well as these Rules. Relevant U.A.E. criminal laws include Federal Law No. 20 of 2018 on Anti-Money Laundering and
+
+6
+
+AML/VER27

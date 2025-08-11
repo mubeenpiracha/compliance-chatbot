@@ -1,0 +1,49 @@
+ to enable the Listing Authority, and the market in the Listed Entity’s Securities, to be satisfied that the Reporting Entity is in compliance with its continuous disclosure obligations under the Rules. Aware letters are issued under Rule 2.8.2. A Reporting Entity must respond to an ‘aware letter’ by the time specified by the Listing Authority in the letter.
+
+188) Similar to a MAQ Letter, ‘aware letters’ tend to follow a standard template. Generally, they will identify the information in question and the relevant date it was Disclosed, and ask the following questions:60
+
+(i) Does the Reporting Entity believe the information identified in the letter to be Inside Information (being information that a reasonable person would expect to have a significant effect on the price of the Listed Entity’s Securities)?
+
+(ii)
+
+If the answer to question i) is “yes”, please confirm the following:
+
+60 Similar to a MAQ Letter, an ‘aware letter’ will usually ask for a response to be sent to a particular officer within the Listing Authority by email, and advise that the response should not be sent to the FSRA Disclosure Platform. The ‘aware letter’ will also contain a statement that the Listing Authority, under Rule 2.8, will Disclose the ‘aware letter’ and the Reporting Entity’s response, and therefore the response should be in a form suitable for Disclosure.
+
+39
+
+VER01.280922
+
+i. When did the Reporting Entity first become aware of the Inside Information identified in the letter? Please include details of the relevant time and circumstances of the Reporting Entity becoming aware of the [key contents of the Inside Information]?
+
+ii.
+
+If the Reporting Entity was aware of the [key contents of the Inside Information] prior to the date of this letter, please advise why the Reporting Entity did not Disclose the Inside Information or request a Trading Halt or Suspension at an earlier time? Please comment specifically on the application of Rule 7.2.1.
+
+(iii)
+
+If the answer to question i) is “no”, please confirm the basis on which the Reporting Entity does not consider the information to be Inside Information?
+
+(iv) Please confirm that the Reporting Entity is in compliance with the Markets Rules
+
+and, in particular, Rule 7.2.1.
+
+189) When a Reporting Entity’s response has been received and reviewed by the Listing Authority, both the ‘aware letter’ and the Reporting Entity’s response will usually be Disclosed together by the Listing Authority, so that the market in the Listed Entity’s Securities is aware that the Listing Authority has made enquiries of the Reporting Entity about the timeliness of its Disclosures, and of the Reporting Entity’s response to those enquiries. Listing Authority requests for further information
+
+190) The Listing Authority may ask a Reporting Entity to submit further information, documentation or an explanation about a matter, to enable the Listing Authority to be satisfied that the Reporting Entity is in compliance with its obligations under the Rules, if the Listing Authority has concerns that a: a) Reporting Entity may have failed to Disclose Inside Information that should have
+
+been Disclosed under Rule 7.2.1; or
+
+b) Disclosure under Rule 7.2.1 or Rule 7.5.1(b) may be inaccurate, incomplete or
+
+misleading.
+
+191) A Reporting Entity must comply with such a request from the Listing Authority within the time specified by the Listing Authority (pursuant to Rules 2.8.1(1) and (2)). Depending on the nature of the information requested, the Listing Authority may require the information to be Disclosed. The Listing Authority may, but is not required to, notify a Reporting Entity of the proposed Disclosure and allow the Reporting Entity an opportunity to comment. If the Reporting Entity believes that the information it provides to the Listing Authority is Inside Information, but which falls within the exemption from immediate Disclosure under Rule 7.2.2, the Reporting Entity must submit to the Listing Authority reasons for why it has formed that belief (at the time the relevant Inside Information is provided to the Listing Authority). Complaints or allegations of non-compliance by Reporting Entities
+
+192) If the Listing Authority receives a complaint or allegation from a third party alleging that a Reporting Entity has failed to Disclose particular Inside Information that should have been Disclosed under Rule 7.2.1, the Listing Authority will normally enquire of the
+
+40
+
+VER01.280922
+
+Reporting Entity as to

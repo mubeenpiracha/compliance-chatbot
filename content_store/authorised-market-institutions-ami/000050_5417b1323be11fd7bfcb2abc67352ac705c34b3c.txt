@@ -1,0 +1,143 @@
+ place if a Fiat Crypto Token is used for clearing and settlement:
+
+a.
+
+a comprehensive governance framework with a clear allocation of accountability for the functions and activities of the Crypto Token;
+
+b.
+
+effective risk management frameworks for reserve management, operational resilience, cyber security and AML/CTF requirements;
+
+c.
+
+robust systems for collecting, storing and safeguarding data, as well as appropriate recovery and resolution plans;
+
+d.
+
+comprehensive and transparent disclosures on the functioning of the Crypto Token, including with respect to its stabilisation, reserve and redemption mechanisms;
+
+e.
+
+settlement finality features, demonstrated through clear definitions of technical finality and the point of irrevocability and transparent mechanisms for reconciling misalignments between technical settlement and legal finality; and
+
+f.
+
+money settlement features, with an absence of market, credit or liquidity risk, including through a direct legal claim on the issuer or the underlying reserve assets, timely convertibility at par into other liquid assets and clear and robust process for fulfilling client claims, under both normal and stressed scenarios.
+
+Physical delivery
+
+(1)
+
+A Clearing House incurring obligations that require physical delivery of commodities must:
+
+(a)
+
+provide adequate its Members and other participants using its facilities relating to its obligations with respect to physical delivery of commodities. Such information must also be made publicly available;
+
+information
+
+to
+
+79
+
+AMI/VER28/03-25
+
+7.2.7
+
+7.2.8
+
+AUTHORISED MARKET INSTITUTIONS (AMI)
+
+(b)
+
+identify, monitor, and manage the risks associated with such physical deliveries; and
+
+(c)
+
+identify, monitor, and manage the risks and costs associated with the storage and delivery of commodities.
+
+(2)
+
+A Clearing House must have adequate arrangements, including service agreements, which enable it to meet its physical delivery obligations.
+
+Collateral
+
+(1)
+
+A Clearing House which requires collateral to manage its own, its Members’ or other participants’ credit risks arising in the course of or for the purposes of its payment, clearing, and settlement processes must:
+
+(a)
+
+only accept collateral with low credit, liquidity, and market risks; and
+
+(b)
+
+set and enforce appropriately conservative haircuts and concentration limits.
+
+(2)
+
+A Clearing House must, for the purposes of meeting the requirement in (1), establish and implement a collateral management system that is well designed and operationally flexible. Such a system must, at a minimum:
+
+(a)
+
+limit the assets it accepts as collateral to those with low credit, liquidity, and market risks;
+
+(b)
+
+establish prudent valuation practices and develop haircuts that are regularly tested and take into account stressed market conditions;
+
+(c)
+
+to reduce the need for procyclical adjustments, establish, to the extent practicable and prudent, stable and conservative haircuts that are calibrated to include periods of stressed market conditions;
+
+(d)
+
+avoid concentrated holdings of certain assets where that would significantly impair the ability to liquidate such assets quickly without significant adverse price effects; and
+
+(e)
+
+mitigate, if it accepts cross-border collateral, the risks associated with such use. Such measures must ensure that the collateral can be used in a timely manner.
+
+Settlement finality
+
+(1)
+
+A Clearing House must have adequate arrangements to ensure clear and certain final settlement of payments, transfer instructions or other obligations of Members and other participants using its facilities and where relevant, its own obligations.
+
+(2)
+
+For the purposes of (1), a Clearing House’s arrangements for final settlement must:
+
+80
+
+AMI/VER28/03-25
+
+AUTHORISED MARKET INSTITUTIONS (AMI)
+
+(a)
+
+ensure that, if intra-day or real-time settlement is not feasible, settlement occurs at least by the end of the value date of the relevant transaction; and
+
+(b)
+
+clearly define:
+
+(i)
+
+the point at which the final settlement occurs; and
+
+(ii)
+
+the point after which unsettled payments, transfer instructions, or other obligations may not be revoked by the parties to the underlying contract.
+
+(3)
+
+For the purposes of this Rule:
+
+(a)
+
+“final settlement” is the irrevocable and unconditional transfer of an asset or financial instrument, or the discharge of obligations arising under the underlying contract by the parties to the contract; and
+
+(b)
+
+“value date” is the day on which the payment, transfer instruction, or other obligation arising under the underlying contract is due and, accordingly, the associated funds or Investments are available to the respective parties under

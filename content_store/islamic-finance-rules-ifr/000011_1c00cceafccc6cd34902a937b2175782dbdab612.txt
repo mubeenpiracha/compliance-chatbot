@@ -1,0 +1,127 @@
+ or loss to the PSIA;
+
+(c)
+
+the basis for allocation of expenses to the PSIA;
+
+(d)
+
+the manner in which an Authorised Firm’s own funds, funds of restricted PSIAs and funds from unrestricted PSIAs are to be controlled;
+
+(e)
+
+the manner in which the funds of each type of investment account holder will be managed;
+
+(f)
+
+the manner in which it will determine priority for investment of own funds and those of holders of unrestricted PSIAs;
+
+(g)
+
+how provisions and reserves against equity and assets are to be applied; and
+
+(h)
+
+the manner in which losses incurred as a result of the misconduct or negligence for which the Authorised Firm is responsible will be dealt with.
+
+Guidance
+
+For the purposes of Rule 5.2.4, the policy and procedures manual should include procedures to ensure that the Authorised Firm manages the accounts of Profit Sharing Investment Account holders in accordance with their instructions.
+
+Funds of PSIA holders
+
+Unless clearly expressed in the contract between an Authorised Firm and a PSIA holder, the Authorised Firm may not use funds provided by a PSIA holder to fund its own corporate activities.
+
+Prudential requirements
+
+Application and Interpretation
+
+(1)
+
+This section applies when calculating Credit Risk or Market Risk in respect of Islamic Contracts invested in or held by an Authorised Firm Managing a PSIA, which is an Unrestricted PSIA.
+
+18
+
+IFR/VER21/03-25
+
+5.4.2
+
+5.4.3
+
+ISLAMIC FINANCE RULES (IFR)
+
+(2)
+
+In (1), the Islamic Contracts referred to are contracts which are funded by the PSIA.
+
+(3)
+
+In this section, the term “investing in or holding Islamic Contracts” means investing in or holding as a principal.
+
+Initial and ongoing capital requirements
+
+Guidance
+
+1.
+
+An Authorised Firm undertaking Islamic Financial Business is required to maintain initial and ongoing Capital Requirements in accordance with Rules in part 2 of Chapter 3 of PIB.
+
+2.
+
+In accordance with Rules in part 3 of chapter 3 of PIB, an Authorised Firm undertaking Islamic Financial Business is required to ensure that only the eligible components of capital are included in the calculation of capital.
+
+3.
+
+In accordance with PIB Rule 3.15.9, an Authorised Firm undertaking Islamic Financial Business is required to exclude from T2 Capital any amount by which the total of the Profit Equalisation Reserve and the Investment Risk Reserve exceeds the Displaced Commercial Risk Capital Requirement.
+
+4.
+
+For the purpose of calculating Capital Requirements, an Authorised Firm undertaking Islamic Financial Business or otherwise investing in or holding Islamic Contracts should give due importance to the economic substance of the transaction, in addition to the legal form of the Islamic Contracts.
+
+Systems and controls in relation to PSIAs
+
+Guidance
+
+The requirements in Rules 5.4.2 and 5.4.3 amplify the requirements in GEN Chapter 5.
+
+In addition to PIB Rule 3.2.4, 3.2.5, GEN Rule 5.3.1 and this module, an Authorised Firm Managing a PSIA must ensure its senior management establishes and maintains systems and controls that ensure that the Authorised Firm is financially sound and able at all times to satisfy the specific prudential requirements arising out of such business.
+
+that
+
+(1)
+
+In addition to Rules in 5.2.4, an Authorised Firm Managing a PSIA must set out in a written policy how it proposes to organise and control the activities that arise from such business and ensure that its activities are conducted in accordance with Shari’a.
+
+(2)
+
+The policy must as a minimum address, where appropriate, the following matters:
+
+(a)
+
+how the interests of shareholders and PSIA holders are safeguarded;
+
+(b)
+
+how the Authorised Firm will limit exposures of PSIA holders to the Authorised Firm;
+
+(c)
+
+a description of the controls to ensure that the funds of the PSIA are invested in accordance with the investment guidelines agreed in the investment contract;
+
+19
+
+IFR/VER21/03-25
+
+5.4.4
+
+ISLAMIC FINANCE RULES (IFR)
+
+(d)
+
+the basis for allocating profits and losses to the PSIA holders;
+
+(e)
+
+the policy for making provisions and reserves and, in respect of PSIAs, to whom these provisions and reserves revert in the event of a write-off or recovery;
+
+(f

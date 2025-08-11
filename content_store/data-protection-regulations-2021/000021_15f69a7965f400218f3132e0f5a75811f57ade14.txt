@@ -1,0 +1,65 @@
+, professional rules and security measures, including rules for the onward transfer of Personal Data to another jurisdiction, sector or International Organisation which are complied with in that jurisdiction, sector or International Organisation, case-law, as well as effective and enforceable Data Subject rights and effective administrative and judicial redress for the Data Subjects whose Personal Data is being transferred;
+
+(b)
+
+the existence and effective functioning of one or more independent supervisory authorities in the receiving jurisdiction or sector or to which an International Organisation is subject, with responsibility for ensuring and enforcing compliance with adequate data protection rules described in section 41(2)(a), including adequate enforcement powers, for assisting and advising the Data Subjects in exercising their rights and for cooperation with the Commissioner of Data Protection; and
+
+(c)
+
+the international commitments the receiving jurisdiction, sector or International Organisation concerned has entered into, or other obligations arising from legally binding conventions or instruments as well as from its participation in multilateral or regional systems, in particular in relation to the protection of Personal Data.
+
+36
+
+(3) The Commissioner of Data Protection, after assessing the adequacy of the level of protection, may decide that a jurisdiction outside of ADGM, or one or more specified sectors within a jurisdiction outside of ADGM, or an International Organisation ensures an adequate level of protection:
+
+(a)
+
+within the meaning of section 41(2); or
+
+(b)
+
+on the basis that the jurisdiction, sector or International Organisation has received an adequacy decision by the European Commission in accordance with Article 45(3) of the GDPR.
+
+In each case the Commissioner of Data Protection must provide for a review of the decision within four years, which must take into account all relevant developments in the jurisdiction outside of ADGM or International Organisation.
+
+(4) The Commissioner of Data Protection must, on an ongoing basis, monitor developments in jurisdictions outside of ADGM and International Organisations that could affect the functioning of decisions adopted pursuant to section 41(3).
+
+(5) The Commissioner of Data Protection must, where available information reveals, in particular following the review referred to in section 41(3), that a jurisdiction outside of ADGM or one or more specified sectors within a jurisdiction outside of ADGM, or an International Organisation no longer ensures an adequate level of protection within the meaning of section 41(2), to the extent necessary, repeal, amend or suspend the decision referred to in section 41(3) without retroactive effect.
+
+(6) The Commissioner of Data Protection must publish a list of the jurisdictions outside of ADGM and specified sectors within jurisdictions outside of ADGM and International Organisations for which it has decided that an adequate level of protection is or is no longer ensured.
+
+(7)
+
+Jurisdictions designated as providing an adequate level of protection for Personal Data under section 4 of the ADGM Data Protection Regulations 2015 will remain valid until amended, replaced or repealed by the Commissioner of Data Protection.
+
+42. Transfers subject to appropriate safeguards
+
+(1)
+
+In the absence of a decision pursuant to sections 41(3) or 41(7), a Controller or Processor may transfer Personal Data to a Controller or Processor outside of ADGM or to an International Organisation only if the Controller or Processor has provided appropriate safeguards, and on condition that enforceable Data Subject rights and effective legal remedies for Data Subjects are available.
+
+(2) The Commissioner of Data Protection may adopt standard contractual clauses that contain appropriate safeguards for the rights of Data Subjects whose Personal Data is being transferred, including by approving the then current standard contractual clauses issued by the European Commission, or adopted by a Supervisory Authority for the same purpose, upon which approval such standard contractual clauses will be incorporated into these Regulations by reference.
+
+(3) The appropriate safeguards referred to in section 42(1) may be provided for, without requiring any specific authorisation from the Commissioner of Data Protection, by:
+
+37
+
+(a)
+
+a legally binding and enforceable instrument between public authorities;
+
+(b)
+
+Binding Corporate Rules in accordance with section 43;
+
+(c)
+
+standard data protection clauses adopted by the Commissioner of Data Protection in accordance with section 42(2);
+
+(d)
+
+an approved code of conduct pursuant to section 37 together with binding and enforceable commitments of the Controller or Processor in the jurisdiction outside of ADGM to apply the appropriate safeguards, including as regards Data Subjects' rights; or
+
+(e)
+
+an approved certification mechanism pursuant to section 39 together with binding and enforceable commitments of the Controller or Processor in the jurisdiction outside of

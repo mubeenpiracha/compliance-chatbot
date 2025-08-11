@@ -1,0 +1,123 @@
+ to ensure that the risk rating assigned to a customer under Rule 7.1.1(1)(b) remains appropriate for the customer in light of the money laundering risks.
+
+8.6.2 A Relevant Person must apply an intensified and ongoing monitoring programme with
+
+respect to higher risk Transactions and customers.
+
+Guidance
+
+1.
+
+The customer identification process does not end at the time of establishing a business relationship with a customer or, where relevant, undertaking a specific transaction or business activity on behalf of a customer. Following the start of the customer relationship, a Relevant Person should ensure that all relevant evidence and information is kept up to date including, for example, the list of authorised signatories who can act on behalf of a corporate customer.
+
+2.
+
+In complying with Rule 8.6.1(d), a Relevant Person should undertake a periodic review to ensure that non-static customer identity documentation is accurate and up to date. A Relevant Person is expected to ensure that the information and the evidence obtained from a customer is valid and has not expired, for example when obtaining copies of identification documentation such as a passport or identification card. Examples of non-static identity documentation include passport number and residential/business address and, for a Legal Person, its share register or list of partners.
+
+3.
+
+A Relevant Person should undertake a review under Rule 8.6.1(d) and (e) particularly when:
+
+Confidential
+
+57
+
+AML VER10.020125
+
+(a)
+
+the Relevant Person changes its CDD documentation requirements;
+
+(b)
+
+an unusual Transaction with the customer is expected to take place;
+
+(c)
+
+there is a material change in the business relationship with the customer; or
+
+(d)
+
+there is a material change in the nature or ownership of the customer.
+
+4.
+
+The degree of the ongoing due diligence to be undertaken will depend on the customer risk assessment carried out under Rule 7.1.1.
+
+5.
+
+A Relevant Person's Transaction monitoring policies, procedures, systems and controls, which may be implemented by manual or automated systems, or a combination thereof, are one of the most important aspects of effective CDD. Whether a Relevant Person should undertake the monitoring by means of a manual or computerised system, or both, will depend on a number of factors, including:
+
+(a)
+
+the size and nature of the Relevant Person's business and customer base; and
+
+(b)
+
+the complexity and volume of customer Transactions.
+
+8.6.3 A Relevant Person must review its customers, their businesses, and Transactions,
+
+against Sanctions Lists when complying with Rule 8.6.1(d).
+
+8.7
+
+Failure to conduct or complete Customer Due Diligence
+
+8.7.1
+
+(1)
+
+Where, in relation to a customer, a Relevant Person is unable to conduct or complete the requisite CDD in accordance with Rule 8.1.1 it must, where appropriate:
+
+(a)
+
+not carry out a Transaction with or for the customer through a bank account or in cash;
+
+(b)
+
+not open an account or otherwise provide a service;
+
+(c)
+
+not otherwise establish a business relationship or carry out a Transaction;
+
+(d)
+
+terminate or suspend any existing business relationship with the customer;
+
+(e)
+
+return any monies or assets received from the customer; and
+
+(f)
+
+consider whether the inability to conduct or complete CDD necessitates the making of a Suspicious Activity/Transaction Report under Rule 14.3.1(c).
+
+Confidential
+
+58
+
+AML VER10.020125
+
+(2)
+
+A Relevant Person is not obliged to comply with (1)(a) to (e) if:
+
+(a)
+
+to do so would amount to "tipping off" the customer, in breach of Federal AML Legislation; or
+
+(b)
+
+the FIU directs the Relevant Person to act otherwise.
+
+Guidance
+
+1.
+
+In complying with Rule 8.7.1(1) a Relevant Person should apply one or more of the measures in (a) to (f) as appropriate in the circumstances. Where CDD cannot be completed to a significant degree, it may be appropriate not to carry out a Transaction pending completion of CDD. Where CDD cannot be conducted, including where a material part of the CDD such as identifying and verifying Beneficial Owners cannot be undertaken, a Relevant Person should not establish a business relationship with the customer.
+
+2.
+
+A Relevant Person should note that Rule 8.7.1 applies to both existing and prospective customers. For prospective customers it may be

@@ -1,0 +1,31 @@
+ Persons. Authorised Persons should have a process to ensure its Members (and/or in relevant circumstances, itself) assess all Clients according to the Client’s risk profile (and taking into consideration the Authorised Person’s RBA). This risk-based assessment is required to be undertaken for each Client prior to transacting any business on behalf of the Client. Authorised Persons must, as applicable, ensure CDD is undertaken for each Client and comply in full with Chapter 8 of the AML Rules noting that the FSRA does not consider it appropriate for Authorised Persons (or its Members, as applicable) to use simplified CDD when conducting Regulated Activities using Accepted Spot Commodities.
+
+Principle 4: Governance, Systems and Controls
+
+i)
+
+Authorised Persons are required to implement an appropriate governance structure, especially in relation to physical due diligence, and provide for the development and maintenance of all necessary controls to ensure appropriate ML and TF compliance.
+
+j)
+
+The FSRA expects Authorised Persons to act responsibly and always be vigilant in ensuring that their activities are not subject to any misuse by participants with Spot Commodities that may have been tainted in any way from illegal or unethical sourcing. The FSRA expects that an Authorised Person’s internal processes establish the types of ‘indicators’ or activities that could be used to identify when Accepted Spot Commodities may have been used or sourced in an illegal manner.
+
+Sanctions
+
+63) Pursuant to the FSRA’s AML Rules, an Authorised Person must have arrangements in place to ensure that any business conducted by it, or by or through any of its participants, shall not cause the Authorised Person, or its participants, to be in breach of any relevant Sanctions laws or regulations.
+
+64) An Authorised Person should (for the purposes of AML Rule 11.1.1(1)) implement and maintain arrangements that are adequate to ensure compliance with applicable Sanctions. The FSRA expects these arrangements to include policies and procedures that ensure compliance with applicable laws relating to Sanctions, including for the provision of information on the beneficial ownership of a person taking delivery of a Spot Commodity, a register of the beneficial ownership of all delivery mechanisms/methods and evidence of the destination for any delivery.
+
+65) Pursuant to AML Rule 11.2.1(1), an Authorised Person must have arrangements in place to ensure that only Spot Commodities that are not subject to sanctions or associated with an entity in the supply chain that is itself subject to a sanction, are used as part of its Regulated Activities, or utilised as part of a delivery and/or storage facility
+
+15
+
+VER02.181223
+
+operated by itself (or by any third parties it uses). In demonstrating compliance with the Rule, an Authorised Person must have powers to resolve any breach in a timely fashion, such as taking emergency action itself or by compelling the delivery and/or storage facility to take appropriate action. The FSRA expects this to include the Authorised Person having the ability to sanction a Member, market participant or the delivery and/or storage facility for acts or omissions that compromise compliance with applicable sanctions.
+
+66) Pursuant to AML Rule 11.1.1(2), an Authorised Person must have arrangements in place to notify the Regulator, as soon as practicable, of any breaches, or potential breaches of applicable sanctions, as well as the actions it has taken to correct. Authorised Persons using Accepted Spot Commodities will also need to comply with all other applicable FSRA notification requirements. RIEs, MTFs and OTFs
+
+67) While multiple Regulated Activities can be conducted within ADGM, and regulated by the FSRA, the FSRA considers that the operation of trading venues (via RIEs, MTFs or OTFs) in respect Spot Commodities to be the key activity subject to regulatory oversight within the Spot Commodities Framework.
+
+68) Consistent with the treatment of all Authorised Persons (see paragraph 98), the FSRA requires MTFs and OTFs to be based in substance within ADGM.11 In addition to the substantial commitment of resources required, this also means that the FSRA’s regulatory oversight extends to its order book, matching engine, rulebook(s), ensuring fair and orderly markets, settlement, and for the purposes of preventing/monitoring for Market Abuse, amongst the relevant requirements set out in the Market Infrastructure Rules (“MIR”) and Chapter

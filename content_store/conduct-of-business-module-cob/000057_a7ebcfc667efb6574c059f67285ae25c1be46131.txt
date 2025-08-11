@@ -1,0 +1,83 @@
+ relation to a specific Transaction.
+
+(3)
+
+If an Insurance Intermediary or Insurance Manager is unable to manage a conflict of interest, it must decline to act for the Client.
+
+Guidance
+
+1. An Insurance Intermediary, when considering how it manages conflicts of interests, should clearly identify the capacity in which it acts and to whom it owes duties. For example, if it is acting as an Insurance Broker, it is acting as an agent for the policyholder and it has a duty to act in the best interests of the policyholder. If it is acting as an Insurance Agent, it has a duty to act in the best interests of its principal i.e. the insurer or insurers from whom it holds an authority to act as agent.
+
+2. While the Rules do not prohibit an Insurance Intermediary from acting for both an insurer and policyholder in relation to the same risk, such an arrangement could result in conflicts of interest that are hard to manage. If an Insurance Intermediary proposes to act for both an insurer and policyholder in relation to the same risk, it should, under Rule 7.9.1(2), clearly disclose that information in a timely manner. The DFSA expects the firm to at least: notify both parties about the procedures it will follow if acting in the interest of the policyholder or the insurer is likely to impair its ability to act in the interests of the other party; and
+
+b.
+
+if one or both parties express concerns relating to the proposed process, decline to act for both parties under Rule 7.9.1(3) and instead act for only one party.
+
+3. An Insurance Manager will also need to identify and manage conflicts of interest that arise in the
+
+course of carrying on its business, for example, in the course of settling claims.
+
+82
+
+COB/VER48/03-25
+
+CONDUCT OF BUSINESS (COB)
+
+7.10 Placement of Insurance
+
+Instructions
+
+7.10.1 An Insurance Intermediary or Insurance Manager must not place a Contract of Insurance with or on behalf of an insurer unless it has satisfied itself on reasonable grounds that the insurer may lawfully effect that contract under the laws of the jurisdictions in which the insurer and the risk are located.
+
+Quotations
+
+7.10.2 When giving a quotation, an Insurance Intermediary or Insurance Manager must take due care to ensure the accuracy of the quotation and its ability to obtain the insurance at the quoted terms.
+
+Confirmation of cover
+
+7.10.3
+
+(1)
+
+An Insurer, in Effecting Contracts of Insurance, must promptly document the principal economic and coverage terms and conditions agreed upon under any Contract of Insurance and finalise such contract in a timely manner.
+
+(2)
+
+An Insurer, Insurance Intermediary or Insurance Manager must, as soon as reasonably practicable, provide a Client with written confirmation and details of the insurance which it has effected for the Client or has obtained on behalf of the Client, including any changes to an existing Contract of Insurance.
+
+(3)
+
+An Insurer, Insurance Intermediary or Insurance Manager must, as soon as full policy reasonably practicable, provide documentation where this was not included with the confirmation of cover.
+
+the Client with
+
+the
+
+(4)
+
+In (2) and (3), a Client of an Insurance Manager is any Policyholder with whom the Insurance Manager interacts when carrying on its Insurance Management activities.
+
+7.11 Providing an ongoing service
+
+Amendments to and renewal of insurance
+
+7.11.1
+
+(1)
+
+An Insurer or Insurance Intermediary must deal promptly with a Client’s request for an amendment to the insurance cover and provide the Client with full details of any premium or charges to be paid or returned.
+
+(2)
+
+An Insurer or Insurance Intermediary must provide a Client with written confirmation when the amendment is made and remit any return premium or charges due to the Client without delay.
+
+7.11.2 An Insurer or Insurance Intermediary must give adequate advance notification to a Client of the renewal or expiration date of an existing insurance policy so as to allow the Client sufficient time to consider whether continuing cover is required.
+
+83
+
+COB/VER48/03-25
+
+CONDUCT OF BUSINESS (COB)
+
+7.11.3 On expiry or cancellation of the insurance, at the request of the Client, an Insurer or Insurance Intermediary must promptly make available all documentation and information

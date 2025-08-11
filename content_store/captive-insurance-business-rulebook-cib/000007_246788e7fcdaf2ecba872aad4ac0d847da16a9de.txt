@@ -1,0 +1,99 @@
+ for at least six years for inspection by the Regulator.
+
+(5)
+
+The Auditor's report on the annual Regulatory Return and any actuarial report prepared as at the reporting date must be submitted in writing by the Captive Insurer to the Regulator within four months of the Captive Insurer's reporting date.
+
+(6)
+
+An Auditor's report or an actuarial report submitted to the Regulator must be signed by the Auditor or the Actuary preparing that report.
+
+9
+
+CIB VER06.290725
+
+(7)
+
+Subject to Rule 2.3.7(8), a Captive Insurer must submit its quarterly Regulatory Return in writing to the Regulator within two months of the end of each period in respect of which the Captive Insurer is required to prepare a quarterly Regulatory Return.
+
+(8)
+
+When the Regulator has issued a notice announcing that EPRS is in operation, a Captive Insurer must, from the date specified in the notice, prepare and submit its quarterly Regulatory Return in the following manner:
+
+(a)
+
+the quarterly Regulatory Return, excepting the parts of the quarterly Regulatory Return referred to in 2.3.7(8)(b) and 2.3.7(8)(c), must be submitted to the Regulator using EPRS:
+
+(i)
+
+in accordance with any instructions set out in the notice and any instructions provided through such a system or specified in this Chapter; and
+
+(ii)
+
+within two months of the Captive Insurer's reporting date;
+
+(b)
+
+the Statement by Directors must be signed and a copy maintained in accordance with Rules 2.3.7(9) and 2.3.7(10); and
+
+(c)
+
+the Global Return for a Branch must be submitted in the manner provided in Rule 2.3.7(7).
+
+(9)
+
+The Statement by Directors forming part of the quarterly Regulatory Return must be signed before the time of submission by one Director of the Captive Insurer.
+
+(10)
+
+An original signed hard copy of the Statement by Directors, together with a copy of the quarterly Regulatory Return submitted to the Regulator using EPRS, must be kept for at least six years for inspection by the Regulator.
+
+(11)
+
+If within twenty-four months of the date that an annual Regulatory Return or quarterly Regulatory Return is submitted to the Regulator, the Regulator notifies the Captive Insurer that a Regulatory Return appears to be inaccurate or incomplete, the Captive Insurer must consider the matter and within one month of the date of notification it must correct any inaccuracies, make good any omissions and re-submit the relevant parts of the Regulatory Return.
+
+(12)
+
+A Captive Insurer must submit, at the same time as every annual Regulatory Return of that insurer or as soon as practicable thereafter, any report on the affairs of the Captive Insurer submitted to the shareholders or policyholders of the Captive Insurer in respect of the reporting period to which the annual Regulatory Return relates.
+
+2.3.8 Reporting of group capital adequacy
+
+A Captive Insurer must comply with the requirements of PIN 6.7 pertaining to the reporting of group capital adequacy.
+
+10
+
+CIB VER06.290725
+
+2.3.9 General provisions relating to the completion of forms
+
+(1)
+
+Supplementary Notes must be presented in accordance with any instructions specified by the Regulator, including instructions provided through the prudential reporting system specified by the Regulator. Each Supplementary Note must identify the form to which it relates.
+
+(2)
+
+Regulatory Returns must be presented in English.
+
+(3)
+
+Where the format of a form requires the presentation of comparative information, the comparative information shall be presented according to the following principles:
+
+(a)
+
+in the case of a form forming part of the annual Regulatory Return, the comparative information shall be that presented in the annual Regulatory Return for the previous reporting period;
+
+(b)
+
+in the case of a form forming part of the quarterly Regulatory Return, the comparative information shall be that presented in the quarterly Regulatory Return for the corresponding quarter in the previous calendar year;
+
+(c)
+
+comparative information shall be presented unless:
+
+(i)
+
+the Captive Insurer did not exist at any time during the comparative period (whether or not it was a Captive Insurer); or
+
+(ii)
+
+in the case of a Cell Return or a Fund Return, the Captive Cell or the Long-Term Insurance Fund to which the Regulatory

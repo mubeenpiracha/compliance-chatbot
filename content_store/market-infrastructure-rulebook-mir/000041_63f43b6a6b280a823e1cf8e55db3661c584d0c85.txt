@@ -1,0 +1,101 @@
+)
+
+adopt initial margin models and parameters that are risk-based and generate margin requirements sufficient to cover its potential future exposure to Members and other participants using its facilities in the interval between the last margin collection and the close-out of positions following a participant default;
+
+(d)
+
+adopt a daily (and where appropriate, intra-day) calculation and collection policy of variation margin based on models and parameters that manages current and potential future exposures; and
+
+(e)
+
+analyse and review the performance of the margin model and overall margin coverage by:
+
+conducting rigorous daily back-testing to evaluate whether there are any exceptions to its initial margin coverage at least monthly, and more frequently as appropriate;
+
+sensitivity analysis to determine the impact of varying important model parameters, including the most-volatile periods that have been experienced by the markets it serves and extreme changes in the correlations between prices; and
+
+an assessment of the theoretical and empirical properties of its margin model for all products it clears.
+
+4.10.8
+
+The initial margin established pursuant to Rule 4.10.7(c) must:
+
+(a)
+
+at the Member's portfolio level, be applied in respect of each portfolio's distribution of future exposure. If a Recognised Clearing House uses portfolio margining, it should continuously review and test offsets among products;
+
+(b)
+
+at more granular levels, meet the corresponding distribution of future exposures; and
+
+(c)
+
+use models which, among other things:
+
+rely on conservative estimates of the time horizons for the effective hedging or close-out of the particular types of products cleared by the Recognised Clearing House, including in stressed market conditions; and
+
+have an appropriate method for measuring credit exposure that accounts for relevant product risk factors and portfolio effects across products, and, to the extent practicable and prudent, limit the need for destabilising procyclical changes.
+
+4.10.9
+
+A Recognised Clearing House may allow offsets or reductions in required margin across products that it clears or between products that it and another Recognised Clearing House clear, if the risk of one product is significantly and reliably correlated with the risk of the other product.
+
+73
+
+MIR VER10.290725
+
+4.10.10 Where two or more Recognised Clearing Houses are authorised to offer cross- margining, they must have appropriate safeguards and harmonised overall risk- management systems.
+
+4.11
+
+Settlement finality
+
+4.11.1
+
+A Recognised Clearing House must have adequate arrangements to ensure clear and certain final settlement of payments, transfer instructions or other obligations of Members and other participants using its facilities and, where relevant, its own obligations. Where possible, a Recognised Clearing House should provide intra-day or real-time settlement finality to reduce settlement risk.
+
+4.11.2
+
+A Recognised Clearing House's arrangements for final settlement must:
+
+(a)
+
+ensure that, if intra-day or real-time settlement is not feasible, final settlement (of any payment, transfer instruction, or other obligation that has been submitted to and accepted by a Recognised Clearing House in accordance with its acceptance criteria) occurs at least by the end of the value date of the relevant transaction; and
+
+(b)
+
+clearly define the points:
+
+at which the transfer instruction takes effect as having been entered into the system and when the final settlement occurs;
+
+after which unsettled payments, transfer instructions, or other obligations may not be revoked by the parties to the underlying contract; and
+
+(c)
+
+prohibit the revocation by a Member, participant or other user of a transfer instruction from the point specified in accordance with sub-paragraph (b)(ii).
+
+Guidance
+
+For the purposes of this Rule:
+
+(a)
+
+"final settlement" is the irrevocable and unconditional transfer of an asset or Financial Instrument, or the discharge of obligations arising under the underlying contract by the parties to the contract; and
+
+(b)
+
+"value date" is the day on which the payment, transfer instruction, or other obligation arising under the underlying contract is due and, accordingly, the associated funds or Investments are available to the respective parties under the contract.
+
+4.12
+
+Segregation and portability
+
+4.12.1
+
+A Recognised Clearing House must have systems and procedures to enable segregation and portability of positions of the Clients of its Members and other participants on its facilities, and any collateral provided to it with respect to those
+
+74
+
+MIR VER10.290725
+
+positions. Such systems and procedures must enable the

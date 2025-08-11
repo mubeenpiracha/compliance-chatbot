@@ -1,0 +1,117 @@
+ and register the information via goAML for all cash transactions equal to or exceeding USD15,000 with individuals and all cash or wire transfer transactions equal to or exceeding USD15,000 with entities.
+
+Confidential
+
+42
+
+AML VER10.020125
+
+The Regulator expects a dealer in any saleable item or a price equal to or greater than USD15,000 to also comply with this requirement;
+
+(b)
+
+a DNFBP that is a real estate agent to obtain relevant identification documents, such as passport, emirates ID, trade licence, as applicable, and register the information via goAML for all sales or purchases of Real Property where:
+
+(i)
+
+the payment for the sale/purchase includes a total cash payment of USD15,000 or more whether in a single cash payment or multiple cash payments;
+
+(ii)
+
+the payment for any part or all of the sale/purchase amount includes payment(s) using Virtual Assets;
+
+(iii) the payment for any part or all of the sale/purchase amount includes
+
+funds that were converted from or to a Virtual Asset.
+
+8.1.2
+
+(1)
+
+A Relevant Person must also apply CDD measures to each existing customer under Rules 8.3.1, 8.4.1 or 8.5.1 as applicable:
+
+(a)
+
+with a frequency appropriate to the outcome of the risk-based approach taken in relation to each customer; and
+
+(b)
+
+when the Relevant Person becomes aware that any circumstances relevant to its risk assessment for a customer have changed.
+
+(2)
+
+For the purposes of 8.1.2(1), in determining when it is appropriate to apply CDD measures in relation to existing customers, a Relevant Person must take into account, amongst other things:
+
+(a)
+
+any indication that the identity of the customer, or the customer’s Beneficial Owners, has changed;
+
+(b)
+
+any Transactions that are not reasonably consistent with the Relevant Person’s knowledge of the customer;
+
+(c)
+
+any change in the purpose or intended nature of the Relevant Person’s relationship with the customer; or
+
+(d)
+
+any other matter that might affect the Relevant Person’s risk assessment of the customer.
+
+Guidance
+
+1.
+
+A Relevant Person should undertake appropriate CDD in a manner proportionate to the customer's money laundering risks. This means that all customers are subject to CDD under Rule 8.3.1. However, for high-risk customers, additional Enhanced Customer Due Diligence measures should also be undertaken under Rule 8.4.1. For customers having a low-risk rating, the requirements under Rule
+
+Confidential
+
+43
+
+AML VER10.020125
+
+8.3.1 may be modified according to the assessed risk, in accordance with Rule 8.5.1.
+
+2.
+
+The frequency for undertaking CDD for existing customers will be determined by the risk rating assigned to a particular customer. The Regulator expects that customers rated high risk for money laundering should be reviewed more frequently than customers rated lower risk for money laundering.
+
+3.
+
+A Relevant Person should undertake CDD to guard against a range of money laundering risks as well as a range of financial crime risks, including fraud.
+
+8.2
+
+Timing of Customer Due Diligence
+
+8.2.1
+
+(1)
+
+For a Relevant Person that is an Authorised Person or Recognised Body:
+
+(a)
+
+the appropriate CDD obligations, subject to (1)(b), must be fulfilled before the Relevant Person undertakes any Transaction on behalf of the customer or when undertaking an occasional transaction under 8.1.1(1)(b).
+
+(b)
+
+the Relevant Person does not have to fulfil the verification of the identity of a customer and Beneficial Owners obligations under the AML Rules before undertaking a Transaction for a customer or occasional transaction where it has, on reasonable grounds, established that:
+
+(i)
+
+there is little risk of money laundering and that risk is effectively managed; and
+
+(ii)
+
+doing so would interrupt or delay the normal course of business in respect of effecting the Transaction.
+
+(2)
+
+(a)
+
+A Relevant Person that is a DNFBP must fulfil the appropriate CDD and reporting obligations where applicable before the Relevant Person prepares for or carries out a Transaction or provision of a service in Rule 8.1.1(2)(a), (d), (e) or (f).
+
+(b)
+
+A Relevant Person that is a DNFBP as a result of carrying on one or more of the business activities referred to

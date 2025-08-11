@@ -1,0 +1,103 @@
+ need to establish the Fund in the particular jurisdiction for reasons such as the physical location of the Fund assets or investor preference;
+
+b.
+
+any regulatory risks arising from establishing the External Fund in the relevant jurisdiction, particularly if the Fund is to be open to retail investors; and
+
+c. whether the relevant jurisdiction complies with the FATF or other relevant
+
+international standards or requirements.
+
+Restriction on fund management of external Credit Fund
+
+A Fund Manager must not manage an External Fund that is a Credit Fund unless the External Fund is a Qualified Investor Fund.
+
+Restrictions on an External Fund investing in Crypto Tokens
+
+(1) A Fund Manager must not manage an External Fund that invests in Crypto
+
+Tokens unless:
+
+27
+
+CIR/VER38/08-24
+
+COLLECTIVE INVESTMENT RULES (CIR)
+
+(a)
+
+the investment in Crypto Tokens is limited to Recognised Crypto Tokens and does not exceed 20% of the gross asset value of the External Fund; and
+
+(b)
+
+the External Fund:
+
+(i)
+
+has its Units offered to Persons only by way of a Private Placement;
+
+(ii)
+
+has its Units offered to Persons only who meet the criteria to be classified as Professional Clients; and
+
+(iii)
+
+requires an initial subscription of at least US$50,000 to be paid by a person to become a Unitholder in the Fund.
+
+(2) A Fund Manager that manages an External Fund referred to in (1) must:
+
+(a) ensure that an Eligible Custodian safeguards and administers the
+
+Fund’s Recognised Crypto Tokens;
+
+(b) provide Unitholders, upon request, with relevant and up-to-date information about the performance and management of the Fund’s Recognised Crypto Tokens; and
+
+(c)
+
+conduct daily valuations of the Fund’s investments in Recognised Crypto Tokens and keep a record of those valuations.
+
+Guidance
+
+The gross asset value of a Fund under Rule 6.2.4(1)(a) should be calculated as the total value of the Fund Property without making any deductions, such as deductions for expenses or outstanding borrowing.
+
+28
+
+CIR/VER38/08-24
+
+6A
+
+COLLECTIVE INVESTMENT RULES (CIR)
+
+USING A FUND PLATFORM
+
+Guidance
+
+Overview
+
+1.
+
+The DIFC Incorporated Cell Company (ICC) Regulations (‘the ICC Regulations’) provide for the establishment of an Incorporated Cell Company and its Incorporated Cells. The Incorporated Cells are stand-alone companies distinct from each other and from the ICC itself, of which they are cells. The ICC Regulations permit such companies to be used to conduct Fund business or Insurance Business.
+
+2.
+
+The ICC contains the infrastructure (e.g. systems and controls) for the exclusive use by the Fund Manager to manage Funds established as Incorporated Cells of the ICC. The ICC is the ‘core’ and each Incorporated Cell of the ICC is a Fund on the ICC. Under the ICC
+
+Regulations, an ICC cannot itself be constituted as a Fund or act as a Fund Manager.
+
+3.
+
+A Fund Manager with an endorsement to use a Fund Platform (see GEN 2.2.7A) can incorporate an Incorporated Cell Company to assist it to manage any type or specialist classes of Fund, in accordance with the applicable requirements in the Law and these Rules and in the DIFC Companies Law and ICC Regulations. However, a Fund Manager cannot use the Fund Platform to create, or provide services to, a type of Fund if it is contrary to its authorisation. For example, a Fund Manager permitted under its Licence to manage only QIFs cannot use the Fund Platform to establish or manage Exempt or Public
+
+Funds.
+
+4.
+
+A Fund Manager may use the infrastructure available in the ICC (the core) to provide a range of services relating to the Funds on the ICC. These services include implementing the Fund’s investment mandate (e.g. investment selection), carrying out administrative functions such as issuing, transferring and redeeming Fund Units, valuing Fund assets, account keeping, financial reporting and carrying out compliance and oversight functions, in relation to each Fund constituted as an Incorporated Cell.
+
+5.
+
+The activities which the Incorporated Cell Company carries out for the Funds are not those of a third party service provider appointed by the Fund Manager, however the Fund Manager remains legally responsible to Unitholders in the Funds for acts or omissions of
+
+the Incorporated Cell Company (see Rule 6A.1.3).
+
+Incorpor

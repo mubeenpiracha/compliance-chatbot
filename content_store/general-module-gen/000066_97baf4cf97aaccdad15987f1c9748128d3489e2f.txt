@@ -1,0 +1,97 @@
+ followed and that Cyber Risk is managed effectively.
+
+(2) Without limiting the operation of (1), the responsibilities of an Authorised Person’s Governing Body and senior management in respect of Cyber Risk include:
+
+(a) ensuring that Cyber Risk is adequately identified, assessed and managed in accordance with the Authorised Person’s Cyber Risk Management Framework;
+
+(b) establishing and maintaining a senior management structure for the management of Cyber Risk and for ensuring compliance with the Authorised Person’s Cyber Risk Management Framework;
+
+(c) defining the Authorised Person’s Cyber Risk tolerance, which must be in line with its business objectives, strategy and overall risk tolerance; and
+
+(d) ensuring that relevant personnel have the necessary experience
+
+to manage Cyber Risk.
+
+Guidance
+
+1.
+
+The DFSA expects the Governing Body of an Authorised Person to demonstrate a thorough understanding of Cyber Risk to which it is or might be exposed. For that purpose, the Governing Body should be regularly updated on current global cyber trends and be included in cybersecurity training, cyber awareness campaigns and similar activities conducted by the Authorised Person.
+
+2.
+
+Management information on Cyber Risk and mitigation measures should be presented to the Governing Body in a way that can be easily understood and analysed. It should include information on current and emerging Cyber Risks and the efficiency of existing mitigation measures. For example, the DFSA expects the Governing Body to be informed where a key performance indicator signals that a Cyber Risk control may be underperforming or failing, leading to the Cyber Risk exposure approaching the Authorised Person’s risk tolerance.
+
+Identification and assessment of Cyber Risk
+
+(1)
+
+An Authorised Person must identify and maintain a current inventory of its ICT Assets and classify them in terms of their confidentiality and how critical they are to the support of its business functions and processes.
+
+(2)
+
+An Authorised Person must regularly carry out an assessment of Cyber Risk associated with the assets identified in (1).
+
+(3) When carrying out the assessment in (2) the Authorised Person must:
+
+(a)
+
+identify threats from Cyber Incidents;
+
+(b) evaluate the Cyber Risk resulting from those threats and the effectiveness of relevant controls to arrive at the residual Cyber Risk; and
+
+(c) analyse and quantify the potential impact and consequences of
+
+the residual Cyber Risk on its overall business and operations.
+
+97
+
+GEN/VER67/03-25
+
+GENERAL (GEN)
+
+Guidance
+
+1.
+
+The purpose of this Rule is to ensure that an Authorised Person understands which of its critical operations and supporting information should, in order of priority, be protected against Cyber Incidents.
+
+2.
+
+An Authorised Person’s assessment of the Cyber Risk should be accurate, up-to-date and reviewed on a regular basis.
+
+3.
+
+The DFSA expects the assessment to include:
+
+a. an assessment of the interconnections and dependencies between the Authorised
+
+Person’s ICT Assets and its business functions and processes;
+
+b. consideration of the results of the Authorised Person’s most recent risk self- assessment, where applicable, and testing of its business continuity arrangements under GEN Rule 5.3.23; and
+
+c.
+
+consideration of Cyber Risk that third parties pose to the Authorised Person.
+
+4.
+
+The DFSA expects an Authorised Person to have well defined processes and clearly assigned responsibilities for maintaining the inventory of its ICT Assets and the assessment of Cyber Risk.
+
+Protection of ICT Assets against Cyber Incidents
+
+Guidance
+
+1.
+
+The systems and controls referred to in Rule 5.5.2(4)(b) should enable an Authorised Person to protect its ICT Assets in accordance with the requirements in Rules 5.5.6 to 5.5.15 in a way that minimises the likelihood and impact of a successful Cyber Incident on its ICT Assets identified under Rule 5.5.5(1). They should be commensurate with the outcome of the assessment under Rule 5.5.5(2) and the Authorised Person’s Cyber Risk tolerance determined under Rule 5.5.4(2)(c).
+
+2.
+
+An Authorised Person may need to apply additional controls, depending on its nature, scale or complexity.
+
+5.5.6 An Authorised Person must use and maintain up-to-date anti-malware software and must ensure that regular updates are applied to its anti-malware definition files.
+
+Guidance
+
+The DFSA expects an Authorised Person to use anti-malware software to conduct regular automatic scanning of its ICT Assets,

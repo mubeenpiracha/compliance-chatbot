@@ -1,0 +1,67 @@
+ service(s), or meetings with the third party to resolve operational, risk management, or regulatory concerns.
+
+3.2.11 As each third party is itself a live business entity that makes its own decisions on business strategy and risk management, financial institutions should not treat third parties as unchanging or static. Once entered into arrangements, a financial institution should conduct due diligence regularly to ensure that its third-party arrangements continue to remain relevant, effective and compliant. The regular due diligence performed on third parties should be reviewed and approved by an appropriate level of management.
+
+27
+
+VER01.201124
+
+3.2.12 A financial institution should include in its monitoring the regular conduct of independent audits and/or expert assessments of its third parties, or the acquisition of such reports from the third parties’ independent auditor and/or expert assessor. The scope of such audits should include an assessment of the third party’s and its sub- contractor’s incident management processes, and any regulatory obligations that the third party should comply with. The financial institution should include any outstanding findings in its regular due diligence performed on the third parties. If the outstanding findings are not promptly or adequately resolved by the third party and the associated risk exceeds the financial institution’s risk appetite, the financial institution should consider terminating the arrangement.
+
+IT environment and security control
+
+implementation,
+
+3.2.13 Where issues arise in the course of the third-party arrangement, the responsible individual or function should promptly apprise senior management and seek guidance on the necessary actions to review the arrangement for modification or termination.
+
+Termination
+
+3.2.14 The financial institution’s third-party management framework should have procedures in place to manage the risks arising from termination of a third-party arrangement and plan for various termination scenarios. For example, scenarios for the smooth transition of one third party to another providing the same or similar product or service, in- sourcing of an outsourced activity, or the abrupt termination of a third-party arrangement. Regardless of scenario, the financial institution should ensure that it is able to continue business operations and services to customer to the fullest extent possible.
+
+3.2.15 A financial institution should ensure that any data, documents, or records provided to the terminated third party are returned, deleted, destroyed, or rendered unusable upon termination, or as soon as practicable upon expiry of regulatory obligations on data retention.
+
+3.2.16 Where the financial institution has implemented any technical integrations with the third-party or maintains repositories for sharing data, steps should be taken to ensure that any such integrations are disconnected and/or disabled completely. All configurations (e.g., firewall rules) made to enable access by the third-party should be revoked and closed.
+
+3.2.17 The financial institution should ensure that all credentials and access rights to its
+
+systems and data granted to the third-party are revoked.
+
+Desired Outcome 3.3 – Supply Chain Resilience
+
+3.3.1
+
+Financial institutions that rely on third parties for material activities relating to the conduct of business operations and services to customers should establish an understanding of the supply chain used by these third parties. Such an awareness would enable the financial institution to anticipate potential risk events (e.g., hardware component shortages, significant delays in shipping/transportation, operational
+
+28
+
+VER01.201124
+
+disruptions to major internet or telecommunications providers, etc.) and take pre- emptive action to mitigate any potential impact.
+
+3.3.2 Where appropriate and possible, a financial institution should include diversification of third parties as part of its third-party risk management strategy to improve supply chain resilience.
+
+3.3.3
+
+A financial institution should also have oversight over how its data is shared with or made accessible to other parties via its third parties, in particular to ensure that such activities are carried out in line with regulatory obligations.
+
+29
+
+VER01.201124
+
+Chapter 4 – Compliance and Audit
+
+Desired Outcomes for Compliance and Audit
+
+Desired Outcome 4.1 – Comply: A financial institution should include IT obligations in its compliance programme.
+
+Desired Outcome 4.2 – Audit: A financial institution should include IT controls in its audit programme.
+
+Desired Outcome 4.1 – Comply
+
+4.1.1
+
+Financial institutions should ensure that they are aware of and in compliance with the relevant regulatory expectations and requirements issued by regulators in the jurisdictions they operate in.
+
+4.1.2
+
+As part of its compliance framework, a financial institution should ensure that

@@ -1,0 +1,113 @@
+(b)
+
+the arrangements for recording and registering Safe Custody Assets, claiming and receiving dividends and other entitlements and interest and the giving and receiving instructions relating to those Safe Custody Assets;
+
+(c)
+
+the obligations the Authorised Person will have to the Client in relation to exercising rights on behalf of the Client;
+
+(d)
+
+the basis and any terms governing the way in which Safe Custody Assets will be held, including any rights which the Authorised Person may have to realise Safe Custody Assets held on behalf of the Client in satisfaction of a default by the Client;
+
+(e)
+
+the method and frequency upon which the Authorised Person will report to the Client in relation to his Safe Custody Assets;
+
+(f)
+
+if applicable, a statement that the Authorised Person intends to mix Safe Custody Assets with those of other Clients;
+
+101
+
+COBS VER19.290725
+
+(g)
+
+if applicable, a statement that the Client's Safe Custody Assets may be held in a jurisdiction outside the Abu Dhabi Global Market and the market practices, insolvency and legal regime applicable in that jurisdiction may differ from the regime applicable in the Abu Dhabi Global Market;
+
+(h)
+
+if applicable, a statement that the Authorised Person holds or intends to hold Safe Custody Assets in a Client Account with a Third-Party Agent which is in the same Group as the Authorised Person; and
+
+(i)
+
+the extent of the Authorised Person's liability in the event of default by a Third-Party Agent.
+
+15.8 Client Reporting
+
+15.8.1 An Authorised Person which provides Custody or which otherwise holds or controls any
+
+Safe Custody Assets for a Client must send a regular statement to its Client:
+
+(a)
+
+if it is a Retail Client at least every six months; or
+
+(b)
+
+if it is a Professional Client at other intervals as agreed in writing with the Professional Client.
+
+15.8.2 The statement must include:
+
+(a)
+
+a list of that Client's Safe Custody Assets as at the date of reporting; and
+
+(b)
+
+a list of that Client's Collateral and the market value of that Collateral as at the date of reporting.
+
+15.8.3 The statement sent to the Client must be prepared within one calendar month of the
+
+statement date.
+
+Guidance
+
+If an Authorised Person also holds or controls Client Money for a Client, it must comply with the reporting requirements set out in section 14.10.
+
+15.8.4 Rules 15.8.1 to 15.8.3 do not apply to an Authorised Person which has issued Fiat-
+
+Referenced Tokens in respect of Reserve Investments.
+
+15.9 Reconciliation
+
+15.9.1 An Authorised Person must:
+
+(a)
+
+at least every calendar month, reconcile its records of Client Accounts held with Third-Party Agents with monthly statements received from those Third-Party Agents;
+
+(b)
+
+at least every six months, count all Safe Custody Assets physically held by the Authorised Person, or its Nominee Company, and reconcile the result of that count to the records of the Authorised Person; and
+
+102
+
+COBS VER19.290725
+
+(c)
+
+at least every six months, reconcile individual Client ledger balances with the Authorised Person's records of Safe Custody Assets balances held in Client Accounts.
+
+15.9.2 An Authorised Person must ensure that the process of reconciliation does not give rise to
+
+a conflict of interest.
+
+15.9.3 An Authorised Person must maintain a clear separation of duties to ensure that an employee with responsibility for operating Client Accounts, or an employee that has authority over Safe Custody Assets, must not perform the reconciliations under Rule 15.9.1.
+
+15.9.4 A reconciliation performed in accordance with Rule 15.9.1 must be reviewed by a
+
+member of the Authorised Person who has adequate seniority.
+
+15.9.5 The individual referred to in Rule 15.9.4 must provide a written statement confirming that the reconcilitation has been undertaken in accordance with the requirements of this section.
+
+15.9.6 An Authorised Person must notify the Regulator without undue delay where there have been material discrepancies with the reconciliation that have not been rectified.
+
+Guidance
+
+1. If an Authorised Person holds or Controls Client Investments which are Virtual in intervals
+
+2. A material discrepancy includes discrepancies which have the cumulative effect of being material, such as longstanding discrepancies.
+
+3. In

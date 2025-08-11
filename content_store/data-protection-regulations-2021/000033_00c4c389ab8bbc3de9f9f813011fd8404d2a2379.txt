@@ -1,0 +1,69 @@
+ is performed on Personal Data or on sets of Personal Data, whether or not by automated means, such as collection, recording, organisation, structuring, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, restriction, erasure or destruction;
+
+‘Processor’ means a natural or legal person, public authority, agency or other body which Processes Personal Data on behalf of the Controller;
+
+56
+
+‘Profiling’ means any form of automated Processing of Personal Data consisting of the use of Personal Data to evaluate certain personal aspects relating to a natural person, in particular to analyse or predict aspects concerning that natural person's performance at work, economic situation, health, personal preferences, interests, reliability, behaviour, location or movements;
+
+‘Pseudonymisation’ means the Processing of Personal Data in such a manner that the Personal Data can no longer be attributed to a specific Data Subject without the use of additional information, provided that such additional information is kept separately and is subject to technical and organisational measures to ensure that the Personal Data is not attributed to an identified or identifiable natural person;
+
+‘Recipient’ means a natural or legal person, public authority, agency or another body, to which the Personal Data is disclosed, whether a Third Party or not;
+
+‘Renewal Fee’ means a fee to be paid by the Controller any 12 month period that is not the first 12 months it Processes Personal Data in the amount specified by rules made by the Board as set out in section 24;
+
+‘Requesting Authority’ has the meaning given in section 45(1);
+
+‘Special Categories of Personal Data’ means the categories of data listed in section 7(1);
+
+‘Staff’ includes past, existing or prospective employees, directors, partners, trustees, officers, office holders, temporary or casual workers, agents and volunteers;
+
+‘State Of The Art’ means the current state of technological development, as appropriate to the context in which the measures are being implemented, including industry practices, the type and scale of the processing and the availability of a product or solution in the market;
+
+‘Supervisory Authority’ means:
+
+(a)
+
+an independent authority which has been established pursuant to Article 51 of the GDPR, which includes, for these purposes, the United Kingdom’s Information Commissioner’s Office; or
+
+(b)
+
+an independent authority with responsibility for ensuring and enforcing compliance with the data protection rules that is established in a jurisdiction which the Commissioner of Data Protection has decided ensures an adequate level of protection in accordance with section 41(3); and
+
+‘Third Party’ means a natural or legal person, public authority, agency or body other than the Data Subject, Controller, Processor and persons who, under the direct authority of the Controller or Processor, are authorised to Process Personal Data.
+
+63. Repeal of Data Protection Regulations 2015
+
+(1) The Data Protection Regulations 2015 are repealed with effect from:
+
+57
+
+(a)
+
+the date that is 6 months after the date of publication of these Regulations for any Establishment that is established in ADGM on or following the date of publication of these Regulations; and
+
+(b)
+
+the date that is 12 months after the date of publication of these Regulations for any Establishments established in ADGM prior to the date of entry into force of these Regulations.
+
+(2) Subject to section 63(1), these Regulations come into force and are binding from the
+
+date the Data Protection Regulations 2015 are repealed.
+
+(3) References to the Data Protection Regulations 2015 in Applicable Law will be construed
+
+as references to these Regulations.
+
+64. Short title, scope and commencement
+
+(1) These Regulations may be cited as the Data Protection Regulations 2021.
+
+(2) These Regulations apply in the Abu Dhabi Global Market.
+
+(3) The Board may by rules make any transitional, transitory, consequential, saving, incidental or supplementary provision in relation to the commencement of these Regulations as the Board thinks fit.
+
+(4) Rules made under section 64(3) may amend any provision of any other enactment
+
+including subordinate legislation made under such enactment.
+
+58

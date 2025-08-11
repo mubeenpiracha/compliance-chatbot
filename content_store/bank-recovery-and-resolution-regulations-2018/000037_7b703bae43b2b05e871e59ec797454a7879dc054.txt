@@ -1,0 +1,85 @@
+ or to the extent of the capacity of the Non-CET1 Capital Instruments, whichever is lower; and
+
+(c)
+
+the principal amount of Tier 2 Capital instruments is written down or converted into Common Equity Tier 1 Capital instruments or both, to the extent required to achieve the Resolution Objectives or to the extent of the capacity of the Non-CET1 Capital Instruments, whichever is lower.
+
+Where the principal amount of a Non-CET1 Capital Instrument is written down—
+
+(a)
+
+the reduction of that principal amount shall be permanent, subject to any write up in accordance with section 50(3);
+
+(b)
+
+no liability to the holder of the Non-CET1 Capital Instrument, or right on the part of such holder, shall remain under or in connection with that amount of the instrument which has been written down, except in respect of any liability already accrued, and any liability calculated following a Difference in Treatment calculation in accordance with section 69 (but this shall not prevent the provision of Common Equity Tier 1 Capital instruments to a holder of Non-CET1 Capital Instruments in accordance with subsection (3); and
+
+(c)
+
+no compensation is paid to any holder of the Non-CET1 Capital Instruments other than in accordance with subsection (3).
+
+58
+
+(3)
+
+In order to effect a conversion of Non-CET1 Capital Instruments under subsection (1)(b), the Regulator may require Investment Firms to issue Common Equity Tier 1 Capital instruments to the holders of the Non-CET1 Capital Instruments. The Non-CET1 Capital Instruments may only be converted where the following conditions are met—
+
+(a)
+
+those Common Equity Tier 1 Capital instruments are issued by the Investment Firm, ADGM Parent Undertaking or ADGM Subsidiary or by a Parent Undertaking of the Investment Firm, ADGM Parent Undertaking or ADGM Subsidiary with the agreement of the Regulator or, where relevant, the resolution authority of the Parent Undertaking;
+
+(b)
+
+those Common Equity Tier 1 Capital instruments are issued prior to any issuance of Shares by that Investment Firm, ADGM Parent Undertaking or ADGM Subsidiary for the purposes of provision of Capital Resources by a public authority;
+
+(c)
+
+those Common Equity Tier 1 Capital instruments are awarded and transferred without delay following the exercise of the conversion power; and
+
+(d)
+
+the Conversion Rate that determines the number of Common Equity Tier 1 Capital instruments that are provided in respect of each Non-CET1 Capital Instrument complies with the principles set out in section 54.
+
+(4)
+
+For the purposes of the provision of Common Equity Tier 1 Capital instruments that are provided in accordance with subsection (3), the Regulator may require Investment Firms, ADGM Parent Undertakings or ADGM Subsidiaries to maintain at all times the necessary prior authorisation to issue the relevant number of Common Equity Tier 1 Capital instruments.
+
+(5)
+
+Where an Investment Firm, ADGM Parent Undertaking or ADGM Subsidiary meets the Resolution Conditions and the Regulator decides to apply a Resolution Tool to that Investment Firm, ADGM Parent Undertaking or ADGM Subsidiary, the Regulator shall comply with the requirement laid down in section 64(3) before applying the Resolution Tool.
+
+66. Write Down or Conversion Power in relation to Eligible Liabilities
+
+(1)
+
+The Regulator shall have the power to write down or convert Eligible Liabilities of an Institution in Resolution into Shares of the Institution, which includes the power to—
+
+(a)
+
+reduce (including to zero) the principal amount of, or outstanding amount due, in respect of Eligible Liabilities of an Institution in Resolution;
+
+(b)
+
+cancel the Debt Instruments issued by an Institution in Resolution except those which represent secured liabilities;
+
+(c)
+
+reduce, including reducing to zero, the nominal amount of Shares of an Institution in Resolution and to cancel such Shares; and
+
+(d)
+
+require an Institution in Resolution to issue new Shares or other capital instruments, including Additional Tier 1 Capital instruments.
+
+(2)
+
+The Regulator may only exercise the write down or conversion power under this section after the carrying out a Pre-Resolution Valuation (or a Provisional Valuation if applicable).
+
+59
+
+Chapter 5 Resolution Safeguards
+
+67.
+
+Treatment of Shareholders in the case of partial transfers and application of the bail in tool
+
+Where one or more of the Resolution Tools have been applied, the Regulator shall be guided by the following

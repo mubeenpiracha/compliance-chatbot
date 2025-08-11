@@ -1,0 +1,161 @@
+ to an Authorised Market Institution, Alternative Trading System, Regulated Exchange or regulated multilateral the Authorised Firm must:
+
+trading
+
+facility,
+
+(a)
+
+establish and maintain policies, procedures, systems and controls to limit or prevent a Client from placing an order that would result in the Authorised Firm exceeding its existing position limits or credit limits; and
+
+(b)
+
+ensure that such policies, procedures, systems and controls remain appropriate and effective on an on-going basis.
+
+Guidance
+
+An Authorised Firm should undertake on-going monitoring of its systems and controls to ensure that they are operating effectively and as intended and remain appropriate.
+
+6.9
+
+Confirmation notes
+
+Application
+
+6.9.1
+
+The Rules in this section do not apply to an Authorised Firm with respect to any Transaction which it:
+
+(a)
+
+undertakes with a Market Counterparty; or
+
+(b)
+
+carries out for the purposes of managing a Fund of which it is the Fund Manager.
+
+Sending confirmation notes
+
+6.9.2
+
+(1)
+
+When an Authorised Firm Executes a Transaction in an Investment or Crypto Token for a Client, it must ensure a confirmation note is sent to the Client as soon as possible and in any case no later than 2 business days following the date of Execution of the Transaction.
+
+(2)
+
+Where an Authorised Firm has executed a Transaction or series of Transactions in accordance with Rule 6.8.5, the Authorised Firm must send a confirmation note relating to those Transactions as soon as possible, but no later than 2 business days following the last Transaction.
+
+(3)
+
+The confirmation note must include the details of the Transaction in accordance with App3 section A3.1.
+
+(4)
+
+An Authorised Firm is not required to issue a confirmation note where a Professional Client has advised in writing that he does not wish to receive such confirmation notes.
+
+53
+
+COB/VER48/03-25
+
+CONDUCT OF BUSINESS (COB)
+
+Record keeping
+
+6.9.3
+
+An Authorised Firm must retain a copy of each confirmation note sent to a Client and retain it for a minimum of six years from the date of despatch.
+
+6.10 Periodic statements
+
+Application
+
+6.10.1 The Rules in this section do not apply to an Authorised Firm with respect to any
+
+Transaction which it:
+
+(a)
+
+undertakes with a Market Counterparty; or
+
+(b)
+
+carries out for the purposes of managing a Collective Investment Fund of which it is the Fund Manager.
+
+Investment management and contingent liability investments
+
+6.10.2
+
+(1)
+
+When an Authorised Firm:
+
+(a)
+
+acts as an Investment Manager for a Client; or
+
+(b)
+
+operates a Client’s account containing uncovered open positions in a Contingent Liability Investment;
+
+it must promptly and at suitable intervals in accordance with (2) provide the Client with a written statement (“a periodic statement”) containing the matters referred to in App4 section A4.1.
+
+(2)
+
+For the purposes of (1), a “suitable interval” is:
+
+(a)
+
+six-monthly;
+
+(b)
+
+monthly, if the Client’s portfolio includes an uncovered open position in Contingent Liability Investments; or
+
+(c)
+
+at any alternative interval that a Client has on his own initiative agreed with the Authorised Firm but in any case at least annually.
+
+Record keeping
+
+6.10.4 An Authorised Firm must make a copy of any periodic statement provided to a Client and retain it for a minimum of six years from the date on which it was provided.
+
+6.11 Client Assets
+
+Application
+
+6.11.1
+
+(1)
+
+This section applies to an Authorised Firm which:
+
+54
+
+COB/VER48/03-25
+
+6.11.2
+
+CONDUCT OF BUSINESS (COB)
+
+(a)
+
+holds or controls Client Assets; or
+
+(b)
+
+Provides Custody.
+
+(2)
+
+This section applies to an Authorised Firm Arranging Custody only to the extent specified in Rule 6.11.2(3).
+
+Guidance
+
+1.
+
+Client Assets is defined in the GLO Module as “Client Money, Client Investments and Client Crypto Tokens”.
+
+2.
+
+Principle 9 of the Principles for Authorised Firms (Customer assets and money) requires an Authorised Firm to arrange proper protection for Clients' Assets when the firm is responsible for them. An essential part of that protection is that an Authorised Firm must properly safeguard

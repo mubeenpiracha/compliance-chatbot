@@ -1,0 +1,87 @@
+ Official List. Rules 7.2.1 and 7.2.2 importantly state that:
+
+“Immediate Disclosure of Inside Information
+
+7.2.1 (1) Once a Reporting Entity is, or becomes, aware of Inside Information, it must
+
+immediately Disclose that Inside Information.
+
+(2) A Reporting Entity must ensure that the Disclosure it makes pursuant to (1) is not false, misleading, or deceptive and does not omit anything likely to affect the import of the Inside Information.
+
+(3) For the purposes of complying with the requirement in (1), the Reporting Entity must, subject to Rule 7.2.4, immediately make its Disclosure, and in the manner specified in Rule 7.7.1.
+
+Exceptions to Rule 7.2.1
+
+7.2.2 Rule 7.2.1 does not apply to specific information if and so long as all of the following
+
+are satisfied:
+
+(1) Any one or more of the following applies:
+
+(a) the information relates to an incomplete matter or negotiation;
+
+(b) the Disclosure of the information would be in breach of a law or in contempt
+
+of court;
+
+(c) the information comprises matters of supposition or is insufficiently certain
+
+or definite for it to be Disclosed;
+
+(d) the information has been created for the internal management purposes of
+
+the Listed Entity; or
+
+(e) the information is a trade secret; and
+
+(2) the information is confidential and the Regulator is not of the opinion that the
+
+information is no longer confidential; and
+
+(3) a reasonable person would not expect the information to be Disclosed.”
+
+THE POLICY OBJECTIVE OF THE FSRA’S CONTINUOUS DISCLOSURE FRAMEWORK
+
+16) Rules 7.2.1 and 7.2.2 aim to balance the needs of investors to receive information that may have a significant effect on the price or value of a Listed Entity’s Securities at the earliest reasonable time, and the interests of a Reporting Entity of not having to Disclose information prematurely or where it is inappropriate to do so.
+
+3
+
+VER01.280922
+
+17)
+
+If the Listing Authority forms the view that there is, or may be, a false market, the interests of investors will prevail and the Listing Authority may require the Disclosure of information considered necessary to correct or prevent a false market under Rules 2.2.4 and 7.5.1(b) (refer to paragraphs 100 to 115 below).
+
+18) Other than in the context of a false market, the time at which Inside Information must be disclosed will be determined by the interaction between Rules 7.2.1 and 7.2.2, such that the obligation to Disclose Inside Information that falls:
+
+a)
+
+outside Rule 7.2.2, will arise as soon as the Reporting Entity becomes aware of the Inside Information; and
+
+b) within Rule 7.2.2, will not arise unless and until Rule 7.2.2 no longer applies.
+
+19)
+
+In relation to both circumstances in paragraph 18 above, when the obligation to Disclose has been triggered, the Inside Information must be Disclosed immediately.
+
+INSIDE INFORMATION
+
+20) Section 95 of FSMR defines “Inside Information” for the purposes of FSMR and the FSRA Rulebook, including MKT. Sections 95(2), (5), (6) and (8) set out the following:
+
+“(2) Inside Information is information of Precise nature which –
+
+(a) is not generally available;
+
+(b) relates, directly or indirectly, to one or more Reporting Entities or Issuers of the Financial Instruments or to one or more of the Financial Instruments ….; and
+
+(c) would, if generally available, be likely to have a significant effect on the price of
+
+the Financial Instruments, … or Related Instruments.
+
+(5) Information is Precise if it –
+
+(a) indicates circumstances that exist or may reasonably be expected to come into existence or an event that has occurred or may reasonably be expected to occur; and
+
+(b) is specific enough to enable a conclusion to be drawn as to the possible effect of those circumstances or that event of the price of Financial Instruments, … or Related Instruments.
+
+(6) Information would be likely to have a significant effect on price if and only if it is information of a kind which a reasonable investor would be likely to use

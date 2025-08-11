@@ -1,0 +1,99 @@
+ary that is required on a consolidated basis to meet the sum of its Financial Group's T1 Capital requirement of 8.0% of the Total Risk Exposure Amount, calculated in accordance with Rule 3.5.7, and its Combined Buffer Requirement;
+
+(b)
+
+the qualifying T1 Capital of the Subsidiary expressed as a percentage of all T1 Capital instruments of that Subsidiary plus the related retained earnings and Share premium accounts.
+
+Qualifying T1 Capital included in consolidated AT1 Capital
+
+3.13.7
+
+An Authorised Person must determine the amount of qualifying T1 Capital of a Subsidiary that is included in consolidated AT1 Capital by subtracting from the qualifying T1 Capital of that Subsidiary included in consolidated T1 Capital, the minority interests of that Subsidiary that are included in consolidated CET1 Capital.
+
+Qualifying Capital Resources included in consolidated Capital Resources
+
+3.13.8
+
+An Authorised Person must determine the amount of qualifying Capital Resources of a Subsidiary that is included in consolidated Capital Resources of its Financial Group by subtracting from the qualifying Capital Resources of that Subsidiary, the result of multiplying the amount referred to in (a) by the percentage referred to in (b):
+
+(a)
+
+the lesser of the following:
+
+(i)
+
+the amount of Capital Resources of the Subsidiary required to meet the sum of the Subsidiary's total Capital Requirement (on a solo basis) of 10.0% of its Total Risk Exposure Amount, calculated in accordance with Rule 3.5.7 and its Combined Buffer Requirement; or
+
+(ii)
+
+the amount of Capital Resources that relates to the Subsidiary that is required on a consolidated basis to meet the sum of its Financial Group's total Capital Requirement of 10.0% of its Total Risk Exposure Amount, calculated in accordance with Rule 3.5.7, and its Combined Buffer Requirement;
+
+89
+
+PRU VER17.290725
+
+(b)
+
+the qualifying Capital Resources of the Subsidiary, expressed as a percentage of all Capital Resources instruments of the Subsidiary that are included in its CET1, AT1 and T2 Capital items and the related retained earnings and Share premium accounts.
+
+Qualifying Capital Resources instruments included in consolidated T2 Capital
+
+3.13.9
+
+An Authorised Person must determine the amount of qualifying Capital Resources of a Subsidiary that is included in consolidated T2 Capital by subtracting from the qualifying Capital Resources of that Subsidiary that are included in consolidated Capital Resources, the qualifying T1 Capital of that Subsidiary that is included in consolidated T1 Capital of the Financial Group of the Authorised Person.
+
+3.14
+
+Qualifying Holdings outside the financial sector
+
+3.14.1
+
+(1)
+
+Where an Authorised Person has a Qualifying Holding in an Undertaking which is not one of the following:
+
+(a)
+
+an Undertaking that is a Relevant Entity; or
+
+(b)
+
+an Undertaking that carries on activities that are:
+
+(i)
+
+a direct extension of banking;
+
+(ii)
+
+ancillary to banking; or
+
+(iii)
+
+leasing, factoring, the management of unit trusts, the management of data processing services or any other similar activity,
+
+and the amount of the holding exceeds 15% of the eligible total Tier 1 of the Authorised Person, the Authorised Person must comply with the requirements in (3).
+
+(2)
+
+The total amount of the Qualifying Holdings of an Authorised Person in those Undertakings referred to in (1) that exceeds 60% of its Tier 1 are subject to the requirements in (3).
+
+(3)
+
+An Authorised Person must apply a risk weight of 1000% to the greater of the total amount of Qualifying Holdings referred to in (1) and that in (2).
+
+(4)
+
+As an alternative to applying a 1000% risk weight to the amounts in excess of the limits specified in (1) or (2), an Authorised Person may deduct those amounts from CET1 Capital.
+
+(5)
+
+Shares of Undertakings to which (1) or (2) do not apply must not be included in calculating the eligible capital limits specified in (1) where any of the following conditions are met:
+
+(a)
+
+those Shares are held temporarily during a financial reconstruction or rescue operation;
+
+90
+
+PRU VER17.290725

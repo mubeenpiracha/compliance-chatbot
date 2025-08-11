@@ -1,0 +1,149 @@
+ Financial Services and Markets Regulations 2015 shall apply with respect to contraventions of these Regulations equally as if they were set out here and applied to these Regulations.
+
+83.
+
+False or misleading information
+
+(1)
+
+A person commits a contravention of these Regulations if the person makes a statement in any Document, material, evidence or information which is required to be provided to the Regulator or to any person entitled to the information under these Regulations that, at the time and in the light of the circumstances under which it is made, is false or misleading with respect to any material fact, or that omits to state any material fact the omission of which makes the statement false or misleading.
+
+65
+
+(2)
+
+84.
+
+(1)
+
+(2)
+
+85.
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+86.
+
+(1)
+
+(2)
+
+(3)
+
+A person shall not contravene subsection (1) if the person did not know that the statement was false or misleading and with the exercise of all due diligence could not have known that the statement was false or misleading.
+
+Amendments and subordinate legislation
+
+The Regulator may make Rules for carrying out the purposes of these Regulations or furthering one or more of the Resolution Objectives.
+
+Rules made under these Regulations, without limitation, may—
+
+(a)
+
+make different provision for different cases or circumstances;
+
+(b)
+
+include supplementary, incidental and consequential provisions;
+
+(c)
+
+specify financial penalties;
+
+(d)
+
+make transitional provision and savings; and
+
+(e)
+
+revoke or amend any rules or other subordinate legislation.
+
+Power to make consequential amendments etc.
+
+The Board may amend, repeal or revoke any provision of these Regulations or of any subordinate legislation made under these Regulations as it considers necessary or expedient as a consequence of any provision made by or under these Regulations.
+
+Without prejudice to the generality of the power conferred by subsection (1), Regulations made under this section may—
+
+(a)
+
+make provision extending to other forms of organisation any provision made by or under these Regulations in relation to Institutions; or
+
+(b)
+
+make provision corresponding to that made by or under these Regulations in relation to Institutions,
+
+in either case with such adaptations or other modifications as may be necessary or expedient.
+
+The references in subsection (2) to provision made by these Regulations include provision conferring power to make provision by Rules or other subordinate legislation.
+
+Amendments and repeals made under this section are additional, and without prejudice, to those made by or under any other provision of these Regulations.
+
+Short title, extent and commencement
+
+These Regulations may be cited as the Bank Recovery and Resolution Regulations 2018.
+
+These Regulations shall apply in the ADGM.
+
+These Regulations shall come into force on the date of their publication.
+
+66
+
+Schedule
+
+Part 1 Information to be Included in Recovery Plans
+
+The Recovery Plan shall contain the following—
+
+(a)
+
+a summary of the key elements of the Recovery Plan and a summary of overall recovery capacity;
+
+(b)
+
+a summary of the material changes to the Institution since the most recently filed Recovery Plan;
+
+(c)
+
+a communication and disclosure plan outlining how the Institution intends to manage any potentially negative market reactions;
+
+(d)
+
+a range of capital, liquidity, and in respect of a Recognised Clearing House loss allocation (covering both default and non-default losses), actions required to maintain or restore the viability and financial position of the Institution;
+
+(e)
+
+appropriate conditions and procedures to ensure the timely implementation of recovery actions, as well as a wide range of recovery options;
+
+(f)
+
+possible measures which could be taken by the Institution where the conditions for early intervention under section 18 are met;
+
+(g)
+
+an estimate of the timeframe for executing each material aspect of the Recovery Plan;
+
+(h)
+
+a detailed description of any material impediment to the effective and timely execution of the Recovery Plan, including consideration of impact on the rest of the Group, customers, counterparties, clients and clearing members, where applicable;
+
+(i)
+
+identification of Critical Functions;
+
+(j)
+
+a detailed description of the processes for determining the value and marketability of the Core Business Lines, operations and assets of the Institution;
+
+(k)
+
+a detailed description of how recovery planning is integrated into the corporate governance structure of the Institution as well as the policies and procedures governing the approval of the Recovery Plan and identification of the persons in the organisation responsible for preparing and implementing the Recovery Plan;
+
+(l)
+
+in respect of a Recognised Clearing House, a detailed description of how recovery planning forms part of the operating rules and procedures agreed

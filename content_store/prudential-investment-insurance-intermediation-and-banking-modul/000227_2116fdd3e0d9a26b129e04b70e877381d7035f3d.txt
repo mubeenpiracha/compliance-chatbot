@@ -1,0 +1,113 @@
+ model of an Authorised Firm, in accordance with Rule A5.6.10; and
+
+(d)
+
+summing the Capital Requirements determined in (b) and (c).
+
+A5.6.7 An Authorised Firm must calculate its Delta-weighted position for each option as
+
+follows:
+
+Delta-weighted position = Market value of
+
+the underlying
+
+instrument or
+
+commodities x Delta
+
+A5.6.8
+
+In addition to the capital charges referred to in Rule A5.6.5, arising from Delta risk, an Authorised Firm must calculate the Gamma for each option position, including hedge positions in the following way:
+
+(a)
+
+for each individual option a “Gamma impact” must be calculated as:
+
+Gamma impact = ½ x Gamma x VU²
+
+where VU = Variation of the underlying instrument of the option;
+
+(b)
+
+VU must be calculated as follows:
+
+(i)
+
+for interest rate options if the underlying instrument is a bond, the market value of the underlying instrument should be multiplied by the risk weights set out in section 5.4 for the underlying instrument. An equivalent calculation should be carried out where the underlying instrument is an interest rate, again based on the assumed changes in the corresponding yield in Rule A5.2.16;
+
+(ii)
+
+for options on equities and equity indices, the market value of the underlying instrument should be multiplied by 8%;
+
+(iii)
+
+for foreign exchange and gold options, the market value of the underlying instrument should be multiplied by 8%; and
+
+347
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+(iv)
+
+for options on commodities, the market value of the underlying instrument should be multiplied by 15%; and
+
+(c)
+
+for the purpose of this calculation the following positions must be treated as the same underlying instrument:
+
+(i)
+
+for interest rates, each timeband as set out in Rule A5.2.16;
+
+(ii)
+
+for equities and stock indices, each national market;
+
+(iii)
+
+for foreign currencies and gold, each currency pair and gold; and
+
+(iv)
+
+for commodities, positions in the same individual commodity as defined in section A5.5 for Commodities Risk Capital Requirement.
+
+A5.6.9 An Authorised Firm must calculate its Capital Requirement for Gamma risk by:
+
+(a)
+
+calculating the net Gamma impact in respect of each underlying financial instrument or commodity by aggregating the individual Gamma impacts for each option position in respect of that underlying financial instrument or commodity (which may be either positive or negative); and
+
+(b)
+
+aggregating the absolute value of the net Gamma impacts that are negative.
+
+Guidance
+
+1.
+
+The underlying financial instrument or commodity should be taken to be the asset which would be received if the option were exercised. In addition, the notional value should be used for items where the market value of the underlying financial instrument or commodity could be zero (e.g. caps and floors, swaptions). Certain notional positions in zero-specific-risk securities do not attract Specific Risk, e.g. interest rate and currency swaps, Forward Rate Agreement (FRA), forward foreign exchange contracts, interest rate futures and futures on an interest rate index. Similarly, options on such zero-specific-risk securities also bear no Specific Risk. For the purposes of this sub-paragraph:
+
+a.
+
+the specific and general risk weights in respect of options on interest rate-related instruments are determined in accordance with section A5.2;
+
+b.
+
+the specific and general risk weights in respect of options on equities and equity indices are determined in accordance with section A5.3;
+
+c.
+
+the risk weight in respect of foreign currency and gold options is 8%; and
+
+d.
+
+the risk weight in respect of options on commodities is 15%.
+
+For options with a residual maturity of more than 6 months, the strike price should be compared with the forward, and not current, price. Where an Authorised Firm is unable to do this, the in- the-money amount would be zero.
+
+2.
+
+An Authorised Firm which trades in exotic options (e.g. barriers, digitals) would use either the scenario approach or the Internal Models Approach (IMA) to calculate its Market Risk Capital Requirement for such options, unless it is able to demonstrate to the DFSA that the Delta-plus method is appropriate. In the case of options on futures or forwards

@@ -1,0 +1,73 @@
+ assets are.
+
+Desired Outcome 6.2 – Asset Accountability: A financial institution’s assets should be responsibly managed in a way that is commensurate with the criticality of the assets.
+
+Desired Outcome 6.1 – Asset Identification and Classification
+
+6.1.1
+
+In the course of business, a financial institution is likely to accumulate various physical and non-physical technology assets to support its operations and services. If left unchecked, the growth in assets can heighten risk as each asset could be exploited or abused by threat actors.
+
+6.1.2
+
+A financial institution should have a process in place to document all acquisition, modification, movement, and decommissioning of assets. It should regularly review its list of assets to ensure the information collected is kept updated. Such documentation should enable a financial institution to track its assets and the relevant parties responsible for the asset.
+
+6.1.3
+
+The universe of assets that a financial institution should track includes, among other types, physical hardware (e.g., endpoints, technology infrastructure components, etc.), software (e.g., licenses, patches, libraries, etc.), datasets (e.g., customer data, transaction data, logs, etc.), online assets (e.g., internet protocol addresses, web domains, cloud assets, etc.), and cryptographic assets (e.g., encryption keys, tokens, etc.). Assets that are rented, leased, provided through subscriptions, or managed by third parties on behalf of the financial institution should be included.
+
+6.1.4
+
+A financial institution should establish a security classification framework for its assets to ensure that appropriate security controls are applied based on the asset’s criticality and sensitivity of data associated with or contained within the asset. Appropriate alternative arrangements should be in place to deal with scenarios where replacing the asset is a risk due to its availability in the market.
+
+Criticality Assessment
+
+6.1.5 While a financial institution may use numerous systems to achieve its business objectives, there is likely to be a small number of systems that are essential to the core functions of the financial institution. Such systems are typically considered ‘critical’ as any disruption to these systems would result in significant operational failure and/or financial institution should apply strict requirements for confidentiality, integrity, and availability on such systems, and require a comprehensive security approach to protect them from risk events.
+
+losses. A financial
+
+39
+
+VER01.201124
+
+6.1.6
+
+A financial institution should establish a criterion for what constitutes a critical system and an appropriate methodology to classify its systems. In building the criteria and methodology, a financial institution may take the following factors into consideration.
+
+6.1.6.a
+
+The business function supported by the system.
+
+6.1.6.b
+
+The level of risk posed to the financial institution if the system were to fail or be compromised. This approach involves identifying the value of the data handled by the system, potential threats and vulnerabilities, and assessing the impact and likelihood of those threats.
+
+6.1.6.c
+
+The extent to which the system is depended upon by other systems.
+
+Desired Outcome 6.2 – Asset Accountability
+
+6.2.1
+
+A financial institution should ensure that every asset is accounted for and assigned to a suitable responsible party. The responsible party should ensure that security controls applicable to the asset are implemented, configuration standards are complied with, and the asset’s lifecycle is managed.
+
+6.2.2
+
+For assets that require access credentials, financial institutions should ensure that such credentials are held and managed by suitable responsible parties, with appropriate security controls applied for authorisation and authentication. A financial institution should have a recovery procedure in place to address scenarios where credentials to an asset are lost or irretrievable.
+
+40
+
+VER01.201124
+
+Chapter 7 – Operational Infrastructure Management
+
+Desired Outcomes for Operational Infrastructure Management
+
+Desired Outcome 7.1 – Standardising the Operating Environment: A financial institution should maintain an up-to-date library of standardised configurations that all hardware and software comply with.
+
+Desired Outcome 7.2 – Securing the Physical Environment: A financial institution should ensure that all physical assets connecting to its networks are secured to prevent unauthorised access and data loss.
+
+Desired Outcome 7.3 – Securing Connections: A financial institution should ensure that its networks and connections are protected from unauthorised access, resilient against exploitation or disruption, and data is transmitted securely.
+
+Desired Outcome 7.4 – Sec

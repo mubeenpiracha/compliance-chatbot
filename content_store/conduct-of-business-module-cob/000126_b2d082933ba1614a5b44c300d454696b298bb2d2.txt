@@ -1,0 +1,115 @@
+ Authorised Firm, and if it is a Subsidiary, the ultimate Holding Company;
+
+the name and address of
+
+(b)
+
+the regulatory status of the Authorised Firm;
+
+(c)
+
+when and how the Client Agreement is to come into force and how the agreement may be amended or terminated;
+
+(d)
+
+sufficient details of the service that the Authorised Firm will provide, including where relevant, information about any product or other restrictions applying to the Authorised Firm in the provision of its services and how such restrictions impact on the service offered by the Authorised Firm. If there are no such restrictions, a statement to that effect;
+
+(e)
+
+details of fees, costs and other charges and the basis upon which the Authorised Firm will impose those fees, costs and other charges;
+
+196
+
+COB/VER48/03-25
+
+CONDUCT OF BUSINESS (COB)
+
+(f)
+
+details of any conflicts of interests for the purposes of disclosure under Rule 3.5.1(2)(b);
+
+(g)
+
+details of any Soft Dollar Agreement required to be disclosed under Rules 3.5.6 and 3.5.7; and
+
+(h)
+
+key particulars of the Authorised Firm’s Complaints handling procedures and a statement that a copy of the procedures is available free of charge upon request in accordance with GEN Rule 9.2.11.
+
+(2)
+
+In the case of a Professional Client, the core information for the purposes of A2.1.1(a) is the information referred to in (1)(a), (b), (c) and (e).
+
+Guidance
+
+Fee Disclosure for Retail Clients trading in Restricted Speculative Investments
+
+1. An Authorised Firm is required, as part of the core information that is included in the Client Agreement under App A2.1.2, to disclose all of the detailed fees and charges which a Retail Client will or may incur. An Authorised Firm that Deals in a Restricted Speculative Investment would therefore be expected to disclose under that Rule:
+
+a.
+
+any trading commissions charged, whether a general commission or a commission on each trade, e.g. on the opening and closing of a trading account;
+
+b.
+
+if the Authorised Firm adds any mark-up to market prices it receives from an external source, thereby increasing the spread for the Retail Client, the amount of that mark-up or, if the amount cannot be pre-determined, a reasonable range specified as precisely as possible for the relevant class of Restricted Speculative Investments that are being offered;
+
+c.
+
+any financing charges that are applicable, e.g. daily and overnight financing charges for Restricted Speculative Investments;
+
+d.
+
+if the Authorised Firm adds a mark-up when calculating any financing charges, the amount of that mark-up; and
+
+e.
+
+any applicable costs and charges to be applied if the Retail Client is seeking to sell or exit early.
+
+2.
+
+If any material changes are proposed to fees and charges that have been previously disclosed in the Client Agreement, a new fee disclosure statement needs to be given to the Retail Client before making the changes to the fees and charges (see also Rule 3.3.3).
+
+3. An Authorised Firm providing other Financial Services relating to a Restricted Speculative Investment is also required to disclose the fees, charges and commissions relating to those services.
+
+Additional information for Investment Business
+
+A2.1.3 The additional information required under A2.1.1(b) for Investment Business is:
+
+197
+
+COB/VER48/03-25
+
+CONDUCT OF BUSINESS (COB)
+
+(a)
+
+the arrangements for giving instructions to the Authorised Firm and acknowledging those instructions;
+
+(b)
+
+information about any agreed investment parameters;
+
+(c)
+
+the arrangements for notifying the Client of any Transaction Executed on his behalf;
+
+(d)
+
+if the Authorised Firm may act as principal in a Transaction, when it will do so;
+
+(e)
+
+the frequency of any periodic statements and whether those statements will include some measure of performance, and if so, what the basis of that measurement will be;
+
+(f)
+
+when the obligation to provide best execution can be and is to be waived, a statement that the Authorised Firm does not owe a duty of best execution or the circumstances in which it does not owe such a duty; and
+
+(g)
+
+where applicable, the basis on which assets comprised in the portfolio are to be valued.
+
+Additional information for investment management activities
+
+A2.1.4 The additional information required under A2.1.

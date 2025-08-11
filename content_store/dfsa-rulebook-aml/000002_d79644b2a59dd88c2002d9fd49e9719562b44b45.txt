@@ -1,0 +1,41 @@
+ a reference to “money laundering” also includes terrorist financing, the financing of illegal organisations and proliferation financing (see Rule 3.1.1).
+
+Overview of the DIFC’s AML regime
+
+2.
+
+The DIFC is governed by two separate and complementary regimes in relation to AML regulation, both administered by the DFSA:
+
+a.
+
+The Federal regime: Under Article 3 of Federal Law No. 8 of 2004, the provisions of Federal Law No. 20 of 2018 on Anti-Money Laundering and Combating the Financing of Terrorism and Illegal Organisations and Federal Law No. 7 of 2014 on Combating Terrorism Offences and the implementing regulations under those laws apply in the DIFC. The DFSA, as the DIFC’s supervisory authority for Relevant Persons for the purposes of those laws, is obliged to supervise and monitor Relevant Persons for compliance with provisions of the Federal laws and regulations. The DFSA may also impose administrative penalties for breaches of those laws and the implementing regulations. See Article 14 of Federal Law No. 20 of 2018, Article 44 of Cabinet Decision No. 10 of 2019, and Article 22 of Cabinet Decision No. 74 of 2020; and
+
+b.
+
+The DIFC regime: Under Article 70(3) of the DIFC Regulatory Law 2004 (the “Regulatory Law”), the DFSA has jurisdiction for the regulation of anti-money laundering in the DIFC relating to Relevant Persons (see para 4 below) and their officers, employees and agents. The DIFC specific regime is contained in Chapter 2 of Part 4 of the Regulatory Law and any DFSA Rules made in connection with anti- money laundering measures, policies and procedures.
+
+3.
+
+Note that under Article 71(1) of the Regulatory Law, the DIFC regime requires compliance with the Federal regime. It follows that a failure to comply with a provision of Federal Law No. 20 of 2018 on Anti-Money Laundering and Combating the Financing of Terrorism and Illegal Organisations or Federal Law No. 7 of 2014 on Combating Terrorism Offences or the implementing regulations under those laws may also provide evidence of failure to comply with Article 71(1), which may then be addressed under the disciplinary and remedial provisions of the Regulatory Law and DFSA Rules.
+
+Purpose of the AML module
+
+4.
+
+The AML module has been designed to provide a single reference point for all persons and entities (collectively called Relevant Persons) referred to in Rule 1.1.2 who are supervised by the DFSA for Anti-Money Laundering (AML), Counter-Terrorist Financing (CTF) and sanctions compliance. Accordingly it applies to Authorised Firms (other than Credit Rating Agencies), Authorised Market Institutions, Designated Non-Financial Businesses and Professions (DNFBPs), and Registered Auditors. The AML module takes into consideration the fact that Relevant Persons have differing AML risk profiles. A Relevant Person should familiarise itself with this module, and assess the extent to which the chapters and sections apply to it.
+
+5.
+
+The AML module cannot be read in isolation from other relevant U.A.E. legislation or developments in international policy and best practice and, to the extent applicable, Relevant Persons need to be aware of, and take into account, how these aforementioned matters may impact on the Relevant Person’s day to day operations. This is particularly relevant when considering the list of persons and terrorist organisations issued under Cabinet Decision No. 74 of 2020 and the United Nations Security Council Resolutions (UNSCRs) which apply in the DIFC, and unilateral sanctions imposed by other jurisdictions which may apply to a Relevant Person depending on the Relevant Person’s jurisdiction of origin, its business and/or customer base.
+
+5
+
+AML/VER27/03-25
+
+Anti-Money Laundering, Counter-Terrorist Financing and Sanctions Module (AML)
+
+Structure of the AML module
+
+6.
+
+Chapter 1 of this module contains an application table which should assist a Relevant Person to navigate through the module and to determine which chapters are applicable to it. Chapter 1 also specifies who is ultimately responsible for a Relevant Person’s compliance with the AML module. The DFSA expects the senior management of a Relevant Person to establish a robust

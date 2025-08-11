@@ -1,0 +1,165 @@
+
+
+45.
+
+Data sharing with public authorities ................................................................... 40
+
+46.
+
+International cooperation for the protection of Personal Data .......................... 41
+
+PART VI Independent supervisory authority .................................................................. 42
+
+47.
+
+Commissioner of Data Protection ....................................................................... 42
+
+48.
+
+Independence…………………………………… ...................................................... 42
+
+49.
+
+Functions and obligations of Staff of the Office of Data Protection ................. 43
+
+50.
+
+General Powers…………………………. ................................................................ 45
+
+51.
+
+Budget………………………………………………… ................................................ 47
+
+52.
+
+Accounts and audit……………………… .............................................................. 47
+
+53.
+
+Annual report………………………………………. .................................................. 48
+
+PART VII Fines and Remedies ........................................................................................ 49
+
+54.
+
+Directions ……………………………………. .......................................................... 49
+
+55.
+
+General conditions for imposing administrative fines ...................................... 49
+
+56.
+
+Fixed penalty for non-payment of the Data Protection Fee or Renewal Fee ... 51
+
+57.
+
+Right to lodge a complaint with the Commissioner of Data Protection............ 52
+
+58.
+
+Application to the Court………………………….................................................... 52
+
+59.
+
+Rights against a Controller and/or Processor .................................................... 52
+
+3
+
+PART VIII Final provisions ............................................................................................... 54
+
+60.
+
+Power of the Board to make rules ....................................................................... 54
+
+61.
+
+Previously concluded agreements ...................................................................... 54
+
+62.
+
+Definitions………………………………. ................................................................. 54
+
+63.
+
+Repeal of Data Protection Regulations 2015 ...................................................... 57
+
+64.
+
+Short title, scope and commencement ............................................................... 58
+
+4
+
+DATA PROTECTION REGULATIONS 2021
+
+Regulations to make provision for the protection of personal data processed or controlled from within the Abu Dhabi Global Market.
+
+Date of Enactment: 11 February 2021
+
+The Board of Directors of the Abu Dhabi Global Market, in exercise of its powers under Article 6(1) of the Law No.4 of 2013 concerning the Abu Dhabi Global Market issued by His Highness the Ruler of the Emirate of Abu Dhabi, enacts the following Regulations.
+
+PART I General provisions
+
+1.
+
+Subject-matter and objectives
+
+(1) The objects of these Regulations are:
+
+(a)
+
+to promote the protection of individuals’ Personal Data;
+
+(b)
+
+to recognise that the right to the protection of Personal Data is not an absolute right; it must be considered in relation to its function and balanced against other rights;
+
+(c)
+
+to provide the basis for consistent regulation and Processing of Personal Data within ADGM;
+
+(d)
+
+to promote lawful, fair and transparent Processing of Personal Data;
+
+(e)
+
+to establish the primary responsibility and liability of the Controller for any processing of personal data carried out by the Controller or on the Controller’s behalf;
+
+(f)
+
+to facilitate the transfer of Personal Data across borders while ensuring that the rights of individuals are respected;
+
+(g)
+
+to provide a means for individuals to complain about an alleged infringement of their rights relating to their Personal Data and to receive an effective judicial remedy; and
+
+(h)
+
+to implement ADGM’s international commitments in relation to the Processing of Personal Data.
+
+2. Material scope
+
+(1) These Regulations apply to the Processing of Personal Data wholly or partly by automated means and to the Processing other than by automated means of Personal Data which forms part of a Filing System or is intended to form part of a Filing System. Files or sets of files, as well as their cover pages, which are not structured according to specific criteria do not fall within the scope of these Regulations.
+
+5
+
+(2) These Regulations do not apply to the Processing of Personal Data:
+
+(a)
+
+by a natural person for the purposes of purely personal or household activity; or
+
+(b)
+
+by public authorities for the purposes of the prevention, investigation, detection or prosecution of criminal offences or the execution of criminal penalties, including the safeguarding against and the prevention of threats to national security.
+
+3.
+
+Territorial scope
+
+(1) These Regulations apply to the Processing of Personal Data in the context of the activities of an Establishment of a Controller or a Processor in ADGM, regardless of whether the Processing takes place in ADGM or not.
+
+(2) Where the Processor is Processing Personal Data for a Controller outside of ADGM, the Processor must comply with the requirements of these Regulations to the extent possible, taking into account whether the Controller is subject to similar obligations under the laws of its home jurisdiction.
+
+(3) These Regulations apply to

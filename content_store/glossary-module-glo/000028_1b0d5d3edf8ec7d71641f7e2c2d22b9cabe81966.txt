@@ -1,0 +1,161 @@
+ entity, being in the position relative to that entity of:
+
+(a) a second entity that is a Subsidiary, Associate or
+
+Holding Company of the first entity;
+
+(b) a second entity that is a Subsidiary or Associate of
+
+the Holding Company of the first entity;
+
+(c) a director or officer of the first entity or of an entity that is related to the first entity by reason of (a) or (b) above;
+
+(d)
+
+the spouse or minor child of a natural person referred to in (c) above; or
+
+(e) a company that is a Subsidiary of or subject to significant influence by or from a natural person referred to in (c) or (d) above.
+
+(1)
+
+In MKT, has the meaning given to that term in MKT Rule 3.5.2(a) except in relation to a Rating Subject, where it has the meaning given to it in COB Rule
+
+64
+
+GLO/VER62/07-25
+
+Defined Term
+
+Related Party Transaction
+
+GLOSSARY (GLO)
+
+Definition
+
+8.5.2(2).
+
+(2)
+
+In CIR, in relation to a Fund:
+
+(a) its Fund Manager;
+
+(b) its Governing Body;
+
+(c) an individual director of a Corporate Director;
+
+(d) its Custodian;
+
+(e) its Trustee or other Persons providing oversight;
+
+(f) any Advisor;
+
+(g) a holder of 5% or more of the Units of the Fund;
+
+or
+
+(h) an Associate of a Person in (a) to (g).
+
+(3) In CIR Rule 13.9.5, in relation to the ETF Fund
+
+Manager:
+
+(a) a member of the Fund Manager’s Group;
+
+(b) a Controller of the Fund Manager;
+
+(c) a director or senior officer of the Fund Manager or a family member of such director or senior officer; or
+
+(d) a business associate of the Fund Manager or, of
+
+a person referred to in (c).
+
+(4) In CIR, in relation to a Fund on a Fund Platform, any
+
+other Fund on that Fund Platform.
+
+(1) in MKT, has the meaning given to that term in MKT
+
+Rule 3.5.2(b).
+
+(2) in CIR, in relation to a Fund, means:
+
+(a) a transaction in respect of Fund Property entered into by a Fund Manager with a Related Party; or
+
+(b) in CIR Rule 13.9.5, an arrangement referred to in that Rule relating to an index or benchmark that is entered into by an ETF Fund Manager
+
+65
+
+GLO/VER62/07-25
+
+Defined Term
+
+Related Person
+
+Relevant Information
+
+Relevant Person
+
+Remuneration
+
+Reporting Entity
+
+Representative Office
+
+Responsible Officer
+
+Restricted Person
+
+Restricted Profit Sharing Investment Accounts
+
+Restricted Speculative Investment
+
+Retail Client
+
+Return
+
+Risk Officer
+
+Rule
+
+Rulebook
+
+GLOSSARY (GLO)
+
+Definition
+
+with a Related Party.
+
+(3)
+
+in COB, in relation to an Employee Money Purchase Scheme, means a transaction relating to property of the Scheme entered into by an Operator or Administrator with a person who is Related to the Operator or Administrator (as the case may be).
+
+Has the meaning given in PIB Rule 4.4.6.
+
+Has the meaning given to it in COB Rule 8.3.1(2)
+
+(1)
+
+In AML, has the meaning in AML Rule 1.1.2.
+
+(2)
+
+In AUD, has the meaning in AUD Rule 1.1.2.
+
+Any form of remuneration, including benefits of any kind.
+
+Has the meaning given in Article 38 of the Markets Law 2012.
+
+A Person carrying on in the DIFC the Financial Service of Operating a Representative Office for which it has authorisation under its Licence.
+
+The Licensed Function described in GEN Rule 7.4.9
+
+Has the meaning given to that term in MKT Rule 3.4.1(2).
+
+A PSIA in respect of which the investment account holder imposes certain restrictions as to where, how and for what purpose his funds are to be invested.
+
+Has the meaning given in COB Rule 6.16.2.
+
+A Client specified under COB Rule 2.3.2.
+
+Includes both Quarterly Regulatory Returns and Annual Regulatory Returns

@@ -1,0 +1,123 @@
+14.2 is available to an introducer who introduces a potential customer to a regulated firm. However, this exclusion does not apply if the introducer:
+
+a.
+
+is a member of the same Group as the custodian;
+
+b.
+
+is part of the same legal entity as the custodian (i.e. the custodian is the introducer’s head office or another branch of the same legal entity as the introducer); or
+
+c.
+
+receives remuneration for making the introduction from any Person – which can be a related party referred to in a. or b. above or any unrelated party.
+
+2.15 Effecting contracts of insurance
+
+2.15.1 (1)
+
+In Rule 2.2.2, Effecting Contracts of Insurance means effecting such contracts as principal.
+
+(2)
+
+An Insurer authorised to Effect Contracts of Insurance is taken under that authorisation to be authorised also to carry on an activity that:
+
+(a)
+
+is referred to in Rule 2.9.1(1), 2.11.1(1) or 2.19(1)(a) or (c); and
+
+29
+
+GEN/VER67/03-25
+
+GENERAL (GEN)
+
+(b)
+
+relates to a Contract of Insurance entered into, or to be entered into, as principal by the Insurer.
+
+Guidance
+
+A Contract of Insurance is defined in App 4 to include a contract of reinsurance.
+
+2.16 Carrying out contracts of insurance
+
+2.16.1 In Rule 2.2.2, Carrying Out Contracts of Insurance means carrying out such
+
+contracts as principal.
+
+Guidance
+
+A Contract of Insurance is defined in GEN App 4 to include a contract of reinsurance.
+
+2.17 Operating an exchange
+
+2.17.1 (1)
+
+In Rule 2.2.2, Operating an Exchange means operating a facility which functions regularly and brings together multiple third party buying and selling its non- discretionary rules, in a way that can result in a contract in respect of Investments admitted to trading or traded on the facility.
+
+interests
+
+in
+
+Investments,
+
+in accordance with
+
+(2)
+
+The facility referred to in (1) may be organised on a temporary or permanent basis and can be an order driven system, a quote driven system or a hybrid of such systems that enables the market to operate electronic trading or trading by other means.
+
+Guidance
+
+1.
+
+An Authorised Market Institution authorised to Operate an Exchange may carry on the Financial Service of operating a Multilateral Trading Facility, as defined in Rule 2.22.1(1)(a), provided it has an endorsement on its Licence that permits it to do so (see Rule 2.2.12).
+
+2.
+
+An Authorised Market Institution may also act as a Trade Repository if it has an endorsement on its Licence that permits it to do so (see Rule 2.2.13). Acting as a Trade Repository does not constitute a Financial Service but is subject to the additional conduct requirements in App 5.
+
+3.
+
+The Financial Service of Operating an Exchange only applies in relation to Investments. Therefore, an Authorised Market Institution wishing to operate a facility for the trading of Crypto Tokens will need to use a Multilateral Trading Facility and obtain an endorsement on its Licence that permits it to operate a Multilateral Trading Facility.
+
+2.18 Operating a clearing house
+
+2.18.1 (1)
+
+In Rule 2.2.2, operating a Clearing House means operating a facility where confirmation, clearance and settlement of transactions in Investments or Crypto Tokens are carried out in accordance with the
+
+30
+
+GEN/VER67/03-25
+
+GENERAL (GEN)
+
+non-discretionary rules of the facility, under which the Person operating the facility:
+
+(a)
+
+becomes a Central Counterparty (“CCP”); or
+
+(b)
+
+provides a book-entry Securities Settlement System (“SSS”),
+
+regardless of whether or not such a Person also operates a Central Securities Depository.
+
+(2)
+
+In (1), confirmation, clearance and settlement means the process of:
+
+(a)
+
+establishing settlement positions, including the calculation of net positions arising from any transactions in Investments or Crypto Tokens (the transactions);
+
+(b)
+
+checking that Investments, Crypto Tokens, cash or any combination of those assets, including margin, are available to secure the exposure arising from the transactions; and
+
+(c)
+
+securing the timely discharge (whether by

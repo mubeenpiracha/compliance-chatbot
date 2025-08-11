@@ -1,0 +1,39 @@
+) should be assessed to ensure that the generation and transmission of authentication data is secured against threat actors and only requisite data is transmitted.
+
+11.3.7 A financial institution should perform regular reviews on the suitability of the chosen authentication mechanism and associated factor(s). Measures should be in place to identify and rectify exceptions noted during the review in a timely manner. Where a pattern of exceptions or deviations are noted from reviews, the financial institution should investigate the root cause of the pattern and take appropriate steps to prevent recurrence.
+
+One-Time Password (OTP)
+
+11.3.8 OTPs comprising numbers or an alphanumeric set of characters have been delivered on a variety of channels including hardware and software tokens, short message service (SMS), or email.
+
+11.3.9 A financial institution that employs software within a mobile application to generate the OTP or utilises push notifications to send automated generated codes as OTPs should ensure that the OTP generators and authenticators are robust in security design and features to mitigate against hacking attempts from threat actors35.
+
+11.3.10 Where a third-party software OTP solution is used, a financial institution should conduct adequate due diligence on the solution prior to integration. Security characteristics of the solution(s) should be assessed to ensure that the generation and transmission of the OTP is secured against threat actors and only requisite data is transmitted.
+
+11.3.11 Where SMS is used as the channel to deliver OTPs, a financial institution should have a process in place at the point of onboarding to verify that the phone number registered to receive the SMS indeed belongs to the intended user requiring authentication and not to virtual phone numbers (e.g., VoIP36). The financial institution should also ensure that the change process to update registered phone numbers requires MFA to mitigate against SIM-swapping attacks37.
+
+Biometric Authentication
+
+11.3.12 Biometric authentication solutions may use biological, physiological, or behavioural aspects of an individual to facilitate identification. In developing such authentication
+
+35 For example, where the software token solution is on a mobile device, mobile application security measures such as detecting and blocking rooted or jailbroken devices should be implemented. 36 Voice over Internet Protocol (VoIP) enables users to make calls over an internet connection instead of traditional phone lines. Aside from the inherent threat of being hacked by threat actors due to the internet-based nature of the service, threat actors are also known to use VoIP numbers as part of SIM-hijacking attacks. 37 SIM-swapping attacks occur when a threat actor gains control of a phone number by assuming the victim’s identity and persuading their mobile service provider to port the number to a SIM card that is in their possession.
+
+71
+
+VER01.201124
+
+solutions, large datasets are required to train the authentication model to achieve high matching success rates prior to commercial deployment.
+
+11.3.13 In selecting a biometric authentication solution, a financial institution should perform adequate due diligence on key performance metrics38 and anti-spoofing measures39 to gain assurance that the solution would perform to expectation, including where appropriate an independent assessment by a suitably qualified professional. Where the solution is deployed to authenticate access to sensitive functions, systems or data, the financial institution should require more stringent key performance metrics. Upon deployment, the financial institution should monitor key metrics of the biometric authentication solution to evaluate performance and undertake remedial actions when the metrics fall below acceptable benchmarks.
+
+11.3.14 Regardless of the deployment model40 of the biometric authentication solution, a financial institution should ensure that robust security controls are in place measures to mitigate against compromise or unauthorised access of biometric data or templates by threat actors. Biometric data and templates should be encrypted in storage and in transmission and a process established for the revocation and replacement of compromised biometric data or templates.
+
+11.3.15 A financial institution should establish procedures that verify the user enrolling to the in-person enrolment, cross referencing biometric authentication solution (e.g., government-issued identity document, etc.). The enrolment process should be administrated by qualified personnel or staff who have been adequately trained to conduct enrolment correctly.
+
+11.3.16 A financial institution should adhere to any regulatory obligations applicable to the
+
+protection of biometric data and templates.
+
+Single Sign On (SSO)
+
+11.3.17 While SSO facilitates productivity and reduces friction in user experience, it can be a significant source of risk if not adequately secured against threat actors that exploit SSO to

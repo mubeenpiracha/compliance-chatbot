@@ -1,0 +1,31 @@
+ access to the issuing authority should be stringently controlled with MFA and anti-malware measures to mitigate against capture of the master password by threat actors. The financial institutions should ensure that systems connecting to the issuing authority are appropriately configured to support such access at the point of implementation.
+
+11.1.7 Any third parties, contract or part-time staff, and external systems connecting to corporate resources should adhere to the established credential management process and be subject to the same access restrictions and monitoring as employees of the financial institution.
+
+11.1.8 A financial institution should perform regular reviews of all credentials to verify that they are appropriately managed, with greater frequency of reviews for credentials that have access rights to privileged activities. Measures should be in place to identify and rectify exceptions noted during the review (e.g., dormant, redundant, or wrongfully provisioned credentials) in a timely manner. Where a pattern of exceptions or deviations are noted from reviews, the financial institution should investigate the root cause of the pattern and take appropriate steps to prevent recurrence.
+
+11.1.9 A financial institution that integrates access to its systems with third party credential management solutions (e.g., online credential provisioning services, etc.) or adopts identity management solutions to enable access to heterogenous federated architecture (e.g., SPIFFE and SPIRE)32, multiple web domains or multiple web services33, should conduct adequate due diligence on the solution prior to integration. Security characteristics of the solution(s) should be assessed to ensure that the generation and transmission of credentials is secured against threat actors and only requisite data is transmitted.
+
+31 Magic links are a type of password-less login that allow users to log into an account by clicking a link that’s emailed to them, rather than typing in their username and password. 32 SPIFFE, the Secure Production Identity Framework For Everyone (SPIFFE) Project defines a framework and set of standards for identifying and securing communications between application services. SPIRE (the SPIFFE Runtime Environment) is a toolchain of APIs for establishing trust between software systems across a wide variety of hosting platforms. 33 Examples of technologies that facilitate federated identity management across web services include Security Assertion Markup Language (SAML), Open Authorisation (OAuth), and OpenID.
+
+68
+
+VER01.201124
+
+11.1.10 A financial institution should ensure that credentials used for privileged activities (e.g., system administration, sensitive computer operations, etc.) have strict approval mechanisms and are granted to competent and trusted users. Such privileged credentials should not be used for activities that do not require privileged access.
+
+11.1.11 All activities performed should be logged with the associated credential tagged for audit and review. Such logs should be inaccessible by the credential generating it and should be reviewed by an appropriate party for any unauthorised or malicious activity on a regular and timely basis.
+
+Desired Outcome 11.2 – Authorisation
+
+11.2.1
+
+In order for credentials to access an asset, they require some form of authorisation by the asset. Such authorisation specifies what type of access rights the credential has and if the credential is able to access the asset at all. Such authorisations are typically defined as policies and multiple credentials can be assigned to such policies. This facilitates assigning access rights to large groups in a controlled and extensible manner.
+
+11.2.2 There are multiple models for authorisation. Access can be granted based on attributes, roles, entities, location, rules, etc. Access can be prescriptive via mandatory access where end users have no ability to change permissions, or discretionary where end users can manage permissions for resources within their authority. Access can also be time-delimited through session-based timeouts to limit persistent access that could be exploited by threat actors targeting idle credentials.
+
+11.2.3 As part of its identity and access management framework, a financial institution should define its authorisation model, the scope of users, processes, services, and systems that should adhere to the framework, and the administrative procedures for creating, modifying, enforcing, deprecating, and deleting policies.
+
+11.2.4 A financial
+
+institution should adopt solutions that align with the established authorisation model and authorisation policies should be defined based on the least amount of access necessary for the user, process, services, or system to perform its function i.e., ‘least-access principle’. Authorisation policies should also support segregation of duties across the financial institution’s functions. The ‘never alone principle’ should be applied to all access

@@ -1,0 +1,161 @@
+ submit
+
+Level 4
+
+s.233(4)
+
+Statement of Company’s affairs by Directors - failure to submit
+
+Level 4
+
+s.244(1)
+
+Fraud administration
+
+in anticipation of winding-up or
+
+insolvent
+
+Level 8
+
+s.245
+
+Transaction in fraud of creditors
+
+Level 7
+
+s.246
+
+Misconduct administration
+
+in course of winding-up or
+
+insolvent
+
+Level 8
+
+s.247
+
+Falsification of Company’s books
+
+Level 8
+
+s.248
+
+Material omission from statement relating to Company’s affairs
+
+Level 8
+
+s.249
+
+False representations to creditors
+
+Level 8
+
+s.255(3)
+
+Duty to co-operate with Office-holder - failure to co-operate Level 5
+
+s.294(4)
+
+Dissolution and early dissolution - failure to deliver copy of order to Registrar
+
+Level 1
+
+Schedule 1 (Meetings, Time Limits, Notices and Documents) Part 9 (Inspection of Documents, Copies and Provision of Information)
+
+Paragraph 43(3) Schedule 1
+
+of
+
+Falsely claiming to be a creditor, member of a Company or a contributory of a Company to gain sight of certain documents
+
+Level 7
+
+249
+
+SCHEDULE 10
+
+APPLICATION OF UNCITRAL MODEL LAW
+
+CHAPTER I General Provisions
+
+Article 1 Scope of application
+
+(1)
+
+This Law applies where—
+
+(a)
+
+assistance is sought in the Abu Dhabi Global Market by a foreign court or a foreign representative in connection with a foreign proceeding;
+
+(b)
+
+assistance is sought in a foreign State in connection with a proceeding under these Regulations;
+
+(c)
+
+a foreign proceeding and a proceeding under these Regulations in respect of the same debtor are taking place concurrently; or
+
+(d)
+
+creditors or other interested persons in a foreign State have an interest in requesting the commencement of, or participating in, a proceeding under these Regulations.
+
+(2)
+
+This Law does not apply to a proceeding concerning an entity which the Board designates as an entity which falls within this paragraph (2).
+
+Article 2 Definitions
+
+For the purposes of this Law—
+
+(a)
+
+“foreign proceeding” means a collective judicial or administrative proceeding in a foreign State, including an interim proceeding, pursuant to a law relating to insolvency in which proceeding the assets and affairs of the debtor are subject to control or supervision by a foreign court, for the purpose of reorganisation or liquidation;
+
+(b)
+
+“foreign main proceeding” means a foreign proceeding taking place in the State where the debtor has the centre of its main interests;
+
+(c)
+
+“foreign non-main proceeding” means a foreign proceeding, other than a foreign main proceeding, taking place in a State where the debtor has an establishment within the meaning of sub-paragraph (f) of this article;
+
+(d)
+
+“foreign representative” means a person or body, including one appointed on an interim basis, authorised in a foreign proceeding to administer the reorganisation or the liquidation of the debtor’s assets or affairs or to act as a representative of the foreign proceeding;
+
+(e)
+
+“foreign court” means a judicial or other authority competent to control or supervise a foreign proceeding;
+
+(f)
+
+“establishment” means any place of operations where the debtor carries out a non- transitory economic activity with human means and goods or services; and
+
+(g)
+
+“Abu Dhabi Global Market Insolvency Officeholder” means a liquidator or provisional liquidator within the meaning of these Regulations.
+
+250
+
+Article 3 International obligations of the Abu Dhabi Global Market
+
+To the extent that this Law conflicts with an obligation of the Abu Dhabi Global Market arising out of any treaty or other form of agreement to which it is a party with one or more other States, the requirements of the treaty or agreement prevail.
+
+Article 4 Competent court
+
+The functions referred to in this Law relating to recognition of foreign proceedings and cooperation with foreign courts shall be performed by the Court.
+
+Article 5 Authorisation of Office-holder to act in a foreign State
+
+An Office-holder is authorised to act in a foreign State on behalf of a proceeding under these Regulations, as permitted by the applicable foreign law.
+
+Article 6 Public policy exception
+
+Nothing in this Law prevents the Court from refusing to take an action governed by this Law if the action would be manifestly contrary to the public policy of the Abu Dhabi Global Market.
+
+Article 7 Additional assistance under other laws
+
+Nothing in this Law

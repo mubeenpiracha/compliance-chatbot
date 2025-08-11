@@ -1,0 +1,89 @@
+ another individual (the “joint account holder”) who has a joint account with an individual assessed as meeting the requirements in (1) (the “primary account holder”) if:
+
+(a)
+
+the joint account holder is a family member of the primary account holder;
+
+(b)
+
+the account is used for the purposes of managing investments for the primary account holder and the joint account holder; and
+
+(c)
+
+the joint account holder has confirmed in writing that investment decisions relating to the joint account are generally made for, or on behalf of, him by the primary account holder.
+
+(4)
+
+In (3), a ‘family member’ of the primary account holder is:
+
+(a) his spouse;
+
+(b) his children and step-children, his parents and step-parents, his brothers
+
+and sisters and his step-brothers and step-sisters; and
+
+(c)
+
+the spouse of any individual within (b).
+
+Guidance
+
+1.
+
+Under Rule 2.6.3, the net asset test referred to in Rule 2.3.7(1)(a) remains $500,000 until 1 April 2016.
+
+2.
+
+An individual can generally only be classified as a Professional Client if he meets the requirements in Rule 2.3.7(1) or (3). This is because all the other criteria relevant to Professional Clients in this chapter apply to Undertakings and not to individuals, with the possible exception of a trustee of a trust under Rule 2.3.4(j).
+
+3.
+
+An individual classified as a Professional Client may operate a joint account with more than one family member. Under the general principle of interpretation that the singular includes the plural, provided each such family member meets the requirements set out in Rule 2.3.7(3), they can all be classified as Professional Clients.
+
+4.
+
+A legal structure or vehicle of a Professional Client, which is itself classified as a Professional Client under Rule 2.3.7(2), does not have a right to opt-in as a Retail Client, as that right belongs to the Professional Client for whose purposes the vehicle is set up.
+
+5.
+
+A family member of a Professional Client classified as a Professional Client under Rule 2.3.7(3) also does not per se have a right to opt-in to be classified as a Retail Client with regard to the operation of the joint account. However, such an individual has the right to withdraw his confirmation given under Rule 2.3.7(3)(c) to have decisions on behalf of him made by the Professional Client who is the primary account holder of the joint account. An Authorised Firm must ensure that once such a withdrawal is made, the withdrawing individual is no longer
+
+12
+
+COB/VER48/03-25
+
+2.3.8
+
+CONDUCT OF BUSINESS (COB)
+
+classified as a Professional Client. The joint account arrangements would also need to be reviewed as the primary account holder would no longer have the power to make decisions on behalf of the withdrawing individual.
+
+6.
+
+In the case of a joint account operated by a primary account holder who is a parent or legal guardian of a minor, the procedures for obtaining the formal consent referred to in Rule 2.3.7(3)(c) would generally not be required, as such parent or guardian would have the authority to act for the minor where he is the joint account holder.
+
+Undertakings
+
+(1) For the purposes of Rule 2.3.3(1)(a)(iii), an Undertaking is an ‘assessed’
+
+Professional Client if the Undertaking:
+
+(a) has own funds or called up capital of at least $1 million; and
+
+(b) appears, on reasonable grounds, to have sufficient experience and understanding of relevant financial markets, products or transactions and any associated risks, following the analysis set out in Rule 2.4.3.
+
+(2) An Authorised Firm may also classify an Undertaking as a Professional Client if
+
+the Undertaking has:
+
+(a) a controller;
+
+(b) a Holding Company;
+
+(c)
+
+a Subsidiary; or
+
+(d) a joint venture partner,
+
+who meets the requirements to be classified as an ‘assessed’ Professional Client pursuant to either Rule 2.3.7(1)(a) and (b)(ii) or Rule 2.3.8(1) as applicable, or a ‘deemed’ Professional

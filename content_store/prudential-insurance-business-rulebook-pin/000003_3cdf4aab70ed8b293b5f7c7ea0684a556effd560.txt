@@ -1,0 +1,113 @@
+ extent
+
+that a provision specifies a narrower application.
+
+Guidance
+
+1.
+
+An Insurer is an Authorised Person which is authorised under its Financial Services Permission to carry on in or from ADGM, one or more of the Regulated Activities constituting Insurance Businesses.
+
+2.
+
+The Rules in PIN apply in relation to all activities of an Insurer.
+
+1.1.2 Chapters 2, 3, 4, 6, 7 and 9 do not apply to an Insurer that is an Authorised ISPV.
+
+1.1.3 Except where alterative provision is made in the Captive Insurance Business Rules ("CIB"), or the context otherwise requires, these Insurance Prudential Rules apply to an ADGM Captive Insurer.
+
+1
+
+PIN VER07.290725
+
+2
+
+MANAGEMENT AND CONTROL OF RISK
+
+2.1
+
+Introduction
+
+2.1.1 This Chapter applies to every Insurer.
+
+Guidance
+
+1.
+
+This Chapter expands on the relevant provisions in the context of an Insurer. All Authorised Persons are subject to the systems and controls provisions of GEN Chapter 3.
+
+2.
+
+APP2 contains guidance for Insurers in respect of specific areas of risk management that are of particular relevance to Insurers.
+
+2.2
+
+Risk management
+
+2.2.1 An Insurer's risk management systems must:
+
+(a)
+
+be appropriate to the size, mix of business and complexity of the Insurer's operations;
+
+(b)
+
+be based on an enterprise-wide risk management approach, which integrates risk management with the conduct of its business and operations;
+
+(c)
+
+address all material risks, both existing and potential risks, financial and non-financial, to which the Insurer is exposed or likely to be exposed;
+
+(d)
+
+describe the relationships between the Insurer's risk tolerance limits, its capital requirements, economic capital and the processes and methods for assuming, pricing, and monitoring risk; and
+
+(e)
+
+be supported by adequate risk management policies and procedures which explain the risks covered, the measurement approaches used, and the key assumptions made.
+
+2.2.2 The risk management systems maintained by an Insurer must include:
+
+(a)
+
+a clearly defined risk appetite statement which outlines the risk tolerance of the Authorised Person and is approved by its board;
+
+(b)
+
+a written risk management strategy approved by senior management, which in the opinion of senior management addresses all material risks to which the Insurer is likely to be exposed;
+
+(c)
+
+risk management policies and procedures that in the opinion of senior management are adequate to identify, assess, mitigate, control, monitor and report on the material risks to which the Insurer is exposed;
+
+2
+
+PIN VER07.290725
+
+(d)
+
+clearly defined risk limits, norms, pricing parameters which are consistent with the board approved risk appetite; and
+
+(e)
+
+clearly identified managerial responsibilities and controls, designed to ensure that the policies and procedures established for risk management are adhered to at all times.
+
+2.2.3 Subject to Rule 2.2.4, where an Insurer is a member of a Group, the Insurer must take reasonable actions to ensure that the Group as a whole complies with the requirements of Rule 2.1.1 and 2.2.2 as though the Group as a whole were an Insurer.
+
+2.2.4 Rule 2.2.3 does not apply in respect of a Group where the Insurer is not the Holding
+
+Company and where the Holding Company of the Group is another Insurer.
+
+Guidance
+
+1.
+
+The effect of Rule 2.2.4 is to avoid unnecessary duplication arising from complex Group structures. If an Insurer is a member of a Group whose Holding Company is another Insurer, the first Insurer need not apply Rule 2.2.3 in respect of that Group, because the Insurer that is the Holding Company is already required to apply that Rule.
+
+2.
+
+An Insurer should describe how its risk limits, norms, and pricing policies described in Rule 2.2.1(d) link with its board approved risk appetite described in Rule 2.2.1(a), corporate objectives, business strategy and current circumstances. An Insurer is expected to incorporate its risk limits into its day-to-day operations and its risk management policies and procedures.
+
+2.3 Management of particular risks
+
+2.3.1 An Insurer must develop, implement and maintain a risk management system to identify

@@ -1,0 +1,137 @@
+ the Authorised Market Institution relating to risks and management of such risks is the Key Individual performing the function of the Risk Officer pursuant to Rule 5.3.7; Key Individuals.
+
+3.
+
+In assessing the adequacy of an Authorised Market Institution’s systems and controls for identifying, assessing and managing risks, the DFSA may also have regard to the extent to which such systems and controls enable the Authorised Market Institution to:
+
+a.
+
+identify all the general, operational, legal and market risks wherever they arise in its activities;
+
+21
+
+AMI/VER28/03-25
+
+5.5.3
+
+AUTHORISED MARKET INSTITUTIONS (AMI)
+
+b.
+
+measure and control the different types of risk;
+
+c.
+
+allocate responsibility for risk management to persons with appropriate levels of knowledge and expertise; and
+
+d.
+
+provide sufficient and reliable information to Key Individuals and, where relevant, the Governing Body of the Authorised Market Institution.
+
+4.
+
+As part of assessing the adequacy of risk controls, the DFSA will also consider how internal and external audits operate in the context of systems and controls. In doing so the following factors may be considered:
+
+a.
+
+the size, composition and terms of reference of any audit committee of the Authorised Market Institution;
+
+b.
+
+the frequency and scope of external audit;
+
+c.
+
+the provision and scope of internal audit;
+
+d.
+
+the staffing and resources of the Authorised Market Institution’s internal audit department;
+
+e.
+
+the internal audit department’s access to the Authorised Market Institution’s records and other relevant information; and
+
+f.
+
+the position, responsibilities and reporting lines of the internal audit department and its relationship with other departments of the Authorised Market Institution.
+
+5.
+
+In addition, the DFSA will also consider the adequacy of the risk management function, in particular:
+
+a.
+
+the access which the individuals performing risk management function have to the Authorised Market Institution’s records and other relevant information; and
+
+b.
+
+the position, responsibilities and reporting lines of the risk management department and its relationship with other departments of the Authorised Market Institution.
+
+Outsourcing
+
+(1) Without limiting the generality of the requirements in GEN Rules 5.3.21 and 5.3.22, an Authorised Market Institution must, before entering into any material outsourcing arrangements with a service provider, obtain the DFSA’s prior approval to do so.
+
+(2)
+
+For avoidance of doubt, the requirement in (1) applies to any outsourcing arrangements which were not in existence at the time the Authorised Market Institution was granted its Licence.
+
+(3)
+
+In order to obtain the DFSA’s prior approval for outsourcing arrangements referred to in (1), an Authorised Market Institution must follow those procedures for obtaining the DFSA’s prior approval for material changes specified in Rule 4.3.1(1).
+
+(4)
+
+The procedures in Schedule 3 to the Regulatory Law apply to a decision of the DFSA under this Rule to refuse to approve an outsourcing arrangement.
+
+22
+
+AMI/VER28/03-25
+
+5.5.4
+
+AUTHORISED MARKET INSTITUTIONS (AMI)
+
+(5)
+
+If the DFSA decides to exercise its power under this Rule to refuse to approve an outsourcing arrangement, the Authorised Market Institution may refer the matter to the FMT for review.
+
+Guidance
+
+1.
+
+The requirements in GEN Rules 5.3.22 and 5.3.23 set out the requirements applicable when an Authorised Market Institution outsources its functions and activities.
+
+2.
+
+In assessing the adequacy of an Authorised Market Institution’s systems and controls for identifying, assessing, and managing risks arising from functions which are outsourced, the DFSA will have regard to:
+
+a.
+
+due diligence procedures for selecting service providers and monitoring the performance of the relevant functions by them;
+
+b.
+
+whether the Authorised Market Institution has in place legally binding contracts with its service providers;
+
+c.
+
+the business continuity and disaster recovery arrangements of the Authorised Market Institution’s service provider;
+
+d.
+
+whether the security and confidentiality of information provided to the service provider of the Authorised Market Institution is guaranteed in accordance with the applicable legislation;
+
+e.
+
+the concentration of outsourcing functions with one or more service providers;
+
+f.
+
+the agreed procedures for terminating the outsourcing arrangements; and
+
+g.
+
+whether the access to books and records of the service providers is granted to the Authorised Market Institution and the DFSA, including rights of inspection.
+
+3

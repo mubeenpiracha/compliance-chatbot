@@ -1,0 +1,127 @@
+ financial services or otherwise.
+
+Fraud and errors
+
+Each Authorised Person and Recognised Body must notify the Regulator immediately if
+
+one of the following events arises in relation to its activities in or from ADGM:
+
+(a)
+
+it becomes aware that an Employee may have committed a fraud against one of its Customers;
+
+(b)
+
+a serious fraud has been committed against it;
+
+(c)
+
+it has reason to believe that a Person is acting with intent to commit a serious fraud against it;
+
+(d)
+
+it identifies significant irregularities in its accounting or other records, whether or not there is evidence of fraud; or
+
+(e)
+
+it suspects that one of its Employees who is Connected with the Authorised Person or Recognised Body's Regulated Activities may be guilty of serious misconduct concerning his honesty or integrity.
+
+Other Regulators
+
+Each Authorised Person and Recognised Body must advise the Regulator immediately of:
+
+(a)
+
+the granting or refusal of any application for or revocation of authorisation to carry on financial services in any jurisdiction outside ADGM;
+
+(b)
+
+the granting, withdrawal or refusal of an application for, or revocation of, membership of the Authorised Person or Recognised Body of any regulated exchange or clearing house;
+
+(c)
+
+the Authorised Person or Recognised Body becoming aware that a Non-ADGM Financial Services Regulator has started an investigation into the affairs of the Authorised Person or Recognised Body;
+
+(d)
+
+the appointment of inspectors, howsoever named, by a Non-ADGM Financial Services Regulator to investigate the affairs of the Authorised Person or Recognised Body; or
+
+93
+
+GEN VER11.290725
+
+(e)
+
+the imposition of disciplinary measures or disciplinary sanctions on the Authorised Person or Recognised Body in relation to its financial services by any regulator or any regulated exchange or clearing house.
+
+Guidance
+
+The notification requirement in Rule 8.10.8(c) extends to investigations relating to any Employee or agent of an Authorised Person, Recognised Body or a member of its Group, provided the conduct investigated relates to or impacts on the affairs of the Authorised Person or Recognised Body.
+
+Action against an Authorised Person
+
+Each Authorised Person must notify the Regulator immediately if:
+
+(1)
+
+civil proceedings are brought against the Authorised Person and the amount of the claim is significant in relation to the Authorised Person’s financial resources or its reputation; or
+
+(2)
+
+the Authorised Person is prosecuted for, or convicted of, any offence involving fraud or dishonesty, or any penalties are imposed on it for tax evasion.
+
+Winding-Up, bankruptcy and insolvency
+
+Each Authorised Person must notify the Regulator immediately on:
+
+(1)
+
+the calling of a meeting to consider a resolution for Winding-Up the Authorised Person;
+
+(2)
+
+an application to dissolve the Authorised Person or to strike it from the register maintained by the Registration Bureau, or a comparable register in another jurisdiction;
+
+(3)
+
+the presentation of a petition for the Winding-Up of the Authorised Person;
+
+(4)
+
+the making of, or any proposals for the making of, a composition or arrangement with creditors of the Authorised Person; or
+
+(5)
+
+the application of any person against the Authorised Person for the commencement of any insolvency proceedings, appointment of any receiver, administrator or provisional liquidator under the law of any country, territory or jurisdiction outside ADGM.
+
+Accuracy of information
+
+Each Authorised Person and Recognised Body must take reasonable steps to ensure that all information that it provides to the Regulator in accordance with any Regulations and Rules is:
+
+(1)
+
+factually accurate or, in the case of estimates and judgements, fairly and properly based; and
+
+94
+
+GEN VER11.290725
+
+(2)
+
+complete, in that it should include anything of which the Regulator would reasonably expect to be notified.
+
+8.10.12 (1)
+
+Each Authorised Person and Recognised Body must notify the Regulator immediately when it becomes aware, or has information that reasonably suggests, that it:
+
+(a)
+
+has or may have provided the Regulator with information which was or may have been false, misleading, incomplete or inaccurate; or
+
+(b)
+
+has or may have changed in a material particular.
+
+(2)
+
+Subject to (3), the notification in (1) must include details of the information which is or may be false or misleading, incomplete or inaccurate, or has or may have changed and an explanation why such information was or may have

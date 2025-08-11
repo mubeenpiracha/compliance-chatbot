@@ -1,0 +1,45 @@
+ (e.g., encrypted, hashed, etc.).
+
+15.2.6 A financial institution that participates in a DIS that facilitates the transfer of digital assets should employ tools that trace transactions and gather associated transaction information (e.g., originator, receiver, sanctions, etc.) for review against requisite anti- money laundering and targeted financial sanctions, laws, regulations, guidance, and notices. The financial institution should have processes in place to address any findings in accordance with the requirements.
+
+15.2.7 Where a financial institution operates a component to contribute to a DIS that is not core to its business operations and services to customers, the financial institution
+
+52 Oracles are components in a blockchain network that facilitate the provision of off-chain data into the blockchain network enabling smart contracts to execute transactions based on the provided data e.g., real-time forex data, etc. 53 Cross-chain interoperability refers to integrations or protocols that facilitate the communication of data between separate blockchains that may have disparate data formats and requirements.
+
+85
+
+VER01.201124
+
+should ensure that the resources required to operate the component (e.g., storage, memory, operating system, cryptographic keys, etc.) are separate from resources required to operate its IT environment that supports its business operations and services to customers. The financial institution should ensure that the operated component is configured to the requisite security configuration and any technical updates are applied in a timely manner.
+
+15.2.8 Where a financial institution is expected to exercise its obligation to elect on changes on the DIS, relevant competent personnel from the financial institution should be involved in making a decision. The financial institution may establish an internal function or forum to coordinate such decision making with the appropriate level of management approval.
+
+15.2.9 A financial institution should monitor the DIS to ensure that when participation is no longer tenable for technical (e.g., known compromises to the protocol, compromises to oracle source data, performance degradation, etc.), legal, or regulatory, (e.g., abusive material published on immutable blockchain platform, etc.) reasons, steps are taken to extract or liquidate any remaining assets from the DIS in a safe and timely manner. All IT resources used to support the financial institution’s activities on the DIS should be securely disconnected from the DIS network.
+
+15.2.10 As DIS operate on the premise that there is no SPOF, a financial institution should ensure that its business continuity policies and procedures pertaining to its IT resources participating in the DIS are established with the recognition that failure of individual components in the DIS may not result in complete loss of data or effect a disruption to the entire DIS network.
+
+15.2.11 A financial institution should incorporate the monitoring of its participation (e.g., components operated by the financial institution, etc.) in the DIS into its cyber event monitoring solutions or services.
+
+Programmable Contract Security
+
+15.2.12 A financial
+
+institution that publishes programmable contracts for transaction automation on a DIS should ensure that secure system development practices are adhered to, and robust testing is performed prior to publication.
+
+15.2.13 Prior to transacting with programmable contracts created by third parties, a financial institution should perform adequate due diligence to assess code integrity, code intended transacting outcome(s) of the security, and code alignment to the programmable contract, including any other programmable contract(s) called upon to execute a transaction. A financial institution should re-perform such due diligence following updates to the programmable contract.
+
+Digital Wallet Security
+
+15.2.14 Where a financial institution administers its own digital wallets (e.g., hot, cold, warm, etc.) for custody of digital assets, the financial institution should ensure that the
+
+86
+
+VER01.201124
+
+generation, access, use, revocation, recovery, and destruction of its keys and wallets adhere to established policies and procedures. The keys associated with each wallet should be securely managed in accordance with the financial institutions policies and procedures for key lifecycle management.
+
+15.2.15 Financial institutions should ensure that seed phrases54 are stored securely with
+
+adequate backup copies of the seed phrases in secure locations.
+
+15.2.16 Where a financial institution engages a third party for digital wallet services, adequate due diligence on the third party should be performed prior to engagement, and ongoing oversight over the performance of the service should be maintained by the financial institution. The financial institution should have clarity on its responsibilities in managing the digital assets and the extent of control it holds with regard to

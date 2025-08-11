@@ -1,0 +1,111 @@
+8.12 of this module governs the power of a Fund Manager to delegate certain of its Financial Service activities, and to outsource its functions.
+
+2.
+
+Where a Fund invests in infrastructure projects (for example, the development of public facilities such as roads, railways or bridges), the interest acquired by the Fund may not necessarily be suited to the conventional forms of holding custody of Real Property. Where this is the case, a Fund Manager may use adequate alternative custody arrangements that meet the requirements in CIR 8.2.2(3)(c)(2)(ii).
+
+Trustee
+
+8.2.3
+
+In the case of an Investment Trust:
+
+(a)
+
+the Trustee of the Fund must hold the Fund Property in trust for the Unitholders and accordingly is responsible to the Unitholders for the safekeeping of the Fund Property;
+
+(b)
+
+the legal title of the Fund Property must be registered with the Trustee except in the case of a Property Fund investing in Real Property where the Trustee has made adequate alternative arrangements that are in accordance with Rule 13.4.2B; and
+
+(c)
+
+the Trustee must not act on instructions of the Fund Manager in relation to the Fund Property if such instructions are not in accordance with the agreement creating the Investment Trust, the Fund’s Constitution, or the Prospectus.
+
+Guidance
+
+Section 8.12 of this module governs the power of a Trustee to delegate certain of its Financial Service activities, and to outsource its functions.
+
+Eligible Custodian
+
+8.2.4 For the purposes of the Rules in this module, except as provided in Rule 8.2.5 and 8.2.6, an Eligible Custodian is a Person who is a separate legal entity from the Fund Manager and who also meets one of the following criteria:
+
+(a)
+
+an Authorised Firm whose Licence authorises it to Provide Custody Services;
+
+(b)
+
+an Authorised Firm that is a Bank;
+
+(c)
+
+an Authorised Market Institution;
+
+(d)
+
+a legal entity that is authorised to provide custody services, and is supervised, by a Financial Services Regulator in the State;
+
+(e)
+
+a legal entity that is authorised to provide custody services, and is supervised, by a Financial Services Regulator in a Recognised Jurisdiction;
+
+39
+
+CIR/VER38/08-24
+
+COLLECTIVE INVESTMENT RULES (CIR)
+
+(f)
+
+a legal entity where it, or its holding company, is authorised to provide custody services and is supervised by a Financial Services Regulator in another jurisdiction which is a Zone 1 country;
+
+(g)
+
+a legal entity that is authorised or recognised by a Financial Services Regulator to operate as an exchange or a clearing house in a Recognised Jurisdiction; or
+
+(h)
+
+a legal entity that:
+
+(i)
+
+has at least 50% of its Shares owned by, or is a wholly owned Subsidiary of another legal entity that has least 50% of its Shares owned by one of the national governments of the five member states of the Gulf Cooperation Council, other than the State; and
+
+(ii)
+
+is authorised to provide custody services, and supervised, by a Financial Services Regulator of at least one of the national governments specified in (i).
+
+8.2.5 For a Public Fund (other than a Property Fund) that is a Passported Fund, the Eligible Custodian must be a Person who meets the requirements in FPR Rule 6.5.3.
+
+8.2.6
+
+(1)
+
+For a Fund that invests in Crypto Tokens, an Eligible Custodian of the Fund’s Crypto Tokens is a Person who is a separate legal entity from the Fund Manager and is either:
+
+(a) an Authorised Firm whose Licence authorises it to Provide Custody of
+
+Crypto Tokens; or
+
+(b) a Person whom the Fund Manager has reasonably determined to have adequate custody and asset safety arrangements after performing proper due diligence on that Person.
+
+(2)
+
+The due diligence and determination under (1)(b) must take into account the following factors:
+
+(a) whether the Person is authorised by a Financial Services Regulator to
+
+provide custody of Crypto Tokens;
+
+(b) whether the Person’s systems and controls ensure proper safeguarding
+
+and segregation of Crypto Tokens;
+
+(c)
+
+the adequacy of the Person’s policies and procedures on storage of Clients’ private keys to protect against hacking, theft or fraud;
+
+(d)
+
+the robust

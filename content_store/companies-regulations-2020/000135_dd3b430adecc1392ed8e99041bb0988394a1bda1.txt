@@ -1,0 +1,143 @@
+)
+
+(5)
+
+The information required is–
+
+(a)
+
+the nature and business purpose of the arrangements, and
+
+(b)
+
+the financial impact of the arrangements on the company.
+
+The information need only be given to the extent necessary for enabling the financial position of the company to be assessed.
+
+If the company qualifies as medium-sized in relation to the financial year (see sections 438 (companies qualifying as medium-sized: general) to 440 (companies excluded from being it need not comply with subsection (2)(b).
+
+treated as medium-sized))
+
+This section applies in relation to group accounts as if the undertakings included in the consolidation were a single company.
+
+Information about employee numbers and costs
+
+In the case of a company not subject to the small companies regime, the following information with respect to the employees of the company must be given in notes to the company’s annual accounts–
+
+(a)
+
+the average number of persons employed by the company in the financial year, and
+
+(b)
+
+the average number of persons so employed within each category of persons employed by the company.
+
+The categories by reference to which the number required to be disclosed by subsection (1)(b) is to be determined must be such as the directors may select having regard to the manner in which the company’s activities are organised.
+
+The average number required by subsection (1)(a) or (b) is determined by dividing the relevant annual number by the number of months in the financial year.
+
+The relevant annual number is determined by ascertaining for each month in the financial year–
+
+(a)
+
+for the purposes of subsection (1)(a), the number of persons employed under contracts of service by the company in that month (whether throughout the month or not),
+
+(b)
+
+for the purposes of subsection (1)(b), the number of persons in the category in question of persons so employed,
+
+(c)
+
+and adding together all the monthly numbers.
+
+In respect of all persons employed by the company during the financial year who are taken into account in determining the relevant annual number for the purposes of subsection (1)(a) there must also be stated the aggregate amounts respectively of–
+
+(a)
+
+wages and salaries paid or payable in respect of that year to those persons,
+
+(b)
+
+social security costs incurred by the company on their behalf, and
+
+(c)
+
+other pension costs so incurred.
+
+This does not apply in so far as those amounts, or any of them, are stated elsewhere in the company’s accounts.
+
+240
+
+(6)
+
+(7)
+
+397.
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+In subsection (5)–
+
+“pension costs” includes any costs incurred by the company in respect of–
+
+(a)
+
+any pension scheme established for the purpose of providing pensions for persons currently or formerly employed by the company,
+
+(b)
+
+any sums set aside for the future payment of pensions or sums due in respect of employees’ end-of service gratuity entitlements directly by the company to current or former employees, and
+
+(c)
+
+any pensions or end-of service gratuity payments paid directly to such persons without having first been set aside,
+
+“social security costs” means any contributions by the company to any state social security or pension scheme, fund or arrangement.
+
+This section applies in relation to group accounts as if the undertakings included in the consolidation were a single company.
+
+Information about directors’ benefits: remuneration
+
+The Board may make rules requiring information to be given in notes to a company’s annual accounts about directors’ remuneration.
+
+The matters about which information may be required include–
+
+(a)
+
+gains made by directors on the exercise of share options,
+
+(b)
+
+benefits received or receivable by directors under long-term incentive schemes,
+
+(c)
+
+payments for loss of office (as defined in section 203 (payments for loss of office)) and entitlements to end-of-service gratuity payments,
+
+(d)
+
+benefits receivable, and contributions for the purpose of providing benefits, in respect of past services of a person as director or in any other capacity while director,
+
+(e)
+
+consideration paid to or receivable by third parties for making available the services of a person as director or in any other capacity while director.
+
+For the purposes of this section, and rules made under it, amounts paid to or receivable by–
+
+(a)
+
+a person connected with a director, or
+
+(b)
+
+a body corporate controlled by a director,
+
+are treated as paid to or receivable by the director.
+
+The expressions “connected with” and “controlled by

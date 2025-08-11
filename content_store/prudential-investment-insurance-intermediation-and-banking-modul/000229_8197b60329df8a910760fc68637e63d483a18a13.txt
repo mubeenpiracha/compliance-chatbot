@@ -1,0 +1,101 @@
+.7.4 Without prejudice to other provisions in this section, a position in a Fund is subject to a Collective Investment Fund risk capital charge (General Market Risk and Specific Risk) of 32%, subject to Rules A5.7.5 and A5.7.6.
+
+Look through methods
+
+A5.7.5 An Authorised Firm may determine the Collective Investment Fund Risk Capital Requirement for positions in Funds, using the standard Collective Investment Fund look-through method, provided the relevant positions meet the criteria set out in Rule A5.7.6.
+
+A5.7.6 An Authorised Firm may use the standard Fund look-through method, only if the
+
+positions are in Funds which meet the following eligibility criteria:
+
+(a)
+
+the Fund’s prospectus or equivalent document must include:
+
+(i)
+
+the categories of assets the Fund is authorised to invest in;
+
+(ii)
+
+if investment limits apply, the relative limits and the methodologies to calculate them;
+
+(iii)
+
+if leverage is allowed, the maximum level of leverage; and
+
+(iv)
+
+if investment in OTC financial derivatives or repo-style transactions are allowed, a policy to limit Counterparty Risk arising from these transactions;
+
+(b)
+
+the Fund must publish half-yearly accounts and annual reports to enable an assessment to be made of the assets and liabilities, income and operations over the reporting period;
+
+(c)
+
+the Units of the Fund are redeemable in cash, out of the Fund's assets, on a daily basis at the request of the Unitholder;
+
+(d)
+
+investments in the Fund must be segregated from the assets of the Fund Manager; and
+
+(e)
+
+there must be adequate risk assessment, by the investing firm, of the Fund.
+
+A5.7.7
+
+[Not currently in use]
+
+Standard collective investment fund look through method: General
+
+A5.7.8
+
+In the case of an Authorised Firm being aware of the underlying assets or investments of the Fund on a daily basis, the Authorised Firm may look through to those underlying investments in order to calculate the Market Risk Capital Requirement (General Market Risk and Specific Risk) for those positions in accordance with the methods set out in the relevant section of chapter 5 for calculating the relevant Market Risk Capital Requirement.
+
+A5.7.9
+
+In this method, positions in Funds must be treated as positions in the underlying investments of the Fund. Netting is permitted between positions in the underlying investments of the Fund and other positions held by the Authorised Firm, as long as
+
+350
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+the Authorised Firm holds a sufficient quantity of Units redemption/creation in exchange for the underlying investments.
+
+to allow
+
+for
+
+Standard collective investment fund look through method: Index or Basket Funds
+
+A5.7.10 (1)
+
+An Authorised Firm may calculate the risk Capital Requirements for positions in Funds in accordance with the methods set out in various sections of chapter 5 applicable to various underlying assets or investments, on assumed positions representing those necessary to replicate the composition and performance of the externally generated index or fixed basket of equities or debt securities, subject to the following conditions:
+
+(a)
+
+the Fund’s mandate is to replicate the composition and performance of an externally generated index or fixed basket of equities or debt securities; and
+
+(b) a minimum correlation of 0.9 between daily price movements of the Fund and the index or basket of equities or debt securities it tracks, exists over the previous six month period.
+
+(2)
+
+Correlation as referred to in (1)(b) means the correlation coefficient between daily returns on the Fund and that on the index or basket of equities or debt securities it tracks.
+
+A5.8 Securities Underwriting Risk Capital Requirement
+
+Guidance
+
+Section A5.8 presents the method for calculating a net Underwriting position or reduced net Underwriting position, which is then included in the calculation of Market Risk Capital Requirements as specified in this chapter. Section A5.8 also deals with Concentration Risk.
+
+A5.8.1 (1)
+
+An Authorised Firm which calculates its Securities Underwriting Risk Capital Requirement in accordance with Rule 5.10.7(b) must apply the Rules in this section.
+
+(2)
+
+An Authorised Firm which underwrites or sub-underwrites an issue of Securities must, for the purposes of calculating its Market Risk Capital Requirement

@@ -1,0 +1,91 @@
+ do so.
+
+6.4.4
+
+The Regulator will not usually consider a complaint which has not, in the first instance, been made to the Recognised Body concerned, unless there is good reason for believing that it is a relevant complaint which merits early consideration by the Regulator.
+
+6.4.5
+
+When it is considering a relevant complaint, the Regulator will make its own enquiries as appropriate with the Recognised Body, the complainant and other Persons. It will usually ask the Recognised Body and the complainant to comment upon any preliminary or draft conclusions of its review and to confirm any matters of fact at that stage.
+
+6.4.6
+
+The Regulator will communicate the outcome of its review of a relevant complaint to the complainant and the Recognised Body, but will normally only discuss any action which it considers the Recognised Body should take with the Recognised Body itself.
+
+6.5
+
+Regulator supervision of action by Recognised Bodies under their Default Rules
+
+6.5.1
+
+[Deleted]
+
+6.5.2
+
+[Deleted]
+
+Guidance
+
+1.
+
+Recognised Bodies which, under their rules, have Market Contracts are required to have Default Rules enabling them (among other things) to take action in relation to a Member that appears to be unable to meet its obligations in respect of one or more unsettled Market Contracts. The detailed Recognition Requirements relating to the Default Rules are set out in Rule 3.10 and Rule 4.5.
+
+2.
+
+The Default Rules are designed to ensure that rights and liabilities between the defaulter and any counterparty to an unsettled Market Contract are discharged, and for there to be paid between the defaulter and each counterparty one net sum. The Insolvency Regulations contain provisions which protect action taken under Default Rules from the normal operation of insolvency law which might otherwise leave this action open to challenge by a Relevant Office Holder.
+
+97
+
+MIR VER10.290725
+
+6.5.3
+
+The Regulator may direct a Recognised Body to take, or not to take, action under its Default Rules (see Rules 6.5.4 and 6.5.6). Before exercising these powers the Regulator must consult the Recognised Body. The Regulator may also exercise these powers if a Relevant Office Holder applies to it.
+
+6.5.4
+
+The Regulator may issue a "positive" direction (to take action) where in any case a Recognised Body has not taken action under its Default Rules, but it appears to the Regulator that the Recognised Body could take action.
+
+6.5.5
+
+Before giving such a direction under Rule 6.5.4, the Regulator shall consult the Recognised Body in question, and the Regulator shall not give a direction unless the Regulator is satisfied, in the light of that consultation that:
+
+(a)
+
+failure to take action would involve undue risk to investors or other participants in the market;
+
+(b)
+
+the direction is necessary having regard to the public interest in the financial stability of ADGM; or
+
+(c)
+
+the direction is necessary to facilitate a proposed or possible use of a power under chapter 16 of COBS or in connection with a particular exercise of a power under that chapter, or Rule 6.5.7(c).
+
+6.5.6
+
+The Regulator may issue a "negative" direction (not to take action) where in any case a Recognised Body has not taken action under its Default Rules, but it appears to the Regulator that the Recognised Body is proposing to take or may take action.
+
+6.5.7
+
+Before giving a direction under Rule 6.5.6, the Regulator shall consult the Recognised Body in question, and the Regulator shall not give a direction unless the Regulator is satisfied, in the light of that consultation that:
+
+(a)
+
+the taking of action would be premature or otherwise undesirable in the interests of investors or other participants in the market;
+
+(b)
+
+the direction is necessary having regard to the public interest in the financial stability of ADGM; or
+
+(c)
+
+the direction is necessary to facilitate a proposed or possible use of a power under chapter 16 of COBS or in connection with a particular exercise of a power under that Part.
+
+6.5.8
+
+A negative direction cannot be given if, in relation to the defaulter, either:
+
+(a)
+
+a bankruptcy order or an

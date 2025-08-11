@@ -1,0 +1,49 @@
+ electronic means to the Fund Manager or to a pricing agent as quickly as possible. It is desirable that all deals to which the Fund is committed, which
+
+108
+
+FUNDS VER10.100625
+
+have been notified, at most, one hour before a valuation, are included in that valuation, at estimated prices if necessary. Unless, however, there is likely to be significant movement in a price of a Unit, it is more important that an accurate cut-off procedure is in place to ensure that omissions or duplications do not take place, than it is to ensure that estimates are included in a valuation.
+
+14. Where prices are obtained otherwise than from the main pricing source (e.g. unquoted, suspended, or illiquid stocks), the Fund Manager should maintain a record of the source and basis for the value placed on the investment. These should be regularly reviewed. A system should be in place to ensure that investment and borrowing powers which are contained in the Rules, where applicable and in the Fund's Constitution and Prospectus are not breached, and that if breaches occur they are identified and rectified.
+
+14. Where prices are obtained otherwise than from the main pricing source (e.g. unquoted, suspended, or illiquid stocks), the Fund Manager should maintain a record of the source and basis for the value placed on the investment. These should be regularly reviewed. 15.
+
+16.
+
+A system should be in place to ensure that dividends are accounted for as soon as stocks are quoted ex-dividend, unless, as with some foreign stocks, it is prudent to account for them only on receipt. Fixed interest dividends and interest should be accrued at each point unless the level of materiality makes a longer interval appropriate. Similar considerations apply to the expenses of the Fund.
+
+17.
+
+The Fund Manager should ensure periodically that any charge which is levied on a Unitholder for dilution has been calculated in accordance with the methodology which has been disclosed in the Constitution or Prospectus.
+
+18.
+
+The Fund Manager should set a percentage or absolute limit for certain key elements of the valuation, such that any movement outside these limits is investigated. The process for the investigation and a report of its outcome should be in writing and evidenced by an appropriate signature. These key elements could, where relevant, include the movement of the overall price of the Fund against relevant markets, the movement of the prices and values of individual stocks, changes in currency rates, and accrual figures for income, expenses, and tax. In addition, prices which appear not to have changed after a fixed period of time should be investigated, since this may be the result of a price movement having been missed.
+
+19.
+
+Cash should be reconciled to the bank account regularly, with outstanding items promptly followed up, and a full reconciliation sent to the trustee or depositary monthly.
+
+20.
+
+Controls should be in place to ensure that the correct number of Units in issue is recorded at each valuation point. This should be reconciled with the Unitholder register at least monthly.
+
+A copy of the valuation should be sent to the Fund Manager or the Fund's investment manager, if applicable, at least weekly. He should specifically check that the correct securities are recorded.
+
+Pricing and valuation checks by oversight arrangement
+
+22.
+
+The Persons providing oversight functions have a duty under the Rules to ensure that the Fund Manager's pricing methodology and operation is properly
+
+109
+
+FUNDS VER10.100625
+
+controlled. Its main emphasis should be to ensure that the Fund Manager keeps its controls and systems for pricing under review and to obtain evidence from the Fund Manager's systems that Unit prices are calculated correctly. This would also apply where the Fund Manager has outsourced some or all of its pricing functions to a Service Provider. The following paragraphs set out the minimum checks which the Regulator expects any Person providing the oversight function to carry out in order to be satisfied with the Fund Manager's pricing methodology and operation, and to ensure that the likelihood of incorrect prices will be minimised.
+
+23.
+
+The Persons providing the oversight function should carry out a thorough review of the Fund Manager's overall system for pricing. This should include an analysis of the controls in place to determine the extent to which reliance can be placed on them. This review should be carried out at the start of the appointment of a Person who will provide oversight functions, and also when major changes are made by the Fund Manager to its system. On an ongoing basis, the systems should be kept under review to ensure that

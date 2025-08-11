@@ -1,0 +1,132 @@
+ with:
+
+(a)
+
+the guarantee is an explicitly documented obligation assumed by the guarantor;
+
+(b)
+
+the guarantee represents a direct claim on the guarantor;
+
+(c)
+
+the extent of the credit protection cover is clearly defined and incontrovertible;
+
+(d)
+
+other than in the event of non-payment by the Authorised Person of Money due in respect of the guarantee if applicable, there is an irrevocable obligation on the part of the guarantor to pay out a pre-determined amount upon the occurrence of a credit event, as defined under the guarantee;
+
+(e)
+
+the guarantee does not contain any clause, the fulfilment of which is outside the direct control of the Authorised Person, that:
+
+(i)
+
+would allow unilaterally;
+
+the guarantor
+
+to cancel
+
+the guarantee
+
+(ii)
+
+would increase the effective cost of the guarantee as a result of deteriorating credit quality of the underlying Exposure;
+
+(iii)
+
+could prevent the guarantor from being obliged to pay out in a timely manner in the event that the underlying obligor fails to make any payment due; or
+
+(iv)
+
+could allow the maturity of the guarantee agreed ex-ante to be reduced ex-post by the guarantor;
+
+(f)
+
+the Authorised Person is able in a timely manner to pursue the guarantor for any monies outstanding under the documentation governing the transaction on the default of, or non-payment by, the underlying obligor without first having to take legal action to pursue the underlying obligor for payment; and
+
+144
+
+PRU VER17.290725
+
+(g)
+
+the guarantee covers all types of payments that the underlying obligor is expected to make under the documentation governing the transaction, except in the case of accrued interest, accrued expenses or fees outstanding, where these are deemed immaterial.
+
+Guidance
+
+1.
+
+include any guarantee with a cancellation Rule 4.13.9(2)(e) does not clause where it is provided that any obligation incurred or transaction entered into prior to any cancellation, unilateral or otherwise, continues to be guaranteed by the guarantor.
+
+2.
+
+The guarantee payments may be in the form of the guarantor making a lump sum payment of all monies to the Authorised Person or the guarantor assuming the future payment obligations of the Counterparty covered by the guarantee, as specified in the relevant documentation governing the guarantee.
+
+4.13.10
+
+In addition to the requirements in Rule 4.13.9, where an Authorised Person has an Exposure that is protected by a guarantee or that is counter-guaranteed by a central government or central bank, a regional government or local authority or a PSE claims on which are treated as claims on the central government in whose jurisdiction they are established, a MDB or an international organisation to which a 0% risk weight is assigned under Section 4.12, an Authorised Person may treat the Exposure as being protected by a direct guarantee from the central government or central bank in question, provided the following requirements are complied with:
+
+(a)
+
+the counter-guarantee covers all Credit Risk elements of the Exposure;
+
+(b)
+
+both the original guarantee and the counter-guarantee comply with all the in this Section, except that the requirements for guarantees set out counter-guarantee need not be direct and explicit with respect to the original Exposure; and
+
+(c)
+
+the Authorised Person is able to satisfy the Regulator that the cover is robust and that nothing in the historical evidence suggests that the coverage of the counter-guarantee is less than effectively equivalent to that of a direct guarantee by the entity in question.
+
+Credit Derivatives
+
+4.13.11
+
+(1)
+
+An Authorised Person may recognise the effects of CRM of a Credit Derivative only if it is provided by any of the following entities:
+
+(a)
+
+central government or central banks;
+
+(b)
+
+the MDBs referred to in Rules 4.12.7 to 4.12.8;
+
+(c)
+
+the international organisations referred to in Rule 4.12.9;
+
+(d)
+
+PSE;
+
+145
+
+PRU VER17.290725
+
+(e)
+
+banks and Securities firms which qualify for inclusion in bank asset class; or
+
+(f)
+
+any other entity that has an external credit assessment from an ECAI that maps to a Credit Quality Grade 3 or better.
+
+(2)
+
+An Authorised Person may recognise the effects of CRM of only the following types of Credit Derivatives:
+
+(a)
+
+credit default swaps;
+
+(b)
+
+Total Return Swaps;
+
+(c)
+

@@ -1,0 +1,127 @@
+2.17 Any charges imposed under Rule 20.2.16 must not exceed the Third Party Provider’s
+
+actual costs of providing such information.
+
+Common provisions: communication of information
+
+20.2.18 Any information provided or made available by a Third Party Provider in accordance with Section 20.2 must be provided or made available in English, using easily understandable language, and in a clear and comprehensible form.
+
+20.3
+
+Information requirements required after the initiation of a Third Party Transaction
+
+20.3.1 A Third Party Provider must provide or make available to the Customer, immediately after
+
+the initiation of a Third Party Transaction:
+
+(a)
+
+confirmation of the receipt and successful Transaction;
+
+initiation of the Third Party
+
+(b)
+
+a reference enabling the Customer to identify the Third Party Transaction, and, where appropriate, any information transferred with the Third Party Transaction;
+
+(c)
+
+if the Third Party Transaction leads to a Payment Transaction, the amount of the Payment Transaction, in the currency used in the Payment Order;
+
+(d)
+
+the amount of any charges payable in relation to the Third Party Transaction and, where applicable, a breakdown of the amounts of such charges expressed;
+
+(e)
+
+where an exchange rate is used in the Third Party Transaction, the actual rate used or a reference to it, and, where the Third Party Transaction leads to a Payment Transaction, the amount of the Payment Transaction after that currency conversion; and
+
+(f)
+
+the date and time on which the Third Party Provider received the Payment Transaction.
+
+157
+
+COBS VER19.290725
+
+20.3.2 Where a Third Party Transaction is initiated by another Third Party Provider, the Third Party Provider must obtain and disclose the reference for the Third Party Transaction from the other Third Party Provider.
+
+20.4
+
+Disapplication of requirements for non-Natural Persons
+
+20.4.1 Where the Customer is not a Natural Person, the Customer and the Third Party Provider
+
+may agree in writing that the following Rules do not apply:
+
+(a)
+
+Rules 20.2.15 and 20.2.16 (charges for information);
+
+(b)
+
+Rule 20.7.3 and 20.7.4 (withdrawal of consent);
+
+(c)
+
+Rule 20.8.2 (revocation of a Payment Order);
+
+(d)
+
+Rules 20.10.1 and 20.10.2 (requests for refund);
+
+(e)
+
+Rule 20.11.1 (evidence on authentication and execution);
+
+(f)
+
+Rule 20.12.5 (liability for charges); and
+
+the parties may agree that a different time period applies concerning unauthorised or incorrectly executed Payment Transactions for the purposes of Rule 20.10.1.
+
+20.5 Record keeping
+
+20.5.1 A Third Party Provider must maintain relevant records of all transactions and agreements with Customers and keep them for at least six years from the date on which the record was created.
+
+20.5.2 The records maintained by a Third Party Provider must include:
+
+(a)
+
+what Specified Information has been requested by the Customer;
+
+(b)
+
+what Specified Information has been accessed, processed and transferred by the Third Party Provider; and
+
+(c)
+
+what information about the Customer the Third Party Provider has obtained as part of its customer onboarding process.
+
+Guidance
+
+1.
+
+As entities registered in ADGM, Third Party Providers are subject to the Data Protection Regulations. The Data Protection Regulations set out obligations for Third Party Providers to follow with regard to Customers’ personal data, regardless of where the Customer is domiciled.
+
+2.
+
+Where a Third Party Provider deals with Customers based outside ADGM, the Regulator expects that the Third Party Provider will be in compliance with the relevant data protection regulations that apply to those Customers’ personal data.
+
+158
+
+COBS VER19.290725
+
+20.6 Outsourcing of Operational Functions
+
+20.6.1 Where a Third Party Provider relies on a third party for the performance of operational functions it must take all reasonable steps to ensure that the Rules that are applicable to those operational functions are complied with.
+
+Guidance
+
+GEN 3.3.31 and 3.3.32 and PRU 6.8 also govern outsourcing of functions and activities by an Authorised Person. A Third Party Provider is required to comply with those Rules.
+
+20.7 Authorisation of Third Party Transactions
+
+Consent and withdrawal of consent
+
+20.7.1 A Third Party Transaction is to be regarded as having been

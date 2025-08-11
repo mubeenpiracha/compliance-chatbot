@@ -1,0 +1,107 @@
+ cause);
+
+c.
+
+high professional standards and a sound risk culture should be promoted within the Authorised Firm, particularly in the front office, in a way that supports professional and responsible behaviour. This should include, but is not limited to, developing and implementing appropriate policies and procedures, setting standards (often in the form of a “code of conduct”) for relations between traders and their counterparts, and training procedures;
+
+d.
+
+there should be adequate segregation of duties between front office and the support and controls functions in charge of supporting, verifying and monitoring trade transactions;
+
+e.
+
+appropriate policies and procedures relating to leave requirements and staff movements should be developed, implemented and regularly monitored; in particular:
+
+i.
+
+procedures establishing a minimum absence requirement of at least two consecutive weeks’ leave for traders (via a vacation, “desk holiday” or other absence from the office or trading) so that traders are physically unable to mark or value their own books, this responsibility being carried out by a different person during those periods; and
+
+ii.
+
+employees changing job positions between front, middle and back offices or IT should be properly tracked.
+
+184
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+f.
+
+terms of reference describing the activity of each trader or group of traders should be established. Adherence to these terms should be subject to monitoring by support and control functions;
+
+g.
+
+documentation requirements for trading activities should be properly defined so as to minimise legal uncertainties in enforceability of contracts with clients and Counterparties. This should include consideration of using contracts that are standardised as far as possible, particularly in OTC transactions;
+
+h.
+
+all trading positions, profits and losses, cash flows and calculations associated with a transaction should be clearly recorded in the Authorised Firm’s management information systems with a documented audit trail. The audit trail should allow for the tracing of cash flows at a sufficiently granular level (e.g. traders, books, products and portfolios);
+
+i.
+
+appropriate procedures for confirmation of the terms and conditions of transactions with external Counterparties/clients should be established;
+
+j.
+
+appropriate processes and procedures should be implemented for the settlement of transactions. This should include consideration of the following elements.
+
+i.
+
+the authorisation of inputs by the back office;
+
+ii.
+
+payment/settlements carried out against independent documents;
+
+iii.
+
+reconciliation between front office and back office systems; and
+
+iv.
+
+reconciliation procedures independent of the processing functions.
+
+k.
+
+controls should include daily reconciliation of positions and cash flows across various internal systems and external parties. The reconciliations should include all events attached to the transactions including amendments, cancellation, exercises, resets and expiries;
+
+l.
+
+procedures and processes should be established to ensure accurate and timely monitoring and follow up of margin or Collateral calls;
+
+m.
+
+profit attribution is a key control for understanding the risk in a trading operation and therefore the control and support functions should have a good understanding of the various aspects that lead to P&L generation, particularly in relation to more complex products. Major implausiblities discovered within the P&L in the context of the trading mandate and market developments should be further analysed to see if they are caused by Operational Risk events; and
+
+n.
+
+control procedures should be established to monitor and escalate unusual transactions, anomalies in confirmation and reconciliation processes, errors in recording, processing and settling transactions, along with cancellations, amendments, late trades and off-market rates.
+
+6.11 Operational Risk Capital Requirement
+
+6.11.1 This section applies to an Authorised Firm in Category 1, 2, 3A or 5.
+
+6.11.2
+
+(1)
+
+An Authorised Firm must, subject to (2), use the Basic Indicator Approach as prescribed in App6 to calculate its Operational Risk Capital Requirement.
+
+(2)
+
+An Authorised Firm may, with the written approval of the DFSA, use the Standardised Approach or the Alternative Standardised Approach, both as prescribed in App6, to calculate its Operational Risk Capital Requirement if the DFSA is satisfied that:
+
+185
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+(a)
+
+its Governing Body and senior management, as appropriate, are actively involved in the oversight of its Operational Risk framework;
+
+(b)
+
+it has, in accordance with the requirements

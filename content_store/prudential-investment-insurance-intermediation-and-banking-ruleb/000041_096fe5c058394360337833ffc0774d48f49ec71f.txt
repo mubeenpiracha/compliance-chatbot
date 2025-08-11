@@ -1,0 +1,96 @@
+ governing the instruments require their principal amount to be written down upon the occurrence of a trigger event, the write down must reduce all the following:
+
+(i)
+
+the claim of the holder of the instrument in the liquidation of the Authorised Person;
+
+(ii)
+
+the amount required to be paid in the event of the call of the instrument; and
+
+(iii)
+
+the distributions made on the instrument.
+
+For the purposes of (1)(o), the following provisions apply to AT1 Capital instruments.
+
+(a)
+
+The provisions governing AT1 Capital instruments must require such instruments to, at the option of the Regulator, either be partially or fully written down or converted into ordinary shares upon the occurrence of a trigger event.
+
+(b)
+
+For the purpose of this provision, a "trigger event" shall refer to a notification by the Regulator notifying the Authorised Person in writing, in accordance with any regulations of ADGM relating to recovery and resolution, that the Regulator has determined that unless a write down or conversion is conducted, the Authorised Person will no longer be viable.
+
+(c)
+
+Any compensation paid to the instrument holders as a result of a write down shall be paid immediately and in the form of ordinary shares of the Authorised Person, or the holding company of the Authorised Person if approved by the Regulator.
+
+(d)
+
+The Authorised Person shall maintain at all times all prior authorisation necessary to issue immediately the relevant number of ordinary shares should the trigger event occur and the AT1 Capital instruments be converted into ordinary shares.
+
+(e)
+
+Where an Authorised Person intends to include the AT1 Capital instruments issued by a Subsidiary in a non-ADGM jurisdiction in the consolidated AT1 Capital, the Authorised Person may do so, to the extent permitted under these Rules, if the provisions governing the instrument specify a trigger event equivalent to the trigger specified in paragraph (b) above, or where the trigger event relates to the supervisor of the Subsidiary deciding to make a public sector injection of capital or equivalent support, without which the Authorised Person would no longer be viable. The Regulator will only activate such
+
+78
+
+PRU VER17.290725
+
+triggers in respect of such Subsidiary, after consultation with the supervisor of the Subsidiary, where:
+
+(i)
+
+if applicable, the Subsidiary is non-viable as determined by the supervisor of the Subsidiary in accordance with applicable laws of that jurisdiction on insolvency, resolution or recovery of financial institutions; and
+
+(ii)
+
+the Authorised Person is, or would be, non-viable, as determined by the Regulator, as a result of providing, or committing to provide, a capital injection or similar support to the Subsidiary.
+
+(f)
+
+For the purposes of paragraph (e) above, any ordinary shares paid as compensation to the holders of the capital instrument shall be ordinary shares of either the Subsidiary or of the Authorised Person.
+
+(5)
+
+The following must apply where, in the case of an AT1 Capital instrument, the conditions laid down in this Rule cease to be met:
+
+(a)
+
+that instrument must cease to qualify as an AT1 Capital instrument; and
+
+(b)
+
+the part of the Share premium accounts that relates to that instrument must cease to qualify as an AT1 Capital element.
+
+Guidance
+
+Where the Regulator determines that certain conditions in relation to the viability of the institution are met, capital instruments eligible for inclusion in AT1 Capital will be either partially or fully written down or converted into ordinary shares.
+
+AT1 Deductions
+
+3.11.4
+
+Subject to the following Rules in this Section, an Authorised Person must deduct the following from the calculation of its AT1 Capital:
+
+(a)
+
+direct and indirect holdings by an Authorised Person of own AT1 Capital instruments including instruments under which an Authorised Person is under an actual or contingent obligation to effect a purchase by virtue of an existing contractual obligation;
+
+(b)
+
+holdings of the AT1 Capital instruments of Relevant Entities where those entities have a reciprocal cross-holding with the Authorised Person which have the effect of artificially inflating the Capital Resources of the Authorised Person;
+
+(c)
+
+the amount determined in accordance with Rule 3.11.8 of direct and indirect holdings by the Authorised Person of the AT1 Capital instruments of Relevant
+
+79
+
+PRU VER17.290725
+
+Entities where the Authorised Person does not have a significant investment in those entities;
+
+(d)
+

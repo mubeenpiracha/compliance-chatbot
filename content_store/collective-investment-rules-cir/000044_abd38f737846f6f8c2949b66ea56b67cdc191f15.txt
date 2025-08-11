@@ -1,0 +1,87 @@
+ of an Investment Trust, the legal formalities relating to the formation of the trust involve the execution by the Fund Manager and the Trustee of the relevant trust deed pursuant to the requirements in the Investment Trust Law of 2006.
+
+3.
+
+Under Rule 8.2.2(2), the Fund Manager of an Investment Company or Investment Partnership must delegate the function of holding safe custody of Fund Property (i.e. the Financial Service of Providing Custody in relation to Fund Property) to an Eligible Custodian. In the case of an Investment Trust, the Trustee of the Fund provides the safe custody function relating to Fund Property. However, this obligation does not apply in the case of certain types of specialist Funds where alternative safe custody arrangements are permitted (see the custody requirements for Private Equity Funds and certain types of Property Funds in Rules 13.3.1, 13.4.2, 13.4.2A and 13.4.2B).
+
+Rejection of an application
+
+Guidance
+
+Under Article 30(1) of the Law, the DFSA may, refuse to grant an application for the registration of a Fund if it is not satisfied that the requirements referred to in Article 28 of the Law have been met.
+
+Granting registration
+
+Guidance
+
+1.
+
+Under Article 31 of the Law, once the DFSA grants registration to a Fund, it will without undue delay inform the relevant applicant in writing of:
+
+a.
+
+such decision; and
+
+b.
+
+the date on which the registration shall be deemed to take effect.
+
+2.
+
+The DFSA maintains a list of Public Funds which have been registered on its Public Register.
+
+Withdrawal of registration
+
+Guidance
+
+Under Article 32 of the Law, the DFSA may withdraw the registration of a Fund in specified circumstances.
+
+Reinstatement
+
+Guidance
+
+The DFSA may reinstate the registration of a Fund pursuant to Article 33 of the Law if it is satisfied that the Fund should not have been deregistered or if the defect that led to registration being withdrawn has been remedied.
+
+70
+
+CIR/VER38/08-24
+
+10.3
+
+10.3.1
+
+10.3.2
+
+COLLECTIVE INVESTMENT RULES (CIR)
+
+Oversight arrangements for Public Funds
+
+Guidance
+
+Chapter 2 of the Law (see Articles 39 – 42) sets out the general requirements relating to the oversight arrangements which a Public Fund must have, including the powers and duties of the Persons appointed to a Public Fund to provide the oversight function. The Rules in this section provide further detailed requirements relating to that function.
+
+Permitted oversight arrangements
+
+The following oversight arrangements are hereby prescribed by the DFSA for the purposes of Article 39(1)(a) of the Law:
+
+(a)
+
+an Oversight Committee comprising at least three individuals each of whom meets the suitability criteria prescribed in Rule 10.3.2; or
+
+(b)
+
+the Eligible Custodian or Trustee of the Fund, where the individuals undertaking the primary responsibility for the oversight function meet the suitability criteria prescribed in Rule 10.3.2.
+
+Guidance
+
+1.
+
+Article 39(1)(a) of the Law requires the Fund Manager of a Domestic Fund which is a Public Fund to establish and maintain one of the permitted oversight arrangements prescribed by the DFSA. Accordingly, such a Fund Manager must appoint one of the oversight arrangements specified in Rule 10.3.1 to every Public Fund which it manages.
+
+2.
+
+The membership of the Oversight Committee may comprise individuals including but not limited to members of the board of directors of the Fund Manager or that of the Fund, or the individual directors of the Corporate Director, or the members of the General Partner of an Investment Partnership, or external experts, provided such individuals can meet the suitability criteria prescribed in Rule 10.3.2(1). The criteria include a test of independence.
+
+3.
+
+For example, for an individual such as a member of the board of directors of the Fund Manager to be able to meet the independence test, the starting point is that such an individual would need to be a non-executive member of the Fund Manager’s board. But that alone may not be sufficient, as the independence requirement has a range of other elements against which such an individual’s ability to be independent of the Fund Manager is assessed. See Article 42 of the Law and Rule 10.3

@@ -1,0 +1,83 @@
+ of Data Protection, in order to remedy the contravention and mitigate its possible adverse effects;
+
+(g)
+
+the categories of Personal Data affected by the contravention;
+
+(h)
+
+the manner in which the contravention became known to the Commissioner of Data Protection, in particular whether, and if so to what extent, the Controller or Processor notified the Commissioner of Data Protection of the contravention;
+
+(i)
+
+where measures referred to in section 50(5) have previously been ordered against the Controller or Processor concerned in relation to the same subject- matter, compliance with those measures;
+
+(j)
+
+adherence to approved codes of conduct pursuant to section 38 or approved certification mechanisms pursuant to section 39; and
+
+(k)
+
+any other aggravating or mitigating factor applicable to the circumstances of the case, such as financial benefits gained, or losses avoided, directly or indirectly, from the contravention.
+
+(4) Before giving a Controller or Processor a Penalty Notice the Commissioner of Data Protection must, by written notice (a ‘Notice of Intent’) inform the Controller or Processor that the Commissioner of Data Protection intends to give a Penalty Notice.
+
+(5) The Notice of Intent must set out:
+
+(a)
+
+the reasons why the Commissioner of Data Protection considers it appropriate to issue a Penalty Notice;
+
+(b)
+
+an indication of the amount of the penalty;
+
+50
+
+(c)
+
+the period in which a Controller or Processor may make written representations about the Commissioner of Data Protection’s intention to issue a Penalty Notice (which must be at least 21 days from the date of the Notice of Intent); and
+
+(d)
+
+whether the Commissioner of Data Protection considers it appropriate for the person to have an opportunity to make oral representations about the Commissioner of Data Protection’s intention to issue a Penalty Notice.
+
+(6)
+
+If a Controller or Processor intentionally or negligently, for the same or linked Processing operations, contravenes several provisions of these Regulations, the total amount of the administrative fine must not exceed USD 28 million.
+
+(7)
+
+If, within the period specified in the Penalty Notice, the Controller or Processor (as applicable):
+
+(a)
+
+pays the fine specified in the Penalty Notice to the Commissioner of Data Protection, then no proceedings or action may be commenced, whether in the Court or otherwise, by the Commissioner of Data Protection against the Controller or Processor in respect of the relevant contravention, provided that neither the imposition nor payment of a fine restricts the Commissioner of Data Protection from taking any action against a Controller or Processor, or refrain from doing any act or thing, in respect of any continuing contravention;
+
+(b)
+
+has not paid the prescribed fine to the Commissioner of Data Protection, then the obligation of the Controller or Processor to pay the fine is enforceable as a debt payable to the Commissioner of Data Protection and the Commissioner of Data Protection may apply to the Court for the recovery of the debt, plus such interest, costs of enforcement (including legal costs) and other expenses directly arising from the failure to pay as the Court sees fit to order; or
+
+(c)
+
+has appealed to the Court in accordance with section 58, then the provisions of section 58 apply.
+
+56. Fixed penalty for non-payment of the Data Protection Fee or Renewal Fee
+
+(1)
+
+If a Controller fails to pay the Data Protection Fee or the Renewal Fee in accordance with section 24, the Commissioner of Data Protection may issue a monetary penalty, imposing a fine on the Controller of up to 150 per cent of the Data Protection Fee, or Renewal Fee, in addition to the Data Protection Fee, or Renewal Fee, as the case may be.
+
+(2) The amount of the penalty for a failure to pay the Data Protection Fee in accordance
+
+with section 24 must be specified by rules made by the Board.
+
+(3)
+
+If a Controller has not paid the prescribed fine under section 56(1) to the Commissioner of Data Protection within the period specified in the monetary penalty, then the obligation of the Controller to pay the fine is enforceable as a debt payable to the Commissioner of Data Protection and the Commissioner of Data Protection may apply to the Court for the recovery of the debt, plus such interest, costs of enforcement (including legal costs) and other expenses directly arising from the failure to pay as the Court sees fit to order.
+
+51
+
+57. Right to lodge a complaint with the Commissioner of Data Protection
+
+(1) Without prejudice to any other administrative or judicial remedy, a Data Subject has

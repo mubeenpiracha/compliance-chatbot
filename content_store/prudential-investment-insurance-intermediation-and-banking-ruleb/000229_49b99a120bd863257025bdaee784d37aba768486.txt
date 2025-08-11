@@ -1,0 +1,117 @@
+2A HQLA consists of:
+
+(a)
+
+marketable Securities representing claims on or guaranteed by sovereigns, central banks, PSEs or MDBs that satisfy all of the following conditions:
+
+(i)
+
+they are assigned a 20% or lower risk-weight according to Chapter 4 and App4 of this Rulebook;
+
+(ii)
+
+they are traded in large, deep and active repo or cash markets characterised by a low level of concentration;
+
+(iii)
+
+they have a proven record as a reliable source of liquidity in the markets (repo or sale) even during stressed market conditions (i.e. maximum decline of price or increase in haircut over a 30-day period during a relevant period of significant liquidity stress not exceeding 10%); and
+
+(iv)
+
+they are not an obligation of a Financial Institution or any of its affiliated entities;
+
+(b)
+
+corporate debt Securities (including commercial paper) and covered bonds that satisfy all of the following conditions:
+
+(i)
+
+in the case of corporate debt Securities: they must not be issued by a Financial Institution or any of its affiliated entities and must include only plain vanilla assets (i.e. not include complex Structured Products or subordinated debt) whose valuation is readily available based on standard methods and does not depend on private knowledge;
+
+(ii)
+
+in the case of covered bonds: they must not be issued by the Authorised Person itself or any of its affiliated entities;
+
+404
+
+PRU VER17.290725
+
+(iii)
+
+the assets must have a Credit Quality Grade of 1, or if the assets do not have a credit assessment by an ECAI, they must be internally rated as having a probability of default (PD) corresponding to a Credit Quality Grade of 1;
+
+(iv)
+
+they must be traded in large, deep and active repo or cash markets characterised by a low level of concentration; and
+
+(v)
+
+they must have a proven record as a reliable source of liquidity in the markets (repo or sale) even during stressed market conditions (i.e. maximum decline of price or increase in haircut over a 30-day period during a relevant period of significant liquidity stress not exceeding 10%); and
+
+(c)
+
+any other types of assets approved by the Regulator under Rule A10.2.9 as being eligible to be Level 2A HQLA.
+
+Level 2B HQLA
+
+A10.2.8
+
+(1)
+
+Level 2B HQLA must be valued at market value and subject to an appropriate haircut, as specified in (2), for each type of asset.
+
+(2)
+
+Level 2B HQLA consists of:
+
+(a)
+
+residential mortgage-backed Securities that satisfy all of the following conditions, subject to a 25% haircut:
+
+(i)
+
+they are not issued by, and the underlying assets have not been originated by, the Authorised Person itself or any of its affiliated entities;
+
+(ii)
+
+they have a Credit Quality Grade of 1;
+
+(iii)
+
+they are traded in large, deep and active repo or cash markets characterised by a low level of concentration;
+
+(iv)
+
+they have a proven record as a reliable source of liquidity in the markets (repo or sale) even during stressed market conditions, (i.e. maximum decline of price or increase in haircut over a 30-day period during a relevant period of significant liquidity stress not exceeding 20%);
+
+(v)
+
+the underlying asset pool mortgages and does not contain Structured Products;
+
+is restricted to residential
+
+(vi)
+
+the underlying mortgages are "full recourse'' loans (i.e. in the case of foreclosure the mortgage owner remains liable for any shortfall in sales proceeds from the property) and have a maximum loan-to-value ratio (LTV) of 80% on average at issuance; and
+
+405
+
+PRU VER17.290725
+
+(b)
+
+(c)
+
+(vii)
+
+the securitisations are subject to "risk retention" regulations which require Issuers to retain an interest in the assets they securitise;
+
+corporate debt Securities (including commercial paper) that satisfy all of the following conditions, subject to a 50% haircut:
+
+(i)
+
+they are not issued by a Financial Institution or any of its affiliated entities;
+
+(ii)
+
+they have a Credit Quality Grade of 2 or 3 or, in the case the assets do not have a credit assessment by an ECAI, are internally rated as having a probability of default (PD) corresponding to a Credit Quality Grade of 

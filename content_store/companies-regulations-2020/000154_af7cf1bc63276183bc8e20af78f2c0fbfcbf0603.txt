@@ -1,0 +1,107 @@
+ information which is required by any provision of these Regulations or international accounting standards, and required or allowed by any such provision to be given in a note to company accounts.
+
+446. Minor definitions
+
+(1)
+
+In this Part–
+
+“group” means a parent undertaking and its subsidiary undertakings,
+
+“included in the consolidation”, in relation to group accounts, or “included in consolidated group accounts”, means that the undertaking is included in the accounts by the method of full (and not proportional) consolidation, and references to an undertaking excluded from consolidation shall be construed accordingly,
+
+“international accounting standards” means the international accounting standards specified as such in rules made by the Board,
+
+“micro-entity minimum accounting item” means an item of information required by this Part or by rules made by the Board under this Part to be contained in the individual accounts of a company for a financial year in relation to which it qualifies as a micro- entity (see sections 373 (companies qualifying as micro-entities) and 374 (companies excluded from being treated as micro-entities));
+
+“micro-entity provisions” means any provisions of this Part, Part 15 or rules made by the Board under this Part relating specifically to the individual accounts of a company which qualifies as a micro-entity;
+
+“profit and loss account”, includes an income statement or other equivalent financial statement required to be prepared by international accounting standards,
+
+“turnover”, in relation to a company, means the amounts derived from the provision of goods and services falling within the company’s ordinary activities, after deduction of–
+
+(a)
+
+trade discounts,
+
+(b)
+
+value added tax, and
+
+(c)
+
+any other taxes based on the amounts so derived.
+
+(2)
+
+In the case of an undertaking not trading for profit, any reference in this Part to a profit and loss account is to an income and expenditure account.
+
+References to profit and loss and, in relation to group accounts, to a consolidated profit and loss account shall be construed accordingly.
+
+271
+
+PART 15
+
+AUDIT
+
+CHAPTER 1
+
+REQUIREMENT FOR AUDITED ACCOUNTS
+
+Requirement for audited accounts
+
+447. Requirement for audited accounts and public interest entities and financial institutions22
+
+(1)
+
+A company’s annual accounts for a financial year must be audited in accordance with this Part unless the company is exempt from audit under–
+
+section 449 (small companies),
+
+section 452 (subsidiary companies), or
+
+section 455 (dormant companies).
+
+(1A) A company is not entitled to any such exemption if it is licensed to conduct the Controlled Activity of providing company services (as defined in the Commercial Licensing Regulations (Controlled Activities) Rules 2022).
+
+(2)
+
+A company is not entitled to any such exemption unless its balance sheet contains a statement by the directors to that effect.
+
+(3)
+
+A company is not entitled to exemption under any of the provisions mentioned in subsection (1) unless its balance sheet contains a statement by the directors to the effect that–
+
+(a)
+
+the members have not required the company to obtain an audit of its accounts for the year in question in accordance with section 448 (right of members to require audit), and
+
+(b)
+
+the directors acknowledge their responsibilities for complying with the requirements of these Regulations with respect to accounting records and the preparation of accounts.
+
+(4)
+
+The statement required by subsection (2) or (3) must appear on the balance sheet above the signature required by section 399 (approval and signing of accounts).
+
+(5)
+
+A company that is not exempt from audit must appoint an auditor who is eligible for appointment under Part 35 of these Regulations and any Rules made thereunder, including, in the case of public interest entities and financial institutions, satisfying any additional requirements for auditors of such companies.
+
+22 Amended 2 September 2021 Amended 23 February 2023
+
+272
+
+(6)
+
+In this Part, “public interest entity” and “financial institution” shall have the meaning given to them in section 372 (public interest entities and financial institutions).
+
+(7)
+
+This Part does not apply to restricted scope companies who shall be exempt from audit for the purposes of these Regulations.
+
+448. Right of members to require audit
+
+(1)
+
+The members of a company that would otherwise be entitled to exemption from audit under any of the provisions mentioned in section 447(1) (exemptions from audit of annual accounts) may by notice under this section require it to obtain an audit of its accounts

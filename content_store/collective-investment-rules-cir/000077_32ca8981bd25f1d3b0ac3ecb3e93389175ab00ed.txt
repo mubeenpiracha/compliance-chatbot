@@ -1,0 +1,139 @@
+.
+
+2.
+
+The DFSA is likely to review the results of stress testing during the initial stages of a Fund’s operation and then on an ad hoc basis once the Fund becomes established.
+
+120
+
+CIR/VER38/08-24
+
+COLLECTIVE INVESTMENT RULES (CIR)
+
+Risk diversification strategy
+
+13.12.9 The Fund Manager of a Credit Fund must:
+
+(a)
+
+have a clear strategy which aims, within a specified period not exceeding three years from the date the Fund is established, to achieve a diversified portfolio of loans that limits exposure to any one person or Group to a maximum of 25% of net assets (the “risk diversification limit”);
+
+(b)
+
+take reasonable steps to ensure the risk diversification limit is achieved within the specified period referred to in (a);
+
+(c)
+
+if it is unable to achieve the risk diversification limit within the specified period referred to in (a), then within 30 days from the end of that period, seek Unitholder approval to amend its strategy or to extend the period for achieving its strategy;
+
+(d)
+
+if Unitholder approval is obtained under (c), take reasonable steps to ensure the risk diversification limit is achieved within the extended period which must not exceed four years from the date the Fund is established; and
+
+(e)
+
+once the risk diversification limit is achieved under (b) or (d) take reasonable steps to ensure it is not breached.
+
+Redemptions and distributions
+
+13.12.10 The Fund Manager of a Credit Fund must ensure that:
+
+(a)
+
+the Fund is established for a finite period not exceeding 10 years; and
+
+(b)
+
+if the Fund’s Constitution, and the laws and regulations under which it was established, permit redemptions or distributions before the end of the period referred to in (a), a redemption or distribution is made only:
+
+(i)
+
+to the extent that there is unencumbered cash or liquid assets available for redemption or distribution purposes;
+
+(ii)
+
+if the redemption or distribution will not result in contravention of any liquidity or other requirement under legislation administered by the DFSA; and
+
+(iii)
+
+if the redemption or distribution has been approved by an ordinary resolution of Unitholders.
+
+Borrowing limit
+
+13.12.11 (1)
+
+The Fund Manager must not borrow money for use by the Credit Fund on terms that the borrowing is to be repayable out of the Fund Property, unless:
+
+(a)
+
+the borrowing is in accordance with the Fund’s Constitution;
+
+(b)
+
+the borrowing does not on any day exceed 10% of the net asset value of the Fund Property; and
+
+121
+
+CIR/VER38/08-24
+
+COLLECTIVE INVESTMENT RULES (CIR)
+
+(c)
+
+reasonable arrangements are in place that will enable borrowings to be repaid to ensure the limit in (b) is complied with.
+
+(2)
+
+If the limit in (1)(b) is breached, the Fund Manager must take immediate action to rectify that breach.
+
+(3)
+
+In this Rule, “borrowing” also includes any arrangement involving the use of a combination of Derivatives to achieve a temporary injection of money into Fund Property in the expectation that the sum will be repaid.
+
+Periodic reports
+
+13.12.12 A Fund Manager of a Credit Fund must ensure that its annual report and interim
+
+report include the following information about credit provided and loans acquired:
+
+(a)
+
+a breakdown between senior secured debt, junior debt and mezzanine debt;
+
+(b)
+
+a breakdown between loans with an amortising repayment schedule and loans with bullet repayments;
+
+(c)
+
+a breakdown of the loan-to-value ratio for each loan;
+
+(d)
+
+information about non-performing exposures and aggregated information about exposures subject to forbearance activities; and
+
+(e)
+
+any material changes to the credit assessment and monitoring process.
+
+Guidance
+
+In considering what constitutes a non-performing exposure under this Rule or elsewhere under this section, the relevant classifications in PIB section 4.5 are likely to be useful to classify, manage and report problem debt.
+
+Risk warnings in marketing materials
+
+13.12.13 A Fund Manager must take reasonable steps to ensure that marketing material
+
+relating to a Credit Fund includes a prominent risk warning setting out:
+
+(a)
+
+the particular risks that arise from Providing Credit or acquiring loans;
+
+(b)
+
+that return of capital in an investment in the Fund is not guaranteed; and
+
+(c)
+
+that it is

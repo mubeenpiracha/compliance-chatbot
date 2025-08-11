@@ -1,0 +1,147 @@
+ on those facilities.
+
+Dark orders are orders executed on execution platforms without pre-trade transparency.
+
+61
+
+AMI/VER28/03-25
+
+6.4.3
+
+6.5
+
+6.5.1
+
+6.5.2
+
+AUTHORISED MARKET INSTITUTIONS (AMI)
+
+Post-trade transparency
+
+(1)
+
+An Exchange must disclose the post-trade information specified in (2) relating to trading of Investments on its facilities in the manner specified in (3).
+
+(2)
+
+The post-trade information required to be disclosed pursuant to (1) is the price, volume and time of the transactions executed in respect of the Investments traded on its facilities.
+
+(3)
+
+The information referred to in (2) must be:
+
+(a)
+
+made available in real-time on reasonable commercial terms and on a non-discriminatory basis; and
+
+(b)
+
+made available, as soon as practicable thereafter, to the public.
+
+Guidance
+
+An Exchange should use appropriate mechanisms to enable post-trade information to be made available to the public in an easy to access and uninterrupted manner at least during business hours. An Exchange may charge a reasonable fee for the information which it makes available to the public.
+
+Volatility controls
+
+(1)
+
+An Exchange must have in place effective systems, controls and procedures to ensure that its trading systems:
+
+(a)
+
+are resilient;
+
+(b)
+
+have adequate capacity to deal with peak orders and message volumes; and
+
+(c)
+
+are able to operate in an orderly manner under conditions of market stress.
+
+(2) Without limiting the generality of its obligations arising under (1) or any other Rule, an Exchange’s rules, systems, controls and procedures must enable it to:
+
+(a)
+
+reject orders that exceed its pre-determined volume and price thresholds, or that are clearly erroneous;
+
+(b)
+
+temporarily halt trading of Investments traded on its facility if there is a significant price movement in relation to those Investments on its facility or a related market during a short period; and
+
+(c)
+
+where appropriate, cancel, vary or correct any transaction.
+
+Guidance
+
+An Exchange should test its trading systems to ensure that they are resilient and capable of operating orderly trading under conditions of market stress and other contingencies.
+
+(1)
+
+An Exchange must have adequate arrangements, including technology, which:
+
+62
+
+AMI/VER28/03-25
+
+AUTHORISED MARKET INSTITUTIONS (AMI)
+
+(a)
+
+are capable of preventing capacity limits relating to messaging being breached;
+
+(b)
+
+require its Members to apply pre-trade controls to their clients; and
+
+(c)
+
+permit only its Members to modify the parameters of any pre-trade controls.
+
+(2)
+
+An Exchange must make publicly available the details of arrangements it has in place in order to meet the requirement in (1).
+
+Guidance
+
+1.
+
+In order to meet the requirements in Rule 6.5.2(1), an Exchange may, within its arrangements:
+
+a.
+
+include a mechanism for “throttling” orders to prevent breaches of its capacity;
+
+b.
+
+prohibit “naked” or “unfiltered” access to its facilities by Members’ clients where the client orders do not pass through pre-trade controls; and
+
+c.
+
+include requirements for Members to have appropriate pre-trade controls on the orders of their clients, which include in-built and automatic rejection of orders outside of certain pre-set parameters.
+
+2.
+
+Pre-trade controls which an Authorised Market Institution requires from its Members should contain:
+
+a.
+
+price or size parameters: Members should be able to automatically block or cancel orders that do not meet the set price or size parameters either or both on an order- by-order basis or over a specified period of time;
+
+b.
+
+controls around permission to trade: Members should be able to block or cancel orders immediately as soon as they are made aware that trade permissions of a trader have been breached;
+
+c.
+
+effective risk management: Members should be able to block or cancel orders automatically where the trades pose risks that compromise the Member’s own risk management thresholds. Such controls should be applied as necessary and appropriate to exposures to individual clients or financial instruments or groups of clients or financial instruments, exposures of individual traders, trading desks or the Member as a whole;
+
+d.
+
+reporting obligations: Members should be obliged to notify the Exchange about significant risks that may affect fair and orderly trading and major incidents as soon as they become aware of such risks or incidents;
+
+e.
+
+overriding of pre-trade controls: Members should have procedures and arrangements for dealing with orders

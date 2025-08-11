@@ -1,0 +1,89 @@
+2 All capitalized terms are defined in a Glossary of defined terms at Section 16 of this Guide.
+
+4. What is Data Protection?
+
+4.1 Data protection is the process of safeguarding an individuals’ personal information, including how
+
+personal information is accessed, stored, disseminated and destroyed.
+
+4.2 Data protection regimes exist to create a balance between the rights of individuals to privacy and the needs of organizations to utilize data for the purposes of conducting their business, including sharing personal data with third parties.
+
+5. What is ADGM’s Data Protection Regime?
+
+5.1 ADGM’s data protection regime consists of the ADGM Data Protection Regulations 2015 (as
+
+amended) (the “Data Protection Regulations”).
+
+5.2 The Data Protection Regulations were enacted on October 4, 2015 by the Board of Directors of the ADGM, in exercise of its powers under Article 6(1) of Law No. 4 of 2013 concerning the ADGM (issued by His Highness the Ruler of the Emirate of Abu Dhabi). The Data Protection Regulations make provision for the protection of personal data within the ADGM and for connected purposes. The Data Protection Regulations was amended in 2018 to include updates on matters such as defined terms, data breach notification timeframes and deadlines for notifications to the Registrar, alongside expanded enforcement provisions.
+
+5.3 The Data Protection Regulations control how personal information is used by organisations and businesses registered in ADGM. All entities registered in ADGM that hold or process Personal Data must follow the obligations under the Data Protection Regulations.
+
+6. The Role and Responsibilities of the Data Controller
+
+6.1 The Data Controller determines the purposes for which, and the manner in which, any Personal Data that it holds, are processed. The Data Controller is responsible for ensuring that all Personal Data processing complies with the Data Protection Regulations.
+
+Office of Data Protection, Registration Authority
+
+Page 4 of 15
+
+Data Protection Guide
+
+7. Five Key Principles of Data Protection1:
+
+7.1 Data Controllers are expected to ensure that Personal Data which they process are:
+
+a) processed fairly, lawfully and securely;
+
+b) processed for specified, explicit and legitimate purposes in accordance with the Data Subject's
+
+rights and not further Processed in a way incompatible with those purposes or rights;
+
+c) adequate, relevant and not excessive in relation to the purposes for which they are collected or
+
+further Processed;
+
+d) accurate and, where necessary, kept up to date; and
+
+e) kept in a form, which permits identification of Data Subjects for no longer than is necessary for the purposes for which the Personal Data were collected or for which they are further Processed.
+
+7.2 Further information on each principle is set out below.
+
+Principle 1. Processed fairly, lawfully and securely
+
+7.3 The Data Protection Regulations requires the Data Controller to process Personal Data fairly, lawfully and securely. The main purpose of this requirement is to protect the interests of the Data Subjects whose Personal Data is being processed.
+
+7.4 This principle applies to all actions that a Data Controller undertakes with Personal Data. In practice,
+
+it means:
+
+a) to have legitimate grounds for collecting and using the Personal Data;
+
+b) do not use the data in ways that have unjustified adverse effects on the individuals concerned;
+
+c) to be transparent about how they intend to use the data, and give individuals appropriate
+
+privacy notices when collecting their Personal Data;
+
+d) to handle people’s Personal Data only in ways they would reasonably expect; and
+
+e) to make sure they do not commit any unlawful actions with the data.
+
+1 Section 1(1) of the ADGM Data Protection Regulations 2015.
+
+Office of Data Protection, Registration Authority
+
+Page 5 of 15
+
+Data Protection Guide
+
+Principle 2. Processed for specified, explicit and legitimate purposes in accordance with the Data Subject's rights and not further Processed in a way incompatible with those purposes or rights
+
+7.5 The Data Controller must be open about their reasons for obtaining Personal Data, and that what they undertake with the information is in line with the reasonable expectations of the individuals concerned. In practice, the Data Controller must:
+
+a) be clear from the outset about why they are collecting Personal Data and what they intend to
+
+do with it;
+
+b) comply with the Data Protection Regulation’s fair processing requirements – including the duty
+
+to

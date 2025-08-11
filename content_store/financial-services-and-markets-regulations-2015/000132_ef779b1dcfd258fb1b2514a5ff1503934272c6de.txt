@@ -1,0 +1,137 @@
+ Enterprises), 81 (Provisions of information on an incidental basis) and 82 (Insolvency Practitioners).
+
+334 Amended 17 February 2020, 20 September 2022 and 8 August 2023.
+
+244
+
+Arranging Custody
+
+Arranging for one or more persons to carry on the activity described in paragraph 43 is a specified kind of activity.
+
+Exclusions335
+
+(1)
+
+A person (the “introducer") does not Arrange Custody by introducing a person to another person (the “custodian") who is authorised by the Regulator or a Non-ADGM Regulator to carry on the activity described in paragraph 43, if the introducer is not connected with the custodian.
+
+(2)
+
+For the purposes of sub-paragraph (1) an introducer is connected to a custodian if—
+
+(a)
+
+the custodian is a member of the same Group as the introducer; or
+
+(b)
+
+the introducer is remunerated by the custodian or a member of the custodian’s Group for making the introduction.
+
+335 Amended 8 August 2023 and 30 December 2024.
+
+245
+
+Chapter 7 Credit
+
+The activity
+
+Providing Credit336
+
+(1)
+
+Entering into a Credit Facility with a person in his capacity as a Borrower or potential Borrower is a specified kind of activity.
+
+(2)
+
+It is a specified kind of activity for the Lender or another person to exercise, or to have the right to exercise, the Lender’s rights and duties under a Credit Facility.
+
+Exclusions
+
+Incidental or connected lending and general exclusions337
+
+(1)
+
+An Authorised Person does not enter into a Credit Facility as Lender where entering into the agreement is incidental to or in connection with transactions in Specified Investments other than Credit Facilities, or Virtual Assets or the carrying on of the Regulated Activities of Effecting Contracts of Insurance or Carrying Out Contracts of Insurance as Principal.
+
+(2)
+
+An Authorised Person does not Provide Credit when carrying on the Regulated Activity of Managing a Collective Investment Fund in relation to a Private Credit Fund.
+
+(3)
+
+A Collective Investment Fund that is a Private Credit Fund does not carry on the Regulated Activity of Providing Credit.
+
+(4)
+
+Paragraph 48 is also subject to the exclusions in paragraphs 76 and 77.
+
+The activity
+
+Arranging Credit338
+
+Making arrangements for another person, whether as principal or agent, to borrow money by way of a Credit Facility is a specified kind of activity.
+
+Exclusions339
+
+(1)
+
+A person does not Arrange Credit by—
+
+336 Amended 27 April 2023 and 8 August 2023.
+
+337 Amended 21 February 2018, 27 April 2023 and 4 June 2025.
+
+338 Amended 27 April 2023.
+
+339 Amended 12 June 2017 and 27 April 2023.
+
+246
+
+(a)
+
+providing means by which one party to a transaction is able to communicate with other such parties;
+
+(b)
+
+making arrangements under which another person accepts or is to accept an instrument creating or acknowledging indebtedness in respect of any loan, Credit, guarantee or other similar financial accommodation which he or his principal has made or provided;
+
+(c)
+
+making arrangements having as their sole purpose the provision of finance to enable a person to Buy, Sell, subscribe for or underwrite investments; or
+
+(d)
+
+making arrangements for the issue or redemption of Securities issued by that person; or
+
+(e)
+
+Managing a Collective Investment Fund that is a Private Credit Fund.
+
+(2)
+
+A person does not Arrange Credit if the activity—
+
+(a)
+
+is carried on in the course of carrying on the activities specified in Rules 4 or 5 of the Commercial Licensing Regulations 2015 (Controlled Activities) Rules 2015, which does not otherwise consist of the carrying on of Regulated Activities;
+
+(b)
+
+may reasonably be regarded as a necessary part of any other services provided in the course of carrying on the activities specified in those rules; and
+
+(c)
+
+is not remunerated separately from the other services.
+
+Chapter 8 Money Services
+
+The activity
+
+Providing Money Services
+
+Providing currency exchange, Money Remittance or Payment Services340 is a specified kind of activity.
+
+Exclusion
+
+Connected Services
+
+An Authorised Person does not Provide Money Services if it does so in relation to the carrying on of another

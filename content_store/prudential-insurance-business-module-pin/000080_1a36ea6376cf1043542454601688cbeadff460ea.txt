@@ -1,0 +1,249 @@
+, or receivables other than reinsurance recoveries in respect of Insurance Liabilities.
+
+A10.3 Content of Returns
+
+A10.3.1 (1) The Annual Regulatory Return and Quarterly Regulatory Return comprises the forms in Table 1 to this Rule, together with the Supplementary Notes pertaining to those forms and the Statement by Directors referred to in Section A10.5.
+
+(2)
+
+In Table 1:
+
+(a)
+
+the column headed ‘DIFC Incorporated Insurer’ indicates the relevant forms that must be prepared and submitted by an Insurer that is a DIFC Incorporated Insurer; and
+
+(b)
+
+the column headed ‘Branch’ indicates the relevant forms that must be prepared and submitted by an Insurer that carries on its business through a Branch.
+
+(3)
+
+In Table 1, in the columns headed ‘Return’:
+
+116
+
+PIN/VER18/04-23
+
+PRUDENTIAL – INSURANCE BUSINESS (PIN)
+
+(a)
+
+the letter Q indicates that the relevant form must be prepared and submitted with the Quarterly Regulatory Return;
+
+(b)
+
+the letter A indicates that the relevant form must be prepared and submitted with the Annual Regulatory Return;
+
+(c)
+
+the letters A and Q together indicate that the relevant form must be prepared and submitted with the Annual Regulatory Return and the Quarterly Regulatory Return; and
+
+(d)
+
+the letters N/A indicate that the form is not applicable to the Insurer.
+
+Table 1 - Insurer Return Matrix
+
+Number Name
+
+DIFC Incorporated Insurer
+
+Branch
+
+Return
+
+Return
+
+IN10
+
+Statement of Financial Position
+
+A/Q
+
+N/A
+
+IN20
+
+Statement of Calculation of Capital Adequacy A/Q
+
+N/A
+
+IN30
+
+Statement of Financial Performance
+
+A/Q
+
+N/A
+
+IN40
+
+Statement of Premiums and Reinsurance Expense
+
+A/Q
+
+A/Q
+
+IN50
+
+Statement of Claims and Reinsurance and Other Recoveries
+
+A/Q
+
+A/Q
+
+IN60
+
+Statement of Movement Provisions
+
+in
+
+Insurance
+
+A/Q
+
+A/Q
+
+IN70
+
+Statement of Investment Income
+
+A/Q
+
+N/A
+
+IN80
+
+Statement of Acquisition Expenses
+
+A/Q
+
+N/A
+
+IN90
+
+Reconciliation to Financial Statements
+
+A/Q
+
+N/A
+
+IN100
+
+Summary Statement of Operations
+
+A/Q
+
+A/Q
+
+IN110
+
+Reconciliation of Direct to Total Long-Term Insurance Business
+
+A/Q
+
+N/A
+
+IN120
+
+Statement of Direct Long-Term Insurance Business
+
+A/Q
+
+N/A
+
+IN130
+
+Statement of Direct Long-Term Insurance Liabilities
+
+A/Q
+
+N/A
+
+IN140
+
+Statement of Assets Covering Direct Linked Long-Term Insurance Liabilities
+
+A/Q
+
+N/A
+
+117
+
+PIN/VER18/04-23
+
+PRUDENTIAL – INSURANCE BUSINESS (PIN)
+
+Number Name
+
+DIFC Incorporated Insurer
+
+Branch
+
+Return
+
+Return
+
+IN150
+
+Statement of Assets Covering Non-Linked Long-Term Insurance Liabilities and Minimum Capital Requirement
+
+A/Q
+
+N/A
+
+IN160
+
+Calculation of Direct Long-Term Insurance Element of Long-Term Insurance Component
+
+A/Q
+
+N/A
+
+IN180
+
+Statement of Claims Development
+
+A/Q
+
+A/Q
+
+IN190
+
+Employment Statistics
+
+A
+
+A
+
+IN200
+
+Statement of Underwriting Performance
+
+A/Q
+
+A/Q
+
+IN210
+
+Statement of Revenue by Jurisdiction
+
+A
+
+A
+
+A10.3.2 The forms referred to in Rule A10.3.1 must be prepared for each reporting unit for which an Insurer is required to submit an Annual Regulatory Return or a Quarterly Regulatory Return as applicable, except where:
+
+(a)
+
+this appendix, the instructional guidelines to the form set out in PRU or the DFSA’s electronic prudential reporting system states that the form is not required for that reporting unit, or for that Insurer; or
+
+(b)
+
+the form would contain no information, in which case the Insurer may omit the form and present a Supplementary Note stating that the form has not been prepared for that reason.
+
+A10.3.3 The forms comprising the Returns are set out in PRU and the DFSA’s electronic
+
+prudential reporting system.
+
+A10.3.4 Items must be disclosed in the Returns in accordance with the instructional guidelines set out in PRU and the DFSA’s electronic prudential reporting system, subject to the effects of other provisions of

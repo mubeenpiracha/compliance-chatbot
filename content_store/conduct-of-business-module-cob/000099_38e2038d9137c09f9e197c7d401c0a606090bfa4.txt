@@ -1,0 +1,143 @@
+ any other
+
+Person; and
+
+(b)
+
+the entire shares of, or interests in, an individual property are listed for sale on its platform.
+
+Guidance
+
+The effect of Rule 11.6.7(b) is that an operator is required to list for sale the whole, and not part only, of an individual apartment, house or building.
+
+148
+
+COB/VER48/03-25
+
+CONDUCT OF BUSINESS (COB)
+
+Investment limit
+
+11.6.8 The operator must maintain effective systems and controls to ensure that a Retail
+
+Client does not invest more than:
+
+(a) US$50,000 in an individual property using its service; and
+
+(b) US$100,000 in total in any calendar year using its service.
+
+Restriction on remuneration sources
+
+11.6.9 (1) The operator must ensure that it, and a person Related to it, does not receive any remuneration, fee, payment or commission for, or in connection with, its service, except from investors or sellers who use the platform.
+
+(2) Without limiting (1), an operator, or a person Related to the operator, must not receive any remuneration, fee, payment or commission from a real estate agent, property manager, valuer, custodian or any other person providing a service related to the property.
+
+Property not to be mortgaged
+
+11.6.10 The operator must ensure that no mortgage, lien or other security is granted over a
+
+property that investors invest in using its platform.
+
+Guidance
+
+Rule 11.6.10 prevents an operator or a Special Purpose Vehicle from taking a loan secured against the property.
+
+149
+
+COB/VER48/03-25
+
+CONDUCT OF BUSINESS (COB)
+
+12
+
+OPERATING OR ACTING AS THE ADMINISTRATOR OF AN EMPLOYEE MONEY PURCHASE SCHEME
+
+12.1 Application and Interpretation
+
+Guidance
+
+The terms ‘Member”, “Participating Employer” and “Scheme” are defined in GEN Rule 2.30.1 and the terms “DIFC Scheme” and “Non-DIFC Scheme” are defined in GLO.
+
+Application
+
+12.1.1 The Rules in this chapter apply to an Authorised Firm when:
+
+(a)
+
+Operating an Employee Money Purchase Scheme; or
+
+(b)
+
+Acting as the Administrator of an Employee Money Purchase Scheme.
+
+Guidance
+
+1. The Rules in this Chapter apply to an Operator or Administrator of a Scheme regardless of whether the Scheme is established in the DIFC (a DIFC Scheme) or outside the DIFC (a Non- DIFC Scheme), unless otherwise provided. For example, the requirements in Rule 12.2.3 apply only in relation to a Non-DIFC Scheme.
+
+2. GEN Rule 2.2.10H prohibits an Authorised Firm from Operating or Acting as the Administrator
+
+of a Non-DIFC Scheme if the Scheme receives contributions from:
+
+a.
+
+a DIFC employer in respect of its employees under the Employment Law; or
+
+b.
+
+an employer in respect of its employees under another Dubai law.
+
+Interpretation
+
+12.1.2
+
+In this Chapter:
+
+(a) of an Employee Money Purchase Scheme;
+
+“Administrator” means an Authorised Firm Acting as the Administrator
+
+(b)
+
+“Basic Wage” means an employee’s annual wage, excluding allowances and additional payments (such as bonuses);
+
+(c)
+
+“Beneficiary” means a Person nominated by a Member, or a Person legally entitled to a benefit if there is no valid nomination by a Member;
+
+(d)
+
+“Constitution”, in relation to an Employee Money Purchase Scheme, means:
+
+(i)
+
+if the Scheme uses a trust structure, the trust deed and trust rules of the trust;
+
+150
+
+COB/VER48/03-25
+
+CONDUCT OF BUSINESS (COB)
+
+(ii)
+
+if the Scheme is a body corporate, the articles of association or other equivalent governing documents of the body corporate; or
+
+(iii)
+
+in any other case, the documents that set out the relevant terms of the scheme;
+
+(e)
+
+“Core Benefits” means the benefits required to be paid to an Employee Money Purchase Scheme by:
+
+(i)
+
+a DIFC employer in respect of its employees under the Employment Law; or
+
+(ii)
+
+an employer in respect of its employees under a Dubai law;
+
+(f)
+
+“Operator” means an Authorised Firm

@@ -1,0 +1,175 @@
+ Provider other than an undertaking belonging to the same Group;
+
+(m)
+
+cash withdrawal services provided through automatic teller machines; or
+
+(n)
+
+the issuance of a Fiat-Referenced Token.
+
+53B.
+
+Issuing a Fiat-Referenced Token
+
+Issuing a Fiat-Referenced Token is a specified kind of activity.
+
+249
+
+Chapter 9 Operating Multilateral and Organised Trading Facilities
+
+The activities
+
+Operating a Multilateral Trading Facility or Organised Trading Facility342
+
+The activities of Operating a Multilateral Trading Facility or Organised Trading Facility
+
+(1)
+
+Each of the following activities –
+
+(a)
+
+the operation of a Multilateral Trading Facility on which Financial Instruments, Virtual Assets or Spot Commodities are traded;
+
+(b)
+
+the operation of an Organised Trading Facility on which Financial Instruments are traded; and
+
+(c)
+
+any other ancillary activities deemed suitable by the Regulator for the MTF or OTF to conduct;
+
+is a specified kind of activity.
+
+Exclusion
+
+Order Routing343
+
+(1)
+
+A person does not Operate -
+
+(a)
+
+a Multilateral Trading Facility if it operates a facility which is merely an order routing system where Buying and Selling interests in, or orders for, Financial Instruments, Virtual Assets or Spot Commodities are merely transmitted but do not interact; or
+
+(b)
+
+an Organised Trading Facility if it operates a facility which is merely an order routing system where Buying and Selling interests in, or orders for, Financial Instruments are merely transmitted but do not interact.
+
+342 Amended 17 February 2020, 20 September 2022 and 12 December 2023.
+
+343 Amended 17 February 2020 and 12 December 2023.
+
+250
+
+Chapter 10 Managing Assets
+
+The activity
+
+Managing Assets344
+
+Managing on a discretionary basis assets belonging to another person is a specified kind of activity if the assets include any Financial Instrument, Virtual Asset, Spot Commodity or rights under a Contract of Long-Term Insurance, not being a contract of reinsurance.
+
+Exclusions
+
+Attorneys
+
+(1)
+
+A person does not carry on an activity of the kind specified by paragraph 56 if—
+
+(a)
+
+he is a person appointed to manage the assets in question under a power of attorney; and
+
+(b)
+
+all routine or day-to-day decisions, so far as relating to investments of a kind mentioned in paragraph 56, are taken on behalf of that person by—
+
+(i)
+
+an Authorised Person with permission to carry on activities of the kind specified by paragraph 56;
+
+(ii)
+
+a person who is an Exempt Person in relation to activities of that kind; or
+
+(iii)
+
+a Non-ADGM Person.345
+
+Other exclusions
+
+Paragraph 56 is also subject to the exclusions in paragraphs 74 (Trustees etc.) 76 (Sale of goods and supply of services), 77 (Groups and Joint Enterprises), 81 (Provision of information on an incidental basis) and 82 (Insolvency Practitioners).
+
+Chapter 11 Collective Investment
+
+The activities
+
+Managing a Collective Investment Fund
+
+(1)
+
+Managing a Collective Investment Fund is a specified kind of activity.
+
+(2)
+
+A person manages a Collective Investment Fund when the person—
+
+344 Amended 17 February 2020 and 12 December 2023.
+
+345 Amended 30 December 2024.
+
+251
+
+(a)
+
+is legally accountable to the Unitholders in the Collective Investment Fund for the management of the property held for or within a Collective Investment Fund under the Collective Investment Fund's Constitution; or
+
+(b)
+
+establishes, manages or otherwise operates or winds up a Collective Investment Fund.
+
+Acting as the Administrator of a Collective Investment Fund
+
+(1)
+
+Acting as the Administrator of a Collective Investment Fund is a specified kind of activity.
+
+(2)
+
+Acting as the Administrator of a Collective Investment Fund means providing one or more of the following services in relation to a Collective Investment Fund—
+
+(a)
+
+processing dealing instructions including subscriptions, redemptions, stock transfers and arranging settlements;
+
+(b)
+
+valuing of assets and performing net asset value calculations;
+
+(c)
+
+maintaining the share register and Unitholder registration details;
+
+(d)
+
+performing anti-money laundering functions;
+
+(e)
+
+undertaking transaction monitoring and reconciliation functions;
+
+(f)
+
+performing administrative activities in relation to banking, Cash management, treasury and foreign exchange;
+
+(g)
+
+producing financial statements, other than as the Collective Investment Fund's auditor; or
+
+(h)
+
+communicating with participants

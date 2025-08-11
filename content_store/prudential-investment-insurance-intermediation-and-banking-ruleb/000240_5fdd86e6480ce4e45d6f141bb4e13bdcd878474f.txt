@@ -1,0 +1,119 @@
+ cost as the replacement cost for a set of derivative exposures between the Authorised Person and a Counterparty where the following conditions are met:
+
+(a)
+
+an eligible bilateral netting contract must be in place between the Authorised Person and the Counterparty that is binding on the Authorised Person and the Counterparty and that is legally enforceable in all relevant jurisdictions;
+
+(b)
+
+that contract is a qualified financial contract as specified in the ADGM Insolvency Regulations and meets the conditions specified in Part 7, Chapter 2 therein; and
+
+(c)
+
+the Authorised Person meets the disclosure requirements for the NSFR as specified in App12.
+
+A10.4.13 Where an Authorised Person has entered into secured funding arrangements, the
+
+Authorised Person must:
+
+(a)
+
+include in its calculation of the RSF;
+
+(i)
+
+securities it has lent in SFTs where it retains beneficial ownership; and
+
+(ii)
+
+encumbered securities financing transactions where it has retained beneficial ownership and those assets remain on its balance sheet; and
+
+in
+
+repos or other securities
+
+(b)
+
+exclude from its calculation of the RSF;
+
+(i)
+
+securities which it has borrowed in SFTs (such as reverse repos and collateral swaps) and to which it does not have beneficial ownership; and
+
+(ii)
+
+any securities it has received through collateral swaps if those securities do not appear on its balance sheet.
+
+A10.4.14 An Authorised Person may measure SFTs with a single Counterparty net when
+
+calculating the NSFR where the following conditions are met:
+
+(a)
+
+an eligible bilateral netting contract must be in place between the Authorised Person and the Counterparty that is binding on the Authorised Person and the Counterparty and that is legally enforceable in all relevant jurisdictions;
+
+424
+
+PRU VER17.290725
+
+(b)
+
+that contract is a qualified financial contract as specified in the ADGM Insolvency Regulations and meets the conditions specified in Part 7, Chapter 2 therein; and
+
+(c)
+
+the Authorised Person meets the disclosure requirements for the NSFR as specified in App12.
+
+A10.4.15
+
+In determining the residual maturity of both assets and off-balance sheet items that are to be included in the Required Stable Funding, an Authorised Person must calculate the residual maturity of each individual asset or off-balance sheet item as being that period up to the latest point in time to which investors have the right to extend the maturity of an asset or an off-balance sheet item.
+
+Guidance
+
+1. When determining the residual maturity of assets and off-balance sheet items, investors should be assumed to exercise any option to extend maturity. For assets with options exercisable at the discretion of the Authorised Person, the Regulator will take into account reputational factors that may limit the ability of the Authorised Person not to exercise the option. In particular, where the market expects certain assets to be extended in their maturity, Authorised Persons and the Regulator should assume such behaviour for the purpose of the NSFR and include these assets in the corresponding RSF category. For amortising loans, the portion that comes due within the one-year horizon may be considered as a having a residual maturity of less than one year and included in the appropriate RSF category.
+
+A10.4.16 Subject to A10.4.17, an Authorised Person must calculate the Required Stable
+
+Funding that it needs for its assets by:
+
+(a)
+
+assigning each asset to one of the RSF asset categories in the following table;
+
+(b) multiplying the Carrying Value of each asset by the RSF factor associated with
+
+that asset category; and
+
+(c)
+
+summing those weighted values.
+
+RSF factor
+
+RSF asset category
+
+coins and banknotes immediately available to meet obligations
+
+all central bank reserves (including required reserves and excess reserves)
+
+all claims on central banks with residual maturities of less than six months
+
+0%
+
+“trade date” receivables arising from sales of financial instruments, foreign currencies and commodities that: o are expected to settle within the standard settlement cycle or period that
+
+is customary for the relevant exchange or type of transaction; or
+
+o have failed to, but are still expected to, settle
+
+425
+
+PRU VER17.290725
+
+RSF factor
+
+RSF asset category
+
+5%
+
+unencumbered Level 1 HQLA as defined in Rule A10.2.6(2), excluding

@@ -1,0 +1,67 @@
+ is of particular relevance where a single outcome is exposed to more than one risk, for example where assets need to be available not only in a particular location but also in a specific currency.
+
+6.
+
+Appropriate procedures should be in place for assessing the credit-worthiness of counterparties to whom the Insurer is significantly exposed. Further guidance in this area is provided in A2.11.
+
+55
+
+PIN/VER18/04-23
+
+7.
+
+8.
+
+9.
+
+PRUDENTIAL – INSURANCE BUSINESS (PIN)
+
+Appropriate procedures should be in place for setting prudent limits for the Insurer’s aggregate exposure to certain categories of asset. Such limits should take account of the suitability of assets covering Insurance Liabilities. They may take account of the Insurer’s other assets bearing in mind the possibility that such assets might in future be needed to meet Insurance Liabilities.
+
+The investment strategy should be reflected in clear terms of reference from the Insurer to its investment managers, who should be qualified and competent to carry out their assigned task. The work of the investment managers should be monitored sufficiently closely by management to ensure that the Insurer’s strategy is being followed and that the systems are effective.
+
+Insurers should ensure that controls over derivatives and other complex investment instruments have been implemented and are adequate to ensure that risks are properly assessed, regularly reviewed in the light of changing market conditions and experience, and consistent with the overall investment strategy decided upon and approved by the Insurer. In particular senior management and directors of Insurers should:
+
+a.
+
+fully understand the nature of derivatives trading and trading in any other complex investment instruments being undertaken by the organisation and the related risks, and where relevant, are suitably qualified and competent to transact the range and type of transactions being undertaken and understand the nature of the exposures (including both counterparty and market risk) which their use will create;
+
+b.
+
+have documented clearly the objectives and policies for the use of derivatives contracts, and other complex investment instruments and monitor their use (including by way of compliance audits of investment managers) to ensure their use is in line with those objectives and policies. Insurers should ensure that policies are sufficiently clear and precise to ensure that new types of instrument are not dealt in without due prior consideration. They should also define any associated limits on exposures or volumes that are considered appropriate;
+
+c.
+
+have due regard to uncovered transactions in the context of the above controls so that in no circumstances is the Insurer’s capital adequacy endangered. Systems should be adequate to prevent exposure to unacceptable, exceptionally volatile risks and to monitor transactions with a frequency commensurate with volatility and risk. The systems should trigger a hedge or close out a transaction whenever adverse movements or events threaten a significant worsening of the Insurer’s capital adequacy position;
+
+d.
+
+have ensured that those who have responsibility for the control of investments in derivatives and other complex instruments, are sufficiently independent of the day-to- day operators to ensure effective control;
+
+e.
+
+be capable of analysing and monitoring the risk of all transactions undertaken by the Insurer individually and in aggregate (including interest rate risk, foreign exchange risk, fraud, error, unauthorised access to information and other operational risks);
+
+f.
+
+be provided regularly with appropriate statistics and information on the trading volumes of derivatives contracts by type of product including regular reports of all off- balance sheet transactions, contingencies and commitments;
+
+g.
+
+be satisfied that sufficient systems and controls relevant to derivative products and other complex investment instruments have been put in place, including independent agreement and reconciliation of positions, independent checking of prices, appropriate authorisation where dealing limits have been exceeded, etc; and
+
+h.
+
+have tested adequately and approved valuation models which are used to value open positions and derivative contracts, and other complex investment instruments, including controls preventing unauthorised programme amendments. Such models should
+
+56
+
+PIN/VER18/04-23
+
+PRUDENTIAL – INSURANCE BUSINESS (PIN)
+
+include appropriate testing of the robustness of the portfolio in changing investment conditions, using realistic scenarios relevant to the circumstances of the Insurer.
+
+10.
+
+Stress and scenario testing should consider the impact of possible deteriorations in investment conditions, including where relevant the impact of simultaneous deteriorations in more than one market. It should also consider effects on liquidity, including where relevant those from an inability to repatriate assets from elsewhere. Where the insurance industry’s holdings are large in relation to the turnover of the domestic market, scenario modelling should take account of the possible effect on

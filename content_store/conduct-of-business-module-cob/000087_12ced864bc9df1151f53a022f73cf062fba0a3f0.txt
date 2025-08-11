@@ -1,0 +1,143 @@
+ potential investor using an Investment Crowdfunding Platform or a Property Investment Crowdfunding Platform;
+
+(e)
+
+“lender” means a Person who:
+
+(i)
+
+lends money under a loan agreement; or
+
+(ii)
+
+by assignment has assumed the rights and obligations of a Person who has lent money under a loan agreement;
+
+(f)
+
+“loan agreement” means a loan agreement between a borrower and a lender referred to in Rule 11.4.1;
+
+(g)
+
+“operator” means a Crowdfunding Operator;
+
+(h)
+
+“property” means land or buildings and includes a part of a building, such as an apartment;
+
+(i)
+
+“platform” means the website or other electronic media used to provide the service;
+
+(j)
+
+“seller” means a person selling a property using a Property Investment Crowdfunding Platform;
+
+(k)
+
+“service” means Operating a Crowdfunding Platform;
+
+(l)
+
+“transfer”, in relation to a loan agreement, means the assignment by the lender of his rights and obligations under the agreement to another Person; and
+
+(m)
+
+“user” means a borrower, Issuer, seller, lender or investor who uses a Crowdfunding Platform.
+
+129
+
+COB/VER48/03-25
+
+CONDUCT OF BUSINESS (COB)
+
+11.3 Requirements for Crowdfunding Platforms
+
+Crowdfunding risk disclosure
+
+11.3.1 (1) An operator must disclose prominently on its website and on any other electronic medium through which its services can be accessed the main risks to lenders or investors of using a Crowdfunding Platform, including that:
+
+(a)
+
+the lender or investor may lose all or part of their money or may experience delays in being paid;
+
+(b)
+
+except in the case of Property Investment Crowdfunding, borrowers or Issuers on the platform may include new businesses and, as many new businesses fail, a loan to such a borrower or an investment with such an Issuer may involve high risks;
+
+(c)
+
+the lender may not be able to transfer their loan, or the investor may not be able to sell their Investment, when they wish to, or at all;
+
+(d)
+
+if for any reason the operator ceases to carry on its business, the lender or investor may lose their money, incur costs or experience delays in being paid; and
+
+(e)
+
+the use of credit or borrowed monies to invest or lend on a platform creates greater risk. For example, even if the loan or Investment declines in value or is not repaid, the lender or investor will still need to meet their repayment obligations.
+
+(2) For Property Investment Crowdfunding, in addition to the risk warnings in (1), the operator must disclose the following risks prominently on its website and on any other electronic medium through which its services can be accessed:
+
+(a)
+
+an investment in property is speculative as the market value of property can fall and rental income is not guaranteed;
+
+(b)
+
+the investor will not own the property, rather the investor will have an interest in a Special Purpose Vehicle that owns the property;
+
+(c)
+
+as the investor’s interest in the Special Purpose Vehicle is not listed or traded, it is likely to be an ‘illiquid’ investment. That is, it may be difficult to sell the interest because of a lack of investors willing to buy such an interest;
+
+(d)
+
+it may be difficult to sell the property at the end of the investment period, resulting in the investor experiencing a delay in receiving their capital or the property being sold at a loss; and
+
+(e)
+
+in some cases, there may be government restrictions on the sale of a property to foreign owners, which may restrict the range of potential buyers.
+
+130
+
+COB/VER48/03-25
+
+11.3.2
+
+CONDUCT OF BUSINESS (COB)
+
+Information about default or failure rates
+
+(1) An operator must disclose prominently on its website and on any other
+
+electronic medium through which its services can be accessed:
+
+(a)
+
+for Loan Crowdfunding:
+
+(i)
+
+the number and aggregate value of loans in default;
+
+(ii)
+
+the actual default rates as a percentage of loans entered into on the platform; and
+
+(iii)
+
+the expected default or failure rates; and
+
+(b)
+
+for Investment Crowdfunding, the actual and expected failure rate of Issuers who use the platform.
+
+(2) The information referred to in (1) must:
+
+(a)
+
+for actual default or failure rates, cover the period since the operator began providing the service;
+
+(b)
+
+for expected default or failure rates, set out a summary of the assumptions used in

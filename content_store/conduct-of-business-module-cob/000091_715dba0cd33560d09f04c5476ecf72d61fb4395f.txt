@@ -1,0 +1,141 @@
+ civil proceeding exceeding $10,000;
+
+135
+
+COB/VER48/03-25
+
+11.3.7
+
+CONDUCT OF BUSINESS (COB)
+
+d.
+
+disqualified from acting as a director or taking part in the management of a company; or
+
+e.
+
+bankrupt or the director, or a person concerned in the management, of a company which has gone into liquidation or administration.
+
+2.
+
+The purpose of the due diligence under Rule 11.3.6(2)(j) is to check that the business itself is lawful in the place in which it is being carried on i.e. that the owner has the necessary permits and that the activity is lawful. The borrower or Issuer should certify these matters and provide relevant documents where appropriate.
+
+Disclosure of information about the borrower, Issuer or seller
+
+(1) An operator of an Investment Crowdfunding Platform or a Loan Crowdfunding Platform, must disclose prominently on its platform to lenders and investors relevant information about each borrower or Issuer, including as a minimum:
+
+(a)
+
+the name of the borrower or Issuer, the full name and position of each of its directors and officers and the full name of each controller;
+
+(b)
+
+the place of incorporation of the borrower or Issuer and the place of domicile of each director, officer and controller;
+
+(c)
+
+a description of the borrower’s or Issuer’s business;
+
+(d)
+
+except as provided in Rule 11.3.7A, the most recent financial statements, if any, of the borrower or Issuer and a warning that the operator gives no assurances about their accuracy;
+
+(e)
+
+the valuation of the Issuer’s business and, for a borrower and an Issuer, their current borrowing or funding levels and the source of their borrowing and liquidity;
+
+(f)
+
+a detailed description of the proposal for which it is seeking funding including:
+
+(i)
+
+the total funding sought;
+
+(ii)
+
+how the funds will be used; and
+
+(iii)
+
+the target level of funding sought and what will happen if that level is not met or is exceeded;
+
+(g)
+
+the results of the due diligence carried out by the operator on the borrower or Issuer and any limits on the due diligence that could be carried out;
+
+(h)
+
+any grading or rating by the operator of the borrower’s or Issuer’s creditworthiness, including:
+
+(i)
+
+how the grading or rating has been assessed;
+
+(ii)
+
+an explanation of what the different grading or rating levels mean; and
+
+136
+
+COB/VER48/03-25
+
+CONDUCT OF BUSINESS (COB)
+
+(iii)
+
+a clear statement that this should not be taken as advice about whether money should be lent to the borrower or invested with the Issuer;
+
+(i)
+
+for a loan or Debenture, the duration of the loan or Debenture, details of interest payable and any other rights attaching to the loan or Debenture;
+
+(j)
+
+for a Share issue, any rights attaching to the Share, such as dividend, voting or pre-emption rights;
+
+(k)
+
+whether any security is being provided and, if so, the circumstances in which it might be exercised and any limitations on its use;
+
+(l)
+
+if applicable, any other reward or benefit attaching to the loan or Investment and the terms on which it is available;
+
+(m)
+
+for a Share issue, whether investors have any protection from their shareholding being diluted by the issue of further Shares; and
+
+(n)
+
+that the borrower or Issuer, and information provided about the borrower or Issuer, are not checked or approved by the DFSA.
+
+(2) An operator of a Property Investment Crowdfunding Platform must disclose prominently on its platform to investors relevant information about each seller and property, including as a minimum:
+
+(a)
+
+full details about the property, including its location and condition, and whether it is currently rented;
+
+(b)
+
+full details about the seller’s legal title to the property such as whether it is freehold, leasehold or strata title, and whether the seller is able to sell the property free of any encumbrance;
+
+(c)
+
+whether the property is let or in a lettable condition including whether it requires renovation or other work before it can be let;
+
+(d)
+
+the independent valuation report on the property referred to in Rule 11.6.3;
+
+(e)
+
+the estimated annual charges and expenses relating to the property;
+
+(f)
+
+the estimated annual rental income on the property, after deducting charges and expenses;
+
+(g)
+
+the results

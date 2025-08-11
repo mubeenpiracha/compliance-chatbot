@@ -1,0 +1,150 @@
+Category 3D
+
+Category 4
+
+Category 5
+
+Managing a Collective Investment Fund
+
+Providing Money Services (other than issuing Stored Value or Money Transmission)
+
+Arranging Deals in Investments
+
+An Islamic Financial Institution which Manages a PSIAu
+
+Managing Assets
+
+Advising on Financial Products
+
+Providing Trust Services as a trustee of an express trust
+
+Arranging Custody
+
+Managing a PSIAr
+
+Insurance Intermediation
+
+Providing Custody (other than for a Fund and other than in relation to Crypto Assets)
+
+Insurance Management
+
+Providing Money Services (issuing Stored Value)
+
+Operating an Alternative Trading System
+
+Providing Fund Administration
+
+234
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+Providing Trust Services other than as a trustee of an express trust
+
+Arranging Credit and Advising on Credit
+
+Operating a Crowdfunding Platform
+
+Providing Money Services (Money Transmission)
+
+Arranging or Advising on Money Services
+
+235
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+APP2 GENERAL REQUIREMENTS
+
+A2.1 Detail in the Trading Book
+
+A2.1.1 (1)
+
+This Appendix applies to an Authorised Firm which meets the criteria in Rule 2.2.1 and is thereby required to have a Trading Book.
+
+(2)
+
+An Authorised Firm which is required to have a Trading Book must:
+
+(a) have a Trading Book policy in accordance with section A2.2; and
+
+(b)
+
+include positions in its Trading Book on a consistent basis in accordance with the policy and procedures set out in the Trading Book policy.
+
+(3)
+
+An Authorised Firm must include every position that is not included in its Trading Book in its Non-Trading Book.
+
+(4)
+
+An Authorised Firm must value every position included in its Trading Book and the Non-Trading Book in accordance with the relevant accounting standards and practices.
+
+Value of Trading Book positions
+
+A2.1.2 (1)
+
+In calculating the value of positions for the purposes of Rule 2.2.1(c) an Authorised Firm must value:
+
+(a) equities and debt instruments at their market prices;
+
+(b) derivatives according to the values of the underlying; and
+
+(c)
+
+underwriting positions according to the market value of the underlying Securities.
+
+(2)
+
+An Authorised Firm must sum all long and short positions (ignoring the sign) to calculate its total Trading Book size.
+
+Positions included in the Trading Book
+
+A2.1.3 An Authorised Firm must include in its Trading Book, subject to the Rules on trading
+
+intent and hedging Non-Trading Book Exposures:
+
+(a)
+
+each proprietary position in a Financial Instrument, commodity or commodity derivative which is held with trading intent as detailed in Rule A2.1.5(3);
+
+(b)
+
+each position arising from Matched Principal broking and market making;
+
+(c)
+
+each position taken in order to hedge another element of the Trading Book;
+
+(d)
+
+each Exposure due to a repurchase agreement (repo), or Securities and commodities lending, which is based on a Security or commodity included in the Trading Book;
+
+236
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+(e)
+
+each Exposure due to a reverse repurchase agreement (reverse repo), or Securities and commodities borrowing transaction included in the Trading Book;
+
+(f)
+
+each Exposure arising from an Unsettled Transaction, free delivery or OTC derivative; and
+
+(g)
+
+each Exposure in the form of a fee, commission, interest, dividend or margin on an exchange-traded derivative directly related to the items included in the Trading Book.
+
+Guidance
+
+Whenever an Authorised Firm acts as principal (even in the context of activity normally described as ‘broking’ or ‘customer business’), positions should be assigned to the Trading Book. This applies even if the nature of the business means that the only risks being incurred by the Authorised Firm are Counterparty Risks (that is, no Market Risk Capital Requirements apply).
+
+A2.1.4 (a)
+
+An Authorised Firm must not include loans or traded loans in its Trading Book unless they have been used to hedge a Trading Book transaction.
+

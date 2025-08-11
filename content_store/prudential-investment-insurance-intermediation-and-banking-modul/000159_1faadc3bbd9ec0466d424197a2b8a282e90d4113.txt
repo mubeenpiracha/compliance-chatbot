@@ -1,0 +1,133 @@
+ are adhered to on a consistent basis, including details on:
+
+A.
+
+the organisational unit or department within the Authorised Firm responsible for monitoring adherence to the Trading Book policy;
+
+B.
+
+the frequency of monitoring;
+
+C.
+
+process and methodology of this monitoring; and
+
+D.
+
+how the continuing appropriateness of allocations is confirmed;
+
+the extent of active management and valuation, including:
+
+i.
+
+the extent to which a position can be marked-to-market daily by reference to an active, liquid two-way market;
+
+ii.
+
+for positions which are marked-to-model, the extent to which the Authorised Firm can:
+
+A.
+
+identify all the material risks of the position;
+
+B.
+
+hedge the material risks of the position and, where the material risks of the position are hedged, the extent to which hedging instruments used have an active and liquid two-way market; and
+
+C.
+
+derive reliable external estimates for the key assumptions and parameters used in the model;
+
+iii.
+
+the extent to which the Authorised Firm can, and is required to, generate valuations for the position which can validated externally by its auditors or by the DFSA in a consistent manner;
+
+iv.
+
+the extent to which the Authorised Firm can, and is required to, maintain documents to support valuations of its Trading Book positions;
+
+v.
+
+the basis for determining and maintaining valuation adjustments for the purposes of calculating regulatory Capital Requirements;
+
+vi.
+
+the extent to which legal restrictions or other operational requirements would impede the ability of the Authorised Firm to effect an immediate liquidation of the position; and
+
+vii.
+
+the extent to which the Authorised Firm can, and is required to, actively risk manage a position within its trading operations;
+
+transfers between Non-Trading and Trading Books, including:
+
+i.
+
+the extent to which an Authorised Firm may transfer positions between the Non- Trading Book and the Trading Book and the criteria for such transfers;
+
+ii.
+
+the procedures to effect such transfers; and
+
+iii.
+
+the controls in place to prevent inappropriate transfers of positions between the Non-Trading Book and the Trading Book; and
+
+243
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+d.
+
+the following additional considerations:
+
+i.
+
+whether there are any subsidiaries or offshore branches of the Authorised Firm undertaking transactions to be included in the Trading Book. If so, a list of such subsidiaries or branches shall be included, along with a description of the trading activities carried out by such entities;
+
+ii.
+
+the treatment of inter-desk deals; and
+
+iii.
+
+the identification and management of structural foreign exchange positions.
+
+2.
+
+An Authorised Firm should prepare its Trading Book policy on a consolidated basis where the Financial Group either manages its trading risk centrally or employs the same risk management techniques across all the entities in the Financial Group. Where a Trading Book policy is prepared on a consolidated basis, an Authorised Firm should ensure that its application to the Authorised Firm and each of the other entities in the Financial Group is made clear and approved by the Governing Body of the Authorised Firm and the Governing Body of each of those entities.
+
+A2.3 Risk management systems and controls for Trading Book
+
+A2.3.1 An Authorised Firm must establish and maintain effective systems and controls to
+
+manage its Trading Book.
+
+A2.3.2 An Authorised Firm must establish and maintain systems and controls sufficient to provide prudent and reliable valuation estimates. These systems and controls must include:
+
+(a)
+
+documented policies and procedures for the process of valuation (including clearly defined responsibilities of the various areas involved in the determination of the valuation, sources of market information and review of their appropriateness, frequency of independent valuation, timing of closing prices, procedures for adjusting valuations, month end and ad-hoc verification procedures); and
+
+(b)
+
+reporting lines for the department accountable for the valuation process that are clear and independent of the front office.
+
+A2.4 Reporting to the DFSA
+
+A2.4.1
+
+In the following Table 1:
+
+(a)
+
+the column headed ‘Domestic Firm or Branch’ indicates whether the relevant form must be prepared and submitted by a Domestic Firm or Branch;
+
+(b)
+
+the column headed ‘Authorised Firm Category’ indicates which Category of Authorised Firm must prepare and submit the relevant form;
+
+(c)
+
+the column headed ‘Frequency’ indicates whether the relevant form must be prepared

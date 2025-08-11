@@ -1,0 +1,165 @@
+ would affect the following Liquidity Risk drivers as applicable to the firm’s operations:
+
+a.
+
+retail funding risk;
+
+b.
+
+wholesale secured and unsecured funding risk;
+
+c.
+
+risks arising from funding markets;
+
+d.
+
+lack of diversification between funding types;
+
+e.
+
+off-balance sheet funding risk;
+
+f.
+
+risks arising from the firm’s funding tenors;
+
+g.
+
+risks associated with a deterioration of the firm’s credit rating;
+
+h.
+
+cross-currency funding risk;
+
+i.
+
+risk that liquidity resources cannot be transferred across entities, sectors and countries;
+
+j.
+
+funding risks resulting from estimates of future balance sheet growth;
+
+k.
+
+reputational risk;
+
+l.
+
+marketable and non-marketable assets risk; and
+
+m.
+
+intra-day payment and settlement risk.
+
+2. Market-wide stress scenarios under 9.2A.3(2)(a) should include:
+
+a.
+
+a simultaneous drying up of market liquidity in several previously highly liquid markets;
+
+b.
+
+severe constraints in accessing secured and unsecured funding;
+
+c.
+
+restrictions on currency convertibility; and
+
+d.
+
+severe operational or settlement disruptions affecting one or more payment or settlement systems.
+
+3.
+
+The identification of the possible balance sheet and off-balance sheet impact referred to in Rule 9.2A.3(2)(b) should take into account:
+
+a.
+
+possible changes in the market’s perception of the Authorised Firm and the effects that this might have on the Authorised Firm’s access to the markets, including:
+
+215
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+i.
+
+where the Authorised Firm funds its holdings of assets in one currency with liabilities in another, access to foreign exchange markets, particularly in less frequently traded currencies;
+
+ii.
+
+access to secured funding, including by way of repurchase agreement transactions; and
+
+iii.
+
+the extent to which the Authorised Firm may rely on committed facilities made available to it;
+
+b.
+
+whenever applicable the possible effect of each scenario tested on currencies whose exchange rates are currently pegged or fixed; and
+
+c.
+
+that:
+
+i.
+
+general market turbulence may trigger a substantial increase in the extent to which persons exercise rights against the Authorised Firm under off-balance sheet instruments to which the Authorised Firm is party;
+
+ii.
+
+access to OTC derivative and foreign exchange markets is sensitive to credit- ratings;
+
+iii.
+
+Early Amortisation in asset securitisation transactions with which the Authorised Firm has a connection may be triggered;
+
+iv.
+
+its ability to securitise assets may be reduced; and
+
+v.
+
+there may be a potential need to buy back debt or honour non-contractual obligations to mitigate reputational risk.
+
+4. An Authorised Firm is required to conduct stress tests regularly. The frequency with which an Authorised Firm should conduct stress tests will depend on the risks to the particular Authorised Firm. For some Authorised Firms, it may be adequate to conduct tests annually, but, for others, it may be necessary to conduct tests more frequently e.g. quarterly.
+
+9.2A.4 An Authorised Firm must ensure that stress tests conducted under Rule 9.2A.3 enable it to analyse the impact of stress scenarios on its liquidity positions, as well as on the liquidity positions of its individual business lines.
+
+9.2A.5 (1)
+
+An Authorised Firm must ensure that results of the stress tests are integrated into its strategic planning process and its day-to-day risk management practices.
+
+(2)
+
+An Authorised Firm must apply the results of the stress tests:
+
+(a)
+
+to adjust its liquidity management strategy, policies and positions, including to determine an appropriate buffer of HQLA;
+
+(b)
+
+for the setting of internal limits; and
+
+(c)
+
+for the purpose of the IRAP and ICAAP assessments under chapter 10, where applicable.
+
+216
+
+PIB/VER50/07-25
+
+9.2A.6
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+(3)
+
+An Authorised Firm must incorporate the stress test results in assessing and planning for related potential funding shortfalls in its Contingency Funding Plan.
+
+(4)
+
+An Authorised Firm must ensure that the stress test results and vulnerabilities and any resulting actions are reported to, and discussed with

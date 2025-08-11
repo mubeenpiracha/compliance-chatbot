@@ -1,0 +1,113 @@
+ third party agents ........................................... 218 A6.6 Safe custody agreements with third party agents ................................................ 219 A6.7 Client disclosure .................................................................................................. 220 A6.8 Client reporting .................................................................................................... 221 A6.9 Reconciliation ...................................................................................................... 221 A6.10 Auditor’s reporting requirements .......................................................................... 222
+
+APP7
+
+PROVIDING MONEY SERVICES AND ARRANGING OR
+
+ADVISING ON MONEY SERVICES PROVISIONS ...........................223
+
+A7.1 Additional disclosure requirements ...................................................................... 223 A7.2 Rights and obligations of parties .......................................................................... 226 A7.3 Additional requirements for issuers of Stored Value ............................................ 231
+
+COB/VER48/03-25
+
+CONDUCT OF BUSINESS (COB)
+
+1
+
+INTRODUCTION
+
+1.1
+
+Application
+
+1.1.1
+
+This module (COB) applies to every Authorised Firm with respect to the carrying on, in or from the DIFC, of any:
+
+(a)
+
+Financial Service; or
+
+(b)
+
+activity which is carried on, or held out as being carried on, in connection with or for the purposes of such a Financial Service;
+
+except to the extent that a provision of COB provides for a narrower application.
+
+1.1.2 COB does not apply to a Representative Office.
+
+Guidance
+
+An Authorised Firm may be able to rely on the Transitional Rules in section 2.6 for the purposes of meeting the client classification requirements in chapter 2.
+
+1.2
+
+Interpretation
+
+1.2.1
+
+A reference in this module to a “financial product” includes, without limiting the generality of that term, a Crypto Token.
+
+1
+
+COB/VER48/03-25
+
+CONDUCT OF BUSINESS (COB)
+
+2
+
+CLIENT CLASSIFICATION
+
+2.1 Application
+
+2.1.1
+
+(1) This chapter applies, subject to Rule 2.1.2, to an Authorised Firm, which carries
+
+on, or intends to carry on, any Financial Service with or for a Person.
+
+(2) For the purposes of this chapter, a Person includes a Fund, pension fund or
+
+trust, even if it does not have a separate legal personality.
+
+Exclusions
+
+2.1.2
+
+(1) This chapter does not apply to a Credit Rating Agency in so far as it carries on, or intends to carry on, the Financial Service of Operating a Credit Rating Agency.
+
+(2) This chapter does not apply to an Authorised Firm in so far as it carries on the activity described in GEN Rule 2.26.1, provided that no other Financial Service is carried on.
+
+(3) This chapter does not apply to an Authorised ISPV.
+
+(4) Except as provided in (5), this chapter does not apply to an Authorised Firm that is Operating an Employee Money Purchase Scheme or Acting as the Administrator of an Employee Money Purchase Scheme.
+
+(5) An Authorised Firm referred to in (4) must treat the Members, Beneficiaries and Participating Employers of an Employee Money Purchase Scheme as Retail Clients.
+
+Guidance
+
+1.
+
+The activity described in GEN Rule 2.26.1 is marketing of financial services and financial products which are offered in a jurisdiction outside the DIFC. Such marketing activities can be conducted by an Authorised Firm, which holds a Representative Office Licence, provided the financial services or financial products marketed by it are those offered by its head office or a member of its Group.
+
+2.
+
+As a Representative Office conducting marketing activities of the kind described in GEN Rule 2.26.1 does not have a client relationship with a Person to whom it markets a financial service or financial product, the client classification requirements in this chapter do not apply to the firm with regard to that Person.
+
+3.
+
+Other Authorised Firms can also conduct marketing activities, of the kind described in GEN Rule 2.26.1, under the exclusion in GEN Rule 2.26.2.
+
+2
+
+COB/VER48/03-25
+
+CONDUCT OF BUSINESS (COB)
+
+2.2 Overview
+
+Guidance
+
+1.
+
+This chapter sets out the manner in which an Authorised Firm is required to classify its Clients, as well as good practice it may follow. The scope of application of the Rulebook modules will vary depending on whether the Person with or for whom

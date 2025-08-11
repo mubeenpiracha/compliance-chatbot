@@ -1,0 +1,74 @@
+other than a post office box).
+
+Guidance
+
+1.
+
+In Rule 8.4.1, Enhanced CDD measures are mandatory to the extent that they are applicable to the relevant customer or the circumstances of the business relationship and to the extent that the risks would reasonably require it. Therefore, the extent of additional measures to be conducted is a matter for the Relevant Person to determine on a case-by-case basis.
+
+2.
+
+In Rule 8.4.1(e), Senior Management approval may be given by an individual member of the Relevant Person's Senior Management or by a committee of senior managers appointed to consider high-risk customers. Such approval may also be outsourced within the Group, but only to a suitably qualified individual or committee.
+
+3.
+
+For high-risk customers, a Relevant Person should, in order to mitigate the perceived potential and actual risks, exercise a greater degree of diligence throughout the course of the customer relationship and should endeavour to understand the nature of the customer's business and consider whether it is consistent and reasonable.
+
+4.
+
+A Relevant Person should be satisfied that a customer's use of complex legal structures and/or the use of trust and private investment vehicles, has a genuine and legitimate purpose.
+
+5.
+
+For Enhanced CDD, where there are one or more Beneficial Owners, verification of the customer's Source of Funds and Wealth may require enquiring into the Beneficial Owners’ Source of Funds and Wealth because the Source of the Funds would normally be associated with the Beneficial Owners and not the customer.
+
+6.
+
+The Regulator considers that verification of Source of Funds includes obtaining independent corroborating evidence such as the proof of dividend payments connected to a shareholding, bank statements, salary/bonus certificates, loan
+
+Confidential
+
+54
+
+AML VER10.020125
+
+documentation and proof of all Transactions which gave rise to payments into the account. A customer should be able to demonstrate and have documented how the relevant funds are connected to a particular event which gave rise to the payment into the account or to the source of the funds for a Transaction.
+
+7.
+
+The Regulator considers that verification of Source of Wealth includes obtaining independent corroborating evidence such as share certificates, publicly available registers of ownership, bank or brokerage account statements, probate documents, audited accounts and financial statements, news items from a reputable source and other similar evidence.
+
+8.
+
+A Relevant Person may commission a report from a third-party vendor to obtain further information on a customer or Transaction or to investigate a customer or Beneficial Owners in very high-risk cases. Such a report may be particularly useful where there is little or no publicly available information on a Person or on a Legal Arrangement or where the Relevant Person has difficulty in obtaining and verifying information.
+
+9.
+
+For Rule 8.4.1, circumstances where it may be applicable to require the first payment made by a customer in order to open an account with a Relevant Person to be carried out through a bank account in the customer's name include:
+
+(a)
+
+where, following the use of other Enhanced Customer Due Diligence measures, the Relevant Person is not satisfied with the results of that due diligence; or
+
+(b)
+
+as an alternative measure, where one of the measures in Rule 8.4.1(a) to (e) cannot be carried out.
+
+10.
+
+A Relevant Person should maintain up-to-date lists of Jurisdictions Under Increased Monitoring and Jurisdictions Subject to a Call for Action and take these lists into account in developing and applying risk-based measures relating to CDD including the development of compliance procedures.
+
+11.
+
+CDD should include screening for customer exposure to Jurisdictions Under Increased Monitoring and Jurisdictions Subject to a Call for Action. Customer exposure to such jurisdictions may present higher money laundering risks and specific risk-based countermeasures may be required. In the case of customer exposure to Jurisdictions Under include undertaking Enhanced CDD. In the case of customer exposure to Jurisdictions Subject to a Call for Action, Enhanced CDD should always be undertaken.
+
+Increased Monitoring, this may
+
+12.
+
+Pursuant to directives of the NAMLCFTC, Relevant Persons must exercise appropriate levels of due diligence on Transactions originating from, routed through or destined for Jurisdictions Subject to a Call for Action and any other financial or non-financial engagement involving an individual or entity from such jurisdictions.
+
+13.
+
+Relevant Persons should ensure they are aware of and comply with the requirements of the FIU relating to the filing of a High Risk Country Transaction
+

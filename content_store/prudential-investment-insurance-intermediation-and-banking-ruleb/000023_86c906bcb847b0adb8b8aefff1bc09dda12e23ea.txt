@@ -1,0 +1,141 @@
+ detailed specifications on periodic prudential reporting requirements for different categories of Authorised Persons.
+
+2.1
+
+Application
+
+2.1.1
+
+This Chapter applies to an Authorised Person in any Category.
+
+2.2
+
+Trading Book
+
+2.2.1
+
+An Authorised Person must have a Trading Book if:
+
+(a)
+
+it has positions that must be included in a Trading Book in accordance with Section A2.1 of App2;
+
+(b)
+
+those positions are held with trading intent in accordance with Rule A2.1.5; and
+
+(c)
+
+the total value of the positions eligible for inclusion in the Trading Book pursuant to (a) and (b):
+
+(i)
+
+normally exceeds $15 million or 5% of its combined on and off-balance sheet positions; or
+
+(ii)
+
+has exceeded $20 million or 6% of its combined on- and off-balance sheet positions at any time in the preceding 12 month period.
+
+2.2.2
+
+An Authorised Person that must have a Trading Book Rule 2.2.1 must:
+
+in accordance with
+
+(a)
+
+comply with the requirements of Section A2.1 of App2; and
+
+(b)
+
+differentiate its business between Trading Book activity and Non-Trading Book activity on a consistent basis.
+
+2.2.3
+
+An Authorised Person which has a Trading Book must have adequate systems and controls to:
+
+(a)
+
+monitor the size of its Trading Book; and
+
+(b)
+
+ensure that positions are included consistently in its Trading Book and Non-Trading Book so that:
+
+(i)
+
+the inclusion of hedging positions in the Trading Book or the Non-Trading Book at all times reflects the intent of the Authorised Person in holding the position; and
+
+47
+
+PRU VER17.290725
+
+(ii)
+
+adequate records are made if positions are transferred between Trading and Non-Trading Books so that the transfers may be identified.
+
+2.3
+
+Reporting
+
+2.3.1
+
+(1)
+
+An Authorised Person must comply with the accounting and prudential reporting requirements set out in this Chapter and PRU which apply to it.
+
+(2)
+
+The Regulator may impose additional reporting requirements on an Authorised Person.
+
+2.3.2
+
+An Authorised Person must, subject to Rule 2.3.3:
+
+(a)
+
+prepare its Regulatory Returns in accordance with the Rules in this Chapter, the instructional guidelines in PRU and elsewhere, and the requirements of the Electronic Prudential Reporting System (EPRS) of the Regulator including the frequency of submission detailed therein; and
+
+(b)
+
+submit the Regulatory Returns to the Regulator using EPRS.
+
+Guidance
+
+The Regulatory Returns and instructional guidelines are provided in these Rules and EPRS.
+
+2.3.3
+
+The Regulator may by way of a written notice direct an Authorised Person to submit its Regulatory Returns in a form, manner or frequency other than as prescribed in Rule 2.3.2. An Authorised Person must continue to submit its Regulatory Returns in accordance with this direction until the Regulator by way of written notice directs otherwise.
+
+2.3.4
+
+(1) 2 . 3 (2) . 4
+
+In relation to an annual Regulatory Return the form must be certified through EPRS by the SEO, a Director or a Partner of the Authorised Person.
+
+In relation to a quarterly or a monthly Regulatory Return the form must be certified through EPRS by an Officer of the Authorised Person which has previously been identified by the Authorised Person as having the authority to provide the certification for that purpose.
+
+2.3.5
+
+If the Regulator notifies an Authorised Person, or the Authorised Person itself forms the view, that a Regulatory Return that has been submitted to the Regulator appears to be inaccurate or incomplete, the Authorised Person must consider the matter and within a reasonable time it must correct any inaccuracies and make good any omissions, and re-submit the relevant parts of the Regulatory Return.
+
+2.3.6
+
+(1)
+
+An Authorised Person must use the appropriate forms set out in EPRS for the preparation and submission of Regulatory Returns which are required under these Rules.
+
+(2)
+
+All Regulatory Returns must be completed in dollars ($).
+
+48
+
+PRU VER17.290725
+
+2.3.7
+
+(1)
+
+An Authorised Person must submit to the Regulator annual Regulatory Returns, within four months of the

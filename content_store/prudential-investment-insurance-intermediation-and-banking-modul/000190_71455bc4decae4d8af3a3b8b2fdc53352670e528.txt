@@ -1,0 +1,161 @@
+ accordance with (3)
+
+AddOnk
+
+j =
+
+the index that denotes all the hedging sets of the credit asset class, formed in accordance with Rule A4.8.5
+
+(3) For the purpose of (2), an Authorised Firm must calculate the add-on factor for
+
+category ‘k’, AddOnk
+
+EQ, using the following formula:
+
+EQ = SFk
+
+AddOnk
+
+EQ ∙ EffNotk
+
+EQ
+
+where:
+
+EQ =
+
+SFk
+
+the supervisory factor for the rating class of category ‘k’, determined in accordance with the table in Rule A4.8.18
+
+EQ = the effective notional amount for the rating class of category ‘k’,
+
+EffNotk
+
+calculated in accordance with (4)
+
+(4) For the purpose of (3), an Authorised Firm must calculate the effective notional
+
+amount for category ’k’, EffNotk
+
+EQ, using the following formula:
+
+𝐄𝐐 = ∑ 𝛅𝐢 ∙ 𝐀𝐝𝐣𝐍𝐨𝐭𝐢
+
+𝐄𝐟𝐟𝐍𝐨𝐭𝐤
+
+𝐄𝐐 ∙ 𝐌𝐅𝐢
+
+𝐢∈𝐈(𝐣)
+
+where:
+
+292
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+I(k) =
+
+the set of all transactions belonging to category ‘k’ within hedging set ‘j’
+
+δi =
+
+the supervisory delta for the transaction ‘i’, calculated in accordance with Rule A4.8.12
+
+MFi =
+
+the maturity factor of the transaction ‘i’, calculated in accordance with Rule A4.8.15
+
+AdjNoti
+
+EQ = the adjusted notional amount accordance with Rule A4.8.13(c)
+
+for
+
+transaction
+
+‘i’, calculated
+
+in
+
+j =
+
+the index that denotes all the hedging sets of the equity asset class, formed in accordance with Rule A4.8.5
+
+Guidance
+
+The calculation of the add-on for the equity asset class is very similar to the calculation of the add-on for the credit asset class. It only gives full recognition of the offsetting of long and short positions for derivatives that reference the same entity (e.g. the same corporate issuer of shares). Partial offsetting is recognised between derivatives that reference different entities.
+
+Add-on for transactions in the commodity asset class
+
+A4.8.11 (1) An Authorised Firm must calculate the add-on for each hedging set ‘j’ of the
+
+commodity asset class, AddOnj
+
+COM, using the following formula:
+
+AddOnj
+
+COM = √(∑ρ𝐶𝑂𝑀
+
+AddOnj
+
+2 COM)
+
++∑(1 − (ρ𝐶𝑂𝑀)2) ∙ (AddOnj
+
+2 COM)
+
+𝑘
+
+k
+
+where:
+
+ρ𝐶𝑂𝑀 =
+
+the supervisory correlation parameter, determined in accordance with the table in Rule A4.8.18
+
+AddOnj
+
+COM =
+
+the add-on factor for hedging set ‘j’, calculated in accordance with (2)
+
+j =
+
+the index that denotes all the hedging sets of the commodity asset class, formed in accordance with Rule A4.8.5
+
+(2) For the purpose of (1), an Authorised Firm must calculate the add-on for each COM, using the following
+
+hedging set ‘j’ of the commodities asset class, AddOnj formula:
+
+AddOnj
+
+COM = SFCOM ∙ EffNotj
+
+COM
+
+where:
+
+293
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+SFCOM =
+
+the supervisory factor for the commodities asset class, determined in accordance with the table in Rule A4.8.18
+
+EffNotj
+
+COM =
+
+the effective notional amount of hedging set ‘j’, calculated in accordance with Rule (3)
+
+j =
+
+the index that denotes all hedging sets of

@@ -1,0 +1,125 @@
+ of Tokenholders; and
+
+v.
+
+the Delegated Matters may include the “Ordinary Matters”, which means (i) appointment and removal of members of anybody within the Organisational and Governance Structure; (ii) issuance of Tokens; and (iii) other matters identified as “Ordinary Matters” in the Charter;
+
+description of the manner in which decisions of each body within the Organisational and Governance Structure are to be made, including:
+
+i.
+
+the required quorum which by default shall require:
+
+A.
+
+the majority of all Persons within the relevant body entitled to vote; or
+
+B.
+
+in respect of the DLT Foundation Council, all Councillors; and
+
+ii.
+
+number or percentage of votes for taking decisions, which by default shall include taking decisions on:
+
+A.
+
+subject to the provisions of subsection (2)(h) above, the Qualified Matters shall require Qualified Resolution of Body within the Organisational and Governance Structure; or
+
+B.
+
+the Ordinary Matters shall require Resolution of Body within the Organisational and Governance Structure;
+
+if any, the requirements in respect of resignation of the Founder (“Founder Resignation”) and circumstances in which any Founder:
+
+i.
+
+shall be required to step down; or
+
+ii.
+
+shall be entitled to voluntarily step-down;
+
+provisions on whether there will be one or several categories of Beneficiaries and Tokenholders, their rights and obligations of each such category (including rights attached to each type of Tokens) and confirmation as to whether there will be Beneficiaries and whether Tokenholders shall be treated as Beneficiaries (for the avoidance of doubt, the Charter does not need to specify the names of Beneficiaries or Tokenholders);
+
+provisions concerning the appointing, adding and removing of Beneficiaries, if applicable;
+
+16
+
+(m)
+
+(n)
+
+(o)
+
+(p)
+
+(q)
+
+(r)
+
+(s)
+
+(t)
+
+frequency of and procedures regarding Security Audits, if applicable;
+
+provisions for the appointment, term of office and removal of an auditor in respect of Accounting Records;
+
+if the DLT Foundation intends to issue Tokens:
+
+i.
+
+the scope of Delegated Matters on which the Tokenholders or certain categories of Tokenholders will have voting rights, circumstances in which such voting rights arise in respect of each category of Tokenholders, with regard to the provisions of subsection (2)(h) above, and detailed description of voting procedures, including from a DLT Framework perspective;
+
+ii.
+
+provisions regarding the procedure for making decisions on the categories and issuance of Tokens;
+
+iii.
+
+provisions on the issue and transfer of Tokens, including information about the operation of relevant smart contracts, vesting schedules and overall token supply over time;
+
+iv.
+
+provisions, if applicable, on pre-emption and buy-back rights (and circumstances in which those will apply);
+
+v.
+
+provisions regarding token economics;
+
+vi.
+
+any restrictions on transferability or technological lock-ups;
+
+vii.
+
+types of Tokens that the DLT Foundation can issue or limitations on types of Tokens that the DLT Foundation can issue and blockchain protocols used for issuance; and
+
+viii.
+
+purposes and intended use of Tokens;
+
+a hyperlink to the DLT Framework of the DLT Foundation, if developed, or provisions in respect of its set-up and operation, including whether it is operated as a single-chain or multi-chain structure;
+
+conditions for amending the White Paper, the DLT Framework or Tokenomics Paper;
+
+provisions for identifying any Remaining Beneficiaries upon dissolution of the DLT Foundation;
+
+provisions on whether profits or Foundation Assets will be distributed and, if so, provisions on distribution of profits or Foundation Assets, including circumstances triggering mandatory distribution;
+
+the circumstances in which Councillors, Relevant Persons and the DLT Foundation can be liable to Beneficiaries and Tokenholders, which shall include the circumstances outlined in subsection 27(5) (the “Relevant Circumstances”);
+
+17
+
+(u)
+
+the address of the registered office of the DLT Foundation (or its Company Service Provider) in the ADGM;
+
+(v)
+
+the term for which the DLT Foundation is established, if any, or the details of any contingent event which will trigger the dissolution of the DLT Foundation; and
+
+(w)
+
+subject to the provisions of the ADGM Insolvency Regulations 2022, consequences in respect of the distribution of Assets of the DLT Foundation, including insolvency. By default, Beneficiaries (including Tokenholders who are Beneficiaries) are

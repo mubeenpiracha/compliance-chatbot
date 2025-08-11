@@ -1,0 +1,105 @@
+ an Alternative Trading System, to comply with Part 2 of the Law and the Rules made for the purposes of that Part in the manner and circumstances prescribed in the Rules. Chapter 6 contains the requirements that apply to a Person who applies to have, or has or had, Units admitted to trading on an Authorised Market Institution or Security Tokens that are Units admitted to trading on an Alternative Trading System.
+
+3.
+
+The DFSA has the power, pursuant to Article 12(1) of the Law, to prescribe certain communications to be Exempt Communications. Such communications are not subject to the prohibition in Article 14(1) of the Law as they fall outside the definition of an “Offer of Securities to the Public” in Article 12(1) of the Law.
+
+4.
+
+The DFSA also has the power under Article 14(3) of the Law to prescribe certain types of:
+
+a.
+
+Offers of Securities to the Public as “Exempt Offers”, and
+
+b.
+
+Securities to be “Exempt Securities”.
+
+Exempt Offers and Exempt Securities are not subject to the prohibition in Article 14(1) of the Law and hence do not require a Prospectus.
+
+9
+
+MKT/VER24/03-25
+
+MARKETS RULES (MKT)
+
+2.2 Exempt communications
+
+Guidance
+
+Exempt Communications are not Offers of Securities to the Public and therefore do not attract the Prospectus requirements in the Law and Rules.
+
+2.2.1 For the purposes of Article 12(c) of the Law, in addition to the Exempt Communications specified in the Law, a communication is hereby prescribed by the DFSA as an Exempt Communication if it is made:
+
+(a)
+
+in connection with the trading of Securities that are listed and traded on a Regulated Exchange, or the trading of Security Tokens that are traded on an Alternative Trading System; and
+
+(b)
+
+in the ordinary course of business of an Authorised Firm or Recognised Member.
+
+2.3 Exempt offers
+
+Guidance
+
+This section prescribes the type of offer that is an Exempt Offer. The prohibition in Article 14(1)(a) of the Law does not apply to such offers. Accordingly, a Person may make an Offer of Securities to the Public in the circumstances specified in this Rule without a Prospectus.
+
+2.3.1 For the purposes of Article 14(3)(a) of the Law the DFSA hereby prescribes the
+
+circumstances in which an offer is an Exempt Offer:
+
+(a)
+
+an offer made to or directed at only Professional Clients other than natural Persons;
+
+(b)
+
+an offer in or from the DIFC which is directed at fewer than 50 Persons in any 12 month period, excluding Professional Clients who are not natural persons;
+
+(c)
+
+an offer where the total consideration to be paid by a Person to acquire the Securities is at least $100,000, or an equivalent amount in another currency;
+
+(d)
+
+an offer where the Securities are denominated in amounts of at least $100,000, or an equivalent amount in another currency;
+
+(e)
+
+an offer where the total aggregate consideration for the Securities offered is less than $100,000, or an equivalent amount in another currency, calculated over a period of 12 months;
+
+(f)
+
+an offer where Shares are issued in substitution for Shares of the same class as already issued, where the issue of the new Shares does not involve any increase in the issued share capital:
+
+(g)
+
+an offer where the Securities are Convertibles issued under a Prospectus to existing members or creditors of the Issuer or a member of its Group and there is no additional consideration to be paid;
+
+10
+
+MKT/VER24/03-25
+
+MARKETS RULES (MKT)
+
+(h)
+
+an offer where the Securities are offered in connection with a Takeover and a document is made available containing information which is considered by the DFSA as being equivalent to that of a Prospectus;
+
+(i)
+
+an offer where the Securities are offered, allotted or to be allotted in connection with a merger if a document is available containing information which is regarded by the DFSA as being equivalent to that of a Prospectus;
+
+(j)
+
+an offer where the Securities are offered, allotted or to be allotted in connection with a rights issue where:
+
+(i)
+
+the Securities are of a class subject to Reporting Entity disclosure; and
+
+(ii)
+
+a document is made available containing information on the number and nature

@@ -1,0 +1,81 @@
+MEDIATION AND BANKING (PIB)
+
+Guidance
+
+1.
+
+The DFSA will grant permission to use an internal model for calculating the Capital Requirement for a correlation trading portfolio only to Authorised Firms that have obtained the DFSA’s approval to use an internal model for Specific Risk of interest rate risk Exposures and that meet the requirements for internal models specified earlier in this section.
+
+2.
+
+Authorised Firms should use this internal model to calculate a number which adequately measures all price risks at the 99.9 % confidence interval over a time horizon of one year under the assumption of a constant level of risk, and adjusted where appropriate to reflect the impact of liquidity, concentrations, hedging and optionality. Authorised Firms should calculate this number at least weekly.
+
+3.
+
+The following risks should be adequately captured by the model referred to in Guidance note 1 of A5.9.3:
+
+a.
+
+the cumulative risk arising from multiple defaults, including different ordering of defaults, in tranched products;
+
+b.
+
+credit spread risk, including the gamma and cross-gamma effects;
+
+c.
+
+volatility of implied correlations, including the cross effect between spreads and correlations;
+
+d.
+
+basis risk, including both of the following:
+
+i.
+
+the basis between the spread of an index and those of its constituent single names; and
+
+ii.
+
+the basis between the implied correlation of an index and that of bespoke portfolios;
+
+e.
+
+recovery rate volatility, as it relates to the propensity for recovery rates to affect tranche prices;
+
+f.
+
+to the extent the comprehensive risk measure incorporated benefits from dynamic hedging, the risk of hedge slippage and the potential costs of rebalancing such hedges; and
+
+g.
+
+any other material price risks of positions in the correlation trading portfolio.
+
+4.
+
+An Authorised Firm should use sufficient market data within the model referred to in Guidance note 1 in order to ensure that it fully captures the salient risks of those Exposures in its internal approach in accordance with the requirements set out in this guidance in A5.9.3. It should be able to demonstrate to the DFSA through back testing or other appropriate means that its model can appropriately explain the historical price variation of those products.
+
+5.
+
+The Authorised Firm should have appropriate policies and procedures in place in order to separate the positions for which it holds permission to incorporate them in the Capital Requirement in accordance with this guidance in A5.9.3 from other positions for which it does not hold such permission.
+
+6. With regard to the portfolio of all the positions incorporated in the model referred to in Guidance note 1, the Authorised Firm should regularly apply a set of specific, predetermined stress scenarios. Such stress scenarios should examine the effects of stress to default rates, recovery rates, credit spreads, basis risk, correlations and other relevant risk factors on the correlation trading portfolio. The Authorised Firm should apply stress scenarios at least weekly and report at least quarterly to the DFSA the results, including comparisons with the Authorised Firm's Capital Requirement in accordance with this point. Any instances where the stress test results materially exceed the Capital Requirement for the correlation trading portfolio should be reported to the DFSA in a timely manner. PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+7.
+
+The internal model should conservatively assess the risk arising from less liquid positions and positions with limited price transparency under realistic market scenarios. In addition, the internal model should meet minimum data standards. Proxies should be appropriately conservative and may be used only where available data is insufficient or is not reflective of the true volatility of a position or portfolio.
+
+Stress testing
+
+A5.9.4 (1)
+
+For the purposes of Rule 5.11.3, an Authorised Firm’s internal model must meet the following criteria:
+
+(a)
+
+the Authorised Firm's stress scenarios must cover a range of factors that can create extraordinary losses or gains in trading portfolios, or make the control of risk in those portfolios very difficult. These factors include low-probability events in all major types of risks, including the various components of market, credit, and Operational Risks;
+
+(b)
+
+the Authorised Firm's stress tests must be both of a quantitative and qualitative nature, incorporating both Market Risk and liquidity aspects of market disturbances. Quantitative criteria must identify plausible stress scenarios to which the Authorised Firm could be exposed

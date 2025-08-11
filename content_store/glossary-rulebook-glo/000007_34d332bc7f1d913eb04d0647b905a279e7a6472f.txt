@@ -1,0 +1,129 @@
+ and
+
+(b)
+
+FEES, has the meaning given in paragraph 92 of Schedule 1 of FSMR.
+
+Means any form of security, including a mortgage.
+
+In relation to:
+
+(a)
+
+the CMC, means:
+
+(i)
+
+in relation to a Body Corporate whose principal place of business is within ADGM, an employee of that body who, alone or jointly with one or more others, is responsible under the immediate authority of the Directors, for the conduct of the whole of the business of that body; or
+
+(ii)
+
+in relation to a Body Corporate whose principal place of business is outside ADGM, means the person who, alone or jointly with one or more other Persons, is responsible for the conduct of its business within ADGM;
+
+(b)
+
+elsewhere, means the individual appointed to the office of Chief Executive of the Regulator by the ADGM Board.
+
+15
+
+GLO VER23.290725
+
+Defined Terms
+
+CIMVAL Code
+
+Class 1 Captive Cell
+
+Class 2 Captive Cell
+
+Class 3 Captive Cell
+
+Class 4 Captive Cell
+
+Definitions
+
+Means the Canadian Code for the Valuation of Mineral Properties (the “CIMVAL Code”), 2019, adopted by the Canadian Institute of Mining, Metallurgy & Petroleum (the “CIM”) Council, and available as specified at: www.mrmr.com.org, or as amended or updated.
+
+Means a Cell to which are attributable assets and liabilities arising out of Insurance Business only in respect of risks related to arising out of the business or operations of members of a Group which together hold a majority of Cell Shares, including for this purpose only contracts of reinsurance in respect of such risks insured by the Cedant.
+
+Means a Cell in which no more than 20% if its Gross Written Premium is attributable to third party risks arising from business or operations that are closely linked to the business or operations of members of a Group which together hold a majority of the Cell Shares, including for this purpose only contracts of reinsurance in respect of such risks insured by the Cedant.
+
+Means a Cell established by a Protected Cell Company or an Incorporated Cell Company:
+
+(a)
+
+comprising attributable assets and liabilities arising out of Insurance Business only in respect to risks related to or arising out of the business or operations of Persons who engage in similar, related or common:
+
+(1)
+
+businesses;
+
+(2)
+
+activities;
+
+(3)
+
+trade;
+
+(4)
+
+services; or
+
+(5)
+
+operations;
+
+including for this purpose only contracts of reinsurance in respect to such risks insured by the Cedant; and
+
+(b)
+
+owned by such Persons or by a Body Corporate of which all such Persons are members.
+
+Means a Cell which the Regulator decides does not meet the Requirements for a Class 1 Captive Cell, a Class 2 Captive Cell or a Class 3 Captive Cell but which should be classified as a Class 4 Captive Cell.
+
+16
+
+GLO VER23.290725
+
+Defined Terms
+
+Definitions
+
+Class 1 Captive Insurer Means an ADGM Incorporated Insurer permitted under the conditions of its Financial Services Permission to effect or carry out Contracts of Insurance only for risks related to or arising out of the business or operations of the Group, including for this purpose only contracts of reinsurance in respect of such risks insured by the Cedant.
+
+Class 2 Captive Insurer Means an ADGM Incorporated Insurer that is permitted under the conditions of its Financial Services Permission to obtain no more than 20% of its Gross Written Premium in any year from third party risks arising from business or operations that are Closely Linked to the business or operations of the Group to which the Insurer belongs, including for this purpose only contracts of reinsurance in respect of such risks insured by the Cedant.
+
+Class 3 Captive Insurer Means an ADGM Incorporated Insurer which is:
+
+(a)
+
+permitted under the conditions of its Financial Services Permission to effect or carry out Contracts of Insurance only for risks related to or arising out of the business or operations of persons who engage in similar, related or common:
+
+(1)
+
+businesses;
+
+(2)
+
+activities;
+
+(3)
+
+trade;
+
+(4)
+
+services; or
+
+(5)
+
+operations;
+
+including for this purpose only contracts of reinsurance in respect of such risks insured by the Cedant, and
+
+(b)
+
+owned by such Persons or by a Body Corporate of which all such Persons are members.
+
+Class 4

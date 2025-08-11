@@ -1,0 +1,75 @@
+ised Person must provide the Regulator with written notice describing the nature of the material change to the allocation amongst investments and the rationale for such change.
+
+19A.6 Segregation
+
+19A.6.1 An Authorised Person which has issued two or more Fiat-Referenced Tokens must segregate all Reserve Assets for each Fiat-Referenced Token from every other Fiat- Referenced Token issued by that Authorised Person.
+
+19A.7 Minimum Value
+
+19A.7.1 An Authorised Person which has issued a Fiat-Referenced Token must ensure at all times that the combined market value of all Reserve Assets held in respect of such Fiat- Referenced Token is equal to or exceeds the total value of all outstanding redemption claims in respect of such Fiat-Referenced Token as may be issued and outstanding as of such date.
+
+19A.7.2 An Authorised Person which has issued a Fiat-Referenced Token must, on or before the conclusion of each day, conduct a valuation of all Reserve Assets determining the current market value of such Reserve Assets to verify compliance with Rule 19A.7.1.
+
+19A.7.3 In the event a valuation conducted in accordance with Rule 19A.7.2 discloses that the Authorised Person is, or has reasonable grounds to suspect it may be, in breach of Rule 19A.7.1 the Authorised Person must notify the Regulator immediately.
+
+19A.8 Stress Testing
+
+19A.8.1 An Authorised Person which has issued a Fiat-Referenced Token must have systems in place to enable it to regularly stress test the composition of Reserve Investments and the market and counterparty risks to which they are exposed that may result in a breach of Rule 19A.7.1.
+
+19A.8.2 The stress testing required in accordance with Rule 19A.8.1 must:
+
+(a)
+
+be performed at least annually, or more frequently upon written notification from the Regulator and;
+
+(b)
+
+consider scenarios of liquidity stress, such as large-scale redemptions of each Fiat-Referenced Token.
+
+19A.8.3 A written summary of the results of the stress testing performed in accordance with Rule
+
+19A.8.2 must be provided to the Regulator when that is completed.
+
+149
+
+COBS VER19.290725
+
+19A.9 Attestation
+
+19A.9.1 An Authorised Person which has issued a Fiat-Referenced Token must prepare a monthly written attestation provided by an independent third party approved by the Regulator. Such written attestation must state at the expiry of the period for which the attestation has been prepared and at the close of business on one randomly selected day during such attestation period for each Fiat-Referenced Token issued:
+
+(a)
+
+the amount of Relevant Money held;
+
+(b)
+
+the market value of all Reserve Investments, both in aggregate and by type of investment;
+
+(c)
+
+the total par value of the issued and outstanding Fiat-Referenced Tokens as at close of business on such day;
+
+(d) whether the total market value of all Reserve Investments and Relevant Money held by the Authorised Person in respect of the Fiat-Referenced Token equals or exceeds the total redemption value of the issued and outstanding Fiat- Referenced Tokens as at the close of business on such day; and
+
+(e) whether the investments acquired with the proceeds from the sale of Fiat- Referenced Tokens are either held as Relevant Money or alternatively invested in investments which qualify as Reserve Investments.
+
+19A.9.2 The attestation required in accordance with Rule 19A.9.1 must be published on the website of the Authorised Person and submitted to the Regulator by the end of the month following the expiry of the period covered by such attestation.
+
+19A.10
+
+Audit
+
+19A.10.1 An Authorised Person which has issued a Fiat-Referenced Token must perform an
+
+annual audit of:
+
+(a)
+
+the composition and valuation of Reserve Investments; and
+
+(b)
+
+the Authorised Person’s internal controls and compliance arrangements in relation to the Rules governing the management of Reserve Investments.
+
+19A.10.2 The audit required in accordance with Rule 19A.10.1 must be performed by an independent external auditor approved by the Regulator. The results of such audit must be addressed to the Authorised Person and the Regulator and be submitted by the Authorised Person

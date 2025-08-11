@@ -1,0 +1,161 @@
+, thereby distinguishing it from a call Option which entitles the holder, upon exercise, to acquire an already issued (i.e. existing) Security.
+
+Certificates
+
+(d)
+
+a Certificate is an instrument:
+
+(i)
+
+which confers on the holder contractual or property rights to or in respect of a Share, Debenture, Unit or Warrant held by a Person; and
+
+(ii)
+
+the transfer of which may be effected by the holder without the consent of that other Person;
+
+but excludes rights under an Option;
+
+Guidance
+
+Certificates confer rights over existing Shares, Debentures, Units or Warrants held by a Person and include receipts, such as Global Depository Receipts (i.e. GDRs).
+
+Units
+
+(e)
+
+a Unit is a unit in or a share representing the rights or interests of a Unitholder in a Fund; and
+
+182
+
+GEN/VER67/03-25
+
+A2.3
+
+A2.3.1
+
+GENERAL (GEN)
+
+Structured Products
+
+(f)
+
+a Structured Product is an instrument comprising rights under a contract where:
+
+(i)
+
+the gain or loss of each party to the contract is ultimately determined by reference to the fluctuations in the value or price of property of any description, an index, interest rate, exchange rate or a combination of any of these as specified for that purpose in the contract (“the underlying factor”) and is not leveraged upon such fluctuations;
+
+(ii)
+
+the gain or loss of each party is wholly settled by cash or set- off between the parties;
+
+(iii)
+
+each party is not exposed to any contingent liabilities to any other counterparty; and
+
+(iv)
+
+there is readily available public information in relation to the underlying factor;
+
+but excludes any rights under an instrument:
+
+(v)
+
+where one or more of the parties takes delivery of any property to which the contract relates;
+
+(vi)
+
+which is a Debenture; or
+
+(vii) which is a Contract of Insurance.
+
+Guidance
+
+1.
+
+Instruments previously known as Designated Investments are now included within the definition of Structured Products.
+
+2.
+
+The reference in Rule A2.2.1(f)(i) to “property of any description” covers tangible or intangible property, including Securities.
+
+Definitions of specific derivatives
+
+For the purposes of Rule A2.1.3:
+
+Options
+
+(a) An Option is an instrument that confers on the holder, upon exercise,
+
+rights of the kind referred to in any of the following:
+
+(i)
+
+a right to acquire or dispose of:
+
+(A)
+
+a Security (other than a Warrant), Crypto Token or contractually based investment;
+
+(B)
+
+currency of any country or territory;
+
+183
+
+GEN/VER67/03-25
+
+GENERAL (GEN)
+
+(C)
+
+a commodity of any kind;
+
+(ii)
+
+a right to receive a cash settlement, the value of which is determined by reference to:
+
+(A)
+
+the value or price of an index, interest rate or exchange rate; or
+
+(B)
+
+any other rate or variable; or
+
+(iii)
+
+a right to acquire or dispose of another Option under (i) or (ii).
+
+Guidance
+
+1. For example, a call Option confers on the holder, upon exercise, a right but not an obligation to acquire an issued (i.e. existing) Security, thereby distinguishing it from a Warrant which entitles the holder, upon exercise, to acquire an unissued Share, Debenture or Unit.
+
+2. Options over a ‘contractually based investment’ referred to in Rule A2.3.1(a)(i)(A) covers Options over Futures.
+
+3. Cash settled Options such as Index Options are covered under Rule A2.3.1(a)(ii). Other cash settled Options that are covered under this Rule include instruments which confer rights determined by reference to climatic variables, inflation or other official economic statistics, freight rates or emission allowances.
+
+4. Options over Options are covered under A2.3.1(a)(iii).
+
+Futures
+
+(b)
+
+a Future is an instrument comprising rights under a contract:
+
+(i)
+
+for the sale of a commodity or property of any other description under which delivery is to be made at a future date and at a price agreed on when the contract is made, and that contract:
+
+(A)
+
+is made or traded on a regulated exchange;
+
+(B)
+
+is made or traded on terms that are similar to those made or traded on a regulated exchange; or
+
+(C)
+
+would, on reasonable

@@ -1,0 +1,121 @@
+ changes in the liquidity profile in response to market stress.
+
+Matters the DFSA may consider under Rule 3A.3.4(2)(d) include:
+
+a.
+
+the type of blockchain, access permissions and rights to amend the protocol and consensus mechanisms used and the associated environmental costs;
+
+b. smart contract availability, endogenous computational capacity, native token
+
+features and the ability to host piggyback tokens on the blockchain;
+
+c.
+
+interoperability of the Crypto Token across various blockchains, limitations of transaction validation times and costs on the native blockchain; and
+
+d.
+
+technological solutions to collect user information and monitor and maintain records of transactions and to protect privacy of user information.
+
+Matters the DFSA may consider under Rule 3A.3.4(2)(e) include:
+
+a.
+
+cybersecurity risks and mitigation controls, any history of hacks and thefts involving the token, near miss events and losses from cyber security failures;
+
+b. custody risks, systems and controls relating to wallet management and the track record of users being compensated for any operational failures in custody
+
+management;
+
+c.
+
+adequacy of measures to ensure compliance with anti-money laundering, counter-terrorist finance and sanctions requirements;
+
+d.
+
+settlement risk and mitigation measures; and
+
+e.
+
+operational risk and defence mechanisms, systems and controls to prevent detect and address faulty codes, quality assurance processes and risk reaction systems.
+
+Matters the DFSA will consider under Rule 3A.3.4(4) include whether:
+
+a.
+
+price volatility is generally maintained within one percent from the peg and there is minimal market risk associated with the Crypto Token;
+
+b.
+
+information published about the reserves provides sufficient clarity about the quality of the assets and how they are held and segregated;
+
+c.
+
+reserve assets:
+
+i.
+
+show historical evidence of relative price stability;
+
+ii. can be converted easily and immediately into cash at little or no loss of value, taking into account relevant factors such as, degree of subordination, duration and market size;
+
+69
+
+GEN/VER67/03-25
+
+GENERAL (GEN)
+
+iii. are appropriately diversified in such a way as to avoid undue reliance on any
+
+particular asset, issuer or risk factor; and
+
+iv. are issued by a person with a a high credit standing.
+
+3A.3.5 (1)
+
+The DFSA may refuse an application to recognise a Crypto Token if it is not satisfied of the matters set out in Rule 3A.3.4.
+
+(2)
+
+The procedures in Schedule 3 apply to a decision of the DFSA under (1) and the DFSA must give the applicant an opportunity to make representations under those procedures.
+
+Guidance
+
+The procedures in Schedule 3 of the Regulatory Law (providing for an affected person to be given an opportunity to make representations) apply to a DFSA decision to refuse an application for a Crypto Token to be a Recognised Crypto Token. However, no right is given under the Rules for an applicant to refer the final decision to the Financial Markets Tribunal.
+
+3A.3.6 (1)
+
+The DFSA may revoke the Recognised Crypto Token status of a Crypto Token if it is no longer satisfied of the matters set out in Rule 3A.3.4 in respect of the Crypto Token.
+
+(2)
+
+The DFSA may specify that the revocation is to take effect immediately or on a specified future date.
+
+(3)
+
+The procedures in Schedule 3 apply to a decision of the DFSA under (1) and in such a case the DFSA must give the following Persons an opportunity to make representations under those procedures:
+
+(a)
+
+the Person who applied for the Crypto Token to be a
+
+Recognised Crypto Token; and
+
+(b)
+
+each Authorised Person that Operates a MTF or Clearing
+
+House relating to the Crypto Token.
+
+Guidance
+
+1.
+
+The DFSA may decide to revoke the recognition of a Crypto Token in a variety of circumstances where it is no longer satisfied that the Crypto Token meets the criteria for recognition. Without limiting those circumstances, this might include for example a major hacking event, technology failure, fraud, a serious money laundering issue, a lack of verified information about the adequacy of reserves backing a Fiat Crypto
+
+Token or the failure of a Fiat Crypto Token to maintain its peg.
+
+2.
+
+The procedures in Schedule 3 of the Regulatory Law apply to a DFSA decision to revoke the Recognised Crypto Token

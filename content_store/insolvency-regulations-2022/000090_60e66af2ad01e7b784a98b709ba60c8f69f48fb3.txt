@@ -1,0 +1,77 @@
+ to the Office-holder an account of his dealings with the Company contained in a witness statement verified by a statement of truth including any information concerning the promotion, formation, business, dealings, affairs or property of the Company or any books, papers or records in his possession or under his control relating to the Company or to any such dealings. A person involved with the Company shall include a Director or secretary of the Company, any person known or suspected to have in his possession any property of the Company or supposed to be indebted to the Company and any person whom the Court thinks capable of giving information concerning the promotion, formation, business, dealings, affairs or property of the Company.
+
+Chapter 3 - Voidable transactions
+
+257. Transactions at an undervalue
+
+(1) Where a Company is in administration or winding-up and has at a relevant time (as defined in Section 259 (Relevant time)) entered into a transaction with any person at an undervalue, the Court may, on application of the administrator of the Company or the liquidator, make an order restoring the position to what it would have been if the Company had not entered into that transaction.
+
+(2)
+
+A Company enters into a transaction with a person at an undervalue if it—
+
+(a)
+
+makes a gift to that person or otherwise receives no consideration under the transaction; or
+
+(b)
+
+receives consideration under the transaction with a value, in money or money’s worth, which is significantly less than the value, in money or money’s worth, of the consideration provided by the Company.
+
+120
+
+(3)
+
+The Court shall not make an order under subsection (1) in respect of a transaction at an undervalue if it is satisfied—
+
+(a)
+
+that the Company which entered into the transaction did so in good faith and for the purpose of carrying on its business; and
+
+(b)
+
+that at the time it did so there were reasonable grounds for believing that the transaction would benefit the Company.
+
+(4) Where a Company has entered into a transaction at an undervalue with another person and the Court is satisfied the entry into the transaction by the Company was for the purpose of—
+
+(a)
+
+putting assets beyond the reach of a person who is making, or may at some time make a claim against it; or
+
+(b)
+
+otherwise prejudicing the interests of such a person in relation to a claim which he is making or may make,
+
+the Court may make an order restoring the position to what it would have been if the Company had not entered into that transaction or protecting the interests of any victim of the transaction but having regard to the interests of persons who acquired any interest in property in good faith, for value and without notice of the relevant circumstances.
+
+(5)
+
+An application under subsection (4) shall only be made by a liquidator or administrator of the Company or (with leave of the Court) a victim of the transaction.
+
+(6)
+
+References to a victim of the transaction are to a person who is, or is capable of being, prejudiced by it.
+
+258. Preferences
+
+(1) Where a Company is in administration or winding-up and has at a relevant time (as defined in Section 259 (Relevant time)) given a preference to any person, the Court may, on application of the administrator of the Company or the liquidator, make an order restoring the position to what it would have been if the Company had not given that preference.
+
+(2)
+
+A Company gives a preference to a person if—
+
+(a)
+
+that person is one of the Company’s creditors or a surety or guarantor for any of the Company’s debts or other liabilities; and
+
+(b)
+
+the Company does anything or suffers anything to be done which (in either case) has the effect of putting that person into a position which, in the event of the Company going into insolvent liquidation, will be better than the position he would have been in if that thing had not been done.
+
+(3)
+
+The Court shall not make an order under subsection (1) in respect of a preference given to any person unless the Company which gave the preference was influenced in deciding to give it by a desire to put the person in the better position described in subsection (2)(b).
+
+(4)
+
+A Company which has given a preference to a Connected Person (otherwise than by reason only of being its employee) at the time the preference was given is presumed, unless the contrary is shown, to have been influenced in

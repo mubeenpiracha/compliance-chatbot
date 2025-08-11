@@ -1,0 +1,139 @@
+The DFSA Rulebook
+
+Fund Protocol Rules
+
+(FPR)
+
+FPR/VER1/02-19
+
+FUND PROTOCOL RULES (FPR)
+
+Contents
+
+The contents of this module are divided into the following chapters, sections and appendices:
+
+1.
+
+INTRODUCTION .................................................................................... 1
+
+1.1 1.2 1.3
+
+Application ....................................................................................................... 1 Overview and purpose of this module .............................................................. 1 Glossary for FPR ............................................................................................. 2
+
+2.
+
+PASSPORTED FUNDS ......................................................................... 8
+
+2.1
+
+Passported Funds............................................................................................ 8
+
+3
+
+PROCEDURE FOR NOTIFICATION ..................................................... 9
+
+3.1 3.2
+
+Notification for Private Funds ........................................................................... 9 Notification for Public Funds .......................................................................... 11
+
+4
+
+REGISTRATION OF NON-DIFC PASSPORTED FUNDS ................... 14
+
+4.1
+
+Notifications received by the DFSA (Host Regulator) ..................................... 14
+
+5
+
+REGISTER OF PASSPORTED FUNDS .............................................. 15
+
+5.1
+
+Register of Passported Funds ....................................................................... 15
+
+6
+
+MANAGEMENT AND OPERATION OF A PASSPORTED FUND ...... 16
+
+6.1 6.2 6.3 6.4 6.5 6.6
+
+Compliance with Constitution ......................................................................... 16 Ongoing Appointment of Fund Manager ........................................................ 16 Promotion by Fund Managers, Agents and other Licensed Persons .............. 16 Additional criteria for Public Funds ................................................................. 16 Custodian ...................................................................................................... 16 Reporting changes to the DFSA .................................................................... 17
+
+7
+
+FEES .................................................................................................... 19
+
+7.1
+
+Notification and Annual Fees ......................................................................... 19
+
+8
+
+DE-REGISTRATION OF PASSPORTED FUNDS ............................... 20
+
+8.1 8.2
+
+De-registration by the DFSA .......................................................................... 20 Notification of de-registration by Home Regulator to the DFSA ...................... 20
+
+9
+
+SUPERVISORY AND INVESTIGATORY POWERS ........................... 22
+
+9.1 9.2
+
+Requests for Assistance ................................................................................ 22 Inspections .................................................................................................... 22
+
+FPR/VER1/02-19
+
+FUND PROTOCOL RULES (FPR)
+
+9.3 9.4 9.5
+
+Circumstances in which the DFSA may decline a request for an inspection... 22 Exercise of DFSA's powers at the request of another authority ...................... 22 Exercise of the DFSA’s powers as Host Regulator ........................................ 23
+
+App 1 MINIMUM REQUIREMENTS FOR PUBLIC FUNDS ........................... 24
+
+FPR/VER1/02-19
+
+FUND PROTOCOL RULES (FPR)
+
+1.
+
+INTRODUCTION
+
+1.1
+
+Application
+
+1.1.1
+
+The Rules in this module (FPR) apply to a Fund Manager of a Domestic Fund if:
+
+(a)
+
+the Fund Manager has notified the DFSA of its intention to Register the Domestic Fund as a Passported Fund under these Rules; or
+
+(b)
+
+the Fund Manager and Domestic Fund are included on the DFSA’s Register of Passported Funds.
+
+1.1.2
+
+This module also applies to an Agent and any other Licensed Person who Promotes a Passported Fund in or from the DIFC.
+
+1.1.3 Nothing in this module prevents a Fund Manager, its Agent or any other Licensed Person from Promoting a Domestic Fund in a Host Jurisdiction in accordance with the legislation applicable in that other Jurisdiction.
+
+1.2
+
+Overview and purpose of this module
+
+Guidance
+
+1.
+
+The three UAE securities regulators: the SCA, the DFSA and the FSRA have agreed a “Protocol” regarding co-ordinated supervision of the marketing and selling of units of domestic funds within the UAE (State). The “Protocol” introduces a notification and registration process to enhance the monitoring and supervision of the financial services associated with the marketing and sale of units in domestic funds. The Protocol sets out a common regulatory framework which is to be implemented by each of the regulators. The Protocol is implemented in the DFSA Rulebook primarily through this module (FPR).
+
+2.
+
+FPR specifies procedures and requirements that apply in relation to a Passported Fund where the DFSA is either the Home Regulator or the Host Regulator of

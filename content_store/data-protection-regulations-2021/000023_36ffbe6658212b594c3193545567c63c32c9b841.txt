@@ -1,0 +1,121 @@
+ request;
+
+(j)
+
+the procedures for reporting and recording changes to the rules and reporting those changes to the Commissioner of Data Protection;
+
+(k)
+
+the reporting mechanisms for notifying the Commissioner of Data Protection of any legal requirements to which a member of the Group, is subject outside of ADGM and which are likely to have a substantial adverse effect on the protections provided by the Binding Corporate Rules; and
+
+(l)
+
+the data protection training provided to personnel with permanent or regular access to Personal Data.
+
+44. Derogations for specific situations
+
+(1)
+
+In the absence of an adequacy decision pursuant to sections 41(3) or 41(7), or of appropriate safeguards pursuant to section 42, including Binding Corporate Rules, a transfer or a set of transfers of Personal Data outside of ADGM or to an International Organisation, must take place only on one of the following conditions:
+
+39
+
+(a)
+
+the Data Subject has explicitly consented to the proposed transfer, after having been informed of the possible risks of such transfers for the Data Subject due to the absence of an adequacy decision and appropriate safeguards;
+
+(b)
+
+the transfer is necessary for the performance of a contract between the Data Subject and the Controller or the implementation of pre-contractual measures taken at the Data Subject's request;
+
+(c)
+
+the transfer is necessary for the conclusion or performance of a contract concluded in the interest of the Data Subject between the Controller and another natural or legal person;
+
+(d)
+
+the transfer is necessary for important reasons of public interest;
+
+(e)
+
+the transfer is required by law enforcement agencies of the UAE in accordance with Applicable Law;
+
+(f)
+
+the transfer is necessary for the establishment, exercise or defence of legal claims regulatory and out-of-court procedures); or
+
+(including
+
+judicial, administrative,
+
+(g)
+
+the transfer is necessary in order to protect the vital interests of the Data Subject or of another person, where the Data Subject is physically or legally incapable of giving Consent.
+
+(2) Sections 44(1)(a), 44(1)(b) and 44(1)(c) do not apply to activities carried out by public
+
+authorities in the exercise of their public powers.
+
+(3) The public interest referred to in section 44(1)(d) must be recognised in Applicable Law
+
+to which the Controller is subject.
+
+45. Data sharing with public authorities
+
+(1)
+
+In addition to a Controller or Processor’s other obligations under these Regulations, where a Controller or Processor receives a request for Personal Data from any public authority outside of ADGM which has jurisdiction over the Controller or Processor or any part of its Group (a ‘Requesting Authority’) the Controller or Processor should:
+
+(a)
+
+exercise reasonable diligence to determine the validity and proportionality of the request, including to ensure that any disclosure of Personal Data is necessary for the purpose of meeting the objectives of the Requesting Authority identified in the request;
+
+(b)
+
+assess the impact of the proposed transfer in light of the potential risks to the rights and legitimate interests of any affected Data Subject and, where appropriate, implement measures to minimise such risks, including by redacting or minimising the Personal Data transferred or utilising appropriate measures to safeguard the transfer; and
+
+(c)
+
+where reasonably practicable, obtain appropriate assurances from the Requesting Authority that it will respect the rights of Data Subjects and take appropriate steps to safeguard the Personal Data.
+
+40
+
+(2) A Controller or Processor may consult with the Commissioner of Data Protection in
+
+relation to any matter in connection with this section 45.
+
+46.
+
+International cooperation for the protection of Personal Data
+
+(1)
+
+In relation to jurisdictions outside of ADGM and International Organisations, the Commissioner of Data Protection may:
+
+(a)
+
+develop international cooperation mechanisms to facilitate the effective enforcement of legislation for the protection of Personal Data;
+
+(b)
+
+provide international mutual assistance in the enforcement of legislation for the protection of Personal Data, including through notification, complaint referral, investigative assistance and information exchange, subject to appropriate safeguards for the protection of Personal Data and other rights;
+
+(c)
+
+engage relevant stakeholders in discussion and activities aimed at furthering international cooperation in the enforcement of legislation for the protection of Personal Data; and
+
+(d)
+
+promote the exchange and documentation of Personal Data protection legislation and practice, including on jurisdictional conflicts with jurisdictions outside of ADGM.
+
+41
+
+PART VI Independent supervisory authority
+
+47. Commissioner of Data Protection
+
+(1) The Board will:
+
+(a)
+
+assign to the Registrar the competency to oversee the administration and

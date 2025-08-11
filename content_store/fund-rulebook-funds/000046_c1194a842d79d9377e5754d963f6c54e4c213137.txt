@@ -1,0 +1,117 @@
+ not require the disposal of Fund assets to pay off part of the borrowings where such disposal would be prejudicial to the interest of Unitholders.
+
+13.6
+
+Payments of liabilities on transfer of assets
+
+13.6.1 Where the property of a Body Corporate or of another Fund is transferred to a Fund or to the Trustee to hold on trust for the Unitholders in consideration of the issue of Units in the Fund to Unitholders in that Body Corporate or in that other Fund, Rule 13.6.2 applies.
+
+13.6.2
+
+The Fund Manager or in the case of an Investment Trust, the Trustee, as the successor in title to the property transferred, may pay out of the Fund Property any liability arising after the transfer which, had it arisen before the transfer, could properly have been paid out of the property transferred, but only if:
+
+71
+
+FUNDS VER10.100625
+
+(a)
+
+there is nothing in the Constitution of the Fund expressly forbidding the payment; and either
+
+(b)
+
+the Fund Manager or the Trustee, as the case may be, is of the opinion that proper provision was made for meeting such liabilities as were known or could reasonably have been anticipated at the time of the transfer; or
+
+(c)
+
+Unitholders representing a majority of the issued and outstanding Units of the Fund have passed a resolution approving such payment from Fund Property at a meeting of Unitholders called by the Fund Manager for such purpose.
+
+13A.
+
+REQUIREMENTS SPECIFIC TO PRIVATE CREDIT FUNDS
+
+13A.1
+
+Application
+
+13A.1.1 Chapter 13A applies in its entirety to the Fund Manager and, if appointed, the Trustee
+
+of a Private Credit Fund, unless otherwise expressly provided for in this Chapter.
+
+Guidance
+
+1. This Chapter must be read in conjunction with the Fund Rules more widely as they contain additional Rules that are applicable to Funds and Fund Managers more generally.
+
+2. Fund Managers of Private Credit Funds are subject to specific systems and controls requirements that are included in this chapter. Additionally, Private Credit Funds are subject to diversification requirements that all other Exempt Funds and Qualified Investor Funds are not subject to. Systems and controls requirements for Fund Managers of Private Credit Funds
+
+2. Fund Managers of Private Credit Funds are subject to specific systems and controls requirements that are included in this chapter. Additionally, Private Credit Funds are subject to diversification requirements that all other Exempt Funds and Qualified Investor Funds are not subject to. Systems and controls requirements for Fund Managers of Private Credit Funds
+
+13A.2.1
+
+The Fund Manager of a Private Credit Fund must maintain systems and controls that include suitable, documented policies and procedures designed to ensure:
+
+(a) a Fund risk appetite statement is developed and incorporated into its investment
+
+process;
+
+(b) that provision of Credit to a Borrower is only made based upon a sound
+
+assessment and pricing methodology;
+
+(c) the ongoing monitoring of granted Credit, including policies for renewals and
+
+refinancing;
+
+(d) that adequate risk management is undertaken, including in relation to credit risk
+
+and concentration risk;
+
+(e) the application of stress testing methodologies as set out in Section 13A.7 below;
+
+(f)
+
+the management of collateral;
+
+(g)
+
+that bad debt and impairments are identified and managed; and
+
+72
+
+FUNDS VER10.100625
+
+(h) the timely, appropriate and accurate valuation of Fund Property.
+
+13A.3
+
+Eligible investments and diversification requirements
+
+13A.3.1
+
+The Fund Manager of a Private Credit Fund must not allow for Credit to be provided to, or for the benefit of:
+
+(a) Natural Person(s);
+
+(b) an Affected Person;
+
+(c) a Collective Investment Fund;
+
+(d) a Person intending to utilise such financing for the purpose of speculative
+
+investment; or
+
+(e) a Bank or Lender.
+
+13A.3.2 A Fund Manager must ensure that the investment strategy of a Private Credit Fund is designed to achieve a portfolio that meets the Fund’s specified diversification and concentration requirements within a suitable, stated timeframe.
+
+13A.3.3
+
+The investment strategy of a Private Credit Fund must limit the maximum exposure to a single borrower (or group of connected borrowers) to 25% of the Committed Capital of the Fund.
+
+13A.4
+
+Borrowing and leverage
+
+13A.4.1
+
+The Fund Manager must ensure that

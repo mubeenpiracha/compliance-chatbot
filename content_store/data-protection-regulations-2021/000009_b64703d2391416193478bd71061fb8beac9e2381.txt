@@ -1,0 +1,87 @@
+)
+
+the purposes of the Processing;
+
+(b)
+
+the categories of Personal Data concerned;
+
+(c)
+
+the Recipients or categories of Recipient to whom the Personal Data has been or will be disclosed, in particular Recipients outside of ADGM or International Organisations;
+
+(d)
+
+where possible, the envisaged period for which the Personal Data will be stored, or, if not possible, the criteria used to determine that period;
+
+(e)
+
+the existence of the right to request from the Controller rectification or erasure of Personal Data or restriction of Processing of Personal Data concerning the Data Subject or to object to such Processing;
+
+(f)
+
+the right to lodge a complaint with the Commissioner of Data Protection;
+
+17
+
+(g)
+
+where the Personal Data is not collected from the Data Subject, any available information as to its source; and
+
+(h)
+
+the existence of automated decision-making, including Profiling, referred to in sections 20(1) and 20(4) and, at least in those cases, meaningful information about the logic involved, as well as the significance and the envisaged consequences of such Processing for the Data Subject.
+
+(2) Where Personal Data is transferred outside of ADGM or to an International Organisation, the Data Subject has the right to be informed of the appropriate safeguards pursuant to section 41 relating to the transfer.
+
+(3) The Controller must provide a copy of the Personal Data undergoing Processing. For any further copies requested by the Data Subject, the Controller may charge a reasonable fee based on administrative costs. Where the Data Subject makes the request by electronic means, and unless otherwise requested by the Data Subject, the information must be provided in a commonly used electronic form.
+
+(4) The right to obtain a copy referred to in section 13(3) must not adversely affect the rights
+
+of others.
+
+(5) Where the Controller Processes a large quantity of information concerning the Data Subject, the Controller may request that, before the information is delivered, the Data Subject specify the information or Processing activities to which the request relates.
+
+14. Right to rectification
+
+(1) A Data Subject has the right to request and obtain from the Controller without undue delay the rectification of inaccurate Personal Data concerning him or her. Taking into account the purposes of the Processing, the Data Subject has the right to have incomplete Personal Data completed, including by means of the Controller providing a supplementary statement.
+
+(2) Where rectification of Personal Data is not feasible for technical reasons, then the Controller is not in violation of these Regulations for failing to comply with a request for rectification of the Personal Data under section 14(1), if:
+
+(a)
+
+the Controller collected the Personal Data from the Data Subject; and
+
+(b)
+
+the information provided to the Data Subject under section 11(2)(h) was explicit, clear and prominent with respect to the manner of Processing the Personal Data and expressly stated that rectification of the Personal Data at the request of the Data Subject would not be feasible.
+
+15. Right to erasure
+
+(1) The Data Subject has the right to obtain from the Controller the erasure of Personal Data concerning him or her without undue delay and the Controller has the obligation to erase Personal Data without undue delay where one of the following applies:
+
+(a)
+
+the Personal Data is no longer necessary in relation to the purposes for which it was collected or otherwise Processed;
+
+18
+
+(b)
+
+the Data Subject withdraws Consent on which the Processing is based according to section 5(1)(a) or 7(2)(a), and where there is no other legal ground for the Processing;
+
+(c)
+
+the Data Subject objects to the Processing pursuant to section 19(1) and there are no overriding legitimate grounds for the Processing, or the Data Subject objects to the Processing pursuant to section 19(3);
+
+(d)
+
+the Personal Data has been unlawfully Processed; or
+
+(e)
+
+the Personal Data has to be erased for compliance with a legal obligation in Applicable Law to which the Controller is subject.
+
+(2) Where the Controller has made the Personal Data public and is obliged pursuant to section 15(1) to erase the Personal Data, the Controller, taking account of available technology and the cost of implementation, must take reasonable steps, including technical measures, to inform Controllers which are Processing the Personal Data that the Data Subject has requested the erasure by such Controllers of any links to, or copy or replication of, that Personal Data.
+
+(3) Sections 15(

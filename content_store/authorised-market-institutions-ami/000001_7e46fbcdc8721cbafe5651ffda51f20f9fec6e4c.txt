@@ -1,0 +1,103 @@
+6.2 Specifications relating to design and trading of Derivatives ............................. 58 6.3 Transparency and disclosure ........................................................................... 60 6.4 Volatility controls ............................................................................................. 62 6.5 Error Trade policy ............................................................................................ 64 6.6 Short selling and position management ........................................................... 65 6.7 Foreign ownership restrictions ......................................................................... 66 6.8 6.9 Liquidity incentive schemes ............................................................................. 67 6.10 Clearing and settlement arrangements ............................................................ 68 6.11 Listing Rules .................................................................................................... 69
+
+7.
+
+ADDITIONAL LICENSING REQUIREMENTS FOR OPERATING A CLEARING HOUSE ...................................................................... 73
+
+7.1 7.2 7.3 7.4
+
+Application ....................................................................................................... 73 Risk management............................................................................................ 73 Additional requirements for a CCP .................................................................. 82 Additional requirements for a CSD .................................................................. 85
+
+PART 4 OTHER REQUIREMENTS ...................................................... 88
+
+8
+
+CONTROLLERS ............................................................................ 88
+
+8.1 8.2
+
+Application ....................................................................................................... 88 Changes relating to control .............................................................................. 89
+
+9
+
+SUPERVISION OF AUTHORISED MARKET INSTITUTIONS ..... 95
+
+9.1 9.2
+
+Application ....................................................................................................... 95 Relations with regulators and the risk based approach .................................... 95
+
+AMI/VER28/03-25
+
+AUTHORISED MARKET INSTITUTIONS (AMI)
+
+Notifications ..................................................................................................... 95 9.3 Key Individuals ................................................................................................ 95 9.4 Constitution and governance ........................................................................... 96 9.5 Financial and other information........................................................................ 98 9.6 Complaints ...................................................................................................... 99 9.7 Notification....................................................................................................... 99 9.8 Information technology systems .................................................................... 100 9.9 9.10 Investigations and disciplinary action ............................................................. 100 9.11 Supervisory directions ................................................................................... 102 9.12 Reports .......................................................................................................... 103 9.13 Listing directions ............................................................................................ 103 9.14 Public disclosures of decisions in relation to an Official List of Securities of an
+
+Authorised Market Institution ......................................................................... 103
+
+10 WITHDRAWAL OF A LICENCE ................................................. 105
+
+10.1 Application ..................................................................................................... 105 10.2 Withdrawal of a licence at an Authorised Market Institution’s request ............ 105 10.3 Withdrawal of a licence on the DFSA’s initiative ............................................ 106
+
+11 APPEALS FROM AUTHORISED MARKET INSTITUTION
+
+DECISIONS ................................................................................. 107
+
+11.1 Application ..................................................................................................... 107
+
+12. TRANSITION AND SAVING ....................................................... 108
+
+12.1 Transitional Rule for Key Individuals .............................................................. 108 12.2 Deleted .......................................................................................................... 108 12.3 Saving Rules ................................................................................................. 108
+
+APP1 TESTING OF TECHNOLOGY SYSTEMS ................................... 109
+
+A1.1 Application ..................................................................................................... 109 A1.2 Testing of technology systems....................................................................... 109 A1.3 Testing relating to Members’ technology systems.......................................... 109
+
+APP2 USE OF PRICE INFORMATION PROVIDERS ........................... 111
+
+A2.1 Application ..................................................................................................... 111
+
+APP3 CONTRACT DELIVERY SPECIFICATIONS .............................. 113
+
+A3.1 Application ..................................................................................................... 113 A3.2 Deliverability of the underlying commodity ..................................................... 113
+
+AMI/VER28/03-25
+
+AUTHORISED MARKET INSTITUTIONS (AMI)
+
+PART 1:
+
+INTRODUCTION
+
+1.
+
+APPLICATION, INTERPRETATION AND OVERVIEW
+
+1.1
+
+Application
+
+1.1.1
+
+(1)
+
+This module applies to:
+
+(a)
+
+every Person who carries on, or intends to carry on, either or both of the Financial Services of Operating an Exchange or Operating a Clearing House in or from the DIFC;
+
+(b)
+
+a Key Individual, or a Person intending to be a Key Individual, of a Person referred to in (a); and
+
+(c)
+
+a Controller, or a Person intending to be a Controller, of a Person referred to in (a).
+
+(2)
+
+This module also applies to an Authorised Market Institution where it:
+
+(a)
+
+carries on, or intends to carry on, the Financial Service of Operating

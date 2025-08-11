@@ -1,0 +1,135 @@
+, whether direct or indirect, in one or more Shares issued by that SME.
+
+Whole class to be listed
+
+9.3.12 An application for a class of Securities to be admitted to the List must:
+
+(a)
+
+if no Securities of that class are already admitted to the List, relate to all Securities of that class, issued or proposed to be issued; or
+
+(b)
+
+if Securities of that class are already admitted to the List, relate to all further Securities of that class, issued or proposed to be issued.
+
+Settlement
+
+9.3.13 To be admitted to the List:
+
+(a)
+
+an Applicant’s Securities must be eligible for electronic settlement; and
+
+(b)
+
+the arrangements for settlement and clearing of trading in such Securities must be acceptable to the DFSA.
+
+Warrants
+
+9.3.14 (1)
+
+To be admitted to the List, the total of all issued Warrants to subscribe for Shares must not , subject to (2), exceed 20 per cent of the issued share capital of the Applicant as at the time of issue of the Warrants.
+
+(2)
+
+Any rights under an employee share scheme are excluded from the twenty per cent calculation in (1).
+
+Depository receipts
+
+9.3.15 A Listed Entity in respect of Certificates which are depository receipts must ensure
+
+that:
+
+(a)
+
+at the time of issue of such Certificates the payments received from the issue of the depository receipts are sufficient to meet the payments required for the issuance of the underlying Securities; and
+
+(b)
+
+the underlying Securities or any rights, monies or benefits related to the underlying Securities are not treated as assets or liabilities of the Issuer of the Certificates under the law, whether for the purposes of insolvency or otherwise.
+
+9.4 Application for admission to the List
+
+Listing application
+
+9.4.1 An Applicant must apply to the DFSA by:
+
+(a)
+
+submitting in final form the relevant documents in AFN.
+
+89
+
+MKT/VER24/03-25
+
+MARKETS RULES (MKT)
+
+(b)
+
+paying the fee set out in the FER 2.9.1 at the time of submission of the completed application form;
+
+(c)
+
+submitting all additional documents, explanations and information as may be required by the DFSA, including the documents specified in Rules 9.4.4 and 9.4.5; and
+
+(d)
+
+submitting verification of any information in such manner as the DFSA may specify.
+
+9.4.2 All the documents in Rule 9.4.1 must be submitted to the DFSA at the DFSA’s
+
+address.
+
+Guidance
+
+1. Before submitting the documents referred to in Rule 9.4.1, an Applicant should contact the DFSA to agree the date on which the DFSA will consider the application.
+
+2. When considering an application for admission of Securities to the List, the DFSA may:
+
+a.
+
+carry out any enquiries and request any further information which it considers appropriate, including consulting with other regulators or exchanges;
+
+b.
+
+request that an Applicant answer questions and explain any matter the DFSA considers relevant to the application for listing;
+
+c.
+
+take into account any information which it considers appropriate in relation to the application for listing;
+
+d.
+
+request that any further information provided by the Applicant be verified in such manner as the DFSA may specify; and
+
+e.
+
+impose any additional conditions on the Applicant as the DFSA considers appropriate.
+
+9.4.3 An admission of Securities to the List becomes effective only when the DFSA has published the admission by adding such Securities to the Official List of Securities on the DFSA website.
+
+Documents to be provided 48 hours in advance
+
+9.4.4 The following documents must be submitted by the Applicant, in final form, to the DFSA by midday two clear business days before the DFSA is to consider the application:
+
+(a)
+
+a completed application form;
+
+(b)
+
+the Approved Prospectus, and if applicable, any Approved Supplementary Prospectus in respect of the Securities;
+
+(c)
+
+in respect of Securities which are Shares, written confirmation of the number of Shares to be allotted in the offer; and
+
+(d)
+
+if a Prospectus has not been produced, a copy of the announcement detailing the number and type of Securities that are subject to the application and the circumstances of their issue.
+
+90
+
+MKT/VER24/03-25
+
+MARKETS RULES (M

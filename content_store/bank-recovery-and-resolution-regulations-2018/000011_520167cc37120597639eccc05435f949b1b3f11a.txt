@@ -1,0 +1,127 @@
+ Capital requirements so that in the event of the Regulator exercising a Write Down or Conversion Power in respect of the Institution, the Institution shall not be prevented from issuing sufficient new Shares to ensure that the conversion of liabilities into Shares can be carried out effectively in the future.
+
+(2)
+
+An assessment by the Regulator as to whether to impose additional capital requirements, or to what extent to impose additional capital requirements under subsection (1), may be carried
+
+20
+
+18.
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+out in conjunction with the development of a Resolution Plan under section 10 in respect of that Institution.
+
+Early Intervention Actions
+
+Early intervention
+
+Where the Regulator is satisfied that an Institution is infringing or is likely, in the near future, to infringe—
+
+(a)
+
+either the minimum capital or liquidity requirements placed on it by the Regulator, including any new or additional capital requirements under sections 16 or 17; or
+
+(b)
+
+the Threshold Conditions or the Recognition Requirements, as applicable,
+
+the Regulator may take any one or more early intervention measures, including those set out in subsection (4), in relation to an Institution.
+
+In this section, "early intervention measure" means a measure which may be taken by the Regulator in the exercise of its powers under these Regulations and the Financial Services and Markets Regulations 2015, with the object of addressing the conditions referred to in subsection (1).
+
+An infringement referred to in subsection (1) may occur due to, among other things, a deteriorating financial condition, and may include one or more of the following—
+
+(a)
+
+a deteriorating funding situation;
+
+(b)
+
+an increasing level of leverage;
+
+(c)
+
+an increasing level of non-performing or defaulting loans; or
+
+(d)
+
+an increasing concentration of exposures.
+
+Early intervention measures include, where applicable, the power of the Regulator to—
+
+(a)
+
+require the Management of the Institution to—
+
+(i)
+
+implement one or more of the arrangements or measures set out in its Recovery Plan; or
+
+(ii)
+
+update its Recovery Plan where the circumstances that led to the early intervention are different from the assumptions in the Recovery Plan and implement one or more of the arrangements or measures set out in the updated Recovery Plan,
+
+within a specified timeframe and in order to ensure that the conditions for early intervention no longer apply;
+
+(b)
+
+require the Management of the Institution to examine the situation, identify measures to overcome any problems identified and draw up an action programme to overcome those problems and a timeframe for its implementation;
+
+21
+
+(5)
+
+19.
+
+(1)
+
+(2)
+
+(3)
+
+(c)
+
+require the Management of the Institution to convene, or if the Management fails to comply with that requirement, convene directly a meeting of Shareholders of the Institution, and in both cases set the agenda and require certain decisions to be considered for adoption by the Shareholders;
+
+(d)
+
+require one or more members of the Management of the Institution to be removed or replaced if those persons are determined by the Regulator to be unfit to perform their duties;
+
+(e)
+
+require the Management of the Institution to draw up a plan for negotiation on restructuring of debt with some or all of its creditors according to the Recovery Plan, where applicable;
+
+(f)
+
+require changes to the Institution's strategy;
+
+(g)
+
+require changes to the legal or operational structures of the Institution;
+
+(h)
+
+require the transfer of any business to a Subsidiary in the Group or establishment of any new Subsidiary;
+
+(i)
+
+require, including through on-site inspections, if necessary, the provision to the Regulator of all information necessary in order to update the Resolution Plan and prepare for the possible Resolution of the Institution and for a Pre-Resolution Valuation to be conducted in accordance with section 35; or
+
+(j)
+
+require the Institution to contact potential purchasers in order to prepare for the Resolution of the Institution, subject to the procedural requirements relating to the Sale of Business Tool.
+
+For each of the early intervention measures set out in subsection (4), the Regulator shall set out an appropriate deadline for completion to enable it to evaluate the effectiveness of the measure.
+
+Temporary administrator
+
+Subject to subsection (2), if the Regulator considers that the replacement of the Management of an Institution as an early intervention measure would be insufficient to remedy the situation, the Regulator may appoint one or more temporary administrators to the Institution.
+
+Before appointing a person as a temporary administrator, the Regulator must be satisfied that the person has the qualifications, ability and

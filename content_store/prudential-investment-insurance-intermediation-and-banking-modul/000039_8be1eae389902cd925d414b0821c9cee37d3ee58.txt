@@ -1,0 +1,139 @@
+ are fully paid up and their purchase is not funded directly or indirectly by the Authorised Firm;
+
+(c)
+
+the instruments meet all the following conditions as regards their classification:
+
+(i)
+
+they qualify as equity capital within the meaning of the DIFC Companies Law;
+
+(ii)
+
+they are classified as equity within the meaning of the International Financial Reporting Standards; and
+
+(iii)
+
+they are classified as equity capital for the purposes of the DIFC determining balance sheet Insolvency Law;
+
+insolvency, under
+
+(d)
+
+the instruments are clearly and separately disclosed on the balance sheet in the financial statements of the Authorised Firm;
+
+(e)
+
+the instruments are perpetual;
+
+(f)
+
+the principal amount of the instruments may not be reduced or repaid, except in either of the following cases:
+
+(i)
+
+the liquidation of the Authorised Firm; or
+
+(ii)
+
+discretionary instruments or other discretionary means of reducing capital, where the Authorised Firm has notified the DFSA of its intention to do so, in writing, at least 30 days prior to taking such steps;
+
+repurchases of
+
+the
+
+(g)
+
+the provisions governing the instruments do not indicate expressly or implicitly that the principal amount of the instruments would or might be reduced or repaid other than in the liquidation of the Authorised Firm, and the Authorised Firm does not otherwise provide such an indication prior to or at issuance of the instruments;
+
+(h)
+
+the instruments meet the following conditions as regards distributions:
+
+(i)
+
+there are no preferential distributions, including in relation to other CET1 Capital instruments, and the terms governing the instruments do not provide preferential rights to payment of distributions;
+
+59
+
+PIB/VER50/07-25
+
+(2)
+
+(3)
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+(ii)
+
+distributions to holders of the instruments may be paid only out of distributable items;
+
+(iii)
+
+the conditions governing the instruments do not include a cap or other restriction on the maximum level of distributions;
+
+(iv)
+
+the level of distributions is not determined on the basis of the amount for which the instruments were purchased at issuance;
+
+(v)
+
+the conditions governing the instruments do not include any obligation for the Authorised Firm to make distributions to their holders and the Authorised Firm is not otherwise subject to such an obligation; and
+
+(vi) non-payment of distributions does not constitute an event of
+
+default of the Authorised Firm;
+
+(i)
+
+compared to all the capital instruments issued by the Authorised Firm, the instruments absorb the first and proportionately greatest share of losses as they occur, and each instrument absorbs losses to the same degree as all other CET1 Capital instruments;
+
+(j)
+
+the instruments rank below all other claims in the event of insolvency or liquidation of the Authorised Firm;
+
+(k)
+
+the instruments entitle their owners to a claim on the residual assets of the Authorised Firm, which, in the event of its liquidation and after the payment of all senior claims, is proportionate to the amount of such instruments issued and is not fixed or subject to a cap;
+
+(l)
+
+the instruments are not secured, or guaranteed by any of the following:
+
+(i)
+
+the Authorised Firm or its Subsidiaries;
+
+(ii)
+
+any Parent of the Authorised Firm or its Subsidiaries; or
+
+(iii) any member of its Financial Group; and
+
+(m)
+
+the instruments are not subject to any arrangement, contractual or otherwise, that enhances the seniority of claims under the instruments in insolvency or liquidation.
+
+The conditions in (1)(i) must be complied with notwithstanding a write down on a permanent basis of the principal amount of AT1 Capital instruments.
+
+Where any of the conditions in (1) cease to be met:
+
+(a)
+
+the instrument must cease to qualify as a CET1 Capital instrument; and
+
+(b)
+
+the share premium accounts that relate to that instrument must cease to qualify as a CET1 element.
+
+60
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+3.13.4 For the purposes of Rule 3.13.2(c), an Authorised Firm may include interim or year- end net profits in CET1 Capital before the Authorised Firm has approved its annual audited accounts confirming its final profit or loss for the year, but only where:
+
+(a)
+
+those profits have been reviewed by

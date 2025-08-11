@@ -1,0 +1,159 @@
+ of the kind mentioned in Rule 2.28.1(1)(b); nor
+
+(b)
+
+that of leading or enabling Persons to enter into a particular Credit Facility.
+
+2.28.8 A Crowdfunding Operator does not Arrange Credit to the extent that it
+
+Operates a Loan Crowdfunding Platform.
+
+Guidance
+
+The Guidance relating to the exclusions from the activity of ‘Arranging Deals in Investments’ is generally relevant for the exclusions from ‘Arranging Credit’, although the activities relate to ‘credit’ in this context, instead of ‘Investments’. To the extent relevant, a reference to an Investment in that Guidance should be read as ‘credit’ for the purposes of Guidance on exclusions from ‘Arranging Credit’.
+
+2.29 Operating a Crowdfunding Platform
+
+2.29.1 (1)
+
+In Rule 2.2.2, a Person carries on the activity of Operating a Crowdfunding Platform if the Person operates:
+
+(a)
+
+a Loan Crowdfunding Platform;
+
+(b)
+
+an Investment Crowdfunding Platform; or
+
+43
+
+GEN/VER67/03-25
+
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+(6)
+
+(7)
+
+GENERAL (GEN)
+
+(c)
+
+a Property Investment Crowdfunding Platform.
+
+A Person operates a Loan Crowdfunding Platform under (1)(a) if it does both of the following:
+
+(a)
+
+operates an electronic platform that facilitates the bringing together of potential lenders and borrowers who wish to obtain funding for a business or project; and
+
+(b)
+
+administers a loan agreement that results from operating the electronic platform.
+
+If the Person referred to in (2) also provides a facility that assists a lender to transfer his rights and obligations under a loan agreement referred to in that paragraph, that activity is also included within operating a Loan Crowdfunding Platform.
+
+A Person operates an Investment Crowdfunding Platform under (1)(b) if it does both of the following:
+
+(a)
+
+operates an electronic platform that facilitates the bringing together of potential investors and Persons who wish to obtain funding for a business or project (other than the sale of a property), resulting in an investor making an Investment with the Person seeking funding; and
+
+(b)
+
+administers an Investment that results from operating the electronic platform.
+
+A Person operates a Property Investment Crowdfunding Platform under (1)(c) if it does both of the following:
+
+(a)
+
+operates an electronic platform that facilitates the bringing together of potential investors and Persons who wish to sell a property, resulting in an investor making an investment in an individual property; and
+
+(b)
+
+administers an Investment or a beneficial interest in a trust that results from operating the electronic platform.
+
+If the Person referred to in (4) or (5) also provides a facility that assists an investor to sell an investment referred to in those paragraphs, that activity is also included within operating a Crowdfunding Platform under the relevant paragraph.
+
+In this Rule:
+
+(a)
+
+“administer a loan agreement” in (2) means:
+
+(i)
+
+provide information or perform other duties under the loan agreement on behalf of the borrower or lender;
+
+(ii)
+
+take steps to obtain the repayment of the loan; or
+
+(iii)
+
+exercise rights or perform obligations under the loan agreement on behalf of the borrower or lender;
+
+44
+
+GEN/VER67/03-25
+
+GENERAL (GEN)
+
+(b)
+
+“administer an Investment” in (4) means:
+
+(i)
+
+provide information or perform other duties relating to the Investment on behalf of the Issuer or investor;
+
+(ii)
+
+take steps to obtain the payment of any amount payable by the Issuer to an investor; or
+
+(iii)
+
+exercise rights or perform obligations relating to the Investment on behalf of the Issuer or investor;
+
+(c)
+
+“administer an Investment or a beneficial interest in a trust” in (5) means:
+
+(i)
+
+provide information or perform other duties relating to the Investment or trust on behalf of the investor;
+
+(ii)
+
+take steps to obtain the payment of any amount payable to an investor;
+
+(iii)
+
+exercise rights or perform obligations relating to the Investment or trust on behalf of an investor;
+
+(iv)
+
+arrange for any service to be provided relating to the property;
+
+(v)
+
+provide any service related to a Special Purpose Vehicle that holds title to the property; or
+
+(vi)
+
+arrange for the sale of the property at the end of the investment period;
+
+(d)
+
+“electronic platform” means a website or other form of electronic media;
+
+(e)
+
+“property” means

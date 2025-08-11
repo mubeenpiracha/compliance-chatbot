@@ -1,0 +1,147 @@
+ the Registrar provide it with a paper copy of any certificate of incorporation of a company, signed by the Registrar or authenticated by the Registrar's seal.
+
+(3)
+
+The Board may make rules requiring the payment of certain fees to the Registrar for the provision of the paper copy as described in subsection 940(2).
+
+Registered numbers
+
+941. Company’s registered numbers
+
+(1)
+
+The Registrar shall allocate to every company a number, which shall be known as the company’s registered number.
+
+(2)
+
+Companies’ registered numbers shall be in such form, consisting of one or more sequences of figures or letters, as the Registrar may determine.
+
+527
+
+(3)
+
+The Registrar may on adopting a new form of registered number make such changes of existing registered numbers as appear necessary.
+
+(4)
+
+A change of a company’s registered number has effect from the date on which the company is notified by the Registrar of the change.
+
+(5)
+
+For a period of three years beginning with that date any requirement to disclose the company’s registered number imposed by rules under section 70 (requirement to disclose company name etc.) is satisfied by the use of either the old number or the new.
+
+Delivery of documents to the Registrar
+
+942. Registrar’s requirements as to form, authentication and manner of delivery
+
+(1)
+
+The Registrar may impose requirements as to the form, authentication and manner of delivery of documents required or authorised to be delivered to the Registrar under any law or regulation applicable in the Abu Dhabi Global Market.
+
+(2)
+
+As regards the form of the document, the Registrar may–
+
+(a)
+
+require the contents of the document to be in a standard form,
+
+(b)
+
+impose requirements for the purpose of enabling the document to be scanned or copied.
+
+(3)
+
+As regards authentication, the Registrar may–
+
+(a)
+
+require the document to be authenticated by a particular person or a person of a particular description,
+
+(b)
+
+specify the means of authentication,
+
+(c)
+
+require the document to contain or be accompanied by the name or registered number (or both) of the company (or other body) to which it relates.
+
+(4)
+
+As regards the manner of delivery, the Registrar may specify requirements as to–
+
+(a)
+
+the physical form of the document (for example, hard copy or electronic form),
+
+(b)
+
+the means to be used for delivering the document (for example, by post or electronic means),
+
+(c)
+
+the address to which the document is to be sent,
+
+(d)
+
+in the case of a document to be delivered by electronic means, the hardware and software to be used, and technical specifications (for example, matters relating to protocol, security, anti-virus protection or encryption).
+
+(5)
+
+The power conferred by this section does not authorise the Registrar to require documents to be delivered by electronic means (see section 943).
+
+(6)
+
+Requirements imposed under this section must not be inconsistent with requirements imposed by any law or regulation applicable in the Abu Dhabi Global Market with respect to the form, authentication or manner of delivery of the document concerned.
+
+943. Power to require delivery by electronic means
+
+(1)
+
+The Registrar make rules requiring documents that are authorised or required to be delivered to the Registrar to be delivered by electronic means.
+
+528
+
+(2)
+
+Any such requirement to deliver documents by electronic means is effective only if Registrar’s rules have been published with respect to the detailed requirements for such delivery.
+
+944. Agreement for delivery by electronic means
+
+(1)
+
+The Registrar may agree with a company (or other body) that documents relating to the company (or other body) that are required or authorised to be delivered to the Registrar–
+
+(a)
+
+will be delivered by electronic means, except as provided for in the agreement, and
+
+(b)
+
+will conform to such requirements as may be specified in the agreement or specified by the Registrar in accordance with the agreement.
+
+(2)
+
+An agreement under this section may relate to all or any description of documents to be delivered to the Registrar.
+
+(3)
+
+Documents in relation to which an agreement is in force under this section must be delivered in accordance with the agreement.
+
+945. Document not delivered until received
+
+(1)
+
+A document is not delivered to the Registrar until it is received by the Registrar.
+
+(2)
+
+Provision may be made by Registrar’s rules as to when a document is to be regarded as received.
+
+Requirements for proper delivery
+
+946. Requirements for proper delivery
+
+(1)
+
+A document delivered to the Registrar is not properly delivered unless all the following requirements are met

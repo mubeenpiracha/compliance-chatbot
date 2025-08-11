@@ -1,0 +1,129 @@
+ to be removed from the DLT Foundations Register at least 31 days before making an application to the Registrar for removal, provided that:
+
+(a)
+
+the notice:
+
+i.
+
+shall state that the DLT Foundation intends to make the application to the Registrar, and shall specify the jurisdiction in which it proposes to become established as a foundation with legal personality;
+
+64
+
+(4)
+
+(5)
+
+ii.
+
+shall be sent in writing to each creditor of the DLT Foundation;
+
+iii.
+
+shall be published once in a national newspaper or in such other manner as the Court may on application direct; and
+
+iv.
+
+shall state that any creditor of the DLT Foundation who objects to the application may within 30 days of the date of the advertisement give notice of his or her objection to the DLT Foundation;
+
+(b)
+
+a creditor who gives notice in accordance with subsection (3) and whose claim against the DLT Foundation has not been discharged may, within 30 days after the date of the notice, apply to the Court for an order restraining the application by the DLT Foundation under this subsection 111; and
+
+(c)
+
+on the creditor’s application the Court, if satisfied that the interests of the creditor would be unfairly prejudiced by the proposed transfer, may make an order (subject to such terms, if any, as it may think fit) restraining the application by the DLT Foundation under subsection (1).
+
+An application to the Registrar must be accompanied by:
+
+(a)
+
+evidence that the removal from the DLT Foundations Register is not prohibited by the provisions of subsection (2) and that subsection (3) has been complied with;
+
+(b)
+
+evidence that on the date of removal from the DLT Foundations Register the DLT Foundation will be established under the law of the place to which it intends to migrate;
+
+(c)
+
+confirmation that the DLT Foundation will continue to have legal personality in accordance with the law of the place to which it intends to migrate; and
+
+(d)
+
+a declaration of compliance signed by the registration agent certifying that all the requirements of these Regulations in relation to removal from the DLT Foundations Register and any requirements that the Registrar may individually specify to the relevant DLT Foundation for the purposes of its removal from the DLT Foundations Register have been fulfilled.
+
+On receipt of the documents and information set out in subsection (4), the Registrar shall remove the name of the DLT Foundation from the DLT Foundations Register, giving such notice as it thinks fit and the DLT Foundation shall cease to be an ADGM DLT Foundation and the Registrar shall publish the fact of the removal of the DLT Foundation from the DLT Foundations Register in such manner as it thinks fit.
+
+65
+
+PART 15: DISSOLUTION AND STRIKING-OFF
+
+Dissolution
+
+112. Dissolution of Foundations
+
+(1)
+
+A DLT Foundation shall be dissolved and removed from the DLT Foundations Register in the following circumstances:
+
+(a)
+
+it is established for a fixed term and such term expires;
+
+(b)
+
+its object is fulfilled or becomes incapable of fulfilment;
+
+(c)
+
+the Charter require dissolution;
+
+(d)
+
+it is unable to pay its debts as they fall due;
+
+(e)
+
+any provision of these Regulations requires that it be dissolved; or
+
+(f)
+
+the Court orders dissolution.
+
+(2)
+
+Where a DLT Foundation is dissolved:
+
+(a)
+
+under subsection (a) above, the DLT Foundation Council or, if so provided under the Charter of a DLT Foundation, another body within the Organisational and Governance Structure must appoint a liquidator; and
+
+(b)
+
+under subsections (1)(b)-(1)(c) and (1)(e)above, the DLT Foundation Council or, if so provided under the Charter of a DLT Foundation, another body within the Organisational and Governance Structure, may, in its discretion, appoint a liquidator.
+
+(3)
+
+A liquidator shall only be appointed if he is a Fit and Proper Person to hold that position. A liquidator shall:
+
+(a)
+
+identify the Assets and liabilities of the DLT Foundation;
+
+(b)
+
+discharge all liabilities of the DLT Foundation;
+
+(c)
+
+prepare a statement of account in respect of all actions of the liquidation; and
+
+(d)
+
+distribute the Surplus Assets, if any, to:
+
+i.
+
+any Remaining Beneficiary in accordance with the Charter (and in the absence of any such express provision, equally between the Remaining Beneficiaries if more than one); or
+
+ii

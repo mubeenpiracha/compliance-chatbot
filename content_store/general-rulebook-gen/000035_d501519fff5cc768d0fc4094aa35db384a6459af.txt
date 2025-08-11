@@ -1,0 +1,103 @@
+ on the resignation of its Auditor, in such form as the Regulator shall prescribe.
+
+Each Authorised Person and Recognised Body must appoint an Auditor to fill any vacancy in the office of Auditor and ensure that the replacement Auditor can take up office at the time the vacancy arises or as soon as reasonably practicable.
+
+Each Authorised Person and Recognised Body must comply with any request by the Regulator to replace an Auditor previously appointed by that Authorised Person or Recognised Body.
+
+61
+
+GEN VER11.290725
+
+(1)
+
+Each Authorised Person and Recognised Body must take reasonable steps to ensure that the Auditor and the relevant audit staff of the Auditor are independent of and not subject to any conflict of interest with respect to the Authorised Person or Recognised Body.
+
+(2)
+
+Each Authorised Person and Recognised Body must notify the Regulator if it becomes aware, or has reason to believe, that the Auditor or the relevant audit staff of the Auditor are no longer independent of the Authorised Person or Recognised Body, or have a conflict of interest which may affect their judgement in respect of the Authorised Person or Recognised Body.
+
+Guidance
+
+1.
+
+Each Authorised Person and Recognised Body should consider whether there is any financial or personal relationship between it or any of its relevant Employees and the Auditor or any of the relevant Employees of the Auditor that may affect the judgement of the Auditor when conducting an audit of the Authorised Person or Recognised Body or complying with all its legal obligations, including FSMR, AML and other relevant Rulebooks.
+
+2.
+
+Each Authorised Person and Recognised Body should consider rotating the appointed relevant staff of the Auditor on a regular basis to ensure that the relevant staff of the Auditor remain independent.
+
+If requested by the Regulator, an Authorised Person or Recognised Body which carries on Regulated Activities through a Branch must provide the Regulator with information on its appointed or proposed Auditor with regard to the Auditor's skills, experience and independence.
+
+6.5
+
+Co-operation with Auditors
+
+Each Authorised Person and Recognised Body must take reasonable steps to ensure that
+
+it and its Employees:
+
+(1)
+
+provide any information to its Auditor that its Auditor reasonably requires, or is entitled to receive as Auditor;
+
+(2)
+
+give the Auditor right of access at all reasonable times to relevant records and information within its possession;
+
+(3)
+
+allow the Auditor to make copies of any records or information referred to in (2);
+
+(4)
+
+do not interfere with the Auditor's ability to discharge its duties;
+
+(5)
+
+report to the Auditor any matter which may significantly affect the financial position of the Authorised Person or Recognised Body; and
+
+(6)
+
+provide such other assistance as the Auditor may reasonably request it to provide.
+
+62
+
+GEN VER11.290725
+
+6.6
+
+Audit reports
+
+Each Authorised Person and Recognised Body must, in writing, arrange for and ensure
+
+the submission of the following by its Auditor:
+
+(1)
+
+a Financial Statement Auditor's Report on the Authorised Person or Recognised Body's financial statements in accordance with the International Standards on Auditing following the performance of an audit;
+
+(2)
+
+a Regulatory Returns Auditor's Report in accordance with Rules 6.6.4 and 6.6.5 as relevant;
+
+(3)
+
+if the Authorised Person is permitted to control or hold Client Money, a Client Money Auditor's Report in accordance with Rule 6.6.6;
+
+(4)
+
+if the Authorised Person is permitted to hold or control Client Investments or Provide Custody in or from ADGM, a Safe Custody Auditor's Report in respect of such business as applicable, in accordance with Rule 6.6.7;
+
+(5)
+
+if FUNDS is applicable, a Fund Auditor's Report in accordance with Rule 6.6.8; and
+
+(6)
+
+if the Authorised Person is a Public Listed Company, a Public Listed Company Auditor's Report in accordance with Rule 6.6.9.
+
+Guidance
+
+For the purposes of Rule 6.6.1(1) and (2) the financial statements of an Authorised Person or Recognised Body which is a Branch may be the financial statements prepared for the Authorised Person or Recognised Body's head office or management accounts or reports that are specific to the Branch.
+
+Each Authorised Person and Recognised Body must submit any reports produced by its Auditor in accordance with this Chapter to the

@@ -1,0 +1,115 @@
+ delivery leg From five business days post contractual payment or delivery leg until extinction of the transaction
+
+No calculation required
+
+Treat as an exposure
+
+Treat as an exposure with a risk-weight of 1000%
+
+A4.6.12 An Authorised Person must treat an Exposure in accordance with the relevant
+
+provisions of Chapter 4.
+
+A4.6.13
+
+If the Authorised Person considers the total amount of the exposures resulting from free delivery transactions to be immaterial it may apply a risk weight of 100% to these exposures, except where a risk weight of 1000% is applied in accordance with Rule A4.6.11.
+
+Derivatives and long settlement transactions – Standardised Approach to Counterparty Credit Risk (SA-CCR)
+
+A4.6.14 The exposure at default (EAD) of Derivative transactions (OTC and exchange-traded) and long settlement transactions must be calculated in accordance with this Section unless the Authorised Person has been granted permission by the Regulator to use an internal model.
+
+A4.6.15 EAD is to be calculated separately for each netting set. It is determined as follows:
+
+EAD = alpha* (RC + PFE)
+
+where:
+
+alpha = 1.4
+
+RC = the replacement cost calculated according to Rules A4.6.19 to A4.6.24
+
+PFE = the amount for potential future exposure calculated according to Rule A4.6.26
+
+A4.6.16 The replacement cost (RC) and the potential future exposure (PFE) components must be calculated differently for margined and unmargined netting sets. The EAD for a margined netting set is to be capped at the EAD of the same netting set calculated on an unmargined basis.
+
+Netting Sets
+
+A4.6.17 An Authorised Person may net transactions subject to any legally valid form of bilateral netting which results in legal substitution of one single payable/receivable amount for previous gross obligations.
+
+A4.6.18
+
+In every case in which netting is applied, the Authorised Person must demonstrate to the Regulator that it has the following in place:
+
+290
+
+PRU VER17.290725
+
+(a)
+
+A netting contract with the counterparty or other agreement which creates a single legal obligation, covering all included transactions, such that the Authorised Person would have either a claim to receive or obligation to pay only the net sum of the positive and negative mark-to-market values of included individual transactions in the event a counterparty fails to perform due to any of the following:
+
+(i)
+
+default,
+
+(ii)
+
+bankruptcy,
+
+(iii)
+
+liquidation, or
+
+(iv)
+
+similar circumstances.
+
+(b)
+
+Written and reasoned legal reviews that, in the event of a legal challenge, the relevant courts and administrative authorities would find the exposure of the Authorised Person to be such a net amount under:
+
+(i)
+
+The law of the jurisdiction in which the counterparty is chartered and, if the foreign branch of a counterparty is involved, then also under the law of the jurisdiction in which the branch is located;
+
+(ii)
+
+The law that governs the individual transactions; and
+
+(iii)
+
+The law that governs any contract or agreement necessary to effect the netting.
+
+(c)
+
+Procedures to ensure that the legal characteristics of netting arrangements are kept under review in light of the possible changes in relevant law.
+
+Calculation of RC for unmargined transactions
+
+A4.6.19 An unmargined transaction is a transaction in which variation margin is not
+
+exchanged. Collateral other than variation margin may be present.
+
+A4.6.20 RC for unmargined transactions is calculated in accordance with the following
+
+formula:
+
+RC = max{V – C; 0}
+
+where:
+
+V = the value of the derivative transactions in the netting set (constituted in accordance with Rule A4.6.18); and
+
+C = the haircut value of the net collateral held, calculated in accordance with Section A4.3.
+
+A4.6.21 Derivative contracts with a one-way margining agreement in favour of the Authorised
+
+Person's counterparty must be treated as unmargined transactions.
+
+291
+
+PRU VER17.290725
+
+Net Independent Collateral Amount
+
+A4.6.22 The independent collateral amount (ICA) is (i) collateral (

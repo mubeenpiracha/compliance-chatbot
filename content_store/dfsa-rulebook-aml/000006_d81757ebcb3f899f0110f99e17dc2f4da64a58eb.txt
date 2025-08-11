@@ -1,0 +1,117 @@
+ on a Designated Non-Financial Business or Profession (DNFBP) in or from the DIFC to be registered by the DFSA. In the case of a dealer in precious metals or precious stones, the DNFBP definition applies to a dealer which carries out a single cash transaction, or several cash transactions that appear to be connected, with a value of $15,000 or more. Therefore, a dealer in precious metals or precious stones will not have to register as a DNFBP if it can ensure that the value of each transaction it carries out (single or connected) is under that threshold.
+
+8
+
+AML/VER27/03-25
+
+3
+
+3.1
+
+3.1.1
+
+3.2
+
+3.2.1
+
+Anti-Money Laundering, Counter-Terrorist Financing and Sanctions Module (AML)
+
+INTERPRETATION AND TERMINOLOGY
+
+Interpretation
+
+A reference in this module to “money laundering” in lower case includes a reference to terrorist financing, the financing of illegal organisations and proliferation financing, unless the context provides or implies otherwise.
+
+Guidance
+
+Chapter 6, section 6.2, of the General (GEN) module sets out how to interpret the Rulebook, including this module.
+
+Glossary for AML
+
+Guidance
+
+1.
+
+In order to make this module easier to read, some of the defined terms in this module have not had the initial letter of each word capitalised in the same way as in other Rulebook modules.
+
+2.
+
+Some of the defined terms and abbreviations in this module may also be found in the DFSA’s Glossary module (GLO). Where a defined term in this module does not appear in Rule 3.2.1, a Relevant Person should look in GLO to find the meaning. In addition, Rule 9.3.2 of this module sets out definitions relevant to section 9.3 (Electronic fund transfers).
+
+3.
+
+In accordance with the interpretation provisions in the Regulatory Law, a reference to legislation includes a reference to the legislation as amended or re-enacted from time to time.
+
+In this module, the terms and abbreviations listed in the table below have the following meanings:
+
+AML
+
+Means either “anti-money laundering” or this Anti-Money Laundering, Counter-Terrorist Financing and Sanctions module, depending on the context.
+
+Authorised Person Means an Authorised Firm or an Authorised Market
+
+Institution.
+
+Beneficial Owner
+
+(1)
+
+In relation to a customer, means a natural person who ultimately owns or controls the customer or a natural person on whose behalf a transaction is conducted or a business relationship is established, and includes:
+
+(a) in relation to a body corporate, a person referred to
+
+in Rule 7.3.3 (2) or (4);
+
+(b)
+
+in relation to a foundation, a person referred to in Rule 7.3.5 (2) or (3); and
+
+(c) in
+
+legal arrangement, a person referred to in Rule 7.3.6 (2) or (3).
+
+relation
+
+to a
+
+trust or other similar
+
+(2) In relation to a beneficiary of a life insurance or other similar policy, means a natural person who ultimately
+
+9
+
+AML/VER27/03-25
+
+Anti-Money Laundering, Counter-Terrorist Financing and Sanctions Module (AML)
+
+owns or controls the beneficiary.
+
+body corporate
+
+Any body corporate, including a limited liability partnership, whether constituted under the law of the DIFC, an Emirate, the State or any other country or territory.
+
+Branch
+
+Means a place of business within the DIFC:
+
+(a)
+
+which has no separate legal personality;
+
+(b)
+
+which forms a legally dependant part of a Relevant Person whose principal place of business and head office is in a jurisdiction other than the DIFC; and
+
+(c)
+
+through which business in or from the DIFC.
+
+the Relevant Person carries on
+
+Cabinet Decision No. 10 of 2019
+
+Means Federal Cabinet Decision No. 10 of 2019 on the Implementing Regulations of Federal Law No. 20 of 2018.
+
+Cabinet Decision No. 74 of 2020
+
+Means Federal Cabinet Decision No. 74 of 2020 regarding Implementation of UN Terrorism Lists Regulation and Security Council Resolutions on the Suppression and Combating of

@@ -1,0 +1,95 @@
+ (the "client") with or through an Authorised Person if—
+
+(a)
+
+the transaction is entered into on advice given to the client by an Authorised Person; or
+
+(b)
+
+it is clear, in all the circumstances, that the client, in his capacity as an investor, is not seeking and has not sought advice from the agent as to the merits of the client's entering into the transaction (or, if the client has sought such advice, the agent has declined to give it but has recommended that the client seek such advice from an Authorised Person).
+
+(2)
+
+But the exclusion in sub-paragraph (1) does not apply, if—
+
+(a)
+
+the transaction relates to a Contract of Insurance; or
+
+(b)
+
+the agent receives from any person other than the client any pecuniary reward or other advantage, for which he does not account to the client, arising out of his entering into the transaction.
+
+Risk management
+
+For the purposes of this paragraph, paragraph 10 applies with the necessary changes, save that references in that paragraph to "principal" shall be construed as "agent" in this paragraph.
+
+Other exclusions
+
+Paragraph 12 is also subject to the exclusions in paragraphs 75 (Profession or non-investment business), 76 (Sale of goods and supply of services), 77 (Groups and Joint Enterprises), 78 (Sale of a Body Corporate), 79 (Non-ADGM Persons), 80 (Insurance Intermediation: incidental basis), and 82 (Insolvency Practitioners).324
+
+323 Amended 17 February 2020 and 12 December 2023.
+
+324 Amended 30 December 2024.
+
+234
+
+Chapter 2 Arranging Deals in Investments
+
+The activities
+
+Arranging Deals in Investments325
+
+(1)
+
+Making arrangements with a view to another person (whether as principal or agent) Buying or Selling a Specified Investment, Virtual Asset or Spot Commodity or subscribing for or underwriting a Specified Investment is a specified kind of activity.
+
+(2)
+
+Making arrangements with a view to another person who participates in the arrangements Buying or Selling a Specified Investment, Virtual Asset or Spot Commodity or subscribing for or underwriting a Specified Investment (whether as principal or agent) is also a specified kind of activity.
+
+Exclusions
+
+Arrangements not causing a deal
+
+There are excluded from paragraph 16 arrangements which do not or would not bring about the transaction to which the arrangements relate.
+
+Enabling parties to communicate
+
+A person does not carry on an activity of the kind specified by paragraph 16 merely by providing means by which one party to a transaction (or potential transaction) is able to communicate with other such parties.
+
+Arrangements which amount to Operating a Multilateral Trading Facility or Organised Trading Facility
+
+There are excluded from paragraph 16 arrangements which amount to Operating a Multilateral Trading Facility or Organised Trading Facility.
+
+Arranging transactions to which the arranger is a party
+
+(1)
+
+There are excluded from paragraph 16(1) any arrangements for a transaction into which the person making the arrangements enters or is to enter as principal or as agent for some other person.
+
+(2)
+
+There are excluded from paragraph 16(2) any arrangements which a person makes with a view to transactions into which he enters or is to enter as principal or as agent for some other person.
+
+325 Amended 17 February 2020 and 12 December 2023.
+
+235
+
+Arranging transactions with or through Authorised Persons326
+
+There are excluded from paragraphs 16(1) and (2) arrangements made by a person ("A") who is not an Authorised Person for or with a view to a transaction which is or is to be entered into by a person (the “client") with or through an Authorised Person if—
+
+(a)
+
+the transaction is or is to be entered into on advice to the client by an Authorised Person; or
+
+(b)
+
+it is clear, in all the circumstances, that the client, in his capacity as an investor or Borrower is not seeking and has not sought advice from A as to the merits of the client's entering into the transaction (or, if the client has sought such advice, A has declined to give it but has recommended that the client seek such advice from an Authorised Person).
+
+Arranging transactions in connection with lending on the security of insurance policies
+
+(1)
+
+There are excluded from paragraph 16(

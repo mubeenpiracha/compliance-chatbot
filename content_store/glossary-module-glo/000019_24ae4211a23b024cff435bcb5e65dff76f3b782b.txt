@@ -1,0 +1,172 @@
+9.1.1(2).
+
+A Collective Investment Fund which has been admitted to the Official List of Securities.
+
+Any Securities which have been admitted to the Official List of Securities.
+
+43
+
+GLO/VER62/07-25
+
+GLOSSARY (GLO)
+
+Defined Term
+
+Definition
+
+Listing Principles
+
+Means the Rules in MKT section 9.2.
+
+Listing Rules
+
+The Rules in chapter 9 of MKT.
+
+Lloyd’s
+
+The society established in the United Kingdom and known as Lloyd’s.
+
+Lloyd’s Underwriter
+
+An underwriting member of Lloyds.
+
+Loan Crowdfunding
+
+Has the meaning given in GEN Rules 2.29.1(2) and (3).
+
+Loan Crowdfunding Operator A Person who is authorised under a Licence to Operate
+
+a Loan Crowdfunding Platform.
+
+Loan Crowdfunding Platform An electronic platform or a facility referred to in GEN
+
+Rule 2.29.1(2) or (3).
+
+Local Authorities
+
+Long-Term Insurance
+
+Government or municipal authorities, which do not operate at a national level. A Contract of Insurance of a type specified in GEN Rule A4.1.2, expressed to be in force for more than one year, where under the terms of the contract any of the following conditions exists:
+
+(1)
+
+the payment of the whole or part of the benefits is dependent upon the termination or continuation or human life;
+
+(2)
+
+the payment of any part of the premiums is dependent upon the termination or continuation of human life;
+
+(3)
+
+the benefits under the contract include payment of a sum on marriage or on the birth of a child; or
+
+(4)
+
+the contract is a permanent health insurance contract.
+
+Long-Term Insurance Business
+
+The business of Effecting Contracts of Insurance or Carrying Out Contracts of the Contracts of Insurance are contracts of Long-Term Insurance.
+
+Insurance, where
+
+Long-Term Insurance Fund
+
+A fund in respect of Long-Term Insurance Business established and maintained in accordance with PIN chapter 3.
+
+44
+
+GLO/VER62/07-25
+
+Defined Term
+
+Long-Term Insurance Liabilities
+
+GLOSSARY (GLO)
+
+Definition
+
+Liabilities of an Insurer arising under or associated with contracts of Long-Term Insurance, entered into by it as insurer or cedant, including liabilities of the kinds referred to in PIN Rules 5.6.6 and 5.6.7.
+
+45
+
+GLO/VER62/07-25
+
+M Back to top
+
+Defined Term
+
+Major Acquisition
+
+Managing Assets
+
+Managing a Collective Investment Fund Managing a Profit Sharing Investment Account Managing a PSIA
+
+Managing a Venture Capital Fund
+
+Margin
+
+Market Abuse
+
+Market Counterparty
+
+Market Maker
+
+Market Price
+
+Market Risk
+
+Market Risk Capital Requirement
+
+Markets Law
+
+Markets Rules
+
+Mark-up or Mark-down
+
+GLOSSARY (GLO)
+
+Definition
+
+Has the meaning given in GEN Rule 11.10.8(3).
+
+Has the meaning given in GEN section 2.10.
+
+Has the meaning given in GEN section 2.12.
+
+Has the meaning given in GEN section 2.21.
+
+Managing a Profit Sharing Investment Account.
+
+Acting as the Fund Manager of a Venture Capital Fund.
+
+(1)
+
+In COB section 6.16, has the meaning given in COB Rule 6.16.2.
+
+(2)
+
+In COB section 15.6, has the meaning given in COB Rule 15.6.1.
+
+Conduct which contravenes a provision contained in chapter 1 of Part 6 of the Markets Law 2012.
+
+A Client specified under COB Rule 2.3.9.
+
+In relation to an Investment, a Person who holds himself out as able and willing to enter into transactions of sale and purchase in Investments of that description at prices determined by him generally and continuously rather than in respect of each particular transaction.
+
+The price at which the Shares are being traded on an Authorised Market Institution.
+
+The risk of loss that arises from fluctuations in the values of, or income from, assets or in interest or exchange rates.
+
+The requirement calculated in accordance with PIB Rule 5.3.1.
+
+The Markets Law 2012
+
+Rules prescribed in the Market Rules Module of the DFSA Rulebook.
+
+(1) When an Authorised Firm receives instructions from a Client and takes a principal position in the to complete a relevant
+
+Investment
+
+in order
+

@@ -1,0 +1,55 @@
+ a leased asset to another Counterparty. This is important because the asset leased under the Ijarah Muntahia Bittamleek contract is usually customised equipment or large pieces of equipment which are integrated with other assets of the lessee and hence are unsuitable for repossession and releasing to another lessee.
+
+In determining the E of an Istisna’a contract, the exposures arising from such a contract should not be netted off against exposures arising from a Parallel Istisna’a contract entered into by an Authorised Firm for procuring the underlying investment for the Istisna’a contract.
+
+In determining the E of a Salam contract, the exposures arising from such a contract should not be netted off against exposures arising from a Parallel Salam contract entered into by an Authorised Firm for procuring the underlying asset for the Salam contract.
+
+Off-balance sheet exposures for import or export financing contracts based on Murabaha, where the underlying goods or shipment are collateralised and insured, should attract a 20% CCF to an Authorised Firm that issues or confirms the letter of credit.
+
+Where Mudaraba and Musharaka contracts are used to invest in commercial enterprise to undertake business ventures other than trading activities (or other than those which meet the requirements for inclusion in the Trading Book), the E is measured as the amount invested in the commercial enterprise less any specific provisions. If there is a guarantee and such guarantor is not connected to the commercial enterprise, then the CRW for the guarantor will be applied for risk weighting for the amount of any such guarantee.
+
+In addition to the relevant Rules prescribed in PIB chapter 4 and PIB App4, an Authorised Firm may consider the following types of collateral as eligible collateral for Credit Risk management:
+
+a.
+
+Hamish Jiddiyyah (security deposit) only for agreements to purchase or lease preceded by a binding promise;
+
+b.
+
+Arboun where earnest money deposit held after a contract is established as collateral to guarantee contract performance; and
+
+c.
+
+in Mudaraba investment in project finance, an Authorised Firm may use the collateralisation of the progress payments made by the ultimate customers to mitigate the exposures of unsatisfactory performance by the Mudarib.
+
+Where an Authorised Firm places funds under a Mudaraba contract, subject to a Shari`a compliant guarantee from a third party and such a guarantee relates only to the Mudaraba capital, the capital amount should be risk-weighted at CRW of the guarantor provided that the CRW of that guarantor is lower than the CRW of the Mudarib (as a Counterparty). Otherwise, the CRW of the Mudarib will apply.
+
+25
+
+IFR/VER21/03-25
+
+ISLAMIC FINANCE RULES (IFR)
+
+15.
+
+An Authorised Firm placing liquid funds with a central bank or another financial institution on a short-term Mudaraba basis in order to obtain a return on those funds, may apply the CRW applicable to the Mudarib (as a Counterparty), provided the Mudarib effectively treats the liquid funds placement as its liability, although normally such placements are not treated as liabilities of the Mudarib.
+
+Market risk
+
+5.4.8
+
+An Authorised Firm Managing a PSIA, which is an Unrestricted PSIA, must calculate its PSIACOMmarket in relation to all underlying Islamic Contracts in the manner prescribed in PIB chapter 5, except as may be provided in Rules 5.4.8 to 5.4.17.
+
+5.4.9
+
+An Authorised Firm must treat Sukuk held in its Trading Book as equity for the purpose of calculating its Equity Risk Capital Requirement and determine the same in accordance with PIB Rule 5.5.2.
+
+5.4.10 Where investments are made using Musharaka or Mudaraba contracts with commodities as the underlying assets, an Authorised Firm must calculate its Commodities Risk Capital Requirement in accordance with PIB Rule 5.7.2.
+
+5.4.11
+
+An Authorised Firm which is exposed to the risk of foreign currencies and gold under any Islamic Contract, must calculate its Foreign Exchange Risk Capital Requirement in accordance with PIB Rule 5.6.2.
+
+5.4.12
+
+An Authorised Firm which is exposed to commodities including precious metals but excluding gold under any Islamic Contract, must calculate its Commodities

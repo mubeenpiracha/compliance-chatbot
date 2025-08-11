@@ -1,0 +1,119 @@
+
+
+Programme update
+
+n/a
+
+$8,000
+
+Any document which is required by the Markets Law or Markets Rules to be approved by the DFSA
+
+other
+
+$5,000
+
+$3,000
+
+(3)
+
+In (2), “equity securities” means Shares, Certificates over Shares and Warrants over Shares, and “non-equity securities” means all other Securities.
+
+(4)
+
+The fee payable under (1) must be paid to the DFSA before the filing of the Prospectus or other document.
+
+(5) A Prospectus or other document will not be considered to have been properly filed until the fee payable under (1) has been paid to the DFSA.
+
+25
+
+FER/VER33/07-25
+
+FEES MODULE (FER)
+
+Guidance
+
+The DFSA may levy a supplementary fee under Rule 1.2.7 if it appears to it that approval of a Prospectus or other document is likely to cause it to incur substantial additional costs, for example, because the Prospectus or transaction is complex. In such cases, the DFSA will usually discuss with the Issuer the level of supplementary fee before, or as soon as possible after, the submission of an application for approval of the document.
+
+4.1.2 A Person required to pay a fee under Rule 4.1.1, must pay to the DFSA an additional fee of $2,500 when filing a Prospectus or other document if the Prospectus or other document relates to Security Tokens that are:
+
+(a)
+
+to be admitted to trading on an ATS; and
+
+(b)
+
+not admitted to trading on either an Authorised Market Institution or a Regulated Exchange.
+
+Guidance
+
+The fee under Rule 4.1.2 is not payable for Security Tokens that are already admitted to trading on an Authorised Market Institution, as a separate fee will have been paid under Rule 2.9.1 for their application for listing.
+
+4.2
+
+Filing a reference with the FMT
+
+4.2.1 A fee of $5,000 must be paid to the DFSA before a reference to the FMT is
+
+considered filed with the FMT.
+
+4.2.2
+
+The president of the FMT may waive all or part of the $5,000 filing fee if the Person commencing the individual and the reference circumstances, the president considers it is equitable to do so.
+
+is an
+
+if,
+
+in
+
+4.3
+
+Seeking consent to commence a regulatory proceeding before the FMT
+
+4.3.1 A fee of $5,000 must be paid to the DFSA by a Person seeking the consent
+
+of the DFSA to bring a regulatory proceeding before the FMT.
+
+4.3.2
+
+The DFSA may waive all or part of the $5,000 fee if the Person seeking the consent is an individual and if, in the circumstances, the DFSA considers it is equitable to do so.
+
+26
+
+FER/VER33/07-25
+
+5
+
+5.1
+
+5.1.1
+
+FEES MODULE (FER)
+
+TAKEOVER FEES
+
+Bid Documents
+
+(1)
+
+Fees are payable on Bid Documents and the Bidder is responsible for the payment to the DFSA of the applicable fee in accordance with (2) and (3).
+
+(2)
+
+The Bidder must pay to the DFSA the fee specified in the right hand column of the table in (4) which corresponds to the value of the Bid specified in the left hand column of the table.
+
+(3)
+
+In regard to the value of the Bid for the purposes of (2):
+
+(a)
+
+where there are alternative Bids, the alternative with the highest value must be used to calculate the value of the Bid. Bids for all classes of equity Share capital must be included in the calculation of the value of the Bid, but Bids for non-equity Share capital, Convertibles, Options and the like must not;
+
+(b)
+
+when a merger is effected by Bids for both entities by a new entity created to make the Bids, the fee will be determined by the value of the lower of the two Bids; and
+
+(c)
+
+when the fee falls to be calculated on the basis of the value of the Securities to be issued as consideration, it must be computed by reference to the closing price of the relevant Securities at the last practicable date

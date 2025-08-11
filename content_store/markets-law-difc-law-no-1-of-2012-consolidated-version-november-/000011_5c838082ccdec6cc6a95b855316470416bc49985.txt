@@ -1,0 +1,118 @@
+C unless such operator is admitted to the list of recognised persons maintained by the DFSA pursuant to Article 37(4).
+
+(3)
+
+For the purposes of this Law:
+
+(a)
+
+“recognised body” means a person which operates an exchange, clearing house or alternative trading system in a jurisdiction other than the DIFC which has been admitted to, and appears on, the list of recognised bodies maintained by the DFSA pursuant to this Article;
+
+18
+
+(b)
+
+“recognised member” means a person located in a jurisdiction other than the DIFC which has been admitted to, and appears on, the list of recognised members maintained by the DFSA pursuant to this article; and
+
+(c)
+
+“recognised person” means a recognised body or a recognised member.
+
+(4)
+
+The DFSA shall maintain a list of recognised bodies and recognised members (the “list of recognised persons”) for the purposes of this Article.
+
+(5)
+
+The DFSA may only admit a person to its list of recognised persons if it appears to the DFSA that such a person satisfies and will continue to satisfy the recognition criteria prescribed for the purposes of this Article.
+
+(5A) The DFSA may refuse to admit a person to its list of recognised persons if it appears to the DFSA that the person does not satisfy or will not continue to satisfy the criteria referred to in Article 37(5).
+
+(6)
+
+The DFSA shall, by Rules, prescribe the initial and ongoing criteria which a person must satisfy in order to be, and continue to be, a recognised person (the “recognition criteria”);
+
+(7)
+
+If it is necessary or desirable in pursuit of its objectives, the DFSA may remove a person from its list of recognised persons in the circumstances and manner prescribed in the Rules made for the purposes of this Article.
+
+(8)
+
+The DFSA may make Rules regarding any definition, requirement or other matter which the DFSA considers necessary to give effect to the requirements, purpose or intent of this Article.
+
+(9)
+
+The procedures in Schedule 3 to the Regulatory Law 2004 apply to a decision of the DFSA under Article 37(5A) or Article 37(7).
+
+(10)
+
+If the DFSA decides to exercise its power under Article 37(5A) or Article 37(7), the person may refer the matter to the FMT for review.
+
+19
+
+PART 4: OBLIGATIONS OF REPORTING ENTITIES
+
+CHAPTER 1: DEFINITIONS
+
+38.
+
+Definition of a Reporting Entity
+
+(1)
+
+A person is, subject to Article 38(3), a Reporting Entity if the person:
+
+(a)
+
+has or had Securities admitted to an Official List of Securities at any time;
+
+(b)
+
+has or had Security Tokens admitted to trading on an Alternative Trading System, where the Security Tokens were not admitted to an Official List of Securities or to trading on a Regulated Exchange;
+
+(c)
+
+has made an Offer of Securities to the Public other than in relation to Units of a Fund;
+
+(d)
+
+merges with or acquires a Reporting Entity referred to in Article 38(1)(a), (b) or (c); or
+
+(e)
+
+is declared by the DFSA pursuant to Article 38(4) to be a Reporting Entity.
+
+(2)
+
+For the purposes of Article 38(1)(a) and (b):
+
+(a)
+
+in the case of a Fund where the Units are or have been included in an Official List of Securities (a “Listed Fund”):
+
+(i)
+
+a reference to a Reporting Entity is a reference to the Fund Manager of that Fund or such other person as the DFSA may declare (who may also be called a “Reporting Entity of the Listed Fund”); and
+
+(ii)
+
+any obligations of a Reporting Entity are, unless the context requires otherwise, obligations in respect of the Listed Fund; and
+
+(b)
+
+for avoidance of doubt, a person does not become a Reporting Entity of a Listed Fund by merely offering the Units of the Fund to the public, unless the Units are also admitted to an Authorised Market Institution.
+
+(c)
+
+in the case of a Fund, other than a Listed Fund, where the Units are Security Tokens admitted to trading on an Alternative Trading System:
+
+(i)
+
+a reference to a Reporting Entity is a reference to the Fund Manager of that Fund or such other person as the DFSA may declare; and
+
+20
+
+(3)
+
+(4)
+

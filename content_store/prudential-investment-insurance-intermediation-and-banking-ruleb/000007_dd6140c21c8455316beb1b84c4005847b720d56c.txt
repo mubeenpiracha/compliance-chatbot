@@ -1,0 +1,159 @@
+A
+
+Central Bank
+
+Certificate
+
+CET1
+
+CET1 Capital
+
+Clean-Up Call
+
+In relation to:
+
+(a)
+
+a liability or equity instrument the amount at which the liability or equity instrument is recorded before the application of any regulatory deductions, filters or other adjustments, in as International accordance with Financial Reporting Standards; or
+
+determined
+
+the
+
+(b)
+
+an asset the amount at which the asset is recorded, net of specific allowances, as determined the International Reporting Standards.
+
+in accordance with
+
+Financial
+
+A prudential grouping of Authorised Persons which determines the application of these Rules.
+
+Credit conversion factor.
+
+Means a central counterparty.
+
+Credit equivalent amount.
+
+The Central Bank of the UAE.
+
+Certificate is an instrument:
+
+(a) which confers on the holder contractual or property rights to or in respect of a Share, Debenture, Unit or Warrant held by a Person; and
+
+(b)
+
+the transfer of which may be effected by the holder without the consent of that other Person;
+
+but excludes rights under an Option.
+
+Common Equity Tier 1.
+
+Has the meaning given in Section 3.10.
+
+An Option that permits the SE Exposures (e.g. asset-backed Securities) to be called before all of the underlying Exposures or SE Exposures have been repaid. In the case of Traditional Securitisations, this is generally accomplished by repurchasing the remaining SE Exposures once the pool balance or
+
+11
+
+PRU VER17.290725
+
+Client
+
+Client Assets
+
+Client Investments
+
+Client Money
+
+CLN
+
+Close Links
+
+Close Relative
+
+outstanding Securities have fallen below some specified level. In the case of a synthetic Exposure, the Clean-Up Call may take the form of a clause that extinguishes the credit protection.
+
+Means a Retail Client, or Professional Client as defined in COBS 2.
+
+Means Client Money and Client Investments.
+
+Means all Investments held or controlled by an Authorised Person on behalf of a Client in the course of, or in connection with the carrying on of Investment Business.
+
+Means money of any currency which an Authorised Person holds on behalf of a Client (including any receivables of the Authorised Person in respect of bank accounts or clearing or brokerage accounts) or which an Authorised Person treats as Client Money, subject to the exclusions in COBS 14.3.1.
+
+Credit-linked note.
+
+A Person (Person A) has Close Links with a Person (Person B) if:
+
+(a) Person B:
+
+(i)
+
+is a Holding Company of Person A;
+
+(ii)
+
+is a Subsidiary of Person A;
+
+(iii)
+
+is a Holding Company of the Subsidiary of Person A;
+
+(iv)
+
+is a Subsidiary of a Holding Company of Person A; or
+
+(v)
+
+owns and controls 20% or more of the voting rights or Shares of Person A; or
+
+(b) Person A owns and controls 20% or more of the voting rights or Shares of Person B.
+
+In relation to any individual:
+
+(a)
+
+his spouse;
+
+(b)
+
+his children and step-children, his parents and step-parents, his brothers
+
+12
+
+PRU VER17.290725
+
+Closely Related
+
+and sisters and his step-brothers and step-sisters; and
+
+(c)
+
+the spouse of any individual within (b).
+
+For Large Exposures purposes, Persons are Closely Related if:
+
+(a) the insolvency or default of one of them is likely to be associated with the insolvency or default of the others;
+
+(b)
+
+it would be prudent when assessing the financial condition or creditworthiness of one to consider that of the others;
+
+(c) there is, or is likely to be, a close relationship between the financial performance of those Persons; or
+
+(d) they are assessed to be economically
+
+interdependent.
+
+Persons are to be assessed as being economically interdependent for the purposes of paragraph (d) where one or more of the following factors are present:
+
+(i) 50% or more of the annual receipts or is derived from
+
+expenditure of one transactions with the other;
+
+(ii) a guarantee issued by one party in favour of the other party is likely to result in the default of the provider of that guarantee, if called;
+
+(iii) significant output of one party is sold to the other party and an alternative buyer would not easily be found;
+
+(iv) there is a single source of funds to repay for both

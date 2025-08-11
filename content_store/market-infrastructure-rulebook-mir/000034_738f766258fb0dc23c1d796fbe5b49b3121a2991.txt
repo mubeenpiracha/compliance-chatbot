@@ -1,0 +1,89 @@
+A Recognised Clearing House which is involved in activities with a more-complex risk profile, or is systemically important in multiple jurisdictions, should maintain additional financial resources to cover a wide range of potential stress scenarios. These should include the default of the two of its market counterparties (including their affiliates) that would potentially cause the largest aggregate credit exposure for the Recognised Clearing House in extreme but plausible market conditions. In all other cases, a Recognised Clearing House should maintain additional financial resources sufficient to cover a wide range of potential stress scenarios, which include the default of the market counterparty (including its affiliates) that would potentially cause the largest aggregate credit exposure for the Recognised Clearing House in extreme but plausible market conditions.
+
+4.7
+
+Risk management
+
+Risk management framework
+
+4.7.1
+
+A Recognised Clearing House must have a comprehensive risk management framework (i.e. detailed policies, procedures and systems) capable of managing systemic, legal, credit, liquidity, operational and other risks to which it is exposed.
+
+4.7.2
+
+The risk management framework in Rule 4.7.1 must:
+
+(a)
+
+encompass a regular review of material risks to which the Recognised Clearing House is exposed and the risks posed to other market participants resulting from its operations; and
+
+(b)
+
+be subject to periodic review as appropriate to ensure that it is effective and operating as intended.
+
+61
+
+MIR VER10.290725
+
+4.7.3
+
+The risk management framework should identify scenarios that may potentially prevent a Recognised Clearing House from being able to provide its critical operations and services as a going concern and assess the effectiveness of a full range of options for recovery or orderly wind-down.
+
+4.7.4
+
+A Recognised Clearing House should prepare appropriate plans for resumption of its operations in such scenarios and, where it is not possible to do so, for an orderly wind-down of the operations of the Recognised Clearing House premised on the results of such assessments. Such procedures should also include appropriate early notification to the Regulator and other regulators as appropriate.
+
+4.7.5
+
+A Recognised Clearing House should, to the extent possible, provide incentives to Members and other market participants to manage and contain the risks they pose to the orderly and efficient operations of the Recognised Clearing House. Those may include financial penalties for Members and other participants that fail to settle Investments in a timely manner or to repay intra-day credit by the end of the Business Day.
+
+Operational risk
+
+4.7.6
+
+A Recognised Clearing House shall have in place a well-documented assessment and management system for operational risk with clear responsibilities assigned for this system. It shall identify its exposures to operational risk and track relevant operational risk data, including material loss data. This system shall be subject to regular review carried out by an independent party possessing the necessary knowledge to carry out such review.
+
+4.7.7
+
+An operational risk assessment system shall be closely integrated into the risk management processes of the Recognised Clearing House. Its output shall be an integral part of the process of monitoring and controlling the operational risk profile.
+
+4.7.8
+
+A Recognised Clearing House shall implement a system of reporting to Senior Management that provides operational risk reports to Regulatory Functions within the institutions. A Recognised Clearing House shall have in place procedures for taking appropriate action according to the information within the reports to management.
+
+Legal risk
+
+4.7.9
+
+A Recognised Clearing House must have a well-founded, clear, transparent, and enforceable legal basis for each material aspect of its activities in all relevant jurisdictions.
+
+4.7.10
+
+A Recognised Clearing House must have adequate Clearing Rules and procedures, including contractual arrangements, which are legally enforceable.
+
+4.7.11
+
+A Recognised Clearing House that operates in multiple jurisdictions must:
+
+(a)
+
+identify and mitigate the risks arising from doing business in the relevant jurisdictions, including those arising from conflicting laws applicable in such jurisdictions; and
+
+62
+
+MIR VER10.290725
+
+(b)
+
+ensure the arrangements referred to in Rule 4.7.10 provide a high degree of certainty that actions taken by the Recognised Clearing House under its Clearing Rules and procedures will not be reversed, stayed or rendered void.
+
+4.7.12
+
+[Deleted]
+
+Guidance
+
+1.
+
+A Recognised Clearing House may be conducting its

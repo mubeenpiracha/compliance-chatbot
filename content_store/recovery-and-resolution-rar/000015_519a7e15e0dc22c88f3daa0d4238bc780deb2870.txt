@@ -1,0 +1,117 @@
+ given, provided that the payment and delivery obligations and the provision of collateral continue to be performed by the Authorised Firm in Resolution.
+
+(2) A suspension shall not apply to payment and delivery obligations owed to payment systems, Central Counterparties, Securities Settlement Systems, Central Securities Depositories or the Central Bank.
+
+(3) A person may exercise a termination right under a contract before the end of the period referred to in (1) if that person receives notice from the DFSA that the rights, assets or liabilities covered by the contract will not be:
+
+24
+
+RAR/VER1/04-20
+
+3.2.5
+
+RECOVERY AND RESOLUTION (RAR)
+
+(a)
+
+transferred to another entity; or
+
+(b)
+
+subject to write down or conversion on the application of the Bail-In Tool.
+
+(4) Where the DFSA exercises the power in (1) to suspend termination rights, and where no notice has been given under (3) those rights may be exercised on the expiry of the period of suspension, if the rights, assets or liabilities covered by the contract:
+
+(a)
+
+remain with the Authorised Firm in Resolution and the DFSA has not applied the Bail-in Tool; or
+
+(b)
+
+have been transferred to another entity, only on the occurrence of any continuing or subsequent enforcement event.
+
+Guidance
+
+The DFSA will, when exercising its power under Article 84N(1)(k) of the Law, have regard to the impact the exercise of the power might have on the orderly functioning of financial markets.
+
+Write Down or Conversion Power
+
+(1)
+
+The DFSA may in writing down or converting any instrument or liability relating to an Authorised Firm:
+
+(a)
+
+reduce, including reducing to zero, the principal amount of, or outstanding amount due, in respect of Eligible Liabilities of the Authorised Firm;
+
+(b)
+
+cancel Debt Instruments issued by the Authorised Firm, except secured liabilities;
+
+(c)
+
+reduce, including reducing to zero, the nominal amount of Shares of the Authorised Firm and cancel the Shares;
+
+(d)
+
+require the Authorised Firm to issue new Shares or other capital instruments, including preference Shares and contingent convertible instruments.
+
+(2) A Pre-Resolution Valuation or a Provisional Valuation (as the case may be) shall form the basis of the calculation of the write down to be applied to the relevant capital instruments in order to absorb losses and the level of conversion to be applied to the relevant capital instruments in order to recapitalize the Authorised Firm.
+
+(3) The DFSA may exercise the Write Down or Conversion Power:
+
+(a)
+
+independently of any other Resolution Action; or
+
+(b)
+
+in combination with a Resolution Action.
+
+(4) The DFSA may exercise the Write Down or Conversion Power in relation to relevant capital instruments issued by an Authorised Firm in Resolution, when one or more of the following circumstances apply:
+
+25
+
+RAR/VER1/04-20
+
+3.3
+
+3.3.1
+
+RECOVERY AND RESOLUTION (RAR)
+
+(a)
+
+the DFSA determines that unless the Write Down or Conversion Power is exercised in relation to relevant capital instruments, the Authorised Firm will no longer be viable;
+
+(b)
+
+in the case of relevant capital instruments issued by an Authorised Firm that is a subsidiary or another entity in its Group, the DFSA determines that unless the Write Down or Conversion Power is exercised the Authorised Firm will no longer be viable; or
+
+(c)
+
+in the case of relevant capital instruments issued by an Authorised Firm that is a parent, the DFSA determines that unless the Write Down or Conversion Power is exercised the Authorised Firm’s Group will no longer be viable.
+
+(5)
+
+In complying with (4), the DFSA shall exercise the Write Down or Conversion Power in accordance with the priority of claims that would apply if the Authorised Firm in Resolution were to be wound up under the DIFC Insolvency Law.
+
+(6) Where the principal amount of a relevant capital instrument is written
+
+down:
+
+(a)
+
+the reduction of that principal amount will be permanent;
+
+(b)
+
+no liability to the holder of the relevant capital instrument will remain under or in connection with that amount of the instrument which has been written down, except for any liability already accrued; and
+
+(c)
+
+no compensation is paid to any holder of the relevant capital instruments other than in accordance with (7).
+
+(7)
+
+In order to effect a conversion of relevant capital instruments, the DFSA may require

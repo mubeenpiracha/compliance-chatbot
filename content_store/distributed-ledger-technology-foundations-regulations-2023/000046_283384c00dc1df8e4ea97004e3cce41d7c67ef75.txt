@@ -1,0 +1,117 @@
+;
+
+“Delegated Matters” has the meaning set forth in section (2);
+
+“DLT” means distributed ledger technology;
+
+“DLT Foundation” has the meaning set forth in section 3(1);
+
+“DLT Foundations Register” means the public register of DLT Foundations kept by the Registrar under section 14(12);
+
+“DLT Framework” means a framework for utilizing DLT prepared, adopted and maintained by each DLT Foundation, which, at a minimum meets the following criteria:
+
+(a)
+
+it must be prepared in accordance with recognized industry standards as prescribed by the Registrar;
+
+(b)
+
+it must be publicly available through a hyperlink provided by the DLT Foundation;
+
+(c)
+
+it must define the roles and responsibilities of both the DLT Foundation and Third Party Providers; and
+
+(d)
+
+it must establish a comprehensive framework to manage risks associated with DLT, including:
+
+i.
+
+regular testing and implementation of coding controls;
+
+ii. monitoring of production and support after deployment;
+
+iii.
+
+development of a risk control matrix;
+
+iv.
+
+description of cryptographic technological tools used; and
+
+v.
+
+implementation of tools for Tokenholders to verify information from the DLT Framework;
+
+“DLT Purposes” has the meaning set forth in section 3(1);
+
+“Exercise Independent Judgment” means that a Person exercising the judgment has authority to make an independent choice, free from undue influence, with regard to duties imposed under these Regulations;
+
+“Excluded Tokens” means Tokens which are determined by the Resolution of Councillors (acting reasonably):
+
+78
+
+(a)
+
+as burnt;
+
+(b)
+
+as Tokens in respect of which the Tokenholder has confirmed, to the satisfaction of the Councillors, that it lost access and cannot exercise voting rights; or
+
+(c)
+
+as not being in circulation or otherwise unable to be counted towards the quorum for the Voting of Tokenholders;
+
+“Financial Services Permission” means a licence, permit or other authorisation required from or issued by the Financial Services Regulator in respect of any relevant activities, including issuance of Tokens or other Assets;
+
+“Financial Services Regulator” means the Financial Services Regulatory Authority of ADGM;
+
+“Fit and Proper Person” means a Person appropriate for this Person’s role, including being able to perform its activities lawfully, efficiently, honestly, fairly and acting in the best interests of the DLT Foundation and the general public; and in determining whether a Person is a Fit and Proper Person to be appointed to a certain position or act in a certain capacity, regard shall be had to:
+
+(a)
+
+this Person’s probity, competence, solvency and soundness of judgement for fulfilling the responsibilities of the relevant position or acting in the relevant capacity;
+
+(b)
+
+the diligence with which this Person is fulfilling or likely to fulfil those responsibilities or actions;
+
+(c)
+
+whether the interests of the Founder or any Beneficiaries are, or are likely to be, in any way threatened by his holding the relevant position or acting in the relevant capacity;
+
+(d)
+
+the rules, standards and guidelines of any relevant professional, governing, regulatory or supervisory authority;
+
+(e)
+
+this Person’s record of compliance with these Regulations in fulfilling the responsibilities of the relevant position or acting in the relevant capacity; and
+
+(f)
+
+the previous conduct and activities in business or financial matters of the Person in question;
+
+“Founder” means each Person who subscribes their name to the Charter establishing a DLT Foundation acting on their own account or on behalf of another, and, if applicable, who endows the DLT Foundation with a portion of its Initial Assets;
+
+“Founder Reserved Matters” means provisions of the Charter of a DLT Foundation, if any, for the reservation of rights or powers to the Founder or Founders, as the case may be, until Founder Resignation;
+
+“Founder Resignation” has the meaning set forth in section 24(2)(j);
+
+“Guardian” means a Person, if any, appointed as a Guardian under these Regulations;
+
+79
+
+“Initial Assets” means the initial Assets endowed by a Founder which become the property of a DLT Foundation;
+
+“Legal Person” means a company, a corporation or any other entity having separate legal personality;
+
+“Minimum Initial Asset Value” means a value of 50,000 US dollars;
+
+“Minor” means a natural person who is less than 18 years of age;
+
+“Non-conflicted Councillors” has the meaning set forth in section 29(4)(f)(iii);
+
+“Ord

@@ -1,0 +1,119 @@
+ Rules sets out the periodic reports and related requirements. These are additional requirements that apply to Islamic Funds.
+
+6.7.1
+
+In addition to the matters specified in Chapter 16.5 of the Fund Rules, an annual report of an Islamic Fund, other than a Fund which is an Umbrella Fund, must contain the report specified in IFR 6.3.2(b).
+
+6.8
+
+Islamic Real Estate Investment Trusts (Islamic REITs)
+
+6.8.1
+
+(a)
+
+A Fund Manager, or any other Authorised Person making an Offer of a Unit of an Islamic Fund or otherwise marketing an Islamic Fund, must not include the term "Islamic Real Estate Investment Trust" or "Islamic REIT" or refer to an Islamic Fund or otherwise hold out an Islamic Fund as being an Islamic Real Estate Investment Trust or an Islamic REIT, unless it is a Property Fund which complies with IFR 6.8.1(b) and (c) below.
+
+(b)
+
+An Islamic REIT is a Property Fund which:
+
+(i)
+
+is primarily aimed at investments in income-generating Real Property which complies with Shari'a principles;
+
+(ii)
+
+distributes to the Unitholders at least 80% of its audited annual net income; and
+
+(iii)
+
+if at any time during the operation of the Islamic Fund the requirements in Rule 6.8.1(b)(i) or (ii) are not met, the Fund Manager, and, if appointed the Trustee, must immediately notify the Regulator of the failure to meet the requirements in these Islamic Finance Rules and what measures have been or will be taken to remedy the breach.
+
+Confidential
+
+43
+
+IFR VER08.020125
+
+6.8.2
+
+(a)
+
+A Fund Manager of an Islamic REIT must ensure that it distributes to the Unitholders as dividends each year an amount not less than 80% of its audited annual net income.
+
+(b)
+
+In the case of an Islamic REIT which is a Public Fund, the Persons providing oversight functions in respect of the Fund must determine if any;
+
+(i)
+
+revaluation surplus credited to income, or
+
+(ii)
+
+gains on disposal of Real Property,
+
+shall form part of net income for distribution to Unitholders.
+
+(c)
+
+In the case of an Islamic REIT which is an Exempt Fund or a Qualified Investor Fund, the Fund Manager must make the determination in (b).
+
+(d)
+
+An Islamic REIT which is a Public Fund must be either listed on an exchange or open-ended.
+
+6.8.3 Where an Islamic REIT holds any Real Property via one or more Special Purpose Vehicles, the Fund Manager must ensure that each Special Purpose Vehicle distributes to the Fund all of its net income as permitted by the laws and regulations of the jurisdiction where the Special Purpose Vehicle is established.
+
+6.8.4
+
+(a)
+
+A Fund Manager of an Islamic REIT must ensure, subject to IFR 6.8.4(b), that any investment made in respect of property under development whether on its own or in a joint venture is undertaken only where the Islamic REIT intends to hold the developed property upon completion.
+
+(b)
+
+The total purchase price and development cost of the property under development in IFR 6.8.4(a) must not exceed 30% of the net asset value of the Fund Property of the Islamic REIT.
+
+(c)
+
+For the purposes of this Rule, the Regulator would not consider property development activities to include refurbishment, retrofitting and renovation.
+
+6.8.5
+
+(a)
+
+A Fund Manager of an Islamic REIT may obtain financing either directly or through its Special Purpose Vehicle up to 65% of the total gross asset value of the Fund provided that such financing is provided in a Shari'a-compliant manner.
+
+(b)
+
+Upon becoming aware that the borrowing limit set out in 6.8.5(a) has been exceeded, the Fund Manager shall:
+
+(c)
+
+immediately inform Unitholders and the Regulator of the details of the breach and the proposed remedial action;
+
+(d)
+
+use its best endeavours to reduce the excess borrowings;
+
+(e)
+
+not permit the Fund to engage in additional borrowing; and
+
+Confidential
+
+44
+
+IFR VER08.020125
+
+(f)
+
+inform Unitholders and the Regulator on a regular basis as to the progress of the remedial action.
+
+Guidance
+
+1.
+
+Rem

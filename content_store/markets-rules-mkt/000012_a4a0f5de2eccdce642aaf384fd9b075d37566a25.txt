@@ -1,0 +1,137 @@
+ Rules by setting out on the front page of the Securities Note:
+
+(i)
+
+if relevant, the website at which any subsequent disclosure is made available; and
+
+(ii)
+
+an address at which the full text of any such disclosures is made available free of charge.
+
+16
+
+MKT/VER24/03-25
+
+MARKETS RULES (MKT)
+
+Guidance
+
+1.
+
+The above provisions are designed to provide flexibility so that Persons making Prospectus Offers can make multiple offers using the same Registration Statement. However, care should be taken to ensure that the Registrations Statement and the Securities Note together provide all the information required to be contained in a Prospectus pursuant to Article 15(1) of the Law and the Rules.
+
+2.
+
+There are additional disclosure requirements applicable to Islamic Securities contained in the IFR module.
+
+3.
+
+Where the term “Prospectus Offer” is used in this section reference to a Person, such a Person is making an Offer of Securities to the Public, seeking to have Securities admitted to trading on an Authorised Market Institution, or seeking to have Security Tokens admitted to trading on an Alternative Trading System (see the definition in Article 14(4)(a) of the Law).
+
+Application forms
+
+2.5.6 A Person making an Offer of Securities to the Public must ensure that:
+
+(a)
+
+an application form for the issue or sale of the Securities which are the subject of the Prospectus Offer is not provided to any Person unless it is included in or accompanied by the relevant Prospectus; and
+
+(b)
+
+only applications in the form included or attached to the Prospectus are accepted.
+
+Requirements relating to Offers of Securities from the DIFC
+
+2.5.7 A Person who makes an Offer of Securities to the Public from the DIFC must:
+
+(a)
+
+notify the DFSA in writing at the timing of filing the Prospectus of any non- DIFC jurisdiction into which the offer is to be made; and
+
+(b)
+
+comply with any initial and ongoing obligations that are applicable in the jurisdiction in (a) in relation to the offer.
+
+2.6 Approval and publication of a prospectus
+
+Application for approval
+
+2.6.1
+
+(1)
+
+For the purposes of Article 14(2) of the Law, a Person intending to make a Prospectus Offer (“the applicant”) must, subject to (2), (3) and (4), submit to the DFSA:
+
+(a)
+
+a completed application using the appropriate form set out in AFN and the relevant fee prescribed in FER;
+
+(b)
+
+a Prospectus that meets the requirements in section 2.5;
+
+(c)
+
+a statement identifying where in the Prospectus the information required in the relevant paragraphs of App1 has been included and, where subsequent drafts or versions of the Prospectus are submitted, a marked-up version showing the changes from the previous version submitted to the DFSA;
+
+17
+
+MKT/VER24/03-25
+
+2.6.2
+
+MARKETS RULES (MKT)
+
+(d)
+
+if information is incorporated in the Prospectus by reference to another document, a copy of the information;
+
+(e)
+
+the identity of the Person who is or intends to be the Reporting Entity;
+
+(f)
+
+contact details of two individuals who are sufficiently knowledgeable about the content of the Prospectus to be able to answer queries of the DFSA during business hours; and
+
+(g)
+
+any other information that the DFSA may require.
+
+(2)
+
+The application in (1) must be submitted to the DFSA:
+
+(a)
+
+in the case of an applicant who has not made a previous Prospectus Offer, at least 20 business days prior to the intended date on which the applicant expects the Prospectus to be approved;
+
+(b)
+
+in other cases, at least 10 business days prior to the date on which the applicant expects the Prospectus to be approved; and
+
+(c)
+
+in the case of a Supplementary Prospectus, as soon as reasonably possible.
+
+(3)
+
+If the Prospectus comprises multiple documents, the application for approval must be made using the appropriate form in AFN in relation to one or more of those separate documents.
+
+(4)
+
+In the case of a Supplementary Prospectus, the application for approval must:
+
+(a)
+
+be made using the appropriate form in AFN;
+
+(b)
+
+accompanied by the relevant fee prescribed in FER; and
+
+(c)
+
+comply with the requirements in Rule 2.9.1.
+
+Approval of

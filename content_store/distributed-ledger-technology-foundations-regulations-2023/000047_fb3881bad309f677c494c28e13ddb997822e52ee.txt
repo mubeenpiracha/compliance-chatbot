@@ -1,0 +1,89 @@
+ian” means a Person, if any, appointed as a Guardian under these Regulations;
+
+79
+
+“Initial Assets” means the initial Assets endowed by a Founder which become the property of a DLT Foundation;
+
+“Legal Person” means a company, a corporation or any other entity having separate legal personality;
+
+“Minimum Initial Asset Value” means a value of 50,000 US dollars;
+
+“Minor” means a natural person who is less than 18 years of age;
+
+“Non-conflicted Councillors” has the meaning set forth in section 29(4)(f)(iii);
+
+“Ordinary Matters” has the meaning set forth in section 24(2)(h)v;
+
+“Organisational and Governance Structure” has the meaning set forth in section 27(1);
+
+“Overseas Person” has the meaning set forth in section 107(1);
+
+“Person” means a natural person or Legal Person;
+
+“Qualified Matters” has the meaning set forth in section 24(2)(h)iv;
+
+“Qualified Resolution of Tokenholders” means a resolution approved:
+
+(a)
+
+subject to paragraph (b) below, by the Voting of Tokenholders by the approving vote of at least 75% of all Tokenholders who cast a vote as set forth in the Charter; or
+
+(b)
+
+if, based on the Charter, the results of the voting are determined by reference to the number of Tokens providing voting rights with respect to the relevant Delegated Matter (rather than by the number of Tokenholders), by the Voting of Tokenholders by the approving vote of Tokenholders holding at least 75% of such Tokens,
+
+and, unless otherwise is provided for in the Charter, the quorum of no less than 51% of all relevant Tokenholders shall apply, provided that Excluded Tokens and Tokenholders only holding Excluded Tokens shall not be counted for the purposes of determination of such quorum;
+
+“Reasonable Care, Skill and Diligence” means, in respect of a Person:
+
+(a)
+
+the care, skill and diligence that would be exercised by a reasonably diligent Person with the general knowledge, skill and experience that may reasonably be expected of a Person carrying out the functions carried out by such Person in relation to a DLT Foundation; and
+
+(b)
+
+the general knowledge, skill and experience that such Person has;
+
+“Registered Office Provider” has the meaning given to it in the Commercial Licensing Regulations 2015 (Controlled Activities) Rules 2021;
+
+“Registrar” has the meaning set forth in the Interpretation Regulations 2015;
+
+80
+
+“Registration Application” has the meaning set forth in section 4(1)(a);
+
+“Relevant Circumstances” has the meaning set forth in section 24(2);
+
+“Relevant Disclosure” means the following information, whether or not this information is also included in the Charter:
+
+(a)
+
+the name of each of the Councillors, Founders, Beneficiaries, Beneficial Owners and, if any, Guardians; and
+
+(b)
+
+the accounting reference date; and
+
+(c)
+
+the name and address of the appointed auditor together with evidence of its appointment as auditor by the DLT Foundation signed by the auditor, such as a copy of the relevant engagement letter or letter of intent,
+
+to be held confidentially by the Registrar, subject to any requirement to publish such information or to disclose such information to public authorities as set out in these Regulations, or in any other applicable law or regulations;
+
+“Relevant Obligations” means the obligations set forth in section 23;
+
+“Relevant Persons” has the meaning set forth in subsection 27(5);
+
+“Remaining Beneficiary” in relation to the Surplus Assets, means a Person who, according to the Charter, is entitled to receive any Surplus Assets;
+
+“Reserved Matters” has the meaning set forth in section 24(2)(t);
+
+“Resolution of Councillors” means:
+
+(a)
+
+a resolution approved at a duly convened and constituted meeting of the Councillors by a simple majority (which in the case of a DLT Foundation with only two Councillors shall mean that both Councillors must assent), or a larger majority as may be specified in the Charter, of the Councillors present at the meeting, in person or by alternate or proxy, who voted; or
+
+(b)
+
+a resolution agreed to in writing by a simple majority (which in the case of a DLT Foundation with

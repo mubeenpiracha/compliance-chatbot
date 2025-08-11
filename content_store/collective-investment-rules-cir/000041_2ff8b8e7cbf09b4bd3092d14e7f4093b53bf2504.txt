@@ -1,0 +1,153 @@
+ also include a
+
+report of its Eligible Custodian.
+
+The Fund Manager must ensure that the financial statements give a true and fair view of the net income and the net gains and the losses on the Fund Property of the Fund, or, the Sub-Fund, for the annual accounting period in question and the financial position of the Fund or Sub-Fund as at the end of that period.
+
+Fund Manager’s report
+
+The matters set out in (a) to (h) must be included in any Fund Manager’s report:
+
+(a)
+
+a restatement of the investment objectives of the Fund;
+
+(b)
+
+a restatement of the policy for achieving those objectives;
+
+(c)
+
+a review of the investment activities, including in relation to (a) and (b), during the period to which the report relates;
+
+(d)
+
+particulars of any fundamental change requiring prior approval by Unitholder meeting made since the date of the last report;
+
+(e)
+
+particulars of any significant change requiring pre-event notification since the date of the last report;
+
+(f)
+
+any other information which would enable Unitholders to make an informed judgement on the development of the activities of the Fund during this period and the results of those activities as at the end of that period;
+
+(g)
+
+for a report on an Umbrella Fund, the information required in (a) to (h) must be given for each Sub-Fund if it would vary from that given in respect of the Umbrella Fund as a whole; and
+
+(h)
+
+for a Fund which invests a substantial proportion of its assets in other Funds, a statement as to the maximum proportion of management fees charged to the Fund itself and to other Funds in which that Fund invests.
+
+Comparative table
+
+Guidance
+
+In presenting past performance information, the DFSA recommends that Fund Managers follow the Global Investment Performance Standards (GIPS) issued by Institute of Chartered Financial Analysts of the USA.
+
+The comparative table for the annual report for a Public Fund must set out:
+
+(a)
+
+the performance record over the last five calendar years, or if the Fund has not been in existence during the whole of that period, over the whole period in which it has been in existence, showing:
+
+(i)
+
+the highest and the lowest price of a Unit of each class in issue during each of those years; and
+
+64
+
+CIR/VER38/08-24
+
+(b)
+
+(c)
+
+COLLECTIVE INVESTMENT RULES (CIR)
+
+(ii)
+
+the net income distributed or, for accumulation Units, allocated for a Unit of each class in issue during each of those years, taking account of any sub-division or consolidation of Units that occurred during that period;
+
+as at the end of each of the last three annual accounting periods or all of the Fund's annual accounting periods, if less than three:
+
+(i)
+
+the total net asset value of the Fund Property at the end of each of those years;
+
+(ii)
+
+the net asset value per Unit of each class; and
+
+(iii)
+
+for a report of the directors of an Investment Company, the number of Units of each class in issue; or
+
+(iv)
+
+for a report of the Fund Manager of any other Fund, the number of Units of each class in existence or treated as in existence; and
+
+if, in the period covered by the table:
+
+(i)
+
+the Fund Manager has been the subject of any event such as a transfer scheme having a material effect on the size of the Fund, but excluding any issue or cancellation of Units for cash; or
+
+(ii)
+
+there have been changes in the investment objectives of the Fund;
+
+an indication, related in the body of the table to the relevant year in the table, of the date of the event or change in the investment objectives and a brief description of its nature.
+
+65
+
+CIR/VER38/08-24
+
+9.5
+
+COLLECTIVE INVESTMENT RULES (CIR)
+
+Table illustrating content of the annual report
+
+Guidance
+
+Type of Report
+
+CIR Ref
+
+Public Funds
+
+Exempt Funds
+
+QIF
+
+Annual and interim reports
+
+9.4.2
+
+✓
+
+✓
+
+Annual Report only. An interim report is required only if there has been a material change during the interim accounting period
+
+Fund Manager’s Report Fund Auditor’s Report
+
+9.4.9
+
+9.3.8(b)
+
+✓
+
+✓
+
+✓
+
+✓
+
+✓
+
+✓
+
+O

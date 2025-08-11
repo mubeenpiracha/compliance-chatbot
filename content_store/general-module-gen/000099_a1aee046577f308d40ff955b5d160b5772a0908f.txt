@@ -1,0 +1,133 @@
+ the Rules. See Rule 11.8.13 for the actions that the DFSA may take in such circumstances.
+
+Notification for decrease in the level of control of Domestic Firms
+
+11.8.9 A Controller of an Authorised Firm which is a Domestic Firm must submit, using the appropriate form in AFN, a written notification to the DFSA where that Person:
+
+(a)
+
+proposes to cease being a Controller; or
+
+(b)
+
+proposes to decrease that Person’s holding from more than 50% to 50% or less.
+
+Requirement for notification of changes relating to control of Branches
+
+11.8.10 (1)
+
+In the case of an Authorised Firm which is a Branch, a written notification to the DFSA must be submitted by a Controller or a Person proposing to become a Controller of that Authorised Firm in accordance with (3) in respect of any one of the events specified in (2).
+
+(2)
+
+For the purposes of (1), a notification to the DFSA is required when:
+
+(a)
+
+a Person becomes a Controller;
+
+(b)
+
+an existing Controller proposes to cease being a Controller; or
+
+(c)
+
+an existing Controller’s holding is:
+
+(i)
+
+increased from below 30% to 30% or more;
+
+(ii)
+
+increased from below 50% to 50% or more; or
+
+(iii)
+
+decreased from more than 50% to 50% or less.
+
+(3)
+
+The notification required under (1) must be made by a Controller or Person proposing to become a Controller of a Branch using the appropriate form in AFN as soon as possible, and in any event, before making the relevant acquisition or disposal.
+
+Obligations of Authorised Firms relating to its Controllers
+
+11.8.11 (1)
+
+An Authorised Firm must have adequate systems and controls to monitor:
+
+(a)
+
+any change or proposed change of its Controllers; and
+
+153
+
+GEN/VER67/03-25
+
+GENERAL (GEN)
+
+(b)
+
+any significant changes in the conduct or circumstances of existing Controllers which might reasonably be considered to impact on the fitness and propriety of the Authorised Firm or its ability to conduct business soundly and prudently.
+
+(2)
+
+An Authorised Firm must, subject to (3), notify the DFSA in writing of any event specified in (1) as soon as possible after becoming aware of that event.
+
+(3)
+
+An Authorised Firm need not comply with the requirement in (2) if it is satisfied on reasonable grounds that a proposed or existing Controller has either already obtained the prior approval of the DFSA or notified the event to the DFSA as applicable.
+
+Guidance
+
+Steps which an Authorised Firm may take in order to monitor changes relating to Controllers include the monitoring of any relevant regulatory disclosures, press reports, public announcements, share registers and entitlements to vote, or the control of voting rights, at general meetings.
+
+11.8.12 (1)
+
+An Authorised Firm must submit to the DFSA an annual report on its Controllers within four months of its financial year end.
+
+(2)
+
+The Authorised Firm’s annual report on its Controllers must include:
+
+(a)
+
+the name of each Controller; and
+
+(b)
+
+the current holding of each Controller, expressed as a percentage.
+
+Guidance
+
+1.
+
+An Authorised Firm may satisfy the requirements of Rule 11.8.12 by submitting a corporate structure diagram containing the relevant information.
+
+2.
+
+An Authorised Firm must take account of the holdings which the Controller, either alone or with any Associate, has in the Authorised Firm or any Holding Company of the firm (see the definition of a Controller in Rule 11.8.2).
+
+Other Powers relating to Controllers
+
+11.8.13 (1) Without limiting the generality of its other powers, the DFSA may, subject only to (2), object to a Person as a Controller of an Authorised Firm where such a Person:
+
+(a)
+
+has acquired or increased the level of control that Person has in an Authorised Firm without the prior written approval of the DFSA as required under Rule 11.8.4;
+
+(b)
+
+has breached the requirement in Rule 11.8.8 to comply with the conditions of approval applicable to that Person; or
+
+(c)
+
+is no longer acceptable to the DFSA as a Controller.
+
+154
+
+GEN/VER67/03-25
+
+GENERAL (GEN)
+
+(

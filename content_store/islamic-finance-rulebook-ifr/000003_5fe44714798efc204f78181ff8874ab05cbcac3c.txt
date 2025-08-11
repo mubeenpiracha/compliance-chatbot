@@ -1,0 +1,67 @@
+ They are generally structured under the Shari'a principle of Mudaraba, the guiding principle of which is that the investor bears the full investment risk. Although PSIAs have the characteristics of a Collective Investment Fund, under an express exclusion provided under paragraph 63 of Schedule 1 to FSMR, they are not treated as such. Instead, Managing a PSIA is a distinct Regulated Activity as defined in paragraph 64 of Schedule 1 to FSMR.
+
+(ix)
+
+Because Managing a PSIA is a Regulated Activity, the ADGM regulatory regime that applies to Authorised Persons carrying on Regulated Activities in ADGM applies to Islamic Financial Institutions and Islamic Windows that Manage PSIAs. As PSIAs are not financial products, the issue of PSIAs, or any advising or arranging activities conducted in relation to PSIAs, especially by a third party, do not attract prospectus–like disclosure or any advising or dealing–related COBS requirements (such as a suitability assessment). Instead, they attract a tailored regulatory regime under these Islamic Finance Rules that applies to the Authorised Person that Manages the PSIA (see IFR 5).
+
+Specified Investments
+
+(x)
+
+Specified Investments are defined paragraphs 84 to 99 of FSMR. Any of the conventional specified investments defined paragraphs 85 to 99 of Schedule 1 to FSMR can be offered in Shari’a-compliant form, provided that the directions of the
+
+Confidential
+
+5
+
+IFR VER08.020125
+
+Shari'a Supervisory Board engaged in connection with such offer are complied with. Shari’a-compliant Specified Investment include, without limitation:
+
+(A)
+
+Instruments given entitlements to investments that are structured in a Shari'a-compliant manner including, without limitation, under a Wa'ad structure;
+
+(B)
+
+Certificates representing certain Financial structured in a Shari'a-compliant manner;
+
+Instruments that are
+
+(C)
+
+Units in a Collective Investment Fund that are units in an Islamic Fund;
+
+(D)
+
+Options that are structured in a Shari'a-compliant manner including, without limitation, options using a Wa'ad, Arboun and/or Musawama structure;
+
+(E)
+
+Futures that are structured in a Shari'a-compliant manner including, without limitation, futures using a Wa'ad, Arboun and/or Salam structure; and
+
+(F)
+
+rights under a Credit Facility where such Credit Facility is structured in the form of a Shari'a-compliant Credit Facility including, without limitation, Shari'a-compliant Credit Facilities using a Murabaha, Ijara, Istisna'a/Ijara, Wakala, Mudaraba and/or Musharaka structure.
+
+(xi)
+
+The Regulator will, when considering whether or not a Shari'a-compliant investment is a Specified Investment, take a "substance over form" approach giving particular weight to the economic substance of a particular investment over the legal and/or Shari'a form taken by that investment.
+
+(xii)
+
+The ADGM regulatory regime applies to Authorised Persons who carry on in ADGM any regulatory activity in relation to any Shari’a-compliant products that fall within the definition of Specified Investments. However, particular products or instruments including, without limitation, Profit Sharing Investment Accounts (PSIAs), Takaful and Islamic Funds attract product/instrument specific additional conduct and other requirements, which are included in these Islamic Finance Rules.
+
+Takaful
+
+(xiii)
+
+Takaful is the Shari'a-compliant equivalent of conventional insurance, and exists in both the form of Family (or Life) Takaful and General Takaful. Takaful is derived from an Arabic word that means joint guarantee, whereby a group of participants agree among themselves to support one another jointly for the losses arising from specified risks. In a Takaful arrangement the participants contribute a sum of money as a Tabarru’ commitment into a common fund that will be used mutually to assist the members against a specified type of loss or damage. The underwriting in Takaful is thus undertaken on a mutual basis, similar in some respects to conventional mutual insurance. A typical Takaful Provider consists of a two-tier structure that is a hybrid of a mutual and a commercial form of company
+
+Confidential
+
+6
+
+IFR VER08.020125
+
+although in principle it could be a pure mutual structure. The Takaful Operator’s role is generally confined to managing the Takaful activities and investing the fund

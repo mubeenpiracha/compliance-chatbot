@@ -1,0 +1,125 @@
+ifth edition) (“Red Book”); or similar practitioners text used by surveyors; or International Valuation Standards issued from time to time by the International Valuation Standards Committee
+
+Valuation Report
+
+13.4.22 A Fund Manager must ensure that any valuation report prepared by the Person
+
+appointed:
+
+(a)
+
+includes all material details in relation to the basis of valuation and the assumptions used;
+
+104
+
+CIR/VER38/08-24
+
+COLLECTIVE INVESTMENT RULES (CIR)
+
+(b)
+
+describes and explains the valuation methodologies adopted;
+
+(c)
+
+outlines the overall structure and condition of the relevant market including an analysis of the supply and demand situation, the market trend and investment activities;
+
+(d)
+
+includes a brief description of the property, its location, the nature of the interest its existing use, any encumbrances concerning or affecting the property, the lease expiry profile if any, the capital value in existing state at the date the valuation was performed, the net monthly income from the property, and any other matters which may affect the property or its value;
+
+the Fund holds
+
+in
+
+the property,
+
+(e)
+
+confirms the professional status of the valuer and that the valuation report is prepared on a fair and unbiased basis; and
+
+(f)
+
+explains the rationale for choosing the particular valuation method if more than one method is available.
+
+13.4.23 A Fund Manager must ensure that whenever a valuation report is prepared for
+
+the Fund, the date of the valuation report must be:
+
+(a)
+
+the date the Fund is valued, if such report is prepared for the purpose of calculating the net asset value of the Fund; or
+
+(b)
+
+a date which is not more than six months before the date on which:
+
+(i)
+
+an offering document is issued;
+
+(ii)
+
+a circular is issued, if the circular relates to a transaction that requires Unitholders’ approval; or
+
+(iii)
+
+a sale and purchase agreement or other agreement to transfer legal title is signed, if the transaction does not require Unitholder approval.
+
+Reappointment of valuer
+
+13.4.24
+
+(1)
+
+A Fund Manager must ensure that where a Person appointed pursuant to Rule 13.4.19 has conducted valuations of the Real Property for the Fund for five consecutive years, that Person is not permitted to continue to provide valuation services for the Fund unless before the end of that period the position has been put out to tender and the Person has been re-appointed in accordance with that process.
+
+(2)
+
+If the Fund Manager decides to re-appoint the same Person to provide valuation services for the Fund following the tender process referred to in (1), it must, in the next interim or annual report provided to Unitholders, specify the reasons for the re-appointment and the evidence supporting those reasons.
+
+105
+
+CIR/VER38/08-24
+
+13.5
+
+13.5.1
+
+COLLECTIVE INVESTMENT RULES (CIR)
+
+(3)
+
+The Fund Manager, and if appointed the Trustee on instructions of the Fund Manager, may at any time remove the Person appointed to provide the valuation services by notice in writing in any of the following events:
+
+(a)
+
+the Person enters into liquidation, becomes bankrupt or has a receiver appointed over its assets; or
+
+(b)
+
+the Fund Manager, in consultation with the Trustee, determines on reasonable grounds that it is necessary to remove that Person in the interests of the Fund and the Unitholders; or
+
+(c)
+
+an ordinary resolution is passed by the Unitholders to dismiss that Person.
+
+(4)
+
+Upon the retirement or dismissal of the Person appointed to provide the valuation services to the Fund, the Fund Manager must appoint another Person to provide valuation services to the Fund where the Fund Manager and where appointed the Trustee are satisfied that the Person meets the requirements specified in Rule 13.4.19.
+
+Real Estate Investment Trusts (REITs)
+
+Guidance
+
+1.
+
+See Rule 3.1.8 for the definition of a Real Estate Investment Trust (REIT).
+
+2.
+
+REITs are a subset of Property Funds. The Fund Manager of a Public Property Fund, which is, or is to be held out, as a REIT, is required, in addition to the general Rules applying to Public Property Funds (such as Rules on borrowing and Related Party Transactions), to also comply with the Rules in this section.
+
+3.
+
+An Exempt Fund or

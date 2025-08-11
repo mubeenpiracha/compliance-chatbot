@@ -1,0 +1,87 @@
+ Personalised Security Credentials are not accessible to persons other than the Payer to whom the Payment Instrument has been issued.
+
+(4)
+
+Subject to (1), except where the Payer has acted fraudulently, the Payer is not liable for any losses incurred in respect of an unauthorised Payment Transaction:
+
+(a)
+
+arising after notification to the Payment Service Provider in the agreed manner on becoming aware of the loss, theft, misappropriation or unauthorised use of the Payment Instrument;
+
+(b)
+
+where the Payment Service Provider has failed at any time to provide, in accordance with Rule 19.11.1(3), appropriate means for notification;
+
+(c)
+
+where the Payer’s Payment Service Provider has failed to apply Strong Customer Authentication; or
+
+(d)
+
+where the Payment Instrument has been used in connection with an Electronic Remote Payment Transaction.
+
+(5) Where Rule 19.16.1 requires the application of Strong Customer Authentication, but the Payee or the Payee’s Payment Service Provider does not use Strong Customer Authentication, the Payee or the Payee’s Payment Service Provider, or both (on a joint and several basis, as the case may be), must compensate the Payer’s Payment Service Provider for the losses incurred or sums paid as a result of complying with Rule 19.19.1.
+
+19.21 Non-execution or defective or late execution of Payment Transactions
+
+Incorrect Unique Identifiers
+
+19.21.1
+
+(1) Where a Payment Order is executed using a Unique Identifier provided by the Payment Service User, the Payment Order is deemed to have been correctly executed by each Payment Service Provider involved in executing the Payment Order with respect to the Payee specified by the Unique Identifier.
+
+(2) Where the Unique Identifier provided by the Payment Service User is incorrect, the Payment Service Provider is not liable under Rule 19.21.2 or 19.21.3 for non- execution or defective execution of the Payment Transaction, but the Payment Service Provider:
+
+(a)
+
+must make reasonable efforts to recover the Money involved in the Payment Transaction; and
+
+(b)
+
+may, if agreed in the Framework Contract, charge the Payment Service User for any such recovery.
+
+(3)
+
+The Payee’s Payment Service Provider must co-operate with the Payer’s Payment Service Provider in its efforts to recover the Money, in particular by providing to
+
+141
+
+COBS VER19.290725
+
+the Payer’s Payment Service Provider all relevant information for the collection of the Money.
+
+(4)
+
+If the Payer’s Payment Service Provider is unable to recover the Money it must, on receipt of a written request, provide to the Payer all available relevant information in order for the Payer to claim repayment of the Money.
+
+Non-execution or defective or late execution of Payment Transactions initiated by the Payer
+
+19.21.2 (1)
+
+This Rule applies where a Payment Order is initiated directly by the Payer.
+
+(2)
+
+The Payer’s Payment Service Provider is liable to the Payer for the correct execution of the Payment Transaction unless it can prove to the Payer and, where relevant, to the Payee’s Payment Service Provider, that the Payee’s Payment Service Provider received the amount of the Payment Transaction in accordance with Rule 19.15.2(1) and (2).
+
+(3) Where the Payer’s Payment Service Provider is liable under (2), it must without undue delay refund to the Payer the amount of the non-executed or defective Payment Transaction and, where applicable, restore the debited Payment Account to the state in which it would have been had the defective Payment Transaction not taken place.
+
+(4)
+
+The Credit Value Date for a credit under (3) must be no later than the date on which the amount was debited.
+
+(5)
+
+If the Payer’s Payment Service Provider proves that the Payee’s Payment Service Provider received the amount of the Payment Transaction in accordance with Rule 19.15.2, the Payee’s Payment Service Provider is liable to the Payee for the correct execution of the Payment Transaction and must:
+
+(a)
+
+immediately make available the amount of the Payment Transaction to the Payee; and
+
+(b)
+
+where applicable, credit the corresponding amount to the Payee’s Payment Account.
+
+(6)
+
+The Credit Value Date for a credit under (5)(b) must be no later than the date on which the amount would have been value dated if the Payment Transaction

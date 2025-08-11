@@ -1,0 +1,127 @@
+
+
+(e)
+
+produce, if the Authorised Firm is permitted to hold or control Client Investments or Provide Custody in or from the DIFC, a Safe Custody Auditor’s Report in respect of such business as applicable, in accordance with the Rules in AUD App4; and
+
+(f)
+
+provide a Money Services Auditor's Report in accordance with the Rules in AUD App7, if the Authorised Firm is Providing Money Services, Account Information Services or Payment Initiation Services.
+
+Guidance
+
+For the purposes of Rule 8.6.1(a) the financial statements of an Authorised Person which is a Branch may be the financial statements prepared for the Authorised Person’s head office.
+
+8.6.2 An Authorised Person must submit any reports produced by its Auditor that
+
+are required by this chapter to the DFSA:
+
+(a)
+
+within four months of the Authorised Person’s financial year end; or
+
+(b)
+
+if the report is on financial statements prepared for the head office of a Branch as referred to in Rule 8.6.1(a)(ii), within 14 days of the report being required to be submitted by the head office to its Financial Services Regulator,
+
+whichever is later.
+
+8.6.3
+
+(1)
+
+An Authorised Person must, subject to (2), upon request by any Person, provide a copy of its most recent audited financial statements, together with the Financial Statement Auditor’s Report to the Person. If the copy is made available in printed form, the Authorised Person may
+
+130
+
+GEN/VER67/03-25
+
+GENERAL (GEN)
+
+make a charge to cover reasonable costs incurred in providing the copy.
+
+(2)
+
+The requirement in (1) does not apply to an Authorised Firm which:
+
+(a)
+
+is in Category 3B, Category 3C or Category 4; and
+
+(b) does not hold or control Client Assets or Insurance Monies.
+
+Guidance
+
+An Authorised Person should be aware that there may be other legislation applicable to it that may require the Authorised Person to provide access to all or part of its financial statements.
+
+131
+
+GEN/VER67/03-25
+
+GENERAL (GEN)
+
+9
+
+COMPLAINTS HANDLING AND DISPUTE RESOLUTION
+
+9.1
+
+Application
+
+9.1.1 This chapter applies to every Authorised Firm, other than a Representative Office and a Credit Rating Agency, carrying on a Financial Service in or from the DIFC as follows:
+
+(a)
+
+Section 9.2 applies to an Authorised Firm carrying on a Financial Service with or for a Retail Client;
+
+(b)
+
+Section 9.3 applies to an Authorised Firm carrying on a Financial Service with or for a Professional Client.; and
+
+(c)
+
+Section 9.4 sets out additional requirements that apply to an Authorised Firm carrying on the Financial Service of Providing Money Services or Arranging or Advising on Money Services.
+
+9.2
+
+Complaints handling procedures for Retail Clients
+
+Written Complaints handling procedures
+
+9.2.1
+
+An Authorised Firm must have adequate policies and procedures in place for the investigation and resolution of Complaints made against it by Retail Clients, and the manner of redress (including compensation for acts or omissions of the Authorised Firm).
+
+9.2.2
+
+The policies and procedures for handling Complaints must be in writing and provide that Complaints are handled fairly, consistently and promptly.
+
+Guidance
+
+1.
+
+In establishing adequate Complaints handling policies and procedures, an Authorised Firm should have regard to:
+
+a.
+
+the nature, scale and complexity of its business; and
+
+b.
+
+its size and organisational structure.
+
+2.
+
+In handling Complaints, an Authorised Firm should consider its obligations under the Data Protection Law, DIFC Law No. 5 of 2020.
+
+3.
+
+An Authorised Firm should consider its obligations under GEN Rule 5.3.19 and accompanying guidance.
+
+4.
+
+The DFSA considers 60 days from the receipt of a Complaint to be an appropriate period in which an Authorised Firm should be able to resolve most Complaints. However, Complaints related to the Provision of Money Services or Arranging or Advising on Money Services should generally be resolved within 15 business days – see Rule 9.4.3.
+
+5.
+
+In accordance with COB Rule 2.1.2(5), a Member, Beneficiary or Participating

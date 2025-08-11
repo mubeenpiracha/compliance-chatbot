@@ -1,0 +1,63 @@
+, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+a.
+
+senior management should be aware of the elements of the trading book or of other fair- valued positions which are subject to mark-to-model and should understand the materiality of the uncertainty this creates in the reporting of the risk/performance of the business;
+
+b.
+
+market inputs should be sourced, to the extent possible, in line with market prices (as discussed above). The appropriateness of the market inputs for the particular position being valued should be reviewed regularly;
+
+c.
+
+where available, generally accepted valuation methodologies for particular products should be used as far as possible;
+
+d.
+
+where the model is developed by the Authorised Firm itself, it should be based on appropriate assumptions, which have been assessed and challenged by suitably qualified parties independent of the development process. The model should be developed or approved independently of the front office. It should be independently tested. This includes validating the mathematics, the assumptions and the software implementation;
+
+e.
+
+there should be formal change control procedures in place and a secure copy of the model should be held and periodically used to check valuations;
+
+f.
+
+risk management should be aware of the weaknesses of the models used and how best to reflect those in the valuation output;
+
+g.
+
+the model should be subject to periodic review to determine the accuracy of its performance (e.g. assessing continued appropriateness of the assumptions, analysis of profit and loss versus risk factors, comparison of actual close out values to model outputs); and
+
+h.
+
+valuation adjustments should be made as appropriate, for example, to cover the uncertainty of the model valuation (see also valuation adjustments in Guidance notes 6 to 14.)
+
+Independent price verification
+
+6.
+
+Independent price verification is distinct from daily mark-to-market. It is the process by which market prices or model inputs are regularly verified for accuracy. While daily marking-to-market may be performed by dealers, verification of market prices or model inputs should be performed by a unit independent of the dealing room, at least monthly (or, depending on the nature of the market/trading activity, more frequently). It need not be performed as frequently as daily mark-to- market, since the objective, i.e. independent, marking of positions should reveal any error or bias in pricing, which should result in the elimination of inaccurate daily marks.
+
+7.
+
+Independent price verification entails a higher standard of accuracy in that the market prices or model inputs are used to determine profit and loss figures, whereas daily marks are used primarily for management reporting in between reporting dates. For independent price verification, where pricing sources are more subjective, e.g. only one available broker quote, prudent measures such as valuation adjustments may be appropriate.
+
+Valuation adjustments
+
+8.
+
+As part of their procedures for marking-to-market, Authorised Firms should establish and maintain procedures for considering valuation adjustments. The DFSA expects Authorised Firms using third- party valuations to consider whether valuation adjustments are necessary. Such considerations are also necessary when marking-to-model.
+
+9.
+
+The DFSA expects the following valuation adjustments to be formally considered at a minimum: unearned credit spreads, close-out costs, Operational Risks, early termination, investing and funding costs, and future administrative costs and, where appropriate, model risk.
+
+255
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+Adjustment to the current valuation of less liquid positions for regulatory capital purposes
+
+10. Authorised Firms should establish and maintain procedures for judging the necessity of and calculating an adjustment to the current valuation of less liquid positions for regulatory capital purposes. This adjustment may be in addition to any changes to the value of the position required for financial reporting purposes and should be designed to reflect the illiquidity of the position. The DFSA expects Authorised Firms to consider the need for an adjustment to a position’s valuation to reflect current illiquidity whether the position is marked-to-market using market prices or observable inputs, third-party valuations or marked-to-model. Bearing in mind that the assumptions made in relation to calculating VaR may not be consistent with the Authorised Firm’s ability to sell or hedge out less liquid positions, where appropriate, Authorised Firms should take an adjustment to the current valuation of these positions, and review their continued appropriateness on an on-going basis. Reduced liquidity may have arisen from market events. Additionally, close-out prices

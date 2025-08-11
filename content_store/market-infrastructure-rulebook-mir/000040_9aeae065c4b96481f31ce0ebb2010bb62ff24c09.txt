@@ -1,0 +1,119 @@
+ at a minimum:
+
+(a)
+
+allow for timely calculation and execution of margin calls, accurate daily reporting of initial and variation margin, and the management of any disputes;
+
+(b)
+
+track the extent of reuse of collateral by the Recognised Clearing House (both cash and non-cash) and the rights of the Recognised Clearing House to the collateral;
+
+(c)
+
+accommodate timely deposit, withdrawal, substitution and liquidation of collateral;
+
+(d)
+
+regularly adjust its requirements for acceptable collateral in accordance with changes in underlying risks;
+
+(e)
+
+establish prudent valuation practices, including daily marking to market of the Recognised Clearing House's collateral;
+
+(f)
+
+develop haircuts that are regularly tested, independently validated at least annually and take into account stressed market conditions;
+
+(g)
+
+reduce the need for procyclical adjustments, by establishing, to the extent practicable and prudent, stable and conservative haircuts that are calibrated to include periods of stressed market conditions;
+
+(h)
+
+establish concentration limits which are periodically reviewed by the Recognised Clearing House to determine their adequacy or imposing concentration charges to avoid concentrated holdings of certain assets where that would significantly impair the ability to liquidate such assets quickly without significant adverse price effects; and
+
+(i)
+
+mitigate, if it accepts collateral held in another jurisdiction or governed by non-Abu Dhabi Global Market law, the risks and exposures associated with
+
+71
+
+MIR VER10.290725
+
+such use, including considering foreign exchange risk, legal and operational challenges such as differences in operating hours of foreign custodians and central securities depositories and conflicts of law risks. Such measures must ensure that the collateral can be used in a timely manner and should identify and address any significant liquidity effects and legal risks.
+
+4.10.4
+
+If a Recognised Clearing House plans to use assets held as collateral to secure liquidity facilities in the event of a participant default, the Recognised Clearing House must:
+
+(a)
+
+consider, in determining acceptable collateral, what will be acceptable as security to lenders offering liquidity facilities.
+
+(b)
+
+measure and monitor creditworthiness and the collateral posted; and
+
+the correlation between a counterpart's
+
+(c)
+
+take measures to mitigate risks, that the collateral would likely lose value in the event that the participant providing the collateral defaults.
+
+4.10.5
+
+The Clearing Rules of the Recognised Clearing House must set out:
+
+(a)
+
+collateral and margin requirements and collateral management process, and specify when a Recognised Clearing House may reuse or invest its participants' collateral and the process for returning that collateral to participants; and
+
+(b)
+
+in the event of a default, that margin provided by the defaulter for any Client account is not to be applied to meet a shortfall its own proprietary account.
+
+4.10.6
+
+A Recognised Clearing House must, for the purposes of managing its exposures and risk and the requirements in Rules 4.10.7 and 4.10.8:
+
+(a)
+
+mark participant positions to market and collect variation margin at least daily to limit the build-up of current exposures;
+
+(b)
+
+have necessary authority and operational capacity to make intra-day margin calls and payments, both scheduled and unscheduled, to participants; and
+
+(c)
+
+regularly review and validate its margin system to ensure that it operates effectively and as intended.
+
+4.10.7
+
+The margin system of a Recognised Clearing House must, at a minimum:
+
+(a)
+
+establish margin levels which are commensurate with the risks and particular attributes of each product, portfolio, and market it serves, especially the risk of credit exposures posed by open positions of its Members or other participants using its facilities;
+
+(b)
+
+use a reliable source of timely price data for its margin system, and also procedures and sound valuation models for addressing circumstances in which pricing data is not readily available or reliable;
+
+72
+
+MIR VER10.290725
+
+(c)
+
+adopt initial margin models and parameters that are risk-based and generate margin requirements sufficient to cover its potential future exposure to Members and other participants using its facilities in the interval between the last margin collection and the close-out of positions following a participant default;
+
+(d)
+
+adopt a daily (and where appropriate, intra-day) calculation and collection policy of variation margin based on models and parameters that manages current and potential future exposures; and
+
+(e)
+
+analyse and review the performance of the margin model and overall margin coverage by:
+
+conducting rigorous daily back-testing to evaluate whether there are any exceptions to its initial margin coverage

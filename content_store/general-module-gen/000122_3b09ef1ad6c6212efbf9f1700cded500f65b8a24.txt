@@ -1,0 +1,69 @@
+ to an Investment, it may be classified as an Investment Token. For further information about when a Token is an Investment Token, and the applicable requirements, see APP6.
+
+Example 1
+
+Company A issues a Token that grants the holder early access to a range of jewellery to be released by the Company. It does not confer any other rights. This Token would be a Utility Token.
+
+Example 2
+
+Company B operates an online card game. It issues Tokens that allow holders to play card games on its website. It does not confer any other rights. This Token would be a Utility Token.
+
+Example 3
+
+Company C, a car manufacturer, issues a Token that allows holders to test drive one of its new cars for an hour. It does not confer any other rights. The Tokens can be traded by holders, and the traded price may increase or decrease depending on the demand for test driving the cars. This Token would be a Utility Token.
+
+Example 4
+
+Company D issues a Token that it describes in its white paper as a utility token. The Token allows holders to access a product that Company D is developing. It also allows them to share in the profits of Company D in accordance with their holdings once the product is launched. The Token is not traded. This Token is likely to be an Investment Token, as it confers on holders’ rights similar to an Investment i.e. a right to share in the profits of the business.
+
+Fiat Crypto Token
+
+A2.5.5 A Crypto Token is a Fiat Crypto Token if, to stabilise its price or reduce volatility in its price, the value of the Crypto Token purports to be determined by reference to a single fiat currency.
+
+Guidance
+
+1.
+
+A Fiat Crypto Token (also called a ‘Fiat stablecoin’) is a Crypto Token the value of which purports to be determined by reference to a fiat currency. Typically, the stablecoin purports to be backed by financial assets. The use of financial assets to back the Crypto Token is intended to stabilise its price or reduce volatility in its price.
+
+2.
+
+An alternative mechanism for stabilising the price of a Crypto Token is the use of an algorithm, which increases or decreases the supply of the Crypto Token in response to changes in demand for the Crypto Token. GEN Rule 3A.2.3 prohibits the use of such a Token in the DIFC i.e. a Crypto Token which uses, or purports to use, an algorithm to stabilise its price. This is because of concerns about the lack of transparency relating to the functioning of such algorithms and also concerns about whether they are able to function effectively.
+
+3.
+
+In addition to Fiat Crypto Tokens, other stablecoins exist where the value is determined by reference to other assets, such as gold or a commodity, or a basket of currencies. While they do not fall within the definition of a Fiat Crypto Token, they will be a Crypto Token unless they are an Investment, for example, a Derivative or a Unit of a Collective Investment Fund.
+
+190
+
+GEN/VER67/03-25
+
+GENERAL (GEN)
+
+APP3 BEST
+
+PRACTICE
+
+RELATING
+
+TO
+
+CORPORATE
+
+GOVERNANCE AND REMUNERATION
+
+A3.1
+
+Best practice relating to corporate governance
+
+Guidance
+
+Roles of the Governing Body and the senior management
+
+1.
+
+The Governing Body should adopt a rigorous process for setting and approving and overseeing the implementation of, the Authorised Person’s overall business objectives and risk strategies, taking into account the long term financial safety and soundness of the firm as a whole, and the protection of its customers and stakeholders. These objectives and strategies should be adequately documented and properly communicated to the firm’s senior management, Persons Undertaking Key Control Functions (such as the heads of risk management and compliance) and all the other relevant Employees. Senior management should ensure the effective implementation of such strategies in carrying out the day-to-day management of the Authorised Person’s business.
+
+2.
+
+The Governing Body, with the support of the senior management, should take a lead in setting the “tone at the top”, including by setting the fundamental corporate values that should be pursued by the Authorised Person. These should, to the extent possible, be supported by professional standards and codes of ethics that set out acceptable and unacceptable conduct. Such professional standards and codes of ethics should be clearly communicated to those individuals involved in the conduct of business of the firm

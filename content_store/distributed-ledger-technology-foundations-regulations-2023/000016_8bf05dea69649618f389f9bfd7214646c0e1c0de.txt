@@ -1,0 +1,113 @@
+ of the Council in managing the DLT Foundation.
+
+(3)
+
+The Guardian shall have access to all information necessary for the exercise of its powers, in particular to the Accounting Records, accounts and returns of the DLT Foundation.
+
+(4)
+
+The Guardian shall be given due notice of meetings of the Council and Voting of Tokenholders and shall receive all papers circulated to Councillors including any copies of resolutions of Councillors and Tokenholders.
+
+Circumstances in which a Guardian Ceases to Act
+
+38.
+
+Guardian Ceasing to Act
+
+(1)
+
+A Guardian shall cease to act as the Guardian in the event of:
+
+(a)
+
+the Guardian’s resignation;
+
+(b)
+
+the proper removal of the Guardian in accordance with the Charter or the provisions of these Regulations;
+
+(c)
+
+the dissolution of the DLT Foundation; or
+
+28
+
+(d)
+
+the death, incapacity, disqualification from acting as a director of a company or bankruptcy of the Guardian where the Guardian is a natural person and, in the case of a Legal Person, the dissolution of such Person.
+
+(2)
+
+Appointment or removal of a Guardian must be notified to the Registrar within 14 days of such appointment or removal (“filing deadline”).
+
+(3)
+
+Where a DLT Foundation defaults in complying with subsection (2) by the filing deadline, the DLT Foundation must pay a late filing fee up to the maximum amount prescribed in rules made by the Board.
+
+(4)
+
+A Councillor, Tokenholders (by Resolution of Tokenholders) or (until Founder Resignation) Founder may apply to the Court to seek the removal of a Guardian for failure to properly carry out the duties required of a Guardian in the Charter or the provisions of these Regulations and the Court may, if it deems fit, order the removal of the Guardian and the appointment of a Fit and Proper Person to act as Guardian.
+
+(5)
+
+In the absence of bad faith, a Guardian shall not be liable in damages for anything done or omitted to be done in the discharge of the duties of a Guardian under the Charter or the provisions of these Regulations.
+
+PART 10: BENEFICIARIES AND TOKENHOLDERS
+
+Beneficiaries and Tokenholders
+
+39.
+
+Beneficiaries of DLT Foundations
+
+(1)
+
+A beneficiary of a DLT Foundation is a Person, whose identity is ascertainable by reference to a category, criteria, class or a relationship to another Person, whether or not living, at the time that the DLT Foundation is established or at the time, according to the terms of the Charter, satisfaction of criteria or members of a category, class are to be determined (a "Beneficiary").
+
+(2)
+
+Beneficiaries of a DLT Foundation shall have the right to distribution of the DLT Foundation Assets in the event of termination of the DLT Foundation and have other rights granted to them by the Charter.
+
+(3)
+
+A Founder may be a Beneficiary.
+
+(4)
+
+A Guardian may be a Beneficiary.
+
+(5)
+
+A DLT Foundation may, but is not required to, have Beneficiaries.
+
+(6)
+
+In circumstances where the DLT Foundation purports to appoint a Beneficiary or Beneficiaries, and no Beneficiary has been registered with the Registrar or can be duly ascertained pursuant to the Charter in compliance with the Regulations, the Court shall upon dissolution determine a Person or Persons who shall become the Beneficiary or Beneficiaries.
+
+29
+
+40.
+
+Tokenholders
+
+(1)
+
+If the DLT Foundation issues Tokens, it shall have Tokenholders and the Charter shall specify if Tokenholders shall be treated as Beneficiaries.
+
+(2)
+
+Without prejudice to any liability which may attach to a Tokenholder:
+
+(a)
+
+by virtue of it acting in another capacity in relation to the DLT Foundation (whether as a Founder, Guardian, Councillor or otherwise); or
+
+(b)
+
+if the Tokenholder qualifies as a Relevant Person, pursuant to subsection 27(5), in respect of a particular matter,
+
+a Tokenholder shall not be liable for any acts and/or omissions of the DLT Foundation, by reason only of it being a Tokenholder.
+
+(3)
+
+The Charter shall reserve the Veto Rights for the DLT Foundation Council. The DLT Foundation Council shall be entitled to exercise its Veto Rights in respect of any Delegated Matter and, for such purposes, where a DLT Foundation has issued Tokens and such Tokens confer upon Tokenholders

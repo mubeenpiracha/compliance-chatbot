@@ -1,0 +1,101 @@
+ Credit Rating or able to influence that process.
+
+(2)
+
+For the purposes of Rule 8.6.3(1), an Employee of a Credit Rating Agency has a material interest in a Rating Subject if the Employee:
+
+(a)
+
+owns a security or a derivative relating to a Rating Subject or its Related Party, other in diversified collective investment funds;
+
+than holdings
+
+(b)
+
+has had a recent employment or other significant business relationship with a Rating Subject or its Related Party which may cause, or may be perceived as causing, conflicts of interest; or
+
+(c)
+
+has a Close Relative who is currently employed by a Rating Subject or its Related Party.
+
+98
+
+COB/VER48/03-25
+
+8.6.4
+
+8.6.5
+
+8.6.6
+
+8.6.7
+
+8.7
+
+8.7.1
+
+CONDUCT OF BUSINESS (COB)
+
+Guidance
+
+A Credit Rating Agency should, where it has a code of conduct/ethics, set out unacceptable conduct for Employees, such as soliciting money, gifts, or favours from anyone with whom the Credit Rating Agency does business, or accepting gifts offered in the form of cash or any gifts which are reasonably capable of influencing their opinions or decisions relating to Credit Ratings. There should also be guidance relating to minimal value of gifts or benefits that may be accepted, and clearance and disclosure procedures relating to such gifts and benefits. See also Guidance 2 under Rule 8.1.1.
+
+A Credit Rating Agency must establish policies and procedures for reviewing the past work of a Rating Analyst who leaves the employment of the firm to join a Rating Subject or its Related Party where the Rating Analyst had been involved in producing or reviewing the Credit Rating assigned to such Rating Subject or Related Party.
+
+Remuneration and reporting lines
+
+Guidance
+
+A Credit Rating Agency is required, pursuant to GEN Rule 5.3.31, to have remuneration structures and strategies which, amongst other things, are consistent with the business objectives and identified risk parameters within which the firm operates, and provide for effective alignment of risk outcomes and the roles and functions of the relevant Employees. The requirements set out in this section are designed to augment those remuneration requirements set out in GEN.
+
+A Credit Rating Agency must ensure that Employees involved in the provision of Credit Ratings have reporting lines and remuneration arrangements that are designed to eliminate, or effectively manage, actual and potential conflicts of interest.
+
+A Credit Rating Agency must ensure that its Employees are not remunerated, or their performance evaluated, based on the amount of revenue generated or expected from the Credit Ratings in which the Employee was involved.
+
+Guidance
+
+The Employees intended to be covered by this Rule are Rating Analysts and other Employees who are directly involved in producing or reviewing a Credit Rating, or who are able to influence the credit rating process (such as the senior management).
+
+A Credit Rating Agency must conduct formal and periodic reviews of its remuneration policies and practices relating to Employees who participate in, or who might otherwise have an effect on, the rating process to ensure that those policies and practices do not compromise the objectivity of the Credit Rating Activities.
+
+Transparency and disclosure
+
+Policies and procedures
+
+(1)
+
+A Credit Rating Agency must, subject to (2), have adequate policies, procedures and controls to ensure that it discloses in a timely manner:
+
+(a)
+
+its Credit Ratings and any updates thereof;
+
+99
+
+COB/VER48/03-25
+
+8.7.2
+
+CONDUCT OF BUSINESS (COB)
+
+(b)
+
+its policies for distributing Credit Ratings and updates thereof;
+
+(c)
+
+the methodologies and models used and key assumptions made in preparing its Credit Ratings and any updates thereof; and
+
+(d)
+
+any other significant element relating to (a), (b) or (c) above.
+
+(2)
+
+A Credit Rating Agency is not required to disclose information where the information is subject to confidentiality requirements.
+
+Guidance
+
+1.
+
+The level of detail required in the disclosure of information concerning methodologies, models and key assumptions should be such as to give adequate information to the users of Credit Ratings to enable them to perform their own due diligence when assessing whether, or to what extent, reliance can be placed on those Credit Ratings (see Rule 8.8.1). Disclosure of information must not, however, reveal confidential information of, or relating to, the Rating Subject or its Group pursuant to Rule 8.9.1

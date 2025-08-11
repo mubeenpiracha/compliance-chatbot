@@ -1,0 +1,141 @@
+ from:
+
+(i)
+
+more than 50% to 50% or less;
+
+(ii)
+
+more than 30% to 30% or less; or
+
+(iii) more than 20% to 20% or less.
+
+(2)
+
+A written notice provided under (1) must be in such form, include such information and be accompanied by such Documents as the Regulator may reasonably require.
+
+Requirement for notification of changes relating to control of Branches
+
+(1)
+
+In the case of an Authorised Person which is a Branch, a written notification to the Regulator must be submitted by a Controller or a Person proposing to become a Controller of that Authorised Person in accordance with (3) in respect of any one of the events specified in (2).
+
+(2)
+
+For the purposes of (1), a notification to the Regulator is required when:
+
+(a)
+
+a Person becomes a Controller;
+
+84
+
+GEN VER11.290725
+
+(b)
+
+an existing Controller proposes to cease being a Controller; or
+
+(c)
+
+an existing Controller's Holding is:
+
+(i)
+
+increased from below 30% to 30% or more;
+
+(ii)
+
+increased from below 50% to 50% or more; or
+
+(iii)
+
+decreased from more than 50% to 50% or less.
+
+(3)
+
+The notification required under (1) must be made by a Controller or Person proposing to become a Controller of a Branch in such form as the Regulator shall prescribe as soon as possible, and in any event, before making the relevant acquisition or disposal.
+
+Obligations of Authorised Persons relating to its Controllers
+
+(1)
+
+An Authorised Person must have adequate systems and controls to monitor:
+
+(a)
+
+any change or proposed change of its Controllers; and
+
+(b)
+
+any significant changes in the conduct or circumstances of existing Controllers which might reasonably be considered to impact on the fitness and propriety of the Authorised Person, or on its ability to conduct business soundly and prudently.
+
+(2)
+
+An Authorised Person must, subject to (3), notify the Regulator in writing of any event specified in (1) as soon as possible after becoming aware of that event.
+
+(3)
+
+An Authorised Person need not comply with the requirement in (2) if it is satisfied on reasonable grounds that a proposed or existing Controller has either already obtained the prior approval of the Regulator or notified the event to the Regulator as applicable.
+
+Guidance
+
+Steps which an Authorised Person may take in order to monitor changes relating to Controllers include the monitoring of any relevant regulatory disclosures, press reports, public announcements, share registers and entitlements to vote or the control of voting rights at general meetings.
+
+(1)
+
+An Authorised Person must submit to the Regulator an annual report on its Controllers within four months of its financial year end.
+
+(2)
+
+The Authorised Person's annual report on its Controllers must include:
+
+(a)
+
+the name of each Controller; and
+
+(b)
+
+the current holding of each Controller, expressed as a percentage.
+
+85
+
+GEN VER11.290725
+
+Guidance
+
+1.
+
+An Authorised Person may satisfy the requirements of Rule 8.8.12 by submitting a corporate structure diagram containing the relevant information.
+
+2.
+
+An Authorised Person must take account of the Holdings which the Controller, either alone or with any Associate, has in the Authorised Person or any Holding Company of the Authorised Person (see the definition of a Controller in Rule 8.8.2(1)).
+
+Other Powers relating to Controllers
+
+(1) Without limiting the generality of its other powers, the Regulator may, subject only to (2), object to a Person as a Controller of an Authorised Person where such a Person:
+
+(a)
+
+has acquired or increased the level of control that Person has in an Authorised Person without the prior written approval of the Regulator as required under Rule 8.8.4;
+
+(b)
+
+has breached the requirement in Rule 8.8.8(1) to comply with the conditions of approval applicable to that Person; or
+
+(c)
+
+is no longer acceptable to the Regulator as a Controller.
+
+(2)
+
+Where the Regulator proposes to object to a Person as a Controller of an Authorised Person under (1), the Regulator must provide such a Person with:
+
+(a)
+
+a written notice stating:
+
+(i)
+
+the Regulator's reasons for objecting to that

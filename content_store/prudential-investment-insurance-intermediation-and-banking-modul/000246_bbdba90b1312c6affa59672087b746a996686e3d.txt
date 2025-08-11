@@ -1,0 +1,130 @@
+ an Eligible CVA Hedge
+
+𝑖𝑛𝑑 =
+
+DF𝑖
+
+the supervisory discount factor for a single-name hedge, calculated as:
+
+ind
+
+1 − e−0.05∙Mi 0.05 ∙ Mi
+
+ind
+
+RWh =
+
+the supervisory risk weight of the index hedge ‘i’ recognised as an Eligible CVA Hedge. RWh must be based on a combination of sector and credit quality of all the index constituents, as determined in Rule A5.10.6 and adjusted as follows:
+
+(a)
+
+for an index where all index constituents belong to the same sector and are of the same credit quality, the Authorised Firm must multiply the relevant value in the table in Rule A5.10.6 by 0.7;
+
+(b)
+
+for an index spanning multiple sectors or with a mixture of investment grade constituents and other grade constituents, the Authorised Firm must calculate the name-weighted average of the risk weights from the table in Rule A5.10.6 and multiply the result by 0.7
+
+i =
+
+the index that denotes all index Eligible CVA Hedges that an Authorised Firm has taken out to hedge CVA Risk
+
+A5.10.11 For the purposes of Rule A5.10.8, an Authorised Firm must calculate HMHC, using
+
+the following formula:
+
+372
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+HMAC = ∑(1 − rhc h∈h
+
+2 ) ∙
+
+(RWh ∙ Mh
+
+2 SN)
+
+SN ∙ Bh
+
+SN ∙ Dh
+
+where all the terms are the ones set out in Rule A5.10.9
+
+A5.10.12 For the purposes of Rule A5.10.9, an Authorised Firm must set the value of rhc in
+
+accordance with the table below:
+
+Single-name hedge ‘h’ of Counterparty ‘C’
+
+Value of rhc
+
+references to Counterparty ‘C’ directly
+
+100%
+
+has legal relation with Counterparty ‘C’
+
+80%
+
+shares sector and region with Counterparty ‘C’
+
+50%
+
+Alternative approach
+
+A5.10.13 An Authorised Firm whose aggregate notional amount of non-centrally cleared derivatives is less than or equal to 110 billion USD may choose to calculate its Credit Valuation Adjustment Risk Capital Requirement using the alternative approach in Rule A5.10.14, instead of using the BA-CVA, unless the DFSA mandates otherwise.
+
+A5.10.14 An Authorised Firm using the alternative approach must calculate its Credit Valuation Adjustment Risk Capital Requirement by dividing the amount of RWAs for Counterparty Credit Risk Exposures calculated in accordance with Rule 4.8.7 by 12.5.
+
+A5.10.15 For the purpose of Rule A5.10.14 an Authorised Firm must:
+
+(a) not recognise the effect of CVA hedges; and
+
+(b) apply the alternative approach to its entire portfolio of Covered Transactions
+
+and Eligible CVA Hedges.
+
+Guidance
+
+The DFSA will require an Authorised Firm to use BA-CVA if it determines that CVA Risk resulting from the Authorised Firm’s derivative positions materially contributes to its overall risk.
+
+373
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+APP6 CALCULATING REQUIREMENT
+
+THE
+
+OPERATIONAL
+
+RISK
+
+CAPITAL
+
+Guidance
+
+1.
+
+Section 6.11 of PIB provides that an Authorised Firm in Categories 1, 2, 3A and 5 must use the Basic Indicator Approach to calculate its Operational Risk Capital Requirement, unless the firm has approval from the DFSA to use the Standardised Approach or Alternative Standardised Approach. In this App6:
+
+a.
+
+the Basic Indicator Approach is prescribed in section A6.1;
+
+b.
+
+the Standardised Approach is prescribed in section A6.2; and
+
+c.
+
+the Alternative Standardised Approach is prescribed in section A6.3.
+
+2.
+
+The application of various components of the rules on Operational Risk to Authorised Firms licensed to carry out various financial services is detailed in the table below:
+

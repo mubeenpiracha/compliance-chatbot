@@ -1,0 +1,127 @@
+d.
+
+if a comparison is being made with other financial products, ensure that the comparison is between similar financial products and that the same calculation method and period is being used, for example a comparison with traditional financial products is unlikely to be fair, balanced or meaningful due to key differences between Crypto Tokens and traditional products.
+
+15.6 General requirements relating to Crypto Tokens and Crypto Token
+
+Derivatives
+
+Interpretation
+
+15.6.1 In this section, “Margin” means the pre-agreed amount a Client in required to pay to
+
+open and maintain a position relating to a Crypto Token Derivative.
+
+Appropriateness Assessment
+
+15.6.2 (1)
+
+This Rule applies to an Authorised Firm that carries on any of the following Financial Services relating to Crypto Tokens:
+
+(a)
+
+Arranging Deals in Investments;
+
+(b)
+
+Dealing in Investments as Agent;
+
+(c)
+
+Dealing in Investments as Principal; or
+
+(d)
+
+Operating a MTF.
+
+(2)
+
+An Authorised Firm must not carry on a Financial Service referred to in (1) with or for a Retail Client, unless the Authorised Firm has carried out an appropriateness assessment of the person and formed a reasonable view that the Person has:
+
+(a)
+
+adequate skills and expertise to understand the risks involved in trading in Crypto Tokens or Crypto Token Derivatives (as the case may be); and
+
+(b)
+
+the ability to absorb potentially significant losses resulting from trading in Crypto Tokens or Crypto Token Derivatives (as the case may be).
+
+187
+
+COB/VER48/03-25
+
+CONDUCT OF BUSINESS (COB)
+
+Guidance
+
+1.
+
+In addition to the appropriateness requirement in Rule 15.6.2, an Authorised Firm that recommends a Crypto Token or Crypto Token Derivative or a financial service involving a Crypto Token or Crypto Token Derivative to a Client or executes a Crypto Token or Crypto Token Derivative transaction on a discretionary basis for a Client, is required under Rule 3.4.2 to carry out a suitability assessment.
+
+2.
+
+To form the reasonable view referred to in Rule 15.6.2 in relation to a person, an Authorised Firm should consider issues such as whether the person:
+
+a.
+
+has sufficient knowledge and experience relating to the type of Crypto Token or Crypto Token Derivative offered, having regard to such factors as:
+
+i.
+
+how often and in what volumes that person has traded in the relevant type of Crypto Token or Crypto Token Derivative; and
+
+ii.
+
+the person’s relevant qualifications, profession or former profession;
+
+b.
+
+understands the characteristics and risks relating to Crypto Tokens or Crypto Token Derivatives, and the volatility of Crypto Token prices;
+
+c.
+
+understands the impact of leverage, due to which, there is potential to make significant losses in trading in a Crypto Token or Crypto Token Derivative; and
+
+d.
+
+has the ability, particularly in terms of net assets and liquidity available to the person, to absorb and manage any losses that may result from trading in the Crypto Token or Crypto Token Derivative.
+
+3.
+
+To enable it to demonstrate that it complies with this Rule, an Authorised Firm should have in place systems and controls that include:
+
+a.
+
+pre-determined and clear criteria against which a Retail Client’s ability to trade in a Crypto Token or Crypto Token Derivative can be assessed;
+
+b.
+
+adequate records to demonstrate that the Authorised Firm has undertaken the appropriateness assessment for each Retail Client; and
+
+c.
+
+in the case of an existing Retail Client with whom the Authorised Firm has previously traded in a Crypto Token or Crypto Token Derivative, procedures to undertake a fresh appropriateness assessment if:
+
+i.
+
+a new Crypto Token or Crypto Token Derivative with a materially different risk profile is offered to the Retail Client; or
+
+ii.
+
+there has been a material change in the Retail Client’s circumstances.
+
+4.
+
+If an Authorised Firm forms the view that it is not appropriate for a person to trade in a Crypto Token or Crypto Token Derivative, the Authorised Firm should refrain from offering that service to the person. As a matter of good practice, the Authorised Firm should inform the person of the firm’s decision.
+
+Use of credit for trading in Crypto Tokens
+
+15.6.3 An Authorised Firm must:
+
+(a)
+
+not provide a Credit Facility to a Retail Client in connection with trading in Crypto Tokens; and
+
+188
+
+COB/VER48/03

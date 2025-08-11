@@ -1,0 +1,169 @@
+ out in Chapter 9 in respect of interest rate risk in the Non-Trading Book.
+
+Quantitative Disclosures
+
+(b) The changes in earnings or economic value (or relevant measure used by the authorised firm) for upward and downward rate shocks according to the internal method of the Authorised Firm for measuring interest rate risk in the Non- Trading Book, broken down by currency, where applicable.
+
+Table 12 – Liquidity Coverage Ratio Information
+
+Qualitative Disclosures
+
+(a)
+
+(b)
+
+Governance and organisation of Liquidity Risk management.
+
+Risk tolerance and strategy in relation to Liquidity Risk management.
+
+(c)
+
+Scope and nature of Liquidity Risk reporting and measurement systems.
+
+(d)
+
+The techniques used for mitigating Liquidity Risk and the process of monitoring the effectiveness of the mitigants in place.
+
+(e)
+
+Overview of how stress testing is used.
+
+(f)
+
+Outline of the Contingency Funding Plan.
+
+(g)
+
+A declaration approved by the governing body on the adequacy of Liquidity Risk management arrangements in place with regard to the firm’s profile and strategy.
+
+(h)
+
+A Liquidity Risk statement approved by the governing body describing the firm’s overall Liquidity Risk profile associated with the business strategy, including how the Liquidity Risk profile of the firm interacts with the risk tolerance set by the management body and:
+
+(i) the main drivers of the LCR results and the evolution of the contribution of inputs to the LCR’s calculation over time;
+
+(ii) intra-period changes as well as changes over time;
+
+(iii) the composition of HQLA;
+
+(iv) concentration of funding sources;
+
+(v) derivatives exposures and potential collateral calls;
+
+(vi) currency mismatch in the LCR;
+
+(vii) a description of the degree of centralisation of liquidity management and interaction between the group’s units; and
+
+(viii) other inflows and outflows in the LCR calculation that are not captured in the LCR common template but which the firm considers to be relevant for its liquidity profile.
+
+(i)
+
+TOTAL UNWEIGHTED
+
+TOTAL WEIGHTED
+
+424
+
+PIB/VER50/07-25
+
+Quantitative Disclosures
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+VALUE (average)
+
+VALUE (average)
+
+HIGH-QUALITY LIQUID ASSETS
+
+1
+
+Total high-quality liquid assets (HQLA)
+
+CASH OUTFLOWS
+
+2 Retail deposits/PSIAs and deposits/PSIAs from small business customers, of which:
+
+3
+
+Stable deposits/PSIAs
+
+4
+
+Less stable deposits/PSIAs
+
+5 Unsecured wholesale funding,
+
+of which:
+
+6
+
+Operational deposits or accounts (all counterparties) and deposits/PSIAs in networks of cooperative banks
+
+7
+
+Non-operational deposits/PSIAs (all counterparties)
+
+8
+
+Unsecured debt
+
+9 Secured wholesale funding
+
+10 Additional requirements, of
+
+which:
+
+11 Outflows related to
+
+derivative exposures, Shari’a compliant hedging instrument exposures and other collateral requirements
+
+12 Outflows related to loss of funding on debt products
+
+13 Credit and liquidity facilities
+
+14 Other contractual funding
+
+obligations
+
+425
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+15 Other contingent funding
+
+obligations
+
+16 TOTAL CASH OUTFLOWS
+
+CASH INFLOWS
+
+17 Secured lending (e.g. reverse repos) or Shari’a compliant secured financing
+
+18
+
+Inflows from fully performing exposures
+
+19 Other cash inflows
+
+20 TOTAL CASH INFLOWS
+
+TOTAL ADJUSTED VALUE
+
+21 TOTAL HQLA
+
+22 TOTAL NET CASH OUTFLOWS
+
+23 LIQUIDITY COVERAGE
+
+RATIO (%)
+
+Guidance
+
+The following Guidance is intended to assist firms to complete the above table.
+
+The figures to be presented are averages of the daily observations of individual line items over the financial reporting period (i.e. the average of components and the average LCR over the most recent three months of daily positions, irrespective of the financial reporting schedule). The averages are calculated after the application of any haircuts, inflow and outflow rates and caps, where applicable.
+
+Unweighted figures of HQLA are calculated at market value. Weighted figures of HQLA are calculated after the application of the respective haircuts but before the

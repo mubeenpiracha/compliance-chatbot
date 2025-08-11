@@ -1,0 +1,117 @@
+ the operation of these systems and controls.
+
+Safeguarding and administration of assets
+
+13.
+
+When assessing its systems and controls for the safeguarding and administration of assets belonging to users of its facilities, a Recognised Body should have regard to the totality of the arrangements and processes by which it:
+
+(a)
+
+records the assets held and the identity of the owners of (and other persons with relevant rights over) those assets;
+
+(b)
+
+records any instructions given in relation to those assets;
+
+(c)
+
+records the carrying out of those instructions;
+
+(d)
+
+records any movement in those assets (or any corporate actions or other events in relation to those assets); and
+
+(e)
+
+reconciles its records of assets held with the records of any custodian or sub-custodian (or Person Acting as a Central Securities Depository) used to hold these assets, and with the records of beneficial or legal ownership of those assets.
+
+14
+
+MIR VER10.290725
+
+General safeguards for investors
+
+2.5.2
+
+A Recognised Body must have rules, procedures and appropriate surveillance practices in place to ensure that its facilities are such as to afford proper protection to investors.
+
+Guidance
+
+When assessing whether it has appropriate rules, procedures and surveillance practices in place, a Recognised Body should consider the extent to which its rules, procedures and arrangements for monitoring and overseeing the use of its facilities:
+
+(a)
+
+include appropriate measures to prevent the use of its facilities for abusive or improper purposes;
+
+(b)
+
+provide appropriate safeguards for investors against fraud or misconduct, recklessness, negligence or incompetence by users of its facilities;
+
+(c)
+
+provide appropriate information to enable users of its facilities to monitor their use of the facilities;
+
+(d)
+
+include appropriate arrangements to enable users of its facilities to raise queries about any use of those facilities which they are reported to have made;
+
+(e)
+
+include appropriate arrangements to enable users of its facilities to comply with any relevant regulatory or legal requirements; and
+
+(f)
+
+include appropriate arrangements to reduce the risk that those facilities will be used in ways which are incompatible with relevant regulatory or legal requirements,
+
+and in this paragraph "appropriate" should be taken to mean appropriate having regard to the nature and scale of the Recognised Body's facilities, the types of Persons who will use the facilities and the use which they will make of those facilities.
+
+Promotion and maintenance of standards
+
+2.5.3
+
+A Recognised Body’s rules, practices and procedures must promote and maintain high standards of integrity and fair dealing in the carrying on of business on or through its facilities. These rules, practices and procedures are to be consistent with the Code of Market Conduct and with any other Rules, codes or principles relating to behaviour in Regulated Activities within the ADGM Financial System.
+
+2.5.4
+
+Recognised Body must be able and willing to cooperate, by the sharing of information or otherwise, with the Regulator, with any other authority, body or Person having responsibility in ADGM for the supervision or regulation of any Regulated Activity or other financial service, or with a Non-Abu Dhabi Global Market Regulator. Its constitution, rules and its agreements with its Members must enable it to obtain
+
+15
+
+MIR VER10.290725
+
+information from Members and to disclose otherwise confidential information to the Regulator and other appropriate bodies, including:
+
+(a)
+
+the extent to which the Recognised Body is willing to provide information about it and its activities to assist the Regulator in the exercise of its functions;
+
+(b)
+
+the extent to which the Recognised Body is open with the Regulator or other appropriate bodies in regulatory matters;
+
+(c)
+
+how diligently the Recognised Body investigates or pursues enquiries from the Regulator or other appropriate bodies; and
+
+(d)
+
+whether the Recognised Body participates in appropriate international fora.
+
+Guidance
+
+For the purpose of this section, "information" includes information held about large positions held by Members of a Recognised Body.
+
+Performance of Regulatory Functions
+
+2.5.5
+
+A Recognised Body must take all reasonable steps to ensure that the performance of its Regulatory Functions is not adversely affected by its commercial interests.
+
+2.5.6
+
+For the purposes of Rule 2.5.5, a Recognised Body must have adequate systems and controls, including policies and procedures, to ensure that the pursuit of its commercial interests (including its profitability) does not adversely impact on the performance of its Regulatory Functions.
+
+Guidance
+
+A Recognised Body should have systems for identifying, and

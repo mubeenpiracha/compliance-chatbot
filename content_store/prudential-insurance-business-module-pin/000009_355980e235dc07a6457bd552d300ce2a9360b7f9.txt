@@ -1,0 +1,67 @@
+. It is natural for Insurers to seek to stimulate a market by offering features such as guarantees or options. However, the solvency of Insurers could be threatened if they have not adequately valued, stress-tested and set aside adequate capital to service such features. Therefore, the DFSA will expect Insurers seeking permission to write contracts with such features to demonstrate that these steps have been undertaken, and that their procedures provide adequately for ongoing monitoring of the associated risks. Permission to undertake such business may be subject to conditions, for example, a requirement to maintain additional capital, or to restrict business of this nature by reference to total business. The DFSA may also as a condition of granting permission require additional information relating to the business in question to be reported to the DFSA in the Insurer’s periodic regulatory returns, or in the Actuary’s report referred to in Rule 7.3.4.
+
+2.
+
+If all the information required is provided to the DFSA relating to a request for permission under Rule 3.6.2, generally, it will take about 45 days for the DFSA to be able to determine whether an Insurer should be permitted to effect Direct Long-Term Insurance contracts with features of the kind referred to in that Rule.
+
+A DIFC Incorporated Insurer which undertakes Direct Long-Term Insurance Business must supervise adequately the conduct of its Direct Long-Term Insurance Business in each jurisdiction in which that Business is undertaken.
+
+Guidance
+
+1.
+
+In order to demonstrate compliance with Rule 3.6.2, the senior management of a DIFC Incorporated Insurer should have mechanisms in place such that adequate information, in appropriate detail, is reported internally to senior management on a timely basis, and that this information is appropriately considered and acted upon.
+
+11
+
+PIN/VER18/04-23
+
+2.
+
+3.
+
+PRUDENTIAL – INSURANCE BUSINESS (PIN)
+
+In discharging its responsibilities under Rule 3.6.2, and under the high level requirements to which it is subject under GEN Rule 5.3.1, senior management will need to consider specific risks to which the Insurer is exposed as a consequence of its activity within each jurisdiction. Internal governance procedures such as Internal Audit should include examination of non- DIFC activities. Compliance procedures should be designed to ensure that the Insurer complies with any domestic regulation to which it may be subject in the jurisdiction in which it is doing business. Insurers are also expected to ensure that conduct of business by them in other jurisdictions does not pose any risk to the reputation of the DIFC. Consequently, senior management should ensure that adequate standards of customer protection are adopted by the Insurer’s operation in each jurisdiction. Senior management should have regard to the provisions of GEN section 4.2 and in particular Principles 6, 7, 8 and 9 in considering whether standards of consumer protection are adequate. Review of persistency statistics may assist in identifying problems in the area of conduct of business.
+
+Rule 3.6.2 does not preclude the establishment of appropriate local management structures with responsibility for the Insurer’s business in the jurisdiction in question. However, the overall responsibility for ensuring compliance with domestic and DIFC regimes rests with the senior management of the Insurer.
+
+12
+
+PIN/VER18/04-23
+
+4
+
+4.1
+
+4.1.1
+
+4.1.2
+
+4.1.3
+
+4.1.4
+
+4.2
+
+4.2.1
+
+4.2.2
+
+PRUDENTIAL – INSURANCE BUSINESS (PIN)
+
+CAPITAL ADEQUACY
+
+Introduction
+
+This chapter applies to all Insurers.
+
+Guidance
+
+1.
+
+The amount of capital is fundamental to the financial health of any insurance undertaking and therefore to the protection of its policyholders. All Insurers are therefore required to maintain a minimum level of capital resources in accordance with this chapter.
+
+2.
+
+This chapter establishes minimum required levels of capital resources applicable to Insurers of different types. Section 4.2 establishes provisions that are applicable to all Insurers, wherever they are incorporated and of whatever type they are. Section 4.3 establishes Minimum Capital Requirements in respect of Insurers other than Protected Cell Companies, and section 4.4 establishes equivalent requirements in respect of Protected Cell Companies. Additional provisions are established by section 4.6, in respect of Insurers maintaining Long-Term Insurance

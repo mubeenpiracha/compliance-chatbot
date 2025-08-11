@@ -1,0 +1,130 @@
+ the decision on the extent of the write down or conversion of Eligible Liabilities;
+
+(d)
+
+if the Write Down or Conversion Power is to be used, to inform the decision on the extent of the cancellation or dilution of Shares and the extent of the write down or conversion;
+
+(e)
+
+if the Sale of Business Tool is to be applied, to inform the decision on the rights, assets, liabilities or Shares to be transferred and to inform the DFSA’s understanding of what constitutes commercial terms for the purpose of the application of the tool; and
+
+(f)
+
+in all cases, to ensure that any losses on the assets of the Authorised Firm are fully recognised at the moment a Resolution Tool is applied or the Write Down or Conversion Power is exercised.
+
+(3) The independent valuer carrying out the Pre-Resolution Valuation shall:
+
+(a)
+
+make prudent, realistic and credible assumptions of the real value of the assets and liabilities of the entity (i.e. ‘market value’), including as to the rates of defaults and severity of losses, recognised as of the date of entry into resolution, relevant market conditions and expected stakeholder reactions;
+
+(b)
+
+disregard any potential future provision of extraordinary public financial support, wherever available; and
+
+(c)
+
+take into account the fact that if any Resolution Tool is applied the DFSA may recover any reasonable expenses properly incurred from the Authorised Firm in accordance with Article 84S of the Law.
+
+(4) A Pre-Resolution Valuation shall be supplemented by the following information as appearing in the accounting books and records of the Authorised Firm (or, in the case of a Branch, the Regulated Financial Institution of which it is a Branch):
+
+(a)
+
+a balance sheet, as at the date of the Pre-Resolution Valuation, of:
+
+(i)
+
+in the case of an Authorised Firm that is not a Branch, the Authorised Firm; or
+
+(ii)
+
+in the case of a Branch, the business of the Branch;
+
+(b)
+
+a report on the financial position of the Authorised Firm;
+
+(c)
+
+an analysis and estimate of the accounting value of:
+
+(i)
+
+in the case of an Authorised Firm that is not a Branch,
+
+20
+
+RAR/VER1/04-20
+
+3.1.4
+
+RECOVERY AND RESOLUTION (RAR)
+
+the assets of the Authorised Firm; or
+
+(ii)
+
+in the case of a Branch, the property and rights of the Regulated Financial Institution which form part of the business of the Branch;
+
+(d)
+
+where required to inform a decision relating to the Sale of Business Tool, an analysis and estimate of the market value of:
+
+(i)
+
+in the case of an Authorised Firm that is not a Branch, the assets and liabilities of the Authorised Firm; or
+
+(ii)
+
+in the case of a Branch, the business of the Branch;
+
+(e)
+
+a list of outstanding liabilities (including any off balance sheet liabilities) of:
+
+(i)
+
+in the case of an Authorised Firm that is not a Branch, the Authorised Firm; or
+
+(ii)
+
+in the case of a Branch, the Regulated Financial Institution which form part of the business of the Branch,
+
+with the creditors subdivided into classes according to the priority their claims will have under insolvency proceedings; and
+
+(f)
+
+an estimate of the amount each class of creditors and shareholders might be expected to receive if:
+
+(i)
+
+in the case of an Authorised Firm that is not a Branch, the Authorised Firm were to be wound up under insolvency proceedings; or
+
+(ii)
+
+in the case of a Branch, the Regulated Financial Institution in its home jurisdiction went into non-DIFC insolvency proceedings.
+
+Provisional Valuation
+
+(1) The DFSA may, under Article 84M(2) of the Law, appoint an
+
+independent valuer to carry out a Provisional Valuation of:
+
+(a)
+
+in the case of an Authorised Firm that is not a Branch, the assets and liabilities of the Authorised Firm; or
+
+(b)
+
+in the case of a Branch, the business of the Branch.
+
+(2) Where a Provisional Valuation is carried out:
+
+(a)
+
+the independent valuer shall comply with Rules 3.1.3(3) and (4) so far as it is reasonable to do so in the circumstances;
+
+(b)
+
+the Provisional Valuation shall make provision in respect of additional losses by the Authorised Firm that are reasonably foreseeable; and
+

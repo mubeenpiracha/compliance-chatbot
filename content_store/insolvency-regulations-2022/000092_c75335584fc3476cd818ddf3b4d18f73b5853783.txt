@@ -1,0 +1,121 @@
+ the date on which the appointment takes effect;
+
+122
+
+(d)
+
+(e)
+
+in a case where Section 257 (Transactions at an undervalue) or 258 (Preferences) applies by reason of a Company going into liquidation at a time when either—
+
+(i)
+
+the appointment of an administrator, or
+
+(ii)
+
+the Deed of Company Arrangement executed by the Company
+
+ceases to have effect, the date on which the Company entered administration (or, if relevant, the date on which the application for the administration order was made or a copy of the notice of intention to appoint was filed); and
+
+in a case where Section 257 (Transactions at an undervalue) or 258 (Preferences) applies by reason of a Company going into liquidation at any other time, the date of the commencement of winding-up.
+
+123
+
+PART 5 : APPLICATION OF INSOLVENCY LAW TO AUTHORISED PARTICIPANTS AND OTHER ENTITIES
+
+Chapter 1 - Application of these Regulations to certain entities
+
+260. Limited Liability Partnerships
+
+(1)
+
+Subject to subsection (2), the provisions of these Regulations shall apply to a Limited Liability Partnership.
+
+(2)
+
+These Regulations shall apply to a Limited Liability Partnership, except where the context otherwise requires, with the following modifications—
+
+(a)
+
+references to a Company shall include references to a Limited Liability Partnership;
+
+(b)
+
+references to a Director or to an officer of a Company shall include references to a member or a designated member of a Limited Liability Partnership or any other person designated under a Limited Liability Partnership Agreement as fulfilling the managerial functions of a member or a designated member of a Limited Liability Partnership;
+
+(c)
+
+references to the Companies Regulations 2020 shall include references to the equivalent provisions of the Limited Liability Partnerships Regulations (if any) as apply to a Limited Liability Partnership;
+
+(d)
+
+references to the Articles of a Company shall include references to a Limited Liability Partnership Agreement of a Limited Liability Partnership;
+
+(e)
+
+the modifications set out in Schedule 13 (Modifications to the Insolvency Regulations for Limited Liability Partnerships); and
+
+(f)
+
+such further modifications as the context requires for the purpose of giving effect to these Regulations as applied by this Section.
+
+261. Protected Cell Companies
+
+(1)
+
+Subject to subsection (2), the provisions of these Regulations shall apply to a Protected Cell Company.
+
+(2)
+
+These Regulations shall apply to a Protected Cell Company, except where the context requires, with the following modifications—
+
+(a)
+
+Part 1 (Administration) and Part 2 (Receivership) of these Regulations shall not apply to a Protected Cell Company;
+
+(b)
+
+the modifications contained in the provisions of Schedule 11 (Supplemental provisions applicable to Protected Cell Companies);
+
+(c)
+
+references to a Company shall include references to a Protected Cell Company; and
+
+(d)
+
+such further modifications as the context requires for the purpose of giving effect to these Regulations as applied by this Section.
+
+262. Powers of the Board
+
+The Board may, by any other regulations, orders or rules, provide that such provisions of these Regulations as may be specified in such regulations, orders or rules shall
+
+124
+
+apply in relation to entities other than Companies with such modifications as may be so specified.
+
+Chapter 2 - Conflict with other Abu Dhabi Global Market legislation
+
+263.
+
+Insolvency of clearing and settlement intermediaries or Recognised Bodies; client assets
+
+(1)
+
+Any provision of the rules of a Recognised Body relating to the finality of acquisitions or dispositions effected pursuant to such rules shall—
+
+(a)
+
+to the extent of any inconsistency with any other applicable law, regulation, order or rule, prevail in respect of determining claims to assets held by, on behalf of, or subject to the control of, such Recognised Body; and
+
+(b)
+
+have effect and prevail over these Regulations and any other insolvency legislation of the Abu Dhabi Global Market notwithstanding the commencement of an Insolvency Proceeding in respect of such Recognised Body or any party to a contract for the acquisition or disposal of an asset to which such rules apply.
+
+(2)
+
+The rules relating to client assets and client monies applicable to Authorised Persons shall not be regarded as invalid on the ground of inconsistency with these Regulations or any other insolvency legislation of the Abu Dhabi Global Market relating to the distribution of property of a Company on an administration, Deed of Company Arrangement or a winding-up and those rules shall, to the extent of any inconsistency, prevail.
+
+(3)
+
+To the extent of

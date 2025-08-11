@@ -1,0 +1,37 @@
+ “token”, “virtual asset” or another analogous term (as applicable) in the relevant regulations of the Financial Services Regulator;
+
+82
+
+“Tokenholder” means a holder of Tokens issued by a DLT Foundation;
+
+“Tokenomics Paper” means an economic model of the Tokens issued by the DLT Foundation describing the Token’s function, utility and compliance with applicable laws and regulations;
+
+“Third Party Providers” means providers and developers of information technology infrastructure, systems and processes, including, without limitations, data providers, identity providers, verifiable- credential issuers and validators;
+
+“Unanimous Resolution of Councillors” means:
+
+(a)
+
+a resolution approved unanimously at a duly convened and constituted meeting of the Councillors by a unanimous vote of all the Councillors present at the meeting, in person or by alternate or proxy, who voted; or
+
+(b)
+
+a resolution agreed to in writing by all of the Councillors;
+
+“Unanimous Resolution of Body within the Organisational and Governance Structure” means:
+
+(a)
+
+a resolution approved unanimously at a duly convened and constituted meeting of the members of the relevant body within the Organisational and Governance Structure by a unanimous vote of all the members of the relevant body within the Organisational and Governance Structure present at the meeting, in person or by alternate or proxy, who voted; or
+
+(b)
+
+a resolution agreed to in writing by all of the members of the relevant body within the Organisational and Governance Structure;
+
+“Veto Rights” has the meaning set forth in subsection 27(4)(b);
+
+“Voting of Tokenholders” means the duly constituted procedure allowing relevant Tokenholders to exercise their voting rights on the relevant Delegated Matters under the Charter and these Regulations; and
+
+“White Paper” means a document setting forth the details of the DLT Purposes and relevant project for which the DLT Foundation is established.
+
+83

@@ -1,0 +1,69 @@
+AC
+
+Insurer’s size factor adjustment component in respect of that segment;
+
+URC
+
+Insurer’s underwriting risk component in respect of that segment;
+
+RRC
+
+Insurer’s reserving risk component in respect of that segment;
+
+LIRC
+
+Insurer’s Long-Term Insurance risk component in respect of that segment;
+
+AMRC
+
+Insurer’s asset management risk component in respect of that segment.
+
+95
+
+PIN/VER18/04-23
+
+PRUDENTIAL – INSURANCE BUSINESS (PIN)
+
+Guidance
+
+Because of the provision in chapter 1 that all Insurance Business of an Insurer that is a Protected Cell Company must be conducted through its Cells, the URC, RRC and LIRC components will apply only to Cells.
+
+A6.2.3 The methods of calculation of the components referred to in Rule A6.2.2 are set out
+
+in sections A6.4, A6.5, A6.6, A6.7, A6.8, A6.9, A6.10, A6.11, A6.12 and A6.13.
+
+A6.2.4 An Insurer’s Minimum Non-Cellular Capital Requirement must always be equal to or
+
+higher than US$ 50,000.
+
+A6.2.5 The Minimum Cellular Capital Requirement in respect of a Cell must always be
+
+equal to or higher than US$ 50,000.
+
+A6.2.6 Where the aggregate of the Minimum Segmental Capital Requirements of the segments of an Insurer, calculated in accordance with the formula set out in Rule A6.2.2 is less than US$ 250,000, the difference between that aggregate and US$ 250,000 must be added to the Minimum Non-Cellular Capital Requirement.
+
+A6.3 Applicability of components to assets of the insurer
+
+A6.3.1 Subject to Rules A6.3.2 and A6.3.3, an Insurer must calculate those components of a Minimum Segmental Capital Requirement that are relevant to assets, in respect of every asset that is attributable to that segment and that is available to meet liabilities attributable to that segment.
+
+A6.3.2 Where an Insurer arranges its affairs such that Invested Assets attributable to a segment are held in a Related entity, the Insurer may, with the written approval of the DFSA, calculate components of the relevant Minimum Segmental Capital Requirement by reference to the Insurer’s interest in the assets that are held by the Related entity, instead of by reference to the interest that the Insurer has in that Related entity. In that case this appendix shall be interpreted as though the assets (representing the Insurer’s interest) held by the Related entity were held directly by the Insurer.
+
+Guidance
+
+The effect of Rule A6.3.2 is to provide flexibility for Insurers whose investments are managed on a pooled basis within a Group, or which establish specialist Subsidiaries to manage their investments. While the Insurer’s asset in such cases is a balance with, or investment in, a Related entity, this Rule permits the Insurer to ‘look through’ the corporate arrangement and apply this appendix to the assets of the Related entity as though they were the Insurer’s own.
+
+A6.3.3 Where an Insurer that is a Protected Cell Company arranges its affairs such that the Invested Assets of a segment are held in another segment of the same Insurer, the Insurer may, with the written approval of the DFSA, calculate relevant components of its Minimum Segmental Capital Requirement in respect of the first segment, by reference to the segment’s interest in the assets that are held by the second segment, instead of by reference to the interest that the first segment has in the second segment. In that case this appendix shall be interpreted as though the assets (representing the first segment’s interest) held by the second segment were held directly by the first segment.
+
+96
+
+PIN/VER18/04-23
+
+PRUDENTIAL – INSURANCE BUSINESS (PIN)
+
+Guidance
+
+1.
+
+The effect of Rule A6.3.3 is to extend the flexibility given by A6.3.2 to cover situations where one segment of an Insurer uses another segment of the same Insurer as a specialist investment entity.
+
+2. Where Rule A6.3.

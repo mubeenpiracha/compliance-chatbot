@@ -1,0 +1,158 @@
+ a nominal amount of an asset swap on a specified Security, exercisable during a set period of time, in exchange for a payment of a premium where the Option gives the buyer the right to put the asset swap back to the seller at a strike spread over a pre-determined benchmark rate.
+
+A Security whose coupon payments are linked to the return on, and repayment of principal and is linked to the creditworthiness of, the Reference Assets.
+
+into using a Loan Crowdfunding Platform operated by a Crowdfunding Operator.
+
+loan agreement entered
+
+A Person who is authorised under a Licence to Operate a Crowdfunding Platform.
+
+An Crowdfunding Platform, or a Property Crowdfunding Platform.
+
+Investment Crowdfunding Platform, a Loan Investment
+
+Has the meaning given in GEN Rule A2.5.1.
+
+Means any one or more of the following Financial Services relating to Crypto Tokens:
+
+(a) Dealing in Investments as Principal;
+
+(b) Dealing in Investments as Agent;
+
+(c) Arranging Deals in Investments;
+
+(d) Managing Assets;
+
+(e) Advising on Financial Products;
+
+(f) Providing Custody;
+
+(g) Arranging Custody; or
+
+(h) Operating a Multilateral Trading Facility.
+
+A Derivative the value of which is determined by reference to
+
+(a) a Crypto Token; or
+
+19
+
+GLO/VER62/07-25
+
+GLOSSARY (GLO)
+
+Defined Term
+
+Definition
+
+(b) an index that includes a Crypto Token.
+
+CSD
+
+In relation to:
+
+(a) an Authorised Firm, a Person who carries on the
+
+activity specified in GEN Rule 2.13.1(3);
+
+(b) an Authorised Market Institution, a Person who carries on the activity specified in GEN Rule 2.18.1(5).
+
+CTF
+
+Means counter-terrorist financing.
+
+Customer Due Diligence (CDD) Has the meaning in AML Rule 7.3.1.
+
+20
+
+GLO/VER62/07-25
+
+D
+
+Back to top
+
+Defined Term
+
+Deal in a Restricted Speculative Investment
+
+Dealing in Investments as Agent Dealing in Investments as Principal Debenture
+
+Decision Notice
+
+Default Rules
+
+Delegation Agreement
+
+Delivery Versus Payment Transaction
+
+Deposit
+
+Derivative
+
+Derivative Token
+
+Designated Fund
+
+GLOSSARY (GLO)
+
+Definition
+
+Has the meaning given in COB Rule 6.16.2.
+
+Has the meaning given in GEN section 2.8.
+
+Has the meaning given in GEN section 2.7.
+
+Has the meaning given in GEN Rule A2.2.1(b).
+
+a written notice given by the DFSA to a Person pursuant to paragraph 5 of Schedule 3 to the Regulatory Law 2004.
+
+Rules of an Authorised Market Institution that set out procedures dealing with circumstances where a Member or other participant on its facilities is unable to meet its obligations in respect of one or more contracts.
+
+An agreement in writing entered into by an Fund Manager or Trustee with a Service Provider in relation to delegated activities, which fulfils the criteria in CIR App 1.
+
+A transaction in which the transfer of Investments and the payment of Money between the buyer and seller are intended to occur around the same time.
+
+Has the meaning given in GEN section A1.1.
+
+Has the meaning given in GEN Rule A2.1.3.
+
+An Investment Token which is either:
+
+(a) a Derivative specified in GEN Rule A2.1.1(2)(b); or
+
+(b) an instrument specified in GEN Rule A2.1.1(2)(c) that confers that are substantially similar in nature to those conferred by a Derivative, or has a substantially similar purpose or effect to a Derivative.
+
+rights and obligations
+
+A Foreign Fund which has been designated by the DFSA under Article 55 of the Collective Investment Law 2010 or, pursuant to Article 1(b) of that law, under Article 20 of the Collective Investment Law 2006.
+
+21
+
+GLO/VER62/07-25
+
+GLOSSARY (GLO)
+
+Defined Term
+
+Definition
+
+Designated Non-Financial Business or Profession (DNFBP)
+
+Has the meaning given in AML Rule 3.2.1.
+
+DFSA
+
+The Dubai Financial Services Authority.
+
+DIFCA Board
+
+The Board of Directors of the DIFC Authority.
+
+DIFC
+
+The Dubai International Financial Centre.
+
+DIFC Business Return
+

@@ -1,0 +1,121 @@
+)(b) and such other information as the DFSA may require;
+
+(B)
+
+stating where the most recent and current Prospectus, if any, can be obtained; and
+
+(C)
+
+specifying where the financial information published by the Issuer pursuant to its ongoing disclosure obligations of the other market is available.
+
+13
+
+MKT/VER24/03-25
+
+MARKETS RULES (MKT)
+
+Guidance
+
+In considering whether a document referred to in (c) or (d) contains all the relevant information, the DFSA will take into account the information required under Part 2 of the Law and the Rules in this chapter.
+
+2.4.2
+
+(1)
+
+All Securities in a class of Securities admitted to listing and trading including pursuant to Rule 2.4.1 must be traded on an Authorised Market Institution or a Regulated Exchange.
+
+(2)
+
+All Securities in a class of Security Tokens admitted to trading on an Alternative Trading System, including those specified under Rule 2.4.1, must be traded on an Alternative Trading System, an Authorised Market Institution or a Regulated Exchange.
+
+2.5 Prospectus structure and content
+
+Guidance
+
+Where the term “Prospectus Offer” is used in this section in reference to a Person, such a Person is making an Offer of Securities to the Public, seeking to have Securities admitted to trading on an Authorised Market Institution or seeking to have Security Tokens admitted to trading on an Alternative Trading System (see the definition of the term “Prospectus Offer” in Article 14(4)(a) of the Law).
+
+2.5.1
+
+(1)
+
+A Person making a Prospectus Offer may, subject to section 2.9, produce a Prospectus structured either as:
+
+(a)
+
+multiple documents comprising:
+
+(i)
+
+a Summary;
+
+(ii)
+
+a Registration Statement; and
+
+(iii)
+
+a Securities Note; or
+
+(b)
+
+a single document containing a Summary and all the information required to be included in the Registration Statement and Securities Note.
+
+(2)
+
+For the purposes of Article 15(2) of the Law, the Prospectus must:
+
+(a)
+
+present information in a form which is comprehensible and easy to analyse;
+
+(b)
+
+contain the documents and information specified in (1)(a) or (b) as are applicable; and
+
+(c)
+
+in the case of an Offer of Securities to the Public, have an application form that meets the requirement in Rule 2.5.6.
+
+(3) Without prejudice to the general disclosure required under Article 15 of the Law, the Person producing the Prospectus must ensure that the Prospectus contains:
+
+(a)
+
+the statements and information required to be included in the Summary, as prescribed in Rule 2.5.2;
+
+14
+
+MKT/VER24/03-25
+
+2.5.2
+
+MARKETS RULES (MKT)
+
+(b)
+
+all the information relating to the Issuer, as required to be included in a Registration Statement as set out in App1 section A1.1;
+
+(c)
+
+all the information relating to the Securities, as required to be included in a Securities Note as set out in App1 section A1.2;
+
+(d)
+
+in the case of a Prospectus relating to a Security Token, the additional information set out in App 7; and
+
+(e)
+
+a prominent disclaimer in bold, on the front page of the Prospectus, as follows:
+
+“The DFSA does not accept any responsibility for the content of the information included in the Prospectus, including the accuracy or completeness of such information. The liability for the content of the Prospectus lies with the Issuer of the Prospectus and other Persons, such as Experts, whose opinions are included in the Prospectus with their consent. The DFSA has also not assessed the suitability of the Securities to which the Prospectus relates to any particular investor or type of investor. If you do not understand the contents of this Prospectus or are unsure whether the Securities to which the Prospectus relates are suitable investment objectives and circumstances, you should consult an authorised financial advisor.”
+
+for your
+
+individual
+
+(1) The Person producing the Prospectus must, subject to (2), ensure that the Summary is at or near the beginning of the Prospectus and sets out in a clear, concise and easy to understand manner:
+
+(a) statements that:
+
+(i)
+
+the Summary should be read as an introduction to the Prospectus and any

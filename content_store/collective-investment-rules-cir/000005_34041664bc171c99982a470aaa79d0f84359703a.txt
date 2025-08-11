@@ -1,0 +1,175 @@
+ 14.4.11, 14.4.12, 14.4.13, 14.5.1, 14.5.2 & section 14.6 apply
+
+X
+
+X
+
+
+
+
+
+
+
+
+
+
+
+X
+
+X
+
+X
+
+X
+
+X
+
+
+
+X
+
+
+
+X
+
+X
+
+X
+
+CIR/VER38/08-24
+
+COLLECTIVE INVESTMENT RULES (CIR)
+
+CIR chapters
+
+Public Fund
+
+Exempt Fund
+
+QIF
+
+APP 7: Content of a Public Fund Prospectus
+
+
+
+X
+
+X
+
+APP 8: Guidance for Hedge Fund Managers
+
+
+
+
+
+
+
+APP 9: Use of Price Information Providers
+
+
+
+X
+
+X
+
+1.5
+
+The Fund Protocol in the UAE
+
+Guidance
+
+1.
+
+The authorities responsible for the regulation of Funds in the UAE (the DFSA, SCA and the FSRA) have entered into arrangements (the “Fund Protocol”) to facilitate domestic funds established or domiciled in one jurisdiction (the Home Jurisdiction) being Promoted in the other jurisdictions (the Host Jurisdictions).
+
+2.
+
+The Fund Protocol Rules (FPR) set out, among other things, the procedures and requirements that apply if a Fund established or domiciled in the DIFC (whether a Public Fund, Exempt Fund or Qualified Investor Fund) wishes to Promote the Fund in the other
+
+jurisdictions (a ‘Passported Fund’).
+
+3.
+
+A Fund established or domiciled in the DIFC that wishes to be a Passported Fund will, in addition to complying with the procedures and requirements in FPR, still need to comply with relevant requirements in this module. In some cases, requirements in this module are modified for a Passported Fund for consistency with FPR. In summary, the main
+
+additional or modified requirements in FPR relate to:
+
+a.
+
+custodian requirements for Public Funds;
+
+b.
+
+prospectus requirements for Public Funds, including the requirement for a Key Investor Information Document (KIID); and
+
+c.
+
+requirements for notification of certain material events.
+
+4.
+
+For more information about the procedures and requirements for a Passported Fund, see
+
+the Fund Protocol Rules (FPR).
+
+5.
+
+If a Passported Fund is established or domiciled in one of the other UAE jurisdictions, many of the requirements in this module do not apply to the Fund as it is a Foreign Fund rather than a Domestic Fund (as those terms are defined in the Law). Only certain requirements in this module apply to Foreign Funds (e.g. Chapter 15: marketing of Foreign Funds). Instead, the Passported Fund will need to comply with the requirements in its Home Jurisdiction, including the relevant Fund Protocol rules or regulations made by its Home Regulator.
+
+1.6
+
+When a Fund invests in Crypto Tokens
+
+1.6.1
+
+(1) For the purposes of this module, a Fund invests in Crypto Tokens if:
+
+(a)
+
+any of its Fund Property consists of Crypto Tokens;
+
+(b)
+
+it has a derivative exposure to Crypto Tokens;
+
+(c)
+
+it tracks an index that includes Crypto Tokens; or
+
+5
+
+CIR/VER38/08-24
+
+(2)
+
+COLLECTIVE INVESTMENT RULES (CIR)
+
+(d)
+
+it invests in another Fund or entity which:
+
+(i)
+
+has property that includes Crypto Tokens;
+
+(ii)
+
+a derivative exposure to Crypto Tokens; or
+
+(iii)
+
+tracks an index that includes Crypto Tokens.
+
+An investment in another Fund or entity referred to in (1)(d) is to be disregarded under that paragraph if the total aggregate exposure of that other Fund or entity under (d)(i), (ii) and (iii) to all Crypto Tokens does not exceed 5% of the gross value of the Fund or entity.
+
+6
+
+CIR/VER38/08-24
+
+COLLECTIVE INVESTMENT RULES (CIR)
+
+PART 2: DEFINITIONAL PROVISIONS
+
+Guidance
+
+A Collective Investment Fund is defined in Article 11 of the Law. The definition under Article 11 is very wide, however, Article 12 enables the DFSA to make Rules excluding certain arrangements or types of arrangements from constituting a Fund.

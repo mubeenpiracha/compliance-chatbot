@@ -1,0 +1,87 @@
+ Management ................................... 64
+
+Desired Outcome 10.3 – Security Testing ................................................................ 65
+
+Section C: Interacting Securely ............................................................................................. 67
+
+Chapter 11 – Access Management .................................................................................... 67
+
+Desired Outcome 11.1 – Credential Management .................................................... 67
+
+Desired Outcome 11.2 – Authorisation ................................................................... 69
+
+Desired Outcome 11.3 – Authentication ................................................................. 70
+
+Chapter 12 – Online Transaction Security .......................................................................... 74
+
+Desired Outcome 12.1 – Online Transaction Security .............................................. 74
+
+Desired Outcome 12.2 – Fraud Mitigation ............................................................... 75
+
+Desired Outcome 12.3 – Customer IT Risk Awareness ............................................. 76
+
+Chapter 13 – Cryptography ............................................................................................... 77
+
+Desired Outcome 13.1 – Cryptographic Schemes .................................................... 77
+
+Desired Outcome 13.2 – Key Lifecycle Management ................................................ 78
+
+Section D: Leveraging Business Embedded Technologies ...................................................... 80
+
+Chapter 14 – Algorithm Driven Solutions ........................................................................... 80
+
+Desired Outcome 14.1 – Governance of Algorithm Driven Solutions ......................... 80
+
+Desired Outcome 14.2 – Safe Development and Usage ............................................ 82
+
+Chapter 15 – Decentralised Infrastructure Solutions .......................................................... 84
+
+ii
+
+VER01.201124
+
+Desired Outcome 15.1 – Understanding Decentralised Infrastructure Solutions ....... 84
+
+Desired Outcome 15.2 – Secure Participation ......................................................... 85
+
+Annex A: Related ADGM Rules, Regulations and Guidance .................................................... 88
+
+iii
+
+VER01.201124
+
+INTRODUCTION
+
+Background
+
+i.
+
+Technology1 and data are core enablers for modern financial institutions. Financial institutions rely on technology to conduct their operations, achieve business outcomes and serve their customers. They need data to support decision-making processes on all matters, including for operations and service delivery. Leveraging on technology and data has allowed modern financial institutions to provide increasingly effective and efficient services to their customers.
+
+ii.
+
+Authorised Persons in the Abu Dhabi Global Market (“ADGM”) are expected to adequately manage risks arising from the use of information technology for its business operations and services to customers. Sections 3.3.1(1) and 3.3.4 of the General Rulebook (“GEN”) require Authorised Persons to establish and maintain risk management systems and controls to enable it to identify, assess, mitigate, control, and monitor its risks, and ensure that its affairs are managed effectively and responsibly by its senior management.
+
+iii.
+
+The objective of this Information Technology Risk Management Guidance (“Guidance”) is to provide Authorised Persons and Recognised Bodies (collectively referred to as ‘financial institutions’ in this Guidance) with a set of desired outcomes and best practices on the sound management of information technology risks. While this Guidance does not set out legally binding requirements, financial institutions should be cognisant of other existing regulations, rules and guidance issued by the Financial Services Regulatory Authority (“FSRA”), the Registration Authority, and the Office of Data Protection (collectively referred to as the ‘Relevant ADGM Authorities’) relating to the management of information technology2.
+
+iv.
+
+In formulating this document, the FSRA has taken reference from guidance on related matters set out by various international standard setting bodies and financial regulatory authorities, as well as leading industry standards on information technology and security.
+
+v.
+
+In developing this Guidance, the FSRA had regard to the following considerations:
+
+a. Technological evolution – New risks will continue to arise as technology evolves. As such, it is not possible to exhaustively provide guidance for all potential scenarios. The FSRA has therefore taken a principles-based approach to provide flexible Guidance that can address existing risks and remain relevant for new risks. In addition to these principles, the FSRA has listed best practices that financial institutions should consider when following the principles and will update these practices over time.
+
+b.
+
+Interrelated risks – IT risks are closely related to and can heighten risks to financial institutions’ operations and business models. The FSRA therefore encourages
+
+1 ‘Technology’ and ‘Information Technology (IT)’ are used interchangeably at various points in this Guidance. 2 Refer to Annex A for a list of rules and guidance relating to information technology issued by the Relevant ADGM Authorities.
+
+1
+
+VER01.

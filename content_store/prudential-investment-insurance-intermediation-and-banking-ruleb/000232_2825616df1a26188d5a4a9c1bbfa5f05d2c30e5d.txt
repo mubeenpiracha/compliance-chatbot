@@ -1,0 +1,211 @@
+ or domestic PSEs as a Counterparty
+
+Backed by RMBS eligible for inclusion in Level 2B HQLA
+
+Backed by other Level 2B HQLA
+
+All other secured funding transactions
+
+D. Additional Requirements:
+
+Derivatives cash outflows
+
+Liquidity needs (e.g. Collateral calls) related to financing transactions, Derivatives and other contracts
+
+Market valuation changes on non-Level 1 HQLA posted Collateral securing Derivatives
+
+Factor
+
+5%
+
+10%
+
+0%
+
+25%
+
+5%
+
+25%
+
+40%
+
+20%
+
+100%
+
+0%
+
+15%
+
+25%
+
+25%
+
+50%
+
+100%
+
+100%
+
+100%
+
+20%
+
+409
+
+PRU VER17.290725
+
+Cash Outflows
+
+Item
+
+Excess Collateral held by a bank related to Derivative transactions that could contractually be called at any time by its Counterparty
+
+Liquidity needs related to Collateral contractually due from the reporting bank on Derivatives transactions
+
+Increased liquidity needs related to Derivative transactions that allow Collateral substitution to non-HQLA assets
+
+Market valuation changes on Derivatives transactions (largest absolute net 30-day Collateral flows realised during the preceding 24 months)
+
+ABCP, SIVs, Conduits, etc:
+
+Loss of funding on Asset Backed Securities, covered bonds and other structured financing instruments
+
+Loss of funding on ABCP, SIVs, SPVs, etc
+
+Undrawn committed credit and liquidity facilities:
+
+Retail and small and medium-sized enterprise clients
+
+Non-financial corporates, sovereigns and central banks, PSEs, MDBs
+
+Banks subject to prudential supervision
+
+Other Financial Institutions (include Securities firms, insurance companies, fiduciaries and beneficiaries)
+
+Other legal entity customers
+
+Other contractual obligations to Financial Institutions
+
+Other contractual obligations to retail and non-financial corporate clients
+
+Other contingent funding obligations:
+
+Non-contractual obligations related to potential liquidity draws from joint ventures or minority Investments in entities
+
+Trade finance-related obligations (including letters of credit and guarantees)
+
+Non contractual obligations where customer short positions are covered by other customers' Collateral
+
+Factor
+
+100%
+
+100%
+
+100%
+
+100%
+
+100%
+
+100%
+
+5%
+
+10% for credit 30% for liquidity
+
+40%
+
+40% for credit 100% for liquidity
+
+100%
+
+100%
+
+100%
+
+100%
+
+3%
+
+50%
+
+410
+
+PRU VER17.290725
+
+Cash Outflows
+
+Item
+
+Factor
+
+Unconditionally revocable "uncommitted" credit and liquidity facilities
+
+5%
+
+Guarantees and letters of credit unrelated to trade finance obligations
+
+10%
+
+Non-contractual obligations: • Debt-buy back requests (incl. related conduits)
+
+100%
+
+Structured products
+
+10%
+
+Managed funds
+
+10%
+
+Other non-contractual obligations
+
+100%
+
+Outstanding debt Securities (unsecured and secured, term as well as short-term) with remaining maturity > 30 days of issuers with an affiliated dealer or market-maker
+
+100%
+
+Other contractual cash outflows
+
+100%
+
+Guidance
+
+1.
+
+The following Guidance sets out the Regulator's views about how the Table in Rule A10.2.15 should be applied to different items.
+
+Retail Deposits:
+
+2.
+
+Retail Deposits should include Deposits from individuals placed with an Authorised Person. Deposits from legal entities, sole proprietorships or Partnerships should be included in wholesale Deposit categories. Deposits may include demand Deposits and term Deposits, unless otherwise excluded.
+
+3.
+
+Deposits from individuals are divided under the Table into 'stable' and 'less stable' Deposits. Stable Deposits should include the portion of Deposits that are fully covered by an effective Deposit insurance scheme or by a public guarantee that provides equivalent protection and where:
+
+a.
+
+the depositor has other established relationships with the Authorised Person that make Deposit withdrawal highly unlikely; or
+
+b.
+
+the Deposits are in transactional accounts (e.g. accounts where salaries are automatically credited).
+
+4.
+
+If an Authorised Person is not able to readily identify which retail Deposits would qualify as "stable" according to paragraph 4, it should place the full amount in the "less stable" buckets.
+
+411
+
+PRU VER17.290725
+
+5.
+
+Less stable Deposits should consist of the portion of Deposits that do not meet the conditions in paragraph 4 and also include types of Deposits more likely to be withdrawn in a

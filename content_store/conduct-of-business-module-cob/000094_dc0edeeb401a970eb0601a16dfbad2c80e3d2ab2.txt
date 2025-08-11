@@ -1,0 +1,75 @@
+)
+
+any change in the rights of users arising from the material change; and
+
+140
+
+COB/VER48/03-25
+
+CONDUCT OF BUSINESS (COB)
+
+(c)
+
+what steps, if any, the operator is proposing to take as a result of the change.
+
+(5) A disclosure or notification under (3) or (4) must be made as soon as
+
+practicable after the operator becomes aware of the material change.
+
+Guidance
+
+1.
+
+Rule 11.3.9 sets out the requirements that an operator must comply with if there is a material change affecting a borrower or Issuer, either during the commitment period or at a later time. A material change might include, for example:
+
+a.
+
+for Investment and Loan Crowdfunding, a change in the management, control or structure of the business, an event affecting its profitability, a change relating to its assets or a default in meeting another obligation; and
+
+b.
+
+for Property Investment Crowdfunding, a significant expense that arises in relation to the property.
+
+2.
+
+A borrower or an Issuer is required, under its Client Agreement, to give reasonable advance notice to the operator of any material change in its circumstances (see Rule A2.1.6).
+
+3.
+
+The DFSA expects that it would be only in limited circumstances that a material change would occur during the commitment period. This is because full information about the borrower, Issuer, seller or property will only recently have been verified and published (see Rules 11.3.6 and 11.3.7). As a material change during the commitment period could significantly affect a lender or investor’s decision, in addition to notifying investors or lenders, the operator must require anyone who has already committed to lend or invest to reconfirm their commitment. This reconfirmation is separate from the cooling-off period for investors under Rule 11.5.2 or 11.6.5 which starts when the commitment period ends.
+
+4.
+
+If a material change occurs after the commitment period, in addition to notifying lenders or investors of the details, the operator is required to inform lenders or investors whether this affects their rights and whether the operator is proposing to take further steps e.g. to clarify the situation or to take action for a default.
+
+Borrower, Issuer or seller not to use other platforms
+
+11.3.10 An operator must take reasonable steps to restrict a borrower, Issuer or seller from
+
+seeking funding on another crowdfunding platform during the commitment period.
+
+Guidance
+
+Allowing users of a platform who are seeking funding to use different platforms at the same time creates the risk that they might offer different terms and information about the proposal, causing potential confusion for lenders or investors and creating the potential for arbitrage by users of a platform who are seeking funding. This restriction only applies during the commitment period i.e. the period during which lenders may commit to making loans to the borrower or investors may commit to investing with the Issuer or in the property.
+
+Equal treatment of lenders and investors
+
+11.3.11 An operator must ensure that lenders or investors who use its service are able to have access to the same information on its platform about a borrower, Issuer, seller or a lending or investment proposal or a property, and that access to the information is provided at the same time.
+
+141
+
+COB/VER48/03-25
+
+CONDUCT OF BUSINESS (COB)
+
+11.3.12 If an operator provides an auto-lending system or auto-investing system, or any other facility that provides some lenders or investors with the opportunity to lend or invest money ahead of other lenders or investors, it must disclose prominently on its platform that some lenders or investors may have preferential access to better proposals.
+
+Guidance
+
+1.
+
+An ‘auto-lending system’ or ‘auto-investing system’ is a facility that automatically allocates certain loans or Investments to a lender or investor according to parameters chosen by the lender or investor. The availability of this type of facility creates the risk that other lenders may not be aware that the best lending or investment opportunities have already been allocated and that remaining lending or investment opportunities may be of lower quality.
+
+2.
+
+Further, if an operator permits some lenders or investors using its service to lend or invest on terms that are better than those offered to other lenders or investors on the platform, a potential conflict of interest may arise between the interests of the different lenders or investors. The

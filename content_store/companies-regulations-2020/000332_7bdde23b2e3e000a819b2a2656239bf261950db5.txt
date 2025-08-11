@@ -1,0 +1,155 @@
+ that individual is a director, and
+
+(c)
+
+any employee or partner of that individual.
+
+(3)
+
+In relation to a body corporate, “associate” means–
+
+558
+
+(a)
+
+any body corporate of which that body is a director,
+
+(b)
+
+any body corporate in the same group as that body, and
+
+(c)
+
+any employee or partner of that body or of any body corporate in the same group.
+
+(4)
+
+In relation to a partnership that is a legal person under the law by which it is governed, “associate” means–
+
+(a)
+
+any body corporate of which that partnership is a director,
+
+(b)
+
+any employee of or partner in that partnership, and
+
+(c)
+
+any person who is an associate of a partner in that partnership.
+
+(5)
+
+In relation to a partnership that is not a legal person under the law by which it is governed, “associate” means any person who is an associate of any of the partners.
+
+1013. Valuer entitled to full disclosure
+
+(1)
+
+A person carrying out a valuation or making a report with respect to any consideration proposed to be accepted or given by a company, is entitled to require from the officers of the company such information and explanation as he thinks necessary to enable him to–
+
+(a)
+
+carry out the valuation or make the report, and
+
+(b)
+
+provide any note required by section 553(3) or 557 (3) (note required where valuation carried out by another person).
+
+(2)
+
+A person who knowingly or recklessly makes a statement to which this subsection applies that is misleading, false or deceptive in a material particular commits a contravention of these Regulations.
+
+(3)
+
+Subsection (2) applies to a statement–
+
+(a)
+
+made (whether orally or in writing) to a person carrying out a valuation or making a report, and
+
+(b)
+
+conveying or purporting to convey any information or explanation which that person requires, or is entitled to require, under subsection (1).
+
+(4)
+
+A person who commits the contravention referred to in subsection (2) is liable to a level 2 fine.
+
+Courts and legal proceedings
+
+1014. Power of Court to grant relief in certain cases
+
+(1)
+
+If in proceedings for negligence, default, breach of duty or breach of trust against–
+
+(a)
+
+an officer of a company, or
+
+(b)
+
+a person employed by a company as auditor (whether he is or is not an officer of the company),
+
+it appears to the Court hearing the case that the officer or person is or may be liable but that he acted honestly and reasonably, and that having regard to all the circumstances of the case (including those connected with his appointment) he ought
+
+559
+
+(2)
+
+fairly to be excused, the Court may relieve him, either wholly or in part, from his liability on such terms as it thinks fit.
+
+If any such officer or person has reason to apprehend that a claim will or might be made against him in respect of negligence, default, breach of duty or breach of trust–
+
+(a)
+
+he may apply to the Court for relief, and
+
+(b)
+
+the Court has the same power to relieve him as it would have had if it had been a Court before which proceedings against him for negligence, default, breach of duty or breach of trust had been brought.
+
+560
+
+PART 34
+
+COMPANIES: INTERPRETATION
+
+Meaning of “subsidiary” and related expressions
+
+1015. Meaning of “subsidiary” etc.
+
+(1)
+
+A company is a “subsidiary” of another company, its “holding company”, if that other company–
+
+(a)
+
+holds a majority of the voting rights in it, or
+
+(b)
+
+is a member of it and has the right to appoint or remove a majority of its board of directors, or
+
+(c)
+
+is a member of it and controls alone, pursuant to an agreement with other members, a majority of the voting rights in it,
+
+or if it is a subsidiary of a company that is itself a subsidiary of that other company.
+
+(2)
+
+For the purposes of subsection (2) an undertaking shall be treated as a member of another undertaking–
+
+(a)
+
+if any of its subsidiary undertakings is a member of that undertaking, or
+
+(b)
+
+if any shares in that other undertaking are held by a person acting on behalf of the undertaking or any of its subsidiary undertakings.
+
+(3)
+
+A company

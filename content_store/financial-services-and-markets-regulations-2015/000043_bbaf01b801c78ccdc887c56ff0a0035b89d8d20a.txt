@@ -1,0 +1,163 @@
+ it on the application, or with the consent, of the Recognised Body or Remote Body to which it relates.
+
+131. Notification: Remote Investment Exchanges and Remote Clearing Houses69
+
+(1)
+
+At least once a year, every Remote Investment Exchange and Remote Clearing House must provide the Regulator with a report.
+
+(2)
+
+The report must contain a statement as to whether any events have occurred which are likely to affect the Regulator's assessment of whether the requirements set out in section 127(3) have been satisfied.
+
+(3)
+
+The report must also contain such information as may be specified in the Rules made by the Regulator.
+
+132. Regulator's power to give Directions70
+
+(1)
+
+This section applies if it appears to the Regulator that a Recognised Body or Remote Body—
+
+(a)
+
+has failed, or is likely to fail, to satisfy the Recognition Requirements or Remote Recognition Requirements, as applicable; or
+
+(b)
+
+has failed to comply with any other obligation imposed on it by or under these Regulations.
+
+(2)
+
+The Regulator may direct the body to take specified steps for the purpose of securing the body's compliance with—
+
+(a)
+
+the Recognition Requirements or Remote Recognition Requirements, as applicable; or
+
+69 Amended 21 February 2018.
+
+70 Amended 21 February 2018.
+
+77
+
+(b)
+
+any obligation of the kind in question.
+
+(3)
+
+In the case of a Recognised Body, those steps may include—
+
+(a)
+
+the granting to the Regulator of access to the premises of the body for the purpose of inspecting—
+
+(i)
+
+those premises; or
+
+(ii)
+
+any Documents on the premises which appear to the Regulator to be relevant for the purpose mentioned in subsection (2);
+
+(b)
+
+the suspension of the carrying on of any Regulated Activity by the body for the period specified in the Direction.
+
+(4)
+
+A Direction under this section is enforceable, on the application of the Regulator, by an injunction.
+
+(5)
+
+The fact that a rule made by a Recognised Body or Remote Body has been altered in response to a Direction given by the Regulator does not prevent it from being subsequently altered or revoked by the Recognised Body or Remote Body.
+
+133. Additional power to direct Recognised Clearing Houses and Remote Clearing Houses71
+
+(1)
+
+The Regulator may direct a Recognised Clearing House or Remote Clearing House to take, or refrain from taking, specified action if the Regulator is satisfied that it is necessary to give the Direction, having regard to the public interest in—
+
+(a)
+
+protecting and enhancing the stability of the ADGM Financial System;
+
+(b)
+
+maintaining public confidence in the stability of the ADGM Financial System;
+
+(c)
+
+maintaining the continuity of the Clearing Services provided by the Recognised Clearing House or Remote Clearing House; and
+
+(d)
+
+maintaining and enhancing the financial resilience of the Recognised Clearing House or Remote Clearing House.
+
+(2)
+
+The Direction may, in particular—
+
+(a)
+
+specify the time for compliance with the Direction;
+
+(b)
+
+require the rules of the Recognised Clearing House or Remote Clearing House to be amended; and
+
+(c)
+
+override such rules (whether generally or in their application to a particular case).
+
+71 Amended 21 February 2018 and 30 December 2024.
+
+78
+
+(3)
+
+The Direction may require the Recognised Clearing House or Remote Clearing House—
+
+(a)
+
+to take any steps for the purpose of securing its compliance with—
+
+(i)
+
+the Recognition Requirements or Remote Recognition requirements, as applicable; or
+
+(ii)
+
+any obligation of a kind mentioned in section 132(1)(b); or
+
+(b)
+
+to accept a transfer of property, rights or liabilities of another Recognised Clearing House or Remote Clearing House.
+
+(4)
+
+If the Direction is given in reliance on section 135(7), the Regulator must, within a reasonable time of giving the Direction, give the Recognised Clearing House or Remote Clearing House a statement of its reasons—
+
+(a)
+
+for giving the Direction; and
+
+(b)
+
+for relying on section 135(7).
+
+(5)
+
+A Direction under this section is enforceable, on the application of the Regulator, by an injunction.
+
+(6)
+
+The Regulator may revoke a Direction given under this section.
+
+134. Revoking recognition72
+
+(1)
+
+A Recognition Order in respect of a Recogn

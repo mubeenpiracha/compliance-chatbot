@@ -1,0 +1,141 @@
+ section 371 (companies excluded from small companies regime),
+
+(b) meets such additional requirements as the Registrar may from time to time
+
+publish on the Registrar’s website, and
+
+(c)
+
+subject to subsection (2), is not and has not been either an Authorised Person (as defined in the Financial Services and Markets Regulations 2015) or carried out a Regulated Activity (as defined in the Financial Services and Markets Regulations 2015).
+
+(2)
+
+Companies who:
+
+(a)
+
+meet the criteria in paragraphs (a) and (b) of subsection (1),
+
+(b)
+
+are licensed pursuant to the Commercial Licensing Regulations 2015 to carry on the Controlled Activity (as defined in the Commercial Licensing Regulations 2015) of developing Financial Technology Services within the RegLab, and
+
+(c)
+
+have ceased to be an Authorised Person (as defined in the Financial Services and Markets Regulations 2015),
+
+are eligible companies for the purpose of section 867A.
+
+867C. Prescribed statement
+
+(1)
+
+A prescribed statement is a statement that each of the directors has formed the opinion, as regards the company’s situation at the date of the statement that-
+
+(a)
+
+the company is an eligible company,
+
+(b)
+
+the company is not precluded by sections 868 and 869 from making an application under section 867A (application for voluntary striking off supported by prescribed statement),
+
+(c)
+
+that the company has no employees, and
+
+(d)
+
+that all creditors of the company have been paid or otherwise discharged in full and the company has no other liabilities (including any contingent or
+
+486
+
+prospective liabilities and liabilities in respect of current or former directors, employees or clients).
+
+(2)
+
+In forming those opinions-
+
+(a)
+
+the directors must take into account-
+
+(i)
+
+any payment to members proposed to be made prior to the company being dissolved, details of which must be stated on the prescribed statement, and
+
+(ii)
+
+all of the company’s liabilities (including any contingent or prospective liabilities),
+
+(b)
+
+the directors may take into account any arrangement made by the company for the discharge of the company’s contingent or prospective liabilities by a third party following its dissolution and striking off.
+
+(3)
+
+The prescribed statement must be in the prescribed form and must state-
+
+(a)
+
+the date on which it is made, and
+
+(b)
+
+the name of each director of the company.
+
+(4)
+
+If the directors make a prescribed statement without having reasonable grounds for the opinions expressed in it, and the statement is delivered to the Registrar, a contravention of these Regulations is committed by every director who is in default.
+
+(5)
+
+If the directors make a prescribed statement and prior to an application made under section 867A being finally dealt with cease to have reasonable grounds for the opinions expressed in the prescribed statement or the opinions expressed in the prescribed statement cease to be true, the directors shall withdraw the company’s application under section 873 (circumstances in which application to be withdrawn).
+
+(6)
+
+A person who commits a contravention of subsection (4) is liable to a fine of up to level 8.
+
+868. Circumstances in which application not to be made: activities of company
+
+(1)
+
+An application under section 867 (application for voluntary striking off with notice to members, employees etc.) or under section 867A (application for voluntary striking off supported by prescribed statement) on behalf of a company must not be made if, at any time in the previous three months, the company has–
+
+(a)
+
+changed its name,
+
+(b)
+
+traded or otherwise carried on business,
+
+(c)
+
+made a disposal for value of property or rights that, immediately before ceasing to trade or otherwise carry on business, it held for the purpose of disposal for gain in the normal course of trading or otherwise carrying on business, or
+
+(d)
+
+engaged in any other activity, except one which is–
+
+(i)
+
+necessary or expedient for the purpose of making an application under that section, or deciding whether to do so,
+
+(ii)
+
+necessary or expedient for the purpose of concluding the affairs of the company,
+
+487
+
+(iii)
+
+necessary or expedient for the purpose of complying with any statutory requirement, or
+
+(iv)
+
+specified by rules made by the Board by resolution for the purposes of this sub-paragraph.
+
+(2)
+
+For the purposes of this section, a company is not to be treated as trading or otherwise carrying on business by virtue only of the fact that it makes a payment

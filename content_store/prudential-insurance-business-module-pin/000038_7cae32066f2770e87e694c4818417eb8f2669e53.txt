@@ -1,0 +1,101 @@
+ decide whether any system is adequate, senior management would be expected to have assessed the design and operation of the system, including the design and the operations of controls over outsourcing decisions and monitoring. Because an Insurer must be in a position to demonstrate that it has complied with its regulatory requirements, adequate documentary evidence of these assessments should be maintained.
+
+10.
+
+Further considerations in respect of outsourcing generally are contained in A2.13.
+
+A2.4 Control mechanisms
+
+Guidance
+
+1.
+
+An Insurer should have appropriate control mechanisms in place to ensure that the policies and procedures established for risk management are adhered to at all times.
+
+2.
+
+Control mechanisms would normally include:
+
+a.
+
+clearly defined management responsibilities;
+
+b.
+
+adequate segregation of duties;
+
+c.
+
+a risk committee or audit function to establish and maintain the control processes;
+
+d.
+
+a system of approvals, limits, authorisations and reporting lines;
+
+e.
+
+policies to document the Insurer’s procedural controls;
+
+f.
+
+activity controls for each division or department;
+
+g.
+
+verifications of activities such as underwriting, pricing and claims management, and reconciliations of relevant data;
+
+h.
+
+reviews by Governing Body, senior management and internal audit; and
+
+53
+
+PIN/VER18/04-23
+
+PRUDENTIAL – INSURANCE BUSINESS (PIN)
+
+i.
+
+physical controls.
+
+3.
+
+The directors should monitor the overall effectiveness of the Insurer’s risk management systems. Depending on the size and complexity of operations of an Insurer, risk management systems may be monitored on an ongoing or periodic basis. At a minimum there should be periodic internal audits with results being reported directly to the Governing Body and senior management.
+
+4. Where deficiencies are identified as part of the monitoring process or internal audit, these should be reported in a timely manner to the appropriate management and addressed. Material deficiencies should be reported to the Governing Body and senior management. A material deficiency can result not only from a single deficiency, but also from a number of small deficiencies that, when considered together, amount to a material deficiency.
+
+A2.5 Reserving risk
+
+Guidance
+
+1.
+
+Reserving risk is the risk that Insurance Liabilities recorded by the Insurer, net of reinsurance and other recoveries in respect of those liabilities, will be inadequate to meet the net amount payable when the Insurance Liabilities crystallise. Insurance Liabilities include the liability for claims incurred up to the reporting date, as well as the Premium Liability. In the case of General Insurance, reinsurance recoveries anticipated in respect of those liabilities are generally recognised as a separate asset. In the case of Long-Term Insurance, Insurance Liabilities include also the net value of future Policy Benefits and the effects of reinsurance arrangements are taken into account when these are estimated.
+
+2.
+
+An Insurer’s risk management system should therefore include a process for ongoing review and appraisal of the Insurance Liability valuation framework (i.e. assumptions made, reinsurance recoveries estimated etc). In conducting this review, consideration should be given to emerging pricing and claim payment trends.
+
+3.
+
+An Insurer should maintain appropriate systems, controls and procedures to ensure that the provision for Insurance Liabilities is, at all times, sufficient to cover any liabilities that have been incurred, or are yet to be incurred on Contracts of Insurance accepted by the Insurer, as far as can be reasonably estimated.
+
+4.
+
+Appropriate methods should be applied in estimating the provision for Insurance Liabilities, including provisions in respect of individual notified incurred claims. In determining a provision estimation method, managers may consider using alternative approaches before selecting those which may be regarded as most appropriate to the nature of the business.
+
+5.
+
+Appropriate methods should be applied in estimating the amount of the asset in respect of reinsurance recoveries that are expected to arise on crystallisation of the gross Insurance Liabilities. The manner of estimating those assets should be consistent with the manner estimating the gross liabilities, except where there is a sound justification for doing otherwise.
+
+6.
+
+Suitable systems and controls should be put in place to ensure that the selected approaches are applied accurately and on a consistent basis.
+
+7.
+
+Procedures should be in place to review and monitor, on a regular basis, the out-turn of provisions made in previous years for Insurance Liabilities, both gross and net of reinsurance recoveries.
+
+8.
+
+An Insurer is required by chapter 7 to obtain an annual report by an Actuary on the valuation of its Insurance Liabilities and associated assets. The

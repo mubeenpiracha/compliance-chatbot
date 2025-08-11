@@ -1,0 +1,109 @@
+ a 2% risk-weight must apply to the collateral if the conditions in Rule A4.9.9 are met; or 4% if the conditions in Rule A4.9.10 are met.
+
+Guidance
+
+The treatments set out in Rule A4.9.13 are summarised in the table below.
+
+Collateral
+
+posted by
+
+held by
+
+Bankruptcy remote
+
+Conditions
+
+Risk weight
+
+Clearing member QCCP
+
+No
+
+2%
+
+Client
+
+Clearing member
+
+No
+
+CRW QCCP
+
+of
+
+Clearing member Custodian
+
+Yes
+
+0%
+
+Custodian
+
+Yes
+
+0%
+
+Client
+
+QCCP
+
+Yes
+
+Rule A4.9.8
+
+2%
+
+QCCP
+
+No
+
+Rule A4.9.10
+
+4%
+
+Calculation of Credit RWA in relation to prefunded contributions to the default fund of a QCCP
+
+A4.9.14 An Authorised Person acting as a clearing member must apply the following treatment to its exposures arising from its contributions to a default fund maintained by a QCCP:
+
+(a)
+
+it must calculate the Credit RWA for its prefunded contributions to the default fund of a QCCP in accordance with the approach set out in Rules A4.9.15 to A4.9.17; or
+
+(b)
+
+it must calculate the Credit RWA for its contributions to the default fund of a Non-QCCP in accordance with the approach set out in Rule A4.9.18.
+
+Prefunded contributions to the default fund of a QCCP
+
+A4.9.15 An Authorised Person acting as a clearing member must calculate its Credit RWA for its prefunded contributions to the default fund of a QCCP in accordance with the steps set out in Rules A4.9.16 and A4.9.17 below.
+
+A4.9.16 An Authorised Person must first calculate the hypothetical capital requirement of the QCCP (KCCP) due to its counterparty credit risk exposures to all of its clearing members and their clients in accordance with the following formula:
+
+𝐾𝐶𝐶𝑃 = ∑𝐸𝐴𝐷𝑖 − 𝑅𝑊 − 𝑐𝑎𝑝𝑖𝑡𝑎𝑙 𝑟𝑎𝑡𝑖𝑜
+
+𝐶𝑀𝑖
+
+where:
+
+306
+
+PRU VER17.290725
+
+RW = a risk weight of 20%;
+
+Capital ratio = 10%;
+
+EADi = the exposure amount of the QCCP to clearing member i, including both the clearing member's own transactions and client transactions guaranteed by the clearing member, and all values of collateral held by the QCCP held over all clearing member accounts (including the clearing member's prefunded default fund contribution) against these transactions, relating to the valuation at the end of the regulatory reporting date before the margin called on the final margin call of that day is exchanged.
+
+Guidance
+
+1.
+
+Where clearing members provide client clearing services, and client transactions and collateral are held in separate sub-accounts to the clearing member's proprietary business, each such client sub-account should enter the sum separately, i.e. the member EAD in the formula above is then the sum of the client sub-account EADs and any house sub-account EAD. This will ensure that client collateral cannot be used to offset the exposures of the QCCP to clearing members' proprietary activity in the calculation of KCCP. If any of these sub-accounts contains both derivatives and SFTs, the EAD of that sub-account is the sum of the derivative EAD and the SFT EAD.
+
+If the default fund contributions of the member (DFi) are not split with regard to client and house sub-accounts, they must be allocated per sub-account according to the respective fraction the initial margin of that sub-account has in relation to the total initial margin posted by or for the account of the clearing member.
+
+(2)
+
+For derivatives, EADi is calculated as the bilateral trade exposure the QCCP has against clearing member i using the approach in Rule A4.6.14. All collateral held by a QCCP to which that QCCP has a legal claim in the event

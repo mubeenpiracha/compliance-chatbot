@@ -1,0 +1,125 @@
+ or other similar financial accommodation or assurance which he has made, granted or provided.
+
+(2)
+
+The reference in sub-paragraph (1) to a person accepting an instrument includes a reference to a person becoming a party to an instrument otherwise than as a debtor or a surety.
+
+Issue by a Company of its own Shares etc.
+
+(1)
+
+There is excluded from paragraph 4 the issue by a Company of its own Shares or share warrants, and the issue by any person of his own debentures or debenture warrants.
+
+(2)
+
+In this paragraph—
+
+(a)
+
+"Company" means any Body Corporate other than an open-ended investment company;
+
+(b)
+
+"Shares" and "debentures" include any investment of the kind specified by paragraphs 87 or 88 respectively;
+
+(c)
+
+"share warrants" and "debenture warrants" mean any investment of the kind specified by paragraph 91 which relates to shares in the Company concerned or, as the case may be, debentures issued by the person concerned.
+
+Dealing by a Body Corporate in its own Shares321
+
+(1)
+
+A Body Corporate does not carry on an activity of the kind specified by paragraph 4 by purchasing its own Shares where section 666 of the Companies Regulations (Treasury shares) applies to the Shares purchased.
+
+321 Amended 8 August 2023.
+
+232
+
+(2)
+
+A Body Corporate does not carry on an activity of the kind specified by paragraph 4 by dealing in its own Shares held as treasury shares, in accordance with section 668 (Treasury shares: disposal) or 670 (Treasury shares: cancellation) of those Regulations.
+
+(3)
+
+In this paragraph "shares held as treasury shares" has the same meaning as in the Companies Regulations.
+
+Risk management
+
+(1)
+
+A person ("B") does not carry on an activity of the kind specified by paragraph 4 by entering as principal into a transaction with another person ("C") if—
+
+(a)
+
+the transaction relates to investments of the kind specified by any of paragraphs 94 to 96 (or paragraphs 98 or 99 so far as relevant to any of those paragraphs);
+
+(b)
+
+neither B nor C is an individual;
+
+(c)
+
+the sole or main purpose for which B enters into the transaction (either by itself or in combination with other such transactions) is that of limiting the extent to which a relevant business will be affected by any identifiable risk arising otherwise than as a result of the carrying on of a Regulated Activity; and
+
+(d)
+
+the relevant business consists mainly of activities other than—
+
+(i)
+
+Regulated Activities; or
+
+(ii)
+
+activities which would be Regulated Activities but for any exclusion made by this Part.
+
+(2)
+
+In sub-paragraph (1), "relevant business" means a business carried on by—
+
+(a)
+
+B;
+
+(b)
+
+a member of the same Group as B; or
+
+(c)
+
+where B and another person are, or propose to become, participants in a Joint Enterprise, that other person.
+
+Other exclusions
+
+Paragraph 4 is also subject to the exclusions in paragraphs 74 (Trustees etc.), 76 (Sale of goods and supply of services), 77 (Groups and Joint Enterprises), 78 (Sale of a Body Corporate), 79 (Non-ADGM Persons), and 82 (Insolvency Practitioners).322
+
+322 Amended 30 December 2024.
+
+233
+
+The activity
+
+Dealing in Investments as Agent323
+
+Buying or Selling Financial Instruments, Virtual Assets, or Spot Commodities or subscribing for or underwriting Financial Instruments as agent is a specified kind of activity.
+
+Exclusions
+
+Deals with or through Authorised Persons
+
+(1)
+
+A person who is not an Authorised Person does not carry on an activity of the kind specified by paragraph 12 by entering into a transaction as agent for another person (the "client") with or through an Authorised Person if—
+
+(a)
+
+the transaction is entered into on advice given to the client by an Authorised Person; or
+
+(b)
+
+it is clear, in all the circumstances, that the client, in his capacity as an investor, is not seeking and has not sought advice from the agent as to the merits of the client's entering into the transaction (or, if the client has sought such advice, the agent has declined to give it but has recommended that the client seek such advice from an Authorised Person).
+
+(2)
+
+But the exclusion in

@@ -1,0 +1,75 @@
+ a minimum of six maturity segments, to capture the variations of volatility of rates along the yield curve. The model should also capture the risk of less than perfectly correlated movements between different yield curves. The risk measurement system should incorporate separate risk factors to capture spread risk, for example, between bonds and swaps;
+
+375
+
+PRU VER17.290725
+
+6.
+
+b.
+
+the model should incorporate risk factors corresponding to gold and to the individual foreign currencies in which the Authorised Person's positions are denominated. For Collective Investment Funds the actual foreign exchange positions of the Fund should be taken into account. Authorised Persons may rely on third party reporting of the foreign exchange position of the Fund, where the correctness of this report is adequately ensured. If an Authorised Person is not aware of the foreign exchange positions of a Fund, this position should be carved out of the model and treated separately;
+
+c.
+
+the model should use a separate risk factor at least for each of the equity markets in which the Authorised Person holds significant positions. At a minimum, this will include a risk factor that is designed to capture market-wide movements in equity prices, for example, a market index. Positions in individual Securities or in sector indices could be expressed in "beta-equivalents" relative to this market-wide index. A relatively more detailed approach would be to have risk factors corresponding to various sectors of the overall equity market, for instance, industry sectors or cyclical and non-cyclical sectors. The most extensive approach would be to have risk factors corresponding to the volatility of individual equity issues;
+
+d.
+
+the model should use a separate risk factor at least for each commodity in which the Authorised Person holds significant positions. The model must also capture the risk of less than perfectly identical, correlated movements between similar, but not commodities and the Exposure to changes in forward prices arising from Maturity Mismatches. It should also take account of market characteristics, notably delivery dates and the scope provided to traders to close out positions; For more actively traded portfolios, the model should also take account of variation in the "convenience yield" between Derivative positions such as forwards and swaps and cash positions in the commodity; and
+
+e.
+
+the Authorised Person's internal model should conservatively assess the risk arising from less liquid positions and positions with limited price transparency under realistic market scenarios. In addition, the internal model should meet minimum data standards. Proxies should be appropriately conservative and should be used only where available data is insufficient or is not reflective of the true volatility of a position or portfolio.
+
+Authorised Persons may, in any internal model used for purposes of Chapter 5, use empirical correlations within risk categories and across risk if the Authorised Person's approach for measuring categories only correlations is sound and implemented with integrity.
+
+376
+
+PRU VER17.290725
+
+Quantitative standards
+
+7.
+
+The Regulator will usually only approve an internal Value-at-Risk (VaR) model or its use when the VaR model meets the following quantitative criteria:
+
+a.
+
+VaR should be computed at least on a daily basis;
+
+b.
+
+in calculating confidence interval is to be used;
+
+the value-at-risk, a 99th percentile, one-tailed
+
+c.
+
+in calculating VaR, an instantaneous price shock equivalent to a 10 day movement in prices is to be used, i.e., the minimum "holding period" will be ten trading days;
+
+d.
+
+an effective historical observation period of at least one year except where a shorter observation period is justified by a significant upsurge in price volatility; and
+
+e.
+
+its data set is updated by the Authorised Person no less frequently than once every month and is reassessed whenever market prices are subject to material changes.
+
+8.
+
+An Authorised Person may use VaR numbers calculated according to shorter holding periods than ten days scaled up to ten days by an appropriate methodology that is reviewed periodically.
+
+Qualitative standards
+
+9.
+
+In addition to the standards outlined under 7 and 8:
+
+a.
+
+no particular type of model is prescribed. So long as each model used captures all the material risks run by the Authorised Person, the Authorised Person will be free to use models based, for example, on variance-covariance matrices, historical simulations, or Monte Carlo simulations;
+
+b.
+
+an Authorised Person will have discretion to recognise empirical correlations within broad risk categories, for example, interest rates, exchange rates, equity prices and commodity prices, including related Options volatilities in each

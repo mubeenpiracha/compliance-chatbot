@@ -1,0 +1,165 @@
+ orders, for example, by executing such orders at the same price as transparent orders; and
+
+e.
+
+whether there is adequate disclosure of details relating to dark orders available to members and other participants on the facility to enable them to understand the manner in which their orders will be handled and executed on the facility.
+
+5.
+
+Dark orders are orders executed on execution platforms without pre-trade transparency.
+
+Post-trade transparency requirements
+
+(1)
+
+An ATS Operator must disclose the information specified in (2) in the manner prescribed in (3).
+
+(2)
+
+The information required to be disclosed pursuant to (1) is the price, volume and time of the transactions executed in respect of Investments or Crypto Tokens.
+
+(3)
+
+The information referred to in (2) must be made available to the public as close to real-time as is technically possible on reasonable commercial terms and on a non-discretionary basis.
+
+Guidance
+
+An ATS Operator should use adequate mechanism to enable post-trade information to be made available to the public in an easy to access and uninterrupted manner at least during business hours. An ATS Operator may charge a reasonable fee for the information which it makes available to the public.
+
+116
+
+COB/VER48/03-25
+
+9.6.4
+
+9.6.5
+
+CONDUCT OF BUSINESS (COB)
+
+Volatility controls
+
+(1)
+
+An ATS Operator’s Operating Rules must include effective systems, controls and procedures to ensure that its trading systems:
+
+(a)
+
+are resilient;
+
+(b)
+
+have adequate capacity to deal with peak orders and message volumes; and
+
+(c)
+
+are able to operate in an orderly manner under conditions of market stress.
+
+(2) Without limiting the generality of its obligations arising under (1) or any other Rule, an ATS Operator must be able under its rules, systems, controls and procedures to:
+
+(a)
+
+reject orders that exceed its pre-determined volume and price thresholds, or are clearly erroneous;
+
+(b)
+
+temporarily halt trading of Investments or Crypto Tokens traded on its facility if there is a significant price movement in relation to those Investments or Crypto Tokens on its market or a related market during a short period; and
+
+(c)
+
+where appropriate, cancel, vary or correct any transaction.
+
+Guidance
+
+An ATS Operator should test its trading systems to ensure that they are resilient and capable of operating orderly trading under conditions of market stress and other contingencies.
+
+Error Trade policy
+
+(1)
+
+An ATS Operator must be able to cancel, amend or correct any error trades.
+
+(2)
+
+An “Error Trade” is the execution of an order resulting from:
+
+(a)
+
+an erroneous order entry;
+
+(b) malfunctioning of the system of a member or of the ATS Operator;
+
+or
+
+(c)
+
+a combination of (a) and (b).
+
+(3)
+
+For the purposes of (1), an ATS Operator must include a comprehensive error trade policy in its Operating Rules, which sets out clearly the extent to which transactions can be cancelled by it at its sole discretion, at the request of a member or by mutual consent of members involved.
+
+(4)
+
+An ATS Operator must have adequate systems and controls to:
+
+117
+
+COB/VER48/03-25
+
+9.6.6
+
+CONDUCT OF BUSINESS (COB)
+
+(a)
+
+prevent or minimise error trades;
+
+(b)
+
+promptly identify and rectify error trades where they occur; and
+
+(c)
+
+identify whether error trades are related to disorderly market activity.
+
+Guidance
+
+When assessing whether an ATS Operator has an appropriate and adequate error trade policy, the DFSA will consider whether the rules and procedures included in its Operating Rules:
+
+a.
+
+are adequate to minimise the impact of error trades where prevention of such trades is not possible;
+
+b.
+
+are sufficiently flexible in the design to address varying scenarios;
+
+c.
+
+establish a predictable and timely process for dealing with Error Trades, including measures specifically designed to detect and identify Error Trade messages to market users;
+
+d.
+
+promote transparency to market users with regard to any cancellation decisions involving material transactions resulting from the invocation of the Error Trade policy;
+
+e.
+
+include adequate surveillance conducted in the markets to detect Error Trades;
+
+f.
+
+promote predictability, fairness and consistency of actions taken under the Error Trade policy; and
+
+g.
+
+enable sharing of information with other markets when possible concerning the cancellation of trades.
+
+Short Selling
+
+(1)
+
+An ATS Operator must have in place effective systems, controls and procedures to monitor and manage:
+
+(a)
+
+Short Selling in Securities or Crypto Tokens; and

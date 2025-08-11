@@ -1,0 +1,113 @@
+ insurance contracts, definition of the units to which they are linked, and a description of the underlying assets;
+
+(d)
+
+the basis of any projections included in the information; and
+
+(e)
+
+any facts that are material to the decision to invest, including any risks associated with the investment and factors that may adversely affect the performance of the investments.
+
+Guidance
+
+An Authorised Firm can only advise on Long-Term Insurance, or arrange Long-Term Insurance, if it has an authorisation for the Financial Services in GEN Rule 2.9.1 or GEN Rule 2.11.1, as is relevant.
+
+6.16 Restricted Speculative Investments
+
+Application
+
+6.16.1 The Rules in this section apply to an Authorised Firm which carries on or intends to
+
+carry on:
+
+(a) Dealing in Investments as Principal;
+
+(b) Dealing in Investments as Agent;
+
+(c) Arranging Deals in Investments; or
+
+(d) Advising on Financial Products;
+
+62
+
+COB/VER48/03-25
+
+6.16.2
+
+CONDUCT OF BUSINESS (COB)
+
+in relation to a Restricted Speculative Investment.
+
+Guidance
+
+In addition to the requirements in this section that apply to an Authorised Firm carrying on certain activities in relation to a Restricted Speculative Investments:
+
+(a)
+
+a person who makes a Financial Promotion relating to a Restricted Speculative Investment is required to comply with the requirements in GEN Chapter 3 (Financial Promotions), including GEN Rule 3.5.3, which specifically relates to a Restricted Speculative Investment; and
+
+(b)
+
+a Representative Office carrying on marketing activities relating to a Restricted Speculative Investment is required to comply with the requirements in the REP module, including REP Rule 4.10.1, which relates to the marketing of a Restricted Speculative Investment.
+
+Interpretation
+
+In this section:
+
+(a)
+
+“contract for differences (CFD)” means an instrument that falls within paragraph (b)(ii) of the definition of a Future in GEN Rule A2.3.1, other than a rolling spot forex contract;
+
+(b)
+
+“Deal in a Restricted Speculative Investment” means Deal in Investments as Principal in relation to a Restricted Speculative Investment;
+
+(c)
+
+“Margin” means the pre-agreed amount a Retail Client is required to pay in the form of money to open a position in relation to a Restricted Speculative Investment;
+
+(d)
+
+“over-the-counter Derivative” means an instrument that is not formed or traded on an Exchange or a Regulated Exchange;
+
+(e)
+
+“Restricted Speculative Investment” means an over-the-counter Derivative which is:
+
+(i)
+
+a leveraged contract for differences;
+
+(ii)
+
+a leveraged rolling spot forex contract;
+
+(iii)
+
+an Option over a contract referred to in (i) or (ii); or
+
+(iv)
+
+any other leveraged Investment similar in nature to an instrument referred to in (i), (ii) or (iii); and
+
+(f)
+
+“rolling spot forex contract” means an instrument that falls within paragraph (b)(ii) of the definition of a Future in GEN Rule A2.3.1 where the value of the contract is ultimately determined by reference, wholly or in part, to fluctuations in an exchange rate or the value of a currency.
+
+Guidance
+
+1. A Margin cannot be paid by a Retail Client through arrangements such as set-off or using credit cards (see Rule 6.16.10).
+
+2. For the purposes of the definition of Restricted Speculative Investment, the term ‘leverage’ refers to a person’s exposure (potential gain or loss) being multiple times the gain or loss based on the
+
+63
+
+COB/VER48/03-25
+
+CONDUCT OF BUSINESS (COB)
+
+actual value, price or level of an underlying reference factor referred to in the Derivative contract.
+
+3. The types of Derivatives which fall within the definition of a Restricted Speculative Investment may have labels such as ‘turbo certificates’, ‘knock out options’ and ‘delta options’. Where a contract has similar features to the contracts listed in Rule 6.16.2(e)(i), (ii) or (iii), it will also be subject to the requirements of this section (if offered or marketed to a Retail Client). In determining whether a contract is a Restricted Speculative Investment, the DFSA will look at the substance of an arrangement, as opposed to its mere form.
+
+4. Restricted Spec

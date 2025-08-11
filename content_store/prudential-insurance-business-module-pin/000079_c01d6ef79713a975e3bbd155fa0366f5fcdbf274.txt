@@ -1,0 +1,63 @@
+ Returns are provided in PRU.
+
+4.
+
+This appendix sets out some matters relating to content and presentation of the information contained in the Returns. Further guidance in relation to the preparation and submission of the Returns is provided in PRU and the DFSA’s electronic prudential reporting system.
+
+A10.2 Completion of forms for global, cell, fund and DIFC business
+
+reporting units
+
+Guidance
+
+Separate Returns are completed for Insurers’ entire business, and for those parts of the business that are subject to separate capital adequacy requirements, namely Cells, Long-Term Insurance Funds, and DIFC business. These parts, and the entire business, are described as ‘reporting units’ because a Return is required for each. An Insurer may therefore have to submit more than one set of Returns.
+
+A10.2.1 A Return must be completed in respect of each of the reporting units set out in this
+
+section that applies to the Insurer.
+
+A10.2.2 There are three types of reporting units in respect of which an Insurer may be required to submit a Return. These are referred to in this appendix and the forms as the Cell reporting unit, the fund reporting unit and the DIFC business reporting unit. The Returns in respect of these reporting units are referred to respectively in this appendix and the forms as the Cell Return, the Fund Return and the DIFC Business Return.
+
+A10.2.3 [Deleted]
+
+A10.2.4 Except as provided otherwise in this appendix, an Insurer that is a Protected Cell Company must complete a Cell Return in respect of each Cell that it maintains. A Cell Return includes all of the assets, liabilities, equity, revenues and expenses attributable to the Cell, regardless of the residency status or location of the customer or of any asset or liability. An Insurer to which this Rule applies is not required to complete a Quarterly Regulatory Return in respect of any Cells maintained by it that are Captive Cells.
+
+115
+
+PIN/VER18/04-23
+
+PRUDENTIAL – INSURANCE BUSINESS (PIN)
+
+A10.2.5 Except as provided otherwise in this appendix, an Insurer that maintains a Long- Term Insurance Fund must complete a Fund Return in respect of each Long-Term Insurance Fund that it maintains. A Fund Return includes all of the assets, liabilities, revenues and expenses attributable to the Fund, regardless of the residency status or location of the customer or of any asset or liability. An Insurer to which this Rule applies is not required to complete a Fund Return where a Cell of the Insurer is deemed to constitute a single, Long-Term Insurance Fund, such that the information contained in the Fund Return would be identical to that in the Cell Return.
+
+Guidance
+
+A10.2.5 operates to prevent the preparation of duplicate Returns. However, where under this section an Insurer or a Cell is exempt from the requirement to prepare a Quarterly Regulatory Return because of its captive status, the Fund Quarterly Regulatory Return would not be identical and must still be prepared.
+
+A10.2.6 An Insurer that is not a DIFC Incorporated Insurer must complete a DIFC Business
+
+Return. A DIFC Business Return has the following characteristics:
+
+(a)
+
+it includes only liabilities that are Insurance Liabilities of the Insurer in respect of its DIFC Insurance Business and assets that are associated with those Insurance Liabilities; and
+
+(b)
+
+revenues and expenses must be included only to the extent that they are attributable to the Insurer’s DIFC Insurance Business.
+
+Guidance
+
+The assets that are associated with Insurance Liabilities normally include only reinsurance and other recoveries in respect of claims, whether or not incurred, included in Insurance Liabilities. The DIFC Business Return does not include assets such as investments, fixed assets, or receivables other than reinsurance recoveries in respect of Insurance Liabilities.
+
+A10.3 Content of Returns
+
+A10.3.1 (1) The Annual Regulatory Return and Quarterly Regulatory Return comprises the forms in Table 1 to this Rule, together with the Supplementary Notes pertaining to those forms and the Statement by Directors referred to in Section A10.5.
+
+(2)
+
+In Table 1:
+
+(a)
+
+the column headed ‘DIFC Incorporated Insurer’ indicates the relevant forms that must be prepared and submitted by an Insurer that is a DIFC Incorporated Ins

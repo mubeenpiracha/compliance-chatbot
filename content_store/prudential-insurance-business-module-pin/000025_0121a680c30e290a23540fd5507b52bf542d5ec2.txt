@@ -1,0 +1,99 @@
+2 or 7.3 must make arrangements to enable the Actuary to undertake his functions, and in particular must:
+
+(a)
+
+keep the Actuary informed of the Insurer’s business and other plans;
+
+(b)
+
+ensure that the Actuary is fully informed of the Rules in PIN applicable to the Insurer, as well as any other information that the DFSA has provided to the Insurer that may assist the Actuary in performing his duties; and
+
+(c)
+
+ensure that the Actuary has access at appropriate times to all relevant data and people which the Actuary reasonably believes is necessary to fulfil his obligations to the Insurer in respect of this chapter.
+
+34
+
+PIN/VER18/04-23
+
+PRUDENTIAL – INSURANCE BUSINESS (PIN)
+
+7.4.3
+
+The Insurer must submit the reports referred to in section 7.2 and section 7.3 to the DFSA, at the same time as it submits its Annual Regulatory Return for the reporting period ended on the reporting date.
+
+7.4.4 Where an Insurer is not a DIFC Incorporated Insurer, a report prepared under section 7.2 or 7.3 must deal separately with the DIFC Insurance Business of the Insurer, and the Insurance Business of the Insurer as a whole.
+
+7.4.5
+
+Abbreviated details may be provided in a report prepared under the requirements of this chapter in respect of a Class of Business that is not material.
+
+Guidance
+
+For the purposes of Rule 7.4.5, a Class of Business that accounts for less than ten per cent of the Insurer’s Net Written Premium in the reporting period ended on the reporting date and that accounts for less than ten per cent of the Insurer’s Insurance Liabilities as at the reporting date, will normally be considered immaterial.
+
+7.5
+
+Qualifications of the actuary
+
+7.5.1
+
+An Actuary appointed to provide an actuarial report under this chapter must:
+
+(a)
+
+have experience in the determination of liabilities in the Classes of Business dealt with in the actuarial report; and
+
+(b)
+
+have the required skill and experience to perform his functions under the DIFC regulatory system.
+
+Guidance
+
+The Rules do not require an Insurer to use the same Actuary for all reports. An Insurer may provide separate reports, prepared by more than one Actuary, where the Insurer undertakes different Classes of Business, provided that each Actuary is appropriately qualified for the Classes of Business on which he reports. Similarly, an Insurer may appoint different Actuaries, each appropriately qualified, to provide reports in respect of Insurance Business conducted in or in respect of different geographical locations, for example DIFC Insurance Business and other Insurance Business.
+
+7.5.2
+
+An Insurer must notify the DFSA in writing of the name, professional qualifications and relevant experience of each person that the Insurer proposes to appoint to provide an actuarial report under this chapter.
+
+7.5.3
+
+The DFSA may, if it does not believe that the Actuary proposed by the Insurer possesses the qualifications set out in Rule 7.5.1, notify the Insurer in writing that another Actuary must be appointed.
+
+7.5.4
+
+An Insurer must notify the DFSA immediately on the termination or resignation of its Actuary, giving the reasons for such termination or resignation.
+
+35
+
+PIN/VER18/04-23
+
+PRUDENTIAL – INSURANCE BUSINESS (PIN)
+
+8
+
+CONSOLIDATED SUPERVISION
+
+8.1
+
+Introduction
+
+8.1.1
+
+This chapter applies to all Insurers, except for Rule 8.5.1 which applies only to DIFC Incorporated Insurers.
+
+Guidance
+
+1.
+
+Group membership may be a source of both strength and weakness to an Insurer. The purpose of Group Risk requirements is to ensure that an Insurer takes proper account of the risks related to the Insurer’s membership of a Group. The Group Risk requirements form a key part of the DFSA's overall approach to prudential supervision.
+
+2.
+
+An Insurer is subject to separate reporting requirements in respect of changes in its Controllers. Those requirements are set out in chapter 11 of GEN. It may also be required to provide reports in respect of any Close Links it possesses.
+
+8.1.2
+
+(1)
+
+If an Ins

@@ -1,0 +1,132 @@
+ an early warning system and subsequent public disclosure is triggered relating to foreign ownership restrictions. Such thresholds should be set at intervals/levels, taking into account the patterns of trading in the relevant Investments and other factors which enable the Exchange to take preventative measures before the breaches occur.
+
+Liquidity incentive schemes
+
+(1)
+
+An Exchange must not introduce a liquidity incentive scheme unless:
+
+(a)
+
+participation in such a scheme is limited to:
+
+(i)
+
+a Member of the Exchange; or
+
+(ii)
+
+any other Person where:
+
+(A)
+
+the Exchange has undertaken due diligence to ensure that the Person is of sufficient good repute and and organisational arrangements; and
+
+has
+
+adequate
+
+competencies
+
+(B)
+
+the Person has agreed in writing to comply with the Business Rules of the Exchange so far as those rules are applicable to that Person’s activities; and
+
+(b)
+
+it has obtained the DFSA’s prior written approval for the scheme.
+
+(2)
+
+For the purposes of this section, a liquidity incentive scheme means an arrangement designed to provide liquidity in the market or in relation to a particular Investment or class of Investments.
+
+(3)
+
+An Exchange must, at least 10 business days prior to the introduction of a liquidity incentive scheme referred to in (1), lodge with the DFSA a notification containing:
+
+(a)
+
+the details of the relevant scheme;
+
+(b)
+
+the benefits to the Exchange and its Members and other users resulting from the scheme;
+
+(c)
+
+a certification by it that the requirements in (1)(a) have been fully met; and
+
+(d)
+
+the date on which the scheme is intended to become operative.
+
+(4)
+
+The DFSA will, within 10 business days of receiving the notification referred to in (3), approve the proposed liquidity incentive scheme unless it has reasonable grounds to believe that the introduction of the scheme is reasonably likely to be detrimental to the existence of Proper Markets.
+
+67
+
+AMI/VER28/03-25
+
+6.10
+
+6.10.1
+
+AUTHORISED MARKET INSTITUTIONS (AMI)
+
+Where the DFSA does not approve the proposed liquidity incentive scheme, it will notify the Exchange of its objections to the introduction of the proposed liquidity incentive scheme, and its reasons for that decision.
+
+(5)
+
+If the DFSA decides to exercise its power under (4) not to approve a proposed liquidity incentive scheme, the Exchange may refer the matter to the FMT for review.
+
+(6)
+
+An Exchange must, as soon as practicable, announce the introduction of the liquidity incentive scheme, including the date on which it becomes operative and any other relevant information.
+
+Guidance
+
+1.
+
+Examples of liquidity incentive schemes are arrangements under which an Exchange offers to market makers rebates, stipends, waivers of membership or transaction fees and other financial incentives, including payments for routing order flows or other forms of soft dollar benefits.
+
+2.
+
+The period of 10 business days referred to in Rule 6.9.1(4) will commence to run from the date on which all the information relating to the liquidity incentive scheme as specified in Rule 6.9.1(3) has been provided to the DFSA.
+
+3.
+
+For the purposes of certifying that a Person meets the criteria set out in Rule 6.9.1(a)(ii), an Exchange should undertake:
+
+a.
+
+a verification of the identity of the relevant Person and its beneficial owners and directors for the purposes of applicable AML requirements;
+
+b.
+
+an assessment of the character and good standing, as well as the knowledge, experience and skills, of the Person and its directors and relevant Employees; and
+
+c.
+
+the adequacy of the control framework created by the Person in respect of the liquidity incentive scheme to ensure that trading occurs in accordance with the Business Rules of the Exchange.
+
+4.
+
+An Exchange is not required, pursuant to Rule 6.9.1(6), to make public disclosure of any details about the liquidity incentive scheme where such information is reasonably regarded as commercially sensitive information. However, is should make such disclosure as it deems appropriate to keep its market well informed about the introduction of the scheme.
+
+Clearing and settlement arrangements
+
+An Exchange must:
+
+(a)
+
+ensure that there are satisfactory arrangements in place for securing the timely discharge of the rights and liabilities of the parties to transactions conducted on or through its facilities; and
+
+(b)
+
+inform its Members and other participants of the arrangements referred to in (a).
+
+68
+
+AMI/VER28/03-25
+

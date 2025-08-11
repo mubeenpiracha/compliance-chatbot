@@ -1,0 +1,105 @@
+ for, and the overall value proposition of, the Crypto Token. It also commonly outlines a development roadmap for the Crypto Token and the key milestones the developers expect to meet.
+
+2.
+
+An Authorised Market Institution is not required to publish or make available a white paper for a Crypto Token, however, if it decides to do so it must ensure that the requirements in Rule 5B.4.2 are met.
+
+Ongoing information
+
+(1)
+
+An Authorised Market Institution must take reasonable steps to ensure that accurate and up-to-date information is made available about Crypto Tokens traded on an MTF it operates so that users of the MTF are able to make informed decisions about trading in the Crypto Tokens.
+
+(2) Without limiting the generality of (1), the Authorised Market Institution must as a minimum ensure the following information is readily available for each Crypto Token:
+
+51
+
+AMI/VER28/03-25
+
+5B.4.4
+
+AUTHORISED MARKET INSTITUTIONS (AMI)
+
+(a)
+
+the total number, and market capitalisation, of the Crypto Tokens traded globally;
+
+(b)
+
+whether the supply of the Crypto Tokens is set to increase or decrease according to a pre-defined path;
+
+(c)
+
+details of any inflationary or deflationary mechanisms that are to be used, such as the issuing or burning of Crypto Tokens (other than through the normal mining process);
+
+(d)
+
+the total number of the Crypto Tokens held by the developers or issuer of the Crypto Token, held in reserve for rewards or other promotional purposes or otherwise locked away from the total supply of the Crypto Tokens;
+
+(e)
+
+a breakdown of the largest holders of the Crypto Tokens, in particular holders of 10% or more of the total supply of the Crypto Tokens; and
+
+(f)
+
+in the case of a Fiat Crypto Token, details about the reserves backing the Fiat Crypto Token and the stabilisation and redemption mechanisms.
+
+(3)
+
+Under (2)(e), an Authorised Market Institution is not required to disclose the identity of the holder if it has identified that a Person holds 10% or more of the Crypto Tokens but after taking reasonable steps has not been able to establish the holder’s identity.
+
+Guidance
+
+1.
+
+To make an informed decision about whether to buy or sell a Crypto Token traded on a MTF, users need accurate and up-to-date information about matters that may affect the price of the Crypto Token. As there is no Reporting Entity for a Crypto Token, the Authorised Market Institution is responsible for ensuring that adequate ongoing information about the Crypto Token is available.
+
+2.
+
+Ongoing information may be published by the Authorised Market Institution on its website, or the Authorised Market Institution may provide links on its website to a site where the information can be found. If the Authorised Market Institution provides links to the information, the links should take a user directly to the relevant information and the site should contain reliable information.
+
+3.
+
+Under Rule 5B.4.3(2)(e) and (3), an Authorised Market Institution is required to disclose that a person has a significant holding even if it is not reasonably able to establish their identity.
+
+4.
+
+Information made available under Rule 5B.4.3(2)(f) should include details about the value and composition of the reserves backing the Fiat Crypto Token, where and how the reserves are held, whether a recent audit has been undertaken and the results of the audit and how the redemption mechanism works.
+
+Risk Warnings
+
+(1)
+
+An Authorised Market Institution that operates a MTF that trades Crypto Tokens must display prominently on its website the following risk warnings relating to Crypto Tokens:
+
+52
+
+AMI/VER28/03-25
+
+AUTHORISED MARKET INSTITUTIONS (AMI)
+
+(a)
+
+that Crypto Tokens are subject to extreme volatility and the value of the Crypto Token can fall as quickly as it can rise;
+
+(b)
+
+that an investor in Crypto Tokens may lose all, or part, of their money;
+
+(c)
+
+that Crypto Tokens may not always be liquid or transferable;
+
+(d)
+
+that investments in Crypto Tokens may be complex making it hard to understand the risks with buying, selling, holding or lending them;
+
+(e)
+
+that Crypto Tokens can be stolen because of cyber attacks; and
+
+(f)
+
+that investing in, and holding, Crypto Tokens is not comparable to investing in traditional investments such as Securities.
+
+(2) Where an Authorised Market Institution presents any marketing or educational materials and other communications

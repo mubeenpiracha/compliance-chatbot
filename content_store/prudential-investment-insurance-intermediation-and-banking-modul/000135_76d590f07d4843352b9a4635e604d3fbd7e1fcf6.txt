@@ -1,0 +1,107 @@
+ subject to a legal or constructive limitation on their transferability, whether that transfer would be made by dividend, return of capital or other form of distribution. Examples of relevant limitations might include obligations to maintain minimum Capital Requirements to meet domestic solvency requirements, or to comply with debt covenants.
+
+8.3.6 Deductions for Qualifying Holdings under section 3.17 may be calculated based on
+
+the Group’s total T1 and T2 Capital.
+
+8.4
+
+Financial Group Concentration Risk limits
+
+8.4.1
+
+An Authorised Firm in Category 1, 2 (other than a Matched Principal) or 5 must ensure that its Financial Group Exposure, including the Financial Group’s PSIAu’s, to a Counterparty or group of Closely Related Counterparties does not exceed 25% of its Group’s Tier 1 Capital.
+
+8.4.2
+
+An Authorised Firm in Category 1, 2 (other than a Matched Principal) or 5 must ensure that the sum of its Financial Group Large Exposures, including the Financial Group’s PSIAu’s, to a Counterparty or group of Closely Related Counterparties does not exceed 800% of its Financial Group’s Tier 1 Capital.
+
+8.5
+
+Restrictions on ownership or control
+
+Guidance
+
+By Rule 8.1.1(1), this section applies to an Authorised Firm in any Category.
+
+Parents of Category 1 and 5 Authorised Firms
+
+8.5.1
+
+(1)
+
+No entity other than one of the following may be the Parent of, or any of the Parents of, an Authorised Firm in Category 1 or 5:
+
+(a) another Authorised Firm in Category 1 or 5; or
+
+(b) a Regulated Financial Institution licensed to carry on the activities of
+
+accepting deposits.
+
+(2)
+
+An entity other than one referred to in (1)(a) or (b) may be the Parent of an Authorised Firm in Category 1 or 5 where the ultimate, or any intermediate, Parent is an entity of the type specified under 1(a) or (b).
+
+Restrictions on Category 2, 3A, 3B, 3C, 3D and 4 Authorised Firms
+
+8.5.2
+
+(1)
+
+An Authorised Firm in Category 2 (if it meets the definition of Matched Principal), 3A, 3B, 3C, 3D or 4 must not, subject to (2), be a Parent of an entity that:
+
+(a)
+
+is an Authorised Firm in Category 1 or 5 or an Insurer; or
+
+202
+
+PIB/VER50/07-25
+
+(2)
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+(b)
+
+carries on activities that would, if conducted in the DIFC, constitute Accepting Deposits, Managing a PSIA which is a PSIAu, or Effecting or Carrying out Contracts of Insurance.
+
+An Authorised Firm in Category 2 (if it meets the definition of Matched Principal), 3A, 3B, 3C, 3D or 4 may own or control an entity referred to in (1) where it is itself a Subsidiary of:
+
+(a) a Regulated Financial Institution licensed to carry on any one or more
+
+of the activities specified in (1)(b); or
+
+(b) an Authorised Firm in Category 1 or 5 or an Insurer.
+
+203
+
+PIB/VER50/07-25
+
+9
+
+9.1
+
+9.1.1
+
+9.2
+
+9.2.1
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+LIQUIDITY RISK
+
+Introduction
+
+Guidance
+
+1.
+
+This chapter deals with management of Liquidity Risk by an Authorised Firm. Liquidity Risk refers to the risk of potential losses incurred by an Authorised Firm’s failure to have liquid assets to ensure payment of all its liabilities as they fall due and be in a position to meet all payments required to sustain its business on a planned growth path.
+
+2.
+
+This chapter requires an Authorised Firm to:
+
+a

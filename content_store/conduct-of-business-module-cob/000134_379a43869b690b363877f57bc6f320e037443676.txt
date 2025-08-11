@@ -1,0 +1,147 @@
+ will be subject to the DFSA’s Client Money Distribution Rules;
+
+(c)
+
+whether interest is payable to the Client and, if so, on what terms;
+
+(d)
+
+if applicable, that the Client Money may be held in a jurisdiction outside the DIFC and the market practices, insolvency and legal regime applicable in that jurisdiction may differ from the regime applicable in the DIFC;
+
+(e)
+
+if applicable, details about how any Client Money arising out of Islamic Financial Business are to be held;
+
+211
+
+COB/VER48/03-25
+
+CONDUCT OF BUSINESS (COB)
+
+(f)
+
+if applicable, that the Authorised Firm holds or intends to hold the Client Money in a Client Account with a Third Party Agent which is in the same Group as the Authorised Firm; and
+
+(g)
+
+details of any rights which the Authorised Firm may have to realise Client Money held on behalf of the Client in satisfaction of a default by the Client or otherwise, and of any rights which the Authorised Firm may have to close out or liquidate contracts or positions in respect of any of the Client’s Investments or Crypto Tokens.
+
+A5.10 Client reporting
+
+A5.10.1 (1)
+
+In relation to a Client to whom the Client Money Provisions are applicable, an Authorised Firm must send a statement to a Retail Client at least monthly or in the case of a Professional Client, at other intervals as agreed in writing with the Professional Client.
+
+(2)
+
+The statement must include:
+
+(a)
+
+the Client’s total Client Money balances held by the Authorised Firm reported in the currency in which the Client Money is held, or the relevant exchange rate if not reported in the currency in which the Money is held;
+
+(b)
+
+the amount, date and value of each credit and debit paid into and out of the account since the previous statement; and
+
+(c)
+
+any interest earned or charged on the Client Account since the previous statement.
+
+(3)
+
+The statement sent to the Client must be prepared within 25 days of the statement date.
+
+A5.11 Reconciliation
+
+A5.11.1 (1)
+
+An Authorised Firm must, except as provided for in (5), maintain a system to ensure that accurate reconciliations of the Client Accounts are carried out at least every 25 days.
+
+(2)
+
+The reconciliation must include:
+
+(a)
+
+a full list of individual Segregated Client credit ledger balances, as recorded by the Authorised Firm;
+
+(b)
+
+a full list of individual Segregated Client debit ledger balances, as recorded by the Authorised Firm;
+
+(c)
+
+a full list of unpresented cheques and outstanding lodgements;
+
+(d)
+
+a full list of Client Account cash book balances; and
+
+212
+
+COB/VER48/03-25
+
+CONDUCT OF BUSINESS (COB)
+
+(e)
+
+formal statements from Third Party Agents showing account balances as at the date of reconciliation.
+
+(3)
+
+An Authorised Firm must:
+
+(a)
+
+reconcile the individual credit ledger balances, Client Account cash book balances, and the Third Party Agent Client Account balances;
+
+(b)
+
+check that the balance in the Client Accounts as at the close of business on the previous day was at least equal to the aggregate balance of individual credit ledger balances as at the close of business on the previous day; and
+
+(c)
+
+ensure that all shortfalls, excess balances and unresolved differences, other than differences arising solely as a result of timing differences between the accounting systems of the Third Party Agent and the Authorised Firm, are investigated and, where applicable, corrective action taken as soon as possible.
+
+(4)
+
+An Authorised Firm must, except as provided for in (5), perform the reconciliations in (3) within 10 days of the date to which the reconciliation relates.
+
+(5)
+
+For an Authorised Firm that Provides Money Services:
+
+(a)
+
+the system that accurate reconciliations of the Client Accounts are carried out at least daily; and
+
+referred
+
+to
+
+in (1) must ensure
+
+(b)
+
+the reconciliations referred to in (3) must be performed at least daily.
+
+Guidance
+
+When performing the reconciliations, an Authorised Firm should:
+
+a.
+
+include in the credit ledger balances:
+
+i.
+
+unallocated Client Money;
+
+ii.
+
+dividends received and interest earned and allocated;
+
+iii.
+
+sale proceeds which have been received by the Authorised Firm and the Client has delivered the Investments or Crypto Tokens or the Authorised

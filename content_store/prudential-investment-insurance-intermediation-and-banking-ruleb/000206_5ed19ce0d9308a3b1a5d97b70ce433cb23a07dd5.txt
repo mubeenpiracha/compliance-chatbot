@@ -1,0 +1,113 @@
+ impact" must be calculated as:
+
+Gamma impact = ½ x Gamma x VU²
+
+where VU = Variation of the underlying instrument of the Option;
+
+(b)
+
+VU must be calculated as follows:
+
+(i)
+
+for interest rate Options if the underlying instrument is a bond, the market value of the underlying instrument should be multiplied by the risk weights set out in Section 5.4 for the underlying instrument. An equivalent calculation should be carried out where the underlying instrument is an interest rate, again based on the assumed changes in the corresponding yield in Rule A6.2.16;
+
+(ii)
+
+for Options on equities and equity indices, the market value of the underlying instrument should be multiplied by 8%;
+
+(iii)
+
+for foreign exchange and gold Options, the market value of the underlying instrument should be multiplied by 8%; and
+
+(iv)
+
+for Options on commodities, the market value of the underlying instrument should be multiplied by 15%; and
+
+(c)
+
+for the purpose of this calculation the following positions must be treated as the same underlying instrument:
+
+(i)
+
+for interest rates, each timeband as set out in Rule A6.2.16;
+
+(ii)
+
+for equities and stock indices, each national market;
+
+(iii)
+
+for foreign currencies and gold, each currency pair and gold; and
+
+(iv)
+
+for commodities, positions in the same individual commodity as defined in Section A6.5 for Commodities Risk Capital Requirement.
+
+A6.6.9
+
+An Authorised Person must calculate its Capital Requirement for Gamma risk by:
+
+(a)
+
+calculating the net Gamma impact in respect of each underlying Financial Instrument or commodity by aggregating the individual Gamma impacts for each Option position in respect of that underlying Financial Instrument or commodity (which may be either positive or negative); and
+
+(b)
+
+aggregating the absolute value of the net Gamma impacts that are negative.
+
+362
+
+PRU VER17.290725
+
+Guidance
+
+1.
+
+The underlying Financial Instrument or commodity should be taken to be the asset which would be received if the Option were exercised. In addition, the notional value should be used for items where the market value of the underlying Financial Instrument or commodity could be zero (e.g. caps and floors, swaptions). Certain notional positions in zero-specific-risk Securities do not attract Specific Risk, e.g. interest rate and currency swaps, Forward Rate Agreement (FRA), forward foreign exchange contracts, interest rate Futures and Futures on an interest rate index. Similarly, Options on such zero-specific-risk Securities also bear no Specific Risk. For the purposes of this sub-paragraph:
+
+a.
+
+the specific and general risk weights in respect of Options on interest in accordance with rate-related Section A6.2;
+
+instruments are determined
+
+b.
+
+the specific and general risk weights in respect of Options on equities and equity indices are determined in accordance with Section A6.3;
+
+c.
+
+the risk weight in respect of foreign currency and gold Options is 8%; and
+
+d.
+
+the risk weight in respect of Options on commodities is 15%.
+
+For Options with a residual maturity of more than six months, the strike price should be compared with the forward, and not current, price. Where an Authorised Person is unable to do this, the in-the-money amount would be zero.
+
+2.
+
+An Authorised Person which trades in exotic Options (e.g. barriers, digitals) would use either the scenario approach or the Internal Models Approach (IMA) to calculate its Market Risk Capital Requirement for such Options, unless it is able to demonstrate to the Regulator that the Delta-plus method is appropriate. In the case of Options on Futures or forwards, the relevant underlying is that on which the Future or forward is based (e.g. for a bought call Option on a June 3-month bill Future, the relevant underlying is the 3-month bill).
+
+A6.6.10 An Authorised Person must calculate its Capital Requirement for Vega risk by:
+
+(a)
+
+multiplying the sum of the Vegas for all Option positions in respect of the same underlying Financial Instrument or commodity, as defined in the Rule 5.6.8(c), by a proportional shift in volatility of ±25%; and
+
+(b)
+
+aggregating the absolute value of the individual Capital Requirements which have been calculated for Vega risk.
+
+363
+
+PRU VER17.290725
+
+A6.7
+
+Collective Investment Fund Risk Capital Requirement
+
+Guidance
+
+This Section presents the method for

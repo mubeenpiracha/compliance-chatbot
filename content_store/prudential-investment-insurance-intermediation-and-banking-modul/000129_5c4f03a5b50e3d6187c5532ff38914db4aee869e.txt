@@ -1,0 +1,107 @@
+ 7.2.6, an Authorised Firm should consider the standards for stress testing recommended in the paper published by the Basel Committee for Banking Supervision – Principles for management and supervision of interest rate risk – in July 2004. In particular, an Authorised Firm should include the technical specifications of a standardised interest rate shock detailed in Annex 3 of that paper as part of its systems for measurement of interest rate risk in the Non-Trading Book.
+
+Non-Trading Book interest rate risk under chapter 10
+
+In order to meet effectively the obligations specified under chapter 10 of PIB, which includes the need to address Non-Trading Book interest rate risk, an Authorised Firm is required to make a written record of its assessments made under Rules specified in chapter 10.
+
+Guidance
+
+1.
+
+This chapter 7 does not impose an explicit Capital Requirement relating to interest rate risk. Rather, the DFSA may impose an Individual Capital Requirement (ICR) under chapter 10 where it is of the view that the Authorised Firm’s Capital Requirement is insufficient to address
+
+193
+
+PIB/VER50/07-25
+
+7.4
+
+7.4.1
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+adequately all its risks, and in particular its Exposure to interest rate risk in the Non-Trading Book.
+
+2.
+
+Sections 10.3 and 10.4 of chapter 10 require an Authorised Firm to submit IRAP and ICAAP assessments to the DFSA within 4 months of the end of the firm’s financial year. The provisions also require the firm to ensure the assessments are documented in writing and to retain the records for at least 6 years.
+
+3.
+
+An Authorised Firm’s record of its approach to evaluating and managing interest rate risk in its Non-Trading Book, as part of its ICAAP should cover the following issues:
+
+a.
+
+the internal definition of, and boundary between, "Non-Trading Book " and "trading activities" in accordance with chapter 2 and App2;
+
+b.
+
+the definition of economic value and its consistency with the method used to value assets and liabilities (e.g. discounted cashflows);
+
+c.
+
+the size and the form of the different shocks to be used for internal calculations;
+
+d.
+
+the use of a dynamic and / or static approach in the application of interest rate shocks;
+
+e.
+
+the treatment of commonly called "pipeline transactions" (including any related hedging);
+
+f.
+
+the aggregation of multi-currency interest rate Exposures;
+
+g.
+
+the inclusion (or not) of non-interest bearing assets and liabilities (including capital and reserves);
+
+h.
+
+the treatment of current and savings accounts (i.e. the maturity attached to Exposures without a contractual maturity);
+
+i.
+
+the treatment of fixed rate assets (liabilities) where customers still have a right to repay (withdraw) early;
+
+j.
+
+the extent to which sensitivities to small shocks can be scaled up on a linear basis without material loss of accuracy (i.e. covering both convexity generally and the non-linearity of pay-off associated with explicit option products);
+
+k.
+
+the degree of granularity employed (for example, offsets within a time bucket); and
+
+l.
+
+whether all future cash flows or only principal balances are included.
+
+Systems and controls for Non-Trading Book interest rate risk
+
+Non-Trading Book interest rate risk policy
+
+(1)
+
+An Authorised Firm must implement and maintain a policy which enables it to identify, assess, control and monitor its Non-Trading Book interest rate risk.
+
+(2)
+
+The policy must be documented and include an appropriate interest rate risk strategy as well as an enterprise-wide interest rate risk management framework appropriate to the nature, scale and complexity of its Non-Trading Book activities. The strategy and management framework must:
+
+194
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+(a) enable the Governing Body and senior management of the Authorised Firm to have an enterprise-wide view of interest rate risk as it applies to non-trading activities;
+
+(b)
+
+include a system for identifying and assessing Non-Trading Book interest rate risk and its sources;
+
+(c)
+
+include a process for the measurement and monitoring of Non-Trading Book interest rate risk, using robust and consistent methods which enable the Authorised Firm

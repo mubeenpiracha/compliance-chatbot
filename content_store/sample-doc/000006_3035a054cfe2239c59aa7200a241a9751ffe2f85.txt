@@ -1,0 +1,161 @@
+8
+
+(i)
+
+from a place of business in a Recognised Jurisdiction or a jurisdiction otherwise acceptable to the DFSA; and
+
+(ii)
+
+in accordance with any additional requirements prescribed by the DFSA for the purposes of this Article.
+
+21.
+
+Trustee
+
+(1)
+
+A person shall not act as a Trustee of a Domestic Fund which is an Investment Trust unless that person is either:
+
+(a)
+
+a body corporate which is an Authorised Firm with a Licence authorising it to act as a Trustee or to Provide Custody; or
+
+(b)
+
+a person regulated and supervised by a Financial Services Regulator in a Recognised Jurisdiction with respect to its custody or depository services.
+
+(2)
+
+A person does not breach the prohibition in Article 21(1) where that person acts under a sub-custody arrangement entered into between that person and a person referred to in Article 21(1)(a) or (b).
+
+Chapter 2: Duties and functions
+
+22.
+
+Fund Manager’s general duties and functions
+
+(1)
+
+A Fund Manager of a Domestic Fund shall:
+
+(a)
+
+manage the Fund including the Fund Property in accordance with the Fund’s Constitution and its most recent Prospectus;
+
+(b)
+
+perform the functions conferred on it by the Fund’s Constitution and by or under this Law;
+
+(c)
+
+comply with any conditions or restrictions imposed by the DFSA including those on its Licence or in respect of the Fund; and
+
+(d)
+
+comply with any requirements or limitations imposed under this Law or Rules made for the purposes of this Law including any limits relating to financial interests it or any of its associates may hold in a Fund, for which it acts as the appointed Fund Manager.
+
+(2)
+
+In exercising its powers and carrying out its duties, a Fund Manager shall:
+
+(a)
+
+act honestly;
+
+(b)
+
+exercise the degree of care and diligence that a reasonable person would exercise if he were in the Fund Manager’s position;
+
+(c)
+
+act in the best interests of the Unitholders and, if there is a conflict between the Unitholders’ interests and its own interests, give priority to the Unitholders’ interests;
+
+9
+
+(3)
+
+(d)
+
+treat the Unitholders who hold interests of the same class equally and Unitholders who hold interests of different classes fairly;
+
+(e)
+
+not improperly make use of information acquired through being the Fund Manager in order to:
+
+(i)
+
+gain an advantage for itself or another person; or
+
+(ii)
+
+cause detriment to the Unitholders in the Fund;
+
+(f)
+
+ensure that Fund Property is:
+
+(i)
+
+clearly identified as Fund Property; and
+
+(ii)
+
+held separately from the property of the Fund Manager and the property of any other Fund it manages;
+
+(g)
+
+report to the DFSA any breach of this Law or relevant provisions of any other law administered by the DFSA, or of any Rules made under those laws , that:
+
+(i)
+
+relates to the Fund; and
+
+(ii)
+
+has had, or is likely to have, a materially adverse effect on the interests of Unitholders;
+
+as soon as practicable after it becomes aware of the breach;
+
+(h)
+
+in the case of a Fund Manager referred to in Article 20(1)(b), report to the DFSA any breach of any other laws or requirements that apply to that Fund Manager in its home jurisdiction, that:
+
+(i)
+
+relates to the Fund; and
+
+(iii)
+
+has had, or is likely to have, a materially adverse effect on the interests of Unitholders;
+
+as soon as practicable after it becomes aware of the breach;
+
+(i)
+
+comply with any other duty or obligation as may be prescribed by or under this Law or any other legislation administered by the DFSA; and
+
+(j)
+
+carry out or comply with any other duty, not inconsistent with any DIFC Law, that is conferred on the Fund Manager by the Fund’s Constitution.
+
+Every officer, employee or agent of the Fund Manager shall:
+
+(a)
+
+not make improper use of information acquired through being such an officer, employee or agent of the Fund Manager in order to:
+
+(i)
+
+gain an advantage for himself or another person; or
+
+10
+
+(ii)
+
+cause detriment to Unitholders in the Fund;
+
+(b)
+
+not make improper use of his position as such an officer, employee or agent to gain, directly or indirectly, an advantage for himself or for any other person or to cause detriment to the Unitholders in the Fund;
+
+(c

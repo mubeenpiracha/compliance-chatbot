@@ -1,0 +1,113 @@
+ Person should apply one or more of the measures in (a) to (f) as appropriate in the circumstances. Where CDD cannot be completed to a significant degree, it may be appropriate not to carry out a Transaction pending completion of CDD. Where CDD cannot be conducted, including where a material part of the CDD such as identifying and verifying Beneficial Owners cannot be undertaken, a Relevant Person should not establish a business relationship with the customer.
+
+2.
+
+A Relevant Person should note that Rule 8.7.1 applies to both existing and prospective customers. For prospective customers it may be appropriate for a Relevant Person to terminate the business relationship before a product or service is provided. However, for existing customers, while termination of the business relationship should not be ruled out, suspension may be more appropriate depending on the circumstances, whilst further investigations are carried out. Whichever course of action is taken, the Relevant Person should be careful not to tip off the customer.
+
+3.
+
+A Relevant Person should adopt the RBA in order to inform the appropriate level of CDD to be undertaken for existing customers. For example, if a Relevant Person considers that any of its existing customers (which may include customers that it migrates into ADGM) have not been subject to CDD of a standard equivalent to that required by the AML Rulebook, it should adopt the RBA and take remedial action in a manner proportionate to the risks and within a reasonable period of time whilst complying with Rule 8.7.
+
+8.8
+
+Portability of Customer Due Diligence information
+
+8.8.1
+
+(1)
+
+A Relevant Person “A” that is an Authorised Person or a Recognised Body must provide another Relevant Person, “B”, that is an Authorised Person or a Recognised Body, at the request of B, with the Customer Due Diligence information for customers that has been collected by A under Rules 8.3 and 8.4, subject to:
+
+(a)
+
+those customers being customers of both A and B at the time that the request is made;
+
+(b)
+
+B obtaining the written consent of the customers to whom the request relates and providing A with that consent for the release of such information by A;
+
+Confidential
+
+59
+
+AML VER10.020125
+
+(c)
+
+the request being made solely for the purposes of conducting Customer Due Diligence on the customers to whom the request relates; and
+
+(d)
+
+in the preceding twelve months B not having requested Customer Due Diligence information from A for the same customers to whom the request relates.
+
+(2)
+
+Relevant Person A must also provide Relevant Person B with any other information relevant to CDD that has been provided to it by those customers.
+
+8.8.2 Following a request made under Rule 8.8.1, A must transfer to B without undue delay all
+
+Customer Due Diligence information in its possession for those customers.
+
+8.8.3 Relevant Person A must not charge B a fee for the provision of Customer Due Diligence
+
+information provided under Rule 8.8.1.
+
+Confidential
+
+60
+
+AML VER10.020125
+
+9.
+
+AML/TFS COMPLIANCE AND THIRD PARTIES
+
+9.1
+
+Reliance on a third party
+
+9.1.1
+
+(1)
+
+A Relevant Person may rely on the following third parties to conduct one or more of the elements of CDD on its behalf:
+
+(a)
+
+an Authorised Person or Recognised Body;
+
+(b)
+
+a law firm, notary, or other independent legal business, accounting firm, audit firm or insolvency practitioner or an equivalent Person in another jurisdiction;
+
+(c)
+
+a Financial Institution;
+
+(d)
+
+a member of the Relevant Person's Group; or
+
+(e)
+
+other specialised utilities for the provision of outsourced AML/TFS services.
+
+(2)
+
+In (1), a Relevant Person may rely on the information previously obtained by a third party which covers one or more elements of CDD.
+
+(3)
+
+Where a Relevant Person seeks to rely on a Person in (1) it may only do so if and to the extent that:
+
+(a)
+
+it immediately obtains the necessary CDD information from the third party in (1);
+
+(b)
+
+it takes adequate steps to satisfy itself that certified copies of the documents used to undertake the relevant elements of CDD will be available from the third party on request without delay;
+
+(c)
+
+the Person in (1)(

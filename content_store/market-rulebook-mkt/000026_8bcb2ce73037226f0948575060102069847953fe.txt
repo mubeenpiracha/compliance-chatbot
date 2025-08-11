@@ -1,0 +1,125 @@
+(13) when making an Exempt Offer.
+
+4.3.4 A Person making an Exempt Offer must ensure that an exempt offer statement is included in the Exempt Offer document. An exempt offer statement must contain the following statement displayed prominently on its front page:
+
+‘This offer document is an Exempt Offer document in accordance with the Market Rulebook of the ADGM Financial Services Regulatory Authority.
+
+This Exempt Offer document is intended for distribution only to Persons of a type specified in the Market Rulebook. It must not be delivered to, or relied on by, any other Person.
+
+The ADGM Financial Services Regulatory Authority has no responsibility for reviewing or verifying any documents in connection with an Exempt Offer. The ADGM Financial Services Regulatory Authority has not approved this Exempt Offer document nor taken steps to verify the information set out in it, and has no responsibility for it.
+
+The Securities to which this Exempt Offer relates may be illiquid and/or subject to restrictions on their resale. Prospective purchasers of the Securities offered should conduct their own due diligence on the Securities.
+
+If you do not understand the contents of this Exempt Offer document you should consult an authorised financial advisor.’
+
+4.3.5 Pursuant to an Exempt Offer under Rule 4.3.1(13), the Issuer must provide a Product Summary Note to investors in accordance with the following requirements:
+
+Confidential
+
+41
+
+MKT VER09.020125
+
+(1)
+
+The Product Summary Note must:
+
+(a)
+
+highlight key information in the Offer document to investors;
+
+(b)
+
+clearly disclose required information in the format as set out in APP 7;
+
+(c)
+
+give a fair and balanced view of the nature, material benefits and material risks of the Securities offered;
+
+(d)
+
+not contain any statement or information that is false or misleading in the form and context in which it is included;
+
+(e)
+
+be given together with the Offer document to investors. If the Issuer makes the Offer document available online, the Product Summary Note must be made available online together with the Offer document;
+
+(f)
+
+not contain any information that is not contained in the Offer document;
+
+(g)
+
+not contain any Inside Information that differs in any material particular from that set out in the Offer document; and
+
+(h)
+
+not omit any information from any part of the Product Summary Note which would result in that part of the Product Summary Note being construed as false or misleading.
+
+(2)
+
+The Product Summary Note shall contain the prominent disclaimer set out in Rule 4.3.4 in bold, on its front.
+
+(3)
+
+The Issuer must give notice to the Regulator of its intention to provide a Product Summary Note at least ten Business Days prior to the Exempt Offer, in such form as the Regulator may prescribe.
+
+(4)
+
+When the Issuer makes any change to the Offer document, the Product Summary Note must be updated if the change has a material effect on the key information on the Securities offered.
+
+(5)
+
+Issuers must ensure there is clear naming of the Securities offered. The name of the Securities must be descriptive of the nature of the Securities offered. It must not give investors a misleading view of the true nature and risks of the Securities offered.
+
+Guidance
+
+Pursuant to Rule 4.3.5(1)(c), the Regulator considers a Product Summary Note as giving a fair and balanced view of the Securities offered if the Product Summary Note:
+
+(a)
+
+gives:
+
+(i)
+
+a balanced description of the risks and potential returns of the Securities; and
+
+Confidential
+
+42
+
+MKT VER09.020125
+
+(ii)
+
+a proportionate level of prominence to the warnings, disclaimers and qualifications in relation to the claims on potential returns to which they refer to; and
+
+(b)
+
+does not:
+
+(i)
+
+give the impression that an investor can profit without risks;
+
+(ii)
+
+contain words or graphics that could convey an impression that is inaccurate or inconsistent with the nature or the risks of the Securities; or
+
+(iii)
+
+present information in footnotes in a way that would alter the meaning of the main text of the Product Summary Note or cause difficulty to an investor in understanding the Securities.
+
+4.4
+
+Exempt Securities
+
+Guidance
+
+1.
+
+Exempt Securities are Securities which a Person can have admitted to trading on a Recognised Investment Exchange without a Prospectus.
+
+2.
+
+The prohibition in section 61(1) of FSMR does not apply, subject to the requirement in

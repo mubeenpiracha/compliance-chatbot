@@ -1,0 +1,75 @@
+ governance framework;
+
+(f)
+
+it has adequate arrangements to avoid its staff having any conflicts of interest where such conflicts have, or are likely to have, a material
+
+192
+
+CIR/VER38/08-24
+
+COLLECTIVE INVESTMENT RULES (CIR)
+
+adverse impact on price establishment process, and in particular, it does not employ ETF staff, for the purposes relating to the creation, development or modification of the index compilation rules and their review; and
+
+(g)
+
+it has adequate complaint resolution mechanisms to resolve any complaints about the Price Information Provider’s assessment process and methodology.
+
+Guidance
+
+1.
+
+A Fund Manager of an ETF or a Fund that invests in Crypto Tokens, when assessing the suitability of a Price Information Provider (the provider), should take into account factors such as:
+
+a.
+
+the provider’s standing and reliability in the relevant physical or derivatives markets as a credible price reporting agency;
+
+b.
+
+the quality of corporate governance adopted, covering areas such as independent members of the board, independence of its internal audit and risk management function, and in the case of a Shari’a compliant index or benchmark, its Shari’a governance arrangements;
+
+c.
+
+whether the methodologies and processes (including any material changes to such methodologies and processes) adopted by the provider for the purposes of pricing are made publicly available;
+
+d.
+
+whether there are adequate procedures adopted to ensure that conflicts of interests between the provider’s commercial interests and the users of its services, including that of its Employees involved in pricing process, are adequately addressed, including through codes of ethics;
+
+e.
+
+whether there is a clear conveyance to its users of the economic realities of the underlying interest the Price Information Provider seeks to measure; and,
+
+f.
+
+the degree to which the Price Information Provider has given consideration to the characteristics of underlying interests measured, such as:
+
+
+
+the size and liquidity: Whether the size of the market informs the selection of an appropriate compilation mechanism and governance processes. For example, a benchmark or index that measures a smaller market may be impacted by single trades and therefore be more prone to potential manipulation, whereas a benchmark for a larger market may not be well represented by a small sample of participants;
+
+
+
+the relative market size. Where the size of a market referencing a benchmark is significantly larger than the volume of the underlying market, the potential incentive for benchmark manipulation to increase; and
+
+
+
+Transparency: Where there are varying levels of transparency regarding trading volumes and positions of market participants, particularly in non-regulated markets and instruments, whether the benchmark represents the full breadth of the market, the role of specialist participants who might be in a position to give an overview of the market, and the feasibility, costs and benefits of providing additional transparency in the underlying markets.
+
+2.
+
+If a Price Information Provider that an ETF Fund Manager uses for tracking or outperforming an index or benchmark for the purposes of the ETF it manages is a Related Party of the Fund
+
+193
+
+CIR/VER38/08-24
+
+COLLECTIVE INVESTMENT RULES (CIR)
+
+Manager, the Fund Manager has additional obligations relating to Related Party Transactions under Rule 13.9.5.
+
+194
+
+CIR/VER38/08-24

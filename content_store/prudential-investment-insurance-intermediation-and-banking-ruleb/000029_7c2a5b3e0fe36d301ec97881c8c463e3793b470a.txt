@@ -1,0 +1,141 @@
+ Total Risk Exposure Amount must be calculated by Authorised Persons in Categories 1, 2, 3A and 5 for the determination of appropriate minimum Capital Resources and for reporting purposes.
+
+3.6
+
+Capital Requirements for Categories 3B, 3C and 4
+
+3.6.1
+
+This Section applies to an Authorised Person in Category 3B, 3C or 4.
+
+3.6.2
+
+Subject to Section 3.6A, the Capital Requirement for such an Authorised Person is calculated as the higher of:
+
+(a)
+
+the applicable Base Capital Requirement as set out in Section 3.3; or
+
+57
+
+PRU VER17.290725
+
+(b)
+
+the Expenditure Based Capital Minimum as set out in Section 3.7.
+
+Guidance
+
+1.
+
+Section 3.6A specifies the Capital Requirements for Authorised Persons undertaking the Regulated Activity of Providing Money Services.
+
+2.
+
+The Expenditure Based Capital Minimum is a component of the calculation of the Capital Requirement under Section 3.6 and is relevant in determining whether the Regulator has to be notified under Rule 3.20.2.
+
+3.6.A
+
+Capital Requirement for Providing Money Services
+
+3.6A.1
+
+Subject to Rule 3.6A.7, an Authorised Person with a Financial Services Permission enabling it to carry on the Regulated Activity of Providing Money Services must calculate the Capital Requirement for each activity it undertakes as the highest of:
+
+(a)
+
+the applicable Base Capital Requirement as set out in Section 3.3; and
+
+(b)
+
+(i)
+
+where it undertakes currency exchange the Expenditure Based Capital Minimum as set out in Section 3.7;
+
+(ii)
+
+for a Money Remitter:
+
+(A)
+
+the Expenditure Based Capital Minimum as set out in Section 3.7; and
+
+(B)
+
+the Variable Capital Requirement calculated in accordance with Rule 3.6A.2;
+
+(iii)
+
+for a Payment Account Provider the Variable Capital Requirement calculated in accordance with Rule 3.6A.4; or
+
+(iv)
+
+for a Stored Value Provider the Variable Capital Requirement calculated in accordance with Rule 3.6A.6.
+
+Guidance
+
+Where an Authorised Person undertakes two or more of the activities under the Regulated Activity of Providing Money Services at the same time, Rule 3.6A.6 specifies how the overall Capital Requirement for those activities should be calculated.
+
+Money Remitters
+
+3.6A.2
+
+A Money Remitter must calculate its Variable Capital Requirement as the sum of the following:
+
+(a)
+
+1.25% of the first $10 million of monthly payment volume;
+
+(b)
+
+0.5% of the next $90 million of monthly payment volume;
+
+(c)
+
+0.25% of the next $150 million of monthly payment volume; and
+
+(d)
+
+0.125% of any remaining monthly payment volume.
+
+58
+
+PRU VER17.290725
+
+3.6A.3
+
+(1)
+
+Subject to (2), monthly payment volume for a Money Remitter must be calculated as the total value of funds remitted by the Authorised Person in its preceding financial year divided by twelve.
+
+(2) Where the Authorised Person has not completed a full financial year following its authorisation, the monthly payment volume must be calculated using the value of realised funds remitted since its authorisation and the projections contained in its business plan for the remainder of the financial year, subject to any adjustments required by the Regulator.
+
+Payment Account Providers
+
+3.6A.4
+
+A Payment Account Provider must calculate its Variable Capital Requirement as the sum of the following:
+
+(a)
+
+2.5% of the first $10 million of monthly payment volume;
+
+(b)
+
+1% of the next $90 million of monthly payment volume;
+
+(c)
+
+0.5% of the next $150 million of monthly payment volume; and
+
+(d)
+
+0.25% of any remaining monthly payment volume.
+
+3.6A.5
+
+(1)
+
+Subject to (2), monthly payment volume for a Payment Account Provider must be calculated as the total value of Payment Transactions executed by the Authorised Person in its preceding financial year divided by twelve.
+
+(2) Where the Authorised Person has not completed a full financial year following its authorisation, the monthly payment volume must be calculated using the value of realised Payment Transactions since its authorisation and the

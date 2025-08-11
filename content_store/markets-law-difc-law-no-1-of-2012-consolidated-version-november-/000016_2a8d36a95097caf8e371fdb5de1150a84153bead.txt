@@ -1,0 +1,137 @@
+ in the DIFC or elsewhere, induce another person to deal in Investments or Crypto Tokens:
+
+(a)
+
+by making or publishing a statement, promise or forecast if the person knows, or is reckless as to whether, the statement is misleading, false or deceptive;
+
+(b)
+
+by a concealment of material facts; or
+
+(c)
+
+by recording or storing information that the person knows to be false or misleading in a material respect or may be materially misleading.
+
+61. Misuse of information
+
+A person shall not, in the DIFC or elsewhere, engage in any activity or conduct in relation to Investments or Crypto Tokens, which does not fall under Articles 58, 59 or 60:
+
+(a)
+
+by using information which is not generally available to market participants which, if available to a market participant, would be, or would be likely to be, regarded by him as relevant when deciding the terms on which transactions in Investments or Crypto Tokens should be effected; and
+
+30
+
+62.
+
+63.
+
+(b)
+
+is likely to be regarded by market participants as a failure on the part of the person concerned to observe the standard of behaviour reasonably expected of a person in his position in relation to the market.
+
+Application of provisions
+
+Articles 54 to 61 do not apply to conduct which occurs outside the DIFC unless the conduct affects the DIFC markets or users of the DIFC markets.
+
+Definitions for this Part
+
+(1)
+
+In this Part, in relation to Investments, Crypto Tokens or related investments,
+
+(a)
+
+“inside information” means information of a precise nature which:
+
+(i)
+
+is not generally available;
+
+(ii)
+
+relates, directly or indirectly, to one or more Reporting Entities or the issuer of the Investments or Crypto Tokens concerned or to one or more of the Investments or Crypto Tokens; and
+
+(iii) would, if generally available, be likely to have a significant effect on the price of the Investments or Crypto Tokens or on the price of related investments; and
+
+(b)
+
+“insider” means a person who has inside information:
+
+(i)
+
+as a result of his membership of the board of Directors, or the Governing Body of the relevant Reporting Entity;
+
+(ii)
+
+as a result of his holding in the capital of the relevant Reporting Entity;
+
+(iii)
+
+as a result of having access to the information through the exercise of his employment, profession or duties;
+
+(iv)
+
+as a result of his criminal activities; or
+
+(v)
+
+which he has obtained by other means and which he knows, or could reasonably be expected to know, is inside information.
+
+(2)
+
+In Article 63(1)(a) information is precise if it:
+
+(a)
+
+indicates circumstances that exist or may reasonably be expected to come into existence or an event that has occurred or may reasonably be expected to occur; and
+
+31
+
+(b)
+
+is specific enough to enable a conclusion to be drawn as to the possible effect of those circumstances or that event on the price of Investments, Crypto Tokens or related investments.
+
+(3)
+
+In Article 63(1)(a)(iii), information would be likely to have a significant effect on price if and only if it is information of the kind which a reasonable investor would be likely to use as part of the basis of his investment decisions.
+
+(4)
+
+For the purposes of Article 63(1)(a), information about a person’s pending orders in relation to an Investment, Crypto Token or related investment is also inside information.
+
+(5)
+
+In Article 63(1)(a)(i), information which can be obtained by research or analysis conducted by, or on behalf of, users of a market is to be regarded, for the purposes of this Part, as being generally available to them.
+
+(6)
+
+In this Part, in relation to an Investment (the “First Investment”) or Crypto Token, a “related investment” means another Investment whose price or value depends, in whole or in part, on the price or value of the First Investment or the Crypto Token.
+
+CHAPTER 2 – DEFENCES
+
+64.
+
+Defences for market manipulation, information
+
+insider dealing and providing
+
+inside
+
+(1)
+
+A person shall not be found to have contravened Article 54 if the person establishes that the conduct or practice the person engaged in was carried out in the performance of:
+
+(a)
+
+permitted price stabilisation; or
+
+(b)
+
+a purchase of the person's own shares,
+
+in accordance with the Rules.
+
+(2)
+
+A person shall

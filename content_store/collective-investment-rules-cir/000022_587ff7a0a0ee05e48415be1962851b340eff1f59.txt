@@ -1,0 +1,103 @@
+ class of Fund or Sub-Fund, where the relevant requirements relating to that class of specialist Fund are not met; or
+
+f.
+
+is in the opinion of the DFSA likely to offend the public.
+
+7.1.5 Before using as part of or in connection with the name of a Fund, Sub-Fund or class of Units in a Fund the words “guaranteed”, “protected” or any other words with a similar meaning implying a degree of security in relation to the capital or income, the Fund Manager must demonstrate to the satisfaction of the DFSA that:
+
+(a)
+
+the guarantor has the authority and resources to honour the terms of the guarantee; and
+
+(b)
+
+all the terms of the guarantee and the credentials of the guarantor are clearly set out in detail in the Prospectus and that any exclusions such as force majeure are highlighted.
+
+Guidance
+
+In considering whether to permit a Fund Manager to use the words “guaranteed” or “protected” as part of or in connection with the name of a Fund, Sub-Fund or class of Units in a Fund, the DFSA will also take into account whether the degree of security implied by the name fairly reflects the nature of the arrangements for providing that security.
+
+33
+
+CIR/VER38/08-24
+
+COLLECTIVE INVESTMENT RULES (CIR)
+
+Alterations to the Constitution of a Fund
+
+Guidance
+
+Articles 35 and 36 of the Law govern the process of making alterations to a Constitution. These requirements apply to the alteration of Articles of Association of a Fund on a Fund Platform (i.e. an Incorporated Cell of an Incorporated Cell Company).
+
+34
+
+CIR/VER38/08-24
+
+COLLECTIVE INVESTMENT RULES (CIR)
+
+8
+
+MANAGEMENT AND OPERATION OF A FUND
+
+Guidance
+
+While most of the provisions in this chapter are of general application to all Domestic Funds, in a few instances, some provisions which are specific to a certain type of Domestic Fund, for example a Public Fund, are retained in this Part. The DFSA has, instead of removing such provisions to Part 5 which contains provisions applicable to specific types of Domestic Funds, retained them in this Part because those requirements are integral to the main provisions applying to all Domestic Funds and therefore need to be read together.
+
+8.1 General management duties
+
+Application
+
+8.1.1
+
+(1)
+
+This chapter applies to a Fund Manager, and if appointed the Trustee, of a Domestic Fund, except as provided in (3) and (4) or where otherwise provided in this chapter.
+
+(2)
+
+This chapter also applies, where expressly provided, to a Fund Administrator or Eligible Custodian of a Domestic Fund.
+
+(3)
+
+Only the following requirements in this chapter apply in relation to a Qualified Investor Fund:
+
+(a) Rule 8.1A.1;
+
+(b) Rule 8.1A.2;
+
+(c) Rule 8.3.1(2), if the QIF is a Venture Capital Fund;
+
+(d)
+
+section 8.3, if the QIF is a Credit Fund;
+
+(e) Rule 8.4.1(1)(a);
+
+(f) Rule 8.6A.1, if the QIF is an Open-ended Fund; and
+
+(g) Rule 8.10.1.
+
+(4)
+
+The following requirements in this chapter do not apply in relation to an Exempt Fund:
+
+(a)
+
+if the Exempt Fund is a Venture Capital Fund, Rule 8.2.2(2), section 8.3 (except for Rule 8.3.1(2)) and section 8.4 (except for Rule 8.4.1(1)(a)); and
+
+(b)
+
+if the Exempt Fund is a Credit Fund, Rule 8.2.2(2).
+
+35
+
+CIR/VER38/08-24
+
+COLLECTIVE INVESTMENT RULES (CIR)
+
+Guidance
+
+1.
+
+Article 22 of the Law requires the Fund Manager of a Domestic Fund to manage the Fund in accordance with the Fund’s Constitution and its most recent Prospectus and to perform the functions conferred on it by the Constitution and the Law. In doing so, the Fund Manager is required under that Article to comply with any conditions or restrictions on its Licence as well as any limitations or requirements imposed by or under the Law

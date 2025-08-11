@@ -1,0 +1,115 @@
+, in accordance with section A9.3 of App 9.
+
+Measuring liquidity for Category 1 and Category 5
+
+(1)
+
+An Authorised Firm in Category 1 or 5 must determine a net cumulative Maturity Mismatch position for each time band in respect of each of the following means of funding used by the Authorised Firm:
+
+(a) PSIAus; and
+
+(b) deposits.
+
+(2)
+
+An Authorised Firm in Category 1 or 5 must calculate its liquidity by using the net cumulative Maturity Mismatch position separately for each means of funding used by the Authorised Firm as a percentage of the means of funding in each time band as follows:
+
+(a) PSIAus net cumulative Maturity Mismatch % =
+
+Net cumulative Maturity Mismatch x 100 Total PSIAus
+
+(b) Total deposit liabilities net cumulative Maturity Mismatch % =
+
+Net cumulative Maturity Mismatch x 100 Total deposits
+
+(3)
+
+An Authorised Firm must ensure that its net cumulative Maturity Mismatch position for each means of funding used by the Authorised Firm in the sight – 8 days time band does not exceed negative 15%.
+
+(4)
+
+An Authorised Firm must notify the DFSA in writing immediately if it exceeds or is likely to exceed the net cumulative Maturity Mismatch limit referred to in (3).
+
+Net Stable Funding Ratio (NSFR) Requirement
+
+(1)
+
+An Authorised Firm must maintain a Net Stable Funding Ratio (NSFR) of at least 100%.
+
+(2)
+
+The NSFR under (1) must be calculated using the formula:
+
+223
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+NSFR = ASF x 100
+
+RSF
+
+where:
+
+(a) ASF (Available Stable Funding) is the amount, calculated in accordance with Rule A9.4.1, representing the relative stability of an Authorised Firm’s available funding sources; and
+
+(b) RSF (Required Stable Funding) is the amount, calculated in accordance with Rule A9.4.2, representing the Liquidity Risk profile of an Authorised Firm’s assets and OBS Exposures (or potential liquidity Exposures).
+
+Guidance
+
+1.
+
+The objective of the NSFR Requirement is to require an Authorised Firm to maintain a stable funding profile relative to the composition of its assets and off-balance sheet activities. A stable funding profile reduces the likelihood that disruptions to an Authorised Firm’s regular sources of funding will erode its liquidity position in a way that would increase the risk of its failure and potentially lead to broader systemic stress. The NSFR Requirement limits over-reliance on short- term wholesale funding, encourages better assessment of funding risk across all on- and off- balance sheet items and promotes funding stability.
+
+2.
+
+Section A9.4 of App9 sets out how an Authorised Firm’s Available Stable Funding (ASF) and Required Stable Funding (RSF) are to be calculated.
+
+3.
+
+If the DFSA considers that the Financial Services Regulator of the home state of an Authorised Firm that is a Branch has not fully implemented the Basel III NSFR requirements, it may use its power under Article 75A of the Regulatory Law to require the Authorised Firm to comply with appropriate NSFR requirements.
+
+Notification if the NSFR Requirement not met
+
+9.3.13 An Authorised Firm must notify the DFSA in writing immediately if it does not meet, or becomes aware of circumstances that may result in it not meeting, its NSFR Requirement.
+
+Guidance
+
+1.
+
+An Authorised Firm should explain clearly in its notification:
+
+a.
+
+the reasons for it not meeting its NSFR Requirement;
+
+b. measures that have been taken and will be taken to ensure it meets its NSFR Requirement;
+
+and
+
+c.
+
+its expectations regarding the potential duration of the situation.
+
+2.
+
+An Authorised Firm that makes a notification should discuss with the DFSA what, if any, further steps it should take to deal with the situation.
+
+224
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+10
+
+SUPERVISORY REVIEW AND EVALUATION PROCESSES
+
+Introduction
+
+Guidance
+
+1.
+
+This chapter deals with the regulatory requirements arising out of the need for Authorised Firms

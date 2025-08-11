@@ -1,0 +1,218 @@
+.
+
+6.
+
+Chapter 7 specifies the DFSA’s authorisation requirements for any applicant intending to become an Authorised Firm or Authorised Individual.
+
+7.
+
+Chapter 8 specifies, in relation to Authorised Persons, the auditing and accounting requirements which deal with such matters as the appointment and termination of auditors, accounts and regulatory returns and the functions of an auditor. There are also requirements for auditors to register with the DFSA.
+
+8.
+
+Chapter 9 prescribes the manner in which an Authorised Firm must handle Complaints made against it by Retail Clients or Professional Clients.
+
+1
+
+GEN/VER67/03-25
+
+9.
+
+10.
+
+11.
+
+12.
+
+13.
+
+GENERAL (GEN)
+
+Chapter 10 contains three sets of transitional rules.
+
+a. Section 10.1 contains transitional rules relating to endorsements to hold Client
+
+Assets and Insurance Monies.
+
+b. Section 10.2 contains transitional rules relating to a Safe Custody Auditor’s
+
+Report.
+
+c. Section 10.3 contains transitional rules relating to the reclassification of the Financial Services of ‘Arranging Credit or Deals in Investments’ and ‘Advising on Financial Products or Credit’.
+
+Chapter 11 specifies the DFSA’s supervisory requirements for any Authorised Person being regulated by the DFSA.
+
+Chapter 12 sets out Rules relating to business transfer schemes under Part 9 of the Regulatory Law.
+
+Chapter 13 contains guidance on the DFSA’s approach to facilitating the testing and development of innovative financial technology in the DIFC.
+
+Chapter 14 prescribes, under Article 91(8) of the Regulatory Law, the provisions that are subject to a Fixed Penalty Notice, the amount of the penalty payable under a notice and the payment period for the penalty.
+
+2
+
+GEN/VER67/03-25
+
+GENERAL (GEN)
+
+2
+
+FINANCIAL SERVICES
+
+2.1 Application
+
+2.1.1 This chapter applies to every Person to whom the Regulatory Law applies,
+
+and to the same extent in relation to every such Person as that law.
+
+2.2 Financial Service activities
+
+2.2.1 An activity constitutes a Financial Service under the Regulatory Law and
+
+these Rules where:
+
+(a)
+
+it is an activity specified in Rule 2.2.2; and
+
+(b)
+
+such activity is carried on by way of business in the manner described in section 2.3.
+
+2.2.2 The following activities are specified for the purposes of Rule 2.2.1:
+
+(a)
+
+Accepting Deposits;
+
+(b)
+
+Providing Credit;
+
+(c)
+
+Providing Money Services;
+
+(d)
+
+Dealing in Investments as Principal;
+
+(e)
+
+Dealing in Investments as Agent;
+
+(f)
+
+Arranging Deals in Investments;
+
+(g)
+
+Managing Assets;
+
+(h)
+
+Advising on Financial Products;
+
+(i)
+
+Managing a Collective Investment Fund;
+
+(j)
+
+Providing Custody;
+
+(k)
+
+Arranging Custody;
+
+(l)
+
+Effecting Contracts of Insurance;
+
+(m)
+
+Carrying Out Contracts of Insurance;
+
+(n)
+
+Operating an Exchange;
+
+(o)
+
+Operating a Clearing House;
+
+(p)
+
+Insurance Intermediation;
+
+(q)
+
+Insurance Management;
+
+3
+
+GEN/VER67/03-25
+
+GENERAL (GEN)
+
+(r)
+
+Managing a Profit Sharing Investment Account;
+
+(s)
+
+Operating an Alternative Trading System;
+
+(t)
+
+Providing Trust Services;
+
+(u)
+
+Providing Fund Administration;
+
+(v)
+
+Acting as the Trustee of a Fund;
+
+(w)
+
+Operating a Representative Office;
+
+(x)
+
+Operating a Credit Rating Agency;
+
+(y)
+
+Arranging Credit and Advising on Credit;
+
+(z)
+
+Operating a Crowdfunding Platform;
+
+(aa) Operating an Employee Money Purchase Scheme;
+
+(bb) Acting as the Administrator of an Employee Money Purchase Scheme;
+
+and
+
+(cc) Arranging or Advising on Money Services.
+
+Guidance
+
+Note that the ambit of these activities in Rule 2.2.2 may be restricted under COB, AMI or REP and may be fettered by the continuing operation of the Federal Law.
+
+2.2.3 Each activity specified in Rule 2.2.2:
+
+(a)
+
+is to be construed in the manner provided under these Rules; and
+
+(b)
+
+is subject to exclusions under these Rules which may apply to such an activity.
+
+Permitted Financial Services for Authorised Firms
+
+2.2.4 Pursuant to Article 42(1)(a) of the Regulatory Law 2004 an Authorised Firm, subject to the Rules, may carry on any one or more Financial Services.
+

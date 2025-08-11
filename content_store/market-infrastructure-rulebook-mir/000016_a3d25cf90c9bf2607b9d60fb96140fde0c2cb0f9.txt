@@ -1,0 +1,101 @@
+3.
+
+When determining whether its arrangements for the investigation of complaints include appropriate arrangements for the complaint to be fairly and impartially investigated by an independent Person (a "complaints investigator"), a Recognised Body should have regard to:
+
+(a)
+
+its arrangements for appointing (and removing) a complaints investigator, including the terms and conditions of such an appointment and the provision for remuneration of a complaints investigator;
+
+(b)
+
+the complaints investigator's access to, and relationship with, the Recognised Body's Governing Body and Key Individuals;
+
+(c)
+
+its arrangements for giving complainants access to the complaints investigator;
+
+(d)
+
+the facilities made available to the complaints investigator to enable him to pursue his investigation and prepare his report and recommendations, including access to the Recognised Body's records, Key (including, where appropriate, suppliers, contractors or other Persons to whom any functions have been outsourced and their staff); and
+
+Individuals and other staff
+
+(e)
+
+arrangements for the Recognised Body to consider the complaints investigator's report and recommendations.
+
+initial
+
+29
+
+MIR VER10.290725
+
+4.
+
+If a Recognised Body considers that another Recognised Body or an Authorised Person is entirely or partly responsible for the subject matter of a complaint, it may refer the complaint, or the relevant part of it, to the other Recognised Body or Authorised Person in accordance with the process set out in GEN 7.2.10.
+
+2.14
+
+Outsourcing
+
+2.14.1
+
+A Recognised Body may satisfy a Recognition Requirement applicable to it by making arrangements for a particular function to be performed on its behalf by any other Person.
+
+2.14.2
+
+A Recognised Body must ensure that any Person who performs (or is to perform) the function(s) on behalf of the Recognised Body, is a fit and proper Person who is able and willing to perform them.
+
+2.14.3
+
+A Recognised Body must, before entering into any material outsourcing arrangements with a service provider, obtain the Regulator's prior approval to do so.
+
+2.14.4
+
+A Recognised Body that outsources any functions must comply with the outsourcing requirements in GEN 3.3.31 and 3.3.32.
+
+Guidance
+
+1.
+
+If a Person who performs a function on behalf of a Recognised Body is himself carrying on a Regulated Activity in ADGM, he will, unless he is a Person to whom the General Prohibition does not apply, need to be either an Authorised Person or an Exempt Person. The Person to whom a function is delegated is not covered by the Recognised Body's exemption.
+
+2.
+
+Where a Recognised Body makes arrangements under Rule 2.14, these arrangements do not alter the responsibility of Recognised Body to meet and satisfy the Recognition Requirements.
+
+2.15
+
+Applications for recognition
+
+Application process
+
+2.15.1
+
+An Applicant for Recognised Body status must demonstrate to the Regulator that it is able to meet the Recognition Requirements before a Recognition Order can be made. Once it has been recognised, a Recognised Body must comply with the Recognition Requirements at all times.
+
+2.15.2
+
+The Regulator must refuse to make a Recognition Order in relation to a body applying for recognition as a Recognised Body if it appears to the Regulator that an existing or proposed Regulatory Provision of the Applicant in connection with the Applicant's business as a Recognised Investment Exchange or Recognised Clearing House, or will impose, an excessive requirement on Persons directly or indirectly affected by it. A requirement is excessive if it is not required by any Abu Dhabi Global Market law and either:
+
+30
+
+MIR VER10.290725
+
+(a)
+
+it is not justified as pursuing a reasonable regulatory objective; or
+
+(b)
+
+it is disproportionate to the end to be achieved,
+
+in either case, having regard to the effect of existing legal and other requirements, the global character of financial services and markets and the international mobility of activity, the desirability of facilitating innovation and the impact of the proposed Regulatory Provision on market confidence.
+
+2.15.3
+
+Deleted.
+
+Guidance
+
+There is no standard application form. A prospective Applicant should contact the Regulator at an early stage for advice on the preparation, scheduling and practical aspects of its application. It is very important that an application is comprehensively prepared, demonstrates satisfaction of all Recognition Requirements and is based on a well-developed and clear

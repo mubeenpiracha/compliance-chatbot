@@ -1,0 +1,165 @@
+ Service with the Authorised Firm; or
+
+(b)
+
+in relation to a financial product or financial service offered by a Person other than the Authorised Firm.
+
+(3)
+
+An Authorised Firm which communicates marketing material in (2)(b) must:
+
+(a)
+
+ensure that the marketing material complies with the applicable Rules and any legislation administered by the DFSA; and
+
+(b)
+
+not distribute such marketing material if it becomes aware that the Person offering the financial product or financial service to which the material relates is in breach of the regulatory requirements that apply to that Person in relation to that product or service.
+
+3.2.5
+
+An Authorised Firm must take reasonable steps to ensure that:
+
+(a)
+
+any marketing material intended for Professional Clients is not sent or directed to any Persons who are not Professional Clients; and
+
+24
+
+COB/VER48/03-25
+
+3.2.6
+
+3.3
+
+3.3.1
+
+CONDUCT OF BUSINESS (COB)
+
+(b)
+
+no Person communicates or otherwise uses the marketing material on behalf of the Authorised Firm in a manner that amounts to a breach of the requirements in this section.
+
+Past performance and forecasts
+
+An Authorised Firm must ensure that any information or representation relating to past performance, or any future forecast based on past performance or other assumptions, which is provided to or targeted at Retail Clients:
+
+(a)
+
+presents a fair and balanced view of the financial products or financial services to which the information or representation relates;
+
+(b)
+
+identifies, in an easy to understand manner, the source of information from which the past performance is derived and any key facts and assumptions used in that context are drawn; and
+
+(c)
+
+contains a prominent warning that past performance is not necessarily a reliable indicator of future results.
+
+Guidance
+
+1.
+
+In presenting information relating to past performance of a financial product or financial service, the Authorised Firm should follow, to the extent relevant, the Global Investment Performance Standards (GIPS) issued by Institute of Chartered Financial Analysts of the USA or a reputable independent actuarial, financial or statistical reporting service provider.
+
+2.
+
+Section 15.5 sets out further Guidance on providing information about the past performance of Crypto Tokens.
+
+Key information and Client Agreement
+
+Application
+
+The Rules in this section do not apply to an Authorised Firm when it is:
+
+(a)
+
+carrying on a Financial Service with or for a Market Counterparty;
+
+(b)
+
+Accepting Deposits;
+
+(c)
+
+Providing Credit;
+
+(d)
+
+carrying on an activity of the kind described in GEN Rule 2.26.1 that constitutes marketing;
+
+(e)
+
+a Fund Manager of a Fund Offering the Units of a Fund it manages;
+
+(f)
+
+Operating an Employee Money Purchase Scheme;
+
+(g)
+
+Acting as the Administrator of an Employee Money Purchase Scheme; or
+
+(h)
+
+an ATS Operator.
+
+25
+
+COB/VER48/03-25
+
+3.3.2
+
+3.3.3
+
+CONDUCT OF BUSINESS (COB)
+
+(1)
+
+Subject to (2), an Authorised Firm must not carry on a Financial Service with or for a Person unless:
+
+(a)
+
+there is a Client Agreement containing the key information specified in App2 which is either entered into:
+
+(i)
+
+between the Authorised Firm and that Person; or
+
+(ii)
+
+in accordance with the requirements in Rule 3.3.4; and
+
+(b)
+
+before entering into the Client Agreement with the Person, the Authorised Firm has provided to that Person the key information referred to in (a) in good time to enable him to make an informed decision relating to the relevant Financial Service.
+
+(2)
+
+An Authorised Firm may provide a Financial Service to a Client without having to comply with the requirement in (1);
+
+(a)
+
+subject to (3), where it is, on reasonable grounds, impracticable to comply; or
+
+(b)
+
+where the Client has expressly agreed to dispense with the requirement in regard to a personal investment vehicle.
+
+(3)
+
+When (2)(a) applies, an Authorised Firm providing the Financial Service must:
+
+(a)
+
+first explain to the Person why it is impracticable to comply; and
+
+(b)
+
+enter into a Client Agreement as soon as practicable thereafter.
+
+Guidance
+
+1.
+
+App 2 sets out the core information that must be included in every Client Agreement and additional disclosure for certain types of activities to which this chapter applies. The information content for Client Agreements with Retail Clients is

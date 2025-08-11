@@ -1,0 +1,91 @@
+ services.
+
+Desired Outcome 12.3 – Customer IT Risk Awareness: A financial institution should regularly inform customers of the risks associated with the use of online financial services.
+
+Chapter 13 – Cryptography
+
+Desired Outcome 13.1 – Cryptographic Schemes: A financial institution should implement secure cryptographic schemes.
+
+Desired Outcome 13.2 – Key Lifecycle Management: A financial institution should ensure cryptographic keys are managed securely throughout its lifecycle.
+
+Section D: Leveraging Business Embedded Technologies
+
+Chapter 14 – Algorithm Driven Solutions
+
+Desired Outcome 14.1 – Governance of Algorithm Driven Solutions: A financial institution should have appropriate governance structures to support sound development and usage of algorithm driven solutions.
+
+Desired Outcome 14.2 – Safe Development and Usage: The use of algorithm driven solutions should not compromise a financial institution’s ability to conduct its business operations or services to customers in accordance with applicable laws and its ethical norms.
+
+Chapter 15 – Decentralised Infrastructure Solutions
+
+Desired Outcome 15.1 – Understanding Decentralised Infrastructure Solutions: A financial institution should establish a clear understanding of the nature and nuances of each decentralised infrastructure solution it interacts with.
+
+Desired Outcome 15.2 – Secure Participation: A financial institution should ensure that its resources interacting with the decentralised infrastructure solution are securely managed.
+
+Applicability
+
+ix. While the Guidance is relevant to all financial institutions conducting regulated activities in the ADGM, it should not be interpreted as a binding set of rules for financial institutions, or a standard of care owed by financial institutions to their customers.
+
+7
+
+VER01.201124
+
+x.
+
+Financial institutions are expected to adapt the Guidance in a manner that is commensurate with their level of risk and complexity, taking into account the diverse activities they engage in and the markets in which they provide services to customers.
+
+xi.
+
+Several chapters in this Guidance refer to the formation of decision-making forums or committees. The FSRA understands that this may be onerous for smaller financial institutions that have limited resources. Financial institutions are expected to assess and adopt the most suitable mechanism to achieve the objective of ensuring that processes are in place to prevent individuals from acting without the appropriate approvals.
+
+xii.
+
+At various points in this Guidance, where reference is made to conducting due diligence on vendors, service providers, or any IT third party, financial institutions should refer to the Chapter on IT Third Party Management.
+
+xiii. Capitalised terms contained in this Guidance have the meanings attributed to them in
+
+the FSRA’s Glossary (“GLO”), unless otherwise defined in this paper.
+
+Building Effective Control Environments
+
+xiv. When building an effective IT risk management environment, financial institutions should have an understanding of the approach for ensuring its controls to mitigate risks are effective. Broadly, the following are applicable across the best practices described in this Guidance.
+
+a. A financial institution should document its approach, framework, policies, and procedures and controls to mitigate a risk, commensurate to its risk appetite and business needs.
+
+b. Controls aligned to the above documentation should be implemented with adequate
+
+resources.
+
+c. Processes should be in place to monitor the operational effectiveness of the
+
+controls.
+
+d. Any changes to controls should be approved by a competent party at an appropriate
+
+level of management.
+
+e. On a regular basis, reviews should be performed and documented by a competent party to identify control lapses, weaknesses, or enhancements and vulnerabilities. Suitable actions should then be taken to remediate these findings in a timely manner commensurate with the associated risk.
+
+f. Validation of the effectiveness of the controls should be performed on a regular basis by competent parties sufficiently distant from the operation of the control (e.g., internal audit, external audit, etc.).
+
+xv. When adopting technologies to supplement business operations or services to customers, financial institutions may find that it is more effective to automate or embed
+
+8
+
+VER01.201124
+
+risk controls that have traditionally been carried out manually. Financial institutions should ensure that the documentation of their control environment takes such embedded or automated controls into account.
+
+9
+
+VER01.201124
+
+SECTION A: ESTABLISHING A CULTURE OF EFFECTIVE IT RISK MANAGEMENT
+
+Chapter 1 – Governance and Oversight
+
+Desired Outcomes for Governance and Oversight
+
+Desired Outcome 1.1 – Strategy Alignment: A financial institution should ensure that its IT strategies are aligned with and support its overall business strategy.
+
+Desired Outcome 1.2 –

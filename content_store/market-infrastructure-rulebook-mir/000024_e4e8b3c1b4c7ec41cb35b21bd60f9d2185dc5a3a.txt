@@ -1,0 +1,139 @@
+ Investment Exchange but outside its normal trading hours shall be made public before the opening of the next trading day of the Recognised Investment Exchange.
+
+3.6.2
+
+A Recognised Investment Exchange shall, with regard to Transactions in respect of Financial Instruments admitted to trading on or concluded within their systems, make public the following details:
+
+(a)
+
+those specified in Rule 3.6.7;
+
+(b)
+
+an indication that the exchange of Financial Instruments is determined by factors other than the current market valuation of the Financial Instrument, where the Transaction:
+
+(i)
+
+related to an individual Financial Instrument in a portfolio trade; or
+
+(ii)
+
+is a volume weighted average price Transaction.
+
+(c)
+
+an indication that the trade was a negotiated trade, where applicable; and
+
+(d)
+
+any amendments to previously disclosed information, where applicable.
+
+These details shall be made public either by reference to each Transaction or in a form aggregating the volume and price of all Transactions in the same Financial Instrument taking place at the same price at the same time.
+
+Deferrals
+
+3.6.3
+
+The Regulator may authorise a Recognised Investment Exchange to provide for deferred publication of the details of transactions based on the size or type of the transaction. In particular, the Regulator may authorise the deferred publication in respect of transactions that:
+
+(a)
+
+are large in scale compared with the normal market size for that Financial Instrument;
+
+(b)
+
+are related to Financial Instrument traded on a trading venue for which there is not a liquid market; or
+
+(c)
+
+are above a size specific to that Financial Instrument which would expose liquidity providers to undue risk and takes into account whether the relevant market participants are retail or wholesale investors.
+
+3.6.4
+
+A Recognised Investment Exchanges shall obtain the Regulator's prior approval of proposed arrangements for deferred trade-publication, and shall clearly disclose those arrangements to market participants and the public.
+
+44
+
+MIR VER10.290725
+
+3.6.5
+
+If a Recognised Investment Exchange decides to provide Members, and if applicable, Authorised Persons, details of transactions in Financial Instruments, it must do so on reasonable commercial terms and on a non-discriminatory basis.
+
+3.6.6
+
+The Regulator may permit the requirements of Rule 3.6.1 to be deferred in respect of large volume or for certain types of trades, as specified in Rule 3.6.8, in which case the Recognised Investment Exchange must ensure that the existence of and the terms of the deferral are disclosed to Members and users of their facilities, and to investors.
+
+3.6.7
+
+Post-trade information:
+
+Detail
+
+Information
+
+(a)
+
+Trading Day
+
+The trading day on which the transaction was executed.
+
+(b)
+
+Trading Time
+
+The time in UTC (Universal Time Coordinated) or a time zone clearly identified to the user at which the transaction was executed.
+
+(c)
+
+Instrument Identification
+
+This shall consist of a unique code to be decided by the Regulator identifying the Financial Instrument which is the subject of the transaction; or, if the Financial Instrument in question does not have a unique identification code, the report must include the name of the Financial Instrument.
+
+(d)
+
+Unit Price
+
+The price per Financial commission and (where relevant) accrued interest.
+
+Instrument excluding
+
+(e)
+
+Price Notation The currency in which the price is expressed.
+
+(f)
+
+Quantity
+
+The number of units of the Financial Instruments.
+
+(g)
+
+Venue identification
+
+Identification, if applicable, of the venue where the transaction was executed.
+
+3.6.8
+
+Deferred publication of large transactions
+
+The deferred publication of information in respect of transactions may be authorised, for a period no longer than the period specified in Rule 3.6.10 for the class of Financial Instrument and transaction concerned, provided the following criteria are satisfied:
+
+(a)
+
+the transaction is between a Member or if applicable, Authorised Person, dealing on own account and a Client of that firm; and
+
+(b)
+
+the size of that transaction is equal to or exceeds the relevant minimum qualifying size, as specified in Rule 3.6.10. In order to determine the relevant minimum qualifying size, all Financial Instruments admitted to trading on a
+
+45
+
+MIR VER10.290725
+
+Recognised Investment Exchange shall be classified in accordance with their average daily turnover to be calculated in accordance with Rule 3.6.10.
+
+3.6.9
+
+Each constituent transaction of a portfolio trade shall be assessed separately for the purposes of determining whether

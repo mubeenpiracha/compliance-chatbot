@@ -1,0 +1,117 @@
+ also required to comply with the outsourcing obligations in MIR 2.14.
+
+9.3.2 Authorised Persons Providing Money Services
+
+(1)
+
+An Authorised Person that is engaged in Providing Money Services must:
+
+(b)
+
+maintain a complete, current and accurate register of all agents and members of its Group it uses to conduct its operations and make that register available to the Regulator upon request;
+
+(c)
+
+include all agents and members of its Group identified in (a) as part of its AML/TFS compliance programme and monitor the compliance of such agents and members of its Group with the requirements of its AML/TFS programme;
+
+(d)
+
+comply with all AML/TFS requirements imposed in all jurisdictions within which it operates and ensure the compliance of its agents and members of its Group operating on its behalf with all AML/TFS requirements in the jurisdictions in which they are operating;
+
+(e)
+
+when executing a Payment Transaction, assess and consider all relevant information, including information about the Payer and the Payee, including any beneficiary as may be applicable, and require its agents and members of its Group, as appropriate, to determine whether a Suspicious Activity/Transaction Report should be filed by it or its agents or a member of its Group; and
+
+(f)
+
+where appropriate, ensure that the relevant equivalent of a Suspicious Activity/Transaction Report is filed in all other jurisdictions related to a suspicious Payment Transaction and make available to all authorities responsible for AML/TFS compliance all transaction information related to the suspicious transaction.
+
+(2) An Authorised Person making an assessment under (1) must rely upon current sources of information when making such assessment and must keep adequate records concerning such assessments, including all sources and materials considered, for a period of at least six years.
+
+Guidance
+
+Agents directly facilitate the activities of Authorised Persons in servicing their clients, as distinct from other service providers that provide purely ancillary services, such as IT, facilities management etc. to an Authorised Person.
+
+Confidential
+
+68
+
+AML VER10.020125
+
+10.
+
+CORRESPONDENT BANKING, WIRE TRANSFERS, ANONYMOUS ACCOUNTS AND AUDIT
+
+10.1 Application
+
+10.1.1 This Chapter applies to Recognised Bodies and all Authorised Persons, other than Credit
+
+Rating Agencies and Representative Offices.
+
+10.2 Correspondent banking
+
+10.2.1 An Authorised Person proposing to have a correspondent banking relationship with a
+
+respondent bank must:
+
+(a)
+
+undertake CDD on the respondent bank;
+
+(b)
+
+as part of (a), gather sufficient information about the respondent bank to understand fully the nature of the business, including making appropriate enquiries as to its management, its major business activities and the countries or jurisdictions in which it operates;
+
+(c)
+
+determine from publicly available information the reputation of the respondent bank and the quality of supervision that is subject to, including whether it has been the subject of a money laundering investigation or relevant regulatory action;
+
+(d)
+
+assess the respondent bank's AML/TFS controls and ascertain if they are adequate and effective in light of the FATF Recommendations;
+
+(e)
+
+ensure that prior approval of the Authorised Person's Senior Management is obtained before entering into a new correspondent banking relationship;
+
+(f)
+
+ensure that the respective responsibilities of the parties to the correspondent banking relationship are properly documented;
+
+(g)
+
+be satisfied that, in respect of any customers of the respondent bank who have direct access to accounts of the Authorised Person, the respondent bank:
+
+(i)
+
+has undertaken CDD (including ongoing CDD) at least equivalent to that in Rule 8.3.1 in respect of each customer; and
+
+(ii)
+
+is able to provide the relevant CDD information in (i) to the Authorised Person upon request; and
+
+(h)
+
+document the basis for its satisfaction that the requirements in (a) to (g) are met.
+
+Confidential
+
+69
+
+AML VER10.020125
+
+10.2.2 An Authorised Person must:
+
+(a)
+
+not enter into a correspondent banking relationship with a Shell Bank; and
+
+(b)
+
+take appropriate measures to ensure that it does not enter into, or continue a corresponding banking relationship with, a bank which is known to permit its accounts to be used by Shell Banks.
+
+Guidance
+
+1.
+
+The rules and guidance set out in Rule 9.2 above also apply to correspondent banking business partners. This Rule provides further details on specific requirements applicable to a correspondent

@@ -1,0 +1,131 @@
+ expired.
+
+(5)
+
+An accounting reference period may not be extended so as to exceed 18 months and a notice under this section is ineffective if the current or previous accounting reference period as extended in accordance with the notice would exceed that limit.
+
+This does not apply where the company is in administration under Part 1 (administration) of the Insolvency Regulations 2015.
+
+CHAPTER 4
+
+ANNUAL ACCOUNTS
+
+General
+
+382. Accounts to give a fair representation
+
+(1)
+
+The directors of a company must not approve accounts for the purposes of this Chapter unless they are satisfied that they give a fair representation of the assets, liabilities, financial position and profit or loss–
+
+(a)
+
+in the case of the company’s individual accounts, of the company,
+
+(b)
+
+in the case of the company’s group accounts, of the undertakings included in the consolidation as a whole, so far as concerns members of the company.
+
+(2)
+
+The following provisions apply to the directors of a company which qualifies as a micro-entity in relation to a financial year (see sections 373 (companies qualifying as micro-entities) and 374 (companies excluded from being treated as micro-entities)) in their consideration of whether the individual accounts of the company for that year give a fair representation as required by subsection (1)(a)–
+
+233
+
+(a)
+
+where the accounts comprise only micro-entity minimum accounting items, the directors must disregard any provision of an accounting standard which would require the accounts to contain information additional to those items,
+
+(b)
+
+in relation to a micro-entity minimum accounting item contained in the accounts, the directors must disregard any provision of an accounting standard which would require the accounts to contain further information in relation to that item, and
+
+(c)
+
+where the accounts contain an item of information additional to the micro-entity minimum accounting items, the directors must have regard to any provision of an accounting standard which relates to that item.
+
+(3)
+
+The auditor of a company in carrying out his functions under these Regulations in relation to the company’s annual accounts must have regard to the directors’ duty under subsection (1).
+
+383. Duty to prepare individual accounts
+
+(1)
+
+The directors of every company must prepare accounts for the company for each of its financial years unless the company is exempt from that requirement under section 384 (individual accounts: exemption for dormant subsidiaries).
+
+(2)
+
+The directors of every restricted scope company must prepare accounts for the company under the small companies regime for each of its financial years (whether or not such company would otherwise qualify as small under Chapter 1 of this Part), unless the company is exempt from that requirement under section 384 (individual accounts: exemption for dormant subsidiaries).
+
+(3)
+
+Accounts prepared pursuant to this section are referred to as the company’s “individual accounts”.
+
+384.
+
+Individual accounts: exemption for dormant subsidiaries
+
+(1)
+
+A company that is otherwise required to prepare individual accounts is exempt from this requirement for a financial year if–
+
+(a)
+
+it is itself a subsidiary undertaking, and
+
+(b)
+
+it has been dormant throughout the whole of that year,
+
+(2)
+
+Exemption is conditional upon compliance with all of the following conditions–
+
+(a)
+
+all members of the company must agree to the exemption in respect of the financial year in question,
+
+(b)
+
+the parent undertaking must give a guarantee under section 386 (parent undertaking declaration of guarantee) in respect of that year,
+
+(c)
+
+the company must be included in the consolidated accounts drawn up for that year or to an earlier date in that year by the parent undertaking,
+
+(d)
+
+the parent undertaking must disclose in the notes to the consolidated accounts that the company is exempt from the requirement to prepare individual accounts by virtue of this section, and
+
+234
+
+(e)
+
+the directors of the company must deliver to the Registrar within the period for filing the company’s accounts and reports for that year–
+
+(i)
+
+a written notice of the agreement referred to in subsection (2)(a),
+
+(ii)
+
+the statement referred to declaration of guarantee),
+
+in section 386(1) (parent undertaking
+
+(iii)
+
+a copy of the consolidated accounts referred to in subsection (2)(c),
+
+(iv)
+
+a copy of the auditor’s report on those accounts, and
+
+(v)
+
+a copy of the consolidated annual report drawn up by the parent undertaking.
+
+385. Companies excluded from the dormant subsidiaries exemption
+
+A company is not entitled to the exemption conferred by section 384 (individual accounts: exemption for dormant subsidiaries) if it was at any time within the financial year in

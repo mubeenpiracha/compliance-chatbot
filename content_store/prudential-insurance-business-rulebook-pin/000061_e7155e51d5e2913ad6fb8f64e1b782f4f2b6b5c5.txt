@@ -1,0 +1,89 @@
+ the non-cellular capital adjustment is to permit an Insurer to allocate all or part of its Adjusted Non-Cellular Capital Resources to support the Adjusted Cellular Capital Resources of its Cells. The adjustment is limited to the amount of Adjusted Non-Cellular Capital Resources that could be made available to meet Cellular Liabilities.
+
+A5.9.2 The amount of the non-cellular capital adjustment in respect of a Cell is an amount
+
+selected by the Insurer, subject to the following constraints:
+
+(a)
+
+the non-cellular capital adjustment in respect of a Cell must not be negative; and
+
+(b)
+
+the sum of the non-cellular capital adjustments in respect of all Cells must not exceed the amount that could be made available to meet the Cellular Liabilities in the event of insolvency of the Insurer, after taking into consideration all other potential calls on the Insurer's Adjusted Non-Cellular Capital Resources.
+
+A5.10 Hybrid cellular capital adjustment
+
+Guidance
+
+1.
+
+This section acts to limit hybrid cellular capital to 15% of an Insurer's adjusted cellular equity in respect of a Cell.
+
+2.
+
+The purpose of the hybrid cellular capital adjustment is to limit the extent to which an Insurer may rely for its Adjusted Cellular Capital Resources in respect of a Cell on instruments that do not or may not constitute permanent capital of that Cell. Such instruments include share capital contributed by an investor where the investor's investment in the Cell is financed by debt rather than by the investor's own capital.
+
+A5.10.1 Subject to Rule A5.10.2, hybrid cellular capital includes the following items:
+
+(a)
+
+subordinated debt;
+
+(b)
+
+preference shares;
+
+(c)
+
+Owners' Equity in a Takaful Insurer, of the type described in Rule A5.7.2; and
+
+(d)
+
+Cell shares issued by a Cell to an investor who stands in the position of a Holding Company in relation to the Cell, and whose own paid-up ordinary share capital, taken together with its general reserves, is lower than that of the Cell.
+
+A5.10.2 Hybrid cellular capital excludes any instrument that is not attributable to a Cell.
+
+A5.10.3 Subject to Rule A5.10.4, an Insurer must calculate the hybrid cellular capital adjustment in respect of a Cell as the amount by which the total amount of hybrid cellular capital exceeds 15% of adjusted non-cellular equity.
+
+101
+
+PIN VER07.290725
+
+A5.10.4 The Regulator may at its discretion and on the application of an Insurer, permit that Insurer to apply Rule A5.10.3 as though the figure of 15% was replaced with a higher figure approved in writing by the Regulator. The approved figure may not be more than the actual percentage which the hybrid cellular capital represents of adjusted cellular equity, and may not in any case exceed 30%.
+
+APP6 CALCULATION OF MINIMUM NON-CELLULAR CAPITAL REQUIREMENT AND
+
+MINIMUM CELLULAR CAPITAL REQUIREMENT
+
+A6.1 Purpose and general provisions
+
+A6.1.1 This appendix applies to all Insurers to which Rule 4.4 applies.
+
+A6.1.2 In this appendix, the term 'segment' includes both:
+
+(a)
+
+a Cell of a Cell Company; and
+
+(b)
+
+the portion of a Cell Company that is not a Cell; and the term 'segmental' is construed accordingly.
+
+Guidance
+
+1.
+
+This appendix sets out how an Insurer that is a Cell Company is required to calculate its Minimum Non-Cellular Capital Requirement and the Minimum Cellular Capital Requirement applicable to each Cell.
+
+2.
+
+The Minimum Non-Cellular Capital Requirement and the Minimum Cellular Capital Requirement are calculated on a basis that is analogous to the basis of calculation of the Minimum Capital Requirement for Insurers that are not Cell Companies, as set out in APP4. This appendix therefore incorporates references to the provisions of APP4.
+
+3.
+
+The calculation of the Minimum Non-Cellular Capital Requirement takes into account only Non-Cellular Assets and Non-Cellular liabilities, while the Minimum Cellular Capital Requirement in respect of a Cell takes into account only Cellular Assets of that Cell and Cellular Liabilities of the same Cell.
+
+4.
+
+The methods of calculation for the Minimum Non-Cellular Capital Requirement and the Minimum Cellular Capital Requirement in respect of a Cell are identical, so the term Minimum Segmental Capital Requirement is

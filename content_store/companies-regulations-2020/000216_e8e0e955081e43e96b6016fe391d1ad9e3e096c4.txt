@@ -1,0 +1,157 @@
+. Determination of available profits
+
+(1)
+
+The available profits of the company are determined as follows.
+
+371
+
+(2)
+
+First, determine the profits of the company by reference to the following items as stated in the relevant accounts-
+
+(a)
+
+profits, losses, assets and liabilities,
+
+(b)
+
+any provisions made in the company’s accounts,
+
+(c)
+
+share capital and reserves (including undistributable reserves).
+
+(3)
+
+Second, reduce the amount so determined by the amount of-
+
+(a)
+
+any distribution lawfully made by the company, and
+
+(b)
+
+any other relevant payment lawfully made by the company out of distributable profits,
+
+after the date of the relevant accounts and before the end of the relevant period.
+
+(4)
+
+For this purpose “other relevant payment lawfully made” includes-
+
+(a)
+
+financial assistance lawfully given out of distributable profits in accordance with Chapter 2,
+
+(b)
+
+payments lawfully made out of distributable profits in respect of the purchase by the company of any shares in the company, and
+
+(c)
+
+payments of any description specified in section 645 (payments apart from purchase price to be made out of distributable profits) lawfully made by the company.
+
+(5)
+
+The resulting figure is the amount of available profits.
+
+(6)
+
+For the purposes of this section “the relevant accounts” are any accounts that-
+
+(a)
+
+are prepared as at a date within the relevant period, and
+
+(b)
+
+are such as to enable a reasonable judgment to be made as to the amounts of the items mentioned in subsection (2).
+
+(7)
+
+In this section “the relevant period” means the period of three months ending with the date on which the solvency statement is made in accordance with section 661 or the directors’ statement is made in accordance with section 654.
+
+Requirements for payments out of capital
+
+653. Requirements for payment out of capital
+
+(1)
+
+A payment out of capital by a private company for the redemption or purchase of its own shares is not lawful unless the requirements of the following sections are met-
+
+(a)
+
+section 654 (directors’ statement),
+
+(b)
+
+section 656 (approval by special resolution),
+
+(c)
+
+section 659 (public notice of proposed payment), and
+
+(d)
+
+section 660 (directors’ statement to be available for inspection).
+
+(2)
+
+This is subject to section 661 (reduced requirements for payment out of capital for purchase of own shares for the purposes of or pursuant to an employees’ share scheme)
+
+372
+
+and to any order of the Court under section 663 (power of Court to extend period for compliance on application by persons objecting to payment).
+
+654. Directors’ statement
+
+(1)
+
+The company’s directors must make a statement in accordance with this section.
+
+(2)
+
+The statement must specify the amount of the permissible capital payment for the shares in question.
+
+(3)
+
+It must state that, having made full inquiry into the affairs and prospects of the company, the directors have formed the opinion-
+
+(a)
+
+as regards its initial situation immediately following the date on which the payment out of capital is proposed to be made, that there will be no grounds on which the company could then be found unable to pay its debts, and
+
+(b)
+
+as regards its prospects for the year immediately following that date, that having regard to-
+
+(i)
+
+their intentions with respect to the management of the company’s business during that year, and
+
+(ii)
+
+the amount and character of the financial resources that will in their view be available to the company during that year,
+
+the company will be able to continue to carry on business as a going concern (and will accordingly be able to pay its debts as they fall due) throughout that year.
+
+(4)
+
+In forming their opinion for the purposes of subsection 654(3)(a), the directors must take into account all of the company’s liabilities (including any contingent or prospective liabilities).
+
+(5)
+
+The directors’ statement must be in the prescribed form and must contain such information with respect to the nature of the company’s business as may be prescribed.
+
+655. Directors’ statement: offence if no reasonable grounds for opinion
+
+(1)
+
+If the directors make a statement under section 654 without having reasonable grounds for the opinion expressed in it, a contravention of these Regulations is committed by every director who is in default.
+
+(2)
+
+A person who commits a contravention of this section is liable to a fine of up to level 8.
+
+656

@@ -1,0 +1,43 @@
+ if applicable, adhere to their tax reporting obligations including, as applicable, under the Foreign Account Tax Compliance Act (“FATCA”) and the ADGM Common Reporting Standard Regulations 2017.
+
+Data protection obligations for Issuers
+
+114) Issuers, and other holders of client data, should familiarise themselves with the data protection obligations applying within ADGM. Further information regarding the ADGM’s data protection requirements is addressed at paragraphs 113 - 118 of the Virtual Assets Guidance.
+
+Margin trading
+
+115) Entities wishing to provide margin trading to its Clients will need to submit for approval details of the terms upon which it proposes to do so (for an Applicant, in its Application; for an Authorised Person or Recognition Order holder, as part of ongoing supervisory arrangements). As a general position, the FSRA would only consider allowing entities with a relevant proven track record to provide margin trading. Particular focus will be placed on the proposed leverage ratio.
+
+116) Entities that are not proposing, or permitted, to carry out margin trading will likely have a restriction from doing so placed on their FSP or Recognition Order.
+
+Islamic Finance Rules
+
+117) FSRA’s Islamic Finance Rules (IFR) apply to a number of entities that can operate within ADGM, including Authorised Persons and a Person making an Offer of Securities. As IFR is linked to the use of ‘Specified Investments’, including (Digital) Securities, IFR can apply
+
+VER02.240220
+
+28
+
+to Authorised Persons Conducting Islamic Financial Business or offering/distributing Shari’a-compliant Securities.
+
+STABLECOINS
+
+118) The FSRA recognises that the use of Digital Securities in ADGM may likely coincide with the use of fiat tokens. Further clarity on FSRA’s regulatory position in relation to stablecoins is set out in paragraphs 162 – 166 of the Virtual Assets Guidance. For RIEs or MTFs trading in Digital Securities, the FSRA’s expectation is that paragraph 166d of the Virtual Assets Guidance (where an infrastructure is using its own fiat tokens as a payment/transaction mechanism solely within its own platform/ecosystem) is likely to be the only scenario for the use of stablecoins by a RIE or MTF trading in Digital Securities. Where Applicants consider that there are other business use cases for stablecoins (particularly when used by a RIE, MTF or DSF), these would need to be raised (in writing, and for discussion) with the FSRA. APPLICATION PROCESS
+
+119) In the context of Digital Securities, engagement with the FSRA in relation to approvals required under MKT (Offers of Securities and/or Admissions to the Official List) will be via the FSRA Listing Authority.
+
+120) Separately, Applicants seeking approvals to operate as a RIE, MTF, DSF or RCH must be prepared to engage heavily with the FSRA throughout the relevant application process. The Application process is broadly broken down into five stages, as follows:
+
+a) Due Diligence & Discussions with FSRA team(s); b) Submission of Formal Application; c) Granting of In Principle Approval; d) Granting of Final Approval; and e) ‘Operational Launch’ Testing
+
+Due diligence and Discussions with FSRA team(s)
+
+121) Prior to the submission of an Application, all Applicants are expected to provide the FSRA with a clear explanation of their proposed business model and to demonstrate how the Applicant will meet all applicable FSRA Rules and requirements. These sessions will also involve the Applicants providing a number of in-depth technology demonstrations, across all aspects of its proposed Digital Securities activities. The FSRA generally expects these meetings, where possible, to take place between the Applicant and the FSRA in person. In addition, the FSRA further expects that a number of meetings will need to be held between an Applicant and the FSRA before the Applicant will be in a position to submit a draft, then formal, application. Submission of Formal Application
+
+122) Following discussions with the FSRA, and upon the FSRA having reasonable comfort that the Applicant’s proposed business processes, technologies and capabilities are at a
+
+VER02.240220
+
+29
+
+sufficiently advanced stage, the Applicant will be required to submit a completed Application Form, and supporting documents, to the FSRA. Payment of the fees applicable to the Application, as set out in paragraphs 128 - 139, must also be made at the time of

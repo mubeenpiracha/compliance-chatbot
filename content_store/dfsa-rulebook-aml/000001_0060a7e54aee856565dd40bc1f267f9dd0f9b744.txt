@@ -1,0 +1,159 @@
+ activity report ........................................................................................ 64 13.4 Tipping-off .............................................................................................................. 65 13.5 Freezing assets ...................................................................................................... 65
+
+14 GENERAL ............................................................................................66
+
+14.1 Groups, branches and subsidiaries ........................................................................ 66 14.2 Group policies ........................................................................................................ 67 14.3 Notifications ............................................................................................................ 67 14.4 Record keeping ...................................................................................................... 67 14.5 Annual AML return.................................................................................................. 69 14.6 Communication with the DFSA ............................................................................... 70 14.7 Employee disclosures ............................................................................................. 70 14.8 Decision making procedures .................................................................................. 70
+
+15 DNFBP REGISTRATION AND SUPERVISION ..................................71
+
+15.1 Registration and notifications .................................................................................. 71 15.2 Request to withdraw registration............................................................................. 72 15.3 Disclosure of regulatory status ............................................................................... 73 15.3A Whistleblowing ....................................................................................................... 73 15.4 Transitional ............................................................................................................. 75
+
+16
+
+TRANSITIONAL RULES ......................................................................77
+
+16.1 Application .............................................................................................................. 77 16.2 General .................................................................................................................. 77 16.3 Specific relief – Ancillary Service Provider and DNFBPs ........................................ 77
+
+AML/VER27/03-25
+
+1
+
+1.1
+
+1.1.1
+
+1.1.2
+
+1.2
+
+1.2.1
+
+Anti-Money Laundering, Counter-Terrorist Financing and Sanctions Module (AML)
+
+INTRODUCTION
+
+Application
+
+This module (AML) applies to:
+
+(a)
+
+every Relevant Person in respect of all its activities carried on in or from the DIFC;
+
+(b)
+
+the persons specified in Rule 1.2.1 as being responsible for a Relevant Person’s compliance with this module; and
+
+(c)
+
+a Relevant Person, which is a DIFC entity, to the extent required by Rule 14.1.
+
+except to the extent that a provision of AML provides for a narrower application.
+
+For the purposes of these Rules, a Relevant Person means:
+
+(a)
+
+an Authorised Firm other than a Credit Rating Agency;
+
+(b)
+
+an Authorised Market Institution;
+
+(c)
+
+a DNFBP; or
+
+(d)
+
+a Registered Auditor.
+
+Responsibility for compliance with this module
+
+(1)
+
+Responsibility for a Relevant Person’s compliance with this module lies with every member of its senior management.
+
+(2)
+
+In carrying out their responsibilities under this module every member of a Relevant Person’s senior management must exercise due skill, care and diligence.
+
+(3)
+
+Nothing in this Rule precludes the DFSA from taking enforcement action against any person including any one or more of the following persons in respect of a breach of any Rule in this module:
+
+(a)
+
+a Relevant Person;
+
+(b)
+
+members of a Relevant Person’s senior management; or
+
+(c)
+
+an Employee of a Relevant Person.
+
+3
+
+AML/VER27/03-25
+
+1.3
+
+Anti-Money Laundering, Counter-Terrorist Financing and Sanctions Module (AML)
+
+Application table
+
+Guidance
+
+Relevant Person
+
+Applicable Chapters
+
+Authorised Person
+
+1 - 14
+
+Representative Office
+
+1 - 5*
+
+10- 14
+
+Registered Auditor
+
+1 -8
+
+10 - 14
+
+DNFBP
+
+1 - 15
+
+Chapters 6 – 9 are unlikely to apply to a Representative Office as such an office is only permitted to carry on limited activities in the DIFC and therefore must not have Customers.
+
+4
+
+AML/VER27/03-25
+
+2
+
+Anti-Money Laundering, Counter-Terrorist Financing and Sanctions Module (AML)
+
+OVERVIEW AND PURPOSE OF THE MODULE
+
+Guidance
+
+1.
+
+In this module, for simplicity, a reference to “money laundering” also includes terrorist financing, the financing of illegal organisations and proliferation financing (see Rule 3.1.1).
+
+Overview of the DIFC’s AML regime
+
+2.
+
+The DIFC is governed by two separate and complementary regimes in relation to AML regulation, both administered by the DFSA:
+
+a.
+
+The Federal regime: Under Article 3 of Federal Law No. 8 of 2004, the provisions of Federal Law No. 20 of 2018 on Anti-Money Laundering and Combating the Financing of Terrorism and Illegal

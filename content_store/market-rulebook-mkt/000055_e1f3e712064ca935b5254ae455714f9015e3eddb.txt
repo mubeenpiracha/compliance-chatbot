@@ -1,0 +1,131 @@
+7.8.3 The Regulator may impose a suspension in accordance with Rule 2.6 upon completion of the duration of the Trading Halt established under Rule 7.8.2, or at any time during the Trading Halt established under Rule 7.8.1.
+
+8.
+
+SYSTEMS AND CONTROLS
+
+8.1
+
+Application
+
+8.1.1 This chapter applies to:
+
+(1)
+
+every Listed Entity and Reporting Entity; and
+
+(2)
+
+the Board or the Governing Body of a Listed Entity and Reporting Entity,
+
+as applicable.
+
+Adequacy of systems and controls
+
+8.1.2
+
+(1)
+
+A Reporting Entity must have appropriate systems and controls to be able to demonstrate compliance with the requirements applicable to it including those set out in FSMR and these Rules.
+
+(2)
+
+The Board of the Reporting Entity, and in the case of a Reporting Entity of a Listed Fund, its Governing Body, must ensure that that there are adequate systems and controls established and maintained on an on-going basis to meet the requirement in (1).
+
+(3)
+
+Without limiting the generality of the requirement in (1), the systems and controls of a Reporting Entity must include:
+
+(a)
+
+mechanisms to monitor compliance with the requirements relating to Corporate Governance, Connected Persons, Restricted Persons, or Related Parties as is relevant, and control of Inside Information; and
+
+Confidential
+
+89
+
+MKT VER09.020125
+
+(b)
+
+where any records are required to be maintained, maintenance of such records at least for a period of six years, unless a shorter period is prescribed.
+
+(4)
+
+The Regulator may, where it considers appropriate to do so, require a Reporting Entity to produce third party confirmation on the adequacy of systems and controls established and maintained by a Reporting Entity.
+
+9.
+
+GOVERNANCE OF REPORTING ENTITIES
+
+Guidance
+
+Governance requirements set out under this chapter are designed for the purposes of section 73 of FSMR.
+
+9.1
+
+Application
+
+9.1.1
+
+(1)
+
+This chapter applies to every Reporting Entity except where a narrower application is provided in respect of any particular class of Securities.
+
+(2)
+
+This chapter does not apply to a Reporting Entity of a Listed Fund.
+
+Guidance
+
+See chapter 3 for the governance requirements applicable to Reporting Entities of Listed Funds.
+
+9.2
+
+Corporate Governance Principles
+
+Application
+
+9.2.1 This section applies to a Reporting Entity in respect of Shares, and the Board of Directors
+
+("the Board") of such a Reporting Entity.
+
+Corporate Governance Principles
+
+9.2.2 Pursuant to section 73 of FSMR, the principles in Rules 9.2.3 to 9.2.9 are hereby
+
+prescribed as "the Corporate Governance Principles".
+
+Guidance
+
+1.
+
+The Corporate Governance Principles in this section apply to Reporting Entities as mandatory high level requirements. APP 4 sets out best practice standards that may be adopted by a Reporting Entity to achieve compliance with these principles.
+
+2.
+
+The best practice standards in APP 4 are designed to provide a degree of flexibility so that a Reporting Entity can achieve outcomes intended by the Corporate Governance Principles whilst taking into account the nature, scale and complexity of its business.
+
+Confidential
+
+90
+
+MKT VER09.020125
+
+3.
+
+Generally, if a Reporting Entity does not adopt the best practice standards set out in APP 4, or adopts them only partially, the Regulator would expect the reasons for doing so and any alternative measures adopted to achieve the outcomes intended by the Corporate Governance Principles to be disclosed in the Prospectus and thereafter pursuant to the Disclosure required under Rule 9.2.10. Any inaccurate or false representations would lead to the imposition of civil liability in accordance with section 70 of FSMR.
+
+Principle 1 – Board of Directors
+
+9.2.3 Every Listed Entity must have an effective Board which is collectively accountable for
+
+ensuring that the Listed Entity's business is managed prudently and soundly.
+
+Principle 2 – Division of responsibilities
+
+9.2.4 The Board must ensure that there is a clear division between the Board's responsibility for setting the strategic aims and undertaking the oversight of the Listed Entity and the Senior Management's responsibility for managing the Listed Entity's business in accordance with the strategic aims and risk parameters set by the Board.
+
+Principle 3 – Board composition and resources
+
+9.2.5

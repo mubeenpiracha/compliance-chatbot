@@ -1,0 +1,127 @@
+ rights, assets and liabilities that are protected under any such arrangement between the Institution in Resolution and another person; and
+
+(b)
+
+the modification or termination of rights, assets and liabilities that are protected under any such arrangement through the exercise of Resolution Powers.
+
+73.
+
+Protection for security arrangements
+
+To protect liabilities secured under Collateral Arrangements referred to in section 71(2)(a) that are not Title Transfer Collateral Arrangements, the following shall not be permitted—
+
+(a)
+
+the transfer of assets against which a liability is secured under any such arrangement, unless that liability and the benefit of the security are also transferred;
+
+62
+
+(b)
+
+the transfer of a Secured Liability, unless the benefit of the security is also transferred;
+
+(c)
+
+the transfer of the benefit of the security under any such arrangement, unless the Secured Liability is also transferred; or
+
+(d)
+
+the modification or termination of such an arrangement through the exercise of ancillary powers, if the effect of that modification or termination is that the liability ceases to be secured.
+
+74.
+
+Protection for structured finance arrangements and Covered Bonds
+
+To protect structured finance arrangements and Covered Bonds referred to in section 71(2)(d) and (g), the following shall not be permitted—
+
+(a)
+
+the transfer of some, but not all, of the rights, assets and liabilities which constitute or form part of a structured finance arrangement or Covered Bond to which the Institution in Resolution is a party; or
+
+(b)
+
+the termination or modification, through the exercise of Resolution powers, of the rights, assets and liabilities which constitute or form part of a structured finance arrangement or Covered Bond, to which the Institution in Resolution is party.
+
+75.
+
+Protection of trading, clearing and settlement systems
+
+The Regulator shall ensure that the application of a Resolution Tool does not affect the operation of exchanges, Recognised Investment Exchanges, clearing houses, Recognised Clearing Houses, payment and securities settlement systems and Central Securities Depositories where the Regulator—
+
+(a)
+
+transfers some but not all of the rights, assets or liabilities of an Institution in Resolution to another entity; or
+
+(b)
+
+exercises its Resolution Power under section 58(1)(p) to cancel or modify the terms of a contract to which the Institution in Resolution is a party or to substitute a Recipient as a party.
+
+Chapter 6 Miscellaneous
+
+76.
+
+Public statement
+
+The Regulator may issue a public statement concerning an Institution if it appears to the Regulator to be desirable to issue the statement in the best interests of the public.
+
+77.
+
+International and governmental obligations
+
+The Regulator shall not exercise a Resolution Power in respect of an Institution if the exercise of that Resolution Power would be likely to contravene an international obligation of the UAE or a governmental obligation of the Emirate of Abu Dhabi or the ADGM.
+
+78.
+
+Recognition of Foreign Resolution Actions
+
+(1)
+
+Subject to subsection (2), where the Regulator is notified of a Foreign Resolution Action in respect of a Foreign Institution, the Regulator shall make an instrument—
+
+63
+
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+(6)
+
+(7)
+
+(a)
+
+recognising the Foreign Resolution Action;
+
+(b)
+
+refusing to recognise the Foreign Resolution Action; or
+
+(c)
+
+recognising part of the Foreign Resolution Action and refusing to recognise the remainder of the Foreign Resolution Action.
+
+The Regulator may refuse to recognise a Foreign Resolution Action in whole or in part if it is satisfied that one or more of the following conditions are met—
+
+(a)
+
+recognition would have an adverse effect on financial stability in the ADGM;
+
+(b)
+
+the Resolution Conditions have not been met in relation to the entity listed in section 2 with respect to which the Regulator proposes to take Resolution Action pursuant to section 78(5);
+
+(c)
+
+the taking of Resolution Action by the Regulator in relation to an ADGM Branch pursuant to section 78(5) is not necessary to achieve one or more of the Resolution Objectives;
+
+(d)
+
+under the Foreign Resolution Action, creditors located or payable in the ADGM would not, by reason of being located in the ADGM, receive the same treatment, and have similar legal rights, as creditors (including depositors) who are located or payable in the non-ADGM jurisdiction concerned; or
+
+(e)
+
+recognition of, and taking action in support of, the Foreign Resolution Action (or the relevant part) would have material fiscal implications for the UAE or the ADGM

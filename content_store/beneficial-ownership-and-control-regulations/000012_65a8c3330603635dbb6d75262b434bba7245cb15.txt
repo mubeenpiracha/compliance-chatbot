@@ -1,0 +1,125 @@
+ the natural
+
+19
+
+persons who are the beneficial owners of such legal person, partnership or legal arrangement, unless the company is a listed company, a company wholly-owned by the Federal Government of the United Arab Emirates, or by any of the governments of the member Emirates of the United Arab Emirates or a company created by Emiri decree within the United Arab Emirates or a company that is wholly-owned by a government or government agency of a Relevant Jurisdiction in which case sub paragraph (4) of paragraph 1 shall apply.
+
+3.
+
+Meaning of beneficial owner: foundations or similar arrangements
+
+(1)
+
+In these Regulations, “beneficial owner”, in relation to an ADGM Person that is a foundation or other legal arrangement similar to a trust, means9:
+
+(a)
+
+the founder;
+
+(b)
+
+the foundation council members (except council members that are ADGM registered company service providers);
+
+(c)
+
+the guardian, if any;
+
+(d)
+
+the beneficiaries (if named) or designee (if applicable) in whose main interest the foundation or arrangement has been established or operates;
+
+(e)
+
+any person who has control over the foundation.
+
+(2) Where any of the above roles are fulfilled by a legal person, a partnership (whether or not a legal person) or a legal arrangement, the ADGM Person must identify the natural persons who are the beneficial owners of such legal person, partnership or legal arrangement unless the company is a listed company, a company wholly-owned by the Federal Government of the United Arab Emirates, or by any of the governments of the member Emirates of the United Arab Emirates or a company created by Emiri decree within the United Arab Emirates or a company that is wholly-owned by a government or government agency of a Relevant Jurisdiction in which case sub paragraph (4) of paragraph 1 shall apply.
+
+(3)
+
+For purposes of subparagraph (e) above, a person shall have “control” if such person10
+
+(a)
+
+holds, directly or indirectly, 25% or more of the voting rights in a foundation registered under the Foundations Regulations;
+
+(b)
+
+holds, directly or indirectly, including by means of being a tokenholder, 10% or more of the voting rights in a foundation registered under the DLT Foundations Regulations; or
+
+(c)
+
+holds the right, directly or indirectly, to appoint or remove the foundation’s officers and/or beneficiaries.
+
+4.
+
+Shares or rights held “indirectly”
+
+9 Amended on 1 November 2023 10 Amended on 1 November 2023
+
+20
+
+(1)
+
+(2)
+
+5.
+
+6.
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+7.
+
+A person holds a share or right “indirectly” if the person has a majority stake in a person and that person is part of a chain of persons:
+
+(a)
+
+each of which (other than the last) has a majority stake in the person immediately below it in the chain; and
+
+(b)
+
+the last of which holds the share or right.
+
+For these purposes, A has a “majority stake” in B if:
+
+(a)
+
+A holds a majority of the shares or voting rights in B;
+
+(b)
+
+A is a member of B and has the right to appoint or remove a majority of the board of directors of B;
+
+(c)
+
+A is a member of B and controls alone, pursuant to an agreement with other shareholders or members, a majority of the voting rights in B; or
+
+(d)
+
+A has the right to exercise, or actually exercises, dominant influence or control over B.
+
+Joint interests
+
+If two or more persons each hold a share or right in an ADGM Person or other legal entity jointly, each of them is treated as holding that share or right.
+
+Joint arrangements
+
+If shares or rights in an ADGM Person or other legal entity held by a person and shares or rights in the same person or other entity held by another person are the subject of a joint arrangement between those persons, each of them is treated as holding the combined shares or rights of both of them.
+
+A “joint arrangement” is an arrangement between the holders of shares (or rights) in an ADGM Person or other legal entity that they will exercise all or substantially all the rights conferred by their respective shares (or rights) jointly in a way that is pre- determined by the arrangement.
+
+“arrangement” includes:
+
+(a)
+
+any scheme, agreement or understanding, whether or not it is legally enforceable; and
+
+(b)
+
+any

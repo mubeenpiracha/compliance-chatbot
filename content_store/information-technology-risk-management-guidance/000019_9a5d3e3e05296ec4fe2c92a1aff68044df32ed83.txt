@@ -1,0 +1,65 @@
+ key decisions throughout the project. The financial institution should involve relevant representatives from technical and business functions at appropriate stages of the project to provide direction and feedback to ensure project outcomes are realised in an effective and timely manner.
+
+5.1.3
+
+Prior to commencing the IT project, the financial institution should conduct necessary analysis to determine if there is a business need for the project, adequate funding and resources, and measurable positive outcomes on the potential impact of the system(s) on operations or services. The appropriate level of management should approve the project prior to commencement.
+
+5.1.4
+
+A financial institution should develop an IT project plan that sets out the scope and objectives of the project, as well as the activities, milestones and the deliverables to be realised at each phase of the project. The plan should clearly define the roles and responsibilities of staff and any third parties involved in the project.
+
+32
+
+VER01.201124
+
+Desired Outcome 5.2 – System Acquisition, Development and Testing
+
+5.2.1
+
+Depending on business strategy, financial institutions may either source for systems or develop their own systems. Each approach should be managed according to the internal rules and standards of the financial institution, and attendant risks managed in accordance with the risk management framework.
+
+End-User Computing
+
+5.2.2
+
+As tools for work automation become more intuitive and as more people become proficient in the use of such tools (e.g., macros, automation scripts and tools, online services, etc.), end-user computing’s (‘EUC’) role in addressing business needs will grow.
+
+5.2.3
+
+A financial institution should establish a process for staff to engage the appropriate level of management to seek approval for EUC with appropriate assessments performed on the business necessity, security posture, and performance of the EUC system or service.
+
+5.2.4
+
+A financial institution should incorporate approved EUC into its IT asset inventory, risk management and compliance programs, configuration and patch management processes, business continuity plans, and any other relevant IT processes and programs to ensure that approved EUCs operate under the financial institution’s ongoing oversight.
+
+5.2.5
+
+Financial institutions should ensure that all staff are aware of the risks of procuring or developing their own systems or services without the knowledge of the IT team(s) and discourage unauthorised EUC as it may result in unexpected security gaps or corporate data exposure and expose the financial institution to risk events.
+
+Sourcing
+
+5.2.6
+
+A financial institution should establish rules and procedures for the procurement of systems and due diligence of vendors. Such rules and procedures, and due diligence, should include an assessment of vendors’ track record, product or service standards, alignment with required system specifications, and the vendors’ ability to deliver the requisite systems.
+
+5.2.7
+
+A financial institution should ensure that a sourced system’s (whether provided as a product or as a service) IT security and data protection standards are at least on par with the financial institution’s own IT security requirements. Necessary approvals from the appropriate level of management within the financial institution should be sought if a sourced system does not meet the required IT security and data protection standards.
+
+5.2.8
+
+For sourced IT projects that require a vendor be granted access to the financial institution’s IT environment, the financial institution should ensure that any such access is stringently assessed, granted, and monitored to prevent unauthorised access to sensitive data or introduction of malicious software (‘malware’) from the vendor.
+
+33
+
+VER01.201124
+
+5.2.9
+
+A financial institution should have in place a process to replace a sourced system with an alternative vendor in the event of a system failure or vendor dissolution. Where only a limited number of vendors are available and there are few or no substitute systems that can meet the IT project objectives, the financial institution should assess the criticality of the system to the business and establish alternative arrangements (e.g., source code escrow, manual workarounds, etc.) to meet business needs.
+
+Cloud Computing
+
+5.2.10 Cloud computing service providers offer a variety of services that come with varied responsibilities depending on the service model adopted, often referred to as the ‘shared responsibility model’. A financial institution should have full clarity on its responsibilities prior to subscribing to or entering into any cloud computing service arrangement.
+
+5.2.11 Like any other sourcing or third-party arrangement, a financial institution should ensure that the cloud computing service

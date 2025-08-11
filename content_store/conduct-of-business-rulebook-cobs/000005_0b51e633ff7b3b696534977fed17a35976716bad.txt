@@ -1,0 +1,117 @@
+ Person may classify a Person as a Market Counterparty if:
+
+(i)
+
+that Person qualifies as a “deemed” Professional Client in accordance with Rule 2.4.2; and
+
+(ii)
+
+the requirements in Rule 2.5(b) have been met.
+
+(b)
+
+An Authorised Person must, before classifying a Professional Client as a Market Counterparty, ensure that such a Person has:
+
+(i)
+
+been given a prior written notification of the classification as a Market Counterparty in relation to a particular Regulated Activity or Transaction, or in respect of all Regulated Activities and Transactions; and
+
+(ii)
+
+not requested to be classified otherwise within the period specified in the notice.
+
+7
+
+COBS VER19.290725
+
+Guidance
+
+In the case of a Market Counterparty which is a fund, trust or is otherwise managed or held by a Person which qualifies as a “deemed” Professional Client, notification under Rule 2.5(b)(i) must be given to the Person which manages or holds the assets of the Market Counterparty.
+
+2.6
+
+Client Classification Procedures
+
+2.6.1 Option for a Professional Client to be classified as a Retail Client
+
+(a)
+
+A Professional Client has the right to elect to be classified as a Retail Client. An Authorised Person must, when first establishing a relationship with such a Person as a Professional Client, inform that Person of:
+
+(i)
+
+that Person’s right to be classified as a Retail Client;
+
+(ii)
+
+the higher level of protection available to Retail Clients;
+
+(iii)
+
+the time within which the Person may elect to be classified as a Retail Client; and
+
+(iv)
+
+the Client is responsible for keeping the Authorised Person informed about any change which could affect their current classification.
+
+(b)
+
+If the Person does not expressly elect to be classified as a Retail Client within the time specified by the Authorised Person, the Authorised Person may classify that Person as a Professional Client.
+
+(c)
+
+If such a Person already classified as a Professional Client by an Authorised Person expressly requests the Authorised Person to be re-classified as a Retail Client, the Authorised Person must re-classify such a Person as a Retail Client.
+
+(d)
+
+If an Authorised Person does not provide Regulated Activities to Retail Clients, it must inform the Person of this fact and any relevant consequences.
+
+Guidance
+
+1.
+
+The obligation in Rule 2.6.1(a) applies to an Authorised Person when it first carries on or intends to carry on a Regulated Activity where this involves provision of a service to a Professional Client.
+
+2.
+
+Once an Authorised Person has first classified a Person as a Professional Client, that Professional Client has a right at any time thereafter to ask to be re-classified as a Retail Client to obtain a higher level of protection either generally, or in respect of a specific Regulate Activity or Transaction. Although the right to ask the Authorised Person to be re-classified as a Retail Client is available to the Professional Client, as a matter of good practice:
+
+(i)
+
+the Authorised Person should also periodically review whether the circumstances relating to the particular Client remain the same; and
+
+8
+
+COBS VER19.290725
+
+(ii)
+
+if the Authorised Person becomes aware of any circumstances which would warrant a reclassification of the Client, initiate the process with the Client to give that Client a more appropriate classification.
+
+3.
+
+An Authorised Person cannot provide Regulated Activities to a Retail Client unless it is permitted to do so in accordance with its Financial Services Permission. However, such an Authorised Person may refer any Person who opts to be treated as a Retail Client to another Authorised Person with the appropriate Financial Services Permission.
+
+2.6.2 Assessment of knowledge and experience
+
+(a)
+
+For the purpose of the analysis required to classify a Person as an “assessed” Professional Client, an Authorised Person must include, where applicable, consideration of the following matters:
+
+(i)
+
+the Person’s knowledge and understanding of the relevant financial markets, types of financial products or arrangements and the risks involved either generally or in relation to a proposed Transaction;
+
+(ii)
+
+the length of time the Person has participated in relevant financial markets, the frequency of dealings and the extent to which the Person has relied on professional financial advice;
+
+(iii)
+
+the size and nature of transactions that have been undertaken by, or on behalf of, the Person in relevant financial markets;
+
+(iv)
+
+the Person’s relevant qualifications relating to financial markets;
+
+(v

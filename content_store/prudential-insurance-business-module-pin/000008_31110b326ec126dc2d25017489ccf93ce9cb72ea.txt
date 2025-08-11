@@ -1,0 +1,75 @@
+5 operates to prohibit, among other things, lending between Long Term Insurance Funds of the same Insurer. Assets must not be organised in such a manner as to create indebtedness between Long Term Insurance Funds.
+
+An Insurer may not enter into any arrangement, whether or not described as a contract of reinsurance, whereby a Long-Term Insurance Fund of the Insurer stands in the same relation to the Insurer as though the Insurer were the reinsurer in a contract of reinsurance in which the Long-Term Insurance Fund is the cedant.
+
+Guidance
+
+Rule 3.5.6 operates to prohibit reinsurance between Long Term Insurance Funds of the same Insurer, as well as arrangements of the nature of internal contracts of reinsurance where the cession transaction is attributed to a Long-Term Insurance Fund but the corresponding reinsurance acceptance transaction is not.
+
+Other requirements
+
+(1)
+
+Except as permitted in this Rule, a DIFC Incorporated Insurer must not effect any Direct Long-Term Insurance contract the terms of which include any of the following:
+
+(a)
+
+investment components of Policy Benefits, that are wholly or partly guaranteed;
+
+(b)
+
+options to receive Policy Benefits on expiry, maturity or surrender as annuities, where annuity rates are wholly or partly guaranteed at the inception of the contract;
+
+(c)
+
+bonuses on participating contracts where those bonuses become vested Policy Benefits or guaranteed by the Insurer at a date prior to expiry, maturity or surrender; or
+
+(d)
+
+other options or discretionary Policy Benefits that expose the Insurer to investment, expense or other risk that is not readily definable at the inception of the contract.
+
+(2)
+
+An Insurer may request the permission of the DFSA to effect Direct Long- Term Insurance contracts with features of the kind referred to in (1). A request must be made in writing and must include:
+
+(a)
+
+details of the terms of the proposed contracts;
+
+(b)
+
+an explanation of how the Insurer intends to price such contracts, and to value them for the purposes of its capital adequacy calculations; and
+
+10
+
+PIN/VER18/04-23
+
+3.6.2
+
+PRUDENTIAL – INSURANCE BUSINESS (PIN)
+
+(c)
+
+an explanation of how the Insurer intends to quantify, monitor and manage the risks to its capital adequacy represented by such features of contracts.
+
+(3)
+
+The DFSA may give an Insurer permission to effect Direct Long-Term Insurance contracts having one or more features of the kind referred to in (1). Permission shall be given in writing and shall be subject to such terms or conditions as the DFSA may specify in its notice giving permission. Where any terms and conditions are imposed on the Insurer, the Insurer shall comply with such terms and conditions.
+
+(4)
+
+The DFSA may on its own initiative at any time vary or revoke permission given under (3) above. Variation or revocation shall be communicated to the Insurer in writing.
+
+(5)
+
+The procedures in Schedule 3 to the Regulatory Law apply to a decision of the DFSA under this Rule not to give permission or to impose conditions or restrictions or to vary or revoke permission.
+
+(6)
+
+If the DFSA decides to exercise its power under this Rule not to give permission or to impose conditions or restrictions or to vary or revoke permission, the Insurer may refer the matter to the FMT for review.
+
+Guidance
+
+1.
+
+The features described in Rule 3.6.1(1) have the potential to expose an Insurer to risks that are not adequately provided for in the capital adequacy framework set out in this Rulebook. The DFSA retains the power to prohibit or limit the inclusion of such features in a Long-Term Insurance contract where it is of the view that the inclusion of such features may have a materially adverse impact upon the long term viability of the Insurer. It is natural for Insurers to seek to stimulate a market by offering features such as guarantees or options. However, the solvency of Insurers could be threatened if they have not adequately valued, stress-tested and set aside adequate capital to service such features. Therefore, the DFSA will expect Insurers seeking permission to write contracts with such features to demonstrate that these steps have been undertaken, and that their procedures provide adequately for ongoing monitoring of the associated risks. Permission to undertake such business may be subject to conditions, for example, a requirement to maintain additional capital, or to restrict business of this

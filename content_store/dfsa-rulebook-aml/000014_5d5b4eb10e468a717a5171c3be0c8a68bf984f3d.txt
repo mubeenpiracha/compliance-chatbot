@@ -1,0 +1,159 @@
+ risk factors, including whether:
+
+(i)
+
+the service involves private banking;
+
+(ii)
+
+the product, service or transaction is one that might favour anonymity;
+
+(iii)
+
+the situation involves non face-to-face business relationships or transactions, without certain safeguards, such as electronic signatures;
+
+(iv) payments will be received from unknown or unassociated
+
+third parties;
+
+(v)
+
+new products and new business practices are involved, including new delivery mechanisms or the use of new or developing for both new and pre-existing products; and
+
+technologies
+
+(vi)
+
+the service involves the provision of nominee directors, nominee shareholders or shadow directors, or the formation of companies in another country; and
+
+(c)
+
+geographical risk factors, including:
+
+(i) countries identified in reports by credible sources, such as mutual evaluations, detailed assessment reports or follow-up reports, as:
+
+(A) not having effective systems to counter money
+
+laundering; or
+
+(B) not implementing requirements to counter money consistent with FATF
+
+laundering Recommendations;
+
+that
+
+are
+
+23
+
+AML/VER27/03-25
+
+6.1.3
+
+Anti-Money Laundering, Counter-Terrorist Financing and Sanctions Module (AML)
+
+(ii) countries identified by credible sources as having significant levels of corruption or other criminal activity, such as terrorism, money laundering or the production and supply of illicit drugs;
+
+(iii) countries subject to sanctions, embargos or similar measures
+
+issued by, for example, the United Nations or the State;
+
+(iv) countries providing funding or support for terrorism; and
+
+(v) countries
+
+that have organisations operating within their territory that have been designated by the State, other countries or terrorist organisations.
+
+International Organisations as
+
+(2)
+
+For the purposes of (1)(c), a credible source includes, but is not limited to, FATF, the IMF, the World Bank, the OECD and other International Organisations.
+
+(3)
+
+When assessing the risk factors referred to in (1), Relevant Persons must bear in mind that the presence of one or more risk factors may not always indicate a high risk of money laundering in a particular situation.
+
+Factors that may indicate lower money laundering risk
+
+(1)
+
+When assessing if there is a low risk of money laundering in a particular situation, a Relevant Person must take into account, among other things:
+
+(a)
+
+customer risk factors, including whether the customer is:
+
+(i)
+
+a public body or a publicly owned enterprise;
+
+(ii)
+
+resident, established or registered in a geographical area of lower risk (as set out in paragraph (c));
+
+(iii)
+
+an Authorised Person;
+
+(iv)
+
+a Regulated Financial Institution that is subject to regulation and supervision, including AML regulation and supervision, in a jurisdiction with AML regulations that are equivalent to the standards set out in the FATF Recommendations;
+
+(v)
+
+a Subsidiary of a Regulated Financial Institution referred to in (iv), if the law that applies to the Parent ensures that the Subsidiary also observes the same AML standards as its Parent;
+
+(vi)
+
+a company whose Securities are listed by the DFSA, another Financial Services Regulator or a Regulated Exchange and which is subject to disclosure obligations broadly equivalent to those set out in the Markets Rules;
+
+(vii)
+
+a law firm, notary firm or other legal business that carries on its business in or from the DIFC; and
+
+(viii)
+
+an accounting firm, insolvency firm, Registered Auditor or other audit firm that carries on its business in or from the DIFC;
+
+(b)
+
+product, service, transaction or delivery channel risk factors, including whether the product or service is:
+
+(i)
+
+a Contract of Insurance that is non-life insurance;
+
+24
+
+AML/VER27/03-25
+
+6.1.4
+
+Anti-Money Laundering, Counter-Terrorist Financing and Sanctions Module (AML)
+
+(ii)
+
+a Contract of Insurance that is a life insurance product with no investment return or redemption or surrender value;
+
+(iii) an insurance policy for a pension scheme that does not provide for an early surrender option and cannot be used as collateral;
+
+(iv) a Contract of Insurance which is a reinsurance contract that is
+
+ceded by an insurer who is a Regulated Financial Institution;
+
+(v) a pension, superannuation or similar scheme that satisfies the
+
+following conditions:
+
+(A)
+
+the scheme provides employees;
+
+retirement benefits
+
+to
+
+(B)
+
+contributions to the scheme are made by way

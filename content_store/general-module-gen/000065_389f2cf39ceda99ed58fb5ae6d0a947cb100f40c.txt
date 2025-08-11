@@ -1,0 +1,115 @@
+, including the following standards:
+
+a.
+
+International Organisation for Standardisation: Information technology – Security techniques – Information security management systems – Overview and vocabulary (ISO standard no. 27000:2018);
+
+b.
+
+US National Institute of Standards and Technology: Framework for Improving Critical Infrastructure Cybersecurity (2018);
+
+c.
+
+Center for Internet Security: Critical Security Controls (2018);
+
+d.
+
+Committee on Payments and Market Infrastructures and the International Organisation of Securities Commissions: Guidance on cyber resilience for financial market infrastructures (2016); and
+
+e.
+
+Cloud Security Alliance: Cloud Controls Matrix and CAIQ (2016).
+
+2.
+
+An Authorised Person may also rely on Group-wide policies on Cyber Risk when developing their policies, procedures or controls.
+
+3.
+
+An Authorised Person should tailor any standards or policies it chooses to adopt to its needs. Not all elements of the standards or policies may be applicable. Further, additional policies, procedures and controls may be required to address idiosyncratic risks.
+
+95
+
+GEN/VER67/03-25
+
+5.5.3
+
+5.5.4
+
+GENERAL (GEN)
+
+(1)
+
+An Authorised Person must manage Third-Party Cyber Risk as an integral part of its Cyber Risk Management Framework established under Rule 5.5.2, including by:
+
+(a)
+
+undertaking due diligence to ensure that it chooses suitable third party providers of that comply with appropriate cyber security standards;
+
+ICT Services
+
+(b)
+
+ensuring that the terms of the contractual arrangements with a third party provider of ICT Services require the third party to:
+
+(i)
+
+comply with the Authorised Person’s cyber security requirements;
+
+(ii)
+
+notify the Authorised Person about any Cyber Incident that may affect the Authorised Person;
+
+(iii)
+
+collaborate with the Authorised Person in remediating the impact of a Cyber Incident on the Authorised Person;
+
+(iv)
+
+allow the Authorised Person to verify that the third party continues to meet the Authorised Person’s cyber security requirements; and
+
+(c)
+
+supervising effectively the provision of ICT Services by third parties.
+
+(2)
+
+An Authorised Person that relies on the provision of ICT Services by a third party remains fully responsible for compliance with, and the discharge of, all obligations under this section.
+
+Guidance
+
+1.
+
+This Rule supplements the overarching requirements that govern outsourcing of functions and activities under Rules 5.3.21 and 5.3.22 by an Authorised Person. The scope of this Rule is wider than the scope of those outsourcing requirements as it applies to the provision of all ICT Services that may impact the provision of Financial Services by an Authorised Person, such as a contract for the maintenance of an Authorised Person’s servers.
+
+2.
+
+The supervision of a third party’s provision of ICT Services under Rule 5.5.3(1)(c) should include regular verification that the third party complies with the Authorised Person’s security requirements. Verification can be achieved, for example, through a review of the third party’s control environment or using independent audit reports. Self-verification by the third party would not meet the requirement of effective supervision. The frequency and scope of the reviews should be determined based on the criticality of systems and the sensitivity of information.
+
+3.
+
+The DFSA expects an Authorised Person to apply adequate controls on the use of subcontractors by a third party. An Authorised Person should be aware of the scope of services that are carried out by subcontractors and what actions were undertaken to mitigate Cyber Risk by both, the third party and any of its subcontractors.
+
+Governance
+
+(1)
+
+An Authorised Person must ensure that its Governing Body and senior management are ultimately responsible for ensuring that its Cyber
+
+96
+
+GEN/VER67/03-25
+
+5.5.5
+
+GENERAL (GEN)
+
+Risk Management Framework is followed and that Cyber Risk is managed effectively.
+
+(2) Without limiting the operation of (1), the responsibilities of an Authorised Person’s Governing Body and senior management in respect of Cyber Risk include:
+
+(a) ensuring that Cyber Risk is adequately identified, assessed and managed in accordance with the Authorised Person’s Cyber Risk Management Framework;
+
+(b) establishing and maintaining a senior management structure for the management of Cyber Risk and for ensuring compliance with the Authorised Person’s Cyber Risk Management Framework;
+
+(c) defining the Authorised Person’s Cyber Risk tolerance, which must be in line with its business objectives, strategy

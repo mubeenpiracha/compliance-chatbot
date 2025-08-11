@@ -1,0 +1,109 @@
+ seniority.
+
+15.9.5 The individual referred to in Rule 15.9.4 must provide a written statement confirming that the reconcilitation has been undertaken in accordance with the requirements of this section.
+
+15.9.6 An Authorised Person must notify the Regulator without undue delay where there have been material discrepancies with the reconciliation that have not been rectified.
+
+Guidance
+
+1. If an Authorised Person holds or Controls Client Investments which are Virtual in intervals
+
+2. A material discrepancy includes discrepancies which have the cumulative effect of being material, such as longstanding discrepancies.
+
+3. In accordance with GEN 6.6.7, an Authorised Person whose Financial Service Permission entitles them to hold Client Investments must arrange for a Safe Custody Auditor's Report to be submitted to the Regulator on an annual basis.
+
+15.9.7 Rules 15.9.1 to 15.9.6 do not apply to an Authorised Person which has issued Fiat-
+
+Referenced Tokens in respect of Reserve Investments.
+
+15.10 [Deleted]
+
+15.11 Holding Collateral
+
+15.11.1 Before an Authorised Person holds Collateral on behalf of a Client it must disclose to that
+
+Client:
+
+(a)
+
+the basis and any terms governing the way in which the Collateral will be held, including any rights which the Authorised Person may have to realise the Collateral;
+
+(b)
+
+if applicable, that the Collateral will not be registered in that Client's own name;
+
+103
+
+COBS VER19.290725
+
+(c)
+
+if applicable, that the Authorised Person proposes to return to the Client Collateral other than the original Collateral or original type of Collateral; and
+
+(d)
+
+that in the event of the Authorised Person's Failure:
+
+(i)
+
+of an Abu Dhabi Global Market Firm, any excess Collateral will be sold and the resulting Client Money shall be distributed in accordance with the Client Money Distribution Rules; or
+
+(ii)
+
+of a Non-Abu Dhabi Global Market Firm, that Collateral will be subject to a regime which may differ from the regime applicable in the Abu Dhabi Global Market.
+
+(e)
+
+Before an Authorised Person deposits Client's Collateral with a third party it must notify and obtain the agreement of the third party that:
+
+(i)
+
+the Collateral does not belong to the Authorised Person and must therefore be held by the third party in a segregated Client Account in a name that clearly identifies it as belonging to the Authorised Person's Clients; and
+
+(ii)
+
+the third party is not entitled to claim any lien or right of retention or sale over the Collateral except to cover the obligations owed to the third party arising on the segregated Client Account and no other account.
+
+(f)
+
+An Authorised Person may permit Client's Collateral to be held by a third party only where it has reasonable grounds to believe that the third party is, and remains, suitable to hold that Collateral.
+
+(g)
+
+An Authorised Person must be able to demonstrate to the Regulator's satisfaction the grounds upon which it considers the third party to be suitable to hold Client's Collateral.
+
+(h)
+
+An Authorised Person must take reasonable steps to ensure that the Collateral is properly safeguarded.
+
+(i)
+
+An Authorised Person must withdraw the Collateral from the third party where the Collateral is not being properly safeguarded unless the Client has indicated otherwise in writing.
+
+(j)
+
+An Authorised Person holding Client's Collateral must send a statement every six months to the Client.
+
+(k)
+
+An Authorised Person must reconcile the Client's Collateral in accordance with Rule 15.9.1 in the case of Collateral which is not a Virtual Asset, and Rule 17.8.3 in the case of Collateral which is a Virtual Asset.
+
+15.11A
+
+Title Transfer Collateral Agreements
+
+15.11A.1
+
+An Authorised Person must not enter into a Title Transfer Collateral Agreement in respect of an asset belonging to a Retail Client.
+
+104
+
+COBS VER19.290725
+
+15.11A.2
+
+The Client Money Rules and Safe Custody Rules do not apply in respect of a Safe Custody Asset or Client Money which is held by an Authorised Person pursuant to a Title Transfer Collateral Agreement.
+
+15.11A.3
+
+An Authorised Person must ensure that any Title Transfer Collateral Agreement entered into with a client is written and a copy is provided to the Client. A Title

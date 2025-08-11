@@ -1,0 +1,140 @@
+ this Law and the Rules,
+
+subject to such terms and conditions as it may consider appropriate.
+
+12. Definition of an Offer to the Public
+
+An Offer of Securities to the Public or an Offer of Crypto Tokens to the Public means a communication to any person in any form or by any means, presenting information on the terms of the offer and the Securities or Crypto Tokens (as the case may be) offered, so as to enable an investor to decide to buy the Securities or Crypto Tokens or subscribe to those Securities but excluding:
+
+(a)
+
+any communication in connection with the trading of Securities or Crypto Tokens admitted to trading on an Authorised Market Institution;
+
+5
+
+(b)
+
+any communication made for the purposes of complying with the on-going reporting requirements of the DFSA or an Authorised Market Institution; or
+
+(c)
+
+any other communication prescribed in the Rules as an Exempt Communication.
+
+13. Exempt Offerors
+
+(1)
+
+The prohibition in Article 11(1) does not apply to any:
+
+(a)
+
+Securities of an Exempt Offeror; or
+
+(b)
+
+Securities which are unconditionally and irrevocably guaranteed by an Exempt Offeror.
+
+(2)
+
+For the purposes of Article 13(1), an Exempt Offeror is a recognised government or other person included in the list of Exempt Offerors maintained by the DFSA in the Rules.
+
+(3)
+
+The DFSA may, at its discretion and on its own initiative, include any person in the list of Exempt Offerors maintained by it in circumstances where the requirements prescribed by the DFSA in the Rules are met.
+
+CHAPTER 3: PROSPECTUS REQUIREMENT
+
+14. Obligation to issue a Prospectus
+
+(1)
+
+A person shall not, subject to Article 14(3):
+
+(a)
+
+make an Offer of Securities to the Public in or from the DIFC;
+
+(b)
+
+have Securities admitted to trading on an Authorised Market Institution; or
+
+(c)
+
+have Security Tokens admitted to trading on an Alternative Trading System,
+
+unless there is an Approved Prospectus in relation to the relevant Securities.
+
+(2)
+
+For the purposes of Article 14(1):
+
+(a)
+
+a Prospectus is an Approved Prospectus if it is approved by the DFSA in accordance with the requirements prescribed in the Rules; and
+
+(b)
+
+a reference to a Prospectus in the Law or the Rules is a reference to an Approved Prospectus, unless the context requires otherwise.
+
+(3)
+
+The requirement in Article 14(1) does not apply:
+
+6
+
+15.
+
+(a)
+
+to an Offer of Securities to the Public where that offer is an “Exempt Offer” as prescribed in the Rules; or
+
+(b)
+
+to any Securities to be admitted to trading on an Authorised Market Institution if those Securities are “Exempt Securities” as prescribed in the Rules.
+
+(4)
+
+For the purposes of this Part and the Rules made for the purposes of this Part, unless the context requires otherwise:
+
+(a)
+
+a reference to a Prospectus Offer is a reference to both the making of an Offer of Securities to the Public and to having Securities admitted to trading, either:
+
+(i)
+
+on an Authorised Market Institution; or
+
+(ii)
+
+on an Alternative Trading System, in the case of Security Tokens not already admitted to trading on an Authorised Market Institution;
+
+(b)
+
+a reference to an “offeror” is a reference to the person making a Prospectus Offer; and
+
+(c)
+
+a reference to a Prospectus in respect of a person who has or seeks to have Units of a Fund admitted to trading on either an Authorised Market Institution or an Alternative Trading System (if the Units are Security Tokens that are not admitted to trading on an Authorised Market Institution) is a reference:
+
+(i)
+
+in the case of a Domestic Fund, to a Prospectus under the Collective Investment Law 2010 and the Collective Investment Rules; and
+
+(ii)
+
+in the case of a Foreign Fund, to a Prospectus prepared in accordance with the requirements prescribed in the Rules.
+
+(5)
+
+A Prospectus includes a Supplementary Prospectus, except where otherwise provided in this Law or the Rules
+
+Prospectus content
+
+(1)
+
+A Prospectus shall contain all the information which an investor would reasonably require and expect to find in a Prospectus for the purpose of making an informed assessment of:
+
+(a)
+
+the assets and liabilities, financial position, profits and losses, and prospects of the issuer and any guarantor; and
+

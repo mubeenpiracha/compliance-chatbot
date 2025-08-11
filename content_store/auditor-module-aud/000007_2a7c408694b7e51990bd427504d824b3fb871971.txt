@@ -1,0 +1,137 @@
+(1) A request for withdrawal of an Audit Principal’s registration by the relevant Registered Auditor or Audit Principal must be made by completing and submitting the appropriate form on the DFSA electronic portal to the DFSA.
+
+(2) Before granting a request for withdrawal the DFSA must first be satisfied that:
+
+(a)
+
+the Registered Auditor is able to continue to comply with Rule 2.3.2;
+
+(b)
+
+the Registered Auditor has made appropriate arrangements with respect to its existing audit clients who are Relevant Persons; and
+
+(c)
+
+any other matter which the DFSA would reasonably expect to be resolved has been resolved.
+
+13
+
+AUD/VER9/07-25
+
+Auditor Module (AUD)
+
+4
+
+GENERAL OBLIGATIONS
+
+4.1 Application
+
+4.1.1 This chapter applies to every Registered Auditor, except to the extent that a Rule in this
+
+chapter provides for a narrower application.
+
+4.2 Employees’ suitability and continuing professional development
+
+4.2.1
+
+(1) A Registered Auditor must ensure that all Employees, including its Audit Principals,
+
+engaged in audit work for Relevant Persons:
+
+(a)
+
+remain fit and proper to carry out their role; and
+
+(b)
+
+remain competent by undertaking continuing professional development (CPD) of not less than 120 hours in any three year period with at least 20 hours in each year.
+
+(2) A Registered Auditor must ensure that the CPD in (1)(b):
+
+(a)
+
+is relevant to the Employee’s professional skill and knowledge;
+
+(b)
+
+is in accordance with any direction given by the DFSA; and
+
+(c)
+
+consists of structured activities.
+
+(3)
+
+In (2)(c), “structured activities” means courses, seminars, lectures, conferences, workshops, web-based seminars or e-learning which require a commitment of thirty minutes or more.
+
+(4) A Registered Auditor must maintain records of CPD undertaken by Employees,
+
+including its Audit Principals.
+
+4.3 Professional indemnity insurance
+
+4.3.1
+
+(1) A Registered Auditor must at all times hold adequate and appropriate professional indemnity insurance which covers all types of civil liability arising in connection with the conduct of the Registered Auditor’s business by Employees, including its Audit Principals.
+
+(2) A Registered Auditor must arrange to hold appropriate run off cover that covers a
+
+period of 2 years after its registration as a Registered Auditor is withdrawn.
+
+4.3.2 A Registered Auditor must, annually, provide to the DFSA information relating to the Registered Auditor’s professional indemnity insurance policy, including the terms and duration of, and any claims made under, the policy.
+
+14
+
+AUD/VER9/07-25
+
+Auditor Module (AUD)
+
+4.3.3 A Registered Auditor must maintain proper records and all relevant information relating to:
+
+(a)
+
+its professional indemnity insurance, including the terms of cover and its duration;
+
+(b) how it established the adequacy and appropriateness of the cover for the purposes of
+
+Rule 4.3.1(1); and
+
+(c)
+
+insurance claims made under its professional indemnity insurance policy.
+
+4.3.4 A Registered Auditor must, upon a request by the DFSA, provide to the DFSA promptly the
+
+information referred to in Rule 4.3.3.
+
+4.4 Working Papers
+
+4.4.1 A Registered Auditor must, subject to Rule 4.4.2, maintain sufficient Working Papers in
+
+electronic form to:
+
+(a)
+
+facilitate the proper performance of its functions and duties under these Rules; and
+
+(b)
+
+be able to demonstrate to the DFSA that it properly performed its functions and duties under these Rules.
+
+4.4.2
+
+If a Registered Auditor:
+
+(a) provides Audit Services to a Relevant Person which is part of a Group; and
+
+(b)
+
+in providing those Audit Services, relies on Working Papers relating to the Group or to another member of the Group, including Working Papers prepared by another auditor,
+
+it is not required to maintain a copy of the Working Papers referred to in (b) but must ensure that a copy of those Working Papers is readily accessible to it.
+
+Guidance
+
+A Registered Auditor should be aware that the requirement in Rule 4.4.2 extends to a Group or member of a Group, whether inside or outside the DIFC.
+
+4.4.3 A Registered Auditor must, upon request by the DFSA, provide to the DF

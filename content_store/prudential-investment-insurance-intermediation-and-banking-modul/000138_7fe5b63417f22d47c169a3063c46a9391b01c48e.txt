@@ -1,0 +1,125 @@
+ the Authorised Firm’s overall Liquidity Risk profile on a regular basis by receiving adequate reporting and being aware of any material changes in the Authorised Firm’s current or prospective Liquidity Risk profile;
+
+(e) ensuring that Liquidity Risk is adequately identified, assessed, mitigated, controlled and monitored in accordance with the Authorised Firm’s Liquidity Risk policy;
+
+(f)
+
+ensuring that the Liquidity Risk policy is documented; and
+
+(g) ensuring that the Liquidity Risk policy is reviewed at least annually.
+
+Guidance
+
+1.
+
+Senior management and the Governing Body of an Authorised Firm are expected to demonstrate a thorough understanding of the links between funding liquidity risk and market liquidity risk, as well as how other risks, including credit, market, operational and reputation risks, affect the Authorised Firm’s overall Liquidity Risk policy.
+
+2.
+
+Senior management should ensure that all business units with activities that have an impact on Liquidity Risk are aware of the Liquidity Risk policy and limits.
+
+3.
+
+Senior management should ensure that the Liquidity Risk policy outlines clearly the structure, responsibilities and controls for managing Liquidity Risk in and across different jurisdictions, legal entities and branches. They should also ensure that the structure, responsibilities and controls take into account legal, operational, regulatory, reputational and other constraints on liquidity transfer.
+
+Requirements imposed on a Category 2 firm
+
+(3)
+
+An Authorised Firm in Category 2 (other than a Matched Principal) must:
+
+(a) establish and maintain a senior management structure to manage
+
+Liquidity Risk;
+
+(b)
+
+identify, assess, mitigate, control and monitor Liquidity Risk; and
+
+(c) monitor the Authorised Firm’s overall Liquidity Risk profile on a regular
+
+basis.
+
+Guidance
+
+In respect of Rule 9.2.2(2)(b), senior management are expected to:
+
+a.
+
+oversee the development, establishment and maintenance of procedures and practices that translate the goals, objectives and risk tolerances approved by the Governing Body into operating standards that are consistent with the Governing Body's intent and which are understood by the relevant members of an Authorised Firm's staff;
+
+b.
+
+adhere to the lines of authority and responsibility that the Governing Body has established for managing Liquidity Risk;
+
+207
+
+PIB/VER50/07-25
+
+9.2.3
+
+9.2.4
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+c.
+
+oversee the establishment and maintenance of management information and other systems that identify, assess, control and monitor the Authorised Firm's Liquidity Risk; and
+
+d.
+
+oversee the establishment of effective internal controls over the Liquidity Risk management process.
+
+(1)
+
+An Authorised Firm may delegate the day-to-day management of its Liquidity Risk to another entity in the same Group for management on a Group basis only if:
+
+(a)
+
+the Governing Body of the Authorised Firm:
+
+(i)
+
+has formally approved the delegation;
+
+(ii)
+
+keeps the delegation under review; and
+
+(b)
+
+the Authorised Firm notifies the DFSA in writing of the delegation immediately upon its being made.
+
+(2)
+
+If an Authorised Firm delegates the management of its Liquidity Risk in accordance with (1), the requirements in this chapter continue to apply to the Authorised Firm.
+
+(3)
+
+An Authorised Firm must revoke a delegation referred to in (1) and bring day-to-day Liquidity Risk management back within the Authorised Firm if the DFSA requests it in writing to do so.
+
+Guidance
+
+If Liquidity Risk management is delegated as set out in Rule 9.2.3, responsibility for its effectiveness remains with the Authorised Firm’s Governing Body.
+
+Identifying Liquidity Risk
+
+(1)
+
+An Authorised Firm must comply with the requirements in this Rule in implementing its systems and controls referred to in Rule 9.2.1(2) and (3).
+
+(2)
+
+An Authorised Firm must assess the cash flows for its assets, liabilities and off-balance sheet items under both normal market conditions and stressed conditions resulting from either general market turbulence or firm-specific difficulties.
+
+(3)
+
+An Authorised Firm must assess the extent to which committed facilities can be relied upon under stressed conditions identified in accordance with Rule 9.2A.3.
+
+(4)
+
+An Authorised Firm must consider potential liability concentrations when determining the appropriate mix of liabilities.
+
+(5)
+
+An Authorised

@@ -1,0 +1,247 @@
+ and
+
+(b)
+
+reporting lines for the department accountable for the valuation process that are clear and independent of the front office.
+
+A2.4 Reporting to the DFSA
+
+A2.4.1
+
+In the following Table 1:
+
+(a)
+
+the column headed ‘Domestic Firm or Branch’ indicates whether the relevant form must be prepared and submitted by a Domestic Firm or Branch;
+
+(b)
+
+the column headed ‘Authorised Firm Category’ indicates which Category of Authorised Firm must prepare and submit the relevant form;
+
+(c)
+
+the column headed ‘Frequency’ indicates whether the relevant form must be prepared and submitted on a quarterly or annual basis; and
+
+(d)
+
+the column headed ‘Semi-annual consolidated reporting for Financial Groups’ indicates which Category of Authorised Firm of a Financial Group must prepare and submit the relevant form on a semi-annual basis.
+
+244
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+Guidance
+
+Table 1 is referred to in section 2.3, and forms part of the Rules.
+
+245
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+Table 1
+
+Authorised Firm Reporting Matrix
+
+Form Number
+
+Form Name
+
+Domestic Firm or Branch
+
+Authorised Firm Category
+
+Frequency
+
+Semi-annual consolidated reporting for Financial Groups
+
+B10A
+
+Assets
+
+Domestic Firm and Branch
+
+Category 1, 2, 3A, 3B, 3C, 3D and 4
+
+Quarterly and annually
+
+Category 1 and 2 (other than a Matched Principal)
+
+B10B
+
+Liabilities (Domestic)
+
+Domestic Firm
+
+Category 1, 2, 3A, 3B, 3C, 3D and 4
+
+Quarterly and annually
+
+Category 1 and 2 (other than a Matched Principal)
+
+B10B
+
+Liabilities (Branch)
+
+Branch
+
+Category 1, 2, 3A, 3B, 3C, 3D and 4
+
+Quarterly and annually
+
+Not applicable
+
+B10C
+
+Equity
+
+Domestic Firm
+
+Category 1, 2, 3A, 3B, 3C, 3D and 4
+
+Quarterly and annually
+
+Category 1 and 2 (other than a Matched Principal)
+
+B10D
+
+OBS Exposures
+
+Domestic Firm and Branch
+
+Category 1, 2, 3A, 3B, 3C, 3D and 4
+
+Quarterly and annually
+
+Category 1 and 2 (other than a Matched Principal)
+
+B20A
+
+Assets – IFI
+
+Domestic Firm and Branch
+
+Category 5
+
+Quarterly and annually
+
+Category 5
+
+B20B
+
+Liabilities (Domestic) – IFI
+
+Domestic Firm
+
+Category 5
+
+Quarterly and annually
+
+Category 5
+
+B20B
+
+Liabilities (Branch) – IFI
+
+Branch
+
+Category 5
+
+Quarterly and annually
+
+Not applicable
+
+B20C
+
+Equity - IFI
+
+Domestic Firm
+
+Category 5
+
+Quarterly and annually
+
+Category 5
+
+246
+
+PIB/VER50/07-25
+
+Form Number
+
+B20D
+
+B20E
+
+B30
+
+B40A
+
+B40B
+
+B50A
+
+B50B
+
+B100
+
+B110
+
+Form Name
+
+OBS Exposures – IFI
+
+Analysis of Reserve Movement – IFI
+
+Related Party Schedule
+
+Profit and Loss
+
+Statement of Comprehensive Income
+
+Profit and Loss - IFI
+
+Statement of Comprehensive Income - IFI
+
+Declaration by Authorised Firms
+
+Capital Ratios
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+Domestic Firm or Branch
+
+Authorised Firm Category
+
+Frequency
+
+Semi-annual consolidated reporting for Financial Groups
+
+Domestic Firm and Branch
+
+Category 5
+
+Quarterly and annually
+
+Category 5
+
+Domestic Firm
+
+Category 5
+
+Quarterly and annually
+
+Category 5
+
+Domestic Firm and Branch
+
+All Categories
+
+Quarterly and annually
+
+Not applicable
+
+Domestic

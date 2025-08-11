@@ -1,0 +1,141 @@
+ information that is material to understanding the disclosure.
+
+12.6
+
+Initial disclosure of Petroleum Resources
+
+12.6.1 A Petroleum Reporting Entity must immediately disclose any new material estimates of Prospective Resources, Contingent Resources or Petroleum Reserves that have not previously been disclosed.
+
+12.6.2 A Petroleum Reporting Entity making a disclosure under Rule 12.6.1 must ensure the
+
+disclosure contains:
+
+(1)
+
+the types of permits or licences held by the Petroleum Reporting Entity relating to the estimates;
+
+(2)
+
+an explanation of the new data and information;
+
+Confidential
+
+138
+
+MKT VER09.020125
+
+(3)
+
+an explanation of how the new data and information has affected the estimates of Prospective Resources, Contingent Resources or Petroleum Resources; and
+
+(4)
+
+any changes or additions to the information previously disclosed relating to:
+
+(a)
+
+Prospective Resources under Rules 12.8.1(1) to 12.8.1(4);
+
+(b)
+
+Contingent Resources under Rules 12.10.1(1) to 12.10.1(5); and
+
+(c)
+
+Petroleum Reserves under Rules 12.12.1(1) to 12.12.1(7).
+
+12.7 Prospective Resources
+
+12.7.1 A Petroleum Reporting Entity disclosing estimates of Prospective Resources must:
+
+(1)
+
+be categorised and disclosed as either Low Estimate (1U), Best Estimate (2U) or High Estimate (3U) in the category that best reflects the degree of uncertainty in the estimated quantities of potentially recoverable Petroleum;
+
+(2)
+
+if a High Estimate of Prospective Resources is disclosed, disclose the Best Estimate and Low Estimate of Prospective Resources; and
+
+(3)
+
+disclose an at least equally prominent, and proximate, statement to the effect that:
+
+“The estimated quantities of petroleum that may potentially be recovered by the to undiscovered future development project(s) relate application of a accumulations. These estimates have both an associated risk of discovery and a risk of development. Further exploration appraisal and evaluation is required to determine the existence of a significant quantity of potentially moveable petroleum.”
+
+12.8 Prospective Resources – Material Changes
+
+12.8.1 A Petroleum Reporting Entity disclosing estimates of Prospective Resources that are material and that have not previously been disclosed by the Petroleum Reporting Entity, must ensure the disclosure contains:
+
+(1)
+
+the types of permits or licenses held by the Petroleum Reporting Entity for the disclosed estimates of Prospective Resources;
+
+(2)
+
+a description of:
+
+(a)
+
+the method of estimation;
+
+(b)
+
+any further Exploration activities to be undertaken (including studies, further data acquisition and evaluation work, and Exploration drilling); and
+
+(c)
+
+the expected timing of those Exploration activities;
+
+Confidential
+
+139
+
+MKT VER09.020125
+
+(3)
+
+the Petroleum Reporting Entity’s assessment of the likelihood of discovery and development associated with the disclosed estimates of Prospective Resources; and
+
+(4)
+
+an explanation of the relevant risk factors.
+
+Guidance
+
+Sections 1.1, 2.16, 3.2, 4.8, 6.2, 7.1 and 8.5 of the PRMS Guidelines provide additional guidance on Prospective Resources.
+
+12.9 Contingent Resources
+
+12.9.1 A Petroleum Reporting Entity disclosing estimates of Contingent Resources must:
+
+(1)
+
+be categorised and disclosed as either C1, C2 or C3 in the category that best reflects the degree of uncertainty in the estimated quantities of potentially recoverable Petroleum and if an estimate of C3 is disclosed, also disclose estimates of C2 and C1;
+
+(2)
+
+not disclose a mean estimate of Contingent Resources; and
+
+(3)
+
+where the disclosure represents aggregated estimates of Contingent Resources:
+
+(a)
+
+include the aggregation method used, which must be either:
+
+(i)
+
+an arithmetic summation by category (being C1, C2 or C3); or
+
+(ii)
+
+a statistical aggregation of uncertainty distributions up to the field, property of project level; and
+
+(b)
+
+where Rule 12.9.1(3)(a)(i) applies, include a statement to the effect that the aggregate C1 may be a very conservative estimate and the aggregate C3 may be a very optimistic estimate due to the portfolio effects of arithmetic summation.
+
+Guidance
+
+The Petroleum Reporting Standard defines ‘ag

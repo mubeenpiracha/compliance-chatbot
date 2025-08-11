@@ -1,0 +1,127 @@
+SA decides to designate an Authorised Firm as a SIB or to amend the designation, the Authorised Firm may refer the matter to the FMT for review.
+
+(5) Paragraphs (3) and (4) do not apply to a DFSA decision to designate a G-SIB
+
+under Rule 1.4.1 or to amend the designation.
+
+Guidance
+
+The Schedule 3 procedures and the right of review by the FMT do not apply to the designation of a G- SIB under Rule 1.4.1 (see Rule 1.4.4(5)). This is because the DFSA, under Rule 1.4.1, will designate a bank as a G-SIB if it is included on the list of global systemically important banks published by the Financial Stability Board.
+
+26
+
+PIB/VER50/07-25
+
+2
+
+2.1
+
+2.1.1
+
+2.2
+
+2.2.1
+
+2.2.2
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+GENERAL REQUIREMENTS
+
+Introduction
+
+Guidance
+
+This chapter details the threshold conditions for the mandatory maintenance of a Trading Book, periodic prudential reporting requirements to the DFSA, guidance on prudent valuation practices, and requirements to produce and maintain a risk appetite statement. Appendix 2 includes detailed Rules on the positions to be included in the Trading Book, the valuation of such positions, prudent valuation practices and associated issues related to the identification and treatment of Trading Book positions. Appendix 2 also specifies the DFSA’s expectations with regard to the need for a documented Trading Book policy and risk management systems and controls for the Trading Book. Appendix 2 also presents in a tabular fashion, detailed specifications on periodic prudential reporting requirements for different categories of Authorised Firms.
+
+Application
+
+This chapter applies to an Authorised Firm in any Category.
+
+Trading Book
+
+An Authorised Firm must have a Trading Book if:
+
+(a)
+
+it has positions that must be included in a Trading Book in accordance with section A2.1 of App2;
+
+(b)
+
+those positions are held with trading intent in accordance with Rule A2.1.5; and
+
+(c)
+
+the total value of the positions eligible for inclusion in the Trading Book pursuant to (a) and (b):
+
+(i)
+
+normally exceeds $15 million or 5% of its combined on and off- balance sheet positions; or
+
+(ii)
+
+has exceeded $20 million or 6% of its combined on and off-balance sheet positions at any time in the preceding twelve month period.
+
+An Authorised Firm that must have a Trading Book in accordance with Rule 2.2.1 must:
+
+(a)
+
+comply with the requirements of section A2.1 of App2; and
+
+(b)
+
+differentiate its business between Trading Book activity and Non-Trading Book activity on a consistent basis.
+
+27
+
+PIB/VER50/07-25
+
+2.2.3
+
+2.3
+
+2.3.1
+
+2.3.2
+
+2.3.3
+
+2.3.4
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+An Authorised Firm which has a Trading Book must have adequate systems and controls to:
+
+(a)
+
+monitor the size of its Trading Book; and
+
+(b)
+
+ensure that positions are included consistently in its Trading Book and Non- Trading Book so that:
+
+(i)
+
+the inclusion of hedging positions in the Trading Book or the Non- Trading Book at all times reflects the intent of the Authorised Firm in holding the position; and
+
+(ii)
+
+adequate records are made if positions are transferred between Trading and Non-Trading Books so that the transfers may be identified.
+
+Reporting to the DFSA
+
+(1) An Authorised Firm must comply with the accounting and prudential reporting
+
+requirements set out in this chapter and PRU which apply to it.
+
+(2) The DFSA may impose additional reporting requirements on an Authorised
+
+Firm.
+
+An Authorised Firm must, subject to Rule 2.3.3:
+
+(a) prepare its returns in accordance with the Rules in this chapter, the instructional guidelines in PRU, and the requirements of the DFSA’s electronic prudential reporting system; and
+
+(b)
+
+submit the returns to the DFSA using the

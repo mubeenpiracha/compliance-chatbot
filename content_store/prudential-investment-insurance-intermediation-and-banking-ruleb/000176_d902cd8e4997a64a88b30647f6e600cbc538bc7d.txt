@@ -1,0 +1,101 @@
+ised Person. The Authorised Person may give a representation or warranty solely in respect of the nature or existing state of facts of any underlying Exposure, that is capable of being verified, at the time of its transfer.
+
+(h)
+
+the transfer of the underlying Exposures or the transfer of risk through sub-participation does not contravene the terms and conditions of any underlying agreement in respect of the underlying Exposures and where applicable, all the necessary consents for the transfer or sub-participation have been obtained;
+
+(i)
+
+the documentation of the securitisation specifies that, if cash flows relating to the underlying Exposures are rescheduled or renegotiated, the SPE to which the Exposures have been transferred and not the Authorised Person, would be subject to the rescheduled or renegotiated terms;
+
+(j)
+
+the Authorised Person receives a fixed amount of consideration for the underlying Exposures;
+
+(k)
+
+the Authorised Person holds not more than 20% of the aggregate original amount of all Securities issued by the SPE, except where such holdings comprise entirely of Securities that have a Credit Quality Grade of 1 as set out in Rules in Sections 4.11 and 4.12, and all transactions with the SPE are conducted at arm's length and on market terms and conditions;
+
+(l)
+
+where the assets relate to the Islamic Financial Business of an Authorised Person, a written confirmation from the appointed Shari'a Supervisory Board that the securitisation complies with Shari'a; and
+
+(m)
+
+each of the points (a) to (l) must be evidenced and confirmed by a legal opinion from a qualified legal counsel.
+
+Guidance
+
+1.
+
+An Authorised Person is deemed to have effective control over the transferred Exposures if:
+
+310
+
+PRU VER17.290725
+
+a.
+
+it is able to repurchase from the transferee the previously transferred Exposures in order to realise their benefits; or
+
+b.
+
+it is obligated to retain the risk of the transferred Exposures.
+
+2.
+
+In this regard, an Authorised Person acting as a Servicer in respect of the transferred Exposures will not necessarily constitute effective control of the Exposures.
+
+3.
+
+In respect of Rule A4.10.1(j), the amount of consideration received in the form of a fixed amount of Securities in the SPE would generally be regarded as meeting this requirement if the transaction is conducted at arm's length and on market terms and conditions. Also, this requirement does not preclude excess cash from being channelled to the Authorised Person after all claims connected with the Securities issued by the SPE have been paid out.
+
+A4.10.2 An Authorised Person which is an Originator or a Sponsor of a Synthetic Securitisation may recognise the credit protection obtained through the Synthetic Securitisation in its calculation of Credit RWA amounts only if all of the following conditions have been complied with:
+
+(a)
+
+significant Credit Risk associated with the underlying Exposures has been transferred from the Originator to third parties;
+
+(b)
+
+the instrument used to transfer the underlying Credit Risks must not contain terms or conditions that limit in any way the amount of Credit Risk transferred, including, but not limited to, clauses that:
+
+(i)
+
+materially limit the credit protection or Credit Risk transference (e.g. significant materiality thresholds below which credit protection is deemed not to be triggered even if a credit event occurs or those that allow for the termination of the protection due to deterioration in the credit quality of the underlying Exposures);
+
+(ii)
+
+require the Authorised Person to alter the underlying Exposures to improve the weighted average credit quality of the pool;
+
+(iii)
+
+increase the cost of credit protection to the Authorised Person in response to deterioration in the credit quality of the underlying Exposures;
+
+(iv)
+
+increase the yield payable to parties other than the Authorised Person, such as investors and third-party providers of Credit Enhancements, in response to a deterioration in the credit quality of the underlying Exposures; or
+
+(v)
+
+provide for increases in a retained First Loss Position or Credit Enhancement provided by the originating bank after the transaction's inception.
+
+311
+
+PRU VER17.290725
+
+(c)
+
+(d)
+
+(e)
+
+(f)
+
+(g)
+
+(h)
+
+(i)
+
+an Authorised Person must provide an external legal opinion from a qualified legal counsel that confirms each of the points (i-v) and the enforceability of the contracts in all relevant jurisdictions

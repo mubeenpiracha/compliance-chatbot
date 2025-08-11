@@ -1,0 +1,101 @@
+ to be careful to ensure that it does not carry on any activities other than those prescribed under GEN Rule 2.26.1.
+
+5.
+
+A Representative Office which undertakes a Financial Service which is outside the scope of its Licence will be in breach of Article 42(4) of the Regulatory Law. If the DFSA believes that a Representative Office is in breach of Article 42(4), it may take steps which may include withdrawal of authorisation and formal enforcement action under the Regulatory Law.
+
+6.
+
+See also Guidance under section 1.3 for further clarification on the activities that a Representative Office is permitted to undertake.
+
+1.2
+
+Interpretation
+
+Guidance
+
+1.
+
+Every provision of REP and any other module of the Rulebook should be interpreted in the light of its purpose. The purpose of any provision is to be gathered first and foremost from the text of the provision in question and its context among other relevant provisions.
+
+2
+
+REP/VER12/11-22
+
+REPRESENTATIVE OFFICE (REP)
+
+2.
+
+Where this section refers to a provision, this means every type of provision, including Rules and Guidance.
+
+3.
+
+Where reference is made in REP to another provision of the Rulebook or to another provision of DIFC legislation, it is a reference to that provision as amended from time to time.
+
+4.
+
+Unless the contrary intention appears:
+
+a.
+
+words in the Rulebook importing the masculine gender include the feminine gender and words importing the feminine gender include the masculine; and
+
+b.
+
+words in the Rulebook in the singular include the plural and words in the plural include the singular.
+
+5.
+
+If a provision in the Rulebook refers to a communication, notice, agreement, or other documents ‘in writing’ then, unless the contrary intention appears, it means in legible form and capable of being reproduced on paper, irrespective of the medium used. Expressions related to writing must be interpreted accordingly.
+
+6.
+
+Any reference to ‘dollars’ (‘$’) is a reference to United States Dollars unless the contrary intention appears.
+
+7.
+
+References to Articles made throughout the Rulebook are references to the Regulatory Law 2004 unless otherwise stated.
+
+8.
+
+Unless stated otherwise, a day means a calendar day. If an obligation falls on a calendar day which is either a Saturday or Sunday or an official State holiday in the DIFC, the obligation takes effect on the next calendar day which is a business day.
+
+Defined terms
+
+9.
+
+Defined terms are identified throughout the Rulebook by the capitalisation of the initial letter of a word or phrase and are defined in the Glossary (GLO). Unless the context otherwise requires, where capitalisation of the initial letter is not used, an expression has its natural meaning.
+
+1.3 Scope of a Representative Office Licence
+
+Guidance
+
+What is the scope of the activities of a Representative Office?
+
+1. A Representative Office (Rep Office) is permitted to carry on a very narrow set of activities described as ‘marketing’ of financial services or financial products offered in a jurisdiction outside the DIFC by a ‘related party’ (i.e. its head office, another branch of the head office or a Group member). ‘Marketing activities’
+
+2. The ‘marketing’ activities of a Rep Office can include one or more of the following:
+
+a.
+
+providing information about financial services or products offered by its head office or a Group member outside the DIFC;
+
+b.
+
+engaging in Financial Promotions (such as holding events and seminars) relating to the financial products or financial services referred to above; and
+
+c. making introductions or referrals to its head office or a member of its Group for the
+
+financial services or financial products offered by them outside the DIFC.
+
+3
+
+REP/VER12/11-22
+
+REPRESENTATIVE OFFICE (REP)
+
+3.
+
+In addition to the above, a Rep Office may undertake certain additional activities which may not necessarily amount to ‘marketing’ of related party financial services and financial products. Examples are activities to increase the profile of its head office and be the point of contact and source of information about those parties. Similarly, a Rep Office may also report to the head office on matters such as business trends, business opportunities and developments in the DIFC markets.
+
+4. Whether a Rep Office is acting outside the scope of its Licence is always a question of fact, which the DFSA will determine in the overall context of the activities

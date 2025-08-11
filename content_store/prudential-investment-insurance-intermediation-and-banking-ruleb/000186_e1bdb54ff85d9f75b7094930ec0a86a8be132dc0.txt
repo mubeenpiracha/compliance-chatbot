@@ -1,0 +1,99 @@
+ to counterparty i.
+
+Counterparty i must be mapped to one of the six weights wi based on the Credit Quality Grade determined from an external credit assessment by a nominated ECAI, as set out in Table 1. For a counterparty for which a credit assessment by a nominated ECAI is not available, an Authorised Person must assign wi=1.0% to this counterparty;
+
+Credit Quality Grade
+
+Weight wi
+
+1
+
+0.7%
+
+2
+
+0.8%
+
+3
+
+1.0%
+
+4
+
+2.0%
+
+5
+
+3.0%
+
+6
+
+10.0%
+
+𝑡𝑜𝑡𝑎𝑙
+
+𝐸𝐴𝐷𝑖
+
+= the total Counterparty Risk exposure value of counterparty i (summed across its netting sets) including the effect of collateral as applicable to the calculation of the capital requirements for Counterparty Risk for that counterparty. The exposure must be discounted by applying the following factor:
+
+1 − 𝑒−0.05∗𝑀𝑖 ℎ𝑒𝑑𝑔𝑒 0.05 ∗ 𝑀𝑖
+
+Bi
+
+= the notional of purchased single name credit default swap hedges (summed if more than one position) referencing counterparty i and used to hedge CVA risk. That notional amount must be discounted by applying the following factor:
+
+ℎ𝑒𝑑𝑔𝑒
+
+1 − 𝑒−0.05∗𝑀𝑖 0.05 ∗ 𝑀𝑖
+
+ℎ𝑒𝑑𝑔𝑒
+
+325
+
+𝑡𝑜𝑡𝑎𝑙 − 𝑀𝑖
+
+ℎ𝑒𝑑𝑔𝑒𝐵𝑖)
+
+2
+
+PRU VER17.290725
+
+Bind
+
+= the full notional of one or more index credit default swap of purchased protection used to hedge CVA risk. That notional amount must be discounted by applying the following factor:
+
+1 − 𝑒−0.05∗𝑀𝑖𝑛𝑑 0.05 ∗ 𝑀𝑖𝑛𝑑
+
+Wind
+
+= the weight applicable to index hedges. An Authorised Person must determine Wind by calculating a weighted average of wi that are applicable to the individual constituents of the index;
+
+Mi
+
+= the effective maturity of the transactions with counterparty i. Mi must be calculated as the notional weighted average maturity of the transactions with counterparty i;
+
+ℎ𝑒𝑑𝑔𝑒
+
+𝑀𝑖
+
+= the maturity of the hedge instrument with notional Bi (the quantities [Mhedge
+
+i Bi] are to be summed if there are several positions); and
+
+Mind
+
+= the maturity of the index hedge. In the case of more than one index hedge position Mind is the notional-weighted maturity.
+
+A5.3.2 Where a counterparty is included in an index on which a credit default swap used for hedging Counterparty Risk is based, the Authorised Person may subtract the notional amount attributable to that counterparty in accordance with its reference entity weight from the index credit default swap notional amount and treat it as a single name hedge (Bi) of the individual counterparty with maturity based on the maturity of the index.
+
+A5.4 Eligible hedges
+
+A5.4.1
+
+Hedges must be "Eligible Hedges" for the purposes of the calculation of capital requirements for CVA risk in accordance with Section A5.3 only where they are used for the purpose of mitigating CVA risk and managed as such, and single-name credit default swaps or other equivalent hedging instruments referencing the counterparty directly.
+
+A5.4.2
+
+An Authorised Person must not reflect other types of Counterparty Risk hedges in the calculation of the capital requirements for CVA risk. In particular, tranched or nth-to- default credit default swaps and credit linked notes are not Eligible Hedges for the purposes of the calculation of the capital requirements for CVA risk.
+
+A5.4.3

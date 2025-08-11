@@ -1,0 +1,105 @@
+ Standard; and
+
+(2)
+
+this Chapter 12 of the Rules.
+
+Guidance
+
+Rule 12.2.1 applies to all disclosures made or required to be made under these Rules which include a statement about Petroleum Resources, including estimates of Petroleum Reserves, Contingent Resources or Prospective Resources, including within a Prospectus, Exempt Offer document, bidder’s and target’s statements, annual reports, financial statements, technical papers, presentations, and website content and disclosures.
+
+To ensure consistency of its disclosures, Issuers and Petroleum Reporting Entities should be mindful of the table format for disclosure of Petroleum Resources set out in Form-12-1.
+
+12.2.2 Where a disclosure by a Petroleum Reporting Entity does not meet a non-mandatory requirement contained in the Petroleum Reporting Standard, the Petroleum Reporting Entity must provide in its disclosure a statement as to how and why its disclosure differs from the non-mandatory requirement contained in the relevant Petroleum Reporting Standard.
+
+Guidance
+
+Rule 12.2.1(1) requires a Petroleum Reporting Entity to fully comply with all binding requirements set out in the Petroleum Reporting Standard (including any tables, appendices or schedules). The Regulator also expects a Petroleum Reporting Entity to fully comply with all non-mandatory requirements set out in the Petroleum Reporting Standard, or explain their non-compliance in accordance with Rule 12.2.2.
+
+12.2.3 A Petroleum Reporting Entity must disclose Petroleum Resources in the most specific resource class that the Petroleum Resources can be classified under the Petroleum Reporting Standard.
+
+Guidance
+
+The specific classes for Petroleum Resources are identified in section 1.1 of the Petroleum Reporting Standard. They are production, Petroleum Reserves, Contingent Resources, Prospective Resources and unrecoverable Petroleum. The PRMS Guidelines provide additional guidance on Petroleum Resource classification.
+
+12.2.4 A disclosure that includes estimates of Petroleum Reserves, Contingent Resources or
+
+Prospective Resources must:
+
+(1)
+
+clearly identify whether the Deterministic Method or Probabilistic Method was used in preparing the estimates; and
+
+Confidential
+
+135
+
+MKT VER09.020125
+
+Guidance
+
+Additional guidance on Deterministic Methods (in sections 4.1 and 5.2) and Probabilistic Methods (in section 5.3 and 7.1) is provided in the PRMS Guidelines.
+
+(2)
+
+identify the Evaluation Date.
+
+Guidance
+
+To ensure consistency of its disclosures, a Petroleum Reporting Entity should be mindful of the table format for disclosure of Petroleum Reserves, Contingent Resources and Prospective Resources set out in Form 12-1.
+
+12.2.5 If Total Petroleum Initially-In-Place, Estimated Ultimate Recovery or Discovered Petroleum Initially-In-Place are disclosed by a Petroleum Reporting Entity, all of the following information must, where applicable, be prominently and proximately included in the disclosure:
+
+(1)
+
+an estimate of Petroleum Reserves;
+
+(2)
+
+an estimate of Contingent Resources;
+
+(3)
+
+an estimate of Prospective Resources; and
+
+(4)
+
+whether, and how, each class of Petroleum Resource was adjusted for risk.
+
+Guidance
+
+The Petroleum Reporting Standard defines Total Petroleum Initially-In-Place, Estimated Ultimate Recovery and Discovered Petroleum Initially-In-Place in section 1.1 and its Appendix A. The Petroleum Reporting Standard identifies ‘remaining recoverable resources’ in section 1.2 and its Appendix A. Additional guidance on Total Petroleum Initially-In-Place is set out in section 2.2 of the PRMS Guidelines.
+
+12.3 Prospectus – Petroleum disclosures
+
+12.3.1 In addition to complying with Chapter 4, a Prospectus must:
+
+(1)
+
+if it includes a statement about Petroleum Resources that includes estimates of Petroleum Reserves, Contingent Resources or Prospective Resources, comply with Rule 12.2; and
+
+(2)
+
+include details in relation to the Petroleum Reporting Entity’s policies and practices in relation to operating in a sustainable manner, including:
+
+(i)
+
+the Petroleum Reporting Entity’s policy with regards to environmental and social issues;
+
+(ii)
+
+impact of the Petroleum Reporting Entity’s business practices on the environment and the communities in which it operates; and
+
+Confidential
+
+136
+
+MKT VER09.020125
+
+(iii)
+
+the environmental and social risks faced by the Petroleum Reporting Entity.
+
+Valuation Report
+
+12.3.2 A Prospectus relating to a Petroleum Reporting Entity must include a Val

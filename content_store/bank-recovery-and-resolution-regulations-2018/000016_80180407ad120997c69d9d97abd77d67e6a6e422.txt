@@ -1,0 +1,119 @@
+idiary.
+
+Requirement for notice
+
+The Management of an Institution shall notify the Regulator if the Management consider that the Institution is deemed to be failing or likely to fail pursuant to section 23.
+
+The Regulator shall determine whether the Resolution Conditions are met in respect of that Institution and shall record its decision together with reasons for the decision and the actions that the Regulator intends to take as a result of it. The Regulator may, but need not, make such records public.
+
+Where the Regulator determines that the Resolution Conditions are met in relation to an Institution pursuant to subsection (2), the Regulator shall give notice of that determination, the Regulator's decision based on that determination, together with reasons for the decision recorded pursuant to subsection (2) and the actions that the Regulator intends to take as a result of it, as soon as practicable, to the following—
+
+(a)
+
+the Institution;
+
+(b)
+
+the Board;
+
+(c)
+
+where applicable, the supervisory authorities and resolution authorities of the jurisdictions in which any Group Entity or significant Branches are located; and
+
+(d)
+
+where applicable and necessary, the depositors guarantee schemes to which an Institution is affiliated.
+
+28
+
+25.
+
+General Resolution Principles
+
+The Regulator shall, in applying a Resolution Tool to an Institution, take appropriate measures to ensure that Resolution Action is taken in accordance with the following general principles of Resolution—
+
+(a)
+
+the Shareholders of an Institution in Resolution shall bear first losses;
+
+(b)
+
+where and to the extent reasonably practicable, the creditors of an Institution in Resolution shall bear losses after the Shareholders in accordance with the ordinary priority of their claims in Insolvency Proceedings, except as otherwise expressly provided for in these Regulations or subordinate legislation;
+
+(c)
+
+the Management of the Institution in Resolution shall be replaced, except in those cases when the retention of the Management of the Institution, in whole or in part, is considered appropriate in the circumstances or necessary for the achievement of the Resolution Objectives;
+
+(d)
+
+the Management of the Institution in Resolution shall provide all necessary assistance for the achievement of the Resolution Objectives;
+
+(e)
+
+individuals and legal persons that are responsible for the failure of the Institution shall be made liable, in accordance with the law in force in the ADGM;
+
+(f)
+
+except where otherwise provided under these Regulations or under ADGM Insolvency Regulations, creditors of the same class shall be treated in an equitable manner;
+
+(g)
+
+where and to the extent reasonably practicable, no creditor ought to incur materially greater losses than would have been incurred had the Institution been Wound Up under Insolvency Proceedings unless it is in the public interest;
+
+(h)
+
+Resolution Action shall be taken in accordance with the Resolution Safeguards; and
+
+(i)
+
+the destruction of value resulting from the Resolution of an Institution shall be minimised.
+
+26.
+
+Conditions for application of a Resolution Tool
+
+(1)
+
+When applying a Resolution Tool to an Institution, the Regulator shall take into account the measures provided in the Institution's Resolution Plan (if applicable) unless the Regulator assesses that, in the circumstances, the Resolution Objectives may be achieved more effectively by taking actions that are not provided in the Resolution Plan.
+
+(2)
+
+If the Regulator—
+
+(a)
+
+decides to apply a Resolution Tool to an Investment Firm, an ADGM Parent Undertaking or ADGM Subsidiary; and
+
+(b)
+
+the application of the Resolution Tool would result in loss being borne by the creditors or their claims being converted,
+
+29
+
+(3)
+
+(4)
+
+27.
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+(6)
+
+(7)
+
+(8)
+
+the Regulator shall consider exercising the Write Down or Conversion Power under section 64 to convert capital instruments immediately before, or contemporaneously to, applying the Resolution Tool.
+
+The Regulator may apply the Resolution Tools individually or in any combination.
+
+Where the Sale of Business Tool is used to transfer only part of the rights, assets or liabilities of the Institution in Resolution or the Business of the ADGM Branch, the Residual Institution from which those rights, assets or liabilities have been transferred shall be Wound Up under Insolvency Proceedings unless otherwise directed by the Regulator. Such Winding Up shall be done within a reasonable time, having regard, if relevant, to the need for that Institution to provide services in order to enable the Recipient to carry out the activities or services acquired by virtue of that transfer, and any other reason that the continuation of the Residual

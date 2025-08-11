@@ -1,0 +1,77 @@
+ of IT risks;
+
+1.3.2.c
+
+has sufficient authority, resources, and access to the Governing Body to execute on the IT strategy; and
+
+1.3.2.d
+
+has developed, documented, and implemented an effective framework to manage IT risks.
+
+1.3.3
+
+Financial institutions should clearly assign responsibility and accountability for managing IT risk to appropriate staff. This could be done through several means, including through a RACI matrix3.
+
+1.3.4
+
+Financial institutions should identify a clear owner of each source of technology or data risk (‘risk source’) who is accountable for risk events (‘risk owners’). Risk sources include systems, datasets and third-party arrangements. This will ensure a clear line of accountability when a risk event occurs.
+
+1.3.5
+
+Financial institutions should clearly set out the impact of a risk event to affected consumers, the financial institution and to staff. Clearly understanding what consequences a risk event may have, especially for individual staff, will incentivise staff to treat IT risk seriously. Financial institutions should ensure that the impact described
+
+3 A RACI Matrix is a commonly used approach for defining which staff are Responsible or Accountable for a task, as well as which staff should be Consulted on or Informed of the progress of the task.
+
+11
+
+VER01.201124
+
+is realistic and proportionate to the risk event4, so that staff are not incentivised to hide risk events for fear of excessive penalties.
+
+4 For example, an email sent to the wrong address should not carry the same impact as a failure of mission-critical systems.
+
+12
+
+VER01.201124
+
+Chapter 2 – Risk Management
+
+Desired Outcomes for Risk Management
+
+Desired Outcome 2.1 – Risk Awareness: The Governing Body and senior management of a financial institution should foster a culture of IT risk awareness throughout the organisation.
+
+Desired Outcome 2.2 – Risk Awareness Training: A financial institution should train its staff appropriately to mitigate IT risks.
+
+Desired Outcome 2.3 –Risk Assessment Framework: A financial institution should put in place a risk assessment framework that identifies and assesses IT risks, and implements controls commensurate with the severity of the risks.
+
+Desired Outcome 2.4 – Risk Monitoring: A financial institution should put in place a process to regularly monitor risk sources to ensure that the risk controls are functioning as designed.
+
+Desired Outcome 2.5 – Incident Management: A financial institution should put in place procedures to detect, respond to and recover from incidents.
+
+Desired Outcome 2.6 – Problem Management: A financial institution should establish a practice of studying past incidents and performance issues in a holistic manner to reduce the likelihood of future occurrences.
+
+Desired Outcome 2.7 – Insider Risk: A financial institution should take steps to mitigate against insider threats.
+
+Desired Outcome 2.1 – Risk Awareness
+
+2.1.1
+
+Risk awareness is the most important defence that financial institutions have against IT risks. Staff that are aware of risks can act to prevent risk events from occurring. Conversely, staff that are not aware of risk may engage in risky behaviour because they do not understand the consequences of that behaviour. For example, staff may inadvertently send emails containing unencrypted personal data to unintended recipients because they are not aware of the importance of protecting personal data.
+
+2.1.2
+
+A risk event is an occurrence that could pose a risk to the confidentiality, integrity or availability of a financial institution’s systems and datasets. This differs from incidents, which are risk events that actually impact the financial institution’s systems and datasets. For example, a power failure in a financial institution’s data centre is a risk event. The power failure turns into an incident if it is not appropriately addressed by risk controls (such as backup power generators) and a disruption to the financial institution’s systems and data occurs.
+
+2.1.3
+
+Fostering a culture of risk awareness is crucial for the financial institution. In such a culture, staff are aware of the risks that they face and use IT securely to achieve business objectives. Financial institutions should avoid the extreme of risk aversion,
+
+13
+
+VER01.201124
+
+where staff avoid taking any risk regardless of the impact on the business, or risk blindness, where staff disregard potential risks in pursuit of business objectives.
+
+2.1.4
+
+The Governing Body and senior management of a financial institution should foster a culture of risk

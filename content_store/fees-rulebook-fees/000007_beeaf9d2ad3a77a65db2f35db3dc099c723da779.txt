@@ -1,0 +1,81 @@
+ to carry on the Regulated Activity of Developing Financial Technology Services within the RegLab must pay to the Regulator an application fee of $1,000.
+
+3.16 Regulated Activities conducted as Islamic Financial Business
+
+3.16.1 An Applicant for a Financial Services Permission to conduct a Regulated Activity of Islamic Financial Business, either through the operation of an Islamic Window or as an Islamic Financial Institution, must pay to the Regulator an application fee of $5,000, in addition to the application fees due in respect of those Regulated Activities which the Applicant proposes to undertake in a Shari’a-compliant manner.
+
+3.16.2 An Authorised Person with a Financial Services Permission to carry on a Regulated Activity of Islamic Financial Business, either through the operation of an Islamic Window or as an Islamic Financial Institution, must pay to the Regulator an annual supervision fee of $5,000, in addition to the supervision fees due in respect of those underlying Regulated Activities which the Authorised Person undertakes.
+
+Specific asset classes
+
+3.17 Virtual Assets
+
+3.17.1 An Applicant for a Financial Services Permission to carry on one or more Regulated Activities in relation to Virtual Assets must pay to the Regulator, in addition to the application fees due in respect of those Regulated Activities which the Applicant proposes to undertake, an application fee of:
+
+(a) $20,000 for all Regulated Activities to be undertaken in relation to Virtual Assets, unless one of the Regulated Activities is Operating a Multilateral Trading Facility; or
+
+12
+
+FEES VER19.100625
+
+(b) $125,000 for all Regulated Activities to be undertaken in relation to Virtual Assets where one of the Regulated Activities to be undertaken in relation to Virtual Assets is Operating a Multilateral Trading Facility.
+
+3.17.2 An Authorised Person with a Financial Services Permission to carry on one or more Regulated Activities in relation to Virtual Assets must pay to the Regulator, in addition to the supervision fees due in respect of those Regulated Activities which the Authorised Person undertakes, an annual supervision fee of:
+
+(a) $15,000 for all Regulated Activities to be undertaken in relation to Virtual Assets, unless one of the Regulated Activities is Operating a Multilateral Trading Facility; or
+
+(b) $60,000 for all the Regulated Activities to be undertaken in relation to Virtual Assets
+
+where one of those Regulated Activities is Operating a Multilateral Trading Facility.
+
+Guidance
+
+1. These fees are in addition to any incurred for Regulated Activities carried on that do not involve Virtual Assets.
+
+2. For additional guidance concerning the fees associated with Regulated Activities carried on in relation to Virtual Assets, please refer to the Regulator’s “Guidance – Regulation of Virtual Asset Activities in ADGM”.
+
+3.18
+
+Trading Levy for Virtual Assets traded on a Multilateral Trading Facility
+
+3.18.1 An Authorised Person with a Financial Services Permission to carry on the Regulated Activity of Operating a Multilateral Trading Facility to Virtual Assets must pay to the Regulator a trading levy of daily trading value of Virtual Assets traded (as applicable), payable monthly.
+
+in relation
+
+Daily Trading Value (DTV) ($)
+
+Trading Levy
+
+DTV ≤ 10m
+
+0.0015%
+
+10m < DTV ≤ 50m
+
+0.0012%
+
+50m <DTV ≤ 250m
+
+0.0009%
+
+DTV > 250m
+
+0.0006%
+
+Unless otherwise determined by a Multilateral Trading Facility (and agreed to by the Regulator), the Regulator expects that the calculation of average daily value of Virtual Assets traded should occur at 12am Abu Dhabi time (+4hr GMT).
+
+13
+
+FEES VER19.100625
+
+3.19 Spot Commodities
+
+3.19.1 An Applicant for a Financial Services Permission to carry on a Regulated Activity in relation to Spot Commodities must pay to the Regulator, in addition to the application fees due in respect of each Regulated Activity which the Applicant proposes to undertake, an application fee of:
+
+(a) $20,000; or
+
+(b) $125,000 if the Regulated Activity is Operating a Multilateral Trading Facility or
+
+Organised Trading Facility without any additional Regulated Activity.
+
+3.19.2 An Authorised Person with a Financial Services Permission to carry on a Regulated Activity in relation to Spot Commodities must pay to the Regulator, in

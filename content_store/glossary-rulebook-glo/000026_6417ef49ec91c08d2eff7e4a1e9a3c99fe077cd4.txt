@@ -1,0 +1,131 @@
+(a)
+
+the JORC Code;
+
+(b)
+
+NI 43-101; or
+
+(c)
+
+the SAMREC Code.
+
+Mining Tenement
+
+Means any right to explore for or extract Minerals in a given place.
+
+MIR
+
+Means the Market Infrastructure Rulebook.
+
+MKT
+
+Means the Markets Rulebook.
+
+Model Portfolio
+
+Means a portfolio of segregated holdings managed on a discretionary basis by an Investment Manager where all Clients in a particular profile or model receive the same portfolios and are traded and adjusted at the same time and in the same way, but with each Client having a separate Discretionary Portfolio Management Agreement in place with the relevant Investment Manager.
+
+Modification
+
+Means, in relation to GEN 8.2, a Direction given under section 9 of FSMR that one or more Rules made by the Regulator are to apply to an Authorised Person, a Recognised Body, a Remote Body, a Remote Member, a Foreign Fund Manager, a Person making an Offer of Securities or a Reporting Entity with such modifications as specified in the Direction.
+
+Money
+
+Means any form of money, including banknotes, coins, cheques, Electronic Money and any other non-cash form, such as payable orders.
+
+Money Laundering Reporting Officer
+
+Means, for the purposes of an Authorised Person other than a Credit Rating Agency, the Controlled Function described in GEN 5.3.8.
+
+Money Laundering Risk Means, in relation to GEN 3.3.39(1), the risk that an Authorised Person may be used to further money laundering.
+
+Money Remitter
+
+Has the meaning given in section 258 of FSMR.
+
+53
+
+GLO VER23.290725
+
+Defined Terms
+
+Mudaraba
+
+Mudarib
+
+Mugasara
+
+Multilateral Trading Facility (MTF)
+
+Murabaha
+
+Murabaha for the Purchase Orderer (MPO)
+
+Musaqa
+
+Musharaka
+
+Muwakkil
+
+Muzara'a
+
+Natural Person
+
+Definitions
+
+Means an investment partnership which is based on profit sharing under a contract between an investor and an entrepreneur/manager where risks and rewards are shared and where both parties receive an agreed share of any profits, and the investor bears the full amount of any loss of capital, whilst the entrepreneur/manager loses his/her time and effort.
+
+Means the managing partner in a Mudaraba.
+
+Means a contract in which the owner of the property shares the property with another person in return for that other person's services in relation to that property.
+
+Means a multilateral system, operated by an Authorised Person or a Recognised Investment Exchange, which brings together multiple third-party buying and selling interests in Financial Instruments, in the system and in accordance with non-discretionary rules, in a way that results in a contract in accordance with its rules.
+
+Means a sale of commodities at a price equivalent to the original price at which such commodities were bought from a supplier plus an agreed mark-up.
+
+Means a sale of specified goods at the acquisition cost plus an agreed profit mark-up based on a promise (wa'ad) to purchase given by the purchaser. The promise to purchase maybe binding or non-binding.
+
+Means a contract in which the owner of a property shares the produce of that property with another person in return for that other Person's services in relation to that property.
+
+Means an equity participation arrangement where partners contribute capital to a project and share its risks and rewards. Profits can be divided between the partners in any agreed ratio. Losses must always be borne in proportion to the capital of each partner.
+
+The investor or depositor under a Wakala arrangement.
+
+Means a contract in which one Person agrees to develop and maintain the property of the other Person in return for their services in relation to that property.
+
+Means an individual.
+
+54
+
+GLO VER23.290725
+
+Defined Terms
+
+Net Written Premium
+
+Network
+
+NI 43-101
+
+Nominee Company
+
+Non-ADGM Clearing House
+
+Non-ADGM Financial Services Regulator
+
+Non-binding Murabaha for the Purchase Orderer
+
+Non-Cellular Assets
+
+Non-Equivalent Estimate
+
+Non-Face-to-Face (NFTF)
+
+Non-Profit Organisation (NPO)
+
+Definitions
+
+Means, in respect of an Insurer during a period, Gross Written Premium of the Insurer during that period less the amount of premium on reinsurance contracts entered into by the Insurer as Cedant during the same period.
+
+Means a group

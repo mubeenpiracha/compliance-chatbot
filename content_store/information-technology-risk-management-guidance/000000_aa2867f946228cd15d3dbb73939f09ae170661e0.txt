@@ -1,0 +1,125 @@
+Information Technology Risk Management Guidance
+
+(VER01.201124)
+
+VER01.201124
+
+TABLE OF CONTENTS Introduction ........................................................................................................................... 1
+
+Background ........................................................................................................................ 1
+
+Structure of the Guidance ................................................................................................... 2
+
+Applicability ....................................................................................................................... 7
+
+Building Effective Control Environments .............................................................................. 8
+
+Section A: Establishing a Culture of Effective IT Risk Management ......................................... 10
+
+Chapter 1 – Governance and Oversight.............................................................................. 10
+
+Desired Outcome 1.1 – Strategy Alignment ............................................................. 10
+
+Desired Outcome 1.2 – Competence ...................................................................... 10
+
+Desired Outcome 1.3 – Accountability .................................................................... 11
+
+Chapter 2 – Risk Management ........................................................................................... 13
+
+Desired Outcome 2.1 – Risk Awareness .................................................................. 13
+
+Desired Outcome 2.2 – Risk Awareness Training ..................................................... 14
+
+Desired Outcome 2.3 –Risk Assessment Framework ............................................... 15
+
+Desired Outcome 2.4 – Risk Monitoring .................................................................. 18
+
+Desired Outcome 2.5 – Incident Management ......................................................... 19
+
+Desired Outcome 2.6 – Problem Management......................................................... 22
+
+Desired Outcome 2.7 – Insider Risk ........................................................................ 22
+
+Chapter 3 – Third Party Management ................................................................................. 23
+
+Desired Outcome 3.1 – Third Party Risk Governance ................................................ 23
+
+Desired Outcome 3.2 – IT Third Party Lifecycle Management .................................... 25
+
+Desired Outcome 3.3 – Supply Chain Resilience ..................................................... 28
+
+Chapter 4 – Compliance and Audit .................................................................................... 30
+
+Desired Outcome 4.1 – Comply .............................................................................. 30
+
+Desired Outcome 4.2 – Audit ................................................................................. 30
+
+Section B: Managing an IT Environment ................................................................................. 32
+
+Chapter 5 – System Lifecycle Management ....................................................................... 32
+
+Desired Outcome 5.1 – Project Management Oversight ........................................... 32
+
+Desired Outcome 5.2 – System Acquisition, Development and Testing ..................... 33
+
+Desired Outcome 5.3 – System Refresh and Decommissioning ................................ 37
+
+Chapter 6 –Technology Asset Management ....................................................................... 39
+
+Desired Outcome 6.1 – Asset Identification and Classification ................................. 39
+
+Desired Outcome 6.2 – Asset Accountability ........................................................... 40
+
+Chapter 7 – Operational Infrastructure Management ......................................................... 41
+
+i
+
+VER01.201124
+
+Desired Outcome 7.1 – Standardising the Operating Environment ............................ 41
+
+Desired Outcome 7.2 – Securing the Physical Environment ...................................... 42
+
+Desired Outcome 7.3 – Securing Connections ........................................................ 43
+
+Desired Outcome 7.4 – Securing the Virtual Environment ........................................ 48
+
+Desired Outcome 7.5 – Updating the Environment ................................................... 49
+
+Chapter 8 – Data Lifecycle Management............................................................................ 53
+
+Desired Outcome 8.1 – Data Governance................................................................ 53
+
+Desired Outcome 8.2 – Data Lifecycle Management ................................................ 53
+
+Desired Outcome 8.3 – Handling Data with Regulatory Obligations .......................... 57
+
+Chapter 9 – Resilience ...................................................................................................... 58
+
+Desired Outcome 9.1 – Availability Architecture ..................................................... 58
+
+Desired Outcome 9.2 – Continuity Planning ............................................................ 60
+
+Desired Outcome 9.3 – Recovery Planning and Testing ............................................ 61
+
+Chapter 10 – Cyber Event Management ............................................................................. 63
+
+Desired Outcome 10.1 – Threat Awareness ............................................................. 63
+
+Desired Outcome 10.2 – Cyber Event Lifecycle Management ................................... 64
+
+Desired Outcome 10.3 – Security Testing ................................................................ 65
+
+Section C: Interacting Securely ............................................................................................. 67
+
+Chapter 11 – Access Management .................................................................................... 67
+
+Desired Outcome 11.1 – Credential Management .................................................... 67
+
+Desired Outcome 11.2 – Authorisation ................................................................... 69
+
+Desired Outcome 11.3 – Authentication ................................................................. 70
+
+Chapter 12 – Online Transaction Security .......................................................................... 74
+
+Desired Outcome 12.1 – Online Transaction Security .............................................. 74

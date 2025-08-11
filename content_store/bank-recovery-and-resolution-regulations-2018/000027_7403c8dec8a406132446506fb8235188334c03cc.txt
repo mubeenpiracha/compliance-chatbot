@@ -1,0 +1,117 @@
+ not to apply any bail-in to a netting set prior to such netting being completed;
+
+(b)
+
+the need to avoid disruption to payment and securities settlement systems, Central Securities Depositories, clearing houses and Recognised Clearing Houses;
+
+(c)
+
+the principle that losses shall be borne first by Shareholders and subsequently by creditors of the Institution in Resolution in order of preference in light of section 25(g);
+
+(d)
+
+the level of loss absorbing capacity that would remain in the Institution in Resolution if the liability or class of liabilities were excluded; and
+
+(e)
+
+the need to maintain adequate resources for Resolution financing.
+
+44
+
+50.
+
+(1)
+
+(2)
+
+(3)
+
+51.
+
+(1)
+
+(2)
+
+Assessment of amount of bail-in
+
+In applying the Bail-in Tool under section 49, the Regulator shall assess for the purposes of subsection (2), on the basis of the Pre-Resolution Valuation, the aggregate of—
+
+(a)
+
+where applicable, the amount by which Eligible Liabilities must be written down in order to ensure that the net asset value of the Institution in Resolution is equal to zero; and
+
+(b)
+
+where applicable, the amount by which Eligible Liabilities must be converted into Shares or other types of capital instruments in order to restore the Common Equity Tier 1 Capital ratio of the Institution in Resolution.
+
+The assessment referred to in subsection (1) shall establish the amount by which Eligible Liabilities need to be written down and converted in order—
+
+(a)
+
+to restore the Common Equity Tier 1 Capital ratio of the Institution in Resolution;
+
+(b)
+
+to sustain sufficient market confidence in the Institution in Resolution; and
+
+(c)
+
+to enable the Institution to continue, for at least one year, to satisfy the Threshold Conditions or Recognition Requirements and to carry on the activities or services acquired by the virtue of that transfer under the Financial Services and Markets Regulations 2015.
+
+Where capital has been written down in accordance with the Write Down or Conversion Power under section 64, the Bail-in Tool has been applied, and the level of write down based on the Pre-Resolution Valuation is found to exceed requirements when assessed against the Definitive Valuation, a write up mechanism shall be applied to reimburse creditors and then Shareholders to the extent necessary.
+
+Treatment of Shareholders in bail-in or write down or conversion
+
+When applying the Bail-in Tool or the Write Down or Conversion Power, the Regulator shall take, in respect of Shareholders of the Institution in Resolution, one or both of the following actions—
+
+(a)
+
+cancel existing Shares or transfer them to bailed-in creditors; and
+
+(b)
+
+provided that, in accordance with the Pre-Resolution Valuation (or Provisional Valuation, if applicable), the Institution in Resolution has a positive net value, dilute existing Shareholders as a result of the conversion into Shares of—
+
+(i)
+
+Non-CET1 Capital Instruments issued by the Institution pursuant to the Write Down and Conversion Power; or
+
+(ii)
+
+Eligible Liabilities issued by the Institution in Resolution pursuant to the Write Down and Conversion Power under section 66.
+
+The Regulator shall take the actions referred to in subsection (1) in respect of Shareholders where the Shares were issued or conferred in the following circumstances—
+
+45
+
+(3)
+
+52.
+
+(1)
+
+(a)
+
+pursuant to the conversion of Debt Instruments to Shares in accordance with the contractual terms of the original Debt Instruments, on the occurrence of an event that preceded or occurred at the same time as the assessment by the Regulator that the Institution that is not an ADGM Branch met the Resolution Conditions; or
+
+(b)
+
+pursuant to the conversion of Non-CET1 Capital Instruments to Common Equity Tier 1 Capital instruments, under the Write Down or Conversion Power under section 64.
+
+In considering which action to take in accordance with subsection (1), the Regulator shall have regard to—
+
+(a)
+
+the Pre-Resolution Valuation (or Provisional Valuation, if applicable);
+
+(b)
+
+the amount by which the Regulator has assessed that Common Equity Tier 1 Capital items must be reduced and Non-CET1 Capital Instruments must be written down or converted pursuant to the Write Down or Conversion Power under section 64; and
+
+(c)
+
+the aggregate amount assessed by the Regulator under section 50(1).
+
+Sequence of write down or conversion
+
+Subject to any exclusions set out in section 49(7) and (8), in exercising the Write Down or Conversion

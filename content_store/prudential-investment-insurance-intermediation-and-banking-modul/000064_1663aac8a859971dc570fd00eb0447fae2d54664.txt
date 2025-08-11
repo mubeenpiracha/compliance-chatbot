@@ -1,0 +1,121 @@
+.
+
+In effect, the Simplified Approach reduces undue regulatory burden on Category 3A firms to reflect more appropriately their risk profile.
+
+2.
+
+In relation to (3) and (4), the DFSA may consider granting its approval for a change of approach if it is satisfied that there are no regulatory capital arbitrage opportunities. Firms should be able to demonstrate to the DFSA solid and reasonable grounds to be able to move from one approach to the other. For instance, in assessing whether or not to grant approval, the DFSA may consider whether or not there has been a material change in the business of the firm.
+
+Category 2 firms
+
+4.7.2
+
+(1)
+
+This Rule applies only to an Authorised Firm in Category 2.
+
+(2)
+
+Subject to (3) and (4), an Authorised Firm may apply the Simplified Approach, as prescribed in section A4.12 in App4, upon obtaining prior approval to do so from the DFSA.
+
+(3)
+
+After obtaining approval under (2), a firm must not disapply the Simplified Approach without further prior approval from the DFSA.
+
+98
+
+PIB/VER50/07-25
+
+4.8
+
+4.8.1
+
+4.8.2
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+(4)
+
+The DFSA may revoke its approval under (2) and require a firm to disapply the Simplified Approach, where the DFSA considers that this is warranted by the firm’s business model and risk profile.
+
+Guidance
+
+In relation to (3) and (4), the DFSA may consider granting its approval for a change of approach if it is satisfied that there are no regulatory capital arbitrage opportunities. Firms should be able to demonstrate to the DFSA solid and reasonable grounds to be able to move from one approach to the other. For instance, in assessing whether or not to grant approval, the DFSA may consider whether or not there has been a material change in the business of the firm.
+
+Calculation of the CRCOM
+
+(1)
+
+The Credit Risk Capital Requirement is calculated as follows:
+
+CRCOM = 8% x Credit RWA
+
+(2)
+
+The Credit RWA of an Authorised Firm is the sum of:
+
+(a)
+
+its risk weighted assets (RWA) for all its Credit Risk Exposures (referred to in this module as “CR Exposures”) calculated in accordance with Rules 4.8.2 and 4.8.3;
+
+(b)
+
+its RWA for all its securitisation Exposures (referred to in this module as “SE Exposures”) calculated in accordance with Rule 4.8.4 and section 4.14;
+
+(c)
+
+its RWA for its Counterparty Credit Risk Exposures (referred to in this module as “CCR Exposures”) as calculated in accordance with Rule 4.8.7 and section 4.14A; and
+
+(d)
+
+its RWA for its settlement risk Exposures (referred to in this module as “SR Exposures”) calculated in accordance with section A4.6.
+
+Calculation of RWA for Credit Risk Exposures (CR Exposures)
+
+An Authorised Firm must include in its calculation of RWA for CR Exposures:
+
+(a)
+
+any on-balance sheet asset; and
+
+(b)
+
+any off-balance sheet item;
+
+but excluding:
+
+(c)
+
+any SE Exposure;
+
+(d)
+
+any securitised Exposure that meets the requirements for the recognition of risk transference in a Traditional Securitisation set out in section 4.14;
+
+(e)
+
+any CCR Exposure;
+
+(f)
+
+any SR Exposure; and
+
+99
+
+PIB/VER50/07-25
+
+4.8.3
+
+4.8.4
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+(g)
+
+any Exposure classified as a position or instrument in the Trading Book in accordance with section A2.1.
+
+To calculate its RWA for CR Exposures, an Authorised Firm must:
+
+(a)
+
+calculate the value of the Exposure (represented as “E”) for every on- balance sheet and every off-balance sheet asset in accordance with the Exposure measurement methodology specified in section 4.9 and recognising

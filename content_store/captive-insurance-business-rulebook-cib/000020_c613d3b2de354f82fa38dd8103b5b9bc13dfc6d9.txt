@@ -1,0 +1,93 @@
+ report to the Captive Insurer's Directors within such time as to give the Directors a reasonable opportunity to consider and use the report in preparing the Captive Insurer's annual Regulatory Return for the reporting period ended on the reporting date;
+
+33
+
+CIB VER06.290725
+
+(d)
+
+the contract must require and permit the Actuary to address the Directors of the Captive Insurer if the Actuary believes that there is a matter relating to the financial position or operations of the Captive Insurer that should be brought to the attention of the Directors; and
+
+(e)
+
+the contract must require and permit the Actuary to address the Regulator if the Actuary believes that a matter will not be adequately dealt with simply by bringing it to the attention of the Directors.
+
+7.4.2 The Captive Insurer must submit the reports referred to in Rule 7.2 and Rule 7.3 to the Regulator at the same time as it submits its annual Regulatory Return for the reporting period ended on the reporting date.
+
+7.4.3 Abbreviated details may be provided in a report prepared under the requirements of this
+
+Chapter in respect of a Class of Business that is not material.
+
+7.5
+
+Captive Insurers must ensure access to relevant data etc
+
+7.5.1 A Captive Insurer that has appointed an Actuary to provide a report under Rule 7.2 or 7.3 must make arrangements to enable the Actuary to undertake his functions, and in particular must:
+
+(a)
+
+keep the Actuary informed of the Captive Insurer's business and other plans;
+
+(b)
+
+ensure that the Actuary is fully informed of these Rules applicable to the Captive Insurer, as well as any other information that the Regulator has provided to the Captive Insurer that may assist the Actuary in performing his duties; and
+
+(c)
+
+ensure that the Actuary has access at appropriate times to all relevant data and people which the Actuary reasonably believes is necessary to fulfil his obligations to the Captive Insurer in respect of this Chapter.
+
+7.6
+
+Qualifications of the Actuary
+
+7.6.1 An Actuary appointed to provide an actuarial report under this Chapter must:
+
+(a)
+
+be experienced in determining liabilities in the Classes of Business dealt with in the actuarial report;
+
+(b)
+
+have the required skill and experience to perform his functions under the Rules and Regulations; and
+
+(c)
+
+not perform the function of Chairman or Chief Executive Office of the Captive Insurer or any other function on behalf of the Captive Insurer which could give rise to a significant conflict of interest.
+
+7.6.2 A Captive Insurer must notify the Regulator in writing of the name, professional qualifications and relevant experience of each person that the Captive Insurer proposes to appoint to provide an actuarial report under this Chapter.
+
+34
+
+CIB VER06.290725
+
+7.6.3 The Regulator may, if it does not believe that the Actuary proposed by the Captive Insurer possesses the qualifications set out in Rule 7.6.1, notify the Captive Insurer in writing that another Actuary must be appointed.
+
+35
+
+CIB VER06.290725
+
+8
+
+ADDITIONAL REQUIREMENTS FOR LONG-TERM INSURANCE BUSINESS
+
+8.1
+
+Establishment of Long-Term Insurance Funds
+
+A Captive Insurer that is required, under the provisions of Rule 8.2, to establish or maintain a Long-Term Insurance Fund in respect of a part of its business must identify separately in its books and records the assets, liabilities, revenues and expenses attributable to that business. Those assets, liabilities, revenues and expenses must be recorded separately and accounted for as a Long-Term Insurance Fund.
+
+8.1.1 Captive Insurer not a Cell Company
+
+Where a Captive Insurer that is not a Cell Company carries on Long-Term Insurance Business that, under the provisions of Rule 8.2, must be attributed to a Long-Term Insurance Fund, it must either:
+
+(a)
+
+establish one or more Long-Term Insurance Funds; or
+
+(b)
+
+notify the Regulator in writing that the Captive Insurer is deemed to constitute a single Long-Term Insurance Fund.
+
+8.1.2 Captive Insurer a Cell Company
+
+Where a Captive Insurer that is a Cell Company carries on, through a Capt

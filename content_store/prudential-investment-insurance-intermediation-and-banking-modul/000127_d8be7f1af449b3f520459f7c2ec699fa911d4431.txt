@@ -1,0 +1,139 @@
+ short as possible and
+
+terminate any session after the requested action is completed;
+
+(f) ensure, when maintaining parallel network sessions, that the sessions are securely linked to relevant sessions established with the User to prevent the possibility that information communicated between them could be misrouted;
+
+(g)
+
+include unambiguous unique references to the User, communication session, payment transaction and requested amount; and
+
+(h) have systems and controls to prevent access to User information being available by the Payment Account Provider, beyond what is needed to provide the relevant service. The frequency of the access should also be agreed with the User.
+
+2.
+
+In developing technical standards referred to in Rule 6.13.5(d) (procedures, systems and controls to ensure the reliability and continuity of the interface with the PAP) an Authorised Firm should:
+
+(a) contractually ensure that the interface applies best practice standards of communication
+
+issued by the Security Standards Council;
+
+(b) understand and document the interface technical specification such as the routines, protocols,
+
+and tools needed to interoperate with the systems of the PAP;
+
+(c) contractually require the PAP to provide the firm with at least 3 months' notice ahead of any
+
+change to the interface, except in an emergency;
+
+(d) adequately test the interface to ensure reliability and performance;
+
+(e) establish key performance indicators and service level standards with the PAP; and
+
+(f)
+
+request the PAP to provide adequate contingency measures in the event the interface is not available and test the measures for reliability.
+
+Systems and controls to detect fraud
+
+6.13.6 (1) An Authorised Firm must have in place transaction monitoring systems and controls to detect and prevent unauthorised or fraudulent Payment Transactions.
+
+(2) The systems referred to in (1) must be designed to take into account the following
+
+fraud risk factors:
+
+(a)
+
+compromised or stolen authentication elements;
+
+(b)
+
+the amount of each payment transaction;
+
+(c)
+
+known fraud scenarios in the provision of the particular Payment Service;
+
+(d) analysis of Payment Transactions typical of the type of Users;
+
+190
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+(e)
+
+signs of malware infection in any sessions of the authentication procedure; and
+
+(f)
+
+if the firm provides the access device or software (the Payment Instrument), a log of the use of the access device or software and abnormal use.
+
+Reporting of information about transactions and rates of fraud
+
+6.13.7 An Authorised Firm must provide the following information to the DFSA at least
+
+quarterly:
+
+(a)
+
+rates of fraud or suspected fraud;
+
+(b)
+
+the total value of fraudulent transactions and the total value of all payment transactions;
+
+(c)
+
+the number of payment transactions and the average transaction value; and
+
+(d) a breakdown by percentage of transactions initiated through SCA and transactions initiated through each exception to the SCA requirements.
+
+Reporting of information about Money Transmission
+
+6.13.8 An Authorised Firm that provides Money Transmission must send the following
+
+information to the DFSA at least quarterly relating to transactions:
+
+(a) details of senders and recipients of transfers;
+
+(b) the amounts transferred;
+
+(c) dates of transfers; and
+
+(d) any other firms involved in transfers.
+
+191
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+7
+
+INTEREST RATE RISK IN THE NON-TRADING BOOK
+
+Introduction
+
+Guidance
+
+1.
+
+This chapter relates to interest rate risk in the Non-Trading Book. In relation to the Trading Book, an Interest Rate Risk Capital Requirement is imposed as a component of the Market Risk Capital Requirement under chapter 5.
+
+2.
+
+Non-Trading Book interest rate risk is normally a major source of risk for a bank or a firm that deals on its own account (including underwriting on a firm commitment basis) and whose Non- Trading Book assets equal or exceed 15% of its total assets. Interest rate risk in the Non-Trading Book may arise from a number of sources, for example:
+
+a.
+
+risks related to the mismatch of repricing of assets and liabilities and off balance sheet short and long-term positions;
+
+b.
+
+risks arising from hedging exposure to one interest rate with exposure to a rate which reprices under slightly different conditions;
+
+c.
+
+risks related to

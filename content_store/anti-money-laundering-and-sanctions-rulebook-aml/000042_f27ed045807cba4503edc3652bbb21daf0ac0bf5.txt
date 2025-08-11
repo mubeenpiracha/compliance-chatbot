@@ -1,0 +1,153 @@
+ to in Rule 11.1.1(1) should enable a Relevant Person to comply with the requirements of Article 21 of Cabinet Decision No. (74) of 2020, which include:
+
+(a)
+
+Registering on the EOCN website to receive updates on changes to Targeted Financial Sanctions lists.
+
+(b)
+
+Regularly screening its databases and transactions against Targeted Financial Sanctions lists as required by the screening scope and timings as set out in the Cabinet Decision.
+
+(c)
+
+Implementing freezing measures without delay or prior notice to the relevant Person(s) if a match is found as a result of the required screening.
+
+(d)
+
+Lifting freezing measures without delay, where necessary.
+
+(e) Notifying appropriate regulatory authorities of any of the scenarios set out in the Cabinet Decision including confirmed or partial matches against Targeted Financial Sanctions lists.
+
+(f)
+
+Establishing and implementing internal controls and procedures to ensure compliance with the Cabinet Decision.
+
+(g) Co-operating with the EOCN and relevant regulatory authorities.
+
+6.
+
+Relevant Persons should ensure they are fully aware of and in compliance with the requirements issued pursuant to Federal AML Legislation by the EOCN and other relevant authorities including the requirement to file PNMRs and FFRs as appropriate. Failure to do so, including failure to file a report relating to a
+
+Confidential
+
+75
+
+AML VER10.020125
+
+confirmed or partial match with a Targeted Financial Sanctions list, may result in the Regulator taking appropriate action.
+
+11.2 Government, regulatory and international findings
+
+11.2.1 (1)
+
+A Relevant Person must establish and maintain systems and controls to ensure that on an ongoing basis it is properly informed as to, and takes reasonable measures to comply with, any findings, recommendations, guidance, directives, resolutions, Sanctions, notices or other conclusions issued by:
+
+(a)
+
+the government of the UAE or any government departments in the UAE;
+
+(b)
+
+the Central Bank of the UAE;
+
+(c)
+
+the FIU;
+
+(d)
+
+the EOCN;
+
+(e)
+
+the NAMLCFTC;
+
+(f)
+
+UAE enforcement agencies;
+
+(g)
+
+the UNSC;
+
+(h)
+
+FATF;
+
+(i)
+
+the Basel Committee on Banking Supervision;
+
+(j)
+
+the Regulator; and
+
+(k)
+
+any other jurisdiction which promulgates Sanctions to which it is subject,
+
+concerning the matters in (2).
+
+(2)
+
+For the purposes of (1), the relevant matters are:
+
+(a)
+
+arrangements for preventing money laundering, terrorist financing or the financing of weapons of mass destruction in a particular country or jurisdiction, including any assessment of material deficiency in adopting international standards against a relevant country or jurisdiction; and
+
+(b)
+
+the names of Persons, groups, organisations or entities or any other body where suspicion of money laundering exists.
+
+(3)
+
+For the purposes of (1), measures that a Relevant Person must undertake when taking reasonable measures to comply with findings, recommendations, guidance, directives, resolutions, Sanctions, notices or other conclusions, include, but are not limited to, countermeasures:
+
+(a)
+
+requiring specific elements of enhanced CDD;
+
+Confidential
+
+76
+
+AML VER10.020125
+
+(b)
+
+requiring enhanced reporting mechanisms or systematic reporting of financial transactions;
+
+(c)
+
+limiting business relationships or financial transactions with specified persons or persons in a specified jurisdiction;
+
+(d)
+
+prohibiting Relevant Persons from relying on third parties located in a specified jurisdiction to conduct CDD;
+
+(e)
+
+requiring the review and amendment, or if necessary termination, of correspondent relationships with banks in a specified jurisdiction;
+
+(f)
+
+prohibiting the execution of specified electronic fund transfers; or
+
+(g)
+
+requiring increased external audit requirements for financial groups with respect to any of their branches and subsidiaries located in a specified jurisdiction.
+
+(4)
+
+The systems and controls referred to in (1) must enable the Relevant Person to comply with the requirements of Article 21 of Cabinet Decision No. (74) of 2020.
+
+(5)
+
+A Relevant Person must immediately notify the Regulator in writing if it becomes aware of non-compliance by a Person with a finding, recommendation, guidance, directive, resolution, Sanction, notice or other conclusion and provide the Regulator with sufficient details of the Person concerned and the nature of the non-compliance.
+
+Guidance
+
+1.
+
+The purpose of this Rule is to ensure that a Relevant Person takes into consideration the broad range of tools used by competent authorities and international organisations

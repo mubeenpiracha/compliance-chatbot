@@ -1,0 +1,105 @@
+ a similar manner, working day 0 is the later of the date on which the Securities are allotted and the date on which payment for them is due. For equity issues and Securities which are issued in a similar manner, working day 0 is the later of the date on which the offer becomes closed for subscriptions and the date on which the allocations are made public. For rights issues, working day 0 is the first day after the date on which the offer becomes closed to acceptances for subscription.
+
+Calculating the reduced net Underwriting position
+
+A6.8.10 To calculate the reduced net Underwriting position an Authorised Person must apply the reduction factors in the table below to the net Underwriting position calculated under Rule A6.8.6 as follows:
+
+(a)
+
+in respect of debt Securities, an Authorised Person must calculate two reduced net Underwriting positions; one for inclusion in the Authorised Person's interest rate Specific Risk calculation, the other for inclusion in its interest rate General Market Risk calculation; and
+
+(b)
+
+in respect of equities, an Authorised Person must calculate only one reduced net Underwriting position, and then include it in the simplified equity method.
+
+370
+
+PRU VER17.290725
+
+Reduction Factors
+
+Debt Issue
+
+Equity Issue
+
+Underwriting Timeline
+
+General Market risk
+
+Specific Risk
+
+General Market Risk
+
+Specific Risk
+
+Date of initial commitment until working day 0 Working day 1 Working day 2 Working day 3 Working day 4 Working day 5 Working day 6 and onwards
+
+0%
+
+0% 0% 0% 0% 0% 0%
+
+100%
+
+90% 75% 75% 50% 25% 0%
+
+90%
+
+90% 75% 75% 50% 25% 0%
+
+90%
+
+90% 75% 75% 50% 25% 0%
+
+Large Exposures risk from Underwriting Securities: Calculating the net Underwriting Exposure
+
+A6.8.11 For Large Exposures purposes, the total amount of an Authorised Person's Trading Book Exposures to any Person must include net Underwriting Exposure to that Person.
+
+A6.8.12 An Authorised Person must include any other Exposures arising out of Underwriting (including any Counterparty Exposures to any sub-underwriters) for the purposes of calculating the total amount of its Trading Book Exposures to a Person for Large Exposures purposes.
+
+A6.8.13 An Authorised Person, before entering into a new Underwriting commitment, must be able to recalculate the Counterparty Credit Risk capital component to the level of detail necessary to ensure that the firm's Capital Resources Requirement does not exceed the firm's Capital Resources.
+
+A6.8.14 An Authorised Person must calculate the net Underwriting Exposure to an Issuer by applying the relevant reduction factors in the table below to its net Underwriting position calculated under Rule A6.8.6.
+
+Time
+
+Initial commitment to working day 0 Working day 0 Working day 1 Working day 2 Working day 3 Working day 4 Working day 5 Working day 6 onwards
+
+Reduction factor to be applied to net Underwriting position 100% 100% 90% 75% 75% 50% 25% 0%
+
+371
+
+PRU VER17.290725
+
+Guidance
+
+The effect of the Rule and the table above is that there is no concentration limit for net Underwriting.
+
+Exposures between initial commitment and the end of working day 0.
+
+Risk management
+
+A6.8.15
+
+(1)
+
+An Authorised Person must take reasonable steps to establish and maintain such systems and controls to monitor and manage its Underwriting and sub-Underwriting business as are appropriate to the nature, scale and complexity of its Underwriting and sub-Underwriting business.
+
+(2)
+
+In particular, an Authorised Person must have systems to monitor and control its Underwriting Exposures between the time of the initial commitment and working day one in the light of the nature of the risks incurred in the markets in question.
+
+Guidance
+
+An Authorised Person should take reasonable steps to:
+
+a.
+
+allocate responsibility for the management of sub-Underwriting business;
+
+its Underwriting and
+
+b.
+
+allocate adequate resources to monitor and control its Underwriting and sub-Underwriting business;
+
+c

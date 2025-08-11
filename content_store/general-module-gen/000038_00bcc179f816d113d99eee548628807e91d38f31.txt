@@ -1,0 +1,135 @@
+ the nature and scale of the activities, if a Person makes Financial Promotions on a regular basis or for a prolonged period while physically located in the DIFC, for example by way of a booth, meetings or conferences, the DFSA may consider such activities as constituting the carrying on of a Financial Service, such as Operating a Representative Office. The DFSA considers that in the context of Financial Promotions, “a regular basis” would be anything more than occasional and "a prolonged period" would usually be anything more than five consecutive days.
+
+7.
+
+GEN Chapter 3A (Crypto Token requirements) contains several prohibitions that apply to making or approving Financial Promotions relating to particular Crypto Tokens. This includes Financial Promotions relating to Crypto Tokens that are not Recognised Crypto Tokens, Algorithmic Tokens and Privacy Tokens and Devices.
+
+3.3 Definition of a Financial Product
+
+3.3.1 Pursuant to Article 41A(4) of the Regulatory Law, “financial product” in Article
+
+41A(3)(b) of the Regulatory Law is hereby prescribed to mean:
+
+(a)
+
+an Investment;
+
+(b)
+
+a Credit Facility;
+
+(c)
+
+a Deposit;
+
+(d)
+
+a Profit Sharing Investment Account;
+
+(e)
+
+a Contract of Insurance;
+
+(f)
+
+a Crowdfunding Loan Agreement;
+
+(g)
+
+a right under an Employee Money Purchase Scheme;
+
+(h)
+
+a right or interest in a pension, superannuation, retirement or gratuity scheme or arrangement, or a broadly similar scheme or arrangement;
+
+(i)
+
+a Token, whether or not it is an Investment, which is held out or referred to in a relevant communication as an ‘investment token’, ‘security token’, ‘derivative token’ or using any other name that suggests or implies that it is an Investment or a particular type of Investment; or
+
+(j)
+
+a Crypto Token.
+
+Guidance
+
+Examples of other names that, when used in any marketing material or other Financial Promotion, might suggest or imply that a Token is an Investment under Rule 3.3.1(h), include terms such as ‘share token’, ‘bond token’, ‘futures token’ or ‘option token’.
+
+54
+
+GEN/VER67/03-25
+
+GENERAL (GEN)
+
+3.4 Scope of the Financial Promotions Prohibition
+
+3.4.1
+
+(1)
+
+A Person shall not, subject to (2) and (3), make a Financial Promotion in or from the DIFC unless that Person is an Authorised Person.
+
+(2)
+
+A Representative Office may make a Financial Promotion in or from the DIFC only in relation to a financial service or financial product offered:
+
+(a)
+
+in a jurisdiction other than the DIFC; and
+
+(b)
+
+by a related party (as defined in Rule 2.26.1(3)) of the Representative Office.
+
+(3)
+
+A Person other than an Authorised Person may make a Financial Promotion in or from the DIFC if, and only to the extent that, the Person:
+
+(a)
+
+is licensed and supervised by a Financial Services Regulator in the UAE;
+
+(b)
+
+is a Recognised Body or External Fund Manager;
+
+(c)
+
+is a Reporting Entity and makes a Financial Promotion in or from the DIFC exclusively for the purpose of discharging its mandatory disclosure requirements; or
+
+(d)
+
+makes an exempt Financial Promotion as specified in (4).
+
+(4)
+
+For the purposes of (3)(d), a communication is an “exempt Financial Promotion” if it is:
+
+(a)
+
+(b)
+
+approved by an Authorised Firm other than a Representative Office; approved by a Representative Office and it is a communication relating to a financial service or financial product offered by a related party the Representative Office;
+
+(as defined
+
+in Rule 2.26.1(3)) of
+
+(c)
+
+directed at and capable of acceptance exclusively by a Person who appears on reasonable grounds to be a Professional Client of the type specified in COB Rule 2.3.4;
+
+(d)
+
+made to a Person in the DIFC (the “recipient”) as a result of an unsolicited request by the recipient to receive the Financial Promotion;
+
+(e)
+
+made or issued by or on behalf of a government or non- commercial government entity; or
+
+(f)
+
+made in the DIFC by a Person in the course of providing legal or accountancy services and may reasonably be regarded as incidental to and a necessary part of the provision of such services.
+
+55
+
+GEN/VER67

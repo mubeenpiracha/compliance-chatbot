@@ -1,0 +1,183 @@
+includes any asset or off-balance sheet item, which could result in a potential loss to the Authorised Person due to Market Risk or Operational Risk or any other risk factor.
+
+FCCA
+
+Financial Collateral Comprehensive Approach as described in Rule 4.9.5.
+
+FCSA
+
+Financial Collateral Simplified Approach as described in Rule 4.9.5.
+
+Fiat-Referenced Token Has the meaning given in section 258 of FSMR.
+
+Financial Group
+
+A group of entities which includes an Authorised Person and:
+
+(a)
+
+any Parent incorporated in ADGM;
+
+20
+
+PRU VER17.290725
+
+Financial Group Capital Resources
+
+Financial Institution
+
+Financial Instrument
+
+Financial Product
+
+Financial Services Permission
+
+First Loss Position
+
+(b)
+
+any Financial Institution subsidiaries (whether direct or indirect) of the Parent or Parents in (a) or of the Authorised Person;
+
+(c)
+
+any Financial Institution in which the Parent or Parents in (a), the Financial the Institution subsidiaries Authorised Person (whether direct or indirect) hold 20% or more of the voting rights or capital; and
+
+in
+
+(b) or
+
+(d)
+
+any entity which the Regulator directs the Authorised Person in accordance with Rule 8.1.3.
+
+to
+
+include
+
+The Capital Resources of a Financial Group calculated in accordance with Rule 8.3.4.
+
+Means:
+
+(a)
+
+an Authorised Person; or
+
+(b)
+
+any Person which carries out as its principal business an activity which would, if carried out in ADGM, be a Regulated Activity; and
+
+(c)
+
+is not one of the following:
+
+(i)
+
+(ii)
+
+governmental organisation, a including the central bank of any state; or a multilateral development bank.
+
+Any contract that gives rise to both a financial asset of one entity and a financial liability or equity instrument of another entity.
+
+Means an Investment, a Credit Facility, a Deposit, a Profit Sharing Investment Account, or a Contract of Insurance.
+
+A permission given, or having effect as if so given, by the Regulator in accordance with Part 4 of the Financial Services and Markets Regulations.
+
+Represents the first level of support provided to the Special Purpose Entity or vehicle that should bear all,
+
+21
+
+PRU VER17.290725
+
+Foreign Exchange Risk Capital Requirement
+
+Fund
+
+Fund Manager
+
+Fund Property
+
+Future
+
+or a significant part of, the risk associated with the items held by the Special Purpose Entity or vehicle.
+
+A component of the Market Risk Capital Requirement and as calculated in accordance with Section 5.6.
+
+Means a Collective Investment Fund.
+
+Means a Person responsible for the management of the property held for or within a Fund and who otherwise operates the Fund.
+
+The property held for or within a Fund.
+
+Means an instrument comprising rights under a contract:
+
+(a)
+
+for the sale of a commodity or property of any other description under which delivery is to be made at a future date and at a price agreed on when the contract is made and that contract:
+
+(i)
+
+is made or traded on a regulated exchange;
+
+(ii)
+
+is made or traded on terms that are similar to those made or traded on a regulated exchange; or
+
+(iii) would, on reasonable grounds, for for
+
+be investment commercial purposes; or
+
+regarded as made and
+
+not
+
+(b) where the value of the contract
+
+is reference,
+
+ultimately determined by wholly or in part, to fluctuations in:
+
+(i)
+
+the value or price of property of any description; or
+
+(ii)
+
+an index, interest rate, exchange rate, any combination of these, or other factor designated for that purpose in the contract; and
+
+which is wholly settled by cash or set-off between the parties but excludes:
+
+(iii)
+
+rights under a contract where one or more of the parties takes
+
+22
+
+PRU VER17.290725
+
+Gamma
+
+General Market Risk
+
+Governing Body
+
+Group
+
+Group Risk
+
+High Quality Liquid Assets (HQLA)
+
+Holding Company
+
+delivery of any property to which the contract relates;
+
+(iv)
+
+a contract under which Money is received by way of Deposit or an acknowledgement of a debt on terms that any return to be paid on the sum deposited or received will be calculated by reference to an index, interest rate, exchange rate or any combination of these or other factors; or
+
+(v)
+
+a Contract of Insurance.
+
+The measure of the rate of change of Delta.
+
+(1) For the purposes of the Interest Rate Risk Capital Requirement, means the

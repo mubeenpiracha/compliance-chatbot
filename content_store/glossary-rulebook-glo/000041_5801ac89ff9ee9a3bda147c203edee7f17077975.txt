@@ -1,0 +1,141 @@
+ the Payment Service User or Customer (“knowledge”);
+
+(b)
+
+something held only by the Payment Service User or Customer (“possession”);
+
+(c)
+
+something inherent to the Payment Service User or Customer (“inherence”).
+
+Means an instrument comprising rights under a contract where:
+
+(a)
+
+the gain or loss of each party to the contract is ultimately determined by reference to the fluctuations in the value or price of property of any description, an index, interest rate, exchange rate or a combination of any of these as specified for that purpose in the contract ("the underlying factor") and is not leveraged upon such fluctuations;
+
+(b)
+
+the gain or loss of each party is wholly settled by cash or set-off between the parties;
+
+(c)
+
+each party is not exposed to any contingent liabilities to any other counterparty; and
+
+(d)
+
+there is readily available public information in relation to the underlying factor;
+
+but excludes any rights under an instrument: (i) where one or more of the parties takes delivery of any property to which the contract relates; (ii) which is a Debenture; or (iii) which is a Contract of Insurance.
+
+Means a separate pool of Fund Property within an Umbrella Fund.
+
+Has the meaning given in the Companies Regulations.
+
+Has the meaning given in paragraph 89 of Schedule 1 of FSMR.
+
+81
+
+GLO VER23.290725
+
+Defined Terms
+
+Summary
+
+Summary of Reserves and Resources
+
+Supplementary Note
+
+Supplementary Prospectus
+
+Suspicious Activity Report (SAR)
+
+Tabarru'
+
+Takaful
+
+Takaful Fund
+
+Takaful Insurer
+
+Takaful Operator
+
+Takaful Provider
+
+Takeover
+
+Definitions
+
+Means the document referred to in MKT 4.5.1(3)(a).
+
+Means for a:
+
+(a)
+
+Mining Reporting Entity, the summary of Mineral Resources and Ore Reserves to be disclosed in accordance with MKT 11.11.1; and
+
+(b)
+
+Petroleum Reporting Entity, the summary of Petroleum Resources to be disclosed in accordance with MKT 12.14.1.
+
+Means a note which is supplementary to a Regulatory Return.
+
+Means an updated or replacement Prospectus produced in accordance with section 65 of FSMR or FUNDS Chapter 9, as applicable.
+
+Means a report in the prescribed format regarding suspicious activity (including a suspicious Transaction) made to the FIU.
+
+Means donation or gifts; any benefits given by a person to another without receiving anything in exchange.
+
+Means A Shari'a compliant equivalent to conventional insurance which exists in the form of Family (or Life) Takaful and General Takaful.
+
+Means the aggregate of the assets and liabilities of the Takaful Provider that are attributed to the Takaful transactions of the Takaful Provider and the amount of any assets designated by the Takaful Provider as a capital transfer to the Takaful Fund and includes the amount of any profit, surplus or return (however called or described), less attributable expenses, arising on the investment of such funds.
+
+An Insurer, any part of whose Insurance Business consists of Takaful transactions.
+
+Means the entity that manages the Takaful activities of the Takaful Fund and invests the fund’s assets in accordance with Shari'a.
+
+Means an Insurer that provides Takaful as all or any part of its business.
+
+Means takeover and merger transactions however effected, including arrangements which have similar commercial effect to takeovers, partial bids, bid by a parent Company for Shares in its subsidiary and (where appropriate) Share repurchases by general bid.
+
+82
+
+GLO VER23.290725
+
+Defined Terms
+
+Technical Study
+
+Third-Party Agent
+
+Third-Party Cyber Risk
+
+Third Party Provider
+
+Third Party Transaction
+
+Time-scheduled Buy-back Programme
+
+Title Transfer Collateral Agreement
+
+Total Variable Capital Requirement
+
+Trade Repository
+
+Trading Day
+
+Trading Halt
+
+Trading Information
+
+Definitions
+
+Means a Scoping Study, Preliminary Feasibility Study or Feasibility Study.
+
+Means, in relation to a Client Account or a Reserve Account, a Financial Institution including a bank, custodian, an intermediate broker, a settlement agent, a clearing house, an exchange and “over- the-counter” counterparty acting in the capacity of a third party agent.
+
+Means Cyber Risk that may arise from the use of ICT Services provided by a third party or a subcontractor of that third party.
+
+Has the meaning given in section 258 of FSMR .
+
+Means the

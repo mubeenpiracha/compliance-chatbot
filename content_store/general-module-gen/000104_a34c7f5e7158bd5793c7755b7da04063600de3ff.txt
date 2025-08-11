@@ -1,0 +1,88 @@
+ purposes of the requirements in this section, require from an Authorised Firm any additional information relating to the Major Acquisition as it may consider appropriate. An Authorised
+
+160
+
+GEN/VER67/03-25
+
+GENERAL (GEN)
+
+Firm must provide any such additional information to the DFSA promptly.
+
+(2)
+
+The DFSA may, where it considers appropriate, withdraw its no objection position or modify or vary any condition it has imposed or any remedial action it has required under the Rules in this section
+
+Guidance
+
+The DFSA will generally not withdraw a no objection position it has conveyed to an Authorised Firm, except in very limited circumstances. An example of such a situation is where the Authorised Firm is found to have provided to the DFSA inaccurate or incomplete information and that commission or omission has a material impact on the DFSA’s no objection decision.
+
+11.10.12 (1)
+
+The procedures in Schedule 3 to the Regulatory Law apply to a decision of the DFSA under Rules 11.10.9, 11.10.10 and 11.10.11 to object to an acquisition or to impose or vary conditions.
+
+(2)
+
+If the DFSA decides to exercise its power under Rule 11.10.9, 11.10.10 or 11.10.11 to object to an acquisition or to impose or vary conditions, the Authorised Firm may refer the matter to the FMT for review.
+
+Suspected Market Abuse
+
+11.10.12A (1) An Authorised Firm must notify the DFSA immediately if it:
+
+(a) receives an order from a Client, or arranges or executes a
+
+transaction with or for a Client; and
+
+(b) has reasonable grounds to suspect that the order or transaction
+
+may constitute Market Abuse.
+
+(2) The notification under (1) must specify:
+
+(a) sufficient details of the order or transaction; and
+
+(b) the reasons for the Authorised Firm suspecting that the order or
+
+transaction may constitute Market Abuse.
+
+(3) An Authorised Firm must not inform the Client, or any other Person
+
+involved in the order or transaction, of a notification under this Rule.
+
+Guidance
+
+1.
+
+Under Rule 5.3.20, an Authorised Firm must establish and maintain systems and controls that ensure that it and its employees do not engage in market abuse or facilitate others to engage in market abuse, whether in the DIFC or elsewhere. Rule 11.10.12A requires the firm to notify the DFSA if it reasonably suspects that a client’s order or transaction may constitute Market Abuse under Part 6 of the Markets Law.
+
+2.
+
+In some cases, a suspicion of Market Abuse may arise when an order is received. In other cases, it may not be apparent until a transaction is executed or when viewed in the context of later information, behaviour or transactions. When a firm submits a notification, it should be able to explain to the DFSA its reasons for suspecting that the order or transaction may constitute Market Abuse.
+
+161
+
+GEN/VER67/03-25
+
+GENERAL (GEN)
+
+3.
+
+The details of the order or transaction provided with the notification should include the date and time of the order or transaction, the relevant Investment, the client and other parties involved, the nature of the order (e.g. limit order or market order), the nature of the transaction (e.g. on-exchange or OTC) and if the client was acting on its own account or for a third party.
+
+4.
+
+If a firm reasonably suspects that a client’s order or transaction may constitute market abuse under the laws in another jurisdiction, it will also need to consider if it needs to notify the regulator in that other jurisdiction (under any corresponding obligation to notify).
+
+5.
+
+If an Authorised Firm becomes aware that the firm itself, or an employee of the firm, (rather than a client) has engaged in conduct that may constitute market abuse in the DIFC or elsewhere, it has a separate obligation to notify the DFSA under Article 67 of the Regulatory Law and Rule 11.10.7.
+
+Fraud and errors
+
+11.10.13 An Authorised Person must notify the DFSA immediately if one of the following events arises in relation to its activities in or from the DIFC:
+
+(a)
+
+it becomes aware that an Employee may have committed a fraud against one of its customers;
+
+(b)
+

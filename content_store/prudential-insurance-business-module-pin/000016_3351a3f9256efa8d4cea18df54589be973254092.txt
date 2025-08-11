@@ -1,0 +1,115 @@
+ are effected.
+
+5.4.7
+
+An Insurer must treat as a liability, the premium liability, which is the value of future claim payments and associated direct and indirect settlement costs, arising from future events insured under policies that are in force as at the Solvency Reference Date.
+
+Guidance
+
+The liability referred to in Rule 5.4.7 is commonly represented by insurers as two separate provisions, the unearned premium provision and the premium deficiency provision. The sum of the two provisions is sometimes referred to as the unexpired risk reserve, though this term is also sometimes used to describe the premium deficiency provision alone.
+
+5.4.8
+
+An Insurer must treat as a liability the value of future claims payments and associated direct and indirect settlement costs, arising from insured events that have occurred as at the Solvency Reference Date.
+
+Guidance
+
+The liability referred to in Rule 5.4.8 is commonly referred to as the liability for outstanding claims. Some insurers represent this liability as three separate provisions, being the liability in respect of reported claims, the liability in respect of claims incurred but not reported, and the liability in respect of settlement costs, also known as loss adjustment expenses.
+
+5.4.9
+
+An Insurer must treat as an asset the value of reinsurance and other recoveries expected to be received in respect of claims referred to in Rules 5.4.7 and 5.4.8.
+
+5.4.10 Where this section requires an Insurer to recognise as a liability the value of expected future payments, that liability must be calculated in accordance with the appropriate measurement model determined under IFRS 17.
+
+21
+
+PIN/VER18/04-23
+
+PRUDENTIAL – INSURANCE BUSINESS (PIN)
+
+5.4.11 Where this section requires an Insurer to recognise as an asset the value of expected future receipts, that asset must be calculated in accordance with the appropriate measurement model determined under IFRS 17.
+
+5.4.12 Rules 5.4.10 and 5.4.11 do not require an Insurer to obtain a valuation by an Actuary of the assets and liabilities referred to in those Rules, at a Solvency Reference Date other than the Insurer’s annual reporting date.
+
+Guidance
+
+An Insurer is also required to provide a periodic report on its General Insurance Liabilities and associated assets, prepared by an Actuary. The relevant provisions are contained in chapter 7.
+
+5.5
+
+[Deleted]
+
+5.6
+
+Recognition and measurement of assets and liabilities in respect of long-term insurance
+
+5.6.1
+
+This section applies to assets and liabilities in respect of Long-Term Insurance contracts.
+
+Guidance
+
+5.6.2
+
+Premiums in respect of a group of reinsurance contracts entered into by an Insurer as insurer must be treated as receivable from the earlier of the following:
+
+(a)
+
+the beginning of the coverage period of the group of reinsurance contracts; or
+
+(b)
+
+when the insurer recognises the group of underlying insurance contracts as onerous.
+
+5.6.3
+
+Premiums in respect of reinsurance contracts entered into by an Insurer as cedant must be treated as payable from the date on which they are due and payable.
+
+5.6.4
+
+(1)
+
+Acquisition costs incurred in respect of insurance contracts entered into by an Insurer must be treated as payable:
+
+(a)
+
+in the case of expenses directly related to the premiums in respect of the contract, at the same time as the premium is treated as receivable; and
+
+(b)
+
+in the case of expenses not directly related to the premiums in respect of the contract, at the time the contract is effected.
+
+(2)
+
+Expenses associated with the maintenance of insurance contracts, including, but not limited to, the costs of reporting to policyholders and the costs of managing investments, must be treated as payable as they are incurred.
+
+5.6.5
+
+An Insurer must calculate insurance contract liabilities in accordance with the appropriate measurement model determined under IFRS 17.
+
+22
+
+PIN/VER18/04-23
+
+PRUDENTIAL – INSURANCE BUSINESS (PIN)
+
+5.6.6
+
+[Deleted]
+
+5.6.7
+
+[Deleted]
+
+5.6.8
+
+[Deleted]
+
+5.6.9
+
+[Deleted]
+
+5.7
+
+Value of investments in subsidiaries and associates that are

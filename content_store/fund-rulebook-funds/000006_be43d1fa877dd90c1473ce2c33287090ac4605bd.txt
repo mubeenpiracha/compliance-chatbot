@@ -1,0 +1,170 @@
+APP 7: Public Fund Prospectus Disclosure
+
+✓
+
+APP 8: Recognised Jurisdiction List
+
+✓
+
+✓
+
+✓
+
+4.
+
+SPECIALIST CLASSES OF FUNDS
+
+4.1
+
+Specialist Funds
+
+4.1.1
+
+(1) A Domestic Fund that falls within one or more of the criteria specified in Rules 4.1.2 to 4.1.7 is hereby prescribed to be a Domestic Fund of that specialist class or classes.
+
+9
+
+FUNDS VER10.100625
+
+(2) A Foreign Fund that falls within one or more of the criteria specified in Rules 4.1.2 to 4.1.7 is hereby prescribed to be a Foreign Fund of that specialist class or classes for the purposes of:
+
+(a)
+
+managing that Fund in ADGM;
+
+(b)
+
+marketing of the Units of that Fund in or from ADGM; or
+
+(c)
+
+determining whether a Domestic Fund investing in such a Fund continues to meet any criteria or other requirements applicable to that Domestic Fund.
+
+Feeder Fund
+
+4.1.2
+
+A Fund is a Feeder Fund if it is dedicated to investing all, or substantially all, of its assets in the Units or Debentures of a single other Fund (Master Fund).
+
+Guidance
+
+1.
+
+A Domestic Feeder Fund may have a Foreign Fund as its Master Fund.
+
+2.
+
+A Sub-Fund of an Umbrella Fund is not a Feeder Fund.
+
+Master Fund
+
+4.1.3
+
+A Fund is a Master Fund if it, in whole or in part, issues its Units or Debentures to one or more other Funds which are dedicated to investing in that Master Fund.
+
+Guidance
+
+A Domestic Master Fund may have one or more Foreign Funds as its Feeder Funds.
+
+Umbrella Fund
+
+4.1.4
+
+(1) A Fund is an Umbrella Fund if the contributions of the Unitholders in the Fund and the profits or income out of which payments are to be made to them are pooled separately in a number of Sub-Funds constituting separate parts of the Fund Property.
+
+(2) A Fund Manager of an Umbrella Fund must ensure that none of its Sub-Funds invests in another of its Sub-Funds.
+
+Real Estate Investment Trust (REIT)
+
+4.1.5
+
+A Fund is a Real Estate Investment Trust (REIT) only if it meets the criteria in Rule 13.5.
+
+Venture Capital Fund
+
+4.1.6
+
+(1) A Fund is a Venture Capital Fund if it-
+
+(a)
+
+only invests directly, or indirectly as a Feeder Fund holding units of a Master Fund, in accordance with (2), in:
+
+(i)
+
+Securities or Virtual Assets that are not admitted to trading on an exchange,
+
+10
+
+FUNDS VER10.100625
+
+(ii)
+
+instruments enabling the Fund to acquire Securities or Virtual Assets;
+
+(iii) governance tokens that allow holders to participate
+
+in on-chain
+
+governance of a crypto project; or
+
+(iv) utility tokens to use the products and services of a project described in
+
+(iii);
+
+(v) any representation of value in the form of digital tokens, or
+
+(vi) the right to buy the tokens described in (iii), (iv) or (v),
+
+that have been issued by a company which is at an early stage of development;
+
+(b)
+
+is closed ended;
+
+(c)
+
+limits total subscriptions to an amount not to exceed $100 million or a higher amount approved by the Regulator; and
+
+(d)
+
+is either:
+
+(i) a Domestic Fund that is either an Exempt Fund or Qualified Investor Fund; or
+
+(ii) a Foreign Fund that is not available to Retail Clients.
+
+(2) A Venture Capital Fund may consist of a Master Fund and Feeder Fund(s)
+
+structure in which:
+
+(a)
+
+each Feeder Fund invests in a Master Fun as described in 2(b); and
+
+(b)
+
+the Master Fund meets the requirement of (1)(a),(b), (c) and (d).
+
+Private Credit Fund
+
+4.1.7
+
+A Fund is a Private Credit Fund if:
+
+(a)
+
+it is a Domestic Fund that is either an Exempt Fund or a Qualified Investor Fund;
+
+(b)
+
+it is managed by an Authorised Fund Manager;
+
+(c)
+
+it is closed-ended; and
+
+(d)
+
+its operations are limited to:
+

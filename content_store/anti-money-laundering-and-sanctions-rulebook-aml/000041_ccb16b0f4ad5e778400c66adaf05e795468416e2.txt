@@ -1,0 +1,103 @@
+ not establish or maintain:
+
+(a)
+
+an anonymous account or an account in a fictitious name; or
+
+(b)
+
+a nominee account which is held in the name of one Person, but which is controlled by or held for the benefit of another Person whose identity has not been disclosed to the Authorised Person or the Recognised Body.
+
+Confidential
+
+73
+
+AML VER10.020125
+
+11.
+
+TARGETED FINANCIAL SANCTIONS AND OTHER INTERNATIONAL OBLIGATIONS
+
+11.1 Resolutions and Sanctions
+
+11.1.1 (1)
+
+A Relevant Person must establish and maintain effective systems and controls to ensure that on an ongoing basis it is properly informed as to, and takes reasonable measures to comply with, relevant resolutions or Sanctions which it is required to comply with, under legislation applicable in ADGM or any other jurisdiction.
+
+(2)
+
+A Relevant Person must immediately notify the Regulator when it becomes aware that it is, for or on behalf of a Person:
+
+(a)
+
+carrying on or about to carry on an activity;
+
+(b)
+
+holding or about to hold money or other assets; or
+
+(c)
+
+undertaking or about to undertake any other business whether or not arising from or in connection with (a) or (b);
+
+where such carrying on, holding or undertaking constitutes or may constitute a contravention of any Sanctions with which the Relevant Person is required to comply, under legislation applicable in ADGM or any other jurisdiction.
+
+(3)
+
+A Relevant Person must ensure that the notification stipulated in (2) above includes the following information:
+
+(a)
+
+a description of the relevant activity in (2)(a), (b) or (c); and
+
+(b)
+
+the action proposed to be taken or that has been taken by the Relevant Person with regard to the matters specified in the notification.
+
+Guidance
+
+1.
+
+In Rule 11.1.1(1), taking reasonable measures to comply with resolutions or Sanctions may include, for example, a Relevant Person not undertaking a transaction for or on behalf of a Person without undertaking further due diligence in respect of that Person.
+
+2.
+
+Relevant resolutions or Sanctions mentioned in Rule 11.1.1 may, among other things, relate to money laundering, terrorist financing or the financing of WMD, or otherwise be relevant to the activities carried on by the Relevant Person. For example:
+
+(a)
+
+a Relevant Person should exercise due care to ensure that it does not provide services to, or otherwise conduct business with, a Person engaged in money laundering, terrorist financing or the financing of WMD; and
+
+Confidential
+
+74
+
+AML VER10.020125
+
+(b)
+
+a Recognised Investment Exchange or Recognised Clearing House, as a Recognised Body, should additionally exercise due care to ensure that it does not facilitate fund raising activities or listings by Persons engaged in money laundering or terrorist financing or financing of WMD.
+
+3.
+
+A Relevant Person should be proactive in checking for, and taking measures to comply with, relevant resolutions or Sanctions which the Relevant Person is required to comply with, under legislation applicable in ADGM or any other jurisdiction. This should include measures that enable a Relevant Person to comply with their obligations under Federal AML Legislation. The Regulator expects Relevant Persons to perform checks on an ongoing basis against their customer databases and records for any names appearing in resolutions or Sanctions which the Relevant Person is required to comply with as well as to monitor transactions accordingly.
+
+4.
+
+A Relevant Person may use a database maintained elsewhere for an up-to-date list of resolutions and Sanctions, or to perform checks of customers or transactions against that list. For example, it may wish to use a database maintained by its head office or a Group member. However, the Relevant Person retains responsibility for ensuring that its systems and controls are effective to ensure compliance with this Rulebook.
+
+5.
+
+The systems and controls referred to in Rule 11.1.1(1) should enable a Relevant Person to comply with the requirements of Article 21 of Cabinet Decision No. (74) of 2020, which include:
+
+(a)
+
+Registering on the EOCN website to receive updates on changes to Targeted Financial Sanctions lists.
+
+(b)
+
+Regularly screening its databases and transactions against Targeted Financial Sanctions lists as required by the screening scope and timings as set out in the Cabinet Decision.
+
+(c)
+
+Implementing freezing measures without delay or prior notice to the relevant Person(s) if a match is found as

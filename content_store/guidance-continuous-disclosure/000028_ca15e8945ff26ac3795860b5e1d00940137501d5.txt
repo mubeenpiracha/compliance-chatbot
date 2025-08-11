@@ -1,0 +1,39 @@
+ will have the authority to request a Trading Halt. If a Reporting Entity has such approval processes in place, it must be able to activate them, and obtain the necessary approvals, within a matter of minutes. A Reporting Entity must also have contingency plans in place for when its key approvers/contacts are not available.
+
+31
+
+VER01.280922
+
+a)
+
+the financial impact of specific events, such as major acquisition or disposals;
+
+b)
+
+significant changes to prospective financial information, such as earnings, profits or production forecasts. Such prospective financial information relating to a Listed Entity may be first Disclosed by a Reporting Entity/Listed Entity itself, or may have become generally available from another source, such as analyst’s forecasts;46 and
+
+c)
+
+a gradual cumulative change in a Listed Entity’s financial position due to a number of influences that individually would otherwise not require a Disclosure.
+
+151) Noting the third category above, the Listing Authority suggests that when a Listed Entity prepares its monthly or periodic internal management accounts, that it considers, with its Reporting Entity, whether there is any significant information or systemic changes reflected in those accounts that would require a Disclosure to be made.
+
+152) If financial information is Disclosed by a Reporting Entity on a frequent, or periodic basis, it may be that the RIE’s market in the Listed Entity’s Securities does not react as extremely as they may where a significant loss is Disclosed for the first time at the end of a reporting period. Reporting Entities should be aware that they are permitted to make Disclosures of financial information outside the time periods stipulated by the periodic reporting requirements of the Rules, particularly those set out in chapter 10 of the Rules. The Disclosures (discussed in the paragraphs below in relation to earnings guidance) demonstrate the variety of metrics that a Reporting Entity may Disclose on a monthly, or quarterly, basis. The Listing Authority does appreciate, however, that the Disclosure of periodic metrics may not be suitable for all Reporting Entities.
+
+153) If a Reporting Entity does regularly Disclose financial information, it should include appropriate qualifications and assumptions, as relevant, within the Disclosures to ensure that the financial information is not misleading or deceptive, and that readers of the financial information properly understand the basis on which the financial information has been prepared. Reporting Entities need to also apply appropriate and consistent financial metrics when Disclosing financial information, and include the basis for the calculation of the financial information. The Disclosure of financial information needs to be reliable, particularly given that such results will not have been subject to an audit or audit review. EARNINGS GUIDANCE
+
+154) The Listing Authority understands that Reporting Entities may wish to provide periodic earning guidance and that this can, where appropriately prepared, be of assistance to the market in a Listed Entity’s Securities.47 As a general policy, a positive or negative variation in excess of 10% to 15% (from the previous corresponding period) will likely be considered to comprise Inside Information, and should be Disclosed as soon as a Reporting Entity becomes aware of the variation.
+
+155) In making a Disclosure in relation to earnings guidance, a Reporting Entity must provide details, however qualified, of the extent of the earnings variation. For example, a Disclosure may indicate that, based on internal management accounts, a Listed Entity’s expected NPAT or EBITDA will be an approximate amount (e.g., $50 million), within a
+
+46 For further discussion on prospective information, please also refer to the discussion on ‘earnings guidance’ in paragraphs 154 to 170. 47 Reporting Entities/Listed Entities may also provide ‘one-off’ earnings guidance in other disclosure documents, including Prospectus Offer documents, bidder’s and target’s statements, etc.
+
+32
+
+VER01.280922
+
+stated range (e.g., between $45 million to $55 million), or alternatively is expected to move by an (approximate) percentage (e.g., up 25% to 30%).
+
+156) Whilst the Listing Authority accepts that earnings guidance may not be precise and may be further changed on finalisation of a Listed Entity’s financial statements, it does not encourage the use of terms that are insufficiently precise or potentially misleading such as ‘single digit’, ‘double digit’ or ‘best/worst year predicted’, in Disclosures of earnings guidance.
+
+157) Where a Reporting Entity has Disclosed earnings guidance, it will be subject to the requirements set out in Rules 7.2.1(

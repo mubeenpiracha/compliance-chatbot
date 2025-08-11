@@ -1,0 +1,77 @@
+ expects to revert to its normal hours of operation.
+
+(a) Notice of that event; and (b) a copy of the new plan.
+
+(a) Notice of that event; (b) what action that Recognised Body is taking to restore the operation of the reserve information technology system; and (c) when it is expected that the operation of that system will be restored.
+
+(a) Notice of that event; (b) what event or circumstances has caused it to become unable to do so; (c) which of its Regulatory Functions it is unable to discharge; and (d) what action, if any, it is taking or proposes to take to deal with the situation and, in particular, to enable it to recommence
+
+87
+
+MIR VER10.290725
+
+Event
+
+Membership 43. A Recognised Body admits a new
+
+Member.
+
+44. A Recognised Body admits for the first time a Remote Member whose head or registered office is in a jurisdiction from which that Recognised Body has not previously admitted Remote Members.
+
+Investigations 45. A Recognised Body becomes aware that a Person has been appointed by any regulatory body (other than the Regulator or a Recognised Body) to investigate: (a) any business transacted by means of its facilities; or (b) any aspect of the Clearing Services which it provides.
+
+Notifications do not need to be made in respect of: (a) routine inspections or visits undertaken in the course of regular
+
+Timing
+
+As soon as practicable.
+
+As soon as practicable.
+
+As soon as practicable.
+
+Information Requirement discharging that Regulatory Function.
+
+(a) Notice of that event; (b) a description of the Person whom it is admitting to membership; and (c) particulars of its reasons for considering that the Recognised Body’s membership criteria are met. (a) Notice of that event; (b) the name of that jurisdiction; (c) the name of any regulatory authority in that jurisdiction which regulates that Remote Member in respect of activities relating to Financial Instruments; and (d) particulars of its reasons for considering that, in admitting a Remote Member from that jurisdiction to membership, the Recognised Body is able to continue to satisfy the Recognition Requirements which apply to it.
+
+Notice of that event.
+
+88
+
+MIR VER10.290725
+
+Event monitoring, complaints handling or as part of a series of 'theme visits'; (b) routine requests for information; or (c) investigations into the conduct of Members of the Recognised Body or of other users of its facilities where the use of its facilities is a small or incidental part of the subject matter of the investigation.
+
+Timing
+
+Disciplinary action relating to Members 46. A Recognised Body has taken any
+
+disciplinary action against any Member or any Employee of a Member, in respect of a breach of a rule relating to the carrying on by the Recognised Body of any of its Regulatory Functions.
+
+As soon as practicable.
+
+47. An appeal is lodged against any disciplinary action taken by a Recognised Body against any Member or any Employee of a Member, in respect of a breach of a rule relating to the carrying on by the Recognised Body of any of its Regulatory Functions.
+
+As soon as practicable.
+
+Criminal offences and civil prohibitions 48. A Recognised Body has evidence
+
+tending to suggest that any Person has: (a) been carrying on any Regulated Activity in ADGM in contravention of the General Prohibition; (b) been engaged in Market Abuse; committed a criminal offence under FSMR and the Rules or subordinate legislation made under FSMR and the Rules; or (d) committed a criminal offence under the Anti-Money Laundering and Sanctions Rules (AML).
+
+As soon as practicable.
+
+Restriction of, or instruction to close out, open positions
+
+Information Requirement
+
+(a) Notice of that event; (b) the name of the Person concerned; (c) details of the disciplinary action taken by the Recognised Body; and (d) the Recognised Body's reasons for taking that disciplinary action. (a) Notice of that event; (b) the name of the appellant; (c) the grounds on which the appeal is based; and (d) the outcome of the appeal, when known.
+
+(a) Notice of that event; and (b) full details of that evidence in writing.
+
+89
+
+MIR VER10.290725
+
+Event
+
+49

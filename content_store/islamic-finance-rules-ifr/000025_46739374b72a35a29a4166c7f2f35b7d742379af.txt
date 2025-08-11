@@ -1,0 +1,87 @@
+), that any respect of property under in development whether on its own or in a joint venture is undertaken only where the REIT intends to hold the developed property upon completion.
+
+investment made
+
+(2)
+
+The total contract value of the property under development in (1) must not exceed 30% of the net asset value of the Fund Property of the Islamic REIT.
+
+38
+
+IFR/VER21/03-25
+
+ISLAMIC FINANCE RULES (IFR)
+
+Guidance
+
+For the purposes of this Rule, the DFSA would not consider property development activities to include refurbishment, retrofitting and renovation.
+
+6.11.5
+
+A Fund Manager of an Islamic REIT may borrow either directly or through its Special Purpose Vehicle up to 65% of the gross asset value of the Fund provided that such borrowings are Shari’a compliant.
+
+Guidance
+
+1. The gross asset value of a Fund should be calculated as the total value of the Fund Property based on the most recent valuation under CIR Rule 8.4.1(1), but without making the deductions provided for in the other paragraphs of that Rule.
+
+2. As there are no specific risks that arise by virtue of a Fund being an Islamic Fund, the prudential requirements that apply to a Category 3 firm as set out in the PIB module apply to such Fund Managers. However, if the underlying assets of the Fund are invested in financial products or instruments that are Islamic and have certain features which would raise any prudential risks, it is the responsibility of the Fund Manager to address such risks. The DFSA would provide any additional clarifications regarding such matters upon request.
+
+6.12
+
+Islamic Money Market Funds
+
+6.12.1 CIR Rules 13.8.1(2) and (3) and 13.8.2 apply to a Fund Manager of an
+
+Islamic Fund that is a Money Market Fund as if a reference to:
+
+(a)
+
+a Deposit or a Debenture includes an Islamic financial instrument or product with similar economic characteristics to a Deposit or a Debenture; and
+
+(b)
+
+an interest rate reset date is, in relation to an Islamic financial instrument or product, a reference to the date on which the rate of profit of return for that instrument or product is reset.
+
+Guidance
+
+A Fund Manager of an Islamic Money Market Fund must comply with the overriding obligation in CIR Rule 13.8.1 to ensure that the Fund’s investment strategy is consistent with the investment objectives of a Money Market Fund as set out in CIR Rule 3.1.11. It must also comply with other applicable requirements for Money Market Funds such as the requirement to include a warning in the Fund Prospectus under CIR Rule 14.4.7.
+
+6.13 Islamic Exchange Traded Funds (“ETFs”)
+
+6.13.1 (1) A Fund is an Islamic Exchange Traded Fund or Islamic ETF if it:
+
+(a) is constituted as an Open-ended Public Fund;
+
+(b) has its Units available for trading throughout the day on an exchange
+
+that meets the criteria in (2);
+
+(c) has at least one market maker (Authorised Participant) who:
+
+39
+
+IFR/VER21/03-25
+
+ISLAMIC FINANCE RULES (IFR)
+
+(i)
+
+purchases and redeems ‘creation Units’ of the Fund from the Fund Manager; and
+
+(ii)
+
+is prepared to buy and sell Units of the Fund throughout the day on the relevant exchange; and
+
+(d) meets the Shari’a related requirements in this chapter.
+
+(2) An exchange meets the requirement in (1)(b) if it is:
+
+(a) operated by an Authorised Market Institution;
+
+(b) regulated by a Financial Services Regulator in a jurisdiction that is a signatory to the IOSCO Multilateral Memorandum of Understanding for sharing information; or
+
+(c) regulated by a Financial Services Regulator in a jurisdiction which has entered into a bilateral memorandum of understanding with the DFSA for sharing information.
+
+(3) A Fund Manager, or any Person making an Offer of a Unit of Fund or otherwise marketing a Fund, must not describe the Fund in its offer document or marketing material as an “Exchange Traded Fund” (or “ETF”) or otherwise hold out the Fund as being an Exchange Traded Fund or ETF, unless the Fund meets the criteria in (2).
+
+(4) The

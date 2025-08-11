@@ -1,0 +1,109 @@
+3
+
+An Insurer that is a Protected Cell Company must ensure that at all times, in respect of each of its Cells, the Insurer has Adjusted Cellular Capital Resources equal to or higher than the amount of the Minimum Cellular Capital Requirement in respect of that Cell.
+
+4.4.4
+
+The Adjusted Non-Cellular Capital Resources in respect of an Insurer that is a Protected Cell Company must be calculated in accordance with App5.
+
+4.4.5
+
+The Minimum Non-Cellular Capital Requirement in respect of an Insurer that is a Protected Cell Company must be calculated in accordance with App6.
+
+4.4.6
+
+The Adjusted Cellular Capital Resources in respect of a Cell must be calculated in accordance with App5.
+
+15
+
+PIN/VER18/04-23
+
+4.4.7
+
+4.5
+
+4.6
+
+4.6.1
+
+4.6.2
+
+4.6.3
+
+4.6.4
+
+4.6.5
+
+4.7
+
+4.7.1
+
+4.7.2
+
+PRUDENTIAL – INSURANCE BUSINESS (PIN)
+
+The Minimum Cellular Capital Requirement in respect of a Cell must be calculated in accordance with App6.
+
+Deleted
+
+Insurers that undertake long-term insurance business
+
+Subject to Rule 4.6.2, this section applies only to Insurers that undertake Long- Term Insurance Business through a Long-Term Insurance Fund.
+
+This section does not apply to either:
+
+(a)
+
+an Insurer that is deemed to constitute a single Long-Term Insurance Fund in accordance with Rule 3.2.2(b); or
+
+(b)
+
+an Insurer that is a Protected Cell Company in respect of a Cell that is deemed to constitute a single Long-Term Insurance Fund in accordance with Rule 3.2.3(b).
+
+An Insurer that undertakes Long-Term Insurance Business through a Long-Term Insurance Fund must ensure that at all times, in respect of each Long-Term Insurance Fund maintained by it, the Insurer has Adjusted Fund Capital Resources equal to or higher than the amount of the Minimum Fund Capital Requirement in respect of that Long-Term Insurance Fund.
+
+The Adjusted Fund Capital Resources in respect of a Long-Term Insurance Fund maintained by an Insurer must be calculated in accordance with App7.
+
+The Minimum Fund Capital Requirement in respect of a Long-Term Insurance Fund maintained by an Insurer must be calculated in accordance with App8.
+
+Availability of assets of insurers incorporated outside the DIFC
+
+This section applies only to Insurers that are not DIFC Incorporated Insurers.
+
+Guidance
+
+The provisions in this section require an Insurer to have assets, of a minimum quality, available to meet its gross Insurance Liabilities arising from its DIFC Insurance Business plus a margin. Although the Insurer is required to cover its Insurance Liabilities gross of reinsurance, an Insurer still has benefit of its reinsurance arrangements because assets may include amounts receivable from reinsurers in respect of gross Insurance Liabilities, including amounts potentially receivable from reinsurers in respect of the exposures reflected in the Insurer’s Premium Liability. No credit, however, may be taken in respect of a reinsurer that is Rated worse than BBB.
+
+An Insurer that is not a DIFC Incorporated Insurer must always have assets, of a type referred to in Rule 4.7.3, that are available to meet Insurance Liabilities of the Insurer arising in respect of operations conducted by the Insurer in the DIFC, at least equal to the sum of the following:
+
+16
+
+PIN/VER18/04-23
+
+4.7.3
+
+4.7.4
+
+4.8
+
+4.8.1
+
+PRUDENTIAL – INSURANCE BUSINESS (PIN)
+
+(a)
+
+the sum of the default risk component and the investment volatility risk component in respect of those assets, calculated according to the methods set out in sections A4.4 and A4.5 respectively, applying those methods so far as concerns those assets only;
+
+(b)
+
+Insurance Liabilities of the Insurer in respect of its DIFC Insurance Business; and
+
+(c)
+
+the Insurer’s DIFC Business Risk Capital Requirement, calculated in accordance with App9.
+
+Guidance
+
+1.
+
+Assets are not normally available to meet Insurance Liabilities of an Insurer arising in respect of operations conducted by the Insurer in the D

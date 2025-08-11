@@ -1,0 +1,85 @@
+-Term Insurance Fund, and in respect of expenses attributable to the Long-Term Insurance Fund; or
+
+(e)
+
+where the transfer constitutes reattribution of assets attributed to the Long-Term Insurance Fund in error.
+
+3.5.3 Assets attributable to a Long-Term Insurance Fund must not be distributed by way of dividend or by way of return of capital, except by an Insurer or a Cell that is deemed to constitute a single Long-Term Insurance Fund.
+
+3.5.4 A dividend or return of capital by an Insurer or a Cell that is deemed to constitute a single Long-Term Insurance Fund may only be made where the dividend or return of capital constitutes appropriation of a surplus determined in accordance with Rule 7.3, and:
+
+(a)
+
+if the payment is made within four months of the Reference Date of the actuarial investigation determining that surplus, the payment does not cause the total aggregate amount of the dividends or returns of capital made by the Insurer or the Cell since that Reference Date to exceed the amount of that surplus; or
+
+(b)
+
+if the payment is made more than four months after the Reference Date of the actuarial investigation determining that surplus, the payment does not cause the total aggregate amount of the dividends or returns of capital made by the Insurer or the Cell since that Reference Date to exceed 50% of the amount of that surplus.
+
+3.5.5 Assets attributable to a Long-Term Insurance Fund must not be lent or otherwise made available for use for any other purposes of the Insurer or any purposes of any party Related to the Insurer. This Rule operates to prohibit, among other things, lending between Long-Term Insurance Funds of the same Insurer. Assets must not be organised in such a manner as to create indebtedness between Long-Term Insurance Funds.
+
+8
+
+PIN VER07.290725
+
+Guidance
+
+An Insurer may not enter into any arrangement, whether or not described as a contract of reinsurance, whereby a Long-Term Insurance Fund of the Insurer stands in the same relation to the Insurer as though the Insurer were the reinsurer in a contract of reinsurance in which the Long-Term Insurance Fund is the cedant.
+
+3.6
+
+Other requirements
+
+3.6.1
+
+(1)
+
+Except as permitted in this Rule, an ADGM Incorporated Insurer must not effect any Direct Long-Term Insurance contract the terms of which include of the following:
+
+(a)
+
+investment components of Policy Benefits, that are wholly or partly guaranteed;
+
+(b)
+
+options to receive Policy Benefits on expiry, maturity or surrender as annuities, where annuity rates are wholly or partly guaranteed at the inception of the contract;
+
+(c)
+
+bonuses on participating contracts where those bonuses become vested Policy Benefits or guaranteed by the Insurer at a date prior to expiry, maturity or surrender; or
+
+(d)
+
+other options or discretionary Policy Benefits that expose the Insurer to investment, expense or other risk that is not readily definable at the inception of the contract.
+
+(2)
+
+An Insurer may request the permission of the Regulator to effect Direct Long-Term Insurance contracts with features of the kind referred to in (1). A request must be made in writing and must include:
+
+(a)
+
+details of the terms of the proposed contracts;
+
+(b)
+
+an explanation of how the Insurer intends to price such contracts, and to value the associated assets and liabilities for the purposes of its capital adequacy and solvency calculations; and
+
+(c)
+
+an explanation of how the Insurer intends to quantify, monitor and manage the risks to its capital adequacy and solvency arising from such features of contracts.
+
+(3)
+
+The Regulator may give an Insurer permission to effect Direct Long-Term Insurance contracts having one or more features of the kind referred to in (1). Permission shall be given in writing and shall be subject to such terms or conditions as the Regulator may specify in its notice giving permission. Where any terms and conditions are imposed on the Insurer, the Insurer shall comply with such terms and conditions.
+
+9
+
+PIN VER07.290725
+
+(4)
+
+The Regulator may on its own initiative at any time vary or revoke permission given under (3) above. Variation or revocation shall be communicated to the Insurer in writing.
+
+(5)
+
+If the Regulator decides to exercise its power under this Rule not to give permission or to impose conditions or restrictions or to vary

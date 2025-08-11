@@ -1,0 +1,97 @@
+ and place of birth of the payer; or
+
+(b)
+
+include only the payer’s account number (or unique transaction reference number if no account number exists), provided that:
+
+(i)
+
+those details will permit the transaction to be traced back to the payer and payee; and
+
+50
+
+AML/VER27/03-25
+
+Anti-Money Laundering, Counter-Terrorist Financing and Sanctions Module (AML)
+
+(ii)
+
+the ordering institution must provide the payer information set out in paragraph (a) within 3 business days of a request for the the DFSA or information by immediately upon request of a law enforcement agency.
+
+the beneficiary
+
+institution or
+
+Guidance
+
+The payer’s address referred to in Rule 9.3.5 or 9.3.7 should be the address that the Relevant Person has verified as part of its Customer Due Diligence on the payer.
+
+9.3.8
+
+An Authorised Person that is an ordering institution must retain a record of payer and payee information it has collected under this section.
+
+9.3.9
+
+An Authorised Person that is an ordering institution must not execute a fund transfer if it is unable to comply with the requirements in Rules 9.3.3 to 9.3.8.
+
+Requirements for beneficiary institution
+
+9.3.10 An Authorised Person that is a beneficiary institution must take reasonable measures, including post-event monitoring or real-time monitoring where feasible, to identify cross-border fund transfers that lack the required payer or payee information.
+
+9.3.11 For a cross-border fund transfer, an Authorised Person that is a beneficiary institution must identify and verify the identity of the payee if the identity has not been previously verified.
+
+Requirements for intermediary institution
+
+9.3.12 An Authorised Person that is an intermediary institution must retain all the required
+
+payer and payee information accompanying the fund transfer.
+
+9.3.13
+
+If information accompanying a cross-border fund transfer from remaining with a related domestic fund transfer, an Authorised Person that is a receiving intermediary institution must maintain a record, for at least five years, of all the information received from the ordering institution or another intermediary institution.
+
+technical
+
+limitations prevent
+
+the
+
+required payer or payee
+
+9.3.14 An Authorised Person that is an intermediary institution must take reasonable measures, which are consistent with straight-through processing, to identify cross- border fund transfers that lack the required payer or payee information.
+
+Systems and controls concerning fund transfers
+
+9.3.15 A Relevant Person must ensure that its AML systems and controls referred to in Rule 5.2.1 include risk management policies and procedures specifying the steps to be taken if a fund transfer lacks information required under this section, including when to reject or amend a transfer and any follow-up action that is to be taken.
+
+Guidance
+
+The DFSA considers that concealing or removing in a fund transfer any of the information required by this section would be a breach of the requirement to ensure that the fund transfer contains accurate payer and payee information.
+
+51
+
+AML/VER27/03-25
+
+Anti-Money Laundering, Counter-Terrorist Financing and Sanctions Module (AML)
+
+9.3A Additional requirements for Crypto Token transfers
+
+9.3A.1 This section applies to an Authorised Person that sends or receives Crypto Tokens.
+
+9.3A.2 (1) An Authorised Person must have adequate policies and procedures in place to mitigate the money laundering risks arising from the transfer of Crypto Tokens.
+
+(2) The policies and procedures in (1) must without limitation address the situation where a transfer of Crypto Tokens is received without relevant information and the circumstances in which such transfer should be rejected, reversed (if technically possible), delayed or permitted.
+
+9.3A.3 (1) An Authorised Person must have in place adequate transaction monitoring procedures to detect the origin, any intermediate transaction, and the destination of Crypto Tokens transferred from or to its customer so that it is able to identify and report any suspicious transaction.
+
+(2) The procedures in (1) must provide for the:
+
+(a)
+
+tracking of the transaction history of Crypto Tokens to accurately identify their source and destination; and
+
+(b)
+
+identification of transactions involving Digital Wallet addresses that are associated with illicit or suspicious activities.
+
+9.3A.4 (1) Before effecting a Crypto Token transfer (“CTT”) with a total value of $1

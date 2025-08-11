@@ -1,0 +1,130 @@
+; or
+
+(b)
+
+three months from the date of the notice under this section 52,
+
+whichever expires last.
+
+If for any special reason the Registrar thinks fit, he may, on an application made before the expiry of the period otherwise allowed, by notice in writing to a DLT Foundation extend that period by such further period as may be specified in the notice.
+
+Any such extension must not have the effect of extending the period for filing to more than twelve months after the end of the relevant accounting reference period.
+
+In this section 52 “the relevant accounting reference period” means the accounting reference period by reference to which the financial year for the Annual Accounts in question was determined.
+
+Calculation of period allowed
+
+This section 53 applies for the purposes of calculating the period for filing the Annual Accounts and Auditor’s Reports which is expressed as a specified number of months from a specified date or after the end of a specified previous period.
+
+Subject to the following provisions, the period ends with the date in the appropriate month corresponding to the specified date or the last day of the specified previous period:
+
+(a)
+
+if the specified date, or the last day of the specified previous period, is the last day of a month, the period ends with the last day of the appropriate month (whether or not that is the corresponding date); and
+
+(b)
+
+if:
+
+i.
+
+the specified date, or the last day of the specified previous period, is not the last day of a month but is the 29th or 30th; and
+
+ii.
+
+the appropriate month is February,
+
+the period ends with the last day of February.
+
+“The appropriate month” means the month that is the specified number of months after the month in which the specified date, or the end of the specified previous period falls.
+
+37
+
+54.
+
+(1)
+
+(2)
+
+(3)
+
+55.
+
+(1)
+
+(2)
+
+56.
+
+(1)
+
+(2)
+
+Filing obligations of DLT Foundations generally
+
+The Councillors of a DLT Foundation must deliver to the Registrar for each financial year of the DLT Foundation a copy of:
+
+(a)
+
+the Annual Accounts; and
+
+(b)
+
+the Auditor’s Report.
+
+The copies of the balance sheet and Auditor’s Report delivered to the Registrar under this section 54 must state the name of the Person who signed it on behalf of the Council.
+
+The copy of the Auditor’s Report must:
+
+(a)
+
+state the name of the auditor and the name of the Person who signed it as senior auditor, or
+
+(b)
+
+if the conditions in section 86 are met, state that a resolution has been passed and notified to the Board in accordance with section 86.
+
+Default in filing: late filing fee
+
+If the requirements of section 51 are not complied with in relation to a DLT Foundation’s Annual Accounts and Auditor’s Reports for a financial year before the end of the period for filing those Annual Accounts and Auditor’s Reports (“filing deadline”), the DLT Foundation and every Person who immediately before the end of that period was a Councillor of the DLT Foundation, commits a contravention of these Regulations.
+
+Where a DLT Foundation defaults in complying with subsection (1) by the filing deadline, the DLT Foundation must pay a late filing fee up to the maximum amount prescribed in rules made by the Board.
+
+Default in filing: Court order
+
+If:
+
+(a)
+
+the requirements of section 51 are not complied with in relation to the Annual Accounts and Auditor’s Reports for a financial year before the end of the period for filing those Annual Accounts and Auditor’s Reports; and
+
+(b)
+
+the Councillors of the DLT Foundation fail to make good the default within 14 days after the service of a notice on them requiring compliance,
+
+the Court may, on the application of any creditor of the DLT Foundation or of the Registrar, make an order directing the Councillors (or any of them) to make good the default within such time as may be specified in the order.
+
+The Court’s order may provide that all costs of and incidental to the application are to be borne by the Councillors.
+
+38
+
+Voluntary Revision
+
+57.
+
+Voluntary revision of Annual Accounts etc.
+
+(1)
+
+If it appears to the Councillors of a DLT Foundation that:
+
+(a)
+
+the Annual Accounts; or
+
+(b)
+
+the Auditor’s Report,
+
+did not comply with the requirements of these Regulations, they may prepare revised Annual Accounts and Auditor’s Reports or statements.
+

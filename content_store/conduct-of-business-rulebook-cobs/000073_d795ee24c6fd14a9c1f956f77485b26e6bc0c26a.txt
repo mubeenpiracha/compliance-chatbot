@@ -1,0 +1,119 @@
+ Client. When assessing the suitability of a custodian to hold Virtual Assets belonging to a Client, an Authorised Person must have regard to the criteria set out in Rules 15.5.3 and 17.5.
+
+18.
+
+OPERATING A PRIVATE FINANCING PLATFORM
+
+18.1 Application
+
+18.1.1 This chapter applies to an Authorised Person that carries on, or intends to carry on, the
+
+Regulated Activity of Operating a Private Financing Platform.
+
+18.2 General
+
+18.2.1 For the purposes of this chapter, a PFP Client, which accesses a Private Financing
+
+Platform, is a Client of the Authorised Person.
+
+117
+
+COBS VER19.290725
+
+18.3 Access to a Private Financing Platform
+
+18.3.1 Prior to enabling a PFP Client to access a financing proposal published on a Private the PFP Operator must obtain a written or electronic Financing Platform, acknowledgement from the PFP Client that it has reviewed the risk disclosure described in Rule 18.5.1(a) and fully understands and accepts the risks involved in investing in any PFP Prospect identified upon the Private Financing Platform.
+
+18.3.2 A PFP Operator must not publish information concerning any financing proposal upon a
+
+Private Financing Platform unless:
+
+(a)
+
+the PFP Operator has disclosed its business terms, including Fees, to the PFP Prospect which is associated with the financing proposal;
+
+(b)
+
+the relevant PFP Prospect associated with the financing proposal is a Body Corporate; and
+
+(c)
+
+the financing proposal qualifies as an Exempt Offer.
+
+18.3.3 A PFP Operator must not permit the publication of information upon any electronic forum or message board feature of a Private Financing Platform it operates where it is aware that information may be potentially misleading or fraudulent.
+
+18.4 Due Diligence
+
+18.4.1 Prior to publishing a financing proposal in relation to a PFP Prospect on a Private Financing Platform, the PFP Operator must perform due diligence upon the PFP Prospect, in order to satisfy the disclosure requirements imposed on it by Rule 18.5.1. Such due diligence must include, but not be limited to, a review of the following information to be provided by the PFP Prospect:
+
+(a)
+
+details and background of management, assessments of directors and key officers;
+
+including fitness and propriety
+
+(b)
+
+background of the PFP Prospect, including its financial soundness, good standing and regulatory status, if relevant; and
+
+(c)
+
+the financing proposal, in order to ensure that, to the best of the PFP Operator’s knowledge, its content is adequate, clear, fair and not misleading.
+
+18.5 Disclosure
+
+18.5.1 A PFP Operator must ensure that the following information, available to PFP Clients, is
+
+published on a Private Financing Platform it operates:
+
+(a)
+
+a statement identifying the risks involved in participating in financing proposals identified on the Private Financing Platform;
+
+(b)
+
+a statement confirming that the PFP Operator is not providing credit or investment advice to any PFP Client or PFP Prospect, and advising PFP Clients to seek independent advice prior to entering into any transaction;
+
+118
+
+COBS VER19.290725
+
+(c)
+
+the terms of operation of the Private Financing Platform, including the PFP Operator’s remuneration model;
+
+(d)
+
+the details of any potential conflicts of interest between the PFP Operator, PFP Clients and any PFP Prospect;
+
+(e)
+
+the details of the Eligible Custodian engaged by the PFP Operator, if so appointed;
+
+(f)
+
+the wind-down arrangements the PFP Operator has in place to ensure the orderly administration of transactions facilitated on the Private Financing Platform it operates in the event of its failure;
+
+(g)
+
+the details of any financing proposal published on the Private Financing Platform;
+
+(h)
+
+the criteria and methodology for accepting a PFP Prospect’s financing proposal for publication on a Private Financing Platform;
+
+(i)
+
+the methodology of, and limitations to, the due diligence undertaken by the PFP Operator concerning each PFP Prospect identified on the Private Financing Platform, in accordance with Rule 18.4.1;
+
+(j)
+
+the governance and operational arrangements of any Body Corporate used as an intermediary between a PFP Client and any PFP Prospect;
+
+(k)
+
+the details of the exit facility, if any, that the PFP Operator offers upon the Private Financing Platform, in accordance with Rule 18.8; and
+
+(l)
+
+any other relevant information concerning

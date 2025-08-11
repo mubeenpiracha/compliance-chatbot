@@ -1,0 +1,100 @@
+ or settles, on its facilities Commodity Derivative contracts which require physical delivery of the underlying commodity.
+
+A3.2 Deliverability of the underlying commodity
+
+A3.2.1 An Authorised Market Institution referred to in A3.1.1 must, for the purposes of meeting the requirement in Rule 6.3.2(1)(b), ensure that the terms and conditions of the Commodity Derivative contracts which are to be traded, or cleared or settled, on its facilities, are designed to include the matters specified in Rules A3.2.2 – A3.2.9.
+
+Quality or deliverable grade
+
+A3.2.2 A Commodity Derivative contract must include specifications of commodity characteristics for par delivery, including those relating to grade, class, and weight. The quality or grade specified must conform to the prevailing practices in the underlying physical market relating to the relevant commodity.
+
+Guidance
+
+1.
+
+Par delivery envisages delivery of commodities which are of a comparable quality or grade as specified in the contract. Contracts that call for delivery of a specific quality of commodity may provide commercial participants with a clearer, more efficient hedging and price-basing contracts than a contract that permits delivery of a broad range of commodity grades or classes.
+
+2.
+
+However, as contracts that permit delivery of only a specific grade of commodity may be susceptible to manipulation if that grade of the commodity is in short supply or controlled by a limited number of sellers, an Authorised Market Institution should require appropriate measures to mitigate such risks.
+
+Size of delivery unit
+
+A3.2.3 A Commodity Derivative contract must contain provisions relating to size or composition of delivery units which conform to the prevailing market practice in the underlying physical market to ensure that it does not constitute a barrier to delivery or otherwise impede the performance of the contract.
+
+Guidance
+
+An Authorised Market Institution should, where the provisions relating to size and delivery units of the Commodity Derivatives contract deviate from the underlying physical market, examine the reasons for such deviation and ensure that the risks arising from such deviation can be effectively addressed by the contract parties.
+
+113
+
+AMI/VER28/03-25
+
+AUTHORISED MARKET INSTITUTIONS (AMI)
+
+Delivery instruments
+
+A3.2.4 A Commodity Derivative contract must specify the acceptable form or type of delivery instruments, and whether such instruments are negotiable or assignable and, if so, on what conditions.
+
+Guidance
+
+Acceptable delivery instruments include warehouse receipts, bills of lading, shipping certificates, demand certificates, or collateralized depository receipts.
+
+The delivery process and facilities
+
+A3.2.5 A Commodity Derivative contract must specify:
+
+(a)
+
+the delivery process, including timing, location, manner and form of delivery, and
+
+(b)
+
+the delivery and/or storage facilities available,
+
+which conform to the prevailing practices in the underlying physical market to permit effective monitoring and to reduce the likelihood of disruption.
+
+Guidance
+
+1.
+
+An Authorised Market Institution should consider issues associated with the delivery process, including those relating to acceptable delivery locations. Such issues include:
+
+a.
+
+the level of deliverable supplies normally available, including the seasonal distribution of such supplies;
+
+b.
+
+the nature of the physical market at the delivery point (e.g., auction market, buying station or export terminal);
+
+c.
+
+the number of major buyers and sellers; and
+
+d.
+
+normal commercial practices in establishing cash commodity values.
+
+2.
+
+The delivery months specified in the Commodity Derivative contract should take into account cyclical production and demand and accord with when sufficient deliverable supplies are expected to exist in the underlying physical market. Seasonality of a commodity should also be taken into account in relation to transport and storage, as it may affect the availability of warehouse space and transportation facilities.
+
+3.
+
+Consistent with the grade differentials noted above, Commodity Derivative contracts that permit delivery in more than one location should set delivery premiums or discounts consistent with those observed in the underlying physical market. The adequacy of transportation links to and from the delivery point should also be taken into account when setting delivery premiums.
+
+4.
+
+The delivery facilities available can include oil or gas storage facilities, warehouses or elevators for agricultural commodities and bank or vault depositories for precious metals.
+
+5.
+
+An Authorised Market Institution should consider issues relating to the selection of delivery facilities under the contract which include:
+
+a.
+
+the number and total capacity of facilities meeting contract requirements;
+
+114
+

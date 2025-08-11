@@ -1,0 +1,107 @@
+);
+
+(c)
+
+section 257 (transactions at an undervalue);
+
+(d)
+
+section 258 (preferences).
+
+Chapter 2 - Powers of Office-holders to obtain information
+
+254. Getting in the Company’s property
+
+(1)
+
+This Section applies in the case of a Company where—
+
+(a)
+
+the Company enters administration;
+
+(b)
+
+the Company becomes subject to a Deed of Company Arrangement;
+
+(c)
+
+an administrative receiver is appointed or (but only for the purposes of subsection (4)) a receiver is appointed;
+
+(d)
+
+the Company goes into liquidation; or
+
+(e)
+
+a provisional liquidator is appointed.
+
+(2) Where any person has in his possession or control any property, books, papers or records to which the Company appears to be entitled, the Court may, on application by the relevant Office-holder, require that person immediately (or within such period as the Court may direct) to pay, deliver, convey, surrender or transfer the property, books, papers or records to the Office-holder.
+
+(3)
+
+If it appears to the Court, on consideration of any evidence obtained pursuant to Section 256 (Inquiry into Company’s dealings), that any person is indebted to the Company, the Court may, on the application of the relevant Office-holder, order that person to pay to the Office-holder, at such time and in such manner as the Court may direct, the whole or any part of the amount due, whether in full discharge of the debt or otherwise, as the Court thinks fit.
+
+(4) Where the Office-holder—
+
+(a)
+
+seizes or disposes of any property which is not property of the Company; and
+
+(b)
+
+at the time of seizure or disposal believes, and has reasonable grounds for believing, that he is entitled (whether in pursuance of an order of the Court or otherwise) to seize or dispose of that property,
+
+the Office-holder is not liable to any person in respect of any loss or damage resulting from the seizure or disposal (except in so far as that loss or damage is caused by the Office-holder’s own negligence), and has a lien on the property, or the proceeds of its sale, for such expenses as were incurred in connection with the seizure or disposal.
+
+255. Duty to co-operate with Office-holder
+
+(1) Where an Office-holder has been appointed to a Company, he may require any of the
+
+persons identified in subsection (2) to—
+
+(a)
+
+give to the Office-holder such information concerning the Company and its promotion, formation, business, dealings, affairs or property as the Office-
+
+119
+
+holder may at any time after the commencement of Insolvency Proceedings reasonably require; and
+
+(b)
+
+attend on the Office-holder at such times as the latter may reasonably require.
+
+(2)
+
+The persons who must co-operate with the Office-holder are—
+
+(a)
+
+those who are or have at any time been a Director or secretary of the Company;
+
+(b)
+
+those who have taken part in the formation of the Company at any time;
+
+(c)
+
+those who are or have been at any time in the employment of the Company;
+
+(d)
+
+those who are or have at any time been a Director or secretary of, or in the employment of, another Company which is or was at any time a Director or secretary of the Company; and
+
+(e)
+
+in the case of a Company being wound up by the Court, any person who has acted as receiver, administrator, administrative receiver, provisional liquidator or liquidator of the Company.
+
+(3)
+
+A person who fails to comply with this Section, without reasonable excuse, commits a contravention and is liable to a fine at the relevant level set out in the Fines Schedule.
+
+256.
+
+Inquiry into Company’s dealings
+
+On the application of the Office-holder, the Court may order any person involved with the Company to appear before it or to produce to it or to the Office-holder an account of his dealings with the Company contained in a witness statement verified by a statement of truth including any information concerning the promotion, formation, business, dealings, affairs or property of the Company or any books, papers or records in his possession or under his control relating to the Company or to any such dealings. A person involved with the Company shall include a Director or secretary of the Company, any person known or suspected to have in his possession any property of the Company or supposed to be indebted to the Company and any person whom the Court thinks capable of giving information concerning the promotion,

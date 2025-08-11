@@ -1,0 +1,135 @@
+A liquidator shall only be appointed if he is a Fit and Proper Person to hold that position. A liquidator shall:
+
+(a)
+
+identify the Assets and liabilities of the DLT Foundation;
+
+(b)
+
+discharge all liabilities of the DLT Foundation;
+
+(c)
+
+prepare a statement of account in respect of all actions of the liquidation; and
+
+(d)
+
+distribute the Surplus Assets, if any, to:
+
+i.
+
+any Remaining Beneficiary in accordance with the Charter (and in the absence of any such express provision, equally between the Remaining Beneficiaries if more than one); or
+
+ii.
+
+in the case of a DLT Foundation established to carry on a specified purpose and it is provided for by the Charter, the Surplus Assets shall be applied to the furtherance of that purpose,
+
+66
+
+(4)
+
+(5)
+
+(6)
+
+113.
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+(6)
+
+and in a case where the Beneficiaries (including Tokenholders who are Beneficiaries) disclaim their entitlement or there is no specified purpose in the Charter, the Surplus Assets shall vest in the ADGM.
+
+During the period of appointment, a liquidator may exercise all the powers of a DLT Foundation under these Regulations or in the Charter and may act in the name of the DLT Foundation in the discharge of its duties under subsection (1).
+
+On completion of the dissolution of the DLT Foundation, the liquidator shall provide written confirmation to the DLT Foundation’s registered office that the dissolution is complete and the DLT Foundation shall file a certified copy of the confirmation with the Registrar together with the stipulated fee.
+
+Upon receipt of the written confirmation referred to in subsection (1) and subject to all the requirements of these Regulations in respect of dissolution being satisfied, the Registrar will strike the DLT Foundation off the DLT Foundations Register and issue a certificate that the DLT Foundation has been dissolved, such dissolution having effect from the date that the DLT Foundation is struck from the DLT Foundations Register.
+
+Striking of on Application with Notice
+
+Striking off on application by DLT Foundation with notice
+
+On application by a DLT Foundation under this section 113, the Registrar may strike the DLT Foundation’s name off the register.
+
+An application under this section 113:
+
+(a)
+
+must be made by a Councillor of the DLT Foundation;
+
+(b)
+
+must be made pursuant to a Resolution of Councillors (and such Resolution of Councillors shall not be adopted unless any required Resolution of Tokenholders has been taken); and
+
+(c)
+
+must contain the prescribed information.
+
+The Registrar may not strike a DLT Foundation off under this section 113 until after the expiration of two months from the publication by the Registrar on the Registrar’s website of a notice:
+
+(a)
+
+stating that the Registrar may exercise the power under this section 113 in relation to the DLT Foundation; and
+
+(b)
+
+inviting any Person to show cause why that should not be done.
+
+The Registrar must publish notice on the Registrar’s website of the DLT Foundation’s name having been struck off.
+
+On the publication of the notice on the Registrar’s website the DLT Foundation is dissolved.
+
+However:
+
+67
+
+(a)
+
+any incurred liability of a Councillor or another Person continues and may be enforced as if the DLT Foundation had not been dissolved; and
+
+(b)
+
+nothing in this section 113 affects the power of the Court to wind up a DLT Foundation the name of which has been struck off the register.
+
+114. Circumstances in which application not to be made: activities of DLT Foundation
+
+(1)
+
+An application under section 113 on behalf of a DLT Foundation must not be made if, at any time in the previous three months, the DLT Foundation has:
+
+(a)
+
+changed its name;
+
+(b)
+
+traded or otherwise carried on business;
+
+(c)
+
+made a disposal for value of property or rights that, immediately before ceasing to trade or otherwise carry on business, it held for the purpose of disposal for gain in the normal course of trading or otherwise carrying on business; or
+
+(d)
+
+engaged in any other activity, except one which is:
+
+(i)
+
+necessary or expedient for the purpose of making an application under section 113, or deciding whether to do so;
+
+(ii)
+
+necessary or expedient for the purpose of concluding the affairs of the company;
+
+(iii)
+
+necessary or expedient

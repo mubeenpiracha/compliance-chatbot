@@ -1,0 +1,111 @@
+ and, in the case of transfers referred to section 44(1)(b), the documentation of suitable safeguards;
+
+(f)
+
+where possible, the envisaged time limits for erasure of the different categories of Personal Data; and
+
+(g)
+
+where possible, a general description of the technical and organisational security measures referred to in section 30(1).
+
+(2) Each Processor must maintain a record of all categories of Processing activities carried
+
+out on behalf of a Controller, containing:
+
+(a)
+
+the name and contact details of the Processor or Processors and of each Controller on behalf of which the Processor is acting and the Data Protection Officer;
+
+(b)
+
+the categories of Processing carried out on behalf of each Controller;
+
+28
+
+(c)
+
+where applicable, transfers of Personal Data outside of ADGM or to an International Organisation, including the identification of that location outside of ADGM or the International Organisation and, in the case of transfers referred to in section 44(1)(b), the documentation of suitable safeguards; and
+
+(d)
+
+where possible, a general description of the technical and organisational security measures referred to in section 30(1).
+
+(3) The records referred to in sections 28(1) and 28(2) must be in writing, including in
+
+electronic form.
+
+(4) The Controller or the Processor must make the record available to the Commissioner of
+
+Data Protection on request.
+
+29. Cooperation with the Commissioner of Data Protection
+
+The Controller and the Processor must cooperate, on request, with the Commissioner of Data Protection in the performance of their duties and functions.
+
+30. Security of Processing
+
+(1) Taking into account the State Of The Art , the costs of implementation and the nature, scope, context and purposes of Processing as well as the risk of varying likelihood and severity for the rights of natural persons, the Controller and the Processor must implement appropriate technical and organisational measures to ensure a level of security appropriate to the risk, including as appropriate:
+
+(a)
+
+the Pseudonymisation and encryption of Personal Data;
+
+(b)
+
+the ability to ensure the ongoing confidentiality, integrity, availability and resilience of Processing systems and services;
+
+(c)
+
+the ability to restore the availability and access to Personal Data in a timely manner in the event of a physical or technical incident; and
+
+(d)
+
+a process for regularly testing, assessing and evaluating the effectiveness of technical and organisational measures for ensuring the security of the Processing.
+
+(2)
+
+In assessing the appropriate level of security the Controller and Processor must take into account the risks that are presented by Processing, in particular from accidental or unlawful destruction, loss, alteration, unauthorised disclosure of, or access to Personal Data transmitted, stored or otherwise Processed.
+
+(3) The Controller and Processor must take steps to ensure that any natural person acting under the authority of the Controller or the Processor who has access to Personal Data does not Process it except on instructions from the Controller, unless they are required to do so by Applicable Law.
+
+31. Cessation of Processing
+
+(1) Where the basis for Processing changes, ceases to exist or a Controller is required to cease Processing due to the exercise of a Data Subject’s rights under section 15, the
+
+29
+
+Controller must ensure that all Personal Data, including Personal Data held by Processors is:
+
+(a)
+
+securely and permanently deleted;
+
+(b)
+
+anonymised so that the data is no longer Personal Data and no Data Subject can be identified from the data including where the data is lost, damaged or accidentally released;
+
+(c)
+
+pseudonymised; or
+
+(d)
+
+securely encrypted.
+
+(2) Where a Controller is unable to ensure that Personal Data is securely and permanently deleted, anonymised, pseudonynmised or securely encrypted, the Personal Data must be archived in a manner that ensures the data is put beyond further use.
+
+(3)
+
+"Put beyond further use" in section 31(2) means that:
+
+(a)
+
+a Controller and a relevant Processor is unable to use the Personal Data to inform any decision with respect of the Data Subject or in a manner that affects the Data Subject in any way, other than where such Personal Data needs to be cross-checked by automated means solely in order to prevent further Processing of Personal Data related to the Data Subject;
+
+(b)
+
+no party has access to the Personal Data other than the Controller and any relevant Processor;
+
+(c)
+
+Personal Data is protected by appropriate technical and organisational security measures that are equivalent to those afforded

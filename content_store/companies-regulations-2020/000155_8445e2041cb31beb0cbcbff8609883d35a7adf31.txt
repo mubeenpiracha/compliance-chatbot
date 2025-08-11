@@ -1,0 +1,147 @@
+ Part, “public interest entity” and “financial institution” shall have the meaning given to them in section 372 (public interest entities and financial institutions).
+
+(7)
+
+This Part does not apply to restricted scope companies who shall be exempt from audit for the purposes of these Regulations.
+
+448. Right of members to require audit
+
+(1)
+
+The members of a company that would otherwise be entitled to exemption from audit under any of the provisions mentioned in section 447(1) (exemptions from audit of annual accounts) may by notice under this section require it to obtain an audit of its accounts for a financial year.
+
+(2)
+
+The notice must be given by–
+
+(a)
+
+members holding shares representing not less in total than 10% of the total number of shares or any class of shares issued by the company, or
+
+(b)
+
+if the company does not have a share capital, not less than 10% in number of the members of the company.
+
+(3)
+
+The notice may not be given before the financial year to which it relates and must be given not later than one month before the end of that year.
+
+449. Small companies: conditions for exemption from audit
+
+(1)
+
+A company that qualifies as a small company in relation to a financial year is exempt from the requirements of these Regulations relating to the audit of accounts for that year.
+
+For the purposes of this section whether a company qualifies as a small company shall be determined in accordance with section 369 (companies qualifying as small).
+
+(2)
+
+This section has effect subject to–
+
+section 447(2) and (3) (requirements as to statements to be contained in balance sheet),
+
+section 448 (right of members to require audit),
+
+section 450 (companies excluded from small companies exemption), and
+
+section 451 (availability of small companies exemption in case of group company).
+
+450. Companies excluded from small companies exemption
+
+A company is not entitled to the exemption conferred by section 449 (small companies) if it was at any time within the financial year in question–
+
+(a)
+
+a public interest entity, or
+
+(b)
+
+a financial institution (other than a FinTech Participant).
+
+451. Availability of small companies exemption in case of group company
+
+(1)
+
+A company is not entitled to the exemption conferred by section 449 (small companies) in respect of a financial year during any part of which it was a group company unless–
+
+273
+
+(a)
+
+the group–
+
+(i)
+
+qualifies as a small group in relation to that financial year, and
+
+(ii)
+
+was not at any time in that year an ineligible group, or
+
+(b)
+
+subsection (2) applies.
+
+(2)
+
+A company is not excluded by subsection (1) if, throughout the whole of the period or periods during the financial year when it was a group company, it was both a subsidiary undertaking and dormant.
+
+(3)
+
+In this section–
+
+(a)
+
+“group company” means a company that is a parent company or a subsidiary undertaking, and
+
+(b)
+
+“the group”, in relation to a group company, means that company together with all its associated undertakings.
+
+For this purpose undertakings are associated if one is a subsidiary undertaking of the other or both are subsidiary undertakings of a third undertaking.
+
+(4)
+
+For the purposes of this section–
+
+(a)
+
+whether a group qualifies as small shall be determined in accordance with section 370 (companies qualifying as small: parent companies), and
+
+(b)
+
+“ineligible group” has the meaning given by section 371(2) (companies excluded from the small companies regime)
+
+(5)
+
+The provisions mentioned in subsection (4) apply for the purposes of this section as if all the bodies corporate in the group were companies.
+
+452. Subsidiary companies: conditions for exemption from audit
+
+(1)
+
+A company is exempt from the requirements of these Regulations relating to the audit of individual accounts for a financial year if–
+
+(a)
+
+it is itself a subsidiary undertaking, and
+
+(b)
+
+its parent undertaking is established under the law of the Abu Dhabi Global Market.
+
+(2)
+
+Exemption is conditional upon compliance with all of the following conditions–
+
+(a)
+
+all members of the company must agree to the exemption in respect of the financial year in question,
+
+(b)
+
+the parent undertaking must give a guarantee under section 454 (parent undertaking declaration of guarantee) in respect of that year,
+
+(c)
+
+the company must be included in the consolidated accounts drawn up for that

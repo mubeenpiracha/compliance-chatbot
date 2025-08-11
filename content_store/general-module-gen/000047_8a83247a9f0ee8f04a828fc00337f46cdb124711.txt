@@ -1,0 +1,145 @@
+:
+
+(a)
+
+the Crypto Token is able to maintain a stable price relative to the fiat currency it references;
+
+(b)
+
+the reserves:
+
+(i)
+
+are at least equal in value to the notional value of outstanding Crypto Tokens in circulation (that value being calculated by multiplying the number of Crypto Tokens in circulation by the purported pegged fiat currency value);
+
+(ii)
+
+are denominated in the reference currency;
+
+(iii)
+
+are held in assets that are likely to maintain their value, including during periods of stress, are highly liquid, are appropriately diversified and carry minimal credit risk;
+
+(iv)
+
+are valued daily; and
+
+67
+
+GEN/VER67/03-25
+
+GENERAL (GEN)
+
+(v)
+
+are held in segregated accounts with properly regulated banks or custodians in jurisdictions with regulation that is equivalent to the DFSA’s regime and AML regulation that is equivalent to the standards set out in the FATF Recommendations;
+
+(c)
+
+a person is clearly responsible and liable to investors for the
+
+Crypto Token.
+
+(d)
+
+information demonstrating that the reserves meet the criteria in (b) is published at least monthly; and
+
+(e)
+
+the published information referred to in (d) is verified by a suitably qualified third-party professional who is independent of the issuer of the Crypto Token and any persons responsible for the Crypto Token.
+
+(5)
+
+In assessing the equivalence of AML regulation under (4)(b)(v), the DFSA may consider, among other things, whether on the basis of reports by credible sources (as defined in AML Rule 6.1.3(2)), such as mutual evaluations, detailed assessment reports or follow-up reports, a jurisdiction:
+
+(a)
+
+has AML requirements that are consistent with the FATF
+
+Recommendations; and
+
+(b)
+
+effectively implements those Recommendations.
+
+Guidance
+
+1.
+
+Matters the DFSA may consider under Rule 3A.3.4(2)(a) include:
+
+a.
+
+the jurisdiction(s) where the Crypto Token was established and where its issuers, founders, developers and other key persons and technology are located;
+
+b.
+
+its regulatory status of being green-listed or otherwise approved as suitable for use in other Recognised Jurisdictions;
+
+c.
+
+any history of regulatory examination of the Crypto Token in other jurisdictions and whether any regulatory issues have arisen.
+
+2.
+
+Matters the DFSA may consider under Rule 3A.3.4(2)(b) include:
+
+a.
+
+the adequacy of public information about the issuer, founders, developers, miners, significant holders and other key persons behind the Crypto Token;
+
+b. whether white papers set out clearly the purpose, use case and development path for the Crypto Token and how funds raised by offerings have been or will be used;
+
+c. whether there is public access to the blockchain protocol and the consensus mechanism, publication of smart contract or technology audit reports and records of live updates to the blockchain; and
+
+d. whether persons associated with private and public keys can be identified, Crypto Token balances and transactions can be traced and devices to create anonymity are not used.
+
+68
+
+GEN/VER67/03-25
+
+3.
+
+4.
+
+5.
+
+6.
+
+GENERAL (GEN)
+
+Matters the DFSA may consider under Rule 3A.3.4(2)(c) include:
+
+a.
+
+the maturity of the market for the Crypto Token, the number of years it has been traded and its trading history across different service providers, markets and jurisdictions;
+
+b.
+
+the total supply of the Crypto Tokens issued, the market capitalisation of the Crypto Tokens, pre-determined schedules for issuing or burning Crypto Tokens and any inflationary or deflationary mechanisms used; and
+
+c.
+
+factors affecting supply and demand for the Crypto Token and transparency about significant events affecting price, volatility levels and returns; and
+
+d.
+
+the market liquidity of the Crypto Token, daily and weekly trading volumes and changes in the liquidity profile in response to market stress.
+
+Matters the DFSA may consider under Rule 3A.3.4(2)(d) include:
+
+a.
+
+the type of blockchain, access permissions and rights to amend the protocol and consensus mechanisms used and the associated environmental costs;
+
+b. smart contract availability, endogenous computational capacity, native token
+
+features and the ability to host piggyback tokens on the blockchain;
+
+c.
+
+interoperability of the Crypto Token across various blockchains, limitations of transaction validation times and costs on the native blockchain; and
+
+d.
+
+technological solutions

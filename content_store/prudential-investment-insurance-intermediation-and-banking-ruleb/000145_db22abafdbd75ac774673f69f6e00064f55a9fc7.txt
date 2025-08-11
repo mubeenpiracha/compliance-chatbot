@@ -1,0 +1,94 @@
+ Credit authority thus delegated should be appropriate for the products or portfolios assigned to the credit committee or individual
+
+262
+
+PRU VER17.290725
+
+credit officers and should be commensurate with their credit experience and expertise. An officer's credit authority may, however, be increased on the basis of his or her track record. An Authorised Person should ensure that credit authority is required for acquiring any types of credit Exposures, including the use of Credit Derivatives for hedging or income generation.
+
+17.
+
+Credit authority delegated to the credit committee and each credit officer should be subject to regular review to ensure that it remains appropriate to current market conditions and the level of their performance.
+
+Credit approval procedures
+
+18.
+
+An Authorised Person should adhere closely to the "Know Your Customer" principle and should not lend purely on name and relationship without a comprehensive assessment of the credit quality of the borrower.
+
+19.
+
+Credit decisions should be supported by adequate evaluation of the borrower's repayment ability based on reliable information. Sufficient and up-to-date information should continue to be available to enable effective monitoring of the account.
+
+20.
+
+All credits should be granted on an arm's length basis. Credits to related borrowers should be monitored carefully and steps taken to control or reduce the risks of Connected lending.
+
+21.
+
+An Authorised Person should not rely excessively on Collateral or guarantees as Credit Risk mitigants. Such Credit Risk mitigants may provide secondary protection to the lender if the borrower defaults, the primary consideration for credit approval should be the borrower's debt-servicing capacity.
+
+22.
+
+An Authorised Person should be sensitive to rapid expansion of specific types of lending. Such trends may often be accompanied by deterioration of credit standards and thus merit increased focus on more marginal borrowers.
+
+23.
+
+An Authorised Person should ensure through periodic independent audits that the credit approval function is being properly managed and that credit Exposures comply with prudential standards and internal limits. The results of such audits should be reported directly to the Governing Body, the credit committee or senior management as appropriate.
+
+Risk control
+
+24.
+
+An Authorised Person should consider setting credit limits for maximum Exposures to single and Connected Counterparties, as well as limits for aggregate Exposures to economic sectors, geographic areas, and on total Credit Risk arising from specific types of products. By limiting Exposures in these categories, an Authorised Person can manage credit Exposure more carefully and avoid excessive concentrations of risk.
+
+25.
+
+The Credit Risk policy of an Authorised Person should include a policy to control and monitor Large Exposures and other risk concentrations. An
+
+263
+
+PRU VER17.290725
+
+Authorised Person should carefully manage and avoid excessive risk concentrations of various kinds. These include Exposure to:
+
+a.
+
+individual borrowers (in particular Exposure exceeding 10% of the firm's capital base);
+
+b.
+
+Groups of borrowers with similar characteristics, economic and geographical sectors; and
+
+c.
+
+types of lending with similar characteristics (e.g. those based on assets with similar price behaviour).
+
+26.
+
+Notwithstanding the threshold specified as part of the prudential Rules on Large Exposures, Authorised Persons should exercise particular care in relation to facilities exceeding 10% of Tier 1.
+
+27.
+
+Authorised Persons should recognise and control the Credit Risk arising from their new products and services. Well in advance of entering into business transactions involving new types of products and activities, they should ensure that they understand the risks fully and have established appropriate Credit Risk policies, procedures and controls, which should be approved by the Governing Body or its appropriate delegated committee. A formal risk assessment of new products and activities should also be performed and documented.
+
+28.
+
+An Authorised Person in Category 1, 2, 3A or 5 is also subject to concentration limits and notification requirements as spelt out in Chapter 4.
+
+Risk measurement
+
+29.
+
+An Authorised Person should measure its Credit Risk using a robust and consistent methodology, which should be described in its Credit Risk policy. The Authorised Person should consider whether the measurement methodology should be back-tested and the frequency of any such back-testing.
+
+30.
+
+An Authorised Person should also be able to measure its total Exposure across the entire credit portfolio or within particular categories such as Exposures to particular industries, economic sectors or geographical areas.
+
+31.
+
+Where an Authorised Person is a member of a Group, the Group should be able to monitor credit Exposures on a consolidated basis.
+
+32.
+

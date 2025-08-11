@@ -1,0 +1,47 @@
+ an insolvent party,
+
+subject to the conditions contained in the applicable netting agreement.
+
+(2)
+
+After commencement of Insolvency Proceedings in relation to a party, the only obligation, if any, of either party to make payment or delivery under or pursuant to a netting agreement or under or pursuant to any qualified financial contract or contract or transaction to which that netting agreement applies shall be equal to its net obligation to the other party as determined in accordance with the terms of the applicable netting agreement.
+
+(3)
+
+After commencement of Insolvency Proceedings in relation to a party, the only right, if any, of either party to receive payment or delivery under or pursuant to a netting agreement or under or pursuant to any qualified financial contract or contract or transaction to which that netting agreement applies shall be equal to its net entitlement with respect to the other party as determined in accordance with the terms of the applicable netting agreement.
+
+(4)
+
+Any powers of an Office-holder to assume or repudiate individual contracts or transactions will not prevent the termination, liquidation, acceleration and/or conversion of all payment or delivery obligations or entitlements, and all obligations or entitlements relating to the making of payments or deliveries under one or more qualified financial contracts or other contracts or transactions entered into under pursuant to a netting agreement or to which a netting agreement shall apply, and will apply, if at all, only to the net amount or net entitlement due in respect of all such qualified financial contracts or other contracts or transactions in accordance with the terms of such netting agreement.
+
+(5)
+
+The provisions of a netting agreement which provide for the determination of a net balance of the close-out values, market values, liquidation values, replacement values or other relevant values calculated in respect of accelerated and/or terminated
+
+130
+
+payment or delivery obligations or entitlements or accelerated and/or terminated obligations or entitlements relating to the making of payments or deliveries in either case, under one or more qualified financial contracts or other contracts or transactions entered into thereunder or to which such netting agreement applies (including a payment or delivery in respect of a contract or transaction required to be entered into under or pursuant to such provisions) will not be affected by any applicable insolvency laws, excluding sections 60 and 62 of the Bank Recovery and Resolution Regulations 2018, limiting the exercise of rights to set off, offset or net out obligations, payment amounts or termination values owed between an insolvent party and another party.
+
+277. Voidable transactions
+
+An Office-holder of an insolvent party may not avoid or render ineffective—
+
+(a)
+
+any payment, delivery, transfer, substitution or exchange of cash, collateral or any other interests or property under or in connection with a netting agreement or a collateral arrangement from the insolvent party to the other party;
+
+(b)
+
+any obligation incurred by the insolvent party and owing to the non-insolvent party under or in connection with a netting agreement or a collateral arrangement or to which a netting agreement applies to make any payment, transfer, delivery, substitution or exchange of cash, collateral or any other interests or property; or
+
+(c)
+
+any transaction entered into by the insolvent party in accordance with the terms of such netting agreement in order to give effect to the netting provided for by such netting agreement;
+
+on the grounds of it constituting a preference for the purposes of Section 258 (Preferences) or a transaction at an undervalue for the purposes of Section 257 (Transactions at an undervalue) by the insolvent party to or for the benefit of the non- insolvent party, unless there is clear and convincing evidence that the other party made such transfer, payment, delivery, substitution or exchange or incurred such obligation or entered into such transaction with actual intent to hinder, delay, or defraud any person to which the insolvent party was indebted or became indebted, on or after the date such transfer, payment, delivery, substitution or exchange was made or such obligation was incurred or such transaction was entered into.
+
+278. Pre-emption and confirmation of disapplication of certain provisions of these Regulations to netting agreements
+
+(1)
+
+Subject to sections 60 to 62 of the Bank Recovery and Resolution Regulations 2018, no stay, injunction, avoidance, moratorium, or similar proceeding or order, whether issued or granted by a Court, administrative agency, Office-holder or otherwise, shall limit or delay application of otherwise enforceable netting agreements or

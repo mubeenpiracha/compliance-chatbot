@@ -1,0 +1,105 @@
+ Module (AML)
+
+13
+
+SUSPICIOUS ACTIVITY REPORTS
+
+13.1 Application and definitions
+
+13.1.1
+
+[deleted]
+
+13.1.2
+
+In this chapter, “money laundering” and “terrorist financing” mean the criminal offences defined in the Federal AML legislation.
+
+13.2
+
+Internal reporting requirements
+
+13.2.1 A Relevant Person must establish and maintain policies, procedures, systems and controls in order to monitor and detect suspicious activity or transactions in relation to potential money laundering or terrorist financing.
+
+13.2.2 A Relevant Person must have policies, procedures, systems and controls to ensure that whenever any Employee, acting in the ordinary course of his employment, either:
+
+(a)
+
+knows;
+
+(b)
+
+suspects; or
+
+(c)
+
+has reasonable grounds for knowing or suspecting;
+
+that a person is engaged in or attempting money laundering or terrorist financing, that Employee promptly notifies the Relevant Person’s MLRO and provides the MLRO with all relevant details.
+
+Guidance
+
+1.
+
+Circumstances that might give rise to suspicion or reasonable grounds for suspicion include:
+
+a.
+
+Transactions which have no apparent purpose, which make no obvious economic sense, or which are designed or structured to avoid detection;
+
+b.
+
+Transactions requested by a person without reasonable explanation, which are out of the ordinary range of services normally requested or are outside the experience of a Relevant Person in relation to a particular customer;
+
+c.
+
+where the size or pattern of transactions, without reasonable explanation, is out of line with any pattern that has previously emerged or are deliberately structured to avoid detection;
+
+d.
+
+where a customer refuses to provide the information requested without reasonable explanation;
+
+e.
+
+where a customer who has just entered into a business relationship uses the relationship for a single transaction or for only a very short period of time;
+
+f.
+
+an extensive use of offshore accounts, companies or structures in circumstances where the customer’s economic needs do not support such requirements;
+
+g.
+
+unnecessary routing of funds through third party accounts; or
+
+h.
+
+unusual transactions without an apparently profitable motive.
+
+63
+
+AML/VER27/03-25
+
+Anti-Money Laundering, Counter-Terrorist Financing and Sanctions Module (AML)
+
+2.
+
+The requirement for Employees to notify the Relevant Person’s MLRO should include situations when no business relationship was developed because the circumstances were suspicious.
+
+3.
+
+A Relevant Person may allow its Employees to consult with their line managers before sending a report to the MLRO. The DFSA would expect that such consultation does not prevent making a report whenever an Employee has stated that he has knowledge, suspicion or reasonable grounds for knowing or suspecting that a person may be involved in money laundering. Whether or not an Employee consults with his line manager or other Employees, the responsibility remains with the Employee to decide for himself whether a notification to the MLRO should be made.
+
+4.
+
+An Employee, including the MLRO, who considers that a person is engaged in or engaging in activity that he knows or suspects to be suspicious would not be expected to know the exact nature of the criminal offence or that the particular funds were definitely those arising from the crime of money laundering or terrorist financing.
+
+5.
+
+CDD measures form the basis for recognising suspicious activity. Sufficient guidance must therefore be given to the Relevant Person's Employees to enable them to form a suspicion or to recognise when they have reasonable grounds to suspect that money laundering or terrorist financing is taking place. This should involve training that will enable relevant Employees to seek and assess the information that is required for them to judge whether a person is involved in suspicious activity related to money laundering or terrorist financing.
+
+6.
+
+A transaction that appears unusual is not necessarily suspicious. Even customers with a stable and predictable transaction profile will have periodic transactions that are unusual for them. Many customers will, for perfectly good reasons, have an erratic pattern of transactions or account activity. So the unusual is, in the first instance, only a basis for further inquiry, which may in turn require judgement as to whether it is suspicious. A transaction or activity may not be suspicious at the time, but if suspicions are raised later, an obligation to report then arises.
+
+7.
+
+Effective CDD measures may provide the basis for recognising unusual and suspicious activity. Where there is a customer relationship, suspicious activity will often be one that is inconsistent with a customer’s known legitimate activity, or with the normal business activities for that type of account or customer. Therefore, the key to

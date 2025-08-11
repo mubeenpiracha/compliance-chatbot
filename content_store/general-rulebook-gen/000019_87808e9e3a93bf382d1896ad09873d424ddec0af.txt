@@ -1,0 +1,129 @@
+ extent possible and assigned to user credentials different from those used for regular business activities. Regular business activities should not be performed using privileged user credentials.
+
+3.
+
+Robust Identity and Access Management Practices should be adopted. These policies, procedures and systems outline which users have access to specific systems, data or functionality and the circumstances under which access is granted, reviewed and revoked.
+
+4.
+
+The process of performing regular reviews of access and permissions should facilitate the identification of dormant and redundant accounts as well as the detection of unauthorised access rights or permissions.
+
+31
+
+GEN VER11.290725
+
+5.
+
+Access rights and permissions for users may also include those for applications and programmes that are automated.
+
+An Authorised Person must ensure that access to its IT Systems and Networks is properly secured, including by implementing:
+
+(a)
+
+strong authentication requirements;
+
+(b) multi-factor authentication or equivalent protection for its IT Systems and
+
+Networks that may be accessed from the internet;
+
+(c) multi-factor authentication or equivalent protection for privileged access rights
+
+or permissions; and
+
+(d)
+
+encryption techniques to secure communication between a user and the Authorised Person’s IT System and Network.
+
+Guidance
+
+1. Where passwords are part of the security arrangements, the Regulator expects that an Authorised Person’s password controls will require, at a minimum, a change of password upon initial logon, minimum password length and history requirements, password complexity, maximum validity periods and lockout thresholds after a number of unsuccessful logon attempts.
+
+2.
+
+For mobile devices, access controls and encryption techniques should address threats raised by their use away from the Authorised Person’s premises.
+
+3.
+
+Users with administrative or privileged access should use a designated device that is dedicated to carrying out approved privileged tasks and activities on sensitive systems.
+
+(1)
+
+An Authorised Person must have a comprehensive change management process that considers Cyber Risk before and during a change to its IT Systems and Networks and new Cyber Risks created after the change.
+
+(2)
+
+The process in (1) must include systems and controls that ensure changes to its IT Systems and Networks are:
+
+(a)
+
+adequately tested;
+
+(b)
+
+approved before their implementation; and
+
+(c)
+
+implemented promptly if needed to resolve material Cyber Incidents or security vulnerabilities.
+
+32
+
+GEN VER11.290725
+
+Guidance
+
+1.
+
+The purpose of the change management process is to ensure that changes and patches to production systems and hardware devices are adequately assessed, tested, approved and implemented.
+
+2. Where necessary, an Authorised Person should establish a separate physical or logical environment for the development, testing and production of systems or patches, or ensure a clear segregation of tasks so that no single individual develops, tests and implements a change.
+
+3. While emergency changes should be implemented in a controlled manner, the Regulator recognises that the process requires swift actions and decisions. In such cases, where necessary and justifiable and on an exceptional basis, some aspects of an Authorised Person’s change management process such as change documentation or testing may be completed after a change has been implemented. An Authorised Person must establish a process for the management of software updates that addresses security vulnerabilities in the Authorised Person’s ICT Assets.
+
+(2)
+
+The process in (1) must ensure that:
+
+(a)
+
+software updates are identified and classified by how critical they are to mitigate Cyber Risk;
+
+(b)
+
+software updates are applied in a timely manner; and
+
+(c)
+
+the implementation of critical software updates is prioritised.
+
+(3)
+
+An Authorised Person must implement software updates in accordance with the process required under Rule 3.5.9.
+
+Guidance
+
+1.
+
+As part of its Cyber Risk Management Framework, an Authorised Person should establish a vulnerability management process for an up-to-date understanding of security vulnerabilities.
+
+2.
+
+An Authorised Person may wish to consider using automated vulnerability scanning systems to assist in effectively identifying and assessing vulnerabilities resulting from new and evolving threats.
+
+(1)
+
+An Authorised Person must implement appropriate encryption techniques to protect the confidentiality and integrity of information in transit, at rest, and at end of life.
+
+(2)
+
+The encryption techniques implemented for the handling of information must be commensurate with the sensitivity of that information.
+
+33
+
+GEN VER11.290725
+
+Guidance
+
+1.
+
+The Regulator expects encryption techniques to be used to protect the confidentiality and integrity of sensitive information. In particular, encryption techniques should be used where such information is stored on workstation memory drives, external drives such as USB pen drives, external hard discs,

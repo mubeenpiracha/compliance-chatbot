@@ -1,0 +1,91 @@
+ote a Passported Fund in ADGM without the need for further authorisation or approval by the Regulator, provided that such Promotion activities are limited to the Passported Fund and ADGM is nominated as a Host Jurisdiction on the relevant Registers of Passported Funds maintained by the Regulator and the Authority of the Home Jurisdiction of the Passported Fund.
+
+7
+
+FP VER01.110319
+
+6.3.3 In performing any activities in connection with the Promotion of a Passported Fund in ADGM, the Fund Manager, its Agent and any other Licensed Person must comply at all times with the legislation applicable to them in the Home Jurisdiction in which they are domiciled.
+
+6.4 Additional Criteria for Public Funds
+
+6.4.1 This Section applies if ADGM is the Home Jurisdiction or Host Jurisdiction of
+
+the Passported Fund.
+
+6.4.2 The Fund Manager of a Passported Fund that is a Public Fund must ensure that it meets the minimum requirements for Public Funds set out in Appendix 1.
+
+6.5 Custodian
+
+6.5.1 This Section applies if ADGM is the Home Jurisdiction or the Host Jurisdiction
+
+of the Passported Fund.
+
+6.5.2 To the extent that, under the legislation of its Home Jurisdiction, a custodian is required to be appointed for a Private Fund, the Fund Manager of a Passported Fund that is a Private Fund must ensure that the custodian:
+
+(a) meets all requirements as to eligibility and regulatory status as are
+
+imposed under the relevant legislation in its Home Jurisdiction; and
+
+(b)
+
+is not the Fund Manager.
+
+6.5.3 The Fund Manager of a Passported Fund that is a Public Fund must ensure that, except in the case of a property fund, a custodian is appointed at all times in relation to the Fund. Such custodian must:
+
+(a)
+
+be authorised by the Securities and Commodities Authority to carry on the activity of providing custody or safekeeping and administration of property of a Fund if the Passported Public Fund is to be Promoted in the UAE from ADGM; and
+
+(b)
+
+not be the Fund Manager.
+
+6.5.4 Nothing in this section prevents a custodian appointing sub-custodians in the
+
+UAE or elsewhere.
+
+6.6 Reporting changes to the Regulator
+
+6.6.1 This Section applies if the Regulator is the Home Regulator of a Passported
+
+Fund.
+
+6.6.2 The Fund Manager of a Passported Fund must notify the Regulator as soon as practicable of any material events, in accordance with applicable ADGM legislation. In particular (but without limitation), a Fund Manager or the governing body or trustee of a Passported Fund must notify the Regulator as soon as practicable (and in any case no later than seven days after it becomes aware) of any of the following events:
+
+8
+
+FP VER01.110319
+
+(a)
+
+the Fund Manager intends to retire as manager of the Passported Fund;
+
+(b)
+
+it is proposed that a successor manager will be appointed in relation to the Passported Fund;
+
+(c)
+
+the Fund Manager has been removed or replaced as manager of the Passported Fund;
+
+(d)
+
+any material service provider to the Passported Fund (including, without limitation, any custodian) or an Agent or Licensed Person resigns, is appointed, is removed, or is replaced;
+
+(e)
+
+the Prospectus relating to the Passported Fund has been amended or replaced;
+
+(f)
+
+winding-up of the Passported Fund has commenced; or
+
+(g)
+
+the Fund Manager intends to vary or revoke its Financial Service Permission (or any conditions contained in that Financial Service Permission).
+
+6.6.3 The notification referred to in Rule 6.6.2 must be in such prescribed form as the Regulator may direct from time to time. At a minimum, the notification must be accompanied by reasonable detail of the event and (where the Prospectus has been amended or replaced) a copy of the new Prospectus.
+
+6.6.4 Upon receiving such a notification as described in Rule 6.6.2, the Regulator shall without undue delay notify the relevant Host Regulator of such changes.
+
+6.6.5 To the extent that a Fund Manager is already required to make a notification to the Regulator under the Fund Rules in relation to any matter, the provisions of this section do not require a further notification

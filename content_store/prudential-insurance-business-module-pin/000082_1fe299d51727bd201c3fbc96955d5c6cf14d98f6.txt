@@ -1,0 +1,75 @@
+ audit.
+
+A10.4.6 Each page of the Statement by Directors must show:
+
+(a)
+
+the words ‘Annual Regulatory Return’ or ‘Quarterly Regulatory Return’, as applicable;
+
+(b)
+
+Deleted
+
+(c)
+
+the Insurer’s licence number;
+
+(d)
+
+the Insurer’s name;
+
+(e)
+
+the reporting period to which the Return relates;
+
+(f)
+
+whether the Return is a Global, Cell, Fund or DIFC Business Return; and
+
+(g)
+
+where the return relates to a Cell or a Long-term Insurance Fund, sufficient information to identify the Cell or Long-term Insurance Fund in question.
+
+A10.4.7 Where this appendix or the form requires information to be presented for different Classes of Business or for different types of insurance contract (for example, direct insurance, facultative reinsurance, proportional reinsurance treaty and non- proportional reinsurance treaty), an Insurer required to complete the form must present the relevant information in respect of all Classes of Business and types of contract, except under the following circumstances so far as concerns businesses other than Direct Long Term Insurance Business of a DIFC Incorporated Insurer:
+
+(a)
+
+Where an item of numerical information in respect of a Class of Business for a type of insurance contract is less than two per cent of the total such numerical information in respect of all Classes of Business for that type of insurance contract, the Insurer may aggregate that numerical information for that Class of Business for that type of insurance contract with the same item of information for the Class of Business for that type of contract in which that item of information is the largest.
+
+(b)
+
+Where an item of numerical information in respect of a type of insurance contract for a Class of Business is less than two per cent of the total such numerical information in respect of all types of insurance contract for that Class of Business, the Insurer may aggregate that numerical information for that type of insurance contract for that Class of Business with the same item of information for the type of insurance contract for that Class of Business in which that item of information is the largest.
+
+Guidance
+
+This Rule establishes de minimis limits for an Insurer in respect of detailed numerical information presented by Class of Business or by type of insurance contract. These de minimis limits do not apply for Direct Long-Term Insurance Business carried on by a DIFC Incorporated Insurer. Amounts below the de minimis limits may be aggregated together with other items of information in the same line or column of a form. Insurers are not required to apply the sub-sections in the order that they are set out. However, Insurers should ensure that the Returns continue to comply with both sub-sections after applying either. It is possible that applying the second sub-section to be applied could affect compliance with the first.
+
+120
+
+PIN/VER18/04-23
+
+PRUDENTIAL – INSURANCE BUSINESS (PIN)
+
+A10.4.8 Where an Insurer arranges its affairs such that a Cell or Long-Term Insurance Fund maintained by it pays or receives income in the form of interest, dividends, rental, recharge of management expenses or other investment income, from another reporting unit of the Insurer, that income must be shown gross as an expense in the reporting unit bearing the expense, and as income in the reporting unit receiving the income. Where, however, the same reporting unit records the income and the expense, the two must be netted.
+
+Guidance
+
+This Rule establishes accounting policy in respect of transactions between reporting units. Internal recharges within an Insurer should be shown as such where they are external to a reporting unit of that Insurer. However, where a reporting unit includes both ‘sides’ of the internal transaction, the internal transaction must be eliminated by netting the income and expense.
+
+A10.5 Statement by directors
+
+Guidance
+
+1.
+
+The Statement by Directors forms a part of the Annual Regulatory Return or the Quarterly Regulatory Return. By providing these statements, the directors confirm that the Returns have been properly prepared and that the Insurer complies with applicable prudential rules.
+
+2.
+
+The Statement by Directors is set out as statements that must be made, but circumstances may arise when a statement cannot be made because it would be untrue to do so. Under such circumstances this section provides for the directors to provide an explanation in place of the omitted statement.
+
+A10.5.1 Every Return must include a Statement by Directors, in accordance with this
+
+section.
+
+A10.5.2

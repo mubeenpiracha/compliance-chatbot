@@ -1,0 +1,95 @@
+ by the Board; and
+
+(d)
+
+the filing remains outstanding after the period for which a late filing fee can be charged pursuant to subsection (c) above.
+
+12
+
+Court
+
+18.
+
+Powers of the Court
+
+Any Person with appropriate standing may apply to the Court to protect or enforce rights provided to them in these Regulations. The jurisdiction of the Court and the scope of its authority to issue enforceable writs, orders, judgements and process are as set forth in the ADGM Courts, Civil Evidence, Judgments, Enforcement and Judicial Appointments Regulations 2015.
+
+PART 4: DLT FOUNDATION ASSETS
+
+Assets
+
+19.
+
+Minimum Initial Asset Value
+
+(1)
+
+In order to be registered by the Registrar, the Charter must require the DLT Foundation to have Initial Assets with the Minimum Initial Asset Value.
+
+(2)
+
+The Minimum Initial Asset Value of a DLT Foundation must be paid within six months following the receipt by the DLT Foundation of the registration certificate under section 9 or when the DLT Foundation becomes active as prescribed by the Registrar, whichever comes first. Nothing in this subsection (2) shall be construed as allowing the DLT Foundation to operate before it receives the registration certificate.
+
+(3)
+
+The Minimum Initial Asset Value must be paid in fiat currency and cannot be contributed in any other form, including Tokens.
+
+20.
+
+Undertakings to Endow a DLT Foundation
+
+Where a Charter or other legal documents record an undertaking by a Founder or any other Person to endow Assets to a DLT Foundation, the DLT Foundation may enforce that undertaking against the Founder or such other Person.
+
+21.
+
+Assets of a DLT Foundation
+
+(1)
+
+The Assets of a DLT Foundation may comprise any property.
+
+(2)
+
+Subsection (1) is to be read in accordance with sections 104, 105 and 106 of these Regulations.
+
+22.
+
+Management of Foundation Assets
+
+(1)
+
+The Assets of a DLT Foundation must be managed in accordance with the Charter and the provisions of these Regulations and solely for the attainment of the objects specified in the Charter and authorised by these Regulations.
+
+13
+
+PART 5: OBLIGATIONS
+
+Compliance Obligations
+
+23.
+
+Relevant Obligations
+
+(1)
+
+Each DLT Foundation shall comply with the requirements prescribed under these Regulations and with the applicable requirements, rules and regulations of the ADGM, including any applicable requirements, rules and regulations of the Financial Services Regulator and rules and regulations pertaining to data protection.
+
+(2)
+
+Each DLT Foundation shall ensure compliance with all applicable laws, requirements, rules and regulations, including, without limitation, any requirements set forth by the United Arab Emirates, the Emirate of Abu Dhabi (to the extent applicable to the relevant activities in the ADGM) and ADGM with respect to anti-money laundering, anti-bribery, sanctions and export controls (including, where applicable, in the area of virtual assets), consumer protection, data protection, data security and prevention of cyber-crime.
+
+(3)
+
+With respect to moderation and monitoring of content, dealing in Tokens, marketing and other activities of a DLT Foundation:
+
+(a)
+
+each DLT Foundation shall ensure compliance with all applicable laws, requirements, rules and regulations, including, without limitation, any requirements set forth by the United Arab Emirates, the Emirate of Abu Dhabi (to the extent applicable to the relevant activities in the ADGM) and ADGM (including that any advertisement shall be truthful and not misleading and shall comply with any content-related requirements set forth by the United Arab Emirates, the Emirate of Abu Dhabi and ADGM); and
+
+(b)
+
+without prejudice to the powers of the Financial Services Regulator, the Registrar may issue, by notice in writing to the DLT Foundation, a temporary prohibition order on any marketing or any other dealings or activities, provided that the Registrar may only exercise the power in this subsection (3)(b) where, in the reasonable discretion of the Registrar, public policy grounds exist.
+
+(4)
+
+Each DLT Foundation shall apply appropriate organisational, technical and security measures to protect the integrity and security of its DLT and DLT Framework and otherwise comply with applicable United Arab Emirates, the Emirate of Abu Dhabi and ADGM laws and rules imposing requirements in respect of data protection and data security. Where required by applicable law or its Charter, each DLT Foundation shall conduct audits, including periodic and Security Audits, of the DLT Framework

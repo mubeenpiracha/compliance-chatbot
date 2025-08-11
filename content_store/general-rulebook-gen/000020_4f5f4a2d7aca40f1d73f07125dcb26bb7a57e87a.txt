@@ -1,0 +1,159 @@
+.
+
+(1)
+
+An Authorised Person must implement appropriate encryption techniques to protect the confidentiality and integrity of information in transit, at rest, and at end of life.
+
+(2)
+
+The encryption techniques implemented for the handling of information must be commensurate with the sensitivity of that information.
+
+33
+
+GEN VER11.290725
+
+Guidance
+
+1.
+
+The Regulator expects encryption techniques to be used to protect the confidentiality and integrity of sensitive information. In particular, encryption techniques should be used where such information is stored on workstation memory drives, external drives such as USB pen drives, external hard discs, mobile phones, tablets and other electronic equipment used to store or process critical and sensitive information.
+
+2.
+
+Appropriate measures should also be taken when exchanging sensitive information. These encryption measures could include sending information through encrypted channels or encrypting the information using strong encryption with an adequate key length.
+
+(1)
+
+An Authorised Person must limit physical access to its data centres and server rooms, if any, to individuals who have a legitimate business need.
+
+(2)
+
+For the purposes of (1), the Authorised Person must establish a process for:
+
+(a)
+
+the approval of an individual’s request for physical access; and
+
+(b)
+
+the immediate revocation of such access if the conditions for granting approval are no longer met.
+
+(3)
+
+An Authorised Person must implement appropriate security measures to prevent unauthorised physical access to its data centres and server rooms.
+
+Guidance
+
+The Regulator expects that:
+
+a.
+
+where physical access is granted to individuals who are not members of an Authorised Person’s staff, they will be accompanied by a staff member at all times during such access; and
+
+b.
+
+an Authorised Person will monitor and record the activities that take place inside its data centres and server rooms.
+
+(1)
+
+An Authorised Person must establish and maintain a comprehensive Cyber Risk management training programme and adequate awareness arrangements.
+
+(2)
+
+The programme and arrangements in (1) must ensure that all relevant Employees:
+
+(a)
+
+receive training, at least annually, on the Authorised Person’s Cyber Risk policies and standards;
+
+(b)
+
+develop and maintain appropriate awareness of, and competencies for, detecting and reporting Cyber Incidents; and
+
+34
+
+GEN VER11.290725
+
+(c)
+
+understand their individual responsibilities.
+
+Guidance
+
+1.
+
+An Authorised Person should regularly review and, where necessary, update its training programme to ensure that it remains current and relevant. The review should take into consideration the evolving nature of technology as well as emerging Cyber Risks.
+
+2.
+
+A relevant Employee would include a member of staff with access to an Authorised Person’s IT System or Network or any other Employee who might otherwise be exposed to, or targeted by, a Cyber Incident.
+
+3.
+
+New Employees should receive training within a reasonable period of joining the Authorised Person.
+
+4.
+
+The Regulator expects Employees with privileged access rights to receive targeted security training that reflects their rights and responsibilities.
+
+Monitoring and Testing
+
+(1)
+
+An Authorised Person must implement a system to conduct ongoing monitoring of the effectiveness of the systems and controls that form part of its Cyber Risk Management Framework.
+
+(2)
+
+An Authorised Person must ensure that:
+
+(a)
+
+it has in place a comprehensive programme to test the resilience of its IT Systems and Networks and its processes and controls implemented to comply with Rules 3.5.5 to 3.5.13;
+
+(b)
+
+testing under the programme is carried out regularly, and in the case of internet-facing systems, at least annually; and
+
+(c)
+
+it has in place a process to prioritise and remedy adverse testing outcomes.
+
+(3)
+
+An Authorised Person should ensure there is regular reporting to senior management on the results of the monitoring and testing it undertakes to satisfy its obligations under (1) and (2).
+
+Guidance
+
+1.
+
+An Authorised Person should use a range of methods to test its IT Systems and Networks and processes and controls, such as:
+
+a.
+
+vulnerability assessments;
+
+b.
+
+scenario-based testing;
+
+35
+
+GEN VER11.290725
+
+c.
+
+penetration tests;
+
+d.
+
+bug bounty programs; or
+
+e.
+
+red team exercises,
+
+taking into account the Authorised Person’s Cyber Risk assessment under Rule 3.5.4(2).
+
+2.
+
+The frequency with which an Authorised Person should carry out testing will depend on the nature, scale and complexity of its business. It may be adequate to test annually for some Authorised Persons,

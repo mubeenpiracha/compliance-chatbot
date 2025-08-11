@@ -1,0 +1,71 @@
+ the remaining surplus that is expected to be allocated eventually to policyholders is also treated as a liability (in Rule 5.6.7), on the grounds that it is not available to absorb losses of the Insurer. For that purpose, declaration of bonuses merely represents a transfer from one recognised liability to another.
+
+3.
+
+Factors that the Actuary should consider for the purposes of Rule 7.3.6(p) may include risks that may vary between the jurisdictions in which business is carried
+
+34
+
+PIN VER07.290725
+
+on, as well as generic risks. The former category might include the risk of political unrest, and the latter operational risks such as fraud.
+
+4.
+
+The Regulator may specify additional information to be presented in the Actuary's report. Guidance to Rule 3.6.1 indicates that, where the Regulator permits an Insurer to carry on Direct Long-Term Insurance Business with features of a kind described in Rule 3.6.1(1), it may, as a condition of that permission, require additional information to be provided in the Actuary's report. This additional information could include, for example, detail on market-consistent valuations of guarantees or options, and the results of scenario testing.
+
+7.3.7 Subject to Rule 7.3.8, where an Insurer carries on Direct Long-Term Insurance Business, the report referred to in Rule 7.3.5 must include the information set out in Rule 7.3.6 in respect of such business segregated by the jurisdiction in which it is carried on.
+
+7.3.8 Where business in a jurisdiction is of limited significance, disclosures may, at the
+
+discretion of the Actuary, be aggregated for those jurisdictions.
+
+7.4
+
+Additional provisions relating to the report
+
+7.4.1 When appointing an Actuary to prepare a report under Rule 7.2 or 7.3, an Insurer must ensure that there is an agreement in writing which legally binds the Actuary in accordance with the following provisions:
+
+(a)
+
+the contract must require the Actuary to prepare his report in accordance with the provisions of Rule 7.2 or 7.3 as the case may be;
+
+(b)
+
+the contract must require the Actuary to prepare the report using assumptions and methods that are, in the opinion of the Actuary, appropriate for the purposes of the report;
+
+(c)
+
+the contract must require the Actuary to deliver the report to the Insurer's directors within such time as to give the directors a reasonable opportunity to consider and use the report in preparing the Insurer's annual Regulatory Return for the reporting period ended on the reporting date;
+
+(d)
+
+the contract must require and permit the Actuary to address the directors of the Insurer if the Actuary believes that there is a matter relating to the financial position or operations of the Insurer that should be brought to the attention of the directors; and
+
+(e)
+
+the contract must require and permit the Actuary to address the Regulator if the Actuary believes that a matter brought to the attention of the directors of the Insurer is not adequately dealt with by bringing it to the attention of the directors.
+
+7.4.2 An Insurer that has appointed an Actuary to provide a report under Rule 7.2 or must make
+
+arrangements to enable the Actuary to undertake his functions, and in particular must:
+
+(a)
+
+keep the Actuary informed of the Insurer's business and other plans;
+
+35
+
+PIN VER07.290725
+
+(b)
+
+ensure that the Actuary is fully informed of the Rules in PIN applicable to the Insurer, as well as any other information that the Regulator has provided to the Insurer that may assist the Actuary in performing his duties; and
+
+(c)
+
+ensure that the Actuary has access at appropriate times to all relevant data and people which the Actuary reasonably believes is necessary to fulfil his obligations to the Insurer in respect of this Chapter.
+
+7.4.3 The Insurer must submit the reports referred to in Rule 7.2 and Rule 7.3 to the Regulator, at the same time as it submits its annual Regulatory Return for the reporting period ended on the reporting date.
+
+7.4.4 Where an Insurer is not an ADGM Incorporated Insurer, a report prepared under Rule 7.2 or 7.3 must deal separately with AD

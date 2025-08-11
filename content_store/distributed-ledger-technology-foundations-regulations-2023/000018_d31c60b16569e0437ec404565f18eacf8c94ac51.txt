@@ -1,0 +1,137 @@
+
+
+(b)
+
+the DLT Foundation’s previous accounting reference period and subsequent periods.
+
+31
+
+A DLT Foundation’s “previous accounting reference period” means the one immediately preceding its current accounting reference period.
+
+(2)
+
+The notice must state whether the current or previous accounting reference period:
+
+(a)
+
+is to be shortened, so as to come to an end on the first occasion on which the new accounting reference date falls or fell after the beginning of the period; or
+
+(b)
+
+is to be extended, so as to come to an end on the second occasion on which that date falls or fell after the beginning of the period.
+
+(3)
+
+A notice extending a DLT Foundation’s current or previous accounting reference period is not effective if given less than five years after the end of an earlier accounting reference period of the DLT Foundation that was extended under this section 44. This does not apply:
+
+(a)
+
+where the DLT Foundation is in administration under Part 1 (Administration) of the Insolvency Regulations 2022; or
+
+(b)
+
+where the Registrar directs that it should not apply, which he may do with respect to a notice that has been given or that may be given.
+
+(4)
+
+A notice under this section 44 may not be given in respect of a previous accounting reference period if the period for filing the Annual Accounts and Auditor’s Reports for the financial year determined by reference to that accounting reference period has already expired.
+
+(5)
+
+An accounting reference period may not be extended so as to exceed 18 months and a notice under this section 44 is ineffective if the current or previous accounting reference period as extended in accordance with the notice would exceed that limit.
+
+(6)
+
+This section 44 does not apply where the DLT Foundation is in administration under Part 1 (Administration) of the Insolvency Regulations 2022.
+
+General
+
+45.
+
+Accounts to give a fair representation
+
+(1)
+
+The Councillors of a DLT Foundation must not approve or sign the Annual Accounts, unless they are satisfied that they give a fair representation of the assets, liabilities, financial position and profit or loss of the Annual Accounts of the DLT Foundation.
+
+(2)
+
+The auditor of a DLT Foundation in carrying out his functions under these Regulations in relation to the Annual Accounts must have regard to the Councillors’ duty under subsection (1).
+
+46.
+
+Duty to prepare the Annual Accounts
+
+(1)
+
+The Councillors of a DLT Foundation must prepare the annual accounts for each of the financial years of the DLT Foundation (the "Annual Accounts").
+
+32
+
+(2)
+
+47.
+
+(1)
+
+The Annual Accounts shall be prepared in accordance with international accounting standards in accordance with the Distributed Ledger Technology Foundations Regulations (International Accounting Standards) Rules 2023 and the Board may make rules prescribing:
+
+(a)
+
+the circumstances in which other accounting standards may be adopted for the purpose of preparing the Annual Accounts; and
+
+(b)
+
+the other accounting standards which may be so adopted (any applicable accounting standards on that basis, the “Accounting Standards”).
+
+Information to be included
+
+The following information with respect to the employees of the DLT Foundation, if applicable, must be given in notes to the Annual Accounts:
+
+(a)
+
+the average number of Persons employed by the DLT Foundation in the financial year to be determined by dividing the relevant annual number by the number of months in the financial year; for these purposes, the relevant annual number is determined by ascertaining for each month in the financial year and employees shall include subcontractors:
+
+i.
+
+the number of Persons employed under contracts of service by the DLT Foundation in that month (whether throughout the month or not); and
+
+ii.
+
+adding together all the monthly numbers.
+
+(b)
+
+the aggregate amounts respectively of:
+
+i.
+
+wages and salaries paid or payable in respect of that year to those Persons;
+
+ii.
+
+social security costs incurred by the DLT Foundation on their behalf; and
+
+iii.
+
+other pension costs so incurred;
+
+(c)
+
+information to be given in notes to the Annual Accounts about Councillors’ remuneration, including, as applicable:
+
+i.
+
+gains made by Councillors on the exercise of token options (if any);
+
+ii.
+
+benefits received or receivable by Councillors under long term incentive schemes;
+
+iii.
+
+payments for loss of office and entitlements to end-of-service gratuity payments;
+
+iv.
+
+benefits receivable, and contributions for the purpose of providing benefits, in respect of

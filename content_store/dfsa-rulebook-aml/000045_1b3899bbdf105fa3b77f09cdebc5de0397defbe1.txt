@@ -1,0 +1,111 @@
+ or through the Relevant Person on behalf of a customer or other third party can be reconstructed;
+
+c.
+
+any customer or third party can be identified; and
+
+68
+
+AML/VER27/03-25
+
+Anti-Money Laundering, Counter-Terrorist Financing and Sanctions Module (AML)
+
+d.
+
+the Relevant Person can satisfy without delay any regulatory enquiry or court order to disclose information.
+
+4.
+
+The DFSA would ordinarily expect a Relevant Person to be able to provide a copy of a record or assessment referred to in Rule 14.4.1 or 14.4.2 within 24 hours of a request by the DFSA. However, if a request is complex or if records are kept outside the DIFC as set out in Rule 14.4.3, the DFSA may allow further time to comply with the request.
+
+14.4.3 Where the records referred to in Rule 14.4.1 are kept by the Relevant Person
+
+outside the DIFC, a Relevant Person must:
+
+(a)
+
+take reasonable steps to ensure that the records are held in a manner consistent with these Rules;
+
+(b)
+
+ensure that the records are easily accessible to the Relevant Person; and
+
+(c)
+
+upon request by the DFSA, ensure that the records are immediately available for inspection.
+
+14.4.4 A Relevant Person must:
+
+(a)
+
+verify if there is secrecy or data protection legislation that would restrict access without delay to the records referred to in Rule 14.4.1 by the Relevant Person, the DFSA or the law enforcement agencies of the U.A.E.; and
+
+(b)
+
+where such legislation exists, obtain without delay certified copies of the relevant records and keep such copies in a jurisdiction which allows access by those persons in (a).
+
+14.4.5 A Relevant Person must be able to demonstrate that it has complied with the training and awareness requirements in chapter 12 through appropriate measures, including the maintenance of relevant training records.
+
+Guidance
+
+1.
+
+In complying with Rule 14.4.3, Authorised Persons are reminded of their obligations in GEN Rule 5.3.24.
+
+2.
+
+The DFSA considers that “appropriate measures” in Rule 14.4.5 may include the maintenance of a training log setting out details of:
+
+a.
+
+the dates when the training was given;
+
+b.
+
+the nature of the training; and
+
+c.
+
+the names of Employees who received the training.
+
+14.5 Annual AML return
+
+14.5.1 A Relevant Person must complete the AML Return form on the DFSA electronic portal and submit it to the DFSA by the end of September each year. The annual AML Return must cover the period from 1 August of the previous year to 31 July of the reporting year.
+
+69
+
+AML/VER27/03-25
+
+Anti-Money Laundering, Counter-Terrorist Financing and Sanctions Module (AML)
+
+14.6 Communication with the DFSA
+
+14.6.1 A Relevant Person must:
+
+(a)
+
+be open and cooperative in all its dealings with the DFSA; and
+
+(b)
+
+ensure that any communication with the DFSA is conducted in the English language.
+
+14.7 Employee disclosures
+
+14.7.1 A Relevant Person must ensure that it does not prejudice an Employee who discloses any information regarding money laundering to the DFSA or to any other relevant body involved in the prevention of money laundering.
+
+Guidance
+
+The DFSA considers that “relevant body” in Rule 14.7.1 would include the FIU or another financial intelligence unit, the police, or a Dubai or Federal ministry.
+
+14.8 Decision making procedures
+
+14.8.1 The procedures in Schedule 3 to the Regulatory Law apply to a decision of the DFSA to impose an administrative penalty under Article 14(1) of Federal Law No. 20 of 2018.
+
+14.8.2
+
+If the DFSA decides to exercise its power under Article 14(1) of Federal Law No. 20 of 2018 in relation to a person, the person may refer the matter to the FMT for review.
+
+Guidance
+
+The Rules in this section apply where the DFSA makes a decision to impose an administrative penalty under Federal Law No. 20 of 2018. The administrative penalties referred to in that Article include fines, bans from working in a sector, suspension or restriction of activities

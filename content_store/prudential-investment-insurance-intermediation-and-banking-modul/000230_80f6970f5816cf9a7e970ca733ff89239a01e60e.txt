@@ -1,0 +1,111 @@
+8 presents the method for calculating a net Underwriting position or reduced net Underwriting position, which is then included in the calculation of Market Risk Capital Requirements as specified in this chapter. Section A5.8 also deals with Concentration Risk.
+
+A5.8.1 (1)
+
+An Authorised Firm which calculates its Securities Underwriting Risk Capital Requirement in accordance with Rule 5.10.7(b) must apply the Rules in this section.
+
+(2)
+
+An Authorised Firm which underwrites or sub-underwrites an issue of Securities must, for the purposes of calculating its Market Risk Capital Requirement:
+
+(a)
+
+identify commitments to underwrite or sub-underwrite which give rise to an underwriting position;
+
+(b)
+
+identify the time of initial commitment; and
+
+(c)
+
+calculate the net Underwriting position, reduced net Underwriting position or the net Underwriting Exposure.
+
+A5.8.2 An Authorised Firm must include the net Underwriting position or reduced net
+
+Underwriting position where:
+
+(a)
+
+debt Securities are being underwritten;
+
+351
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+(b)
+
+equities are being underwritten; or
+
+(c)
+
+Warrants are being underwritten.
+
+Guidance
+
+1.
+
+Sub-underwriting is a commitment given by one firm to someone other than the Issuer or seller of the Securities to sub-underwrite all or part of an issue of Securities. The net Underwriting position calculated in Rule A5.8.6 will also be used in calculating the net Underwriting Exposure under Rules A5.8.11 to A5.8.14.
+
+2.
+
+The net Underwriting position or reduced net Underwriting position arising from Underwriting or sub-underwriting a rights or Warrants issue should be calculated using the current market price of the underlying Security for the purposes of the Equity Risk Capital Requirement or Option Risk Capital Requirement. However, the risk Capital Requirements will be limited to the value of the net Underwriting position calculated using the initial issue price of the rights or Warrants. Where there is no market price because the rights or Warrants are in relation to a new class of Securities and the initial price has not been set the net Underwriting position or reduced net Underwriting is the amount of the commitment.
+
+Commitment to underwrite Securities
+
+A5.8.3 (1)
+
+For the purpose of Rule A5.8.1, an Authorised Firm underwrites or sub- underwrites an issue of Securities where:
+
+(a)
+
+it gives a commitment to an Issuer of Securities to underwrite an issue of Securities;
+
+(b)
+
+in the case of new Securities (as defined in Rule A5.8.4) it gives a commitment to a seller of Securities to underwrite a sale of those Securities;
+
+(c)
+
+it gives a commitment to a person, other than the Issuer of Securities or, if (b) applies, the seller of the Securities, to sub-underwrite an issue of Securities; or
+
+(d)
+
+it is a member of a syndicate or Group that gives a commitment of the type described in (a) to (c).
+
+(2)
+
+Unless a Rule deals with an issue of Securities separately or the context otherwise requires, a provision of section A5.8 that deals with Underwriting also applies to sub-underwriting.
+
+Guidance
+
+Block trades, including bought deals, and private placements are not within the scope of this chapter because they involve an outright purchase by an Authorised Firm of the relevant Securities.
+
+A5.8.4 For the purposes of Rule A5.8.3(b), an Authorised Firm must treat Securities as being
+
+new if they are:
+
+(a)
+
+Securities that, prior to the allotment following the Underwriting, were not in issue; or
+
+(b)
+
+Securities that have not previously been offered for sale or subscription to the public and have not been admitted to trading on a market operated by an Authorised Market Institution or an overseas investment exchange.
+
+352
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+Grey market transactions
+
+A5.8.5 (1)
+
+An Authorised Firm that buys and sells Securities before issue is dealing in the grey market for the purposes of this section.
+
+(2)
+
+The other Rules in section

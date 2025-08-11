@@ -1,0 +1,157 @@
+ the timely discharge of the rights and liabilities of the parties to transactions conducted on or through the MTF; and
+
+(b)
+
+inform its Members and other participants of the arrangements referred to in (a).
+
+Guidance
+
+An Authorised Market Institution should refer to the Guidance under COB 9.6.11 about the type of arrangements that the DFSA might consider satisfactory for the clearing and settlement of Crypto Tokens traded on a MTF.
+
+5B.7.6 An Authorised Market Institution that Operates a MTF for Crypto Tokens must ensure that clearing and settlement of transactions on the MTF takes place only by means of fiat currencies or Fiat Crypto Tokens that are Recognised Crypto Tokens.
+
+Guidance
+
+Rule 7.2.5A sets out further requirements about when a Clearing House may use a Recognised Crypto Token for clearing or settlement of transactions relating to Crypto Tokens.
+
+56
+
+AMI/VER28/03-25
+
+6.
+
+6.1
+
+6.1.1
+
+6.2
+
+6.2.1
+
+AUTHORISED MARKET INSTITUTIONS (AMI)
+
+ADDITIONAL LICENSING REQUIREMENTS FOR OPERATING AN EXCHANGE
+
+Application
+
+(1)
+
+This chapter applies to an Authorised Market Institution Operating an Exchange or an applicant for such a Licence.
+
+(2)
+
+In this chapter, a reference to an “Exchange” is a reference to a Person referred to in (1).
+
+Proper Markets
+
+(1)
+
+An Exchange must have rules and procedures for fair, orderly and efficient operation of trading of Investments on its facilities. For this purpose, an Exchange must ensure that only Investments in which there is a Proper Market are traded on its facilities.
+
+(2)
+
+For a Proper Market to exist in Investments:
+
+(a)
+
+Derivatives traded on its facilities must meet the contract design specifications in Rule 6.3.2;
+
+(b)
+
+relevant market information must be made available to Persons engaged in dealing on an equitable basis, including pre-trade and post-trade disclosure of orders, the requirements in section 6.4.
+
+in accordance with
+
+(c)
+
+there must be adequate mechanisms to discontinue, suspend or remove in circumstances where the requirements relating to Proper Markets are not met;
+
+from
+
+trading on
+
+its
+
+facilities any
+
+Investments
+
+(d)
+
+there must be in place controls to prevent volatility in the markets that is not the result of market forces, in accordance with the requirements in section 6.5;
+
+(e)
+
+error requirements in section 6.6;
+
+trades must be managed,
+
+in accordance with
+
+the
+
+(f)
+
+short selling and position concentration must be monitored and managed, in accordance with the requirements in section 6.7;
+
+(g)
+
+there must be a fair and non-discretionary algorithm operating in respect of the matching of orders on its facilities;
+
+(h)
+
+there must be in place adequate controls, to monitor and manage any foreign ownership restrictions applying to Investments traded on its facilities, in accordance with the requirements in section 6.8; and
+
+57
+
+AMI/VER28/03-25
+
+6.3
+
+6.3.1
+
+6.3.2
+
+AUTHORISED MARKET INSTITUTIONS (AMI)
+
+(i)
+
+any accordance with the requirements in section 6.9.
+
+liquidity
+
+incentive schemes must be offered only
+
+in
+
+Guidance
+
+Rules and procedures referred to in Rule 6.2.1(2) should generally form part of the Business Rules of an Authorised Market Institution (see the content of Business Rules in Rule 5.6.1).
+
+Specifications relating to design and trading of Derivatives
+
+(1)
+
+An Exchange which trades Derivative contracts on its facilities must:
+
+(a)
+
+have clear and transparent rules and procedures for the trading of Derivative contracts, which are made publicly available; and
+
+(b)
+
+ensure that the trading in Derivative contracts on its facilities is undertaken in a fair, orderly and efficient manner.
+
+(2)
+
+The rules and procedures must promote transparency by ensuring that there is sufficient information made available to the markets relating to the terms and conditions of the Derivative contracts traded on its facilities. Such information must include, where relevant, information relating to delivery and pricing of Derivative contracts.
+
+Contract design specifications
+
+(1)
+
+An Exchange must ensure that the Derivative contracts traded on its facilities:
+
+(a)
+
+have a design that enables the orderly pricing and effective settlement of the obligations arising under the contract;

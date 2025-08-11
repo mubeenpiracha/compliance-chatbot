@@ -1,0 +1,123 @@
+)
+
+the name of the originator;
+
+(b)
+
+the originator account number where such an account is used to process the Transaction or a unique Transaction reference number if no originator account number exists;
+
+(c)
+
+the originator's address, or national identity number, or travel document number, or customer identification number, or date and place of birth;
+
+(d)
+
+the name of the beneficiary; and
+
+Confidential
+
+71
+
+AML VER10.020125
+
+(e)
+
+the beneficiary account number where such an account is used to process the Transaction or a unique Transaction reference number if no beneficiary account number exists.
+
+(4)
+
+An Authorised Person and Recognised Body must ensure that for batch transfers:
+
+(a)
+
+it has verified the originator information required under (3)(a) to (c); and
+
+(b)
+
+the batch file contains the beneficiary information required under (3)(d) and (e) for each beneficiary and that the information is fully traceable in the beneficiaries jurisdiction.
+
+Guidance
+
+1.
+
+'FATF Recommendation Number 16' seeks to ensure that national or international electronic payment and message systems, including fund or wire transfer systems such as SWIFT, are not misused as a means to break the money laundering audit trail. Therefore, the information about a customer as the originator of the wire transfer should remain with the payment instruction throughout the payment chain.
+
+2.
+
+Relevant Persons should monitor for, and conduct enhanced scrutiny of, suspicious activities, including incoming wire transfers that do not contain complete originator information, including name, address and account number or unique reference number.
+
+3.
+
+The Regulator considers that concealing or removing in a wire transfer any of the information required by Rule 10.3.2(3) would be a breach of the requirement to ensure that the wire transfer contains accurate originator and beneficiary information.
+
+4.
+
+The Regulator expects compliance by Authorised Persons and Recognised Bodies with ‘FATF Recommendation Number 15’, FATF’s Interpretative Note (R.15/INR.15) and ‘FATF Recommendation Number 16’ that include requirements to obtain, hold, and transmit originator and beneficiary information and to not allow transfers where such information is lacking including where the value transfer involves Virtual Assets. Authorised Persons and Recognised Bodies should note that, pursuant to section 10.3, the Regulator does not differentiate between the responsibilities of the originator or the beneficiary when it comes to ensuring that all relevant information accompanies a wire transfer, and that no de minimis threshold is applied to the size of a relevant wire transfer.
+
+10.4 Audit
+
+10.4.1 An Authorised Person or a Recognised Body must ensure that its internal audit function undertakes regular reviews and assessments of the effectiveness of the Authorised Person or Recognised Body's money laundering policies, procedures, systems and controls, and its compliance with its obligations in the AML Rulebook.
+
+Confidential
+
+72
+
+AML VER10.020125
+
+Guidance
+
+1.
+
+The review and assessment undertaken for the purposes of Rule 10.4.1 may be undertaken:
+
+(a)
+
+internally by the Authorised Person or Recognised Body's internal audit function; or
+
+(b)
+
+by a competent firm of independent, external auditors or compliance professionals.
+
+2.
+
+The review and assessment undertaken for the purposes of Rule 10.4.1 should cover at least the following:
+
+(a)
+
+sample testing of compliance with the Authorised Person or the Recognised Body's CDD arrangements;
+
+(b)
+
+an analysis of all notifications made to the MLRO to highlight any area where procedures or training may need to be enhanced; and
+
+(c)
+
+a review of the nature and frequency of the dialogue between Senior Management and the MLRO.
+
+10.5 Anonymous and nominee accounts
+
+10.5.1 An Authorised Person or a Recognised Body must not establish or maintain:
+
+(a)
+
+an anonymous account or an account in a fictitious name; or
+
+(b)
+
+a nominee account which is held in the name of one Person, but which is controlled by or held for the benefit of another Person whose identity has not been disclosed to the Authorised Person or the Recognised Body.
+
+Confidential
+
+73
+
+AML VER10.020125
+
+11.
+
+TARGETED FINANCIAL SANCTIONS AND OTHER INTERNATIONAL OBLIGATIONS
+
+11.1 Resolutions and Sanctions
+
+11.1.1 (1)
+
+A Relevant Person must establish and maintain effective

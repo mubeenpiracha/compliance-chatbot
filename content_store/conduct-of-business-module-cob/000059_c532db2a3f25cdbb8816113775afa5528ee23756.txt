@@ -1,0 +1,105 @@
+ Bank;
+
+(b)
+
+ensure that each Insurance Bank Account contains in its title the name of the Authorised Firm, together with the designation Insurance Bank Account (or IBA);
+
+(c)
+
+prior to operating an Insurance Bank Account, give written notice to, and request written confirmation from, the Eligible Bank that the bank is not entitled to combine the Insurance Bank Account with any other account unless that account is itself an Insurance Bank Account held by to any charge, the Authorised Firm, or encumbrance, lien, right of set-off, compensation or retention against monies standing to the credit of the Insurance Bank Account;
+
+85
+
+COB/VER48/03-25
+
+CONDUCT OF BUSINESS (COB)
+
+(d)
+
+pay all Insurance Monies directly and without delay into an Insurance Bank Account;
+
+(e)
+
+use an Insurance Bank Account only for the following purposes:
+
+(i)
+
+the receipt of Insurance Monies;
+
+(ii)
+
+the receipt of such monies as may be required to be paid into the Insurance Bank Account to ensure compliance by the Authorised Firm with any conditions or requirements prescribed by the DFSA;
+
+(iii)
+
+the payment to Clients or to insurers of monies due under Insurance Intermediation Business transactions;
+
+(iv)
+
+the payment of all monies payable by the Authorised Firm in respect of the acquisition of or otherwise in connection with Approved Assets;
+
+(v)
+
+the withdrawal of brokerage, management fees and other income related to Insurance Intermediation Business, either in cash or by way of transfer to an account in the name of the Intermediary which is not an Insurance Bank Account, provided that no such sum may be withdrawn from the Insurance Bank Account before the time at which that amount may be brought into account as income of the Insurance Intermediary;
+
+(vi)
+
+the withdrawal of monies that are required to be transferred under (2) or Rule 7.12.9A;
+
+(vii)
+
+the withdrawal of monies paid into the Insurance Bank Account in error; and
+
+(viii) the withdrawal of any monies credited to the Insurance Bank Account in excess of those required by any conditions and requirements prescribed by the DFSA;
+
+(f)
+
+ensure that any amount held in the Insurance Bank Account or other Approved Assets, together with any amount due and recoverable from insurance debtors, is equal to, or greater than the amount due to insurance creditors; and
+
+(g)
+
+take immediate steps to restore the required position if at any time it becomes aware of any deficiency in the required segregated amount.
+
+(2)
+
+If an Eligible Bank has not provided the written confirmation referred to in (1)(c) within 40 business days after the Authorised Firm made the request, the Authorised Firm must as soon as possible withdraw Insurance Monies held in the Insurance Bank Account with that Eligible Bank and deposit them in an Insurance Bank Account with another Eligible Bank.
+
+(3) An Insurance Intermediary or Insurance Manager is not required to comply with the requirement in (1)(c) if it has no account, other than one or more Insurance Bank Accounts, with the Eligible Bank.
+
+86
+
+COB/VER48/03-25
+
+CONDUCT OF BUSINESS (COB)
+
+7.12.6 An Insurance Intermediary or Insurance Manager may not obtain a loan or overdraft for any purpose relating to an Insurance Bank Account unless that advance:
+
+(a)
+
+is on a bank account which is designated as an Insurance Bank Account, and the loan or overdraft is used for payment to Clients or to insurers of monies due under Insurance Intermediation transactions;
+
+(b)
+
+does not give rise to a breach of the requirements of Rule 7.12.5(e); and
+
+(c)
+
+is of a temporary nature and is repaid as soon as reasonably practicable.
+
+7.12.7 An Insurance Intermediary or Insurance Manager must hold Insurance Monies
+
+either in an Insurance Bank Account or in Approved Assets.
+
+7.12.8 An Insurance Intermediary or Insurance Manager must ensure that Approved
+
+Assets are:
+
+(a)
+
+registered in the name of the Insurance Intermediary or Insurance Manager and designated as being an ‘Insurance Bank Account’; or
+
+(b)
+
+held for the Insurance Bank Account of the Insurance Intermediary or Insurance Manager at the bank at which such Insurance Bank Account is held.
+
+7.12.9 An Insurance Intermediary or Insurance Manager must ensure that monies, other than interest, arising from Approved Assets or their realisation

@@ -1,0 +1,85 @@
+(i)
+
+prohibit the prime broker from using as collateral the assets of the Fund to an extent exceeding 140% of the Fund’s indebtedness to the prime broker at any given time; and
+
+(ii)
+
+create an irrevocable right in favour of the Fund that enables any indebtedness of the Fund to the prime broker to be set off against any amounts that are owing by the prime broker to the Fund, including in the event of the insolvency of the prime broker; and
+
+(e)
+
+the Fund Manager has in place adequate valuation procedures to mark positions to market daily in order to meet on an ongoing basis the restriction referred to in (d)(i) relating to the limit to which the prime broker may use as collateral the assets of the Fund.
+
+Guidance
+
+1.
+
+If the prime broker holds the legal title to the Fund assets, the prime broker must, in any event, qualify as an Eligible Custodian. However, even if a prime broker does not hold the legal title to the Fund assets, Rule 13.6.3(c) requires it to meet the Eligible Custodian requirements in certain circumstances. This is where it has the power to use Fund assets as collateral for its financing activities (e.g. by having a charge over the Fund assets) in conjunction with any other assets held by or available to it.
+
+2.
+
+In relation to the matters referred to in Rules 13.6.1 and 13.6.2 and in relation to management of Hedge Fund investments, the DFSA expects Fund Managers of Hedge Funds to have proper regard to best practice standards and guidance set out in App 8, DFSA’s Hedge Fund Code of Practice as well as international developments relating to Hedge Funds.
+
+109
+
+CIR/VER38/08-24
+
+13.7
+
+13.7.1
+
+13.7.2
+
+13.7.3
+
+COLLECTIVE INVESTMENT RULES (CIR)
+
+Umbrella Funds
+
+Guidance
+
+See Rule 3.1.10 for the definition of an Umbrella Fund.
+
+Form of an Umbrella Fund
+
+Subject to any restrictions in the Law and the Rules in this module, an Umbrella Fund:
+
+(a)
+
+may be formed as a Protected Cell Company (PCC); and
+
+(b)
+
+must be an Open-ended Fund if formed as a PCC.
+
+Guidance
+
+1.
+
+A Protected Cell Company (PCC) is a form of Investment Company which needs to be registered as a PCC under the Companies Regulations. An Umbrella Fund using the PCC structure has the benefit of legal segregation of Fund Property forming part of each individual cell. Accordingly, Fund Property of one cell of a PCC is not available to pay any obligations arising in relation to another cell of that PCC.
+
+2.
+
+It is not mandatory for an Umbrella Fund to be constituted as a PCC. Instead, such Funds may be formed as a conventional Investment Company or Investment Trust. However, the legal segregation available to each cell of a PCC is not available to Sub-Funds of Umbrella Funds not formed as a PCC.
+
+Investments of an Umbrella Fund
+
+A Fund Manager of an Umbrella Fund must ensure that none of its Sub-Funds invests in another of its Sub-Funds.
+
+Guidance
+
+Requirements that apply to other Funds apply to Umbrella Funds equally, although there are some Umbrella Fund specific requirements. For convenience of reference, key provisions specific to Umbrella Funds are identified in the following Table.
+
+Additional requirements specific to Umbrella Funds Rule Rule 3.1.10 Rule 13.7.1 Rules 9.4.2 Rules 9.4.6 Rules 9.4.9 Rules 13.7.2
+
+Requirements Definition Form of an Umbrella Fund Annual and interim reports Content of the annual report of an Umbrella Fund Fund Manager’s Report Investment restrictions applicable to Fund of Funds when investing in a Sub-Fund Content of a Public Fund Prospectus Content of a Short Form Prospectus Transfer schemes Winding up
+
+App A7.1.1(2)(h) & 17 Rules 14.3.5 Rules 16.1.1, 16.1.3(3) (4) & (5) Rules 17.1.1 & 17.1.6
+
+110
+
+CIR/VER38/08-24
+
+13.8
+
+13

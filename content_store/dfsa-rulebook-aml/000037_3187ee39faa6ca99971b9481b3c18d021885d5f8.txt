@@ -1,0 +1,89 @@
+, terrorist financing or the financing of weapons of mass destruction in a particular country or jurisdiction;
+
+(b)
+
+findings that the anti-money laundering regime of a relevant country or jurisdiction has material deficiencies; and
+
+(c)
+
+the names of persons, groups, organisations or entities or any other body where suspicion of money laundering or terrorist financing or the financing of weapons of mass destruction exists.
+
+(3)
+
+For the purposes of (1), measures in a finding that a Relevant Person must comply with include, but are not limited to, countermeasures:
+
+(a)
+
+requiring specific elements of enhanced due diligence;
+
+(b)
+
+requiring enhanced reporting mechanisms or systematic reporting of financial transactions;
+
+(c)
+
+limiting business relationships or specified persons or persons in a specified jurisdiction;
+
+financial
+
+transactions with
+
+(d)
+
+prohibiting Relevant Persons from relying on third parties located in a specified jurisdiction to conduct customer due diligence;
+
+(e)
+
+requiring correspondent relationships with banks in a specified jurisdiction to be reviewed, amended or, if necessary, terminated;
+
+(f)
+
+prohibiting the execution of specified electronic fund transfers; or
+
+(g)
+
+requiring increased external audit requirements for financial groups with respect to branches and subsidiaries located in a specified jurisdiction.
+
+(4)
+
+The systems and controls referred to in (1) must enable the Relevant Person to comply with the requirements in Article 21 of Cabinet Decision No. 74 of 2020.
+
+55
+
+AML/VER27/03-25
+
+Anti-Money Laundering, Counter-Terrorist Financing and Sanctions Module (AML)
+
+(5)
+
+A Relevant Person must immediately notify the DFSA in writing if it becomes aware of non-compliance by a person with a finding and provide the DFSA with sufficient details of the person concerned and the nature of the non-compliance.
+
+Guidance
+
+1.
+
+The purpose of this Rule is to ensure that a Relevant Person takes into consideration the broad range of tools used by competent authorities and international organisations to communicate AML/CTF risks to stakeholders.
+
+2.
+
+The DFSA may require enhanced due diligence or other specific countermeasures to address risks identified in a specific country or jurisdiction. The DFSA may impose such countermeasures either when called upon to do so by FATF or independently of any FATF request.
+
+3.
+
+Relevant Persons considering transactions or business relationships with persons located in countries or jurisdictions that have been identified as deficient, or against which the U.A.E. or the DFSA have outstanding advisories, should be aware of the background against which the assessments, or the specific recommendations have been made. These circumstances should be taken into account in respect of introduced business from such jurisdictions, and when receiving inward payments for existing customers or in respect of inter-bank transactions. Relevant Persons should refer to the NAMLCFTC website which provides information concerning national AML and CTF initiatives, including countermeasures for high risk countries and updates on developments for high risk countries pursuant to Article 22 of Cabinet Decision No. 10 of 2019.
+
+4.
+
+The Relevant Person’s MLRO is not obliged to report all transactions from these countries or jurisdictions to the FIU if they do not qualify as suspicious under the Federal AML legislation, unless instructed to do so by the NAMLCFTC. See chapter 13 on Suspicious Activity Reports.
+
+5.
+
+Transactions with counterparties located in countries or jurisdictions which are no longer identified as deficient or have been relieved from special scrutiny (for example, taken off sources mentioned in this Guidance) may nevertheless require attention which is higher than normal.
+
+6.
+
+In order to assist Relevant Persons, the DFSA will, from time to time, publish U.A.E., FATF or other findings, guidance, directives or sanctions. However, the DFSA expects a Relevant Person to take its own steps in acquiring relevant information from various available sources. For example, a Relevant Person may obtain relevant information from the consolidated list of sanctions in the U.A.E Cabinet, European Union Office, HM Treasury (United Kingdom) lists, and the Office of Foreign Assets Control (OFAC) of the United States Department of Treasury, as well as from sources containing lists of dual-use goods or goods subject to export control.
+
+7.
+
+In addition, the systems and controls mentioned in Rule 10.3.1 should be established and maintained by a Relevant Person taking into account its risk assessment under chapters 5 and 6. In Rule 10.3.1, taking reasonable measures to comply with a finding

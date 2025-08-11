@@ -1,0 +1,75 @@
+)
+
+contain, and be accompanied by, such other information as the Regulator may reasonably require.
+
+3.2.4 The Regulator shall:
+
+(a) Within five Business Days of receipt of the notice set out in Rule 3.2.2, and subject to Rule 3.2.5, provide notice of the intent to use the passporting procedures under these Rules to the Host Regulator(s) in the relevant Host Jurisdiction(s) where the Passported Fund is intended to be Promoted; and
+
+(b)
+
+promptly following confirmation from the relevant Host Regulator that its respective Register of Passported Funds has been updated to include the details of the Passported Fund:
+
+4
+
+FP VER01.110319
+
+(i)
+
+publish the details of the Passported Fund on the Register of Passported Funds; and
+
+(ii)
+
+notify the Fund Manager that registration on the Register of Passported Funds is complete.
+
+3.2.5 The Regulator shall not transmit a notice under Rule 3.2.4(a):
+
+(a)
+
+if it considers that the Fund Manager or the Public Fund does not comply with, or it has reasonable grounds for determining that the Fund Manager or the Public Fund may in the future not comply with, applicable legislation, including these Rules; or
+
+(b)
+
+if it considers that it is necessary and appropriate to refrain from doing so in order to meet its objectives.
+
+3.2.6 The Regulator shall immediately notify the Fund Manager of its decision not to
+
+transmit a notice in accordance with Rule 3.2.5.
+
+3.2.7 On and following the earlier of:
+
+(a)
+
+the Passported Fund appearing on the Register of Passported Funds of the relevant Host Jurisdiction(s) referred to in Rule 3.2.4(b); or
+
+(b)
+
+the Fund Manager being notified that registration on the Register of Passported Funds is complete in accordance with Rule 3.2.4(b)(ii),
+
+the Passported Fund may, subject to these Rules, be Promoted to any Persons in the Host Jurisdiction(s) specified in its notification.
+
+3.2.8 If the Regulator receives notice from a Host Regulator stating that the name of the Passported Fund is not available for use in the relevant Host Jurisdiction because it is already in use, or the use of the name is subject to restriction in that Host Jurisdiction, then the Regulator shall require the Fund Manager to immediately cease Promotion of the Passported Fund and the Passported Fund to adopt, as soon as practicable, an alternative name in order to re-commence Promotion.
+
+3.2.9 If, at any time between the notification pursuant to Rule 3.2.2 and the commencement of Promotion in a Host Jurisdiction, the Fund Manager becomes aware of any material change, error, or omission reasonably likely to be relevant to such notification, the Fund Manager shall give written notice to the Regulator without delay. The Regulator will promptly provide the relevant Host Regulator with all relevant details of the material change, error or omission.
+
+3.2.10 If, as a result of any material change, error, or omission referred to in Rule 3.2.9, the Fund Manager will no longer comply with applicable legislation, including these Rules, or if the Regulator otherwise considers it necessary in the circumstances, the Regulator shall take all due measures, including, if
+
+5
+
+FP VER01.110319
+
+necessary, the de-registration of the Public Fund from the Register of Passported Funds in accordance with these Rules.
+
+4.
+
+REGISTRATION OF PASSPORTED FUNDS IN HOST JURISDICTION
+
+4.1 Notifications received by the Host Regulator
+
+4.1.1 This Part applies if the Regulator is the Host Regulator in relation to a
+
+Passported Fund.
+
+4.1.2 Promptly following receipt by the Regulator of a transmission from a Home Regulator to the effect that a Private Fund or Public Fund domiciled or registered in that jurisdiction is a Passported Fund, the Regulator will update its Register of Passported Funds to include details of that Passported Fund. The Regulator will notify the relevant Home Regulator once the Register of Passported Funds has been updated.
+
+4.1.3 As soon as that Register of Passported Funds has been updated pursuant to Rule 4.1.2, the Passported Fund may, in accordance with applicable

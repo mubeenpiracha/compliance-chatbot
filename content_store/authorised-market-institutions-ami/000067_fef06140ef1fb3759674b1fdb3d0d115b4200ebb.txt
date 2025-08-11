@@ -1,0 +1,121 @@
+ obligation or liability,
+
+investigation or
+
+under the Previous Regime continues and is enforceable under the Current Regime.
+
+108
+
+AMI/VER28/03-25
+
+AUTHORISED MARKET INSTITUTIONS (AMI)
+
+APP1 TESTING OF TECHNOLOGY SYSTEMS
+
+A1.1 Application
+
+A1.1.1 An Authorised Market Institution must, for the purposes of meeting the requirements in Rule 5.5.5 relating to the testing of its information technology systems, comply with the requirements in this Appendix.
+
+A1.2 Testing of technology systems
+
+A1.2.1 An Authorised Market Institution must, before commencing live operation of its information technology systems or any updates thereto, use development and testing methodologies in line with internationally accepted testing standards in order to test the viability and effectiveness of such systems. For this purpose, the testing must be adequate for the Authorised Market Institution to obtain reasonable assurances that the systems, among other things:
+
+(a)
+
+enable it to comply with all the applicable requirements, including legislation, on an on-going basis;
+
+(b)
+
+can continue to operate effectively in stressed market conditions; and
+
+(c)
+
+any risk management controls embedded within the systems, such as generating automatic error reports, work as intended.
+
+Guidance
+
+In assessing whether an Authorised Market Institution has adequate information technology resourcing, the DFSA will consider:
+
+a.
+
+whether its systems have sufficient electronic capacity to accommodate reasonably foreseeable volumes of messaging and orders, and
+
+b.
+
+whether such systems are adequately scalable in emergency conditions that might threaten the orderly and proper operations of its facility.
+
+A1.3 Testing relating to Members’ technology systems
+
+A1.3.1
+
+(1)
+
+An Authorised Market implement standardised Institution must conformance testing procedures to ensure that the systems which its Members are using to access facilities operated by it have a minimum level of functionality that is compatible with the Authorised Market Institution’s information technology systems and will not pose any threat to fair and orderly conduct of its facilities.
+
+(2)
+
+An Authorised Market Institution must also require its Members, before commencing live operation of any electronic trading system, user interface or a trading algorithm, including any updates to such arrangements, to use adequate development and testing methodologies to test the viability and effectiveness of their systems.
+
+109
+
+AMI/VER28/03-25
+
+AUTHORISED MARKET INSTITUTIONS (AMI)
+
+(3)
+
+For the purposes of (2), an Authorised Market Institution must require its Members:
+
+(a)
+
+to adopt trading algorithm tests, including tests in a simulation environment which are commensurate with the risks that such a strategy may pose to itself and to the fair and orderly functioning of the facility operated by the Authorised Market Institution; and
+
+(b)
+
+not to deploy trading algorithms in a live environment except in a controlled and cautious manner.
+
+Guidance
+
+When assessing whether the trading algorithm testing plan of its Members is adequate and appropriate and implemented effectively, an Authorised Market Institution should consider whether:
+
+a.
+
+it includes testing where the markets in which the algorithm is to be used change in structure;
+
+b.
+
+the Member has taken into account any limits that are being placed on the number of Investments to be traded on, and the value and number of orders to be sent to, the facility operated by the Authorised Market Institution;
+
+c.
+
+the algorithm works effectively in stressed market conditions, including whether it can be switched off in appropriate circumstances; and
+
+d.
+
+it includes adequate independent auditing of the Member’s testing procedures.
+
+110
+
+AMI/VER28/03-25
+
+AUTHORISED MARKET INSTITUTIONS (AMI)
+
+APP2 USE OF PRICE INFORMATION PROVIDERS
+
+A2.1 Application
+
+A2.1.1 This Appendix applies to an Authorised Market Institution referred to in Rule
+
+5.8.1(5).
+
+Use of price information providers
+
+A2.1.2
+
+(1)
+
+An Authorised Market Institution may only admit to trading or clearing or trade on its facilities Investments that reference to an underlying benchmark or index provided by a Price Information Provider where it has undertaken appropriate due diligence to ensure that the Price Information Provider, on an on-going basis, meets the requirements set out in (3).
+
+(2)
+
+A Price Information Provider is a price reporting agency or an index provider which constructs, compiles, assesses or reports, on a regular and systematic basis, prices of Investments, rates, indices, commodities or figures,

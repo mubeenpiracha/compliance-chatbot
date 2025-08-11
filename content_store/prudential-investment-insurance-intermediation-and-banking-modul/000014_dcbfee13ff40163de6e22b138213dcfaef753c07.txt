@@ -1,0 +1,143 @@
+ risk that losses on an Authorised Firm’s net long or short position in an individual equity or Security may arise from a negative or positive price movement of that equity or Security relative to the relevant market generally.
+
+Sponsor
+
+An Authorised Firm that repackages third party assets directly into a securitisation scheme. Where an Authorised Firm repackages non-Investment Grade third party assets, it may fall within the definition of an Originator unless it originates or repackages no more than 10% of the scheme’s total assets.
+
+19
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+Standardised Approach
+
+The manner in which the Operational Risk Capital Requirement is calculated in accordance with sections 6.11 and A6.2.
+
+Stored Value Capital Requirement
+
+Has the meaning given in section 3.8A.
+
+Supervisory Review and Evaluation Process (SREP)
+
+The supervisory prescribed in chapter 10.
+
+review and evaluation process
+
+Synthetic Securitisation
+
+Has the meaning given in Rule 4.14.2(b).
+
+Systemically Important Bank (SIB)
+
+An Authorised Firm designated by the DFSA under section 1.4 to be either or both of the following:
+
+(a) a D-SIB; or
+
+(b) a G-SIB.
+
+T
+
+Trade date, which is the date on which a transaction is entered into.
+
+T1
+
+Tier 1
+
+T1 Capital
+
+Has the meaning given in Rule 3.12.1.
+
+T2
+
+Tier 2
+
+T2 Capital
+
+Has the meaning given in Rule 3.15.1.
+
+Theta
+
+The ratio of the change in an Option price to the decrease in time to expiration. Theta can also be referred to as time decay.
+
+Total Net Cash Outflow
+
+Has the meaning given in Rule A9.2.13
+
+Total Return Swap
+
+A contract under which two parties exchange their positive or negative returns on a notional amount of a reference asset for a specified period of time.
+
+Trading Book
+
+The positions and Exposures including, on and off- balance sheet items eligible for inclusion in the Trading Book, as described in section 2.2.
+
+Traditional Securitisation
+
+Has the meaning given in Rule 4.14.2(a).
+
+Transaction Based Capital Requirement
+
+Has the meaning given in section 3.8B.
+
+20
+
+PIB/VER50/07-25
+
+1.3
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+Transactor
+
+An obligor in relation to:
+
+(a)
+
+facilities such as credit cards and charge cards where the balance has been repaid in full at each scheduled repayment date for the previous 12 months; or
+
+(b) overdraft facilities if there has been no drawdown
+
+over the previous 12 months.
+
+Unrestricted PSIA (PSIAu)
+
+A PSIA in respect of which the investment account holder authorises the Authorised Firm to invest the account holder’s funds in a manner which the Authorised Firm deems appropriate without laying down any restrictions as to where, how and for what purpose the funds should be invested.
+
+Unsettled Transaction
+
+A transaction where:
+
+(a)
+
+delivery of an instrument is due to take place against remains the outstanding;
+
+receipt of cash but
+
+(b)
+
+physical delivery of the underlying asset or security is not required and the final cash settlement of the transaction remains outstanding past its due date; or
+
+(c)
+
+deliverables were delivered without receipt of the corresponding cash payment.
+
+Vega
+
+The measure of the sensitivity of the value of the Option to a change in the volatility of the underlying asset.
+
+Walkaway Clause
+
+A provision which permits a non-defaulting party to make payments, or no payments at all, to the estate of the defaulter, even if the defaulter is a net creditor.
+
+Categories of Authorised Firms
+
+Guidance
+
+1.
+
+Authorised Firms are divided into Categories to provide a clear framework for determining which specific Rules in PIB apply to each Authorised Firm. The Rules in this section enable an Authorised Firm to determine into which Category it falls.
+
+2.
+
+The table in A1.1 of App1sets out the categorisation process diagrammatically. In that table, an emboldened box indicates the Financial Service that

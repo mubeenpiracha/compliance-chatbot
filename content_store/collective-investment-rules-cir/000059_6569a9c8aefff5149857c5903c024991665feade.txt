@@ -1,0 +1,83 @@
+.
+
+In identifying, managing and monitoring conflicts of interest that may arise due to it acting as custodian, the Fund Manager must take into account that it is required under the Law to give priority to Unitholders’ interests if there is a conflict between its own interests and the interests of Unitholders.
+
+3.
+
+If a Fund Manager decides to act as custodian of Real Property as permitted under this Rule, it must disclose in the Fund’s Prospectus that it acts as custodian, the additional risks that may arise due to it acting as custodian, and how it has addressed those risks (see Rule 14.4.4A).
+
+Self-custody of Real Property for Exempt Funds
+
+A Fund Manager of an Exempt Property Fund is not required to appoint an Eligible Custodian under Rule 8.2.2(2) for Real Property if:
+
+94
+
+CIR/VER38/08-24
+
+13.4.2B
+
+COLLECTIVE INVESTMENT RULES (CIR)
+
+(a)
+
+the Fund Manager acts as custodian of the Real Property or, if the Fund Manager uses a Fund Platform, the Incorporated Cell Company acts as custodian of the Real Property; and
+
+(b)
+
+the Fund Manager has in place effective arrangements which ensure that the Real Property is not available to creditors if the Fund Manager or the Incorporated Cell Company (as the case may be) becomes insolvent.
+
+Guidance
+
+Under this Rule, the arrangements must be legally effective to ensure that the Real Property is not available to creditors if the Fund Manager or ICC becomes insolvent. This might involve, for example, the use of trust arrangements or registration of title in the name of the Fund. This option only applies to custody of Real Property and not, for example, to Property Related Assets.
+
+Alternative Custody arrangements for Real Property in certain jurisdictions
+
+(1)
+
+If a Fund Manager wishes to rely on Rule 8.2.2(3)(a)(ii), or a Trustee of an Investment Trust wishes to rely on Rule 8.2.3(b), to make alternative arrangements for the purposes of those Rules, it may do so only if the requirements in (2) and (3) are met.
+
+(2)
+
+The Fund Manager or, in the case of an Investment Trust, the Trustee, for the purpose of meeting the legal or regulatory requirements in relation to the ownership of Real Property applicable in the jurisdiction in which the Real Property is situated, may implement alternative arrangements for safekeeping where the arrangements:
+
+(a)
+
+in the case of an Investment Trust, enable the Trustee to continue to control the Fund Property; and
+
+(b)
+
+in all cases:
+
+(i)
+
+do not enable the Fund Manager to have unfettered control of the Fund Property; and
+
+(ii)
+
+are in accordance, where applicable, with the requirements in Rules 13.4.6 to 13.4.11.
+
+(3)
+
+If the Fund Manager or, in the case of an Investment Trust, the Trustee, implements arrangements in accordance with (2), it must satisfy the DFSA that the arrangements have the effect specified in (2) and are legally effective in the DIFC and in the jurisdiction where the Real Property is situated.
+
+Guidance
+
+1.
+
+Rule 13.4.2B applies in limited situations such as where legal title to Real Property cannot be held in a GCC country due to an applicable law in another jurisdiction. It enables Fund Managers and Trustees to find suitable alternative arrangements to those mandated under Rule 8.2.2(2) and 8.2.3(b) for the safekeeping of Real Property. In such situations appropriate use of declarations of trust, indemnities and resolutions may produce an acceptable alternative. The DFSA has previously permitted such alternative arrangements
+
+95
+
+CIR/VER38/08-24
+
+13.4.3
+
+13.4.4
+
+COLLECTIVE INVESTMENT RULES (CIR)
+
+by way of waiver and modification to earlier provisions preceding the enactment of Rule 8.2.2(2) and 8.2.3(b).
+
+2.
+
+Note that in relation to an Investment Company or Investment Partnership, Rule 8.2.2 requires a Fund Manager to delegate the activity of Providing Custody to an Eligible Custodian. In relation to an Investment Trust, Rule 8.2.3(b) also permits a Trustee

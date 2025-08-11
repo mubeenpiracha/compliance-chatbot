@@ -1,0 +1,133 @@
+ the disclosure of separate amounts so received or receivable by the company’s auditor or any of his associates, or of aggregate amounts so received or receivable by all or any of those persons.
+
+(3)
+
+The rules may–
+
+(a)
+
+provide that “remuneration” includes sums paid in respect of expenses,
+
+(b)
+
+apply to benefits in kind as well as to payments of money, and require the disclosure of the nature of any such benefits and their estimated money value,
+
+(c)
+
+apply to services provided for associates of a company as well as to those provided for a company,
+
+(d)
+
+define “associate” in relation to an auditor and a company respectively.
+
+(4)
+
+The rules may provide that any disclosure required by the rules is to be made–
+
+(a)
+
+in a note to the company’s annual accounts (in the case of its individual accounts) or in such manner as is specified in the rules (in the case of group accounts),
+
+(b)
+
+in the directors’ report, or
+
+(c)
+
+in the auditor’s report on the company’s annual accounts.
+
+(5)
+
+If the rules provide that any such disclosure is to be made as mentioned in subsection (4)(a) or (b), the rules may require the auditor to supply the directors of the company with any information necessary to enable the disclosure to be made.
+
+281
+
+CHAPTER 3
+
+FUNCTIONS OF AUDITOR
+
+Auditor’s report
+
+467. Auditor’s report on company’s annual accounts
+
+(1)
+
+A company’s auditor must make a report to the company’s members on all annual accounts of the company of which copies are, during his tenure of office–
+
+(a)
+
+in the case of a private company, to be sent out to members under section 405 (duty to circulate copies of annual accounts and reports),
+
+(b)
+
+in the case of a public company, to be laid before the company in general meeting under section 413 (public companies: laying of accounts and reports before general meeting).
+
+(2)
+
+The auditor’s report must include–
+
+(a)
+
+an introduction identifying the annual accounts that are the subject of the audit and the financial reporting framework that has been applied in their preparation, and
+
+(b)
+
+a description of the scope of the audit identifying the auditing standards in accordance with which the audit was conducted.
+
+(3)
+
+The report must state clearly whether, in the auditor’s opinion, the annual accounts–
+
+(a)
+
+fairly present–
+
+(i)
+
+in the case of an individual balance sheet, the state of affairs of the company as at the end of the financial year,
+
+(ii)
+
+in the case of an individual profit and loss account, the profit or loss of the company for the financial year,
+
+(iii)
+
+in the case of group accounts, the state of affairs as at the end of the financial year and of the profit or loss for the financial year of the undertakings included in the consolidation as a whole, so far as concerns members of the company,
+
+(b)
+
+have been properly prepared in accordance with the relevant financial reporting framework, and
+
+(c)
+
+have been prepared in accordance with the requirements of these Regulations.
+
+Expressions used in this subsection or subsection (4) that are defined for the purposes of Part 14 (see sections 437 (accounting standards), 444 (meaning of “annual accounts” and related expressions) and 446 (minor definitions)) have the same meaning as in that Part.
+
+(4)
+
+The following provisions apply to the auditors of a company which qualifies as a micro- entity in relation to a financial year (see sections 373 (companies qualifying as micro- entities) and 374 (companies excluded from being treated as micro-entities)) in their
+
+282
+
+consideration of whether the individual accounts of the company for that year give a fair representation as mentioned in subsection (3)(a)–
+
+(a)
+
+where the accounts comprise only micro-entity minimum accounting items, the auditors must disregard any provision of an accounting standard which would require the accounts to contain information additional to those items,
+
+(b)
+
+in relation to a micro-entity minimum accounting item contained in the accounts, the auditors must disregard any provision of an accounting standard which would require the accounts to contain further information in relation to that item, and
+
+(c)
+
+where the accounts contain an item of information additional to the micro-entity minimum accounting items, the auditors must have regard to any provision of an accounting standard which relates to that item.
+
+(5)
+
+The auditor’s report–
+
+(a)
+
+must be either un

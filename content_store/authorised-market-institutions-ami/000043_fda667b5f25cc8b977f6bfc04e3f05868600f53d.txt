@@ -1,0 +1,158 @@
+ to make public disclosure of any details about the liquidity incentive scheme where such information is reasonably regarded as commercially sensitive information. However, is should make such disclosure as it deems appropriate to keep its market well informed about the introduction of the scheme.
+
+Clearing and settlement arrangements
+
+An Exchange must:
+
+(a)
+
+ensure that there are satisfactory arrangements in place for securing the timely discharge of the rights and liabilities of the parties to transactions conducted on or through its facilities; and
+
+(b)
+
+inform its Members and other participants of the arrangements referred to in (a).
+
+68
+
+AMI/VER28/03-25
+
+AUTHORISED MARKET INSTITUTIONS (AMI)
+
+6.11
+
+Listing Rules
+
+Application
+
+6.11.1
+
+(1)
+
+The requirements in this section apply, subject to (2), to an Exchange which maintains or proposes to maintain its own Official List of Securities.
+
+(2)
+
+The requirement in Rule 6.11.8(1) applies to a Person who wishes to have Securities included in an Official List of Securities.
+
+General requirements relating to listing rules
+
+6.11.2
+
+(1)
+
+An Exchange wishing to admit Securities to its own Official List of Securities must:
+
+(a)
+
+have listing rules which meet the requirements in Rule 6.11.3; and
+
+(b)
+
+ensure that its listing rules are approved by the DFSA.
+
+(2)
+
+Any amendment to an Exchange’s listing rules must, prior to the amendment becoming effective, have been:
+
+(a)
+
+made available for a reasonable period of time to the market for consultation; and
+
+(b)
+
+approved by the DFSA.
+
+(3)
+
+In urgent cases, the DFSA may, on written application by the Authorised Market Institution, dispense with requirement in (2)(a).
+
+(4)
+
+The procedures in Schedule 3 to the Regulatory Law apply to a decision of the DFSA under this Rule not to approve a proposed listing rule or an amendment to a listing rule.
+
+(5)
+
+If the DFSA decides to exercise the power under this Rule not to approve a proposed listing rule or an amendment to a listing rule, the Authorised Market Institution may refer the matter to the FMT for review.
+
+Publication of listing rules
+
+6.11.3 (1)
+
+An Exchange must publish, and make freely available, its listing rules.
+
+(2) Where an Exchange has made any amendments to its listing rules, it must
+
+have adequate procedures for notifying users of such amendments.
+
+Content of listing rules
+
+6.11.4
+
+(1)
+
+The listing rules of an Exchange must be clear, fair and legally enforceable and contain provisions dealing with:
+
+(a)
+
+procedures for admission of Securities to its Official List of Securities including;
+
+69
+
+AMI/VER28/03-25
+
+6.11.5
+
+AUTHORISED MARKET INSTITUTIONS (AMI)
+
+(i)
+
+requirements to be met before Securities may be granted admission to its Official List of Securities; and
+
+(ii)
+
+agreements in connection with admitting Securities to its Official List of Securities;
+
+(b)
+
+effective enforcement of the agreements referred to in (a)(ii);
+
+(c)
+
+procedures for suspension and delisting of Securities from its Official List of Securities;
+
+(d)
+
+the imposition on any Person of obligations to observe specific standards of conduct or to perform, or refrain from performing, specified acts, reasonably imposed in connection with the admission of Securities to its Official List of Securities or continued admission of Securities to its Official List of Securities;
+
+(e)
+
+penalties or sanctions which may be imposed by an Exchange or the DFSA for a breach of the listing rules;
+
+(f)
+
+procedures or conditions which may be imposed, or circumstances which are required to exist, in relation to matters which are provided for in the listing rules;
+
+(g)
+
+actual or potential conflicts of interest that have arisen or might arise when a Person seeks to have Securities admitted to its Official List of Securities; and
+
+(h)
+
+such other matters as are necessary or desirable for the proper operation of the listing rules and process.
+
+(2)
+
+Without prejudice to the requirements in (1), the listing rules of the Exchange must also include, where appropriate to the type the Securities being admitted to its Official List of Securities, requirements in respect of:
+
+(a)
+
+an issuer’s financial reporting and, in particular how regular reports are made and the international accounting standards to which they comply;
+
+(b)
+
+auditing standards;
+
+(c)
+
+an issuer’s track record in terms of profit or operating history;
+

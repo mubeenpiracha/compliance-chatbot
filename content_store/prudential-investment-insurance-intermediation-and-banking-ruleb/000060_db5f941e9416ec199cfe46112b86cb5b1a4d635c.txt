@@ -1,0 +1,79 @@
+ that all Credit Risk Exposures that are especially risky or inconsistent with the approved credit strategy of the Authorised Person are approved by the Authorised Person's senior management or its designated body such as a credit committee.
+
+4.4.4
+
+In relation to conflicts of interest and Related Person transactions, the policy must:
+
+(a)
+
+set out adequate procedures for handling conflicts of interest relating to the provision and management of credit, including measures to prevent any Person directly or indirectly benefiting from the credit being part of the process of granting or managing the credit;
+
+(b)
+
+subject to Rule 4.4.5, prohibit Exposures to Related Persons on terms that are more favourable than those available to Persons who are not Related Persons; and
+
+(c)
+
+if Exposures to Related Persons are allowed on terms which are no more favourable than those available to Persons who are not Related Persons, set out procedures that:
+
+(i)
+
+require such Exposures, and any write-off of such Exposures, exceeding specific amounts or otherwise posing special risks to the Authorised Person, to be made subject to the prior written approval of the firm's Governing Body or the Governing Body's delegate; and
+
+(ii)
+
+exclude Persons directly or indirectly benefiting from the grant or write off of such Exposures being part of the approval process.
+
+4.4.5
+
+The prohibition in Rule 4.4.4(b) does not apply to Providing Credit to a Related Person under a credit policy on terms (such as for credit assessment, tenor, interest rates, amortisation schedules and requirements for Collateral) that are more favourable than those on which it provides credit to Persons who are not Related Persons, provided the credit policy:
+
+(a)
+
+is an Employee credit policy that is widely available to Employees of the Authorised Person;
+
+(b)
+
+is approved by the Authorised Person's Governing Body or the Governing Body's delegate;
+
+110
+
+PRU VER17.290725
+
+(c)
+
+clearly sets out the terms, conditions and limits (both at individual and aggregate levels) on which credit is to be provided to such Employees; and
+
+(d)
+
+requires adequate mechanisms to ensure on-going compliance with the terms and conditions of that credit policy, including immediate reporting to the Governing Body or the Governing Body's delegate where there is a deviation from or a breach of the terms and conditions or procedures applicable to the provision of such credit for timely and appropriate action.
+
+Guidance
+
+1.
+
+The requirements in these Rules do not prevent arrangements such as Employee loan schemes that allow more favourable and flexible loan terms to Employees of the Authorised Person than those available under its normal commercial arrangements. However, such a loan scheme must comply with the requirements set out in these Rules, which are designed to address conflicts of interest that may arise in the grant, approval or management of such loans. Such conflicts are especially likely to arise where one or more of the Employees concerned are Directors, Partners or senior managers.
+
+2.
+
+Generally, where an Authorised Person has an Employee loan scheme under these Rules, the Regulator expects its Governing Body to have ensured, before it or its delegate approved that scheme, that the terms, conditions and particularly limits (both at individual and aggregate level) on which credit is to be provided to Employees under the scheme are adequate and effective in addressing the risks arising from such lending. The Authorised Person should also be able to demonstrate to the Regulator that the procedures it has adopted relating to an Employee loan scheme are adequate to address any risks arising from such lending. The Regulator expects to have access to records relating to lending under an Employee loan scheme upon request or during its supervisory visits. Any significant breach of or deviation from the procedures adopted in relation to an Employee loan scheme may also trigger the reporting requirements to the Regulator under GEN.
+
+4.4.6
+
+For the purposes of the Rules in this Chapter, a Person is a "Related Person" of an Authorised Person if the Person:
+
+(a)
+
+is, or was in the past two years:
+
+(i)
+
+a member of a Group or Partnership in which the Authorised Person is or was also a member; or
+
+(ii)
+
+a Controller of the Authorised Person or a Close Relative of such a Controller;
+
+(b)
+
+is, or was in the past two years, a Director, Partner or senior manager of the Authorised Person or an entity referred to under (a)(i) or (ii), or a Close Relative

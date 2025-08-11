@@ -1,0 +1,131 @@
+B/VER48/03-25
+
+9.6.2
+
+CONDUCT OF BUSINESS (COB)
+
+(a)
+
+if Derivatives are traded on its facilities, such Derivatives meet the contract design specifications in AMI Rule 6.3.2;
+
+(b)
+
+relevant market information is made available to Persons engaged in dealing on an equitable basis, including pre-trade and post-trade orders, in accordance with Rules 9.6.2 and 9.6.3;
+
+(c)
+
+there are adequate mechanisms to discontinue, suspend or remove from trading on its facilities any Investments or Crypto Tokens in circumstances where the requirements in this chapter are not met;
+
+(d)
+
+there are controls to prevent volatility in the markets that is not caused by market forces, in accordance with Rule 9.6.4;
+
+(e)
+
+error trades are managed, in accordance with Rule 9.6.5;
+
+(f)
+
+Short Selling and position concentration are monitored and managed, in accordance with Rule 9.6.5;
+
+(g)
+
+there are fair and non-discretionary algorithm operating in respect of matching of orders on its facilities;
+
+(h)
+
+there are adequate controls to monitor and manage any foreign ownership restrictions applying to Investments traded on its facilities, in accordance with Rule 9.6.7;
+
+(i)
+
+liquidity incentive schemes are offered only in accordance with Rule 9.6.8; and
+
+(j)
+
+there are adequate rules and procedures to address Market Abuse and financial crime, in accordance with Rules 9.6.9 and 9.6.10.
+
+Pre-trade transparency
+
+(1)
+
+An ATS Operator must disclose the information specified in (2) relating to trading of Investments or Crypto Tokens on its facility in the manner prescribed in (3).
+
+(2)
+
+The information required to be disclosed pursuant to (1) includes:
+
+(a)
+
+the current bid and offer prices and volume;
+
+(b)
+
+the depth of trading interest shown at the prices and volumes advertised through its systems for the Investments or Crypto Tokens; and
+
+(c)
+
+any other information relating to Investments or Crypto Tokens which would promote transparency relating to trading.
+
+(3)
+
+The information referred to in (2) must be made available to members and the public as appropriate on a continuous basis during normal trading.
+
+Guidance
+
+115
+
+COB/VER48/03-25
+
+9.6.3
+
+CONDUCT OF BUSINESS (COB)
+
+1.
+
+When making disclosure, an ATS Operator should adopt a technical mechanism by which the public can differentiate between transactions that have been transacted in the central order book and transactions that have been reported to the facility as off-order book transactions. Any transactions that have been cancelled pursuant to its rules should also be identifiable.
+
+2.
+
+An ATS Operator should use appropriate mechanisms to enable pre-trade information to be made available to the public in an easy to access and uninterrupted manner at least during business hours. An ATS Operator may charge a reasonable fee for the information which it makes available to the public.
+
+3.
+
+An ATS Operator may seek a waiver or modification from the disclosure requirement in Rule 9.6.1(1) in relation to certain transactions where the order size is pre-determined, exceeds a pre-set and published threshold level and the details of the exemption are made available to its members and the public.
+
+4.
+
+In assessing whether an exemption from pre-trade disclosure should be allowed, the DFSA will take into account factors such as:
+
+a.
+
+the level of order threshold compared with normal market size for the Investment or Crypto Token;
+
+b.
+
+the impact such an exemption would have on price discovery, fragmentation, fairness and overall market quality;
+
+c.
+
+whether there is sufficient transparency relating to trades executed without pre-trade disclosure as a result of dark orders, whether or not they are entered in transparent markets;
+
+d.
+
+whether the ATS Operator supports transparent orders by giving priority to transparent orders over dark orders, for example, by executing such orders at the same price as transparent orders; and
+
+e.
+
+whether there is adequate disclosure of details relating to dark orders available to members and other participants on the facility to enable them to understand the manner in which their orders will be handled and executed on the facility.
+
+5.
+
+Dark orders are orders executed on execution platforms without pre-trade transparency.
+
+Post-trade transparency requirements
+
+(1)
+
+An ATS Operator must disclose the information specified in (2) in the manner prescribed in (3).
+
+(2)
+
+The information required to be disclosed pursuant to (1) is the

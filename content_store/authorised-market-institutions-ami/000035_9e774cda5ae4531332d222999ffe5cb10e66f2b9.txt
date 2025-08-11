@@ -1,0 +1,111 @@
+ised Market Institution’s obligations include making provision for the safeguarding and administration of Crypto Tokens belonging to Members or other users of its facility, it must ensure that:
+
+(a)
+
+where its safe custody arrangements involve acting as a Digital Wallet Service Provider, it complies with the same requirements that would apply to an Authorised Firm carrying on such activities under COB section 14.3 and the Client Asset provisions in COB sections 6.11, 6.12 and 6.13;
+
+(b)
+
+where it appoints a Third Party Digital Wallet Service Provider to Provide Custody for Crypto Tokens traded or cleared on its facility, the person is either:
+
+(i)
+
+an Authorised Firm permitted to be a Digital Wallet Service Provider; or
+
+(ii)
+
+a firm that is regulated by a Financial Services Regulator in a Recognised Jurisdiction.
+
+54
+
+AMI/VER28/03-25
+
+AUTHORISED MARKET INSTITUTIONS (AMI)
+
+5B.6
+
+Technology audit reports
+
+5B.6.1 An Authorised Market Institution must ensure that it meets the requirements relating to technology audit reports that would apply to an Authorised Firm that uses DLT or similar technology to Operate a MFT that trades Crypto Tokens under COB section 15.8.
+
+5B.7
+
+Other requirements
+
+Appropriateness Assessment
+
+5B.7.1 An Authorised Market Institution that Operates a MTF that trades Crypto Tokens or Crypto Token Derivatives must not carry on that service with or for a Retail Client, unless it has carried out an appropriateness assessment of the Person and formed a reasonable view that the Person has:
+
+(a)
+
+adequate skills and expertise to understand the risks involved in trading in Crypto Tokens or Crypto Token Derivatives (as the case may be); and
+
+(b)
+
+the ability to absorb potentially significant losses resulting from trading in Crypto Tokens or Crypto Token Derivatives (as the case may be).
+
+Guidance
+
+Further Guidance relevant to the requirement in Rule 5B.7.1 can be found after COB Rule 15.6.2, the analogous requirement for Authorised Firms.
+
+Use of credit for trading in Crypto Tokens
+
+5B.7.2 An Authorised Market Institution must take reasonable steps to ensure that a Retail Client of a facility it operates does not use a credit card or credit facility to buy a Crypto Token or Crypto Token Derivative.
+
+Guidance
+
+Further Guidance relevant to the requirement in Rule 5B.7.2 can be found after COB Rule 15.6.3.
+
+Offer of incentives prohibited
+
+5B.7.3
+
+(1)
+
+An Authorised Market Institution must not offer or provide to a Retail Client any incentive that influences, or is reasonably likely to influence, the Retail Client to trade in a Crypto Token or Crypto Token Derivative.
+
+(2)
+
+An Authorised Market Institutions systems and controls must include adequate measures to ensure compliance with (1).
+
+Guidance
+
+Further Guidance relevant to the requirement in Rule 5B.7.3 can be found after COB Rule 15.6.4.
+
+Lending and staking
+
+5B.7.4
+
+(1)
+
+An Authorised Market Institution must not offer or provide any facility or service that allows a Member or other user of its facilities to lend a Crypto Token to the Authorised Market Institution or to another Person.
+
+.
+
+55
+
+AMI/VER28/03-25
+
+AUTHORISED MARKET INSTITUTIONS (AMI)
+
+(2)
+
+The prohibition in (1) does not apply to the provision of any Crypto Token to an Authorised Firm as Collateral.
+
+Clearing and settlement arrangements
+
+5B.7.5 An Authorised Market Institution that Operates a MTF for Crypto Tokens must:
+
+(a)
+
+ensure that there are satisfactory arrangements in place for securing the timely discharge of the rights and liabilities of the parties to transactions conducted on or through the MTF; and
+
+(b)
+
+inform its Members and other participants of the arrangements referred to in (a).
+
+Guidance
+
+An Authorised Market Institution should refer to the Guidance under COB 9.6.11 about the type of arrangements that the DFSA might consider satisfactory for the clearing and settlement of Crypto Tokens traded on a MTF.
+
+5B.7.6 An Authorised Market Institution that Operates a MTF for Crypto Tokens must ensure that clearing and settlement of transactions on the MTF

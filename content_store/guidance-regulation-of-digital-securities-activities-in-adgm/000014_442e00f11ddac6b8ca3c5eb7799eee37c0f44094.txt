@@ -1,0 +1,25 @@
+TFs extending into Digital Securities.
+
+67) Please note that the relief provided by FSRA in May 2019 (to allow Virtual Asset MTFs) to operate a direct client access market has not been extended to allow MTFs to operate on a similar basis in relation to Digital Securities. As such, due to the policy/operational requirements at play, the FSRA suggests that MTFs wanting to operate on a ‘direct client’ basis (in relation to Digital Securities) engage with the FSRA as early as possible.
+
+16 The requirement to use a separate entity for the (clearing and/or) settlement of Digital Securities differs from the FSRA’s current position relating to settlement of Virtual Asset transactions, where an Authorised Person conducting Regulated Activities in relation to Virtual Assets can operate as both a MTF (using Virtual Assets) and a Virtual Asset Custodian without legal entity (and operational) segregation.
+
+VER02.240220
+
+20
+
+MTFs using Virtual Assets – Becoming a Digital Securities RIE
+
+68) Virtual Asset MTFs wishing to operate as an RIE will be required to relinquish their FSP (in relation to their operation of an MTF) upon obtaining a Recognition Order to operate the RIE. Pursuant to MIR Rule 3.4.1, if licenced by the FSRA to carry out the activities of both a RIE and an MTF, the Recognition Order granted for the RIE will include a stipulation, including the MTF, to that effect.
+
+69) RIEs can admit to trading Digital Securities that have been admitted to the Official List of Securities (maintained by FSRA) and offered by way of an Approved Prospectus. As set out earlier in paragraph 36, the FSRA is ADGM’s Listing Authority, and as such the Issuer/Reporting Entity of the Digital Securities must meet all requirements of the Listing Rules, as outlined in Chapter 2 of the Market Rules (MKT) before an admission to listing and admission to trading on a RIE may occur.
+
+70) Migration of a Virtual Assets MTF to a RIE is more complex than the extension of a Virtual Assets MTF into Digital Securities (as dealt with in paragraphs 63 - 67 above). This is due to a number of factors, including that a RIE is required to meet the full suite of requirements in Chapters 2 and 3 of MIR, and the primary market considerations associated with operating a RIE (e.g., requirement for Approved Prospectuses, admission to the Official List of Securities, and the ongoing technical/operational and regulatory requirements related to Digital Securities being admitted to trading and admitted to the Official List).
+
+71) For the purposes of MIR Rule 3.8 (settlement), Virtual Assets MTFs seeking to extend their operations to include Digital Securities will not be permitted to clear and settle transactions within the same legal entity that is conducting trading activities as a RIE. In such circumstances (as noted in paragraph 65 above)) the MTF will be required to separately establish, or make arrangements to use, a separate clearing and settlement entity17 (refer to the sections above in relation to RCHs or DSFs, in paragraphs 53 and 59 respectively).
+
+72) Please note that the relief provided by FSRA in May 2019 (to allow Virtual Asset MTFs) to operate a direct client access market has not been extended to allow RIEs to operate on a similar basis in relation to Digital Securities. As such, due to the policy/operational requirements at play, the FSRA suggests that entities wanting to operate a RIE on a ‘direct client’ basis engage with the FSRA as early as possible. Virtual Asset Custodian – Becoming a DSF
+
+73) A Virtual Asset Custodian seeking to operate as a DSF may apply to the FSRA to vary its FSP to allow it to expand its Providing Custody operations to do so. Further guidance on the considerations applicable to entities wishing to operate as a DSF are set out in paragraphs 55 – 61 above. Note, however, that with respect to Authorised Persons
+
+17 The requirement to use a separate entity for the (clearing and/or) settlement of Digital Securities differs from the FSRA’s current position relating to settlement of Virtual Asset transactions, where an Authorised Person can operate as both a Virtual Assets MTF and

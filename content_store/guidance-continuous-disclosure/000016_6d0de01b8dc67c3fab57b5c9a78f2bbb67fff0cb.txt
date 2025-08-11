@@ -1,0 +1,47 @@
+. The Listing Authority will review each particular circumstance on its own merit, and the Listing Authority’s approach, while being mindful of market integrity implications, is not to require a Disclosure where it is satisfied that confidentiality remains in place. If a Listed Entity is negotiating a significant transaction and is relying on Rule 7.2.2 to not Disclose the transaction (information in relation to which represents Inside Information), it is important that the Reporting Entity closely monitors the situation for any indication that confidentiality has been lost. In these circumstances, the Reporting Entity should be monitoring,20 as a matter of course:
+
+a)
+
+the market price of the Listed Entity’s Securities, and of the Securities of any other listed entity involved in the transaction;
+
+b) major newspapers;
+
+c) major newswire services, such as Bloomberg or Reuters;
+
+d)
+
+any investor/investment blogs, chat-sites or other social media that is known to discuss/cover the Listed Entity; and
+
+e)
+
+enquiries from analysts or journalists,
+
+for signs that information about the transaction may no longer be confidential.
+
+89) The Listing Authority recommends that a Reporting Entity should have a draft Disclosure ready, should its disclosure obligations be triggered under Rule 7.2.1 (in circumstances where it is clear that confidentiality has been lost). The Listing Authority further recommends that the Reporting Entity have prepared a draft written communication to be sent to the Listing Authority requesting a Trading Halt or Suspension, to be sent if it becomes clear that confidentiality has been lost and the Reporting Entity can no longer rely on Rule 7.2.2(2) so as not to make a Disclosure of the Inside Information. In relation to the second component of Rule 7.2.2(2), the Listing Authority may form the view that Inside Information relating to a matter involving a Listed Entity has ceased to be confidential, and that Rule 7.2.2(2) is no longer satisfied, if there is a:
+
+20 A Listed Entity’s corporate, or other, advisers can assist a Reporting Entity with this monitoring.
+
+18
+
+VER01.280922
+
+a)
+
+reasonably specific and reasonably accurate21 media or analyst report about the Inside Information;
+
+b)
+
+reasonably specific and reasonably accurate rumour known to be circulating the market about the Inside Information; or
+
+c)
+
+sudden and significant movement in the market price and/or traded volumes in the Listed Entity’s Securities that cannot be explained by other events or circumstances.
+
+91)
+
+In regard to each of paragraphs 90a) and 90b) above, the Listing Authority will have regard to the degree of specificity in the media report, analyst report or market rumour, in determining whether, and the extent to which, confidentiality has been lost. For example, if the report/rumour simply refers to a Listed Entity being about to enter into a particular transaction with another party, without including any of the specific transaction details, the Listing Authority will generally only require the Listed Entity/Reporting Entity to Disclose the fact that it is in negotiations with that party, without the Disclosure needing to include any of the details being negotiated.
+
+92) On the other hand, if the report/rumour includes specific and accurate transaction details, the Listing Authority will generally expect the Reporting Entity to Disclose those details. If the report/rumour includes inaccurate transaction details, the Disclosure required will depend on the circumstances; in some circumstances, it may be appropriate to correct those details, while in other circumstances it may be appropriate to simply indicate that the details are inaccurate or still being negotiated. In relation to the circumstances of paragraph 90c) above, there may be occasions where a Reporting Entity (or its advisors) wish to debate with the Listing Authority whether a sudden and significant movement in the market price and/or traded volume of a Listed Entity’s Securities can be appropriately attributed to Inside Information ceasing to be confidential. In these circumstances, if a Reporting Entity advises the Listing Authority that there is Inside Information that has not yet been Disclosed due to reliance on Rule 7.2.2(2),22 and it is not able to evidence any other event, circumstance or information which could explain the movement in the market price and/or traded volumes of the Listed Entity’s Securities, the Listing Authority will have no option but to assume that Inside Information in question has become known to some participants in the RIE’s market for those Securities, and that the Inside Information is therefore no longer confidential.23
+
+94)

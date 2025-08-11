@@ -1,0 +1,53 @@
+4.7
+
+(1) Subject to the Fund's Constitution and its most recent Prospectus, the Fund Manager, or the Eligible Custodian or Trustee on the instructions of the Fund Manager, may borrow money for the use of the Fund on terms that the borrowing is to be repayable out of the Fund Property.
+
+(2) The Fund Manager must ensure, except in the case of a Property Fund, that the Fund's borrowing does not on any day exceed 20% of the gross asset value of the Fund Property and must take reasonable care to ensure that arrangements are in place that will enable borrowings to be repaid to ensure such compliance. The Fund Manager of a Public Property Fund may borrow either directly or through its Special Purpose Vehicle for financing investment, or operating purposes but aggregate borrowings must not at any time exceed 65% of the total gross asset value of the Fund.
+
+(3) In the event that the borrowing limit under (2) is exceeded, the Fund Manager must inform the Trustee (if appointed), the Unitholders and the Regulator of the magnitude of the breach, the cause of the breach, and the proposed method of rectification. The Fund Manager must use its best endeavours to reduce, as soon as reasonably possible, the excess borrowings, whether by liquidating assets to repay borrowings or otherwise, to the extent practicable without having a material adverse effect on the Fund or investors as a whole.
+
+(4) All borrowings by the Fund must be conducted at arm's length, unless otherwise approved by the Oversight Committee or by Unitholders (by way of Special Resolution).
+
+(5) Borrowings by any Special Purpose Vehicles held by the Fund must be aggregated for the purpose of calculating borrowings of the Fund for the purposes of this Rule.
+
+(6) In this Rule, "borrowing" also includes any arrangement including a combination of Derivatives to achieve a temporary injection of money into the Fund Property in the expectation that the sum will be repaid.
+
+Investment in Real Property
+
+13.4.8
+
+A Fund Manager must ensure that a suitable Valuer is appointed for a Fund at all times in order to ensure the proper valuation of any Real Property that forms part of Fund Property.
+
+13.4.9
+
+(1) The Fund Manager must ensure that the Valuer appointed under Rule 13.4.8 procures the proper valuation of all the property held within the Fund Property, on the basis of a full valuation with physical inspection including, where the property is or includes a building, an internal inspection at least once a year.
+
+(2) For the purposes of (1), any inspection in relation to adjacent properties of a similar nature and value may be limited to that of only one such representative property.
+
+(3) The Fund Manager must, subject to (4), ensure that the Valuer values the property, on the basis of a review of the last full valuation, at least every 6 months.
+
+69
+
+FUNDS VER10.100625
+
+(4) If any event occurs which may on reasonable grounds have a material effect on the valuation of the relevant property the Fund Manager must consult with the Valuer with a view to arranging a fresh valuation before any Units in the Fund are issued or redeemed after the date of the event.
+
+(5) The Fund Manager must require that any valuation by the Valuer is on the basis of a 'market value' as defined in the Constitution and Prospectus.
+
+Guidance
+
+1.
+
+A Fund Manager should consult with the oversight provider before appointing a Valuer.
+
+2.
+
+The Regulator would expect the Fund Manager to define 'market value' based on an authoritative text such as the current edition of the Royal Institute of Chartered Surveyors' Appraisal and Valuation Standards ("Red Book") or similar practitioners text used by surveyors for the valuation to be a proper valuation under Rule 13.4.9(5).
+
+13.5
+
+Real Estate Investment Trusts (REITs)
+
+13.5.1
+
+(1) A Fund Manager, or any other Authorised Person making an Offer of a Unit of a Domestic Fund or otherwise marketing a Domestic Fund, must not include the term "Real Estate Investment Trust" or "REIT" or refer to a Fund or otherwise hold out a Fund as being a Real Estate Investment Trust or a REIT, unless it is a Property Fund which complies with (

@@ -1,0 +1,123 @@
+ of the monthly leverage ratios over a quarter, or using a more frequent basis for the calculation if that is in line with their internal practices.
+
+3.21.5
+
+For the purpose of determining the Exposure Measure, the value of Exposures of an Authorised Person must be calculated in accordance with the International Financial Reporting Standards (IFRS) subject to the following adjustments:
+
+(a)
+
+on-balance sheet, non-Derivative Exposures must be net of specific allowances and valuation adjustments (e.g. credit valuation adjustments);
+
+(b)
+
+physical or financial Collateral, guarantees or other credit risk mitigation techniques must not be used to reduce exposure values of assets; and
+
+(c)
+
+loans must not be netted with Deposits.
+
+3.21.6
+
+The Exposure Measure under Rule 3.21.2(b) must be calculated as the sum of:
+
+(a)
+
+on-balance sheet items; and
+
+(b)
+
+off-balance sheet items.
+
+Guidance
+
+1.
+
+In relation to on-balance sheet items:
+
+a.
+
+for SFTs, the Exposure value should be calculated in accordance with IFRS and the Netting requirements referred to in Rule 4.9.14;
+
+b.
+
+for Derivatives, including written credit protection, the Exposure value should be calculated as the sum of the on-balance sheet value in accordance with IFRS and an add-on for potential future Exposure calculated in accordance with Rules A4.6.14 to A4.6.21 of App 4; and
+
+101
+
+PRU VER17.290725
+
+2.
+
+3.
+
+c.
+
+for other on-balance sheet items, the Exposure value should be calculated based on their balance sheet values in accordance with Rule 4.9.3.
+
+In relation to off-balance sheet items:
+
+a.
+
+for commitments that are unconditionally cancellable at any time by the Authorised Person without prior notice, the Exposure value should be the notional amount for the item multiplied by a CCF of 10%;
+
+b.
+
+for short-term self-liquidating trade letters of credit arising from the movement of goods (e.g. documentary credits collateralised by the underlying shipment), the Exposure value should be the notional amount for the item multiplied by a CCF of 20% in relation to both issuing and confirming banks;
+
+c.
+
+for certain transaction-related contingent items (e.g. performance bonds, bid bonds, warranties, and standby letters of credit related to particular transactions) the Exposure value should be the notional amount for the item multiplied by a CCF of 50%;
+
+d.
+
+for note issuance facilities and revolving underwriting facilities, the Exposure value should be the notional amount for the item multiplied by a CCF of 50%;
+
+e.
+
+for other off-balance sheet items, including:
+
+i.
+
+direct credit substitutes;
+
+ii.
+
+forward asset purchases, forward deposits and partly paid shares and securities which represent commitments with certain drawdown; and
+
+iii.
+
+transactions, other than SFTs, involving the posting of Securities held by the Authorised Person as Collateral, the Exposure value should be the notional amount for each of the items multiplied by a CCF of 100%; and
+
+f.
+
+where an Authorised Person has an undertaking to provide a commitment on an off-balance sheet item, an Authorised Person should apply the lower of the two applicable CCFs.
+
+For an Islamic Financial Institution, assets corresponding to Unrestricted PSIAs will fall within the Exposure Measure and are therefore relevant to the Leverage Ratio calculation.
+
+102
+
+PRU VER17.290725
+
+4
+
+CREDIT RISK
+
+Introduction
+
+Guidance
+
+1.
+
+Chapter 4 deals with the prudential requirements relating to the management of Credit Risk by an Authorised Person. Credit Risk refers to risk of incurring losses due to failure on the part of a borrower or a Counterparty to fulfil their obligations in respect of a financial transaction.
+
+2.
+
+This Chapter aims to ensure that an Authorised Person holds sufficient regulatory capital of acceptable quality so that it can absorb unexpected losses arising out of its Credit Risk Exposures, should the need arise and that it continues to operate in a sustainable manner.
+
+3.
+
+This Chapter requires an Authorised Person to:
+
+a.
+
+appropriately apply a risk-weight to all on-balance sheet assets and off-balance sheet Exposures for capital adequacy purposes. A risk-weight is based on a Credit Quality Grade aligned with the

@@ -1,0 +1,105 @@
+4.5.2
+
+[Deleted]
+
+4.5.3
+
+A Recognised Clearing House which provides central counterparty, clearing or settlement facilities must make transparent and non-discriminatory Clearing Rules based on objective criteria, governing access to those facilities. A Recognised Body may refuse access to these facilities on legitimate commercial grounds.
+
+4.5.4
+
+A Recognised Clearing House must have legally enforceable Default Rules which, in the event of a Member (including if a Member is another Recognised Clearing House or a Recognised Investment Exchange) being, or appearing to be, unable to meet his obligations in respect of one or more Market Contracts, enable action to be taken in respect of unsettled Market Contracts to which the Member is a party, where appropriate to the risks faced by it, including:
+
+(a)
+
+effecting any transfers and close-outs of a defaulting Members’ or participant's assets or proprietary or Client positions (as applicable) to the Recognised Clearing House, a non-defaulting Member or participant, and/or to a receiver, third party or bridge financial company;
+
+(b)
+
+the auction of any position or asset of the defaulting Member or participant in the market;
+
+(c)
+
+the application the proceeds of liquidation, and other funds and assets of the defaulting Member or participant; and/or
+
+(d)
+
+the use of a default contribution fund mechanism whereby defaulting and non-defaulting Members’ or participants’ pre-funded contributions to the default contribution fund are applied to cover the obligation.
+
+4.5.5
+
+The Default Rules shall clearly define and specify:
+
+(a)
+
+circumstances which constitute a default, addressing both financial and operational default, and how the different types of default may be treated by the Recognised Clearing House;
+
+(b)
+
+the method for identifying a default, including any automatic or discretionary default scenarios, and how the discretion is exercised in any discretionary default scenarios;
+
+58
+
+MIR VER10.290725
+
+(c)
+
+(d)
+
+(e)
+
+(f)
+
+(g)
+
+(h)
+
+(i)
+
+(j)
+
+(k)
+
+(l)
+
+(m)
+
+(n)
+
+potential changes to the normal settlement practices in a default scenario;
+
+the management of transactions at different stages of processing;
+
+the expected treatment of proprietary and Client transactions and accounts;
+
+the probable sequencing of actions that the Recognised Clearing House may take;
+
+the roles, obligations and responsibilities of various parties, including the Recognised Clearing House, the defaulting Member and non-defaulting participants;
+
+how to address the defaulting Member's obligations to Clients;
+
+how to address the allocation of any credit losses it may face as a result of any individual or combined default among its participants with respect to their obligations to the Recognised Clearing House and how stress events are dealt with;
+
+any other mechanisms that may be activated to contain the impact of a default, including:
+
+a default contribution fund, whereby defaulting and non-defaulting Members or participants' pre-funded contributions to the default contribution fund are applied to cover the losses or shortfall arising on a default on the basis of a predetermined order of priority; and
+
+a resolution regime of the defaulting participant, involving "porting" or transferring the open positions and margin related to Client transactions to a non-defaulting participant, receiver, third party or bridge financial company;
+
+for all remaining rights and liabilities of the defaulter under or in respect of unsettled Market Contracts to be discharged and for there to be paid by or to the defaulter such sum of money (if any) as may be determined in accordance with the Default Rules, by offsetting all relevant rights, assets and liabilities on the relevant account;
+
+for the certification by or on behalf of the Recognised Clearing House of the sum finally payable or, as the case may be, of the fact that no sum is payable, separately for each account of the defaulter;
+
+the Recognised Clearing House's segregation and portability arrangements, including the method for determining the value at which Client positions will be transferred; and
+
+provisions ensuring that losses that arise as a result of the default of a Member of the Recognised Clearing House or threaten the Recognised Clearing House's solvency are allocated with a view to ensuring that the
+
+59
+
+MIR VER10.290725
+
+Recognised Clearing House can continue to provide the services and carry on the activities specified in its Recognition Order.
+
+4.5.6
+
+Default Rules should be reviewed and tested at least annually or following material

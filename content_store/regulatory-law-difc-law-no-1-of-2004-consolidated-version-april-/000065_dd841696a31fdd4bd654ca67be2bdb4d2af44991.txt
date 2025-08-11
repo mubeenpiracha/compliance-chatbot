@@ -1,0 +1,125 @@
+ after considering the representations, the DFSA decides:
+
+(a)
+
+to make the proposed decision (either as proposed or with variations), then it must give the person a Decision Notice under paragraph 5; or
+
+(b)
+
+not to make the proposed decision, then it must as soon as practicable notify the person in writing that it has decided not to make the decision.
+
+If the DFSA concludes that any delay likely to arise as a result of complying with the procedures in this paragraph would be prejudicial to the interests of direct or
+
+119
+
+indirect users of financial services in the DIFC or otherwise prejudicial to the interests of the DIFC:
+
+(a)
+
+the requirements in sub-paragraphs (1) to (6) do not apply; and
+
+(b)
+
+instead the DFSA must provide the person with an opportunity to make representations in accordance with the procedures in paragraph 6 after it has made the decision.
+
+120
+
+5.
+
+6.
+
+Decision Notice
+
+(1)
+
+If the DFSA decides to make a decision to which this Schedule applies, it must, as soon as practicable, give the Relevant Person a written notice (a “Decision Notice”) specifying:
+
+(a)
+
+the decision;
+
+(b)
+
+the reasons for the decision, including its findings of fact;
+
+(c)
+
+the date on which the decision is to take effect;
+
+(d)
+
+if applicable, the date by which any relevant action must be taken by the person; and
+
+(e)
+
+the person’s right to seek review of the decision by the FMT (where applicable).
+
+(2)
+
+The Decision Notice must include a copy of the relevant materials which were considered in making the decision.
+
+(3)
+
+For the purposes of sub-paragraph (2), the DFSA:
+
+(a)
+
+may refer to materials (instead of providing a copy) if they are already held by the Relevant Person or are publicly available; and
+
+(b)
+
+is not required to provide material that is the subject of legal professional privilege.
+
+Opportunity to make representations after a decision
+
+(1)
+
+If this paragraph applies under paragraph 4(7), the DFSA must:
+
+(a)
+
+provide to make the Relevant Person with an opportunity representations to the DFSA in person and in writing within a period of 14 days, or such further period as may be agreed, from the date on which the Decision Notice is given to the person under paragraph 5; and
+
+(b)
+
+inform the Relevant Person in the Decision Notice that they may make representations concerning the decision and specify how and by when any representations may be made.
+
+(2)
+
+If the DFSA does not receive any representations within the period specified in the Decision Notice, it must inform the person in writing that the decision is to stand (subject to any right of the person to refer the matter to the FMT for review).
+
+(3)
+
+If the DFSA receives representations within the period specified in the Decision Notice, it must consider the representations in deciding whether to confirm, withdraw or vary the decision.
+
+121
+
+(4)
+
+(5)
+
+If after considering representations received the DFSA decides:
+
+(a)
+
+to confirm the decision, it must as soon as practicable notify the person in writing that the decision is to stand (subject to any right of the person to refer the matter to the FMT for review);
+
+(b)
+
+to withdraw the decision, it must as soon as practicable notify the person in writing that the decision has been withdrawn; or
+
+(c)
+
+to vary the decision, it must as soon as practicable give the person an amended Decision Notice under paragraph 5.
+
+For the avoidance of doubt, the opportunity to make representations under this paragraph does not arise:
+
+(a)
+
+if the person was given a Preliminary Notice and the opportunity to make representations under paragraph 4 before the decision was made; or
+
+(b)
+
+in respect of an amended Decision Notice given under sub-paragraph (4)(c).
+
+122

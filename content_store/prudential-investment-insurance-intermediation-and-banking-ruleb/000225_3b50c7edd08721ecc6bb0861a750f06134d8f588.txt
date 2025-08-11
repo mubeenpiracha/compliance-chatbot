@@ -1,0 +1,125 @@
+ the head office, legal or otherwise, providing the Branch with liquidity.
+
+397
+
+PRU VER17.290725
+
+d.
+
+a notification from the Authorised Person's home supervisor:
+
+i.
+
+expressing no objection to the Branch obtaining the Regulator's liquidity concession or acknowledging the Branch application to the Regulator for a global liquidity concession; and
+
+ii.
+
+providing information about, and confirming, the quality of Liquidity Risk systems and controls and the liquidity Exposures at the Authorised Person's head office.
+
+2.
+
+Under Rule A10.1.1(2)(b), the Regulator will consider liquidity transfer restrictions (e.g. ring-fencing measures, non-convertibility of local currency, foreign exchange controls) imposed under applicable laws, regulations or supervisory requirements in jurisdictions in which a banking group operates which affect the availability of liquidity by inhibiting the transfer of HQLA and fund flows within the Group.
+
+A10.1.2
+
+(1)
+
+An Authorised Person that has been granted a global liquidity concession must provide the Regulator with ongoing assurance about its Liquidity Risk by:
+
+(a)
+
+submitting to the Regulator at least quarterly a copy of the LCR calculation for the Authorised Person, as submitted by its head office to its home supervisor;
+
+(b)
+
+notifying the Regulator immediately of the results of every assessment which its home supervisor conducts which relates to the quality of liquidity systems and controls at its head office;
+
+(c)
+
+notifying the Regulator in writing immediately of any adverse finding or action taken by its home supervisor;
+
+(d)
+
+notifying the Regulator in writing immediately of any potential change in the Branch funding strategy, business model or material potential change in its balance sheet structure; and
+
+(e)
+
+notifying the Regulator in writing immediately of any changes relating to its compliance with the conditions referred to in Rule A10.1.1.
+
+(2)
+
+The Regulator may at any time, based on its assessment of the Liquidity Risk Exposures of an Authorised Person, by written notice adjust or exclude any of the requirements in (1), impose additional requirements or cancel the global liquidity concession granted to the Authorised Person.
+
+A10.2
+
+The Liquidity Coverage Ratio
+
+Guidance
+
+1.
+
+The objective of the LCR is to promote short-term resilience of an Authorised Person's Liquidity Risk profile. The LCR aims to ensure that an Authorised
+
+398
+
+PRU VER17.290725
+
+Person maintains an adequate level of unencumbered HQLA that can be converted into cash to meet its liquidity needs for a 30 calendar day period under a severe liquidity stress scenario.
+
+2.
+
+The LCR is calculated under Rule 9.3.5 using the following formula:
+
+LCR = (Value of stock of HQLA) / (Total Net Cash Outflows over the next
+
+30 calendar days)
+
+3.
+
+The LCR has two components:
+
+a.
+
+Value of the stock of HQLA in stressed conditions; and
+
+b.
+
+Total Net Cash Outflows, calculated according to the scenario parameters outlined in this section.
+
+4.
+
+The stress scenario entails both institution-specific and systemic shocks including:
+
+a.
+
+the run-off of a proportion of retail Deposits;
+
+b.
+
+a partial loss of unsecured wholesale funding capacity;
+
+c.
+
+a partial loss of secured, short-term financing with certain Collateral and Counterparties;
+
+d.
+
+additional contractual outflows that would arise from a downgrade in the Authorised Person's public credit rating, where applicable, by up to and including three notches, including Collateral posting requirements;
+
+e.
+
+increases in market volatility that affect the quality of Collateral or potential future Exposure of Derivative positions and so require larger Collateral haircuts or additional Collateral, or lead to other liquidity needs;
+
+f.
+
+unscheduled draws on committed but unused credit and liquidity facilities that the Authorised Person has provided to its clients; and
+
+g.
+
+the potential need for the Authorised Person to buy back debt or honour non-contractual obligations to mitigate reputational risk.
+
+A10.2.1 An Authorised Person must calculate its LCR on an ongoing basis and separately for each significant currency. An Authorised Person must report to the Regulator its aggregate LCR calculation in $USD.
+
+Guidance
+
+A currency is considered significant if the aggregate liabilities denominated in that currency amount to 5% or more of the Authorised Person's total

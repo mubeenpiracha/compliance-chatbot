@@ -1,0 +1,133 @@
+ that Person and his Associates, including those in which that Person or an Associate of that Person has a beneficial interest, are deemed as his Securities except as specified in (4).
+
+45
+
+MKT/VER24/03-25
+
+4.3.3
+
+MARKETS RULES (MKT)
+
+(4)
+
+For the purposes of (3), Securities are not deemed as his Securities where:
+
+(a)
+
+any such Securities are held by that Person on behalf of another Person who is not an Associate of that Person; and
+
+(b)
+
+the Person does not have control over the voting rights attaching to the Securities because some other Person exercises those rights or manages those Securities on a discretionary basis.
+
+(5)
+
+A Person is not a Connected Person of a Reporting Entity merely by reason that:
+
+(a)
+
+its Structured Products are admitted to trading on an Authorised Market Institution; or
+
+(b)
+
+such Person:
+
+(i)
+
+owns or holds voting Securities solely in its capacity as trustee, nominee or custodian under an agreement to hold such Securities; and
+
+(ii) does not exercise any voting or other rights associated with the Securities except in accordance with the express instructions of the owner of the Securities or in accordance with the agreement in (i).
+
+Events that trigger a report
+
+(1)
+
+A Connected Person must file the report required under Article 42(1) of the Law (the “report”) with the DFSA and the Reporting Entity within 5 business days of the occurrence of any of the events prescribed in (2) and (3).
+
+(2)
+
+In the case of a Person who is a Connected Person under Rule 4.3.2(1)(a), that Person must file the report:
+
+(a)
+
+upon becoming or ceasing to be a Director of a controller of the Reporting Entity;
+
+(b)
+
+upon acquiring or ceasing to hold either alone or with an Associate of the Person any Securities or other Investments in or relating to the Reporting Entity or a controller of the Reporting Entity; and
+
+(c)
+
+upon any increase or decrease of the level of an interest referred to in (b).
+
+(3)
+
+In the case of a Person who is a Connected Person under Rule 4.3.2(1)(b), that Person must file the report:
+
+(a)
+
+upon acquiring or ceasing to hold voting Securities carrying more than 5% of the voting rights attaching to all voting Securities of either the Reporting Entity or a controller of the Reporting Entity; and
+
+(b)
+
+upon an increase or decrease of at least 1% of the level of interest previously reported pursuant to (a).
+
+46
+
+MKT/VER24/03-25
+
+MARKETS RULES (MKT)
+
+Derivatives giving entitlement to securities
+
+4.3.3A For the purposes of Rules 4.3.2 and 4.3.3, a Person is taken to hold Securities or Investments in or relating to a Reporting Entity, if the Person holds a Derivative or any other Financial Instrument that on its maturity will confer on him:
+
+(a)
+
+an unconditional right to acquire the Security or Investment; or
+
+(b)
+
+the discretion as to his right to acquire the Security or Investment.
+
+Content of the report
+
+4.3.4 A report filed by a Connected Person must contain the following information:
+
+(a)
+
+the name and address of the Connected Person;
+
+(b)
+
+the date on which the event giving rise to the obligation to file a report occurred;
+
+(c)
+
+the date on which the filing was made; and
+
+(d)
+
+the price, amount and class of Securities or other Investments as is relevant in relation to the transaction or other event and the previous and new level of interest held.
+
+Market disclosure
+
+4.3.5 Upon a Connected Person filing a report with the Reporting Entity, the Reporting Entity must, as soon as possible, make market disclosure of that report in accordance with Rule 4.7.1.
+
+4.4 Disclosure of directors’ material interests
+
+Guidance
+
+Article 43 of the Law requires Persons with a material interest in the Reporting Entity to give a notice relating to that interest in accordance with the requirements prescribed in the Rules.
+
+Application
+
+4.4.1 This section applies to every Reporting Entity other than that of a Listed Fund.
+
+Guidance
+
+Chapter 6 contains the disclosure of material interest applicable to Listed Fund.
+
+Definition of a material interest
+
+4.4.2 A Director of a Reporting Entity has a material interest in the Reporting Entity if that

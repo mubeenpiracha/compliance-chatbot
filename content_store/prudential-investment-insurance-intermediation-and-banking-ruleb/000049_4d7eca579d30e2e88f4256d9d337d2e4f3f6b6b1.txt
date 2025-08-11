@@ -1,0 +1,132 @@
+) and that in (2).
+
+(4)
+
+As an alternative to applying a 1000% risk weight to the amounts in excess of the limits specified in (1) or (2), an Authorised Person may deduct those amounts from CET1 Capital.
+
+(5)
+
+Shares of Undertakings to which (1) or (2) do not apply must not be included in calculating the eligible capital limits specified in (1) where any of the following conditions are met:
+
+(a)
+
+those Shares are held temporarily during a financial reconstruction or rescue operation;
+
+90
+
+PRU VER17.290725
+
+(b)
+
+the holding of the Shares is an Underwriting position held for five working days or less; or
+
+(c)
+
+those Shares are held in the name of the Authorised Person on behalf of others.
+
+3.15
+
+Calculation of Capital Resources
+
+3.15.1
+
+This Section applies to an Authorised Person in any Category.
+
+3.15.2
+
+The total of Capital Resources is derived according to the following formula:
+
+T1 Capital + T2 Capital = Capital Resources
+
+where:
+
+(a)
+
+"T1 Capital" represents Tier 1 capital, that being the sum of CET1 Capital and AT1 Capital;
+
+(b)
+
+"CET1 Capital" represents Common Equity Tier 1 capital assessed in accordance with Section 3.10;
+
+(c)
+
+"AT1 Capital" represents Additional Tier 1 capital assessed in accordance with Section 3.11; and
+
+(d)
+
+"T2 Capital" represents Tier 2 capital assessed in accordance with Section 3.12.
+
+3.15.3
+
+An Authorised Person must calculate its Capital Resources in accordance with the table below and the provisions in Sections 3.9 to 3.12.
+
+(A1) Elements of Common Equity Tier 1 (CET1) Capital
+
+(A2) Adjustments to/deductions from CET1 Capital
+
+(A3) CET1 Capital = A1 – A2
+
+(A4) Elements of Additional Tier 1 (AT1) Capital
+
+(A5) Deductions from AT1 Capital
+
+(A6) AT1 Capital = A4 – A5
+
+(A7) Tier 1 (T1) Capital = A3 + A6
+
+91
+
+PRU VER17.290725
+
+(A8) Elements of Tier 2 (T2) Capital
+
+(A9) Deductions from T2 Capital
+
+(A10) Tier 2 (T2) Capital = A8 – A9
+
+(A11) Capital Resources = A7 + A10
+
+3.15.4
+
+The Capital Resources of an Authorised Person to which this section applies is defined as the sum of its CET1 Capital, AT1 Capital and T2 Capital.
+
+3.16
+
+Adequate Capital Resources for Categories 1, 2, 3A and 5
+
+Application
+
+3.16.1
+
+This Section applies to an Authorised Person in Category 1, 2, 3A or 5.
+
+Capital ratios
+
+3.16.2
+
+Subject to 3.2.3, an Authorised Person must ensure that it complies with the following requirements at all times.
+
+(a)
+
+The ratio of CET1 Capital to Total Risk Exposure Amount must not be less than 6.0%.
+
+(b)
+
+The ratio of T1 Capital to Total Risk Exposure Amount must not be less than 8.0%.
+
+(c)
+
+The ratio of Capital Resources to Total Risk Exposure Amount must not be less than 10.0%.
+
+Guidance
+
+In Rule 3.16.2 CET1 Capital is that calculated at step A3, T1 Capital is that calculated at step A7 and Capital Resources is that calculated at step A11 of Rule 3.15.3.
+
+3.16.3
+
+The Regulator may impose a further requirement, termed an Individual Capital Requirement (ICR), on an Authorised Person to hold additional Capital Resources arising from Pillar 2 adjustments (see Chapter 10), including where it designates an Authorised Person as a D-SIB. Where the Authorised Person has an ICR imposed on it, then the Authorised Person must, at all times, maintain adequate Capital Resources of the type and amount as specified in Rule 10.6.1 in addition to those kept to meet the capital adequacy requirements outlined in Rule 3.2.4.
+
+3.17
+
+Capital Conservation Buffer
+

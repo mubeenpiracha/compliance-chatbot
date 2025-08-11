@@ -1,0 +1,105 @@
+ index or equity future provided it is in the money by at least the risk percentage stipulated in A5.3.31; and
+
+(d) a company issued warrant which relates to an equity, basket of equities or equity index provided it is in the money by at least the risk percentage stipulated in A5.3.31.
+
+Guidance
+
+1.
+
+If an Authorised Firm has an investment in a leveraged Collective Investment Fund, it should seek guidance from the DFSA in respect of the appropriate prudential treatment.
+
+2.
+
+In respect of options that are out of the money, an Authorised Firm must apply the requirements of section 5.8.
+
+A5.3.4 An Authorised Firm must calculate either an Equity Risk Capital Requirement or an Option Risk Capital Requirement for a Trading Book position in the equity leg of an equity swap in accordance with Rule A5.3.12.
+
+A5.3.5 An Authorised Firm must calculate either an Equity Risk Capital Requirement or Interest Rate Risk Capital Requirement for a Trading Book position in a Convertible in accordance with Rules A5.3.6 and A5.3.7.
+
+A5.3.6 An Authorised Firm must treat a Convertible as the underlying equity into which it
+
+converts, where:
+
+(a)
+
+the first date at which conversion can take place is less than three months ahead, or the next such date (where the first has passed) is less than a year ahead; and
+
+(b)
+
+the Convertible is trading at a premium of less than 10% to the underlying equity.
+
+A5.3.7 An Authorised Firm which treats a Convertible as an equity must make an adjustment
+
+to the capital component as follows:
+
+(a)
+
+an addition equal to any loss on conversion; or
+
+(b)
+
+a deduction equal to any profit on conversion (subject to a maximum reduction to zero).
+
+A5.3.8 An Authorised Firm must not calculate an Equity Risk Capital Requirement for a
+
+Trading Book position in:
+
+(a)
+
+material holdings deducted under chapter 3 for the purposes of calculating an Authorised Firm’s Capital Resources;
+
+(b)
+
+the interest rate leg of an equity swap, equity future or forward, or equity based option; or
+
+(c)
+
+a non-Convertible preference security.
+
+335
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+Derivation of notional positions
+
+A5.3.9 An Authorised Firm must, before Netting, derive a notional position for a depository receipt, a swap, a future, a forward, an option and a company issued warrant in the calculation of its Equity Risk Capital Requirement.
+
+Depository receipts
+
+A5.3.10 An Authorised Firm must treat a depository receipt as a notional position in the
+
+underlying equity.
+
+A5.3.11 A position in a depository receipt must only be netted against a position in the underlying equity if the equity is deliverable against the depository receipt.
+
+Equity swaps
+
+A5.3.12 An Authorised Firm must treat an equity swap as two notional positions: an interest
+
+rate leg and an equity leg, as follows:
+
+(a)
+
+the interest rate leg must be included in the Interest Rate Risk Calculation and treated as a notional government Security in accordance with the provisions for interest rate swaps in section 5.4; and.
+
+(b)
+
+the equity leg must be treated as a long or short position in:
+
+(i) where the payout or receipt of funds is based on, respectively, the appreciation or depreciation in price of the underlying equities, a future; or
+
+(ii) where the payout is the appreciation in price of the underlying equities, an option, in which case the Authorised Firm must calculate an Option Risk Capital Requirement in accordance with section 5.8.
+
+Equity futures and forwards
+
+A5.3.13 An Authorised Firm must treat a future or forward on a single equity as a notional position in the underlying equity. In addition, an interest rate leg must be included in the interest rate risk calculation in section 5.4 as a notional government security.
+
+A5.3.14 An Authorised Firm must treat a future or forward on a single country equity index as
+
+either:
+
+(a)
+
+notional positions in the constituent equities;

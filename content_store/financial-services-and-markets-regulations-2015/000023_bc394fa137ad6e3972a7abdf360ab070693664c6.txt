@@ -1,0 +1,135 @@
+ Prospectus or a significant new matter arises, the Issuer or the person responsible for the issue of the Prospectus shall issue a supplementary prospectus which—
+
+(a)
+
+provides details of the change, mistake, inaccuracy or new matter; and
+
+(b)
+
+complies with the requirements in section 62(1).
+
+Misleading and deceptive statements or omissions
+
+66.
+
+Prohibition against misleading and deceptive statements or omissions
+
+(1)
+
+A person shall not make a Prospectus Offer if there is—
+
+(a)
+
+a misleading or deceptive statement in—
+
+(i)
+
+the Prospectus;
+
+(ii)
+
+any application form that is attached to or accompanies the Prospectus; or
+
+(iii)
+
+any other communication that relates to the Prospectus Offer, or the application form;
+
+(b)
+
+any material omission from the Prospectus, application form or any other Document as required by or under these Regulations; or
+
+(c)
+
+a significant new matter or a significant change in circumstances that requires a supplementary prospectus to be issued.
+
+(2)
+
+A person does not contravene the prohibition in subsection (1) if that person can prove the circumstances or matters specified in sections 67 and 68.
+
+67.
+
+Defence of reasonable enquiries and reasonable belief
+
+A person does not commit a contravention of section 66(1), if that person proves that he—
+
+(a)
+
+made all enquiries that were reasonable in the circumstances; and
+
+(b)
+
+after making such enquiries, believed on reasonable grounds that the Prospectus was not misleading or deceptive.
+
+68.
+
+Defence of reasonable reliance on information given by another person
+
+(1)
+
+A person does not commit a contravention of section 66(1) if the person merely proves that he placed reasonable reliance on information given to him by—
+
+(a)
+
+if the person is not a natural person, someone other than a member of the governing body, employee or agent of the person; or
+
+41
+
+(b)
+
+if the person is a natural person, someone other than an employee or agent of the natural person.
+
+(2)
+
+For the purposes of this Chapter, a person is not the agent of a person merely because he performs a particular professional or advisory function for the person.
+
+69.
+
+Statements about future matters
+
+(1)
+
+A person is taken to make a misleading or deceptive statement about a future matter whether by himself or through his agent, if he, at the time of making the statement or causing the statement to be made, did not have reasonable grounds for making the statement or causing the statement to be made.
+
+(2)
+
+The onus for proving that reasonable grounds existed for the purposes of subsection (1) is on the person who made the statement or caused the statement to be made.
+
+(3)
+
+A person referred to in subsection (2) may rely on the circumstances referred to in sections 67 and 68 in order to prove that he had reasonable grounds for making the statement relating to the future matter.
+
+70.
+
+Civil compensation
+
+(1)
+
+Any person prescribed in the Rules made by the Regulator as being liable for a Prospectus is liable to pay compensation to another person who has acquired Securities to which the Prospectus relates and who has suffered loss or damage arising from any untrue or misleading statement in the Prospectus or the omission from it of any material matter required to have been included in the Prospectus by or under these Regulations.
+
+(2)
+
+The Regulator may make Rules prescribing circumstances in which a person who would otherwise be liable under subsection (1) will not be so liable.
+
+(3)
+
+Nothing in this section affects the powers, rights or liabilities that any person may have apart from this section including the power to institute proceedings under section 242.
+
+71.
+
+Stop orders33
+
+(1)
+
+If the Regulator is satisfied that a Prospectus Offer would contravene or has contravened these Regulations or it is in the interests of the Abu Dhabi Global Market, the Regulator may issue a stop order to a person or class of persons directing that no Offer, issue, sale or transfer of the Securities be made by such person or persons for such a period of time as it thinks appropriate.
+
+(2)
+
+Upon making a decision under subsection (1), the Regulator shall, without undue delay, inform the Offeror and the Issuer (if different) of the Securities in writing of its decision.
+
+(3)
+
+An order under subsection (1) takes effect—
+
+(a)
+
+immediately, if the notice under subsection (4)

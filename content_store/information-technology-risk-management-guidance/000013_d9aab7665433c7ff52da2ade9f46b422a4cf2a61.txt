@@ -1,0 +1,79 @@
+. This will make the spread of misinformation and confusion less likely.
+
+2.5.18 Financial
+
+institutions should ensure that the relevant staff are aware of the communication plan and their responsibilities in executing the plan. This will make conflicting messages less likely, reducing confusion.
+
+2.5.19 During an incident, the financial institution should deviate from the communication plan only where the consequences of deviation are understood and accepted by senior management.
+
+Incident Reporting
+
+2.5.20 A financial institution should establish procedures and escalation frameworks to facilitate compliance with incident reporting obligations in the prescribed format required by regulators and other authorities.
+
+2.5.21 Where the incident is potentially the result of or part of a crime, the financial institution should make a report to law enforcement authorities6 and fully facilitate the investigation process, including maintaining the chain of evidence for any systems or data involved in the incident.
+
+Contractual Obligations
+
+6 This may include filing the necessary submissions (e.g., suspicious transaction reports, etc.) to report potential financial crimes to the appropriate authorities (e.g., financial intelligence unit, etc.).
+
+21
+
+VER01.201124
+
+2.5.22 A financial institution should have procedures in place to ascertain the potential for an incident to result in breaches to its contractual obligations to customers and counterparties.
+
+2.5.23 Where a breach occurs, a financial institution should notify the affected party and take
+
+necessary steps to mitigate further escalation of its non-performance.
+
+Desired Outcome 2.6 – Problem Management
+
+2.6.1
+
+Investigations into the root cause of risk events can glean lessons for improvement but such lessons will be wasted if they are not acted on. Financial institutions should have a process in place to study lessons learnt over time to identify, analyse, and resolve systemic problems. The goal of problem management is to reduce the likelihood of a risk event materialising into an incident or to minimise the frequency and severity of potential and actual risk events.
+
+2.6.2
+
+The financial institution should regularly review risk events to identify potential problems, determine mitigation strategies and report the results of its review to management for approval and action. A repeated risk event that does not turn into an incident may become normalised and may slow response when an incident does occur. For example, repeated false alerts from intrusion detection solutions may lead staff to ignore such alerts, even when an attacker has already entered the network.
+
+2.6.3
+
+In addition to technical factors that led to risk events, the financial institution should also identify any underlying issues that may originate from lack of compliance by staff to existing frameworks and processes, inappropriate or deficient processes, and unresolved or ignored user service requests.
+
+Desired Outcome 2.7 – Insider Risk
+
+2.7.1 Malicious insiders can be a significant source of IT risk as their insider knowledge
+
+enables them to easily circumvent internal controls7.
+
+2.7.2 While the risk of malicious insiders can never be eliminated, financial institutions should conduct background checks on staff and third parties who have access, especially privileged access, to data and systems. The intensity of the background check should be commensurate to the level of access granted to the staff.
+
+2.7.3
+
+Financial institutions should also implement systems and processes to monitor for insider risk (e.g., data exfiltration, resource abuse, etc.).
+
+7 Per the causal factors that comprise the Fraud Triangle, removal of weak internal controls to reduce the Opportunity for fraud is a key deterrence to combat fraud.
+
+22
+
+VER01.201124
+
+Chapter 3 – Third Party Management
+
+Desired Outcomes for Third Party Management
+
+Desired Outcome 3.1 – Third Party Risk Governance: A financial institution should ensure that its engagement with third parties aligns with its business strategy and adheres to the established risk management framework.
+
+Desired Outcome 3.2 – Third Party Lifecycle Management: A financial institution should closely monitor and review its third parties’ performance and risk posture.
+
+Desired Outcome 3.3 – Supply Chain Resilience: A financial institution should actively monitor and mitigate risks arising from its third parties’ supply chain.
+
+Desired Outcome 3.1 – Third Party Risk Governance
+
+3.1.1
+
+For the purposes of this chapter, a third party is any entity that provides or consumes technology services or products to or from the financial institution.
+
+3.1.2
+
+A financial institution may engage third parties for various purposes including for reasons such

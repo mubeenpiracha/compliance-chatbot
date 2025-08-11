@@ -1,0 +1,75 @@
+) to the Commissioner of Data Protection within the period specified in the monetary penalty, then the obligation of the Controller to pay the fine is enforceable as a debt payable to the Commissioner of Data Protection and the Commissioner of Data Protection may apply to the Court for the recovery of the debt, plus such interest, costs of enforcement (including legal costs) and other expenses directly arising from the failure to pay as the Court sees fit to order.
+
+51
+
+57. Right to lodge a complaint with the Commissioner of Data Protection
+
+(1) Without prejudice to any other administrative or judicial remedy, a Data Subject has the right to lodge a complaint with the Commissioner of Data Protection if the Data Subject considers that the Processing of Personal Data relating to him or her contravenes these Regulations.
+
+(2) Where multiple Data Subjects are affected by the same alleged contravention, they may raise such complaint collectively, including via a representative body. The Commissioner of Data Protection may choose to deal collectively with multiple allegations which relate to the same contravention, whether or not such allegations are brought collectively.
+
+(3) The Commissioner of Data Protection must assess the complaint and inform the
+
+complainant on the progress and the outcome of the complaint.
+
+(4) Upon completion of the assessment, the Commissioner of Data Protection may, as
+
+appropriate:
+
+(a)
+
+dismiss the complaint;
+
+(b)
+
+uphold the complaint and take further action including under sections 54 or 55; or
+
+(c)
+
+uphold the complaint and take no further action.
+
+58. Application to the Court
+
+(1) Notwithstanding any other administrative or non-judicial remedy:
+
+(a)
+
+a Controller or Processor in respect of whom a Penalty Notice or Direction is issued may refer the matter to the Court for review within three months of the Penalty Notice or Direction being issued;
+
+(b)
+
+a Controller, Processor or affected Data Subject who considers the Commissioner of Data Protection has failed to handle a complaint under section 57 in accordance with these Regulations may refer the matter to the Court for review within three months immediately following the date that the complaint was made.
+
+(2) The Court may make any orders that the Court may think just and appropriate in the circumstances, including remedies for damages, penalties or compensation, imposition of administrative fines and findings of fact in relation to whether or not these Regulations have been contravened.
+
+(3) Court Procedure Rules may make provision for any reference to the Court under this
+
+section.
+
+59. Rights against a Controller and/or Processor
+
+(1) Any person who has suffered material or non-material damage as a result of a contravention of these Regulations is entitled to compensation from the Controller or Processor for the damage suffered. Any compensation is in addition to, and will not limit, any fine imposed on the same Controller or Processor under section 55.
+
+52
+
+(2) Any Controller involved in Processing is liable for the damage caused by Processing
+
+which contravenes these Regulations.
+
+(3) A Processor is liable for the damage caused by Processing only where it has not complied with obligations of these Regulations specifically directed to Processors or where it has acted outside or contrary to lawful instructions of the Controller.
+
+(4) A Controller or Processor is exempt from liability under section 59(2) and 59(3) if it proves that it is not in any way responsible for the event giving rise to the damage.
+
+(5)
+
+It is a defence to a claim brought under section 59(2) for the Controller or Processor to prove that it had taken such care as in all the circumstances was reasonably required to comply with the requirement concerned.
+
+(6) Where more than one Controller or Processor, or both a Controller and a Processor, are involved in the same Processing and where they are responsible for any damage caused by Processing, each Controller or Processor will be held jointly and severally liable for the entire damage in order to ensure effective compensation of the Data Subject.
+
+(7) Where a Controller or Processor has, in accordance with section 59(6), paid full compensation for the damage suffered, that Controller or Processor is entitled to claim back from the other Controllers or Processors involved in the same Processing that part of the compensation corresponding to their part of responsibility for the damage, in accordance with the conditions set out in section 59(2) and 59(3).
+
+(8) Proceedings for exercising the right to receive compensation must be brought before
+
+the Court.
+
+(9) A Data Subject may apply to the Court

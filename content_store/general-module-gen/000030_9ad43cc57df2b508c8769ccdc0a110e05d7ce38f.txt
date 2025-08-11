@@ -1,0 +1,111 @@
+ a Representative Office to market:
+
+a.
+
+a Crypto Token or an Investment relating to a Crypto Token (such as a Derivative relating to a Crypto Token or a Unit of a Fund that invests in Crypto Tokens); or
+
+b.
+
+a Financial Service relating to a Crypto Token or such an Investment.
+
+2.27 Operating a Credit Rating Agency
+
+2.27.1 (1)
+
+In Rule 2.2.2, Operating a Credit Rating Agency means undertaking one or more Credit Rating Activities for the purpose of producing a Credit Rating with a view to that Credit Rating being:
+
+(a)
+
+disseminated to the public; or
+
+(b)
+
+distributed to a Person by subscription;
+
+40
+
+GEN/VER67/03-25
+
+GENERAL (GEN)
+
+whether or not it is in fact disseminated or distributed.
+
+(2)
+
+For the purposes of (1):
+
+(a) Credit Rating Activities are data and information analysis relating to a Credit Rating or the evaluation, approval, issue or review of a Credit Rating; and
+
+(b) a Credit Rating is an opinion expressed using an established and defined ranking system of rating categories regarding the creditworthiness of a Rating Subject.
+
+(3)
+
+In (2), a Rating Subject means:
+
+(a)
+
+a Person other than a natural person;
+
+(b)
+
+a credit commitment; or
+
+(c)
+
+a debt or debt-like Investment.
+
+Exclusions
+
+2.27.2 A Person does not Operate a Credit Rating Agency where that Person prepares any credit scores, credit scoring systems or similar assessments relating to obligations arising from consumer, commercial or industrial relationships.
+
+Guidance
+
+1.
+
+The effect of Rule 2.27.1 is that even if a Person undertakes from a place of business in the DIFC some but not all of the Credit Rating Activities for the purpose of producing a Credit Rating, that Person needs to have a Licence authorising it to Operate a Credit Rating Agency.
+
+2.
+
+Where a Credit Rating Agency outsources some of its Credit Rating Activities, it will need to ensure that it meets the relevant requirements, including those relating to outsourcing, in Rule 5.3.21.
+
+3.
+
+There is no express prohibition against carrying on the Financial Service of Operating a Credit Rating Agency by Persons who are authorised to carry on other Financial Services. However, the specific conduct requirements applicable to Credit Rating Agencies in COB chapter 8, include a prohibition against certain types of consultancy and advisory services being provided by a Credit Rating Agency. Therefore, even if a Credit Rating Agency has an appropriate Licence authorising it to provide advice on financial products, it will not be able to provide the prohibited type of consultancy and advisory services.
+
+4.
+
+A Person may provide a private Credit Rating for the exclusive use of another Person (Second Person) without seeking a License authorising it to Operate a Credit Rating Agency where the Credit Rating is produced based on the request of the Second Person and is not intended to be disseminated to the public or distributed by subscription. Such a Person may wish to include an express warning in the Credit Rating that it is intended only for the exclusive use of the Second Person and obtain from such Second Person a prior written undertaking that the Credit Rating will not be disseminated to the public or distributed on subscription.
+
+5.
+
+Credit scoring referred to in Rule 2.27.2 is a method of assessing creditworthiness. A credit score is primarily based on credit report information typically sourced from credit bureaus. A Person does not become a Credit Rating Agency merely by preparing or providing credit assessments. Lenders, such as banks and credit card
+
+41
+
+GEN/VER67/03-25
+
+GENERAL (GEN)
+
+companies, use credit scores to evaluate the potential risk posed by lending money to consumers and to mitigate losses due to bad debt. Insurance companies, and government departments also employ the same techniques.
+
+2.28 Arranging Credit and Advising on Credit
+
+2.28.1 (1)
+
+In Rule 2.2.2, Arranging Credit and Advising on Credit means:
+
+(a)
+
+making arrangements for another Person, whether as principal or agent, to borrow money by way of a Credit Facility; or
+
+(b)
+
+giving advice to a Person in his capacity as a borrower or potential borrower or as agent for a borrower or potential borrower on the merits of his entering into a particular Credit Facility.
+
+(2)
+
+Advice in (1)(b) includes a statement, opinion or report:
+
+(a)
+
+where the intention is to

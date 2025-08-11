@@ -1,0 +1,79 @@
+;
+
+(c)
+
+Insurers that make a decision to go into run-off or to place a Cell or Long-Term Insurance Fund into run-off; and
+
+(d)
+
+Insurers whose permission to effect Contracts of Insurance in respect of their entire Insurance Business or in respect of the entire business of a Cell or Long-Term Insurance Fund is withdrawn by the Regulator.
+
+9.3.2
+
+If an Insurer takes a decision to go into run-off or to place a Cell or a Long-Term Insurance Fund into run-off, the Insurer must, at the same time as the notice referred to in Rule 9.2.2, provide the Regulator with a written run-off plan in respect of the Insurance Business being placed into run-off.
+
+46
+
+PIN VER07.290725
+
+9.3.3
+
+If the Regulator withdraws an Insurer's permission to effect Contracts of Insurance in respect of the Insurer's entire Insurance Business or the entire Insurance Business of a Cell or Long-Term Insurance Fund, the Insurer must, within twenty-eight days of the written notice of withdrawal of permission (or, if later, the period specified in that notice), provide the Regulator with a written run-off plan in respect of that Insurance Business.
+
+9.3.4 A run-off plan provided to the Regulator in accordance with this section must cover the period until all liabilities to policyholders relating to the Insurance Business in run-off are met and must include:
+
+(a)
+
+an explanation of how, or to what extent, all liabilities to policyholders will be met in full as they fall due;
+
+(b)
+
+an explanation of how, or to what extent, the Insurer will maintain its compliance liabilities to with the requirements of Chapter 4 until such time as all policyholders are met;
+
+(c)
+
+a description, appropriate to the scale and complexity of the Insurer's business, of the Insurer's business strategy;
+
+(d)
+
+financial projections showing, in a form appropriate to the scale and complexity of the Insurer's operations, the forecast financial position of the Insurer as at the end of each financial year during the period to which the runoff plan relates; and
+
+(e)
+
+an assessment of the sensitivity of the financial position of the Insurer to stress arising from realistic scenarios relevant to the circumstances of the Insurer.
+
+9.3.5 Where an Insurer's Insurance Business in run-off relates to a Cell or a Long-Term Insurance Fund of that Insurer, the run-off plan must deal with the matters set out in Rule 9.3.4 so far as they relate to that Cell or Long-Term Insurance Fund.
+
+9.3.6 An Insurer that has provided a written run-off plan to the Regulator must monitor the matters contained in the run-off plan and must notify the Regulator promptly and in writing of any significant departure from the run-off plan.
+
+Guidance
+
+An Insurer should decide whether a matter constitutes a significant departure from a run-off plan, having regard to the nature and size of the matter and its materiality relative to the size and complexity of the Insurer and, where relevant, the size and complexity of the Cell or Long-Term Insurance Fund concerned. The following matters will normally be considered as representing a significant departure from a run-off plan:
+
+a.
+
+significant revision of the Insurer's strategy for managing risks, and in particular its strategy for the use of reinsurance;
+
+b.
+
+a significant deterioration in the Insurer's claims experience, financial position or solvency position (the amount by which the Insurer's capital resources, determined in accordance with the provisions of Chapter 4 relevant to that
+
+47
+
+PIN VER07.290725
+
+Insurer, exceed the applicable minimum capital requirements set out in that Chapter); or
+
+c.
+
+any other transaction or circumstance that is likely to have a material effect upon the Insurer's solvency position.
+
+9.3.7 Where an Insurer has notified a matter to the Regulator in accordance with Rule 9.3.6, the Regulator may by notice in writing require the Insurer to provide an amended run-off plan. The Insurer must provide an amended run-off plan within twenty-eight days of receipt of the notice, unless the notice specifies a longer period.
+
+9.4
+
+Requirements for collateral for Insurers in run-off
+
+Guidance
+
+This section contains provisions that require an Insurer that is in run-off or going into run

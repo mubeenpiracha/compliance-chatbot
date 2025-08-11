@@ -1,0 +1,85 @@
+ the Regulator that the arrangements have the effect specified in (2) and are legally effective in ADGM and in the jurisdiction where the Real Property is situated.
+
+(4) Where, due to the nature of the Fund and the type of assets which it holds, it is neither practical nor proportionate to appoint an Eligible Custodian pursuant to the
+
+37
+
+FUNDS VER10.100625
+
+above, a Fund Manager may choose not to appoint an Eligible Custodian, provided that title to such assets is either registered in the name of the Fund or is registered in the name of a nominee company (provided that in this latter case (i) such nominee company declares that it holds title to such assets on trust for the Fund; and (ii) the Fund Manager, vis-à-vis the Fund, takes full responsibility for the acts and omission of such nominee company).
+
+Guidance
+
+In relation to Rule 12.3.3(4), examples of where it is likely to be neither practical nor proportionate for a Fund Manager to appoint an Eligible Custodian include where the Fund solely holds Real Property, or its strategy is solely that of a private equity, infrastructure or similar fund where the assets are highly illiquid.
+
+Trustee
+
+12.3.4
+
+A Person proposing to act as a Trustee does not breach the prohibition in Section 113(1) of FSMR merely by entering into a Trust Deed for the creation of an Investment Trust prior to obtaining a Financial Services Permission with the appropriate authorisations referred to in Section 114 of FSMR. However, that Person must not carry out functions under the Trust Deed prior to obtaining that Financial Services Permission.
+
+12.3.5
+
+In the case of an Investment Trust:
+
+(a)
+
+the Trustee of the Fund must hold the Fund Property on trust for the Unitholders and accordingly is responsible to the Unitholders for the safekeeping of the Fund Property;
+
+(b)
+
+The Trustee shall ensure that property of the Investment Trust is:
+
+(1)
+
+clearly identified as the property of that Investment Trust; and
+
+(2)
+
+held separately from any other property held by or entrusted to the Trustee.
+
+(c)
+
+the legal title of the Fund Property must be registered with the Trustee except in the case of a Property Fund investing in Real Property where the Trustee has made adequate alternative arrangements that are in accordance with Rule 12.3.3; and
+
+(d)
+
+the Trustee must not act on instructions of the Fund Manager in relation to the Fund Property if such instructions are not in accordance with the Trust Deed and the Prospectus.
+
+Guidance
+
+Rule 12.12 governs the power of a Trustee to delegate certain of its Regulated Activities, and to outsource its functions.
+
+Removal and retirement of the Trustee
+
+12.3.6
+
+(1) A Trustee may not retire, or be removed, except as provided in this Rule.
+
+38
+
+FUNDS VER10.100625
+
+(2) A Fund Manager of a Fund may, at the request of the Trustee or otherwise, and if it is of the view that the Trustee is unable to discharge its functions a Fund Manager shall, with the prior written approval of the Regulator, replace the existing Trustee.
+
+(3) The Regulator may grant approval for the replacement of a Trustee only where it has received:
+
+(a)
+
+a written notice from the Fund Manager of its intention to remove the Trustee and either:
+
+(i)
+
+a certification that the removal of the Trustee will not adversely affect the interests of the Unitholders and the Fund Manager's ability to comply with its obligations under the Trust Deed, Prospectus, these Rules and FSMR; or
+
+(ii)
+
+a Special Resolution of Unitholders approving the Fund Manager's proposal to remove the Trustee and its replacement with another Trustee; and
+
+(b)
+
+the written consent of the person who agrees to be the replacement Trustee, and that person meets the requirements for a Trustee in Section 114(2) of FSMR to be able to act as the replacement Trustee.
+
+(4) The Unitholders of the Investment Trust may replace the Trustee by Special Resolution.
+
+(5) The Regulator or the Fund Manager may apply to the Court for an order for the removal of the Trustee and any other appropriate orders including, but not limited to, the appointment of a replacement

@@ -1,0 +1,181 @@
+/separation of duties between Operational Risk control functions, business lines and support functions.
+
+Senior Management Responsibilities
+
+1.
+
+The GEN rules contain Rules and Guidance regarding senior management arrangements for Authorised Persons.
+
+2.
+
+In relation to establishing and maintaining a robust Operational Risk framework, an Authorised Person's senior management should:
+
+a.
+
+translate the Operational Risk management framework established by the Governing Body into specific policies and procedures that can be implemented and verified within the different business units;
+
+b.
+
+clearly assign authority, responsibility and reporting relationships to encourage and maintain accountability, and to ensure that the necessary resources are available to manage Operational Risk in line within the Authorised Person's risk appetite and tolerance; and
+
+c.
+
+ensure that the management oversight process is appropriate for the risks inherent in a business unit's activity.
+
+6.3
+
+Risk identification and assessment
+
+6.3.1
+
+An Authorised Person must:
+
+(a)
+
+ensure that it identifies and assesses the Operational Risks inherent in all the Authorised Person's products, activities, processes and systems;
+
+(b)
+
+ensure the inherent risks in (a) are understood by relevant Employees of the Authorised Person;
+
+(c)
+
+systematically track Operational Risk events and any financial impact associated with such events; and
+
+(d)
+
+ensure that the tracking in (c) is consistent with the Operational Risk event types described in the Basel III framework.
+
+Guidance
+
+1.
+
+An Authorised Person should record all Operational Risk events, including near misses and events which result in a positive financial outcome.
+
+188
+
+PRU VER17.290725
+
+2.
+
+These Rules complement related Rules in the GEN rules relating to risk management systems and controls. For example, GEN requires an Authorised Person to appoint an individual to advise its Governing Body and senior management as to risks.
+
+6.3.2
+
+An Authorised Person must ensure that its Operational Risk policy in Rule 6.2.1:
+
+(a)
+
+includes an approval process for all new products, activities, processes and systems; and
+
+(b)
+
+incorporates the requirement in Rule 6.3.1(a).
+
+Guidance
+
+1.
+
+An Authorised Person should have policies and procedures that address the process for review and approval of new products, activities, processes and systems. The review and approval process should include consideration of:
+
+a.
+
+inherent risks in any new product, service, or activity;
+
+b.
+
+resulting changes to the Authorised Person's Operational Risk profile, appetite and tolerance, including changes to the risk of existing products or activities;
+
+c.
+
+necessary controls, risk management processes, and risk mitigation strategies;
+
+d.
+
+residual risk;
+
+e.
+
+changes to relevant risk limits;
+
+f.
+
+procedures and metrics to measure, monitor, and manage the risk of the new product or activity; and
+
+g.
+
+appropriate infrastructure.
+
+investment
+
+in human resources and technology
+
+2.
+
+Tools that an Authorised Person may employ for identifying and assessing Operational Risk include:
+
+a.
+
+internal loss data collection and analysis;
+
+b.
+
+external data collection and analysis;
+
+c.
+
+risk assessments;
+
+d.
+
+business process mapping;
+
+e.
+
+risk and performance indicators; and
+
+f.
+
+scenario analysis.
+
+189
+
+PRU VER17.290725
+
+6.4
+
+Risk monitoring and reporting
+
+6.4.1
+
+An Authorised Person must:
+
+(a)
+
+regularly monitor material Exposures to Operational Risk losses;
+
+(b)
+
+ensure that appropriate reporting mechanisms are in place at its Governing Body, senior management, and business line levels to support effective management of the Authorised Person's Operational Risk; and
+
+(c)
+
+immediately notify the Regulator of any material Operational Risk event including notification of any resulting financial impact, positive or negative, associated with such event.
+
+Guidance
+
+1.
+
+The GEN rules require an Authorised Person or Recognised Body to establish and maintain arrangements to provide its Governing Body and senior management with the information necessary to organise and control its activities, to comply with legislation applicable in the ADGM and to manage risks.
+
+2.
+
+Rule 6.4.1 is intended to complement GEN and requires Authorised Persons to establish and maintain reporting mechanisms specifically addressing the Operational Risk matters.
+
+3.
+
+internal reporting of Operational Risks required by The frequency of Rule 6.4.1(b) should reflect the risks involved and the pace and nature of changes in the Authorised Person's operating environment.
+
+4.
+
+The following lists some of the items that an Authorised Person should consider including in its internal reporting of Operational Ris

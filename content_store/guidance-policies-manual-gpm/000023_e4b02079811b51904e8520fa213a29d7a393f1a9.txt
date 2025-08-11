@@ -1,0 +1,119 @@
+ this power could include where:
+
+(a)
+
+the individual is in breach of an obligation required by their Approved Person status;
+
+(b)
+
+the individual becomes bankrupt;
+
+(c)
+
+the individual is convicted of an offence or there is a finding against them that would be considered relevant to their integrity and honesty, or their ability to perform the relevant Controlled Function(s);
+
+(d)
+
+the individual becomes incapable, through mental or physical incapacity, of managing their affairs; or
+
+(e)
+
+the individual or the relevant firm asks us to withdraw the relevant status.
+
+In determining whether to exercise our power under section 46 of FSMR, we will have regard to all relevant matters including, but not limited to:
+
+(a)
+
+the criteria for assessing the fitness and propriety of an Approved Person as set out in GEN 5.2.9 and section 2.3 of GPM;
+
+Confidential
+
+39
+
+GPM VER06.020125
+
+(b)
+
+the commission of any offences or a finding involving dishonesty, fraud or a financial crime by the Approved Person;
+
+(c)
+
+whether other enforcement action should be taken, or has already been taken, against the Approved Person by us or by other enforcement agencies;
+
+(d)
+
+the particular Controlled Function the Approved Person is or was performing;
+
+(e)
+
+the nature and activities of the firm concerned;
+
+(f)
+
+the markets in which the firm operates; and
+
+(g)
+
+the severity of the risk that the individual poses to consumers and to confidence in the ADGM Financial System.
+
+We may also, upon the application of the relevant Authorised Person (section 47 of FSMR) or at our own initiative (section 48 of FSMR), vary the Approval of an Approved Person by:
+
+(a)
+
+imposing a condition or conditions on the grant of Approved Person status;
+
+(b)
+
+varying or removing a condition or conditions; or
+
+(c)
+
+limiting the period for which the Approval may have effect (only where the variation is on our initiative under section 48 of FSMR).
+
+There are various circumstances that may arise where we may exercise our own initiative
+
+power to vary the Approval of an Approved Person, including where:
+
+(a)
+
+the Approved Person has not exercised the expected level of skill, care and diligence in carrying out the Controlled Function(s);
+
+(b)
+
+the conduct of the Approved Person is inconsistent with the requirements and standards expected of a person in their role; or
+
+(c)
+
+we have concerns about the Approved Person’s ability or suitability to carry out the Controlled Function(s) as originally approved (but not such as to warrant the withdrawal of an Approved Person’s status on the basis of fitness or propriety pursuant to section 46 of FSMR as set out in paragraphs 5.6.1 and 5.6.2).
+
+5.7
+
+Power to give Directions to a Recognised Body or Remote Body
+
+FSMR section 132 empowers us to direct a Recognised Body or Remote Body to take certain steps to ensure compliance with the Recognition Requirements or Remote Recognition Requirements and our legislation.
+
+Those steps may include requiring the Recognised Body or Remote Body to take particular action or refrain from taking particular action. The steps may also include granting us access to the body’s premises for the purposes of inspecting those premises or any documents on the premises and the suspension of the carrying on of any activity by the Recognised Body or Remote Body for the period specified in the direction.
+
+Confidential
+
+40
+
+GPM VER06.020125
+
+We are likely to exercise our power in the circumstances set out in MIR. Though we are not required to do so under MIR, in most cases we will endeavour to contact the Recognised Body or Remote Body prior to issuing such a direction.
+
+5.8
+
+Other Supervisory Powers in relation to Recognised Bodies and Remote Bodies
+
+FSMR and Chapters 6 and 7 of MIR set out other powers we have in relation to Recognised Bodies and Remote Bodies, the procedures we will follow in doing so, and the factors we will take into consideration when deciding whether or not – and how – to exercise such powers.
+
+These powers include:
+
+(a)
+
+requiring a Recognised Body to do specified things, including closing the market, suspending transactions and prohibiting trading in Investments, pursuant to Part 14 of FSMR and Chapter 2 of MKT; and
+
+(b)
+
+supervision of a Recognised Body’s action in the case of a default, under their Default Rules pursuant to MIR 6.5.

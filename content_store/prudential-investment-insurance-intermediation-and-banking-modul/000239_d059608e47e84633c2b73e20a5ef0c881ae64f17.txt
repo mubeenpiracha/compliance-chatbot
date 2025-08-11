@@ -1,0 +1,57 @@
+, hedging and optionality.
+
+Scope of the internal IRC model
+
+2.
+
+The internal IRC model should cover all positions subject to a Capital Requirement for specific interest rate risk, including those subject to a 0% Specific Risk capital charge under Rule A5.2.13, but should not cover securitisation positions and n-th-to-default Credit Derivatives.
+
+362
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+3.
+
+The Authorised Firm may, subject to approval by the DFSA, choose to include consistently all listed equity positions and derivatives positions based on listed equities. The permission will be granted only if such inclusion is consistent with how the Authorised Firm internally measures and manages risk.
+
+Parameters of the internal IRC model
+
+4.
+
+Authorised Firms should use the internal model to calculate a number which measures losses due to default and internal or external ratings migration at the 99.9 % confidence interval over a time horizon of one year. Authorised Firms should calculate this number at least weekly.
+
+5.
+
+Correlation assumptions should be supported by analysis of objective data in a conceptually sound framework. The internal model should appropriately reflect issuer concentrations. Concentrations that can arise within and across product classes under stressed conditions should also be reflected.
+
+6.
+
+The internal IRC model should reflect the impact of correlations between default and migration events. The impact of diversification between, on the one hand, default and migration events and, on the other hand, other risk factors should not be reflected.
+
+7.
+
+The internal model should be based on the assumption of a constant level of risk over the one- year time horizon, implying that given individual Trading Book positions or sets of positions that have experienced default or migration over their liquidity horizon are re-balanced at the end of their liquidity horizon to attain the initial level of risk. Alternatively, an Authorised Firm may choose to consistently use a one-year constant position assumption.
+
+8.
+
+The liquidity horizons should be set according to the time required to sell the position or to hedge all material relevant price risks in a stressed market, having particular regard to the size of the position. Liquidity horizons should reflect actual practice and experience during periods of both systematic and idiosyncratic stresses. The liquidity horizon should be measured under conservative assumptions and should be sufficiently long that the act of selling or hedging, in itself, would not materially affect the price at which the selling or hedging would be executed.
+
+9.
+
+The determination of the appropriate liquidity horizon for a position or set of positions is subject to a floor of three months.
+
+10.
+
+The determination of the appropriate liquidity horizon for a position or set of positions should take into account an Authorised Firm's internal policies relating to valuation adjustments and the management of stale positions. When an Authorised Firm determines liquidity horizons for sets of positions rather than for individual positions, the criteria for defining sets of positions should be defined in a way that meaningfully reflects differences in liquidity. The liquidity horizons should be greater for positions that are concentrated, reflecting the longer period needed to liquidate such positions. The liquidity horizon for a securitisation warehouse should reflect the time to build, sell and securitise the assets, or to hedge the material risk factors, under stressed market conditions.
+
+Recognition of hedges in the internal IRC model
+
+11. Hedges may be incorporated into an Authorised Firm's internal model to capture the incremental default and migration risks. Positions may be netted when long and short positions refer to the same financial instrument. Hedging or diversification effects associated with long and short positions involving different instruments or different securities of the same obligor, as well as long and short positions in different issuers, may only be recognised by explicitly modelling gross long and short positions in the different instruments. Authorised Firms should reflect the impact of material risks that could occur during the interval between the hedge's maturity and the liquidity horizon as well as the potential for significant basis risks in hedging strategies by product, seniority in the capital structure, internal or external rating, maturity, vintage and other differences in the instruments. An Authorised Firm should reflect a hedge only to the extent that it can be maintained even as the obligor approaches a credit or other event. 363
+
+PIB/VER50/07-25
+
+A5.9.3
+
+PRUD

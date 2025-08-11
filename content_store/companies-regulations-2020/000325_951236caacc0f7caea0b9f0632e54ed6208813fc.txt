@@ -1,0 +1,129 @@
+ symbols (including accents and other diacritical marks) that are permitted, and
+
+(b)
+
+permitting or requiring the delivery of documents in which names and addresses have not been transliterated into a permitted form.
+
+981. Transliteration of names and addresses: voluntary transliteration into Roman characters
+
+(1) Where a name or address is or has been delivered to the Registrar in a permitted form using Arabic, or another form other than Roman characters, the company (or other
+
+42 Amended 9 September 2024
+
+546
+
+body) to which the document relates shall deliver to the Registrar a transliteration into Roman characters.
+
+(2)
+
+The power of the Registrar to impose requirements as to the form and manner of delivery includes power to impose requirements as to the identification of the original document and the delivery of the transliteration in a form and manner enabling it to be associated with the original.
+
+982. Transliteration of names and addresses: certification
+
+The Registrar may require the certification of transliterations and prescribe the form of certification.
+
+Supplementary provisions
+
+983. Registrar’s requirements as to certification or verification
+
+(1) Where a document required or authorised to be delivered to the Registrar under any
+
+applicable law or regulation is required–
+
+(a)
+
+to be certified as an accurate translation or transliteration, or
+
+(b)
+
+to be certified as a correct copy or verified,
+
+the Registrar may impose requirements as to the person, or description of person, by whom the certificate or verification is to be given.
+
+(2)
+
+The power conferred by section 942 (Registrar’s requirements as to form, authentication and manner of delivery) is exercisable in relation to the certificate or verification as if it were a separate document.
+
+(3)
+
+Requirements imposed under this section must not be inconsistent with requirements imposed by any law or regulation applicable in the Abu Dhabi Global Market with respect to the certification or verification of the document concerned.
+
+984. General false statement contravention
+
+(1)
+
+It is a contravention of these Regulations for a person knowingly or recklessly–
+
+(a)
+
+to deliver or cause to be delivered to the Registrar, for any purpose of these Regulations, a document, or
+
+(b)
+
+to make to the Registrar, for any such purpose, a statement,
+
+that is misleading, false or deceptive in a material particular.
+
+(2)
+
+A person who commits the contravention referred to in subsection (1) is liable to a fine of up to level 7.
+
+985. Enforcement of company’s filing obligations
+
+(1)
+
+This section applies where a company has made default in complying with any obligation under these Regulations–
+
+(a)
+
+to deliver a document to the Registrar, or
+
+(b)
+
+to give notice to the Registrar of any matter.
+
+547
+
+(2)
+
+The Registrar, or any member or creditor of the company, may give notice to the company requiring it to comply with the obligation.
+
+(3)
+
+If the company fails to make good the default within 14 days after service of the notice, the Registrar, or any member or creditor of the company, may apply to the Court for an order directing the company, and any specified officer of it, to make good the default within a specified time.
+
+(4)
+
+The Court’s order may provide that all costs of or incidental to the application are to be borne by the company or by any officers of it responsible for the default.
+
+(5)
+
+This section does not affect the operation of any law or regulation applicable in the Abu Dhabi Global Market imposing a fine for the default.
+
+986. Application of provisions about documents and delivery
+
+(1)
+
+In this Part–
+
+(a)
+
+“document” means information recorded in any form, and
+
+(b)
+
+references to delivering a document include forwarding, lodging, registering, sending, producing or submitting it or (in the case of a notice) giving it.
+
+(2)
+
+Except as otherwise provided, this Part applies in relation to the supply to the Registrar of information otherwise than in documentary form as it applies in relation to the delivery of a document.
+
+987. Supplementary provisions relating to electronic communications
+
+(1)
+
+Registrar’s rules may require a company (or other body) to give any necessary consents to the use of electronic means for communications by the Registrar to the company (or other body) as a condition of making use of any facility to deliver material to the Registrar by electronic means.
+
+(2)
+
+A document that is required to be signed or certified (including under section 965) or otherwise authenticated

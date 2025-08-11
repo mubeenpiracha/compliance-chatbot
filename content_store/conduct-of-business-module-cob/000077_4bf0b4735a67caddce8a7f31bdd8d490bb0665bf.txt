@@ -1,0 +1,183 @@
+ Operator must:
+
+(a)
+
+have sufficient supervise the facility it operates; and
+
+technology resources
+
+to operate, maintain and
+
+(b)
+
+ensure that its members and other participants on its facility have sufficient technology resources which are compatible with its own.
+
+(2)
+
+For the purposes of meeting the requirement in (1)(b), an ATS Operator must have adequate procedures and arrangements for the evaluation, selection and on-going monitoring of Such information procedures and arrangements must, at a minimum, provide for:
+
+technology systems.
+
+(a)
+
+problem management and system change;
+
+(b)
+
+adequate procedures for testing information technology systems before live operations, which are in conformity with the requirements that would apply to an Authorised Market Institution under App 1 of AMI;
+
+(c)
+
+monitoring and reporting on system performance, availability and integrity; and
+
+(d)
+
+adequate measures to ensure:
+
+(i)
+
+the information technology systems are resilient and not prone to failure;
+
+(ii)
+
+business continuity in the event that an information technology system fails; and
+
+(iii)
+
+the integrity of data forming part of, or being processed through, information technology systems.
+
+Guidance
+
+1.
+
+In assessing the adequacy of an ATS Operator’s systems and controls used to operate and carry on its functions, the DFSA will consider:
+
+a.
+
+the organisation, management and resources of department of the firm;
+
+the
+
+information
+
+technology
+
+b.
+
+the arrangements for controlling and documenting the design, development, implementation and use of technology systems; and
+
+c.
+
+the performance, capacity and reliability of information technology systems.
+
+2.
+
+The DFSA will also, during its assessment of technology systems, have regard to the:
+
+a.
+
+procedure for the evaluation and selection of information technology systems;
+
+b.
+
+procedures for problem management and system change;
+
+113
+
+COB/VER48/03-25
+
+CONDUCT OF BUSINESS (COB)
+
+c.
+
+arrangements for testing information technology systems before live operations;
+
+d.
+
+arrangements to monitor and report system performance, availability and integrity;
+
+e.
+
+arrangements made to ensure information technology systems are resilient and not prone to failure;
+
+f.
+
+arrangements made to ensure business continuity in the event that an information technology system fails;
+
+g.
+
+arrangements made to ensure the integrity of data forming part of, or being processed through, information technology systems; and
+
+h.
+
+third party outsourcing arrangements.
+
+3.
+
+In particular, when assessing whether an ATS Operator has adequate information technology resourcing, the DFSA will consider:
+
+a.
+
+whether its systems have sufficient electronic capacity to accommodate reasonably foreseeable volumes of messaging and orders, and
+
+b.
+
+whether such systems are adequately scalable in emergency conditions that might threaten the orderly and proper operations of its facility.
+
+4.
+
+Additional requirements to manage cyber risk apply to an ATS Operator under GEN section 5.5.
+
+Regular review of systems and controls
+
+9.5.2
+
+(1)
+
+An ATS Operator must undertake regular review and updates of its systems and controls as appropriate to the nature, scale and complexity of its operations.
+
+(2)
+
+For the purposes of (1), an ATS Operator must adopt well defined and clearly documented development and testing methodologies which are in line with internationally accepted testing standards.
+
+Guidance
+
+Through the use of such testing methodologies, the ATS Operator should be able to ensure, amongst other things, that:
+
+a.
+
+its systems and controls are compatible with its operations and functions;
+
+b.
+
+compliance and risk management controls embedded in its system operate as intended (for example by generating error reports automatically); and
+
+c.
+
+it can continue to work effectively in stressed market conditions.
+
+9.6 Proper Markets
+
+9.6.1
+
+(1) Without limiting the generality of the other requirements in this chapter, an ATS Operator must, for the purposes of meeting the requirement in Rule 9.2.1(e) relating to Proper Markets, ensure that:
+
+114
+
+COB/VER48/03-25
+
+9.6.2
+
+CONDUCT OF BUSINESS (COB)
+
+(a)
+
+if Derivatives are traded on its facilities, such Derivatives meet the contract design specifications in AMI Rule 6.3.2;
+
+(b)
+
+relevant market information is made available to Persons engaged in dealing on an equitable basis, including pre-trade and post-trade orders, in accordance with Rules 9.6.2 and 9.6.3;
+
+(c)
+
+there are adequate mechanisms to discontinue, suspend or remove from trading on its facilities any Investments or

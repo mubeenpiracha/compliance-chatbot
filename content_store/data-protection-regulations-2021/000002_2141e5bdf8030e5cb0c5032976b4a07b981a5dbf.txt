@@ -1,0 +1,99 @@
+ against and the prevention of threats to national security.
+
+3.
+
+Territorial scope
+
+(1) These Regulations apply to the Processing of Personal Data in the context of the activities of an Establishment of a Controller or a Processor in ADGM, regardless of whether the Processing takes place in ADGM or not.
+
+(2) Where the Processor is Processing Personal Data for a Controller outside of ADGM, the Processor must comply with the requirements of these Regulations to the extent possible, taking into account whether the Controller is subject to similar obligations under the laws of its home jurisdiction.
+
+(3) These Regulations apply to natural persons whatever their nationality or place of residence.
+
+(4) During the period commencing on the effective date of Cabinet of Ministers’ Resolution No. (41) of 2023 and ending on 31 December 2024, these Regulations shall not apply to any person conducting economic, commercial or professional activity from a permanent establishment located within the geographical area of Al Reem Island, provided that if such person becomes registered or licensed to operate or conduct any activity within the ADGM or becomes individually exempted therefrom, he shall be considered an ‘Establishment’ under these Regulations and cease to be exempt from the application of the Regulations.
+
+6
+
+PART II Principles
+
+4.
+
+Principles relating to Processing of Personal Data
+
+(1) Personal Data must be:
+
+(a)
+
+Processed lawfully, fairly and in a transparent manner in relation to the Data Subject;
+
+(b)
+
+collected for specified, explicit and legitimate purposes and not further Processed in a manner that is incompatible with those purposes;
+
+(c)
+
+adequate, relevant and limited to what is necessary in relation to the purposes for which they are Processed;
+
+(d)
+
+accurate and, where necessary, kept up to date; every reasonable step must be taken to ensure that Personal Data that is inaccurate, having regard to the purposes for which they are Processed, is erased or rectified without delay;
+
+(e)
+
+kept in a form which permits identification of Data Subjects for no longer than is necessary for the purposes for which the Personal Data is Processed; and
+
+(f)
+
+Processed in a manner that ensures appropriate security of the Personal Data, including protection against unauthorised or unlawful Processing and against accidental loss, destruction or damage, using appropriate technical or organisational measures.
+
+(2) The Controller is responsible for, and must be able to demonstrate compliance with,
+
+section 4(1).
+
+(3) Where Personal Data is Processed for Archiving and Research Purposes;
+
+(a)
+
+this Processing is deemed to be compatible with the initial purposes for which the Personal Data was collected as required by section 4(1)(b); and
+
+(b)
+
+it may be stored for longer periods than stated in section 4(1)(e) provided appropriate technical and organisational measures are used to safeguard the rights of the Data Subject.
+
+5.
+
+Lawfulness of Processing
+
+(1) Processing is lawful only if and to the extent that:
+
+(a)
+
+the Data Subject has given Consent to the Processing of their Personal Data for one or more specific purposes;
+
+(b)
+
+Processing is necessary for the performance of a contract to which the Data Subject is a party or in order to take steps at the request of the Data Subject prior to entering into a contract;
+
+(c)
+
+Processing is necessary for compliance with a legal obligation to which the Controller is subject under Applicable Law;
+
+7
+
+(d)
+
+Processing is necessary to protect the vital interests of the Data Subject or of another natural person;
+
+(e)
+
+Processing is necessary for the performance of a task carried out by a public authority in the interests of ADGM, or in the exercise of (i) ADGM’s; (ii) the Financial Services Regulatory Authority’s; (iii) the ADGM Court’s; or (iv) the Registration Authority’s functions or in the exercise of official authority vested in the Controller under Applicable Law; or
+
+(f)
+
+Processing is necessary for the purposes of the legitimate interests pursued by the Controller or by a Third Party, except where such interests are overridden by the interests or rights of the Data Subject which require protection of Personal Data, in particular where the Data Subject is a Child.
+
+(2) Section 5(1)(f) does not apply if Processing is necessary for any of the purposes
+
+described in section 5(1)(e).
+
+(3) For the purposes of section 4(1)(b) the Controller must, in order to ascertain whether Processing for

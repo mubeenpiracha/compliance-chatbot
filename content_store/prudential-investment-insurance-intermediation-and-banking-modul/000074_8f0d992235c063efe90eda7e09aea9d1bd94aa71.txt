@@ -1,0 +1,79 @@
+ of Rules 4.12.7 and 4.12.8, an Authorised Firm must conduct the external ratings appropriately and that
+
+due diligence conservatively reflect the creditworthiness of the bank counterparty.
+
+to ensure
+
+(2)
+
+If the due diligence analysis reflects higher risk characteristics than implied by the Credit Quality Grade, the Authorised Firm must assign a risk weight at least one grade higher than the risk weight determined by the external rating.
+
+4.12.10 (1) An Authorised Firm must classify Exposures to banks for which an external credit assessment by a recognised external credit rating agency is not available as Grade A, Grade B or Grade C in accordance with the following principles:
+
+(a) where the bank has adequate capacity to meet its financial commitments in a timely manner for the projected life of the assets or exposures and irrespective of the economic cycles and business conditions, it may be classified Grade A. A counterparty bank classified into Grade A must meet or exceed the published minimum regulatory requirements and buffers (excluding liquidity standards) established by its national supervisor as implemented in the jurisdiction where it is incorporated or established, except for bank-specific minimum financial regulatory requirements or buffers that may be imposed through supervisory actions and not made public. If such minimum financial regulatory requirements (other than bank-specific minimum regulatory requirements or buffers) are not publicly disclosed or otherwise made available by the counterparty bank, then the counterparty bank must be classified as Grade B or lower;
+
+(b) where the counterparty bank is subject to substantial credit risk, such as repayment capacities that are dependent on stable or favourable economic or business conditions, it may not be classified higher than Grade B. A counterparty bank classified as Grade B must meet or exceed the published minimum regulatory capital requirements (excluding buffers and liquidity standards) established by its national supervisor as implemented in the jurisdiction where it is incorporated or established, except for bank-specific minimum financial regulatory requirements that may be imposed through supervisory actions and are not made public. If such minimum regulatory requirements are not publicly disclosed or otherwise made available by the counterparty bank then the counterparty bank must be classified as Grade C;
+
+(c) where the counterparty bank has material default risks and limited margins of safety, it must be classified Grade C. For this purpose a counterparty bank has material default risk and limited margins of safety where adverse business, financial or economic conditions are very likely
+
+112
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+to lead, or have led, to an inability to meet its financial commitments. At a minimum, if any of the following triggers is breached, an Authorised Firm must classify the Exposure as Grade C:
+
+(i)
+
+the counterparty bank does not meet the criteria for being classified as Grade B with respect to its published minimum regulatory requirements; or
+
+(ii) where the audited financial statements are required, the external auditor has issued an adverse audit opinion or has expressed substantial doubt about the counterparty bank’s ability to continue as going concern in its financial statements or audited reports within the previous 12 months.
+
+(2) An Authorised Firm must, subject to (3), (4) and (5), risk-weight any Exposure to a bank for which an external credit assessment by a recognised external credit rating agency is not available in accordance with the following table.
+
+Credit Risk Assessment Risk Weight
+
+Grade A
+
+40%
+
+Grade B
+
+75%
+
+Grade C
+
+150%
+
+(3) An Authorised Firm may risk-weight any Exposure to a bank classified as Grade
+
+A at 30% if that bank has:
+
+(a) a Common Equity Tier 1 ratio which meets or exceeds 14%; and
+
+(b) a Tier 1 leverage ratio which meets or exceeds 5%.
+
+(4) An Authorised Firm may risk-weight any Exposure to a bank for which an external credit assessment by a recognised external credit rating agency is not available in accordance with the following table if the Exposure:
+
+(a) has an original maturity of three months or less; or
+
+(b) has an original maturity of six months or less and arises from the
+
+movement of goods across national borders.
+
+Credit Risk Assessment Risk Weight
+
+Grade A
+
+20%
+
+Grade B
+
+50%
+
+Grade C
+
+150%
+
+(5) Notwithstanding paragraphs (2) to (4), the risk weight assigned to any Exposure to a bank for which an external credit assessment by a recognised

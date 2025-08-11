@@ -1,0 +1,81 @@
+ reasonable steps to ensure that its Credit Ratings are well founded and are based on a fair and thorough analysis of all relevant information which is reasonably known or available to the Credit Rating Agency.
+
+Principle 2 – Independence and conflicts of interest
+
+A Credit Rating Agency must take all reasonable steps to ensure that its decisions relating to Credit Ratings are independent and free from political or economic pressures and not affected by conflicts of interest arising due to its ownership structure or business or other activities or conflicts of interest of its Employees.
+
+Principle 3 – Transparency and disclosure
+
+A Credit Rating Agency must take all reasonable steps to ensure that it conducts its Credit Rating Activities in a transparent and responsible manner.
+
+Guidance
+
+Acting in a responsible manner means that a Credit Rating Agency undertakes the level of due diligence and care expected of an entity undertaking similar business in conducting its Credit Rating Activities. What is reasonable would depend on the nature, scale and complexity of its operations, including models and methodologies it has adopted in order to formulate Credit Ratings.
+
+Quality of the rating process
+
+Policies and procedures
+
+(1)
+
+A Credit Rating Agency must adopt, implement and enforce policies, procedures and controls that are adequate to ensure that:
+
+(a)
+
+its Credit Ratings are based on a thorough and fair analysis of all the Relevant Information;
+
+(b)
+
+it has clearly defined methodologies and models for the purposes of preparing and reviewing Credit Ratings; and
+
+(c)
+
+its Rating Analysts, in preparing and reviewing Credit Ratings, adhere to the relevant methodologies and models adopted by the Credit Rating Agency, including any updates of such methodologies and models.
+
+(2)
+
+For the purposes of (1)(a), Relevant Information is information which is:
+
+(a)
+
+reasonably known or available to the Credit Rating Agency; and
+
+(b)
+
+required, pursuant to the established rating methodologies and models adopted by the Credit Rating Agency.
+
+(3)
+
+For the purposes of (1)(c), a Rating Analyst means an Employee of a Credit Rating Agency who performs analytical functions in relation to the preparation or review of a Credit Rating.
+
+90
+
+COB/VER48/03-25
+
+8.3.2
+
+CONDUCT OF BUSINESS (COB)
+
+(4)
+
+A Credit Rating Agency must have adequate mechanisms to monitor whether its policies, procedures and controls are implemented in such a way so as to ensure that they operate, on an on-going basis, effectively and as intended.
+
+Guidance
+
+Application to Groups and Branches
+
+1. Where a Credit Rating Agency is a member of a Group, the Credit Rating Agency may rely on the policies, procedures and controls adopted at the group-wide level. Where this is the case, the Credit Rating Agency should ensure that the group-wide policies, procedures and controls are consistent with the requirements applicable to it and do not constrain its ability to comply with the applicable requirements in the DIFC. 2.
+
+1. Where a Credit Rating Agency is a member of a Group, the Credit Rating Agency may rely on the policies, procedures and controls adopted at the group-wide level. Where this is the case, the Credit Rating Agency should ensure that the group-wide policies, procedures and controls are consistent with the requirements applicable to it and do not constrain its ability to comply with the applicable requirements in the DIFC. In the case of Branch operations, the DFSA will only grant an authorisation to conduct the Financial Service of Operating a Credit Rating Agency where it is satisfied with the adequacy of the home jurisdiction regulation of the relevant legal entity.
+
+Considerations set out in Guidance No 1 and 2 are equally relevant to the other requirements applicable to CRAs which are set out in this chapter.
+
+Periodic review
+
+4.
+
+A Credit Rating Agency should ensure that there is a formal and rigorous periodic review (at least annually) of the effectiveness of its systems and controls, including the methodologies and models it uses, to ensure that they remain effective and adequate in light of factors such as changing market conditions and practices and matters that have a material impact on the users of Credit Ratings.
+
+5.
+
+Such a review should be carried out by individuals who are not involved in the day-to-day management or operations of the Credit Rating Agency. Taking into account the nature, scale and complexity of its business, a Credit Rating Agency may undertake such a review through a designated function at the group-wide level, or using external consultants. The DFSA expects the findings of such a review to be made available to the Governing Body and the senior management of the Credit Rating Agency

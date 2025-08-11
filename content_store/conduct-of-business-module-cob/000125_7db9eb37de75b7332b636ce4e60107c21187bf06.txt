@@ -1,0 +1,147 @@
+.8.1 are those set out in section 15.7 and for an MTF Operator the requirement in Rule 14.2.3(4) that applies by virtue of Rule 15.2.1 and for an Authorised Firm that holds or controls Client Crypto Tokens, the requirement in Rule 14.3.3 that applies by virtue of Rule 15.4.2.
+
+194
+
+COB/VER48/03-25
+
+CONDUCT OF BUSINESS (COB)
+
+APP1
+
+RECORDS OF ORDERS AND TRANSACTIONS
+
+A1.1 Minimum contents of transaction records
+
+Receipt of client order or discretionary decision to transact
+
+A1.1.1 An Authorised Firm must, pursuant to Rule 6.7.4(1), make a record of the following:
+
+(a)
+
+the identity and account number of the Client;
+
+(b)
+
+the date and time in the jurisdiction in which the instructions were received or the decision was taken by the Authorised Firm to deal;
+
+(c)
+
+the identity of the Employee who received the instructions or made the decision to deal;
+
+(d)
+
+the Investment or Crypto Token, including the number of or its value and any price limit; and
+
+(e)
+
+whether the instruction relates to a purchase or sale.
+
+Executing a transaction
+
+A1.1.2 An Authorised Firm must, pursuant to Rule 6.7.4(2), make a record of the following:
+
+(a)
+
+the identity and account number of the Client for whom the Transaction was Executed, or an indication that the Transaction was an Own Account Transaction;
+
+(b)
+
+the name of the counterparty;
+
+(c)
+
+the date and time in the jurisdiction in which the Transaction was Executed;
+
+(d)
+
+the identity of the Employee executing the Transaction;
+
+(e)
+
+the Investment or Crypto Token, including the number of or its value and price; and
+
+(f)
+
+whether the Transaction was a purchase or a sale.
+
+Passing a client order to another person for execution
+
+A1.1.3 An Authorised Firm must, pursuant to Rule 6.7.4(3), make a record of the following:
+
+(a)
+
+the identity of the Person instructed;
+
+(b)
+
+the terms of the instruction; and
+
+(c)
+
+the date and time that the instruction was given.
+
+195
+
+COB/VER48/03-25
+
+CONDUCT OF BUSINESS (COB)
+
+APP2 KEY INFORMATION AND CLIENT AGREEMENT
+
+A2.1 Key Information and content of the Client Agreement
+
+General
+
+A2.1.1 The key information which an Authorised Firm is required to provide to a Client and include in the Client Agreement with that Client pursuant to Rule 3.3.2 must include:
+
+(a)
+
+the core information set out in:
+
+(i)
+
+Rule A2.1.2 (1) if it is a Retail Client; and
+
+(ii)
+
+Rule A2.1.2(2) if it is a Professional Client;
+
+(b)
+
+where relevant, the additional information required under Rule A2.1.3 for Investment Business and Rule A2.1.4 for Investment Management;
+
+(c)
+
+the additional terms set out in Rules A2.1.5 and A2.1.6 if the Client Agreement relates to the use of a Crowdfunding Platform;
+
+(d)
+
+the additional terms set out in Rule A2.1.7 if the Client Agreement relates to Providing Money Services or Arranging or Advising on Money Services; and
+
+(e)
+
+the additional terms and information set out in Rule A2.1.8 if the Client Agreement relates to Providing Custody of Crypto Tokens.
+
+Core information
+
+A2.1.2 (1)
+
+In the case of a Retail Client, the core information for the purposes of A2.1.1(a) is:
+
+(a)
+
+the name and address of the Authorised Firm, and if it is a Subsidiary, the ultimate Holding Company;
+
+the name and address of
+
+(b)
+
+the regulatory status of the Authorised Firm;
+
+(c)
+
+when and how the Client Agreement is to come into force and how the agreement may be amended or terminated;
+
+(d)
+
+sufficient details of the service that the Authorised Firm will provide, including where relevant, information about any product or other restrictions applying to the Authorised Firm in the provision of its services and how such restrictions impact on the service offered by the Authorised Firm. If there are no such restrictions,

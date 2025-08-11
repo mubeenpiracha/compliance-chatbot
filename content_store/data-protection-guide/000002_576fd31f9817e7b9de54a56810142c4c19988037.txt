@@ -1,0 +1,87 @@
+. Processed for specified, explicit and legitimate purposes in accordance with the Data Subject's rights and not further Processed in a way incompatible with those purposes or rights
+
+7.5 The Data Controller must be open about their reasons for obtaining Personal Data, and that what they undertake with the information is in line with the reasonable expectations of the individuals concerned. In practice, the Data Controller must:
+
+a) be clear from the outset about why they are collecting Personal Data and what they intend to
+
+do with it;
+
+b) comply with the Data Protection Regulation’s fair processing requirements – including the duty
+
+to give privacy notices to individuals when collecting their Personal Data; and
+
+c) ensure that if they wish to use or disclose the Personal Data for any purpose that is additional
+
+to or different from the originally specified purpose, the new use or disclosure is fair.
+
+Principle 3. Adequate, relevant and not excessive in relation to the purposes for which they are collected or further Processed
+
+7.6 The Data Controller must only collect the Personal Data that they need for the purposes that have been specified. They are also required to ensure that the Personal Data they collect is sufficient for the purpose for which it was collected. In practice, it means that the Data Controller should ensure that:
+
+a) they hold Personal Data about an individual that is sufficient for the purpose they are holding it
+
+for in relation to that individual; and
+
+b) they do not hold more information than they need for that purpose.
+
+Principle 4. Accurate and, where necessary, kept up to date
+
+7.7 To comply with this requirement, the Data Controller should:
+
+a) take reasonable steps to ensure the accuracy of any Personal Data they obtain;
+
+b) ensure that the source of any Personal Data is clear;
+
+c) carefully consider any challenges to the accuracy of information; and
+
+d) consider whether it is necessary to update the information.
+
+Office of Data Protection, Registration Authority
+
+Page 6 of 15
+
+Data Protection Guide
+
+Principle 5. Kept in a form, which permits identification of Data Subjects for no longer than is necessary for the purposes for which the Personal Data were collected or for which they are further Processed
+
+7.8 The Data Controller is required to retain Personal Data no longer than is necessary for the purpose that they obtained it for. They are expected to ensure that Personal Data is disposed of when no longer needed to reduce the risk that it will become inaccurate, out of date or irrelevant. In practice, it means that Data Controllers will need to:
+
+a) review the length of time that Personal Data is kept;
+
+b) consider the purpose or purposes they should hold the information for in deciding whether (and
+
+for how long) to retain it;
+
+c) securely delete information that is no longer needed for this purpose or these purposes; and
+
+d) update, archive or securely delete information if it goes out of date.
+
+8. Requirements for Legitimate Processing of Personal Data2
+
+8.1 The conditions for processing Personal Data are set out in the Data Protection Regulations. At least one of the following conditions must be met whenever the Data Controller processes Personal Data:
+
+a) The Data Subject has given his written consent to the Processing of that Personal Data;
+
+b) Processing is necessary for the performance of a contract to which the Data Subject is party or in order to take steps at the request of the Data Subject prior to entering into a contract;
+
+c) Processing is necessary for compliance with any regulatory or legal obligation to which the Data
+
+Controller is subject;
+
+d) Processing is necessary in order to protect the vital interests of the Data Subject;
+
+e) Processing is necessary for the performance of a task carried out in the interests of the ADGM or in the exercise of the Board's, the Court's, the Registrar's or the Regulator's functions or powers vested in the Data Controller or in a Third Party to whom the Personal Data are disclosed; or
+
+f) Processing is necessary for the purposes of the legitimate interests pursued by the Data Controller or by the Third Party to whom the Personal Data are disclosed, except where such interests are overridden by compelling legitimate interests of the Data Subject relating to the Data Subject's particular situation.
+
+2 Section 2 of the ADGM Data Protection Regulations 2015.
+
+Office of Data Protection, Registration Authority
+
+Page 7 of 15
+
+Data Protection Guide
+
+9. Requirements for Processing Sensitive Personal Data3
+
+9.1

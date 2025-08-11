@@ -1,0 +1,153 @@
+ Fund is established or domiciled.
+
+Home Jurisdiction
+
+In relation to a Fund, the Jurisdiction in which the Fund is established or domiciled.
+
+2
+
+FPR/VER1/02-19
+
+Host Jurisdiction
+
+Host Regulator
+
+Jurisdiction
+
+Licensed Person
+
+Passported Fund
+
+Person
+
+Promote
+
+Promoted
+
+Promotion
+
+Promoting
+
+Private Fund
+
+Public Fund
+
+Qualified Investor
+
+FUND PROTOCOL RULES (FPR)
+
+In relation to a Passported Fund, a Jurisdiction into which the Passported Fund may be Promoted under these Rules.
+
+In relation to a Passported Fund, the Authority in the Jurisdiction into which the Fund may be Promoted (Host Jurisdiction) under these Rules.
+
+The UAE (excluding the Financial Free Zones), the Dubai International Financial Centre or the Abu Dhabi Global Market.
+
+A Person who is licensed or otherwise authorised by an Authority to Promote Funds.
+
+A Domestic Fund Jurisdiction’s Register of Passported Funds.
+
+that
+
+is registered on
+
+its Home
+
+Any natural person, body unincorporated, unincorporated association, government or state.
+
+corporate or body including a company, partnership,
+
+The marketing and sale of units of a Passported Fund to investors domiciled in the UAE by means of any form of communication including a direct or indirect public offering or private placement performed by:
+
+(a) the Fund Manager;
+
+(b) an Agent; or
+
+(c) any other Licensed Person.
+
+In this definition “sale” includes any arranging, dealing and advising activities in relation to the units.
+
+A Domestic Fund where:
+
+(a) the initial subscription paid by a Person to become a
+
+Unitholder of the Fund is no less than $50,000; and
+
+(b) participation in the Fund is restricted to Unitholders
+
+who are Qualified Investors.
+
+A Domestic Fund where:
+
+(a) Units of the Fund are offered to Persons in any of the
+
+Jurisdictions by way of a public offer; or
+
+(b) any Unitholder of the Fund is a Retail Client.
+
+Any Person who is either a:
+
+3
+
+FPR/VER1/02-19
+
+FUND PROTOCOL RULES (FPR)
+
+(a) "Deemed" Qualified Investor;
+
+(b) "Service-based" Qualified Investor; or
+
+(c) "Assessed" Qualified Investor.
+
+"Deemed" Qualified Investor
+
+A Person is a "deemed" Qualified Investor if the Person falls within any of the following paragraphs and has not opted to be classified as a Retail Client:
+
+(a) a supranational organisation whose members are either countries, central banks or national monetary authorities;
+
+(b) a properly constituted government, government agency, central bank or other national monetary authority of any country or jurisdiction;
+
+(c) a public authority or state investment body;
+
+(d) an investment exchange or a clearing house that is authorised by an Authority or a financial services regulator outside the UAE;
+
+(e) a Person who is authorised to carry on a financial service by an Authority or by a financial services regulator;
+
+(f) the management company of a regulated pension
+
+fund;
+
+(g) a Person which, as at the date of its most recent financial statements, met at least two of the following requirements:
+
+(i) a balance sheet total of US$20 million;
+
+(ii) a net annual turnover of US$40 million; or
+
+(iii) own funds or called up capital of at least US$2
+
+million,
+
+or, in each case, equivalent amounts in another currency;
+
+(h) a Collective Investment Fund or a regulated pension
+
+fund;
+
+(i) a body corporate whose shares are listed or admitted to trading on any exchange of an IOSCO member country;
+
+(j) any other institutional investor whose main activity is to invest in financial instruments, including an entity dedicated to the securitisation of assets or other financial transactions;
+
+(k) a trustee of a trust which has, or had during the least
+
+previous
+
+twelve months, assets of at
+
+4
+
+FPR/VER1/02-19
+
+FUND PROTOCOL RULES (FPR)
+
+US$10,000,000, or an equivalent amount in another currency. An individual trustee on the board of such a trust is only a "deemed" Qualified Investor in relation to that particular trust;
+
+(l) a single family office with respect to its activities carried on exclusively for the purposes of, and only in so far as it is, carrying out its duties as a single family

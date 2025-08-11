@@ -1,0 +1,95 @@
+ Funding Ratio .............................................................................. 419
+
+APP11 SUPERVISORY REVIEW AND EVALUATION PROCESS .................................. 429
+
+A11.1 IRAP ........................................................................................................................ 429 A11.2 ICAAP ..................................................................................................................... 431 A11.3 Supervisory Review and Evaluation Process (SREP) ......................................... 433
+
+APP12 PUBLIC DISCLOSURE REQUIREMENTS ........................................................... 437
+
+v
+
+PRU VER17.290725
+
+1
+
+APPLICATION, INTERPRETATION AND CATEGORISATION
+
+1.1
+
+Application
+
+1.1.1
+
+(1) Subject to (2), these Rules apply to every Authorised Person where its Financial Services Permission authorises it to carry on one or more of the Regulated Activities listed in 1.3.1(a), 1.3.2(a), 1.3.3(1)(a), 1.3.4(a), 1.3.5(a), 1.3.6(a) or 1.3.7(a).
+
+(2)
+
+In respect of a Fund Manager that:
+
+(a) manages only Venture Capital Funds; or
+
+(b)
+
+(i) manages only Venture Capital Funds; and
+
+(ii)
+
+undertakes one or both of the Regulated Activities of Advising on Investments or Credit and Arranging Deals in Investments where those activities are restricted to co- investments in assets in which a Venture Capital Fund managed by the Authorised Person has invested or will invest;
+
+only the requirements under Sections 2.3 and 6.12 apply.
+
+(3)
+
+These Rules apply to an Authorised Person in accordance with both its status as a Domestic Firm or as a Branch and, secondly, its Category as determined under Section 1.3.
+
+(4) Where a Chapter, Part or Section of these Rules applies to a limited scope of Categories of Authorised Person, the term "Authorised Person" used in those provisions is to be read accordingly.
+
+(5)
+
+These Rules apply to the whole business of an Authorised Person except in relation to Client Assets and Insurance Money that are held or controlled by an Authorised Person which are not included in any prudential calculation.
+
+Guidance
+
+1.
+
+The effect of Rule 1.1.1(1) is that these Rules apply to all Authorised Persons, except those that are Insurers, Representative Offices or Credit Rating Agencies. In the case of Insurers, those firms that are authorised to effect or carry out Contracts of Insurance should instead refer to the PIN Rulebook.
+
+2.
+
+Rule 1.1.1(2) does not apply to an Authorised Person where its Financial Services Permission authorises it to carry on one or both of the Regulated Activities of Advising on Investments or Credit and Arranging Deals in Investments where those activities are not restricted to co-investments in assets in which a Venture Capital Fund managed by the Authorised Person has invested or will invest.
+
+1
+
+PRU VER17.290725
+
+3.
+
+These Rules apply to Authorised Persons classified as Domestic Firms and to those Authorised Persons conducting Regulated Activities through a Branch in ADGM.
+
+4.
+
+These Rules reinforce the fitness and propriety requirements for Authorised Persons found in GEN 3 – Management, Systems and Controls and Principle 3. These Rules are comprised of the following:
+
+a. an initial Chapter establishing a categorisation of firms for the application
+
+of these Rules;
+
+b. two general Chapters detailing overall Requirements and Capital and Leverage;
+
+requirements: General
+
+c. six Chapters detailing specific requirements relating to the following particular risk types: Credit Risk, Market Risk, Operational Risk, interest rate risk in the Non-Trading Book, Group Risk and Liquidity Risk;
+
+d. a Chapter imposing processes for risk self-assessment by Authorised
+
+Persons and supervisory assessment by the Regulator; and
+
+e. a final Chapter imposing public disclosure requirements.
+
+5. With regards to Authorised Persons carrying on Islamic Financial Business, there are additional matters that should be included in their report to the Regulator which are in the Islamic Finance Rulebook (IFR) (see IFR rules).
+
+6.
+
+To assist Authorised Persons two tables are provided that set out the application of these Rules to Domestic Firms (Application Table A) and Branches (Application Table B), based on the different Categories of Authorised Persons. These tables are for guidance purposes only.
+
+2

@@ -1,0 +1,133 @@
+ Fund Manager by the Fund’s Constitution.
+
+Every officer, employee or agent of the Fund Manager shall:
+
+(a)
+
+not make improper use of information acquired through being such an officer, employee or agent of the Fund Manager in order to:
+
+(i)
+
+gain an advantage for himself or another person; or
+
+10
+
+(ii)
+
+cause detriment to Unitholders in the Fund;
+
+(b)
+
+not make improper use of his position as such an officer, employee or agent to gain, directly or indirectly, an advantage for himself or for any other person or to cause detriment to the Unitholders in the Fund;
+
+(c)
+
+comply with any other duty or obligation as may be prescribed by or under this Law or any other legislation administered by the DFSA; and
+
+(d)
+
+carry out or comply with any other duty, not inconsistent with any DIFC Law, that is conferred on him by the Fund’s Constitution.
+
+(4)
+
+A Fund Manager shall take reasonable steps to ensure that its officers, employees and agents comply with their obligations referred to in Article 22(3).
+
+23.
+
+Trustee’s duties and functions
+
+The Trustee of an Investment Trust shall carry out its functions and duties in respect of the Fund in accordance with this Law, the Investment Trust Law 2006 and any rules made for the purposes of these laws.
+
+24.
+
+General powers including delegations and outsourcing
+
+(1)
+
+A Fund Manager of a Domestic Fund shall have all the powers that are required or necessary for it to carry out its functions and discharge its duties as set out under the Fund’s Constitution and the most recent Prospectus in accordance with this Law, any other DFSA administered law, or rules made for the purposes of those laws.
+
+(2)
+
+A Fund Manager may, subject to any restriction in the Domestic Fund’s Constitution and subject to any Rules made for the purposes of this Article, delegate any of its activities or outsource any of its functions, to another person (a “service provider”).
+
+(3) Where the Fund Manager delegates an activity or outsources a function, the Fund Manager remains responsible to Unitholders for any acts or omissions of the service provider as if they were the acts or omissions of the Fund Manager even where the service provider acted fraudulently or outside the scope of its authority or engagement.
+
+Chapter 4: Retirement or removal of the Fund Manager
+
+25.
+
+Retirement or removal of a Fund Manager
+
+(1)
+
+A Fund Manager may voluntarily retire as the Fund Manager of a Domestic Fund only where:
+
+(a)
+
+a replacement Fund Manager has been appointed to the Fund in accordance with the requirements in this Law and Rules made for the purposes of this Law; or
+
+(b)
+
+upon an application made by the Fund Manager or Trustee of the Fund to a Court, the Court has appointed a temporary Fund Manager to the Fund.
+
+11
+
+(2)
+
+(3)
+
+(4)
+
+The DFSA, a Unitholder or a Trustee of a Domestic Fund may make an application to a Court for the removal of the Fund Manager where the Fund Manager:
+
+(a)
+
+no longer meets the requirements of this Law or the Rules; or
+
+(b)
+
+engages, or has engaged in, any activities that may constitute misconduct, default or breach of any duty of the Fund Manager.
+
+The Court may, upon application made under Article 25(2), make one or more of the following orders:
+
+(a)
+
+an order for the appointment of a temporary Fund Manager;
+
+(b)
+
+an order for the winding up of the Fund pursuant to this Law; or
+
+(c)
+
+any other order as the Court considers just and equitable and in the interests of the Fund and of its Unitholders.
+
+The DFSA shall make Rules prescribing the manner and circumstances in which the Unitholders may approve the appointment of a new Fund Manager, or seek a Court order for the replacement of the existing Fund Manager or any other matter relevant or necessary to give effect to the provisions in this Article.
+
+12
+
+PART 4: ESTABLISHMENT AND OPERATION OF DOMESTIC FUNDS
+
+Chapter 1: Requirements applicable to all Domestic Funds
+
+26.
+
+Permitted form of a Domestic Fund
+
+(1) Every Domestic Fund shall be one of the following:
+
+(a)
+
+an Investment Company;
+
+(b)
+
+an Investment Partnership; or
+
+(c)
+
+an Investment Trust.
+
+(2)
+
+In Article 26(1)(a), an Investment Company includes a Protected Cell Company or an Incorporated Cell of an Incorporated Cell Company

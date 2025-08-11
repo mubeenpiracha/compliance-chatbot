@@ -1,0 +1,105 @@
+ does not, before the proposed date of entry into force of the changes, notify the Payment Service Provider to the contrary, the Payment Service Provider must inform the Payment Service User that:
+
+(a)
+
+the Payment Service User will be deemed to have accepted the changes communicated to it under Rule 19.2.4; and
+
+(b)
+
+the Payment Service User has the right to terminate the Framework Contract without charge at any time before the proposed date of their entry into force.
+
+19.2.6 Changes in exchange rates may be applied immediately and without notice where:
+
+(a)
+
+such a right is agreed under the Framework Contract and any such changes in exchange rates are based on the Reference Exchange Rate information which has been provided to the Payment Service User in accordance with Rule 19.2.1; or
+
+(b)
+
+the changes are more favourable to the Payment Service User.
+
+124
+
+COBS VER19.290725
+
+19.2.7 Any change in the exchange rate used in Payment Transactions must be implemented and calculated in a neutral manner that does not discriminate collectively against Payment Service Users.
+
+Termination of a Framework Contract
+
+19.2.8 The Payment Service User may terminate the Framework Contract at any time unless the
+
+parties have agreed on a period of notice not exceeding one month.
+
+19.2.9 Any charges for the termination of the Framework Contract must not exceed the actual
+
+costs to the Payment Service Provider of termination.
+
+19.2.10 The Payment Service Provider may not charge the Payment Service User for the termination of a Framework Contract after the Framework Contract has been in force for six months.
+
+19.2.11 The Payment Service Provider may terminate a Framework Contract concluded for an indefinite period by giving at least two months’ notice, if the Framework Contract so provides.
+
+Information prior to execution of individual Payment Transaction under a Framework Contract
+
+19.2.12 Where an individual Payment Transaction under a Framework Contract is initiated by the Payer, at the Payer’s request the Payer’s Payment Service Provider must provide the Payer with a breakdown of all charges payable by the Payer in respect of the Payment Transaction.
+
+Information for the Payer on individual Payment Transactions under a Framework Contract
+
+19.2.13 The Payer’s Payment Service Provider under a Framework Contract must provide to the Payer the following information in respect of each Payment Transaction at least once per month free of charge:
+
+(a)
+
+a reference enabling the Payer to identify the Payment Transaction and, where appropriate, information relating to the Payee;
+
+(b)
+
+the amount of the Payment Transaction in the currency in which the Payer’s Payment Account is debited or in the currency used for the Payment Order;
+
+(c)
+
+the amount of any charges for the Payment Transaction and, where applicable, a breakdown of the amounts of such charges, or the interest payable by the Payer;
+
+(d)
+
+where applicable, the exchange rate used in the Payment Transaction by the Payer’s Payment Service Provider and the amount of the Payment Transaction after that currency conversion; and
+
+(e)
+
+the Debit Value Date or the date of receipt of the Payment Order.
+
+125
+
+COBS VER19.290725
+
+Information for the Payee on individual Payment Transactions under a Framework Contract
+
+19.2.14 The Payee’s Payment Service Provider under a Framework Contract must provide to the Payee the following information in respect of each Payment Transaction at least once per month free of charge:
+
+(a)
+
+a reference enabling the Payee to identify the Payment Transaction and the Payer, and any information transferred with the Payment Transaction;
+
+(b)
+
+the amount of the Payment Transaction in the currency in which the Payee’s Payment Account is credited;
+
+(c)
+
+the amount of any charges for the Payment Transaction and, where applicable, a breakdown of the amounts of such charges;
+
+(d)
+
+where applicable, the exchange rate used in the Payment Transaction by the Payee’s Payment Service Provider, and the amount of the Payment Transaction before that currency conversion; and
+
+(e)
+
+the Credit Value Date.
+
+Charges for information under a Framework Contract
+
+19.2.15 A Payment Service Provider may not charge for providing or making available information which is required to be provided or made available under the provisions of Section 19.2.
+
+19.2.16 The Payment Service Provider and the Payment Service User may agree on charges for any information which is provided at the request of the Payment Service User where such information is:
+
+(a)
+
+additional to the information required to be provided or made

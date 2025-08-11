@@ -1,0 +1,181 @@
+ purpose of meeting claims on events/risk covered under the Takaful contracts.
+
+Partner
+
+Means, in relation to an Undertaking which is a Partnership, a Person occupying the position of a partner, by whatever name called.
+
+Partnership
+
+Means any partnership, including a partnership constituted under the law of a country, jurisdiction or territory outside ADGM, but not including a Limited Liability Partnership.
+
+58
+
+GLO VER23.290725
+
+Defined Terms
+
+Passported Fund
+
+Payee
+
+Payer
+
+Payment Account
+
+Payment Account Provider
+
+Payment Initiation Service Provider
+
+Payment Instrument
+
+Payment Order
+
+Payment Service Provider
+
+Payment Service User
+
+Payment Services
+
+Payment Transaction
+
+Person
+
+Personal Account Transaction
+
+Definitions
+
+Means a Fund that is registered on its Home Jurisdiction’s Register of Passported Funds.
+
+Has the meaning given in section 258 of FSMR.
+
+Has the meaning given in section 258 of FSMR.
+
+Has the meaning given in section 258 of FSMR.
+
+Has the meaning given in section 258 of FSMR.
+
+Means a person that initiates a Payment Order at the request of a Payment Service User with respect to a Payment Account held at another Payment Service Provider.
+
+Has the meaning given in section 258 of FSMR.
+
+Means any instruction by a Payer or a Payee to their respective Payment Service Provider requesting the execution of a Payment Transaction.
+
+Has the meaning given in section 258 of FSMR.
+
+Means a Person who makes use of Payment Services in the capacity of Payer, Payee, or both.
+
+Has the meaning given in section 258 of FSMR.
+
+Means an act initiated by the Payer or Payee, or on behalf of the Payer, of placing, transferring or withdrawing Money, irrespective of any underlying obligations between the Payer and Payee.
+
+Means a person and includes any Natural Person, Body Corporate or body unincorporated, including a Legal Person, company, Partnership, unincorporated association, government or state.
+
+Means a transaction undertaken by an Employee of an Authorised Person in an Investment, other than:
+
+(a)
+
+a transaction in a government or public Security;
+
+(b)
+
+a transaction in a life policy; or
+
+(c)
+
+a discretionary transaction if there is no prior communication with the Employee and the discretion is not exercised by the Authorised Person.
+
+59
+
+GLO VER23.290725
+
+Defined Terms
+
+Personalised Security Credentials
+
+Persons Undertaking Key Control Functions
+
+Petroleum
+
+Petroleum Exploration Reporting Entity
+
+Petroleum Production Reporting Entity
+
+Petroleum Project
+
+Petroleum Reporting Entity
+
+Petroleum Reporting Standard
+
+Petroleum Reserves
+
+Definitions
+
+Means personalised features provided by:
+
+(a)
+
+a Payment Service Provider to a Payment Service User for the purposes of authentication of the identity of the Payment Service User; or
+
+(b)
+
+a Third Party Provider to a Customer for the purposes of authentication of the identity of the Customer.
+
+Means persons undertaking compliance, anti-money laundering, risk management, internal audit and similar control functions.
+
+Means a naturally occurring mixture consisting of hydrocarbons in the gaseous, liquid or solid phase. Petroleum may also contain non- hydrocarbon compounds. Common examples of non-hydrocarbon compounds included in petroleum are carbon dioxide, nitrogen, hydrogen sulphide and sulphur.
+
+Means a Petroleum Reporting Entity:
+
+(a)
+
+whose main undertaking consists of Exploration Petroleum; or
+
+(b)
+
+which has been advised by the Regulator that it is a Petroleum Exploration Reporting Entity for the purposes of MKT.
+
+Means a Petroleum Reporting Entity:
+
+(a)
+
+whose main undertaking consists of the Extraction of Petroleum; or
+
+(b)
+
+which has been advised by the Regulator that it is a Petroleum Production Reporting Entity for the purposes of MKT.
+
+Has the meaning given to ‘project’ in the PRMS.
+
+Means a Petroleum Exploration Reporting Entity or a Petroleum Production Reporting Entity.
+
+Means a standard of reporting under the PRMS.
+
+Means those quantities of Petroleum anticipated to be commercially recoverable by application of development Petroleum Projects to known accumulations from a given date forward under defined conditions. Petroleum reserves must satisfy four criteria: they must be discovered, recoverable, commercial and remaining based on the development project(s) applied.
+
+for
+
+60
+
+GLO VER23.290725
+
+Defined Terms
+
+Petroleum Resources
+
+Petroleum Resources Management System (PRMS)
+
+Petroleum Tenement
+
+PFP Client
+
+PFP Operator
+
+PFP Prospect
+
+Policy Benefit
+
+Politically Exposed Person (PEP)
+
+Pooling Event
+
+Possible Reserves

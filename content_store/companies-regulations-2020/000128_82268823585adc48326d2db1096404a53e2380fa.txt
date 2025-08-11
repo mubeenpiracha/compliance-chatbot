@@ -1,0 +1,155 @@
+-entity only if it occurs in two consecutive financial years.
+
+(4)
+
+The qualifying conditions are met by a company in a year in which it satisfies both of the following requirements–
+
+1. Turnover
+
+not more than 2.5 million US dollars
+
+2. Number of employees
+
+not more than 9
+
+(5)
+
+For a period that is a company’s financial year but not in fact a year the maximum figures for turnover must be proportionately adjusted.
+
+(6)
+
+The number of employees means the average number of persons employed by the company in the year, determined as follows–
+
+(a)
+
+find for each month in the financial year the number of persons employed under contracts of service by the company in that month (whether throughout the month or not),
+
+(b)
+
+add together the monthly totals, and
+
+(c)
+
+divide by the number of months in the financial year.
+
+(7)
+
+In the case of a company which is a parent company, the company qualifies as a micro- entity in relation to a financial year only if–
+
+228
+
+(a)
+
+the company qualifies as a micro-entity in relation to that year, as determined by subsections (1) to (7), and
+
+(b)
+
+the group headed by the company qualifies as a small group, as determined by section 369(2) to (6).
+
+374. Companies excluded from being treated as micro-entities
+
+(1)
+
+The micro-entity provisions do not apply in relation to a company’s accounts for a particular financial year if the company was at any time within that year a company excluded from the small companies regime by virtue of section 371 (companies excluded from the small companies regime).
+
+(2)
+
+The micro-entity provisions also do not apply in relation to a company’s accounts for a financial year if –
+
+(a)
+
+the company is a parent company which prepares group accounts for that year as permitted by section 388 (option to prepare group accounts), or
+
+(b)
+
+the company is not a parent company but its accounts are included in consolidated group accounts for that year.
+
+CHAPTER 2
+
+ACCOUNTING RECORDS
+
+375. Duty to keep accounting records
+
+(1)
+
+Every company must keep adequate accounting records.
+
+(2)
+
+Adequate accounting records means records that are sufficient–
+
+(a)
+
+to show and explain the company’s transactions,
+
+(b)
+
+to disclose with reasonable accuracy, at any time, the financial position of the company at that time, and
+
+(c)
+
+to enable the directors to ensure that any accounts required to be prepared comply with the requirements of these Regulations.
+
+(3)
+
+Accounting records must, in particular, contain records and underlying documents comprising initial and other accounting entries and associated supporting documents such as:–
+
+(a)
+
+cheques;
+
+(b)
+
+records of electronic fund transfers;
+
+(c)
+
+invoices;
+
+(d)
+
+contracts;
+
+(e)
+
+the general and subsidiary ledgers, journal entries and other adjustments to the financial statements that are not reflected in journal entries;
+
+(f)
+
+work sheets and spread sheets supporting cost allocations, computations, reconciliations and disclosures; and
+
+229
+
+(g)
+
+a record of the assets and liabilities of the company.
+
+(4)
+
+If the company’s business involves dealing in goods, the accounting records must contain–
+
+(a)
+
+statements of stock held by the company at the end of each financial year of the company,
+
+(b)
+
+all statements of stocktakings from which any statement of stock as is mentioned in subsection (4)(a) has been or is to be prepared, and
+
+(c)
+
+except in the case of goods sold by way of ordinary retail trade, statements of all goods sold and purchased, showing the goods and the buyers and sellers in sufficient detail to enable all these to be identified.
+
+(5)
+
+A parent company that has a subsidiary undertaking in relation to which the above requirements do not apply must take reasonable steps to secure that the undertaking keeps such accounting records as to enable the directors of the parent company to ensure that any accounts required to be prepared under this Part comply with the requirements of these Regulations.
+
+376. Duty to keep accounting records: contravention
+
+(1)
+
+If a company fails to comply with any provision of section 375 (duty to keep accounting records), a contravention of these Regulations is committed by every officer of the company who is in default.
+
+(2)
+
+A person does not commit the contravention referred to in subsection (1) if he shows that he acted honestly and that in the circumstances in which the company’s business was carried on the default was exc

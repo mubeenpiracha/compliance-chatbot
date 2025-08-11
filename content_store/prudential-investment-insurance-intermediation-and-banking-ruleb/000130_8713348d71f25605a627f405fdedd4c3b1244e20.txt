@@ -1,0 +1,143 @@
+ulator may engage with a firm in Categories 1, 2, 3A and 5 in a dialogue where, following an SREP, the Regulator considers that it is or may be appropriate to impose an Individual Capital Requirement on the firm.
+
+3.
+
+It is important that a firm cooperates in an open and co-operative manner with the Regulator in the course of its conduct of the dialogue.
+
+10.6
+
+Imposition of an Individual Capital Requirement
+
+10.6.1
+
+(1)
+
+This Section applies to an Authorised Person in Category 1, 2, 3A or 5.
+
+(2)
+
+The Regulator may, subject to (3) and (4), at any time by written notice to an Authorised Person:
+
+(a)
+
+impose an Individual Capital Requirement; or
+
+(b)
+
+vary or withdraw an Individual Capital Requirement.
+
+(3)
+
+The Regulator may act under (2) on its own initiative where the Regulator forms the view that the Capital Requirement of the Authorised Person is insufficient to address adequately all its risks.
+
+(4)
+
+The Regulator will, where prescribing an Individual Capital Requirement, also specify in the notice the types and amounts of Capital Resources required to meet the Individual Capital Requirement.
+
+(5)
+
+If the Regulator decides to exercise its power under (2) after a Financial Services Permission has been granted, the Authorised Person may refer the matter to the Court for review.
+
+10.6.2
+
+An Authorised Person must have and maintain, at all times, minimum Capital Resources of the types and amounts specified in the notice issued to it under Rule 10.6.1 to meet its Individual Capital Requirement.
+
+231
+
+PRU VER17.290725
+
+11
+
+DISCLOSURE REQUIREMENTS
+
+Introduction
+
+Guidance
+
+1.
+
+This Chapter specifies the disclosures required to be made by an Authorised Person to enable market participants and potential Counterparties to exercise market discipline in relation to the firm. Chapter 11 applies to banks, principal dealers and Islamic banks and specifies the disclosure requirements for such firms.
+
+2.
+
+App12 provides a detailed list of disclosure requirements for Authorised Persons to which this Chapter applies.
+
+11.1
+
+Application and general obligation of disclosure
+
+Guidance
+
+The purpose of the requirements in this Chapter is to ensure that minimum public disclosures are made available to market participants to assist them in forming an opinion on the risk profile and capital adequacy of an Authorised Person. The Regulator expects an Authorised Person to convey its actual risk profile to market participants.
+
+11.1.1
+
+An Authorised Person in Category 1, 2 or 5 must make the disclosures as prescribed in this Chapter.
+
+11.1.2
+
+(1)
+
+An Authorised Person which is a member of a Financial Group must, subject to (2), ensure that the disclosures specified in App12 are made at Financial Group level.
+
+(2)
+
+An Authorised Person which is a Subsidiary of
+
+(a)
+
+a Financial Institution; or
+
+(b)
+
+another Authorised Person which is in Category 1, 2 or 5;
+
+which is already subject to equivalent public disclosure requirements, does not need to comply with the requirements in this Chapter to the extent that it meets those equivalent public disclosure requirements.
+
+11.2
+
+Disclosure policy
+
+11.2.1
+
+An Authorised Person must implement and maintain a written disclosure policy that:
+
+(a)
+
+sets out the firm's approach for determining which of the disclosures set out in App12 it needs to make;
+
+(b)
+
+details the processes and procedures and its internal controls in relation to such disclosure;
+
+232
+
+PRU VER17.290725
+
+(c)
+
+details the medium for disclosure that most appropriately meets the purposes of this Chapter; and
+
+(d)
+
+is approved by the Governing Body of the firm.
+
+11.2.2
+
+An Authorised Person must ensure that appropriate verification, whether internal or external, is performed in relation to any disclosure, and take all reasonable steps to ensure its accuracy and timeliness.
+
+11.2.3
+
+To the extent that any required disclosure is substantially similar to a disclosure required of the Authorised Person under the International Financial Reporting Standards, a disclosure under such standards must be taken to meet the requirement for disclosure under this Chapter.
+
+11.3
+
+Disclosure frequency, locations and process
+
+Frequency
+
+11.3.1
+
+(1)
+
+The disclosures set out in this Chapter must be made by the

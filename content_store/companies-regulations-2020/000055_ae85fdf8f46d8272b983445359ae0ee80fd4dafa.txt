@@ -1,0 +1,125 @@
+109
+
+(b)
+
+“employee” shall be read as if a director of a company were employed by it.
+
+136.
+
+Interests to be disregarded: employer’s rights of recovery under pension scheme or employees’ share scheme
+
+(1) Where shares in a company are held on trust for the purposes of a pension scheme or employees’ share scheme, there shall be disregarded for the purposes of section 134 (subsidiary acting as personal representative or trustee) any charge or lien on, or set-off against, any benefit or other right or interest under the scheme for the purpose of enabling the employer or former employer of a member of the scheme to obtain the discharge of a monetary obligation due to him from the member.
+
+(2)
+
+In this section “pension scheme” means a scheme for the provision of benefits consisting of or including relevant benefits for or in respect of employees or former employees.
+
+“Relevant benefits” here means any pension, lump sum, gratuity or other like benefit given or to be given on retirement or on death or in anticipation of retirement or, in connection with past service, after retirement or death.
+
+(3)
+
+In this section “employer” and “employee” shall be read as if a director of a company were employed by it.
+
+137. Subsidiary acting as authorised dealer in securities
+
+(1)
+
+The prohibition in section 133 (prohibition on subsidiary being a member of its holding company) does not apply where the shares are held by the subsidiary in the ordinary course of its business as an intermediary.
+
+(2)
+
+For this purpose a person is an intermediary if he–
+
+(a)
+
+carries on a bona fide business of dealing in Securities and Derivatives,
+
+(b)
+
+is a member of or has access to a recognised investment exchange, and
+
+(c)
+
+does not carry on an excluded business.
+
+(3)
+
+The following are excluded businesses–
+
+(a)
+
+a business that consists wholly or mainly in the making or managing of investments,
+
+(b)
+
+a business that consists wholly or mainly in, or is carried on wholly or mainly for the purposes of, providing services to persons who are connected with the person carrying on the business,
+
+(c)
+
+a business that consists in insurance business,
+
+(d)
+
+a business that consists in managing or acting as trustee in relation to a pension scheme, or that is carried on by the manager or trustee of such a scheme in connection with or for the purposes of the scheme,
+
+(e)
+
+a business that consists in Managing a Collective Investment Fund, Acting as the Administrator of a Collective Investment Fund or Acting as the Trustee of an Investment Trust, or that is carried on by a person carrying on any of those Regulated Activities in connection with and for the purposes of the relevant Collective Investment Fund.
+
+110
+
+(4)
+
+For the purposes of this section–
+
+(a)
+
+“insurance business” means business that consists in Effecting Contracts of Insurance or Carrying Out Contracts of Insurance as Principal, and
+
+(aa)
+
+"managing of investments" means the Regulated Activity of Managing Assets.
+
+138. Protection of third parties in other cases where subsidiary acting as dealer in securities
+
+(1)
+
+This section applies where–
+
+(a)
+
+a subsidiary that is a dealer in securities has purportedly acquired shares in its holding company in contravention of the prohibition in section 133 (prohibition on subsidiary being a member of its holding company), and
+
+(b)
+
+a person acting in good faith has agreed, for value and without notice of the contravention, to acquire shares in the holding company–
+
+(i)
+
+from the subsidiary, or
+
+(ii)
+
+from someone who has purportedly acquired the shares after their disposal by the subsidiary.
+
+(2)
+
+A transfer to that person of the shares mentioned in subsection (1)(a) has the same effect as it would have had if their original acquisition by the subsidiary had not been in contravention of the prohibition.
+
+139. Application of provisions to companies not limited by shares
+
+In relation to a company other than a company limited by shares, the references in this Chapter to shares shall be read as references to the interest of its members as such, whatever the form of that interest.
+
+140. Application of provisions to nominees
+
+The provisions of this Chapter apply to a nominee acting on behalf of a subsidiary as to the subsidiary itself.
+
+111
+
+PART 9
+
+EXERCISE OF MEMBERS’ RIGHTS
+
+Effect of provisions in company’s articles
+
+141. Effect of provisions of articles as to enjoyment or exercise of

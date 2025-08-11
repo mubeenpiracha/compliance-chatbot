@@ -1,0 +1,189 @@
+E∗ = max{0;∑Ei −∑Ci i
+
+i
+
++ 0.4 ∙ net exposure + 0.6 ∙
+
+gross exposure
+
+√N
+
++∑(Efx ∙ Hfx)
+
+FX
+
+}
+
+where:
+
+Ei =
+
+fair value of all cash lent and non-cash posted Collateral
+
+Ci =
+
+fair value of all cash borrowed and non-cash received Collateral
+
+net exposure = |∑ESHS
+
+|
+
+S
+
+gross exposure = ∑ES
+
+|HS|
+
+S
+
+ES =
+
+net fair value of each security issuance under the Netting Set (always a positive value)
+
+HS = haircut appropriate to ES, determined in accordance with Rule A4.3.5 (HS has a positive (negative) sign if the security is posted (received)
+
+N =
+
+the number of security issues contained in the Netting Set (except that issuance where the value of ES is less than one tenth of the value of the largest ES in the Netting Set are not included in the count)
+
+Efx =
+
+the absolute value of the net position in each currency fx different from the settlement currency
+
+272
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+Hfx =
+
+haircut appropriate for currency mismatch of currency fx, calculated in accordance with Rule 4.13.13
+
+(2) An Authorised Firm may only recognise Netting across positions in the Trading Book and the Non-Trading Book if the netted transactions fulfil the following conditions:
+
+(i)
+
+all transactions are marked to market daily; and
+
+(ii)
+
+the Collateral used in the transactions are recognised as eligible financial Collateral in accordance with section 4.13.
+
+A4.3.4 For the purpose of Rule A4.3.3, a qualifying bilateral netting agreement is a netting
+
+agreement with a Counterparty which:
+
+(a) provides the non-defaulting party the right to terminate and close out in a timely manner all transactions under the agreement upon an event of default, including in the event of insolvency or bankruptcy of the counterparty;
+
+(b) provide for the netting of gains and losses on transactions (including the value of any Collateral) terminated and closed out under it so that a single net amount is owed by one party to the other;
+
+(c)
+
+allow for the prompt liquidation or set-off of Collateral upon the event of default; and
+
+(d)
+
+is legally enforceable in each relevant jurisdiction upon the occurrence of an event of default and regardless of the counterparty’s insolvency or bankruptcy.
+
+A4.3.5 For the purpose of Rules A4.3.2 and A4.3.3, an Authorised Firm must use the supervisory haircuts set out in the table below (assuming daily remargining or revaluation and a ten-business day holding period) to determine the haircuts to the Collateral, He, and to the Exposure, Hc.
+
+Eligible Financial Collateral
+
+Supervisory Haircut
+
+Issue Rating for Debt Securities
+
+Residual Maturity
+
+Sovereigns
+
+Other Issuers
+
+Securitisation Exposure
+
+≤ 1 year
+
+0.5
+
+1
+
+2
+
+Any debt security with a Credit Quality Grade of 1 or short- term Credit Quality Grade of “I”
+
+> 1 year, ≤ 3 years
+
+> 3 years, ≤ 5 years
+
+> 5 years, ≤ 10 years
+
+2
+
+4
+
+3
+
+4
+
+6
+
+8
+
+16
+
+> 10 years
+
+12
+
+≤ 1 year
+
+1
+
+2
+
+4
+
+273
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+2-3 (long- and short-term) and unrated bank securities (as defined in Rule 4.13.5(1)(d))
+
+> 1 year, ≤ 3 years
+
+> 3 years, ≤ 5 years
+
+> 5 years, ≤ 10 years
+
+3
+
+6
+
+4
+
+6
+
+12
+
+12
+
+24
+
+> 10 years
+
+20
+
+Any debt security with a Credit Quality Grade of 4
+
+All
+
+15
+
+Not eligible
+
+Not eligible
+
+Any

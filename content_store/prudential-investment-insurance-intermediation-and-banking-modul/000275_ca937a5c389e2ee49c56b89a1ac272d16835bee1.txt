@@ -1,0 +1,117 @@
+ Exposures) for the total rated and unrated credit Exposures after taking into account the effects of Credit Risk mitigation.
+
+Table 5 – Credit Risk mitigation disclosures
+
+Qualitative Disclosures
+
+(a) A description of the following items with respect to Credit Risk mitigation:
+
+(i)
+
+policies and procedures for, and an indication of the extent to which the Authorised Firm makes use of, on-balance sheet Netting;
+
+(ii) policies and procedures for Collateral valuation and management;
+
+(iii)
+
+the main types of Collateral taken by the Authorised Firm;
+
+(iv)
+
+the main types of guarantor or Credit Derivative Counterparty and their creditworthiness; and
+
+(v)
+
+information about Market Risk or Credit Risk concentrations within the mitigation taken
+
+Quantitative Disclosures
+
+(b) For each separately disclosed asset class, the extent to which credit Exposures are covered by eligible financial Collateral, after the application of haircuts.
+
+(c) For each separately disclosed asset class, the amount by which credit
+
+Exposures have been reduced by eligible credit protection.
+
+Table 6 - General disclosures for Exposures related to Counterparty Credit Risk
+
+Qualitative Disclosures
+
+(a) A description of the following items in relation to Counterparty Credit Risk:
+
+(i) methodologies used to assign economic capital and credit limits for
+
+Counterparty credit Exposures;
+
+(ii) policies for securing Collateral and establishing credit reserves;
+
+(iii) policies with respect to Exposures that give rise to general or specific
+
+wrong-way risk; and
+
+(iv)
+
+impact of the amount of Collateral the Authorised Firm would have to provide given a credit rating downgrade.
+
+Quantitative Disclosures
+
+(b) (i) Gross positive fair value of transactions, Netting benefits, netted
+
+current credit Exposure, and amount and type of Collateral held;
+
+418
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+(ii)
+
+the total CCR Exposure value calculated under Rule 4.14A.2; and
+
+(iii) The notional value of Credit Derivative hedges, and the distribution of
+
+current credit Exposure by types of credit Exposure.
+
+(c ) Credit Derivative transactions that create Exposures to Counterparty Credit Risk (notional value), segregated between use for the credit portfolio of the Authorised Firm and the intermediation activities of the firm, including the distribution of Credit Derivatives used, analysed further in terms of protection bought and sold within each type of Credit Derivative.
+
+Table 7 – Securitisation Exposures
+
+Qualitative Disclosures
+
+(a) A description of the following items with respect to securitisation (including
+
+Synthetic Securitisation):
+
+(i)
+
+objectives of the Authorised Firm in relation to its securitisation, including the extent to which the securitisation transfers Credit Risk of the underlying securitised Exposures away from the Authorised Firm to other entities and including the types of risks assumed and retained with Re-securitisation activity;
+
+(ii)
+
+the nature of other risks (e.g. Liquidity Risk) inherent in securitised assets
+
+(iii)
+
+the various roles played by the Authorised Firm in the securitisation process and an indication of the extent of the involvement of the firm in each of them;
+
+(iv)
+
+the processes in place to monitor changes in the Credit Risk and Market Risk of securitisation Exposures (e.g., how the behaviour of the underlying assets impacts securitisation Exposures) including how those processes differ for Re-securitisation exposures.
+
+(v)
+
+the Authorised Firm’s policy governing the use of Credit Risk mitigation to mitigate through securitisation and Re- securitisation Exposures;
+
+the risks retained
+
+(vi)
+
+the regulatory capital approaches applied to the securitisation activities of the Authorised Firm, including the type of securitisation Exposures to which each approach applies; and
+
+(vii) where an Authorised Firm provides Implicit Support to a securitisation, a statement that it has provided non- contractual support and a description of the capital impact of doing so.
+
+(b) A list of:
+
+(i)
+
+the types of SPEs that the Authorised Firm, as a Sponsor, uses to securitise third party Exposures, indicating whether the firm

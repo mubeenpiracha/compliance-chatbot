@@ -1,0 +1,149 @@
+ defines what is meant by references in this Part to a director “controlling” a body corporate.
+
+(2)
+
+A director of a company is taken to control a body corporate if, but only if–
+
+(a)
+
+he or any person connected with him–
+
+(i)
+
+is interested in any part of the equity share capital of that body, or
+
+(ii)
+
+is entitled to exercise or control the exercise of any part of the voting power at any general meeting of that body, and
+
+(b)
+
+he, the persons connected with him and the other directors of that company, together–
+
+(i)
+
+are interested in more than 50% of that share capital, or
+
+(ii)
+
+are entitled to exercise or control the exercise of more than 50% of that voting power.
+
+(3)
+
+The rules set out in Schedule 1 (references to interest in shares or debentures) apply for the purposes of this section.
+
+182
+
+(4)
+
+References in this section to voting power the exercise of which is controlled by a director include voting power whose exercise is controlled by a body corporate controlled by him.
+
+(5)
+
+Shares in a company held as treasury shares, and any voting rights attached to such shares, are disregarded for the purposes of this section.
+
+(6)
+
+For the avoidance of circularity in the application of section 274 (persons connected with a director)–
+
+(a)
+
+a body corporate with which a director is connected is not treated for the purposes of this section as connected with him unless it is also connected with him by virtue of subsection (2)(c) or (d) of that section (connection as trustee or partner), and
+
+(b)
+
+a trustee of a trust the beneficiaries of which include (or may include) a body corporate with which a director is connected is not treated for the purposes of this section as connected with a director by reason only of that fact.
+
+278. Associated bodies corporate
+
+For the purposes of this Part–
+
+(a)
+
+bodies corporate are associated if one is a subsidiary of the other or both are subsidiaries of the same body corporate, and
+
+(b)
+
+companies are associated if one is a subsidiary of the other or both are subsidiaries of the same body corporate.
+
+279. References to company’s constitution
+
+(1)
+
+References in this Part to a company’s constitution include–
+
+(a)
+
+any resolution or other decision come to in accordance with the constitution, and
+
+(b)
+
+any decision by the members of the company, or a class of members, that is treated by virtue of any rule of law applicable in the Abu Dhabi Global Market as equivalent to a decision by the company.
+
+(2)
+
+This is in addition to the matters mentioned in section 15 (a company’s constitution).
+
+280. Power to increase financial limits
+
+If the Board makes rules substituting any sum of money specified in this Part for a larger sum specified in those rules, those rules do not have effect in relation to anything done or not done before they come into force.
+
+Accordingly, proceedings in respect of any liability incurred before that time may be continued or instituted as if those rules had not been made.
+
+183
+
+281. Transactions under foreign law
+
+For the purposes of this Part it is immaterial whether the law that (apart from these Regulations) governs an arrangement or transaction is the law of the Abu Dhabi Global Market or not.
+
+184
+
+Part 11
+
+DERIVATIVE CLAIMS AND PROCEEDINGS BY MEMBERS
+
+Chapter 1
+
+DERIVATIVE CLAIMS
+
+282. Derivative claims
+
+(1)
+
+This Chapter applies to proceedings by a member of a company–
+
+(a)
+
+in respect of a cause of action vested in the company, and
+
+(b)
+
+seeking relief on behalf of the company.
+
+This is referred to in this Chapter as a “derivative claim”.
+
+(2)
+
+A derivative claim may only be brought–
+
+(a)
+
+under this Chapter, or
+
+(b)
+
+in pursuance of an order of the Court in proceedings under Part 28.
+
+(3)
+
+A derivative claim under this Chapter may be brought only by:
+
+(a)
+
+a member holding 5% or more of the share capital of the company, or
+
+(b)
+
+a member with the written consent of members holding together with the first mentioned member 5% or more of the share capital of the company
+
+(an “eligible member”) in respect of a cause of action arising from an actual or proposed act or omission involving negligence, default, breach of duty or breach of trust by a director

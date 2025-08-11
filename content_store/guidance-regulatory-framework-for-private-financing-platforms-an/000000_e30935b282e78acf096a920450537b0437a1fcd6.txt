@@ -1,0 +1,71 @@
+Guidance – Regulatory Framework for Private Financing Platforms and Multilateral Trading Facilities dealing with Private Capital Markets
+
+(VER02.181223)
+
+VER02.181223
+
+TABLE OF CONTENTS
+
+1.
+
+INTRODUCTION ............................................................................................................ 1
+
+2. OBJECTIVES OF THE PRIVATE CAPITAL MARKETS FRAMEWORK ......................... 1
+
+3. KEY FEATURES OF THE PRIVATE CAPITAL MARKETS FRAMEWORK .................... 3
+
+4. AUTHORISATION CRITERIA FOR PFP OPERATORS ................................................. 5
+
+5. ONGOING REQUIREMENTS FOR PFP OPERATORS ................................................. 9
+
+6. OTHER CONSIDERATIONS FOR PFP OPERATORS ................................................ 13
+
+APPENDIX A: EXEMPT OFFER CRITERIA ........................................................................ 14
+
+VER02.181223
+
+1.
+
+INTRODUCTION
+
+1.1 This Guidance is issued under section 15(2) of the Financial Services and Markets Regulations 2015 (FSMR). It should be read in conjunction with FSMR, the relevant Rulebooks of the Financial Services Regulatory Authority (FSRA) and the Guidance & Policies Manual (GPM) of the FSRA.
+
+1.2
+
+It is applicable to an applicant for a Financial Services Permission (FSP) to carry on:
+
+(a)
+
+the Regulated Activity of Operating a Private Financing Platform as defined in Schedule 1, Chapter 17C, Section 73E of FSMR;
+
+(b)
+
+the Regulated Activity of Operating a Multilateral Trading Facility as defined in Schedule 1, Chapter 9, Section 54 of FSMR; and
+
+(c) Authorised Persons having received an FSP to do so.
+
+1.3 This Guidance includes the authorisation criteria that applicants must satisfy to be authorised to undertake the Regulated Activity of Operating a Private Financing Platform (a “PFP Operator”), as well as their ongoing regulatory requirements. While this Guidance discusses the requirements and restrictions relating to the admission and trading of Exempt Offer Securities on a MTF, this Guidance does not describe all the criteria applicable to the Regulated Activity of Operating a Multilateral Trading Facility. Applicants seeking to become a MTF Operator are encouraged to contact the FSRA directly at authorisation@adgm.com.
+
+1.4 This Guidance, together with the applicable Abu Dhabi Global Market (ADGM) Regulations and FSRA Rules governing PFP Operators and MTF Operators in relation to Securities offered by Exempt Offer, is collectively referred to as the “private capital markets or PCM Framework”.
+
+1.5 This Guidance is not an exhaustive source of the FSRA’s policy on the exercise of its statutory powers and discretions. In the discharge of its regulatory mandate, the FSRA may impose specific conditions to address any risks posed by the proposed activities of a particular PFP Operator or MTF Operator.
+
+1.6 The FSRA is not bound by the requirements set out in this Guidance and may waive or
+
+modify any of these requirements at its discretion where appropriate.
+
+1.7 Unless otherwise specified, the term “Client” is used in this paper to denote the lenders and investors on the buy-side of a transaction facilitated through a PFP (a “PFP Transaction”) or investors who trade in Exempt Offer Securities on a MTF. The PFP Operator and the MTF Operator will have duties in respect of their respective Clients.
+
+1.8 Unless otherwise defined or the context requires otherwise, the terms contained in this Guidance have the same meanings as defined in FSMR and the Glossary (GLO).
+
+2. OBJECTIVES OF THE PRIVATE CAPITAL MARKETS FRAMEWORK
+
+2.1 PFPs are online platforms that allow private companies, such as start-ups and small and medium enterprises (“SMEs”) from early to pre-IPO stage, to source financing from private and institutional investors to launch and scale their businesses.
+
+1
+
+VER02.181223
+
+2.2 PFPs can play an important role in improving access to alternative financing for start- ups and SMEs, which are key engines of economic growth and diversification in the MENA region. PFPs may include equity funding, private placement and invoice financing platforms that leverage data and technology to unlock new ways of raising money for small businesses from professional investors such as high net worth individuals, private equity, venture capital, family offices, accelerators / incubators and angel investors.
+
+2.3 Notwithstanding the benefits of a PFP Framework to the financing ecosystem for start- ups

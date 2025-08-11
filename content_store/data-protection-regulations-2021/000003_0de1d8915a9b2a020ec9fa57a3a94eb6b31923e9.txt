@@ -1,0 +1,125 @@
+licable Law; or
+
+(f)
+
+Processing is necessary for the purposes of the legitimate interests pursued by the Controller or by a Third Party, except where such interests are overridden by the interests or rights of the Data Subject which require protection of Personal Data, in particular where the Data Subject is a Child.
+
+(2) Section 5(1)(f) does not apply if Processing is necessary for any of the purposes
+
+described in section 5(1)(e).
+
+(3) For the purposes of section 4(1)(b) the Controller must, in order to ascertain whether Processing for another purpose is compatible with the purpose for which the Personal Data is initially collected, take into account:
+
+(a)
+
+any link between the purposes for which the Personal Data has been collected and the purposes of the intended further Processing;
+
+(b)
+
+the context in which the Personal Data has been collected, in particular the relationship between Data Subjects and the Controller;
+
+(c)
+
+the nature of the Personal Data, in particular whether Special Categories of Personal Data are Processed, pursuant to section 7;
+
+(d)
+
+the possible consequences of the intended further Processing for Data Subjects; and
+
+(e)
+
+the existence of appropriate safeguards, which may include encryption or Pseudonymisation.
+
+6.
+
+Conditions for Consent
+
+(1) Consent means any freely given, specific, informed and unambiguous indication of the Data Subject's wishes by which they (whether in writing, electronically or orally), by a statement or by a clear affirmative action, signify agreement to the Processing of Personal Data relating to them.
+
+(2) Silence, pre-ticked boxes or inactivity do not constitute Consent.
+
+(3) For Consent to be informed, the Data Subject should be aware at least of the identity of the Controller and the purposes for which it is intended the Personal Data will be Processed.
+
+(4) Where Processing is based on Consent, the Controller must be able to demonstrate that
+
+the Data Subject has consented to Processing of their Personal Data.
+
+8
+
+(5)
+
+If the Data Subject's Consent is given in the context of a written declaration which also concerns other matters, the request for Consent must be presented in a manner which is clearly distinguishable from the other matters, in an intelligible and easily accessible form, using clear and plain language.
+
+(6) Any part of such a declaration which constitutes a contravention of these Regulations
+
+will not be binding.
+
+(7) The Data Subject has the right to withdraw their Consent at any time. The withdrawal of Consent will not affect the lawfulness of Processing based on Consent before its withdrawal. The Data Subject must be informed of this before giving Consent.
+
+(8)
+
+It must be as easy to withdraw Consent as it is to give Consent.
+
+(9) When assessing if Consent is freely given the assessor must take into account whether:
+
+(a)
+
+the Data Subject has a genuine or free choice or is unable to refuse or withdraw Consent without detriment; and
+
+(b)
+
+the performance of a contract is conditional on Consent to the Processing of Personal Data that is not necessary for the performance of that contract.
+
+7.
+
+Processing of Special Categories of Personal Data
+
+(1) Processing of:
+
+(a)
+
+Personal Data revealing racial or ethnic origin, political opinions, religious or philosophical beliefs;
+
+(b)
+
+Genetic Data, Biometric Data for the purpose of uniquely identifying a natural person, Data Concerning Health or data concerning a natural person's sex life or sexual orientation; and
+
+(c)
+
+Personal Data relating to criminal convictions and offences or related security measures,
+
+(together, ‘Special Categories of Personal Data’) is prohibited.
+
+(2) Section 7(1) does not apply if one of the following applies:
+
+(a)
+
+the Data Subject has given explicit Consent to the Processing of their Special Categories of Personal Data for one or more specified purposes;
+
+(b)
+
+Processing is necessary for the purposes of carrying out the obligations and exercising specific rights of the Controller or of the Data Subject in the field of employment law, provided that when the Processing is carried out, the Controller has an appropriate policy document in place in accordance with section 7(3);
+
+(c)
+
+Processing is necessary to protect vital interests of the Data Subject or of another natural person where the Data Subject is physically or legally incapable of giving Consent;
+
+9
+
+(d)
+
+(e)
+
+(f)
+
+(g)
+
+(h)
+
+(i)
+
+(j)
+
+(k)
+
+Processing is necessary for health purposes, including preventative or occupational medicine, the assessment of the working capacity of an employee, medical diagnosis,

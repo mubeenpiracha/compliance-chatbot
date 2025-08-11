@@ -1,0 +1,95 @@
+ Fund or an ADGM Climate Transition Fund. However, only those Domestic Funds which have obtained the relevant designation may use such terminology and any related designation marks in related documentation and promotional materials. ADGM Green Funds
+
+2. A Fund that has green or climate transition objectives is not required to become an ADGM Green Fund or an ADGM Climate Transition Fund. However, only those Domestic Funds which have obtained the relevant designation may use such terminology and any related designation marks in related documentation and promotional materials. ADGM Green Funds
+
+20.2.1
+
+An ADGM Green Fund must be a Domestic Fund that meets:
+
+(a)
+
+the Green Fund Investment Requirement; and
+
+(b)
+
+the Green Fund Attestation Requirement.
+
+The Green Fund Investment Requirement
+
+20.2.2
+
+The Fund Manager of an ADGM Green Fund must ensure that the investment restrictions of the Fund as stated in its Constitution and/or most recently published Prospectus require:
+
+(a)
+
+Fund Property to comprise predominantly Eligible Green Fund Property; and
+
+(b)
+
+a restriction on investment in Fund Property that is inconsistent with the overall green objectives of the Fund.
+
+90
+
+FUNDS VER10.100625
+
+This requirement is referred to as the “Green Fund Investment Requirement”.
+
+Guidance
+
+The Green Fund Investment Requirement will not be considered to be breached if Fund Property includes cash or other liquid assets held temporarily pending investment or reinvestment, or for the purposes of managing redemptions or distributions.
+
+20.2.3
+
+An asset is Eligible Green Fund Property if it is:
+
+(a)
+
+considered environmentally sustainable or equivalent under an Acceptable Green Taxonomy, provided that only one Acceptable Green Taxonomy is used by an ADGM Green Fund; or
+
+(b)
+
+included in or otherwise tracks an EU Paris Aligned Benchmark.
+
+20.2.4
+
+The Fund Manager of an ADGM Green Fund must keep records of the due diligence process it has undertaken to assess whether Fund Property meets the Green Fund Investment Requirement at the time of acquisition and on an ongoing basis.
+
+Guidance
+
+1. The Green Fund Investment Requirement may be met by assets comprising Eligible Green Fund Property under Rule 20.2.3(a) or under Rule 20.2.3(b), or a combination of both.
+
+2. The Regulator considers an Acceptable Green Taxonomy to be one which uses credible and independent accreditation standards published by a governmental body or a reputable industry association and made publicly available to allow determination of which economic activities are environmentally sustainable. Examples of green taxonomies that are considered Acceptable Green Taxonomies include: a.
+
+2. The Regulator considers an Acceptable Green Taxonomy to be one which uses credible and independent accreditation standards published by a governmental body or a reputable industry association and made publicly available to allow determination of which economic activities are environmentally sustainable. Examples of green taxonomies that are considered Acceptable Green Taxonomies include: the EU Green Taxonomy;
+
+b.
+
+the ASEAN Taxonomy for Sustainable Finance; and
+
+the Common Principles for Climate Mitigation Finance Tracking.
+
+3. When considering whether assets meet the criteria under Rule 20.2.3, a Fund Manager should consider not only the investment in the immediate asset but also any underlying assets. For example, where investing in Units, the Fund Manager should consider whether the underlying assets of the Fund would meet the Green Fund Investment Requirement.
+
+4. Eligible Green Fund Property may track or be included in one or more EU Paris Aligned Benchmarks. For example, a Fund may track or include securities from multiple EU Paris Aligned Benchmarks.
+
+91
+
+FUNDS VER10.100625
+
+The Green Fund Attestation Requirement
+
+20.2.5
+
+Subject to Rule 20.2.9, the Fund Manager of an ADGM Green Fund must appoint a third party to attest to its compliance with the Green Fund Investment Requirement on an ongoing basis and at least annually. This requirement only applies to that portion of the Eligible Green Fund Property that is invested in assets aligned with an Acceptable Green Taxonomy in accordance with Rule 20.2.3(a). This is referred to as the “Green Fund Attestation Requirement”.
+
+20.2.6
+
+A Fund Manager must, prior to the appointment of a third party to provide an attestation under Rule 20.2.5, take reasonable steps to ensure that the third party:
+
+(a)
+
+has the required skills, resources and experience to provide the attestation;
+
+(b)
+
+is independent

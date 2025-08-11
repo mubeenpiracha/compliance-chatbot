@@ -1,0 +1,93 @@
+ Group is an association of thirteen global banks that has published guidance aimed at assisting financial institutions in managing money laundering risks (Wolfsberg Statement Guidance on a Risk Based Approach for Managing Money Laundering Risks, March 2006) and in preventing terrorist financing (Wolfsberg Statement on the Suppression of the Financing of Terrorism, January 2002). Banks operating in ADGM should be familiar with relevant Wolfsberg Group published guidance in conjunction with the FATF Recommendations and in complying with these Rules.
+
+25.
+
+In the event that any part of the Wolfsberg Group published guidance conflicts with a Rule in the AML Rulebook, the relevant Rule takes precedence.
+
+Sanctions
+
+26.
+
+The UAE, as a member of the United Nations, is required to comply with all Sanctions issued by the UNSC. The UAE also periodically publicises its own Sanctions. Targeted Financial Sanctions (“TFS”) are Sanctions issued by the UNSC or the UAE involving asset freezing and other financial prohibitions targeted at individuals, entities or groups with the aim of combatting terrorism and terrorist financing, and countering the proliferation of WMD.
+
+Confidential
+
+6
+
+AML VER10.020125
+
+27.
+
+UNSC Sanctions and Sanctions issued or administered by the UAE, including Targeted Financial Sanctions, apply in ADGM. Relevant Persons must comply with Targeted Financial Sanctions. Sanctions compliance is emphasised by specific obligations contained in the AML Rulebook requiring Relevant Persons to establish and maintain effective systems and controls to comply with applicable Sanctions, including in particular Targeted Financial Sanctions, as set out in Chapter 11.
+
+28.
+
+The FATF has issued guidance on Targeted Financial Sanctions. Such guidance has been issued to assist in implementing the Targeted Financial Sanctions and activity-based financial prohibitions. This guidance can be found on the FATF website www.fatf-gafi.org.
+
+29.
+
+Sanctions and the import and export controls imposed or administered by other national and supranational bodies may apply or be relevant to a Relevant Person or its operations and the conduct of its business. In particular, Sanctions administered by the European Union, the U.K. (“HM Treasury”) and the U.S. (Office of Foreign Assets Control (“OFAC”)) may need to be carefully considered. The Regulator expects a Relevant Person to consider and take positive steps to ensure compliance where required or appropriate.
+
+Confidential
+
+7
+
+AML VER10.020125
+
+3.
+
+INTERPRETATION AND TERMINOLOGY
+
+3.1
+
+Interpretation
+
+3.1.1 A reference in the AML Rulebook to "money laundering" in lower case includes terrorist financing, proliferation financing, the financing of unlawful organisations and sanctions non-compliance including non-compliance with Targeted Financial Sanctions, unless the context provides or implies otherwise.
+
+3.2
+
+Glossary for AML
+
+Guidance on the term "customer"
+
+1.
+
+The point at which a Person becomes a customer will vary from business to business. However, the Regulator considers that it would usually occur at or prior to the business relationship being formalised, for example, by the signing of a client agreement or the acceptance by the customer of terms of business.
+
+2.
+
+The Regulator does not consider that a Person would be a customer of a Relevant Person merely because such Person receives marketing information from a Relevant Person or where a Relevant Person refers a Person who is not a customer to a third party, including a Group member.
+
+3.
+
+The Regulator considers that a Counterparty would generally be a customer for the purposes of the AML Rulebook and would therefore require a Relevant Person to undertake CDD on such a Person. However, this would not include a counterparty in a Transaction undertaken on a Regulated Exchange. Nor would it include suppliers of ancillary business services for consumption by the Relevant Person such as cleaning, catering, stationery, IT or other similar services.
+
+4.
+
+A Representative Office should not have any customers in relation to its ADGM operations.
+
+3.2.1 The following terms and abbreviations bear the following meanings for the purposes of
+
+these Rules.
+
+Term
+
+Definition
+
+ADGM
+
+Means the Abu Dhabi Global Market.
+
+ADGM Board
+
+Means the Board of Directors of ADGM.
+
+ADGM Entity
+
+Means a Legal Person which is incorporated or registered in ADGM, excluding a registered Branch.
+
+Confidential
+
+8
+
+AML

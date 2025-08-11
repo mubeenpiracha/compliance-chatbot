@@ -1,0 +1,109 @@
+ expect a default within the 30-day period. Contingent inflows are not included in total net cash inflows.
+
+(2) Where an Authorised Firm is overly reliant on cash inflows from one or a limited number of wholesale counterparties, the DFSA may set an alternative limit on the level of cash inflows that can be included in the LCR.
+
+A9.2.17 (1) The DFSA may allow an Authorised Firm to recognise as cash inflow, access to a parent entity’s funds via a committed funding facility if the Authorised Firm is a subsidiary of a foreign bank. In such instances, the committed funding facility from the parent entity must meet both of the following criteria:
+
+(a)
+
+the facility must be an irrevocable commitment and must be appropriately documented; and
+
+(b)
+
+the facility must be quantified.
+
+(2) A committed funding facility from a parent entity referred to in (1) can be recognised as a cash inflow only from day 16 of the LCR scenario. The cash inflow from a parent entity can be sufficient in size to cover only net cash outflows against items with a maturity or next call date between days 16 and 30 of the LCR.
+
+A9.2.18 The following table specifies, for each of the various categories and types of contractual receivables, the rates at which they are expected to flow in for the purpose of the calculation of the LCR:
+
+Cash Inflows
+
+Item
+
+Factor
+
+Maturing secured lending (incl. reverse repos and securities borrowing), backed by the following as collateral:
+
+Level 1 HQLA
+
+0%
+
+Level 2A HQLA
+
+15%
+
+Level 2B HQLA - eligible RMBS
+
+25%
+
+Level 2B HQLA - Other assets
+
+50%
+
+Margin lending backed by all other collateral
+
+50%
+
+All other assets
+
+100%
+
+398
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+Cash Inflows
+
+Credit or liquidity facilities provided to the reporting Bank
+
+0%
+
+Operational deposits or operational accounts held at other financial institutions (including deposits held at centralised institution of network of co-operative banks or operational accounts held at institutions offering Islamic financial services) Other inflows by counterparty
+
+0%
+
+Amounts receivable from retail counterparties
+
+50%
+
+Amounts receivable from non-financial wholesale
+
+counterparties, from transactions other than those listed in the above inflow categories
+
+50%
+
+Amounts receivable from financial institutions and central
+
+banks, from transactions other than those listed in the above inflow categories
+
+100%
+
+Net derivative receivables
+
+100%
+
+Net Shari’a compliant hedging cash inflows
+
+100%
+
+Other contractual cash inflows
+
+100%
+
+Guidance
+
+Maturing secured lending, including reverse repos and securities borrowing
+
+1.
+
+An Authorised Firm should assume that maturing reverse repurchase or securities borrowing agreements secured by Level 1 HQLA will be rolled over and will not give rise to any cash inflows (zero %). Maturing reverse repurchase or securities borrowing agreements secured by Level 2 HQLA should be modelled as cash inflows, equivalent to the relevant haircut for the specific assets. An Authorised Firm is assumed not to roll-over maturing reserve repurchase or securities borrowing agreements secured by non-HQLA assets and can assume it will receive 100% of the cash related to those agreements. Collateralised loans extended to customers for the purpose of taking leveraged trading positions, i.e. margin loans, should be modelled with a 50% cash inflow from contractual inflows made against non-HQLA collateral.
+
+2.
+
+An exception to paragraph 1 is the situation where, if the collateral obtained through reverse repo, securities borrowing or collateral swaps, which matures within the 30-day period, is re- used (i.e. rehypothecated) and is tied up for 30 days or longer to cover short positions. An Authorised Firm should then assume that such reverse repo or securities borrowing arrangements will be rolled over and will not give rise to any cash inflows (zero %), reflecting its need to continue to cover the short position or to repurchase the relevant securities.
+
+3.
+
+An Authorised Firm should manage its collateral so that it is able to fulfil obligations to return collateral

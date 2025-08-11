@@ -1,0 +1,101 @@
+ a Payment Initiation Service Provider
+
+19.21.4 (1) Where a Payment Order is initiated by the Payer through a Payment Initiation Service Provider, the account servicing Payment Service Provider must refund to the Payer the amount of a non-executed or defective Payment Transaction and, where applicable, restore the debited Payment Account to the state in which it would have been had the defective Payment Transaction not taken place.
+
+(2) Where the Payment Initiation Service Provider suffers a technical breakdown or other deficiency linked to the non-execution, defective or late execution of the Payment Transaction, (1) does not prevent the account servicing Payment Service Provider from seeking compensation from the Payment Initiation Service Provider for the losses incurred or sums paid as a result of the refund to the Payer.
+
+Liability of Payment Service Provider for charges and interest
+
+19.21.5 A Payment Service Provider is liable to its Payment Service User for any charges for which the Payment Service User is responsible and any interest which the Payment Service User must pay as a consequence of the non-execution, defective or late execution of a Payment Transaction by the Payment Service Provider.
+
+19.22 Dispute resolution
+
+19.22.1 (1)
+
+A Payment Service Provider must put in place and utilise adequate and effective complaint resolution procedures for the settlement of complaints from Payment Service Users about the rights and obligations arising under this Chapter.
+
+(2)
+
+All complaints must be recorded, investigated and resolved within an adequate timeframe and at the latest fifteen days after the day on which the Payment Service Provider received the complaint.
+
+(3)
+
+A Payment Service Provider must make available to the Payment Service User the details of the dispute resolution services able to deal with disputes concerning the rights and obligations arising under this Chapter in a clear, comprehensive and easily accessible form.
+
+(4)
+
+The information to be made available under (3) must be made available:
+
+(a)
+
+on the website of the Payment Service Provider;
+
+(b)
+
+at the main office and any branches of the Payment Service Provider; and
+
+(c)
+
+in the general terms and conditions of the Framework Contract between the Payment Service Provider and the Payment Service User.
+
+144
+
+COBS VER19.290725
+
+19.23 Risk mitigation and Reporting
+
+Management of operational and security risks
+
+19.23.1 (1)
+
+A Payment Service Provider must establish a framework with appropriate mitigation measures and control mechanisms to manage the operational and security risks relating to the Payment Services it provides.
+
+(2)
+
+As part of that framework, the Payment Service Provider must establish and maintain effective incident management procedures, including for the detection and classification of major operational and security incidents.
+
+(3)
+
+A comprehensive assessment of operational and security risks must be undertaken by the Payment Service Provider relating to the Payment Services it provides, at least annually or more frequently if requested by the Regulator, and provided to the Regulator on request.
+
+(4)
+
+The assessment must address the adequacy of the mitigation measures and control mechanisms implemented in response to those risks in such form and manner, and contain such information, as the Regulator may direct.
+
+Guidance
+
+1.
+
+The FSRA may require a Payment Service Provider to engage technical experts to generate an audit report addressed to the FSRA, in order to provide independent assurance that the systems and controls employed by the Payment Service Provider comply with the requirements imposed by this Chapter.
+
+2.
+
+Payment Service Providers are expected to provide a summary of the information required by Rule 19.23.1 as part of the periodic IRAP assessments undertaken in accordance with PRU 10.3.
+
+3.
+
+GEN 3.5 contains additional requirements that apply to Authorised Persons in relation to Cyber Risk management.
+
+Incident reporting
+
+19.23.2 (1)
+
+If a Payment Service Provider becomes aware of a major operational or security incident, the Payment Service Provider must, without undue delay, notify the Regulator.
+
+(2)
+
+A notification under (1) must be in such form and manner, and contain such information, as the Regulator may direct.
+
+(3)
+
+If the incident has or may have an impact on the financial interests of its Payment Service Users, the Payment Service Provider must, without undue delay, inform its Payment Service Users of the incident and of all measures that they can take to mitigate the adverse effects of the incident.
+
+145
+
+COBS VER19.290725
+
+Guidance
+
+1.
+
+Upon receipt of the notification referred to in 19.23.2(1), the Regulator

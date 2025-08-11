@@ -1,0 +1,105 @@
+ or more aspects of the Authorised Person's business.
+
+2.
+
+Examples of a Responsible Officer might include an individual responsible for the overall strategic direction of an Authorised Person or a regional manager to whom a Senior Executive Officer reports and from whom he takes direction.
+
+An Approved Person may perform one or more Controlled Functions for one or more
+
+Authorised Persons.
+
+Guidance
+
+1.
+
+In considering whether to grant an individual Approved Person status with respect to more than one Authorised Person, the Regulator will consider each Controlled Function to be carried out and the allocation of responsibility for that individual among the relevant Authorised Persons. In this situation the Regulator will need to be satisfied that the individual will be able to carry out his roles effectively, is fit and proper to do so, and that there are no conflicts of interest or that any actual or potential conflicts of interest are appropriately managed.
+
+5.4
+
+[Deleted]
+
+5.5 Mandatory appointments
+
+(1)
+
+An Authorised Person must, subject to (2), make the following appointments and ensure that they are held by one or more Approved Persons at all times:
+
+(a)
+
+Senior Executive Officer;
+
+(b)
+
+Finance Officer;
+
+(c)
+
+Compliance Officer; and
+
+(d)
+
+Money Laundering Reporting Officer.
+
+(2)
+
+An Authorised Person which is a Credit Rating Agency:
+
+53
+
+GEN VER11.290725
+
+(a)
+
+need not make the appointments referred to in (1)(b) and (d); and
+
+(b)
+
+must ensure that the appointments referred to in (1)(a) and (c) are held by separate persons at all times.
+
+(3)
+
+An Authorised Person which is a Fund Manager of a Venture Capital Fund need not make the appointment referred to in (1)(b).
+
+Guidance
+
+1.
+
+This Guidance addresses a range of circumstances:
+
+a.
+
+one individual performing more than one function in a single Authorised Person, as contemplated in Rule 5.5.1;
+
+b.
+
+more than one individual performing one function in a single Authorised Person, not addressed by that Rule; and
+
+c.
+
+one individual performing a single function in more than one Authorised Person, also not addressed by that Rule.
+
+2.
+
+The Regulator or relevant Authorised Person, as applicable, will only authorise an individual to perform more than one Controlled Function or combine Controlled Functions where it is satisfied that the individual is fit and proper to perform each Controlled Function or combination of Controlled Functions.
+
+3.
+
+In the above situation the Regulator or relevant Authorised Person, as applicable, will need to be satisfied that the individual will be able to carry out his role effectively, is fit and proper to do so, and that there are no conflicts of interest or that any actual or potential conflicts of interest are appropriately managed.
+
+4.
+
+Notwithstanding this Rule, an Authorised Person would generally be expected to separate the roles of Compliance Officer and Senior Executive Officer. In addition, the roles of Compliance Officer, Finance Officer and Money Laundering Reporting Officer would not be expected to be combined with any other Controlled Functions unless appropriate monitoring and control arrangements independent of the individual concerned will be implemented by the Authorised Person. This may be possible in the case of a Branch, where monitoring and controlling of the individual (carrying out more than one role in the Branch) is conducted from the Authorised Person's home state by an appropriate individual for each of the relevant Controlled Functions as applicable. However, it is recognised that, on a case by case basis, there may be exceptional circumstances in which this may not always be practical or possible.
+
+5.
+
+In what it considers to be exceptional circumstances, the relevant Authorised Person may register more than one individual to perform the Controlled Function of Compliance Officer in respect of different internal business divisions within that Authorised Person, particularly where it is large in size. In this regard the
+
+54
+
+GEN VER11.290725
+
+relevant Authorised Person may consider, amongst other things, the nature, scale and complexity of its activities, the clarity of demarcation between areas of responsibility, the potential for gaps in responsibility, and processes of communication with the Regulator.
+
+6.
+
+More than one Authorised Person may also register the same individual as its Compliance Officer. This will only be performed where the Authorised Persons concerned are satisfied that the individual is able to carry out his functions effectively in each Authorised Person taking into consideration factors such as the amount and nature of business conducted by the Authorised Persons. Each Author

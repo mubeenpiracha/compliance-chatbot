@@ -1,0 +1,123 @@
+ person had delivered notice of intention to appoint an administrator; and
+
+(bb)
+
+an administration immediately preceded the winding-up;
+
+(iv)
+
+a debt which has been acquired by a creditor by assignment or otherwise, under an agreement between the creditor and another party where that agreement was entered into—
+
+(aa)
+
+at a time when the creditor had notice that an administration application was pending or a person had delivered notice of intention to appoint an administrator; and
+
+(bb)
+
+an administration immediately preceded the winding-up;
+
+(v)
+
+a debt arising out of an obligation incurred during an administration which immediately preceded the winding-up;
+
+(vi)
+
+a debt which has been acquired by a creditor by assignment or otherwise, under an agreement between the creditor and another party where that agreement was entered into during an administration which immediately preceded the winding-up; or
+
+(vii)
+
+a debt which has been acquired by a creditor by assignment or otherwise, under an agreement between the creditor and another party where that agreement was entered into after the Company went into liquidation.
+
+A sum must be treated as being due to or from the Company for the purposes of sub- paragraph (2) whether—
+
+(a)
+
+it is payable at present or in the future;
+
+(b)
+
+the obligation by virtue of which it is payable is certain or contingent; or
+
+(c)
+
+its amount is fixed or liquidated, or is capable of being ascertained by fixed rules or as a matter of opinion.
+
+For the purposes of this paragraph 25—
+
+(a)
+
+Paragraph 15 (Administration and winding-up: estimate of value of debt) of Part 3 (Creditors’ claims) of this Schedule applies to an obligation which, by reason of its being subject to a contingency or for any other reason, does not bear a certain value;
+
+(b)
+
+Paragraphs 26 (Debt in foreign currency), 27 (Payments of periodical nature) and 28 (Interest) of Part 3 (Creditors’ claims) of this Schedule shall apply to sums due to the Company which—
+
+(i)
+
+are payable in a currency other than dollars;
+
+(ii)
+
+are of a periodical nature; or
+
+(iii)
+
+bear interest; and
+
+201
+
+(c)
+
+paragraph 46 (Debt payable at future time) of Part 4 (Distributions to creditors) of this Schedule applies to a sum due to or from the Company which is payable in the future.
+
+26.
+
+Debt in foreign currency
+
+(1)
+
+For the purpose of proving for any debts incurred or payable in a currency other than dollars, the amount of those debts must be converted into dollars at the official exchange rate prevailing on the relevant date.
+
+(2)
+
+“The official exchange rate” for the purposes of sub-paragraph (1) is the middle market exchange rate of the Central Bank of the United Arab Emirates at the close of business, as published for the relevant date in question. In the absence of any such published rate, it is such rate as the Court determines.
+
+27.
+
+Payments of periodical nature
+
+(1)
+
+In the case of rent and other payments of a periodical nature, the creditor may prove for any amounts due and unpaid up to the relevant date.
+
+(2) Where at that date any payment was accruing due, the creditor may prove for so much
+
+as would have been due at that date, if accruing from day to day.
+
+28.
+
+Interest
+
+(1) Where a debt proved in Insolvency Proceedings bears interest, that interest is provable as part of the debt except in so far as it is payable in respect of any period after the relevant date.
+
+(2)
+
+In the following circumstances the creditor’s claim may include interest on the debt for periods before the relevant date although not previously reserved or agreed.
+
+(3)
+
+If the debt is due by virtue of a written instrument and payable at a certain time, interest may be claimed for the period from that time to the relevant date.
+
+(4)
+
+If the debt is due otherwise, interest may only be claimed if, before the date on which the Company—
+
+(a)
+
+entered administration or, if the administration was immediately preceded by a winding-up, the date on which the Company went into liquidation; or
+
+(b)
+
+went into liquidation or, if the winding-up was immediately preceded by an administration, the date on which the Company entered administration,
+
+a demand for payment of the debt was made in writing by or on behalf of the creditor, and notice given that interest would be payable from the date of the demand

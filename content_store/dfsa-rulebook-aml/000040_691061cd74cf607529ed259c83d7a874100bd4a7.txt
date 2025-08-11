@@ -1,0 +1,157 @@
+.1 following the receipt of a notification from an Employee ;
+
+(d)
+
+making Suspicious Activity Reports in accordance with Federal AML legislation;
+
+(e)
+
+acting as the point of contact within the Relevant Person for competent U.A.E. authorities and the DFSA regarding money laundering issues;
+
+(f)
+
+responding promptly to any request for information made by competent U.A.E. authorities or the DFSA;
+
+(g)
+
+receiving and acting upon any relevant findings, recommendations, guidance, directives, resolutions, sanctions, notices or other conclusions described in chapter 10; and
+
+(h)
+
+establishing and maintaining an appropriate money laundering training programme and adequate awareness arrangements under chapter 12.
+
+60
+
+AML/VER27/03-25
+
+Anti-Money Laundering, Counter-Terrorist Financing and Sanctions Module (AML)
+
+12 AML TRAINING AND AWARENESS
+
+12.1 Training and awareness
+
+12.1.1 A Relevant Person must
+
+(a)
+
+provide AML training to all relevant Employees at appropriate and regular intervals;
+
+(b)
+
+ensure that its AML training enables its Employees to:
+
+(i)
+
+understand the relevant legislation relating to money laundering, including Federal AML legislation;
+
+(ii)
+
+understand its policies, procedures, systems and controls related to money laundering and any changes to these;
+
+(iii)
+
+recognise and deal with transactions and other activities which may be related to money laundering;
+
+(iv)
+
+understand the types of activity that may constitute suspicious activity in the context of the business in which an Employee is engaged and that may warrant a notification to the MLRO under Rule 13.2.2;
+
+(v)
+
+understand its arrangements regarding the making of a notification to the MLRO under Rule 13.2.2;
+
+(vi)
+
+be aware of the prevailing techniques, methods and trends in money laundering relevant to the business of the Relevant Person;
+
+(vii)
+
+in understand combating money identity and responsibility of the Relevant Person’s MLRO and deputy, where applicable; and
+
+the
+
+roles and
+
+responsibilities of Employees
+
+laundering,
+
+including
+
+the
+
+(viii) understand the relevant findings, recommendations, guidance, directives, resolutions, sanctions, notices or other conclusions described in chapter 10; and
+
+(c)
+
+ensure that its AML training:
+
+(i)
+
+the Relevant Person’s activities, is appropriately including its products, services, customers, distribution channels, business partners, level and complexity of its transactions; and
+
+tailored
+
+to
+
+(ii)
+
+indicates vulnerabilities associated with the matters in (c)(i).
+
+the different
+
+levels of money
+
+laundering risk and
+
+Guidance
+
+1.
+
+The DFSA considers it appropriate that all new relevant Employees of a Relevant Person be given appropriate AML training as soon as reasonably practicable after commencing employment with the Relevant Person.
+
+61
+
+AML/VER27/03-25
+
+Anti-Money Laundering, Counter-Terrorist Financing and Sanctions Module (AML)
+
+2.
+
+Relevant Persons should take a risk-based approach to AML training. The DFSA considers that AML training should be provided by a Relevant Person to each of its relevant Employees at intervals appropriate to the role and responsibilities of the Employee. In the case of an Authorised Firm the DFSA expects that training should be provided to each relevant Employee at least annually.
+
+3.
+
+The manner in which AML training is provided by a Relevant Person need not be in a formal classroom setting, rather it may be via an online course or any other similarly appropriate manner.
+
+4.
+
+A relevant Employee would include a member of the senior management or operational staff, any Employee with customer contact or which handles or may handle customer monies or assets, and any other Employee who might otherwise encounter money laundering in the business.
+
+62
+
+AML/VER27/03-25
+
+Anti-Money Laundering, Counter-Terrorist Financing and Sanctions Module (AML)
+
+13
+
+SUSPICIOUS ACTIVITY REPORTS
+
+13.1 Application and definitions
+
+13.1.1
+
+[deleted]
+
+13.1.2
+
+In this chapter, “money laundering” and “terrorist financing” mean the criminal offences defined in the Federal AML legislation.
+
+13.2
+
+Internal reporting requirements
+
+13.2.1 A Relevant Person must establish and maintain policies, procedures, systems and controls in order to monitor and detect suspicious activity or transactions in relation to potential money laundering or terrorist financing.
+
+13.2.2 A Relevant Person must have

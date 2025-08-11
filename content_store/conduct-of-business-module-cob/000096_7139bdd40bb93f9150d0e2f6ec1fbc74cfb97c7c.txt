@@ -1,0 +1,115 @@
+ indirectly, to promote a proposal by a borrower, Issuer or seller;
+
+(e)
+
+take reasonable steps to monitor and prevent posts on the forum that are potentially misleading or fraudulent;
+
+(f)
+
+immediately take steps to remove a post, or to require a post to be deleted or amended, if the operator becomes aware that (d) or (e) have not been complied with; and
+
+(g) not participate in discussions on the forum except to moderate posts or to
+
+take steps referred to in (f).
+
+Facility for transfer of loans or Investments
+
+11.3.16 If an operator provides a facility that assists the transfer of rights or obligations
+
+under a loan agreement or the sale of Investments, it must ensure that:
+
+(a)
+
+the facility relates only to loans or Investments originally facilitated using its service;
+
+(b)
+
+transfers can take place only between lenders or investors who are already Clients using the service and have initially lent money under loan agreements or initially subscribed for Investments using the service;
+
+(c)
+
+in the case of a loan agreement, the facility allows only a lender (and not the borrower) to transfer rights and obligations under the agreement;
+
+143
+
+COB/VER48/03-25
+
+CONDUCT OF BUSINESS (COB)
+
+(d)
+
+in the case of a loan agreement, a lender must transfer the rights and obligations relating to the whole of a loan made (and not just a part of the loan);
+
+(e) potential transferees or buyers have access to all information about the borrower, Issuer, seller or property that was available to earlier lenders or investors; and
+
+(f)
+
+fees it charges for the use of the facility are designed to recover its costs of providing the facility, rather than generating additional income.
+
+Guidance
+
+1.
+
+A facility for the transfer of rights and obligations under loan agreements or for the sale of Investments should exist mainly to provide an exit route for lenders or investors rather than being a facility for the active trading of loans or Investments. For example, the operator should ensure that transferees or buyers are Clients who already initially lent money to either the particular borrower or another borrower, or initially invested funds in the Issuer or property or another Issuer or property, using the platform. That is, the facility should not be used by persons who are only involved in secondary trading of loans or Investments.
+
+2.
+
+The conditions in Rule 11.3.16 apply only to a transfer or sale using the facility provided by the operator. They do not affect transfers of rights and obligations or sales of Investments that may occur outside that facility, for example, by operation of law such as under a will or by a Court order.
+
+Information technology
+
+11.3.17 (1) An operator must have adequate measures in place to ensure:
+
+(a)
+
+its information technology systems are resilient and not prone to failure;
+
+(b)
+
+business continuity in the event that an information technology system fails; and
+
+(c)
+
+the integrity of data forming part of, or being processed through, its information technology systems.
+
+(2) An operator must review the measures referred to in (1) at least annually to
+
+ensure they are adequate.
+
+Guidance
+
+Additional requirements to manage cyber risk apply to an ATS Operator under GEN section 5.5.
+
+Business cessation plan
+
+11.3.18 The operator must:
+
+(a) maintain a business cessation plan that sets out appropriate contingency arrangements to ensure the orderly administration of loan agreements or Investments in the event that it ceases to carry on its business; and
+
+144
+
+COB/VER48/03-25
+
+CONDUCT OF BUSINESS (COB)
+
+(b) ensure, as far as reasonably practicable, that the contingency arrangements
+
+can be implemented if necessary.
+
+11.3.19 The operator must review its business cessation plan at least annually and must update the plan as necessary to take into account any changes to its business model or to the risks to which it is exposed.
+
+Guidance
+
+1.
+
+The business cessation plan should contain enough information that, in the event of a wind down of the business, it will assist in the orderly administration of loan agreements or Investments. It should as a minimum include:
+
+a. a business overview i.e. a factual description of how the platform conducts its activities;
+
+b. analysis of the critical functions of the business;
+
+c.
+
+trigger events that might cause a wind down of its business (these events should be specific to the particular business, rather than generic);
+
+d. analysis of what functions

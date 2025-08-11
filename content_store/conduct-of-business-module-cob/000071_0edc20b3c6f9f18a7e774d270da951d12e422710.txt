@@ -1,0 +1,147 @@
+ owed; or
+
+(iii)
+
+where obliged to do so by any legislation applicable to the Credit Rating Agency; and
+
+(c)
+
+disclose any pending Rating Action except to the Rating Subject or as agreed with the Rating Subject.
+
+8.9.2
+
+Subject to Rule 8.9.1(b), a Credit Rating Agency and its Employees must not disclose Confidential Information in any manner, including in press releases, through research conferences, to future employers, or in conversations with investors, other issuers, other persons, or by other means.
+
+8.9.3
+
+A Credit Rating Agency must have adequate measures to ensure that it and its Employees:
+
+(a)
+
+take all reasonable steps to protect all property and records belonging to or in possession of the Credit Rating Agency against fraud, theft or misuse; and
+
+(b)
+
+do not share Confidential Information entrusted to the Credit Rating Agency with any third parties except where permitted under Rule 8.9.1(b).
+
+8.10 Record keeping
+
+8.10.1
+
+(1)
+
+A Credit Rating Agency must, for a minimum of six years, maintain sufficient records in relation to each activity and function of the Credit Rating Agency and, where appropriate, audit trails of its Credit Rating Activities. These must include, where applicable, the following:
+
+(a)
+
+for each Credit Rating:
+
+(i)
+
+the identity of the Rating Analysts participating in the determination of the Credit Rating;
+
+(ii)
+
+the identity of the individuals who have approved the Credit Rating;
+
+(iii)
+
+information as to whether the Credit Rating was solicited or unsolicited;
+
+(iv)
+
+information to support the Credit Rating;
+
+(v)
+
+the Accounting Records relating to fees and charges received from or in respect of the Rating Subject;
+
+103
+
+COB/VER48/03-25
+
+CONDUCT OF BUSINESS (COB)
+
+(vi)
+
+the including non-public information and working papers, used to form the basis of any Credit Rating; and
+
+internal
+
+records and
+
+files,
+
+(vii)
+
+credit analysis and credit assessment reports including any internal records and non-public information and working papers used to form the basis of the opinions expressed in such reports;
+
+(b)
+
+the Accounting Records relating to fees received from any person in relation to services provided by the Credit Rating Agency;
+
+(c)
+
+the Accounting Records for each subscriber to the Credit Rating Agency’s services;
+
+(d)
+
+the procedures, methodologies, models and assumptions used by the Credit Rating Agency to determine Credit Ratings; and
+
+records
+
+documenting
+
+the
+
+established
+
+(e)
+
+copies of internal and external communications, including electronic communications, received and sent by the Credit Rating Agency and its Employees that relate to Credit Rating Activities.
+
+(2)
+
+For the purposes of (1), the six year period commences from the date the Credit Rating is disclosed to the public or distributed by subscription.
+
+Guidance
+
+1.
+
+Information to support a Credit Rating includes information received from the Rating Subject or information obtained through publicly available sources or third parties and verification procedures adopted in relation to information such as those obtained from public sources or third parties. In accordance with GEN Rule 5.3.24, records should be kept in such a manner as to be readily accessible.
+
+2. Where a Credit Rating is subject to on-going surveillance and review, the Credit Rating Agency should retain records required under Rule 8.10.1 in relation to the initial Credit Rating as well as subsequent updates where such records are required to support the latest Credit Rating.
+
+104
+
+COB/VER48/03-25
+
+9
+
+9.1
+
+9.1.1
+
+9.1.2
+
+CONDUCT OF BUSINESS (COB)
+
+ADDITIONAL RULES: OPERATING AN ALTERNATIVE TRADING SYSTEM
+
+Application and interpretation
+
+This chapter applies to an Authorised Firm which Operates an Alternative Trading System (ATS Operator).
+
+Guidance
+
+1.
+
+The Financial Service of Operating an Alternative Trading System can, in relation to Investments, be either operating a Multilateral Trading Facility (MTF) or operating an Organised Trading Facility (OTF). However, in the case of Crypto Tokens, the system can only be a MTF. See GEN Rule 2.22.1.
+
+2.
+
+An ATS Operator that is Operating a Facility for Investment Tokens is, in addition to the requirements in this chapter, subject to the applicable requirements in chapter 14.
+
+3.
+
+An Authorised Firm that Operates a MTF for Crypto Tokens is, in addition to the requirements in this chapter, subject

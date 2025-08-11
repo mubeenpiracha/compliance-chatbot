@@ -1,0 +1,66 @@
+ Contract or as Default Fund Contribution.
+
+(2)
+
+So far as necessary to enable the property to be applied in accordance with the rules of the Recognised Body or Remote Body, it may be so applied notwithstanding any prior equitable interest or right, or any right or remedy arising from a breach of fiduciary duty, unless the Recognised Body or Remote Body had received actual written notice of the interest, right or breach of duty at the time the property was provided as margin or as Default Fund Contribution. In order to be valid, any notice under this subsection may only be delivered to the Recognised Body or Remote Body by one of its members and must be delivered in accordance with or in order to satisfy applicable Rules made by the Regulator on Client Money in accordance with section 4, or similar rules in any Non-Abu Dhabi Global Market jurisdiction.119
+
+(3)
+
+No right or remedy arising subsequently to the property being provided as margin or as Default Fund Contribution may be enforced so as to prevent or interfere with the application of the property by the Recognised Body or Remote Body in accordance with its rules.
+
+(4)
+
+Where a Recognised Body or Remote Body has power by virtue of the above provisions to apply property notwithstanding an interest, right or remedy, a person to whom the exchange or clearing house disposes of the property in accordance with its rules takes free from that interest, right or remedy.
+
+(5)
+
+The records and accounts of a Recognised Body or Remote Body detailing the Clearing Member House Contracts, Clearing Member Client Contracts, relevant Client Trades and the corresponding property provided by way of margin with respect to each such category of Market Contract, shall be final and definitive in relation to the rights of the Recognised
+
+118 Amended 21 February 2018.
+
+119 Amended 8 August 2023.
+
+115
+
+Body or Remote Body to take action under its Default Rules, including applying property or its proceeds against liabilities or aggregating property or its proceeds with amounts in either case recorded in particular accounts, which may take place notwithstanding any prior or competing equitable interest or right, or any right or remedy arising from a breach of fiduciary duty on the part of any Clearing Member, Client or other party, whether relevant to a Market Contract or any corresponding property provided by way of margin, excepting only cases of actual written notice referred to in subsection (2).
+
+171. Priority of floating Collateral Security Arrangement over subsequent Charges
+
+(1)
+
+The Regulator may by Rules provide that a Collateral Security Arrangement which is a floating Charge has priority over a Charge subsequently created or arising, including a fixed Charge.
+
+(2)
+
+The Rules may make different provision for cases defined, as regards the Collateral Security Arrangement or the subsequent Charge, by reference to the description of Charge, its terms, the circumstances in which it is created or arises, the nature of the Charge, the person in favour of whom it is granted or arises or any other relevant factor.
+
+172. Priority of Collateral Security Arrangement over unpaid vendor's lien
+
+Where property subject to an unpaid vendor's lien becomes subject to a Collateral Security Arrangement, the Charge has priority over the lien unless the chargee had actual notice of the lien at the time the property became subject to the Charge.
+
+173. Proceedings against market property by unsecured creditors
+
+(1)
+
+Where property (other than Real Property) is held by a Recognised Body or Remote Body as margin in relation to Market Contracts or as Default Fund Contribution, or is subject to a Collateral Security Arrangement, no execution or other legal process for the enforcement of a judgment or order may be commenced or continued, and no distress may be levied against the property by a person not seeking to enforce any interest in or security over the property, except with the consent of120—
+
+(a)
+
+in the case of property provided as cover for margin or as Default Fund Contribution, the Recognised Body or Remote Body in question; or
+
+(b)
+
+in the case of property subject to a Collateral Security Arrangement, the person in whose favour the Charge was granted.
+
+(2)
+
+Where consent notwithstanding any provision of the Insolvency Regulations.121
+
+is given the proceedings may be commenced or continued
+
+(3)
+
+Where by virtue of this section a person would not be entitled to enforce a judgment or order against any property, any injunction or other remedy granted with a view to
+
+120 Amended 21 February 2018.
+

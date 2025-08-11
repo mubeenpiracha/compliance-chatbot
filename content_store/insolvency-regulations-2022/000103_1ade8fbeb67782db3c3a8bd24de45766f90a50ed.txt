@@ -1,0 +1,117 @@
+ arrangement”) of this Part 11 (General).
+
+“capital market investment” has the meaning given to it by section 302 (Meaning of “capital market investment”) of this Part 11 (General).
+
+“cash” means money in any currency, credited to an account, or a similar claim for repayment of money such as a money market deposit and sums due or payable to, or received between the parties in connection with the operation of a collateral arrangement or a netting agreement.
+
+“collateral” means any of the following—
+
+(a)
+
+cash in any currency;
+
+(b)
+
+securities of any kind, including (without limitation) debt and equity securities and sukuk, units of a collective investment fund, money market instruments, claims relating to or rights in or in respect of any of the financial instruments included in this definition and any rights, privileges or benefits attached to or arising from any such financial instruments;
+
+(c)
+
+guarantees, letters of credit and obligations to reimburse;
+
+141
+
+(d)
+
+pecuniary claims which arise out of an agreement whereby an Authorised Person grants credit in the form of a loan (“credit claims”); and
+
+(e)
+
+any asset commonly used as collateral in the Abu Dhabi Global Market.
+
+“collateral arrangement” means any margin, collateral or security arrangement or other credit enhancement or other agreement or arrangement, evidenced in writing, the purpose of which is to secure, cover or provide credit support in respect of, the relevant obligations owed to the collateral-taker and where the collateral-provider and the collateral-taker are both non-natural persons, where—
+
+(a)
+
+security in collateral, where the collateral is delivered, transferred, held registered or otherwise designated so as to be in the possession or under the control of the collateral-taker or a person acting on its behalf is created or arises to secure the relevant obligations;
+
+(b)
+
+there is a title transfer collateral arrangement; or
+
+(c)
+
+there is any guarantee, letter of credit or reimbursement obligation by or to a party to one or more qualified financial contracts, in respect of one or more of those qualified financial contracts.
+
+“Commencement of the winding-up” is deemed to occur—
+
+(a)
+
+in the case of a voluntary winding-up, at the time of the passing of the resolution for voluntary winding-up;
+
+(b)
+
+in the case of a winding-up order made by virtue of Section 18(1)(e) (Powers of Court), on the making of the order; or
+
+(c)
+
+in any other case, at the time of the presentation of the petition for winding-up.
+
+“Commercial Licensing Regulations 2015” means the Commercial Licensing Regulations 2015, issued by the Board.
+
+“Companies Regulations 2020” means the Companies Regulations 2020, issued by the Board.
+
+“Company” has the meaning given in Section 1 (Companies) of the Companies Regulations 2020.
+
+“Connected Person” means a person is connected with a Company if—
+
+(a)
+
+he is a Director, officer or shadow director of the Company or he is an Associate of such a Director, officer or shadow director;
+
+(b)
+
+he is an Associate of the Company;
+
+(c)
+
+he is an employee of the Company; or
+
+(d)
+
+he is a trustee of a trust and the Company has an interest as beneficiary in the trust property or vice versa.
+
+“contributory” means every person liable to contribute to the assets of a Company in the event of its being wound up.
+
+“convener” means in respect of any meeting, the person who summons the meeting.
+
+“corporation” has the meaning given to that term in the Companies Regulations 2020.
+
+“correspondence” includes correspondence by telephonic or other electronic means.
+
+142
+
+“Court” means the Abu Dhabi Global Market Courts unless the context otherwise requires.
+
+“creditors’ voluntary winding-up” means a voluntary winding-up other than a members’ voluntary winding-up.
+
+“debt” means —
+
+(a)
+
+in relation to the winding-up of a Company, any of the following—
+
+(i)
+
+any debt or liability to which the Company is subject—
+
+(1)
+
+in the case of a winding-up which was not immediately preceded by an administration on the date on which the Company went into liquidation;
+
+(2)
+
+in the case of a winding-up which was immediately preceded by an administration, at the date on which the Company entered administration;
+
+(ii)
+
+any debt or liability to which the Company may become subject after that date by

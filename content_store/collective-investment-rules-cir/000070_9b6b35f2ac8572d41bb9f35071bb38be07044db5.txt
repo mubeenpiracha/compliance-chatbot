@@ -1,0 +1,119 @@
+ an Umbrella Fund Fund Manager’s Report Investment restrictions applicable to Fund of Funds when investing in a Sub-Fund Content of a Public Fund Prospectus Content of a Short Form Prospectus Transfer schemes Winding up
+
+App A7.1.1(2)(h) & 17 Rules 14.3.5 Rules 16.1.1, 16.1.3(3) (4) & (5) Rules 17.1.1 & 17.1.6
+
+110
+
+CIR/VER38/08-24
+
+13.8
+
+13.8.1
+
+COLLECTIVE INVESTMENT RULES (CIR)
+
+Money Market Funds
+
+Investment conditions and borrowings
+
+(1) A Fund Manager of a Money Market Fund must ensure that the Fund’s investment strategy is consistent with the investment objectives of such a Fund as set out in Rule 3.1.11.
+
+(2) Without limiting (1), the Fund Manager of a Money Market Fund must
+
+ensure that:
+
+(a) at least 90% of the net asset value of the Fund Property is invested in Deposits or Debentures that are of high quality, as determined by the Fund Manager in accordance with Rule 13.8.2;
+
+(b) at least 10% of the net asset value of the Fund Property consists of cash in accounts that permit the cash to be withdrawn immediately on demand;
+
+(c) Deposits with, or Debentures issued by, a single entity do not exceed
+
+10% of the net asset value of the Fund Property;
+
+(d)
+
+the Fund invests only in Deposits or Debentures:
+
+(i) with a residual maturity until the legal redemption date of not
+
+more than two years; and
+
+(ii) where the time remaining until the next interest rate reset date is
+
+not more than 397 days;
+
+(e)
+
+the Fund Property has a weighted average maturity of not more than 6 months;
+
+(f)
+
+the Fund Property has a weighted average life of not more than 12 months;
+
+(g)
+
+the Fund does not invest in Financial Instruments other than Deposits or Debentures, except for:
+
+(i) Units in other Money Market Funds that have investment objectives and strategies consistent with those of the Fund; or
+
+(ii) Derivatives that are used solely to hedge against foreign
+
+exchange rate risk; and
+
+(h)
+
+the borrowings of the Fund do not, at any time, exceed 10% of the net asset value of the Fund Property.
+
+(3)
+
+In (2):
+
+(a)
+
+the “net asset value” of Fund Property, means the value of Fund Property at the most recent valuation under Rule 8.4.1;
+
+111
+
+CIR/VER38/08-24
+
+COLLECTIVE INVESTMENT RULES (CIR)
+
+(b)
+
+the “weighted average maturity” of Fund Property, means the average length of time to maturity of all the Financial Instruments held as Fund Property, weighted to reflect the relative holdings in each Financial Instrument, where the maturity of a floating rate instrument is the time remaining until the next interest rate reset; and
+
+(c)
+
+the “weighted average life” of Fund Property, means the weighted average of the remaining life of each Financial Instrument held as Fund Property, where the remaining life of a Financial Instrument is the time until the due date for repayment of the principal.
+
+Guidance
+
+IFR 6.12 sets out further Rules and Guidance about how the requirements in this section apply to Islamic Money Market Funds.
+
+Due diligence on investment quality
+
+13.8.2
+
+To determine whether a Deposit or Debenture is of high quality for the purposes of Rule 13.8.1(2)(a), a Fund Manager of a Money Market Fund must carry out due diligence to an adequate standard on the Deposit or Debenture, taking into account the following factors:
+
+(a)
+
+the credit quality of the Issuer, and any guarantor, of the Investment;
+
+(b)
+
+the nature and quality of the asset class represented by the Investment;
+
+(c)
+
+the liquidity of the Investment; and
+
+(d)
+
+any other risks associated with the Investment or the market in which it is traded.
+
+Guidance
+
+1.
+
+A Fund Manager must carry out the due diligence required under Rule 13.8.2 as part of its internal procedures. However, this does not prevent it from using a service provider to carry out the necessary due diligence, provided

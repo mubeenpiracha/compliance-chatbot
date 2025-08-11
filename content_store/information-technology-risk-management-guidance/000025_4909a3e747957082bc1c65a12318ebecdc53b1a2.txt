@@ -1,0 +1,63 @@
+ such updates in a timely manner and validate that such updates would not disrupt the operations of its systems.
+
+7.2.5 Where a system is disrupted by an endpoint protection solution’s operation or update, the financial institution should assess the nature and scale of the disruption to determine if the disruption is systemic or isolated. If removal of the endpoint protection solution is required, the financial institution should take appropriate action to ensure that alternative or other mitigating controls are in place to adequately secure the endpoint.
+
+Data Loss Prevention
+
+7.2.6
+
+A financial institution should develop a comprehensive data loss prevention strategy to protect sensitive or confidential information. The strategy should consider how data is stored, transferred, used for operations and services, disposed, and be commensurate with the sensitivity and criticality of data.
+
+7.2.7
+
+Physical assets that contain or store sensitive or critical data should have appropriate safeguards in place, e.g., data encryption, strong access controls, etc.
+
+42
+
+VER01.201124
+
+7.2.8
+
+A financial institution should have a process in place to identify physical assets that require more stringent encryption measures such as full disk encryption, trusted platform module, filesystem level encryption, secure enclaves, etc.
+
+7.2.9
+
+Staff, contractors, or third parties of a financial institution should only use authorised physical assets. Sensitive or critical data should not be stored on unauthorised physical assets and such assets should be prevented from connecting to the corporate network11. Measures should be in place to detect and prevent the connection of unauthorised physical assets to the corporate network.
+
+7.2.10 Staff, contractors, or third parties should be prevented from accessing unauthorised internet services from corporate physical assets which allow the upload, download, communication, or transmission of corporate data.
+
+Desired Outcome 7.3 – Securing Connections
+
+General Network Security
+
+7.3.1
+
+A financial institution should ensure that systems are strategically allocated to network segments based on the system’s criticality to the operations and services of the financial institution, and the sensitivity of the data stored or processed by the system. Network segments that host systems of high criticality or highly sensitive data should have more stringent network access controls and accompanying network security controls to mitigate against unauthorised access. A financial institution should review its network architecture regularly to identify potential security gaps and vulnerabilities arising from complexity in network interconnections.
+
+7.3.2
+
+A financial institution should maintain updated documentation on the network design of its IT environment, including inter-connections with external parties.
+
+7.3.3
+
+A financial institution should implement network access controls (NACs) to enforce security policies for users and endpoints in all network segments of the corporate network. NACs should be regularly reviewed to be kept up to date and expired or insecure policies removed promptly.
+
+7.3.4
+
+Firewalls, intrusion prevention solutions, and intrusion detection solutions should be installed at network perimeters to control and protect the flow of data between network segments. Such solutions can take the form of a physical device for financial institutions that operate physical infrastructure or be deployed in a cloud environment through software-based solutions.
+
+7.3.5
+
+A financial institution should have a process in place to evaluate connectivity options both within the enterprise and to external parties. For example, when connecting primary and secondary data centres, a financial institution may consider a dedicated leased line to provide time critical data replication stability and integrity, whereas
+
+11 In the context of this Guidance, corporate network refers to any and all network segments, regardless of whether the network segment is for production, development, testing, or other purposes.
+
+43
+
+VER01.201124
+
+for connecting via application programming standardised regular data downloads from a website. Depending on the type(s) and sensitivity of data transmitted, upload/download speed, resilience requirements, cost, and other factors, a financial institution should assess if connectivity between systems should be over leased lines, fixed wireless, broadband, or other means.
+
+interfaces may be appropriate
+
+7.3.6 While a variety of controls are available to secure networks from threat actors, a financial institution may determine it is necessary to create an airgap for certain selected systems (i.e., ensure that such systems are available only on a separate network from other corporate systems). For such implementations, a financial institution should ensure that the means by which software or data updates are made to the air-gapped systems are done with due consideration for any control weaknesses

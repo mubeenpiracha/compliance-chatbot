@@ -1,0 +1,35 @@
+ operate as a DSF may apply to the FSRA to vary its FSP to allow it to expand its Providing Custody operations to do so. Further guidance on the considerations applicable to entities wishing to operate as a DSF are set out in paragraphs 55 – 61 above. Note, however, that with respect to Authorised Persons
+
+17 The requirement to use a separate entity for the (clearing and/or) settlement of Digital Securities differs from the FSRA’s current position relating to settlement of Virtual Asset transactions, where an Authorised Person can operate as both a Virtual Assets MTF and a Virtual Asset Custodian without legal entity segregation.
+
+VER02.240220
+
+21
+
+currently Operating an MTF (in relation to Virtual Assets), the FSRA will require the DSF to be a separate legal/operating entity from those entities it is providing settlement services (MIR Rule 3.8) and/or custody services (MIR Rule 2.10) for. Migration of an independent Virtual Asset Custodian to being a DSF may therefore likely pose less operational/regulatory issues than an entity currently operating as both an MTF (in relation to Virtual Assets) and Virtual Asset Custodian.
+
+74) Virtual Asset Custodians may expand their custodial offering to Digital Securities by utilising their existing technologies (or implementing new technologies, if required), to allow it to operate as a DSF across custody, clearing (as applicable) and settlement functions for Digital Securities.18 Given the difference in nature between Digital Securities and Virtual Assets, however, it is expected that a Virtual Asset Custodian seeking to migrate to becoming a DSF will be required to meet a significant number of new requirements, including but not limited to those outlined under paragraphs 55 -61 of this Guidance.
+
+75) As noted in paragraph 60, the FSRA reserves the right to impose any of the Rules outlined in MIR Chapter 4 on a Virtual Asset Custodian seeking to operate as a DSF (considering the particular business/operational model of the proposed DSF).
+
+CONVENTIONAL MARKET INFRASTRUCTURES & DIGITAL SECURITIES
+
+76) This section of the Guidance addresses Recognised Bodies or MTFs operating traditional Securities markets that may wish to expand their product offering into Digital Securities. Entities seeking to do so will need to demonstrate to the FSRA how they will meet the Rules applicable to Digital Securities and how either its existing technology infrastructure will be able to meet these requirements or new technology will be implemented.
+
+77) Given the nature of digital markets, entities can expect particular FSRA focus to be placed on their use of technology and technology governance. Entities should familiarise themselves with the FSRA’s technology governance guidance as set out in paragraphs 51- 66, 69-70 and 77-87 of the Virtual Assets Guidance (where Virtual Assets should be read as Digital Securities) which will form part of the basis for FSRA review. RIEs & Digital Securities
+
+78) A RIE should engage with the FSRA at an early stage and be in a position to outline how they intend to continue to meet their obligations as an RIE in the context of Digital Securities (treated similarly to the introduction of a new asset class). Formal approval from the FSRA will be required before an RIE can facilitate offers of, issuances in and the trading of Digital Securities.
+
+79) In addition to what is separately set out in this Guidance, an RIE operating within the conventional Securities space seeking to facilitate Digital Securities offers and trading,
+
+18 This may require the DSF Applicant to make necessary changes to ensure that it can process all settlement obligations based on the features of particular Digital Securities (including, but not limited to, Dividends and Coupon Payments).
+
+VER02.240220
+
+22
+
+and proposing to use new technologies such as DLT, should review and consider a number of areas of the Virtual Assets Guidance (as applicable), including the following:
+
+a) Technology Governance and Controls (paragraphs 47-92); b) Accepted Virtual Assets (paragraph 25, including for Security (b) and Type of DLT(e)); c) Capital requirements (paragraphs 31-36); d) Margin Trading (paragraph 121); and e) Substance requirements (paragraphs 126-128).
+
+80) A particular area of focus for the FSRA will be the Applicant’s custody and settlement arrangements (pursuant to M

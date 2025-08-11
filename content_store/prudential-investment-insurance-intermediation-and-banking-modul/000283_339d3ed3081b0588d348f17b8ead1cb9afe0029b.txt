@@ -1,0 +1,140 @@
+ENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+15.
+
+Total HQLA as defined in section A9.2 in App 9 (encumbered and unencumbered), without regard to LCR operational requirements and LCR caps on Level 2 and Level 2B assets that might otherwise limit the ability of some HQLA to be included as eligible in calculation of the LCR, where:
+
+a. encumbered assets include assets backing securities or covered bonds; and
+
+b. unencumbered means free of legal, regulatory, contractual or other restrictions on the
+
+ability of the bank to liquidate, sell, transfer or assign the asset.
+
+16. Deposits/PSIAs held at other financial institutions for operational purposes as defined in section A9.2 in App 9.
+
+17.
+
+Performing loans and securities are the sum of rows 18, 19, 20, 22 and 24.
+
+18.
+
+Performing loans to financial institutions secured by Level 1 HQLA, as defined in section A9.2 in App 9.
+
+19.
+
+Performing loans to financial institutions secured by non-Level 1 HQLA and unsecured performing loans to financial institutions.
+
+20.
+
+Performing loans to non-financial corporate clients, loans to retail and small business customers, and loans to sovereigns, central banks and PSEs.
+
+21.
+
+Performing loans to non-financial corporate clients, loans to retail and small business customers, and loans to sovereigns, central banks and PSEs with risk weight of less than or equal to 50% under section 4.12.
+
+22.
+
+Performing residential mortgages.
+
+23.
+
+Performing residential mortgages with risk weight of less than or equal to 50% under section 4.12.
+
+24.
+
+Securities that are not in default and do not qualify as HQLA including exchange-traded equities.
+
+25. Assets with matching interdependent liabilities.
+
+26. Other assets are the sum of rows 27 to 31.
+
+27.
+
+Physical traded commodities, including gold.
+
+28. Cash, securities or other assets posted as initial margin for derivative contracts and contributions to default funds of CCPs.
+
+29.
+
+In the unweighted cell, report NSFR derivative assets, as calculated according to section A9.4 in App 9. There is no need to differentiate by maturities. In the weighted cell, if NSFR derivative assets are greater than NSFR derivative liabilities (as calculated according to section A9.4 in App 9), report the positive difference between NSFR derivative assets and NSFR derivative liabilities.
+
+30.
+
+In the unweighted cell, report derivative liabilities as calculated according to report 20% of derivatives liabilities unweighted value (subject to 100% NSFR).
+
+31. All other assets not included in the above categories.
+
+32. Off-balance sheet items.
+
+33.
+
+Total RSF is the sum of all weighted value in rows 15, 16, 17, 25, 26 and 32.
+
+432
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+34. Net stable funding ratio (%).
+
+Table 14 – Leverage Ratios
+
+Qualitative Disclosures
+
+(a) The source of material differences between the bank’s total balance sheet assets in their financial statements and on-balance sheet exposures in the common disclosure template in Form B300.
+
+Quantitative Disclosures
+
+(b)
+
+A comparison of the Authorised Firm’s total accounting asset amounts and Leverage Ratio exposures using the summary comparison template in Form B300.
+
+(c)
+
+A breakdown of the main Leverage Ratio regulatory elements using the common disclosure template in Form B300.
+
+Table 15 – Indicators for assessing systemic importance of firms
+
+Quantitative Disclosures
+
+(a) Cross-jurisdictional activity:
+
+(i)
+
+cross-jurisdictional claims; and
+
+(ii)
+
+cross-jurisdictional liabilities.
+
+(b) Size – the total of its Leverage Ratio Exposure Measure.
+
+(c) Interconnectedness:
+
+(i)
+
+intra-financial system assets;
+
+(ii)
+
+intra-financial system liabilities; and
+
+(iii)
+
+securities outstanding.
+
+(d) Substitutability:
+
+(i)
+
+assets under custody;
+
+(ii)
+
+payments activity; and
+
+(iii)
+
+underwritten transactions in debt and equity markets.
+

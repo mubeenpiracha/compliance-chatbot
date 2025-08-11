@@ -1,0 +1,123 @@
+ this Rule 3.3 are designed to enable a Person seeking to have Units of a Fund admitted to trading on a Recognised Investment Exchange to be able to use a Prospectus prepared in accordance with the requirements in the Fund Rules if it is a Domestic Fund. In the case of Foreign Funds, the Offer documents or admission to trading documents prepared in accordance with the requirements in a foreign jurisdiction will be acceptable in the circumstances prescribed in this section.
+
+3.3.1
+
+(1)
+
+A Person intending to have Units admitted to trading on a Recognised Investment Exchange must, subject to (2), and (3) submit to the Regulator:
+
+(a)
+
+a completed application using such form as the Regulator shall prescribe and the relevant fee prescribed in the FEES Rulebook;
+
+(b)
+
+a Prospectus relating to the Fund ("Fund Prospectus") which:
+
+(i)
+
+complies with, in the case of a Domestic Fund, the requirements in the Fund Rules that apply to a Public Fund;
+
+(ii)
+
+is prepared, in the case of a Foreign Fund, in accordance with the requirements in Rule 3.3.3; and
+
+(iii)
+
+a prominent disclaimer in bold, on the front page of the Prospectus, as follows:
+
+"The ADGM does not accept responsibility for the content of the information included in the Prospectus, including the accuracy or completeness of such information. The liability for the content of the Prospectus lies with the Issuer of the Prospectus and other Persons, such as Experts, whose opinions are included in the Prospectus with their consent. The ADGM has also not assessed the suitability of the Securities to which the Prospectus relates to any particular investor or type of investor. If you do not understand the contents of this Prospectus or are unsure whether the Securities to which the Prospectus relates are suitable for your individual investment objectives and circumstances, you should consult an authorised financial adviser."
+
+Confidential
+
+30
+
+MKT VER09.020125
+
+(c)
+
+where subsequent drafts or versions of the Fund Prospectus are submitted, a marked up version showing changes from the previous version submitted to the Regulator;
+
+(d)
+
+if information is incorporated in the Fund Prospectus by reference to another document, a copy of that other document;
+
+(e)
+
+the identity of the Person who is or intends to be the Reporting Entity;
+
+(f)
+
+contact details of two individuals who are sufficiently knowledgeable about the content of the document referred to in (b) to be able to answer queries of the Regulator during business hours; and
+
+(g)
+
+any other information that the Regulator may require.
+
+(2)
+
+The application in (1) must be submitted to the Regulator:
+
+(a)
+
+in the case of an Applicant who has not made a previous Prospectus Offer, at least 20 Business Days prior to the intended date on which the Applicant expects the Prospectus to be approved;
+
+(b)
+
+in other cases, at least 10 Business Days before the intended date on which the Applicant expects the Prospectus to be approved; and
+
+(c)
+
+in the case of a Supplementary Prospectus, as soon as is reasonably possible.
+
+(3)
+
+In the case of a Supplementary Prospectus, the application for approval must:
+
+(a)
+
+be made using such form as the Regulator shall prescribe;
+
+(b)
+
+accompanied by the relevant fee prescribed in FEES Rulebook; and
+
+(c)
+
+include:
+
+(i)
+
+in the case of a Domestic Fund, a Supplementary Prospectus which meets the requirements in the Fund Rules; and
+
+(ii)
+
+in the case of a Foreign Fund, a document which meets the equivalent requirements applicable in the jurisdiction in which the Fund is established or domiciled.
+
+Approval of a Prospectus
+
+3.3.2
+
+(1)
+
+The Regulator will approve a Fund Prospectus which has been filed with the Regulator in accordance with Rule 3.3.1 as soon as reasonably practicable where it is satisfied that the Prospectus complies with all the requirements applicable to that Prospectus.
+
+Confidential
+
+31
+
+MKT VER09.020125
+
+(2)
+
+A Fund Prospectus is not an Approved Prospectus for the purposes of section 61(2) of FSMR unless the Regulator has issued to the Applicant a notice stating its approval:
+
+(a)
+
+of the Prospectus or Supplementary Prospectus, as the case may be; and
+
+(b)
+
+in the case of a Prospectus in (a) comprising multiple documents, of all the multiple documents.
+
+Guidance

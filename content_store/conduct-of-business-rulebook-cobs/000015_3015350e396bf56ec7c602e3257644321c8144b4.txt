@@ -1,0 +1,123 @@
+ does not apply to Eligible Green Portfolio Assets which are included in or otherwise track an EU Paris Aligned Benchmark in accordance with Rule 3.8.4(b).
+
+2. An ADGM Green Portfolio comprised of Eligible Green Portfolio Assets under both Rules 3.8.4(a) and (b) is required to obtain attestation in relation to the assets invested in under Rule 3.8.4(a) only.
+
+3.8.7 An Authorised Person must, prior to the appointment of a third party to provide an attestation under Rule 3.8.6, take reasonable steps to ensure that the third party:
+
+(a)
+
+has the required skills, resources and experience to provide the attestation;
+
+(b)
+
+is independent of, and not subject to, any conflict of interest with respect to the Authorised Person; and
+
+(c)
+
+has been provided with all documents, records and information necessary to give the attestation pursuant to Rule 3.8.8.
+
+3.8.8 The Authorised Person acting as the Investment Manager of an ADGM Green Portfolio must ensure that an attestation obtained for the purposes of Rule 3.8.6 is addressed to and may be relied upon by the Authorised Person. The attestation must specify that:
+
+(a)
+
+during the period reviewed, the investment objectives of the Model Portfolio have been adhered to and have met the Green Portfolio Investment Requirement; and
+
+(b)
+
+as at the date of the attestation, the Model Portfolio meets the Green Portfolio Investment Requirement.
+
+Guidance
+
+An attestation obtained for the purposes of the Green Portfolio Attestation Requirement should include the following statement:
+
+“We attest that, as regards the model portfolio titled [insert name] of [insert name of Authorised Person] (the Model Portfolio):
+
+(i)
+
+during the period reviewed, the investment objectives of the Model Portfolio have been adhered to and have met the Green Portfolio Investment Requirement; and
+
+(ii)
+
+as at the date of the attestation, the Model Portfolio is invested in compliance with the Green Portfolio Investment Requirement.”
+
+3.8.9 The Authorised Person acting as the Investment Manager of an ADGM Green Portfolio must provide a copy of the attestation obtained for the purposes of Rule 3.8.6 to each Client with whom it has entered into a Discretionary Portfolio Management Agreement in respect of such ADGM Green Portfolio at least on an annual basis and upon request by the Client.
+
+24
+
+COBS VER19.290725
+
+ADGM Climate Transition Portfolios
+
+3.8.10 An ADGM Climate Transition Portfolio must meet:
+
+(a)
+
+the Climate Transition Portfolio Investment Requirement; and
+
+(b)
+
+the Climate Transition Portfolio Attestation Requirement.
+
+The Climate Transition Portfolio Investment Requirement
+
+3.8.11 The Discretionary Portfolio Management Agreement of an ADGM Climate Transition Portfolio must restrict investments to predominantly Eligible Climate Transition Portfolio Assets and restrict investment in assets that are inconsistent with the overall climate transition objectives of the mandate. This requirement is referred to in these Rules as the “Climate Transition Portfolio Investment Requirement”.
+
+Guidance
+
+The Climate Transition Portfolio Investment Requirement will not be considered to be breached if the Model Portfolio assets include cash or other liquid assets held temporarily pending investment or reinvestment.
+
+3.8.12 An asset is an Eligible Climate Transition Portfolio Asset if it is:
+
+(a)
+
+aligned with an Acceptable Climate Transition Taxonomy, provided that only one Acceptable Climate Transition Taxonomy is used by an ADGM Climate Transition Portfolio;
+
+(b)
+
+a Security issued in accordance with the:
+
+(i)
+
+ICMA Green Bond Principles;
+
+(ii)
+
+ICMA Sustainability-Linked Bond Principles;
+
+(iii)
+
+EU Green Bond Standard; or
+
+(iv)
+
+Climate Bonds Initiative.
+
+and compliance with which is subject to third party assurance, independent verification or equivalent assessment:
+
+(c)
+
+a Security included in or that otherwise tracks an EU Climate Transition Benchmark;
+
+(d)
+
+a Share or Debenture issued or otherwise provided by an entity that in the reasonable opinion of the Authorised Person:
+
+(i)
+
+has published credible net zero emissions targets and strategies; and
+
+(ii)
+
+is on course to meet its net zero emissions targets; or
+
+(e)
+
+a Unit in an ADGM Climate Transition Fund.
+
+25
+
+COBS VER19.290725
+
+Guidance
+
+1. The Climate Transition Portfolio Investment Requirement may be met by investment in any combination of Eligible Climate Transition Portfolio Assets meeting the criteria in any one of Rules 3.8.12(a

@@ -1,0 +1,99 @@
+Individuals
+
+(a)
+
+For the purposes of this Rule 2.4.4, “family members” shall be determined in accordance with Article 3 of the Companies Regulations.
+
+4
+
+COBS VER19.290725
+
+(b)
+
+An individual may be treated as an “assessed” Professional Client (instead of a Retail Client); if:
+
+(i)
+
+the individual has net assets of at least US$1,000,000 (including any assets held directly or indirectly by that person), the calculation of which must exclude:
+
+(A)
+
+the value of property which is that person's primary residence net of any loan secured on that residence;
+
+(B)
+
+any rights of that person under a qualifying Contract of Insurance within the meaning of FSMR; and
+
+(C)
+
+any benefits (in the form of pensions or otherwise) which are payable on the termination of that person's service or on death or retirement and to which that person or that person's dependents are, or may be, entitled;
+
+(ii)
+
+either:
+
+(A)
+
+the individual is, or has been, in the previous twelve months, or two years in the case of the Promotion of a Passported Fund, an Employee in a professional position of an Authorised Person, a Recognised Body, Remote Body; or Regulated Financial Institution; or
+
+(B)
+
+the individual appears, on reasonable grounds, to have sufficient experience and understanding of relevant financial markets, products or transactions and any associated risks, following the analysis set out in Rule 2.6.2; and
+
+(iii)
+
+the individual has not opted to be classified as a Retail Client.
+
+(c)
+
+An Authorised Person may classify any legal structure or vehicle, such as an Undertaking, trust or foundation, which is set up solely for the purpose of facilitating the management of an investment portfolio of an individual assessed as meeting the requirements in Rule 2.4.4(b), as a Professional Client.
+
+(d)
+
+An Authorised Person may classify as a Professional Client an individual (a "joint account holder") who has a joint account with an individual assessed as meeting the requirements in Rule 2.4.4(b) (the "primary account holder") if:
+
+(i)
+
+the joint account holder is a family member of the primary account holder;
+
+(ii)
+
+the account is used for the purposes of managing investments for the primary account holder and the joint account holder; and
+
+(iii)
+
+the joint account holder has confirmed in writing (or, in the case of a joint account operated by a primary account holder who is a parent or legal guardian of a minor, that parent or guardian exercises its authority to act
+
+5
+
+COBS VER19.290725
+
+for the minor in accordance with any necessary formalities) that investment decisions relating to the joint account are generally made for, or on behalf of, him by the primary account holder.
+
+(e)
+
+An individual acting as a primary account holder who has been classified as a Professional Client may operate a joint account with more than one family member. Provided that each such family member meets the requirements set out in Rule 2.4.4(d), they may all be classified as Professional Clients.
+
+Undertakings
+
+(f)
+
+An Authorised Person may classify an Undertaking as an "assessed" Professional Client if the Undertaking, or (as assessed by the Authorised Person) its Controller (provided that if such controller is a natural person, it meets the Professional Client criteria in Rule 2.4.4(b)), Holding Company, Subsidiary or joint venture partner:
+
+(i)
+
+has own funds or called up capital of at least US$1,000,000
+
+(ii)
+
+appears, on reasonable grounds, to have sufficient experience and understanding of relevant financial markets, products or transactions and any associated risks, following the analysis set out in Rule 2.6.2; and
+
+(iii)
+
+has opted not to be classified as a Retail Client.
+
+Guidance
+
+1. A legal structure or vehicle established for investment purposes for an individual who are themselves a Professional Client may not opt to be treated as a Retail Client, as that right belongs to the Professional Client for whose purposes the legal structure or vehicle is set up.
+
+2. A joint account holder for whom investment decisions are being made by a primary account holder who is a Professional Client does not per se have a right to opt to be classified as a Retail Client with regard to the operation of the joint account, but may withdraw confirmation given to

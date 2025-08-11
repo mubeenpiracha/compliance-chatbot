@@ -1,0 +1,123 @@
+ and regulated in their home jurisdictions for their activities, can be enabled to accept contributions from DIFC employers in respect of their employees under the DIFC Employment Law.
+
+2.4 Accepting deposits
+
+2.4.1
+
+In Rule 2.2.2, Accepting Deposits means accepting Deposits where:
+
+(a) money received by way of Deposit is lent to others; or
+
+(b) any other activity of the Person accepting the Deposit is financed, wholly or to a material extent, out of the capital of or returns on any money received by way of Deposit.
+
+2.5 Providing credit
+
+2.5.1
+
+(1)
+
+In Rule 2.2.2, Providing Credit means providing a Credit Facility:
+
+(a)
+
+to a Person in his capacity as a borrower or potential borrower; or
+
+(b)
+
+to finance the acquisition of goods or services by a Person.
+
+11
+
+GEN/VER67/03-25
+
+GENERAL (GEN)
+
+(2)
+
+For the purposes of (1) it is immaterial that no, or reduced, interest or charges are payable by a Person referred to in (1)(a) or (b) if the Person repays all or a specified part of the credit on or before a certain date.
+
+(3)
+
+It is immaterial for the purposes of (1)(b) whether the Person is acquiring the goods or services from the Credit Provider, a supplier with whom the Credit Provider has a commercial agreement, or another person.
+
+Exclusions
+
+2.5.2 A Person who is an Authorised Firm does not Provide Credit where the provision of the Credit Facility is incidental to or in connection with the trading of Investments, or conducting Insurance Business.
+
+2.5.3 A Crowdfunding Operator does not Provide Credit to the extent that it
+
+Operates a Loan Crowdfunding Platform.
+
+2.5.4 A Person does not Provide Credit to the extent that the Person operates a loyalty or rewards programme where a participant earns points or other monetary value from acquiring goods or services, which the participant can use to receive a discount on, or purchase, further goods or services.
+
+Guidance
+
+1.
+
+Where an Authorised Firm is providing brokerage services pursuant to its Financial Service of Dealing in Investments as Agent, it may in the ordinary course of that business also be necessary to provide margin lending facilities to its Clients. In doing so the Authorised Firm will not be considered to be Providing Credit to its Client.
+
+2.
+
+Where an Authorised Firm is Effecting Contracts of Insurance or Carrying Out Contracts of Insurance, it may in the ordinary course of that Insurance Business be necessary to provide an instalment contract to a Client with respect to the payment of an insurance premium. In doing so the Authorised Firm will not be considered to be Providing Credit to its Client.
+
+3.
+
+The provision of a Credit Facility to finance the acquisition of goods or services will include the provision of ‘Buy Now Pay Later’ (BNPL) services. This includes, for example, arrangements where, when a consumer purchases goods or services from a merchant, the consumer becomes liable to make instalment payments to a third party (the BNPL provider) instead of paying the purchase price directly to the merchant. Under such arrangements the BNPL provider will typically make an upfront payment to the merchant of an amount equal to the purchase price less a discount.
+
+2.6 Providing money services
+
+2.6.1
+
+(1)
+
+In Rule 2.2.2, Providing Money Services means:
+
+(a)
+
+providing currency exchange;
+
+(b)
+
+providing Money Transmission;
+
+(c)
+
+providing or operating a Payment Account;
+
+12
+
+GEN/VER67/03-25
+
+(2)
+
+GENERAL (GEN)
+
+(d)
+
+executing Payment Transactions on a Payment Account provided or operated by another Person;
+
+(e)
+
+issuing Payment Instruments; or
+
+(f)
+
+issuing Stored Value.
+
+In this Rule:
+
+(a)
+
+“Money Transmission” means the transmission of money or monetary value, without a Payment Account being created in the name of the payer or the payee, where funds are:
+
+(i)
+
+received from a payer for the sole purpose of transferring a corresponding amount to a payee or to another Payment Service Provider acting on behalf of the payee; or
+
+(ii)
+
+received on behalf of, and made available to, the payee.
+
+(b)
+
+“Payment Account” means an account held in the name of one or more Users which to execute Payment

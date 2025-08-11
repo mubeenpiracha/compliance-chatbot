@@ -1,0 +1,125 @@
+
+
+Trading Information
+
+Definitions
+
+Means a Scoping Study, Preliminary Feasibility Study or Feasibility Study.
+
+Means, in relation to a Client Account or a Reserve Account, a Financial Institution including a bank, custodian, an intermediate broker, a settlement agent, a clearing house, an exchange and “over- the-counter” counterparty acting in the capacity of a third party agent.
+
+Means Cyber Risk that may arise from the use of ICT Services provided by a third party or a subcontractor of that third party.
+
+Has the meaning given in section 258 of FSMR .
+
+Means the access to, processing or transfer of Specified Information by the Third Party Provider that is executed at the request of a Customer.
+
+Means, in relation to MKT Chapter 6, a Buy-back Programme where the dates and quantities of Securities to be purchased during the time period of the programme are set out at the time of the public disclosure of the Buy-back Programme.
+
+Means an agreement whereby a Client transfers ownership of a Safe Custody Asset or Client Money (or an asset that would be a Safe Custody Asset or Client Money but for the arrangement) to an Authorised Person or a Nominee Company for the purpose of securing or otherwise covering present or future, contingent or actual obligations.
+
+Means the sum of the Variable Capital Requirements calculated in accordance with Section 3.6A of PRU for the activities undertaken by a Money Remitter or a Payment Service Provider.
+
+Means a legal person that centrally collects and maintains records of executed Derivative Contracts.
+
+Means the trading day on which the transaction was executed.
+
+Has the meaning given to it in MKT 7.8.
+
+Means information of the following kinds relating to pending orders in relation to a Financial Instrument, Accepted Virtual Asset, Accepted Spot Commodity or Related Investment:
+
+(a)
+
+that Financial Instruments, Accepted Virtual Assets, Accepted Spot Commodities of a particular kind have been or
+
+83
+
+GLO VER23.290725
+
+Defined Terms
+
+Trading Time
+
+Transaction
+
+Trust Deed
+
+Trust Service Provider
+
+Trustee
+
+UAE
+
+Umbrella Fund
+
+Definitions
+
+are to be acquired or disposed of, or that their acquisition or disposal is under consideration or the subject of negotiation;
+
+(b)
+
+that Financial Instruments, Accepted Virtual Assets, Accepted Spot Commodities of a particular kind have not been or are not to be acquired or disposed of;
+
+(c)
+
+the quantity of Financial Instruments, Accepted Virtual Assets, Accepted Spot Commodities acquired or disposed of or whose acquisition or disposal is under consideration or the subject of negotiation;
+
+(d)
+
+the price (or range of prices) at which Financial Instruments, Accepted Virtual Assets, Accepted Spot Commodities have been or are to be acquired or disposed of or the price (or range of prices) at which Financial Instruments whose acquisition or disposal is under consideration or the subject of negotiation may be acquired or disposed of; or
+
+(e)
+
+the identity of the Persons involved or likely to be involved in any capacity in an acquisition or disposal.
+
+Means the time at which the transaction was executed, reported in the local time of the competent authority to which the transaction will be reported, and the basis in which the transaction is reported expressed as Co-ordinated Universal Time (UTC) +/- hours.
+
+Means any transaction undertaken by a Relevant Person for or on behalf of a Customer in the course of carrying on a business in or from ADGM.
+
+Means a deed entered into by a Fund Manager and the Trustee to create an Investment Trust.
+
+An Authorised Person which is authorised under its Permission it to carry on the activity of Providing Trust Services.
+
+Means the Person, described under FUNDS 12.3.4 who is appointed under a Trust Deed as the trustee of an Investment Trust to hold the Investment Trust's Property on trust for the Unitholders and to oversee the operation of the Investment Trust and, in relation to a Domestic Fund, is authorised under its Financial Services Permission to Act as the Trustee of the Investment Trust.
+
+Means the United Arab Emirates.
+
+Has the meaning given in FUNDS 4.1.4.
+
+84
+
+GLO VER23.290725
+
+Defined Terms
+
+Undertaking
+
+Underwriting
+
+Unique Identifier
+
+Unit
+
+Unit Price
+
+Unitholder
+
+Units
+
+Unlawful Organisation
+
+Unproven Asset
+
+Definitions
+
+Means:
+
+(a)
+
+a Body Corporate or Partnership; or
+
+(b)
+
+an unincorporated association carrying on a trade or business, with or without a view to profit.
+
+Means

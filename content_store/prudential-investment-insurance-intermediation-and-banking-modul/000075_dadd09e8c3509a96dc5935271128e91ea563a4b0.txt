@@ -1,0 +1,93 @@
+ Exposure to a bank for which an external credit assessment by a recognised external credit rating agency is not available in accordance with the following table if the Exposure:
+
+(a) has an original maturity of three months or less; or
+
+(b) has an original maturity of six months or less and arises from the
+
+movement of goods across national borders.
+
+Credit Risk Assessment Risk Weight
+
+Grade A
+
+20%
+
+Grade B
+
+50%
+
+Grade C
+
+150%
+
+(5) Notwithstanding paragraphs (2) to (4), the risk weight assigned to any Exposure to a bank for which an external credit assessment by a recognised external credit rating agency is not available may not be less than the risk weight applicable to Exposures to the sovereign of the jurisdiction where the bank is incorporated or established if:
+
+(a)
+
+the Exposure:
+
+(i)
+
+is not in the local currency of the jurisdiction of incorporation or establishment of the debtor bank; or
+
+113
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+(ii)
+
+for a borrowing booked in a branch of the debtor bank in a foreign jurisdiction, is not in the local currency of the jurisdiction in which the branch operates; and
+
+(b)
+
+the Exposure is not a self-liquidating, trade-related contingent items arising from the movement of goods with an original maturity of less than one year.
+
+Guidance
+
+1.
+
+An Exposure to a bank includes any claim (such as loans and senior debt, unless considered as subordinated debt, equity or other capital instrument under Rule 4.12.18) on a Regulated Financial Institution that is licensed to take deposits from the public and is subject to appropriate prudential standards and level of supervision. For internationally active banks, appropriate prudential standards and level of supervision should be in accordance with the global regulatory framework established by the Basel Committee on Banking Supervision.
+
+2.
+
+An Authorised Firm may treat an Exposure to a securities firm as an Exposure to a bank if it can demonstrate to the DFSA that the securities firm is subject to prudential standards and a level of supervision equivalent to those applied to Financial Institutions referred to in Guidance item 1. Exposures to other securities firms, as well as Exposures to insurers should be treated as an Exposure to corporates in accordance with Rules 4.12.11 to 4.12.15.
+
+3.
+
+The short-term Exposures referred to in 4.12.7(2) may include on-balance sheet exposures such as loans and off-balance sheet exposures such as self-liquidating trade- related contingent items. An Authorised Firm should not treat as short-term Exposures loans that are expected to be rolled over.
+
+4.
+
+The treatment of Exposures under Rule 4.12.8(1) and the general preferential treatment for short-term Exposures set out in Rule 4.12.7(2) interact as follows:
+
+a.
+
+if there is no short-term credit assessment, the general preferential treatment for short-term Exposures as specified in Rule 4.12.7(2) applies.
+
+b.
+
+if there is a short-term credit assessment and the treatment under Rule 4.12.8(1) is more favourable as, or identical to, the preferential treatment of Exposures under Rule 4.12.7(2), an Authorised Firm should apply the risk weight under Rule 4.12.8(1) for that specific Exposure only.
+
+c.
+
+if there is a short-term credit assessment and the treatment under Rule 4.12.8(1) is less favourable than the preferential treatment of Exposures under Rule 4.12.7(2), an Authorised Firm should:
+
+i.
+
+not apply the risk weight under Rule 4.12.8(1); and
+
+ii.
+
+assign the same risk weight as that applied by the specific short-term assessment to all unrated short-term claims.
+
+114
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+Exposures to corporates
+
+4.12.11 Subject to Rules 4.12.12, 4.12.13 and 4.12.18, an Authorised Firm must risk-weight any Exposure to a

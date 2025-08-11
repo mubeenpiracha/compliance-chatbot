@@ -1,0 +1,123 @@
+ meet contractual repayment terms of the credit facility;
+
+b.
+
+unfavourable economic and market conditions or operating problems that would affect the profitability and cash flow generation of the borrower;
+
+c.
+
+weak financial condition or the inability of the borrower to generate sufficient cash flow to service the payments.;
+
+d.
+
+difficulties experienced by the borrower in servicing its other debt obligations; or
+
+e.
+
+breach of any financial covenants by the borrower.
+
+96
+
+PIB/VER50/07-25
+
+4.5.5
+
+4.5.6
+
+4.5.7
+
+4.5.8
+
+4.5.9
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+An Authorised Firm must have detailed policies, processes and resources for managing problem credits which address the following:
+
+(a)
+
+monitoring of credits and early identification of credit quality deterioration;
+
+(b)
+
+review of classification of problem credits; and
+
+(c)
+
+ongoing oversight of problem credits, and for collecting on past due obligations.
+
+An Authorised Firm must ensure that each and every credit which qualifies as a Large Exposure and is classified as an impaired credit is managed individually. This includes valuation, classification and provisioning for such credits on an individual item basis.
+
+Any evergreening exercise involving refinancing of past due credits must not result in their being classified as a higher category. In particular, impaired credits cannot be refinanced with the aim of classifying them as standard or special mention credits.
+
+An Authorised Firm’s provisioning policy must specify the following minimum provisioning requirements:
+
+(a)
+
+for substandard assets – 20% of the unsecured portion of the credit;
+
+(b)
+
+for doubtful assets – 50% of the unsecured portion of the credit; and
+
+(c)
+
+for loss assets – 100% of the unsecured portion of the credit.
+
+An Authorised Firm must, on a periodic basis, at a minimum monthly frequency, review its problem credits (at an individual level or at a portfolio level for credits with homogeneous characteristics) and review the asset classification, provisioning and write-offs for each of those problem credits.
+
+97
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+PART 3 - CRCOM
+
+4.6
+
+Application
+
+Guidance
+
+1.
+
+As indicated in Rule 4.1.1, this chapter 4 (including this part 3) applies to Authorised Firms in Categories 1, 2, 3A and 5. However, the provisions in this part are applied in a differentiated manner in that Category 3A firms must, and Category 2 firms may, use the Simplified Approach under section 4.7.
+
+2.
+
+The Credit Risk Capital Requirement (also referred to in this module as CRCOM) is a component of the calculation of the overall Capital Requirement of an Authorised Firm, as provided in Rules 3.8.2 and 3.8.3. The Rules in this part 3, supplemented by App4, govern the manner of calculation of the CRCOM.
+
+4.7
+
+Simplified Approach
+
+Category 3A firms
+
+4.7.1
+
+(1)
+
+This Rule applies only to an Authorised Firm in Category 3A.
+
+(2)
+
+Subject to (3) and (4), an Authorised Firm must apply the Simplified Approach as prescribed in section A4.12 in App4.
+
+(3)
+
+An Authorised Firm is not required to apply the Simplified Approach if it obtains prior approval of the DFSA not to do so.
+
+(4)
+
+After obtaining approval under (3), a firm must not revert to the Simplified Approach without further prior approval from the DFSA.
+
+Guidance
+
+1.
+
+In effect, the Simplified Approach reduces undue regulatory burden on Category 3A firms to reflect more appropriately their risk profile.
+
+2.
+
+In relation to (3) and (4), the DFSA may consider granting its approval for a change of approach if it is satisfied that there are no regulatory capital arbitrage opportunities. Firms should be able to demonstrate to the DFSA solid and reasonable grounds to be able to move from one approach to the other. For instance, in assessing whether or not to grant approval, the DFSA may consider whether or not there has been a material change in the

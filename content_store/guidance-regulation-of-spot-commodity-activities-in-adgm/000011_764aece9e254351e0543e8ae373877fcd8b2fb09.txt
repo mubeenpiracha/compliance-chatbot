@@ -1,0 +1,37 @@
+ in the most efficient and effective way.
+
+13
+
+VER02.181223
+
+b)
+
+Authorised Persons should, on a periodic basis, carry out a proper risk based assessment of their processes and activities. In order to implement the RBA, Authorised Persons are expected to have processes in place to identify, assess, monitor, manage and mitigate ML risks. The general principle is that in circumstances where there are higher risks of ML, Authorised Persons are required to implement enhanced measures to manage and mitigate those risks.
+
+c) With the use of Spot Commodities being largely unregulated within financial services, any financial institution banking an Authorised Person conducting Regulated Activities using Spot Commodities must not only satisfy itself, but also its foreign correspondent financial institution(s), that the Authorised Person is well regulated and has appropriate systems and controls in place to address ML, TF and sanctions risks. These systems and controls should include robust processes to carry out ‘customer risk assessment’ and ‘customer due diligence’ checks (collectively, “CDD”) on Clients and beneficial owners, to monitor transactions for these risks, and the willingness and ability of the Authorised Person to provide complete transparency to its financial institution(s) and foreign correspondent financial institution(s) if and when required.
+
+Principle 2: Business Risk Assessment
+
+d) Chapter 6 of the AML Rules requires Relevant Persons to take appropriate steps to identify and assess the ML risks to which their businesses are exposed, taking into consideration the nature, size and complexity of their activities. Importantly, in the context of Spot Commodities, FATF Recommendation (15) states that:
+
+“Countries and financial institutions should identify and assess the money laundering or terrorist financing risks that may arise in relation to (a) the development of new products and new business practices, including new delivery mechanisms, and (b) the use of new or developing technologies for both new and pre-existing products. In the case of financial institutions, such a risk assessment should take place prior to the launch of the new products, business practices or the use of new or developing technologies. They should take appropriate measures to manage and mitigate those risks.”
+
+e)
+
+Another aspect of assessing the business risk relevant to Authorised Persons is gaining familiarity with the characteristics and terminology10 of the Spot Commodity industry. Additionally, Authorised Persons, and their management and staff, should be aware of the possible misuse of Spot Commodities in criminal activities, as well as the physical nature of Spot Commodities (including delivery and storage facilities).
+
+f) When making its assessment, an Authorised Person must give consideration to all business risks. For example, while an issue may be identified in relation to delivery soundness, the FSRA expects Authorised Persons to consider these risks from all perspectives to establish whether the risk triggers other issues for consideration (including ML/TF risks, technology governance and consumer protection). An Authorised Person must then use the identified risks to develop and maintain its AML/CTF policies, procedures, systems and controls and take all reasonable steps to eliminate or manage such risks.
+
+10 Examples of Spot Commodities relevant terminology include commercial terms of delivery, such as FOB, CIF, CFR, DES and DAP.
+
+14
+
+VER02.181223
+
+Principle 3: Due Diligence
+
+g)
+
+The Authorised Person, where it is operating an MTF or OTF, is to assess whether a potential Member is adequately regulated in its home jurisdiction, such that the Authorised Person can suitably rely on its Members, to undertake Customer Risk Assessment and CDD checks. Where Members/Clients are not properly regulated, the FSRA expects that MTFs or OTFs will centralise the relevant compliance activities internally (and not be able to rely on their ‘members’ for such purposes).
+
+h) CDD rules, policies and procedures are required to be implemented by all Authorised Persons. Authorised Persons should have a process to ensure its Members (and/or in relevant circumstances, itself) assess all Clients according to the Client’s risk profile (and taking into consideration the Authorised Person’s RBA). This risk-based assessment is required to be undertaken for each Client prior to transacting any business on behalf of the Client. Authorised Persons must, as applicable, ensure CDD is undertaken for each Client and comply in full with Chapter 8 of the AML Rules noting that the FSRA does not consider it appropriate for Authorised Persons (or its Members, as applicable)

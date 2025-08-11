@@ -1,0 +1,113 @@
+ funding via various techniques such as improved valuation of available collateral, repurchase agreements (“repo”), bonds issuance, monetisation of unencumbered assets; and
+
+e.
+
+reduction of RWA (as defined in PIB) or leverage.
+
+12.
+
+In terms of contingency funding sources, while it is conceivable that parental financial support would, in many cases, be the most credible recovery option, Authorised Firms are expected to consider all funding options available, at the level of the DIFC entity, and set them out in the Recovery Plan.
+
+Resolution Planning
+
+Guidance
+
+1.
+
+The DFSA may, where it considers it necessary and practicable to do so, prepare a Resolution Plan for an Authorised Firm (see Article 84E of the Law).
+
+2.
+
+The DFSA may, in preparing a Resolution Plan:
+
+a.
+
+create the Resolution Plan, or parts thereof, itself;
+
+10
+
+RAR/VER1/04-20
+
+RECOVERY AND RESOLUTION (RAR)
+
+b.
+
+amend or accept a resolution plan, or parts thereof, created or provided by the Authorised Firm or any other person (such as a Resolution Authority in another jurisdiction); or
+
+c.
+
+prepare the Resolution Plan using a combination of a. and b.
+
+3
+
+Where it has prepared a Resolution Plan, the DFSA may review and update it:
+
+a.
+
+on a regular basis; or
+
+b.
+
+after material changes to the legal or organisational structure of the Authorised Firm, or to its business or financial position, which could have a material effect on the effectiveness of the Resolution Plan.
+
+Content of the Resolution Plan
+
+4.
+
+The Resolution Plan may set out any relevant matters, including the following:
+
+a.
+
+financial and economic functions for which continuity is critical;
+
+b.
+
+the resolution strategy and the Resolution Powers or Resolution Tools which the DFSA would plan to take if the Authorised Firm concerned met the Resolution Conditions, particularly in view of preserving Critical Functions;
+
+c.
+
+options for exercising Resolution Powers and applying Resolution Tools in the context of the potential Resolution scenarios;
+
+d.
+
+data requirements for the Authorised Firm’s operations, structures and Critical Functions;
+
+e.
+
+potential barriers to effective Resolution and actions to mitigate these;
+
+f.
+
+actions to protect depositors and for the prompt return of Client Assets; and
+
+g.
+
+actions or principles for exit from Resolution.
+
+DFSA’s general approach to resolution planning
+
+5.
+
+The DFSA will aim to approach resolution planning proportionally, taking into account its Resolution Objectives, including the systemic importance of the Authorised Firm or its Group, the need to maintain Critical Functions, protect depositors and Client Assets as well as, more broadly, the impact on and the reputation of the DIFC. Proportionality also implies that the DFSA’s approach will take account of the nature, complexity, interconnectedness, level of substitutability, size and extent of cross- border operations of the Authorised Firm.
+
+6.
+
+The DFSA will consider all potential, credible and feasible options for a resolution strategy for an Authorised Firm, including, where possible, options with respect to the position of the Authorised Firm in its Group Resolution Plan prepared by the home Resolution Authority, provided its relevant parts are available to the DFSA.
+
+7.
+
+The DFSA will cooperate, to the extent possible, with the home Resolution Authority and any other relevant Resolution Authorities.
+
+8.
+
+The DFSA will consider Resolution Plans prepared by other Resolution Authorities in light of its Resolution Objectives and whether the position of the DIFC entity has been adequately taken into account. If the DFSA considers that the preferred resolution strategy, as set out in the Group Resolution Plan, and the outcome for the DIFC, are indeed consistent with its Resolution Objectives and the position of the DIFC entity
+
+11
+
+RAR/VER1/04-20
+
+2.2.1
+
+RECOVERY AND RESOLUTION (RAR)
+
+has been sufficiently taken into account, it may limit its resolution planning to anticipating actions and expressing acceptance of the Group Resolution Plan. This would often imply that, in the event of Resolution, the DFSA would aim to take measures in the DIFC consistent with the home Resolution Authority’s actions taken in line with the Group Resolution Plan. If the DFSA is not satisfied that the Group Resolution Plan meets or is consistent with its Resolution Objectives, it will consider whether it is necessary to pursue alternative or independent strategies as the preferred resolution strategy in the DIF

@@ -1,0 +1,103 @@
+ and
+
+(b)
+
+the Exposures are of a revolving nature.
+
+(2)
+
+Where the underlying pool of a securitisation comprises revolving and term Exposures, an Authorised Person must apply the amortisation treatment outlined below for determining applicable regulatory capital only to that portion of the underlying pool containing revolving Exposures.
+
+4.14.52 An Authorised Person which is the Originator of a Revolving Securitisation that includes economic triggers for Early Amortisation may regard the Exposures as transferred for the period up to the point of repayment, provided that:
+
+(a)
+
+during the amortisation period there is full sharing of interest, principal, expenses, losses and recoveries; and
+
+(b)
+
+the Authorised Person's risk management system provides warning indicators when economic or non-economic triggers may be activated.
+
+164
+
+PRU VER17.290725
+
+Guidance
+
+Examples of such triggers include tax events, legal changes resulting in an Authorised Person's non-performance in its role as a servicing agent, and triggers relating to the insolvency of the Originator.
+
+4.14.53 An Authorised Person is not required to calculate a Capital Requirement for Early
+
+Amortisation in the following situations:
+
+(a)
+
+replenishment structures where the underlying Exposures do not revolve and the Early Amortisation ends the ability of the Authorised Person to add new Exposures;
+
+(b)
+
+where the risk associated with revolving assets containing amortisation features that mimic term structures, where the risk does not return to the Authorised Person;
+
+(c)
+
+structures where the Authorised Person securitises one or more credit lines and where investors remain fully exposed to future draws by borrowers so that the risk on the underlying facilities does not return to the Originator even after an Early Amortisation event has occurred; or
+
+(d)
+
+where the Early Amortisation clause is solely triggered by events not related to the performance of the securitised assets or the Authorised Person, such as material changes in tax laws or regulations.
+
+4.14.54 For an Authorised Person subject to the Capital Requirement referred to in Rule 4.14.51, the maximum Credit RWA calculated under that Rule must not exceed the greater of the following:
+
+(a)
+
+the RWA amounts calculated in respect of its positions in the investors' interest; or
+
+(b)
+
+the RWA amounts that would be calculated in respect of the securitised Exposures, if those had not been securitised.
+
+4.14.55 An Authorised Person must deduct from its CET1 Capital any gain-on-sale and Credit-Enhancing Interest-Only Strips arising from any securitisation subject to the provisions of the Rules above.
+
+Calculation of Credit RWA amounts for securitisation positions subject to Early Amortisation clause
+
+4.14.56
+
+In regard to securitisation positions subject to an Early Amortisation clause, the Credit RWA amounts for an Authorised Person acting as the Originator are calculated as the product of the following:
+
+(a)
+
+the investors' interest;
+
+(b)
+
+the appropriate CCF (in accordance with the table in Rule 4.14.61); and
+
+165
+
+PRU VER17.290725
+
+(c)
+
+the appropriate risk weight for the underlying Exposure type.
+
+Guidance
+
+In relation to Rule 4.14.57(c), the Authorised Person should also consider whether a line, or facility, is committed or uncommitted. A line is considered to be uncommitted if it is unconditionally cancellable without prior notice by the Authorised Person. They also differ according to whether the securitised Exposures are committed retail credit lines or credit lines (such as revolving credit facilities).
+
+4.14.57
+
+(1)
+
+An Early Amortisation provision that does not satisfy the conditions for a Controlled Early Amortisation provision will be treated as a non-Controlled Early Amortisation provision.
+
+(2)
+
+For the purpose of (1), the conditions for a Controlled Early Amortisation provision are as follows:
+
+(a)
+
+the Authorised Person must have an appropriate capital/liquidity plan in place to ensure that it has sufficient capital and liquidity available in the event of an Early Amortisation;
+
+(b)
+
+throughout the duration of the transaction, including the amortisation period, there is the same pro rata sharing of interest, principal, expenses, losses and recoveries

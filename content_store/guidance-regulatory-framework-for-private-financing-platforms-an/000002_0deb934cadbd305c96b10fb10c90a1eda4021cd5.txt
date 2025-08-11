@@ -1,0 +1,49 @@
+ Securities through the PCM Framework primarily to Professional Clients and a limited number of Retail Clients assessed to demonstrate adequate knowledge and experience to assess the risks of such investments.
+
+PFP Operators and MTF Operators generally do not provide financial advisory services to Clients. Under these circumstances, the onus is on Clients to seek independent financial advice or to make their own evaluation of the risks associated with any potential loan or investment. Professional Clients are considered to be more sophisticated and have more resources and capacity to make informed decisions on prospective debt and equity instruments offered through a PFP or MTF after considering the inherent risks.
+
+There may be instances where a PFP Operator would like to offer its services to potential, sophisticated Clients who do not meet the current financial criteria to be classified as a Professional Client. The FSRA may consider allowing the participation of these Clients where the Authorised Person are able to assess and verify that these Clients are able to adequately understand the risks associated with PFP Transactions, based on their knowledge and experience.
+
+In such circumstances, the PFP Operator may take into consideration information on the Client’s educational qualifications, investment experience and work experience. In addition, the PCM Framework, as outlined in Chapter 4 of the Markets Rules (MKT), limits participation to not more than 200 Clients which do not qualify as Professional Clients, where such Clients have been assessed to possess knowledge and experience sufficient to appreciate the relevant risks. As a prerequisite, the PFP Operator’s FSP must specifically permit it to deal with Retail Clients.
+
+All Clients must be pre-screened and onboarded by the PFP Operator, in accordance with COBS Chapter 2 and Chapter 18 as applicable, before being given access to the PFP.
+
+Similarly, a MTF Operator which seeks to grant access to the MTF, enabling Retail Clients to trade in Exempt Offer Securities must first assess the relevant knowledge and experience of each potential Client and limit the number of Retail Clients which trade in any specific Exempt Offer Security to not exceed 200. A MTF Operator seeking to use the Exempt Offer provisions in MKT Chapter 4 to enable trading is limited to listing
+
+3
+
+VER02.181223
+
+Securities that are Shares.
+
+3.3 PFP Prospects
+
+A PFP Prospect must be a Body Corporate. The FSRA is of the view that a PFP would be an inappropriate forum for use by natural persons seeking financing for a business venture for a number of reasons, including:
+
+(a)
+
+the inappropriateness of a PFP for the formation of partnerships between individuals; and
+
+(b)
+
+the undesirability of posting personal information enabling the Clients of a PFP to ascertain the creditworthiness of an individual.
+
+The FSRA is additionally of the view that a PFP would be inappropriate for capitalising ventures at the pre-incorporation stage of their development, given the lack of track record and the limited scope of potential due diligence that may be undertaken.
+
+3.4 Exempt Offers
+
+A Security being offered to the public within the ADGM must be accompanied by a Prospectus under Section 61 of FSMR, unless it qualifies as an Exempt Offer. Accordingly, the FSRA will only allow a financing proposal to be published on a PFP where it qualifies as an Exempt Offer through satisfying any of the criteria set out in MKT Rule 4.3.1, also bearing in mind Rules 4.3.2 and 4.3.3, which are included in Appendix 1 of this Guidance.
+
+Specifically where an Offer involves Retail Clients participation, it would qualify as an Exempt Offer if it is directed at no more than 200 Retail Clients, in circumstances where the Securities are offered within a PFP or MTF.
+
+Pursuant to such an Exempt Offer, a PFP Operator or MTF Operator is required to put in place appropriate systems and controls to ensure that the Issuer must provide a Product Summary Note to Retail Clients in accordance with the MKT APP 7.
+
+3.5 Client Assets
+
+As best practice, a PFP Operator should appoint an Eligible Custodian to safeguard Client Assets. However, alternative arrangements may be permitted by the FSRA where appropriate safeguards are implemented.
+
+In the case that a PFP Operator does not appoint an Eligible Custodian, it must comply with:
+
+(a)
+
+the higher capital requirements set out in Prudential – Investment, Insurance Intermediation and Banking (PRU) Chapter 

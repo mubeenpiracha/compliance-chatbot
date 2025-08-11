@@ -1,0 +1,155 @@
+ own Shares include:
+
+a.
+
+publication of the details of a Share repurchase programme including, where the dates and quantities of Shares to be purchased during the relevant period are fixed, disclosure of such dates and quantities; and
+
+b.
+
+restrictions on the number of Shares which may be purchased in any given period.
+
+c.
+
+in the case of a tender offer, limiting the top of the price range to be offered to sellers to a volume-weighted average price for a period preceding the commencement of the Share repurchase programme;
+
+d.
+
+in the case of a tender offer, restricting any Director or his Associate from undertaking any Share transactions during the course of the Share repurchase programme;
+
+e.
+
+unless a fixed schedule of Share buybacks had been published, restricting Share repurchases during any period when the Listed Entity has unpublished Inside Information;
+
+f.
+
+publication of details of the mechanism that will be used to carry out the Share repurchase; and
+
+g.
+
+if the repurchase will take place on the open market, a requirement to ensure that transactions are carried out at arms-length.
+
+The decision by the Board of a Listed Entity to obtain prior approval from its shareholders for the Listed Entity to purchase its own securities must be announced to the market as soon as possible after such decision is made.
+
+The announcement in (1) must set out whether the proposal relates to:
+
+(a)
+
+specific purchases and if so, names of the Persons from whom the purchases are to be made; or
+
+(b)
+
+a general authorisation to make the purchases.
+
+A Listed Entity must notify the market as soon as possible of the outcome of the shareholders’ meeting to decide the proposal in (1).
+
+Any purchase of a Listed Entity’s own Shares by or on behalf of the Listed Entity or any other member its Group must be disclosed to the market as soon as possible.
+
+The disclosure in (1) must include:
+
+(a)
+
+the date of purchase;
+
+(b)
+
+the number of Shares purchased;
+
+(c)
+
+where relevant, the highest and lowest purchase prices paid:
+
+(d)
+
+the number of Shares purchased for cancellation and the number of Shares purchased to be held as treasury Shares; and
+
+(e)
+
+where the Shares were purchased to be held as treasury Shares, a statement of:
+
+97
+
+MKT/VER24/03-25
+
+MARKETS RULES (MKT)
+
+(i)
+
+the total number of treasury Shares of each class held by the Listed Entity following the purchase and non-cancellation of such Shares; and
+
+(ii)
+
+the number of Shares of each class that the Listed Entity has outstanding less the total number of treasury Shares of each class held by the Listed Entity following the purchase and non- cancellation of such Shares.
+
+(3)
+
+In (2), “treasury Shares” means Shares which are:
+
+(a)
+
+admitted to the Official List of Securities;
+
+(b)
+
+held by the same company which issued the Shares; and
+
+(c)
+
+purchased by the company in (b) using its distributable profits.
+
+Other ongoing requirements
+
+9.7.7 A Listed Entity must ensure that:
+
+(a)
+
+its business remains suitable for listing;
+
+(b)
+
+it can operate its business independently of a controlling shareholder and any Associate; and
+
+(c)
+
+it has adequate systems and controls to eliminate or manage material conflicts of interest in its business on an ongoing basis,
+
+at all times.
+
+Guidance
+
+1.
+
+Rule 9.3.4 describes the suitability criteria which the DFSA will consider when assessing whether a Listed Entity’s business is suitable for listing.
+
+2.
+
+Rule 9.3.6(3) defines a controlling shareholder for the purposes of the Listing Rules.
+
+Security specific disclosures
+
+9.7.8 A Listed Entity must make the required market disclosures in accordance with App3 and section A6.1 and comply with the other continuous obligations in accordance with section A6.2.
+
+Guidance
+
+There are additional disclosure requirements applicable to Islamic Securities specified in the IFR module.
+
+9.8 Provision of information to the DFSA
+
+9.8.1 An Applicant or Listed Entity must provide to the DFSA as soon as possible:
+
+(a)
+
+any information and explanations which the DFSA may reasonably require to decide whether to grant an application for admission;
+
+98
+
+MKT/VER24/03-25
+
+MARKETS RULES (MKT)
+
+(b)
+
+any information which the DFSA considers appropriate to protect investors or ensure the smooth operation of the market; and
+
+(c)
+
+any other information or explanation which the DFSA may reasonably require

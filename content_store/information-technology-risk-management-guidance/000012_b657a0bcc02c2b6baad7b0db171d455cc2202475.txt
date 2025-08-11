@@ -1,0 +1,61 @@
+ in place to detect risk events when they occur. Financial institutions should also put processes in place to allow reporting of risk events
+
+19
+
+VER01.201124
+
+by staff and by external parties. These systems and processes should capture the risk event’s nature and scale.
+
+2.5.6
+
+Incidents may occur at any time and at any system in the financial institution’s technology implementation. A financial institution should monitor all hardware, software, networks, and connections for risk events.
+
+2.5.7
+
+Financial institutions should regularly broadcast the incident management framework to ensure that staff are apprised of incident reporting procedures and informed of lessons learned from manifested risk events in a timely manner.
+
+Incident Investigation and Escalation
+
+2.5.8
+
+Financial institutions should promptly investigate risk events to ascertain their nature and scale, and to verify whether a risk event is an incident.
+
+2.5.9
+
+If the risk event has been confirmed to be an incident, financial institutions should promptly assess the incident to assign it an initial severity. Financial institutions should continue to assess the incident as it develops to determine if a higher or lower severity is warranted.
+
+2.5.10 A financial institution should ascertain the scope of the incident’s impact and quickly contain the impact of the incident e.g., by isolating affected resources from the rest of the IT environment, redirecting network traffic to unaffected resources, ensuring backups are only restored from versions not impacted by the incident, etc.
+
+2.5.11 Financial institutions should ensure that there are adequate resources available at all times to respond to incidents. As incidents can occur at any time, financial institutions should make necessary arrangements internally or through third parties to perform the necessary investigations during incidents. The incident management framework should account for any third parties involved and require performance and reporting outcomes.
+
+Response and Recovery
+
+2.5.12
+
+If the incident is expected to have or has already made a material impact on business operations and/or services to customers, a financial institution should ensure that the Governing Body and senior management are regularly apprised of the situation and provided with adequate information to make a decision on whether or not to activate business continuity plans.
+
+2.5.13 As part of its incident management framework, a financial institution should establish an incident playbook comprising approved and validated steps to be taken to respond to common incidents. Such a playbook reduces the time to action when an incident occurs and provides a consistent reference point. The incident response playbook should be regularly tested and updated to ensure it remains effective, and aligned with the financial institution’s business continuity and disaster recovery plans.
+
+20
+
+VER01.201124
+
+2.5.14 Once a financial institution has recovered from an incident, whether material or not, it should conduct an after-action review to identify the root cause(s) of the incident and interventions that could have prevented or mitigated the impact of the incident. Financial institutions should translate applicable lessons learnt from the after-action review process into improved procedures for personnel to follow, enhanced controls to be implemented, and/or changes to systems to close vulnerabilities.
+
+Communication Plan
+
+2.5.15 As part of its incident management framework, financial institutions should have a clear communication plan in place to update relevant stakeholders during an incident. Financial institutions should at a minimum include the Governing Body, senior management, media, customers and the general public as relevant stakeholders.
+
+2.5.16 The communication plan should set out what messages the financial institution intends to convey, at what point these messages will be sent and to whom the messages will be sent both internally and externally. It should also set out what coordination points the financial institution intends to set up with its stakeholders. Where possible, the communication plan should include pre-defined statements for release to media or for public queries.
+
+2.5.17 Financial institutions should regularly update their communication plans to ensure that the messages and recipients remain accurate and relevant. This will make the spread of misinformation and confusion less likely.
+
+2.5.18 Financial
+
+institutions should ensure that the relevant staff are aware of the communication plan and their responsibilities in executing the plan. This will make conflicting messages less likely, reducing confusion.
+
+2.5.19 During an incident, the financial institution should deviate from the communication plan only where the consequences of deviation are understood and accepted by senior management.
+
+Incident Reporting
+
+2.5.20 A financial institution should establish procedures and escalation frameworks to facilitate compliance with incident reporting obligations in the prescribed format required by regulators and other

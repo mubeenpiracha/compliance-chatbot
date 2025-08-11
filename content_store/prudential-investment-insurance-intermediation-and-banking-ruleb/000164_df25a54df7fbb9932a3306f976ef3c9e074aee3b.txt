@@ -1,0 +1,237 @@
+�𝑎𝑟𝑔𝑖𝑛𝑒𝑑) = √
+
+min (𝑀𝑖;1 𝑦𝑒𝑎𝑟) 1 𝑦𝑒𝑎𝑟
+
+294
+
+PRU VER17.290725
+
+where Mi is the remaining maturity of the transaction, floored at ten business days.
+
+Guidance
+
+The formula requires that the minimum time risk horizon for unmargined transactions is the lesser of one year and the remaining maturity of the derivative contract, floored at ten business days.
+
+Time risk horizons – margined transactions
+
+A4.6.33 The Authorised Person must calculate the MFi of margined transactions in accordance
+
+with the following formula:
+
+𝑀𝐹𝑖
+
+(𝑚𝑎𝑟𝑔𝑖𝑛𝑒𝑑) =
+
+3 2
+
+√
+
+𝑀𝑃𝑂𝑅𝑖 1 𝑦𝑒𝑎𝑟
+
+The appropriate margin period of risk (MPORi) is determined in accordance with the following table:
+
+Transaction Type
+
+Minimum Margin Period of Risk (MPORi)
+
+Non-centrally-cleared derivative transactions subject to daily margin agreements
+
+Ten business days
+
+Centrally cleared derivative transactions subject to daily margin agreements
+
+Five business days
+
+Netting sets consisting of 5,000 or more transactions that are not with a central counterparty
+
+Twenty business days
+
+Netting sets with outstanding disputes
+
+Double the MPORi for the relevant category of transaction
+
+Supervisory factors, correlation and supervisory option volatilities
+
+A4.6.34 Supervisory factors are specific to each asset class. The Authorised Person must refer to the table below to determine the supervisory factor relevant to their determination of the add-on for their particular asset class in accordance with the asset-class- specific formulae set out in Rules A4.6.35 to A4.6.58.
+
+295
+
+PRU VER17.290725
+
+Asset Class
+
+Subclass
+
+Supervisory factor SF (%)
+
+Correlation ρ (%)
+
+Supervisory option volatility σ (%)
+
+Interest rate
+
+0.50
+
+n/a
+
+50
+
+Foreign exchange
+
+4.0
+
+n/a
+
+15
+
+CQG 1
+
+0.38
+
+50
+
+100
+
+Credit, single name (where CQG represents Credit Quality Grade)
+
+CQG 2
+
+CQG 3
+
+CQG 4
+
+0.42
+
+0.54
+
+1.06
+
+50
+
+50
+
+50
+
+100
+
+100
+
+100
+
+CQG 5
+
+1.6
+
+50
+
+100
+
+CQG 6
+
+6.0
+
+50
+
+100
+
+Investment Grade
+
+0.38
+
+80
+
+80
+
+Credit, index
+
+Non- Investment Grade
+
+1.06
+
+80
+
+80
+
+Equity, single name
+
+32
+
+50
+
+120
+
+Equity, index
+
+20
+
+80
+
+75
+
+Electricity
+
+40
+
+40
+
+150
+
+Oil/Gas
+
+18
+
+40
+
+70
+
+Commodity
+
+Metals
+
+18
+
+40
+
+70
+
+Agricultural
+
+18
+
+40
+
+70
+
+Other
+
+18
+
+40
+
+70
+
+Trade level adjusted notional – interest rate (di
+
+(IR)) and credit derivatives (di
+
+(Credit))
+
+A4.6.35 For interest rate and credit derivatives, the trade-level adjusted notional is the product of the trade notional amount, converted to the domestic currency, and the supervisory duration (SDi):
+
+Trade-level adjusted notional = Trade notional amount * SDi
+
+296
+
+PRU VER17.290725
+
+A4.6.36 SDi is determined in accordance with the following formula:
+
+𝑆𝐷𝑖 =
+
+exp(-0.05∗𝑆𝑖) − exp(-0.05∗𝐸𝑖) 0.05
+
+where Si and Ei are the start and end dates, respectively, of the time period referenced by the interest rate or credit derivative, floored by ten business days.
+
+Add-on for interest rate derivatives
+
+A4.6.37 The add-on

@@ -1,0 +1,83 @@
+50(3)(a) of the Law, an Information Memorandum of an Exempt Fund or a Qualified Investor Fund is a Prospectus for the purposes of the Law and the Rules unless otherwise provided. In limited circumstances, the Rules prescribe additional disclosure to be included in a Prospectus of an Exempt Fund (for example Rule 13.6.3 where an Exempt Fund appoints a prime broker with certain additional powers).
+
+2.
+
+There is no detailed prescribed disclosure content for the Information Memorandum of an Exempt Fund or a Qualified Investor Fund. However, as an Information Memorandum is a Prospectus, it is subject to the disclosure obligation in Article 52(2) of the Law. As a result, a Fund Manager of such a Fund must include all the information which Professional Clients to whom it intends to Offer Units of the Fund would reasonably require and expect to find in such a Prospectus. This is to enable such Clients to make an informed decision relating to investing in the Fund.
+
+131
+
+CIR/VER38/08-24
+
+14.3.3
+
+COLLECTIVE INVESTMENT RULES (CIR)
+
+3.
+
+In the case of an Information Memorandum for an Exempt Fund or Qualified Investor Fund with Units that are Security Tokens, or where a material part of the Fund Property consists of Investment Tokens or Crypto Tokens, the DFSA considers that Professional Clients would reasonably require and expect to find in such a Prospectus the information specified in MKT App 7.
+
+Mandatory statement
+
+(1)
+
+A Fund Manager of a Public Fund must, except as provided in (1A) and (2), include in the Fund’s Prospectus, the following statement displayed prominently on its front page:
+
+“This Prospectus relates to a DIFC Fund in accordance with the Collective Investment Law 2010 and Rules of the Dubai Financial Services Authority (“DFSA”).
+
+The DFSA has no responsibility for reviewing or verifying any Prospectus or other documents in connection with this Domestic Fund. Accordingly, the DFSA has not approved this Prospectus or any other associated documents nor taken any steps to verify the information set out in this Prospectus, and has no responsibility for it.
+
+The Units to which this Prospectus relates may be illiquid and/or subject to restrictions on their resale. Prospective purchasers of the Units offered should conduct their own due diligence on the Units.
+
+If you do not understand the contents of this document you should consult an authorised financial adviser.”
+
+(1A) For a Public Fund that is a Passported Fund, instead of the statement referred to in (1), the Fund Manager must include the statement specified in FPR Rule 3.2.3(e).
+
+(2)
+
+In the case of a Public Fund which is a Listed Fund, the Fund Manager must include, instead of the statement referred to in (1), the statement required:
+
+(a) under MKT Rule 6.3.1(1)(b)(iii) or (4) as applicable, if it is a
+
+conventional Listed Fund; and
+
+(b) under IFR Rule 6.5.1(h), if it is an Islamic Fund.
+
+(3)
+
+If a Fund is an Exempt Fund, the Fund Manager must include, in addition to the statement referred to in (1), the following statement:
+
+“This Information Memorandum is intended for only Professional Clients who can make a minimum subscription of US$50,000 and must not, therefore, be delivered to, or relied on by, a Retail Client or a Professional Client not able to make that minimum subscription.”
+
+(4)
+
+If an Exempt Fund is a Passported Fund, the Fund Manager must include, instead of the statement in (1), the statement specified in FPR Rule 3.1.3(d) and the statement referred to in (3).
+
+132
+
+CIR/VER38/08-24
+
+14.4
+
+14.4.1
+
+14.4.2
+
+COLLECTIVE INVESTMENT RULES (CIR)
+
+Additional Prospectus disclosure for specialist Funds
+
+Prospectus of a Feeder Fund
+
+A Fund Manager of a Feeder Fund must ensure that the Fund’s Prospectus discloses:
+
+(a)
+
+a prominent risk warning to alert prospective Unitholders to the fact that they will be subject to higher fees arising from the layered investment structure;
+
+(b)
+
+the fees arising at the level of:
+
+(i)
+
+the Feeder Fund itself

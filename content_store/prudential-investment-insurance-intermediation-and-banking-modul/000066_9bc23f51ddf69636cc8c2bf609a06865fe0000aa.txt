@@ -1,0 +1,109 @@
+ calculated in accordance with (a); and
+
+(iii)
+
+“CRW” refers to the applicable risk weight for the underlying Exposure type as if the Exposure had not been securitised; and
+
+(c)
+
+add the RWA amounts calculated in accordance with (b) for all its Early Amortisation Exposures.
+
+The aggregate RWA amount for all of the SE Exposures of an Authorised Firm to a securitisation and Exposures arising from Credit Risk mitigation applied to those SE Exposures must not exceed the aggregate RWA amount corresponding to the underlying Exposures of the securitisation had they been on the balance sheet of the Authorised Firm and included in the calculation of the Credit RWA of the Authorised Firm. For avoidance of doubt, the aggregate RWA amount must not include any deduction for a gain-on-sale or a Credit-Enhancing Interest-Only Strip arising from the securitisation.
+
+Calculation of RWA for Counterparty Credit Risk Exposures (CCR Exposures)
+
+To calculate its RWA for its CCR Exposures, an Authorised Firm must:
+
+(a)
+
+calculate the value of each CCR Exposure in accordance with the methodology specified in section 4.14A;
+
+(b)
+
+categorise each CCR Exposure in accordance with the Rules in section 4.10 as if it were a CR Exposure;
+
+101
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+(c)
+
+allocate an applicable Credit Quality Grade and risk weight for each CCR Exposure based on the Counterparty in accordance with the Rules in section 4.11 and 4.12;
+
+(d)
+
+calculate the RWA amount for each CCR Exposure using the following formula:
+
+RWA(CCR) = CCRE x CCRW
+
+where:
+
+(i)
+
+“RWA(CCR)” refers to the risk-weighted Exposure amount for that CCR Exposure;
+
+(ii)
+
+“CCRE” refers to the Exposure value or amount for that CCR Exposure; and
+
+(iii)
+
+“CCRW” refers to the applicable risk weight for that CCR Exposure determined in accordance with (b) and (c); and
+
+(e)
+
+add the RWA amounts calculated in accordance with (d) for all its CCR Exposures.
+
+Guidance
+
+The calculation of the CRW for Unsettled Transactions is set out in section A4.6.
+
+4.9 Methodology for measurement of Exposures
+
+4.9.1
+
+An Authorised Firm must apply the Exposure measurement methodology set out in the Rules in this part to calculate the value or amount of an Exposure for any CR Exposure, SE Exposure, CCR Exposure or SR Exposure.
+
+Guidance
+
+1.
+
+The measurement methodology in this section prescribes the manner of calculation of Exposures for the purpose of determining the Credit RWA for Credit Risk (CR) Exposures as provided in Rule 4.8.3, for securitisation (SE) Exposures as provided in Rule 4.8.4 and for Counterparty Credit Risk (CCR) Exposures as provided in Rule 4.8.7.
+
+2.
+
+Due regard should be given to the Guidance relating to prudent valuation in section 2.4 and related provisions in App2.5.
+
+3.
+
+An Authorised Firm should consult with the DFSA on the appropriate treatment to apply in the measurement of E, for transactions that have not been addressed in this part.
+
+4.9.2
+
+An Authorised Firm must calculate E for any CR Exposure, SE Exposure or CCR Exposure, net of any individual impairment provision attributable to such Exposures, as determined in accordance with the International Financial Reporting Standards.
+
+Measurement of E for on-balance sheet assets
+
+4.9.3
+
+For each on-balance sheet asset, E should be the carrying value of the asset as determined in accordance with the International Financial Reporting Standards.
+
+102
+
+PIB/VER50/07-25
+
+4.9.4
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+Guidance
+
+1.
+
+For any asset, E should be equal to the fair value of that asset presented in the balance sheet except that:
+
+a.
+
+for any asset held at cost, E, should be

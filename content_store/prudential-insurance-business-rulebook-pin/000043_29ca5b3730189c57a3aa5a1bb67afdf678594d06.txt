@@ -1,0 +1,153 @@
+ Insurer should give consideration to matters relevant to risk management, including the following:
+
+a.
+
+setting and monitoring of authority limits and referral requirements;
+
+b.
+
+the identification and assessment of performance targets;
+
+c.
+
+procedures for evaluation of performance against targets;
+
+d.
+
+provisions for remedial action;
+
+e.
+
+reporting requirements imposed on the outsource contractors (including both content and frequency of reports);
+
+f.
+
+the ability of the Insurer and its risk management functions (for example, internal auditors), and its external auditors, to obtain access to the outsource contractors and their records;
+
+g.
+
+protection of intellectual property rights;
+
+h.
+
+protection of customer and firm confidentiality;
+
+i.
+
+the adequacy of any guarantees, indemnities or insurance cover that the outsource contractor agrees to put in place;
+
+j.
+
+the ability of the outsource contractor to provide continuity of business; and
+
+k.
+
+arrangements for change to the outsource contract or termination of the contract.
+
+4.
+
+Insurers should take care to manage the risk that the sound and prudent management of the Insurer's business may be compromised by conflicting incentives in the outsource agreement. In particular, Insurers should consider whether the Remuneration structure creates any perverse incentives. For example, an outsource contractor with underwriting authority may have an
+
+70
+
+PIN VER07.290725
+
+incentive to accept poorer quality business if Remuneration is based on commission (especially if bonuses are given for volume) and Remuneration is not affected by the performance of the Contracts of Insurance accepted.
+
+5.
+
+Intra-group outsourcing may be perceived as subject to lower risks than using outsource contractors from outside a Group. However it is not risk-free and an Insurer must still assess the associated risks and make appropriate arrangements for their management.
+
+A2.14 Reinsurance risk
+
+Guidance
+
+1.
+
+Management of reinsurance risk relates to the selection, monitoring, review and control of reinsurance arrangements – that is, where some part of an Insurer's individual or aggregate insurance risks is ceded to other Insurers, whether by a direct Insurer to a reinsurer or by a reinsurer to other reinsurers.
+
+2.
+
+An Insurer should inform the Regulator immediately if there is a likelihood of a problem arising with its reinsurance arrangements that is likely to materially detract from its current or future capacity to meet its obligations, and discuss with the Regulator its plans to redress this situation. Problems that might trigger such a situation could include the insolvency of a reinsurer with a significant share in the Insurer's programme, discovery of exposures without current reinsurance coverage, or exhaustion of reinsurance covers through multiple losses.
+
+3.
+
+Each Insurer is required (by Rule 2.3.5) to maintain a written reinsurance management strategy appropriate to the size and complexity of operations of the Insurer and which defines and documents the Insurer's objectives and strategy for reinsurance management.
+
+4.
+
+An Insurer's reinsurance management strategy should, at a minimum, include the following elements:
+
+a.
+
+systems for the selection of reinsurance brokers and other reinsurance advisers;
+
+b.
+
+systems for selecting and monitoring reinsurance programmes;
+
+c.
+
+clearly defined managerial responsibilities and controls;
+
+d.
+
+clear methodologies for determining all aspects of a reinsurance programme, including:
+
+i.
+
+identification and management of aggregations of risk exposure;
+
+ii.
+
+selection of maximum probable loss factors;
+
+71
+
+PIN VER07.290725
+
+iii.
+
+selection of realistic disaster scenarios, return periods and geographical aggregation areas; and
+
+iv.
+
+identification and management of vertical and horizontal coverage of the reinsurance programme;
+
+e.
+
+selection of participants on consideration of diversification and credit worthiness; and
+
+reinsurance contracts,
+
+including
+
+f.
+
+systems for identifying credit exposures (actual and potential) to individual reinsurers or Groups of connected reinsurers on programmes that are already in place.
+
+5.
+
+Senior management should review an Insurer's reinsurance management systems on a regular basis. The review should cover:
+
+a.
+
+the reinsurance is attached;
+
+identification and recording of policies underwritten to which
+
+b.
+
+the identification of the dates when an obligation to pay reinsurance premiums arises;
+
+c.
+
+the identification of losses triggering recoveries under reinsurance contracts;
+
+d.
+
+management of the timing of payments to, and collections from, reinsurance counterparties;
+
+e.
+
+the credit standing and capacity of reinsurance counterparties to meet obligations to which they are subject as

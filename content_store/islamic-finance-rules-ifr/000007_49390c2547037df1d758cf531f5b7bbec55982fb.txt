@@ -1,0 +1,143 @@
+ari’a. The standard covers the following:
+
+a.
+
+objectives;
+
+b.
+
+internal Shari’a Review;
+
+c.
+
+independence and objectivity;
+
+d.
+
+professional proficiency;
+
+e.
+
+scope of work;
+
+f.
+
+performance of the internal Shari’a Review work;
+
+g.
+
+management of the internal Shari’a Review;
+
+h.
+
+quality assurance; and
+
+i.
+
+elements of an effective internal Shari’a Review control system.
+
+An Authorised Person must ensure that the internal Shari’a review is performed by the internal audit function or the compliance function of the Authorised Person and that the individuals or departments involved in performing the review are competent and sufficiently independent to assess compliance with Shari’a.
+
+Guidance
+
+For the purposes of assessing competency of personnel or departments which perform the internal Shari’a review, an Authorised Person should consult AAOIFI GSIFI No. 3 paragraphs 9 to 16 inclusive.
+
+10
+
+IFR/VER21/03-25
+
+3.8
+
+3.8.1
+
+ISLAMIC FINANCE RULES (IFR)
+
+Additional conduct requirements
+
+Guidance
+
+The COB module contains conduct of business requirements that apply to Authorised Firms conducting Financial Services. The AMI module contains additional conduct standards that apply to Authorised Market Institutions. Set out below are additional conduct requirements that apply to an Authorised Person carrying out any Financial Service in accordance with Shari’a.
+
+Disclosure relating to Shari’a Supervisory Board
+
+(1)
+
+An Authorised Firm, subject to (2), must disclose to each Client:
+
+(a)
+
+at the outset of the relationship and thereafter at any time on request, details of the Authorised Firm’s Shari’a Supervisory Board; and
+
+the members of
+
+(b)
+
+at any time on request, details of the manner and frequency of Shari’a reviews.
+
+(2)
+
+An Authorised Firm does not have to make the disclosure required under (1) if it is a Fund Manager of a Fund and is making an Offer of Units of that Fund in accordance with the disclosure requirements in the Collective Investment Law 2010, the CIR module and this module.
+
+(3)
+
+An Authorised Market Institution must disclose the following information to each Person granted access to its facilities at the the outset of information changes:
+
+the
+
+relationship, and
+
+thereafter whenever
+
+(a)
+
+the members of the Authorised Market Institution’s Shari’a Supervisory Board; and
+
+(b)
+
+if the Person granted access to its facilities requests, the manner and frequency of Shari’a reviews.
+
+Guidance
+
+1.
+
+An Authorised Firm may make the initial disclosures required under Rule 3.8.1(a) by including such information in the Client Agreement provided under COB chapter 3.
+
+2.
+
+An Authorised Firm Managing a PSIA may make additional disclosure required to be made relating to PSIA by including such information in the Client Agreement. See chapter 5 for additional disclosure for PSIAs.
+
+3.
+
+A Fund Manager making an Offer of a Unit of a Fund it manages is required under CIR Rules 14.3.1(b) and 14.3.2(b) to include information specified in Rule 3.8.1(1) in the Prospectus which it must prepare and make available to Clients, hence the exemption in Rule 3.8.1(2). A similar exemption is available to Fund Managers with regard to key information that must be provided to a Client under COB Rule 3.3.1(e).
+
+11
+
+IFR/VER21/03-25
+
+3.8.2
+
+3.8.3
+
+3.8.4
+
+3.9
+
+ISLAMIC FINANCE RULES (IFR)
+
+Marketing material
+
+In addition to information required by COB 3.2, any marketing material communicated by an Authorised Firm to a Person must state which Shari’a Supervisory Board has reviewed the products or services to which the material relates.
+
+Guidance
+
+COB section 3.2.4 sets out the meaning of “marketing material”.
+
+Islamic window
+
+(1)
+
+An Authorised Firm which operates an Islamic Window must, subject to (3), disclose to its Clients whether or not it commingles funds attributable to its Islamic Financial Business with funds attributable to conventional financial business.
+
+(2)
+
+An Authorised Market Institution which operates an Islamic Window must disclose to any Person granted access to its facilities whether or not it

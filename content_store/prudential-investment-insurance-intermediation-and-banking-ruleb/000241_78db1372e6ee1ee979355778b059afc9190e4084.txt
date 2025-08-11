@@ -1,0 +1,79 @@
+ central banks with residual maturities of less than six months
+
+0%
+
+“trade date” receivables arising from sales of financial instruments, foreign currencies and commodities that: o are expected to settle within the standard settlement cycle or period that
+
+is customary for the relevant exchange or type of transaction; or
+
+o have failed to, but are still expected to, settle
+
+425
+
+PRU VER17.290725
+
+RSF factor
+
+RSF asset category
+
+5%
+
+unencumbered Level 1 HQLA as defined in Rule A10.2.6(2), excluding those assets receiving an RSF factor of 0% as above
+
+10%
+
+unencumbered loans to financial institutions with residual maturities of less than six months, where the loan is secured against Level 1 HQLA as defined in Rule A10.2.7(2), and where the bank has the ability to freely re-hypothecate the received collateral for the life of the loan
+
+unencumbered Level 2A assets as defined in Rule A10.2.8(2)
+
+15%
+
+all other unencumbered loans to financial institutions with residual maturities of less than six months not receiving an RSF factor of 10%
+
+unencumbered Level 2B assets as defined and subject to the conditions set forth in Rule A10.2.8
+
+any HQLA as defined in Rule A10.2.6, Rule 10.2.7 or Rule 10.2.8 that are encumbered for a period of between six months and less than one year
+
+all loans to financial institutions and central banks with residual maturity of between six months and less than one year
+
+all loans to financial institutions and central banks with residual maturity of between six months and less than one year
+
+operational deposits held at other financial institutions for operational purposes that are subject to the 50% ASF factor
+
+all other non-HQLA not included in the above categories that have a residual maturity of less than one year, including loans to non-financial corporate clients, loans to retail customers (i.e. natural persons) and small business customers, and loans to sovereigns and PSEs
+
+unencumbered residential mortgages with a residual maturity of one year or more that would qualify for a 50% or lower risk weight under Rule 4.12.17
+
+65%
+
+other unencumbered loans not included in the above categories, excluding loans to financial institutions, with a residual maturity of one year or more that would qualify for a 50% or lower risk weight under Section 4.12
+
+cash, securities or other assets posted as initial margin for Derivative Contracts or Shari’a compliant hedging contracts and cash or other assets provided to contribute to the default fund of a central counterparty (CCP). Where securities or other assets posted as initial margin for Derivative Contracts would otherwise receive a higher RSF factor, they must retain that higher factor
+
+85%
+
+other unencumbered performing loans19 that do not qualify for a 50% or lower risk weight under Section 4.12 and have residual maturities of one year or more, excluding loans to financial institutions
+
+unencumbered securities with a remaining maturity of one year or more and exchange-traded equities, that are not in default and do not qualify as HQLA according to the LCR
+
+physical traded commodities, including gold
+
+426
+
+PRU VER17.290725
+
+RSF factor
+
+RSF asset category
+
+all assets on the balance sheet that are encumbered for a period of one year or more
+
+NSFR derivative assets as calculated according to A10.4.11, net of NSFR derivative liabilities as calculated according to A10.4.4, if NSFR derivative assets are greater than NSFR derivative liabilities
+
+NSFR Shari’a compliant hedging assets net of NSFR Shari’a compliant hedging liabilities (where NSFR Shari’a compliant hedging assets are greater than NSFR Shari’a compliant hedging liabilities)
+
+100%
+
+all other assets not included in the above categories, including non- performing loans, loans to financial institutions with a residual maturity of one year or more, non-exchange-traded equities, fixed assets, items deducted from regulatory capital, retained interest, insurance assets, subsidiary interests and defaulted securities
+
+20% of derivative

@@ -1,0 +1,103 @@
+
+
+(b)
+
+Securities that have not previously been offered for sale or subscription to the public and have not been admitted to trading on a market operated by an Authorised Market Institution or an overseas investment exchange.
+
+352
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+Grey market transactions
+
+A5.8.5 (1)
+
+An Authorised Firm that buys and sells Securities before issue is dealing in the grey market for the purposes of this section.
+
+(2)
+
+The other Rules in section A5.8 do not apply to an Authorised Firm with respect to its dealings in the grey market unless the Authorised Firm:
+
+(a) has an Underwriting commitment to the Issuer in respect of those
+
+Securities; or
+
+(b) has a sub-underwriting commitment in respect of those Securities and is using the grey market solely for the purpose of reducing that sub- underwriting commitment.
+
+(3)
+
+The other Rules in section A5.8 do not apply to an Authorised Firm with respect to its dealings in the grey market if the transaction is undertaken by the proprietary trading part of the Authorised Firm or is undertaken for proprietary trading purposes.
+
+Guidance
+
+In Rule A5.8.5, the grey market is the market in which dealers "buy" and "sell" securities ahead of issue. In reality the dealers are buying and selling promises to deliver the securities when issued.
+
+Calculating the net underwriting position
+
+A5.8.6 An Authorised Firm must calculate a net Underwriting position from the date of initial commitment until the Underwriting process ends, as the initial gross commitment adjusted for:
+
+(a)
+
+Underwriting or sub-underwriting commitments obtained from others since the time of initial commitment;
+
+(b)
+
+purchases or sales of the Securities since the time of initial commitment;
+
+(c)
+
+any allocation of Securities granted or received, arising from the commitment to underwrite the Securities, since the time of initial commitment; and
+
+(d)
+
+in the case of sales in the grey market, as defined in Rule A5.8.5, any sales of the Securities as at the time of initial commitment or since the time of initial commitment is subject, in both cases, to the following conditions:
+
+(i)
+
+any sales of the Securities as at the time of initial commitment must be confirmed in writing at the time of initial commitment;
+
+(ii)
+
+sales must be net of any purchases in the grey market; and
+
+(iii) any allocation of Securities granted or received, arising from the commitment to underwrite the Securities, since the time of initial commitment.
+
+A5.8.7
+
+If the allocation of Securities has not been fixed, an Authorised Firm must calculate the gross amount of its commitment, for the purpose of Rule A5.8.6, by reference to the maximum amount it has committed to underwrite until the time the allocation is
+
+353
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+set. An Underwriting commitment may only be reduced under this Rule on the basis of a formal agreement.
+
+Guidance
+
+Allocations may arise, after date of initial commitment, from the agreement to underwrite. For example, obligations or rights may be allocated to or from the Issuer, the underwriting Group or syndicate.
+
+Time of initial commitment
+
+A5.8.8 (1)
+
+Subject to (2), the time of initial commitment is the earlier of:
+
+(a)
+
+in the case of Underwriting, the time the Authorised Firm agrees with the Issuer of Securities to underwrite those Securities;
+
+(b)
+
+in the case of Underwriting falling under Rule A5.8.3(b), the time the Authorised Firm agrees with the seller of Securities to underwrite those Securities;
+
+(c)
+
+in the case of sub-underwriting, the time the Authorised Firm agrees with the Person referred to Rule A5.8.3(c) to sub-underwrite those Securities;
+
+(d)
+
+in the case of Rule A5.8.3(d), the time the Group or syndicate in question (or a member of that Group or syndicate on behalf of the others) agrees with the Issuer or other Person to whom the commitment is given as referred to in Rule A5.8.3(d) to underwrite or sub

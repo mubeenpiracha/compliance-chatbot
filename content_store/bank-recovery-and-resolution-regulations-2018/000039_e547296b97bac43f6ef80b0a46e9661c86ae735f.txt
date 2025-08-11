@@ -1,0 +1,107 @@
+ requirements after creation of a Resolution Order or Share Transfer Order
+
+As soon as is reasonably practicable after the creation of a Resolution Order or a Share Transfer Order by which a Resolution Action is taken (including pursuant to a Foreign Resolution Order), the Regulator shall publish or procure the publication of a copy of the Resolution Order or Share Transfer Order or a notice summarising the key terms of the Resolution Order or Share Transfer Order by the following means—
+
+(a)
+
+by publishing it on the websites of both the Regulator and the Institution in Resolution;
+
+(b)
+
+by publishing it on any national or international newspaper available for general sale in the UAE or other publication which in the opinion of the Regulator would maximise the likelihood of the Resolution Order coming to the attention of affected persons; and
+
+(c)
+
+if securities issued by the Institution in Resolution have been admitted to trading on a Recognised Investment Exchange or foreign exchange, by means of a relevant regulatory information service used on that exchange.
+
+71.
+
+Safeguard for counterparties in partial transfers
+
+(1)
+
+Where the Regulator—
+
+(a)
+
+transfers some but not all of the rights, assets or liabilities of an Institution in Resolution to another entity; or
+
+(b)
+
+exercises the power in section 58(1)(p) to cancel or modify the terms of a contract to which the Institution in Resolution is a party or substitute a Recipient as a party,
+
+the arrangements specified in subsection (2) and the counterparties of such arrangements shall, subject to subsection (4), be protected.
+
+(2)
+
+The arrangements protected under subsection (1) are as follows—
+
+(a)
+
+Collateral Arrangements, including Title Transfer Collateral Arrangements;
+
+61
+
+(b)
+
+set-off arrangements under which two or more claims or obligations owed between the Institution in Resolution and a counterparty can be set off against each other;
+
+(c)
+
+netting arrangements;
+
+(d)
+
+Covered Bonds;
+
+(e)
+
+collateral and default fund contributions provided to payment and securities settlement systems, Central Securities Depositories, clearing houses and Recognised Clearing Houses;
+
+(f)
+
+any transfer or obligation that is subject to irrevocable settlement finality protections under the Financial Services and Markets Regulations 2015; and
+
+(g)
+
+structured finance arrangements, including, but not limited to, securitisations and instruments used for hedging purposes which form an integral part of the cover pool and which, according to the ADGM law, are secured in a way similar to Covered Bonds which involve the granting and holding of security by a party to the arrangement or a trustee, agent or nominee.
+
+(3)
+
+Subsection (2) shall apply irrespective of the number of parties involved in the arrangements or whether the arrangements—
+
+(a)
+
+are created by contract, deed, trusts or other means, or arise automatically by operation of law; or
+
+(b)
+
+arise under or are governed in whole or in part by the law of another jurisdiction.
+
+(4)
+
+The form of protection that is appropriate for the classes of arrangements specified in subsection (2) shall be as provided in sections 72, 73, 74 or 75, as the case may be.
+
+72.
+
+Protection for Title Transfer Collateral Arrangements and set-off and netting arrangements
+
+To protect the transfer of some, but not all, of the rights, assets and liabilities that are protected under Title Transfer Collateral Arrangements referred to under section 71(2)(a), set-off arrangements referred to in section 71(2)(b), netting arrangements referred to in section 71(2)(c)(c), obligations to payment and securities settlement systems and clearing houses referred to in section 71(2)(e)(c) and settlement finality referred to in section 71(2)(f), the following shall not be permitted—
+
+(a)
+
+the transfer of some, but not all, of the rights, assets and liabilities that are protected under any such arrangement between the Institution in Resolution and another person; and
+
+(b)
+
+the modification or termination of rights, assets and liabilities that are protected under any such arrangement through the exercise of Resolution Powers.
+
+73.
+
+Protection for security arrangements
+
+To protect liabilities secured under Collateral Arrangements referred to in section 71(2)(a) that are not Title Transfer Collateral Arrangements, the following shall not be permitted—
+
+(a)
+
+the transfer of assets against which a liability is secured under any such arrangement, unless that liability and the benefit of the

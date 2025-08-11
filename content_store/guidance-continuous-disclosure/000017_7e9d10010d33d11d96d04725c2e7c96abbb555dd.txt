@@ -1,0 +1,21 @@
+. In these circumstances, if a Reporting Entity advises the Listing Authority that there is Inside Information that has not yet been Disclosed due to reliance on Rule 7.2.2(2),22 and it is not able to evidence any other event, circumstance or information which could explain the movement in the market price and/or traded volumes of the Listed Entity’s Securities, the Listing Authority will have no option but to assume that Inside Information in question has become known to some participants in the RIE’s market for those Securities, and that the Inside Information is therefore no longer confidential.23
+
+94) Upon a Reporting Entity being advised by the Listing Authority24 that it is of the view that the Inside Information is no longer confidential, Rule 7.2.2 no longer applies and the
+
+21 A media or analyst report that is wholly, or partially, inaccurate may give rise to a requirement to make a Disclosure under Rule 7.5.1(b) (in relation to a false market - see paragraphs 100 to 115 below). This equally applies to paragraph 90b) as well. 22 As the Reporting Entity is obliged to do so, it must when asked this question by the Listing Authority (for example, under Rules 2.8.1 and 2.8.2). 23 In such circumstance the Listing Authority will generally take the view that a reasonable person would expect that Inside Information to be Disclosed, and that, therefore, Rule 7.2.2(3) is no longer satisfied. The Listing Authority may also form the view that the movement in the market price and/or traded volumes in the Listed Entity’s Securities is evidence of a false market in those Securities, and therefore require the Disclosure of that information under Rule 7.5.1(b). 24 The processes the Listing Authority generally follows in these situations are set out later in paragraphs 108 to 115 (Media, Analyst Reports and Market Rumours) and paragraphs 175 to 181 (“What action the Listing Authority will take if abnormal trading is detected?”).
+
+19
+
+VER01.280922
+
+Reporting Entity will then be obliged to immediately Disclose the Inside Information under Rule 7.2.1.
+
+THE REASONABLE PERSON TEST (RULE 7.2.2(3))
+
+95) The Listing Authority interprets this Rule such that a ‘reasonable person’ would not expect the Inside Information to be Disclosed. This Rule is an objective one, and is to be judged from the perspective of an independent and judicious bystander, and not from the perspective of someone whose interests are aligned with the Listed Entity/Reporting Entity or with the investment community.
+
+96) The Listing Authority views the ‘reasonable person’ test provided by Rule 7.2.2(3) as being an over-arching test, as compared to the other two parts of Rule 7.2.2. This means that the ‘reasonable person’ test provided by Rule 7.2.2(3) needs to be satisfied in addition to satisfaction of Rules 7.2.2(1) and 7.2.2(2). The very reason why the categories in Rule 7.2.2(1) are prescribed is that they reflect the types of Inside Information that the Listing Authority would not expect to be Disclosed, at least while such Inside Information remains confidential.
+
+97) As a result, the ‘reasonable person’ test in Rule 7.2.2(3) has a very narrow range of application. It is unlikely to be triggered outside of operating as an over-arching test, and would do so only if there was something particular in the circumstances relating to Inside Information in question. Two examples of this would be where: a Reporting Entity has selectively picked its Disclosures, Disclosing ‘positive’ information of a particular type that is likely to have a positive effect on the market price of a Listed Entity’s Securities, but then declining to Disclose ‘negative’ information of the same type that would be likely to have a negative effect on the market price of the Listed Entity’s Securities, on the incorrect basis or assumption that it is not Inside Information or it is protected from Disclosure by Rule 7.2.2; or
+
+b) where the Inside Information needs to be Disclosed in order to prevent the Disclosure of other Inside Information under Rule 7.2.1 from being misleading or deceptive.

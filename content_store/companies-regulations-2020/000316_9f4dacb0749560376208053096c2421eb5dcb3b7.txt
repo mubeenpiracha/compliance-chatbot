@@ -1,0 +1,167 @@
+)
+
+is not specifically authorised to be delivered to the Registrar.
+
+(3)
+
+For this purpose an obligation to deliver a document of a particular description, or conforming to certain requirements, is regarded as not extending to anything that is not needed for a document of that description or, as the case may be, conforming to those requirements.
+
+(4)
+
+If the unnecessary material cannot readily be separated from the rest of the document, the document is treated as not meeting the requirements for proper delivery.
+
+(5)
+
+If the unnecessary material can readily be separated from the rest of the document, the Registrar may register the document either–
+
+(a)
+
+with the omission of the unnecessary material, or
+
+(b)
+
+as delivered.
+
+949.
+
+Informal correction of document
+
+(1)
+
+A document delivered to the Registrar may be corrected by the Registrar if it appears to the Registrar to be incomplete or internally inconsistent.
+
+(2)
+
+This power is exercisable only–
+
+(a)
+
+on instructions, and
+
+(b)
+
+if the company (or other body) to which the document relates has given (and has not withdrawn) its consent to instructions being given under this section.
+
+(3)
+
+The following requirements must be met as regards the instructions–
+
+(a)
+
+the instructions must be given in response to an enquiry by the Registrar,
+
+(b)
+
+the Registrar must be satisfied that the person giving the instructions is authorised to do so–
+
+(i)
+
+by the person by whom the document was delivered, or
+
+(ii)
+
+by the company (or other body) to which the document relates,
+
+(c)
+
+the instructions must meet any requirements of Registrar’s rules as to–
+
+(i)
+
+the form and manner in which they are given, and
+
+(ii)
+
+authentication.
+
+(4)
+
+The consent of the company (or other body) to instructions being given under this section (and any withdrawal of such consent)–
+
+(a)
+
+may be in hard copy or electronic form, and
+
+(b) must be notified to the Registrar. 531
+
+(5)
+
+This section applies in relation to documents delivered under Part 24 (company charges) by a person other than the company (or other body) as if the references to the company (or other body) were to the company (or other body) or the person by whom the document was delivered.
+
+(6)
+
+A document that is corrected under this section is treated, for the purposes of any law or regulation applicable in the Abu Dhabi Global Market relating to its delivery, as having been delivered when the correction is made.
+
+(7)
+
+The power conferred by this section is not exercisable if the document has been registered under section 947 (power to accept documents not meeting requirements for proper delivery).
+
+950. Replacement of document not meeting requirements for proper delivery
+
+(1)
+
+The Registrar may accept a replacement for a document previously delivered that–
+
+(a)
+
+did not comply with the requirements for proper delivery, or
+
+(b)
+
+contained unnecessary material (within the meaning of section 948).
+
+(2)
+
+A replacement document must not be accepted unless the Registrar is satisfied that it is delivered by–
+
+(a)
+
+the person by whom the original document was delivered, or
+
+(b)
+
+the company (or other body) to which the original document relates,
+
+and that it complies with the requirements for proper delivery.
+
+(3)
+
+The power of the Registrar to impose requirements as to the form and manner of delivery includes power to impose requirements as to the identification of the original document and the delivery of the replacement in a form and manner enabling it to be associated with the original.
+
+(4)
+
+This section does not apply where the original document was delivered under Part 24 (company charges) (but see section 838 (rectification of register)).
+
+Public notice of receipt of certain documents
+
+951. Public notice of receipt of certain documents
+
+(1)
+
+The Registrar must cause to be published–
+
+(a)
+
+on its website, or
+
+(b)
+
+in accordance with section 988 (alternative means of giving public notice),
+
+notice of the receipt by the Registrar of any document that, on receipt, is subject to the enhanced disclosure requirements (see section 952).
+
+(2)
+
+The notice must state the name and registered number of the company, the description of document and the date of receipt.
+
+(3)
+
+The Registrar is not required to cause notice of the receipt of a document to be published before the date of incorporation of the company to which the document relates.
+
+532
+
+952. Documents subject to enhanced disclosure requirements40
+
+(1)
+
+The documents subject to

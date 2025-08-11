@@ -1,0 +1,139 @@
+ PRS applies. For example the MKT module applies to, among others, Issuers.
+
+1.3 Application
+
+1.3.1 This module (PRS) applies to every Person to whom the Markets Law 2012 applies and to the same extent in relation to every such Person as that Law, except to the extent that a provision of PRS provides for a narrower application.
+
+1
+
+PRS/VER7/04-18
+
+PRICE STABILISATION (PRS)
+
+1.4 Price Stabilisation
+
+1.4.1
+
+(1)
+
+For an activity to constitute Price Stabilisation it must be an activity:
+
+(a)
+
+of a type described in chapter 2;
+
+(b)
+
+conducted within the period covered by the Stabilisation Window in (2);
+
+(c)
+
+by a Person specified in (3);
+
+(d)
+
+in accordance with PRS; and
+
+(e)
+
+which might reasonably have, or be intended to have, the effect of stabilising the price of Eligible Securities which have been admitted to trading on an Authorised Market Institution.
+
+(2)
+
+The period covered by the Stabilisation Window is the period beginning on the date of admission to trading of the Eligible Securities on an Authorised Market Institution and ending no later than thirty days thereafter.
+
+(3)
+
+The Person conducting Price Stabilisation must be the Stabilisation Manager or any of his Stabilisation Agents.
+
+(4)
+
+Price Stabilisation may be carried out either on or off the central order book of the relevant Authorised Market Institution.
+
+2
+
+PRS/VER7/04-18
+
+PRICE STABILISATION (PRS)
+
+2
+
+PRICE STABILISATION
+
+2.1 Application
+
+2.1.1 This chapter applies to a Stabilisation Manager and to any Stabilisation Agents
+
+appointed by him.
+
+2.2 Permitted Price Stabilisation
+
+2.2.1
+
+(1)
+
+A Stabilisation Manager and, if applicable, his Stabilisation Agents may in respect of Eligible Securities
+
+(a)
+
+purchase, or agree to purchase, such Eligible Securities; or
+
+(b)
+
+offer or attempt to do anything in (a) with a view to stabilising the Market Price of such Eligible Securities.
+
+(2)
+
+A Stabilisation Manager and, if applicable, his Stabilisation Agents must not, when engaging in an activity described in (1), in respect of Shares, Certificates over Shares, Warrants over Shares, and Units that are shares representing the rights or interests of Unitholders in a Fund, conduct such activity at a price higher than the Offer Price.
+
+Guidance
+
+Pricing limits do not extend to Debentures hence Rules 2.2.1(2) do not apply with respect to Debentures. Pricing for Debentures is subject instead to the requirement in 2.2.1(1) that the stablising action is taken to support the Market Price.
+
+2.2.2 A Stabilisation Manager and his Stabilisation Agents may, in respect of Eligible
+
+Securities:
+
+(a)
+
+make allotments of a greater number of the Eligible Securities than were offered (“over-allotment”);
+
+(b)
+
+sell or agree to sell the Eligible Securities in order to establish a short position in them;
+
+(c)
+
+buy or agree to buy the Eligible Securities in order to close out or liquidate any position that has been established by Price Stabilisation under (a) or (b);
+
+(d)
+
+sell or agree to sell the Eligible Securities in order to close out or liquidate any position that has been established by Price Stabilisation under (a) or (b); or
+
+3
+
+PRS/VER7/04-18
+
+PRICE STABILISATION (PRS)
+
+(e)
+
+offer or attempt to do anything permitted by (a), (b), (c), and (d).
+
+2.2.3 Any over-allotment permitted by Rule 2.2.2(a) must meet the following criteria:
+
+(a)
+
+Eligible Securities may be over-allotted only during the Offer period and at the Offer Price;
+
+(b)
+
+the over-allotment option may be exercised by the beneficiaries of such an option only where Eligible Securities have been over-allotted;
+
+(c)
+
+the over-allotment option may not amount to more than 15% of the original Offer;
+
+(d)
+
+the exercise period

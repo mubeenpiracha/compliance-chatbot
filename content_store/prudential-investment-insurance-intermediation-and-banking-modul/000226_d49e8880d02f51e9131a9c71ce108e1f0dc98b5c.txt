@@ -1,0 +1,87 @@
+ commodity.
+
+A5.6.4 (1)
+
+For the purposes of Rule A5.6.3, the Specific Risk percentage for:
+
+(a) a currency option is 8%; and
+
+(b) an option on commodities is 15%.
+
+(2)
+
+For the purposes of Rule A5.6.3, in the case of an option with a residual maturity of more than six months, the strike price must be compared with the forward, not current price, or if the Authorised Firm is unable to do this, then the money amount must be taken to be zero.
+
+Delta-plus method
+
+Guidance
+
+The Delta-plus method uses the sensitivity parameters or “Greek letters” associated with options to measure their Option Risk Capital Requirement. Under this method, the Delta-equivalent position of each option becomes part of the standardised methodology set out in sections 5.4 to 5.7 with the Delta- equivalent amount subject to the applicable General Market Risk requirements. Separate capital charges are then applied to the Gamma and Vega risks of the option positions.
+
+A5.6.5 (1)
+
+An Authorised Firm that writes or purchases options may include Delta- weighted options positions within the standardised methodology set out in sections A5.2 to A5.5. Such options must be reported as a position equal to the market value of the underlying instrument multiplied by the Delta.
+
+(2)
+
+An Authorised Firm is also required to measure and Vega risks in order to calculate the total capital charge. These sensitivities will be calculated according to an approved proprietary options pricing model.
+
+(3)
+
+Delta-weighted positions with debt Securities or interest rates as the underlying instrument must be inserted into the interest rate timebands, as set out in section A5.2. A two-legged approach must be used as for other derivatives, requiring one entry at the time the underlying instrument takes effect and a second at the time the underlying instrument matures. Floating rate instruments with caps or floors must be treated as a combination of floating rate Securities and a series of European-style options.
+
+(4)
+
+The capital charge for options with equities as the underlying instrument must also be based on the Delta-weighted positions which must be incorporated in the measure of Equity Risk Capital Requirement described in section A5.3. For purposes of this calculation, each national market must be treated as a separate underlying instrument.
+
+(5)
+
+The capital charge for options on commodities, foreign currency (including gold) positions must be based on the method set out in section 5.8. For Delta risk, the net Delta-based equivalent of the commodities, foreign currency
+
+346
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+including gold) options must be incorporated into the measurement of the Exposure for the respective currency (or gold) position.
+
+(6)
+
+Individual net Delta positions as described above must be treated as the underlying instrument in accordance with sections A5.4 to A5.5.
+
+A5.6.6 An Authorised Firm using the Delta-plus method must calculate its Market Risk
+
+Capital Requirement for options by:
+
+(a)
+
+calculating the Delta-weighted position of each option in accordance with Rule A5.6.7 and adding these Delta-weighted positions to the net positions in the relevant risk category referred in sections A5.2 to A5.6 for the purpose of calculating the Specific Risk and General Market Risk Capital Requirements;
+
+(b)
+
+calculating the Capital Requirement for Gamma risk of its option positions (including hedge positions) based on the options pricing model of the an Authorised Firm, in accordance with Rules A5.6.8 to A5.6.9;
+
+(c)
+
+calculating the Capital Requirement for Vega risk of its option positions (including hedge positions) based on the options pricing model of an Authorised Firm, in accordance with Rule A5.6.10; and
+
+(d)
+
+summing the Capital Requirements determined in (b) and (c).
+
+A5.6.7 An Authorised Firm must calculate its Delta-weighted position for each option as
+
+follows:
+
+Delta-weighted position = Market value of
+
+the underlying
+
+instrument or
+
+commodities x Delta
+
+A5.6.8
+
+In addition to the capital charges referred to in Rule A5.6.5, arising from Delta risk, an Authorised Firm must calculate the Gamma for

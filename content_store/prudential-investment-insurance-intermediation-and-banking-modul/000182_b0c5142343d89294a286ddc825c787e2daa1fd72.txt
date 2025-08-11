@@ -1,0 +1,103 @@
+ on the basis of the underlying transaction;
+
+(c)
+
+“Margin Agreement” means a contractual agreement or provision to an agreement under which one Counterparty must supply Variation Margin to a second Counterparty when an Exposure of that second Counterparty to the first Counterparty exceeds a specified level;
+
+280
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+(d)
+
+“Margin Period of Risk” or “MPoR” means the time period from the last exchange of Collateral covering a Netting Set of transactions with a defaulting Counterparty until that Counterparty is closed out and the resulting market risk is re-hedged;
+
+(e)
+
+“Margined Netting Set” means a Netting Set covered by a Margin Agreement where a transaction is subject to exchange of Variation Margin;
+
+(f)
+
+“Net Independent Collateral Amount” or “NICA” means the amount of Collateral that an Authorised Firm may use to offset its Exposure on the default of the Counterparty, but excluding any Collateral an Authorised Firm has posted to a segregated, bankruptcy-remote account that would be returned to the Authorised Firm upon the bankruptcy of the counterparty;
+
+(g)
+
+“Netting Set” means a group of transactions with a single Counterparty that are subject to a Qualifying Bilateral Netting Agreement; each transaction with a single Counterparty that is not subject to a Qualifying Bilateral Netting Agreement comprises its own Netting Set;
+
+(h)
+
+“Start Date” means the period of time between the calculation date (today) and the start date of the time period referenced by transaction ‘i’, measured in years; if a transaction references the value of another interest rate or credit transaction, such as a swaption or a bond option, the period must be determined on the basis of the underlying transaction; if the start date has already occurred, then the time period must be set to zero;
+
+(i)
+
+“Unmargined Netting Set” means a Netting Set that is not a Margined Netting Set, including Netting Sets covered by a one-way Margin Agreement, where the Authorised Firm posts, but does not collect Variation Margin;
+
+(j)
+
+“Volatility Transaction” has the meaning given in Rule A4.8.5(2)(b); and
+
+(k)
+
+“Variation Margin” means Collateral that is collected or posted to reflect the current Exposure resulting from changes in the mark-to-market value of a transaction.
+
+Exposure value
+
+A4.8.2 (1) An Authorised Firm must calculate the CCR Exposure value of a Netting Set using
+
+the following formula:
+
+Exposure value = α ∙ (RC + PFE)
+
+where:
+
+α =
+
+1.4
+
+RC =
+
+the replacement cost calculated in accordance with Rule A4.8.3
+
+PFE =
+
+the amount for potential future exposure calculated in accordance with Rule A4.8.6
+
+281
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+(2) The maximum Exposure value for a Margined Netting Set is the Exposure value of
+
+the same Netting Set as if it were an Unmargined Netting Set.
+
+(3)
+
+If multiple Margin Agreements apply to a single Netting Set, an Authorised Firm must divide each Margin Agreement into sub-Netting Sets, each aligning with its respective Margin Agreement and calculate the Exposure value of the original Netting Set by taking the sum of the Exposure value of each sub-Netting set.
+
+(4) An Authorised Firm may set to zero the Exposure value for sold options that are:
+
+(a) not included in any netting or Margin Agreement; or
+
+(b)
+
+the only types of Exposures in a Netting Set,
+
+provided all premia have been paid upfront.
+
+(5) An Authorised Firm may cap the Exposure value of a credit derivative at the
+
+amount of unpaid premia if all the following conditions are met:
+
+(a)
+
+the Authorised Firm is the protection seller;
+
+(b)
+
+the credit derivative is not included in any netting or Margin Agreement.
+
+(6) Where eligible Collateral is taken outside a Netting Set but is available to an Authorised Firm to offset default losses from transactions subject to this section, an Authorised Firm must calculate the Exposure

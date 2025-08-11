@@ -1,0 +1,103 @@
+ providers
+
+A2.1.2
+
+(1)
+
+An Authorised Market Institution may only admit to trading or clearing or trade on its facilities Investments that reference to an underlying benchmark or index provided by a Price Information Provider where it has undertaken appropriate due diligence to ensure that the Price Information Provider, on an on-going basis, meets the requirements set out in (3).
+
+(2)
+
+A Price Information Provider is a price reporting agency or an index provider which constructs, compiles, assesses or reports, on a regular and systematic basis, prices of Investments, rates, indices, commodities or figures, which are made available to users.
+
+(3)
+
+For the purposes of (1), the Price Information Provider must:
+
+(a)
+
+have fair and non-discriminatory procedures for establishing prices of Investments which are made public.
+
+(b)
+
+demonstrate adequate and appropriate transparency over the methodology, calculation and inputs to allow users to understand how the benchmark or index is derived and its potential limitations;
+
+(c)
+
+where appropriate, give priority to concluded transactions in making assessments and adopt measures to minimise selective reporting;
+
+(d)
+
+be of good standing and repute as an independent and objective price reporting agency or index provider;
+
+(e)
+
+have a sound corporate governance framework;
+
+(f)
+
+have adequate arrangements to avoid its staff having any conflicts of interest where such conflicts are, or are likely to have, a material adverse impact on price establishment process; and
+
+(g)
+
+adequate complaint resolution mechanisms to resolve any complaints about the Price Information Provider’s assessment process and methodology.
+
+111
+
+AMI/VER28/03-25
+
+AUTHORISED MARKET INSTITUTIONS (AMI)
+
+Guidance
+
+An Authorised Market Institution, when assessing the suitability of a Price Information Provider (the provider), should take into account factors such as:
+
+a.
+
+the provider’s standing and reliability in the relevant physical or derivatives markets as a credible price reporting agency;
+
+b.
+
+the quality of corporate governance adopted, covering areas such as independent members of the board, independence of its internal audit and risk management function;
+
+c.
+
+whether the methodologies and processes (including any material changes to such methodologies and processes) adopted by the provider for the purposes of pricing are made publicly available;
+
+d.
+
+whether there are adequate procedures adopted to ensure that conflicts of interests between the provider’s commercial interests and that of users of its services, including that of its Employees involved in pricing process, are adequately addressed, including through codes of ethics;
+
+e.
+
+whether there is a clear conveyance to its users of the economic realities of the underlying interest the Price Information Provider seeks to measure; and,
+
+f.
+
+the degree to which the Price Information Provider has given consideration to the characteristics of underlying interests measured, such as:
+
+
+
+the size and liquidity: Whether the size of the market informs the selection of an appropriate compilation mechanism and governance processes. For example, a benchmark or index that measures a smaller market may be impacted by single trades and therefore be more prone to potential manipulation, whereas a benchmark for a larger market may not be well represented by a small sample of participants;
+
+
+
+the relative market size. Where the size of a market referencing a benchmark is significantly larger than the volume of the underlying market, the potential incentive for benchmark manipulation to increase; and
+
+Transparency: Where there are varying levels of transparency regarding trading volumes and positions of market participants, particularly in non-regulated markets and instruments, whether the benchmark represents the full breadth of the market, the role of specialist participants who might be in a position to give an overview of the market, and the feasibility, costs and benefits of providing additional transparency in the underlying markets.
+
+112
+
+AMI/VER28/03-25
+
+AUTHORISED MARKET INSTITUTIONS (AMI)
+
+APP3 CONTRACT DELIVERY SPECIFICATIONS
+
+A3.1 Application
+
+A3.1.1 This Appendix applies to an Authorised Market Institution which trades, or clears or settles, on its facilities Commodity Derivative contracts which require physical delivery of the underlying commodity.
+
+A3.2 Deliverability of the underlying commodity
+
+A3.2.1 An Authorised Market Institution referred to in A3.1.1 must, for the purposes of meeting the requirement in Rule 6.3.2(1)(b), ensure that the terms and conditions of the Commodity Derivative contracts which are to be traded, or cleared or settled, on its facilities, are designed to include the matters specified in Rules A3.2.2 – A3.

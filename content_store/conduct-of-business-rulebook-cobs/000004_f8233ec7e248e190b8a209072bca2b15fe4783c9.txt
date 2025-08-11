@@ -1,0 +1,43 @@
+has opted not to be classified as a Retail Client.
+
+Guidance
+
+1. A legal structure or vehicle established for investment purposes for an individual who are themselves a Professional Client may not opt to be treated as a Retail Client, as that right belongs to the Professional Client for whose purposes the legal structure or vehicle is set up.
+
+2. A joint account holder for whom investment decisions are being made by a primary account holder who is a Professional Client does not per se have a right to opt to be classified as a Retail Client with regard to the operation of the joint account, but may withdraw confirmation given to have decisions on behalf of him made by the Professional Client who is the primary account holder of the joint account. In such event, the Authorised Person must ensure that the withdrawing individual is no longer classified as a Professional Client, and that the operating of the joint account will not reflect treatment as a Professional Client until such time as the assets of the withdrawing joint account holder are withdrawn from the joint account.
+
+3. In the calculation of net assets in Rule 2.4.4(b)(i), the reference to "assets held directly or indirectly" is designed to include assets held by direct legal ownership, by beneficial ownership (e.g. as a beneficiary in a trust), or by both legal and beneficial ownership. Such assets may be held, for instance, through a special purpose or personal investment vehicle, a foundation, or similar. Similarly, any real property held subject to an Islamic mortgage, where the lender has the legal title to the property, may be counted as indirectly held property of a Client, less the amount owing on the mortgage, where it is not a primary residence. As the test is to determine the net assets (not gross assets) of an individual, any mortgages or other charges held
+
+6
+
+COBS VER19.290725
+
+over the property to secure any indebtedness of the individual should be deducted from the value of the assets. If an individual who is an expatriate has a primary residence in his home country, such a residence should not generally be counted for the purposes of meeting the net asset test. However, if the current residence in the host country is owned by the individual, then that may be treated as their primary residence and the value of the residence in the home country of the individual may be counted for the purposes of meeting the net asset test, provided there is sufficient evidence of ownership and an objective valuation of the relevant premises. An Authorised Person should be able to demonstrate that it has objective evidence of the ownership and valuation of any assets taken into account for the purposes of meeting the net asset test.
+
+4. Joint ventures may be in the form of contractual arrangements under which parties contribute their assets and expertise to develop or to undertake specified business activities. Where an Undertaking is set up by participants in such a joint venture for the purposes of their joint venture, the Undertaking itself can be treated as a Professional Client provided a joint venture partner meets the Professional Client criteria. To be able to rely on a joint venture partner's Professional Client status, such a partner should generally be a key decision maker with respect to the business activities of the joint venture, and not just a silent partner.
+
+5. An Undertaking which meets the criteria to be a “deemed” Professional Client in accordance with the criteria in Rule 2.4.2 does not need to meet the criteria in this Rule to qualify as a Professional Client.
+
+6. An Undertaking which does not otherwise qualify as a Professional Client may be deemed to be a Professional Client only for the purposes of the Regulated Activities of Providing Credit, Advising on Investments or Credit, Arranging Credit or Arranging Deals in Investments for the purpose of Corporate Structuring and Finance, in accordance with Rule 4.3.3.
+
+2.5 Market Counterparties
+
+(a)
+
+An Authorised Person may classify a Person as a Market Counterparty if:
+
+(i)
+
+that Person qualifies as a “deemed” Professional Client in accordance with Rule 2.4.2; and
+
+(ii)
+
+the requirements in Rule 2.5(b) have been met.
+
+(b)
+
+An Authorised Person must, before classifying a Professional Client as a Market Counterparty, ensure that such a Person has:
+
+(i)
+
+been given a prior written notification of the classification as a Market Counterparty in relation to a particular Regulated Activity or Transaction, or in respect of all Regulated Activities and Transactions; and

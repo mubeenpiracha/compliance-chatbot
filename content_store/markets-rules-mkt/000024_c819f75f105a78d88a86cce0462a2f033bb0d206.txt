@@ -1,0 +1,117 @@
+ applies, subject to Rule 3.5.4, to:
+
+(a)
+
+a Reporting Entity; and
+
+(b)
+
+a Related Party of such a Reporting Entity.
+
+Definitions
+
+3.5.2
+
+In this section, unless otherwise provided:
+
+(a)
+
+a Person is a Related Party of a Reporting Entity if that Person:
+
+(i)
+
+is, or was within the 12 months before the date of the Related Party Transaction:
+
+(A)
+
+a Director or a Person involved in the senior management of the Reporting Entity or a member of its Group;
+
+(B)
+
+an Associate of a Person referred to in (a)(i)(A); or
+
+(ii)
+
+owns, or has owned within 12 months before the date of the Related Party Transaction, voting Securities carrying more than 5% of the voting rights attaching to all the voting Securities of either the Reporting Entity or a member of its Group; or
+
+(iii)
+
+is, or was within the 12 months before the date of the Related Party Transaction, a Person exercising or having the ability to exercise significant influence over the Reporting Entity or an Associate of such a Person.
+
+(b)
+
+a transaction is a Related Party Transaction if it is a transaction:
+
+(i)
+
+between a Reporting Entity and a Related Party;
+
+(ii)
+
+under which the Reporting Entity invests in another Undertaking or asset, or provides financial assistance to another Undertaking, in which a Related Party also has a financial interest; or
+
+(iii)
+
+between the Reporting Entity and any other Person the purpose or effect of which is to benefit a Related Party; or
+
+35
+
+MKT/VER24/03-25
+
+MARKETS RULES (MKT)
+
+(iv)
+
+of the kind referred to in (i) – (iii) and is between a Subsidiary of a Reporting Entity and a Related Party of the Reporting Entity.
+
+Guidance
+
+1.
+
+A Person is regarded as exercising significant influence over a Reporting Entity, for example, if that Person is a consultant or adviser to the Reporting Entity.
+
+2.
+
+Any transactions between a Subsidiary of a Reporting Entity and a Related Party is included within the definition of a Related Party Transaction. This is because a Related Party may, through the Reporting Entity, be able to influence terms which are more favourable to the Related Party when transacting with the subsidiary. .Such transactions could be detrimental to the interests of the Reporting Entity.
+
+Related party transaction procedures
+
+3.5.3 A Reporting Entity must ensure that:
+
+(a)
+
+if the value of a Related Party Transaction is greater than 5% of value of the net assets of the Reporting Entity as stated in its most recent financial reports, it does not enter into such a transaction unless the transaction has been put to shareholder approval and has received prior approval by a majority of the shareholders in voting of the Reporting Entity;
+
+(b)
+
+if the value of the Related Party Transaction is less than the 5% threshold referred to in (a), it gives to the DFSA a notice as soon as possible after the transaction of the relevant terms and the basis on which such terms are considered fair and reasonable, supported by a written confirmation by an independent third party acceptable to the DFSA; or
+
+(c)
+
+if the cumulative value of a series of Related Party Transactions with the same Related Party reaches the 5% threshold referred to in (a) in any 12 month period, it does not enter into the last of the series of the transactions unless such proposed action has been put to shareholder approval and received approval by a majority of the shareholders in voting of the Reporting Entity.
+
+Exemptions
+
+3.5.4 The requirements in this section do not apply to a transaction referred to in Rule
+
+3.5.2(b):
+
+(a)
+
+where the transaction is made in the ordinary course of business and on commercial terms no less favourable than those of an arm’s length transaction with an unrelated party;
+
+(b)
+
+where it, or any series of transactions with the same Related Party in any 12 month period, does not exceed 0.25% of the value of the net assets of the Reporting Entity as stated in its most recent financial reports;
+
+(c)
+
+where it is made in accordance with the terms of an Employee Share Scheme or other employee incentive scheme approved by the Board of the Reporting Entity; or
+
+(d)
+
+where it involves the issue of new Securities for cash or pursuant to the exercise of conversion or subscription rights attaching to Securities issued to
+
+36
+
+MKT/VER24/03

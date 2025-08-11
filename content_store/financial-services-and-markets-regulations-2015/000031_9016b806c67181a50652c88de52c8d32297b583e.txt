@@ -1,0 +1,151 @@
+)
+
+is specific enough to enable a conclusion to be drawn as to the possible effect of those circumstances or that event on the price of Financial Instruments, Accepted Virtual Assets or Related Instruments.
+
+(6)
+
+Information would be likely to have a significant effect on price if and only if it is information of a kind which a reasonable investor would be likely to use as part of the basis of his investment decisions.
+
+(7)
+
+For the purposes of subsection (3)(c), users of markets on which investments in Commodity Derivatives are traded are to be treated as expecting to receive information relating directly or indirectly to one or more such derivatives in accordance with any Accepted Market Practices, which is—
+
+(a)
+
+routinely made available to the users of those markets; or
+
+(b)
+
+required to be disclosed in accordance with any statutory provision, market rules, or contracts or customs on the relevant underlying commodity market or Commodity Derivatives market.
+
+(8)
+
+Information which can be obtained by research or analysis conducted by, or on behalf of, users of a market is to be regarded, for the purposes of this Part, as being generally available to them.
+
+The Code of Market Conduct
+
+96.
+
+The Code of Market Conduct45
+
+(1)
+
+The Regulator may set out a code ("Code of Market Conduct") specifying—
+
+(a)
+
+descriptions of Behaviour that, in the opinion of the Regulator, amount to Market Abuse;
+
+(b)
+
+descriptions of Behaviour that, in the opinion of the Regulator, do not amount to Market Abuse;
+
+(c)
+
+factors that, in the opinion of the Regulator, are to be taken into account in determining whether or not Behaviour amounts to Market Abuse;
+
+(d)
+
+descriptions of Behaviour that are Accepted Market Practices in relation to one or more Prescribed Markets;
+
+(e)
+
+descriptions of Behaviour that are not Accepted Market Practices in relation to one or more Prescribed Markets.
+
+(2)
+
+The Code of Market Conduct may make different provisions in relation to persons, cases or circumstances of different descriptions.
+
+45 Amended 20 September 2022.
+
+56
+
+97.
+
+Effect of the Code of Market Conduct46
+
+(1)
+
+If a person behaves in a way which is described (in the Code of Market Conduct in force under section 96 at the time of the Behaviour) as Behaviour that, in the Regulator's opinion, does not amount to Market Abuse, that Behaviour of his is to be taken, for the purposes of these Regulations, as not amounting to Market Abuse.
+
+(2)
+
+Otherwise, the Code of Market Conduct in force under section 96 at the time when particular Behaviour occurs may be relied on so far as it indicates whether or not that Behaviour should be taken to amount to Market Abuse.
+
+98.
+
+Prohibition on Market Abuse
+
+(1)
+
+A person ("A") shall not—
+
+(a)
+
+engage in Market Abuse; or
+
+(b)
+
+by taking or refraining from taking any action, require or encourage another person or persons to engage in Behaviour which, if engaged in by A, would amount to Market Abuse.
+
+(2)
+
+A person does not contravene subsection (1) if—
+
+(a)
+
+he believed, on reasonable grounds, that his Behaviour did not fall within paragraph (a) or (b) of that subsection; or
+
+(b)
+
+he took all reasonable precautions and exercised all due diligence to avoid behaving in a way which fell within paragraph (a) or (b) of that subsection.
+
+Miscellaneous
+
+99.
+
+Suspension of investigations
+
+(1)
+
+If the Regulator considers it desirable or expedient because of the exercise or possible exercise of a power relating to Market Abuse, it may direct a Recognised Body—
+
+(a)
+
+to terminate, suspend or limit the scope of any inquiry which the Recognised Body is conducting under its rules; or
+
+(b)
+
+not to conduct an inquiry which the Recognised Body proposes to conduct under its rules.
+
+(2)
+
+A Direction under this section—
+
+(a)
+
+must be given to the Recognised Body concerned by notice in writing; and
+
+(b)
+
+is enforceable, on the application of the Regulator, by injunction.
+
+46 Amended 20 September 2022.
+
+57
+
+(3)
+
+The Regulator's powers relating to Market Abuse are its powers—
+
+(a)
+
+under Part 19; or
+
+(b)
+
+to appoint a person to conduct an investigation under section 205.
+
+100. Effect on transactions
+
+The taking of any action under Part 19 in relation to Market Abuse

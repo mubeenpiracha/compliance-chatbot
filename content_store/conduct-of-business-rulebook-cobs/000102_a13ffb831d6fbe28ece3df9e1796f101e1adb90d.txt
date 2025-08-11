@@ -1,0 +1,113 @@
+ Specified Benchmark.
+
+21.1.2 In addition to the general requirements applicable to Authorised Persons set out elsewhere in the Rules, an Authorised Person carrying on the Regulated Activity of Administering a Specified Benchmark (for the purposes of this chapter, a “Benchmark Administrator”) or an Authorised Person carrying on the Regulated Activity of Providing Information in Relation to a Specified Benchmark (for the purposes of this chapter, a “Specified Benchmark Information Provider”) must comply with this chapter, as applicable.
+
+21.2 Specifying a Specified Benchmark
+
+21.2.1 The Regulator may determine and maintain a list of Benchmarks which are Specified Benchmarks. When determining whether a Benchmark is a Specified Benchmark, the Regulator will have regard to, amongst other factors, the size of the underlying market relevant to the Benchmark and the total value of contracts which reference the Benchmark.
+
+21.3 Administering a Specified Benchmark
+
+21.3.1 Application
+
+This section applies to a Benchmark Administrator.
+
+Organisational and governance requirements
+
+21.3.2 A Benchmark Administrator must:
+
+165
+
+COBS VER19.290725
+
+(a)
+
+maintain effective organisational and governance arrangements that enable it to carry out the activity of Administering a Specified Benchmark;
+
+(b)
+
+maintain the integrity of the market, including by way of contractual certainty of contracts which reference the Specified Benchmark it administers;
+
+(c)
+
+maintain effective organisational and administrative arrangements for:
+
+(i)
+
+ensuring the confidentiality and integrity of the information used and processes followed in the course of determining the Specified Benchmark it administers; and
+
+(ii)
+
+identifying and managing any conflicts of interest that arise, or may arise, from the process of administering the Specified Benchmark it administers; and
+
+(d)
+
+appoint a benchmark administration manager with adequate resources and expertise for the purposes of managing the oversight of the Benchmark Administrator’s compliance with these Rules.
+
+21.3.3 Information used by a Benchmark Administrator for the purposes of determining a
+
+Specified Benchmark
+
+A Benchmark Administrator must:
+
+(a)
+
+ensure that a Specified Benchmark it administers is determined using adequate information, including to the extent that such information is:
+
+(i)
+
+representative of the state of the market that the Specified Benchmark references; and
+
+(ii)
+
+made available by reputable, reliable and resilient data sources;
+
+(b)
+
+be able to identify, at any stage, all Persons providing information in relation to the Specified Benchmark it administers;
+
+(c)
+
+be able to provide to the Regulator all information (including in (b) above) used to determine a Specified Benchmark it administers, on a daily basis, or as often as such determinations are made; and
+
+(d)
+
+provide to the Regulator information pertaining to the activity in the underlying markets relevant to a Specified Benchmark it administers, on a quarterly basis, or as otherwise requested by the Regulator.
+
+21.3.4 Monitoring, surveillance and reporting
+
+A Benchmark Administrator must have effective arrangements:
+
+(a)
+
+that enable the regular monitoring and surveillance of the information, and source of information, used in the process of determining the Specified Benchmark it administers;
+
+166
+
+COBS VER19.290725
+
+(b)
+
+for the monitoring, and reporting, of any conduct that influences, or attempts to influence, the value, or process for the determination, of the Specified Benchmark it administers, including in circumstances where such conduct is false, misleading or manipulative;
+
+Guidance
+
+1.
+
+A Benchmark Administrator should consider the reporting and escalation mechanisms between itself and its benchmark administration manager, as well as its process for the internal reporting of such conduct to its senior management.
+
+(a)
+
+for taking appropriate action against any Person providing information in relation to the Specified Benchmark it administers, where it suspects, or has formed a view that, a Person has engaged in any conduct that influences, or attempts to influence, the value, or process of the determination of the Specified Benchmark administered by the Benchmark Administrator, including in circumstances where such conduct is false, misleading or manipulative;
+
+(b)
+
+to report to the Regulator, as soon as reasonably practicable, the details of:
+
+(i) any conduct identified in Rule 21.3.4(b); and
+
+(ii) any action it has taken under Rule 21.3.4(c);
+
+(c)
+
+that enable it to restrict or suspend any Person providing information in relation to the Specified Benchmark

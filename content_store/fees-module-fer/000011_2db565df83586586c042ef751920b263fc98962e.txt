@@ -1,0 +1,87 @@
+ regulation between the date of the grant of its Licence and the end of the year.
+
+(2)
+
+The initial annual fee is $100,000, multiplied by the number of whole calendar months between the date of the grant of the Licence and the end of the year and divided by 12.
+
+18
+
+FER/VER33/07-25
+
+FEES MODULE (FER)
+
+3.4
+
+Authorised Market Institutions (subsequent periods)
+
+3.4.1 An Authorised Market Institution must pay to the DFSA the applicable annual fee prescribed in Rules 3.4.2, 3.4.3, 3.4.4, 3.4.5, 3.4.6 and 3.4.7 for any period of regulation after the initial period described in Rule 3.3.1.
+
+3.4.2
+
+(1) An Authorised Market Institution carrying on the Financial Service of Operating an Exchange must pay to the DFSA the annual fee specified in Rule 3.4.6 if it operates an Exchange for Crypto Tokens or an annual fee of $100,000 in any other case.
+
+(2) An Authorised Market Institution carrying on the Financial Service of Operating a Clearing House must pay to the DFSA an annual fee of $100,000.
+
+(3) An Authorised Market Institution carrying on both of the Financial Services of Operating an Exchange and Operating a Clearing House must pay to the DFSA an annual fee of the amount specified in (1) plus the amount specified in (2).
+
+3.4.3 An Authorised Market Institution maintaining an Official List of Securities
+
+must pay to the DFSA an annual fee of $75,000.
+
+3.4.4 An Authorised Market Institution carrying on the Financial Service of Operating an Alternative Trading System must pay to the DFSA an annual fee of:
+
+(a) $150,000 if it Operates an Alternative Trading System that trades Security Tokens that are not admitted to trading on an Authorised Market Institution or other Regulated Exchange;
+
+(b) the fee specified in Rule 3.4.6 if it Operates an Alternative Trading
+
+System that trades Crypto Tokens; or
+
+(c) $65,000 in any other case.
+
+3.4.5 An Authorised Market Institution must pay an additional annual fee of $10,000 for Operating an Exchange or Alternative Trading System that trades Investment Tokens or Crypto Tokens and has Direct Access Members.
+
+3.4.6
+
+(1) For the purposes of Rule 3.4.4(b), the fee specified for Operating an
+
+Alternative Trading System that trades Crypto Tokens is:
+
+(a) $150,000 if the average daily trading volume on the trading venue
+
+in the previous calendar year was less than $50 million;
+
+(b) $300,000 if the average daily trading volume on the trading venue in the previous calendar year was $50 million or more and less than $100 million;
+
+(c) $500,000 if the average daily trading volume on the trading venue in the previous calendar year was $100 million or more and less than $200 million; and
+
+19
+
+FER/VER33/07-25
+
+FEES MODULE (FER)
+
+(d) $800,000 if the average daily trading volume on the trading venue
+
+in the previous calendar year was more than $200 million.
+
+(2)
+
+For the purposes of (1), the average daily trading volume on an ATS in a calendar year is to be calculated by dividing the total value of trading on the trading venue up until the end of November in that year by the number of trading days on the trading venue up until the end of November in that year.
+
+3.4.7 An Authorised Market Institution must pay to the DFSA an annual fee of:
+
+(a) $3,000 if it has as an endorsement to act as a Trade Repository
+
+specified on its Licence; and
+
+(b) $1,000 if it has as an endorsement to conduct Islamic Financial
+
+Business specified on its Licence.
+
+3.5
+
+Registered Auditors (initial period)
+
+3.5.1
+
+(1) A Registered Auditor permitted under its registration to conduct audits of Authorised Persons (where those Persons are Domestic Firms or Domestic Funds) must pay to the DFSA an initial annual fee for the initial period of registration between the date of the grant of registration and the end of the year calculated in accordance with

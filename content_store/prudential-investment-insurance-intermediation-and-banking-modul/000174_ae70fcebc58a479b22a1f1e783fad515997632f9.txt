@@ -1,0 +1,127 @@
+ measure its total Exposure in each country or region and across several countries or regions;
+
+d.
+
+the types of business the Authorised Firm intends to undertake in each country or region;
+
+e.
+
+limits on Exposures to an individual country or region which the Authorised Firm deals with, and sub-limits for different types of business if appropriate;
+
+f.
+
+the procedure for setting and reviewing country or regional limits; and
+
+g.
+
+the process by which the Authorised Firm's actual country or regional Exposures will be monitored against limits and the procedure to be followed if the limits are breached.
+
+71. When setting country or regional limits, an Authorised Firm should consider:
+
+a.
+
+the economic and political circumstances prevailing in the country or region;
+
+267
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+b.
+
+the transfer risks associated with any particular country or region;
+
+c.
+
+the type and maturity of business undertaken by the Authorised Firm in a particular country or region;
+
+d.
+
+the Authorised Firm's existing concentration of country or regional risk;
+
+e.
+
+the source of funding for the country or regional Exposure; and
+
+f.
+
+sovereign or other guarantees offered.
+
+Provisioning
+
+72. Depending upon the nature of the Authorised Firm and its business, the Authorised Firm’s provisioning policy should set out:
+
+a.
+
+who has responsibility for reviewing the provisioning policy and approving any changes;
+
+b.
+
+how frequently the policy should be reviewed;
+
+c.
+
+when the review will take place, including the circumstances in which a review might be more frequent;
+
+d.
+
+who has primary responsibility for ensuring the provisioning policy remains appropriate, including any division of responsibilities;
+
+e.
+
+the areas of its business to which the provisioning policy relates - it should include both on balance sheet and off balance sheet Exposures and assets;
+
+f.
+
+where it takes different approaches to different lines of its business and the key features of those differences;
+
+g.
+
+who has responsibility for monitoring its asset portfolio on a regular basis in order to identify problem or potential problem assets and the factors it takes into account in identifying them;
+
+h.
+
+whether a loan grading system or a watch or problem list is used and, in the latter case, the criteria for adding an asset to or taking an asset off that list;
+
+i.
+
+the extent to which the value of any Collateral, guarantees or insurance which the Authorised Firm holds affects the need for or size of provision;
+
+j.
+
+on what basis the Authorised Firm makes its provisions, including the extent to which the level of provisioning is left to managerial judgement or to a committee or involves specified formulae and the methodologies or debt management systems and other formulae used to determine provisioning levels for different business lines and the factors applied within these methodologies;
+
+k.
+
+who is responsible for ensuring that the Authorised Firm's provisioning policy is being implemented properly, and the measures the Authorised Firm has in place if its provisioning polices are not adhered to;
+
+l.
+
+who is responsible for the regular reviews of the Authorised Firm’s specific and general provisions and who decides whether provision levels are satisfactory. The reviews should take account of changes in the status of the Exposures and potential losses and changes in the conditions associated with them;
+
+268
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+m.
+
+the reports used to enable management to ensure that the Authorised Firm's provisioning levels remain satisfactory, the frequency and purpose of those reports and their circulation;
+
+n.
+
+the procedures for recovering Exposures in arrears or Exposures which have had provisions made against them, including who has responsibility both internally and externally for its arrears management and recovery and the involvement of the Authorised Firm's solicitors;
+
+o.
+
+the procedures and methodologies for writing off and writing back provisions, including treatment of interest and who has the relevant responsibility for determining these;
+
+p.
+
+the frequency of any review of its write off experience against provisions raised; such a review can help identify whether an Authorised Firm's policies result in over or under provisioning across the business cycle, and contribute to a general review of an Authorised Firm's provisioning policy and the design of any loan grading systems, Credit Risk models, and risk pricing; and
+
+q.
+
+the Authorised Firm’s procedures and methodologies for calculating and raising

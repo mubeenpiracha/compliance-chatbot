@@ -1,0 +1,71 @@
+ or accounts where the Regulator reasonably believes that any of the above may pose a money laundering risks to ADGM.
+
+11.
+
+Relevant Persons are required to have arrangements in place to ensure the ability to comply with all applicable Sanctions in relation to physical delivery of commodities including Spot Commodities.
+
+12.
+
+Relevant Persons are reminded that the UAE has regulations in place relating to controls on the export and import of dual-use goods. Relevant Persons should ensure they are in compliance with such regulations. The EOCN makes a list of dual-use goods that are subject to export and import controls available on its website.
+
+Confidential
+
+78
+
+AML VER10.020125
+
+12. MONEY LAUNDERING REPORTING OFFICER
+
+12.1 Appointment of an MLRO
+
+12.1.1 (1)
+
+A Relevant Person must appoint an individual as the MLRO who has an appropriate level of seniority, experience and independence to act in the role, with responsibility for implementation and oversight of its compliance with the Rules in the AML Rulebook. It must do so by completing and filing with the Regulator the appropriate form specified by the Regulator.
+
+(2)
+
+The MLRO in (1) and Rule 12.1.7 must be resident in the UAE.
+
+12.1.2 The individual appointed as the MLRO of a DNFBP that comprises of one officer, partner or principal can, with the prior approval of the Regulator be the same person as the officer, partner or principal of the DNFBP.
+
+12.1.3 The individual appointed as the MLRO of a Representative Office must be the same individual who holds the position of Principal Representative of that Representative Office.
+
+Guidance
+
+1.
+
+Authorised Persons are reminded that under GEN Rule 5.5.1 the MLRO function is a mandatory appointment. For the avoidance of doubt, the individual appointed as the MLRO of an Authorised Person, other than a Representative Office, is the same individual who holds the Controlled Function of MLRO of that Authorised Person. Authorised Persons are also reminded that the guidance under GEN Rule 5.5.2 sets out the grounds under which the Regulator will determine whether to grant a waiver from the residence requirements for an MLRO. The same guidance is relevant to other Relevant Persons seeking a waiver from the MLRO residence requirements.
+
+2.
+
+The individual appointed as the MLRO of a Recognised Investment Exchange or Recognised Clearing House is the same individual who holds the position of MLRO of that Recognised Investment Exchange or Recognised Clearing House under the relevant MIR Rule.
+
+12.1.4 If the MLRO leaves the employment of the Relevant Person, the Relevant Person must immediately appoint a new MLRO or arrange temporary cover for the MLRO appointment.
+
+12.1.5 A Relevant Person, other than a Representative Office, must appoint an individual to act
+
+as a deputy MLRO of the Relevant Person to fulfil the role of the MLRO in his absence.
+
+12.1.6 A Relevant Person's MLRO and deputy MLRO must deal with the Regulator in an open and co-operative manner and must disclose appropriately any information of which the Regulator would reasonably be expected to be notified.
+
+Confidential
+
+79
+
+AML VER10.020125
+
+Guidance
+
+1.
+
+The individual appointed as the deputy MLRO need not apply for the Regulator’s approval.
+
+2.
+
+A Relevant Person should make adequate arrangements to ensure that it remains in compliance with the AML Rulebook in the event that its MLRO is absent. Adequate arrangements would include appointing a temporary MLRO for the period of the MLRO's absence or making sure that the Relevant Person's AML/TFS systems and controls allow it to continue to comply with these Rules when the MLRO is absent.
+
+12.1.7 A Relevant Person may outsource the role of MLRO to an individual outside the Relevant Person provided that the individual under the outsourcing agreement is and remains suitable to perform the MLRO role.
+
+Guidance
+
+Where a Relevant Person outsources specific AML/TFS tasks of its MLRO to another individual or a third-party provider, including the case where they are within its corporate Group, the Relevant Person remains responsible for ensuring that the duties undertaken by the MLRO ensure its compliance with the requirements in the AML Rulebook. The Relevant Person should satisfy itself of the suitability of anyone who acts for it in the role of

@@ -1,0 +1,55 @@
+The DFSA Rulebook
+
+Fees Module
+
+(FER)
+
+FER/VER33/07-25
+
+FEES MODULE (FER)
+
+Contents
+
+The contents of this module are divided into the following chapters, sections and appendices:
+
+INTRODUCTION ........................................................................................ 1 1. Application ........................................................................................................... 1 1.1 General provisions ............................................................................................... 1 1.2 APPLICATION FEES ................................................................................ 4 2. Application for a Licence ...................................................................................... 4 2.1 Application to carry on additional Financial Services ............................................ 7 2.2 Application to register as a Registered Auditor or Audit Principal ......................... 9 2.3 Application to register a Public Fund .................................................................... 9 2.4 Notification of intention to be a Passported Fund ................................................. 9 2.5 Application for Recognition as a Recognised Body or Recognised Member ...... 10 2.6 Applications relating to Authorised Individuals and Key Individuals .................... 10 2.7 Application to add a new cell to an existing PCC ............................................... 11 2.8 Application for admittance of Securities to the Official List of Securities ............. 11 2.9 2.9A Request to delist Shares from the Official List .................................................... 11 2.9B Application for a Crypto Token to be a Recognised Crypto Token ..................... 11 2.10 Application relating to a business transfer scheme ............................................ 11 2.11 Application for a waiver or modification .............................................................. 11 2.12 Declaration of an External Fund Manager .......................................................... 12 ANNUAL FEES ........................................................................................ 13 3 Authorised Firms (initial period) ......................................................................... 13 3.1 Authorised Firms (subsequent periods) ............................................................. 13 3.2 Authorised Market Institutions (initial period) ...................................................... 18 3.3 Authorised Market Institutions (subsequent periods) .......................................... 19 3.4 Registered Auditors (initial period) ..................................................................... 20 3.5 Registered Auditors (subsequent periods) ......................................................... 20 3.6 Designated Non-Financial Businesses and Professions (initial period) .............. 21 3.7 Designated Non-Financial Businesses and Professions (subsequent periods) .. 21 3.8 3.9 Domestic Funds (initial period)........................................................................... 21 3.10 Domestic Funds (subsequent periods) ............................................................... 22 3.10A Passported Fund ............................................................................................... 22 3.10B External Fund Managers (initial and subsequent periods) .................................. 22 3.11 Listed Entities .................................................................................................... 23 3.12 Recognised Body (Initial and subsequent periods) ............................................ 24 FILING FEES ........................................................................................... 25 4 Filing a Prospectus, Issue Note or other document for approval ........................ 25 4.1 Filing a reference with the FMT.......................................................................... 26 4.2 Seeking consent to commence a regulatory proceeding before the FMT ........... 26 4.3 TAKEOVER FEES ................................................................................... 27 5 Bid Documents .................................................................................................. 27 5.1 FEES FOR Other SUPERVISORY EVENTS ........................................... 29 6
+
+FER/VER33/07-25
+
+FEES MODULE (FER)
+
+1.
+
+INTRODUCTION
+
+1.1
+
+Application
+
+1.1.1
+
+This module applies to a Person to whom a provision in legislation administered by the DFSA applies.
+
+1.2
+
+General provisions
+
+Due date for payment of fees
+
+1.2.1 Where pursuant to chapter 2 or 4, a fee is payable for any application to the DFSA, the application will not be regarded as submitted until the fee and any supplementary fee has been paid in full.
+
+1.2.2
+
+In regard to fees payable pursuant to chapter 3:
+
+(a)
+
+the initial annual fee must be paid in full to the DFSA within 21 days of the date on which the Licence, Recognition or registration is granted or notification made, unless otherwise specified in a Rule; and
+
+(b)
+
+subsequent annual fees are payable in advance and must be paid in full to the DFSA:
+
+(i)
+
+in the case of a Person other than a Registered Auditor, on or before 1 January of the

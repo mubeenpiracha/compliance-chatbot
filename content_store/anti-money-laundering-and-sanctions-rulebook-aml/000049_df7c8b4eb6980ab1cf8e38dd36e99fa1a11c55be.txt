@@ -1,0 +1,93 @@
+STR as soon as practicable.
+
+14.3.2 The MLRO must, following receipt of an internal notification of suspicious activity under
+
+Rule 14.2.2, document:
+
+(a)
+
+the steps taken to investigate the circumstances in relation to which the internal notification is made; and
+
+Confidential
+
+87
+
+AML VER10.020125
+
+(b)
+
+where no external SAR/STR is made, the reasons why no such report was made.
+
+14.3.3 Where, following a notification to the MLRO of suspicious activity under 14.2.2, no SAR/STR is made, a Relevant Person must record the reasons for not making a SAR/STR.
+
+14.3.4 A Relevant Person must ensure that if the MLRO decides to make a SAR/STR, his decision is made independently and is not subject to the consent or approval of any other Person.
+
+14.3.5 Relevant Persons are required to register on goAML upon receipt of their Financial Services Permission, Recognition Order or registration licence in order to submit SAR/STRs.
+
+Guidance
+
+1.
+
+Relevant Persons are reminded that the failure to report suspicions of money laundering or terrorist financing may constitute a criminal offence that is punishable under the laws of the UAE.
+
+2.
+
+Relevant Persons should comply with guidance issued by the EOCN regarding reporting suspicious activity and Transactions relating to money laundering, terrorist financing and proliferation financing.
+
+3.
+
+SARs/STRs under Federal AML Legislation should be submitted to the FIU via goAML. The dedicated mechanism for registering and reporting on goAML is available on the Regulator’s website. Failure to register on goAML may lead to the Regulator taking action.
+
+4.
+
+In the preparation of a SAR/STR, if a Relevant Person knows or assumes that the funds which form the subject of the report do not belong to a customer but to a third party, this fact and the details of the Relevant Person's proposed course of further action in relation to the case should be included in the report.
+
+5.
+
+If a Relevant Person has filed a SAR/STR, the FIU may instruct the Relevant Person on how to continue its business relationship, including effecting any Transaction with a Person. If the customer in question expresses his wish to move the funds before the Relevant Person receives instruction from the FIU on how to proceed, the Relevant Person should immediately contact the FIU for further instructions.
+
+14.4 Suspension of Transactions and “no tipping-off” requirement
+
+14.4.1 A Relevant Person must not carry out Transactions that it knows or suspects or has reasonable grounds for knowing or suspecting to be related to money laundering or terrorist financing until it has informed the FIU pursuant to Rule 14.3.1.
+
+Guidance
+
+1.
+
+Relevant Persons are reminded that in accordance with Federal AML Legislation, Relevant Persons or any of their Employees must not tip off any Person, that is, inform any Person that he is being scrutinised, or investigated by any other
+
+Confidential
+
+88
+
+AML VER10.020125
+
+competent authority, for possible involvement in suspicious Transactions or activity related to money laundering or terrorist financing.
+
+2.
+
+If a Relevant Person reasonably believes that performing CDD measures will tip off a customer or potential customer, it may choose not to pursue that process and should file a Suspicious Activity/Transaction Report. Relevant Persons should ensure that their Employees are aware of and sensitive to these issues when considering the CDD measures.
+
+14.5 Record-keeping
+
+14.5.1 All relevant details of any notification to the MLRO under Rule 14.2 or Suspicious Activity/Transaction Reports filed pursuant to Rule 14.3 must be kept for at least six years from the date on which the report was made.
+
+14.6
+
+Freezing of assets
+
+Guidance
+
+The Regulator has certain powers under FSMR to impose a requirement restricting an Authorised Person or Recognised Body from disposing of or transferring property including, for example, assets or other funds suspected of relating to money laundering. It may also apply to the ADGM Courts for an order restraining a Person from transferring or disposing of any assets suspected of relating to money laundering or terrorist financing. In cases involving suspected money laundering or terrorist financing, the Regulator will usually take such action in coordination with the FIU.
+
+Confidential
+
+89
+
+AML VER10.020125
+
+15.
+
+DNFBP REGISTRATION AND SUPERVISION
+
+Guid

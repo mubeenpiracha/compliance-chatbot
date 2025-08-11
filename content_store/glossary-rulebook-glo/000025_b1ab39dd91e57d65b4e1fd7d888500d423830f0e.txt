@@ -1,0 +1,169 @@
+290725
+
+Defined Terms
+
+Market Manipulation
+
+Marketing Material
+
+Mark-up or Mark-down
+
+Master Fund
+
+Matched Principal Trading
+
+Definitions
+
+Means the behaviour specified in section 92(4) of FSMR.
+
+Means:
+
+(a)
+
+in relation to COBS, any material communicated to a Person in the course of marketing Regulated Activities or Specified Investments or effecting introductions; and
+
+(b)
+
+in relation to GEN 9.12 and 9.13, any material communicated to a Person in the course of marketing financial services or financial products or effecting introductions.
+
+Means:
+
+(a)
+
+when an Authorised Person receives instructions from a Client and takes a principal position in the relevant Investment in order to complete a transaction, that is, when the Authorised Person takes a principal position in the relevant Investment which it would not otherwise take, except to complete that transaction, the difference, if any, between:
+
+(i)
+
+the price at which the Authorised Person takes a principal position in the relevant Investment; and
+
+(ii)
+
+the price at which the Authorised Person Executes the transaction with its Client; or
+
+(b)
+
+when an Authorised Person Executes a transaction with its Client against its own book and owes a duty of best execution, the difference between:
+
+(i)
+
+the price at which best execution would be achieved; and
+
+(ii)
+
+the price at which the Authorised Person Executes the transaction with its Client.
+
+Means a Fund that issues its Units or Debentures to one or more other Funds which are dedicated to investing in that Fund.
+
+Means a transaction where the facilitator interposes itself between the buyer and the seller to the transaction in such a way that it is never exposed to market risk throughout the execution of the transaction, with both sides executed simultaneously, and where the transaction is concluded at a price where the facilitator makes no profit or loss, other than a previously disclosed commission, fee or charge for the transaction.
+
+51
+
+GLO VER23.290725
+
+Defined Terms
+
+Measured Mineral Resources
+
+Member
+
+Mineral Resources and Ore Reserves Holdings
+
+Mineral Resources
+
+Minerals
+
+Minimum Cellular Capital Requirement
+
+Minimum Non-Cellular Capital Requirement
+
+Minimum Segmental Capital Requirement
+
+Mining Exploration Reporting Entity
+
+Mining Production Reporting Entity
+
+Mining Project
+
+Mining Reporting Entity
+
+Definitions
+
+Has the meaning of the term or equivalent term in a Mining Reporting Standard.
+
+Means a Person admitted as a member of a Recognised Body in accordance with its Business Rules.
+
+Means the aggregate economic interests in Mineral Resources and Ore Reserves of a Mining Reporting Entity and its controlled entities.
+
+Has the meaning of the term or equivalent term in a Mining Reporting Standard.
+
+Means any substance extracted for value occurring naturally in or on the Earth, in or under water or in tailings, residues or stockpiles, having been formed by or subjected to a geological process but excludes Petroleum.
+
+Means the Minimum Segmental Capital Requirement in respect of a Cell.
+
+Means the Minimum Segmental Capital Requirement in respect of that part of a Protected Cell Company or an Incorporated Cell Company that is not a Cell.
+
+Means the requirement calculated in accordance with PIN A6.2.
+
+Means a Mining Reporting Entity:
+
+(a)
+
+whose main undertaking consists of Exploration for Minerals; or
+
+(b)
+
+which has been advised by the Regulator that it is a Mining Exploration Reporting Entity for the purposes of MKT.
+
+Means a Mining Reporting Entity:
+
+(a)
+
+whose main undertaking consists of the Extraction of Minerals; or
+
+(b)
+
+which has been advised by the Regulator that it is a Mining Production Reporting Entity for the purposes of MKT.
+
+Means a project to Explore for or Extract Minerals from a Mining Tenement(s).
+
+Means a Mining Exploration Reporting Entity or a Mining Production Reporting Entity.
+
+52
+
+GLO VER23.290725
+
+Defined Terms
+
+Definitions
+
+Mining Reporting Standard
+
+Means a standard of reporting under one of the following codes or guidelines:
+
+(a)
+
+the JORC Code;
+
+(b)
+
+NI 43-101; or
+
+(c)
+
+the SAMREC Code.
+
+Mining Tenement
+
+Means any right to explore for or extract Minerals in a given place.
+
+MIR
+
+Means the Market Infrastructure Rulebook.
+
+MKT
+
+Means the Markets Rulebook.
+
+Model Portfolio
+
+Means a portfolio of segregated holdings managed on a discretionary basis by an Investment Manager where all Clients in a particular profile or model receive the same portfolios and are traded and adjusted at the same time and in the same way, but with each Client having a separate Discretionary Portfolio Management

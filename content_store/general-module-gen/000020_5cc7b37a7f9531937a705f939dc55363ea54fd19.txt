@@ -1,0 +1,65 @@
+ of its services.
+
+What is ‘Safeguarding’ and ‘Administering’ Investments?
+
+3.
+
+As set out in Rule 2.13.1, both the elements (i.e. the activities) of safeguarding and administering, must be present before a Person is said to carry on the Financial Service of Providing Custody.
+
+4.
+
+A Person:
+
+a.
+
+‘safeguards’ a Client’s Investments if that Person is the holder of the legal title to the Client’s Investments (whether in certificated or uncertificated form); and
+
+b.
+
+‘administers’ a Client’s Investments if that Person carries out activities as the holder of legal title to the Investments, such as effecting transactions, reinvesting dividends or other income arising from the Investments, and carrying out corporate actions relating to the exercise of rights attaching to the Investments (e.g. voting or appointing proxies to vote and accepting a rights offer/issue of Investments).
+
+What is ‘Safeguarding’ and ‘Administering’ Crypto Tokens?
+
+5.
+
+A Person ‘safeguards’ a Client’s Crypto Token if that Person is the holder of the legal title to the Crypto Token or of the means of access to that Token. For example, this may occur if the Person’s name is registered on the blockchain as the holder of the relevant Token, cryptographic key or Digital Wallet or if the Person, through other means, holds legal title or any beneficial interest in the Crypto Token or controls the cryptographic keys or other instruments that provide access to the Client’s Digital Wallet.
+
+6.
+
+A Person ‘administers’ a Crypto Token if that Person carries out activities as the holder of the legal title to the Crypto Token or as the holder of the means of access to that Crypto Token. For example, administering can be done by effecting transactions such as exchanging or transferring the Token, participating in the consensus mechanism where applicable, reinvesting rewards or other income arising from the Token, or exercising other rights, including rights of early access or discounts to products and services offered on the native blockchain of the Token.
+
+Who is a Third Party Agent?
+
+7.
+
+A Third Party Agent is simply an agent of the firm which Provides Custody. A Person is regarded as Providing Custody even if it appoints a Third Party Agent (see GLO) to carry out either or both of the activities of safeguarding and administering its
+
+26
+
+GEN/VER67/03-25
+
+GENERAL (GEN)
+
+Clients’ Investments or Crypto Tokens. The Person Providing Custody (and not the Third Party Agent) remains accountable to the Client for the safe custody of the Investments or Crypto Tokens of the Client.
+
+8.
+
+The DFSA requires a firm which Provides Custody, if it is outsourcing or delegating the safeguarding or administering of Client Investments or Crypto Tokens to a Third Party Agent, to undertake due diligence relating to the Third Party Agent (see COB Rule A6.5.1).
+
+What is the relationship between ‘Providing Custody’ and ‘holding or controlling’ Client Assets for Investments?
+
+9.
+
+A firm Providing Custody, in order to safeguard and administer Client Investments, must hold and control those Investments. Therefore, a firm Providing Custody is subject to the Client Investments provisions in COB section 6.13 and the Safe Custody Provisions in COB App6. The firm may hold and control Client Investments directly (i.e. itself) or indirectly (i.e. through a Third Party Agent).
+
+10.
+
+Activities Investments and ‘safeguarding and administering’ Client Investments can overlap. Guidance items 9 to 11 set out some examples to illustrate the interconnectivity and overlap of such activities.
+
+that constitute
+
+‘holding or controlling’ Client
+
+11.
+
+In the case of Investments the title to which is evidenced by a physical instrument (e.g. a share or debenture certificate), a Person who has physical possession of the certificate ‘holds’ it. It is possible that the Person who has physical possession is also the legal owner (i.e. the Person in whose name the title to the certificate is registered). If this is not the case, the Person who ‘holds’ the certificate is generally regarded as an agent of the legal owner whose name appears on the share or debenture certificate. An example would be a firm Providing Custody in whose name the certificates are registered, but the actual possession of the certificates is with a Third Party Agent

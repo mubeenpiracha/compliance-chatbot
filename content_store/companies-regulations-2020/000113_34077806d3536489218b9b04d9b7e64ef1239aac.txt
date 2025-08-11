@@ -1,0 +1,139 @@
+ required to circulate a members’ statement under section 310 (circulation of written resolution proposed by members) if, on an application by the company or another person who claims to be aggrieved, the Court is satisfied that the rights conferred by section 309 (members’ power to require circulation of written resolution) and that section are being abused.
+
+(2)
+
+The Court may order the members who requested the circulation of the statement to pay the whole or part of the company’s costs on such an application, even if they are not parties to the application.
+
+313. Procedure for signifying agreement to written resolution
+
+(1)
+
+A member signifies his agreement to a proposed written resolution when the company receives from him (or from someone acting on his behalf) an authenticated document–
+
+203
+
+(a)
+
+identifying the resolution to which it relates, and
+
+(b)
+
+indicating his agreement to the resolution.
+
+(2)
+
+The document must be sent to the company in hard copy form or in electronic form.
+
+(3)
+
+A member’s agreement to a written resolution, once signified, may not be revoked.
+
+(4)
+
+A written resolution is passed when the required majority of eligible members have signified their agreement to it.
+
+314. Period for agreeing to written resolution
+
+(1)
+
+A proposed written resolution lapses if it is not passed before the end of–
+
+(a)
+
+the period specified for this purpose in the company’s articles, or
+
+(b)
+
+if none is specified, the period of one month beginning with the circulation date.
+
+(2)
+
+The agreement of a member to a written resolution is ineffective if signified after the expiry of that period.
+
+315. Sending documents relating to written resolutions by electronic means
+
+(a) Where a company has given an electronic address in any document containing or accompanying a proposed written resolution, it is deemed to have agreed that any document or information relating to that resolution may be sent by electronic means to that address (subject to any conditions or limitations specified in the document).
+
+(b)
+
+In this section “electronic address” means any address or number used for the purposes of sending or receiving documents or information by electronic means.
+
+316. Publication of written resolution on website
+
+(1)
+
+This section applies where a company sends–
+
+(a)
+
+a written resolution, or
+
+(b)
+
+a statement relating to a written resolution,
+
+to a person by means of a website.
+
+(2)
+
+The resolution or statement is not validly sent for the purposes of this Chapter unless the resolution is available on the website throughout the period beginning with the circulation date and ending on the date on which the resolution lapses under section 314 (period for agreeing to written resolution).
+
+317. Relationship between this Chapter and provisions of company’s articles
+
+A provision of the articles of a private company is void in so far as it would have the effect that a resolution that is required by or otherwise provided for in these Regulations or any other law or regulation applicable in the Abu Dhabi Global Market could not be proposed and passed as a written resolution.
+
+CHAPTER 3
+
+204
+
+RESOLUTIONS AT MEETINGS
+
+General provisions about resolutions at meetings
+
+318. Resolutions at general meetings
+
+A resolution of the members of a company is validly passed at a general meeting if–
+
+(a)
+
+notice of the meeting and of the resolution is given, and
+
+(b)
+
+the meeting is held and conducted,
+
+in accordance with the provisions of this Chapter and the company’s articles.
+
+319. Directors’ power to call general meetings
+
+The directors of a company may call a general meeting of the company.
+
+320. Members’ power to require directors to call general meeting
+
+(1)
+
+The members of a company may require the directors to call a general meeting of the company.
+
+(2)
+
+The directors are required to call a general meeting once the company has received requests to do so from–
+
+(a)
+
+members representing at least 5% of such of the paid-up capital of the company as carries the right of voting at general meetings of the company (excluding any paid-up capital held as treasury shares), or
+
+(b)
+
+in the case of a company not having a share capital, members who represent at least 5% of the total voting rights of all the members having a right to vote at general meetings.
+
+(3)
+
+A request–
+
+(a)
+
+must state the general nature of the business to be dealt with at the meeting, and
+
+(b)
+
+may include the text of a resolution that may properly be moved and is intended to be moved

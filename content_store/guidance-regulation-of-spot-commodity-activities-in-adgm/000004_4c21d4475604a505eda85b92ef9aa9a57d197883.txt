@@ -1,0 +1,59 @@
+;
+
+b)
+
+not a contract for the sale of a commodity under which delivery is to be made at a future date, other than the period generally accepted in the market for that Spot Commodity as the standard delivery period (it is therefore not considered a ‘Future’);
+
+c)
+
+not a Financial Instrument involving conventional assets (e.g., Securities or Derivatives);
+
+d)
+
+not a service or other items that are not goods, such as currencies or rights in real estate, or that are intangible; and
+
+e)
+
+an Environmental Instrument6, where deemed by the Regulator to be a carbon offset for the purposes of section 258 of FSMR (see Rule COBS 22.2.2(d)).
+
+5 Or as applicable, a Recognition Order to operate as an RIE or RCH. 6 As defined in FSMR, Schedule 1, section 99B as a Financial Instrument that is recognised by the Regulator which:
+
+(i)
+
+enables its holder to emit greenhouse gases into the atmosphere, in accordance with any emissions trading scheme (i.e. emissions allowances or equivalent);
+
+(ii)
+
+attests to the reduction or removal of greenhouse gases into the atmosphere (i.e. carbon credits or equivalent); or
+
+(iii)
+
+attests to the environmental attributes of an underlying unit (i.e. renewable energy or environmental attribute certificates).
+
+5
+
+VER02.181223
+
+24) COBS Rule 22.2 permits Authorised Persons to conduct Regulated Activities in relation to Accepted Spot Commodities only. The FSRA has a general power to determine each Accepted Spot Commodity that will be permitted to be used by an Authorised Person within or from ADGM, including activities involving Spot Commodity Titles, in order to prevent activities deemed not to be operating without suitable Due Diligence controls or responsibly or sustainably produced.
+
+25) A Spot Commodity that meets the FSRA’s requirements, as demonstrated by an individual Authorised Person, will constitute an Accepted Spot Commodity for that individual Authorised Person’s activities only. COBS Rule 22.2.2 states that for the purpose of determining whether, in its opinion, a Spot Commodity meets the requirements of being an Accepted Spot Commodity, the FSRA will consider the following relevant factors: the Authorised Person’s requirement for, and standards used, in relation to responsible and sustainable sourcing, including adherence to internationally recognised certification standards (see COBS Rules 22.2.2(a) and 22.3). The FSRA’s regulatory approach under the Spot Commodities Framework allows for the physical settlement of Spot Commodities but only permits the use of Spot Commodities that are compliant, on an ongoing basis, to stringent sustainable, responsible and other ethical due diligence standards;
+
+25) A Spot Commodity that meets the FSRA’s requirements, as demonstrated by an individual Authorised Person, will constitute an Accepted Spot Commodity for that individual Authorised Person’s activities only. COBS Rule 22.2.2 states that for the purpose of determining whether, in its opinion, a Spot Commodity meets the requirements of being an Accepted Spot Commodity, the FSRA will consider the following relevant factors: a)
+
+b)
+
+the market fundamentals in respect of the relevant Spot Commodity’s market, including its market practices and characteristics, liquidity, depth and breadth, the number of participants, transparency and its fair and orderly requirements (see COBS Rule 22.2.2(b)); and
+
+any other factors, that in the opinion of the FSRA, are to be taken into account (see COBS Rule 22.2.2(c)), which include the key factors as set out in paragraph 26 of this Guidance.
+
+26) Accordingly, for the purposes of COBS Rules 22.2.2(a), (b) and (c), Authorised Persons conducting a Regulated Activity in relation to Spot Commodities are required to demonstrate to the FSRA that the proposed Spot Commodity meets the requirements of being an Accepted Spot Commodity. The following table sets out the FSRA’s regulatory approach to determining if a Spot Commodity meets the requirements of an Accepted Spot Commodity:
+
+Requirement
+
+Regulatory Approach
+
+Responsible and Sustainable Sourcing
+
+(COBS Rule 22.2.2(a))
+
+The FSRA requires Accepted Spot Commodities to meet appropriate for responsible and sustainable sourcing, standards including adherence internationally recognised certification standards. to Particular regard is given to due diligence

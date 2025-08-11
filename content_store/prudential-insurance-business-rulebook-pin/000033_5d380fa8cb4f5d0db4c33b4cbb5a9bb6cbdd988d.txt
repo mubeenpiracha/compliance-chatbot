@@ -1,0 +1,71 @@
+urer is required by a collateral notice to make available, and the amount of assets made available by the Insurer.
+
+9.4.10 The Insurer must report to the Regulator, within two months of the date as at which the reassessment referred to in Rule 9.4.9 is performed, the results of that reassessment and details of any action taken or proposed to be taken as a result of that assessment.
+
+9.4.11 If the reassessment referred to in Rule 9.4.9 shows that the amount of assets made available is less than the amount that the insurer is required to make available, the insurer must, within two months of the effective date of the reassessment, make additional assets available so that the Insurer complies with the requirements of the collateral notice.
+
+9.4.12 If the reassessment shows that the amount of assets made available is more than the amount that the insurer is required to make available, the Insurer may, with the written consent of the Regulator, remove assets from those made available provided that the Insurer complies with the requirements of the collateral notice after the assets have been removed.
+
+9.5
+
+Provisions in respect of contracts relating to Insurance Business in run-off
+
+9.5.1 This section applies to any Insurer referred to in Rule 9.4.1.
+
+9.5.2 An Insurer to which this section applies must inform the Regulator in writing of the existence and principal features of any contract which it enters into in respect of its Insurance Business in run-off, including Insurance Business carried on through a Cell or a Long-Term Insurance Fund that is in run-off, or that is in existence at the time the Insurer places that Insurance Business into run-off, and that is of any of the following types:
+
+(a)
+
+contracts, other than Contracts of Insurance effected by the Insurer prior to going into run-off, with parties that are Related to the Insurer;
+
+(b)
+
+contracts relating to the management of the Insurance Business in run-off, and any other contracts with the same counterparty or parties Related to that counterparty; or
+
+51
+
+PIN VER07.290725
+
+(c)
+
+contracts for reinsurance of the Insurance Business that is in run-off, and any other contracts with the same counterparty or parties Related to that counterparty.
+
+9.5.3 The Regulator may by written notice require an Insurer to provide additional information as specified in that notice in respect of any contract notified to the Regulator in accordance with Rule 9.5.2
+
+9.6
+
+Limitations on distributions by ADGM Incorporated Insurers in run-off
+
+9.6.1 No ADGM Incorporated Insurer that is in run-off may make any distribution of profits or surplus however called or described, or return of capital, or any payment of management fees (other than fees payable under a contract notified to the Regulator in accordance with Rule 9.5.2), without the written consent of the Regulator. Any such distribution or return of capital or payment of management fees must be made within the period, if any, specified in the written notice of consent given by the Regulator.
+
+52
+
+PIN VER07.290725
+
+10
+
+INSURANCE SPECIAL PURPOSE VEHICLES
+
+10.1 Application
+
+10.1.1 This Chapter applies only to Insurers that are Authorised ISPVs.
+
+10.1.2 An Authorised ISPV must ensure that at all times its assets are equal to or greater than its
+
+liabilities.
+
+Guidance
+
+It is the policy of the Regulator that an Authorised ISPV should be fully funded. The Regulator considers that to be fully funded an ISPV must have actually received the proceeds of the debt issuance or other mechanism by which it is financed. The Regulator would not, for example, authorise an ISPV where part of the financing for its reinsurance liabilities was on a contingent basis, i.e. a stand-by facility or letter of credit.
+
+10.1.3 The assets of an Authorised ISPV must be held by, or on behalf of:
+
+(a)
+
+the Authorised ISPV; or
+
+(b)
+
+the insurer which cedes to the Authorised ISPV the risks in respect of which the relevant assets are held.
+
+10.1.4 An Authorised ISPV must develop, implement and maintain a risk management system to address all material risks

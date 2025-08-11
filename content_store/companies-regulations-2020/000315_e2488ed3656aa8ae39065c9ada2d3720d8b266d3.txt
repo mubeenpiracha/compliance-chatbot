@@ -1,0 +1,167 @@
+ or any description of documents to be delivered to the Registrar.
+
+(3)
+
+Documents in relation to which an agreement is in force under this section must be delivered in accordance with the agreement.
+
+945. Document not delivered until received
+
+(1)
+
+A document is not delivered to the Registrar until it is received by the Registrar.
+
+(2)
+
+Provision may be made by Registrar’s rules as to when a document is to be regarded as received.
+
+Requirements for proper delivery
+
+946. Requirements for proper delivery
+
+(1)
+
+A document delivered to the Registrar is not properly delivered unless all the following requirements are met–
+
+(a)
+
+the requirements of the provision under which the document is to be delivered to the Registrar as regards–
+
+(i)
+
+the contents of the document, and
+
+(ii)
+
+form, authentication and manner of delivery,
+
+(b)
+
+any applicable requirements under–
+
+(i)
+
+section 942 (Registrar’s requirements as to form, authentication and manner of delivery),
+
+(ii)
+
+section 943 (power to require delivery by electronic means), or
+
+(iii)
+
+section 944 (agreement for delivery by electronic means),
+
+(c)
+
+any requirements of this Part as to the language in which the document is drawn up and delivered or as to its being accompanied on delivery by a certified translation into English,
+
+529
+
+(d)
+
+in so far as it consists of or includes names and addresses, any requirements of this Part as to permitted characters, letters or symbols or as to its being accompanied on delivery by a certificate as to the transliteration of any element,
+
+(e)
+
+any requirement of rules under section 956 (use of unique identifiers),
+
+(f)
+
+any applicable requirements under section 983 (Registrar’s requirements as to certification or verification),
+
+(g)
+
+any requirements as regards payment of a fee in respect of its receipt by the Registrar.
+
+(2)
+
+A document that is not properly delivered is treated for the purposes of the provision requiring or authorising it to be delivered as not having been delivered, subject to the provisions of section 947 (power to accept documents not meeting requirements for proper delivery).
+
+947. Power to accept documents not meeting requirements for proper delivery
+
+(1)
+
+The Registrar may accept (and register) a document that does not comply with the requirements for proper delivery.
+
+(2)
+
+A document accepted by the Registrar under this section is treated as received by the Registrar for the purposes of section 951 (public notice of receipt of certain documents).
+
+(3)
+
+No objection may be taken to the legal consequences of a document’s being accepted (or registered) by the Registrar under this section on the ground that the requirements for proper delivery were not met.
+
+(4)
+
+The acceptance of a document by the Registrar under this section does not affect–
+
+(a)
+
+the continuing obligation to comply with the requirements for proper delivery, or
+
+(b)
+
+subject as follows, any liability for failure to comply with those requirements.
+
+(5)
+
+For the purposes of–
+
+(a)
+
+section 428 (default in filing accounts), and
+
+(b)
+
+any applicable law or regulation imposing a daily default fine for failure to deliver the document,
+
+the period after the document is accepted does not count as a period during
+
+which there is default in complying with the requirements for proper delivery.
+
+(6)
+
+But if, subsequently–
+
+(a)
+
+the Registrar issues a notice under section 969(4) in respect of the document (notice of administrative removal from the register), and
+
+(b)
+
+the requirements for proper delivery are not complied with before the end of the period of 14 days after the issue of that notice,
+
+any subsequent period of default does count for the purposes of those
+
+provisions.
+
+530
+
+948. Documents containing unnecessary material
+
+(1)
+
+This section applies where a document delivered to the Registrar contains unnecessary material.
+
+(2)
+
+“Unnecessary material” means material that–
+
+(a)
+
+is not necessary in order to comply with an obligation under these Regulations, and
+
+(b)
+
+is not specifically authorised to be delivered to the Registrar.
+
+(3)
+
+For this purpose an obligation to deliver a document of a particular description, or conforming to certain requirements, is regarded as not extending to anything that is not needed for a document of that description or, as the case may be, conforming to those requirements.
+
+(4)
+
+If the unnecessary material cannot readily be separated from the rest of the document, the document is treated as not meeting the requirements for proper delivery.
+
+(5)
+
+If the unnecessary material can readily be separated from the rest of the document, the Registrar may register
