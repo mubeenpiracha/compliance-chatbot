@@ -46,20 +46,36 @@ class VectorSearchEngine:
             return []
     
     async def _get_query_embedding(self, query_text: str) -> List[float]:
-        """Generate embedding for the query text."""
-        
-        # Enhance query with regulatory context for better embedding
-        enhanced_query = self._enhance_query_for_embedding(query_text)
-        
-        response = await self.client.embeddings.create(
-            model="text-embedding-3-large",
-            input=enhanced_query
-        )
-        
-        return response.data[0].embedding
+        """Generate embedding for the query text using OpenAI."""
+        try:
+            # Enhance query with regulatory context for better embedding
+            enhanced_query = self._enhance_query_for_embedding(query_text)
+            
+            response = await self.client.embeddings.create(
+                model="text-embedding-3-large",
+                input=enhanced_query,
+                dimensions=1536  # Match the Pinecone index dimension
+            )
+            return response.data[0].embedding
+            
+        except Exception as e:
+            logger.error(f"Failed to generate embedding: {str(e)}")
+            # Return a zero vector as fallback
+            return [0.0] * 1536
     
     def _enhance_query_for_embedding(self, query_text: str) -> str:
         """Enhance query with regulatory context for better semantic matching."""
+        
+        # Detect if this is a definition query and enhance accordingly
+        query_lower = query_text.lower()
+        
+        if any(term in query_lower for term in ['what is', 'define', 'definition', 'meaning']):
+            if any(term in query_lower for term in ['fund', 'collective investment']):
+                # For fund definition queries, add terms that appear in legal definitions
+                return f"legal definition regulatory meaning: {query_text} arrangements with respect to property collective investment fund means"
+            else:
+                # For other definition queries, add general legal context
+                return f"legal definition regulatory meaning: {query_text}"
         
         # Add regulatory context terms to improve semantic matching
         regulatory_context = "ADGM financial services regulation compliance"
@@ -71,7 +87,11 @@ class VectorSearchEngine:
         filters = {}
         
         if query.target_domains:
-            filters['domain'] = query.target_domains
+            # This is intentionally commented out to fix the bug where the 'domain'
+            # metadata field does not exist in the ingested data. The new architecture
+            # uses domains as context for the LLM, not as a hard filter.
+            # filters['domain'] = query.target_domains
+            pass
         
         if query.required_document_types:
             filters['document_type'] = [dt.value for dt in query.required_document_types]

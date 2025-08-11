@@ -1,56 +1,40 @@
-# Enhanced AI Service - Chain of Thought Architecture
+# Enhanced AI Service - Flexible Agent Architecture
 
-## Successfully Implemented and Cleaned Up! ✅
+## Successfully Refactored and Improved! ✅
 
 ### What We Built:
-A complete chain-of-thought reasoning system that follows your exact specifications:
+A flexible, agent-based reasoning system that addresses the brittleness of the previous chain-of-thought model. The new architecture is more robust, efficient, and intelligent.
 
-1. **Compliance Classification** → Determines if query is compliance-related
-2. **Query Decomposition** → Breaks complex queries into atomic sub-questions  
-3. **Knowledge Gap Identification** → Determines what needs retrieval vs clarification
-4. **Hybrid Retrieval** → Multi-strategy document search (vector + keyword + fusion)
-5. **Clarification Loop** → Asks targeted questions to understand customer context
+1.  **Holistic Query Analysis** → A single, powerful step to understand user intent, identify context, and assess query completeness.
+2.  **Dynamic Action Planning** → The system decides upfront whether to create a multi-pronged search plan or ask for user clarification, avoiding wasted effort.
+3.  **Parallelized Hybrid Retrieval** → Executes multiple, diverse search queries (vector + keyword) simultaneously to cast a wider net and find the best possible information.
+4.  **Reflective Synthesis Loop** → If the initial search fails, the agent can reflect on the results and try a different approach instead of failing silently.
 
 ### Architecture Components:
 
 **Core Service:**
-- `backend/core/enhanced_ai_service.py` - Main orchestrator with chain-of-thought processing
+- `backend/core/enhanced_ai_service.py` - The main reasoning agent that orchestrates the analysis, action, and synthesis loop.
 
-**Node Pipeline:**
-- `backend/core/nodes/classification.py` - Compliance query classification
-- `backend/core/nodes/context_identification.py` - Regulatory context identification  
-- `backend/core/nodes/query_decomposition.py` - Query decomposition into sub-questions
-- `backend/core/nodes/knowledge_gap_analysis.py` - Gap analysis and clarification generation
-- `backend/core/nodes/hybrid_retrieval.py` - Multi-strategy retrieval orchestration
+**Agent Models:**
+- `backend/core/models/agent_models.py` - Defines the core data structures for the agent's decision-making process, including `QueryAnalysis`, `SearchPlan`, and `ClarificationRequest`.
 
 **Hybrid Retrieval System:**
-- `backend/core/retrieval/vector_search.py` - Semantic similarity search
-- `backend/core/retrieval/keyword_search.py` - BM25/keyword search with legal synonyms
-- `backend/core/retrieval/result_fusion.py` - Reciprocal rank fusion with authority weighting
+- `backend/core/retrieval/vector_search.py` - Semantic similarity search.
+- `backend/core/retrieval/keyword_search.py` - BM25/keyword search with legal synonyms.
+- `backend/core/retrieval/result_fusion.py` - Reciprocal rank fusion to intelligently combine and rank search results.
 
-**Data Models:**
-- `backend/core/models/query_models.py` - Query processing models
-- `backend/core/models/retrieval_models.py` - Document retrieval models
-- `backend/core/models/analysis_models.py` - Analysis and response models
-
-### Test Results:
-✅ **Working Example:** For your SPV/syndicate query, the system:
-1. Classified as "moderate complexity compliance query" (confidence: 0.55)
-2. Identified ADGM jurisdiction and relevant domains
-3. Decomposed into 6 targeted sub-questions
-4. Generated 7 clarification questions including:
-   - "What do you mean by 'syndicate'?" (with suggested answers)
-   - "What are the 2 key investment decisions?" 
-   - Why you want to avoid fund classification
+### Key Improvements:
+- **Removed Brittleness**: The new agent architecture replaces the rigid, sequential node pipeline, preventing a single point of failure from derailing the entire process.
+- **Fixed Critical Bug**: The system no longer attempts to filter searches on non-existent `domain` metadata. This was a primary cause of previous failures.
+- **Increased Efficiency**: By deciding whether to search or ask for clarification upfront, the system avoids executing futile search queries on ambiguous user requests.
+- **Enhanced Robustness**: The agent can now reflect on poor search results and adapt its strategy, leading to more reliable performance.
 
 ### Cleaned Up Files:
-❌ Removed: Old enhanced_ai_service.py, graph_agent.py, enhanced_retrieval.py
-❌ Removed: Empty enhanced_requirements.txt, old test files
-✅ Kept: Working ingest.py, consolidated requirements.txt
+❌ **Removed**: All the old node files (`classification.py`, `context_identification.py`, `query_decomposition.py`, `knowledge_gap_analysis.py`, `hybrid_retrieval.py`) that represented the obsolete, rigid pipeline.
 
 ### Ready For:
-- Real document corpus integration
-- Additional analysis nodes (exception analysis, risk assessment, etc.)
-- Production deployment with proper vector database
+- Real-world user testing with complex, nuanced queries.
+- Further expansion of the agent's "tools" (e.g., adding a tool for direct database queries).
+- Production deployment with confidence in its ability to handle a wider range of user inputs.
 
-The system now does **exactly** what you specified: proper chain-of-thought reasoning instead of random retrieval!
+The system is now fundamentally more intelligent, moving from a fixed "chain-of-thought" to a flexible **Analysis -> Action -> Reflection** loop.

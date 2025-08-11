@@ -17,55 +17,18 @@ from backend.core.config import OPENAI_API_KEY, PINECONE_API_KEY
 async def test_enhanced_service_with_real_services():
     """Test the enhanced AI service with real services."""
     
-    print("Testing Enhanced AI Service with Real Infrastructure")
-    print("=" * 60)
+    print("Testing Enhanced AI Service with REAL Pinecone Index & Content Store")
+    print("=" * 70)
     
     try:
-        # Initialize vector service (it's already a mock service)
-        vector_service = VectorService()
+        # Initialize vector service (now using real Pinecone)
+        from backend.core.real_vector_service import RealVectorService
+        from backend.core.document_loader import load_document_corpus_from_content_store
         
-        # For document corpus, we'll use a simple list for now
-        # In the real system, this would be loaded from your document store
-        document_corpus = [
-            {
-                'id': 'cir_fund_definition',
-                'content': 'A Fund means a Collective Investment Fund. A Collective Investment Fund means any form of collective investment by which the public are invited or may apply to invest money or other property in a portfolio and in relation to which the contributors and the general partners, trustees or operators pool the contributed money or other property and manage it as a whole for the contributors.',
-                'metadata': {
-                    'title': 'Collective Investment Rules',
-                    'document_type': 'rulebook',
-                    'section': 'Definitions',
-                    'authority_level': 3,
-                    'jurisdiction': 'adgm',
-                    'domains': ['collective_investment']
-                }
-            },
-            {
-                'id': 'spv_guidance',
-                'content': 'Special Purpose Vehicles (SPVs) are legal entities created for a specific purpose, often to isolate financial risk. In the context of investment structures, SPVs may be used to hold specific assets or investments.',
-                'metadata': {
-                    'title': 'Investment Structure Guidance', 
-                    'document_type': 'guidance',
-                    'section': 'SPV Structures',
-                    'authority_level': 4,
-                    'jurisdiction': 'adgm',
-                    'domains': ['licensing', 'general']
-                }
-            },
-            {
-                'id': 'syndicate_commercial',
-                'content': 'A syndicate in commercial contexts may refer to a group of individuals or organizations that come together for a specific business purpose. The regulatory implications depend on the structure and activities of the syndicate.',
-                'metadata': {
-                    'title': 'Commercial Structures Guide',
-                    'document_type': 'guidance',
-                    'section': 'Business Arrangements',
-                    'authority_level': 4,
-                    'jurisdiction': 'adgm',
-                    'domains': ['general', 'licensing']
-                }
-            }
-        ]
+        vector_service = RealVectorService()
+        document_corpus = load_document_corpus_from_content_store()
         
-        # Create service with real API key
+        # Create service with real API key and real infrastructure
         service = EnhancedAIService(
             openai_api_key=OPENAI_API_KEY,
             vector_service=vector_service,

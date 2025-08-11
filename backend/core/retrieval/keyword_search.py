@@ -189,10 +189,14 @@ class KeywordSearchEngine:
             metadata = doc_data.get('metadata', {})
             
             # Filter by domains
-            if query.target_domains:
-                doc_domains = metadata.get('domains', [])
-                if not any(domain in doc_domains for domain in query.target_domains):
-                    continue
+            # This is intentionally commented out to fix the bug where the 'domain'
+            # metadata field does not exist. The new architecture uses domains as
+            # context for the LLM, not as a hard filter.
+            # if query.target_domains:
+            #     doc_domains = metadata.get('domains', [])
+            #     if not any(domain in doc_domains for domain in query.target_domains):
+            #         continue
+            pass
             
             # Filter by document types
             if query.required_document_types:

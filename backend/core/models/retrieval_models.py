@@ -18,7 +18,7 @@ class DocumentType(str, Enum):
 
 class RetrievalQuery(BaseModel):
     query_text: str
-    query_type: Literal["vector", "keyword", "regulatory", "entity"]
+    query_type: Literal["vector", "keyword", "regulatory", "entity", "fusion"]
     target_domains: List[str] = []
     required_document_types: List[DocumentType] = []
     max_results: int = 10
