@@ -45,24 +45,9 @@ function ChatInterface({ darkMode, setDarkMode }) {
         history: validHistory
       });
 
-      // Log the raw backend response for debugging
-      console.log('AI backend response:', response.data);
-
-      // Fallback: If response is missing expected fields, show raw JSON
-      let aiResponse;
-      if (typeof response.data === 'object' && response.data !== null) {
-        aiResponse = {
-          sender: 'ai',
-          text: response.data.answer || response.data.text || JSON.stringify(response.data),
-          sources: response.data.sources || []
-        };
-      } else {
-        aiResponse = {
-          sender: 'ai',
-          text: String(response.data),
-          sources: []
-        };
-      }
+            // The backend now sends a response that perfectly matches our message format.
+      // We can use it directly without any transformation.
+      const aiResponse = response.data;
 
       console.log('Final aiResponse:', aiResponse);
 
@@ -77,31 +62,6 @@ function ChatInterface({ darkMode, setDarkMode }) {
       setIsLoading(false);
     }
   };
-
-  // A function to parse the message text and render citations
-  const renderMessageText = (message) => {
-    if (message.sender === 'user' || !message.sources || message.sources.length === 0) {
-      return message.text;
-    }
-
-    const parts = message.text.split(/(\s\[Source: [^\]]+\])/g);
-
-    return parts.map((part, index) => {
-      const match = part.match(/\s\[Source: (.*?)\]/);
-      if (match) {
-        const sourceName = match[1];
-        const relevantChunks = message.sources
-          .filter(s => s.metadata && s.metadata.file_name === sourceName)
-          .map(s => s.page_content);
-
-        if (relevantChunks.length > 0) {
-          return <Citation key={index} source={sourceName} chunks={relevantChunks} />;
-        }
-      }
-      return part;
-    });
-  };
-
 
   return (
     <div className="flex flex-col h-screen max-w-5xl mx-auto">
@@ -227,7 +187,7 @@ function ChatInterface({ darkMode, setDarkMode }) {
                 transition={{ duration: 0.4, type: "spring", stiffness: 100 }}
                 className="relative z-10"
               >
-                <Message sender={msg.sender} text={renderMessageText(msg)} darkMode={darkMode} />
+                <Message message={msg} darkMode={darkMode} />
               </motion.div>
             ))}
           </AnimatePresence>

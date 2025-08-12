@@ -195,10 +195,13 @@ You have two choices:
     def _format_clarification_response(self, analysis: QueryAnalysis, processing_time: float) -> Dict[str, Any]:
         """Formats the response when the system needs to ask for clarification."""
         clarification_request = analysis.decision
+        
+        # Combine the intro and questions into a single formatted string
+        questions_text = "\n".join(f"- {q}" for q in clarification_request.clarification_questions)
+        full_text = f"To provide you with the most accurate guidance, I need a bit more information. Could you please clarify the following points?\n\n{questions_text}"
+
         return {
-            "response": "To provide you with the most accurate guidance, I need a bit more information. Could you please clarify the following points?",
-            "requires_clarification": True,
-            "clarification_questions": clarification_request.clarification_questions,
+            "response": full_text,
             "sources": [],
             "reasoning": [analysis.reasoning],
             "confidence": 0.0,
@@ -353,13 +356,11 @@ def get_ai_response(user_message: str, history: List[Dict] = None, jurisdiction:
         result = loop.run_until_complete(_service_instance.process_query(user_message, history))
         
         # Convert to legacy format if needed, though the new format is largely compatible
+        # Convert to a dictionary matching the simplified ChatResponse schema
         return {
-            'answer': result['response'],
+            'sender': 'ai',
+            'text': result.get('response', ''),
             'sources': result.get('sources', []),
-            'confidence': result.get('confidence', 0.0),
-            'reasoning': result.get('reasoning', []),
-            'requires_clarification': result.get('requires_clarification', False),
-            'clarification_questions': result.get('clarification_questions', [])
         }
         
     finally:

@@ -3,8 +3,9 @@ import React from 'react';
 import { UserIcon, ShieldCheckIcon } from '@heroicons/react/24/outline';
 import { motion } from 'framer-motion';
 
-// This component receives 'sender', 'text', and 'darkMode' as props.
-function Message({ sender, text, darkMode }) {
+// This component receives 'message', and 'darkMode' as props.
+function Message({ message, darkMode }) {
+  const { sender, text, sources, clarification_questions } = message;
   const isUser = sender === 'user';
 
   return (
@@ -70,6 +71,17 @@ function Message({ sender, text, darkMode }) {
             >
               {text}
             </motion.div>
+          )}
+
+          {clarification_questions && clarification_questions.length > 0 && (
+            <div className="mt-4 pt-4 border-t border-gray-200 dark:border-gray-700">
+              <p className="font-semibold text-gray-700 dark:text-gray-300">Please clarify the following points:</p>
+              <ul className="list-disc list-inside mt-2 space-y-2 text-gray-600 dark:text-gray-400">
+                {clarification_questions.map((q, i) => (
+                  <li key={i}>{q}</li>
+                ))}
+              </ul>
+            </div>
           )}
         </div>
       </div>

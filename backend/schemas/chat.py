@@ -10,4 +10,4 @@ class ChatRequest(BaseModel):
 class ChatResponse(BaseModel):
     sender: str
     text: str
-    sources: Optional[List[Dict[str, Any]]] = []
+    sources: List[Dict]
