@@ -234,9 +234,10 @@ You are an expert ADGM compliance advisor. Your task is to synthesize the provid
 1. Provide a direct and comprehensive answer to the user's query.
 2. Base your answer *only* on the information contained in the provided regulatory documents.
 3. For every factual statement or regulatory reference, embed an inline citation marker in the format [n], where n corresponds to the document index (e.g., [1], [2], etc.).
-4. The sources are provided below in order. Reference them by their index in your inline citations.
-5. If the documents do not fully answer the question, state that clearly. Do not invent information.
-6. Structure your response for clarity with headings and bullet points.
+4. Use only individual citation markers for each reference (e.g., [1], [2]). Do not use compound citations like [1-3] or [1,2,3].
+5. The sources are provided below in order. Reference them by their index in your inline citations.
+6. If the documents do not fully answer the question, state that clearly. Do not invent information.
+7. Structure your response for clarity with headings and bullet points.
 
 **Sources:**
 {chr(10).join([f"[{i+1}] {doc.source.title} - Section: {doc.source.section}" for i, doc in enumerate(documents[:10])])}
@@ -290,18 +291,22 @@ Please provide your comprehensive compliance analysis based *only* on these docu
     def _format_sources(self, documents: List[RetrievedDocument]) -> List[Dict[str, Any]]:
         """Format document sources for the final response."""
         sources = []
-        for doc in documents:
+        # Create a more unique identifier for each source by combining title and chunk_id
+        for i, doc in enumerate(documents):
+            chunk_id = getattr(doc.source, "chunk_id", f"unknown-{i}")
             sources.append({
                 "title": doc.source.title,
                 "document_type": doc.source.document_type.value,
                 "section": doc.source.section,
                 "relevance_score": doc.relevance_score,
                 "jurisdiction": doc.source.jurisdiction,
-                "chunk_id": getattr(doc.source, "chunk_id", None)
+                "chunk_id": chunk_id
             })
-        # Deduplicate and return top 10
-        unique_sources = {s['title']: s for s in sources}.values()
-        return list(unique_sources)[:10]
+        
+        # Deduplicate based on title AND chunk_id to preserve unique documents
+        unique_key = lambda s: f"{s['title']}::{s['chunk_id']}"
+        unique_sources = {unique_key(s): s for s in sources}.values()
+        return list(unique_sources)
 
     def _calculate_confidence(self, documents: List[RetrievedDocument]) -> float:
         """Calculate confidence score based on the quality of retrieved documents."""

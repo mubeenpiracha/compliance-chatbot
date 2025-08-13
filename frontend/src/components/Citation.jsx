@@ -11,7 +11,7 @@ const Citation = ({ source, chunkId, section, documentType, jurisdiction, onClos
     // Fetch the chunk content if we have a chunkId
     if (chunkId) {
       setLoading(true);
-      fetch(`/api/v1/chat/chunk/${chunkId}`)
+      fetch(`http://localhost:8000/api/v1/chat/chunk/${chunkId}`)
         .then(response => response.json())
         .then(data => {
           setContent(data.text);

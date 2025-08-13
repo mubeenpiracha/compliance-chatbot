@@ -125,7 +125,10 @@ def generate_response(state: AgentState) -> Dict[str, Any]:
 
     context_str = "\n\n".join([f"Source {i+1} (Page {r['metadata'].get('page_number', 'N/A')} of {r['metadata'].get('filename', 'Unknown')}):\n{r['metadata']['text']}" for i, r in enumerate(search_results)])
     
-    system_prompt = "You are a helpful AI assistant for compliance professionals. Answer the user's query based *only* on the provided search results. Cite sources as [Source X]."
+    # Store the search results in state so they can be used for source citations later
+    state["used_sources"] = search_results
+    
+    system_prompt = "You are a helpful AI assistant for compliance professionals. Answer the user's query based *only* on the provided search results. Cite sources using individual citation markers like [1], [2], etc. Do not use compound citations like [1-3] or [1,2,3]."
     user_prompt = f"Query: {query}\n\nSearch Results:\n{context_str}\n\nAnswer:"
 
     try:

@@ -15,6 +15,7 @@ function ChatInterface({ darkMode, setDarkMode }) {
   const [inputValue, setInputValue] = useState('');
   const [isLoading, setIsLoading] = useState(false);
   const [jurisdiction, setJurisdiction] = useState('DIFC');
+  const [selectedCitation, setSelectedCitation] = useState(null);
 
   const messagesEndRef = useRef(null);
 
@@ -63,8 +64,16 @@ function ChatInterface({ darkMode, setDarkMode }) {
     }
   };
 
+  const handleCitationClick = (source) => {
+    setSelectedCitation(source);
+  };
+
+  const handleCloseCitation = () => {
+    setSelectedCitation(null);
+  };
+
   return (
-    <div className="flex flex-col h-screen max-w-5xl mx-auto">
+    <div className="flex flex-col h-screen w-full">
       {/* Header */}
       <motion.div 
         initial={{ opacity: 0, y: -10 }}
@@ -144,7 +153,7 @@ function ChatInterface({ darkMode, setDarkMode }) {
       </motion.div>
 
       {/* Messages Area */}
-      <div className="flex-1 overflow-y-auto bg-gradient-to-br from-gray-50 via-blue-50/30 to-purple-50/30 dark:from-gray-900 dark:via-blue-950/30 dark:to-purple-950/30 text-sm leading-6 text-slate-900 dark:text-slate-100 sm:text-base sm:leading-7 relative">
+      <div className="flex-1 overflow-y-auto bg-gradient-to-br from-gray-50 via-blue-50/30 to-purple-50/30 dark:from-gray-900 dark:via-blue-950/30 dark:to-purple-950/30 text-sm leading-normal text-slate-900 dark:text-slate-100 sm:text-base sm:leading-relaxed relative">
         {/* Enhanced animated background elements */}
         <div className="absolute inset-0 overflow-hidden pointer-events-none">
           <motion.div
@@ -187,7 +196,7 @@ function ChatInterface({ darkMode, setDarkMode }) {
                 transition={{ duration: 0.4, type: "spring", stiffness: 100 }}
                 className="relative z-10"
               >
-                <Message message={msg} darkMode={darkMode} />
+                <Message message={msg} darkMode={darkMode} onCitationClick={handleCitationClick} />
               </motion.div>
             ))}
           </AnimatePresence>
@@ -291,6 +300,14 @@ function ChatInterface({ darkMode, setDarkMode }) {
           </motion.div>
         </div>
       </motion.div>
+      <AnimatePresence>
+        {selectedCitation && (
+          <Citation 
+            {...selectedCitation}
+            onClose={handleCloseCitation} 
+          />
+        )}
+      </AnimatePresence>
     </div>
   );
 }

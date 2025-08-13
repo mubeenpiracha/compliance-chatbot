@@ -27,18 +27,6 @@ def get_chunk_text(chunk_id: str):
                 except Exception as e:
                     raise HTTPException(status_code=500, detail=f"Error reading chunk file: {str(e)}")
     raise HTTPException(status_code=404, detail=f"Chunk with id {chunk_id} not found.")
-# backend/api/v1/endpoints/chat.py
-import logging
-from fastapi import APIRouter
-from backend.schemas.chat import ChatRequest, ChatResponse
-from backend.core.enhanced_ai_service import get_ai_response
-
-router = APIRouter()
-
-# Configure logging
-logging.basicConfig(level=logging.INFO)
-logger = logging.getLogger(__name__)
-
 @router.post("/", response_model=ChatResponse)
 def handle_chat(request: ChatRequest):
     """
