@@ -102,7 +102,8 @@ class EnhancedAIService:
         """
         Performs a single, holistic analysis of the user's query to decide the next step.
         """
-        system_prompt = """You are an expert compliance analyst. Your task is to analyze a user's query and decide the best course of action.
+        system_prompt = """
+You are an expert compliance analyst. Your task is to analyze a user's query and decide the best course of action.
 
 You have two choices:
 1.  **Create a Search Plan**: If the query is clear and has enough detail to be answered by searching regulatory documents. The plan should include multiple, diverse search queries (vector and keyword) to ensure comprehensive results.
@@ -114,46 +115,46 @@ You have two choices:
 3.  **Completeness**: Is the query self-contained? Are there ambiguous terms (e.g., "syndicate," "simple structure")?
 4.  **Decision**: Based on the above, decide whether to create a `SearchPlan` or a `ClarificationRequest`.
 
+**IMPORTANT:**
+If the conversation history contains a previous clarification request and the user's latest message appears to answer those clarification questions, use the user's latest message and the previous context to resolve the ambiguity and proceed to create a Search Plan. Do NOT ask for clarification again unless the user's response is still ambiguous or incomplete.
+
 **Respond in JSON format only, using one of the two schemas provided.**
 
 **Schema for SearchPlan:**
-```json
 {
-  "decision": {
-    "search_plan": {
-      "search_queries": [
-        {
-          "query_text": "detailed semantic query for vector search",
-          "search_type": "vector",
-          "purpose": "reason for this query"
-        },
-        {
-          "query_text": "precise keyword query",
-          "search_type": "keyword",
-          "purpose": "reason for this query"
+    "decision": {
+        "search_plan": {
+            "search_queries": [
+                {
+                    "query_text": "detailed semantic query for vector search",
+                    "search_type": "vector",
+                    "purpose": "reason for this query"
+                },
+                {
+                    "query_text": "precise keyword query",
+                    "search_type": "keyword",
+                    "purpose": "reason for this query"
+                }
+            ]
         }
-      ]
-    }
-  },
-  "reasoning": "Explanation of why you chose to create a search plan."
+    },
+    "reasoning": "Explanation of why you chose to create a search plan."
 }
-```
 
 **Schema for ClarificationRequest:**
-```json
 {
-  "decision": {
-    "clarification_request": {
-      "clarification_questions": [
-        "Question 1 to ask the user.",
-        "Question 2 to ask the user."
-      ]
-    }
-  },
-  "reasoning": "Explanation of why clarification is necessary."
+    "decision": {
+        "clarification_request": {
+            "clarification_questions": [
+                "Question 1 to ask the user.",
+                "Question 2 to ask the user."
+            ]
+        }
+    },
+    "reasoning": "Explanation of why clarification is necessary."
 }
-```"""
-        
+"""
+
         user_prompt = f"User Query: \"{query}\""
         if history:
             user_prompt += f"\n\nConversation History:\n{str(history)}"
@@ -169,10 +170,8 @@ You have two choices:
                 max_tokens=1000,
                 response_format={"type": "json_object"}
             )
-            
             import json
             result = json.loads(response.choices[0].message.content)
-            
             # Pydantic will automatically validate and parse into the correct Union type
             if "search_plan" in result["decision"]:
                 plan = SearchPlan(**result["decision"]["search_plan"])
@@ -182,7 +181,6 @@ You have two choices:
                 return QueryAnalysis(decision=request, reasoning=result["reasoning"])
             else:
                 raise ValueError("Invalid decision structure in LLM response.")
-
         except (ValidationError, json.JSONDecodeError, ValueError) as e:
             logger.error(f"Failed to parse analysis from LLM: {e}")
             # Fallback: create a simple search plan
@@ -226,26 +224,31 @@ You have two choices:
             for doc in documents[:10] # Use top 10 documents for context
         ])
 
-        system_prompt = f"""You are an expert ADGM compliance advisor. Your task is to synthesize the provided regulatory documents to answer the user's query.
+        system_prompt = f"""
+You are an expert ADGM compliance advisor. Your task is to synthesize the provided regulatory documents to answer the user's query.
 
 **Your Reasoning So Far:**
 {reasoning}
 
 **Instructions:**
-1.  Provide a direct and comprehensive answer to the user's query.
-2.  Base your answer *only* on the information contained in the provided regulatory documents.
-3.  Cite the specific source document for each piece of information you provide (e.g., "According to the COBS Rulebook...").
-4.  If the documents do not fully answer the question, state that clearly. Do not invent information.
-5.  Structure your response for clarity with headings and bullet points.
+1. Provide a direct and comprehensive answer to the user's query.
+2. Base your answer *only* on the information contained in the provided regulatory documents.
+3. For every factual statement or regulatory reference, embed an inline citation marker in the format [n], where n corresponds to the document index (e.g., [1], [2], etc.).
+4. The sources are provided below in order. Reference them by their index in your inline citations.
+5. If the documents do not fully answer the question, state that clearly. Do not invent information.
+6. Structure your response for clarity with headings and bullet points.
+
+**Sources:**
+{chr(10).join([f"[{i+1}] {doc.source.title} - Section: {doc.source.section}" for i, doc in enumerate(documents[:10])])}
 """
-        
+
         user_prompt = f"""User Query: "{query}"
 
 **Retrieved Regulatory Documents:**
 {document_context}
 
 Please provide your comprehensive compliance analysis based *only* on these documents."""
-        
+
         try:
             response = await self.client.chat.completions.create(
                 model="gpt-4-turbo",
@@ -256,10 +259,8 @@ Please provide your comprehensive compliance analysis based *only* on these docu
                 temperature=0.1,
                 max_tokens=2000
             )
-            
             final_answer = response.choices[0].message.content
             confidence = self._calculate_confidence(documents)
-
             return {
                 "response": final_answer,
                 "sources": self._format_sources(documents),
@@ -267,7 +268,6 @@ Please provide your comprehensive compliance analysis based *only* on these docu
                 "confidence": confidence,
                 "requires_clarification": False,
             }
-            
         except Exception as e:
             logger.error(f"Response generation failed: {str(e)}")
             return {
@@ -297,6 +297,7 @@ Please provide your comprehensive compliance analysis based *only* on these docu
                 "section": doc.source.section,
                 "relevance_score": doc.relevance_score,
                 "jurisdiction": doc.source.jurisdiction,
+                "chunk_id": getattr(doc.source, "chunk_id", None)
             })
         # Deduplicate and return top 10
         unique_sources = {s['title']: s for s in sources}.values()

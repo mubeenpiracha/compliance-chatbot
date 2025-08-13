@@ -1,6 +1,6 @@
 // frontend/src/App.jsx
 import React, { useState, useEffect } from 'react';
-import ChatInterface from './components/ChatInterfaceSimple';
+import ChatInterface from './components/ChatInterface';
 import { Toaster } from 'react-hot-toast';
 import { motion } from 'framer-motion';
 
@@ -25,7 +25,7 @@ function App() {
         transition={{ duration: 0.6 }}
         className="flex flex-col min-h-screen"
       >
-        <ChatInterface darkMode={darkMode} setDarkMode={setDarkMode} />
+  <ChatInterface darkMode={darkMode} setDarkMode={setDarkMode} />
       </motion.div>
       
       {/* Toast notifications */}

@@ -35,6 +35,7 @@ class DocumentSource(BaseModel):
     last_updated: Optional[datetime] = None
     authority_level: int = Field(ge=1, le=4)  # 1=highest (law), 4=lowest (guidance)
     jurisdiction: str
+    chunk_id: Optional[str] = None  # Unique chunk identifier for citation
 
 
 class RetrievedDocument(BaseModel):

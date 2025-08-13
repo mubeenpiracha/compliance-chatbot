@@ -224,7 +224,8 @@ class KeywordSearchEngine:
             section=metadata.get('section'),
             subsection=metadata.get('subsection'),
             authority_level=metadata.get('authority_level', 4),
-            jurisdiction=metadata.get('jurisdiction', 'adgm')
+            jurisdiction=metadata.get('jurisdiction', 'adgm'),
+            chunk_id=metadata.get('checksum') or metadata.get('chunk_id')
         )
         
         # Generate keyword highlights
