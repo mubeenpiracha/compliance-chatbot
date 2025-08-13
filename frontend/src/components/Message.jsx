@@ -38,6 +38,7 @@ const Message = React.memo(({ message, darkMode, onCitationClick }) => {
             const idx = parseInt(num, 10) - 1;
             const source = sources && idx >= 0 && sources[idx];
             if (source) {
+              console.log(`Citation ${num} source:`, source);
               return (
                 <button
                   className="inline-flex items-center gap-1 text-blue-600 dark:text-blue-400 hover:text-blue-700 dark:hover:text-blue-300 px-2 py-0.5 rounded bg-blue-100 dark:bg-blue-950 hover:bg-blue-200 dark:hover:bg-blue-900 border border-blue-300 dark:border-blue-700 text-xs font-semibold shadow-md cursor-pointer"

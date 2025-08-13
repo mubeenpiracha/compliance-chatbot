@@ -16,16 +16,28 @@ def get_chunk_text(chunk_id: str):
     """
     Search content_store for a file containing the chunk_id in its filename and return its text content.
     """
+    logger.info(f"Received request for chunk_id: {chunk_id}")
     content_store_dir = Path("./content_store")
+    
+    logger.info(f"Searching for chunk_id in content_store: {content_store_dir.absolute()}")
+    
+    found_files = []
     for root, dirs, files in os.walk(content_store_dir):
         for file in files:
             if chunk_id in file:
                 file_path = Path(root) / file
+                found_files.append(str(file_path))
                 try:
+                    logger.info(f"Found matching file: {file_path}")
                     with open(file_path, "r", encoding="utf-8") as f:
-                        return {"chunk_id": chunk_id, "text": f.read()}
+                        content = f.read()
+                        logger.info(f"Successfully read content from {file_path}")
+                        return {"chunk_id": chunk_id, "text": content}
                 except Exception as e:
+                    logger.error(f"Error reading chunk file {file_path}: {str(e)}")
                     raise HTTPException(status_code=500, detail=f"Error reading chunk file: {str(e)}")
+    
+    logger.warning(f"No files found containing chunk_id: {chunk_id}. Searched files: {len(found_files)}")
     raise HTTPException(status_code=404, detail=f"Chunk with id {chunk_id} not found.")
 @router.post("/", response_model=ChatResponse)
 def handle_chat(request: ChatRequest):

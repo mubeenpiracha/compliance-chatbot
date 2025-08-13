@@ -51,6 +51,7 @@ function ChatInterface({ darkMode, setDarkMode }) {
       const aiResponse = response.data;
 
       console.log('Final aiResponse:', aiResponse);
+      console.log('Sources in response:', aiResponse.sources);
 
       setMessages(prev => [...prev, aiResponse]);
       toast.success('Response received!');
@@ -65,6 +66,7 @@ function ChatInterface({ darkMode, setDarkMode }) {
   };
 
   const handleCitationClick = (source) => {
+    console.log("Citation clicked with source:", source);
     setSelectedCitation(source);
   };
 

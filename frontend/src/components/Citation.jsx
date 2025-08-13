@@ -3,17 +3,50 @@ import { motion, AnimatePresence } from 'framer-motion';
 import { DocumentTextIcon, XMarkIcon, BookOpenIcon } from '@heroicons/react/24/outline';
 import { SparklesIcon } from '@heroicons/react/24/solid';
 
-const Citation = ({ source, chunkId, section, documentType, jurisdiction, onClose }) => {
+const Citation = ({ source, chunk_id, chunkId, section, documentType, jurisdiction, onClose }) => {
   const [content, setContent] = useState(null);
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    // Fetch the chunk content if we have a chunkId
-    if (chunkId) {
+    // Log all available props for debugging
+    console.log("Citation component loaded with props:", { 
+      source, 
+      chunk_id, // This is likely the correct property name based on backend code
+      chunkId, 
+      section, 
+      documentType, 
+      jurisdiction 
+    });
+    
+    // Determine the effective chunk ID - we need to check all possible property names
+    // Since the citation object is spread as props, the chunk ID could be directly available
+    let effectiveChunkId = chunk_id || chunkId;
+    
+    // Log the ID for debugging
+    console.log("Direct chunk_id/chunkId prop:", effectiveChunkId);
+    
+    if (!effectiveChunkId && source) {
+      // If we have a source object, check there too
+      effectiveChunkId = source.chunk_id || source.chunkId;
+      console.log("Found chunk ID in source object:", effectiveChunkId);
+    }
+    
+    console.log("Final effective chunk ID for API call:", effectiveChunkId);
+    
+    // If we have a chunk ID, make the API call
+    if (effectiveChunkId) {
       setLoading(true);
-      fetch(`http://localhost:8000/api/v1/chat/chunk/${chunkId}`)
-        .then(response => response.json())
+      console.log("Fetching chunk content for chunkId:", effectiveChunkId);
+      fetch(`http://localhost:8000/api/v1/chat/chunk/${effectiveChunkId}`)
+        .then(response => {
+          console.log("Chunk API response status:", response.status);
+          if (!response.ok) {
+            throw new Error(`HTTP error! Status: ${response.status}`);
+          }
+          return response.json();
+        })
         .then(data => {
+          console.log("Chunk API response data:", data);
           setContent(data.text);
           setLoading(false);
         })
@@ -21,8 +54,59 @@ const Citation = ({ source, chunkId, section, documentType, jurisdiction, onClos
           console.error("Error fetching chunk content:", error);
           setLoading(false);
         });
+    } else {
+      // If we don't have a chunk ID, check if we need to look at other properties
+      console.warn("No chunk ID found in props. Looking at other potential sources...");
+      
+      // Check if there's a filename that might contain the chunk ID
+      // This handles cases where the ID is embedded in a filename like: "000051_f3cec8b054129bdb09baa5df34200320f9eebd50.txt"
+      const filename = source?.filename || '';
+      if (filename && filename.includes('_')) {
+        const parts = filename.split('_');
+        if (parts.length > 1) {
+          const extractedId = parts[1].replace('.txt', '');
+          console.log("Extracted chunk ID from filename:", extractedId);
+          
+          setLoading(true);
+          fetch(`http://localhost:8000/api/v1/chat/chunk/${extractedId}`)
+            .then(response => {
+              console.log("Chunk API response status (from filename):", response.status);
+              if (!response.ok) {
+                throw new Error(`HTTP error! Status: ${response.status}`);
+              }
+              return response.json();
+            })
+            .then(data => {
+              console.log("Chunk API response data (from filename):", data);
+              setContent(data.text);
+              setLoading(false);
+            })
+            .catch(error => {
+              console.error("Error fetching chunk content from filename:", error);
+              setLoading(false);
+            });
+          return;
+        }
+      }
+      
+      // If we have a content property directly, use that
+      if (source?.content) {
+        console.log("Using content directly from source object");
+        setContent(source.content);
+        setLoading(false);
+        return;
+      }
+      
+      // If we get here, we couldn't find any content
+      console.error("Could not find chunk ID or content in any property", { 
+        source, chunk_id, chunkId, section, documentType, jurisdiction
+      });
+      
+      // Set a useful message for the user instead of leaving the panel empty
+      setContent("Source details available, but content could not be retrieved. This could be due to a missing chunk identifier.");
+      setLoading(false);
     }
-  }, [chunkId]);
+  }, [chunkId, chunk_id, source, section, documentType, jurisdiction]);
 
   const closeSidebar = () => {
     if (onClose) onClose();
