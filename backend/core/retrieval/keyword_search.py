@@ -5,7 +5,7 @@ import re
 from typing import List, Dict, Any
 from collections import Counter
 import math
-from ..models.retrieval_models import RetrievalQuery, RetrievedDocument, DocumentSource, DocumentType
+from ..models.retrieval_models import RetrievalQuery, RetrievedDocument, DocumentSource
 import logging
 
 logger = logging.getLogger(__name__)
@@ -177,37 +177,21 @@ class KeywordSearchEngine:
         
         return authority_multipliers.get(doc_type, 1.0)
     
-    def _apply_filters(self, scored_documents: List[tuple], 
-                      query: RetrievalQuery) -> List[tuple]:
-        """Apply query filters to scored documents."""
+    def _apply_filters(self, scored_docs: List, query: RetrievalQuery) -> List:
+        """Apply jurisdiction and document type filters."""
         
-        if not query.target_domains and not query.required_document_types:
-            return scored_documents
+        filtered_results = []
         
-        filtered = []
-        for doc_data, score in scored_documents:
+        for doc_data, score in scored_docs:
             metadata = doc_data.get('metadata', {})
             
-            # Filter by domains
-            # This is intentionally commented out to fix the bug where the 'domain'
-            # metadata field does not exist. The new architecture uses domains as
-            # context for the LLM, not as a hard filter.
-            # if query.target_domains:
-            #     doc_domains = metadata.get('domains', [])
-            #     if not any(domain in doc_domains for domain in query.target_domains):
-            #         continue
-            pass
+            # Check jurisdiction
+            if query.target_domains and metadata.get('jurisdiction') not in query.target_domains:
+                continue
             
-            # Filter by document types
-            if query.required_document_types:
-                doc_type = metadata.get('document_type', 'guidance')
-                required_types = [dt.value for dt in query.required_document_types]
-                if doc_type not in required_types:
-                    continue
+            filtered_results.append((doc_data, score))
             
-            filtered.append((doc_data, score))
-        
-        return filtered
+        return filtered_results
     
     async def _convert_to_retrieved_document(self, doc_data: Dict, score: float,
                                            query: RetrievalQuery, 
@@ -219,7 +203,7 @@ class KeywordSearchEngine:
         # Create document source
         source = DocumentSource(
             document_id=doc_data['id'],
-            document_type=DocumentType(metadata.get('document_type', 'guidance')),
+
             title=metadata.get('title', 'Unknown Document'),
             section=metadata.get('section'),
             subsection=metadata.get('subsection'),

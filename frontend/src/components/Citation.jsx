@@ -3,7 +3,7 @@ import { motion, AnimatePresence } from 'framer-motion';
 import { DocumentTextIcon, XMarkIcon, BookOpenIcon } from '@heroicons/react/24/outline';
 import { SparklesIcon } from '@heroicons/react/24/solid';
 
-const Citation = ({ source, chunk_id, chunkId, section, documentType, jurisdiction, onClose }) => {
+const Citation = ({ source, chunk_id, chunkId, section, jurisdiction, onClose }) => {
   const [content, setContent] = useState(null);
   const [loading, setLoading] = useState(true);
 
@@ -14,7 +14,6 @@ const Citation = ({ source, chunk_id, chunkId, section, documentType, jurisdicti
       chunk_id, // This is likely the correct property name based on backend code
       chunkId, 
       section, 
-      documentType, 
       jurisdiction 
     });
     
@@ -99,14 +98,14 @@ const Citation = ({ source, chunk_id, chunkId, section, documentType, jurisdicti
       
       // If we get here, we couldn't find any content
       console.error("Could not find chunk ID or content in any property", { 
-        source, chunk_id, chunkId, section, documentType, jurisdiction
+        source, chunk_id, chunkId, section, jurisdiction
       });
       
       // Set a useful message for the user instead of leaving the panel empty
       setContent("Source details available, but content could not be retrieved. This could be due to a missing chunk identifier.");
       setLoading(false);
     }
-  }, [chunkId, chunk_id, source, section, documentType, jurisdiction]);
+  }, [chunkId, chunk_id, source, section, jurisdiction]);
 
   const closeSidebar = () => {
     if (onClose) onClose();
@@ -167,7 +166,7 @@ const Citation = ({ source, chunk_id, chunkId, section, documentType, jurisdicti
                 <DocumentTextIcon className="w-4 h-4" />
                 {jurisdiction && <span className="ml-1">{jurisdiction}</span>}
                 {section && <span className="ml-1">• {section}</span>}
-                {documentType && <span className="ml-1">• {documentType}</span>}
+
               </motion.div>
             </div>
           </div>

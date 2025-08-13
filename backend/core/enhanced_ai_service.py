@@ -13,7 +13,7 @@ from .models.agent_models import QueryAnalysis, SearchPlan, ClarificationRequest
 from .retrieval.vector_search import VectorSearchEngine
 from .retrieval.keyword_search import KeywordSearchEngine
 from .retrieval.result_fusion import ResultFusion
-from .models.retrieval_models import RetrievalQuery, RetrievedDocument, DocumentType
+from .models.retrieval_models import RetrievalQuery, RetrievedDocument
 from .models.agent_models import SearchQuery
 
 logger = logging.getLogger(__name__)
@@ -100,7 +100,7 @@ class EnhancedAIService:
 
     async def _analyze_query(self, query: str, history: Optional[List[Dict]]) -> QueryAnalysis:
         """
-        Performs a single, holistic analysis of the user's query to decide the next step.
+        Performs a single, holistic analysis of the user's query to decide the best course of action.
         """
         system_prompt = """
 You are an expert compliance analyst. Your task is to analyze a user's query and decide the best course of action.
@@ -225,7 +225,7 @@ If the conversation history contains a previous clarification request and the us
         ])
 
         system_prompt = f"""
-You are an expert ADGM compliance advisor. Your task is to synthesize the provided regulatory documents to answer the user's query.
+You are an expert DIFC and ADGM compliance advisor. Your task is to synthesize the provided regulatory documents to answer the user's query.
 
 **Your Reasoning So Far:**
 {reasoning}
@@ -296,7 +296,6 @@ Please provide your comprehensive compliance analysis based *only* on these docu
             chunk_id = getattr(doc.source, "chunk_id", f"unknown-{i}")
             sources.append({
                 "title": doc.source.title,
-                "document_type": doc.source.document_type.value,
                 "section": doc.source.section,
                 "relevance_score": doc.relevance_score,
                 "jurisdiction": doc.source.jurisdiction,
@@ -340,7 +339,7 @@ def get_ai_response(user_message: str, history: List[Dict] = None, jurisdiction:
     
     if _service_instance is None:
         from .real_vector_service import RealVectorService
-        from .models.retrieval_models import RetrievalQuery, RetrievedDocument, DocumentType
+        from .models.retrieval_models import RetrievalQuery, RetrievedDocument
         from .document_loader import load_document_corpus_from_content_store
         from .config import OPENAI_API_KEY
         

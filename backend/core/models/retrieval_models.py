@@ -7,27 +7,16 @@ from datetime import datetime
 from enum import Enum
 
 
-class DocumentType(str, Enum):
-    LAW = "law"
-    REGULATION = "regulation"
-    RULEBOOK = "rulebook"
-    GUIDANCE = "guidance"
-    CIRCULAR = "circular"
-    POLICY = "policy"
-
-
 class RetrievalQuery(BaseModel):
     query_text: str
     query_type: Literal["vector", "keyword", "regulatory", "entity", "fusion"]
     target_domains: List[str] = []
-    required_document_types: List[DocumentType] = []
     max_results: int = 10
     min_relevance_score: float = 0.5
 
 
 class DocumentSource(BaseModel):
     document_id: str
-    document_type: DocumentType
     title: str
     section: Optional[str] = None
     subsection: Optional[str] = None

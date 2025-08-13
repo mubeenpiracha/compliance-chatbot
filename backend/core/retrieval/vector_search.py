@@ -1,10 +1,10 @@
 """
-Vector search implementation for semantic similarity retrieval.
+Vefrom ..models.retrieval_models import RetrievalQuery, RetrievedDocument, DocumentSourcetor search implementation for semantic similarity retrieval.
 """
 import numpy as np
 from typing import List, Dict, Any, Optional
 from openai import AsyncOpenAI
-from ..models.retrieval_models import RetrievalQuery, RetrievedDocument, DocumentSource, DocumentType
+from ..models.retrieval_models import RetrievalQuery, RetrievedDocument, DocumentSource
 import logging
 
 logger = logging.getLogger(__name__)
@@ -81,21 +81,19 @@ class VectorSearchEngine:
         regulatory_context = "ADGM financial services regulation compliance"
         return f"{regulatory_context}: {query_text}"
     
-    def _build_filters(self, query: RetrievalQuery) -> Dict[str, Any]:
-        """Build metadata filters for vector search."""
+    def _build_filters(self, query: RetrievalQuery) -> Optional[Dict[str, Any]]:
+        """Build filter dictionary for Pinecone search."""
         
         filters = {}
         
+        # Filter by jurisdiction
         if query.target_domains:
-            # This is intentionally commented out to fix the bug where the 'domain'
-            # metadata field does not exist in the ingested data. The new architecture
-            # uses domains as context for the LLM, not as a hard filter.
-            # filters['domain'] = query.target_domains
-            pass
-        
-        if query.required_document_types:
-            filters['document_type'] = [dt.value for dt in query.required_document_types]
-        
+            filters['jurisdiction'] = {"$in": query.target_domains}
+            
+        if not filters:
+            return None
+            
+        logger.debug(f"Constructed vector search filter: {filters}")
         return filters
     
     async def _convert_to_retrieved_document(self, search_result: Dict, 
@@ -107,7 +105,7 @@ class VectorSearchEngine:
         # Create document source
         source = DocumentSource(
             document_id=search_result['id'],
-            document_type=DocumentType(metadata.get('document_type', 'guidance')),
+
             title=metadata.get('title', 'Unknown Document'),
             section=metadata.get('section'),
             subsection=metadata.get('subsection'), 
