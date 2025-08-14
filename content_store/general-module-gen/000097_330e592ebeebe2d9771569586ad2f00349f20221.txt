@@ -1,0 +1,9 @@
+What is ‘Safeguarding’ and ‘Administering’ Crypto Tokens?
+
+5.
+
+A Person ‘safeguards’ a Client’s Crypto Token if that Person is the holder of the legal title to the Crypto Token or of the means of access to that Token. For example, this may occur if the Person’s name is registered on the blockchain as the holder of the relevant Token, cryptographic key or Digital Wallet or if the Person, through other means, holds legal title or any beneficial interest in the Crypto Token or controls the cryptographic keys or other instruments that provide access to the Client’s Digital Wallet.
+
+6.
+
+A Person ‘administers’ a Crypto Token if that Person carries out activities as the holder of the legal title to the Crypto Token or as the holder of the means of access to that Crypto Token. For example, administering can be done by effecting transactions such as exchanging or transferring the Token, participating in the consensus mechanism where applicable, reinvesting rewards or other income arising from the Token, or exercising other rights, including rights of early access or discounts to products and services offered on the native blockchain of the Token.

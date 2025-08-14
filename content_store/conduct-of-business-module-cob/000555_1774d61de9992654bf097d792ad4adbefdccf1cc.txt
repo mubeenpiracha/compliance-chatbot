@@ -1,0 +1,15 @@
+Guidance
+
+1.
+
+To satisfy the DFSA of the matters referred to in Rule 14.2.3(1), an ATS Operator should, as a minimum, be able to demonstrate that it has effective procedures built into its DLT or similar technology application being used that enable:
+
+a.
+
+the clear identification of each Direct Access Member accessing its facility to trade; and
+
+b.
+
+the monitoring of bid and offer prices and volatility for any indications of market manipulation or abuse.
+
+14.3 Requirements for Providing Custody of Investment Tokens

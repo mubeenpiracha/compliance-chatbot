@@ -1,0 +1,5 @@
+Guidance
+
+If statements in relation to the duration of a Bid such as "the Bid will not be extended beyond a specified date unless it is unconditional as to acceptances" ("no extension statements") are included in documents sent to shareholders in the Target, or are made by or on behalf of a Bidder, its Directors, officials or advisers, and not withdrawn immediately if incorrect, then only in exceptional circumstances will the DFSA allow a Bidder subsequently to extend its Bid beyond the stated date except where the right to do so has been specifically reserved.
+
+11.2.5 A Bidder must not allow or declare its Bid (whether revised or not) to become unconditional as to acceptances after midnight (Dubai time) on the 67th day after the day the initial Bid Document was posted.

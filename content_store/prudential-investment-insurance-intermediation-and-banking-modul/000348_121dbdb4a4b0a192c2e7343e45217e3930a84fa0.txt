@@ -1,0 +1,7 @@
+to ensure
+
+(2)
+
+If the due diligence analysis reflects higher risk characteristics than implied by the Credit Quality Grade, the Authorised Firm must assign a risk weight at least one grade higher than the risk weight determined by the external rating.
+
+4.12.10 (1) An Authorised Firm must classify Exposures to banks for which an external credit assessment by a recognised external credit rating agency is not available as Grade A, Grade B or Grade C in accordance with the following principles:

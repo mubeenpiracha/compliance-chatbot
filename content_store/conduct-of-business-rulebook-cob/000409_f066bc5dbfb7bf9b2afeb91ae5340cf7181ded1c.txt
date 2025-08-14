@@ -1,0 +1,21 @@
+Execution time and Credit Value Date
+
+19.15.1 (1)
+
+Rule 19.15.2 applies where a Payment Transaction:
+
+(a)
+
+is in U.S. Dollars;
+
+(b)
+
+is executed wholly within the UAE in UAE Dirham; or
+
+(c)
+
+involves only one currency conversion between the UAE Dirham and U.S. Dollars, where the currency conversion is carried out in the UAE.
+
+(2)
+
+In respect of any Payment Transaction not described in (1), the Payment Service User may agree with the Payment Service Provider that Rule 19.15.2 does not apply.

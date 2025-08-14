@@ -1,0 +1,57 @@
+(ii)
+
+deductions referred (j) of Rule 3.10.7 excluding deferred tax assets that rely on future profitability and arise from temporary differences.
+
+to
+
+in
+
+(a) to
+
+(h) and
+
+(i) to
+
+(2)
+
+Items that are not deducted pursuant to (1) must be risk weighted at 200% and subject to the requirements of Chapter 4, as applicable.
+
+3.11
+
+Additional Tier 1 capital
+
+3.11.1
+
+Additional Tier 1Capital (referred to in these Rules as AT1 Capital) constitutes the sum of AT1 Capital elements in Rule 3.11.2, subject to the deductions stipulated later in this Section.
+
+3.11.2
+
+AT1 Capital consists of the sum of the following capital elements:
+
+74
+
+PRU VER17.290725
+
+(a)
+
+(b)
+
+3.11.3
+
+(1)
+
+capital instruments which meet the eligibility criteria laid down in Rule 3.11.3; and
+
+the Share premium accounts related to the instruments referred to in (a).
+
+For the purposes of Rule 3.11.2(a), a capital instrument is eligible for inclusion in AT1 Capital where all of the following conditions are met:
+
+(a)
+
+the instruments are issued and paid up;
+
+(b)
+
+the instruments are not purchased by any of the following:
+
+(i)

@@ -1,0 +1,27 @@
+Other Dealing Rules
+
+6.9.1 Application
+
+Rule 6.9 does not apply to an Authorised Person with respect to any Transaction which it:
+
+44
+
+COBS VER19.290725
+
+(a)
+
+undertakes with a Professional Client which is a Market Counterparty; or
+
+(b)
+
+carries out for the purposes of managing a Fund of which it is the Fund Manager.
+
+6.9.2 Churning
+
+(a)
+
+An Authorised Person must not Execute a Transaction for a Client in its discretion or advise any Client to transact with a frequency or in amounts to the extent that those Transactions have no commercial purpose other than to obtain a benefit from transaction volumes.
+
+(b)
+
+The onus will be on the Authorised Person to ensure that such Transactions were fair and reasonable at the time they were entered into.

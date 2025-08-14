@@ -1,0 +1,25 @@
+(e)
+
+each Exposure due to a reverse repurchase agreement (reverse repo), or Securities and commodities borrowing transaction included in the Trading Book;
+
+(f)
+
+each Exposure arising from an Unsettled Transaction, free delivery or OTC Derivative; and
+
+(g)
+
+each Exposure in the form of a fee, commission, interest, dividend or margin on an exchange-traded Derivative directly related to the items included in the Trading Book.
+
+Guidance
+
+Whenever an Authorised Person acts as principal (even in the context of activity normally described as 'broking' or 'customer business'), positions should be assigned to the Trading Book. This applies even if the nature of the business means that the only risks being incurred by the Authorised Person are Counterparty Risks (that is, no Market Risk Capital Requirements apply).
+
+A2.1.4
+
+(a)
+
+An Authorised Person must not include loans or traded loans in its Trading Book unless they have been used to hedge a Trading Book transaction.
+
+(b)
+
+An Authorised Person must not include in its Trading Book an Exposure relating to a direct holding of immovable property.

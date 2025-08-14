@@ -1,0 +1,25 @@
+9.2.9
+
+(1)
+
+An Authorised Person must use stress and scenario testing to assess the Liquidity Risk it would face in different circumstances.
+
+(2)
+
+When using stress and scenario testing in accordance with (1), an Authorised Person must:
+
+219
+
+PRU VER17.290725
+
+(a)
+
+use scenarios based on varying degrees of stress and both Authorised Person-specific and market-wide difficulties; and
+
+(b)
+
+include a cash-flow projection for each scenario tested, based on reasonable estimates of the impact (both on and off-balance sheet) of that scenario on the Authorised Person's funding needs and sources.
+
+(3)
+
+An Authorised Person must frequently review the assumptions used in stress testing scenarios to ensure they remain appropriate.

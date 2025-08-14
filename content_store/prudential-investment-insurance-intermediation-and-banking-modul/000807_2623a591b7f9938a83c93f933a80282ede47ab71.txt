@@ -1,0 +1,17 @@
+d.
+
+whether and how it uses credit loss mitigation techniques, e.g. margining, taking security or Collateral or purchasing credit insurance.
+
+15.
+
+In assessing its contingent Exposure to a Counterparty, the Authorised Firm should identify the amount which would be due from the Counterparty if the value, index or other factor upon which that amount depends were to change.
+
+16. An Authorised Firm should clearly specify the delegation of its credit approval authorities. Credit authority thus delegated should be appropriate for the products or portfolios assigned to the credit committee or individual credit officers and should be commensurate with their credit experience and
+
+261
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+expertise. An officer's credit authority may, however, be increased on the basis of his her track record. An Authorised Firm should ensure that credit authority is required for acquiring any types of credit Exposures, including the use of Credit Derivatives for hedging or income generation.

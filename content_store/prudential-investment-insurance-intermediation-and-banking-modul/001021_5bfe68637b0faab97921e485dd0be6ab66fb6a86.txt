@@ -1,0 +1,29 @@
+Guidance
+
+A worked example of the General Market Risk requirement calculation under the Duration Method is as follows:
+
+332
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+Zone Modified Duration
+
+A
+
+(years) < 1 month 1 to 3 months 3 to 6 months 6 to 12 months
+
+Individual Net Positions
+
+Long $100.00 $200.00 $300.00 $400.00
+
+Short -$50.00 -$100.00 -$200.00 -$300.00
+
+Assumed move in
+
+(%p.a) 1.00% 1.00% 1.00% 1.00%
+
+Modified Duration
+
+(years) 0.00 0.20 0.40 0.70

@@ -1,0 +1,3 @@
+4. Where an ADGM Climate Transition Portfolio includes Shares or Debentures issued by an entity that has adopted a net-zero emission objective or strategy, the Authorised Person should consider whether the entity’s net zero target has been validated under the Science-Based Targets initiative (SBTi). Failure to obtain validation under the SBTi or equivalent framework should be considered as reducing the likelihood that the entity has a credible net zero target for the purpose of Rule 3.8.12(d).
+
+3.8.13 An Authorised Person must keep records of the due diligence process it has undertaken to confirm that an asset meets the criteria in Rule 3.8.12 at the time of acquisition and on an ongoing basis.

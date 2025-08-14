@@ -1,0 +1,9 @@
+Synthetic ETF (funded)
+
+14.
+
+In a synthetic ETF adopting the funded structure, the ETF Fund Manager enters into a swap in exchange for cash (or for the entire ETF portfolio) without the creation of a substitute basket.
+
+A leveraged ETF
+
+15. A leveraged ETF (which is often an index-tracking ETF) can have leverage exposure to an index, or exposure to a leveraged index.

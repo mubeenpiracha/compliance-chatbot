@@ -1,0 +1,23 @@
+appropriate processes and procedures should be implemented for the settlement of transactions. This should include consideration of the following elements:
+
+i.
+
+the authorisation of inputs by the back office;
+
+ii.
+
+payment/settlements carried out against independent documents;
+
+iii.
+
+reconciliation between front office and back office systems; and
+
+iv.
+
+reconciliation procedures independent of the processing functions.
+
+controls should include daily reconciliation of positions and cash flows across various internal systems and external parties. The reconciliations should include all events attached to the transactions including amendments, cancellation, exercises, resets and expiries;
+
+195
+
+PRU VER17.290725

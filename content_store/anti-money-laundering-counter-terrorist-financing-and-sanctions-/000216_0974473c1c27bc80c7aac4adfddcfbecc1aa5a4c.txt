@@ -1,0 +1,11 @@
+13.4 Tipping-off
+
+Guidance
+
+1.
+
+Relevant Persons are reminded that in accordance with Federal AML legislation, Relevant Persons or any of their Employees must not disclose, directly or indirectly, to the Customer or to any other person that they have reported, or are intending to report, a suspicious transaction. They also must not disclose information contained in an SAR or the fact that a suspicious transaction is being investigated.
+
+2.
+
+If a Relevant Person reasonably believes that performing CDD measures will tip-off a customer or potential customer, it may choose not to pursue that process and should file a SAR. Relevant Persons should ensure that their Employees are aware of and sensitive to these issues when considering the CDD measures.

@@ -1,0 +1,7 @@
+Guidance
+
+1. Principle 9 of the Principles for Authorised Persons (Customer assets and money) in GEN 2.2.9 requires an Authorised Person to arrange proper protection for Clients' Assets, including Client Money and Relevant Money where the Authorised Person is responsible for them. An essential part of that protection is that an Authorised Person must properly safeguard Client Money held or controlled on behalf of a Client in the course of, or in connection with, the carrying on of Investment Business, or properly safeguard Relevant Money held in the course of the delivery of Payment Services.
+
+2. An Authorised Person must introduce adequate organisational arrangements to minimise the risk of the loss or diminution of Client Money and Relevant Money as a result of, for example, the Authorised Person's or a third party's insolvency, fraud, poor administration, inadequate recordkeeping or negligence.
+
+3. An Authorised Person that holds or controls Client Investments, Provides Custody or Arranges Custody must also comply with Chapter 15.

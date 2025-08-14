@@ -1,0 +1,17 @@
+d.
+
+policies governing possession of security or Collateral.
+
+62.
+
+The value of security and Collateral should be monitored at an appropriate frequency. For example, commercial property might be revalued annually, whereas Securities provided as Collateral should be marked to market usually on a daily basis. Residential property may not need to be revalued annually, but information should be sought as to general market conditions.
+
+63. When taking Collateral in support of an Exposure, an Authorised Firm should ensure that legal procedures have been followed, to ensure the Collateral can be enforced if required.
+
+64. An Authorised Firm should consider the legal and financial ability of a guarantor to fulfil the guarantee if called upon to do so.
+
+65. An Authorised Firm should analyse carefully the protection afforded by risk mitigants such as Netting agreements or Credit Derivatives, to ensure that any residual Credit Risk is identified, measured, monitored and controlled.
+
+266
+
+PIB/VER50/07-25

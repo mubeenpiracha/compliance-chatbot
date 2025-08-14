@@ -1,0 +1,31 @@
+Groups, branches and subsidiaries
+
+4.2.1
+
+(1)
+
+A Relevant Person which is an ADGM Entity must ensure that its policies, procedures, systems and controls required by Rule 4.1.1 apply to:
+
+(a)
+
+all of its branches or subsidiaries; and
+
+(b)
+
+all of its Group entities in ADGM.
+
+(2)
+
+The requirement in (1) does not apply if the Relevant Person can satisfy the Regulator that the relevant branch, subsidiary or Group entity is subject to regulation, including AML/TFS regulation, by a Financial Services Regulator or other competent authority in a country or jurisdiction with AML/TFS regulations which are equivalent to the standards set out in the FATF Recommendations and is supervised for compliance with such regulations.
+
+(3)
+
+Where the regulator in another jurisdiction does not permit the implementation of policies, procedures, systems and controls consistent with these Rules, the Relevant Person must:
+
+(a)
+
+inform the Regulator in writing immediately; and
+
+(b)
+
+apply appropriate additional measures to manage the money laundering risks posed by the relevant branch or subsidiary.

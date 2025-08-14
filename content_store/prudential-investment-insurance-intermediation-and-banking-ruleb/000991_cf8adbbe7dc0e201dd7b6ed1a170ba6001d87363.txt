@@ -1,0 +1,15 @@
+d.
+
+the risk weight in respect of Options on commodities is 15%.
+
+For Options with a residual maturity of more than six months, the strike price should be compared with the forward, and not current, price. Where an Authorised Person is unable to do this, the in-the-money amount would be zero.
+
+2.
+
+An Authorised Person which trades in exotic Options (e.g. barriers, digitals) would use either the scenario approach or the Internal Models Approach (IMA) to calculate its Market Risk Capital Requirement for such Options, unless it is able to demonstrate to the Regulator that the Delta-plus method is appropriate. In the case of Options on Futures or forwards, the relevant underlying is that on which the Future or forward is based (e.g. for a bought call Option on a June 3-month bill Future, the relevant underlying is the 3-month bill).
+
+A6.6.10 An Authorised Person must calculate its Capital Requirement for Vega risk by:
+
+(a)
+
+multiplying the sum of the Vegas for all Option positions in respect of the same underlying Financial Instrument or commodity, as defined in the Rule 5.6.8(c), by a proportional shift in volatility of ±25%; and

@@ -1,0 +1,23 @@
+Controlling Liquidity Risk
+
+An Authorised Firm must ensure that the system referred to in Rule 9.2.1(3)(c):
+
+(a)
+
+enables the Authorised Firm's Governing Body and senior management to review compliance with limits set in accordance with Rule 9.2.7 and operating procedures; and
+
+(b)
+
+has appropriate approval processes, limits and other mechanisms designed to provide reasonable assurance that the Authorised Firm's Liquidity Risk management processes are adhered to.
+
+(1)
+
+An Authorised Firm must hold sufficient liquidity resources and ensure that its Governing Body sets appropriate liquidity limits to manage its Liquidity Risk effectively under both day-to-day and stressed conditions.
+
+(2)
+
+An Authorised Firm must periodically review and, where appropriate, adjust the limits referred to in (1) when its Liquidity Risk policy changes.
+
+(3)
+
+An Authorised Firm must promptly escalate and resolve any policy or limit exceptions according to the processes described in its Liquidity Risk policy.

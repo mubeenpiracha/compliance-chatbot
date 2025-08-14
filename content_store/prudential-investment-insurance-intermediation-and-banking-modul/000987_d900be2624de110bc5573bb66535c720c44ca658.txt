@@ -1,0 +1,5 @@
+12. Market Risk limits should be periodically reviewed in order to check their suitability for current market conditions and the Authorised Firm’s overall risk appetite.
+
+13. An Authorised Firm should use a model or some form of analytical tool to assess risk in complex instruments or across portfolios. An Authorised Firm which wishes to use such a model to determine part of its financial resources requirement, should refer to section 5.3.
+
+14. An Authorised Firm should also use stress testing to determine the potential effects of economic downturns, market events, changes in interest rates, foreign exchange or liquidity conditions.

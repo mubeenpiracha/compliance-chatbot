@@ -1,0 +1,13 @@
+vi. vii. viii. ix.
+
+certain transaction-related contingent items; short-term self-liquidating trade-related contingent items and commitments to underwrite debt and equity securities; note issuance facilities and revolving underwriting facilities; transactions, other than SFTs, involving the posting of securities held by the Authorised Firm as collateral; asset sales with recourse, where the credit risk remains with the Authorised Firm; other commitments with certain drawdown; any other commitments; and unsettled transactions,
+
+the exposure value should be the notional amount for each of the items multiplied by a CCF of 100%.
+
+5.
+
+For an Islamic Financial Institution, assets corresponding to Unrestricted PSIAs will fall within the Exposure Measure and, therefore, are considered for the purpose of the Leverage Ratio calculation.
+
+6.
+
+Further Guidance about the method for completing forms relating to Leverage Ratios can be found in PRU.

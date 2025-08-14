@@ -1,0 +1,5 @@
+A Qualified Investor Fund may be constituted as a specialist class of a Domestic Fund without being subject to most of the detailed requirements that would normally apply to such specialist classes of Funds. However, there are some requirements which need to be met as the obligation to do so arises under the general provisions applicable to certain specialist classes of Funds, regardless of whether such Funds are Public Funds, Exempt Funds or Qualified Investor Funds. An example is a Fund constituted as an Islamic Fund. While some of the detailed requirements such as the appointment of a Shari’a Supervisory Board do not apply to the Fund Manager of an Islamic Qualified Investor Fund (see IFR 6.2.1), the other general requirements such as ensuring compliance with Shari’a requirements continue to apply to such Funds and the Fund Manager.
+
+4.
+
+The only specialist class requirements in this chapter that apply to a Qualified Investor Fund are those in Rule 13.6.3, section 13.7 (Umbrella Funds), section 13.11 (Investment Token Funds) and section 13.13 (Funds investing in Crypto Tokens).

@@ -1,0 +1,11 @@
+69
+
+COBS VER19.290725
+
+(b)
+
+A Credit Rating Agency must differentiate ratings of structured finance products from traditional corporate bond ratings, preferably through a different rating symbology. A Credit Rating Agency must also disclose how this differentiation functions. A Credit Rating Agency must clearly define a given rating symbol and apply it in a consistent manner for all types of securities to which that symbol is assigned.
+
+(c)
+
+in developing a greater A Credit Rating Agency must assist understanding of what a credit rating is, and the limits to which credit ratings can be put to use vis-à-vis a particular type of financial product that the Credit Rating Agency rates. A Credit Rating Agency must clearly indicate the attributes and limitations of each credit opinion, and the limits to which the Credit Rating Agency verifies information provided to it by the issuer or originator of a rated security.

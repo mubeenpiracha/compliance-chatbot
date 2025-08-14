@@ -1,0 +1,15 @@
+Synthetic ETF
+
+11.
+
+The investment strategy of a Synthetic ETF is to meet its investment objective by entering into a derivative contract (typically through a total return swap) with a selected counterparty. The swap contracts can take one of two forms:
+
+a. an unfunded structure; or
+
+b. a funded (or prepaid swap) structure,
+
+as described below.
+
+12.
+
+In both models, the derivative exposure is collateralised or reduced through the use of collateral or a portfolio management process, that may involve the services of a third party as collateral agent (in the funded model) or is covered by the substitute basket as assets of the ETF (in the unfunded model).

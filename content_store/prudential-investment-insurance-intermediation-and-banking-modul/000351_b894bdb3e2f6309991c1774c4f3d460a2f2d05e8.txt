@@ -1,0 +1,15 @@
+112
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+to lead, or have led, to an inability to meet its financial commitments. At a minimum, if any of the following triggers is breached, an Authorised Firm must classify the Exposure as Grade C:
+
+(i)
+
+the counterparty bank does not meet the criteria for being classified as Grade B with respect to its published minimum regulatory requirements; or
+
+(ii) where the audited financial statements are required, the external auditor has issued an adverse audit opinion or has expressed substantial doubt about the counterparty bank’s ability to continue as going concern in its financial statements or audited reports within the previous 12 months.
+
+(2) An Authorised Firm must, subject to (3), (4) and (5), risk-weight any Exposure to a bank for which an external credit assessment by a recognised external credit rating agency is not available in accordance with the following table.

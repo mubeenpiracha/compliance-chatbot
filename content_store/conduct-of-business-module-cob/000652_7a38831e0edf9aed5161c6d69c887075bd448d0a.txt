@@ -1,0 +1,15 @@
+Guidance
+
+1.
+
+An Authorised Firm may hold or control Client Money belonging to a Segregated Client in a Client Account solely for that Client. Alternatively, an Authorised Firm may choose to pool that Client Money in a Client Account containing Client Money of more than one Segregated Client.
+
+2.
+
+The purpose of controlling or holding Client Money in a Client Account is to ensure that Money belonging to Segregated Clients is readily identifiable from Money belonging to the Authorised Firm such that, following a Distribution Event, Segregated Clients will rank highest in line in terms of any subsequent distribution of Client Money in proportion to each Client’s valid claim over that that Money.
+
+3.
+
+Following a Distribution Event, a Segregated Client may not have a valid claim over Client Money held or controlled in a Client Account if that Client Account was not established to hold or control Client Money for that Client or a pool of Clients of which that Client was a part.
+
+A5.5 Exceptions to holding client money in client accounts

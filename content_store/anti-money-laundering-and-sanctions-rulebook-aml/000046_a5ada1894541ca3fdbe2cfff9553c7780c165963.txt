@@ -1,0 +1,15 @@
+jurisdictions
+
+identified by FATF as
+
+Jurisdictions Under Increased Monitoring
+
+Means jurisdictions identified by FATF as ‘jurisdictions under increased monitoring’ or any equivalent list of jurisdictions issued by FATF.
+
+Legal Arrangement
+
+Means express trusts or other similar legal arrangements.
+
+Legal Person
+
+Means any entity other than a Natural Person that can establish a customer relationship with a Relevant Person or otherwise own property. This can include companies, Bodies Corporate or unincorporate, trusts, foundations, partnerships, associations, states and governments and other relevantly similar entities.

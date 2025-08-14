@@ -1,0 +1,21 @@
+7. Where an Authorised Firm obtains credit protection that differs in maturity from the underlying credit Exposure, the Authorised Firm should monitor and control its roll-off risks, i.e. the fact that the Authorised Firm will be fully exposed when the protection expires, and the risk that it will be unable to purchase credit protection or ensure its capital adequacy when the credit protection expires. 8.
+
+Notwithstanding the presence of Credit Risk mitigation considered for the purposes of calculating Credit RWA amounts, an Authorised Firm should continue to undertake a full Credit Risk assessment of the underlying Exposure.
+
+130
+
+PIB/VER50/07-25
+
+4.13.4
+
+4.13.5
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+(1)
+
+An Authorised Firm must be able to satisfy the DFSA that it has systems in place to manage potential concentration of risk arising from its use of guarantees and Credit Derivatives.
+
+(2)
+
+An Authorised Firm must be able to demonstrate how its strategy in respect of its use of Credit Risk mitigation techniques, and in particular use of Credit Derivatives and guarantees interacts with its management of its overall risk profile.

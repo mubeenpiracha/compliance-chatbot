@@ -1,0 +1,9 @@
+Purpose and process of the ICAAP
+
+2.
+
+The ICAAP is an internal process of an Authorised Person which enables it to determine and maintain the amount and quality of capital that is adequate in relation to the Authorised Person's risk profile as assessed in the IRAP. Authorised Persons are encouraged to maintain capital over and above the regulatory minimum capital. The ICAAP, in conjunction with the IRAP, should be embedded in the Authorised Person's business and organisational processes and be informed by the business plan of the Authorised Person, as required by GEN 3.3.16.
+
+3.
+
+When assessing its capital needs, an Authorised Person should consider a three- to five-year time horizon, taking into account its business model, the impact of economic cycles, and sensitivity to other external risks and factors. For larger or more complex institutions, this may mean developing an appropriate stress testing and scenario testing framework (see guidance under App3 in relation to the design of effective stress testing frameworks).

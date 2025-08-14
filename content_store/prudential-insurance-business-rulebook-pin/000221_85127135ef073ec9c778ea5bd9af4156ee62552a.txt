@@ -1,0 +1,15 @@
+A2.14 Reinsurance risk
+
+Guidance
+
+1.
+
+Management of reinsurance risk relates to the selection, monitoring, review and control of reinsurance arrangements – that is, where some part of an Insurer's individual or aggregate insurance risks is ceded to other Insurers, whether by a direct Insurer to a reinsurer or by a reinsurer to other reinsurers.
+
+2.
+
+An Insurer should inform the Regulator immediately if there is a likelihood of a problem arising with its reinsurance arrangements that is likely to materially detract from its current or future capacity to meet its obligations, and discuss with the Regulator its plans to redress this situation. Problems that might trigger such a situation could include the insolvency of a reinsurer with a significant share in the Insurer's programme, discovery of exposures without current reinsurance coverage, or exhaustion of reinsurance covers through multiple losses.
+
+3.
+
+Each Insurer is required (by Rule 2.3.5) to maintain a written reinsurance management strategy appropriate to the size and complexity of operations of the Insurer and which defines and documents the Insurer's objectives and strategy for reinsurance management.

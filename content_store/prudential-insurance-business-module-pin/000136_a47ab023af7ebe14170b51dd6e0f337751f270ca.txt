@@ -1,0 +1,13 @@
+Guidance
+
+1.
+
+The objective of Rule 8.3.1(1)(a) is to avoid the necessity for multiple reporting of group capital adequacy.
+
+37
+
+PIN/VER18/04-23
+
+PRUDENTIAL – INSURANCE BUSINESS (PIN)
+
+2. Where a Financial Group includes both Insurers and entities subject to PIB, it is necessary to determine whether the Financial Group supervision applicable to the Financial Group should be that set out in PIN section 8.3 or PIB section 7.3. Normally, the DFSA will exercise its power under Rule 8.3.2 based on the relative size of the assets of the Financial Institutions undertaking Insurance Business (representing the insurance sector) and the assets of other Authorised Firms and Financial Institutions (representing a combined non-insurance sector). Pure holding companies will be excluded as being in neither sector. The Rules that will apply will be those of the sector with the larger total assets of the two. However, where the ratio of the assets of the two sectors differs by less than 1.5:1, the DFSA will consider a request from the Authorised Firms in the Financial Group to apply the sectoral rules applicable to the smaller of the two sectors.

@@ -1,0 +1,29 @@
+Client disclosure
+
+6.12.3
+
+(1)
+
+If an Authorised Firm holds or controls Client Money which is not subject to the Client Money Provisions pursuant to Rule 6.12.2 (2), it must disclose to that Market Counterparty in writing that:
+
+58
+
+COB/VER48/03-25
+
+CONDUCT OF BUSINESS (COB)
+
+(a)
+
+the protections conferred by the Client Money Provisions do not apply to such Client Money;
+
+(b)
+
+as a consequence of (a), such Client Money may be mixed with Money belonging to the Authorised Firm, and may be used by the Authorised Firm in the course of the Authorised Firm’s business; and
+
+(c)
+
+in the event of insolvency, winding up or other Distribution Event stipulated by the DFSA:
+
+(i)
+
+in the case of a Domestic Firm, such Client Money will be subject to and distributed in accordance with the DFSA Client Money Distribution Rules; and

@@ -1,0 +1,31 @@
+Close Links
+
+A Person (Person A) has Close Links with a Person (Person B) if:
+
+(a) Person B:
+
+(i)
+
+is a Holding Company of Person A;
+
+(ii) is a Subsidiary of Person A;
+
+(iii) is a Holding Company of the Subsidiary of Person
+
+A;
+
+(iv) is a Subsidiary of a Holding Company of Person
+
+A; or
+
+(v) owns and controls 20% or more of the voting
+
+rights or shares of Person A; or
+
+(b) Person A owns and controls 20% or more of the voting
+
+rights or shares of Person B.
+
+Closely Related
+
+Has the meaning given in Rule A4.11.5.

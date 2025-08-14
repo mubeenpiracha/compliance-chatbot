@@ -1,0 +1,23 @@
+(vi)
+
+mark-to-market close-out exposure of any OTC transaction entered into on behalf of that Client secured by Safe Custody Assets or Client Money;
+
+(vii)
+
+total secured obligations of that Client against the prime brokerage firm; and
+
+(viii)
+
+all other Safe Custody Assets held for that Client.
+
+(c)
+
+total collateral held by the Authorised Person in respect of secured transactions entered into under a prime brokerage agreement, including where the Authorised Person has exercised a right of use in respect of that Client’s Safe Custody Assets;
+
+(d)
+
+the location of all of a Client’s Safe Custody Assets, including assets held with a sub-custodian; and
+
+(e)
+
+a list of all the institutions at which the Authorised Person holds or may hold Client Money, including money held in Client Accounts.

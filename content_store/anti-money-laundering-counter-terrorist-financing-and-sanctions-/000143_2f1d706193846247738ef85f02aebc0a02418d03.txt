@@ -1,0 +1,31 @@
+(c)
+
+not otherwise establish a business relationship or carry out a transaction;
+
+(d)
+
+terminate or suspend any existing business relationship with the customer;
+
+(e)
+
+return any monies or assets received from the customer; and
+
+(f)
+
+consider whether the inability to conduct or complete Customer Due Diligence necessitates the making of a Suspicious Activity Report under Rule 13.3.1(c).
+
+41
+
+AML/VER27/03-25
+
+Anti-Money Laundering, Counter-Terrorist Financing and Sanctions Module (AML)
+
+(2) A Relevant Person is not obliged to comply with (1) (a) to (e) if:
+
+(a)
+
+to do so would amount to “tipping off” the customer, in breach of Federal AML legislation; or
+
+(b)
+
+the FIU directs the Relevant Person to act otherwise.

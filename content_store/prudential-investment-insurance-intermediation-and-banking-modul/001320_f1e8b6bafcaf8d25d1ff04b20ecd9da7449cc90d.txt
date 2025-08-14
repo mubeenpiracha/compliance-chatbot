@@ -1,0 +1,23 @@
+Scope and nature of Liquidity Risk reporting and measurement systems.
+
+(d)
+
+The techniques used for mitigating Liquidity Risk and the process of monitoring the effectiveness of the mitigants in place.
+
+(e)
+
+Overview of how stress testing is used.
+
+(f)
+
+Outline of the Contingency Funding Plan.
+
+(g)
+
+A declaration approved by the governing body on the adequacy of Liquidity Risk management arrangements in place with regard to the firm’s profile and strategy.
+
+(h)
+
+A Liquidity Risk statement approved by the governing body describing the firm’s overall Liquidity Risk profile associated with the business strategy, including how the Liquidity Risk profile of the firm interacts with the risk tolerance set by the management body and:
+
+(i) the main drivers of the LCR results and the evolution of the contribution of inputs to the LCR’s calculation over time;

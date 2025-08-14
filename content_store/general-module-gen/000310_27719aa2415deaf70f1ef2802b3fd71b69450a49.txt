@@ -1,0 +1,23 @@
+roles and
+
+responsibilities,
+
+(4)
+
+The systems and controls in (3)(a) must include:
+
+(a) a system for identifying and assessing Cyber Risk which enables the Authorised Person to implement the requirements in Rule 5.5.5;
+
+(b) a system for protecting ICT Assets in accordance with Rules
+
+5.5.6 to 5.5.15; and
+
+(c) a system for managing and controlling Cyber Incidents which enables the Authorised Person to comply with the requirements in Rules 5.5.16 to 5.5.18.
+
+(5)
+
+An Authorised Person must review periodically, and at least annually, its Cyber Risk Management Framework to ensure that it remains appropriate, effective and up-to-date.
+
+(6)
+
+An Authorised Person must integrate its Cyber Risk Management Framework within its overall risk management framework established under GEN Rules 5.3.4 to 5.3.6.

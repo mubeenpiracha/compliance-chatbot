@@ -1,0 +1,27 @@
+In this IFR 5:
+
+(i)
+
+"E" represents the Exposure determined by an Authorised Person as applicable to an Islamic Contract; and
+
+(ii)
+
+"CRW" represents the risk weighting or capital charge assessed by an Authorised Person as appropriate to that Islamic Contract.
+
+(b)
+
+Where an Islamic Contract is in the Non-Trading Book, an Authorised Person must determine the PSIACOMcredit for that contract by applying the following formula:
+
+PSIACOMcredit = E x CRW x 10%.
+
+(c)
+
+Where an Islamic Contract is in the Trading Book, an Authorised Person must determine the PSIACOMcredit for that contract in accordance with the methodology in PRU Rules A4.7 and A4.8 as appropriate.
+
+(d)
+
+An Authorised Person must calculate its PSIACOMcredit of all contracts by:
+
+(i)
+
+identifying all Islamic Contracts to which this section applies;

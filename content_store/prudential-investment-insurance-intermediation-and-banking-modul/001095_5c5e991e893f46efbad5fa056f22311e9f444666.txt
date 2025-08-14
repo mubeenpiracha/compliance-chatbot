@@ -1,0 +1,7 @@
+a.
+
+any internal model used to calculate Capital Requirements for equity risk, interest rate risk, foreign exchange risk or commodities risk should be closely integrated into the daily risk management process set out in (b) and serve as the basis for reporting risk Exposures to senior management;
+
+b.
+
+the Authorised Firm should have a risk control unit that is independent from business trading units and reports directly to senior management. The unit should be responsible for designing and implementing any internal model used for purposes of chapter 5. The unit should conduct the initial and on-going validation of any internal model used for purposes of chapter 5. The unit should produce and analyse daily reports on the output of any internal model used for calculating Capital Requirements for position risk, foreign exchange risk and commodities risk, and on the appropriate measures to be taken in terms of trading limits;

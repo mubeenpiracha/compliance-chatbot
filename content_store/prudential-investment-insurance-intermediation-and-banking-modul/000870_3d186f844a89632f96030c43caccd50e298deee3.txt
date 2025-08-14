@@ -1,0 +1,13 @@
+(e)
+
+“Margined Netting Set” means a Netting Set covered by a Margin Agreement where a transaction is subject to exchange of Variation Margin;
+
+(f)
+
+“Net Independent Collateral Amount” or “NICA” means the amount of Collateral that an Authorised Firm may use to offset its Exposure on the default of the Counterparty, but excluding any Collateral an Authorised Firm has posted to a segregated, bankruptcy-remote account that would be returned to the Authorised Firm upon the bankruptcy of the counterparty;
+
+(g)
+
+“Netting Set” means a group of transactions with a single Counterparty that are subject to a Qualifying Bilateral Netting Agreement; each transaction with a single Counterparty that is not subject to a Qualifying Bilateral Netting Agreement comprises its own Netting Set;
+
+(h)

@@ -1,0 +1,15 @@
+9.
+
+Chapter 8 sets out when and how a Relevant Person may rely on a third party to undertake all or some of its CDD obligations. Reliance on a third-party CDD reduces the need to duplicate CDD already performed for a customer. Alternatively, a Relevant Person may outsource some or all of its CDD obligations to a service provider.
+
+10.
+
+Chapter 9 sets out certain obligations in relation to correspondent banking, wire transfers, the transfer of Crypto Tokens and other matters which (except for section 9.3B) apply to Authorised Persons, and, in particular, to banks. Section 9.3B applies to DNFBPs which send or receive NFTs or Utility Tokens.
+
+11.
+
+Chapter 10 sets out a Relevant Person’s obligations in relation to United Nations Security Council resolutions and sanctions, and government, regulatory and international findings (in relation to AML, terrorist financing and the financing of weapons of mass destruction).
+
+12.
+
+Chapter 11 sets out the obligation for a Relevant Person to appoint a Money Laundering Reporting Officer (MLRO) and the responsibilities of such a person.

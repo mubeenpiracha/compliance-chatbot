@@ -1,0 +1,39 @@
+α =
+
+1.4
+
+A5.10.6 For the purposes of Rule A5.10.5, an Authorised Firm must set the value of RWC in
+
+accordance with the table below:
+
+369
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+Credit quality of Counterparty
+
+Sector of Counterparty
+
+Investment Grade
+
+High yield and not rated
+
+Sovereigns including central banks and multilateral development banks
+
+0.5%
+
+2.0%
+
+Local government, government-backed non- financials, education and public administration
+
+1.0%
+
+4.0%
+
+Financials including government-backed financials
+
+5.0%
+
+12.0%

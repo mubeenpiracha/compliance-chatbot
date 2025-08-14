@@ -1,0 +1,29 @@
+Audit reports
+
+Each Authorised Person and Recognised Body must, in writing, arrange for and ensure
+
+the submission of the following by its Auditor:
+
+(1)
+
+a Financial Statement Auditor's Report on the Authorised Person or Recognised Body's financial statements in accordance with the International Standards on Auditing following the performance of an audit;
+
+(2)
+
+a Regulatory Returns Auditor's Report in accordance with Rules 6.6.4 and 6.6.5 as relevant;
+
+(3)
+
+if the Authorised Person is permitted to control or hold Client Money, a Client Money Auditor's Report in accordance with Rule 6.6.6;
+
+(4)
+
+if the Authorised Person is permitted to hold or control Client Investments or Provide Custody in or from ADGM, a Safe Custody Auditor's Report in respect of such business as applicable, in accordance with Rule 6.6.7;
+
+(5)
+
+if FUNDS is applicable, a Fund Auditor's Report in accordance with Rule 6.6.8; and
+
+(6)
+
+if the Authorised Person is a Public Listed Company, a Public Listed Company Auditor's Report in accordance with Rule 6.6.9.

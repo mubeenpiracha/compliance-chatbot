@@ -1,0 +1,29 @@
+Guidance
+
+The Liquidity Mismatch Approach measures an Authorised Person's short-term liquidity by assessing the maturity mismatch between its inflows (assets) and outflows (liabilities) over an eight-day time horizon.
+
+9.3.10
+
+(1)
+
+An Authorised Person in Category 1 or 5 must use the Liquidity Mismatch Approach, as set out in this Section, to measure its short-term liquidity.
+
+(2)
+
+When using the Liquidity Mismatch Approach, an Authorised Person must determine the net cumulative maturity mismatch position for the time band from sight to eight days by:
+
+(a)
+
+determining, in accordance with the Rules in Section A10.3, the inflows (assets) and outflows (liabilities) in that time band; and
+
+(b)
+
+subtracting outflows (liabilities) from inflows (assets) in that time band.
+
+Measuring liquidity for Category 1 and Category 5
+
+9.3.11
+
+(1)
+
+An Authorised Person in Category 1 or 5 must determine a net cumulative maturity mismatch position for the sight-eight day time band in respect of each of the following means of funding used by the Authorised Person:

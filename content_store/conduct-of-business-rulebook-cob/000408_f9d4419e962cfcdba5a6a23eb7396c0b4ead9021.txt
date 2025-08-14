@@ -1,0 +1,15 @@
+135
+
+COBS VER19.290725
+
+Amounts transferred and amounts received
+
+19.14.4 (1)
+
+Subject to (2), the Payment Service Providers of the Payer and Payee must ensure that the full amount of the Payment Transaction is transferred and that no charges are deducted from the amount transferred.
+
+(2)
+
+The Payee and its Payment Service Provider may agree for the relevant Payment Service Provider to deduct its charges from the amount transferred before crediting it to the Payee provided that the full amount of the Payment Transaction and the amount of the charges are clearly stated in the information provided to the Payee.
+
+19.15

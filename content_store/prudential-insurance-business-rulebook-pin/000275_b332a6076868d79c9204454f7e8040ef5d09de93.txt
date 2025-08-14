@@ -1,0 +1,13 @@
+A4.12 Long-term insurance risk component
+
+Guidance
+
+1.
+
+The purpose of the Long-Term Insurance risk component of the Minimum Capital Requirement is to require an Insurer to set aside capital to address the risk that the net present value of future Policy Benefits will vary from the amounts recorded as Long-Term Insurance Liabilities in the Insurer's balance sheet.
+
+2.
+
+The calculation model set out in Rule A4.12.1 deals separately with Direct Long-Term Insurance Business, with proportional and non-proportional reinsurance of Long-Term Insurance Business, and with finite risk reinsurance of Long-Term Insurance Business.
+
+3.

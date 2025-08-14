@@ -1,0 +1,9 @@
+Guidance
+
+1.
+
+Rule 13.9.1 prohibits the use of the term Exchange Traded Fund or ETF unless a Fund meets the criteria in Rule 3.1.12. A similar prohibition applies to Foreign Funds that offer Units in or from the DIFC – see Rules 15.1.5(c) and 15.1.6(1)(c).
+
+2.
+
+ETFs are different to other exchange traded Open-ended Funds. ETFs generally do not sell or redeem their Units to and from retail investors directly at net asset value (NAV). Instead, an Authorised Participant (“AP”) (i.e. a market maker appointed by the ETF Fund Manager) buys and redeems ETF Units, called creation Units, directly from the ETF Fund Manager. Generally, an AP that purchases a creation Unit of an ETF deposits with the ETF Fund Manager a ‘purchase basket’ of certain securities and cash and/or other assets identified by the ETF Manager that day, and then receives the creation Unit in return for those assets. The basket generally reflects a pro-rata portion of the ETF’s underlying holdings. After purchasing a creation Unit, the AP may hold or sell some or all of the Units in the basket on the relevant exchange.

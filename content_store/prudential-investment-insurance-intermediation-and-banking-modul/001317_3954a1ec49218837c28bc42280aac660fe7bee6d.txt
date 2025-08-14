@@ -1,0 +1,17 @@
+Quantitative Disclosures
+
+(f) For trading portfolios under the internal models approach:
+
+(i)
+
+the high, mean and low VaR values over the reporting period and period- end;
+
+(ii)
+
+the high, mean and low stressed VaR values over the reporting period and period-end;
+
+(iii)
+
+the high, mean and low incremental and comprehensive risk capital charges over the reporting period and period-end; and
+
+(iv) a comparison of VaR estimates with actual gains or losses experienced by the Reporting Firm, with analysis of outliers in back test results.

@@ -1,0 +1,39 @@
+Additional requirements for a CSD
+
+(1) Where a Clearing House operates a Central Securities Depository (CSD), it must have rules and procedures, including robust accounting practices and controls to:
+
+(a)
+
+ensure the integrity of securities issues; and
+
+85
+
+AMI/VER28/03-25
+
+7.4.2
+
+(2)
+
+(3)
+
+(1)
+
+AUTHORISED MARKET INSTITUTIONS (AMI)
+
+(b)
+
+minimise and manage risks associated with the safekeeping and transfer of securities.
+
+A CSD must ensure that securities referred to in (1)(a) are recorded in book-entry form prior to the trade date.
+
+For the purposes of (1)(a), a CSD’s systems and controls must ensure that:
+
+(a)
+
+the unauthorised creation or deletion of securities is prevented;
+
+(b)
+
+appropriate intra-day reconciliation is conducted to verify that the number of securities making up a securities issue or part of a securities issue submitted to the CSD is equal to the sum of securities recorded on the securities accounts of the Members and other participants of the CSD;
+
+(c)

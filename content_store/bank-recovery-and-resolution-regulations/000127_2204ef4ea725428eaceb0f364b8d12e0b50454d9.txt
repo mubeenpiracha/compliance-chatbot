@@ -1,0 +1,13 @@
+The Regulator shall not exercise the Write Down or Conversion Power in relation to the following liabilities whether they are governed by the laws of the ADGM or by the law of another jurisdiction—
+
+(a)
+
+secured liabilities (including, but not limited to, Covered Bonds, liabilities in the form of financial instruments used for hedging purposes which form an integral part of the cover pool and which according to the ADGM law are secured in a way similar to Covered Bonds and financial collateral arrangements and liabilities under Derivative Contracts, to the extent the liabilities thereunder are secured), but this exclusion shall not prevent any liability in respect of net sum following close out of a Derivative Contract, to the extent it is an unsecured liability;
+
+(b)
+
+any liability that arises by virtue of the holding of Client Assets by the Institution that is not an ADGM Branch;
+
+(c)
+
+any liability that arises by virtue of a fiduciary relationship between the Institution (as fiduciary) and another person (as beneficiary) provided that such beneficiary's interests are protected under ADGM Insolvency Regulations or civil law;

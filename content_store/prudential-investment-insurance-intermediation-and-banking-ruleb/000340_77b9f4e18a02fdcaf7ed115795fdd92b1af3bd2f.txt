@@ -1,0 +1,21 @@
+Recognition of eligible financial Collateral for securitisation (SE) Exposures
+
+4.9.8
+
+An Authorised Person that has taken eligible financial Collateral for an SE Exposure may recognise the effect of such Collateral in accordance with Rules 4.9.9 to 4.9.11.
+
+4.9.9
+
+An Authorised Person calculating RWAs for SE Exposures must use either the FCSA or the FCCA approaches to recognise the effect of eligible financial Collateral. An Authorised Person must apply the chosen approach consistently to the entire Non- Trading Book and must not use a combination of both approaches.
+
+125
+
+PRU VER17.290725
+
+4.9.10
+
+An Authorised Person using the FCSA approach for an SE Exposure may recognise the effect of eligible financial Collateral in accordance with Section 4.13 and Rule 4.14.70.
+
+4.9.11
+
+An Authorised Person using the FCCA approach for an SE Exposure must calculate E*, the SE Exposure adjusted for eligible financial Collateral, in accordance with Rules in Section A4.3 of App4 and substitute E* for E when calculating the RWA for SE Exposure under Section 4.8.

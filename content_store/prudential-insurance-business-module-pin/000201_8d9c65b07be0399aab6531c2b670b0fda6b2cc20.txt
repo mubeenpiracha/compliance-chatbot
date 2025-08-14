@@ -1,0 +1,15 @@
+h.
+
+have tested adequately and approved valuation models which are used to value open positions and derivative contracts, and other complex investment instruments, including controls preventing unauthorised programme amendments. Such models should
+
+56
+
+PIN/VER18/04-23
+
+PRUDENTIAL – INSURANCE BUSINESS (PIN)
+
+include appropriate testing of the robustness of the portfolio in changing investment conditions, using realistic scenarios relevant to the circumstances of the Insurer.
+
+10.
+
+Stress and scenario testing should consider the impact of possible deteriorations in investment conditions, including where relevant the impact of simultaneous deteriorations in more than one market. It should also consider effects on liquidity, including where relevant those from an inability to repatriate assets from elsewhere. Where the insurance industry’s holdings are large in relation to the turnover of the domestic market, scenario modelling should take account of the possible effect on the market of simultaneous liquidation of assets.

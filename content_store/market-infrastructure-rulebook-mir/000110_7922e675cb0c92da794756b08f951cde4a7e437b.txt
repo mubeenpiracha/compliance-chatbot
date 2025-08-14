@@ -1,0 +1,25 @@
+Price and Position Limits in Respect of Derivatives
+
+3.3.5
+
+A Recognised Investment Exchange must ensure that the risks to fair and orderly trading, arising from sharp price movements, are mitigated for Derivatives.
+
+Price Limits
+
+3.3.6
+
+A Recognised Investment Exchange may impose price limits in relation to a Derivative to mitigate the risks to fair and orderly trading arising from sharp movements in the price of the Derivative.
+
+Position Limits
+
+3.3.7
+
+A Recognised Investment Exchange must, in respect of a Commodity Derivative, or other relevant Derivative that is physically settled:
+
+(a)
+
+implement position limits for the purposes of mitigating the risk of Market Abuse in the market on which:
+
+the Derivative is admitted to trading; and
+
+the underlying asset(s) of the Derivative is traded;

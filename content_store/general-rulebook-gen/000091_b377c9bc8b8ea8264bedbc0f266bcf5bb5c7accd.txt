@@ -1,0 +1,21 @@
+Guidance
+
+1.
+
+The purpose of this Rule is to ensure that an Authorised Person understands which of its ICT Assets, critical operations and supporting information should be protected against Cyber Incidents, in order of priority.
+
+2.
+
+An Authorised Person’s assessment of the Cyber Risk it faces or may potentially face should be accurate, up-to-date and reviewed regularly and no less than annually.
+
+3.
+
+The assessment should include, at a minimum:
+
+29
+
+GEN VER11.290725
+
+a.
+
+an assessment of the interconnections and dependencies between the Authorised Person’s ICT Assets and its business functions and processes;

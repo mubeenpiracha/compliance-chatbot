@@ -1,0 +1,19 @@
+(f)
+
+if applicable, a statement that the Authorised Person intends to mix Safe Custody Assets with those of other Clients;
+
+101
+
+COBS VER19.290725
+
+(g)
+
+if applicable, a statement that the Client's Safe Custody Assets may be held in a jurisdiction outside the Abu Dhabi Global Market and the market practices, insolvency and legal regime applicable in that jurisdiction may differ from the regime applicable in the Abu Dhabi Global Market;
+
+(h)
+
+if applicable, a statement that the Authorised Person holds or intends to hold Safe Custody Assets in a Client Account with a Third-Party Agent which is in the same Group as the Authorised Person; and
+
+(i)
+
+the extent of the Authorised Person's liability in the event of default by a Third-Party Agent.

@@ -1,0 +1,33 @@
+Changes to the client agreement
+
+If the Client Agreement provided to a Retail Client allows an Authorised Firm to amend the Client Agreement without the Client’s prior written consent, the Authorised Firm must give at least 14 days notice to the Client before providing a Financial Service to that Client on any amended terms, unless it is impracticable to do so.
+
+26
+
+COB/VER48/03-25
+
+3.3.4
+
+3.4
+
+3.4.1
+
+CONDUCT OF BUSINESS (COB)
+
+Reliance on a Client Agreement made by another entity
+
+(1)
+
+An Authorised Firm may, for the purposes of Rule 3.3.2(1)(a)(ii), rely on a Client Agreement executed in accordance with the requirements in either (2) or (3).
+
+(2)
+
+For the purposes of (1), an Authorised Firm which is a Branch may rely on a Client Agreement, executed by its head office or any other branch of the same legal entity, if:
+
+(a)
+
+the Client Agreement adequately and clearly applies to the Financial Services provided by the Branch; and
+
+(b)
+
+the Authorised Firm ensures that the Client Agreement is available to the DFSA on request.

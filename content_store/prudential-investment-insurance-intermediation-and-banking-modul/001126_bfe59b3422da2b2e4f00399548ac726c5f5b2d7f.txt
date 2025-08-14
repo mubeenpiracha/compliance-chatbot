@@ -1,0 +1,5 @@
+The internal model should be based on the assumption of a constant level of risk over the one- year time horizon, implying that given individual Trading Book positions or sets of positions that have experienced default or migration over their liquidity horizon are re-balanced at the end of their liquidity horizon to attain the initial level of risk. Alternatively, an Authorised Firm may choose to consistently use a one-year constant position assumption.
+
+8.
+
+The liquidity horizons should be set according to the time required to sell the position or to hedge all material relevant price risks in a stressed market, having particular regard to the size of the position. Liquidity horizons should reflect actual practice and experience during periods of both systematic and idiosyncratic stresses. The liquidity horizon should be measured under conservative assumptions and should be sufficiently long that the act of selling or hedging, in itself, would not materially affect the price at which the selling or hedging would be executed.

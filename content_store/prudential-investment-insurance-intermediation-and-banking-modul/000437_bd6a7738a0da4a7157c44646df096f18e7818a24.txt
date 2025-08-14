@@ -1,0 +1,5 @@
+In the case of Credit Risk mitigant, embedded options which may reduce the term of the credit protection must be taken into account so that the shortest possible residual maturity is used. Where a call is at the discretion of the protection seller, the residual maturity will be at the first call date. If the call is at the discretion of the Authorised Firm but the terms of the arrangement at origination of the Credit Derivative contain a positive incentive for the Authorised Firm to call the transaction before contractual maturity, the remaining time to the first call date will be deemed to be the residual maturity.
+
+4.13.16 (1)
+
+An Authorised Firm must calculate the value of the Credit Risk mitigation adjusted for any maturity mismatch, 𝑃𝑎, using the following formula:

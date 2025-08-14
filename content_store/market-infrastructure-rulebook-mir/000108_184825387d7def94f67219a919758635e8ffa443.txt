@@ -1,0 +1,33 @@
+prohibit or prevent:
+
+trades in which a party is improperly indemnified against losses;
+
+trades intended to create a false appearance of trading activity ("wash trades");
+
+cross trades executed for improper purposes;
+
+improperly prearranged or pre-negotiated trades;
+
+trades intended to assist or conceal any potentially identifiable trading abuse ("accommodation trades"); and
+
+trades which one party does not intend to close out or settle.
+
+3.3.3
+
+A Recognised Investment Exchange's arrangements and practices must:
+
+(a)
+
+enable Members and Clients for whom they act to obtain the best price available at the time for their size and type of trade;
+
+(b)
+
+include procedures which enable the Recognised Investment Exchange to influence trading conditions or suspend trading promptly when necessary to maintain an orderly market; and
+
+(c)
+
+if they include arrangements to support or encourage liquidity:
+
+be transparent;
+
+not encourage any Person to enter into transactions other than for proper trading purposes (which may include hedging, investment, speculation, price determination, arbitrage and filling orders from any Client for whom he acts);

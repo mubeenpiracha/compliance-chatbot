@@ -1,0 +1,35 @@
+4 to 6
+
+100%
+
+7
+
+150%
+
+Corporate asset class
+
+A4.12.9 Under the Simplified Approach, Rules 4.12.13 to 4.12.15 are replaced by the following
+
+Rule A4.12.10.
+
+A4.12.10 An Authorised Person must apply a 100% risk weight to any CR Exposure in the
+
+corporate asset class.
+
+Credit Risk mitigation - Collateral
+
+A4.12.11 Under the Simplified Approach, Rules 4.13.5 to 4.13.7 are replaced by the following
+
+Rules A4.12.12 to A4.12.14.
+
+A4.12.12 An Authorised Person may only use the financial Collateral Simplified Approach (FCSA) in its treatment of recognised Collateral for the purposes of calculating the Credit RWA for its Exposures booked in its Non-Trading Book.
+
+A4.12.13 (1)
+
+For an Authorised Person using the FCSA, eligible financial Collateral comprises:
+
+(a)
+
+cash (as well as certificates of Deposit or other similar instruments issued by the Authorised Person) on Deposit with the Authorised Person;
+
+(b)

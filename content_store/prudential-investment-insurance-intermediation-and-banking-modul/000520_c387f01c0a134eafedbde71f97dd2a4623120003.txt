@@ -1,0 +1,21 @@
+Guidance
+
+Such policy should include risks such as maturity mismatches, stress testing of Collateral values, indirect Exposures arising from Credit Risk mitigation, such as mitigation provided on Exposures by the same Counterparty.
+
+Treatment of Parental Guarantees
+
+4.15.18 An Authorised Firm may exclude an Exposure from the Concentration Risk limits set
+
+out in Rules 4.15.5 to 4.15.7 where:
+
+(a)
+
+the Authorised Firm’s Parent guarantees that Exposure to a Counterparty or to a group of Closely Related Counterparties; and
+
+(b)
+
+the following conditions are met:
+
+(i)
+
+the Counterparty or group of Closely Related Counterparties are not Connected to the Authorised Firm;

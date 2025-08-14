@@ -1,0 +1,21 @@
+Guidance
+
+115
+
+COB/VER48/03-25
+
+9.6.3
+
+CONDUCT OF BUSINESS (COB)
+
+1.
+
+When making disclosure, an ATS Operator should adopt a technical mechanism by which the public can differentiate between transactions that have been transacted in the central order book and transactions that have been reported to the facility as off-order book transactions. Any transactions that have been cancelled pursuant to its rules should also be identifiable.
+
+2.
+
+An ATS Operator should use appropriate mechanisms to enable pre-trade information to be made available to the public in an easy to access and uninterrupted manner at least during business hours. An ATS Operator may charge a reasonable fee for the information which it makes available to the public.
+
+3.
+
+An ATS Operator may seek a waiver or modification from the disclosure requirement in Rule 9.6.1(1) in relation to certain transactions where the order size is pre-determined, exceeds a pre-set and published threshold level and the details of the exemption are made available to its members and the public.

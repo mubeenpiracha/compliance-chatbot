@@ -1,0 +1,25 @@
+Guidance
+
+Institutions shall calculate the Leverage Ratio as the simple arithmetic mean of the monthly leverage ratios over a quarter, or using a more frequent basis for the calculation if that is in line with their internal practices.
+
+3.21.5
+
+For the purpose of determining the Exposure Measure, the value of Exposures of an Authorised Person must be calculated in accordance with the International Financial Reporting Standards (IFRS) subject to the following adjustments:
+
+(a)
+
+on-balance sheet, non-Derivative Exposures must be net of specific allowances and valuation adjustments (e.g. credit valuation adjustments);
+
+(b)
+
+physical or financial Collateral, guarantees or other credit risk mitigation techniques must not be used to reduce exposure values of assets; and
+
+(c)
+
+loans must not be netted with Deposits.
+
+3.21.6
+
+The Exposure Measure under Rule 3.21.2(b) must be calculated as the sum of:
+
+(a)

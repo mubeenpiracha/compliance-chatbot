@@ -1,0 +1,25 @@
+Guidance
+
+The DFSA will, in exceptional circumstances, consider an application to waive or modify the limits set out above. In such circumstances the Authorised Firm will have to make a submission to the DFSA as to why its specific circumstances would warrant a relaxation of the limits specified in (d) above.
+
+Systems and Controls
+
+4.15.11 (1)
+
+An Authorised Firm must implement and maintain systems and controls to identify its Exposures and effectively manage Concentration Risks as a result of its activities.
+
+164
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+(2)
+
+Such systems and controls in place must be proportionate to the nature, scale and complexity of the Authorised Firm and must include written policies and procedures to address Concentration Risks, both on and off balance sheet, which:
+
+(a) are approved by the Governing Body on at least an annual basis; and
+
+(b)
+
+include internal approval limits for Exposures as well as limits for the risks associated with specific sectors, geographic location and single economic risk factors.

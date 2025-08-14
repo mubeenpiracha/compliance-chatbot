@@ -1,0 +1,19 @@
+(a)
+
+items which are deducted from its capital when calculating its Capital Resources, including investments in non-consolidated subsidiaries; or
+
+(b)
+
+other long-term participations denominated in Foreign Currencies which are reported in the published accounts at historic cost.
+
+A6.5
+
+Commodities Risk Capital Requirement
+
+Guidance
+
+Section A6.5 presents the method for the calculation of Commodities Risk Capital Requirement for the purpose of Rule 5.7.1(b).
+
+A6.5.1
+
+An Authorised Person which calculates its Commodities Risk Capital Requirements in accordance with Rule 5.7.1(b) must apply the Rules in this Section.

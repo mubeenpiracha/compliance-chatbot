@@ -1,0 +1,31 @@
+Defined Term
+
+Credit Spread Option
+
+Credit-linked Note
+
+Crowdfunding Loan Agreement A
+
+Crowdfunding Operator
+
+Crowdfunding Platform
+
+Crypto Token
+
+Crypto Business
+
+Crypto Token Derivative
+
+GLOSSARY (GLO)
+
+Definition
+
+A type of contract where one Counterparty sells an Option to another Counterparty on a nominal amount of an asset swap on a specified Security, exercisable during a set period of time, in exchange for a payment of a premium where the Option gives the buyer the right to put the asset swap back to the seller at a strike spread over a pre-determined benchmark rate.
+
+A Security whose coupon payments are linked to the return on, and repayment of principal and is linked to the creditworthiness of, the Reference Assets.
+
+into using a Loan Crowdfunding Platform operated by a Crowdfunding Operator.
+
+loan agreement entered
+
+A Person who is authorised under a Licence to Operate a Crowdfunding Platform.

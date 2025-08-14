@@ -1,0 +1,21 @@
+the country of incorporation of the issuer and its incorporation number;
+
+(e)
+
+if domiciled in a jurisdiction outside the country of incorporation, the legislation under which the issuer operates;
+
+(f)
+
+if registered in a place other than the country of incorporation, the place of registration of the issuer and its registration number;
+
+(g)
+
+the date of incorporation and registration and the length of time the issuer has remained incorporated or registered (or both) as is relevant. Where the issuer has a fixed life, this must be stated together with the end date; and
+
+(h)
+
+the address and telephone number of its registered office (and its principal place of business if different from its registered office); and
+
+(i)
+
+if the Securities are asset backed Securities, a statement whether the issuer has been established as a special purpose vehicle or entity for the purpose of issuing asset backed Securities.

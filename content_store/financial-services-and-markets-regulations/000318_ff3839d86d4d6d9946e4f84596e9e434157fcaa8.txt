@@ -1,0 +1,15 @@
+118 Amended 21 February 2018.
+
+119 Amended 8 August 2023.
+
+115
+
+Body or Remote Body to take action under its Default Rules, including applying property or its proceeds against liabilities or aggregating property or its proceeds with amounts in either case recorded in particular accounts, which may take place notwithstanding any prior or competing equitable interest or right, or any right or remedy arising from a breach of fiduciary duty on the part of any Clearing Member, Client or other party, whether relevant to a Market Contract or any corresponding property provided by way of margin, excepting only cases of actual written notice referred to in subsection (2).
+
+171. Priority of floating Collateral Security Arrangement over subsequent Charges
+
+(1)
+
+The Regulator may by Rules provide that a Collateral Security Arrangement which is a floating Charge has priority over a Charge subsequently created or arising, including a fixed Charge.
+
+(2)

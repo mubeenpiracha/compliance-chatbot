@@ -1,0 +1,19 @@
+A7.1.5 Confirmation of transactions
+
+An Authorised Firm must provide to the User:
+
+(a) confirmation of the successful initiation of the Payment Transaction;
+
+(b) a reference to identify the Payment Transaction, and, where appropriate,
+
+information relating to the payee or payer;
+
+(c) the amount of the Payment Transaction in the currency of the Payment Order or
+
+currency of the relevant Payment Account;
+
+(d) any charges payable by the User in relation to the Payment Transaction, in
+
+accordance with Rule A7.1.2(a);
+
+(e) the currency exchange rate applied for the Payment Transaction and the

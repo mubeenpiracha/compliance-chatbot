@@ -1,0 +1,37 @@
+Credit Value Date
+
+Means the date upon which Money placed in a Payment Account may be accessed by the holder of the Payment Account following a Payment Transaction.
+
+26
+
+GLO VER23.290725
+
+Defined Terms
+
+CSD Link
+
+Customer
+
+Customer Due Diligence (CDD)
+
+Cyber Incident
+
+Cyber Incident Response Plan
+
+Cyber Risk
+
+Cyber Risk Management Framework
+
+Definitions
+
+Means a link between two Central Securities Depositories, as described in COBS 10.4.1.
+
+In relation to:
+
+(a)
+
+MKT, means:
+
+(i)
+
+a Person where, in relation to a business relationship between a Person and a Relevant Person, there is a firm intention or commitment by each party to enter into a contractual relationship or where there is a firm commitment by each party to enter into a Transaction, in connection with a product or service provided by the Relevant Person;

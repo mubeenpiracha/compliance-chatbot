@@ -1,0 +1,25 @@
+PSIACOM is the Displaced Commercial Risk Capital Requirement;
+
+(c)
+
+PSIACOMcredit is the Credit Risk capital requirement for assets funded by Unrestricted PSIA holders and is calculated in accordance with PRU Section 4.8; and
+
+(d)
+
+PSIACOMmarket is the Market Risk capital requirement for assets funded by Unrestricted PSIA holders and is calculated in accordance with PRU Chapter 5.
+
+Credit risk and counterparty risk for Islamic contracts
+
+5.4.6
+
+(a)
+
+An Authorised Person Managing a PSIA, which is an Unrestricted PSIA, must calculate its PSIACOMcredit in relation to all Islamic Contracts financed by Unrestricted PSIAs in the manner prescribed in this IFR 5.
+
+(b)
+
+An Authorised Person must, when undertaking the calculation in IFR 5.4.6(a), apply an appropriate risk weighting for the relevant Islamic Contract.
+
+5.4.7
+
+(a)

@@ -1,0 +1,37 @@
+A Fund Manager must take the action in (2) immediately, except in circumstances where it decides doing so would not be in the best interests of Unitholders, in which case the action must be taken as soon as such circumstances cease to apply.
+
+(4)
+
+A Fund Manager must not postpone taking action in accordance with (2) unless the Persons providing oversight functions have given their consent.
+
+78
+
+CIR/VER38/08-24
+
+10.5.4
+
+10.5.5
+
+10.5.6
+
+COLLECTIVE INVESTMENT RULES (CIR)
+
+Investment in other Funds
+
+A Fund may invest in Units of another Fund, except where otherwise provided in the Rules in this module, only where the Fund Manager has taken reasonable care to determine, before investing in that other Fund, it:
+
+(a)
+
+is the subject of an independent annual audit conducted in accordance with IFRS or US GAAP;
+
+(b)
+
+has mechanisms in place to enable Unitholders to redeem their Units within a reasonable time if it is an Open-ended Fund;
+
+(c)
+
+is prohibited from having more than 20% of its value in the Units of other Funds; and
+
+(d)
+
+has a proper and disclosed basis for asset valuation and the pricing of Units in that Fund.

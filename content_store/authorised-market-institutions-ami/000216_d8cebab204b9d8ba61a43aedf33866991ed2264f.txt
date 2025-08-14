@@ -1,0 +1,21 @@
+a.
+
+its own settlement cycle, in order to ensure that any Short Selling activities on its facilities do not result in any delay or prevent effective settlement within such cycle; and
+
+b.
+
+orderly functioning of its facilities, to ensure that any long or short position concentration on Investments that remain unsettled does not interrupt such functioning.
+
+65
+
+AMI/VER28/03-25
+
+6.8
+
+6.8.1
+
+AUTHORISED MARKET INSTITUTIONS (AMI)
+
+2.
+
+Examples of circumstances that would not be treated as short selling in Rule 6.7.1(3) include where the seller:

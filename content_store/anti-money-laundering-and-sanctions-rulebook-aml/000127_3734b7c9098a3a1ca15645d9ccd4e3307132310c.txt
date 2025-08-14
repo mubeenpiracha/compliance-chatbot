@@ -1,0 +1,21 @@
+Guidance
+
+1.
+
+Examples of situations that might lead a Relevant Person to have doubts about the veracity or adequacy of documents, data or information previously obtained might be where: there is a suspicion of money laundering in relation to that customer; there is a material change in the way that the customer's account is operated which is not consistent with the customer's business profile; or it appears to the Relevant Person that a Person other than the nominal customer is the real customer.
+
+2.
+
+Situations that the Relevant Person may take into account include, for example, accepting subscription monies during a short offer period or executing a time critical Transaction which, if not executed immediately, would or may cause a
+
+Confidential
+
+45
+
+AML VER10.020125
+
+customer to incur a financial loss due to price movement or loss of opportunity or when a customer seeks immediate insurance cover.
+
+3.
+
+When complying with Rule 8.2.1, a Relevant Person should also, where relevant, consider Rule 8.7.1 regarding failure to conduct or complete CDD and Chapter 14 regarding Suspicious Activity/Transaction Reports and tipping off.

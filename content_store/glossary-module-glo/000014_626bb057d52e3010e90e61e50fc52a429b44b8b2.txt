@@ -1,0 +1,23 @@
+Authorised Firm
+
+A Person, other than an Authorised Market Institution, who holds a Licence.
+
+Authorised Individual
+
+An individual who has been authorised by the DFSA to for an perform one or more Licensed Functions Authorised Firm.
+
+Authorised ISPV
+
+An ISPV which holds a Licence to carry on either or both of the following Financial Services:
+
+(a)
+
+Effect Contracts of Insurance; or
+
+(b)
+
+Carry Out Contracts of Insurance
+
+Authorised Market Institution A Person who is Licensed by the DFSA in relation to the
+
+carrying on either or both of the Financial Services prescribed in GEN Rule 2.17.1 and 2.18.1.

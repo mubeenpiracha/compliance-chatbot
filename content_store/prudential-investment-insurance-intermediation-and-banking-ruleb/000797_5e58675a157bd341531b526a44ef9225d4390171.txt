@@ -1,0 +1,23 @@
+E = CV due to the Authorised Person
+
+(b) if an Authorised Person has made payment of CV to a Counterparty for
+
+commodities or Securities and has not received them:
+
+E = CV – MV of the Securities, commodities or foreign exchange funds due to it
+
+A4.6.11 The Credit RWA in respect of free delivery transactions are to be calculated in
+
+accordance with the following table:
+
+289
+
+PRU VER17.290725
+
+Transaction stage
+
+Treatment
+
+Up to first contractual payment or delivery leg From first contractual payment or delivery leg up to four business days after second contractual payment or delivery leg From five business days post contractual payment or delivery leg until extinction of the transaction
+
+No calculation required

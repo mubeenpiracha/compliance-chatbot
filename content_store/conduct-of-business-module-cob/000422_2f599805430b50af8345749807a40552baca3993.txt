@@ -1,0 +1,27 @@
+entry form prior to the trade date.
+
+(3) For the purposes of (1)(a), a CSD’s systems and controls must ensure that:
+
+(a)
+
+the unauthorised creation or deletion of securities is prevented;
+
+(b)
+
+appropriate intraday reconciliation is conducted to verify that the number of securities making up a securities issue or part of a securities issue submitted to the CSD is equal to the sum of securities recorded on the securities accounts of the Members and other participants of the CSD;
+
+(c)
+
+where entities other than the CSD are involved in the reconciliation process for a securities issue, such as the issuer, registrars, issuance agents, transfer agents or other CSDs, the CSD has adequate arrangements for cooperation and information exchange between all involved parties so that the integrity of the issue is maintained; and
+
+(d)
+
+there are no securities overdrafts or debit balances in securities accounts.
+
+126
+
+COB/VER48/03-25
+
+10.2.2
+
+CONDUCT OF BUSINESS (COB)

@@ -1,0 +1,5 @@
+Guidance
+
+Rule 3.5.5 operates to prohibit, among other things, lending between Long Term Insurance Funds of the same Insurer. Assets must not be organised in such a manner as to create indebtedness between Long Term Insurance Funds.
+
+An Insurer may not enter into any arrangement, whether or not described as a contract of reinsurance, whereby a Long-Term Insurance Fund of the Insurer stands in the same relation to the Insurer as though the Insurer were the reinsurer in a contract of reinsurance in which the Long-Term Insurance Fund is the cedant.

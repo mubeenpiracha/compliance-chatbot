@@ -1,0 +1,27 @@
+Members and other participants' assets in accordance with Rule 4.7.37.
+
+4.7.36
+
+For the purposes of Rules 4.7.35(a) and 4.7.35(b), a Recognised Clearing House must:
+
+(a)
+
+hold its own deposits and custody assets only with entities which have been granted Financial Services Permission by the Regulator or in banks or credit institutions regulated by a non-Abu Dhabi Global Market Financial Services Regulator considered by the Regulator to be equivalent for such purposes;
+
+(b)
+
+be able to have prompt access to its deposits and custody assets when required; and
+
+(c)
+
+regularly evaluate and understand its exposures to entities which hold its assets, including the monitoring of the overall risk exposure to an individual
+
+68
+
+MIR VER10.290725
+
+banker or custodian remains within acceptable concentration limits and of the bank or custodian's financial condition on an on-going basis.
+
+4.7.37
+
+For the purposes of investing its own or its participants' deposits and custody assets, a Recognised Clearing House must ensure that:

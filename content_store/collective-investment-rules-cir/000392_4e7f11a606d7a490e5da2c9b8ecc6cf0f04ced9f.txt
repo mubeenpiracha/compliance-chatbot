@@ -1,0 +1,9 @@
+CIR/VER38/08-24
+
+14.3.3
+
+COLLECTIVE INVESTMENT RULES (CIR)
+
+3.
+
+In the case of an Information Memorandum for an Exempt Fund or Qualified Investor Fund with Units that are Security Tokens, or where a material part of the Fund Property consists of Investment Tokens or Crypto Tokens, the DFSA considers that Professional Clients would reasonably require and expect to find in such a Prospectus the information specified in MKT App 7.

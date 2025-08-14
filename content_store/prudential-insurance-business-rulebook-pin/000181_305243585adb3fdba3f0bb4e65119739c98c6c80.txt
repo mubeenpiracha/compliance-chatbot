@@ -1,0 +1,11 @@
+A2.5 Reserving risk
+
+Guidance
+
+1.
+
+Reserving risk is the risk that Insurance Liabilities recorded by the Insurer, net of reinsurance and other recoveries in respect of those liabilities, will be inadequate to meet the net amount payable when the Insurance Liabilities crystallise. Insurance Liabilities include the liability for claims incurred up to the reporting date, as well as the Premium Liability. In the case of General Insurance, reinsurance recoveries anticipated in respect of those liabilities are generally recognised as a separate asset. In the case of Long-Term Insurance, Insurance Liabilities include also the net value of future Policy Benefits and the effects of reinsurance arrangements are taken into account when these are estimated.
+
+2.
+
+An Insurer's risk management system should therefore include a process for ongoing review and appraisal of the Insurance Liability valuation framework (i.e. assumptions made, reinsurance recoveries estimated etc). In conducting this review, consideration should be given to emerging pricing and claim payment trends.

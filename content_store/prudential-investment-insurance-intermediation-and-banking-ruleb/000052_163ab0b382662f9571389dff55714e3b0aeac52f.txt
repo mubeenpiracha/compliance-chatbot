@@ -1,0 +1,11 @@
+Credit Risk Capital Requirement.
+
+Any contract which transfers the Credit Risk of a reference obligation or set of reference obligations from the protection buyer to the protection seller, such that the protection seller has an Exposure to the reference obligation(s).
+
+A contractual arrangement in which the Authorised Person retains or assumes an SE Exposure and, in substance, provides some degree of added protection to other parties to the transaction.
+
+Any facility which includes any arrangement or agreement which extends monetary credit whether funded or unfunded to a Person including but not limited to any loan or syndicated loan, mortgage, overdraft, financial lease, letter of credit, financial
+
+16
+
+PRU VER17.290725

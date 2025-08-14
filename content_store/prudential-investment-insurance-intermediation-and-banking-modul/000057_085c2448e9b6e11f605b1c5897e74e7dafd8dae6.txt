@@ -1,0 +1,21 @@
+FCSA
+
+Financial Collateral Simplified Approach as described in Rule 4.9.5.
+
+12
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+Financial Group
+
+A group of entities which includes an Authorised Firm and:
+
+(a) any Parent incorporated in the DIFC;
+
+(b) any Financial Institution subsidiaries (whether direct or indirect) of the Parent or Parents in (a) or of the Authorised Firm;
+
+(c) any Financial Institution in which the Parent or Parents in (a), the Financial Institution subsidiaries in (b) or the Authorised Firm (whether direct or indirect) hold 20% or more of the voting rights or capital; and
+
+(d) any entity which the DFSA directs the Authorised Firm to include in accordance with Rule 8.1.2 or PIN Rule 8.1.2.

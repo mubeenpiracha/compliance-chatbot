@@ -1,0 +1,11 @@
+trades across various blockchains, with
+
+123
+
+COB/VER48/03-25
+
+4.
+
+CONDUCT OF BUSINESS (COB)
+
+therefore that the arrangements are satisfactory. However, the DFSA is not aware of any market operator internationally that has successfully implemented a real-time on- chain settlement model. Until workable solutions are found around the fundamental bottlenecks of distributed ledgers (e.g., scalability, security, high fees, environmental costs), real-time on-chain settlement systems might not emerge soon; or

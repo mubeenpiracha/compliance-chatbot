@@ -1,0 +1,13 @@
+Consent and withdrawal of consent
+
+20.7.1 A Third Party Transaction is to be regarded as having been authorised by the Customer for
+
+the purposes of this Rule only if the Customer has given its consent to:
+
+(a)
+
+the execution of the Third Party Transaction; or
+
+(b)
+
+the execution of a series of Third Party Transactions of which that Third Party Transaction forms a part.

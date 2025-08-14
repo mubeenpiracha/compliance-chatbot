@@ -1,0 +1,9 @@
+in order
+
+to check
+
+An Authorised Person should have in place a system for monitoring the overall quality of its Credit Risk Exposures under normal and stressful conditions. There should also be a reporting system which alerts management to aggregate Exposures approaching various pre-set portfolio limits.
+
+An Authorised Person should be mindful of business and economic cycles and regularly stress-test their portfolios against adverse market scenarios. Adequate contingency planning should be developed in conjunction with stress-testing to address the possibility of crises developing in a very rapid fashion.
+
+Appropriate stress testing of credit Exposures can be an essential part of the credit management process. Examination of the potential effects of economic or industry downturns, market events, changes in interest rates, changes in foreign exchange rates and changes in liquidity conditions can provide valuable information about an Authorised Person's Credit Risk. This information can be utilised to inform the Authorised Person's on-going credit strategy.

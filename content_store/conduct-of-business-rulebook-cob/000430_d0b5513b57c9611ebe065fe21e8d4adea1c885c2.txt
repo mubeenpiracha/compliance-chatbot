@@ -1,0 +1,9 @@
+(5)
+
+The Payee’s Payment Service Provider must, on request by the Payee and free of charge, make immediate efforts to trace the Payment Transaction and notify the Payee of the outcome.
+
+(6)
+
+Subject to (8), if the Payee’s Payment Service Provider proves to the Payee and, where relevant, to the Payer’s Payment Service Provider, that it is not liable under (2) in respect of a non-executed or defectively executed Payment Transaction, the Payer’s Payment Service Provider is liable to the Payer and must, as appropriate and immediately:
+
+(a)

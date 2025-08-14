@@ -1,0 +1,11 @@
+3.
+
+Operational capability to monetise assets referred to in Rule A9.2.3(b), requires procedures and appropriate systems to be in place. This includes providing the liquidity management function with access to all necessary information to monetise any asset at any time. Monetisation of the asset should be executable operationally within the standard settlement period for the asset class in the relevant jurisdiction.
+
+Caps on different types of HQLA
+
+(1) Assets eligible to be included in the stock of HQLA for the purpose of the LCR
+
+calculation are classified under the following two categories:
+
+(a) Level 1 HQLA, consisting of the highest quality and most liquid assets;

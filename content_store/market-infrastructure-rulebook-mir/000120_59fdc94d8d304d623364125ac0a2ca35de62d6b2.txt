@@ -1,0 +1,11 @@
+A Recognised Investment Exchange may also conduct activities in relation to Accepted Spot Commodities if its Recognition Order includes a stipulation permitting it to do so. If it does include such a stipulation, the additional rules on Spot Commodities in COBS chapter 22 will apply to that function, but that function only.
+
+39
+
+MIR VER10.290725
+
+3.4.5
+
+A Recognised Investment Exchange may also conduct the activities of Administering a Specified Benchmark or of Providing Information in relation to a Specified Benchmark if its Recognition Order includes a stipulation permitting it to do so. If it does include such a stipulation, the additional rules on Benchmarks in COBS chapter 22 will apply to that function, but that function only.
+
+3.5

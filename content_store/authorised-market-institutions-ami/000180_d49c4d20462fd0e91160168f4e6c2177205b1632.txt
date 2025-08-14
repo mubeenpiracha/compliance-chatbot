@@ -1,0 +1,13 @@
+(2) Where an Authorised Market Institution presents any marketing or educational materials and other communications relating to a Crypto Token on a website, in the general media or as part of a distribution made to existing or potential new Members or users of its facilities, it must include the risk warning referred to in (1) in a prominent place at or near the top of each page of the materials or communication.
+
+(3)
+
+If the material referred to in (1) is provided on a website or an application that can be downloaded to a mobile device, the warning must be:
+
+(a)
+
+statically fixed and visible at the top of the screen even when a person scrolls up or down the webpage; and
+
+(b)
+
+included on each linked webpage on the website.

@@ -1,0 +1,15 @@
+9.3A Additional requirements for Crypto Token transfers
+
+9.3A.1 This section applies to an Authorised Person that sends or receives Crypto Tokens.
+
+9.3A.2 (1) An Authorised Person must have adequate policies and procedures in place to mitigate the money laundering risks arising from the transfer of Crypto Tokens.
+
+(2) The policies and procedures in (1) must without limitation address the situation where a transfer of Crypto Tokens is received without relevant information and the circumstances in which such transfer should be rejected, reversed (if technically possible), delayed or permitted.
+
+9.3A.3 (1) An Authorised Person must have in place adequate transaction monitoring procedures to detect the origin, any intermediate transaction, and the destination of Crypto Tokens transferred from or to its customer so that it is able to identify and report any suspicious transaction.
+
+(2) The procedures in (1) must provide for the:
+
+(a)
+
+tracking of the transaction history of Crypto Tokens to accurately identify their source and destination; and

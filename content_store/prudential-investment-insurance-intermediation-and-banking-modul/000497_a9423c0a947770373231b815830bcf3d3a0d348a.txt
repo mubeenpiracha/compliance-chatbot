@@ -1,0 +1,15 @@
+(ii)
+
+an uncollateralised portion whose Exposure value equals the E of the SE Exposure less the latest fair market value of the eligible financial Collateral; and
+
+(b)
+
+apply the CRW that is applicable to the eligible financial Collateral to the collateralised portion calculated in accordance with (a)(i) to calculate the Credit RWA amount of the collateralised portion as though the Authorised Firm had a direct Exposure to the eligible financial Collateral; and
+
+(c)
+
+either:
+
+(i)
+
+apply the CRW that is applicable to the SE Exposure to the uncollateralised portion calculated in accordance with (a)(ii) to calculate the Credit RWA amount of the uncollateralised portion; or

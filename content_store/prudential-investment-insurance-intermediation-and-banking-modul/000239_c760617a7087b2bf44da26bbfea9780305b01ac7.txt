@@ -1,0 +1,21 @@
+T2 regulatory deductions and exclusions
+
+3.15.4 Subject to the following Rules in this section, an Authorised Firm must deduct the
+
+following from the calculation of its T2 Capital:
+
+(a)
+
+direct and indirect holdings by an Authorised Firm of own T2 Capital instruments, including own T2 instruments that an Authorised Firm could be obliged to purchase as a result of existing contractual obligations;
+
+(b)
+
+holdings of the T2 Capital instruments of Relevant Entities where those entities have a reciprocal cross holding with the Authorised Firm which have the effect of artificially inflating the Capital Resources of the Authorised Firm;
+
+(c)
+
+the amount of direct and indirect holdings by the Authorised Firm of the T2 Capital instruments of Relevant Entities where the Authorised Firm does not have a significant investment in those entities; and
+
+(d)
+
+direct and indirect holdings by the Authorised Firm of the T2 Capital instruments of Relevant Entities where the Authorised Firm has a significant investment in those entities, excluding Underwriting positions held for fewer than 5 working days.

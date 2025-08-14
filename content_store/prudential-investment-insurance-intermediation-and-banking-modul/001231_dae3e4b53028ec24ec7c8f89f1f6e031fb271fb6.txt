@@ -1,0 +1,15 @@
+Cash Inflows
+
+A9.2.16 (1) When considering its available cash inflows, an Authorised Firm may include contractual inflows from outstanding exposures only if they are fully performing and there is no reasonable basis to expect a default within the 30-day period. Contingent inflows are not included in total net cash inflows.
+
+(2) Where an Authorised Firm is overly reliant on cash inflows from one or a limited number of wholesale counterparties, the DFSA may set an alternative limit on the level of cash inflows that can be included in the LCR.
+
+A9.2.17 (1) The DFSA may allow an Authorised Firm to recognise as cash inflow, access to a parent entity’s funds via a committed funding facility if the Authorised Firm is a subsidiary of a foreign bank. In such instances, the committed funding facility from the parent entity must meet both of the following criteria:
+
+(a)
+
+the facility must be an irrevocable commitment and must be appropriately documented; and
+
+(b)
+
+the facility must be quantified.

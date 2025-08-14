@@ -1,0 +1,19 @@
+RULES APPLICABLE TO RECOGNISED CLEARING HOUSES
+
+4.1
+
+Introduction
+
+4.1.1
+
+This chapter contains additional Recognition Requirements applicable Recognised Clearing Houses.
+
+4.1.2
+
+The Rules in this chapter are intended to be consistent with the CPSS-IOSCO Principles for Financial Market Infrastructures. All Recognised Clearing Houses should comply with such principles.
+
+4.1.3
+
+Requirements applicable to a Recognised Clearing House that is providing Central Counterparty Services are set out in the following Rules:
+
+(a)

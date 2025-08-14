@@ -1,0 +1,29 @@
+Treatment of structural foreign exchange positions
+
+A2.1.7
+
+An Authorised Person in Category 1 or 5 which has assumed a position in order to hedge partially or totally against the adverse effect of the exchange rate on its Capital Resources, in respect of an asset or any other item, may exclude such a position from the calculation of its net open foreign exchange positions subject to the following:
+
+(a)
+
+the position is of a non-dealing nature;
+
+(b)
+
+the position does no more than protect the Capital Resources of the Authorised Person; and
+
+(c)
+
+any exclusion of the position is applied consistently, with the treatment of the hedge remaining the same for the life of the asset or other item.
+
+A2.1.8
+
+In calculating its net open foreign exchange positions, an Authorised Person may exclude any foreign exchange position related to:
+
+(a)
+
+items which are included as deductions from T1 Capital or deductions from T2 Capital, such as investments in unconsolidated subsidiaries; and
+
+(b)
+
+associated companies and joint ventures, denominated in foreign currencies, which are reported in the published accounts of an Authorised Person at historic cost.

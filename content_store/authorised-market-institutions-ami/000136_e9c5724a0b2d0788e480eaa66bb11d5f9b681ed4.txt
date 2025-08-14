@@ -1,0 +1,17 @@
+the date and manner of settlement of the transaction.
+
+4.
+
+In addition to the DFSA requirements in this module and in GEN, the requirements in the Data Protection Law, DIFC Law No. 5 of 2020, apply to an Authorised Market Institution. Therefore, in complying with the DFSA requirements relating to record keeping, an Authorised Market Institution should consider its obligations under this law.
+
+Safeguarding and administration of assets
+
+An Authorised Market Institution must ensure that, where its obligations include making provision for the safeguarding and administration of assets belonging to Members and other participants on its facilities:
+
+(a)
+
+satisfactory arrangements (“safe custody arrangements”) are made for that purpose in accordance with Rules 5.10.2 and 5.10.3; and
+
+(b)
+
+are provided on clear terms of agreement between the Members and other participants on the facility and the Authorised Market Institution.

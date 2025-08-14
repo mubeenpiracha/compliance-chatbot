@@ -1,0 +1,13 @@
+Definition
+
+Means the origin of customer's funds which relate to a Transaction or service and includes how such funds are connected to a customer's Source of Wealth.
+
+Means how the customer's global wealth or net worth is or was acquired or accumulated.
+
+Has the meaning given in section 258 of FSMR.
+
+Means a report in the prescribed format regarding suspicious activity, including a suspicious Transaction, made to the FIU via goAML.
+
+Means financial Sanctions issued by the UNSC or the UAE against specific individuals, entities or groups in order to combat terrorism, terrorist financing and the proliferation of WMD, including those listed on the Local Terrorist List or the UNSC Consolidated List on this basis. Financial Sanctions include asset freezing and prohibitions on making funds or other assets or services directly or indirectly available for the benefit of the target of the relevant Sanctions.
+
+Means any transaction undertaken by a Relevant Person for or on behalf of a customer in the course of carrying on a business in or from ADGM.

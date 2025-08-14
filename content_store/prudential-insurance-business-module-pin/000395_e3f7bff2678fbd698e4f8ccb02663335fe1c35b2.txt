@@ -1,0 +1,27 @@
+section.
+
+A10.5.2 The Statement by Directors forming part of the Annual Regulatory Return must
+
+state that:
+
+(a)
+
+the Annual Regulatory Return has been prepared in accordance with the provisions of PIN chapter 6, this appendix, PRU chapter 3 and the DFSA’s electronic prudential reporting system;
+
+(b)
+
+proper Accounting Records have been maintained and adequate information obtained by the Insurer;
+
+(c)
+
+appropriate systems and controls have been established and maintained by the Insurer over its transactions and records;
+
+(d)
+
+the Insurer has complied with the provisions of PIN chapter 4 throughout the reporting period; and
+
+(e)
+
+the Insurer complies, as at the date of the statement, with those provisions of PIN that are applicable to it.
+
+A10.5.3 The Statement by Directors forming part of the Quarterly Regulatory Return must

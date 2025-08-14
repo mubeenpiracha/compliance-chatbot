@@ -1,0 +1,11 @@
+The DIFC Court.
+
+A swap or Option, which has a payout linked to changes in an underlying Reference Asset’s creditworthiness and protects the Protection Buyer against the risk of credit loss over a specified time period with the payout being conditional on some form of Credit Event.
+
+An over the counter financial Derivative instrument, which enables the isolation and separate transfer of Credit Risk and whose payout is linked to changes in the Reference Assets’ creditworthiness.
+
+An event related to the creditworthiness of Reference Assets or Reference Entities in a Credit Derivatives contract, which triggers the termination or a payout under the contract.
+
+17
+
+GLO/VER62/07-25

@@ -1,0 +1,27 @@
+10.
+
+Liabilities with matching interdependent assets.
+
+11. Other liabilities are the sum of rows 12 and 13.
+
+12.
+
+In the unweighted cells, report NSFR derivatives liabilities as calculated according to section 9.4 of App 9. There is no need to differentiate by maturities. The weighted value under NSFR derivative liabilities is cross-hatched given that it will be zero after the 0% ASF Factor is applied.
+
+13. All other liabilities and equity not included in above categories.
+
+14.
+
+Total ASF is the sum of all weighted values in rows 1, 4, 7, 10 and 11.
+
+431
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+15.
+
+Total HQLA as defined in section A9.2 in App 9 (encumbered and unencumbered), without regard to LCR operational requirements and LCR caps on Level 2 and Level 2B assets that might otherwise limit the ability of some HQLA to be included as eligible in calculation of the LCR, where:
+
+a. encumbered assets include assets backing securities or covered bonds; and

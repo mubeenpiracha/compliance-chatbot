@@ -1,0 +1,13 @@
+Guidance
+
+1.
+
+This section sets out the conditions under which an Authorised Firm is permitted to use an internal model to calculate its Market Risk Capital Requirement or any component of its Market Risk Capital Requirement other than its Credit Valuation Adjustment Risk Capital Requirement. An Authorised Firm that wishes to use an internal model to calculate any part of this requirement is required to apply to the DFSA. Internal models will commonly permit more extensive Netting of long and short positions and have greater risk sensitivity.
+
+2.
+
+In assessing whether to give approval, the DFSA will consider an Authorised Firm’s risk management standards; the quantitative model standards; the stress-testing and back-testing standards and the process surrounding the calculation of the appropriate regulatory Capital Requirement.
+
+3.
+
+The DFSA will usually only give its approval for the use of an internal risk model if:

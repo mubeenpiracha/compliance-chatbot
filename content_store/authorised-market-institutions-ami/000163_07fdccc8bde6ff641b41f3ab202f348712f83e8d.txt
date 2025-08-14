@@ -1,0 +1,23 @@
+Guidance
+
+To satisfy the DFSA of the matters referred to in Rule 5A.3.2, an Authorised Market Institution should, as a minimum, be able to demonstrate that it has effective procedures built into its DLT or similar technology application being used that enable:
+
+a.
+
+the clear identification of each Direct Access Member accessing its facility to trade; and
+
+b.
+
+the monitoring of bid and offer prices and volatility for any indications of market manipulation or abuse.
+
+5A.3.3 When an Authorised Market Institution Executes a Transaction in Investment Tokens for a Direct Access Member, the Authorised Market Institution must
+
+47
+
+AMI/VER28/03-25
+
+AUTHORISED MARKET INSTITUTIONS (AMI)
+
+comply with the requirements relating to confirmation notes that would apply to an Authorised Firm under COB section 6.9 and COB App 3 section A3.1.
+
+5A.4

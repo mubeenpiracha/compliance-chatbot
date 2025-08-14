@@ -1,0 +1,25 @@
+Financial Group Capital Requirements and Financial Group Capital Resources
+
+Guidance
+
+By Rule 8.1.1(2), this section applies to an Authorised Firm in Category 1, 2 (other than a Matched Principal) or 5.
+
+(1)
+
+The other Rules in section 8.3 do not apply to an Authorised Firm if:
+
+(a)
+
+the Authorised Firm’s Financial Group is already the subject of Financial Group prudential supervision by the DFSA as a result of the authorisation of another Financial Group member;
+
+(b)
+
+the DFSA has confirmed in writing, in response to an application from the Authorised Firm, that it is satisfied that the Authorised Firm’s Group is the subject of consolidated prudential supervision by an appropriate regulator; or
+
+(c)
+
+except where the DFSA has directed the inclusion of an entity pursuant to Rule 8.1.2, the percentage of total assets of Authorised Firms and Financial Institutions in the Financial Group is less than 40% of the total Financial Group assets.
+
+(2)
+
+If an Authorised Firm receives confirmation in writing from the DFSA in accordance with (1)(b), it must immediately advise the DFSA in writing if the circumstances upon which the confirmation was based change.

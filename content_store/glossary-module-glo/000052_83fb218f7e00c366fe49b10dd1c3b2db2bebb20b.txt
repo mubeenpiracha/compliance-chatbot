@@ -1,0 +1,21 @@
+DIFC Registrar of Companies
+
+The registrar of companies appointed pursuant to the Companies Law.
+
+DIFC Scheme
+
+Means an Employee Money Purchase Scheme that is established in the DIFC.
+
+Digital Wallet
+
+A software application or other tool which is used to control, safeguard or manage public and private cryptographic keys (or their equivalent) associated with Investment Tokens or Crypto Tokens.
+
+Digital Wallet Service Provider
+
+(1) In relation to an Investment Token, has the meaning
+
+given in COB Rule 14.3.1(a); and
+
+(2) In relation to a Crypto Token, has the meaning
+
+given in COB Rule 15.4.1.

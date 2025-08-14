@@ -1,0 +1,13 @@
+Inside Information relating directly or indirectly to a Security Token may include matters arising due to the use of Distributed Ledger Technology that are capable of having a significant effect on the price of the Security Token. Such matters may, for example, include an interruption due to the creation of a ‘fork’ on the DLT or it becoming the target of a cyber- attack. A Reporting Entity for a Security Token must ensure that its systems and controls for the identifying, controlling and handling Inside Information are adequate and will operate effectively should such matters arise, including through appropriate disclosure to markets.
+
+Delaying disclosure
+
+6.5.2 For the purposes of Article 41(5) of the Law, a Reporting Entity of a Listed Fund may delay market disclosure of Inside Information so as not to prejudice its legitimate interests provided that:
+
+(a)
+
+the delay is not likely to mislead the markets; and
+
+(b)
+
+if the information is to be selectively disclosed to a Person prior to market disclosure, it is made in accordance with the requirements in Rule 6.5.3.

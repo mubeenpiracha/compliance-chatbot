@@ -1,0 +1,35 @@
+where the Financial Instrument does not fall within the meaning of a liquid market, and are dealt within a percentage of a suitable reference price, being a percentage and a reference price set in advance by the Recognised Investment Exchange; or
+
+subject to conditions other than the current market price of that Financial Instrument, being;
+
+A.
+
+a transaction related to an individual Financial Instrument in a portfolio trade; or
+
+B.
+
+a volume weighted average price transaction.
+
+(c)
+
+orders that are large in scale compared with normal market size, as set out in Rule 3.5.11; or
+
+(d)
+
+orders held in an order management facility of the Recognised Investment Exchange pending disclosure.
+
+3.5.8
+
+For Financial Instruments not covered by Rule 3.5.7, waivers may be granted by the Regulator for any of the following:
+
+(a)
+
+orders that are large in scale compared with normal market size;
+
+(b)
+
+orders held in an order management facility of the Recognised Investment Exchange pending disclosure; or
+
+(c)
+
+Financial Instruments for which there is not a liquid market.

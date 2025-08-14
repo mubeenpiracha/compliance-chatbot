@@ -1,0 +1,19 @@
+Payment Transaction
+
+Has the meaning given in section 258 of FSMR.
+
+Penal Code
+
+Means Federal Law No. (31) of 2021 (the Penal Code of the UAE).
+
+Person
+
+Means a person and includes any Natural Person, Body including a Legal Corporate or body unincorporated, Person, unincorporated Partnership, company, association, government or state.
+
+PNMR
+
+Means partial name match report to be filed via goAML in the prescribed format.
+
+Politically Exposed Person (PEP)
+
+Means a Natural Person, and includes where relevant a family member or close associate, who is or has been entrusted with a prominent public function, including but not limited to, a head of state or of government, senior officials and international or supranational organisation, senior politician, senior government, judicial or military official, ambassador, senior executive of a state owned corporation, or an important

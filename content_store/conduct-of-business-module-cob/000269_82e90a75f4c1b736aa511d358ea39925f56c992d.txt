@@ -1,0 +1,9 @@
+3. The DFSA expects an Insurance Broker which holds itself out to a Client as acting ‘independently’ for the Client to be able to demonstrate its independence to the DFSA. Factors that the DFSA would take into account when assessing if an Insurance Broker has acted independently include whether that broker: (a) has assessed a sufficiently large number of insurance products available on the market, and those products are sufficiently diverse in terms of their types and the issuers, to be able to suit the Client’s needs and objectives;
+
+(b)
+
+is free to select insurance products from a sufficiently large number of insurers – for example, if a broker has close links with insurers, or exclusivity clauses in arrangements with insurers whose products they can select, the broker may not be able to claim it is independent; and
+
+(c) has disclosed clearly to the Client all commissions and other economic benefits it or a
+
+Group member receives from insurers with whom it places insurance.

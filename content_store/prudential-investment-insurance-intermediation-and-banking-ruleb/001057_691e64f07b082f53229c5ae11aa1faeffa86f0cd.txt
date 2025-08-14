@@ -1,0 +1,15 @@
+e.
+
+recovery rate volatility, as it relates to the propensity for recovery rates to affect tranche prices;
+
+f.
+
+to the extent the comprehensive risk measure incorporated benefits from dynamic hedging, the risk of hedge slippage and the potential costs of rebalancing such hedges; and
+
+g.
+
+any other material price risks of positions in the correlation trading portfolio.
+
+An Authorised Person should use sufficient market data within the model referred to in Guidance note 1 in order to ensure that it fully captures the salient risks of those Exposures in its internal approach in accordance with the requirements set out in this guidance in A6.9.3. It should be able to demonstrate to the Regulator through back testing or other appropriate means that its model can appropriately explain the historical price variation of those products.
+
+The Authorised Person should have appropriate policies and procedures in place in order to separate the positions for which it holds permission to incorporate them in the Capital Requirement in accordance with this guidance in A6.9.3 from other positions for which it does not hold such permission.

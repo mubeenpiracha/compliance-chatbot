@@ -1,0 +1,9 @@
+a description of the key elements which may affect the ETF’s ability to track fully the relevant index or benchmark, including, but not limited to, transaction costs, illiquid segments, and dividend re-investment;
+
+(i)
+
+in the case of a synthetic ETF using Derivatives to replicate the performance of an index or other benchmark:
+
+(i) whether the ETF uses a funded or unfunded model to replicate the
+
+performance of the specified index or benchmark;

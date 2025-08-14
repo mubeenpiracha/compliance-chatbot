@@ -1,0 +1,11 @@
+j.
+
+any data protection, security and other risks which may be adversely affected by the geographical location of an outsourcing service provider. To this end, Specific Risk management expertise in assessing country risk related, for example, to political or legal conditions, could be required when entering into and managing outsourcing arrangements that are taken outside of the home country.
+
+6.9
+
+Business continuity and disaster recovery
+
+Guidance
+
+See GEN chapter 5 regarding requirements relating to an Authorised Firm’s business continuity and disaster recovery arrangements.

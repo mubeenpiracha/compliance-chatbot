@@ -1,0 +1,23 @@
+If an Authorised Market Institution proposes to make new custody arrangements or make any material changes to its existing custody arrangements, such changes trigger the prior DFSA approval requirements in Rule 4.3.2. This requirement would be triggered, for example, if the appointed custodians at the time of the grant of the Licence had not used sub-custodians but subsequently propose to do so.
+
+Promotion and maintenance of standards
+
+Orderly conduct on facilities
+
+An Authorised Market Institution must have an effective market surveillance program to:
+
+41
+
+AMI/VER28/03-25
+
+5.11.2
+
+AUTHORISED MARKET INSTITUTIONS (AMI)
+
+(a)
+
+ensure that business conducted on or through its facilities is conducted in an orderly manner and in accordance with the applicable Business Rules and other applicable requirements so as to afford proper protection to investors; and
+
+(b)
+
+monitor for conduct which may amount to Market Abuse, financial crime or money laundering.

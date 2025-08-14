@@ -1,0 +1,33 @@
+Add-on for transactions in the equity asset class
+
+A4.8.10 (1) An Authorised Firm must divide the transactions of each hedging set of the equity asset class into different categories with each category containing all the transactions referencing the same entity or index.
+
+(2) An Authorised Firm must calculate the add-on for hedging set ‘j’ of the equity asset
+
+class, AddOnj
+
+EQ, using the following formula:
+
+AddOnj
+
+EQ = √(∑ρk
+
+EQ
+
+2 EQ)
+
+AddOnk
+
++∑(1 − (ρk
+
+2 EQ)
+
+) ∙ (AddOnk
+
+2 EQ)
+
+k
+
+k
+
+where:

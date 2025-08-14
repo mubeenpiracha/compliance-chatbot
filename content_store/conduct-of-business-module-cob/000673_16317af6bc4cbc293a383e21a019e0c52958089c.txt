@@ -1,0 +1,23 @@
+(ii)
+
+all other Distribution Events, payment must be made in accordance with the direction of the DFSA.
+
+Guidance
+
+A Segregated Client would not have a valid claim over Client Money held in a Client Account if that Client Account was not established to hold Client Money for that Client.
+
+A5.13.3 Following a Distribution Event, an Authorised Firm must sell all Collateral and use
+
+the proceeds of the sale to satisfy claims made in accordance with Rule A5.13.2
+
+A5.14 Failure to comply with this appendix
+
+A5.14.1 An Authorised Firm which becomes aware that it does not comply with any Rule in
+
+this appendix must, within one day, give notice of that fact to the DFSA.
+
+215
+
+COB/VER48/03-25
+
+CONDUCT OF BUSINESS (COB)

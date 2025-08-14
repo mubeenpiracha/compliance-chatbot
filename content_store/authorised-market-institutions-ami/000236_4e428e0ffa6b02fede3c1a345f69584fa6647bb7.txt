@@ -1,0 +1,25 @@
+Application
+
+(1)
+
+This chapter applies, subject to (3), to an Authorised Market Institution Operating a Clearing House and an applicant for such a Licence.
+
+(2)
+
+In this chapter, a reference to a “Clearing House” is a reference to a Person in (1), except where specific reference is made to:
+
+(a)
+
+a Central Counterparty (CCP);
+
+(b)
+
+a Securities Settlement System (SSS); or
+
+(c)
+
+a Central Securities Depository (CSD).
+
+(3)
+
+Specific references in this chapter to a Clearing House undertaking any of the functions specified in (2)(a) to (c) apply only in respect of that function.

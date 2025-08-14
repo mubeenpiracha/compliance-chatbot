@@ -1,0 +1,13 @@
+(3)
+
+Every Captive Insurer that is required by Rule 2.3.2 or Rule 2.3.3 to complete a Regulatory Return must complete a Global Return. A Global Return has the following characteristics:
+
+(a)
+
+subject to Rule 2.3.5(3)(b), a Global Return includes all of the assets, liabilities, equity, revenues and expenses of the Captive Insurer, regardless of the residency status or location of the Captive Insurer, of the customer or of any asset or liability; and
+
+(b)
+
+the Global Return of a Cell Company does not include any assets, liabilities, equity revenues or expenses that are attributable to a Captive Cell.
+
+(4)

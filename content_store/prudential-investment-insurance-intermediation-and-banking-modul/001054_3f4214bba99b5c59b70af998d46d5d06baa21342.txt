@@ -1,0 +1,27 @@
+A5.6 Option Risk Capital Requirement
+
+Guidance
+
+Section A5.6 presents the method for the calculation of Option Risk Capital Requirement for the purpose of Rule 5.8.1(b).
+
+A5.6.1 An Authorised Firm which calculates its Option Risk Capital Requirement in
+
+accordance with Rule 5.8.1(b) must apply the Rules in this section.
+
+Calculation of Option Risk Capital Requirement
+
+A5.6.2 (1)
+
+An Authorised Firm may use the Simplified Approach set out in Rule A5.6.3 to calculate its Option Risk Capital Requirement only if:
+
+(a)
+
+it does not write options; or
+
+(b) where it writes options, all written options are hedged by perfectly
+
+matched long positions in exactly the same options.
+
+(2)
+
+An Authorised Firm which writes options must, unless (1) applies, use the advanced approach known as the Delta-plus method set out in Rule A5.6.5 to calculate its Option Risk Capital Requirement.

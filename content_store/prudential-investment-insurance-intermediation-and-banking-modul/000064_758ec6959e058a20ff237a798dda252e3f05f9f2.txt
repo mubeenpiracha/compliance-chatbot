@@ -1,0 +1,15 @@
+Leverage Ratio Exposure Measure
+
+The value of an Authorised Firm’s exposures calculated in accordance with Rule 3.18.3 to determine its Leverage Ratio.
+
+Liquidity Coverage Ratio (LCR)
+
+The amount expressed as a percentage that is calculated in accordance with Rule 9.3.5 and section A9.2 of App 9.
+
+Liquidity Risk
+
+The risk of loss to an Authorised Firm as a result of inability to meet its obligations as they fall due.
+
+Market Risk
+
+The risk of loss that arises from fluctuations in the values of, or income from, assets or in interest or exchange rates.

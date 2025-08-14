@@ -1,0 +1,11 @@
+(b)
+
+the time the price and allocation of the issue are set.
+
+5.10.5 Where the issue price has not been fixed, an Authorised Firm must use the highest estimate of the price and its allocation for the purpose of calculating its initial gross commitment.
+
+5.10.6
+
+If an Authorised Firm has at its discretion an irrevocable right to withdraw from an Underwriting commitment, exercisable within a certain period, the commitment commences when that right expires.
+
+5.10.7 An Authorised Firm must calculate its Securities Underwriting Risk Capital

@@ -1,0 +1,11 @@
+Trade Exposure of a client to a clearing member
+
+A4.9.7 Where an Authorised Person is a client of a clearing member, and enters into a transaction with the clearing member acting as an intermediary between the Authorised Person and a CCP, it must calculate Credit RWA in respect of its Trade Exposure to the clearing member as if it were a Trade Exposure to a QCCP provided all the conditions in Rule A4.9.8 are satisfied.
+
+A4.9.8
+
+For the purposes of Rule A4.9.7 above, the following conditions must be met:
+
+(a)
+
+the clearing member's offsetting transaction with a QCCP is identified by the QCCP as a client transaction and collateral to support it is held by the QCCP and/or the clearing member, as applicable, under arrangements that would prevent any losses to the Authorised Person due to: (i) the default or insolvency of the clearing member, (ii) the default or insolvency of the clearing member's other clients; and (iii) the joint default or insolvency of the clearing member and any of its other clients;

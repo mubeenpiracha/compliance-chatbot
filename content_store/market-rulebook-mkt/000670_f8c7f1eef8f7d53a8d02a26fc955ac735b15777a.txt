@@ -1,0 +1,27 @@
+DEFINITIONS
+
+[Provide definitions if necessary.]
+
+CONTACT INFORMATION
+
+WHO CAN YOU CONTACT IF YOU HAVE ENQUIRIES RELATING TO OUR OFFER?
+
+HOW DO YOU CONTACT US? [Provide contact details of Issuer, distributor(s)/underwriter(s) and/or issue manager(s) whom investors can contact if they have enquiries. Include a website address and email address, if appropriate.]
+
+253
+
+MKT VER09.020125
+
+APP 8 RESTRICTED SECURITIES
+
+A8.1
+
+Determination of Restricted Securities
+
+A8.1.1
+
+This table forms part of Rule 9.6.5.
+
+Terms used in this APP 8, and not otherwise defined in GLO, shall mean the following:
+
+Relevant Service Provider A Person (or an associate of a Person) who provides a service to the Applicant (or a Related Party of the Applicant) in connection with the Applicant’s application for admission to the Official List, or in connection with the offer of Securities by the Issuer/Listed Entity.

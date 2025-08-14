@@ -1,0 +1,19 @@
+a commercial undertaking.
+
+3.4
+
+Rules Applicable to Recognised Investment Exchanges that are also MTF or OTF Operators, and rules on Trade Repositories, Accepted Spot Commodities and Specified Benchmarks
+
+3.4.1
+
+A Recognised Investment Exchange may carry on the Regulated Activity of operating an MTF or OTF provided that its Recognition Order includes a stipulation permitting it to do so. If it does include such a stipulation, the specific rules on MTFs and OTFs in COBS will apply to that function, but that function only.
+
+3.4.2
+
+A Recognised Investment Exchange operating an MTF or an OTF, must also operate a market that complies with the Recognition Requirements.
+
+3.4.3
+
+A Recognised Investment Exchange may also act as a Trade Repository if its Recognition Order includes a stipulation permitting it to do so. Acting as a Trade Repository will result in it being subject to the additional conduct requirements in Appendix 2 of GEN.
+
+3.4.4

@@ -1,0 +1,3 @@
+Guidance
+
+The effect of Rule A8.3.2 is to provide flexibility for Insurers whose investments are managed on a pooled basis within a Group, or which establish specialist Subsidiaries to manage their investments. While the Insurer's asset in such cases is a balance with, or investment in, a Related entity, this Rule permits the Insurer to 'look through' the corporate arrangement and apply this appendix to the assets of the Related entity as though they were the Insurer's own. This flexibility extends to Invested Assets attributable to Long-Term Insurance Funds, though this provision does not provide any exemption from Rule 3.4 in respect of segregation of assets.

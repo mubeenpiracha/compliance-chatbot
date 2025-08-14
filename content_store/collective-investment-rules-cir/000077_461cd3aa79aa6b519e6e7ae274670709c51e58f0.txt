@@ -1,0 +1,39 @@
+an Execution-Only Transaction undertaken for or on behalf of a Client;
+
+(b)
+
+a trade executed for or on behalf of a Client in accordance with a Discretionary Portfolio Management Agreement entered into with that Client; or
+
+(c)
+
+effected with the Fund Manager of a Fund for the purposes of redeeming a Unit of that Fund for or on behalf of a Client.
+
+A Person does not make an Offer of a Unit if that Person is an Authorised Firm and the Offer is made only to, or directed only at, a Market Counterparty.
+
+A Person does not make an Offer of a Unit if:
+
+(a)
+
+the Unit is of a Passported Fund;
+
+(b)
+
+the DIFC is a Host Jurisdiction in relation to the Passported Fund;
+
+(c)
+
+the Person making the Offer is the Fund Manager of the Fund, its Agent or another Licensed Person; and
+
+20
+
+CIR/VER38/08-24
+
+(d)
+
+COLLECTIVE INVESTMENT RULES (CIR)
+
+the Offer is made in accordance with the offer requirements in the Home Jurisdiction of the Fund, including relevant Fund Protocol rules or regulations.
+
+21
+
+CIR/VER38/08-24

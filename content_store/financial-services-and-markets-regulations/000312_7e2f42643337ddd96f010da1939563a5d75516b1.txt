@@ -1,0 +1,25 @@
+114 Amended 8 August 2023.
+
+113
+
+(b)
+
+the disposition is made in accordance with the Default Rules of a Recognised Clearing House or Remote Clearing House for the purposes of transferring a position or Asset of a Clearing Member in Default; 115or
+
+(c)
+
+the Court directs otherwise.
+
+(9)
+
+Any sum recoverable by virtue of subsection (8) ranks for priority, in the event of the insolvency of the person from whom it is due, immediately before preferential debts.
+
+(10)
+
+In a case falling within both subsection (7) (as a disposition of property as a result of which the property becomes subject to a Collateral Security Arrangement) and section 160(2) (as the provision of margin in relation to a Market Contract), section 160(3) applies with respect to the recovery of the amount or value of the margin and subsection (8) does not apply.
+
+169. Power to make provision about certain other Charges
+
+(1)
+
+The Regulator may by Rules provide that the Insolvency Regulations have effect in relation to Charges of such descriptions as may be Specified, and action taken in enforcing them, subject to such provisions as may be Specified.116

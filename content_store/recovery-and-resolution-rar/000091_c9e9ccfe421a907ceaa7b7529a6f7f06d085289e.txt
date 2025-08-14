@@ -1,0 +1,27 @@
+a Deposit of an Eligible Depositor;
+
+(c)
+
+any liability that arises by virtue of the holding of Client Assets, to the extent such Client Assets are protected under DIFC Law;
+
+(d)
+
+any liability that arises by virtue of a fiduciary relationship between the Authorised Firm (as fiduciary) and another person
+
+29
+
+RAR/VER1/04-20
+
+RECOVERY AND RESOLUTION (RAR)
+
+(as beneficiary) provided that such beneficiary's interests are protected under DIFC law;
+
+(e)
+
+unsecured liabilities to other financial institutions excluding entities that are part of the same Group, with an original maturity of less than seven days;
+
+(f)
+
+liabilities owed to payment systems, Central Counterparties, Securities Settlement Systems, Central Securities Depositories, or their operators or their participants and arising from the participation in any such system; or
+
+(g)

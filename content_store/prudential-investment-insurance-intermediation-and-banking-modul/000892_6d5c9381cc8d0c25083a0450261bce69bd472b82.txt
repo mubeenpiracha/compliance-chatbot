@@ -1,0 +1,39 @@
+where:
+
+IR =
+
+Dj,k
+
+the effective notional amount for maturity bucket ‘k’ of hedging set ‘j’, calculated in accordance with (5)
+
+(4) By way of derogation from (3), an Authorised Firm may calculate the effective IR, by aggregating the effective notional
+
+notional amount for hedging set ‘j’, EffNotj amounts of each maturity bucket using the following formula:
+
+EffNotj
+
+IR = |Dj,1
+
+IR| +|Dj,2
+
+IR| IR| +|Dj,3
+
+where:
+
+IR =
+
+Dj,k
+
+the effective notional amount for maturity bucket ‘k’ of hedging set ‘j’, calculated in accordance with (5)
+
+(5) For the purpose of (3) and (4), an Authorised Firm must calculate the effective
+
+notional amount of bucket ‘k’ of hedging set ‘j’, Dj,k
+
+IR, using the following formula:
+
+288
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)

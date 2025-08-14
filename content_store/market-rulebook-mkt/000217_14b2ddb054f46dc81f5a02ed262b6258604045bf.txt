@@ -1,0 +1,17 @@
+6.2.5 Conditions for trading
+
+(1)
+
+Insofar as prices are concerned, the Listed Entity must not, when executing trades under a Buy-back Programme, purchase Shares at a price higher than the higher of the price of the last independent trade and the highest current independent bid on the trading venues where the purchase is carried out.
+
+(2)
+
+If the trading venue is not a Recognised Investment Exchange, the price of the last independent trade or the highest current independent bid taken in reference shall be the one of the Recognised Investment Exchange.
+
+(3)
+
+Where the Listed Entity carries out the purchase of own Shares through Derivatives, the exercise price of those Derivatives shall not be above the higher of the price of the last independent trade and the highest current independent bid.
+
+(4)
+
+Insofar as volume is concerned, the Listed Entity must not purchase more than 25% of the average daily volume of the Shares in any one day on the Recognised Investment Exchange on which the purchase is carried out.

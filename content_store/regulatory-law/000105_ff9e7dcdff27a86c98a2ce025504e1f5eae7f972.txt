@@ -1,0 +1,41 @@
+44A. Regulation of Crypto Tokens
+
+The DFSA may make Rules for the purposes of regulating Tokens including, without limitation:
+
+(a)
+
+prescribing when a Token is a Crypto Token;
+
+(b)
+
+prescribing a Crypto Token to be a financial product for the purposes of Article 41A or Article 41B;
+
+(c)
+
+prescribing when an activity relating to a Crypto Token constitutes a Financial Service;
+
+(d)
+
+prohibiting specified activities from being carried on in relation to a Crypto Token unless the DFSA has recognised the Crypto Token (a “Recognised Crypto Token”);
+
+(e)
+
+prescribing the criteria to be satisfied, including the matters to be considered by the DFSA, for the recognition of a Crypto Token under (d);
+
+(f)
+
+prescribing circumstances in which the DFSA may revoke the recognition of a Crypto Token;
+
+(g)
+
+prescribing requirements relating to the offer of Crypto Tokens;
+
+31
+
+(h)
+
+prescribing requirements that a person must comply with when carrying on activities relating to Crypto Tokens;
+
+(i)
+
+prohibiting activities relating to a Crypto Token or other related device that has specified features or is used, or intended to be used, for specified purposes;

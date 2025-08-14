@@ -1,0 +1,27 @@
+the DFSA a fee of $20,000.
+
+12
+
+FER/VER33/07-25
+
+3
+
+3.1
+
+3.1.1
+
+3.2
+
+3.2.1
+
+FEES MODULE (FER)
+
+ANNUAL FEES
+
+Authorised Firms (initial period)
+
+(1) An Authorised Firm must pay to the DFSA the initial annual fee specified in (2) for the initial period of regulation between the date of the grant of its Licence and the end of the year.
+
+(2)
+
+The initial annual fee is the fee which was payable under section 2.1 at the time of its application for the Licence (disregarding any fee payable under Rule 2.1.1(3)), multiplied by the number of whole calendar months between the date of the grant of the Licence and the end of the year divided by 12.

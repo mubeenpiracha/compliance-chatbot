@@ -1,0 +1,29 @@
+CCF
+
+Credit conversion factor
+
+CCP
+
+Central Counterparty
+
+CCR Exposure
+
+The Exposure value or amount for a Counterparty Credit Risk Exposure.
+
+CET1
+
+Common equity tier 1
+
+CET1 Capital
+
+Has the meaning given in section 3.13.
+
+8
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+Clean-Up Call
+
+An option that permits the SE Exposures (e.g. asset- backed Securities) to be called before all of the underlying Exposures or SE Exposures have been repaid. In the case of Traditional Securitisations, this is generally repurchasing accomplished by remaining SE the Exposures once the pool balance or outstanding Securities have fallen below some specified level. In the case of a synthetic Exposure, the Clean-Up Call may take the form of a clause that extinguishes the credit protection.

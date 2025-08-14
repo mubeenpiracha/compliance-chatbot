@@ -1,0 +1,45 @@
+(c)
+
+it has in place a process to prioritise and remedy adverse testing outcomes.
+
+Guidance
+
+1.
+
+An Authorised Person should use a range of methods to test its IT Systems and Networks and processes and controls, including:
+
+a.
+
+vulnerability assessments;
+
+b.
+
+scenario-based testing;
+
+c.
+
+penetration tests; and
+
+d.
+
+red team exercises,
+
+depending on the outcome of the Authorised Person’s cyber risk assessment under Rule 5.5.5(2).
+
+2.
+
+The frequency with which an Authorised Person should carry out testing will depend on the nature, scale and complexity of its business. For some Authorised Persons it may be adequate to test annually but for others it may be necessary to carry out tests more frequently. The DFSA expects additional tests to be carried out whenever systems are updated or new systems are implemented, including when systems are changed to address any vulnerabilities that have been identified during testing.
+
+Detection, response and recovery
+
+102
+
+GEN/VER67/03-25
+
+GENERAL (GEN)
+
+5.5.16 (1)
+
+An Authorised Person must continuously monitor its IT Systems and Networks with a view to detecting:
+
+(a)

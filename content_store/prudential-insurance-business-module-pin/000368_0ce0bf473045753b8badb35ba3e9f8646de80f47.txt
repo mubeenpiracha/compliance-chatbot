@@ -1,0 +1,23 @@
+A8.9 Size factor component
+
+Guidance
+
+The effect of the size factor component is to provide a relatively higher capital requirement in respect of Long-Term Insurance Funds with smaller portfolios of Invested Assets. The provisions in this section apply the relevant provisions of section A 4.9 to each Long-Term Insurance Fund that an Insurer maintains.
+
+A8.9.1 The base figure for the size factor component is determined by aggregating the
+
+following components, for the Long-Term Insurance Fund:
+
+(a)
+
+the aggregate of the default components determined in accordance with section A 8.4, in respect of Invested Assets;
+
+(b)
+
+the investment volatility risk component determined in accordance with section A8.5; and
+
+(c)
+
+the concentration risk component determined in accordance with section A 8.8.
+
+A8.9.2 An Insurer must calculate the size factor component in respect of Long-Term Insurance Fund by multiplying the base figure for that fund as determined in accordance with Rule A8.9.1 by the factor derived by applying the following formula, where x represents the total Invested Assets attributable to that fund, expressed in millions of dollars:

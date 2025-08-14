@@ -1,0 +1,29 @@
+(ii)
+
+in the event of the Authorised Firm’s insolvency, winding up or other Distribution Event stipulated by the DFSA, the Client’s Money will be subject to the DFSA’s Client Money Distribution Rules;
+
+(c)
+
+whether interest is payable to the Client and, if so, on what terms;
+
+(d)
+
+if applicable, that the Client Money may be held in a jurisdiction outside the DIFC and the market practices, insolvency and legal regime applicable in that jurisdiction may differ from the regime applicable in the DIFC;
+
+(e)
+
+if applicable, details about how any Client Money arising out of Islamic Financial Business are to be held;
+
+211
+
+COB/VER48/03-25
+
+CONDUCT OF BUSINESS (COB)
+
+(f)
+
+if applicable, that the Authorised Firm holds or intends to hold the Client Money in a Client Account with a Third Party Agent which is in the same Group as the Authorised Firm; and
+
+(g)
+
+details of any rights which the Authorised Firm may have to realise Client Money held on behalf of the Client in satisfaction of a default by the Client or otherwise, and of any rights which the Authorised Firm may have to close out or liquidate contracts or positions in respect of any of the Client’s Investments or Crypto Tokens.

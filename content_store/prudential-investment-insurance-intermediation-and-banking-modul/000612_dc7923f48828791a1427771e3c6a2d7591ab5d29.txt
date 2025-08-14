@@ -1,0 +1,9 @@
+k.
+
+the degree of granularity employed (for example, offsets within a time bucket); and
+
+l.
+
+whether all future cash flows or only principal balances are included.
+
+Systems and controls for Non-Trading Book interest rate risk

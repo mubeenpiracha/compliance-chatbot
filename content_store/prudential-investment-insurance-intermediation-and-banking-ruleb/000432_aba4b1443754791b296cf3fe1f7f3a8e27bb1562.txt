@@ -1,0 +1,5 @@
+Operational requirements for use of external credit assessments
+
+4.14.20 The external credit assessment used for determining the applicable risk weight for a CR Exposure must be determined by taking into account the entire amount of Credit Risk (principal and interest) an Authorised Person is exposed to.
+
+4.14.21 Credit assessments can only be considered from an ECAI, and must meet the following

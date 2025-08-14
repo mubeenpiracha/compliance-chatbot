@@ -1,0 +1,31 @@
+Crypto Token
+
+A2.5.1 (1)
+
+A token is a Crypto Token if it:
+
+(a)
+
+is used, or is intended to be used, as a medium of exchange or for payment of investment purposes; or
+
+(b)
+
+confers a right or interest in another Token that meets the requirements in (a).
+
+(2)
+
+A Token is not a Crypto Token under (1) if it is:
+
+(a)
+
+an Excluded Token; or
+
+(b)
+
+an Investment Token or any other type of Investment.
+
+187
+
+GEN/VER67/03-25
+
+GENERAL (GEN)

@@ -1,0 +1,29 @@
+82 Amended 21 February 2018.
+
+87
+
+(b)
+
+the main characteristics of the OTC Derivative Contracts, including their type, underlying maturity, notional value, price, and settlement date.
+
+147. Non-Financial counterparties
+
+(1)
+
+Where a Non-Financial Counterparty takes positions in OTC Derivative Contracts and those positions exceed the Clearing threshold as specified under subsection (3), that Non-Financial Counterparty shall—
+
+(a)
+
+immediately notify the Regulator;
+
+(b)
+
+become subject to the clearing obligation for future contracts if the rolling average position over 30 Business Days exceeds the threshold; and
+
+(c)
+
+clear all relevant future contracts within four months of becoming subject to the clearing obligation.
+
+(2)
+
+A Non-Financial Counterparty that has become subject to the clearing obligation in accordance with subsection (1)(b) and that subsequently demonstrates to the Regulator that its rolling average position over 30 Business Days does not exceed the clearing threshold, shall no longer be subject to the clearing obligation.

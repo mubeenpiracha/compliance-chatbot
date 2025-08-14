@@ -1,0 +1,9 @@
+(d)
+
+include a system for controlling and managing Non-Trading Book interest rate risk which enables it to comply with the overall risk management standards expected of an Authorised Firm and ensure continued compliance with the Rules in PIB.
+
+(3)
+
+An Authorised Firm must identify the Non-Trading Book interest rate risk impact of any new product, activity or service that it proposes to start and ensure that such impacts are duly addressed with adequate controls before the new product or activity is undertaken or introduced.
+
+(4)

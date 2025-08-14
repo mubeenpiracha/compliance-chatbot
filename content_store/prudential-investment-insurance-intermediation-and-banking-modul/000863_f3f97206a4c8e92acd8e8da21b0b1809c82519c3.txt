@@ -1,0 +1,15 @@
+[Deleted]
+
+A4.6 Credit RWA - Unsettled Transactions
+
+A4.6.1 This section applies to all securities, foreign exchange instruments and commodities transactions that give rise to a risk of delayed settlement or delivery including:
+
+(a) any transaction through a recognised clearing house that is subject to daily mark- to-market and payment of daily variation margins and that involves a mismatched trade;
+
+but excluding;
+
+(b) any transaction that is subject to the treatment in section 4.14A; and
+
+(c)
+
+any SFT.

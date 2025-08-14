@@ -1,0 +1,15 @@
+Facility ("MTF") or an Organised Trading Facility ("OTF").
+
+58
+
+COBS VER19.290725
+
+8.2
+
+Rules Applicable to MTF and OTF Operators – General
+
+8.2.1
+
+In addition to the general requirements applicable to Authorised Persons in COBS, GEN and elsewhere in the Rules, an Authorised Person carrying on the Regulated Activity of Operating an MTF (an "MTF Operator") or an Authorised Person carrying on the Regulated Activity of Operating an OTF (an “OTF Operator”) must comply with the following requirements applicable to a Recognised Body or Recognised Investment Exchange set out in the MIR rulebook, reading references to Recognised Bodies or Recognised Investment Exchanges in the relevant rules as if they were references to the MTF Operator or OTF Operator:
+
+(a)

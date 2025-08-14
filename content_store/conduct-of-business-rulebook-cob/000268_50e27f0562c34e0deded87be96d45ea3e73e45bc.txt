@@ -1,0 +1,19 @@
+in connection with a Delivery Versus Payment Transaction where:
+
+(i)
+
+in respect of a Client purchase, Client Money from the Client will be due to the Authorised Person within one day upon the fulfilment of a delivery obligation; or
+
+87
+
+COBS VER19.290725
+
+(ii)
+
+in respect of a Client sale, Client Money will be due to the Client within one day following the Client's fulfilment of a delivery obligation.
+
+14.5.2 An Authorised Person must pay Client Money received by it of the type described in 14.5.1(b) or (c) into a Client Account where the Authorised Person has not fulfilled its delivery or payment obligation within three days of receipt of the Money or the Investments, unless, in the case of the Client’s sale of Investments, the Authorised Person instead safeguards equivalent Client Investments at least equal to the value of such Client Money.
+
+14.5.3 An Authorised Person must maintain adequate records of all cheques and payment orders received in accordance with Rule 14.5.1(a) including, in respect of each payment:
+
+(a)

@@ -1,0 +1,33 @@
+a.
+
+the cumulative risk arising from multiple defaults, including different ordering of defaults, in tranched products;
+
+384
+
+PRU VER17.290725
+
+4.
+
+5.
+
+6.
+
+b.
+
+credit spread risk, including the Gamma and cross-Gamma effects;
+
+c.
+
+volatility of implied correlations, including the cross effect between spreads and correlations;
+
+d.
+
+basis risk, including both of the following:
+
+i.
+
+the basis between the spread of an index and those of its constituent single names; and
+
+ii.
+
+the basis between the implied correlation of an index and that of bespoke portfolios;

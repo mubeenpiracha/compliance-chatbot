@@ -1,0 +1,29 @@
+Guidance
+
+1.
+
+For the purposes of Rule 4.13.5 and 4.13.6, eligible financial Collateral excludes any T1 Capital instrument or T2 Capital instrument issued by any entity in the Financial Group of the Authorised Person, which is held by the Authorised Person or any of its Financial Group entities as Collateral.
+
+2.
+
+For an Authorised Person using Units of a Fund under the FCSA approach, the use or potential use by that Fund of Derivative instruments solely to hedge Investments listed in Rule 4.13.5 should not preclude the Units in that Fund from being recognised as eligible financial Collateral.
+
+4.13.6
+
+For an Authorised Person using the FCCA, eligible financial Collateral comprises:
+
+(a)
+
+any instrument listed in Rule 4.13.5;
+
+(b)
+
+any equity Security (including a convertible bond) that is traded on a regulated exchange; and
+
+(c)
+
+any Unit in a Collective Investment Fund which invests in equity Securities referred to in (b), where:
+
+(i)
+
+a price for the Units is publicly quoted daily; and

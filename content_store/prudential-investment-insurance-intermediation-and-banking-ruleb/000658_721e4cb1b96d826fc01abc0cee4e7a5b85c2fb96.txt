@@ -1,0 +1,9 @@
+Guidance
+
+The Trading Book treatment for such Exposures is set out in Rule A4.7.
+
+A2.1.10 Where the conditions under Rule A2.1.9 are not met, an Authorised Person must, subject to Rule A2.1.3, include an Exposure arising under a repurchase agreement, reverse repurchase agreement, Securities and commodities borrowing or Securities and commodities lending in its Non-Trading Book.
+
+Guidance
+
+The Non-Trading Book treatment for such Exposures is set out in Rules in A4.8 and A4.9.

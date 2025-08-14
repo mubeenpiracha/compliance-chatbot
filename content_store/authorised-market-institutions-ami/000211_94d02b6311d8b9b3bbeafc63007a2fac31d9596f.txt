@@ -1,0 +1,15 @@
+h.
+
+control of messaging traffic: Members should have control of messaging traffic to the Exchange particularly to ensure any messaging limits imposed by the Exchange on the Members are not exceeded. Messaging limits are limits imposed by an Exchange on its Members for the transmission of orders such as buy or sell to ensure that the Exchange’s capacity to deal with such orders is not exceeded.
+
+Error Trade policy
+
+(1)
+
+An Exchange must be able to cancel, amend or correct any Error Trades.
+
+(2)
+
+An Error Trade is the execution of an order resulting from:
+
+(a)

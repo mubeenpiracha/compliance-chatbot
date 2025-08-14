@@ -1,0 +1,19 @@
+AT1 Deductions - significant investment in a Relevant Entity
+
+3.11.8
+
+(1)
+
+For the purposes of Rule 3.11.4(c), an Authorised Person must calculate the applicable amount to be deducted by multiplying the amount referred to in (a) by the factor derived from the calculation referred to in (b):
+
+(a)
+
+the amount referred to in Rule 3.10.16(1)(a);
+
+(b)
+
+the amount of direct and indirect holdings by the Authorised Person of the AT1 Capital instruments of Relevant Entities divided by the aggregate amount of all direct and indirect holdings by the Authorised Person of the CET1, AT1 and T2 Capital instruments of those Relevant Entities.
+
+(2)
+
+An Authorised Person must exclude Underwriting positions held for in five working days or Rule 3.10.16(1)(a) and from the calculation of the factor referred to in (1)(b).

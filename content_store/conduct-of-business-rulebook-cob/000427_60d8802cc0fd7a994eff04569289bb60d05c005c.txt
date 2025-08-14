@@ -1,0 +1,13 @@
+(4)
+
+The Credit Value Date for a credit under (3) must be no later than the date on which the amount was debited.
+
+(5)
+
+If the Payer’s Payment Service Provider proves that the Payee’s Payment Service Provider received the amount of the Payment Transaction in accordance with Rule 19.15.2, the Payee’s Payment Service Provider is liable to the Payee for the correct execution of the Payment Transaction and must:
+
+(a)
+
+immediately make available the amount of the Payment Transaction to the Payee; and
+
+(b)

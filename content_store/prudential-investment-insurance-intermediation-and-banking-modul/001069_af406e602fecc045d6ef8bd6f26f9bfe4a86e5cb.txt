@@ -1,0 +1,27 @@
+A5.7.2 An Authorised Firm must calculate its Collective Investment Fund Risk Capital
+
+Requirement by:
+
+(a)
+
+identifying all applicable positions in Funds within the scope of the requirement, including notional positions derived from certain instruments;
+
+(b)
+
+identifying the positions in Funds which will be subject to the risk Capital Requirements specified under this section;
+
+(c)
+
+converting on a daily basis net positions in every Fund to the Authorised Firm’s base currency at the prevailing spot foreign exchange rate;
+
+(d)
+
+calculating a Collective Investment Fund Risk Capital Requirement for each individual position in a Fund; and
+
+(e)
+
+summing the resultant Capital Requirements calculated in (d).
+
+A5.7.3 (1)
+
+For the purposes of Rule A5.7.2, an Authorised Firm must calculate its Collective Investment Fund Risk Capital Requirement for all Trading Book positions in Funds, unless they are covered under one of the Fund look through methods and included in the risk Capital Requirement calculations for the relevant underlying Investments or subject to an Option Risk Capital Requirement.

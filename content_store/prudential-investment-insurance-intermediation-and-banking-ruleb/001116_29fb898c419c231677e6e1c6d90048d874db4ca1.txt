@@ -1,0 +1,21 @@
+Total Net Cash Outflows over the next 30 calendar days
+
+=
+
+Total expected cash outflows
+
+Min (total expected cash inflows, 75% of total expected cash outflows)
+
+(2)
+
+Total expected cash outflows are calculated by multiplying the outstanding balances of various categories or types of liabilities and off-balance sheet commitments by the rates at which they are expected to run off or be drawn down.
+
+(3)
+
+Total expected cash inflows are calculated by multiplying the outstanding balances of various categories of contractual receivables by the rates at which they are expected to flow in.
+
+(4)
+
+To ensure a minimum level of HQLA holdings at all times, total cash inflows are subject to an aggregate cap of 75% of total expected cash outflows.
+
+A10.2.14 An Authorised Person must not double-count items. That is, for assets included as part of the eligible stock of HQLA, the associated cash inflows arising from such assets must not be counted as cash inflows for the purpose of calculating the net cash outflows over the next 30 calendar days.

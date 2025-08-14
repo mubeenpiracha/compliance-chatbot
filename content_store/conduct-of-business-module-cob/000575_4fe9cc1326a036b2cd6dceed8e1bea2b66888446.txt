@@ -1,0 +1,19 @@
+(j)
+
+the risks relating to the volatility and unpredictability of the price of the Crypto Token;
+
+(k)
+
+in the case of a Fiat Crypto Token, details about the reserves backing the Fiat Crypto Token and the stabilisation and redemption mechanisms;
+
+(l)
+
+cybersecurity risks associated with the Crypto Token or its underlying technology, including whether there is a risk of loss of the Crypto Token in the event of a cyberattack, and details of steps that have been, or can be taken to mitigate those risks;
+
+(m)
+
+the risks relating to fraud, hacking and financial crime; and
+
+(n)
+
+any other information relevant to the Crypto Token that would reasonably assist the Client to understand the Crypto Token and whether to invest in the Crypto Token, or use the service being offered to the Client.

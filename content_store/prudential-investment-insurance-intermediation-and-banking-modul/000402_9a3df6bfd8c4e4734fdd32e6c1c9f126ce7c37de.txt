@@ -1,0 +1,23 @@
+parties and legally enforceable in all relevant jurisdictions;
+
+(b)
+
+there is no material positive correlation between the credit quality of the Counterparty and the employed Credit Risk mitigation technique or with the resulting residual risk; and
+
+(c)
+
+the Authorised Firm complies with the Rules set out in this section, as applicable.
+
+128
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+(2)
+
+Where the calculation of Credit RWA already takes into account the Credit Risk mitigant, the provisions of this section do not apply.
+
+(3)
+
+An Authorised Firm must, where it uses a specific Credit Risk mitigation technique for the purposes of calculating Credit RWA, use the same technique for Large Exposure reduction, where it is permitted and chooses to use mitigation under the requirements in chapter 4.

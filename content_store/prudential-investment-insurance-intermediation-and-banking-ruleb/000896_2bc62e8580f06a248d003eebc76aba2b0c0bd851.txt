@@ -1,0 +1,11 @@
+A5.2 Scope
+
+A5.2.1
+
+(1)
+
+Subject to (2), an Authorised Person must calculate its capital requirement for CVA risk in accordance with this Appendix for all OTC Derivative Contracts in respect of all of its business activities, other than Credit Derivatives recognised to reduce risk-weighted exposure amounts for Credit Risk.
+
+(2)
+
+Subject to the written approval of the Regulator, an Authorised Person whose aggregate notional amount of OTC Derivatives is less than or equal to US $100 billion may choose to set its capital requirement for CVA risk as equal to 100% of its capital requirement for Counterparty Credit Risk, where this treatment must be applied to the entire portfolio of the Authorised Person and CVA hedges are not recognised.

@@ -1,0 +1,27 @@
+Time
+
+Initial commitment to working day 0 Working day 0 Working day 1 Working day 2 Working day 3 Working day 4 Working day 5 Working day 6 onwards
+
+Reduction factor to be applied to net Underwriting position 100% 100% 90% 75% 75% 50% 25% 0%
+
+371
+
+PRU VER17.290725
+
+Guidance
+
+The effect of the Rule and the table above is that there is no concentration limit for net Underwriting.
+
+Exposures between initial commitment and the end of working day 0.
+
+Risk management
+
+A6.8.15
+
+(1)
+
+An Authorised Person must take reasonable steps to establish and maintain such systems and controls to monitor and manage its Underwriting and sub-Underwriting business as are appropriate to the nature, scale and complexity of its Underwriting and sub-Underwriting business.
+
+(2)
+
+In particular, an Authorised Person must have systems to monitor and control its Underwriting Exposures between the time of the initial commitment and working day one in the light of the nature of the risks incurred in the markets in question.

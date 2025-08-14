@@ -1,0 +1,37 @@
+The Financial Group Capital Adequacy Report must state:
+
+(a)
+
+the name of the Insurer;
+
+(b)
+
+the reference date of the report;
+
+(c)
+
+the name, location and activity of the Parent entity of the Financial Group in respect of which the report is made;
+
+(d)
+
+the Financial Group Capital Resources, calculated in accordance with Rule 8.3.5;
+
+(e)
+
+the Financial Group Capital Requirement, calculated in accordance with Rule 8.3.4;
+
+(f)
+
+the amount of surplus or deficit, expressed as the amount in (d) minus the amount in (e);
+
+(g)
+
+a list of all Financial Institutions and other Persons whose activities are primarily financial in nature in the Financial Group;
+
+(h)
+
+if any Authorised Person in the Financial Group is itself a Parent, the items referred to in (d), (e) and (f) in respect of the Financial Group headed by that Authorised Person; and
+
+(i)
+
+particulars of any Authorised Person, Financial Institutions or other Persons whose activities are primarily financial in nature in the Financial Group in respect of which the capital requirement calculated in accordance with Rule 8.3.4 exceeds its Capital Resources or Adjusted Capital Resources calculated in accordance with Rule 8.3.5(1)(b).

@@ -1,0 +1,31 @@
+(ii)
+
+Payment Transactions through a Payment Instrument;
+
+(iii)
+
+credit transfers between bank accounts, including standing orders;
+
+(c)
+
+issuing Payment Instruments;
+
+(d)
+
+Selling or issuing Stored Value;
+
+(e)
+
+receiving money or monetary value for transmission by means of a Payment Instrument to a location within or outside Abu Dhabi Global Market;
+
+(f)
+
+the transferring of a Fiat-Referenced Token for the purpose of effecting a Payment Transaction;
+
+(g)
+
+enabling the settlement of a Payment Transaction effected through the transfer of a Fiat-Referenced Token;
+
+(h)
+
+the operation of a Payment Account to hold and safeguard Fiat-Referenced Tokens held for the purpose of effecting a Payment Transaction.

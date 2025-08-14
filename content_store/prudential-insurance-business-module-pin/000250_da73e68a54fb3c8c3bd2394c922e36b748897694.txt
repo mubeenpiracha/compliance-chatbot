@@ -1,0 +1,23 @@
+AMRC
+
+Insurer’s asset management risk component.
+
+A4.2.2 The methods of calculation of the components referred to in Rule A4.2.1 are set out
+
+in sections A4.4, A4.5, A4.6, A4.7, A4.8, A4.9, A4.10, A4.11, A4.12 and A4.13.
+
+A4.2.3 An Insurer’s Minimum Capital Requirement must always be equal to or higher than:
+
+(a)
+
+in the case of a Class 1 Captive Insurer, $ 150,000;
+
+(b)
+
+in the case of a Class 2 Captive Insurer, $ 500,000 or if a higher amount is specified under Rule A4.2.4, that amount;
+
+(c)
+
+in the case of a Class 3 Captive Insurer, $ 1,000,000; and
+
+(d)

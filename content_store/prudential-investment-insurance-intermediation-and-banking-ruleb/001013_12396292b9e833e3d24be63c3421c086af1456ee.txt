@@ -1,0 +1,9 @@
+Large Exposures risk from Underwriting Securities: Calculating the net Underwriting Exposure
+
+A6.8.11 For Large Exposures purposes, the total amount of an Authorised Person's Trading Book Exposures to any Person must include net Underwriting Exposure to that Person.
+
+A6.8.12 An Authorised Person must include any other Exposures arising out of Underwriting (including any Counterparty Exposures to any sub-underwriters) for the purposes of calculating the total amount of its Trading Book Exposures to a Person for Large Exposures purposes.
+
+A6.8.13 An Authorised Person, before entering into a new Underwriting commitment, must be able to recalculate the Counterparty Credit Risk capital component to the level of detail necessary to ensure that the firm's Capital Resources Requirement does not exceed the firm's Capital Resources.
+
+A6.8.14 An Authorised Person must calculate the net Underwriting Exposure to an Issuer by applying the relevant reduction factors in the table below to its net Underwriting position calculated under Rule A6.8.6.

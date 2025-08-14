@@ -1,0 +1,29 @@
+Guidance
+
+The Maturity Mismatch approach measures an Authorised Firm’s liquidity by assessing the mismatch between its inflows (assets) and outflows (liabilities) within different timebands on a Maturity Ladder.
+
+9.3.10
+
+(1)
+
+An Authorised Firm in Category 1 or 5 must use the Maturity Mismatch approach, as set out in this section, to measure liquidity.
+
+222
+
+PIB/VER50/07-25
+
+9.3.11
+
+9.3.12
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+(2)
+
+When using the Maturity Mismatch approach, an Authorised Firm must determine the net cumulative Maturity Mismatch position for each time band by:
+
+(a) determining, in accordance with the Rules in sections A9.3 of App9, the inflows (assets), outflows (liabilities), liquid assets and funding capacity which are to be included in the relevant time bands in the Maturity Ladder; and
+
+(b)
+
+subtracting outflows (liabilities) from inflows (assets) in each time band, and adding the eligible assets, in accordance with section A9.3 of App 9.

@@ -1,0 +1,19 @@
+standard supervisory haircuts; or
+
+(b)
+
+own-estimate haircuts.
+
+A4.3.4
+
+[Reserved]
+
+A4.3.5
+
+(1)
+
+As an alternative to the use of standard supervisory haircuts or own-estimate haircuts, an Authorised Person may, subject to approval by the Regulator, use VaR models to reflect the price volatility of the Exposure and Collateral for SFTs which are covered by a qualifying bilateral Netting agreement. The requirements relating to the use of this approach are set out in Section A4.5.
+
+(2)
+
+An Authorised Person may seek the approval from the Regulator referred to in (1) only if it has already received approval from the Regulator to use the internal models approach for calculating the Market Risk Capital Requirement.

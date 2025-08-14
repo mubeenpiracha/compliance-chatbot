@@ -1,0 +1,21 @@
+Requirements for use of VaR models
+
+A4.5.1
+
+An Authorised Person using VaR models must:
+
+286
+
+PRU VER17.290725
+
+(a)
+
+use a minimum holding period of ten business days except in the case of an SFT, for which it must use a minimum holding period of five business days;
+
+(b)
+
+backtest its output by:
+
+(i)
+
+identifying a sample of twenty Counterparties, on an annual basis, which must include the ten largest Counterparties as determined by the Authorised Person according to its own Exposure measurement approach and ten others selected at random;

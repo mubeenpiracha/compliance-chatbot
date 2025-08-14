@@ -1,0 +1,43 @@
+Guidance
+
+1.
+
+The use of techniques to reduce or transfer Credit Risk may simultaneously increase other risks (residual risks) which include legal, operational, liquidity and Market Risks. The Regulator expects an Authorised Person to employ methods to identify and control these risks, including:
+
+a.
+
+strategy;
+
+b.
+
+consideration of the underlying credit;
+
+c.
+
+valuation;
+
+d.
+
+policies and procedures;
+
+e.
+
+systems;
+
+f.
+
+control of roll-off risks; and
+
+g.
+
+management of any Large Exposures and other concentration risks, e.g. sectoral or geographic, arising from the use of CRM and the interaction of such risk with the overall Credit Risk profile of the Authorised Person.
+
+2.
+
+In order to fulfil the above, an Authorised Person should ensure a clearly articulated strategy for the use of CRM as an intrinsic part of the general credit strategy of an Authorised Person.
+
+3.
+
+Where an Exposure is subject to CRM, credit managers should continue to assess the Exposure on the basis of the obligor's creditworthiness. Credit managers should obtain and analyse sufficient financial information to determine the obligor's risk profile and its management and operational capabilities.
+
+4.

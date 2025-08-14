@@ -1,0 +1,9 @@
+Guidance
+
+A prime broker is a Person who provides to a Fund a range of services including custody and depository services, trading and execution services, clearing and settlement services and financing to support the Fund’s investment activities. Such financing activities generally include stock lending and borrowing. The restrictions in Rules A1.3.1(c) and (f) of Appendix 1 (App 1) prevent a Fund Manager of a Hedge Fund from authorising a prime broker to commingle the assets of the Fund with any other assets held by or available to the prime broker and use those assets as collateral to support the prime broker’s cross lending and borrowing activities involving Funds to which it acts as the prime broker. However, the restrictions in A1.3.2(c) and (f) do not apply if a Fund Manager of a Hedge Fund can comply with the requirements relating to the use of prime brokers set out in Rule 13.6.3.
+
+(1)
+
+The Fund Manager of a Hedge Fund must ensure functional separation and independence between:
+
+(a)

@@ -1,0 +1,27 @@
+Securitisation
+
+A4.10.1 An Authorised Person which is an Originator or a Sponsor of a Traditional Securitisation may exclude securitised Exposures from the calculation of Credit RWA amounts only if all of the following conditions have been complied with:
+
+(a)
+
+except as provided in (g), (i) and (k), significant Credit Risk associated with the securitised Exposures has been transferred from the Originator to third parties;
+
+(b)
+
+the Authorised Person does not maintain effective or indirect control over the underlying Exposures;
+
+(c)
+
+the assets are legally isolated from the Authorised Person in order to ensure the assets are beyond the reach of the Authorised Person in the event of bankruptcy or receivership;
+
+(d)
+
+the Securities issued are not the obligations of the Authorised Person;
+
+(e)
+
+the Securities are issued pursuant to the securitisation by an SPE and the holders of the beneficial interests in that entity have the right to pledge or exchange them without restriction;
+
+(f)
+
+where a securitisation includes a Clean-Up Call, Clean-Up Calls must satisfy the conditions set out in Rule A4.10.3.

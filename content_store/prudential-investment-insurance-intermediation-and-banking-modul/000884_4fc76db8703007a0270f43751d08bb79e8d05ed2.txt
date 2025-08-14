@@ -1,0 +1,25 @@
+(i) energy;
+
+(ii) metals;
+
+(iii) agricultural; and
+
+(iv) other commodities,
+
+unless the DFSA requires the Authorised Firm to use more refined definitions of commodities when it is significantly exposed to the basis risk of different products within those commodity types.
+
+(2) Within each asset class an Authorised Firm must form separate hedging sets for
+
+transactions that reference:
+
+285
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+(a)
+
+the basis between two risk factors from the same asset class and that are denominated in a single currency (‘Basis Transactions’); or
+
+(b)

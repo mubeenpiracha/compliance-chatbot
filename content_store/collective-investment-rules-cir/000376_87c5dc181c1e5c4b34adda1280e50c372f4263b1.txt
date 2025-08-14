@@ -1,0 +1,37 @@
+Rules in section 14.6.
+
+Guidance
+
+1. An External Fund Manager must also comply with the requirements in this chapter, because it is managing a Domestic Fund (i.e. a Fund established or domiciled in the DIFC- See Article 13(2)(a) of the Law).
+
+2. A Fund that is an Incorporated Cell of an Incorporated Cell Company (i.e. a Fund on a Fund Platform) will be a Domestic Fund as the Incorporated Cell is established under the DIFC Companies Law and the ICC Regulations.
+
+General Requirements relating to Prospectuses
+
+(1)
+
+The Prospectus must not contain any provision which is unfairly prejudicial to the interests of Unitholders generally or to the Unitholders of any class of Units.
+
+(2)
+
+For the purposes of the information that must be included in a Prospectus pursuant to Article 52 of the Law:
+
+(a)
+
+such information must be material information; and
+
+(b)
+
+information is material if it is either:
+
+(i)
+
+within the knowledge of the Directors or partners of the Fund Manager; or
+
+126
+
+CIR/VER38/08-24
+
+14.2.2
+
+COLLECTIVE INVESTMENT RULES (CIR)

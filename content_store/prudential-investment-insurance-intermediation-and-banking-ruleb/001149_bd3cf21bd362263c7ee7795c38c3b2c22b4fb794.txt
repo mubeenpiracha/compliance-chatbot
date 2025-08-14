@@ -1,0 +1,5 @@
+Guidance
+
+1. When determining the maturity of a liability or a capital instrument, investors should be assumed to redeem a call option at the earliest possible date available to them. For funding with options exercisable at the discretion of an Authorised Person, the Regulator will take into account reputational factors that may limit the ability of the Authorised Person not to exercise the option. In particular, where the market expects certain liabilities to be redeemed before their legal final maturity date, Authorised Persons and the Regulator should assume such behaviour for the purpose of calculating the NSFR and include these liabilities in the corresponding ASF category.
+
+A10.4.8

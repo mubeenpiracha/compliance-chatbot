@@ -1,0 +1,17 @@
+e.
+
+changes in the liquidity of key financial markets or changes in the volatility of market rates; and
+
+204
+
+PRU VER17.290725
+
+f.
+
+changes in key business assumptions and parameters such as the correlation between two currencies. in assumptions used for illiquid instruments and instruments with uncertain contractual maturities help understanding of an Authorised Person's risk profile.
+
+In particular, changes
+
+5.
+
+An Authorised Person should consider the standards for stress testing recommended in the paper published by the BCBS Standards - Interest rate risk in the banking book (April 2016) – in developing the stress testing scenarios. In particular, an Authorised Person should include the technical specifications of a standardised interest rate shock detailed in Annex 2 of that paper.

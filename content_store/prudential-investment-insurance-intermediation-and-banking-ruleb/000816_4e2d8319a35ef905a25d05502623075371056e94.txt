@@ -1,0 +1,21 @@
+Step 1
+
+A4.6.40 The effective notional is calculated in accordance with the following formula:
+
+(𝐼𝑅) = ∑ 𝛿𝑖 ∗ 𝐷𝑗𝑘 𝑖∈(𝐶𝑐𝑦𝑗,𝑀𝐵𝑘)
+
+(𝐼𝑅) ∗ 𝑀𝐹𝑖 𝑑𝑖
+
+(𝑡𝑦𝑝𝑒)
+
+where:
+
+i ε (Ccyj, MBk) refers to trades of currency j that belong to maturity bucket k.
+
+Guidance
+
+The effect of this formula is that the effective notional for each time bucket and currency is the sum of the trade-level adjusted notional amounts multiplied by the supervisory delta adjustments and the maturity factor.
+
+Step 2
+
+A4.6.41 The Authorised Person must aggregate across maturity buckets for each hedging set

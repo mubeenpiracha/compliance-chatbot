@@ -1,0 +1,23 @@
+CCFs for off-balance sheet CR Exposures
+
+A4.2.1 The applicable CCFs for off-balance sheet CR Exposures are provided in the table
+
+below.
+
+269
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+Description of Off-balance Sheet Item
+
+CCF
+
+(a) Direct credit substitutes, in particular general guarantees of indebtedness (including standby letters of credit servicing as financial guarantees for loans and securities) and acceptances (including endorsements with the character of acceptances)
+
+100%
+
+(b) Asset sales with recourse, where the Credit Risk remains
+
+100%

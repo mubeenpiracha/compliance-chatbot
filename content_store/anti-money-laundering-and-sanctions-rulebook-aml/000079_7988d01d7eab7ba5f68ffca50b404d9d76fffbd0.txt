@@ -1,0 +1,15 @@
+The RBA should not be seen as a "tick-box" approach to AML/TFS. Instead a Relevant Person is required to assess relevant money laundering risks and adopt a proportionate response to such risks, however, even where a customer is assessed through the RBA as being low-risk a minimum of simplified CDD must be undertaken in relation to that customer.
+
+4.
+
+In adopting an RBA, a Relevant Person should continue to meet the requirements that are mandated under the AML Rulebook including:
+
+Confidential
+
+27
+
+AML VER10.020125
+
+(a)
+
+assessing the relevant money laundering risks in accordance with Chapter 6 or Chapter 7 of AML (as applicable);

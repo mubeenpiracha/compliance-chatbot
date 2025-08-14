@@ -1,0 +1,13 @@
+The DFSA may remove a Recognised Crypto Token from the Initial List under Rule 3A.4.1(6). The procedures in Schedule 3 of the Regulatory Law apply to such a decision, however, the opportunity to make representations under that Schedule are required to be provided only to an Authorised Person (if any) that operates a MTF or Clearing House for the Crypto Token being removed. No right is provided under the Rules for a Person to refer the decision to the Financial Markets Tribunal for review.
+
+3A.5 Recognised Jurisdictions
+
+DFSA may recognise jurisdictions
+
+3A.5.1 (1)
+
+The DFSA may recognise a jurisdiction as having a regulatory regime for Crypto Tokens that is equivalent to the DFSA’s regime if it is satisfied that:
+
+(a)
+
+the legislation in that jurisdiction for regulating Crypto Tokens, and Persons conducting activities or services relating to Crypto Tokens, includes requirements and protections that are at least equivalent to the requirements and protection under the DFSA’s regulatory regime for Crypto Tokens and Crypto

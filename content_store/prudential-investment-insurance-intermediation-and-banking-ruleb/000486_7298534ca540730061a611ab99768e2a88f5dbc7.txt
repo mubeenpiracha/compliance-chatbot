@@ -1,0 +1,15 @@
+a.
+
+implement a comprehensive Market Risk management framework to manage, measure and monitor Market Risk commensurate with the nature, scale and complexity of the firm's operations; and
+
+b.
+
+calculate the Market Risk Capital Requirement and hold the same.
+
+3.
+
+The Chapter allows the use of standard pre-defined methodologies for estimating the Capital Requirement and also allows the use of internal models approved by the Regulator to calculate a firm's Market Risk Capital Requirement. The Chapter covers Rules for determining Market Risk Capital Requirement on Exposures involving interest rate risk, equity risk, foreign exchange risk, commodities risk, Options risk, Collective Investment Fund risk and Securities Underwriting risk.
+
+4.
+
+App6 provides requirements, parameters, calculation methodologies and formulae in respect of the primary requirements outlined in Chapter 5. App6 also provides detailed guidance on criteria for approval of internal models for calculation of Market Risk Capital Requirement, incorporation of incremental risk charges in internal models, if allowed and guidance on the required level of stress testing.

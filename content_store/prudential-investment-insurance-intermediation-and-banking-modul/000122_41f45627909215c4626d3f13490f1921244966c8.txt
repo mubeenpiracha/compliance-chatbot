@@ -1,0 +1,15 @@
+Systems and controls
+
+Guidance
+
+For the purposes of section 3.2, an Authorised Firm is required to have systems and controls in place to enable it to be certain that it has adequate Capital Resources to comply with Rule 3.2.3 at all times. An Authorised Firm’s systems and controls should be such as to allow it to demonstrate its capital adequacy at any particular time if required to do so by the DFSA. Where through the operation of those systems and controls an Authorised Firm forms the view that it may not be able to satisfy the requirements of Rule 3.2.3 in the future, that Authorised Firm is required to immediately inform the DFSA in accordance with Rule 3.2.5.
+
+3.2.4 An Authorised Firm that is a Branch must:
+
+(a)
+
+ensure that it has and maintains, at all times, liquid assets and access to financial resources which are adequate in relation to the nature, size and complexity of its business to ensure that there is no significant risk that liabilities cannot be met as they fall due;
+
+(b)
+
+ensure that it complies with its home state Financial Services Regulator’s prudential requirements;

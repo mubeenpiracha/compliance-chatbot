@@ -1,0 +1,41 @@
+an Investment;
+
+(b)
+
+a Deposit;
+
+(c)
+
+a Profit Sharing Investment Account;
+
+22
+
+GEN/VER67/03-25
+
+GENERAL (GEN)
+
+(d)
+
+a right under a contract of Long-Term Insurance, that is not a contract of reinsurance;
+
+(e)
+
+a right under an Employee Money Purchase Scheme;
+
+(f)
+
+a right or interest in a pension, superannuation, retirement or gratuity scheme or arrangement, or a broadly similar scheme or arrangement; or
+
+(g)
+
+a Crypto Token.
+
+Guidance
+
+1.
+
+As a ‘financial product’ is defined in Rule 2.11.1(4) to include rights under a contract of Long-Term Insurance (other than a contract of reinsurance), advice on contracts of Long-Term Insurance will fall within Advising on Financial Products.
+
+2.
+
+An ‘Insurance Aggregation Site’ is defined in GLO. In summary, it is a website or other form of electronic media that provides a facility for a user to search for, and then to conclude, directly or indirectly, a Contract of Insurance. The site may, for example, enable the user to conclude a Contract of Insurance:

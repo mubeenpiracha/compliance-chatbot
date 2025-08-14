@@ -1,0 +1,31 @@
+a Non-Fungible Token (NFT);
+
+(b)
+
+a Utility Token; or
+
+(c)
+
+a digital currency issued by any government, government agency, central bank or other monetary authority.
+
+Non-Fungible Token (NFT)
+
+A2.5.3 A Token is a Non-Fungible Token (NFT) if it:
+
+(a)
+
+is unique and not fungible with any other Token;
+
+(b)
+
+related to an identified asset; and
+
+(c)
+
+is used to prove the ownership or provenance of the asset.
+
+188
+
+GEN/VER67/03-25
+
+GENERAL (GEN)

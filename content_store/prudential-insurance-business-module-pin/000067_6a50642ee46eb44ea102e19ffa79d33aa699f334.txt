@@ -1,0 +1,19 @@
+cell companies
+
+4.3.1
+
+This section applies only to Insurers that are not Protected Cell Companies.
+
+4.3.2
+
+An Insurer that is not a Protected Cell Company must always have Adjusted Capital Resources equal to or higher than the amount of its Minimum Capital Requirement.
+
+4.3.3
+
+An Insurer’s Adjusted Capital Resources must be calculated in accordance with App3.
+
+4.3.4
+
+An Insurer’s Minimum Capital Requirement must be calculated in accordance with App4.
+
+4.4 Minimum capital requirement for insurers that are protected cell

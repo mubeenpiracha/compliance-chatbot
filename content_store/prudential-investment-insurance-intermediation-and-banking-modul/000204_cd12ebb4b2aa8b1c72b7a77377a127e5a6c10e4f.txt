@@ -1,0 +1,39 @@
+(i) Qualifying Holdings;
+
+(ii)
+
+securitisation positions, in accordance with relevant Rules in chapter 4; and
+
+(iii)
+
+free deliveries, in accordance with the Rules in section A4.6; and
+
+(k)
+
+for an Authorised Firm which is a Partnership or Limited Liability Partnership, the amount by which the aggregate of the amounts withdrawn by its partners or members exceeds the profits of that firm.
+
+62
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+CET1 deductions relating to intangible assets
+
+3.13.8 For the purposes of Rule 3.13.7(b), an Authorised Firm must determine the intangible
+
+assets to be deducted in accordance with the following:
+
+(a)
+
+the amount to be deducted must be reduced by the amount of associated deferred tax liabilities that would be extinguished if the intangible assets became impaired or were derecognised under the International Financial Reporting Standards; and
+
+(b)
+
+the amount to be deducted must include goodwill included in the valuation of significant investments of the Authorised Firm.
+
+CET1 deductions relating to deferred tax assets
+
+3.13.9
+
+(1)

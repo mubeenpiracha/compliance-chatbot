@@ -1,0 +1,55 @@
+4.12 Risk weights
+
+Exposures to central governments and Central Banks
+
+4.12.1 Subject to Rule 4.12.2, an Authorised Firm must risk-weight any Exposure to a central
+
+government or a Central Bank in accordance with the following table:
+
+108
+
+PIB/VER50/07-25
+
+4.12.2
+
+4.12.3
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+Credit Quality Grade Risk Weight
+
+1
+
+0%
+
+2
+
+20%
+
+3
+
+50%
+
+4
+
+100%
+
+5
+
+100%
+
+6
+
+150%
+
+Unrated
+
+100%
+
+(1) An Authorised Firm may apply a 0% risk weight to any Exposure to the central government or the Central Bank of the U.A.E. which is denominated and funded in the domestic currency.
+
+(2) For the purposes of (1), the government of an individual Emirate of the U.A.E.
+
+will be treated as a central government.
+
+(3) An Authorised Firm may apply a 0% risk weight to any Exposure to a central

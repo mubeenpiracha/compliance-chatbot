@@ -1,0 +1,17 @@
+Treat as an exposure
+
+Treat as an exposure with a risk-weight of 1000%
+
+A4.6.12 An Authorised Person must treat an Exposure in accordance with the relevant
+
+provisions of Chapter 4.
+
+A4.6.13
+
+If the Authorised Person considers the total amount of the exposures resulting from free delivery transactions to be immaterial it may apply a risk weight of 100% to these exposures, except where a risk weight of 1000% is applied in accordance with Rule A4.6.11.
+
+Derivatives and long settlement transactions – Standardised Approach to Counterparty Credit Risk (SA-CCR)
+
+A4.6.14 The exposure at default (EAD) of Derivative transactions (OTC and exchange-traded) and long settlement transactions must be calculated in accordance with this Section unless the Authorised Person has been granted permission by the Regulator to use an internal model.
+
+A4.6.15 EAD is to be calculated separately for each netting set. It is determined as follows:

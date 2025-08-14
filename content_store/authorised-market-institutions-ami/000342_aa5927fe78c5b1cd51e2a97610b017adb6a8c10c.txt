@@ -1,0 +1,25 @@
+(2) Without prejudice to (1):
+
+(a)
+
+any right, privilege, remedy, obligation or liability accrued to or incurred by any Person; and
+
+(b)
+
+any legal or administrative proceeding commenced or to be commenced in respect of any right, privilege, remedy, obligation or liability,
+
+investigation or
+
+under the Previous Regime continues and is enforceable under the Current Regime.
+
+108
+
+AMI/VER28/03-25
+
+AUTHORISED MARKET INSTITUTIONS (AMI)
+
+APP1 TESTING OF TECHNOLOGY SYSTEMS
+
+A1.1 Application
+
+A1.1.1 An Authorised Market Institution must, for the purposes of meeting the requirements in Rule 5.5.5 relating to the testing of its information technology systems, comply with the requirements in this Appendix.

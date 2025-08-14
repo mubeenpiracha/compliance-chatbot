@@ -1,0 +1,11 @@
+in the
+
+2.
+
+An Authorised Person using a standard form Netting agreement and a supporting legal opinion should ensure that the relevant requirements in Rules 4.13.17 to 4.13.19 are met. A standard form Netting agreement is a form of agreement which is prepared by a reputable, internationally recognised industry association and is supported by its own legal opinion. Where additional clauses are added to a standard form Netting agreement, the Authorised Person should satisfy itself that the amended Netting agreement continues to meet the legal and contractual requirements in Rules 4.13.17 to 4.13.19. For instance, in such cases, an Authorised Person may wish to obtain in a second legal opinion to confirm that the relevant requirements Rules 4.13.17 to 4.13.19 are still satisfied.
+
+3.
+
+App4 sets out the calculation of the PFCE arising from OTC Derivative contracts, on a net basis.
+
+4.14

@@ -1,0 +1,17 @@
+the approval of an individual’s request for physical access; and
+
+(b)
+
+the immediate revocation of such access if the conditions for granting approval are no longer met.
+
+(3)
+
+An Authorised Person must implement appropriate security measures to prevent unauthorised physical access to its data centres and server rooms.
+
+Guidance
+
+The Regulator expects that:
+
+a.
+
+where physical access is granted to individuals who are not members of an Authorised Person’s staff, they will be accompanied by a staff member at all times during such access; and

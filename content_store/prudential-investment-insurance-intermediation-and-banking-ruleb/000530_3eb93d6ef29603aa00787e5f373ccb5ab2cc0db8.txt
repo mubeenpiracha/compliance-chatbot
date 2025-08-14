@@ -1,0 +1,21 @@
+Guidance
+
+1.
+
+In establishing its systems and controls to address information security risks, an Authorised Person should have regard to:
+
+a.
+
+confidentiality: information should be accessible only to Persons or systems with appropriate authority, which may require firewalls within a system, as well as entry restrictions;
+
+b.
+
+the risk of loss or theft of customer data;
+
+c.
+
+integrity: safeguarding the accuracy and completeness of information and its processing;
+
+d.
+
+non-repudiation and accountability: ensuring that the Person or system that processed the information cannot deny their actions; and

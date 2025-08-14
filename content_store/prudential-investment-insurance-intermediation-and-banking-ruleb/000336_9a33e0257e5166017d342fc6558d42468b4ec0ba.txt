@@ -1,0 +1,17 @@
+(ii)
+
+the applicable CCF set out in Rule A4.2.2 in App4 if that item is an SE Exposure.
+
+Guidance
+
+1.
+
+An Authorised Person which is exposed to the risk of the underlying Securities in an OTC Derivative transaction, long settlement transaction or SFT which is in substance similar to a forward purchase or credit substitute should calculate E, for such an Exposure, in accordance with Rule 4.9.4(1).
+
+2.
+
+Investors' interest is defined as the sum of:
+
+a.
+
+investors' drawn balances related to the securitised Exposures; and

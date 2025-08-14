@@ -1,0 +1,13 @@
+(i)
+
+the risk to which margin agreements expose them (such as the volatility and liquidity of the securities exchanged as Collateral);
+
+(ii) the concentration risk to particular types of Collateral;
+
+(iii) the reuse of Collateral (both cash and non-cash) including the potential liquidity shortfalls resulting from the reuse of Collateral received from Counterparties; and
+
+(iv) the surrender of rights on Collateral posed to Counterparties; and
+
+(i)
+
+where the Collateral is held by a custodian, the Authorised Firm has taken reasonable steps to ensure that the custodian segregates the Collateral from its own assets.

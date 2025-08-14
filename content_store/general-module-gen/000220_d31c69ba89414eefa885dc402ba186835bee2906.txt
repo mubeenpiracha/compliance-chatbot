@@ -1,0 +1,21 @@
+Token globally;
+
+(d)
+
+the adequacy and suitability of the technology used in connection with the Crypto Token; and
+
+(e) whether risks associated with the Crypto Token are adequately mitigated, including risks relating to governance, legal and regulatory issues, cybersecurity, money laundering, market abuse and other financial crime.
+
+(3)
+
+The DFSA may, in assessing the matters in (2), consider the cumulative effect of factors which, if taken individually, may be regarded as insufficient to give reasonable cause to doubt that the criteria in (1)(a) is satisfied.
+
+(4)
+
+In the case of a Fiat Crypto Token, the additional criteria referred to in (1)(c) are that:
+
+(a)
+
+the Crypto Token is able to maintain a stable price relative to the fiat currency it references;
+
+(b)

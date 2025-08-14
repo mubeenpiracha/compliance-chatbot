@@ -1,0 +1,95 @@
+YES
+
+YES
+
+Providing Fund Administration
+
+4
+
+NO
+
+YES
+
+YES
+
+Operating an Alternative Trading System
+
+4
+
+NO
+
+YES
+
+NO* (*unless it holds Client Assets)
+
+Providing Trust Services other than as a trustee of an express trust
+
+4
+
+NO
+
+YES
+
+YES
+
+Arranging Credit and Advising on Credit
+
+4
+
+NO
+
+YES
+
+YES
+
+Operating a Crowdfunding Platform
+
+4
+
+NO
+
+YES
+
+YES
+
+Arranging or Advising on Money Service
+
+4
+
+NO
+
+YES
+
+YES
+
+Managing an Unrestricted PSIA
+
+5 or 1
+
+YES
+
+YES
+
+NO
+
+A6.1 Basic Indicator Approach
+
+A6.1.1 (1)
+
+An Authorised Firm which uses the Basic Indicator Approach must calculate its Operational Risk Capital Requirement equal to the average over the previous three years of a fixed percentage (denoted alpha) of positive annual gross income.
+
+(2)
+
+In (1), if the figure for annual gross income in any of the previous three years is zero or negative an Authorised Firm must exclude such amounts from the calculation of the average.
+
+375
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+(3)
+
+The Operational Risk Capital Requirement in (1) must be calculated according to the following formula:
+
+KBIA = [ ( GI1… n X )  n

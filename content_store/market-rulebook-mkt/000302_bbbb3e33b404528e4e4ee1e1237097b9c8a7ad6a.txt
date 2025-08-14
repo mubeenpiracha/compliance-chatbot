@@ -1,0 +1,13 @@
+Disclose the Related Party Transaction in accordance with Rule 7.7.1;
+
+(3)
+
+if the cumulative value of a series of Related Party Transactions with the same Related Party which have not received Shareholder approval reaches the 5% threshold referred to in (1) in any 12 month period, it does not enter into the last of the series of the transactions unless such proposed action has been put to Shareholder approval and received approval by a majority of the Shareholders in voting of the Listed Entity;
+
+(4)
+
+if, after obtaining Shareholder approval pursuant to Rule 9.5.3(1) but before the completion of the Related Party Transaction, there is a material change to the terms of the proposed transaction, the Listed Entity must comply again separately with Rule 9.5.3(1) in relation to the Related Party Transaction; or
+
+(5)
+
+the Related Party does not vote on the Shareholder resolution referred to in Rule 9.5.3(1) and takes all reasonable steps to ensure that any Related Party Associates of the relevant Related Party also do not vote on the Shareholder resolution.

@@ -1,0 +1,27 @@
+(ii)
+
+the applicable CCF set out in Rule A4.2.2 in App4 if that item is an SE Exposure.
+
+(2)
+
+For the purpose of (1)(a), an Authorised Firm must calculate the amount of investors’ interest as the sum of:
+
+(a)
+
+investors’ drawn balances related to the securitised Exposures; and
+
+(b)
+
+E associated with investors’ undrawn balances related to the SE Exposures, where E is determined by allocating the undrawn balances of securitised Exposures on a pro-rata basis based on the proportions of the Originator’s and investors’ shares of the securitised drawn balances.
+
+103
+
+PIB/VER50/07-25
+
+4.9.5
+
+4.9.6
+
+4.9.7
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)

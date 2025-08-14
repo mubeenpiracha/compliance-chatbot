@@ -1,0 +1,37 @@
+Collateral
+
+Guidance
+
+In order to recognise the effects of Credit Risk mitigation of the types of Collateral set out in Rules 4.13.5 to 4.13.7, an Authorised Firm must ensure that the relevant requirements in Rule 4.13.8 are complied with.
+
+(1)
+
+For an Authorised Firm using the FCSA, eligible financial Collateral comprises:
+
+(a)
+
+cash (as well as certificates of deposit or other similar instruments issued by the Authorised Firm) on deposit with the Authorised Firm;
+
+(b) gold;
+
+(c)
+
+any debt security:
+
+(i) with an Original Maturity of one year or less that has a short-term Credit Quality Grade of 3 or better as set out in section 4.12; or
+
+(ii) with an Original Maturity of more than one year that has:
+
+(A)
+
+a Credit Quality Grade of 4 or better as set out in section 4.12 if it is issued by a central government, Central Bank or a PSE referred to in Rule 4.12.3(2); or
+
+(B)
+
+a Credit Quality Grade of 3 or better as set out in section 4.12 if it is issued by any other entity;
+
+(d) any debt security issued by a bank that does not have an external credit assessment by a recognised ECAI if it fulfils the following criteria:
+
+(i)
+
+any debt security which is listed on a regulated exchange;

@@ -1,0 +1,7 @@
+b.
+
+the model should capture a sufficient number of risk factors, depending on the level of activity of the Authorised Person in the respective markets. The risk factors in the model should be sufficient to capture the risks inherent in the Authorised Person's portfolio of on and off-balance sheet trading positions. The Authorised Person should at least incorporate those risk factors in its model that are incorporated into its pricing model. The risk-measurement model should capture nonlinearities for Options and other products as well as correlation risk and basis risk. Where proxies for risk factors are used they should show a good track record for the actual position held. Although an Authorised Person will have some discretion in specifying the risk factors for its internal models, the Regulator expects that such models will meet the criteria specified in the following paragraphs.
+
+5.
+
+Any internal model used to calculate Capital Requirements for position risk, foreign exchange risk or commodities risk should meet all of the following requirements:

@@ -1,0 +1,21 @@
+Internal audit
+
+5.3.13 (1)
+
+An Authorised Person must establish and maintain an internal audit function with responsibility for monitoring the appropriateness and effectiveness of its systems and controls.
+
+(2)
+
+The internal audit function must be independent from operational and business functions.
+
+(3)
+
+An Authorised Firm is not required to have an internal audit function if the only Financial Service it carries on is Managing a Venture Capital Fund.
+
+Guidance
+
+The Person appointed as the Internal Auditor of an Authorised Market Institution is a Key Individual pursuant to AMI Rule 5.3.1.
+
+5.3.14 An Authorised Person must ensure that its internal audit function has unrestricted access to all relevant records and recourse when needed to the Authorised Person’s Governing Body or the relevant committee, established by its Governing Body for this purpose.
+
+5.3.15 An Authorised Person must document the organisation, responsibilities and

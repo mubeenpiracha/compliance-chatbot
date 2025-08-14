@@ -1,0 +1,3 @@
+Guidance
+
+The main distinction between operating an MTF and operating an OTF is that the former is operated in accordance with the non-discretionary rules adopted and implemented by the operator, whereas the latter is operated in accordance with the discretionary rules of the operator. Accordingly, a Person operating an OTF has more flexibility relating to how it applies its rules to participants on its facility, whereas a Person operating an MTF is required to apply its rules in a non-discretionary manner across all participants on its facility. Under the above Rule, an OTF cannot be operated for Crypto Tokens. Therefore, an ATS relating to Crypto Tokens may only be a MTF.

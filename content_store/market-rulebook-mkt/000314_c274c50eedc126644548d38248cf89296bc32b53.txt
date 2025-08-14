@@ -1,0 +1,21 @@
+Restrictions on new Issues of Equity Securities
+
+9.7.1 A Listed Entity must not issue, or agree to issue, more Equity Securities than the number calculated according to the following formula, without the approval of the holders of Ordinary Securities:
+
+Maximum number of Equity Securities = (20% * Base Amount) – Relevant Issues),
+
+where:
+
+Base Amount = the number of fully paid Ordinary Securities on issue as of the date 12 months before the date of issue or agreement (the “12 months Base Amount”), plus the number of:
+
+(1)
+
+fully paid Ordinary Securities issued in the 12 months before the date of issue or agreement under an exception in Rule 9.7.4 other than exceptions (8), (15) or (16);
+
+(2)
+
+fully paid Ordinary Securities issued in the 12 months before the date of issue or agreement under an exception in Rule 9.7.4 other than exception (15), where the agreement was:
+
+(i)
+
+entered into before the commencement of the 12 month period; or

@@ -1,0 +1,25 @@
+electronically
+
+13
+
+GEN/VER67/03-25
+
+GENERAL (GEN)
+
+Guidance
+
+1. The following diagram illustrates the different types of Money Services:
+
+Providing Money Services
+
+providing currency exchange *currently not permitted as a standalone service in the DIFC
+
+providing Money Transmission
+
+Payment Services
+
+providing or operating a Payment Account
+
+executing Payment Transactions on a Payment Account provided or operated by another Person
+
+issuing Payment Instruments

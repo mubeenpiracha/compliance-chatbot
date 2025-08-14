@@ -1,0 +1,35 @@
+d.
+
+submitting multiple orders often away from one side of the order book with the intention of executing a trade on the other side of the order book, where once that trade has taken place, the manipulative orders will be removed, called Layering and Spoofing.
+
+Clearing and settlement arrangements
+
+(1)
+
+An ATS Operator must:
+
+(a)
+
+ensure that there are satisfactory arrangements in place for securing the timely discharge of the rights and liabilities of the parties to transactions conducted on or through its facility; and
+
+122
+
+COB/VER48/03-25
+
+CONDUCT OF BUSINESS (COB)
+
+(b)
+
+inform its members and other Persons having access to its facility through members of details relating to such arrangements.
+
+(2)
+
+For the purposes of (1)(a), an ATS Operator must ensure that:
+
+(a)
+
+the Person who provides clearing and settlement services to a member is either:
+
+(i)
+
+an Authorised Person appropriately licensed to carry on clearing or settlement services; or

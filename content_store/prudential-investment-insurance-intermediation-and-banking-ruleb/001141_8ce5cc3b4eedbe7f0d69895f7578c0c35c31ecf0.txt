@@ -1,0 +1,43 @@
+marketable assets, at a discount.
+
+(4)
+
+Assets which have been pledged as Collateral must be excluded from the sight-eight day time band.
+
+Guidance
+
+1.
+
+In (1) the "earliest contractual maturity" relates to the first point in time at which the outflow might occur and over which the Authorised Person has no control to determine that point in time.
+
+2.
+
+In (3) the "latest contractual maturity" relates to the last point in time at which the inflow might occur and over which the Authorised Person has no control to determine that point in time.
+
+Including marketable assets in the Maturity Ladder
+
+A10.3.2
+
+(1)
+
+Assets which are readily marketable are included in the Maturity Ladder in the sight-eight days time band, generally at a discount to their recorded value calculated in accordance with (4).
+
+(2)
+
+An asset is regarded as readily marketable if:
+
+(a)
+
+prices are regularly quoted for the asset;
+
+(b)
+
+the asset is regularly traded;
+
+(c)
+
+the asset may readily be sold, including by repurchase agreement, either on an exchange, or in a deep and liquid market for payment in cash; and
+
+(d)
+
+settlement is according to a prescribed timetable rather than a negotiated timetable.

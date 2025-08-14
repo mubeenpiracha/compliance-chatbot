@@ -1,0 +1,21 @@
+The Prudential – Insurance Business module of the Rulebook.
+
+Includes a potential policyholder.
+
+An amount payable under an insurance contract as a result of the occurrence of an event insured under the contract.
+
+Means a natural person (and includes, where relevant, a family member or close associate) who is or has been entrusted with a prominent public function, including but not limited to, a head of state or of government, senior politician, senior government, judicial or military official, ambassador, senior executive of a state owned corporation, or an important political party official, but not middle ranking or more junior individuals in these categories.
+
+a written notice given by the DFSA to a Person pursuant to paragraph 4(1) of Schedule 3 to the Regulatory Law 2004.
+
+The liability referred to in PIN Rule 5.4.7.
+
+(1) In CIR, has the meaning given to that term in CIR
+
+Rule 13.9.4(2).
+
+(2) In AMI, has the meaning given to that term in Rule
+
+A2.1.2(2).
+
+Information of a type which is liable to cause substantial movement in the price of Securities or (in the case of Debentures) to affect significantly the ability of the Issuer to meet its commitments.

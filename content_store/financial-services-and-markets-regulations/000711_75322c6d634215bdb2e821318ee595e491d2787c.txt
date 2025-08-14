@@ -1,0 +1,15 @@
+99B. Environmental Instruments370
+
+In this Regulation an “Environmental Instrument” is a Financial Instrument that is recognised by the Regulator which:
+
+(a)
+
+enables its holder to emit greenhouse gases into the atmosphere, in accordance with any emissions trading scheme (i.e. emissions allowances or equivalent);
+
+(b)
+
+attests to a reduction in greenhouse gases emitted into the atmosphere or the removal of greenhouse gases from the atmosphere (i.e. carbon credits or equivalent); or
+
+(c)
+
+attests to the environmental attributes of an underlying unit (i.e. renewable energy or environmental attribute certificates).

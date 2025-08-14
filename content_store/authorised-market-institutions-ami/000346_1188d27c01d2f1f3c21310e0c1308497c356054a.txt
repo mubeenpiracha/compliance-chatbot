@@ -1,0 +1,11 @@
+(a)
+
+to adopt trading algorithm tests, including tests in a simulation environment which are commensurate with the risks that such a strategy may pose to itself and to the fair and orderly functioning of the facility operated by the Authorised Market Institution; and
+
+(b)
+
+not to deploy trading algorithms in a live environment except in a controlled and cautious manner.
+
+Guidance
+
+When assessing whether the trading algorithm testing plan of its Members is adequate and appropriate and implemented effectively, an Authorised Market Institution should consider whether:

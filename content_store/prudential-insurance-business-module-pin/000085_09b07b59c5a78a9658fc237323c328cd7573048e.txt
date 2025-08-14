@@ -1,0 +1,41 @@
+(a)
+
+the beginning of the coverage period of the group of contracts;
+
+(b)
+
+when the first payment from a policyholder in the group of contracts becomes due; or
+
+(c)
+
+when the group of contracts becomes onerous.
+
+20
+
+PIN/VER18/04-23
+
+PRUDENTIAL – INSURANCE BUSINESS (PIN)
+
+5.4.3
+
+(1)
+
+A group of reinsurance contracts held by an Insurer must be recognised as an asset or liability, as applicable, from the earlier of the following:
+
+(a)
+
+the beginning of the coverage period of the group of reinsurance contracts that are held; or
+
+(b)
+
+when the group of underlying insurance contracts becomes onerous.
+
+(2)
+
+Notwithstanding (1)(a), an Insurer must delay the recognition of a group of reinsurance contracts held that provide proportionate coverage until the date that any underlying insurance contract is initially recognised, if that date is later than the beginning of the coverage period of the group of reinsurance contracts.
+
+5.4.4
+
+Premiums in respect of facultative reinsurance contracts and non-proportional treaty contracts entered into by an Insurer as cedant must be treated as payable from the date of entering into the reinsurance contract.
+
+5.4.5

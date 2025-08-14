@@ -1,0 +1,19 @@
+iii.
+
+a communications strategy and contact information for relevant staff, suppliers, regulators, market authorities (including exchanges), major clients, the media and other key people;
+
+iv.
+
+a schedule of critical systems covered by the BCP and the timeframe for restoring these systems;
+
+v.
+
+the pre-assigned responsibilities of staff and procedures for training staff on all aspects of the BCP; and
+
+vi.
+
+procedures for regular testing and review of the BCP; and
+
+c.
+
+procedures for backing up important data on a regular basis and storing the information off site.

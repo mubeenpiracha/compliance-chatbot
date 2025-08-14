@@ -1,0 +1,49 @@
+;and
+
+(c)
+
+“treasury asset” means an issue of public debt by or on behalf of:
+
+(i)
+
+the United Kingdom;
+
+(ii)
+
+the United States of America;
+
+(iii)
+
+France;
+
+(iv)
+
+Australia;
+
+(v)
+
+Germany;
+
+(vi)
+
+Japan;
+
+(vii) Canada; or
+
+(viii) Switzerland.
+
+Margin close out requirements for Retail Clients
+
+(1) An Authorised Firm that Deals in a Restricted Speculative Investment must ensure that the net equity in a Retail Client’s account does not fall below 50% of the overall Margin deposited in that account.
+
+(2) For the purposes of (1), where a Retail Client’s net equity falls below 50% of the overall Margin deposited in that account, the Authorised Firm must close all open positions in the Retail Client’s account:
+
+69
+
+COB/VER48/03-25
+
+CONDUCT OF BUSINESS (COB)
+
+(a) as soon as market conditions allow; and
+
+(b)

@@ -1,0 +1,51 @@
+166
+
+PRU VER17.290725
+
+Controlled Early Amortisation Features
+
+Uncommitted
+
+Committed
+
+Retail Credit Lines
+
+3 Month average Excess Spread CCF
+
+90%
+
+133.33% of trapping point or more
+
+0%
+
+<133.33% to 100% of trapping point
+
+1%
+
+<100% to 75% of trapping point
+
+2%
+
+<75% to 50% trapping point
+
+10%
+
+<50% to 25% of trapping point
+
+20%
+
+<25%
+
+40%
+
+Non-retail credit lines
+
+90%
+
+90%
+
+Non-Controlled Early Amortisation
+
+4.14.61
+
+In regard to non-Controlled Early Amortisation, an Authorised Person must apply the same steps as set out at Rules 4.14.59 to 4.14.61 and determine appropriate segments and apply the corresponding conversion factors as set out in the following table:

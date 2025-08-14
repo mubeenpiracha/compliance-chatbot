@@ -1,0 +1,13 @@
+Market Contracts;
+
+(b)
+
+action taken under the rules of a Recognised Body or Remote Body with respect to Market Contracts;
+
+(c)
+
+action taken under the rules of a Recognised Clearing House or Remote Clearing House to transfer Clearing Member Client Contracts, or settle Clearing Member Client Contracts or Clearing Member House Contracts, in accordance with the Default Rules of the Recognised Clearing House or Remote Clearing House;
+
+(d)
+
+where Clearing Member Client Contracts transferred in accordance with the Default Rules of a Recognised Clearing House or Remote Clearing House were entered into by the Clearing Member or Client as a principal, action taken to transfer Client Trades, or groups of Client Trades, corresponding to those Clearing Member Client Contracts;

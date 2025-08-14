@@ -1,0 +1,11 @@
+Categories of Authorised Persons
+
+Guidance
+
+1.
+
+In these Rules, Authorised Persons are assigned to "Categories" to create a clear framework for determining the provisions of PRU applying to each Authorised Person. The Rules in this Section enable an Authorised Person to determine into which Category it falls.
+
+2.
+
+The table in A1.1 of App1 sets out the categorisation process diagrammatically. In that table, an emboldened box indicates the Regulated Activity that is determinative of the Category into which an Authorised Person falls. An Authorised Person may, if authorised under its Financial Services Permission to do so, conduct any number of Regulated Activities specified under any lower Category than the one that applies to the Authorised Person in accordance with this Section. (For this purpose Category 5 is considered to be equivalent to Category 1.) For example, a Category 1 firm could conduct any one or more of the Regulated Activities specified under Categories 2, 3A, 3B, 3C or 4 (if authorised to do so). However, a Category 4 firm may only conduct the Regulated Activities listed under Category 4, given that is the Category for which it is authorised.

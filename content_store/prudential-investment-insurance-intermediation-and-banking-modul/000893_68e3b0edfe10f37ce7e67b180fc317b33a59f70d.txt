@@ -1,0 +1,29 @@
+𝐈𝐑 = ∑ 𝛅𝐢 ∙ 𝐀𝐝𝐣𝐍𝐨𝐭𝐢
+
+𝐃𝐣,𝐤
+
+𝐈𝐑 ∙ 𝐌𝐅𝐢
+
+𝐢∈𝐈(𝐣,𝐤)
+
+where:
+
+I(j,k) =
+
+the set of all interest rate transactions belonging to maturity bucket ‘k’ and hedging set ‘j’
+
+j =
+
+the index that denotes all the hedging sets of the interest rate asset class, formed in accordance with Rule A4.8.5
+
+δi =
+
+the supervisory delta for the transaction ‘i’, calculated in accordance with Rule A4.8.12
+
+MFi =
+
+the maturity factor of the transaction ‘i’, calculated in accordance with Rule A4.8.15
+
+AdjNoti
+
+IR = the adjusted notional amount accordance with Rule A4.8.13(a)

@@ -1,0 +1,19 @@
+A7.2 Adjusted Fund Capital Resources
+
+A7.2.1 An Insurer must calculate the Adjusted Fund Capital Resources in respect of each
+
+Long-Term Insurance Fund maintained by it, according to the formula:
+
+AFCR = AFE – FHCA
+
+where:
+
+AFCR means the Adjusted Fund Capital Resources in respect of the fund;
+
+AFE means the adjusted fund equity in respect of that fund; and
+
+FHCA means the fund hybrid capital adjustment in respect of that fund.
+
+A7.2.2 Adjusted fund equity is calculated as set out in Rule A7.4. The fund hybrid capital
+
+adjustment is set out in Rule A7.5.

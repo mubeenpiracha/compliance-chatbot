@@ -1,0 +1,7 @@
+An Authorised Firm should develop, implement and improve systems for tracking and monitoring the credit risk exposure arising from unsettled transactions and failed trades as appropriate so that they can produce management information that facilitates timely action. An Authorised Firm should closely monitor securities, commodities, and foreign exchange transactions that have failed, starting the first day they fail.
+
+Unsettled Transactions
+
+A4.6.2 An Authorised Firm must calculate the RWA for a transaction that remains unsettled after
+
+its due delivery date, using the following formula:

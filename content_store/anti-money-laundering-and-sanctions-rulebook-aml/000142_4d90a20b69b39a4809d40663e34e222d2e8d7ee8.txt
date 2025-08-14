@@ -1,0 +1,43 @@
+each beneficiary of the trust;
+
+Confidential
+
+50
+
+AML VER10.020125
+
+(d)
+
+where the persons or some of the persons benefiting from the trust have not been determined, the class of persons in whose main interest, in the opinion of the Registrar, the trust has been established or operates; and
+
+(e)
+
+any Natural Person who has control over the trust.
+
+(3)
+
+For the purposes of (2)(e) “control” means a power, whether exercisable alone, jointly with another person or with the consent of another person, under the trust instrument or by law to:
+
+(a)
+
+dispose of, advance, lend, invest, pay or apply trust property;
+
+(b)
+
+vary or terminate the trust;
+
+(c)
+
+add or remove a person as a beneficiary to or from a class of beneficiaries;
+
+(d)
+
+appoint or remove trustees or give another person control over the trust; and
+
+(e)
+
+direct, withhold consent to or veto the exercise of a power mentioned in sub-paragraphs (a) to (d).
+
+(4)
+
+Where any of the persons identified under (2)(a) to (e) are fulfilled by a Body Corporate or Partnership, the Relevant Person must identify the Beneficial Owners of Body Corporate or Partnership in accordance with Rule 8.3.3 and Rule 8.3.4.

@@ -1,0 +1,21 @@
+Delivery instruments
+
+A3.2.4 A Commodity Derivative contract must specify the acceptable form or type of delivery instruments, and whether such instruments are negotiable or assignable and, if so, on what conditions.
+
+Guidance
+
+Acceptable delivery instruments include warehouse receipts, bills of lading, shipping certificates, demand certificates, or collateralized depository receipts.
+
+The delivery process and facilities
+
+A3.2.5 A Commodity Derivative contract must specify:
+
+(a)
+
+the delivery process, including timing, location, manner and form of delivery, and
+
+(b)
+
+the delivery and/or storage facilities available,
+
+which conform to the prevailing practices in the underlying physical market to permit effective monitoring and to reduce the likelihood of disruption.

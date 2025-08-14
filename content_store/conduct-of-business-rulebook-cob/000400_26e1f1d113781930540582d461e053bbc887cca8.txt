@@ -1,0 +1,19 @@
+19.11 Obligations of the Payment Service Provider in relation to Payment Instruments
+
+19.11.1 (1)
+
+A Payment Service Provider issuing a Payment Instrument must ensure that the Personalised Security Credentials are not accessible to persons other than the Payment Service User to whom the Payment Instrument has been issued.
+
+(2)
+
+The Payment Service Provider bears the risk of sending to the Payment Service User a Payment Instrument or any Personalised Security Credentials relating to it.
+
+(3)
+
+The Payment Service Provider must ensure that appropriate means are available at all times to enable a Payment Service User to notify the Payment Service Provider of the loss, theft, misappropriation or unauthorised use of the Payment Instrument.
+
+19.12
+
+Payment Transactions where the transaction amount is not known in advance
+
+19.12.1 Where a card-based Payment Transaction is initiated by or through the Payee and the amount of the transaction is not known when the Payer authorises the Payment Transaction:

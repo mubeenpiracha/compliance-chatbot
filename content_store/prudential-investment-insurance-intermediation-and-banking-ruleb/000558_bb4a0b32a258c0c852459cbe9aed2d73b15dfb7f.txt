@@ -1,0 +1,19 @@
+a.
+
+the internal definition of, and boundary between, "Non-Trading Book " and "trading activities" in accordance with Chapter 2 and App2;
+
+b.
+
+the definition of economic value and its consistency with the method used to value assets and liabilities (e.g. discounted cashflows);
+
+c.
+
+the size and the form of the different shocks to be used for internal calculations;
+
+d.
+
+the use of a dynamic and / or static approach in the application of interest rate shocks;
+
+e.
+
+the treatment of commonly called "pipeline transactions" (including any related hedging);

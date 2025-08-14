@@ -1,0 +1,5 @@
+if the total reduction of AT1 and T2 Capital instruments pursuant to (a), (b) and (c) is less than the sum of the amounts referred to in Rule 3.4.3(3)(b) and (c), the DFSA shall reduce to the extent required the principal amount of Eligible Liabilities in accordance with the hierarchy of claims that will apply to the Authorised Firm under the DIFC Insolvency Law, in conjunction with the write down pursuant to (a), (b) and (c) to produce the sum of the amounts referred to in Rule 3.4.3(3)(b) and (c); and
+
+(e)
+
+if the total reduction of AT1 and T2 Capital instruments and Eligible Liabilities pursuant to (a) to (d) is less than the sum of the amounts referred in Rule 3.4.3(3)(b) and (c), the DFSA shall reduce to the extent required the principal amount of, or outstanding amount payable in respect of, the rest of Eligible Liabilities in accordance with the hierarchy of claims that will apply to the Authorised Firm under the DIFC Insolvency Law, in conjunction with the write down pursuant to (a) to (d) to produce the sum of the amounts referred to in Rule 3.4.3(3)(b) and (c).

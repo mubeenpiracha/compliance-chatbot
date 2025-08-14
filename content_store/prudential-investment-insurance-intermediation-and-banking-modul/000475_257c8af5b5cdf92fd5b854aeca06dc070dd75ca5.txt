@@ -1,0 +1,23 @@
+Eligible liquidity positions
+
+4.14.42 An Authorised Firm providing an unrated eligible liquidity facility may assign to the resulting securitisation Exposure the highest risk weight that would be applied to any of the underlying Exposures covered by the facility.
+
+4.14.43 (1)
+
+An off balance sheet SE Exposure will receive a 100% CCF unless:
+
+(a)
+
+the Exposure qualifies as an eligible liquidity facility, or
+
+(b)
+
+the Exposure is an eligible Servicer cash advance facility.
+
+(2)
+
+In relation to (1), an eligible Servicer cash advance facility is a facility provided to a securitisation in order to ensure uninterrupted flow of payments to investors. As long as the Servicer is entitled to full reimbursement and this right is senior to all other claims on cash flows from the underlying pool of Exposures, and where these facilities meet the requirements of 4.14.44 and are unconditionally cancellable at any time, any undrawn commitments can then have a 0% CCF applied.
+
+4.14.44 (1)
+
+For the purposes of Rule 4.14.42, an Authorised Firm may treat an Exposure as an eligible liquidity facility provided the following requirements are met:

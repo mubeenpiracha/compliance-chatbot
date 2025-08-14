@@ -1,0 +1,5 @@
+Where an Authorised Person intends to include the T2 Capital instruments issued by a Subsidiary in a non-ADGM jurisdiction in the consolidated T2 Capital, the Authorised Person may do so, to the extent permitted under these Rules, if the provisions governing the instrument specify a trigger event equivalent to the trigger specified in paragraph (b) above, or where the trigger event relates to the supervisor of the Subsidiary deciding to make a public sector injection of capital or equivalent support, without which the Authorised Person would no longer be viable. The Regulator will only activate such triggers in respect of such Subsidiary, after consultation with the supervisor of the Subsidiary, where:
+
+(i)
+
+if applicable, the Subsidiary is non-viable as determined by the supervisor of the Subsidiary in accordance with applicable laws of that jurisdiction on insolvency, resolution or recovery of financial institutions; and

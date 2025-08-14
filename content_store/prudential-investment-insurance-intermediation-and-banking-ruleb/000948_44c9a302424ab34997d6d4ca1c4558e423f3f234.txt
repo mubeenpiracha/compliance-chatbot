@@ -1,0 +1,97 @@
+Short
+
+M
+
+U
+
+M
+
+U
+
+M
+
+U
+
+> 10.6 and ≤
+
+0
+
+0
+
+0.60%
+
+11.00
+
+0.00
+
+0.00
+
+0.00
+
+0.00
+
+12.0 y
+
+300
+
+300
+
+0.60%
+
+14.50
+
+26.10
+
+26.10
+
+0.00
+
+> 12 and ≤ 20 y
+
+26.10
+
+> 20 y
+
+0
+
+0
+
+0.60%
+
+22.00
+
+0.00
+
+0.00
+
+0.00
+
+0.00
+
+Tot
+
+64.10
+
+4.92
+
+al
+
+Total General Market Risk requirement = 5% ($64.10) + 40% ($0) + 30% ($4.50) + 40% ($5.27) + 100% ($0) + 100% ($4.92) = $11.58
+
+345
+
+PRU VER17.290725
+
+A6.3
+
+Equity Risk Capital Requirement
+
+Guidance
+
+Section A6.3 presents the method for the calculation of Equity Risk Capital Requirement for the purpose of Rule 5.5.1(b).
+
+A6.3.1
+
+An Authorised Person which calculates its Equity Risk Capital Requirement in accordance with Rule 5.5.1(b) must apply the Rules in this Section.
+
+A6.3.2

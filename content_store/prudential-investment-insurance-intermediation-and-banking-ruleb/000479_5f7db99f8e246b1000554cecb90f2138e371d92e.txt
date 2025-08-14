@@ -1,0 +1,29 @@
+Exposures, at its discretion, by any one or more of the following:
+
+(a)
+
+the amount of any specific provision made, where the provision relates to the risk of a credit loss occurring on that Exposure and is not held as part of a general provision or reserve against its Credit Risks;
+
+(b)
+
+Netting its claims on and liabilities to a Counterparty, provided that the conditions in Section 4.13 of CRM are met;
+
+(c)
+
+the amount of Collateral held against its Exposures, where that Collateral is of a type listed based on the FCSA and FCCA approaches and meeting the requirements under Section 4.13;
+
+(d)
+
+the amount of any eligible guarantees as permitted under Section 4.13.9;
+
+(e)
+
+the value of a Credit Derivative, where the Credit Derivative is an instrument included in Rule 4.13.11 and the transaction meets the conditions set out in that Section; and
+
+174
+
+PRU VER17.290725
+
+(f)
+
+the effects of transactions transferring Credit Risks from the Authorised Person to another party through securitisation, provided that the conditions in Section 4.14 are met.

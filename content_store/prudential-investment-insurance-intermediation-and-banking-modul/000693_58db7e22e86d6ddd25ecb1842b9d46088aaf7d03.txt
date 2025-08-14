@@ -1,0 +1,13 @@
+HQLA requirement
+
+An Authorised Firm must maintain an adequate level of HQLA to meet its liquidity needs for, at a minimum, a 30 calendar day period under a severe stress scenario.
+
+Guidance
+
+Rules A9.2.2 to A9.2.9 in App9 set out the conditions that must be met for assets to be treated as HQLA.
+
+Liquidity Coverage Ratio
+
+An Authorised Firm must, except as provided in Rule 9.3.8, maintain a LCR of at least the level specified in the table below from the date specified in the table.
+
+Table - Minimum LCR levels

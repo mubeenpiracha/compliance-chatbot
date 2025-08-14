@@ -1,0 +1,9 @@
+Specification of Market Risk factors
+
+4.
+
+Any internal model used to calculate Capital Requirements for equity position risk, interest rate risk, foreign exchange risk, commodities risk and any internal model for correlation trading should meet all of the following requirements:
+
+a.
+
+the model must capture accurately reflect, on a continuous basis, all material price risks, including General Market Risks and, where approval has been granted in relation to Specific Risk, Specific Risks arising on the underlying portfolio, and should ensure that sufficient risk factors are properly specified; and

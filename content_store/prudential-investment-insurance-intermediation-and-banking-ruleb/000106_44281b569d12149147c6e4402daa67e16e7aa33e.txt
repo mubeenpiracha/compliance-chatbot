@@ -1,0 +1,33 @@
+Unsettled Transaction
+
+VaR
+
+Vega
+
+Venture Capital Fund
+
+Virtual Asset
+
+Walkaway Clause
+
+Warrant
+
+A transaction where delivery of an instrument is due to take place against the receipt of cash but remains outstanding.
+
+Value at risk.
+
+The measure of the sensitivity of the value of the Option to a change in the volatility of the underlying asset.
+
+Has the meaning given in FUNDS 4.1.6.
+
+Has the meaning given in section 258 of FSMR.
+
+A provision which permits a non-defaulting party to make payments, or no payments at all, to the estate of the defaulter, even if the defaulter is a net creditor.
+
+Means an instrument that confers on the holder a right entitling the holder to an unissued Share, Debenture or Unit.
+
+41
+
+PRU VER17.290725
+
+1.3

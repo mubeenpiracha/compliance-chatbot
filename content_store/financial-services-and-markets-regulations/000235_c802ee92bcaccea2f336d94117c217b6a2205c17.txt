@@ -1,0 +1,11 @@
+A counterparty or a Recognised Clearing House which is subject to the reporting obligation in subsection (1) may delegate the reporting of the details of the OTC Derivative Contract. Counterparties and Recognised Clearing Houses shall ensure that the details of their OTC Derivative Contracts are reported without duplication.
+
+(3)
+
+Counterparties shall keep a record of any OTC Derivative Contract they have concluded and any modification for at least five years following the termination of the contract.
+
+(4)
+
+Where a Trade Repository is not available to record the details of an OTC Derivative Contract which is subject to the reporting obligation in subsection (1), counterparties and Recognised Clearing Houses shall ensure that such details are reported to the Regulator.
+
+(5)

@@ -1,0 +1,65 @@
+(a)
+
+Assets that are Invested Assets
+
+72
+
+PIN/VER18/04-23
+
+PRUDENTIAL – INSURANCE BUSINESS (PIN)
+
+Asset
+
+%
+
+(a) Bonds Rated ‘AAA’, issued by a Government or Government
+
+agency
+
+0.0
+
+(b) Bonds not included in (a), Rated ‘A’ or better
+
+0.4
+
+(c) Bonds Rated ‘BBB’
+
+3.3
+
+(d) Bonds Rated ‘BB’
+
+7.5
+
+(e) Bonds Rated ‘B’
+
+13.7
+
+(f)
+
+Bonds Rated ‘CCC’
+
+20.2
+
+(g) Other Rated bonds
+
+30.0
+
+(h) Secured loans – performing
+
+2.0
+
+(i)
+
+Secured loans – Non-Performing
+
+14.0
+
+(j)
+
+Loans to directors of the Insurer or to directors of Related parties, or to the dependent relatives of such directors
+
+100.0
+
+(k) Unsecured loans to employees (except loans of less than $1,000)
+
+100.0

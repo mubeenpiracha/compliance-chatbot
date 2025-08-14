@@ -1,0 +1,11 @@
+c.
+
+each party is not exposed to any contingent liabilities to the other (i.e. there is no leverage).
+
+35.
+
+If the rights and obligations of the parties to a contract that meets the above criteria are conferred by a Token, the Token confers rights and obligations that are substantially similar in nature to a Structured Product, and so the Token is considered an Investment Token that is a Structured Product.
+
+36.
+
+Although a Structured Product is similar to a contract for difference, it can be distinguished from a Future due to the absence of leverage on the part of the investor and the availability of readily accessible public information relating to the underlying factor referenced by it. Structured Products are categorised as Securities and can be included in the Official List of Securities. An Investment Token that is a Structured Product is therefore also a Security Token.

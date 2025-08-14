@@ -1,0 +1,17 @@
+3.
+
+The redemption process is the reverse of the purchase process. The AP redeems the creation Unit from the ETF, in exchange for a ‘redemption basket’ of securities and/or cash and other assets (or all cash) received from the Fund Manager. The AP also offers to buy and sell ETF Units on the relevant exchange, where retail investors can buy and sell ETF Units at a price close to NAV.
+
+17
+
+CIR/VER38/08-24
+
+3.1.13
+
+3.1.14
+
+COLLECTIVE INVESTMENT RULES (CIR)
+
+4.
+
+See further Guidance about ETFs under CIR 13.9.6.

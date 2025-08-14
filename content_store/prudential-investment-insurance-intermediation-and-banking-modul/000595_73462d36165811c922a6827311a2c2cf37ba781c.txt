@@ -1,0 +1,13 @@
+Guidance
+
+189
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+1.
+
+In developing technical standards referred to in 6.13.5(c) (common and secure standards of communication) an Authorised Firm should, as best practice and where applicable:
+
+(a) apply secure identification when communicating between devices used for electronic

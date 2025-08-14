@@ -1,0 +1,7 @@
+For the purposes of Rule 5.6.7(f), an Insurer should ensure that yields used to determine the discount rate are adjusted to take account of the risk that yields will decrease. High yields that represent compensation for risks such as credit or currency risk should be adjusted down to account for those elements of the yield.
+
+5.6.8 The Regulator may specify actuarial principles to be followed by Insurers in measuring
+
+the liability referred to in Rule 5.6.6.
+
+5.6.9 Rule 5.6.6 does not require an Insurer to obtain a valuation by an Actuary of the liability referred to in that Rule, at a Solvency Reference Date other than the Insurer's annual reporting date.

@@ -1,0 +1,27 @@
+6.11 Operational Risk Capital Requirement
+
+6.11.1 This section applies to an Authorised Firm in Category 1, 2, 3A or 5.
+
+6.11.2
+
+(1)
+
+An Authorised Firm must, subject to (2), use the Basic Indicator Approach as prescribed in App6 to calculate its Operational Risk Capital Requirement.
+
+(2)
+
+An Authorised Firm may, with the written approval of the DFSA, use the Standardised Approach or the Alternative Standardised Approach, both as prescribed in App6, to calculate its Operational Risk Capital Requirement if the DFSA is satisfied that:
+
+185
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+(a)
+
+its Governing Body and senior management, as appropriate, are actively involved in the oversight of its Operational Risk framework;
+
+(b)
+
+it has, in accordance with the requirements set out in this chapter, implemented and maintains an Operational Risk policy which provides for a sound and well-defined risk management framework to address the Authorised Firm’s Operational Risk; and

@@ -1,0 +1,19 @@
+(iii)
+
+the deductions referred to in Rules 3.10.14 and 3.10.15;
+
+(b)
+
+the amount of direct and indirect holdings by the Authorised Person of the CET1 Capital instruments of Relevant Entities divided by the aggregate amount of direct and indirect holdings by the Authorised Person of the CET1, AT1 and T2 Capital instruments issued by those Relevant Entities.
+
+An Authorised Person must exclude Underwriting positions held for five working days or fewer from the amount referred to in (1)(a) and from the calculation of the factor referred to in (1)(b).
+
+The amount to be deducted pursuant to (1) must be apportioned across each CET1 Capital instrument held. An Authorised Person must determine the portion of holdings of CET1 Capital instruments that is to be deducted pursuant to (1) by dividing the amount specified in (a) by the amount specified in (b):
+
+(a)
+
+the amount of holdings required to be deducted pursuant to (1)(a);
+
+(b)
+
+the aggregate amount of direct and indirect holdings by the Authorised Person of all the capital instruments of Relevant Entities in which the Authorised Person does not have a significant investment.

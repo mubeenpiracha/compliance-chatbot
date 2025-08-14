@@ -1,0 +1,35 @@
+Periodic Statements
+
+5.2.3
+
+(a)
+
+COBS 5.11 applies to an Authorised Person as if the Authorised Person is an Investment Manager in respect of those clients who are PSIA holders.
+
+(b)
+
+In addition to the requirements of COBS 5.11, an Authorised Person must ensure that a periodic statement provided to a client contains the following information:
+
+(i)
+
+details of the performance of the client's investment;
+
+(ii)
+
+the allocation of profit between the Authorised Person and the client; and
+
+(iii)
+
+where applicable, details of changes to the investment strategies that may affect the client's account or portfolio.
+
+Additional matters to be included in the policy and procedures manual
+
+5.2.4 Where an Authorised Person Manages a PSIA, its Islamic Financial Business policy and
+
+procedures manual must address the following additional matters:
+
+(a)
+
+the basis upon which a PSIA will be deemed restricted (a Restricted PSIA) or unrestricted (an Unrestricted PSIA);
+
+(b)

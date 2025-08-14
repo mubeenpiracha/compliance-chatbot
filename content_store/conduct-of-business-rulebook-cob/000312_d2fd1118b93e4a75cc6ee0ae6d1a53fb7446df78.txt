@@ -1,0 +1,11 @@
+a conflict of interest.
+
+15.9.3 An Authorised Person must maintain a clear separation of duties to ensure that an employee with responsibility for operating Client Accounts, or an employee that has authority over Safe Custody Assets, must not perform the reconciliations under Rule 15.9.1.
+
+15.9.4 A reconciliation performed in accordance with Rule 15.9.1 must be reviewed by a
+
+member of the Authorised Person who has adequate seniority.
+
+15.9.5 The individual referred to in Rule 15.9.4 must provide a written statement confirming that the reconcilitation has been undertaken in accordance with the requirements of this section.
+
+15.9.6 An Authorised Person must notify the Regulator without undue delay where there have been material discrepancies with the reconciliation that have not been rectified.

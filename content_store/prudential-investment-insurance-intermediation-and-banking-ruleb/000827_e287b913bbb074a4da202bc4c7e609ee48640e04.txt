@@ -1,0 +1,19 @@
+accordance with the following formula:
+
+(𝐶𝑜𝑚)
+
+𝐴𝑑𝑑𝑂𝑛(𝐶𝑜𝑚) = ∑𝐴𝑑𝑑𝑂𝑛𝐻𝑆𝑗
+
+𝑗
+
+A4.7
+
+Credit RWA - repurchase agreements, reverse repurchase agreements, similar transactions and other deferred settlements
+
+A4.7.1
+
+This Section applies to transactions in the Trading Book in relation to repurchase agreements, reverse repurchase agreements, similar transactions and deferred settlements.
+
+A4.7.2
+
+For repurchase agreements and reverse repurchase agreements the formula for Credit RWA, which must be calculated from T, is as follows:

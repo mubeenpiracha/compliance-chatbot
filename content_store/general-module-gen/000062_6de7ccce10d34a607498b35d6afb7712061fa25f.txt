@@ -1,0 +1,27 @@
+Exclusions
+
+2.8.2 A Person does not Deal in Investments as Agent if the activity:
+
+(a)
+
+is carried on in the course of providing legal or accountancy services which do not otherwise consist of the carrying on of Financial Services;
+
+(b)
+
+may reasonably be regarded as a necessary part of any other services provided in the course of providing legal or accountancy services; and
+
+(c)
+
+is not remunerated separately from the other services.
+
+2.8.3 A Person does not Deal in Investments as Agent if that Person:
+
+(a)
+
+is merely receiving and transmitting a Client order in respect of an Investment or Crypto Token; and
+
+(b)
+
+does not execute the Client order for and on behalf of the Client or otherwise commit the Client to the transaction relating to the relevant Investment or Crypto Token.
+
+2.8.4 An Exchange does not Deal in Investments as Agent merely by taking action

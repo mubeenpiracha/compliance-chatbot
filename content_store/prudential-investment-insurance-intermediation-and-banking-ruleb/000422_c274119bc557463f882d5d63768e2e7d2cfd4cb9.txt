@@ -1,0 +1,13 @@
+Securitisation or a Synthetic Securitisation:
+
+(a)
+
+the Authorised Person intending to conduct the securitisation must notify the Regulator at least 30 days in advance of the proposed execution of the securitisation;
+
+(b)
+
+the Authorised Person conducting the securitisation must calculate its Credit RWAs for all resultant Exposures from that securitisation, in accordance with Section 4.8, provided the requirements of this Section are met; and
+
+(c)
+
+the securitisation must produce the Authorised Person conducting documentation reflecting the execution and economic substance of the transaction.

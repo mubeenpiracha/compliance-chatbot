@@ -1,0 +1,23 @@
+311
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+structure and identify each underlying asset and add that Exposure to the other Exposures of the same counterparty.
+
+(5)
+
+If an Authorised Firm looks through the structure to identify underlying assets and one or more underlying assets cannot be identified, the Authorised Firm must aggregate and assign that Exposure to a single "unknown customer" to which the Large Exposure limits apply.
+
+(6)
+
+If the Exposure to the underlying assets in a structure depends on the hierarchy of loss distribution to investors in the event of the winding up of the structure, an Authorised Firm must treat its Exposure to the structure:
+
+(a)
+
+as the pro rata share of the firm’s Exposure multiplied by the value of the underlying asset, where all investors rank equally; or
+
+(b)
+
+as the pro rata share of the firm’s investment in the structure multiplied by the lower of the tranche value or the nominal value of the underlying assets in the structure, where the seniority differs.

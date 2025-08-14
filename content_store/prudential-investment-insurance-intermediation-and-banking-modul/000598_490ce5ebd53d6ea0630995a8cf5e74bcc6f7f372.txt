@@ -1,0 +1,15 @@
+change to the interface, except in an emergency;
+
+(d) adequately test the interface to ensure reliability and performance;
+
+(e) establish key performance indicators and service level standards with the PAP; and
+
+(f)
+
+request the PAP to provide adequate contingency measures in the event the interface is not available and test the measures for reliability.
+
+Systems and controls to detect fraud
+
+6.13.6 (1) An Authorised Firm must have in place transaction monitoring systems and controls to detect and prevent unauthorised or fraudulent Payment Transactions.
+
+(2) The systems referred to in (1) must be designed to take into account the following

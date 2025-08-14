@@ -1,0 +1,3 @@
+if the rights, assets or liabilities covered by the contract remain with the Institution in Resolution and the Regulator has not applied the bail-in tool in accordance with section 49(1)(a) to Eligible Liabilities under that contract, a counterparty may exercise termination rights in accordance with the terms of that contract on the expiry of a suspension under subsection (1).
+
+When exercising a power under this section, the Regulator shall have regard to the impact that the exercise of the power might have on the orderly functioning of financial markets.

@@ -1,0 +1,11 @@
+Cash legs of reverse repos
+
+A6.2.12
+
+(1)
+
+The forward cash leg of a reverse repo must be treated as a notional long position in a government security with a maturity equal to that of the reverse repo and coupon equal to the repo rate.
+
+(2)
+
+An Authorised Person may exclude from the interest rate maturity framework (for both Specific and General Market Risk) long and short positions (both actual and notional) in identical Derivative instruments with exactly the same Issuer, coupon, currency and maturity. A fully-matched position in a Future or forward and its corresponding underlying instrument may also be fully offset, and thus excluded from the calculation.

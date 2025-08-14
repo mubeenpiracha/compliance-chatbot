@@ -1,0 +1,11 @@
+(g) Class 8
+
+18
+
+18
+
+27
+
+A4.10.2 Where an Insurer underwrites Contracts of Insurance in Class 1 or Class 2, and those contracts constitute Long-Term Insurance contracts, the Insurer must not calculate an underwriting risk component in respect of those contracts but must instead calculate a Long-Term Insurance risk component as set out in section 4.12.
+
+A4.10.3 The DFSA may, on written application by an Insurer undertaking business in Class 2, give consent in writing to the use of percentages other than those stated in item A4.10.1(a), if the DFSA is satisfied that adequate mortality and morbidity information exists in respect of that business, to provide a reasonable basis for reliance on actuarial principles. The percentages that may be used must be those stated in the notice giving consent, but may not be lower than 12% in the case of direct insurance and proportional reinsurance, and 18% in the case of non- proportional or facultative reinsurance.

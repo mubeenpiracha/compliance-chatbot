@@ -34,8 +34,11 @@ except Exception:  # fallback if not installed
 # -----------------
 # CONFIG / CONSTANTS
 # -----------------
-MANIFEST_PATH = Path("./backend/data/Manifest.csv")
-CONTENT_STORE = Path("./content_store")  # local path for heavy artifacts
+# Make paths absolute, relative to the project root, so the script can be run from anywhere.
+SCRIPT_DIR = Path(__file__).parent.resolve()
+PROJECT_ROOT = SCRIPT_DIR.parent.parent
+MANIFEST_PATH = PROJECT_ROOT / "backend" / "data" / "Manifest.csv"
+CONTENT_STORE = PROJECT_ROOT / "content_store"  # local path for heavy artifacts
 CONTENT_STORE.mkdir(parents=True, exist_ok=True)
 
 INDEX_NAME = "compliance-bot-index"
@@ -178,8 +181,10 @@ def load_documents_from_manifest() -> List[Document]:
     documents = []
     with open(MANIFEST_PATH, mode='r', encoding='utf-8') as f:
         reader = csv.DictReader(f)
+        manifest_dir = MANIFEST_PATH.parent
         for row in reader:
-            file_path = Path(row["file_path"])
+            # Paths in manifest are relative to the manifest's directory
+            file_path = manifest_dir / row["file_path"]
             if not file_path.exists():
                 print(f"WARN: File not found, skipping: {file_path}")
                 continue

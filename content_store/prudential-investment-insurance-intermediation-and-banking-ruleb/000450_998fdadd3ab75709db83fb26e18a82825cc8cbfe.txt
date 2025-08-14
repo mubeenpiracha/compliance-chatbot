@@ -1,0 +1,15 @@
+Credit Risk mitigation
+
+4.14.46 Where an Authorised Person obtains credit protection on a securitisation Exposure, the calculation of Credit RWA amounts must be in accordance with the Rules in CRM in Section 4.13.
+
+4.14.47 Where an Authorised Person provides credit protection to a securitisation Exposure it must calculate a Capital Requirement as if it were an investor in the securitisation in line with Section 4.13.
+
+4.14.48 An Authorised Person must not recognise any SPE which is an Issuer of securitisation Exposures, as an eligible credit protection provider. Guarantees provided must meet the requirements of Section 4.13.
+
+4.14.49 For the purpose of setting regulatory capital against a Maturity Mismatch, the Capital Requirement must be determined in accordance with Section 4.13. When Exposures
+
+163
+
+PRU VER17.290725
+
+being hedged have different maturities, the longest maturity must be used. Maturity of credit protection must be calculated in accordance with Section 4.13.

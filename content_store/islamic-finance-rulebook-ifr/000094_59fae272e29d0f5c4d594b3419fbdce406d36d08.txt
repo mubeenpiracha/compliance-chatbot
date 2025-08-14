@@ -1,0 +1,7 @@
+(ix)
+
+In determining the E of an Istisna'a contract, the exposures arising from such a contract should not be netted off against exposures arising from a Parallel Istisna'a contract entered into by an Authorised Person for procuring the underlying investment for the Istisna'a contract.
+
+(x)
+
+In determining the E of a Salam contract, the exposures arising from such a contract should not be netted off against exposures arising from a Parallel Salam contract entered into by an Authorised Person for procuring the underlying asset for the Salam contract.

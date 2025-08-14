@@ -1,0 +1,11 @@
+Anti-Money Laundering, Counter-Terrorist Financing and Sanctions Module (AML)
+
+going basis. CDD is required to be undertaken following a risk-based assessment of the customer and the proposed business relationship, transaction or product.
+
+3.
+
+Relevant Persons should note that the ongoing CDD requirements in Rule 7.6.1 require a Relevant Person to ensure that it reviews a customer’s risk rating to ensure that it remains appropriate in light of the AML risks.
+
+4.
+
+The DFSA is aware that in practice there will often be some degree of overlap between the customer risk assessment and CDD. For example, a Relevant Person may undertake some aspects of CDD, such as identifying a Beneficial Owner, when it performs a risk assessment of the customer. Conversely, a Relevant Person may also obtain relevant information as part of CDD which has an impact on its customer risk assessment. An example of such relevant information is information on the ownership and control structure of the customer. Where information obtained as part of CDD of a customer affects the risk rating of a customer, the change in risk rating should be reflected in the degree of CDD undertaken.

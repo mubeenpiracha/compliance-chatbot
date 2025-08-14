@@ -1,0 +1,15 @@
+in accordance with
+
+this Rule,
+
+4.14.37 An Authorised Person wishing to apply the treatment referred to in Rule 4.14.37 must notify the Regulator, in writing, at least 30 days in advance, of the intention to adopt this treatment. The notification should include the treatments being adopted and the weightings applied under the provision.
+
+4.14.38 The resulting weighted average risk weight must not be higher than 1000% or lower
+
+than the risk weight applicable to a more senior tranche which is rated.
+
+4.14.39 An Authorised Person must have systems and controls in place to monitor effectively the composition of Exposures where the look-through provision has been applied on an ongoing basis.
+
+Exposures that are in a second loss position or better of an ABCP
+
+4.14.40 An Authorised Person may apply a risk weight of 100% or the highest risk weight assigned to any of the underlying Exposures in the ABCP Programme, whichever is higher, to an unrated securitisation Exposure arising from the ABCP Programme, provided the securitisation position complies with the following conditions:

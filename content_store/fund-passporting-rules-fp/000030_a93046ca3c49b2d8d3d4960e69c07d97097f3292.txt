@@ -1,0 +1,15 @@
+8.2 Notification of de-registration by Home Regulator
+
+8.2.1 This Section applies if the Regulator is the Host Regulator in relation to a
+
+Passported Fund.
+
+8.2.2 If a Home Regulator informs the Regulator that a Passported Fund has been de-registered and removed from the Register of Passported Funds maintained by that Home Regulator, the Regulator will promptly update the Register of Passported Funds maintained by it to reflect such de-registration.
+
+8.2.3 All Promotion of the Passported Fund in ADGM pursuant to these Rules must immediately cease upon its removal from the earlier of the relevant Home Jurisdiction’s Register of Passported Funds or the Register of Passported Funds maintained by the Regulator.
+
+10
+
+FP VER01.110319
+
+9.

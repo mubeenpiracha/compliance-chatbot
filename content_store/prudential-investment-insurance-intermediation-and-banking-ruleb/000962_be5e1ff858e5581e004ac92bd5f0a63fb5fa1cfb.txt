@@ -1,0 +1,49 @@
+Specific Risk
+
+A6.3.24 Specific Risk must be calculated for each net position in an individual equity.
+
+350
+
+PRU VER17.290725
+
+A6.3.25 The Specific Risk of each individual net equity position is its market value (ignoring the
+
+sign) multiplied by 8%.
+
+A6.3.26
+
+[Reserved]
+
+A6.3.27
+
+[Reserved]
+
+A6.3.28
+
+[Reserved]
+
+A6.3.29 An Authorised Person must calculate General Market Risk on a country-by-country
+
+basis.
+
+A6.3.30 An Authorised Person must calculate the General Market Risk for each country in the
+
+following way:
+
+(a)
+
+all individual net positions are multiplied by 8%;
+
+(b)
+
+long and short positions in each country portfolio are netted; and
+
+(c)
+
+if the net equity position is negative, the sign must be reversed.
+
+Simplified method
+
+A6.3.31 The Equity Risk Capital Requirement for each country is the sum of the market value of all individual net positions (ignoring the sign) multiplied by the appropriate risk percentage in the table below:
+
+Position Single equities Broad-based indices (not broken down into constituent equities) All other indices (not broken down into constituent equities)

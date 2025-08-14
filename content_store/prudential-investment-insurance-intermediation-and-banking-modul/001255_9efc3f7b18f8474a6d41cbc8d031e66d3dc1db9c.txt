@@ -1,0 +1,19 @@
+foreign currencies and commodities that:
+
+(i) are expected to settle within the standard settlement cycle or period that is customary for the relevant exchange or type of transaction; or
+
+(ii) have failed to, but are still expected to, settle.
+
+Unencumbered assets included in Rule A9.2.6(2) (Level 1 HQLA), excluding assets receiving a 0% RSF Factor as specified above.
+
+Unencumbered loans to financial institutions with residual maturities of less than six months, if the loan is secured against Level 1 HQLA included in Rule A9.2.6, and where the bank has the ability freely to hypothecate the received collateral for the life of the loan.
+
+All loans to financial institutions with a residual maturity of less than six months, other than those receiving a 10% RSF Factor as specified above.
+
+Unencumbered assets as defined in Rule A9.2.7(2) (Level 2 HQLA).
+
+(a) unencumbered assets included in Rule A9.2.8(2) (Level 2B HQLA),
+
+excluding any haircuts required under that Rule;
+
+(b) any HQLA as defined in Rules A9.2.6 to A9.2.8 that are encumbered

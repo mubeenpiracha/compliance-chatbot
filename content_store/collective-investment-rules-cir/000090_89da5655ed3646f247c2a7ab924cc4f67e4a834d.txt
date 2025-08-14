@@ -1,0 +1,37 @@
+Requirements for External Funds
+
+Guidance
+
+Article 14(1) of the Law provides that a Fund is an External Fund if that Fund:
+
+a.
+
+is established in a jurisdiction other than the DIFC; and
+
+b.
+
+is managed by a Fund Manager which is an Authorised Firm.
+
+Application
+
+This section applies to the Fund Manager of an External Fund.
+
+26
+
+CIR/VER38/08-24
+
+6.2.2
+
+6.2.3
+
+6.2.4
+
+COLLECTIVE INVESTMENT RULES (CIR)
+
+The Fund Manager of an External Fund must:
+
+(a) have systems and controls which are adequate to ensure compliance with the requirements that apply to the External Fund in the jurisdiction in which it is established or domiciled; and
+
+(b)
+
+inform the DFSA of the jurisdiction in which the Fund is or is to be established or domiciled and the nature of regulatory requirements applicable to the Fund in the host jurisdiction.

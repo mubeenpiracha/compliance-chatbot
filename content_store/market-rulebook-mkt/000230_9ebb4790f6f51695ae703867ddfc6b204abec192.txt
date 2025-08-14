@@ -1,0 +1,21 @@
+(3)
+
+The Stabilisation Manager must not conduct, nor allow his Stabilisation Agent to conduct, Price Stabilisation in any case where:
+
+(a)
+
+the market price of the Relevant Securities is falsely higher than the price which would otherwise prevail; and
+
+Confidential
+
+75
+
+MKT VER09.020125
+
+(b)
+
+the Stabilisation Manage knows or ought reasonably to have known that the falsity in the market price was attributable in whole or in part to any conduct by a Person who was in breach of the Market Abuse provisions; or
+
+(c)
+
+any requirements of a Recognised Investment Exchange or any other exchange have not been complied with.

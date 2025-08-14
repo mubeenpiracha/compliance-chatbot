@@ -1,0 +1,5 @@
+(f)
+
+where appropriate, ensure that the relevant equivalent of a Suspicious Activity/Transaction Report is filed in all other jurisdictions related to a suspicious Payment Transaction and make available to all authorities responsible for AML/TFS compliance all transaction information related to the suspicious transaction.
+
+(2) An Authorised Person making an assessment under (1) must rely upon current sources of information when making such assessment and must keep adequate records concerning such assessments, including all sources and materials considered, for a period of at least six years.

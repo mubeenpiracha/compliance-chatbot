@@ -1,0 +1,17 @@
+Nominee Company
+
+A company incorporated in the DIFC whose business consists solely of acting as a holder of Client Assets where such assets are held by the Nominee Company as agent of an Authorised Firm.
+
+Non-Cellular Assets
+
+Assets of a Protected Cell Company which are not Cellular Assets.
+
+Non-Cellular Liabilities
+
+Liabilities that may not be settled by disposition of cellular assets.
+
+Non-DIFC insurer
+
+Non-DIFC Scheme
+
+A Person, other than an Insurer, who is authorised and supervised as an insurer by a Financial Services Regulator. Means an Employee Money Purchase Scheme or any similar scheme or arrangement that is established outside the DIFC.

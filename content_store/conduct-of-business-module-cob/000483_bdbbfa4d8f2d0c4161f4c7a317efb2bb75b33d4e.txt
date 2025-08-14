@@ -1,0 +1,17 @@
+11.6.1 This section applies to a Property Investment Crowdfunding Operator.
+
+Property characteristics
+
+11.6.2 The operator must ensure that each property listed for sale on its platform satisfies
+
+both of the following conditions:
+
+(a) the property consists of an individual apartment, house or building with a single
+
+discrete title deed; and
+
+(b) the property may be used only for residential purposes.
+
+Guidance
+
+Property Investment Crowdfunding permits investors to invest in one or more Special Purpose Vehicles that each hold a single property. The operator should not facilitate investments in a pool of properties held in a single Special Purpose Vehicle; as such a pooling arrangement is likely to constitute a Collective Investment Fund. GEN Rule 2.2.10E prohibits an operator from operating such a Fund.

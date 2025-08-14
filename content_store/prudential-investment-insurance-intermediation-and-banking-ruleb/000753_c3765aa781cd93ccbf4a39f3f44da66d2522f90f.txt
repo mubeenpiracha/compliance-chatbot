@@ -1,0 +1,43 @@
+A4.2
+
+Credit conversion factors (CCFs) for calculating Exposures
+
+CCFs for off-balance sheet CR Exposures
+
+A4.2.1
+
+The applicable CCFs for off-balance sheet CR Exposures are provided in the table below.
+
+Description of off-balance sheet item
+
+CCF
+
+(a) Direct credit substitutes
+
+100%
+
+(b) Transaction-related contingent items
+
+50%
+
+(c)
+
+Short-term self-liquidating trade-related contingent items (applicable to both issuing and confirming banks) and commitments to underwrite debt and equity Securities
+
+20%
+
+(d)
+
+Note issuance facilities and revolving Underwriting facilities
+
+50%
+
+(e)
+
+Transactions, other than SFTs, involving the posting of Securities held by the Authorised Person as Collateral
+
+100%
+
+274
+
+PRU VER17.290725

@@ -1,0 +1,13 @@
+a.
+
+test correlation assumptions (where risks are aggregated in this way) using combined stresses and scenario analyses;
+
+b.
+
+use stress tests to identify the extent to which the firm's risk models omit non-linear effects, for instance the behaviour of derivatives in Market Risk models; and
+
+c.
+
+consider not just the effect of parallel shifts in interest rate curves, but also the effect of the curves becoming steeper or flatter.
+
+10. Any internal assessment of capital adequacy should address diversification benefits and transferability of Capital Resources between members of the Financial Group. It should also describe the distribution of the capital required by the Financial Group across all entities, including the Authorised Firm.

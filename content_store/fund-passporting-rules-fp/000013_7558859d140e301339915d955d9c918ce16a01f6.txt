@@ -1,0 +1,13 @@
+“No regulatory authority in the UAE has any responsibility for reviewing or verifying this prospectus or any other documents in connection with the promotion of this fund. Accordingly, no regulatory authority in the UAE has approved this prospectus or any other associated documents, nor taken any steps to verify the information set out herein, and therefore no regulatory authority in the UAE has any responsibility for the same. This Passported Fund is a Public Fund and, accordingly, the units thereof may be promoted, including by means of a public offer of the units for public subscription, to persons in [insert relevant Host Jurisdictions].";
+
+(f)
+
+include the relevant fee;
+
+(g)
+
+include a copy of the Key Investor Information Document (KIID) in both English and Arabic; and
+
+(h)
+
+contain, and be accompanied by, such other information as the Regulator may reasonably require.

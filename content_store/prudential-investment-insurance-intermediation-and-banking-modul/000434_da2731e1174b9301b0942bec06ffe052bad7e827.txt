@@ -1,0 +1,19 @@
+Guidance
+
+1.
+
+An Authorised Firm should not recognise the effects of Credit Risk mitigation of a total return swap if it purchases credit protection through a total return swap and records the net payments received on the swap as net income, but does not record offsetting deterioration in the value of the underlying asset that is protected (either through reductions in its marked- to-market value or by an addition to reserves).
+
+2.
+
+The DFSA would generally consider the requirements in (f) to have been complied with even if the requirements are not specifically set out so long as the obligations of the credit protection provider under the Credit Derivative contract would include those requirements.
+
+3.
+
+The DFSA would generally consider the cash settlement methodology provided in the ISDA Credit Derivatives Definitions as satisfying the requirement for obtaining post-credit event valuations of the underlying obligation.
+
+139
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)

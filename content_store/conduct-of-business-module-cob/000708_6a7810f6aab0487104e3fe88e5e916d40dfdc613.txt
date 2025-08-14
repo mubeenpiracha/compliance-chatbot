@@ -1,0 +1,19 @@
+parties
+
+(1) Where a Payment Transaction is initiated by or through a payee or a third
+
+party, the Authorised Firm must:
+
+(a) not block funds in the User's Payment Account unless the payer has
+
+authorised the exact amount of funds to be blocked;
+
+(b) release the blocked funds without undue delay after receipt of the
+
+Payment Order with the exact amount; and
+
+(c) if the amount of the Payment Transaction is unreasonable, taking into account the User's previous spending pattern and the conditions in the Client Agreement, refund the User, or justify not providing a refund, within 10 business days.
+
+(2) The right to a refund referred to in (1)(c) does not apply if the User:
+
+(a) received information about the proposed Payment Transaction at least 4

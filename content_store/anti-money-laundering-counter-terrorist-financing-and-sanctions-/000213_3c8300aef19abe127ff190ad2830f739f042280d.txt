@@ -1,0 +1,25 @@
+13.3 Suspicious activity report
+
+13.3.1 A Relevant Person must ensure that where the Relevant Person’s MLRO receives a
+
+notification under Rule 13.2.2, the MLRO, without delay:
+
+(a)
+
+inquires into and documents the circumstances in relation to which the notification made under Rule 13.2.2 was made;
+
+(b)
+
+determines whether in accordance with Federal AML legislation a Suspicious Activity Report must be made to the FIU and documents such determination;
+
+(c)
+
+if required, makes a Suspicious Activity Report to the FIU as soon as practicable; and
+
+(d)
+
+notifies the DFSA of the making of such Suspicious Activity Report immediately following its submission to the FIU.
+
+64
+
+AML/VER27/03-25

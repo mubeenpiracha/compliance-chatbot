@@ -1,0 +1,15 @@
+Guidance
+
+The classes of insurance are set out in GEN App4. These include both insurance and reinsurance contracts relating to life insurance and non-life insurance (such as accident, sickness, property and travel insurance). However, the prohibitions in Rule 7.2.2 only apply to a Contract of Insurance that is not a contract of re-insurance.
+
+7.2.3
+
+An Insurer must ensure that it does not carry on, through an establishment maintained by it in the DIFC, both Long-Term Insurance Business and General Insurance Business unless the General Insurance Business is restricted to Class 1 or Class 2 or both.
+
+7.2.4
+
+An Insurer which is a Protected Cell Company must ensure that all Insurance Business is attributable to a particular Cell of that Insurer.
+
+7.2.5
+
+An Insurer must not carry on any activity other than Insurance Business unless it is an activity in direct connection with or for the purposes of such business. For the purposes of this Rule, Managing Assets is not an activity in connection with or for the purposes of Insurance Business.

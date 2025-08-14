@@ -1,0 +1,7 @@
+for digital options, the payoff of each digital option (bought or sold) with strike, K𝑖, must be approximated via a collar combination of bought and sold European options of the same type (call or put) with strikes set equal to 0.95 ∙ K𝑖 and 1.05 ∙ K𝑖; the size of the position in the collar components must be such that the digital payoff is reproduced exactly outside the region between the two strikes; the effective notional amount for each component European option must be calculated separately using the formulae in Rule A4.8.12 with T𝑖 set equal to the exercise date of the digital option and P𝑖 set equal to the current value of the underlying for the digital option; the absolute value of the digital option effective notional amount must be capped by the ratio of the digital payoff to the relevant supervisory factor; and
+
+(e)
+
+if an option can be represented as a combination of European option payoffs, each European option component must be calculated separately.
+
+(2) For the purpose of (1) an Authorised Firm may represent multiple payment options

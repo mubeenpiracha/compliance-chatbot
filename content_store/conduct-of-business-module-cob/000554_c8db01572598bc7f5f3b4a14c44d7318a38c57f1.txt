@@ -1,0 +1,17 @@
+172
+
+COB/VER48/03-25
+
+CONDUCT OF BUSINESS (COB)
+
+(d)
+
+ensure that Direct Access Members fully comply with the Operating Rules of the facility and promptly address any gaps and deficiencies that are identified.
+
+(3)
+
+An ATS Operator must have adequate resources and systems to carry out front-line monitoring of the trading activities of Direct Access Members.
+
+(4)
+
+An ATS Operator must ensure that, to the extent that any of the systems and controls referred to in (1) are embedded within, or otherwise facilitated through DLT, they are included within the scope of the annual audit and the written report required under Rule 14.5.1.

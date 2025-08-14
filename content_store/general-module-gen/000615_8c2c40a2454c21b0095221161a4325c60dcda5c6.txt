@@ -1,0 +1,11 @@
+For a Token to confer rights and obligations that are substantially similar in nature to those conferred by a specific Security or Derivative, it should confer rights and obligations that give it most of the main characteristics of the relevant type of Security or Derivative. That is, it is not enough to confer part only of the rights and obligations that are characteristic of the relevant Security or Derivative, or to confer hybrid rights or interests that are not typical of either one type of Security or Derivative or another. As noted in paragraph 10 above, it is possible for an Investment Token to confer additional rights and obligations that go beyond those conferred by one specific Security or Derivative.
+
+12.
+
+The DFSA considers that key factors to take into account when determining whether a Token is an Investment Token and, if so, which particular type (or types) of Security or Derivative it constitutes include:
+
+201
+
+GEN/VER67/03-25
+
+GENERAL (GEN)

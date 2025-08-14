@@ -1,0 +1,37 @@
+should be read as applying to each Cell individually.
+
+49
+
+PIN/VER18/04-23
+
+PRUDENTIAL – INSURANCE BUSINESS (PIN)
+
+APP1 GUIDE TO THE APPENDICES
+
+A1.1 Guide to the appendices
+
+Guidance
+
+1.
+
+In PIN, appendices have been used to present detailed material which would otherwise break up the flow of the main text.
+
+2.
+
+App2 presents detailed guidance on systems and controls issues particularly relevant to Insurers.
+
+3.
+
+The remaining appendices are all concerned with capital adequacy calculations and reporting.
+
+4.
+
+A fundamental requirement of chapter 4 of the Rules is that an Insurer’s capital resources should be at least equal to its capital requirement.
+
+5.
+
+App3 contains the Rules for the calculation of an Insurer’s capital resources, for a normally structured Insurer. App5 and App7 contain the corresponding rules for a Protected Cell Company and a segregated Long-Term Insurance Fund respectively.
+
+6.
+
+App4 contains the Rules for the calculation of an Insurer’s capital requirement, for a normally structured insurer. App6 and App8 contain the corresponding rules for a Protected Cell Company and a segregated Long-Term Insurance Fund respectively. They make frequent reference to App4.

@@ -1,0 +1,17 @@
+This Chapter requires an Authorised Person to:
+
+a.
+
+appropriately apply a risk-weight to all on-balance sheet assets and off-balance sheet Exposures for capital adequacy purposes. A risk-weight is based on a Credit Quality Grade aligned with the likelihood of Counterparty default;
+
+b.
+
+calculate the Credit Risk Capital Requirement for its on-balance sheet assets and off-balance sheet Exposures; and
+
+c.
+
+reduce the Credit Risk Capital Requirement for its on-balance sheet assets and off-balance sheet Exposures where the Exposure is covered fully or partly by some form of eligible Credit Risk mitigant.
+
+4.
+
+App4 provides detailed requirements, parameters, calculation methodologies and formulae in respect of the primary requirements outlined in Chapter 4.

@@ -1,0 +1,43 @@
+the expected timing of those Exploration activities;
+
+Confidential
+
+139
+
+MKT VER09.020125
+
+(3)
+
+the Petroleum Reporting Entity’s assessment of the likelihood of discovery and development associated with the disclosed estimates of Prospective Resources; and
+
+(4)
+
+an explanation of the relevant risk factors.
+
+Guidance
+
+Sections 1.1, 2.16, 3.2, 4.8, 6.2, 7.1 and 8.5 of the PRMS Guidelines provide additional guidance on Prospective Resources.
+
+12.9 Contingent Resources
+
+12.9.1 A Petroleum Reporting Entity disclosing estimates of Contingent Resources must:
+
+(1)
+
+be categorised and disclosed as either C1, C2 or C3 in the category that best reflects the degree of uncertainty in the estimated quantities of potentially recoverable Petroleum and if an estimate of C3 is disclosed, also disclose estimates of C2 and C1;
+
+(2)
+
+not disclose a mean estimate of Contingent Resources; and
+
+(3)
+
+where the disclosure represents aggregated estimates of Contingent Resources:
+
+(a)
+
+include the aggregation method used, which must be either:
+
+(i)
+
+an arithmetic summation by category (being C1, C2 or C3); or

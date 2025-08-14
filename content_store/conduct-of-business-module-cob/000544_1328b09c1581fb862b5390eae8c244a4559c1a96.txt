@@ -1,0 +1,25 @@
+ADDITIONAL REQUIREMENTS FINANCIAL SERVICES RELATING TO INVESTMENT TOKENS
+
+FOR
+
+FIRMS PROVIDING
+
+14.1 Technology and governance requirements for Operating a Facility
+
+for Investment Tokens
+
+14.1.1 Without limiting the generality of the technology resources requirements in section
+
+9.5, an Authorised Firm Operating a Facility for Investment Tokens must:
+
+(a)
+
+ensure that any DLT application used by the facility operates on the basis of ‘permissioned’ access, so that it allows the operator to have and maintain adequate control over the Persons who are permitted to access and update records held on that DLT application;
+
+(b)
+
+establish and maintain adequate measures to ensure that the DLT application used by the facility, and the associated rules and protocols, contain:
+
+(i)
+
+clear criteria governing Persons who are permitted to access and update records for the purposes of trading or clearing Investment Tokens on the facility, including criteria about the integrity, credentials and competencies appropriate to the roles played by such persons;

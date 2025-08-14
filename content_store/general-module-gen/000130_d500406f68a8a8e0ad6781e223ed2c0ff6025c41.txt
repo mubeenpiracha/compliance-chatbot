@@ -1,0 +1,29 @@
+In Rule 2.2.2, Operating an Alternative Trading System means:
+
+(a)
+
+operating a Multilateral Trading Facility (“MTF”); or
+
+(b)
+
+operating an Organised Trading Facility (“OTF”).
+
+(2)
+
+In (1)(a), a Person operates an MTF if that Person operates a system which brings together multiple third party buying and selling interests in Investments or Crypto Tokens, in accordance with its non- discretionary rules, in a way that results in a contract in respect of such Investments or Crypto Tokens.
+
+(3)
+
+In (1)(b), a Person operates an OTF if that Person operates a system which brings together multiple third party buying and selling interests
+
+36
+
+GEN/VER67/03-25
+
+GENERAL (GEN)
+
+in Investments, in accordance with its discretionary rules, in a way that results in a contract in respect of such Investments.
+
+(4)
+
+A Person must not operate a system relating to Crypto Tokens that would be an OTF if the definition in (3) applied to Crypto Tokens.

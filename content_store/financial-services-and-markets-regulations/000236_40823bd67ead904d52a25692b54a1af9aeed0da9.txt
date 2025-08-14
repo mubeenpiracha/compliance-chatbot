@@ -1,0 +1,9 @@
+A counterparty or a Recognised Clearing House that reports the details of an OTC Derivative Contract to a Trade Repository or to the Regulator, or an entity that reports such details on behalf of a counterparty or a Recognised Clearing House shall not be considered in breach of any restriction on disclosure of information imposed by that contract or by any enactment or subordinate legislation. No liability resulting from that disclosure shall lie with the reporting entity or its officers, agents or employees.
+
+(6)
+
+The Regulator may make Rules specifying the details, type, format, frequency and reporting deadlines of the reports for the different classes of OTC Derivatives. The reports shall specify at least—
+
+(a)
+
+the parties to the OTC Derivative Contract and, where different, the beneficiary of the rights and obligations arising from it; and

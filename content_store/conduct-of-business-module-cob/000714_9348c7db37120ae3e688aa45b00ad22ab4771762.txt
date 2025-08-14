@@ -1,0 +1,25 @@
+A7.2.14 Right of recourse
+
+Nothing in this section restricts or prevents an Authorised Firm’s or User’s right of recourse against another person who is at fault.
+
+A7.2.15
+
+Incident Reporting
+
+If an Authorised Firm becomes aware of a major operational or security incident, the firm must, without undue delay:
+
+(a)
+
+inform its Users of the incident and of all measures that it is taking to limit the adverse effects of the incident; and
+
+(b) notify the DFSA in accordance with the requirements in GEN Rules 4.2.10
+
+and 11.10.7.
+
+A7.2.16 No interest or other return permitted
+
+An Authorised Firm must not pay any interest or other return on amounts in a Payment Account.
+
+A7.2.17 Payment Accounts only to be used for Payment Transactions
+
+An Authorised Firm must not permit a Payment Account to be used for a purpose other than making Payment Transactions.

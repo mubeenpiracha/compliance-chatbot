@@ -1,0 +1,17 @@
+Guidance
+
+The liability referred to in Rule 5.4.8 is commonly referred to as the liability for outstanding claims. Some insurers represent this liability as three separate provisions, being the liability in respect of reported claims, the liability in respect of claims incurred but not reported, and the liability in respect of settlement costs, also known as loss adjustment expenses.
+
+5.4.9
+
+An Insurer must treat as an asset the value of reinsurance and other recoveries expected to be received in respect of claims referred to in Rules 5.4.7 and 5.4.8.
+
+5.4.10 Where this section requires an Insurer to recognise as a liability the value of expected future payments, that liability must be calculated in accordance with the appropriate measurement model determined under IFRS 17.
+
+21
+
+PIN/VER18/04-23
+
+PRUDENTIAL – INSURANCE BUSINESS (PIN)
+
+5.4.11 Where this section requires an Insurer to recognise as an asset the value of expected future receipts, that asset must be calculated in accordance with the appropriate measurement model determined under IFRS 17.

@@ -1,0 +1,27 @@
+Transaction type
+
+Minimum holding period
+
+Remargining/ Revaluation Condition
+
+Repos, reverse repos, Securities or commodities lending or Securities or commodities borrowing transactions
+
+Five business days
+
+daily remargining
+
+OTC Derivative transactions and margin lending transactions
+
+Ten business days
+
+daily remargining
+
+Exposures secured by eligible financial Collateral
+
+Twenty business days
+
+daily revaluation
+
+A4.3.25 Where the assumed minimum holding period is not met or remargining or revaluation conditions are not fulfilled, an Authorised Person must calculate the applicable haircut using the following formula:
+
+H = HM √{[NR + (TM - 1)]/ TM}

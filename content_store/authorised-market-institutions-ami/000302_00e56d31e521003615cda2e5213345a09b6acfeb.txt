@@ -1,0 +1,33 @@
+the name of each Controller; and
+
+(b)
+
+the current holding of each Controller, expressed as a percentage.
+
+Guidance
+
+1.
+
+An Authorised Market Institution may satisfy the requirements of Rule 8.2.9 by submitting a corporate structure diagram containing the relevant information.
+
+2.
+
+An Authorised Market Institution must take account of the holdings which the Controller, either alone or with an Associate, has in the Authorised Market Institution or any Holding Company of that institution (see the definition of a Controller in Rule 8.1.2).
+
+Other powers relating to Controllers
+
+(1) Without limiting the generality of its other powers, the DFSA may, subject only to (2), object to a Person as a Controller of an Authorised Market Institution where such a Person:
+
+(a)
+
+has acquired or increased the level of control that Person has in an Authorised Market Institution without the prior written approval of the DFSA as required under Rule 8.2.1;
+
+93
+
+AMI/VER28/03-25
+
+AUTHORISED MARKET INSTITUTIONS (AMI)
+
+(b)
+
+has breached the requirement in Rule 8.2.5 to comply with conditions of approval applicable to that Person; or

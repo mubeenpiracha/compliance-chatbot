@@ -1,0 +1,5 @@
+10. Additional requirements include other off-balance sheet liabilities or obligations.
+
+11. Outflows related to derivative exposures and other collateral requirements include expected contractual derivatives cash flows on a net basis. These outflows also include increased liquidity needs related to: downgrade triggers embedded in financing transactions, derivative and other contracts; the potential for valuation changes on posted collateral securing derivatives and other transactions; excess non-segregated collateral held at the bank that could contractually be called at any time; contractually required collateral on transactions for which the counterparty has not yet demanded that the collateral be posted; contracts that allow collateral substitution to non- HQLA assets; and market valuation changes on derivatives or other transactions.
+
+12. Outflows related to loss of funding on secured debt products include loss of funding on: asset- backed securities, covered bonds and other structured financing instruments; and asset-backed commercial paper, conduits, securities investment vehicles and other such financing facilities.

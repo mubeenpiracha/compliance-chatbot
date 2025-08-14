@@ -1,0 +1,11 @@
+a.
+
+If an internal CVA hedge is not an Eligible CVA Hedge, then both positions belong to the Trading Book where they cancel each other, so there is no impact on either the CVA portfolio or the trading book.
+
+b.
+
+If an internal CVA hedge is an Eligible CVA Hedge, then the CVA desk’s position is part of the CVA portfolio where it is capitalised as set out in this section, while the trading desk’s position is part of the trading book where it is capitalised as set out in Rule 5.3.1.
+
+Reduced version of BA-CVA (hedges are not recognised)
+
+A5.10.4 If an Authorised Firm does not use any Eligible CVA Hedges to hedge CVA Risk it must calculate its Credit Valuation Adjustment Risk Capital Requirement, using the following formula:

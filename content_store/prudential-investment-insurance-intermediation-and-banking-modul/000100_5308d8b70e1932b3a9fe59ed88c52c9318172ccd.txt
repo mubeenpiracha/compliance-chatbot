@@ -1,0 +1,23 @@
+25
+
+PIB/VER50/07-25
+
+1.4.3
+
+1.4.4
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+also has to publish quantitative indicators relating to its systemic importance (see Rule 11.1.3 and App 11 Table 15) and carry out recovery and resolution planning.
+
+Domestic Systemically Important Banks (D-SIBs)
+
+The DFSA may designate an Authorised Firm as a D-SIB if:
+
+(a)
+
+it is a Domestic Firm or Branch in Category 1, 2 (other than a Matched Principal) or 5; and
+
+(b)
+
+the DFSA considers that the risks associated with the Authorised Firm are such that, if it were to fail, it could have a significant impact on the effective working and stability of the banking or financial system locally or regionally.

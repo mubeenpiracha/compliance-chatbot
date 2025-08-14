@@ -1,0 +1,21 @@
+Application of Bail-in Tool
+
+3.4.1
+
+(1)
+
+The DFSA may exercise one or more Resolution Powers, in particular the Write Down or Conversion Power as set out in rule 3.2.5 in order to apply the Bail-in Tool to an Authorised Firm.
+
+(2)
+
+The Bail-in Tool may be applied in respect of any capital instrument and liability of an Authorised Firm (Eligible Liability), provided that the liability is not excluded from the scope of the Bail-in Tool under (3) or (4).
+
+(3)
+
+The DFSA may not exercise the Write Down or Conversion Power in relation to the following liabilities (whether they are governed by DIFC law or by the law of another jurisdiction):
+
+(a)
+
+secured liabilities, but this exclusion does not prevent the write down of any liability in respect of net sum following close out of a Derivative in accordance with Rule 3.4.5;
+
+(b)

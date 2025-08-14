@@ -1,0 +1,23 @@
+1.
+
+Sum of all eligible high-quality liquid assets (HQLA), as defined in section A9.2 in App 9, before the application of any limits, excluding assets that do not meet the operational requirements, and including, where applicable, assets qualifying under alternative liquidity approaches.
+
+2.
+
+Retail deposits/PSIAs and deposits/PSIAs from small business customers are the sum of stable deposits/PSIAs, less stable deposits/PSIAs and any other funding sourced from (i) natural
+
+426
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+persons and/or (ii) small business customers (as defined by paragraph 231 of the Basel II framework).
+
+3.
+
+Stable deposits/PSIAs include deposits/PSIAs placed with a bank by a natural person and unsecured wholesale funding provided by small business customers, defined as “stable” in Rule A9.2.15 in App 9.
+
+4.
+
+Less stable deposits/PSIAs include deposits/PSIAs placed with a bank by a natural person and unsecured wholesale funding provided by small business customers, not defined as “stable” in Rule A9.2.15 in App 9.

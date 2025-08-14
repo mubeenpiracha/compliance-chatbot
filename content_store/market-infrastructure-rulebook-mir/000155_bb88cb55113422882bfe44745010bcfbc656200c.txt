@@ -1,0 +1,19 @@
+Derivatives
+
+When admitting to trading a Financial Instrument that is a Derivative, a Recognised Investment Exchange shall verify that the following conditions are satisfied:
+
+(a)
+
+the terms of the contract establishing the Derivative must be clear and unambiguous, and enable a correlation between the price of the Derivative and the price or other value measure of the underlying;
+
+(b)
+
+the price or other value measure of the underlying must be reliable and publicly available or ascertainable; or the contract establishing that instrument must be likely to provide a means of disclosing to the market, or enabling the market to assess, the price or other value measure of the underlying, where the price or value measure is not otherwise publicly available;
+
+(c)
+
+sufficient information of a kind needed to value the Derivative must be publicly available or ascertainable;
+
+(d)
+
+the arrangements for determining the settlement price of the contract must be such that the price properly reflects the price or other value measure of the underlying or reference;

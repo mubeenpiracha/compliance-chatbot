@@ -1,0 +1,19 @@
+(iii)
+
+are determined in accordance with the Default Rules of the Recognised Clearing House or Remote Clearing House; and
+
+(e)
+
+transfers of Property to the extent that such transfer—
+
+(i)
+
+is made by a Clearing Member to a Non-Defaulting Client or another Clearing Member instead of, or in place of, a Defaulting Client;
+
+(ii)
+
+represents the termination or close-out value of a Client Trade which is transferred from a Defaulting Client to another Clearing Member or a Non-Defaulting Client; and
+
+(iii)
+
+is of an amount that does not exceed the termination or close-out value of the Clearing Member Client Contract corresponding to that Client Trade, as determined in accordance with the Default Rules of the Recognised Clearing House or Remote Clearing House.

@@ -1,0 +1,19 @@
+The Liquidity Coverage Ratio
+
+Guidance
+
+1.
+
+The objective of the LCR is to promote short-term resilience of an Authorised Person's Liquidity Risk profile. The LCR aims to ensure that an Authorised
+
+398
+
+PRU VER17.290725
+
+Person maintains an adequate level of unencumbered HQLA that can be converted into cash to meet its liquidity needs for a 30 calendar day period under a severe liquidity stress scenario.
+
+2.
+
+The LCR is calculated under Rule 9.3.5 using the following formula:
+
+LCR = (Value of stock of HQLA) / (Total Net Cash Outflows over the next

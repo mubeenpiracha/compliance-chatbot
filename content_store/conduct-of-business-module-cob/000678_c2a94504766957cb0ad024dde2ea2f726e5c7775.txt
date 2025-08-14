@@ -1,0 +1,13 @@
+Guidance
+
+1.
+
+An Authorised Firm may record, register or hold a Client’s Investment or Crypto Token in a Client Account solely for that Client. Alternatively, an Authorised Firm may choose to pool that Client’s Investment or Crypto Token in a Client Account containing Investments or Crypto Tokens of more than one Client.
+
+2.
+
+The purpose of recording, registering or holding Investments or Crypto Tokens in a Client Account is to ensure that Investments or Crypto Tokens belonging to Clients are readily identifiable from Investments or Crypto Tokens belonging to the Authorised Firm such that, following a Distribution Event, any subsequent distribution of Investments or Crypto Tokens may be made in proportion to each Client’s valid claim over those Investments or Crypto Tokens.
+
+3.
+
+Following a Distribution Event, a Client may not have a valid claim over Investments or Crypto Tokens registered, recorded or held in a Client Account if that Client Account was not established to register, record or hold Investments or Crypto Tokens for that Client or a pool of Clients of which that Client was a part.

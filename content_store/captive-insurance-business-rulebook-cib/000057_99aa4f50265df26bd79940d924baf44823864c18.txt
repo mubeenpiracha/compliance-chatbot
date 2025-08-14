@@ -1,0 +1,29 @@
+ADDITIONAL REQUIREMENTS FOR CELL COMPANIES
+
+4.1
+
+Definitions
+
+For the purpose of Rule 4.1:
+
+(a)
+
+net Cellular Assets of a Captive Cell are the assets attributable to the Captive Cell (other than any deductible assets) less the liabilities attributable to the Captive Cell;
+
+(b)
+
+non-cellular eligible capital of a Captive Insurer that is a Cell Company means the Insurer's eligible capital calculated in accordance with Chapter 3, but excluding:
+
+(a)
+
+Cell Shares; and
+
+(b)
+
+any capital instruments or equity reserves that are attributable to a Captive Cell; and
+
+(c)
+
+recourse agreement means an agreement under which a Cell is entitled to have recourse to Non-Cellular Assets.
+
+4.2

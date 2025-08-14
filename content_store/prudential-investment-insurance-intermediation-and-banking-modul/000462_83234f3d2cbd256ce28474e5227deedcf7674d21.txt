@@ -1,0 +1,27 @@
+Operational requirements for use of external credit assessments
+
+4.14.20 The external credit assessment used for determining the applicable risk weight for a CR Exposure must be determined by taking into account the entire amount of Credit Risk (principal and interest) an Authorised Firm is exposed to.
+
+4.14.21 Credit assessments can only be considered from an ECAI, and must meet the
+
+following criteria:
+
+(a)
+
+any credit assessments used for the purposes of risk weighting must be publicly available;
+
+(b)
+
+the external credit rating agencies must have expertise and market acceptance in rating securitisations of the nature being used for risk weighting purposes;
+
+(c)
+
+Authorised Firms must apply external credit rating agency ratings consistently to all tranches of securitisations;
+
+(d)
+
+where an Exposure has two ratings from external credit rating agencies the less favourable rating must be used; and
+
+(e)
+
+where an Exposure has more than two assessments by external credit rating agencies the two most favourable ratings can be selected, the review of these assessments is then determined in line with (d).

@@ -1,0 +1,23 @@
+Risk Capital Requirement
+
+3.8.1
+
+This section applies to an Authorised Firm in Category 1, 2, 3A or 5.
+
+Guidance
+
+The Risk Capital Requirement is a component of the calculation of the Capital Requirement under sections 3.3 and 3.4.
+
+Calculation of Risk Capital Requirement
+
+3.8.1A An Authorised Firm must calculate its Risk Capital Requirement as 10% of its Risk
+
+Weighted Assets.
+
+Risk Weighted Assets
+
+3.8.2
+
+An Authorised Firm must calculate its Risk Weighted Assets as 12.5 multiplied by the sum of the following:
+
+(a)

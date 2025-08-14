@@ -1,0 +1,15 @@
+2.2 Exempt communications
+
+Guidance
+
+Exempt Communications are not Offers of Securities to the Public and therefore do not attract the Prospectus requirements in the Law and Rules.
+
+2.2.1 For the purposes of Article 12(c) of the Law, in addition to the Exempt Communications specified in the Law, a communication is hereby prescribed by the DFSA as an Exempt Communication if it is made:
+
+(a)
+
+in connection with the trading of Securities that are listed and traded on a Regulated Exchange, or the trading of Security Tokens that are traded on an Alternative Trading System; and
+
+(b)
+
+in the ordinary course of business of an Authorised Firm or Recognised Member.

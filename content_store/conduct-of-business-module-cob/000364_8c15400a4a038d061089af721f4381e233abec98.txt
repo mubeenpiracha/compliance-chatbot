@@ -1,0 +1,9 @@
+Guidance
+
+1.
+
+See also the requirements relating to Direct Access Members in section 14.2 and section 15.2.
+
+2.
+
+Members who are not Direct Access Members may also trade in Investment Tokens or Crypto Tokens.

@@ -1,0 +1,25 @@
+Guidance
+
+1.
+
+An Insurer’s ALM policy should be appropriate taking into account the nature, scale and complexity of its ALM risks.
+
+2.
+
+The ALM policy should include details as to how:
+
+(a)
+
+the investment and liability strategies adopted by the Insurer allow for the interaction between assets and liabilities;
+
+(b)
+
+the correlations are taken into account;
+
+(c)
+
+the liability cash flows will be met by cash inflows; and
+
+(d)
+
+the valuations of assets and liabilities will change under an appropriate range of different scenarios.

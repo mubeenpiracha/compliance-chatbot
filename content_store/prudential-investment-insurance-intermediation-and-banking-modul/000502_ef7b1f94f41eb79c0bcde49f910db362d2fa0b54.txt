@@ -1,0 +1,33 @@
+Calculating the CCR Exposure
+
+4.14A.2 (1) An Authorised Firm must calculate the Exposure value for the transaction types referred to in Rule 4.14A.1 by applying the methodology set out in section A4.8 in accordance with this Rule.
+
+160
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+(2)
+
+If an Authorised Firm purchases protection through a Credit Derivative against a Non-Trading Book Exposure or against a CCR Exposure it may:
+
+(a)
+
+calculate its Credit Risk Capital Requirement for the hedged Exposure in accordance with sections 4.12 and 4.13; and
+
+(b)
+
+set the Exposure value for the Credit Derivative to zero.
+
+(3) An Authorised Firm may set the Exposure value for a sold credit default swap in the Non-Trading Book to zero provided that the credit default swap is:
+
+(a)
+
+treated as credit protection provided by the Authorised Firm; and
+
+(b)
+
+subject to Credit Risk Requirements for the underlying exposure for the full notional amount.
+
+(4) Subject to (5), the Exposure value for a given Counterparty is equal to the sum

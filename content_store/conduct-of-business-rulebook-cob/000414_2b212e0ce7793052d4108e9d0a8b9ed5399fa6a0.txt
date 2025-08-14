@@ -1,0 +1,25 @@
+at par value;
+
+the monetary value of the Stored Value held.
+
+(2)
+
+Redemption of Stored Value may be subject to a Fee which is proportionate and commensurate with the costs actually incurred by the Payment Service Provider only where the Fee is stated in the Framework Contract and:
+
+(a)
+
+redemption is requested before the termination of the Framework Contract;
+
+(b)
+
+the Framework Contract provides for a termination date and the Payment Service User has terminated the Framework Contract before that date; or
+
+137
+
+COBS VER19.290725
+
+(c)
+
+redemption is requested more than twelve months after the date of termination of the Framework Contract.
+
+(3) Where before the termination of the Framework Contract a Payment Service User that is a Natural Person makes a request for redemption of Stored Value, the Payment Service User may request redemption of the monetary value of the Stored Value in whole or in part, and the Payment Service Provider must redeem the amount so requested, subject to any Fee imposed in accordance with Rule 19.15.5(2).

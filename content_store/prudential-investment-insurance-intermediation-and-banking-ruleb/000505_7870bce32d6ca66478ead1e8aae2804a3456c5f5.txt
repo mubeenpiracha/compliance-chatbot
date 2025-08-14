@@ -1,0 +1,17 @@
+c.
+
+it is satisfied that the Authorised Person's risk management system is conceptually sound and is implemented with integrity;
+
+d.
+
+the Authorised Person has sufficient numbers of staff skilled in the use of sophisticated models not only in the trading area but also in the risk control, audit, and if necessary, back office areas;
+
+e.
+
+the Authorised Person's models have a proven track record of reasonable accuracy in measuring risk; and
+
+f.
+
+the Authorised Person regularly conducts stress tests.
+
+In determining whether an internal value at risk (VaR) model meets the standard for approval, the Regulator will apply the criteria set out in Section A6.9, which are based on the Basel Market Risk Capital Amendment 1996 and Basel Revisions to the Basel II Market Risk framework 2009 and which can be grouped under the following headings:

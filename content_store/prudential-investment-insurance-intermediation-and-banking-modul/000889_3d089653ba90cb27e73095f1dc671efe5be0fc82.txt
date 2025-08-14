@@ -1,0 +1,11 @@
+AddOnj
+
+a = add-on for hedging set ‘j’ within asset class ‘a’
+
+Guidance
+
+Diversification benefits across asset classes are not recognised. Instead, the respective add-ons for each asset class are aggregated using the formula in A4.8.6(5) (where the sum is across the asset classes).
+
+Add-on for transactions in the interest rate asset class
+
+A4.8.7 (1) An Authorised Firm must map transactions within each hedging set of the interest rate asset class to the appropriate maturity bucket in the table below on the basis of the End Date of each transaction.

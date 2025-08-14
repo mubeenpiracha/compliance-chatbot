@@ -1,0 +1,19 @@
+the name of each Controller; and
+
+(b)
+
+the current holding of each Controller, expressed as a percentage.
+
+85
+
+GEN VER11.290725
+
+Guidance
+
+1.
+
+An Authorised Person may satisfy the requirements of Rule 8.8.12 by submitting a corporate structure diagram containing the relevant information.
+
+2.
+
+An Authorised Person must take account of the Holdings which the Controller, either alone or with any Associate, has in the Authorised Person or any Holding Company of the Authorised Person (see the definition of a Controller in Rule 8.8.2(1)).

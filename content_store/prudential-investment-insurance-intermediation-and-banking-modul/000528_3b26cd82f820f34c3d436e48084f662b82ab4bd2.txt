@@ -1,0 +1,33 @@
+Guidance
+
+Guidance in respect of what an Authorised Firm’s Market Risk policy should include is provided in section A5.1.
+
+5.3
+
+Calculation of the Market Risk Capital Requirement
+
+5.3.1
+
+An Authorised Firm must calculate its Market Risk Capital Requirement as the sum of the following components:
+
+(a)
+
+Interest Rate Risk Capital Requirement;
+
+(b)
+
+Equity Risk Capital Requirement;
+
+(c)
+
+Foreign Exchange Risk Capital Requirement;
+
+(d)
+
+Commodities Risk Capital Requirement;
+
+(e)
+
+Option Risk Capital Requirement;
+
+(f)

@@ -1,0 +1,13 @@
+(3)
+
+If it is not reasonably possible to determine the jurisdiction of an exposure under (2), then the jurisdiction in which the Authorised Firm has the exposure is the jurisdiction where the exposure is booked.
+
+Guidance
+
+1.
+
+The location of an Authorised Firm’s credit exposure is determined according to the concept of ‘ultimate risk’, i.e. the location where the risk ultimately lies. This is usually the location of the counterparties, irrespective of the Authorised Firm’s own physical location or place of incorporation.
+
+2.
+
+The following examples illustrate how the concept of ultimate risk applies:

@@ -1,0 +1,29 @@
+Guidance
+
+FSMR sets out the activities that constitute Regulated Activities.
+
+2.3
+
+Conducting Islamic Financial Business
+
+Authorised Persons
+
+2.3.1 An Authorised Person shall not hold itself out as Conducting Islamic Financial Business unless it has a Financial Services Permission authorising it to Conduct Islamic Financial Business either:
+
+(a)
+
+as an Islamic Financial Institution; or
+
+(b)
+
+by operating an Islamic Window.
+
+Confidential
+
+2
+
+IFR VER08.020125
+
+2.3.2 An Authorised Person that has a Financial Services Permission to operate as an Islamic Financial Institution is an Authorised Person whose entire business operations are conducted in accordance with Shari'a.
+
+2.3.3 An Authorised Person, other than an Islamic Financial Institution, that has a Financial Services Permission to operate an Islamic Window is an Authorised Person that conducts Islamic Financial Business as a segregated part of its overall business operations.

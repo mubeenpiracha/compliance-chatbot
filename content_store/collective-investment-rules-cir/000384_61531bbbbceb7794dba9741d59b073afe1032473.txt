@@ -1,0 +1,11 @@
+(d)
+
+includes the following warning:
+
+“This Prospectus relates to a Fund which is not subject to any form of regulation or approval by the Dubai Financial Services Authority (“DFSA”).
+
+The DFSA has no responsibility for reviewing or verifying any Prospectus or other documents in connection with this Fund. Accordingly, the DFSA has not approved this Prospectus or any other associated documents nor taken any steps to verify the information set out in this Prospectus, and has no responsibility for it.
+
+The Units to which this Prospectus relates may be illiquid and/or subject to restrictions on their resale. Prospective purchasers should conduct their own due diligence on the Units.
+
+If you do not understand the contents of this document you should consult an authorised financial adviser.”;

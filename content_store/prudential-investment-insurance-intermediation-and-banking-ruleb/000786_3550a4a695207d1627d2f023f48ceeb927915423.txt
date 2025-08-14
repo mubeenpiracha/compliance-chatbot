@@ -1,0 +1,17 @@
+(e)
+
+a transaction where there is no currency mismatch and the Collateral comprises -
+
+285
+
+PRU VER17.290725
+
+(i)
+
+cash on Deposit as set out in Rule 4.13.5(a); or
+
+(ii)
+
+Exposures in the central government and central bank asset class or in the PSE asset class or a combination thereof qualifying for a 0% risk weight under the Rules in Section 4.12, and the latest fair value of such Collateral has been discounted by 20% for the purposes of determining the value of the collateralised portion of the CR Exposure in accordance with Rule A4.3.27(a)(i), in which case the Authorised Person may apply a CRW of 0%.
+
+A4.3.29 An Authorised Person which is using FCSA must not recognise the effects of CRM of

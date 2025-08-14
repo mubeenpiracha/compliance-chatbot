@@ -1,0 +1,13 @@
+Guidance
+
+1.
+
+In complying with Rule 8.1.1(3)(a), “immediately obtaining the necessary CDD information” means obtaining all relevant CDD information, and not just basic information such as name and address. Compliance can be achieved by having that relevant information sent by email or other appropriate means. For the avoidance of doubt, a Relevant Person is not required automatically to obtain the underlying certified documents used by the third party to undertake its CDD. A Relevant Person must, however, under Rule 8.1.1(3)(b) ensure that the certified documents are readily available from the third party on request.
+
+2.
+
+The DFSA would expect a Relevant Person, in complying with Rule 8.1.1(5), to fill any gaps in the CDD process as soon as it becomes aware that a customer or Beneficial Owner has not been identified and verified in a manner consistent with these Rules.
+
+3.
+
+If a Relevant Person acquires another business, either in whole or in part, the DFSA would permit the Relevant Person to rely on the CDD conducted by the business it is acquiring but would expect the Relevant Person to have done the following:

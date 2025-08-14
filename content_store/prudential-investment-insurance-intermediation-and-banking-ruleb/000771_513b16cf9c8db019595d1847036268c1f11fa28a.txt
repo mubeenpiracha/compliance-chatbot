@@ -1,0 +1,15 @@
+Guidance
+
+1.
+
+The Credit Quality Grade for a debt security is that associated specifically with that debt security issue.
+
+2.
+
+PSEs and MDBs should be treated as equivalent to central governments for the purpose of this table.
+
+A4.3.14 The standard supervisory haircut, HE, for transactions in which an Authorised Person lends instruments that do not qualify as eligible financial Collateral (e.g. corporate debt Securities with a Credit Quality Grade of 4 or worse) is 25%.
+
+A4.3.15 The standard supervisory haircut, HFX, for currency mismatch where Exposure and Collateral are denominated in different currencies based on a ten-business day holding period and daily revaluation is 8%.
+
+A4.3.16 Where the minimum holding period, frequency of remargining or revaluation assumptions set out for eligible financial Collateral in Rule A4.3.13 differ from those of the Authorised Person, the Authorised Person must adjust HE, HC and HS using the formulae in Rules A4.3.25 to A4.3.26.

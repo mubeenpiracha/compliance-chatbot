@@ -1,0 +1,19 @@
+6.9 Communication with the DFSA
+
+6.9.1 An Authorised Person must ensure that any communication with the DFSA is
+
+conducted in the English language.
+
+6.10 Provision of information to the DFSA
+
+Guidance
+
+1.
+
+This section sets out how certain information must be provided to the DFSA. It applies to information in an AFN form and in any other application, notification, report or return that must be provided to the DFSA under a Rule. It does not apply to PIB or PIN returns, which are subject to a special system: the DFSA Electronic Prudential Reporting System (EPRS).
+
+2.
+
+The DFSA has enabled certain information to be submitted online using the electronic system on its website. If information can be submitted online, that online electronic system is to be used – see Rule 6.10.2. In other cases, information must be provided to the DFSA in accordance with Rule 6.10.3.
+
+6.10.1 (1) This section applies to a Person providing information to the DFSA in:

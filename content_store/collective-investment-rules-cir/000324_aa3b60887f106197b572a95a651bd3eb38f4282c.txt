@@ -1,0 +1,27 @@
+Umbrella Funds
+
+Guidance
+
+See Rule 3.1.10 for the definition of an Umbrella Fund.
+
+Form of an Umbrella Fund
+
+Subject to any restrictions in the Law and the Rules in this module, an Umbrella Fund:
+
+(a)
+
+may be formed as a Protected Cell Company (PCC); and
+
+(b)
+
+must be an Open-ended Fund if formed as a PCC.
+
+Guidance
+
+1.
+
+A Protected Cell Company (PCC) is a form of Investment Company which needs to be registered as a PCC under the Companies Regulations. An Umbrella Fund using the PCC structure has the benefit of legal segregation of Fund Property forming part of each individual cell. Accordingly, Fund Property of one cell of a PCC is not available to pay any obligations arising in relation to another cell of that PCC.
+
+2.
+
+It is not mandatory for an Umbrella Fund to be constituted as a PCC. Instead, such Funds may be formed as a conventional Investment Company or Investment Trust. However, the legal segregation available to each cell of a PCC is not available to Sub-Funds of Umbrella Funds not formed as a PCC.

@@ -1,0 +1,25 @@
+29
+
+AML/VER27/03-25
+
+Anti-Money Laundering, Counter-Terrorist Financing and Sanctions Module (AML)
+
+(a)
+
+deferral of the verification of the customer or Beneficial Owner is necessary in order not to interrupt the normal conduct of a business relationship;
+
+(b)
+
+there is little risk of money laundering occurring and any such risks identified can be effectively managed by the Relevant Person;
+
+(c)
+
+in relation to a bank account opening, there are adequate safeguards in place to ensure that the account is not closed and transactions are not carried out by or on behalf of the account holder (including any payment from the account to the account holder) before verification has been completed; and
+
+(d)
+
+subject to (2), the relevant verification is completed as soon as reasonably practicable and in any event no later than 30 days after the establishment of a business relationship.
+
+(2)
+
+Where a Relevant Person is not reasonably able to comply with the 30 day requirement in (1)(d), it must, prior to the end of the 30 day period:

@@ -1,0 +1,21 @@
+THIRD PARTY PROVIDERS
+
+20.1 Application
+
+20.1.1 Chapter 20 of these Rules applies to Third Party Providers.
+
+151
+
+COBS VER19.290725
+
+Guidance
+
+1.
+
+Third Party Providers intermediate the relationship between their Customers and their Customers’ Financial Institutions. The relationship between Third Party Providers and their Customers is separate from and does not affect Customers’ existing relationships with their Financial Institutions.
+
+2.
+
+Third Party Providers differ from technical service providers because they have a relationship with Customers of Financial Institutions for the provision of Third Party Services. While technical service providers may provide software, infrastructure or other products and services that involve the accessing and processing of Specified Information, they do not have such a relationship with Customers of Financial Institutions.
+
+3.

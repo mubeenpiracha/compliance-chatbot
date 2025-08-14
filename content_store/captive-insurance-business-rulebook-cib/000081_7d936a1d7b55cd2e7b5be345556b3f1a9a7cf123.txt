@@ -1,0 +1,7 @@
+payment on or before the Solvency Reference Date.
+
+6.11.6 A Captive Insurer may treat as an asset the value of reinsurance receivables and other
+
+recoveries expected to be received in respect of claims.
+
+6.11.7 Where this Rule requires a Captive Insurer to recognise as an asset the value of expected future receipts, that asset must be measured as the net present value of those expected future receipts.

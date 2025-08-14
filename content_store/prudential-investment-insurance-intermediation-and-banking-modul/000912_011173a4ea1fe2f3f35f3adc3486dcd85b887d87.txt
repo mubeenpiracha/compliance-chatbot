@@ -1,0 +1,29 @@
+where:
+
+Ф =
+
+the standard normal cumulative distribution function
+
+P𝑖 =
+
+the underlying price of option ‘i’
+
+K𝑖 =
+
+the strike price of option ‘i’
+
+σ𝑖 =
+
+the supervisory volatility of option ‘i’, determined in accordance with the table in Rule A4.8.18
+
+T𝑖 =
+
+the time interval between the calculation date and the latest contractual exercise date as referenced by transaction ‘i’, measured in years
+
+for options in the interest rate asset class for which the supervisory delta cannot be calculated in accordance with (c) because the underlying price of the option or the strike price of the option is negative, the supervisory delta must be calculated using the applicable formula in the table below:
+
+295
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)

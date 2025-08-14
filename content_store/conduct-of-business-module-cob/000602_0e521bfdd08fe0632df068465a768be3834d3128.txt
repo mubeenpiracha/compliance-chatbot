@@ -1,0 +1,21 @@
+a.
+
+verify the source of funds;
+
+b.
+
+warn Retail Clients that third party credit should not be used to fund an account; and
+
+c.
+
+obtain written confirmation from the Retail Client that third party credit is not being used to fund an account.
+
+Offer of incentives prohibited
+
+15.6.4 (1)
+
+An Authorised Firm must not offer or provide to a Retail Client any incentive that influences, or is reasonably likely to influence, the Retail Client to trade in a Crypto Token or Crypto Token Derivative.
+
+(2)
+
+An Authorised Firm’s systems and controls must include adequate measures to ensure compliance with (1).

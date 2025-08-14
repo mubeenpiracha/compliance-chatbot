@@ -1,0 +1,13 @@
+(f)
+
+the documentation covering the agreement is standard market documentation for repos, reverse repos, Securities, lending transactions or Securities borrowing transactions in the Securities concerned;
+
+(g)
+
+the transaction is governed by documentation specifying that if the Counterparty fails to satisfy an obligation to deliver cash or Securities or to deliver margin, or otherwise defaults, then the transaction may be terminated immediately; and
+
+(h)
+
+upon any event of default, regardless of whether the Counterparty is insolvent or bankrupt, the Authorised Firm has the unfettered, legally enforceable right to immediately seize and liquidate the Collateral for the benefit of the Authorised Firm.
+
+A4.5

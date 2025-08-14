@@ -1,0 +1,3 @@
+Exclusions
+
+2.27.2 A Person does not Operate a Credit Rating Agency where that Person prepares any credit scores, credit scoring systems or similar assessments relating to obligations arising from consumer, commercial or industrial relationships.

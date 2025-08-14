@@ -1,0 +1,35 @@
+(ii)
+
+details of the due diligence performed under (a);
+
+(iii)
+
+the general risks related to staking, including risk of loss due to technical errors or bugs in the protocol; hacks or theft of the Crypto Tokens, and how losses will be allocated to Clients;
+
+(iv)
+
+bonding and unbonding periods and what this might mean if a Client cannot withdraw their Staked Crypto Tokens;
+
+(v)
+
+fees and charges; and
+
+190
+
+COB/VER48/03-25
+
+CONDUCT OF BUSINESS (COB)
+
+(vi)
+
+how rewards are calculated, and how they are paid out to Clients; and
+
+(c)
+
+obtain the written consent of the Client to transfer the Crypto Token to the borrower for staking.
+
+(4) The requirement to undertake due diligence under (3)(a) does not apply
+
+where the Authorised Firm is the borrower.
+
+(5) An Authorised Firm must inform its Client as soon as practicable of any

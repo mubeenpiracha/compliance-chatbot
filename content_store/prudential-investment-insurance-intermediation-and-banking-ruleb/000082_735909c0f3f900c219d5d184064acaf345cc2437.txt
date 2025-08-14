@@ -1,0 +1,25 @@
+Option
+
+Administrator of a Collective Investment Fund, Dealing in Investments as Agent, Dealing in Investments as Principal, Arranging Credit, Arranging Deals in Investments, or Providing Custody, such a Regulated Activity is taken to be incorporated within Managing a Collective Investment Fund.
+
+(3) The Person referred to in (1) is a Fund Manager.
+
+Means the Regulated Activity specified in paragraph 54 of Schedule 1 of FSMR.
+
+(1) Refers to the risk of incurring losses due to the failure of systems, processes, and personnel, whether internal or external to the Authorised Person, to perform expected tasks.
+
+(2) Operational Risk losses also include losses
+
+arising out of legal risk.
+
+The requirement calculated in accordance with Section 6.11.
+
+An Option is an instrument that confers on the holder, upon exercise, rights of the kind referred to in any of the following:
+
+(a)
+
+a right to acquire or dispose of:
+
+(i)
+
+a Security (other than a Warrant) based or Investment;

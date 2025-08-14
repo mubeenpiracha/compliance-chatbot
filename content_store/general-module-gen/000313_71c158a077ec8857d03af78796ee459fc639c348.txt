@@ -1,0 +1,29 @@
+ICT Services
+
+(b)
+
+ensuring that the terms of the contractual arrangements with a third party provider of ICT Services require the third party to:
+
+(i)
+
+comply with the Authorised Person’s cyber security requirements;
+
+(ii)
+
+notify the Authorised Person about any Cyber Incident that may affect the Authorised Person;
+
+(iii)
+
+collaborate with the Authorised Person in remediating the impact of a Cyber Incident on the Authorised Person;
+
+(iv)
+
+allow the Authorised Person to verify that the third party continues to meet the Authorised Person’s cyber security requirements; and
+
+(c)
+
+supervising effectively the provision of ICT Services by third parties.
+
+(2)
+
+An Authorised Person that relies on the provision of ICT Services by a third party remains fully responsible for compliance with, and the discharge of, all obligations under this section.

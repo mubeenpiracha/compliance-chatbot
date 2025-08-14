@@ -1,0 +1,29 @@
+(c)
+
+if reconfirmation is not provided within the period specified in (b), cancel the commitment.
+
+(4)
+
+If the material change occurs after the commitment period, the operator must disclose prominently on its platform to lenders and investors:
+
+(a)
+
+details of the material change;
+
+(b)
+
+any change in the rights of users arising from the material change; and
+
+140
+
+COB/VER48/03-25
+
+CONDUCT OF BUSINESS (COB)
+
+(c)
+
+what steps, if any, the operator is proposing to take as a result of the change.
+
+(5) A disclosure or notification under (3) or (4) must be made as soon as
+
+practicable after the operator becomes aware of the material change.

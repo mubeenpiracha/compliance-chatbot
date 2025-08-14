@@ -1,0 +1,53 @@
+for
+
+(j)
+
+the total sum of commissions and expenses charged, and a breakdown of those commissions and charges.
+
+Unitholder register
+
+(1)
+
+Subject to (5), a Fund Manager must maintain a register of Unitholders.
+
+(2)
+
+The register must contain:
+
+(a)
+
+the name and address of each Unitholder;
+
+(b)
+
+the number of Units including fractions of a Unit of each class held by each Unitholder; and
+
+(c)
+
+the date on which the Unitholder was registered in the register for the Units standing in his name.
+
+(3)
+
+A Fund Manager must take all reasonable steps and exercise all due diligence to ensure that the register is kept complete and up to date.
+
+48
+
+CIR/VER38/08-24
+
+8.8
+
+8.8.1
+
+8.8.2
+
+8.8.3
+
+(1)
+
+(2)
+
+COLLECTIVE INVESTMENT RULES (CIR)
+
+(4)
+
+A Fund Manager or, if applicable the Appointed Fund Administrator or Appointed Custody Provider, must, subject to (5), make the Unitholder register in electronic or hard copy form available for inspection by Unitholders during normal business hours at the Fund Manager’s or Appointed Fund Administrator’s place of business in the DIFC or otherwise in a designated location in the DIFC.

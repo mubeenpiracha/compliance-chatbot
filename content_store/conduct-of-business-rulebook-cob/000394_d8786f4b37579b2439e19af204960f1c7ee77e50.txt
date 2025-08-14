@@ -1,0 +1,7 @@
+accordance with Rule 19.7.2.
+
+19.7.5 A Payment Service Provider must maintain organisational arrangements sufficient to minimise the risk of any loss of Relevant Money through fraud, misuse, negligence or poor administration.
+
+19.8 Record keeping
+
+19.8.1 A Payment Service Provider must maintain relevant records of all Relevant Money received, including all records of agreements with Payment Service Users, and all Payment Transactions and keep those records for a period of at least six years from the date on which the record was created.

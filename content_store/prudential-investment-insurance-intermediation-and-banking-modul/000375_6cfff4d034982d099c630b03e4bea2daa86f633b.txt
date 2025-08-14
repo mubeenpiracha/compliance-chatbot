@@ -1,0 +1,19 @@
+(iv)
+
+the holder has the option to require that the obligation be settled in equity shares, unless either:
+
+(A)
+
+in the case of a traded instrument, the Authorised Firm has satisfied itself on reasonable grounds that the instrument trades more like the debt of the issuer than like its equity; or
+
+(B)
+
+in the case of non-traded instruments, the Authorised Firm has satisfied itself on reasonable grounds that the instrument should be treated as a debt position;
+
+(d) any debt obligation and other security, partnership, derivative or other vehicle structured in a way that the economic substance is similar to the exposures referred to in points (a), (b) and (c), including liabilities from which the return is linked to that of equities; and
+
+(e) any equity Exposure that is recorded as a loan but arises from a debt/equity swap made as part of the orderly realisation or restructuring of the debt.
+
+(2) An Authorised Firm must not categorise as an equity Exposure:
+
+(a) any equity investment that is structured with the intent of conveying the

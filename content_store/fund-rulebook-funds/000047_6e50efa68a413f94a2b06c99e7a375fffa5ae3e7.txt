@@ -1,0 +1,17 @@
+Regulator Consent
+
+6.3.1
+
+A Protected Cell Company and an Incorporated Cell Company cannot be established in ADGM without the consent of the Regulator.
+
+6.3.2
+
+An application to the Regulator in connection with the proposed establishment of a Protected Cell Company and an Incorporated Cell Company must be made in such form, and be accompanied by such documentation, as the Regulator may from time to time prescribe.
+
+6.3.3
+
+A Domestic Fund, other than a Qualified Investor Fund, that is a Protected Cell Company or an Incorporated Cell Company may not create a new Cell unless approval has been granted by the Regulator.
+
+6.3.4
+
+An Authorised Fund Manager of a Qualified Investor Fund must give notice to the Regulator of its intention to create a new Cell of a Domestic Fund which is a Protected Cell Company or an Incorporated Cell Company by submitting a notification to the Regulator, which shall be in such form as the Regulator may prescribe, as soon as reasonably practicable before creation of the Cell.

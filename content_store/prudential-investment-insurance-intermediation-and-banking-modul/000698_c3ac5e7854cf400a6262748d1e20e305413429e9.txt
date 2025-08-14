@@ -1,0 +1,9 @@
+Guidance
+
+1.
+
+For the purposes of Rule 9.3.7(2), an Authorised Firm should conduct its own stress tests to assess the level of liquidity it should hold beyond the minimum required under this section, and construct its own scenarios that could cause difficulties for its specific business activities. Such internal stress tests should incorporate longer periods than the one required under this section. Authorised Firms are expected to share the results of these additional stress tests with the DFSA.
+
+2.
+
+As set out in the Guidance after Rule 9.2A.5, the DFSA may require an Authorised Firm to maintain an additional buffer of liquid assets in cases where the DFSA assesses that the Authorised Firm has failed to carry out stress tests effectively.

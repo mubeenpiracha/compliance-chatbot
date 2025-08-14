@@ -1,0 +1,41 @@
+International organisation asset class
+
+4.12.9
+
+An Authorised Person must apply a 0% risk weight to any CR Exposure to the Bank for International Settlements, the International Monetary Fund, the European Central Bank or the European Commission.
+
+Bank asset class
+
+4.12.10 Subject to Rules 4.12.11 and 4.12.12, an Authorised Person must risk-weight any CR
+
+Exposure in the bank asset class in accordance with the following table:
+
+CRWs for the bank asset class
+
+Credit Quality Grade Risk Weight Risk Weight for short-term Exposures
+
+1
+
+20% 20%
+
+2
+
+50% 20%
+
+3
+
+50% 20%
+
+4
+
+100% 50%
+
+5
+
+100% 50%
+
+6
+
+150% 150%
+
+Unrate d 50% 20%

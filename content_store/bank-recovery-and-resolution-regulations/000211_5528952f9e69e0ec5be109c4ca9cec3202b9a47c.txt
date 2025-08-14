@@ -1,0 +1,13 @@
+an identification of the owners of the systems identified in subsections (l), (m) and (n), service level agreements related to the systems, and any software and systems or licenses, including a mapping to their legal entities, critical operations and Core Business Lines;
+
+an identification and mapping of the legal entities and the interconnections and interdependencies among the different legal entities such as—
+
+(i)
+
+common or shared personnel, facilities and systems;
+
+(ii)
+
+capital, funding or liquidity arrangements;
+
+69

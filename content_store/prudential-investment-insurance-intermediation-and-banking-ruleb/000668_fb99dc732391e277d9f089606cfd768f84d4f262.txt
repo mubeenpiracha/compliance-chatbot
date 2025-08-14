@@ -1,0 +1,9 @@
+controls transfers of positions between the Non-Trading Book and the Trading Book.
+
+A2.2.2
+
+An Authorised Person must obtain the prior written approval of its Governing Body for its Trading Book policy. The Authorised Person must review and where necessary update the policy at least annually. The Authorised Person must obtain the prior written approval of the Governing Body for all significant changes.
+
+A2.2.3
+
+An Authorised Person must, without undue delay, notify the Regulator when its Governing Body approves the adoption of a Trading Book policy or approves any changes to the policy.

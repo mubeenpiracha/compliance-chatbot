@@ -1,0 +1,9 @@
+(b) Other assets
+
+3.0
+
+A4.4.2 Reinsurance recoverable includes amounts recoverable in respect of outstanding claims and in respect of Premium Liabilities. Insurers may make reasonable approximations where it is not possible to identify exactly the reinsurers to which amounts recoverable relate (for example, in the case of recoveries in respect of Premium Liabilities and in respect of claims incurred but not reported).
+
+A4.4.3 Where an asset falls within more than one category in the table in Rules A4.4.1(a) or A4.4.1(b), the highest of the percentages applicable to that asset must be applied.
+
+A4.4.4 Where an asset has been explicitly, unconditionally and irrevocably guaranteed for its remaining term, by a guarantor with a rating of ‘A’ or better who is not Related to the Insurer, the Insurer may at its option use, in place of the relevant percentage in the table in Rules A4.4.1(a) or A4.4.1(b), the percentage in those tables that would apply to a debt due from the guarantor.

@@ -1,0 +1,27 @@
+Guidance
+
+The DFSA would treat other techniques to achieve the financing or re-financing of assets which are legally transferred to a scheme, by packaging them into a tradable form through the issue of Securities which are secured on the assets and serviced from the cashflows which they yield as “securitisation”.
+
+Systems and controls for the use of securitisations
+
+4.14.3 An Authorised Firm must implement and maintain appropriate risk management systems to identify, manage, monitor and, where applicable, control all risks in
+
+143
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+relation to a securitisation transaction whether the firm is an investor, Originator or Sponsor. In particular, such risk management systems should effectively address the following risks:
+
+(a)
+
+the liquidity and capital implications that may arise from the items returning to the balance sheet;
+
+(b)
+
+the Operational Risks that may arise under a securitisation; and
+
+(c)
+
+reputational risks that may arise as a result of its securitisation activities.

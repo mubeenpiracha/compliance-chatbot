@@ -1,0 +1,11 @@
+Guidance
+
+1.
+
+The effect of Rule 15.6.8 is to prevent a Retail Client from incurring losses exceeding the funds the Retail Client has specifically dedicated to trading in Crypto Token Derivatives. Therefore, an Authorised Firm will not be able to recover any losses from the Retail Client that go beyond the funds in the Retail Client’s trading account.
+
+2.
+
+Funds in the Retail Client’s trading account are generally cash in the account, and include unrealised net profits from open positions (i.e. the sum of unrealised gains and losses of all open positions recorded in the Retail Client’s account) in respect of all Crypto Token Derivatives held in the Retail Client’s trading account.
+
+15.6.9 An Authorised Firm must ensure that only fiat currencies or Fiat Crypto Tokens that are Recognised Crypto Tokens are used as Margin in connection with trading in Crypto Token Derivatives.

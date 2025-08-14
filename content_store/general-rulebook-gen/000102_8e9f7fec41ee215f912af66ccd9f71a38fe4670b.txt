@@ -1,0 +1,41 @@
+(2)
+
+The process in (1) must ensure that:
+
+(a)
+
+software updates are identified and classified by how critical they are to mitigate Cyber Risk;
+
+(b)
+
+software updates are applied in a timely manner; and
+
+(c)
+
+the implementation of critical software updates is prioritised.
+
+(3)
+
+An Authorised Person must implement software updates in accordance with the process required under Rule 3.5.9.
+
+Guidance
+
+1.
+
+As part of its Cyber Risk Management Framework, an Authorised Person should establish a vulnerability management process for an up-to-date understanding of security vulnerabilities.
+
+2.
+
+An Authorised Person may wish to consider using automated vulnerability scanning systems to assist in effectively identifying and assessing vulnerabilities resulting from new and evolving threats.
+
+(1)
+
+An Authorised Person must implement appropriate encryption techniques to protect the confidentiality and integrity of information in transit, at rest, and at end of life.
+
+(2)
+
+The encryption techniques implemented for the handling of information must be commensurate with the sensitivity of that information.
+
+33
+
+GEN VER11.290725

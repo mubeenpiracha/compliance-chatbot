@@ -1,0 +1,11 @@
+Financial Group Capital Requirement
+
+8.3.3
+
+(1)
+
+An Authorised Firm in Category 1, 2 (other than a Matched Principal) or 5 must calculate its Financial Group Capital Requirement by applying the accounting consolidation method, which calculates the Capital Requirement of the Financial Group based on the Financial Group’s consolidated financial statements, and using applicable prudential Rules in PIB.
+
+(2)
+
+For the purposes of this Rule, the consolidated financial statements of the Financial Group must be prepared in accordance with International Financial Reporting Standards.

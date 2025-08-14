@@ -1,0 +1,29 @@
+COLLECTIVE INVESTMENT RULES (CIR)
+
+PART 3: FUND FUNCTIONARIES
+
+5
+
+FUND ADMINISTRATORS
+
+5.1
+
+General
+
+Application
+
+5.1.1
+
+(1)
+
+Subject to (2), this chapter applies to an Authorised Firm which is appointed as a Fund Administrator to either a Domestic or a Foreign Fund.
+
+(2)
+
+This chapter does not apply to a Fund Manager or Trustee to the extent that it carries on an activity of Providing Fund Administration within the Financial Services of Managing a Fund or of Acting as the Trustee of a Fund.
+
+Compliance with the AML Rules
+
+5.1.2
+
+The AML module applies to the activities of a Fund Administrator in Providing Fund Administration for a Domestic Fund or Foreign Fund as if each reference in AML to a “customer” is a reference to a “Unitholder” or “prospective Unitholder” as appropriate to the context.

@@ -1,0 +1,27 @@
+(2) While the investigation in (1) is ongoing, the Authorised Person must, where applicable, take immediate action to contain the situation to prevent further damage and commence recovery processes based on its Cyber Incident Response Plan.
+
+(3)
+
+An Authorised Person must take reasonable care to resume its operations responsibly, including by taking the following steps, where applicable:
+
+(a) eliminating remaining harmful effects of the Cyber Incident;
+
+(b)
+
+restoring affected elements of its IT Systems and Networks;
+
+(c)
+
+recovering corrupted data;
+
+(d)
+
+identifying and mitigating all vulnerabilities that were exploited by the Cyber Incident;
+
+(e)
+
+remediating vulnerabilities to prevent similar Cyber Incidents in the future; and
+
+(f)
+
+communicating appropriately internally and externally.

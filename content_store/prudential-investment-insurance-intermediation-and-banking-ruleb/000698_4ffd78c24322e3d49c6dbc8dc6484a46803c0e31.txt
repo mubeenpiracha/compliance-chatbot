@@ -1,0 +1,19 @@
+b)
+
+6/52nds of Annual Expenditure
+
+18/52nds of AAE
+
+5
+
+10mn
+
+Credit, Market, Operational, CVA and Displaced Commercial
+
+2. An Authorised Person, whichever Category it is a member of, must hold a minimum amount of CET1 Capital at the time that it obtains authorisation and at all times thereafter, in accordance with Rule 3.3.3, corresponding to the Base Capital Requirement.
+
+3. The Expenditure Based Capital Minimum is calculated as the specified proportion of the Annual Audited Expenditure (AAE), calculated in accordance with Rule 3.7.2.
+
+4. An Authorised Person in Category 3C undertaking the Regulated Activity of Providing Money Services that offers only one of or both currency exchange and Money Remittance to their customers, but not Payment Services, is considered not to hold Client Assets, in the form of Client Money, or Relevant Money.
+
+5. Where the Risk Capital Requirement is the binding capital requirement for an Authorised Person in Category 1, 2 or 5 it must also hold a Capital Conservation Buffer of CET1 Capital of 2.5% of the Total Risk Exposure Amount and, where applicable, a Countercyclical Capital Buffer of CET1 Capital, to be determined in accordance with Section 3.18.

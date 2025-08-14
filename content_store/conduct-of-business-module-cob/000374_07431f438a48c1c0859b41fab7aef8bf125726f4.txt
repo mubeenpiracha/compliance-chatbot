@@ -1,0 +1,15 @@
+d.
+
+whether there are adequate procedures adopted to ensure that conflicts between the provider’s commercial interests and those of users of its services, including those of its Employees involved in pricing process, are adequately addressed, including through codes of ethics;
+
+e.
+
+whether there is a clear conveyance to its users of the economic realities of the underlying interest the Price Information Provider seeks to measure; and,
+
+f.
+
+the degree to which the Price Information Provider has given consideration to the characteristics of the underlying interests measured, such as:
+
+the size and liquidity: Whether the size of the market informs the selection of an appropriate compilation mechanism and governance processes. For example, a benchmark or index that measures a smaller market may be impacted by single trades and therefore be more prone to potential manipulation, whereas a benchmark for a larger market may not be well represented by a small sample of participants;
+
+the relative market size. Where the size of a market referencing a benchmark is significantly larger than the volume of the underlying market, the potential incentive for benchmark manipulation to increase; and

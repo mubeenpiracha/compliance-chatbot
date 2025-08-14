@@ -1,0 +1,25 @@
+Class of Business
+
+A classification of insurance contracts having similar characteristics, specified Part 4 of Schedule 1 of FSMR.
+
+Clearing
+
+Means, in relation to a Recognised Clearing House or Remote Clearing House, the process of establishing positions, including the calculation of net obligations and ensuring that Securities, cash, or
+
+17
+
+GLO VER23.290725
+
+Defined Terms
+
+Clearing Member
+
+Clearing Member Client Contract
+
+Clearing Rules
+
+Clearing Services
+
+Client
+
+Client Account

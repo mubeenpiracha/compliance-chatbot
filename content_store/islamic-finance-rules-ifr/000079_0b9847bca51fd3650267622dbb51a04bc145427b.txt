@@ -1,0 +1,29 @@
+Concentration risk
+
+Guidance
+
+1.
+
+This section sets specific Large Exposure limits for assets financed by PSIAs, which are Unrestricted PSIAs. The DFSA uses these limits to provide constraints on the amount of Concentration Risk to which an Authorised Firm is subject in respect of its PSIA holdings. In assessing PSIA Large Exposures, an Authorised
+
+26
+
+IFR/VER21/03-25
+
+5.4.15
+
+5.4.16
+
+5.4.17
+
+ISLAMIC FINANCE RULES (IFR)
+
+Firms may take advantage of the exemptions and partial exemptions set out in PIB section A4.11.
+
+2.
+
+An Authorised Firm has a Large Exposure where its PSIA holders’ credit Exposure to a single Counterparty or issuer, or group of Closely Related or Connected Counterparties, is large in relation to the Authorised Firm’s Capital Resources. Where Exposure to a Counterparty or issuer is large, PSIA holders risk a large loss should the Counterparty default.
+
+3.
+
+Exposures arising from assets that are financed by an Authorised Firm’s own funds are dealt with in PIB section 4.15.

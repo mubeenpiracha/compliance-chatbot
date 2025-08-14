@@ -1,0 +1,23 @@
+(ii)
+
+the margin is provided to a Client or Clearing Member for the purpose of providing cover for exposures arising out of present or future Client Trades;
+
+(b)
+
+transfers of Property;
+
+(c)
+
+payments of money by a Clearing Member to Indirect Clients;
+
+(d)
+
+transfers of Property to the extent that they—
+
+(i)
+
+are made by a Recognised Clearing House or Remote Clearing House to a Non-Defaulting Clearing Member instead of, or in place of, a Defaulting Clearing Member;
+
+(ii)
+
+represent the termination or close-out value of a Clearing Member Client Contract which is transferred from a Defaulting Clearing Member to a Non-Defaulting Clearing Member; and

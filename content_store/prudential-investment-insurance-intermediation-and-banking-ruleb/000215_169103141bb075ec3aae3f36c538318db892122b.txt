@@ -1,0 +1,17 @@
+AT1 Deductions - holdings of own AT1 Capital instruments
+
+3.11.5
+
+For the purposes of Rule 3.11.4(a), an Authorised Person must calculate holdings of its own AT1 Capital instruments on the basis of gross long positions subject to the following exceptions:
+
+(a)
+
+an Authorised Person must calculate the amount of holdings of own AT1 Capital instruments in the Trading Book on the basis of the net long position provided the long and short positions are in the same underlying Exposure and the short positions involve no Counterparty Credit Risk;
+
+(b)
+
+an Authorised Person must determine the amount to be deducted for indirect holdings in the Trading Book of own AT1 Capital instruments that take the form of holdings of index Securities by calculating the underlying Exposure to own AT1 Capital instruments in the indices; and
+
+(c)
+
+an Authorised Person must net gross long positions in own AT1 Capital instruments in the Trading Book resulting from holdings of index Securities against short positions in own AT1 instruments resulting from short positions in the underlying indices, including where those short positions involve Counterparty Credit Risk.

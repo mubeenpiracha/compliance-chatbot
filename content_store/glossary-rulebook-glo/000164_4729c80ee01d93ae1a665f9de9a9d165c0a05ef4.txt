@@ -1,0 +1,23 @@
+Precise
+
+Has the meaning given in section 95(5) of FSMR.
+
+Preference Security
+
+Securities which are given preference, in terms of dividend or distribution, over Ordinary Securities.
+
+Premium Liability
+
+Means the liability referred to in PIN 5.4.7.
+
+Prescribed Market
+
+Means any Recognised Investment Exchange, MTF or OTF.
+
+Price Notation
+
+Means the currency in which the price is expressed.
+
+Price Reporting Agency
+
+An agency or an index provider which constructs, compiles, assesses or reports, on a regular and systematic basis, prices of Investments, rates, indices, commodities, Accepted Virtual Assets, Accepted Spot Commodities or figures, which are made available to users.

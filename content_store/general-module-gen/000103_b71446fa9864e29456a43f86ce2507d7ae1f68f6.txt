@@ -1,0 +1,11 @@
+27
+
+GEN/VER67/03-25
+
+GENERAL (GEN)
+
+and administering those Tokens, must hold and control the Crypto Tokens. Therefore, the firm is subject to the Client Crypto Token provisions in COB section 6.13 and the Safe Custody Provisions in COB App6. The firm may hold and control Client Crypto Tokens directly (i.e. itself) or indirectly (i.e. through a Third Party Agent).
+
+15.
+
+In the case of Crypto Tokens, the Person in whose name the Token, cryptographic key or the Digital Wallet is registered on the blockchain is the holder and controller of that Token. For example, a private key or another unique identifier, expressed in the form of a string of numbers or QR code, will be issued to the Person in whose name the Tokens are registered. A firm that Provides Custody may appoint a Third Party Agent to hold and have access to them, in which case, the firm Providing Custody indirectly holds and controls those Tokens and remains accountable to the Client for the safe custody of the Tokens. The firm must also comply with the Client Asset provisions in COB 6.13 and the Safe Custody provisions in COB App6.

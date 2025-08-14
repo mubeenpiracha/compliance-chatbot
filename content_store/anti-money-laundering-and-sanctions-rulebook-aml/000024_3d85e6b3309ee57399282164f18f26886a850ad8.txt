@@ -1,0 +1,17 @@
+Financial Action Task Force Standards
+
+19.
+
+The Financial Action Task Force (“FATF”) is an inter-governmental body whose purpose is the development and promotion of international standards to combat money laundering and terrorist financing.
+
+Confidential
+
+5
+
+AML VER10.020125
+
+20.
+
+The Regulator has had regard to the FATF Recommendations in making these Rules and has determined to closely align these Rules with the FATF Recommendations, where that is deemed to be necessary and appropriate. A Relevant Person may wish to refer to the FATF Recommendations and Interpretive Notes to assist it in complying with these Rules. However, in the event that a FATF Recommendation or Interpretive Note conflicts with a Rule in the AML Rulebook, the relevant Rule takes precedence.
+
+21.

@@ -1,0 +1,13 @@
+Guidance
+
+The effect of the Rule and the table above is that there is no concentration limit for net Underwriting Exposures between initial commitment and the end of working day 0.
+
+Risk management
+
+A5.8.15 (1)
+
+An Authorised Firm must take reasonable steps to establish and maintain such systems and controls to monitor and manage its Underwriting and sub- underwriting business as are appropriate to the nature, scale and complexity of its Underwriting and sub-underwriting business.
+
+(2)
+
+In particular, an Authorised Firm must have systems to monitor and control its Underwriting Exposures between the time of the initial commitment and working day one in the light of the nature of the risks incurred in the markets in question.

@@ -1,0 +1,5 @@
+20.
+
+Controls should be in place to ensure that the correct number of Units in issue is recorded at each valuation point. This should be reconciled with the Unitholder register at least monthly.
+
+A copy of the valuation should be sent to the Fund Manager or the Fund's investment manager, if applicable, at least weekly. He should specifically check that the correct securities are recorded.

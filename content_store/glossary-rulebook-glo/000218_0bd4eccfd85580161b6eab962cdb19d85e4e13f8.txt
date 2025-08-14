@@ -1,0 +1,15 @@
+Spot Commodity Auction Platform
+
+A platform to carry out Accepted Spot Commodity auctions, operated by:
+
+(a)
+
+a Recognised Body whose Recognition Order includes a stipulation to carry out Accepted Spot Commodity auctions; or
+
+(b)
+
+An Authorised Person that is permitted to carry on the Regulated Activity of Operating a Multilateral Trading Facility or Operating an Organised Trading Facility, and who has obtained permission from the Regulator to carry out Accepted Spot Commodity auctions.
+
+Spot Commodity Title
+
+An instrument that confers on the holder a right entitling the holder to hold, acquire, or transfer, an Accepted Spot Commodity.

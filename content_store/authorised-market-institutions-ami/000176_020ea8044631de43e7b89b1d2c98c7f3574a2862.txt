@@ -1,0 +1,29 @@
+5B.4.4
+
+AUTHORISED MARKET INSTITUTIONS (AMI)
+
+(a)
+
+the total number, and market capitalisation, of the Crypto Tokens traded globally;
+
+(b)
+
+whether the supply of the Crypto Tokens is set to increase or decrease according to a pre-defined path;
+
+(c)
+
+details of any inflationary or deflationary mechanisms that are to be used, such as the issuing or burning of Crypto Tokens (other than through the normal mining process);
+
+(d)
+
+the total number of the Crypto Tokens held by the developers or issuer of the Crypto Token, held in reserve for rewards or other promotional purposes or otherwise locked away from the total supply of the Crypto Tokens;
+
+(e)
+
+a breakdown of the largest holders of the Crypto Tokens, in particular holders of 10% or more of the total supply of the Crypto Tokens; and
+
+(f)
+
+in the case of a Fiat Crypto Token, details about the reserves backing the Fiat Crypto Token and the stabilisation and redemption mechanisms.
+
+(3)

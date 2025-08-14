@@ -1,0 +1,29 @@
+(iii)
+
+include contract delivery specifications which address matters specified in App 3; and
+
+(iv)
+
+provide for legally enforceable settlement and delivery procedures.
+
+(2)
+
+For the purposes of meeting the requirement in (1)(a), an Exchange must include in its Business Rules contract design specifications relating to Derivative contracts traded on its facilities which, at a minimum, include:
+
+(a)
+
+minimum price fluctuations (price ticks);
+
+(b)
+
+maximum price fluctuations (daily price limits), if any;
+
+58
+
+AMI/VER28/03-25
+
+6.3.3
+
+AUTHORISED MARKET INSTITUTIONS (AMI)
+
+(c)

@@ -1,0 +1,11 @@
+3.4.3 An Authorised Market Institution maintaining an Official List of Securities
+
+must pay to the DFSA an annual fee of $75,000.
+
+3.4.4 An Authorised Market Institution carrying on the Financial Service of Operating an Alternative Trading System must pay to the DFSA an annual fee of:
+
+(a) $150,000 if it Operates an Alternative Trading System that trades Security Tokens that are not admitted to trading on an Authorised Market Institution or other Regulated Exchange;
+
+(b) the fee specified in Rule 3.4.6 if it Operates an Alternative Trading
+
+System that trades Crypto Tokens; or

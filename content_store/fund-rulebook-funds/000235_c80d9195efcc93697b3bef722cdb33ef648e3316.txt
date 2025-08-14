@@ -1,0 +1,11 @@
+79
+
+FUNDS VER10.100625
+
+(2) A Fund Manager or Trustee must notify the Regulator if it becomes aware, or has reason to believe, that the auditor or the relevant audit staff of the auditor are no longer independent of the Fund Manager, the Trustee or the Fund, or have a conflict of interest which may affect their judgement in respect of the Fund.
+
+Guidance
+
+1.
+
+A Fund Manager should consider whether there is any financial or personal relationship between it or any of its relevant Employees and the auditor or any of the relevant Employees of the auditor that may affect the judgement of the auditor when conducting an audit of the Fund or complying with all its legal obligations, including FSMR, GEN, AML and other relevant Rulebooks made by the Regulator.

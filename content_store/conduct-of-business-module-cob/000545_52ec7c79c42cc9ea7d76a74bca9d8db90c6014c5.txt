@@ -1,0 +1,15 @@
+(ii)
+
+measures to address risks, including to network security and network compatibility, that may arise through systems used by Persons permitted to update the records on the DLT application; and
+
+(iii)
+
+processes to ensure that the Authorised Firm undertakes sufficient due diligence and adequate monitoring of ongoing compliance, relating to the matters referred to in (i) and (ii);
+
+(c)
+
+ensure any DLT application used by its facility is fit for purpose; and
+
+(d)
+
+have regard to industry best practices in developing its technology design and technology governance relating to DLT that is used by the facility.

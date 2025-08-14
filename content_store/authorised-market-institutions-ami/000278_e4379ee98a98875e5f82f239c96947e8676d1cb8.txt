@@ -1,0 +1,13 @@
+A CCP should analyse and monitor its model performance and overall margin coverage by conducting rigorous back testing regularly, and sensitivity analysis at least monthly and, where appropriate, more frequently. A CCP should regularly conduct an assessment of the theoretical and empirical properties of its margin model for all products it clears. In conducting sensitivity analysis of the model’s coverage, a CCP should take into account a wide range of parameters and assumptions that reflect possible market conditions, including the most-volatile periods that have been experienced by the markets it serves and extreme changes in the correlations between prices.
+
+84
+
+AMI/VER28/03-25
+
+7.3.3
+
+7.4
+
+7.4.1
+
+AUTHORISED MARKET INSTITUTIONS (AMI)

@@ -1,0 +1,35 @@
+Private Financing Platforms
+
+2.1.19
+
+An arrangement does not constitute a Fund if it is an arrangement made for the purpose of facilitating investment through a Private Financing Platform.
+
+5
+
+FUNDS VER10.100625
+
+3.
+
+FUND CRITERIA
+
+3.1
+
+Domestic and Foreign Funds
+
+3.1.1
+
+(1) A Fund is either a Domestic Fund or a Foreign Fund.
+
+(2) A Fund is a Domestic Fund if it is established or domiciled in ADGM.
+
+(3) A Fund that does not meet the Domestic Fund criteria is a Foreign Fund.
+
+3.2
+
+Types of Domestic Funds
+
+3.2.1
+
+(1) A Domestic Fund shall be one of the following types of Fund:
+
+(a)

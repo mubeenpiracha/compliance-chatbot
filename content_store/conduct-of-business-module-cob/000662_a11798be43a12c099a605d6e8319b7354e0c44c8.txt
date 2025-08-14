@@ -1,0 +1,25 @@
+obligation of another Client.
+
+Guidance
+
+The effect of Rule A5.8.4 is that an Authorised Firm would be required to deposit its own Money into a Client Account to remedy a shortfall arising from a client debit balance.
+
+A5.8.5 An Authorised Firm must have a system for ensuring no off-setting or debit
+
+balances occur on Client Accounts.
+
+A5.9 Client disclosure
+
+A5.9.1 Before, or as soon as reasonably practicable after, an Authorised Firm receives Client Money belonging to a Segregated Client, it must disclose to the Client on whose behalf the Client Money is held:
+
+(a)
+
+the basis and any terms governing the way in which the Client Money will be held;
+
+(b)
+
+that the Client is subject to the protection conferred by the DFSA’s Client Money Provisions and as a consequence:
+
+(i)
+
+this Money will be held separate from Money belonging to the Authorised Firm; and

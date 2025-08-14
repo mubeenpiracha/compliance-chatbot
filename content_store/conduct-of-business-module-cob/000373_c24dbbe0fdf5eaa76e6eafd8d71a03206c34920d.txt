@@ -1,0 +1,15 @@
+Guidance
+
+An ATS Operator, when assessing the suitability of a Price Information Provider (the provider), should take into account factors such as:
+
+a.
+
+the provider’s standing and reliability in the relevant physical or derivatives markets as a credible price reporting agency;
+
+b.
+
+the quality of corporate governance adopted, covering areas such as independent members of the board, independence of its internal audit and risk management function;
+
+c.
+
+whether the methodologies and processes (including any material changes to such methodologies and processes) adopted by the provider for the purposes of pricing are made publicly available;

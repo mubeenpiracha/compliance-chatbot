@@ -1,0 +1,9 @@
+material change to the information in (3)(b).
+
+(6)
+
+In this Rule, “staking” means participating in the proof-of-stake consensus mechanism on the DLT or other similar technology that hosts the relevant Crypto Token.
+
+Guidance
+
+Staking refers to the activity where holders of Crypto Tokens lend their Tokens to firms, miners or other persons, in exchange for a return or other reward for the use of the Tokens. Rule 15.6.5 permits an Authorised Firm to offer or provide such a service or facility only if the lending is for use in the proof-of-stake consensus mechanism i.e. the process that involves committing Crypto Tokens to support a blockchain network and confirm transactions. In addition, such a service or facility may be offered or provided only to Professional Clients or Market Counterparties, and where the Authorised Firm meets the additional requirements in Rule 15.6.5(3).

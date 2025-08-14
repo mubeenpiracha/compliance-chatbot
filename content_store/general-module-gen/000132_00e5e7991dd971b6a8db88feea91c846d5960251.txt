@@ -1,0 +1,31 @@
+Exclusions
+
+2.22.2 A Person does not carry on the activity of the kind specified in Rule 2.22.1 if it operates a facility which is merely an order routing system where buying and selling interests in, or orders for, Investments or Crypto Tokens are merely transmitted but do not interact.
+
+2.22.3 A Crowdfunding Operator does not Operate an Alternative Trading System to
+
+the extent that it Operates a Crowdfunding Platform.
+
+2.23 Providing Trust Services
+
+2.23.1 In Rule 2.2.2, Providing Trust Services means:
+
+(a)
+
+the provision of services with respect to the creation of an express trust;
+
+(b)
+
+arranging for any Person to act as a trustee in respect of any express trust;
+
+(c)
+
+acting as trustee in respect of an express trust;
+
+(d)
+
+the provision of Trust Administration Services in respect of an express trust; or
+
+(e)
+
+acting as protector or enforcer in respect of an express trust.

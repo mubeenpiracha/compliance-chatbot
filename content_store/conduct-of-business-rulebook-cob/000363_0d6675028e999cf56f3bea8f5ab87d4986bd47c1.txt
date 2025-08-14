@@ -1,0 +1,29 @@
+about the Payment Service Provider:
+
+(i)
+
+the name of the Payment Service Provider;
+
+(ii)
+
+the address and contact details of the Payment Service Provider’s office in ADGM;
+
+121
+
+COBS VER19.290725
+
+(iii)
+
+the name of the Regulator of the Payment Service Provider, and details of the Payment Service Provider’s Financial Service Permission;
+
+(b)
+
+about the Payment Service:
+
+(i)
+
+a description of the main characteristics of the Payment Service to be provided;
+
+(ii)
+
+the information or unique identifier that must be provided by the Payment Service User in order for a Payment Order to be properly initiated and executed;

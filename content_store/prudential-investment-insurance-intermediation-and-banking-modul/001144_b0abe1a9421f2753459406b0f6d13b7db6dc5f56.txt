@@ -1,0 +1,19 @@
+A5.10.3 An Authorised Firm must:
+
+(a)
+
+exclude positions in hedging instruments entered into with third parties that are Eligible CVA Hedges from the calculation of its Market Risk Capital Requirement under Rule 5.3.1; and
+
+(b)
+
+include positions in hedging instruments entered into with third parties that are not Eligible CVA Hedges in the calculation of its Market Risk Capital Requirement under Rule 5.3.1.
+
+Guidance
+
+1.
+
+Eligible CVA Hedges can be external (i.e. with an external Counterparty) or internal (i.e. with one of the Authorised firm’s trading desks). All external CVA hedges (eligible and ineligible) that are Covered Transactions must be included in the CVA calculation of the Counterparty providing the hedge.
+
+2.
+
+An internal CVA Hedge involves two perfectly offsetting positions: one of the Authorised Firm’s CVA desk and the opposite position of the trading desk:

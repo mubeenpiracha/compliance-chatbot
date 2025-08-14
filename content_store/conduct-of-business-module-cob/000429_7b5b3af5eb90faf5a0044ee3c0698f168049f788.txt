@@ -1,0 +1,41 @@
+128
+
+COB/VER48/03-25
+
+CONDUCT OF BUSINESS (COB)
+
+11.2 Application and interpretation
+
+Application
+
+11.2.1 This chapter applies to an Authorised Firm with respect to the Operation of a
+
+Crowdfunding Platform.
+
+Interpretation
+
+11.2.2
+
+In this chapter:
+
+(a)
+
+“borrower” means a Person that has borrowed or is seeking to borrow money using a Loan Crowdfunding Platform;
+
+(b)
+
+“commitment period” means the period specified by the operator during which lenders may commit to lending money to a particular borrower or investors may commit to investing with a particular Issuer or in a particular property;
+
+(c)
+
+“cooling-off period”, for Investment Crowdfunding or Property Investment Crowdfunding, means the period referred to in Rule 11.5.2 or 11.6.5 when an investor may withdraw his commitment to invest;
+
+(d)
+
+“investor” means an investor or potential investor using an Investment Crowdfunding Platform or a Property Investment Crowdfunding Platform;
+
+(e)
+
+“lender” means a Person who:
+
+(i)

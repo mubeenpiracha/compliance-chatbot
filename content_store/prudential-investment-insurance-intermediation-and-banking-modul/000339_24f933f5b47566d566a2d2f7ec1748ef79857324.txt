@@ -1,0 +1,31 @@
+government or a Central Bank of a GCC member country if:
+
+(a)
+
+the Exposure is denominated and funded in the domestic currency of the central government or Central Bank of that country; and
+
+(b)
+
+the national supervisor:
+
+(i)
+
+permits the application of a 0% risk weight to such Exposures; and
+
+(ii)
+
+applies the same treatment to Exposures to the central government and Central Bank of the U.A.E.
+
+(4) An Authorised Firm may apply a Risk Weight to any Exposure to a central government or a Central Bank of a non GCC member country that corresponds to one Credit Quality Grade higher than the grade that would otherwise apply in accordance with the table in Rule 4.12.1 if:
+
+(a)
+
+the central government or the Central Bank has a Credit Quality Grade of 3 or better;
+
+(b)
+
+the Exposure is denominated and funded in the domestic currency of the central government or Central Bank of that country; and
+
+(c)
+
+the national supervisor of the country in question permits the application of a 0% risk weight to such Exposures.

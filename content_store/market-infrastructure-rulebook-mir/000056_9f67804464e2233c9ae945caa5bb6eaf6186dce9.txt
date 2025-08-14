@@ -1,0 +1,21 @@
+Operational systems and controls
+
+2.6.1
+
+A Recognised Body must establish a robust operational risk management framework with appropriate systems and controls to identify, monitor and manage operational risks that key participants, other Recognised Bodies, group and external service providers and utility providers might pose to itself.
+
+2.6.2
+
+A Recognised Body must have a business continuity plan, which is subjected to periodic review and scenario testing, that addresses events posing a significant risk
+
+16
+
+MIR VER10.290725
+
+of disrupting operations, including events that could cause a widespread or major disruption. The plan should:
+
+(a)
+
+outline objectives, policies, procedures and responsibilities to deal with internal and external business disruptions and measures to ensure timely resumption of service levels;
+
+(b)

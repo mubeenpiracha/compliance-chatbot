@@ -1,0 +1,11 @@
+a.
+
+its systems and controls are compatible with its operations and functions;
+
+b.
+
+compliance and risk management controls embedded in its system operate as intended (for example by generating error reports automatically); and
+
+c.
+
+it can continue to work effectively in stressed market conditions.

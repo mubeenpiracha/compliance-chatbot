@@ -1,0 +1,29 @@
+accordance with (3)
+
+j =
+
+the index that denotes all hedging sets of the interest rate asset class, formed in accordance with Rule A4.8.5
+
+(3) For the purpose of (2), an Authorised Firm must calculate the effective notional IR, by aggregating the effective notional amounts
+
+amount for hedging set ‘j’, EffNotj of each maturity bucket using the following formula:
+
+EffNotj
+
+2 IR = √(Dj,1 IR)
+
+2 IR) + (Dj,2
+
+2 IR) + (Dj,3
+
+IR ∙ Dj,2
+
+IR + 1.4 ∙ Dj,2
+
+IR ∙ Dj,3
+
+IR + 0.6 ∙ Dj,1
+
+IR IR ∙ Dj,3
+
++ 1.4 ∙ Dj,1

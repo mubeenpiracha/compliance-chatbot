@@ -1,0 +1,9 @@
+Means Client Money and Client Investments.
+
+Means the amount which a firm would be liable (ignoring any non-cash collateral held) to pay to a Client (or the Client to the firm) in respect of its margined transactions if each of its open positions was liquidated at the closing or settlement prices published by the relevant exchange or other appropriate pricing source and the Client’s account closed. This refers to cash values and does not include non-cash collateral or other designated investments held in respect of a margined transaction.
+
+Means all Investments held or controlled on behalf of Client in the course of, or in connection with, the carrying on of the Investment Business.
+
+Means money of any currency which an Authorised Person holds on behalf of a Client (including any receivables of the Authorised Person in respect of bank accounts or clearing or brokerage accounts) or which an Authorised Person treats as Client Money, subject to the exclusions in COBS 14.3.1.
+
+Means a report referred to in GEN 6.6.1(c) and containing the content specified in GEN 6.6.6.

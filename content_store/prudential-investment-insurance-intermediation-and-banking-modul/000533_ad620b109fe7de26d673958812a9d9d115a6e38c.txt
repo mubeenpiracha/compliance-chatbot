@@ -1,0 +1,23 @@
+Collective Investment Fund Risk Capital Requirement
+
+5.9.1
+
+An Authorised Firm in Category 1, 2 (other than a Matched Principal) or 5 must calculate its Collective Investment Fund Risk Capital Requirement in respect of Trading Book positions in Units in a Collective Investment Fund by:
+
+(a)
+
+applying its internally developed Market Risk model which has been approved by the DFSA for this purpose; or
+
+(b)
+
+applying the Rules set out in section A5.7.
+
+5.10 Securities Underwriting Capital Requirement
+
+5.10.1 This section applies to an Authorised Firm in Category 1, 2 (other than a Matched Principal) or 5 in respect of Trading Book Securities Underwriting positions.
+
+171
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)

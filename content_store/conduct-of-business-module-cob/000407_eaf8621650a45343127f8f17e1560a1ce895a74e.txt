@@ -1,0 +1,15 @@
+b.
+
+the monitoring conducted for possible patterns of normal, abnormal or improper use of those facilities;
+
+c.
+
+how promptly and accurately information is communicated about Market Abuse to the DFSA and other appropriate organisations; and
+
+d.
+
+how the ATS Operator co-operates with relevant bodies in the prevention, investigation and pursuit of Market Abuse.
+
+3.
+
+An ATS Operator must have regard to Part 6 of the Markets Law in relation to forms of Market Abuse. Practices that amount to market manipulation (which is Market Abuse) in an automated trading environment which an ATS should be able to identify and prevent in order to promote proper markets include the following:

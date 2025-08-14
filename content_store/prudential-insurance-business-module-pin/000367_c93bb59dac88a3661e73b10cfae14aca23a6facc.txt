@@ -1,0 +1,9 @@
+A8.8.4
+
+If the concentration risk component in respect of an investment exposure of a Long- Term Insurance Fund, aggregated with the sum of the default risk component, investment volatility risk component and off-balance sheet asset risk component (so far as concerns that fund), in respect of the assets and off-balance sheet exposures comprising that investment exposure, exceeds 100% of that investment exposure, the concentration risk component in respect of that investment exposure must be reduced so that the total of the three components in respect of that investment exposure is equal to 100% of that investment exposure.
+
+110
+
+PIN/VER18/04-23
+
+PRUDENTIAL – INSURANCE BUSINESS (PIN)

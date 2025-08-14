@@ -1,0 +1,29 @@
+2.7 Dealing in investments as principal
+
+2.7.1
+
+In Rule 2.2.2, Dealing in Investments as Principal means buying, selling, subscribing for or underwriting any Investment or Crypto Token, as principal.
+
+Exclusions
+
+2.7.2 A Person does not Deal in Investments as Principal merely by accepting an instrument, creating or acknowledging indebtedness in respect of any loan, credit, guarantee or other similar financial accommodation which that person has made or provided.
+
+2.7.3 A Person does not Deal in Investments as Principal by issuing or redeeming
+
+Securities or Crypto Tokens issued by that person.
+
+2.7.4 (1)
+
+A Person who is not an Authorised Firm or an Authorised Market Institution does not Deal in Investments as Principal in relation to an Investment or Crypto Token by entering into a transaction with or through an Authorised Firm or a Regulated Financial Institution.
+
+(2)
+
+The exclusion in (1) does not apply if the Person holds itself out as:
+
+(a)
+
+willing to enter into transactions in Investments or Crypto Tokens of the kind to which the transaction relates; or
+
+(b)
+
+engaging in the business of buying, selling, subscribing for or underwriting Investments or Crypto Tokens.

@@ -1,0 +1,25 @@
+8
+
+COB/VER48/03-25
+
+2.3.5
+
+CONDUCT OF BUSINESS (COB)
+
+(b)
+
+‘own funds’ mean cash and investments as shown in the balance sheet; and
+
+(c)
+
+‘called up capital’ means all the amounts paid-up on allotted shares, less any amounts owing on allotted shares.
+
+Guidance
+
+1.
+
+Although an Authorised Firm is not required to undertake a detailed assessment of a ‘deemed’ Professional Client’s expertise or net assets (as is required in the case of an ‘assessed’ Professional Client), a firm still needs to have a reasonable basis for classifying a Person as falling within the list of ‘deemed’ Professional Clients in Rule 2.3.4(1) or (2). For example, in order to verify whether a trustee of a trust can be classified as a ‘deemed’ Professional Client under Rule 2.3.4(1)(j), an Authorised Firm should obtain a verified copy of the most recent balance sheet of the relevant trust.
+
+2.
+
+An individual trustee on the board of a trust where the trust has at least $10 million assets under its control can qualify as a ‘deemed’ Professional Client under Rule 2.3.4(1)(j) but only in relation to that particular trust.

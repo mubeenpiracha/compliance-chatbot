@@ -1,0 +1,13 @@
+Alternative Attestation Requirement
+
+20.2.9
+
+The Fund Manager of an ADGM Green Fund is not required to appoint a third party to attest to its compliance with the Green Fund Investment Requirement if:
+
+(a)
+
+the Fund is a Qualified Investor Fund and the Fund Manager elects to provide the attestation itself; or
+
+(b)
+
+all Eligible Green Fund Assets held as Fund Property are included in or otherwise track an EU Paris Aligned Benchmark pursuant to Rule 20.2.3(b), in which event an attestation is not required.

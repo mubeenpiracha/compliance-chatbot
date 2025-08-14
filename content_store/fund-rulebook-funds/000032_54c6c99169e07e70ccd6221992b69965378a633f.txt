@@ -1,0 +1,29 @@
+Real Estate Investment Trust (REIT)
+
+4.1.5
+
+A Fund is a Real Estate Investment Trust (REIT) only if it meets the criteria in Rule 13.5.
+
+Venture Capital Fund
+
+4.1.6
+
+(1) A Fund is a Venture Capital Fund if it-
+
+(a)
+
+only invests directly, or indirectly as a Feeder Fund holding units of a Master Fund, in accordance with (2), in:
+
+(i)
+
+Securities or Virtual Assets that are not admitted to trading on an exchange,
+
+10
+
+FUNDS VER10.100625
+
+(ii)
+
+instruments enabling the Fund to acquire Securities or Virtual Assets;
+
+(iii) governance tokens that allow holders to participate

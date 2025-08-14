@@ -1,0 +1,17 @@
+For the purposes of determining whether a Person is a Controller, any Shares, voting rights or rights to acquire Shares or voting rights that a Person Holds, either alone or with any Associate with whom they are acting in concert, in an Authorised Person or a Holding Company of that Authorised Person are disregarded if:
+
+(1)
+
+they are Shares held for the sole purpose of clearing and settling within a short settlement cycle;
+
+(2)
+
+they are Shares held in a custodial or nominee capacity and the voting rights attached to the Shares are exercised only in accordance with written instructions given to that Person by another Person;
+
+(3)
+
+they are Shares representing no more than 5% of the total voting power and are Held by an Authorised Person with a Financial Services Permission to deal as principal, who:
+
+(i)
+
+Holds the Shares in the capacity of a market maker; and

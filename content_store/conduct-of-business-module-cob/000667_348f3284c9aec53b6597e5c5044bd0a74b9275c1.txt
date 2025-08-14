@@ -1,0 +1,37 @@
+For an Authorised Firm that Provides Money Services:
+
+(a)
+
+the system that accurate reconciliations of the Client Accounts are carried out at least daily; and
+
+referred
+
+to
+
+in (1) must ensure
+
+(b)
+
+the reconciliations referred to in (3) must be performed at least daily.
+
+Guidance
+
+When performing the reconciliations, an Authorised Firm should:
+
+a.
+
+include in the credit ledger balances:
+
+i.
+
+unallocated Client Money;
+
+ii.
+
+dividends received and interest earned and allocated;
+
+iii.
+
+sale proceeds which have been received by the Authorised Firm and the Client has delivered the Investments or Crypto Tokens or the Authorised Firm holds or controls the Investment or Crypto Token; and
+
+iv. Money paid by the Client in respect of a purchase where the Authorised Firm has not remitted the Money to the counterparty or delivered the Investment or Crypto Token to the Client; and

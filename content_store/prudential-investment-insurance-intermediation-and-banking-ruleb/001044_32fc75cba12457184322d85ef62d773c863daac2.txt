@@ -1,0 +1,7 @@
+Incremental risk charge (IRC) model
+
+Guidance
+
+1.
+
+An Authorised Person that uses an internal model for calculating Capital Requirements for Specific Risk of interest rate risk Exposures should also have an internal incremental default and migration risk (incremental risk charge, or IRC) model in place to capture the default and migration risks of its Trading Book positions that are incremental to the risks captured by the VaR measure as specified in Guidance note 7 of A6.9.1. An Authorised Person should demonstrate that its internal model meets soundness standards comparable to the Internal Ratings Based (IRB) approach for Credit Risk under the assumption of a constant level of risk, and adjusted where appropriate to reflect the impact of liquidity, concentrations, hedging and optionality.

@@ -1,0 +1,29 @@
+Forums
+
+11.3.15 If an operator provides a means of communication (a “forum”) for users to discuss
+
+funding proposals made using the service, it must:
+
+(a)
+
+refer lenders or investors to the forum as a place where they can find, or take part in, further discussion about proposals, while clearly stating that the operator does not conduct due diligence on information on the forum;
+
+(b)
+
+restrict posting of comments on the forum to Persons who are Clients using the service;
+
+(c)
+
+ensure that all Clients using the forum have equal access to information posted on the forum;
+
+(d)
+
+require a Person posting a comment on the forum to disclose clearly if he is affiliated in any way with a borrower, Issuer, or seller is being compensated, directly or indirectly, to promote a proposal by a borrower, Issuer or seller;
+
+(e)
+
+take reasonable steps to monitor and prevent posts on the forum that are potentially misleading or fraudulent;
+
+(f)
+
+immediately take steps to remove a post, or to require a post to be deleted or amended, if the operator becomes aware that (d) or (e) have not been complied with; and

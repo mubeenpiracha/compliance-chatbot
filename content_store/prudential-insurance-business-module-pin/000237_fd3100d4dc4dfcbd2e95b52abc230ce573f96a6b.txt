@@ -1,0 +1,33 @@
+a.
+
+relevant Group members are aware of the Insurer’s Group risk management and reporting obligations;
+
+b.
+
+Group capital and Group risk reporting requirements are complied with; and
+
+c.
+
+information in respect of the Group provided to the DFSA is of appropriate quality.
+
+65
+
+PIN/VER18/04-23
+
+PRUDENTIAL – INSURANCE BUSINESS (PIN)
+
+APP3 CALCULATION OF ADJUSTED CAPITAL RESOURCES
+
+A3.1 Purpose and general provisions
+
+A3.1.1 This appendix applies to all Insurers to which section 4.3 applies.
+
+Guidance
+
+1.
+
+This appendix sets out the manner in which an Insurer that is not a Protected Cell Company is required to calculate its Adjusted Capital Resources. The equivalent provisions for Insurers that are Protected Cell Companies are set out in App5.
+
+2.
+
+The Adjusted Capital Resources are calculated by making adjustments to the Insurer’s equity as at the Solvency Reference Date.

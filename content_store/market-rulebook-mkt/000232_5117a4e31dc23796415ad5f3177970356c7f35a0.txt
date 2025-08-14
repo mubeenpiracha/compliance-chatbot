@@ -1,0 +1,3 @@
+Guidance
+
+The Stabilisation Manager may often be the lead manager in respect of an Offer, and can therefore over-allot Relevant Securities in the initial allocation and then facilitate the stabilisation by purchasing Relevant Securities during the Stabilisation Window. A Stabilisation Manager and his Stabilisation Agents may also sell short on the market to facilitate Price Stabilisation or in order to close out or liquidate positions established by Price Stabilisation.

@@ -1,0 +1,17 @@
+17.2.5 In the absence of written direction given under Section 5B of FSMR, an Authorised Person may consider a Virtual Asset for which it has submitted the notification required under Rule 17.2.4 as an Accepted Virtual Asset and, subject to Rule 17.2.6, may commence the conduct of a Regulated Activity with such Accepted Virtual Asset.
+
+17.2.6 An Authorised Person conducting a Regulated Activity in relation to an Accepted Virtual
+
+Asset must:
+
+112
+
+COBS VER19.290725
+
+(a)
+
+maintain upon its website a current list of all Accepted Virtual Assets with which it it is permitted to conduct a Regulated Activity; and
+
+(b)
+
+continuously monitor all Accepted Virtual Assets with which it conducts a Regulated Activity to ensure its continuing satisfaction of the criteria specified in Rule 17.2.2.

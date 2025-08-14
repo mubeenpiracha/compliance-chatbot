@@ -1,0 +1,23 @@
+(vi)
+
+they have a proven record as a reliable source of liquidity in the markets (repo or sale) even during stressed market conditions, (i.e. maximum decline of price or increase in haircut over a 30-day period during a relevant period of significant liquidity stress not exceeding 40%); and
+
+(d) any other types of assets approved by the DFSA under Rule A9.2.9 as
+
+being eligible to be Level 2B HQLA.
+
+391
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+Approval of other types of HQLA
+
+A9.2.9
+
+(1) The DFSA may approve other types of assets (in addition to those specified in Rules A9.2.6 to A9.2.8) as being eligible to be included in the stock of HQLA for the purposes of the calculation of the LCR.
+
+(2)
+
+If the DFSA approves assets under (1), it must specify whether they are to be classified as Level 1 HQLA or Level 2 HQLA and the haircut, if any, to be applied to them.

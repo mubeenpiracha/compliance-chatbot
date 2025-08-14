@@ -1,0 +1,19 @@
+General Insurance liabilities and Long-Term Insurance liabilities.
+
+Has the meaning given in GEN section 2.20.
+
+An Authorised Firm whose Licence authorises it to carry on the Financial Service of Insurance Management.
+
+Has the meaning given in COB Rule 7.12.2.
+
+A report referred to in GEN Rule 8.6.1(d).
+
+An insurer which:
+
+(a)
+
+assumes risks by way of reinsurance; and
+
+(b)
+
+is required to fully fund its exposures to those risks through the proceeds of a debt issuance or some other financing arrangement where the repayment those arrangements are obligations under subordinated reinsurance obligations.

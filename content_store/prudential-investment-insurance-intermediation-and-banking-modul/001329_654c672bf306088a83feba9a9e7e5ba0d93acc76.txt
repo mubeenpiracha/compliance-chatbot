@@ -1,0 +1,7 @@
+13. Credit and liquidity facilities include drawdowns on committed (contractually irrevocable) or conditionally revocable credit and liquidity facilities. The currently undrawn portion of these facilities is calculated net of any eligible HQLA if the HQLA: (a) have already been posted as collateral to secure the facilities; or (b) are contractually obliged to be posted when the counterparty draws down the facility.
+
+14. Other contractual funding obligations include contractual obligations to extend funds within a 30-day period and other contractual cash outflows not previously captured under Rule A9.2.15 in App 9.
+
+15. Other contingent funding obligations, as defined in Rule A9.2.15 in App 9.
+
+16.

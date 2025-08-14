@@ -1,0 +1,27 @@
+the name of the counterparty;
+
+(c)
+
+the date and time in the jurisdiction in which the Transaction was Executed;
+
+(d)
+
+the identity of the Employee executing the Transaction;
+
+(e)
+
+the Investment or Crypto Token, including the number of or its value and price; and
+
+(f)
+
+whether the Transaction was a purchase or a sale.
+
+Passing a client order to another person for execution
+
+A1.1.3 An Authorised Firm must, pursuant to Rule 6.7.4(3), make a record of the following:
+
+(a)
+
+the identity of the Person instructed;
+
+(b)

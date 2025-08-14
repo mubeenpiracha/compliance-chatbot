@@ -1,0 +1,15 @@
+Unrestricted PSIAs and other Shari’a compliant products
+
+18.
+
+For the purposes of calculating cash outflows, Unrestricted PSIAs should be treated similarly to the relevant category of deposits specified in the Table. The appropriate run-off factor for a PSIA will depend on the contractual withdrawal rights of the investment account holders and whether it is a retail or wholesale account.
+
+397
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+19.
+
+For commodity Murabaha transactions, a run-off factor of 100% should be applied to the balance of the Murabaha payable, if the remaining term of the contract does not exceed 30 days. If early withdrawal of the original amount is allowed at the discretion of the Authorised Firm with no mark-up, then the applicable run-off factor will be the same as that for the relevant category of deposit or Unrestricted PSIA under the Table.

@@ -1,0 +1,11 @@
+Treatment of Commodity derivatives
+
+A5.5.3 An Authorised Firm must:
+
+(a)
+
+individual incorporate all commodities in the measurement system as notional amounts and assigned a maturity with reference to the expiry date;
+
+futures and
+
+forward contracts relating

@@ -1,0 +1,15 @@
+Directions by an Authorised Market Institution
+
+9.10.5 Where an Authorised Market Institution:
+
+(a)
+
+decides to limit the open position of any Person in Investments or Crypto Tokens; or
+
+(b)
+
+issues directions to any Person to close out his position in any Investment or Crypto Token;
+
+that Authorised Market Institution must immediately give the DFSA notice of that event, and the Person’s name, the Investment or Crypto Token and size of any position to be limited or closed-out and the reasons for the Authorised Market Institution’s decision.
+
+9.11

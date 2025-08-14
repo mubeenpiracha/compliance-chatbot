@@ -1,0 +1,13 @@
+If a Recognised Clearing House issues an instrument which would be a Non-CET1 Capital Instrument had the Recognised Clearing House been an Investment Firm, this section and section 65 would apply equally to the Recognised Clearing House as it would to an Investment Firm.
+
+Provisions governing the write down or conversion of Non-CET1 Capital Instruments
+
+In complying with the requirements under section 68, the Regulator shall exercise the Write Down or Conversion Power under section 64 in accordance with the priority of claims under Insolvency Proceedings, in a way that produces the following results—
+
+(a)
+
+Common Equity Tier 1 Capital items are reduced first in proportion to the losses and to the extent of their capacity and the Regulator takes one or both of the actions specified in section 51(1) in respect of the holders of Common Equity Tier 1 Capital instruments;
+
+(b)
+
+the principal amount of Additional Tier 1 Capital instruments is written down or converted into Common Equity Tier 1 Capital instruments or both, to the extent required to achieve the Resolution Objectives or to the extent of the capacity of the Non-CET1 Capital Instruments, whichever is lower; and

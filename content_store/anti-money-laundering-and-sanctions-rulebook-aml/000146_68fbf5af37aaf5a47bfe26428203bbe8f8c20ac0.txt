@@ -1,0 +1,3 @@
+3.
+
+An eKYC System may be used as part of the identification and verification of Beneficial Owners. When determining whether to use an eKYC System to assist in the CDD of a Beneficial Owner, a Relevant Person should establish if the eKYC System used allows it to comply fully with the relevant Rules in relation to CDD.

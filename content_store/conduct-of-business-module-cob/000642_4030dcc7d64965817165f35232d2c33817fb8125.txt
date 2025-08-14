@@ -1,0 +1,25 @@
+APP4 PERIODIC STATEMENTS
+
+A4.1 Content of periodic statements: investment management
+
+General information
+
+A4.1.1 Pursuant to section 6.10, a periodic statement, as at the end of the period covered,
+
+must contain the following general information:
+
+(a)
+
+the number, description and value of each Investment or Crypto Token;
+
+(b)
+
+the amount of cash held;
+
+(c)
+
+the total value of the portfolio; and
+
+(d)
+
+a statement of the basis on which the value of each Investment or Crypto Token has been calculated.

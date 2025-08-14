@@ -1,0 +1,15 @@
+For the purposes of Rule A6.6.3, the Specific Risk percentage for:
+
+(a)
+
+a currency Option is 8%; and
+
+(b)
+
+an Option on commodities is 15%.
+
+(2)
+
+For the purposes of Rule A6.6.3, in the case of an Option with a residual maturity of more than six months, the strike price must be compared with the forward, not current price, or if the Authorised Person is unable to do this, then the Money amount must be taken to be zero.
+
+Delta-plus method

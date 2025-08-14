@@ -1,0 +1,31 @@
+components, for the Long-Term Insurance Fund:
+
+(a)
+
+the default risk components determined in accordance with Rule A8.4;
+
+(b)
+
+the investment volatility risk component determined in accordance with Rule A8.5; and
+
+(c)
+
+the concentration risk component determined in accordance with Rule A8.8.
+
+A8.9.2 An Insurer must calculate the size factor component in respect of Long-Term Insurance Fund by multiplying the base figure for that fund as determined in accordance with Rule A8.9.1 by the factor derived by applying the following formula, where x represents the total Invested Assets attributable to that fund, expressed in millions of dollars:
+
+(a)
+
+if x ≤ 100, the factor is 1.5;
+
+(b)
+
+if 100 < x ≤ 200, the factor is (150 + 0.5(x-100))/x;
+
+(c)
+
+if 200 < x ≤ 1,200, the factor is (200 – 0.2(x-200))/x; and
+
+(d)
+
+if x > 1,200, the factor is zero.

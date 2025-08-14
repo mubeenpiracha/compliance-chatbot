@@ -1,0 +1,23 @@
+(ii)
+
+sufficient records of transactions to enable individual transactions to be reconstructed; and
+
+(iii)
+
+internal findings and analysis relating to a transaction or any business, if the transaction or business appears unusual or suspicious, whether or not it results in a Suspicious Activity/Transaction Report;
+
+(c)
+
+internal notifications of suspicious activity made to its MLRO under Rule 14.2.2;
+
+(d)
+
+Suspicious Activity/Transaction Reports and any relevant supporting documents and information, including internal findings and analysis;
+
+Confidential
+
+23
+
+AML VER10.020125
+
+(e)

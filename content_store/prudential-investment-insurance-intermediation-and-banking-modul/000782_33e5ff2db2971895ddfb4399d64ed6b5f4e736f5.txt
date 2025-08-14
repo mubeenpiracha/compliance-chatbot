@@ -1,0 +1,11 @@
+Marking-to-Model
+
+5.
+
+Only where marking-to-market is not possible should Authorised Firms mark-to-model, but in such cases, the Authorised Firm should be able to demonstrate to the DFSA that the approach is prudent. Marking-to-model is defined as any valuation which has to be benchmarked, extrapolated or otherwise calculated from a market input. When marking-to-model, an extra degree of conservatism is appropriate. The DFSA will consider the following in assessing whether a mark-to-model valuation is prudent:
+
+254
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)

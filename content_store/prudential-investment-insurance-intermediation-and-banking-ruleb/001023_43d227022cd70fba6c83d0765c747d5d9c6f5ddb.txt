@@ -1,0 +1,19 @@
+e.
+
+the accuracy and completeness of position data, the accuracy and appropriateness of volatility and correlation assumptions, and the accuracy of valuation and risk sensitivity calculations;
+
+f.
+
+the verification process the Authorised Person employs to evaluate the consistency, timeliness and reliability of data sources used to run internal models, including the independence of such data sources; and
+
+g.
+
+the verification process the Authorised Person uses to evaluate back-testing that is conducted to assess the models' accuracy.
+
+374
+
+PRU VER17.290725
+
+3.
+
+As techniques and best practices evolve, Authorised Persons should apply those new techniques and practices in any internal model used for purposes of Chapter 5.

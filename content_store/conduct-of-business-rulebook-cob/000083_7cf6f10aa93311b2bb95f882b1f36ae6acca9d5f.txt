@@ -1,0 +1,13 @@
+The Climate Transition Portfolio Attestation Requirement
+
+3.8.14 The Authorised Person acting as the Investment Manager of an ADGM Climate Transition Portfolio must appoint a third party to attest to its compliance with the Climate Transition Portfolio Investment Requirement on an ongoing basis and at least annually. This requirement only applies to Eligible Climate Transition Portfolio Assets that are aligned with an Acceptable Climate Transition Taxonomy in accordance with Rule 3.8.12(a), and not to Eligible Climate Transition Portfolio Assets under Rules 3.8.12(b) to (e). This is referred to as the “Climate Transition Portfolio Attestation Requirement”.
+
+3.8.15 An Authorised Person must, prior to the appointment of a third party to provide an attestation under Rule 3.8.14, take reasonable steps to ensure that the third party:
+
+(a)
+
+has the required skills, resources and experience to provide the attestation;
+
+(b)
+
+is independent of, and not subject to any conflict of interest with respect to the Authorised Person; and

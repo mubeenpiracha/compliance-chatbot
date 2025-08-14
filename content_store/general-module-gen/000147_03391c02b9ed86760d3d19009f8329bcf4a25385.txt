@@ -1,0 +1,15 @@
+Exclusions
+
+2.28.2 A Person does not carry on the activity of Arranging Credit under Rule 2.28.1(1)(a) if that Person enters, or is to enter, into the transaction to Provide Credit. This exclusion does not apply in the case of a branch which makes arrangements for its head office, or any other branch of the same legal entity as itself, to enter into a transaction as provided under Rule 2.28.1(1)(a).
+
+2.28.3 A Person does not make arrangements referred to in Rule 2.28.1(1)(a) merely by providing means by which one party to a transaction is able to communicate with other such parties.
+
+42
+
+GEN/VER67/03-25
+
+GENERAL (GEN)
+
+2.28.4 A Person does not carry on the activity referred to in Rule 2.28.1(1)(a) by making arrangements under which another Person accepts or is to accept an instrument creating or acknowledging indebtedness in respect of any loan, credit, guarantee or other similar financial accommodation which he or his principal has made or provided.
+
+2.28.5 A Person does not Arrange Credit merely by making arrangements having as their sole purpose the provision of finance to enable a Person to buy, sell, subscribe for or underwrite Investments.

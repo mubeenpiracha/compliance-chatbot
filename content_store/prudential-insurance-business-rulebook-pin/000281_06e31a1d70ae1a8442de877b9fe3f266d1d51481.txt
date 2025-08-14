@@ -1,0 +1,15 @@
+Written Premium.
+
+A4.12.5 The finite risk reinsurance element is determined as the sum of the following
+
+three amounts:
+
+(a)
+
+subject to Rule A4.12.7, the sum of the amounts obtained by applying, to the amount outstanding in respect of each cedant, the percentages set out in Rule A4.4.1(a)(i) as though the cedant were a reinsurer and the amount outstanding were reinsurance recoverable;
+
+(b)
+
+the sum of the amounts obtained by applying, to the amount outstanding under each contract, the percentages set out in Rule A4.5.1, as though the amount outstanding were a bond; and
+
+(c)

@@ -1,0 +1,29 @@
+Guidance
+
+1.
+
+In PIN, appendices have been used to present detailed material which would otherwise break up the flow of the main text.
+
+2.
+
+APP2 presents detailed guidance on systems and controls issues particularly relevant to Insurers.
+
+3.
+
+The remaining appendices are all concerned with capital adequacy calculations and reporting.
+
+4.
+
+A fundamental requirement of Chapter 4 of the Rules is that an Insurer's capital resources should be at least equal to its capital requirement.
+
+5.
+
+APP3 contains the Rules for the calculation of an Insurer's capital resources and APP5 and APP7 contain the corresponding rules for a Cell Company and a segregated Long-Term Insurance Fund, respectively.
+
+6.
+
+APP4 contains the Rules for the calculation of an Insurer's capital requirement. APP6 and APP8 contain the corresponding rules for a Cell Company and a segregated Long-Term Insurance Fund respectively. They make frequent reference to APP4.
+
+7.
+
+APP9 contains the rules for the calculation of ADGM Business Risk Capital Requirement referred to in Rule 4.6.2(c). It is only applicable to Insurers incorporated outside ADGM.

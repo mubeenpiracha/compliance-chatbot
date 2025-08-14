@@ -1,0 +1,55 @@
+in accordance with the following formula:
+
+EffectiveNotiona𝑙𝑗
+
+(𝐼𝑅)
+
+2 (𝐼𝑅))
+
+2 (𝐼𝑅))
+
+2 (𝐼𝑅))
+
+(𝐼𝑅)∗ 𝐷𝑗2
+
+(𝐼𝑅)+ 1.4
+
++ 1.4∗𝐷𝑗1 1 2 (𝐼𝑅)]
+
++(𝐷𝑗2
+
+= [(𝐷𝑗1
+
++(𝐷𝑗3
+
+(𝐼𝑅)∗ 𝐷𝑗3
+
+(𝐼𝑅)∗ 𝐷𝑗3
+
+(𝐼𝑅)+ 0.6 ∗ 𝐷𝑗1
+
+∗ 𝐷𝑗2
+
+297
+
+PRU VER17.290725
+
+A4.6.42 The Authorised Person must then determine the hedging set level add-on in
+
+accordance with the following formula:
+
+𝐴𝑑𝑑𝑂𝑛𝑗
+
+(𝐼𝑅) = 𝑆𝐹𝑗
+
+(𝐼𝑅) ∗ 𝐸𝑓𝑓𝑒𝑐𝑡𝑖𝑣𝑒𝑁𝑜𝑡𝑖𝑜𝑛𝑎𝑙𝑗
+
+(𝐼𝑅)
+
+A4.6.43 The Authorised Person must then aggregate the interest rate derivative add-on across
+
+hedging sets by simple summation, as follows:
+
+𝐴𝑑𝑑𝑂𝑛(𝐼𝑅) = ∑𝐴𝑑𝑑𝑂𝑛𝑗
+
+(𝐼𝑅)

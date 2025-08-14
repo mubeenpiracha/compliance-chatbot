@@ -1,0 +1,39 @@
+NSFR derivative assets
+
+30
+
+NSFR derivative liabilities before deduction of variation margin posted
+
+31
+
+All other assets not included in the above categories
+
+32 Off-balance sheet items
+
+33 Total RSF
+
+430
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+34 Net Stable Funding Ratio
+
+(%)
+
+Guidance
+
+The following Guidance is intended to assist firms to complete the above table.
+
+Data must be presented as quarter-end observations.
+
+Both unweighted and weighted values of the NSFR components must be disclosed unless otherwise indicated. Weighted values are calculated as the values after ASF or RSF Factors are applied.
+
+In completing the NSFR disclosure table, Authorised Firms should follow the instructions below. The numbers in the instructions correspond to the relevant row numbers in the quantitative disclosures section of the table.
+
+1.
+
+Capital is the sum of rows 2 and 3.
+
+2.

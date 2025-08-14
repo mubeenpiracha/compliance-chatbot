@@ -1,0 +1,23 @@
+Guidance
+
+1.
+
+This section sets out the methodology for calculation of the Credit RWA amount by an Originator, when it sells revolving Exposures into a securitisation that contains an Early Amortisation provision.
+
+2.
+
+Early Amortisation of the Securities describes the process whereby the repayment of the investors’ interest is brought forward upon the occurrence of specified events. Events that are economic in nature by reference to the financial performance of the transferred assets are known as economic triggers.
+
+4.14.52 (1)
+
+An Authorised Firm which is the Originator or Sponsor of a securitisation involving revolving Exposures, must calculate Credit RWA amounts in respect of the total Exposure related to a securitisation (both drawn and undrawn balances) when:
+
+(a)
+
+the Authorised Firm sells Exposures into a structure that contains an Early Amortisation feature; and
+
+(b)
+
+the Exposures are of a revolving nature.
+
+(2)

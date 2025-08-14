@@ -1,0 +1,49 @@
+> 4 and ≤ 5 years
+
+> 3.6 and ≤ 4.3 years
+
+2.75%
+
+> 5 and ≤ 7 years
+
+> 4.3 and ≤ 5.7 years
+
+3.25%
+
+> 7 and ≤ 10 years
+
+> 5.7 and ≤ 7.3 years
+
+3.75%
+
+> 10 and ≤ 15 years
+
+> 7.3 and ≤ 9.3 years
+
+4.50%
+
+C
+
+> 15 and ≤ 20 years
+
+> 9.3 and ≤ 10.6 years
+
+5.25%
+
+> 20 years
+
+> 10.6 and ≤ 12.0 years
+
+6.00%
+
+> 12.0 and ≤ 20.0 years
+
+8.00%
+
+> 20 years
+
+12.50%
+
+Guidance
+
+The risk percentages in the table above are designed to reflect the price sensitivity of the positions to changes in the interest rate.

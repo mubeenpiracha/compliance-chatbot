@@ -1,0 +1,11 @@
+(a)
+
+the asset must be unencumbered and free of legal, regulatory, contractual or other restrictions that affect the ability of the Authorised Person to liquidate, sell, transfer, or assign the asset;
+
+(b)
+
+the asset must not be pledged, either explicitly or implicitly, to secure, collateralise or credit-enhance any transaction, nor be designated to cover operational costs (such as rents and salaries); and
+
+(c)
+
+an asset received in a reverse repo or Securities Financing Transactions that is held at the Authorised Person, is eligible for inclusion in the stock of HQLA only if the asset has not been rehypothecated and is legally and contractually available for the Authorised Person's use.

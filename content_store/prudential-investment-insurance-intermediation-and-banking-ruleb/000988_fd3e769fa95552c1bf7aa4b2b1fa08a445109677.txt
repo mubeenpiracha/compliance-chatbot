@@ -1,0 +1,27 @@
+(ii)
+
+for equities and stock indices, each national market;
+
+(iii)
+
+for foreign currencies and gold, each currency pair and gold; and
+
+(iv)
+
+for commodities, positions in the same individual commodity as defined in Section A6.5 for Commodities Risk Capital Requirement.
+
+A6.6.9
+
+An Authorised Person must calculate its Capital Requirement for Gamma risk by:
+
+(a)
+
+calculating the net Gamma impact in respect of each underlying Financial Instrument or commodity by aggregating the individual Gamma impacts for each Option position in respect of that underlying Financial Instrument or commodity (which may be either positive or negative); and
+
+(b)
+
+aggregating the absolute value of the net Gamma impacts that are negative.
+
+362
+
+PRU VER17.290725

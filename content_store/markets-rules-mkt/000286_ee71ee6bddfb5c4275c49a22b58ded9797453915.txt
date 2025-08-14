@@ -1,0 +1,27 @@
+Guidance
+
+The DFSA may modify the threshold specified in Rule 9.3.9(1)(a) by reducing the aggregate market value required, where it is satisfied that it is appropriate in the circumstances to do so. When the DFSA
+
+87
+
+MKT/VER24/03-25
+
+MARKETS RULES (MKT)
+
+reduces that threshold it may also make a corresponding modification to the definition of a SME in Rule 1.3.3.
+
+Shares in public hands
+
+9.3.10 (1)
+
+If an application is made for the admission of a class of Shares, a sufficient number of Shares of that class must, no later than the time of admission, be distributed to the public.
+
+(2)
+
+For the purposes of Rule (1), a sufficient number of Shares will be taken to have been distributed to the public when 25 per cent of the Shares for which application for admission has been made are in public hands.
+
+(3)
+
+For the purposes of Rules (1) and (2), Shares are not held in public hands if they are held, directly or indirectly by:
+
+(a)

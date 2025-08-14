@@ -1,0 +1,7 @@
+settlement transactions ...................................................................................... 287 A4.7 Credit RWA - repurchase agreements, reverse repurchase agreements, similar transactions and other deferred settlements .................................................... 301 A4.8 Credit RWA - other Trading Book transactions .................................................. 302 A4.9 Exposures to central counterparties .................................................................. 303 A4.10 Securitisation ........................................................................................................ 309 A4.11 Large Exposures ................................................................................................... 314 A4.12 The Simplified Approach for Category 2 and 3A firms ...................................... 321
+
+iv
+
+PRU VER17.290725
+
+APP5 CREDIT VALUATION ADJUSTMENT (CVA) RISK .............................................. 324

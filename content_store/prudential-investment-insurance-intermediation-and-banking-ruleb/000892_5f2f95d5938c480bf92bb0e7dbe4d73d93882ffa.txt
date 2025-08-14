@@ -1,0 +1,21 @@
+gold;
+
+(c)
+
+any debt Securities issued by sovereigns (including a central government or central bank) of a jurisdiction that that has an ECA country risk classification of 4 or better; and
+
+(d)
+
+any debt Securities issued by a PSE that is treated as a sovereign and is of a jurisdiction that has an ECA country risk classification of 4 or better.
+
+322
+
+PRU VER17.290725
+
+(2)
+
+Cash-funded CLNs issued by an Authorised Person against Exposures in the Non-Trading Book which fulfil the criteria for eligible Credit Derivatives must be treated as cash collateralised transactions.
+
+(3)
+
+Cash, mentioned in (1)(a) includes cash on Deposit, certificates of Deposit or other similar instruments issued by the Authorised Person that are held as Collateral at a third-party bank in a non-custodial arrangement and that are pledged or assigned to the Authorised Person. This is subject to the pledge or assignment being unconditional and irrevocable. Under the FCSA, the risk weight to be applied to the Exposure covered by such Collateral must be the risk weight of the third-party bank.

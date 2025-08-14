@@ -1,0 +1,35 @@
+OneBusinessYear =
+
+one year expressed in business days
+
+A4.8.16 (1) For the purpose of determining the margin period of risk of transaction ‘i’, MPORi
+
+referred to in Rule A4.8.15, an Authorised Firm must apply the following floors:
+
+298
+
+PIB/VER50/07-25
+
+A4.8.17
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+(a)
+
+ten business days for non-centrally cleared transactions subject to daily remargining; and
+
+(b)
+
+the sum of nine business days and the remargining period for non-centrally cleared transactions that are not subject to daily remargining.
+
+(2) Under the following circumstances, an Authorised Firm must apply a higher
+
+minimum holding period:
+
+(a)
+
+for a Netting Set consisting of more than 5,000 transactions at any point during a quarter, the minimum holding period of risk is 20 business days;
+
+(b)
+
+for a Netting Set containing one or more transactions involving either illiquid Collateral or an OTC derivative that cannot be easily replaced, the minimum holding period of risk is 20 business days; and

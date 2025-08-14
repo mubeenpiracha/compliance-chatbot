@@ -1,0 +1,7 @@
+Guidance
+
+1. Examples of activities that are likely to be excluded under Rule 2.6.2 include, for example, Money Service activities carried on in connection with, and as a necessary part of, Providing Credit, Dealing in Investments (as principal or agent), Operating an Exchange or Clearing House, Managing Assets or Providing Custody.
+
+2. A Bank or an Islamic Financial Institution Managing a PSIA will also be able to provide many of the Money Service activities under the exclusion in Rule 2.6.2, as they will be activities provided in connection with, and as a necessary part of, other Financial Services the Bank or Islamic Financial Institution usually provides to its customers. However, if a Bank or Islamic Financial Institution wishes to provide a discrete service, such as selling a type of Payment Instrument, it will need additional authorisation for Providing Money Services.
+
+2.6.3 A Person does not Provide Payment Services if the Person carries out a

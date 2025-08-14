@@ -1,0 +1,19 @@
+b.
+
+an Authorised Person's organisation and reporting structure for technology operations, including adequacy of senior management oversight; and
+
+c.
+
+the appropriateness of the systems acquisition, development and maintenance activities, including the allocation of responsibilities between IT development and operational areas.
+
+3.
+
+GEN 3.5 contains additional requirements that apply to Authorised Persons in relation to Cyber Risk management.
+
+6.7
+
+Information security
+
+6.7.1
+
+An Authorised Person must establish and maintain appropriate systems and controls to manage its information security risk.

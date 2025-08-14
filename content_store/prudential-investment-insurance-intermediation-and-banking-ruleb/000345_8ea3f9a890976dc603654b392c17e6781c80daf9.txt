@@ -1,0 +1,21 @@
+Exceptions to the measurement of E
+
+4.9.21
+
+An Authorised Person may attribute a value of zero to E for:
+
+(a)
+
+any pre-settlement Counterparty Exposure arising from any Derivative transaction or SFT outstanding with a central counterparty and which has not been rejected by that central counterparty, provided that the Exposure is fully collateralised on a daily basis;
+
+(b)
+
+any Credit Risk Exposure arising from any Derivative transaction, SFT or spot transaction which an Authorised Person has outstanding with a central counterparty for which the latter acts as a custodian on the Authorised Person's behalf, provided that the Exposure is fully collateralised on a daily basis;
+
+(c)
+
+any pre-settlement Counterparty Exposure arising from any Credit Derivative which an Authorised Person may recognise as eligible credit protection for a Non-Trading Book Exposure or another CR Exposure; and
+
+(d)
+
+any pre-settlement Counterparty Exposure arising from any sold credit default swap in the Non-Trading Book, where the credit default swap is treated as credit protection sold by the Authorised Person.

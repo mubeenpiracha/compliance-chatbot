@@ -1,0 +1,15 @@
+b.
+
+the delivery of the underlying commodity is intended to take place within 7 days of the date of the contract;
+
+c.
+
+there is no provision made in the contract for margin arrangements; and
+
+the terms of the contract are not standardised terms.
+
+2. A contract under Rule A2.3.1(b)(i) can provide for the physical delivery of the underlying commodity or property. Further, the price agreed under such a contract can be by reference to an underlying factor, such as by reference to an index or a spot price on a given date. Contracts for differences (CFDs) fall under the definition in A2.3.1(b)(ii) and may include credit default swaps (CDSs) and forward rate agreements (FRAs). More exotic types of Derivative contracts may also fall within the definition in A2.3.1(b)(ii). These can include weather or electricity derivatives where the underlying factor by reference to which the parties’ entitlements are calculated can be the number of days in a period in which the temperature would reach below or above a specified level.
+
+4.
+
+The reference to “property” in Rule A2.3.1(b) will include a Crypto Token, therefore the definition covers a Future relating to a Crypto Token.

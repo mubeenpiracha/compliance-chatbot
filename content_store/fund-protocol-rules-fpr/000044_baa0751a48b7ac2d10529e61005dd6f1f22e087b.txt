@@ -1,0 +1,27 @@
+Additional criteria for Public Funds
+
+This section applies if the DIFC is the Home Jurisdiction or the Host Jurisdiction of a Passported Fund.
+
+The Fund Manager of a Passported Fund that is a Public Fund must ensure that it meets the minimum requirements for Public Funds set out in App1.
+
+Custodian
+
+16
+
+FPR/VER1/02-19
+
+FUND PROTOCOL RULES (FPR)
+
+6.5.1
+
+This section applies if the DIFC is the Home Jurisdiction or the Host Jurisdiction of a Passported Fund.
+
+6.5.2
+
+To the extent that, under the legislation of its Home Jurisdiction, a custodian is required to be appointed for a Private Fund, the Fund Manager of a Passported Fund that is a Private Fund must ensure that the custodian:
+
+(a) meets all requirements as to eligibility and regulatory status as are imposed under the relevant legislation in its Home Jurisdiction; and
+
+(b)
+
+is not the Fund Manager.

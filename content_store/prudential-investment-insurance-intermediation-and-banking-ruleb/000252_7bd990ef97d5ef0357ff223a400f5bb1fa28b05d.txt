@@ -1,0 +1,33 @@
+Private sector credit exposures
+
+3.18.5
+
+Private sector credit exposures are those for which Credit RWAs have to be calculated in accordance with Chapter 4, other than those that fall into the following asset classes:
+
+(a)
+
+Central government and central bank.
+
+(b)
+
+Public Sector Entity.
+
+93
+
+PRU VER17.290725
+
+(c)
+
+Multilateral development bank (MDB).
+
+(d)
+
+International organisation.
+
+(e)
+
+bank.
+
+Guidance
+
+Exposures to banks with short-term credit assessments are not private sector credit exposures as they fall within the exempt asset class set out in Rule 3.18.5(e). However, exposures to non-bank entities with similar short-term credit assessments are private sector credit exposures for the purposes of Rule 3.18.5.

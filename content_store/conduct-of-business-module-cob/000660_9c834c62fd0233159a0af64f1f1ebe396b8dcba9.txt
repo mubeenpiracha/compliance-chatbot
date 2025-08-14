@@ -1,0 +1,19 @@
+Guidance
+
+The DFSA would consider twenty days as being a reasonable period for an Authorised Firm to receive a written acknowledgement from the Third Party Agent.
+
+A5.7.3
+
+If the Third Party Agent does not provide the acknowledgement referred to in Rule A5.7.2 within a reasonable period, the Authorised Firm must refrain from making further deposits of Client Money with that Third Party Agent and withdraw any Client Money standing to the credit of that Client Account.
+
+A5.8 Payment of client money from client accounts
+
+A5.8.1 An Authorised Firm must have procedures for ensuring all withdrawals from a Client
+
+Account are authorised.
+
+A5.8.2 Subject to Rule A5.8.3, a Segregated Client’s Client Money must remain in a Client
+
+Account until it is:
+
+(a)

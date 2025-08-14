@@ -1,0 +1,19 @@
+(2) An Authorised Firm must assign:
+
+(i)
+
+a 0% risk weight to:
+
+(A) cash owned by the Authorised Firm or in transit;
+
+(B) gold bullion held at the Authorised Firm or held in another banking institution to the extent that the gold bullion assets are backed by gold bullion labilities; and
+
+(ii)
+
+a 20% risk weight to cash items in the process of collection.
+
+(3)
+
+Where an Authorised Firm provides credit protection for a number of exposures subject to the condition that the nth-to-default among the exposures triggers payment and that this credit event terminates the contract, the risk weights of the Exposures included in the basket must be aggregated, excluding n-1 Exposures, up to a maximum of 1000% and multiplied by the nominal amount of the protection provided by the credit derivative to obtain the risk-weighted Exposure amount.
+
+(4) The n-1 Exposures to be excluded from the aggregation under (3) must be determined on the basis that they must include those Exposures each of which produces a lower risk-weighted Exposure amount than the risk-weighted Exposure amount of any of the Exposures included in the aggregation.

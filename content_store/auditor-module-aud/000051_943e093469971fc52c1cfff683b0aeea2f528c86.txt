@@ -1,0 +1,23 @@
+Auditor Module (AUD)
+
+Events having a regulatory impact
+
+4.6.2 A Registered Auditor must notify the DFSA immediately if it becomes aware, or has reasonable grounds to believe, that any of the following matters may have occurred or may be about to occur:
+
+(a)
+
+the Registered Auditor fails to satisfy the fit and proper requirements in Rule 2.2.3 or its continuing obligations in section 2.3;
+
+(b) any of its Audit Principals no longer meets the registration criteria in Rule 2.4.2;
+
+(c)
+
+any claim is made against the Registered Auditor relating to the provision of Audit Services, including but not limited to, a claim lodged against the Registered Auditor’s professional indemnity insurance policy;
+
+(d)
+
+the Registered Auditor or any of its Employees, including its Audit Principals, breaches a Rule;
+
+(e)
+
+the Registered Auditor or any of its Employees, including its Audit Principals, breaches any requirement imposed by any applicable law relating to the provision of audit work by the Registered Auditor or its Employees, including its Audit Principals;

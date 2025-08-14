@@ -1,0 +1,55 @@
+Collateral calculations and haircuts
+
+Core market participants
+
+A4.3.1
+
+For the purposes of this Section, "core market participant" means:
+
+(a)
+
+any central government or central bank;
+
+(b)
+
+any PSE;
+
+(c)
+
+any qualifying MDB;
+
+(d)
+
+any banking institution or Securities firm;
+
+(e)
+
+any Financial Institution eligible for a 20% risk weight under Section 4.12;
+
+(f)
+
+any central counterparty;
+
+(g)
+
+any regulated mutual fund that is subject to capital or leverage requirements; or
+
+(h)
+
+any regulated pension fund.
+
+Calculation of E* for collateralised transactions other than OTC Derivative transactions and long settlement transactions
+
+A4.3.2
+
+An Authorised Person using the FCCA to calculate E* must adjust both the amount of the Exposure to the Counterparty and the value of any Collateral received in support of that Counterparty to take into account possible future fluctuations in the value of either due to market movements, by using the methods and haircuts set out in Rules A4.3.6 to A4.3.29.
+
+276
+
+PRU VER17.290725
+
+A4.3.3
+
+An Authorised Person must calculate the appropriate haircuts to be applied using one of the following methods:
+
+(a)

@@ -1,0 +1,19 @@
+(b)
+
+Authorised Persons must not include any gain-on-sale in any element or component of their Capital Resources;
+
+(c)
+
+for Synthetic Securitisations, the Authorised Person must hold capital against the entire amount of securitised Exposures; and
+
+(d)
+
+where a Synthetic Securitisation incorporates a call that is not a Clean-Up Call, the Authorised Person must treat the transaction in accordance with the relevant CRM techniques in Section 4.13.
+
+313
+
+PRU VER17.290725
+
+A4.10.5 An Authorised Person must treat a currency mismatch or a Maturity Mismatch between the underlying Exposure being hedged and the CRM obtained through the Synthetic Securitisation in accordance with Rules in Sections 4.13 and A4.3.
+
+A4.11

@@ -1,0 +1,37 @@
+In this section:
+
+(a)
+
+“E” represents the Exposure determined by an Authorised Firm as applicable to an Islamic Contract; and
+
+(b)
+
+“CRW” represents the risk weighting or capital charge assessed by an Authorised Firm as appropriate to that Islamic Contract.
+
+(2)
+
+An Authorised Firm must determine the PSIACOMcredit an Islamic Contract by applying the following formula:
+
+E x CRW x 8%.
+
+(3)
+
+An Authorised Firm must calculate its PSIACOMcredit of all contracts by:
+
+21
+
+IFR/VER21/03-25
+
+ISLAMIC FINANCE RULES (IFR)
+
+(a)
+
+identifying all Islamic Contracts to which this section applies;
+
+(b)
+
+valuing the underlying investment or asset of each contract and reducing the value of any such investment or asset in the manner stipulated in Section 4.9 and Section 4.14A of chapter 4 of PIB, the result of which constitutes E for that contract;
+
+(c)
+
+determining the risk weighting or capital charge appropriate to each contract, which will constitute the CRW for that contract in accordance with Rules in Sections 4.10, 4.11 and 4.12 of chapter 4 of PIB;

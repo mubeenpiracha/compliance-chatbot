@@ -1,0 +1,27 @@
+3A.4 Initial list of Recognised Crypto Tokens
+
+DFSA may publish a list
+
+3A.4.1 (1)
+
+The DFSA may, without the need for an application, publish a list (an Initial List) of Crypto Tokens that are taken to be Recognised by the DFSA.
+
+(2)
+
+The DFSA must publish any Initial List within 30 days of the commencement date (as defined in Rule 10.5.1(1)).
+
+(3)
+
+The DFSA may include a Crypto Token on the Initial List if it is satisfied that the Crypto Token would meet the criteria in Rule 3A.3.4 if an application was made for its recognition.
+
+(4)
+
+The DFSA may amend the Initial List if it is necessary due to a change in the name of a Crypto Token on the list or if there is a fork affecting a Crypto Token on the list and the DFSA is satisfied that one or more Crypto Tokens resulting from the fork should be included on the list.
+
+(5)
+
+The DFSA is not to add a Crypto Token to the Initial List, except as provided in (4) if there is a fork.
+
+(6)
+
+The DFSA may remove a Crypto Token from the Initial List if it is no longer satisfied that it meets the criteria in Rule 3A.3.4.

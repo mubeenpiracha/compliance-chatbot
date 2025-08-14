@@ -1,0 +1,29 @@
+accordance with (4)
+
+(4) For the purpose of (3), an Authorised Firm must calculate the effective notional
+
+amount for category ’k’, EffNotk
+
+CR, using the following formula:
+
+𝐂𝐑 = ∑ 𝛅𝐢 ∙ 𝐀𝐝𝐣𝐍𝐨𝐭𝐢
+
+𝐄𝐟𝐟𝐍𝐨𝐭𝐤
+
+𝐂𝐑 ∙ 𝐌𝐅𝐢
+
+𝐢∈𝐈(𝐣)
+
+where:
+
+I(k) =
+
+the set of all transactions belonging to category ‘k’ within hedging set ‘j’
+
+δi =
+
+the supervisory delta for the transaction ‘i’, calculated in accordance with Rule A4.8.12
+
+MFi =
+
+the maturity factor of the transaction ‘i’, calculated in accordance with Rule A4.8.15

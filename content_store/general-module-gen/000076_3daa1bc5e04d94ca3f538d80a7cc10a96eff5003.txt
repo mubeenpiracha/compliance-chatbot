@@ -1,0 +1,9 @@
+2.9.9 A Crowdfunding Operator does not Arrange Deals in Investments to the
+
+extent that it Operates an Investment Crowdfunding Platform.
+
+Guidance
+
+1.
+
+Rule 2.9.2 excludes the activities of a party to a transaction from being ‘arranging’. This is because a person cannot be both a party to a transaction, and its arranger.

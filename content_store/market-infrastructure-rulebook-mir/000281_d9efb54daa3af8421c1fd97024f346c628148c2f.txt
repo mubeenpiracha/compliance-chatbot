@@ -1,0 +1,27 @@
+6.5.7
+
+Before giving a direction under Rule 6.5.6, the Regulator shall consult the Recognised Body in question, and the Regulator shall not give a direction unless the Regulator is satisfied, in the light of that consultation that:
+
+(a)
+
+the taking of action would be premature or otherwise undesirable in the interests of investors or other participants in the market;
+
+(b)
+
+the direction is necessary having regard to the public interest in the financial stability of ADGM; or
+
+(c)
+
+the direction is necessary to facilitate a proposed or possible use of a power under chapter 16 of COBS or in connection with a particular exercise of a power under that Part.
+
+6.5.8
+
+A negative direction cannot be given if, in relation to the defaulter, either:
+
+(a)
+
+a bankruptcy order or an award of sequestration of the defaulter's estate has been made, or an interim receiver or interim trustee has been appointed; or
+
+(b)
+
+a winding-up order has been made, a resolution for voluntary winding-up has been passed or an administrator, administrative receiver or provisional liquidator has been appointed,

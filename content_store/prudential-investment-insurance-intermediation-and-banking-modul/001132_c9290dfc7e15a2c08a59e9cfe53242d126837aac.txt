@@ -1,0 +1,13 @@
+c.
+
+apply appropriate quantitative validation, including relevant internal modelling benchmarks.
+
+16.
+
+The internal model should be consistent with the Authorised Firm's internal risk management methodologies for identifying, measuring, and managing trading risks.
+
+17. Authorised Firms should document their internal models so that their correlation and other modelling assumptions are transparent to the DFSA.
+
+18.
+
+The internal model should conservatively assess the risk arising from less liquid positions and positions with limited price transparency under realistic market scenarios. In addition, the internal model should meet minimum data standards. Proxies should be appropriately conservative and may be used only where available data is insufficient or is not reflective of the true volatility of a position or portfolio.

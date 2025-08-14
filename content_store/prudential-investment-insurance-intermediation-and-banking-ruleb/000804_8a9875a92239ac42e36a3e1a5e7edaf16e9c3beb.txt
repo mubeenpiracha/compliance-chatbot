@@ -1,0 +1,23 @@
+Calculation of RC for margined transactions
+
+A4.6.24 RC for margined transactions is calculated in accordance with the following formula:
+
+RC = max{V – C; TH + MTA – NICA; 0}
+
+where:
+
+V = the value of the derivative transactions in the netting set (constituted in
+
+accordance with Rule A4.6.18);
+
+C = the haircut value of the net collateral held, calculated in accordance with Section
+
+A4.3;
+
+TH = the positive threshold before the counterparty is required to send the Authorised
+
+Person collateral;
+
+MTA = the minimum transfer amount applicable to the counterparty;
+
+NICA = the net independent collateral amount.

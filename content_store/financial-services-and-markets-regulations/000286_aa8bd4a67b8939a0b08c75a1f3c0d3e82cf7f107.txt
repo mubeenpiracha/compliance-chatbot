@@ -1,0 +1,7 @@
+Subsection (3)(a) does not apply where the person entering into the contract is a Recognised Body or Remote Body acting in accordance with its rules, or where the contract or order is effected under the Default Rules of such a Recognised Body or Remote Body, but subsection (3)(d) applies in relation to the provision of—
+
+(a)
+
+a margin in relation to any such contract, unless the contract has been transferred in accordance with the Default Rules of the Recognised Clearing House or Remote Clearing House;
+
+(b)

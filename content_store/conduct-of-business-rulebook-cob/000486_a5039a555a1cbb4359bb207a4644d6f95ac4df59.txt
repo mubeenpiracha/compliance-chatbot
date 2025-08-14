@@ -1,0 +1,17 @@
+Third Party Provider’s liability for unauthorised Third Party Transactions
+
+20.12.1
+
+Subject to Rules 20.10 and 20.11, where an executed Third Party Transaction was not authorised in accordance with Rule 20.7 and the Third Party Transaction leads to an unauthorised Payment Transaction, the Third Party Provider must:
+
+(a)
+
+refund the Primary Financial Institution for the amount that the Primary Financial Institution may have already refunded to the Customer; and
+
+(b)
+
+refund the Customer for the amount of the unauthorised Payment Transaction, less any amount that the Third Party Provider has refunded to the Primary Financial Institution.
+
+20.12.2 The Third Party Provider must provide a refund under Rule 20.12.1 as soon as practicable, and in any event no later than the end of the day following the day on which it has confirmed that the Third Party Transaction was unauthorised or incorrectly executed.
+
+20.12.3 The requirement to provide a refund within the timeframe prescribed in Rule 20.12.2 does not apply where the Third Party Provider has reasonable grounds to suspect fraudulent behaviour by the Customer.

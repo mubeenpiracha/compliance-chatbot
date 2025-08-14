@@ -1,0 +1,23 @@
+OPERATING A PRIVATE FINANCING PLATFORM
+
+18.1 Application
+
+18.1.1 This chapter applies to an Authorised Person that carries on, or intends to carry on, the
+
+Regulated Activity of Operating a Private Financing Platform.
+
+18.2 General
+
+18.2.1 For the purposes of this chapter, a PFP Client, which accesses a Private Financing
+
+Platform, is a Client of the Authorised Person.
+
+117
+
+COBS VER19.290725
+
+18.3 Access to a Private Financing Platform
+
+18.3.1 Prior to enabling a PFP Client to access a financing proposal published on a Private the PFP Operator must obtain a written or electronic Financing Platform, acknowledgement from the PFP Client that it has reviewed the risk disclosure described in Rule 18.5.1(a) and fully understands and accepts the risks involved in investing in any PFP Prospect identified upon the Private Financing Platform.
+
+18.3.2 A PFP Operator must not publish information concerning any financing proposal upon a

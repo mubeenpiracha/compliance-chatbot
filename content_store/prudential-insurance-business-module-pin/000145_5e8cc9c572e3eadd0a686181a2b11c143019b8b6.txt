@@ -1,0 +1,11 @@
+Significant transactions other than group transactions
+
+(1)
+
+A DIFC Incorporated Insurer must not enter into a transaction of the type described in this Rule unless the directors of the Insurer are satisfied following reasonable enquiry that the transaction does not adversely affect the interests of policyholders. The transactions to be considered are:
+
+(a)
+
+a sale, purchase, exchange, loan or extension of credit, guarantee or investment where the counterparty is a Person Related to the Insurer and the amount of the transaction equals or exceeds three per cent of the Insurer’s surplus as at the end of the reporting period immediately preceding the transaction;
+
+(b)

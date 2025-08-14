@@ -1,0 +1,1 @@
+For each attestation provided to the Regulator, the Third Party Provider must provide a report by a qualified independent third party that assesses the adequacy of the personnel, procedural and technical controls put in place by the Third Party Provider or any other parties to whom the Third Party Provider may have outsourced operational functions.

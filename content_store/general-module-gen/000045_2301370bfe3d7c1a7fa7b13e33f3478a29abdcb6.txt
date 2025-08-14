@@ -1,0 +1,9 @@
+Exclusions
+
+2.5.2 A Person who is an Authorised Firm does not Provide Credit where the provision of the Credit Facility is incidental to or in connection with the trading of Investments, or conducting Insurance Business.
+
+2.5.3 A Crowdfunding Operator does not Provide Credit to the extent that it
+
+Operates a Loan Crowdfunding Platform.
+
+2.5.4 A Person does not Provide Credit to the extent that the Person operates a loyalty or rewards programme where a participant earns points or other monetary value from acquiring goods or services, which the participant can use to receive a discount on, or purchase, further goods or services.

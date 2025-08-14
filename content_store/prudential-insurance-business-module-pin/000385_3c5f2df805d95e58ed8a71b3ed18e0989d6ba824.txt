@@ -1,0 +1,69 @@
+Number Name
+
+DIFC Incorporated Insurer
+
+Branch
+
+Return
+
+Return
+
+IN150
+
+Statement of Assets Covering Non-Linked Long-Term Insurance Liabilities and Minimum Capital Requirement
+
+A/Q
+
+N/A
+
+IN160
+
+Calculation of Direct Long-Term Insurance Element of Long-Term Insurance Component
+
+A/Q
+
+N/A
+
+IN180
+
+Statement of Claims Development
+
+A/Q
+
+A/Q
+
+IN190
+
+Employment Statistics
+
+A
+
+A
+
+IN200
+
+Statement of Underwriting Performance
+
+A/Q
+
+A/Q
+
+IN210
+
+Statement of Revenue by Jurisdiction
+
+A
+
+A
+
+A10.3.2 The forms referred to in Rule A10.3.1 must be prepared for each reporting unit for which an Insurer is required to submit an Annual Regulatory Return or a Quarterly Regulatory Return as applicable, except where:
+
+(a)
+
+this appendix, the instructional guidelines to the form set out in PRU or the DFSA’s electronic prudential reporting system states that the form is not required for that reporting unit, or for that Insurer; or
+
+(b)
+
+the form would contain no information, in which case the Insurer may omit the form and present a Supplementary Note stating that the form has not been prepared for that reason.
+
+A10.3.3 The forms comprising the Returns are set out in PRU and the DFSA’s electronic

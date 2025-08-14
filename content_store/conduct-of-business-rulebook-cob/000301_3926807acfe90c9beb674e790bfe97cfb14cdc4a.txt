@@ -1,0 +1,15 @@
+Guidance
+
+1.
+
+An Authorised Person may record, register or hold a Client's Investment in a Client Account solely for that Client. Alternatively, an Authorised Person may choose to pool that Client's Investment in a Client Account containing Investments of more than one Client.
+
+2.
+
+The purpose of recording, registering or holding Investments in a Client Account is to ensure that Investments belonging to Clients are readily identifiable from Investments belonging to the Authorised Person such that, following a Pooling Event, any subsequent distribution of Investments may be made in proportion to each Client's valid claim over those Investments.
+
+3.
+
+For the purposes of Rule 15.4.4, the Regulator would consider the use of Virtual Assets for the purpose of “staking” to be use for the purposes of the Authorised Person.
+
+15.4.6 Unless permitted in accordance with Chapter 19A, an Authorised Person must not use

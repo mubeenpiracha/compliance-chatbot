@@ -1,0 +1,5 @@
+b.
+
+Clearing guarantee fund: that is, where the ATS Operator is unable to clear the trades against a CCP or demonstrate a real-time on-chain settlement arrangement, and that transactions are usually cleared off-chain before relevant updates are reflected on the blockchain to clear the latest batch of trades. This may take from several hours to several days, to an unsatisfactory situation, where settlement and counterparty risks are outside of the ATS Operator’s control. In this scenario, we would expect the ATS Operator to be able to demonstrate broadly equivalent standards as defined in Chapter 7 of the AMI module, as well as holding sufficient financial resources (a ‘clearing guarantee fund’) to cover the settlement and counterparty risk that is not removed from the system. We would expect the ATS Operator to:
+
+leading

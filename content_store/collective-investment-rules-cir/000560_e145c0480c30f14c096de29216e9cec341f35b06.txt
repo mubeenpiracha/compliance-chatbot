@@ -1,0 +1,23 @@
+Use of price information providers
+
+A9.1.2
+
+(1)
+
+A Fund Manager of an ETF may only use an index or other benchmark provided by a Price Information Provider for the purposes referred to in Rule 13.9.3 if it has undertaken appropriate due diligence to ensure that the Price Information Provider, on an on-going basis, meets the requirements set out in (3).
+
+(2)
+
+A Fund Manager of a Fund that has any Fund Property that consists of Crypto Tokens may only use an index or other benchmark provided by a Price Information Provider to value the Crypto Tokens if it has undertaken appropriate due diligence to ensure that the Price Information Provider, on an on-going basis, meets the requirements set out in (3).
+
+(3)
+
+The requirements relating to the Price Information Provider are that:
+
+(a)
+
+it has fair and non-discriminatory procedures for establishing prices of Investments or Crypto Tokens which are made public.
+
+(b)
+
+it can demonstrate adequate and appropriate transparency over the methodology, calculation and inputs to allow users to understand how the benchmark or index is derived and its potential limitations by:

@@ -1,0 +1,27 @@
+b.
+
+a specified methodology for the calculation of Financial Group Capital Resources and Financial Group Capital Requirements.
+
+3.
+
+This chapter also includes requirements limiting Financial Group exposures and restrictions on the ownership or control of deposit-taking firms.
+
+Application
+
+(1)
+
+This section and section 8.5 apply to an Authorised Firm in any Category.
+
+(2)
+
+Sections 8.2 to 8.4 apply only to an Authorised Firm in Category 1, 2 (other than a Matched Principal) or 5.
+
+Guidance
+
+1.
+
+Group membership may be a source of both strength and weakness to an Authorised Firm. The purpose of Group Risk requirements is to ensure that an Authorised Firm takes proper account of the risks related to the Authorised Firm’s membership of a Group. The Group Risk requirements form a key part of the DFSA’s overall approach to prudential supervision.
+
+2.
+
+Section 8.5 imposes important restrictions on the ability of Authorised Firms in Category 3A, 3B, 3C, 3D or 4, and non-regulated Financial Institutions, to be a Parent of an Authorised Firm in Category 1 or 5, or of a firm carrying on similar activities outside of the DIFC.

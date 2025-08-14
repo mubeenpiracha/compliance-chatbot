@@ -1,0 +1,7 @@
+Guidance
+
+In some instances, certain types of assets which are not considered to have low credit, liquidity and market risks may be acceptable for credit purposes if the Recognised Clearing House sets and enforces appropriately conservative haircuts and concentration limits and appropriate collateral risk management procedures are put in place by the Recognised Clearing House. A Recognised Clearing House may, in some circumstances, accept the deliverable of a contract as collateral against the contract for exchange.
+
+4.10.3
+
+A Recognised Clearing House must, for the purposes of meeting the requirement in Rule 4.10.1, establish and implement a collateral management system that is well designed and operationally flexible to enable ongoing monitoring and management of collateral. A Recognised Clearing House must also ensure that it is confident of the collateral's value in the event of liquidation and its capacity to use that collateral quickly, especially in stressed market conditions. Such a system must, at a minimum:

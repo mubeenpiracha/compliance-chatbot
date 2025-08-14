@@ -1,0 +1,15 @@
+If the amount of capital held by a Recognised Clearing House is lower than 110% of the capital requirements or lower than 110% of USD 9.5 million (the "notification threshold"), the Recognised Clearing House shall immediately notify the Regulator in writing of the information set out in Rule 5.4.1 and keep it updated at least weekly, until the amount of capital held by the Recognised Clearing House returns above the notification threshold.
+
+4.3
+
+Clearing and settlement
+
+4.3.1
+
+A Recognised Clearing House must be able to demonstrate compliance with internationally accepted standards for financial market infrastructures to the satisfaction of the Regulator.
+
+4.3.2
+
+A Recognised Clearing House must ensure that its Clearing Services include satisfactory arrangements (whether by performance, compromise or otherwise) of the rights and liabilities of the parties to transactions for which it provides such services.
+
+for securing

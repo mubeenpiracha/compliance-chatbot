@@ -1,0 +1,21 @@
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+(d)
+
+settlement is according to a prescribed timetable rather than a negotiated timetable.
+
+(3)
+
+Deleted.
+
+(4)
+
+The discount factor to be applied to types of marketable assets when completing the maturity mismatch ratio calculation must be determined by reference to the following table and Rules A9.2.6 to A9.2.9 (which define which assets are eligible to be included in each HQLA level):
+
+Liquid Assets
+
+Discount
+
+Level 1 HQLA
+
+0%

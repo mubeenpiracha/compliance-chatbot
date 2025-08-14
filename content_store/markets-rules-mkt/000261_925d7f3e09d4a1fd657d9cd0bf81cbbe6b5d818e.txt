@@ -1,0 +1,23 @@
+Guidance
+
+Where a SME is required to appoint a compliance adviser on an ongoing basis under Rule 7.2.3A, it must ensure that the compliance adviser continues to perform that role unless the SME receives written notice from the DFSA that the requirement is withdrawn. The DFSA will generally not withdraw such a requirement unless the SME can demonstrate to the DFSA’s satisfaction that:
+
+(a)
+
+the SME’s Shares have been admitted to trading on an Authorised Market Institution for at least two years;
+
+(b)
+
+the ongoing obligations for trading on that Authorised Market Institution have been complied with during that period; and
+
+(c)
+
+the SME has sufficient resources in place to comply with its obligations under the Law and the Rules without the assistance of a compliance adviser.
+
+Compliance adviser appointed to assist for a specified period
+
+7.2.4
+
+(1)
+
+The DFSA may, by written notice, require a Reporting Entity to appoint a compliance adviser for a specified period to assist the Reporting Entity in meeting its continuing obligations under the Law and the Rules.

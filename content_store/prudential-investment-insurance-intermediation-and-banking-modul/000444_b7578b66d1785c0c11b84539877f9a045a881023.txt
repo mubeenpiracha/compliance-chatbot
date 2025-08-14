@@ -1,0 +1,9 @@
+Guidance
+
+1.
+
+An Authorised Firm should assess whether any qualifications, assumptions or reservations contained in the legal opinion cast doubt upon the enforceability of the Netting agreement. If, as a result of the qualifications, assumptions or reservations, there is material doubt about the enforceability of the agreement, the Authorised Firm should assume that the requirements for Netting have not been met.
+
+2.
+
+An Authorised Firm using a standard form Netting agreement and a supporting legal opinion should ensure that the relevant requirements in Rules 4.13.17 to 4.13.19 are met. A standard form Netting agreement is a form of agreement which is prepared by a reputable, internationally recognised industry association and is supported by its own legal opinion. Where additional clauses are added to a standard form Netting agreement, the Authorised Firm should satisfy itself that the amended Netting agreement continues to meet the legal and contractual requirements in Rules 4.13.17 to 4.13.19. For instance, in such cases, an Authorised Firm may wish to obtain a second legal opinion to confirm that the relevant requirements in Rules 4.13.17 to 4.13.19 are still satisfied.

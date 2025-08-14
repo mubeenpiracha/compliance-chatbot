@@ -1,0 +1,11 @@
+(3)
+
+Delta-weighted positions with debt Securities or interest rates as the underlying instrument must be inserted into the interest rate timebands, as set out in section A5.2. A two-legged approach must be used as for other derivatives, requiring one entry at the time the underlying instrument takes effect and a second at the time the underlying instrument matures. Floating rate instruments with caps or floors must be treated as a combination of floating rate Securities and a series of European-style options.
+
+(4)
+
+The capital charge for options with equities as the underlying instrument must also be based on the Delta-weighted positions which must be incorporated in the measure of Equity Risk Capital Requirement described in section A5.3. For purposes of this calculation, each national market must be treated as a separate underlying instrument.
+
+(5)
+
+The capital charge for options on commodities, foreign currency (including gold) positions must be based on the method set out in section 5.8. For Delta risk, the net Delta-based equivalent of the commodities, foreign currency

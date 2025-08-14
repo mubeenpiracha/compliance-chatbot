@@ -1,0 +1,29 @@
+RWA(CCR) = CCRE x CCRW
+
+where:
+
+(i)
+
+“RWA(CCR)” refers to the risk-weighted Exposure amount for that CCR Exposure;
+
+(ii)
+
+“CCRE” refers to the Exposure value or amount for that CCR Exposure; and
+
+(iii)
+
+“CCRW” refers to the applicable risk weight for that CCR Exposure determined in accordance with (b) and (c); and
+
+(e)
+
+add the RWA amounts calculated in accordance with (d) for all its CCR Exposures.
+
+Guidance
+
+The calculation of the CRW for Unsettled Transactions is set out in section A4.6.
+
+4.9 Methodology for measurement of Exposures
+
+4.9.1
+
+An Authorised Firm must apply the Exposure measurement methodology set out in the Rules in this part to calculate the value or amount of an Exposure for any CR Exposure, SE Exposure, CCR Exposure or SR Exposure.

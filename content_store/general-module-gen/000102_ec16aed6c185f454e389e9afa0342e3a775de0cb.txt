@@ -1,0 +1,7 @@
+A Person, who has the power and authority to give directions in relation to Investments, controls the relevant Investments. Generally, the Person who is the legal owner would have the power to give such directions. Examples are directions to effect transactions, to reinvest dividends or other income arising from the Investments, and to carry out corporate actions relating to the exercise of rights attaching to the Investments (e.g. to vote or appoint proxies to vote and to accept or renounce a rights offer/issue of Investments). A firm Providing Custody would carry out such tasks for the purposes of administering Client Investments, either directly (i.e. itself) or indirectly (i.e. through a Third Party Agent appointed by it).
+
+What is the relationship between ‘Providing Custody’ and ‘holding or controlling’ Client Assets for Crypto Tokens?
+
+14.
+
+Much of the above Guidance relating to Investments is equally applicable to Crypto Tokens. For example, a firm Providing Custody of Crypto Tokens, in safeguarding

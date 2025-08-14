@@ -1,0 +1,5 @@
+SFT with a single counterparty should be measured net when calculating the NSFR, provided that the netting conditions set out in Rules 4.9.13 to 4.9.20 are met.
+
+Derivative assets are calculated first based on the replacement cost for derivative contracts (obtained by marking to market) where the contract has a positive value. When an eligible bilateral netting contract is in place that meets the conditions as specified in the instructional guidelines for Form B300 set out in PRU Section 1.48, the replacement cost for the set of derivative exposures covered by the contract will be the net replacement cost.
+
+Shari’a compliant hedging liabilities (e.g. Islamic swaps) are calculated first based on the replacement cost for the Shari’a compliant hedging contracts (obtained by marking to market), such as ISDA/IIFM Tahawwut Master Agreement (TMA), where the contract has a negative value. When an eligible bilateral netting contract is in place, the replacement cost for the set of Shari’a compliant hedging exposures covered by the contract will be the net replacement cost.

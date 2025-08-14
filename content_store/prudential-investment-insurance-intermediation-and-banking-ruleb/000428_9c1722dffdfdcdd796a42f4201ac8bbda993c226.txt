@@ -1,0 +1,5 @@
+Guidance
+
+Gain-on-sale arises when there has been an increase in equity of the Authorised Person associated with recognising the discounted value of the expected future margin income as part of regulatory capital.
+
+4.14.14 An Authorised Person must assign a securitisation Exposure to a Credit Quality Grade based on the external credit assessment (where available) that is applicable to the securitisation Exposure in accordance with relevant Rules in this Chapter.

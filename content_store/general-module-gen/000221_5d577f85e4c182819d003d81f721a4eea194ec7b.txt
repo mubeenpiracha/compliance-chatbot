@@ -1,0 +1,31 @@
+the reserves:
+
+(i)
+
+are at least equal in value to the notional value of outstanding Crypto Tokens in circulation (that value being calculated by multiplying the number of Crypto Tokens in circulation by the purported pegged fiat currency value);
+
+(ii)
+
+are denominated in the reference currency;
+
+(iii)
+
+are held in assets that are likely to maintain their value, including during periods of stress, are highly liquid, are appropriately diversified and carry minimal credit risk;
+
+(iv)
+
+are valued daily; and
+
+67
+
+GEN/VER67/03-25
+
+GENERAL (GEN)
+
+(v)
+
+are held in segregated accounts with properly regulated banks or custodians in jurisdictions with regulation that is equivalent to the DFSA’s regime and AML regulation that is equivalent to the standards set out in the FATF Recommendations;
+
+(c)
+
+a person is clearly responsible and liable to investors for the

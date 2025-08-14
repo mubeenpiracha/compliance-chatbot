@@ -1,0 +1,11 @@
+Guidance
+
+1.
+
+The exclusion in Rule 2.7.4 is intended to apply, for example, to a Person who executes proprietary trades through a duly authorised broker, or to a Person who is carrying on a commercial business and enters into a transaction with a firm for a purpose related to that business, such as to hedge a risk. It does not apply to a Person that holds itself out as willing to enter into transactions relating to Investments or Crypto Tokens of that kind or as engaging in the business of dealing in Investments or Crypto Tokens, such as a market maker or an online trading platform operator (even if it enters into transactions only with Authorised Firms or Regulated Financial Institutions).
+
+2.
+
+A Person may hold itself out as carrying on an activity by various means including, for example, on its webpage, in an advertisement or through representations made by its staff. However, merely placing orders with a broker or on a market will not amount to holding out.
+
+2.7.5 A Person who is an Authorised Firm does not Deal in Investments as

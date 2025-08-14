@@ -1,0 +1,21 @@
+164
+
+COBS VER19.290725
+
+Technical Standards for Interfacing Systems
+
+20.14.4 (1)
+
+A Third Party Provider must ensure that their Interfacing Systems comply with technical standards that the Regulator may prescribe.
+
+Guidance
+
+From time to time, the Regulator may issue technical standards for Interfacing Systems. Such standards may be created taking in inputs from Third Party Providers as well as other industry parties.
+
+20.15 Prohibition on Holding Client Assets or Relevant Money
+
+20.15.1 An Authorised Person that Provides Third Party Services must not hold Client Assets or Relevant Money unless they hold a Financial Services Permission for other Regulated Activities that allows them to hold Client Assets or Relevant Money.
+
+21.
+
+ADDITIONAL RULES FOR ADMINISTERING A SPECIFIED BENCHMARK OR PROVIDING INFORMATION IN RELATION TO A SPECIFIED BENCHMARK

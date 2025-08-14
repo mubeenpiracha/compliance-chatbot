@@ -1,0 +1,5 @@
+Guidance
+
+1.
+
+The underlying Financial Instrument or commodity should be taken to be the asset which would be received if the Option were exercised. In addition, the notional value should be used for items where the market value of the underlying Financial Instrument or commodity could be zero (e.g. caps and floors, swaptions). Certain notional positions in zero-specific-risk Securities do not attract Specific Risk, e.g. interest rate and currency swaps, Forward Rate Agreement (FRA), forward foreign exchange contracts, interest rate Futures and Futures on an interest rate index. Similarly, Options on such zero-specific-risk Securities also bear no Specific Risk. For the purposes of this sub-paragraph:

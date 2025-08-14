@@ -1,0 +1,33 @@
+Exclusions
+
+2.20.2 A Person does not provide Insurance Management to an Insurer if he is an
+
+Employee of that Insurer.
+
+2.20.3 A Person who is an Authorised Firm does not carry on Insurance
+
+Management if it is an Insurer.
+
+2.20.4 A Person does not carry on Insurance Management by reason only of
+
+providing to an insurer any one or more of the following services:
+
+(a)
+
+an actuarial service;
+
+(b)
+
+an insurance loss adjustment service; or
+
+(c)
+
+advice relating to insurance risks.
+
+2.21 Managing a profit sharing investment account
+
+2.21.1 In Rule 2.2.2, Managing a Profit Sharing Investment Account means managing an account or portfolio which is a Profit Sharing Investment Account.
+
+2.22 Operating an alternative trading system
+
+2.22.1 (1)

@@ -1,0 +1,23 @@
+𝐸𝑓𝑓𝑒𝑐𝑡𝑖𝑣𝑒𝑁𝑜𝑡𝑖𝑜𝑛𝑎𝑙𝑘
+
+(𝐸𝑞𝑢𝑖𝑡𝑦) = ∑ 𝛿𝑖 ∗ 𝑑𝑖
+
+(𝐸𝑞𝑢𝑖𝑡𝑦) ∗ 𝑀𝐹𝑖
+
+(𝑡𝑦𝑝𝑒)
+
+𝑖∈𝐸𝑛𝑡𝑖𝑡𝑦𝑘
+
+where i ε Entityk refers to trades of entity k.
+
+Guidance
+
+The effective notional for each entity, calculated in accordance with the above formula, is the sum of the trade-level adjusted notional amounts multiplied by the supervisory delta adjustments and the maturity factor.
+
+A4.6.53 The Authorised Person must calculate the add-on for all positions referencing entity k
+
+and its effective notional in accordance with the following formula:
+
+𝐴𝑑𝑑𝑂𝑛(𝐸𝑛𝑡𝑖𝑡𝑦𝑘) = 𝑆𝐹𝑘
+
+(𝐸𝑞𝑢𝑖𝑡𝑦) ∗ 𝐸𝑓𝑓𝑒𝑐𝑡𝑖𝑣𝑒𝑁𝑜𝑡𝑖𝑜𝑛𝑎𝑙𝑘

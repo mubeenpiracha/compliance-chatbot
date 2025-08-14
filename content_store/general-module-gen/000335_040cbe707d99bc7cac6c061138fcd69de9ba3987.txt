@@ -1,0 +1,9 @@
+Cyber Incidents; and
+
+(b)
+
+the occurrence of anomalies and events indicating a potential Cyber Incident.
+
+(2)
+
+An Authorised Person must have a process for escalating actual or potential Cyber Incidents.

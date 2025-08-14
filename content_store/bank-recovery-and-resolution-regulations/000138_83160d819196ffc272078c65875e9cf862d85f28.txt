@@ -1,0 +1,5 @@
+if the total reduction of Tier 1 and Tier 2 Capital instruments pursuant to subsections (a), (b) and (c) is less than the sum of the amounts referred to in section 51(3)(b) and (c), the Regulator shall reduce to the extent required the principal amount of subordinated debt that is neither Additional Tier 1 nor Tier 2 Capital in accordance with the hierarchy of claims that would apply to the Institution under Insolvency Proceedings, in conjunction with the write down pursuant to subsections (a), (b) and (c) to produce the sum of the amounts referred to in section 51(3)(b) and (c); and
+
+(e)
+
+if the total reduction of Tier 1 and Tier 2 Capital instruments and Eligible Liabilities pursuant to subsections (a) to (d) is less than the sum of the amounts referred in section 51(3)(b) and (c), the Regulator shall reduce to the extent required the principal amount of, or outstanding amount payable in respect of, the rest of Eligible Liabilities in accordance with the hierarchy of claims that would apply to the Institution under Insolvency Proceedings, including the ranking of Deposits provided for in section 29,

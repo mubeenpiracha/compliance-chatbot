@@ -1,0 +1,19 @@
+(ii)
+
+the notional long position has a maturity equal to the time to expiry of the Future (or the settlement date of the forward rate agreement); and
+
+(b)
+
+where an Authorised Person buys an interest rate Future or sells a forward rate agreement:
+
+(i)
+
+the notional short position has a maturity equal to the time to expiry of the Future (or the settlement date of the forward rate agreement); and
+
+(ii)
+
+the notional long position has a maturity equal to the time to expiry of the Future (or the settlement date of the forward rate agreement) plus the maturity of the Deposit period.
+
+331
+
+PRU VER17.290725

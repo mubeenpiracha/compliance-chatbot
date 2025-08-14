@@ -1,0 +1,13 @@
+Exposures to transactions, schemes or Funds
+
+A4.11.8 (1) Where an Authorised Firm has an Exposure to a transaction, scheme,
+
+Fund, or other Exposure to a pool of underlying Exposures, the Authorised Firm must assess the Exposure to determine whether the Exposure is to a group of Closely Related Counterparties in its economic substance.
+
+(2) Where the Exposure is to a group and the Authorised Firm can demonstrate that the Exposure amount to each underlying asset of the structure is less than 0.25% of its Tier 1 Capital, the Authorised Firm may assign the Exposure amount to the structure itself.
+
+(3)
+
+An Authorised Firm need not look through a structure for the purposes of (2) if the Authorised Firm can demonstrate that its Exposure to each asset in the structure is less than 0.25% of its Tier 1 Capital.
+
+(4) Where the Exposure is to a group and the Authorised Firm can demonstrate that the Exposure amount to each underlying asset of the structure is equal to or exceeds 0.25% of its Tier 1 Capital, the Authorised Firm must look through the

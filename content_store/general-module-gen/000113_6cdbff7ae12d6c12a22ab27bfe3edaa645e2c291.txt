@@ -1,0 +1,41 @@
+30
+
+GEN/VER67/03-25
+
+GENERAL (GEN)
+
+non-discretionary rules of the facility, under which the Person operating the facility:
+
+(a)
+
+becomes a Central Counterparty (“CCP”); or
+
+(b)
+
+provides a book-entry Securities Settlement System (“SSS”),
+
+regardless of whether or not such a Person also operates a Central Securities Depository.
+
+(2)
+
+In (1), confirmation, clearance and settlement means the process of:
+
+(a)
+
+establishing settlement positions, including the calculation of net positions arising from any transactions in Investments or Crypto Tokens (the transactions);
+
+(b)
+
+checking that Investments, Crypto Tokens, cash or any combination of those assets, including margin, are available to secure the exposure arising from the transactions; and
+
+(c)
+
+securing the timely discharge (whether by performance, compromise or otherwise) of the rights and liabilities in relation to the transactions.
+
+(3)
+
+In (1)(a), a Person operates as a CCP where it:
+
+(a)
+
+ensures to Investments or Crypto Tokens made on a facility for trading Investments or Crypto Tokens; and

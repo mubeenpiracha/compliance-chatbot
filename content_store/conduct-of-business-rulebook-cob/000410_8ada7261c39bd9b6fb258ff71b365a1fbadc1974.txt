@@ -1,0 +1,17 @@
+Payment Transactions to a Payment Account
+
+19.15.2 (1)
+
+The Payer’s Payment Service Provider must ensure that the amount of the Payment Transaction is credited to the Payee’s Payment Service Provider’s account no later than the end of the day following the time of receipt of the Payment Order by the Payer’s Payment Service Provider.
+
+(2)
+
+The Payee’s Payment Service Provider must value date and credit the amount of the Payment Transaction to the Payee’s Payment Account following its receipt of the Money.
+
+(3)
+
+The Payee’s Payment Service Provider must transmit a Payment Order initiated by or through the Payee to the Payer’s Payment Service Provider within the time limits agreed between the Payee and its Payment Service Provider, enabling settlement in respect of a Direct Debit to occur on the agreed due date.
+
+Money placed on a Payment Account
+
+19.15.3 Where a Payment Service User transfers Money or Fiat-Referenced Tokens to its Payment Account with a Payment Service Provider in the same currency as that Payment Account, the Payment Service Provider must:

@@ -1,0 +1,43 @@
+𝐴𝑑𝑑𝑂𝑛(𝑇𝑦𝑝𝑒𝑘
+
+𝑗) = 𝑆𝐹
+
+(𝐶𝑜𝑚) ∗ 𝐸𝑓𝑓𝑒𝑐𝑡𝑖𝑣𝑒𝑁𝑜𝑡𝑖𝑜𝑛𝑎𝑙𝑘 𝑗 𝑇𝑦𝑝𝑒𝑘
+
+(𝐶𝑜𝑚)
+
+300
+
+PRU VER17.290725
+
+A4.6.57 The Authorised Person must determine the add-on for its commodity hedging set in
+
+accordance with the following formula:
+
+2
+
+(𝐶𝑜𝑚) = [(𝜌𝑗
+
+𝐴𝑑𝑑𝑂𝑛𝐻𝑆𝑗
+
+(𝐶𝑜𝑚) ∗∑𝐴𝑑𝑑𝑂𝑛(𝑇𝑦𝑝𝑒𝑘 𝑗) )
+
++ (1 − (𝜌𝑗
+
+𝑘
+
+(𝐶𝑜𝑚))2) ∗∑(𝐴𝑑𝑑𝑂𝑛(𝑇𝑦𝑝𝑒𝑘
+
+2 𝑗))
+
+]
+
+1 2
+
+𝑘
+
+(com) is the appropriate correlation factor, determined in accordance with the
+
+where ρj table in A4.6.34, for the hedging set j.
+
+A4.6.58 The Authorised Person must determine the add-on for its commodity asset class in

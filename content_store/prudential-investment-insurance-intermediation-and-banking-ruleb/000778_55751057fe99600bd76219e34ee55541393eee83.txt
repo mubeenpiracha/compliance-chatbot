@@ -1,0 +1,3 @@
+An Authorised Person should aim to update its data sets daily in line with industry practice. If the Authorised Person updates its data sets less than once every three months, it should be able to demonstrate to the Regulator that the volatilities of the market prices are stable. In addition, where the updating of data sets is less frequent, the Regulator will normally expect compensating controls in the form of stress testing.
+
+A4.3.23 An Authorised Person must have robust and effective processes in place for ensuring compliance with documented internal policies, controls and procedures concerning the operation of the risk measurement system to support the use of own-estimate haircuts.

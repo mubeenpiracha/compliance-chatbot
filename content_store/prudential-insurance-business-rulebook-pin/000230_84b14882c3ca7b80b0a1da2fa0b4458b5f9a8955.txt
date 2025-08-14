@@ -1,0 +1,33 @@
+A3.2 Adjusted Capital Resources
+
+A3.2.1 An Insurer must calculate its Adjusted Capital Resources according to the formula:
+
+ACR = AE – HCA
+
+where:
+
+ACR means the Insurer's Adjusted Capital Resources;
+
+AE means the Insurer's adjusted equity; and
+
+HCA means the Insurer's hybrid capital adjustment.
+
+A3.2.2 Adjusted equity is calculated as set out in Rule A3.4. The hybrid capital adjustment is set
+
+out in Rule A3.5.
+
+A3.3 Base capital
+
+Guidance
+
+The commencement point for calculating an Insurer's adjusted equity is the Insurer's base capital.
+
+A3.3.1 Subject to Rules A3.3.2, A3.3.3 and A3.4, an Insurer's base capital consists of the
+
+following capital instruments and equity reserves of the Insurer:
+
+(a)
+
+paid-up ordinary shares, except for shares referred to in Rule A3.5.1(d);
+
+(b)

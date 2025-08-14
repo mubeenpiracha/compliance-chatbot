@@ -1,0 +1,17 @@
+Guidance
+
+1.
+
+An Authorised Market Institution should not refer to a facility where both Security Tokens and conventional Investments are traded and cleared using terms referred to in Rule 5.12.3.
+
+2.
+
+An Authorised Market Institution that trades and/or clears both conventional Investments and Investment Tokens may refer to the facility that trades or clears Investment Tokens as an Investment Token, Security Token or Derivative Token market or clearing house, provided it is able to effectively maintain and demonstrate that there is a clear separation of Investment Token trading or clearing from conventional Investment trading or clearing.
+
+45
+
+AMI/VER28/03-25
+
+AUTHORISED MARKET INSTITUTIONS (AMI)
+
+5A.

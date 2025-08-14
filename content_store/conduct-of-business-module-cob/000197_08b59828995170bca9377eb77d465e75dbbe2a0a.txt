@@ -1,0 +1,17 @@
+Guidance
+
+1.
+
+Client Assets is defined in the GLO Module as “Client Money, Client Investments and Client Crypto Tokens”.
+
+2.
+
+Principle 9 of the Principles for Authorised Firms (Customer assets and money) requires an Authorised Firm to arrange proper protection for Clients' Assets when the firm is responsible for them. An essential part of that protection is that an Authorised Firm must properly safeguard Client Money, Client Investments and Client Crypto Tokens held or controlled on behalf of a Client in the course of, or in connection with, the carrying on of Investment Business or Crypto Business in or from the DIFC.
+
+3.
+
+Rule 6.11.3 requires an Authorised Firm to introduce adequate organisational arrangements to minimise the risk of the loss or diminution of Client Assets, or of rights in connection with Client Assets, as a result of, for example, the Authorised Firm’s or a third party’s insolvency, fraud, poor administration, inadequate record-keeping or negligence.
+
+4.
+
+For information about the difference between Providing Custody and Arranging Custody, see Guidance under GEN Rule 2.13.1.

@@ -1,0 +1,3 @@
+Guidance
+
+The positive incentive for an Authorised Firm to call the transaction before contractual maturity as referred in Rule 4.13.15 would be, for example, a situation wherein there is a step-up in cost in conjunction with a call feature or where the effective cost of cover remains the same even if credit quality remains the same or increases.

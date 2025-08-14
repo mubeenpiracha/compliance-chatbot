@@ -1,0 +1,39 @@
+Corporate asset class
+
+4.12.13 Subject to Rules 4.12.14 and 4.12.15, an Authorised Person must risk-weight any CR Exposure in the corporate asset class in accordance with the following table:
+
+Risk Weights for the corporate asset class
+
+Credit Quality Grade Risk Weight
+
+1
+
+20%
+
+2
+
+50%
+
+3
+
+100%
+
+4
+
+100%
+
+5
+
+150%
+
+6
+
+150%
+
+Unrated
+
+100%
+
+4.12.14 An Authorised Person must risk-weight any short-term CR Exposure in the corporate asset class with an issue-specific external credit assessment in accordance with the following table:
+
+Risk Weights for short-term CR Exposures in the corporate asset class with issue-specific external credit assessments.

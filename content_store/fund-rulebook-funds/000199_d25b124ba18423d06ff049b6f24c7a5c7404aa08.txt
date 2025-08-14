@@ -1,0 +1,27 @@
+Transactions in derivatives
+
+13.4.5
+
+(1) The total exposure of a Public Fund to Derivatives may not exceed the net asset value of the Fund Property.
+
+(2) The Fund Manager's systems and controls must include adequate risk management processes which enable it to monitor and measure as frequently as appropriate the risk of a Fund's Derivative positions and their contribution to the overall risk profile of the Fund.
+
+Stock lending and borrowing
+
+13.4.6
+
+(1) Subject to the Fund's Constitution and its most recent Prospectus, the Fund Manager, or the Eligible Custodian or Trustee at the request of the Fund Manager, may enter into:
+
+(a)
+
+stock lending arrangements in respect of any Securities forming the Fund Property; and
+
+(b)
+
+stock borrowing arrangements.
+
+(2) The Fund Manager must ensure that the value of any collateral for the stock lending arrangement is at all times at least equal to the value of the Securities transferred.
+
+68
+
+FUNDS VER10.100625

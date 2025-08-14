@@ -1,0 +1,19 @@
+Market Risk Capital Requirement
+
+The requirement calculated in accordance with Rule 5.3.1.
+
+Maturity Ladder
+
+A table that ordinally ranks the maturity time bands and assets and liabilities within them.
+
+Maturity Method
+
+This is an advanced approach that an Authorised Firm may use to measure the risk of holding or taking positions in debt Securities and other interest rate-related instruments, calculated in accordance with Rule A5.2.17.
+
+MDB
+
+Multilateral Development Bank
+
+Modified Duration
+
+The time period calculation for the purposes of the Duration Method in accordance with Rule A5.2.21.

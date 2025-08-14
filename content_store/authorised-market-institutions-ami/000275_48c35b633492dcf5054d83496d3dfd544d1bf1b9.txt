@@ -1,0 +1,17 @@
+limit
+
+the need
+
+Guidance
+
+1.
+
+A CCP should adopt comprehensive and stringent measures to ensure that it has adequate total financial resources to effectively manage its credit risk and exposures.
+
+2.
+
+A CCP should determine the amount of the total financial resources available to it and regularly test the sufficiency of such amount, particularly in the event of a default or multiple defaults in extreme but plausible market conditions through rigorous stress testing.
+
+3.
+
+In conducting stress testing, a CCP should consider the effect of a wide range of relevant stress scenarios in terms of both defaulters’ positions and possible price changes in liquidation periods. Scenarios should include relevant peak historic price volatilities, shifts in other market factors such as price determinants and yield curves, multiple defaults over various time horizons, simultaneous pressures in funding and asset markets, and a spectrum of forward-looking stress scenarios in a variety of extreme but plausible market conditions.

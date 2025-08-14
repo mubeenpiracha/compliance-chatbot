@@ -1,0 +1,31 @@
+a.
+
+acquire or dispose of:
+
+i.
+
+a Security (other than a Warrant);
+
+ii.
+
+a contractually based investment (e.g. a Future);
+
+iii.
+
+currency of any country or territory; or
+
+iv.
+
+a commodity of any kind; or
+
+b.
+
+receive a cash settlement determined by reference to the value or price of an index, interest rate, exchange rate or any other rate or variable; or
+
+c.
+
+a right to acquire or dispose of an Option under a) or b).
+
+39.
+
+If a person issues a Token that confers on the holder rights that meet the criteria in paragraph 38 a), b) or c) which the holder may, but is not required to exercise, the Token is an Investment Token that is an Option and therefore also a Derivative Token.

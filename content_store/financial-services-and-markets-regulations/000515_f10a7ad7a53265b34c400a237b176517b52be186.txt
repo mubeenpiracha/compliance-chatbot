@@ -1,0 +1,23 @@
+Means government issued currency that is designated as legal tender in its country of issuance through government decree, regulation or law.
+
+means a digital asset, the transfer and storage of which is achieved through the use of distributed ledger or similar technology, the purpose of which is to be
+
+196
+
+Financial Crime
+
+Financial Counterparty
+
+Financial Group225
+
+225 Amended 11 December 2018.
+
+used as a medium of exchange with a stable store of value, by-
+
+(a)
+
+referencing a fixed amount of a single fiat currency; and
+
+(b)
+
+enabling the holder to redeem the token in exchange for the amount of the fiat currency referred to in (a) from its issuer upon demand.

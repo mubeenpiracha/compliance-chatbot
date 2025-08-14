@@ -1,0 +1,11 @@
+The notional amount of an off-balance sheet item refers to the amount which has been committed but is as yet undrawn. The amount to which the CCF is applied is the lower of the value of the unused committed credit line, and the value which reflects any possible constraining availability of the facility, such as the existence of a ceiling on the potential lending amount which is related to an obligor’s reported cash flow. If the facility is constrained in this way, the Authorised Firm must have sufficient line monitoring and management procedures to support this contention.
+
+4.
+
+Any foreign exchange transaction or translation gain or loss from a foreign currency- denominated off- balance sheet item should be allocated to the Exposure to which it accrues.
+
+Recognition of eligible financial Collateral for on-balance sheet assets and off- balance sheet items other than CCR Exposures
+
+(1)
+
+An Authorised Firm which has taken eligible financial Collateral for any transaction other than an equity Exposure, an SE Exposure, CCR Exposure or SFT may recognise the effect of such Collateral in accordance with Rules 4.9.6 and 4.9.7.

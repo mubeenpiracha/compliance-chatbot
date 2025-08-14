@@ -1,0 +1,17 @@
+5.4.12 Rules 5.4.10 and 5.4.11 do not require an Insurer to obtain a valuation by an Actuary of the assets and liabilities referred to in those Rules, at a Solvency Reference Date other than the Insurer’s annual reporting date.
+
+Guidance
+
+An Insurer is also required to provide a periodic report on its General Insurance Liabilities and associated assets, prepared by an Actuary. The relevant provisions are contained in chapter 7.
+
+5.5
+
+[Deleted]
+
+5.6
+
+Recognition and measurement of assets and liabilities in respect of long-term insurance
+
+5.6.1
+
+This section applies to assets and liabilities in respect of Long-Term Insurance contracts.

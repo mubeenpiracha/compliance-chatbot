@@ -1,0 +1,43 @@
+class, AddOnj
+
+CR, using the following formula:
+
+AddOnj
+
+CR = √(∑ρk CR
+
+𝐴𝑑𝑑𝑂𝑛𝑘
+
+2 𝐶𝑅)
+
++∑(1 − (ρk
+
+2 CR)
+
+) ∙ (𝐴𝑑𝑑𝑂𝑛𝑘
+
+𝐶𝑅)2
+
+k
+
+k
+
+where:
+
+290
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+k =
+
+the index that denotes the categories of the hedging set formed under (1)
+
+CR = ρk
+
+the supervisory correlation parameter for category ‘k’, determined in accordance with Rule A4.8.18
+
+CR = the add-on factor for category ‘k’, calculated in accordance with (3)
+
+AddOnk

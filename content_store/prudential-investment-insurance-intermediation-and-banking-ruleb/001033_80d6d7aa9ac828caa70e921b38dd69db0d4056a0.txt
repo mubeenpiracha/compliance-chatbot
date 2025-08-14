@@ -1,0 +1,13 @@
+Qualitative standards
+
+9.
+
+In addition to the standards outlined under 7 and 8:
+
+a.
+
+no particular type of model is prescribed. So long as each model used captures all the material risks run by the Authorised Person, the Authorised Person will be free to use models based, for example, on variance-covariance matrices, historical simulations, or Monte Carlo simulations;
+
+b.
+
+an Authorised Person will have discretion to recognise empirical correlations within broad risk categories, for example, interest rates, exchange rates, equity prices and commodity prices, including related Options volatilities in each risk factor category;

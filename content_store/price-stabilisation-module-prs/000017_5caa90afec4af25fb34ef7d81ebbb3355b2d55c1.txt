@@ -1,0 +1,19 @@
+3.5 Restrictions on transactions with Stabilisation Agents
+
+3.5.1
+
+(1)
+
+The Stabilisation Manager must not during the Stabilisation Window enter into a transaction as principal with any of his Stabilisation Agents in the Eligible Securities which are the subject of Price Stabilisation.
+
+(2)
+
+The requirement in (1) does not apply:
+
+(a)
+
+if at the time of the transaction, neither the Stabilisation Manager nor his Stabilisation Agent knew or could reasonably have known the identity of his counterparty; or
+
+(b)
+
+where the transaction between the Stabilisation Manager and his Stabilisation Agent is undertaken solely for the purpose of reallocating the Stabilisation Manager and his Stabilisation Agent in the course of Price Stabilisation and the transaction is priced accordingly.

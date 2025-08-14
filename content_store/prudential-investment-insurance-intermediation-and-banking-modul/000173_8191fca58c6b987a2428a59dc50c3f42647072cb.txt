@@ -1,0 +1,7 @@
+Guidance
+
+1. CCyB Rates are usually specified to apply after an advance announcement period i.e. a period between when it is announced and when it takes effect, which gives Authorised Firms sufficient time to adopt the new capital buffer. The effect of Rule 3.9A.9(2)(a) is that Authorised Firms will usually have 12 months from the announcement to adopt a buffer.
+
+2. As a transitional measure, Rule 3.9A.9(2)(b) has the effect that Authorised Firms will have at least 6 months from the day on which this section commences (1 January 2018) to adopt a buffer, even if the relevant rate was announced 12 months before the day the section commences.
+
+For example: If a CCyB Authority announced on 1 February 2017 a CCyB Rate of 1% that would apply to credit exposures in its jurisdiction, this would usually take effect on 1 February 2018. However, under Rule 3.9A.9(2)(b), instead an Authorised Firm has until 1 July 2018 (6 months after the commencement of this Rule) to adopt the buffer.

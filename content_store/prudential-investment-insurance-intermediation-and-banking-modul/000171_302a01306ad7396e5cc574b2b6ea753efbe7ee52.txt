@@ -1,0 +1,31 @@
+3.9A.7 (1) The Countercyclical Capital Buffer Rate for an exposure:
+
+(a)
+
+in the DIFC or elsewhere in the State, is the rate set by the Central Bank; and
+
+(b)
+
+outside the State, is the rate set by the CCyB Authority for that jurisdiction, unless the DFSA has specified a rate under Rule 3.9A.8, in which case that specified rate applies.
+
+(2)
+
+If the rate specified by a CCyB Authority is more than 2.5% then it is taken to be equal to 2.5%, unless the DFSA specifies otherwise.
+
+3.9A.8 (1)
+
+If the DFSA considers that the CCyB Rate in a jurisdiction outside the State is not sufficient to protect Authorised Firms from the risks of excessive credit growth in that jurisdiction, it may, for credit exposures in that jurisdiction:
+
+(a)
+
+specify a CCyB Rate even though no rate is imposed by the CCyB Authority for that jurisdiction; or
+
+50
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+(b)
+
+specify a CCyB Rate that is higher than the rate imposed by the CCyB Authority for that jurisdiction.

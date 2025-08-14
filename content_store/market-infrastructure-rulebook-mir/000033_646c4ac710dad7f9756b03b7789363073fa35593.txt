@@ -1,0 +1,25 @@
+Capital requirements
+
+2.4.3
+
+A Recognised Investment Exchange must, at all times, hold Capital in accordance with Rule 3.2.
+
+2.4.4
+
+A Recognised Clearing House must, at all times, hold Capital in accordance with Rule 4.2.
+
+2.4.5
+
+"Capital" means Tier 1 capital, as defined in PRU 3.9.
+
+2.4.6
+
+The Regulator may require a Recognised Body to hold an additional Capital buffer, which may be used only in times of market stress or financial difficulty.
+
+Accounting information and standards
+
+2.4.7
+
+A Recognised Body must prepare and maintain its financial statements in accordance with chapter 6 of GEN.
+
+2.4.8

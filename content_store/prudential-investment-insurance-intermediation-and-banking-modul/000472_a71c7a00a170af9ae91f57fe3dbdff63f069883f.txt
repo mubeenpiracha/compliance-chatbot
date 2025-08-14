@@ -1,0 +1,5 @@
+For the purposes of (2), the concentration factor is calculated as the sum of the nominal amounts of all the tranches in that securitisation divided by the sum of the nominal amounts of the tranches junior to, or pari-passu with, the tranche in which the position is held, including that tranche itself. The resulting weighted average risk weight must not be higher than 1000% or lower than the risk weight applicable to a more senior tranche which is rated.
+
+(4)
+
+Where the Authorised Firm is unable to determine the risk weights for the underlying Exposures the unrated securitisation position will not be eligible for the relief and must be deducted from CET 1 Capital of the Authorised Firm.

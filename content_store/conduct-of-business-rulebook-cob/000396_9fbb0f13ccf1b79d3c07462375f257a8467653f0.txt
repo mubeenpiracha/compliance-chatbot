@@ -1,0 +1,15 @@
+Consent and withdrawal of consent
+
+19.10.1 (1)
+
+A Payment Transaction is to be regarded as having been authorised by the Payer for the purposes of this Rule only if the Payer has given its consent to:
+
+(a)
+
+the execution of the Payment Transaction; or
+
+(b)
+
+the execution of a series of Payment Transactions of which that Payment Transaction forms part.
+
+(2)

@@ -1,0 +1,11 @@
+Most senior Exposure in a securitisation
+
+(1)
+
+Where an Authorised Person holds or guarantees unrated securitisation Exposure from the most senior tranche in a securitisation, the Authorised Person may apply the "look through" treatment, provided the composition of the underlying pool of Exposures securitised is known at all times and the Authorised Person is able to determine the applicable risk weights for the underlying Exposures.
+
+(2)
+
+An Authorised Person applying the look-through treatment to an unrated securitisation Exposure, pursuant to (1), must apply to that securitisation Exposure the weighted average of the risk weights of the underlying Exposures determined in accordance with the Rules in this Chapter, multiplied by a concentration factor.
+
+(3)

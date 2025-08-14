@@ -1,0 +1,11 @@
+A8.11 Asset management risk component
+
+Guidance
+
+This section requires an Insurer to set aside capital in respect of assets that it manages. The provisions in this section apply the relevant provisions of Rule A4.13 to each Long-Term Insurance Fund that an Insurer maintains.
+
+A8.11.1 An Insurer must calculate the asset management risk component in respect of a Long-Term Insurance Fund according to the method set out in Rule A4.13, applied as though all references in that Rule to an Insurer were instead references to that fund.
+
+120
+
+PIN VER07.290725

@@ -1,0 +1,19 @@
+(a)
+
+binding on Employees; and
+
+(b)
+
+to the extent appropriate and practicable, made publicly available.
+
+An Authorised Market Institution that Operates a Multilateral Trading Facility must not execute any orders made on the facility against its own proprietary capital.
+
+Guidance
+
+1.
+
+In assessing whether an Authorised Market Institution’s policies and procedures are adequate to address conflicts of interests, the DFSA will consider whether those include:
+
+a.
+
+policies on the use of confidential information received in carrying out its Regulatory Functions to ensure it is only used for proper purposes;

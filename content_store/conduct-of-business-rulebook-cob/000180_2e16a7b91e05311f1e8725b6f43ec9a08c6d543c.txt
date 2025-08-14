@@ -1,0 +1,13 @@
+7.11.12 An Insurance Intermediary or Insurance Manager may only use Approved Assets as security for a loan or overdraft where that loan or overdraft is for a purpose relating to an Insurance Bank Account as permitted by Rule 7.11.7.
+
+7.11.13 Where Insurance Monies are held in Approved Assets whose rating drops below the minimum stipulated within the definitions, that investment or asset will cease to be an Approved Asset and the Insurance Intermediary or Insurance Manager must dispose of the investment or asset as soon as possible and no later than within thirty days of the rating change.
+
+7.11.14 An Insurance Intermediary or Insurance Manager may not use derivatives in the management of Insurance Monies except for the prudent management of risks.
+
+7.11.15 An Insurance Intermediary who has a credit balance for a Client who cannot be traced
+
+must not take credit for such an amount except where:
+
+(a)
+
+he has taken reasonable steps to trace the Client and to inform him that he is entitled to the money;

@@ -1,0 +1,15 @@
+Guidance
+
+When determining, for the purposes of Rule 3.3.1, whether it has clear and transparent Business Rules concerning the admission of Financial Instruments to trading on any Multilateral Trading Facility operated by it, a Recognised Investment Exchange should have regard to:
+
+(a)
+
+whether there is a sufficient range of Persons already holding the Financial Instrument (or, where relevant, the underlying asset) or interested in dealing in it to bring about adequate forces of supply and demand;
+
+(b)
+
+the extent to which there are any limitations on the Persons who may hold or deal in the Financial Instrument, or the amounts of the Financial Instrument which may be held; and
+
+(c)
+
+whether it has adequate procedures for obtaining information relevant for determining whether or not to suspend or discontinue trading in that Financial Instrument.

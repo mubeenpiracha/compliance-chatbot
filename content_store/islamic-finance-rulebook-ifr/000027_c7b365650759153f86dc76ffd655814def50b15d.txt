@@ -1,0 +1,13 @@
+(C)
+
+The segregation of the amounts credited to the PIF and the PRF, respectively, is commonly made based on certain percentages of the Takaful contributions paid, and this is normally part of the Family Takaful product pricing and design. The Takaful Operator will indicate in the Family Takaful contract the distinction between the two accounts and their relative proportions within the overall contribution, which cannot be unilaterally altered throughout the term of the Takaful contract.
+
+Confidential
+
+7
+
+IFR VER08.020125
+
+(D)
+
+Nevertheless, there are some Family Takaful products, such as group Takaful or term Takaful, that do not necessarily involve a long-term relationship between the Takaful undertakings and the Takaful participants. These products offer a shorter period of coverage and, as such, they have no investment element in favour of the participants. Normally, these types of products would work on a similar mechanism to General Takaful, whereby all Takaful contributions are considered as Tabarru' and credited directly into the PRF.

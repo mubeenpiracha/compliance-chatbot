@@ -1,0 +1,31 @@
+NSFR = ASF x 100
+
+RSF
+
+2.
+
+For the purposes of the NSFR Requirement, an Authorised Firm’s ASF and RSF are calibrated to reflect the presumed degree of stability of liabilities and liquidity of assets.
+
+3.
+
+This Appendix sets out how the ASF and RSF are to be calculated.
+
+Available Stable Funding (ASF)
+
+A9.4.1 (1)
+
+An Authorised Firm must calculate its ASF by:
+
+(a) assigning the carrying value of each liability and capital instrument to
+
+the applicable ASF Category set out in the table;
+
+(b) adjusting the carrying value of each liability and capital instrument by multiplying it by the applicable ASF Factor as set out in the table; and
+
+(c)
+
+adding together each adjusted carrying value.
+
+401
+
+PIB/VER50/07-25

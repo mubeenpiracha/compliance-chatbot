@@ -1,0 +1,25 @@
+(5) Where the DFSA decides to exclude or partially exclude an Eligible Liability or class of Eligible Liabilities under (4), the level of write down or conversion applied to other Eligible Liabilities may be increased to take account of such exclusions, provided that the level of write down or conversion applied to other Eligible Liabilities is consistent with the Resolution Objectives.
+
+(6) Where the DFSA decides to apply the Bail-In Tool, the DFSA shall in
+
+30
+
+RAR/VER1/04-20
+
+3.4.2
+
+RECOVERY AND RESOLUTION (RAR)
+
+the written notice given under Article 84N of the Law set out the type and amount of liabilities owed by the Authorized Firm in Resolution that will be subject to the Bail-In Tool and whether they are:
+
+(a)
+
+cancelled (i.e. written down to zero);
+
+(b)
+
+modified (as far as their terms or the effects of the terms therein are concerned); or
+
+(c)
+
+caused to change their form by converting from a form or a class to a different one, replacing the existing instrument with one of another form or class or creating a new security.

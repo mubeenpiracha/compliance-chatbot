@@ -1,0 +1,7 @@
+(a)
+
+provided the Collateral meets the requirements of Section 4.13 (CRM), and would be assigned a lower risk weight under Section 4.12, treat that portion of the Exposure which is secured by Collateral as an Exposure to the third party. An Authorised Person must treat the portion secured by Collateral as having being incurred to the third party providing the Collateral rather than to the Client for the purposes of considering the limits as set out at Rule 4.15.5; or
+
+(b)
+
+provided the guarantee meets the requirements of Section 4.13 (CRM), and would be assigned a lower risk weight under Section 4.12, treat that portion of the Exposure which is guaranteed as an Exposure to the third party. An Authorised Person must treat the portion guaranteed as having being incurred to the third party rather than to the Client for the purposes of considering the limits as set out at Rule 4.15.5. When considering the guarantee there must not be any Maturity Mismatch between the guarantee and the underlying Exposure.

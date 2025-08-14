@@ -1,0 +1,35 @@
+Guidance
+
+5.6.2
+
+Premiums in respect of a group of reinsurance contracts entered into by an Insurer as insurer must be treated as receivable from the earlier of the following:
+
+(a)
+
+the beginning of the coverage period of the group of reinsurance contracts; or
+
+(b)
+
+when the insurer recognises the group of underlying insurance contracts as onerous.
+
+5.6.3
+
+Premiums in respect of reinsurance contracts entered into by an Insurer as cedant must be treated as payable from the date on which they are due and payable.
+
+5.6.4
+
+(1)
+
+Acquisition costs incurred in respect of insurance contracts entered into by an Insurer must be treated as payable:
+
+(a)
+
+in the case of expenses directly related to the premiums in respect of the contract, at the same time as the premium is treated as receivable; and
+
+(b)
+
+in the case of expenses not directly related to the premiums in respect of the contract, at the time the contract is effected.
+
+(2)
+
+Expenses associated with the maintenance of insurance contracts, including, but not limited to, the costs of reporting to policyholders and the costs of managing investments, must be treated as payable as they are incurred.

@@ -1,0 +1,17 @@
+d.
+
+analyse and explain any changes to the level and nature of Market Risk and any remedial action proposed or taken.
+
+8.
+
+An Authorised Firm should have procedures, including stop-loss procedures, for taking appropriate action according to the information within the management reports.
+
+9.
+
+An Authorised Firm should ensure that there are controls and procedures for reporting any trades booked at off-market rates.
+
+10. An Authorised Firm should ensure that risk monitoring is subject to a periodic independent check. Models used to determine or interpolate specific Market Risk factors should be independently reviewed or otherwise validated.
+
+11.
+
+Particular attention should be given to the monitoring of Market Risk that does not conform to the usual Market Risk policy, or which exceeds predetermined Market Risk limits and criteria, but is sanctioned because of particular circumstances in accordance with the Authorised Firm’s procedures. Unauthorised exceptions to policies, procedures and limits should be reported in a timely manner to the appropriate level of management along with any remedial action proposed or taken.

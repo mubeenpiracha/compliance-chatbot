@@ -1,0 +1,45 @@
+a.
+
+where it operates through linked CCPs, SSSs or CSDs;
+
+b.
+
+where its Members and other participants are incorporated, located, or otherwise conducting business in jurisdictions outside the DIFC; or
+
+c.
+
+where any collateral provided is located or held in a jurisdiction outside the DIFC.
+
+Liquidity risk
+
+(1)
+
+A Clearing House must:
+
+(a)
+
+determine the amount of its minimum liquid resources;
+
+(b)
+
+maintain sufficient liquid resources to be able to effect same-day, intra-day or multi-day settlement, as applicable, of its payment obligations with a high degree of confidence under a wide range of potential stress scenarios;
+
+(c)
+
+ensure that all resources held for the purposes of meeting its minimum liquid resource requirement are available when needed;
+
+(d)
+
+have a well-documented rationale to support the amount and form of total liquid resources it maintains for the purposes of (b) and (c); and
+
+(e)
+
+have appropriate arrangements in order to be able to maintain, on an on-going basis, such amount and form of its total liquid resources.
+
+75
+
+AMI/VER28/03-25
+
+AUTHORISED MARKET INSTITUTIONS (AMI)
+
+(2)

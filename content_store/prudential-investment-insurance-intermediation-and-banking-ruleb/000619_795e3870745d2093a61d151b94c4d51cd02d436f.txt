@@ -1,0 +1,3 @@
+Guidance
+
+An Authorised Person should conduct its own stress tests to assess the level of liquidity it should hold beyond the minimum required under this section, and construct its own scenarios that could cause difficulties for its specific business activities. Such internal stress tests should incorporate longer periods than the one required under this section. Authorised Persons are expected to share the results of these additional stress tests with the Regulator.

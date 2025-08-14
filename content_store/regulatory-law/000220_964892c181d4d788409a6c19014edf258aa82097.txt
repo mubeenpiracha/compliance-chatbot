@@ -1,0 +1,33 @@
+84X. Default Event Provision
+
+(1) Article 84X(2) applies where a contract or other agreement:
+
+(a)
+
+is entered into by an Authorised Firm or a Regulated Financial Institution; or
+
+79
+
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+(b)
+
+includes cross-default provisions, and is entered into by another Group entity in the Authorised Firm’s Group or Regulated Financial Institution’s Group,
+
+and the substantive obligations provided for in the contract or agreement (including payment and delivery obligations and provision of collateral) continue to be performed.
+
+The following shall be disregarded in determining whether a Default Event Provision applies:
+
+(a)
+
+the exercise of a measure in an Authorised Firm’s Recovery Plan, the removal of impediments to Resolvability of an Authorised Firm, the imposition of an Early Intervention Power, the appointment of a Temporary Administrator, the exercise of a Resolution Power or application of a Resolution Tool, or the recognition of a resolution action taken by a Resolution Authority; and
+
+(b)
+
+the occurrence of any event directly linked to the application of such measure, power or action.

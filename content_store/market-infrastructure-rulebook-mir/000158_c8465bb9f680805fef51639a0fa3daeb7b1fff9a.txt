@@ -1,0 +1,31 @@
+3.11
+
+Use of Price Reporting Agencies
+
+3.11.1
+
+When admitting to trading a Financial Instrument that references an underlying benchmark or index provided by a Price Reporting Agency, a Recognised Investment Exchange must undertake appropriate due diligence to ensure that the Price Reporting Agency meets the requirements in Rule 3.11.2.
+
+3.11.2
+
+For the purposes of Rules 3.11.1 and 3.11.3, a Price Reporting Agency must:
+
+(a)
+
+have fair and non-discriminatory procedures for establishing prices of a Financial Instrument, which are made public;
+
+(b)
+
+demonstrate adequate and appropriate transparency over the methodology, calculation and inputs to allow users to understand how the benchmark or index is derived and its potential limitations;
+
+53
+
+MIR VER10.290725
+
+(c)
+
+where appropriate, give priority to concluded transactions in making assessments and adopt measures to minimise selective reporting;
+
+(d)
+
+be of good standing and repute as an independent and objective price reporting agency or index provider;

@@ -1,0 +1,9 @@
+An Authorised Firm is in Category 4 if:
+
+(a)
+
+its Licence authorises it to carry on one or more of the Financial Services of Arranging Deals in Investments, Advising on Financial Products, Arranging Custody, Insurance Intermediation, Insurance Management, Operating an Alternative Trading System, Providing Fund Administration, Providing Trust Services (where it is not acting as trustee in respect of an express trust), Providing Money Services (where it only provides Money Transmission), Arranging Credit and Advising on Credit, Operating a Crowdfunding Platform or Arranging or Advising on Money Services; and
+
+(b)
+
+it does not meet the criteria of Categories 1, 2, 3A, 3B, 3C, 3D or 5.

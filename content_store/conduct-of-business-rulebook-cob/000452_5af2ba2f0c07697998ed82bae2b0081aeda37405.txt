@@ -1,0 +1,21 @@
+19A.9.2 The attestation required in accordance with Rule 19A.9.1 must be published on the website of the Authorised Person and submitted to the Regulator by the end of the month following the expiry of the period covered by such attestation.
+
+19A.10
+
+Audit
+
+19A.10.1 An Authorised Person which has issued a Fiat-Referenced Token must perform an
+
+annual audit of:
+
+(a)
+
+the composition and valuation of Reserve Investments; and
+
+(b)
+
+the Authorised Person’s internal controls and compliance arrangements in relation to the Rules governing the management of Reserve Investments.
+
+19A.10.2 The audit required in accordance with Rule 19A.10.1 must be performed by an independent external auditor approved by the Regulator. The results of such audit must be addressed to the Authorised Person and the Regulator and be submitted by the Authorised Person to the Regulator no later than four months following the end of the Authorised Person’s financial year.
+
+19A.11

@@ -1,0 +1,69 @@
+(ii)
+
+a short position in the primary risk factor if the market value of the transaction decreases when the risk factor increases;
+
+for options the supervisory delta must be calculated using the applicable formula in the table below:
+
+Bought
+
+Sold
+
+Call options
+
+δ𝑖 = Ф(
+
+ln(
+
+Pi Ki
+
+) + 0.5 ∙ σi
+
+σi ∙ √Ti
+
+2 ∙ Ti
+
+)
+
+δ𝑖 = −Ф(
+
+ln(
+
+Pi Ki
+
+) + 0.5 ∙ σi
+
+σi ∙ √Ti
+
+2 ∙ Ti
+
+)
+
+Put options
+
+δ𝑖 = −Ф(
+
+ln(
+
+Pi Ki
+
+) + 0.5 ∙ σi
+
+σi ∙ √Ti
+
+2 ∙ Ti
+
+)
+
+δ𝑖 = Ф(
+
+ln(
+
+Pi Ki
+
+) + 0.5 ∙ σi
+
+σi ∙ √Ti
+
+2 ∙ Ti
+
+)

@@ -1,0 +1,7 @@
+e.
+
+settlement finality features, demonstrated through clear definitions of technical finality and the point of irrevocability and transparent mechanisms for reconciling misalignments between technical settlement and legal finality; and
+
+f.
+
+money settlement features, with an absence of market, credit or liquidity risk, including through a direct legal claim on the issuer or the underlying reserve assets, timely convertibility at par into other liquid assets and clear and robust process for fulfilling client claims, under both normal and stressed scenarios.

@@ -1,0 +1,11 @@
+of the following two amounts:
+
+(a)
+
+the amount of the Insurer's provision for Gross Outstanding Claims, less the amount of reinsurance and other recoveries expected to be received in respect of that liability; and
+
+(b)
+
+50% of the amount of the Insurer's provision for Gross Outstanding Claims.
+
+A4.11.5 Where an Insurer has entered as reinsurer into a finite risk reinsurance contract, the reserving risk component in respect of that contract, regardless of the Class of Business it relates to, must be 6% of the base claims reserve on the contract.

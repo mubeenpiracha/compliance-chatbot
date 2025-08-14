@@ -1,0 +1,7 @@
+‘investment exposure’ means the aggregate value of all equity, bond or other investments in or in respect of the counterparty or group of Related parties or property in question, together with off-balance sheet exposures to the same counterparty or group of Related counterparties or property that that fund has because the Insurer has issued guarantees, letters of credit or other credit substitutes (other than insurance contracts), or because it has entered into derivative contracts, but excluding any assets excluded from base fund capital in accordance with any of the Rules referred to in Rule A8.4.3(b); and
+
+(b)
+
+‘AAA’-Rated Governments and Government agencies are not counterparties.
+
+A8.8.3 An Insurer must calculate its concentration risk component in respect of a Long- Term Insurance Fund as the sum of the amounts obtained by multiplying each investment exposure of that fund that exceeds 10% of the adjusted segmental capital resources, by the relevant factor percentage set out in the table set out in Rule A4.8.3, reading that table as though all references to Adjusted Capital Resources were references to Adjusted Fund Capital Resources, and subject to Rule A8.8.4

@@ -1,0 +1,27 @@
+it
+
+168
+
+COBS VER19.290725
+
+21.3.6 Fair and non-discriminatory access to Specified Benchmarks
+
+(a)
+
+A Benchmark Administrator must ensure that a user of a Specified Benchmark it administers (a “user”) is granted non-discriminatory access to:
+
+(i)
+
+relevant price and data feeds and information on the composition, methodology and pricing of the Specified Benchmark; and
+
+(ii)
+
+licenses or other arrangements to use the Specified Benchmark.
+
+(b)
+
+Where a Benchmark Administrator charges a fee for access to the Specified Benchmark, access must be granted on reasonable commercial terms, and commensurate to the price at which access is granted to, or at which the intellectual property rights are licensed to, other users or related persons, for the purposes of pricing, trading and clearing.
+
+(c)
+
+A Benchmark Administrator can charge different fees for access to the Specified Benchmark to different users, or related persons, only where this can be objectively justified on reasonable terms, including consideration of the quantity, scope, or field of use requested.

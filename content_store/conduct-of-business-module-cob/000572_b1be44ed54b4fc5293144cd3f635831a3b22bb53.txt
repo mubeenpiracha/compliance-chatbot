@@ -1,0 +1,25 @@
+g.
+
+Arranging Custody; or
+
+h.
+
+Operating a Multilateral Trading Facility.
+
+2.
+
+As sections 15.5 and 15.6 apply to Crypto Business they also apply to an MTF Operator, unless otherwise stated.
+
+179
+
+COB/VER48/03-25
+
+CONDUCT OF BUSINESS (COB)
+
+15.2 Operating a MTF for Crypto Tokens which permits direct access
+
+15.2.1 An MTF Operator that has Direct Access Members must comply with the requirements that would apply to an ATS Operator under section 14.2 (other than Rule 14.2.3(1)(d)).
+
+Guidance
+
+Rule 14.2.3(1)(d) does not apply as it refers to prospectus and ongoing disclosure requirements in MKT that are not applicable to Crypto Tokens. Section 15.3 sets out the information disclosure requirements that apply to a MTF that trades Crypto Tokens.

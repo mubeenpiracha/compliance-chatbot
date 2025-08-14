@@ -1,0 +1,41 @@
+the objectives and parameters for the testing of the product or service;
+
+(c)
+
+the timeline and key milestones for testing;
+
+(d)
+
+the number and type of customers that will take part in testing and how they will be sourced;
+
+(e)
+
+the key risks of testing and how they will be mitigated;
+
+(f)
+
+how the business will ensure that customers understand that the product or service is being tested and the resulting risks;
+
+(g)
+
+the safeguards that will be put in place to adequately protect customers in the event of a problem arising from use of the technology or the business failing;
+
+(h)
+
+how communications with customers will be handled before, during and after testing, including how the business will deal with queries, feedback and complaints;
+
+(i)
+
+how the success of the testing will be measured;
+
+(j)
+
+how testing progress will be reported to the DFSA;
+
+(k)
+
+the next steps if the testing is successful; and
+
+(l)
+
+a clear exit plan if the testing is not successful, including how the business will fulfil its obligations to its testing customers.

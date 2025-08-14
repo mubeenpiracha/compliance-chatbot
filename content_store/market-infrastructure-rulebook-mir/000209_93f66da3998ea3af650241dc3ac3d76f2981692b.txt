@@ -1,0 +1,21 @@
+accommodate timely deposit, withdrawal, substitution and liquidation of collateral;
+
+(d)
+
+regularly adjust its requirements for acceptable collateral in accordance with changes in underlying risks;
+
+(e)
+
+establish prudent valuation practices, including daily marking to market of the Recognised Clearing House's collateral;
+
+(f)
+
+develop haircuts that are regularly tested, independently validated at least annually and take into account stressed market conditions;
+
+(g)
+
+reduce the need for procyclical adjustments, by establishing, to the extent practicable and prudent, stable and conservative haircuts that are calibrated to include periods of stressed market conditions;
+
+(h)
+
+establish concentration limits which are periodically reviewed by the Recognised Clearing House to determine their adequacy or imposing concentration charges to avoid concentrated holdings of certain assets where that would significantly impair the ability to liquidate such assets quickly without significant adverse price effects; and

@@ -1,0 +1,29 @@
+any accordance with the requirements in section 6.9.
+
+liquidity
+
+incentive schemes must be offered only
+
+in
+
+Guidance
+
+Rules and procedures referred to in Rule 6.2.1(2) should generally form part of the Business Rules of an Authorised Market Institution (see the content of Business Rules in Rule 5.6.1).
+
+Specifications relating to design and trading of Derivatives
+
+(1)
+
+An Exchange which trades Derivative contracts on its facilities must:
+
+(a)
+
+have clear and transparent rules and procedures for the trading of Derivative contracts, which are made publicly available; and
+
+(b)
+
+ensure that the trading in Derivative contracts on its facilities is undertaken in a fair, orderly and efficient manner.
+
+(2)
+
+The rules and procedures must promote transparency by ensuring that there is sufficient information made available to the markets relating to the terms and conditions of the Derivative contracts traded on its facilities. Such information must include, where relevant, information relating to delivery and pricing of Derivative contracts.

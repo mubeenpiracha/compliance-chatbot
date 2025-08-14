@@ -1,0 +1,9 @@
+Guidance
+
+Approval for the use of the internal model approach is governed by Section 5.11 of Chapter 5.
+
+A4.3.9
+
+Subject to Rules A4.3.10 to A4.3.12, an Authorised Person must determine HE, HC, HS and HFX referred to in Rules A4.3.6 to A4.3.8, in accordance with the standard supervisory haircuts in the table forming part of Rule A4.3.13.
+
+A4.3.10 An Authorised Person may calculate HE, HC, HS and HFX using own-estimate haircuts in accordance with Rules A4.3.17 to A4.3.23 if it has received approval from the Regulator to use the internal models approach for calculating the Market Risk Capital Requirement. If the Authorised Person chooses to use own-estimate haircuts, it must do so consistently for determining haircuts for all eligible financial Collateral and all portfolios, except that it may, with the approval of the Regulator, use the standard supervisory haircuts in Rules A4.3.13 to A4.3.16 for any portfolio which is immaterial in size and risk profile.

@@ -1,0 +1,25 @@
+For the purposes of (1)(b), an Authorised Person must:
+
+(a)
+
+allocate physical stocks to the first maturity band; and
+
+(b)
+
+set a separate Maturity Ladder for each commodity.
+
+356
+
+PRU VER17.290725
+
+Guidance
+
+The table below illustrates the calculation of the Commodity Risk Capital Requirement on an individual commodity using the Maturity Ladder approach.
+
+357
+
+PRU VER17.290725
+
+After a firm has carried out the pre-processing required by A6.5.5(1)(a), it follows the steps required by Rule A6.5.5(1)(a) to (g). The spread rate is 1.5%, the carry rate is 0.6% and the outright rate is 15%. The example assumes that the unit spot price for the commodity is $20
+
+STEPS ➔

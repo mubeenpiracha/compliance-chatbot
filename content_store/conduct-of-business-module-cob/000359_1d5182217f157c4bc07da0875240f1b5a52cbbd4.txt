@@ -1,0 +1,27 @@
+the reasons for the proposed change; and
+
+(c)
+
+what impact the proposed change would have on its members and its ability to operate the facility.
+
+(4)
+
+The DFSA must, upon receipt of a notice referred to in (1), approve or disapprove the proposed change as soon as practicable and in any event within 30 days of the receipt of the notice, unless that period has been extended by notification to the applicant.
+
+(5)
+
+The DFSA may, in circumstances where a material change to Current Arrangements is shown on reasonable grounds to be urgently needed, accept an application for approval of such a change on shorter notice than 30 days.
+
+107
+
+COB/VER48/03-25
+
+CONDUCT OF BUSINESS (COB)
+
+(6)
+
+The procedures in Schedule 3 to the Regulatory Law apply to a decision of the DFSA to reject a proposed change under this Rule.
+
+(7) Where the DFSA decides to reject a proposed change, the ATS Operator
+
+may refer the matter to the FMT for review.

@@ -1,0 +1,11 @@
+A6.13 Asset management risk component
+
+Guidance
+
+This section requires an Insurer to set aside capital in respect of assets that it manages. This section applies the relevant provisions of Rule A4.13 to the segments of a Cell Company.
+
+A6.13.1 An Insurer must calculate the asset management risk component in respect of a segment according to the method set out in Rule A4.13, applied as though all references in that Rule to an Insurer were instead references to that segment.
+
+110
+
+PIN VER07.290725

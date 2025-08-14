@@ -1,0 +1,37 @@
+(i)
+
+the payment for the sale/purchase includes a total cash payment of USD15,000 or more whether in a single cash payment or multiple cash payments;
+
+(ii)
+
+the payment for any part or all of the sale/purchase amount includes payment(s) using Virtual Assets;
+
+(iii) the payment for any part or all of the sale/purchase amount includes
+
+funds that were converted from or to a Virtual Asset.
+
+8.1.2
+
+(1)
+
+A Relevant Person must also apply CDD measures to each existing customer under Rules 8.3.1, 8.4.1 or 8.5.1 as applicable:
+
+(a)
+
+with a frequency appropriate to the outcome of the risk-based approach taken in relation to each customer; and
+
+(b)
+
+when the Relevant Person becomes aware that any circumstances relevant to its risk assessment for a customer have changed.
+
+(2)
+
+For the purposes of 8.1.2(1), in determining when it is appropriate to apply CDD measures in relation to existing customers, a Relevant Person must take into account, amongst other things:
+
+(a)
+
+any indication that the identity of the customer, or the customer’s Beneficial Owners, has changed;
+
+(b)
+
+any Transactions that are not reasonably consistent with the Relevant Person’s knowledge of the customer;

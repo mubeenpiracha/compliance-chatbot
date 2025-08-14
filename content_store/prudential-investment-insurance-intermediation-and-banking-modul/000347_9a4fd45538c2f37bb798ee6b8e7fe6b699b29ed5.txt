@@ -1,0 +1,27 @@
+IV
+
+150%
+
+(2) Any short-term credit assessment must only apply to the item the short-term credit assessment refers to, and it must not be used to derive risk weights for any other item, except in the following cases:
+
+111
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+(a)
+
+if a short-term rated facility is assigned a 50% risk weight, no unrated short-term Exposure shall be assigned a risk weight lower than 100%;
+
+(b)
+
+if a short-term rated facility is assigned a 150% risk weight, then all unrated Exposures on that obligor, whether short-term or long-term, shall also be assigned a 150% risk weight.
+
+(3) An Authorised Firm may use short-term credit assessments for short-term
+
+assets and off-balance sheet items constituting Exposures to banks.
+
+4.12.9 (1) For the purpose of Rules 4.12.7 and 4.12.8, an Authorised Firm must conduct the external ratings appropriately and that
+
+due diligence conservatively reflect the creditworthiness of the bank counterparty.

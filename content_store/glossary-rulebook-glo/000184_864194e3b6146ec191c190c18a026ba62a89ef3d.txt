@@ -1,0 +1,21 @@
+under Fund Rules.
+
+Recognition Order
+
+Has the meaning given in section 258 of FSMR.
+
+Recognition Requirements
+
+Means the requirements set out in MIR Chapters 2 to 4 in relation to the granting of a Recognition Order under section 120 of FSMR to a Recognised Body.
+
+Reference Date
+
+Means the date as at which an actuarial investigation is performed for the purposes of PIN 7.3.
+
+Reference Entity
+
+Means the entity against which payments under a Derivative Contract are calculated.
+
+Reference Exchange Rate
+
+Means the exchange rate that is used as the basis to calculate any currency exchange and that is made available by the Payment Service Provider or comes from a publicly available source.

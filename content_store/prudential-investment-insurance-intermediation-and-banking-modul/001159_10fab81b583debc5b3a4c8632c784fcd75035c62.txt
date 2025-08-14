@@ -1,0 +1,23 @@
+APP6 CALCULATING REQUIREMENT
+
+THE
+
+OPERATIONAL
+
+RISK
+
+CAPITAL
+
+Guidance
+
+1.
+
+Section 6.11 of PIB provides that an Authorised Firm in Categories 1, 2, 3A and 5 must use the Basic Indicator Approach to calculate its Operational Risk Capital Requirement, unless the firm has approval from the DFSA to use the Standardised Approach or Alternative Standardised Approach. In this App6:
+
+a.
+
+the Basic Indicator Approach is prescribed in section A6.1;
+
+b.
+
+the Standardised Approach is prescribed in section A6.2; and

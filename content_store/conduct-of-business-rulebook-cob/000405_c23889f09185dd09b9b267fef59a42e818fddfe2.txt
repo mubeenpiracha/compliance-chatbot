@@ -1,0 +1,15 @@
+Execution of Payment Transactions
+
+Receipt of Payment Orders
+
+19.14.1 (1)
+
+A Payer’s Payment Service Provider must not debit the Payment Account before receipt of a Payment Order.
+
+(2)
+
+If the time of receipt of a Payment Order specified in the Framework Contract or the Single Payment Service Contract does not fall on a day, the Payment Order is deemed to have been received on the first day thereafter.
+
+(3)
+
+The Payment Service Provider may set a cut-off time towards the end of a day after which any Payment Order received will be deemed to have been received on the following day.

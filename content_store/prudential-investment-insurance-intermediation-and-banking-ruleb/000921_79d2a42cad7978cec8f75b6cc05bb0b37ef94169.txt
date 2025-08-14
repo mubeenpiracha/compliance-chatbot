@@ -1,0 +1,23 @@
+(ii)
+
+a notional long position with a maturity equal to the period remaining to the next interest rate reset date;
+
+(c)
+
+where the Authorised Person is receiving fixed rate interest and paying fixed rate interest:
+
+(i)
+
+a notional long position with a maturity equal to the length of the swap; and
+
+(ii)
+
+a notional short position with a maturity equal to the length of the swap.
+
+(d)
+
+where the Authorised Person is receiving floating rate interest and paying floating rate interest:
+
+(i)
+
+a notional long position with a maturity equal to the period remaining to the next interest date reset date; and

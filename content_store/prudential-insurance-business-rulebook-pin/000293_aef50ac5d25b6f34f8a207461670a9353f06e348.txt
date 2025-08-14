@@ -1,0 +1,19 @@
+A5.5 Hybrid non-cellular capital adjustment
+
+Guidance
+
+1.
+
+This section acts to limit hybrid non-cellular capital to 15% of an Insurer's adjusted non-cellular equity.
+
+2.
+
+The purpose of the hybrid non-cellular capital adjustment is to limit the extent to which an Insurer may rely for its Adjusted Non-Cellular Capital Resources on instruments that do not or may not constitute permanent capital of the Insurer. Such instruments include share capital contributed by a Holding Company, where the Holding Company's investment is financed by debt rather than by its own capital.
+
+97
+
+PIN VER07.290725
+
+A5.5.1 Subject to Rule A5.5.2, hybrid non-cellular capital includes the following items:
+
+(a)

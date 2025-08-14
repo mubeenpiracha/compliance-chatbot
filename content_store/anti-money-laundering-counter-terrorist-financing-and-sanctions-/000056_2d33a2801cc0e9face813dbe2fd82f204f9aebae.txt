@@ -1,0 +1,9 @@
+Guidance
+
+1.
+
+Rule 4.1.1 requires a Relevant Person to adopt an approach to AML which is proportionate to the risks. This is called the “risk-based approach” (“RBA”) and is illustrated in figure 1 above. The DFSA expects the RBA to be a key part of the Relevant Person’s money laundering compliance culture and to cascade down from the senior management to the rest of the organisation. Embedding the RBA within its business allows a Relevant Person to make decisions and allocate AML resources in the most efficient and effective way.
+
+2.
+
+In implementing the RBA, a Relevant Person is expected to have in place processes to identify and assess money laundering risks. After the risk assessment, the Relevant Person is expected to monitor, manage and mitigate the risks in a way that is proportionate to the Relevant Person’s exposure to those money laundering risks. The general principle is that where there are higher risks of money laundering, a Relevant Person is required to take enhanced measures to manage and mitigate those risks, and that, correspondingly, when the risks are lower, simplified measures are permitted.

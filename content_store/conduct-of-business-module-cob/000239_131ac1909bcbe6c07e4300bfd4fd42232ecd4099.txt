@@ -1,0 +1,55 @@
+In this Rule:
+
+(a)
+
+“major currency pair” means a pairing of any two of the following major currencies:
+
+(i)
+
+United States Dollar;
+
+(ii)
+
+Euro;
+
+(iii)
+
+Japanese Yen;
+
+(iv)
+
+Pound Sterling;
+
+(v)
+
+Swiss Franc;
+
+(vi)
+
+Canadian Dollar;
+
+(vii)
+
+Australian Dollar; or
+
+(viii) New Zealand Dollar;
+
+(b)
+
+“major equity index” means an index specified in the following table:
+
+68
+
+COB/VER48/03-25
+
+6.16.7
+
+CONDUCT OF BUSINESS (COB)
+
+Australia Austria Belgium Canada France Germany European
+
+Hong Kong Italy Japan Korea Netherlands Singapore Spain Sweden Switzerland UK US
+
+All Ordinaries Austrian Traded Index BEL 20 TSE 35, TSE 100, TSE 300 CAC 40, SBF 250 DAX Dow Jones Stoxx 50 Index, FTSE Eurotop 300, MSCI Euro Index Hang Seng MIB 30 Nikkei 225, Nikkei 300, TOPIX Kospi AEX Straits Times Index IBEX 35 OMX SMI FTSE 100, FTSE Mid 250, FTSE All Share S&P 500, Dow Jones NASDAQ Composite, Russell 2000
+
+Industrial Average,

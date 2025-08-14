@@ -1,0 +1,41 @@
+Tier 2 capital
+
+3.12.1
+
+Tier 2 Capital (referred to in these Rules as T2 Capital) constitutes the sum of the elements in Rule 3.12.2 subject to the deductions stipulated later in this Section.
+
+Guidance
+
+Tier 2 capital refers to "gone concern" capital which helps to ensure that depositors and senior creditors can be repaid if an Authorised Person fails. Tier 2 capital allows an Authorised Person to continue its activities and prevent insolvency of the Authorised Person.
+
+3.12.2
+
+T2 Capital consists of the sum of the following elements:
+
+(a)
+
+capital instruments which meet the eligibility criteria laid down in Rule 3.12.3; and
+
+(b)
+
+the Share premium accounts related to the instruments referred to in (a).
+
+81
+
+PRU VER17.290725
+
+3.12.3
+
+(1)
+
+For the purpose of Rule 3.12.2(a), a capital instrument or subordinated loan is eligible for inclusion in T2 Capital where all the following conditions are met:
+
+(a)
+
+the instruments are issued and fully paid-up;
+
+(b)
+
+the instruments are not purchased by any of the following:
+
+(i)

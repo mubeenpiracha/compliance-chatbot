@@ -1,0 +1,9 @@
+Independent price verification
+
+6.
+
+Independent price verification is distinct from daily mark-to-market. It is the process by which market prices or model inputs are regularly verified for accuracy. While daily marking-to-market may be performed by dealers, verification of market prices or model inputs should be performed by a unit independent of the dealing room, at least monthly (or, depending on the nature of the market/trading activity, more frequently). It need not be performed as frequently as daily mark-to-market, since the objective, i.e. independent, marking of positions should reveal any error or bias in pricing, which should result in the elimination of inaccurate daily marks.
+
+7.
+
+Independent price verification entails a higher standard of accuracy in that the market prices or model inputs are used to determine profit and loss figures, whereas daily marks are used primarily for management reporting in between reporting dates. For independent price verification, where pricing sources are more subjective, e.g. only one available broker quote, prudent measures such as valuation adjustments may be appropriate.

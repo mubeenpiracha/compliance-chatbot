@@ -1,0 +1,9 @@
+Guidance
+
+For the purposes of the above table, short-term Exposures refer to Exposures with an Original Maturity of three months or less and that are not expected to be rolled over.
+
+4.12.11 An Authorised Person must risk-weight any short-term CR Exposure in the bank asset class with an issue-specific external credit assessment in accordance with the following table.
+
+CRWs for short-term CR Exposures in the bank asset class with issue-specific external credit assessments
+
+Short-term Credit Quality Grade Risk Weight

@@ -1,0 +1,23 @@
+(ii)
+
+in the case of covered bonds: they must not be issued by the Authorised Person itself or any of its affiliated entities;
+
+404
+
+PRU VER17.290725
+
+(iii)
+
+the assets must have a Credit Quality Grade of 1, or if the assets do not have a credit assessment by an ECAI, they must be internally rated as having a probability of default (PD) corresponding to a Credit Quality Grade of 1;
+
+(iv)
+
+they must be traded in large, deep and active repo or cash markets characterised by a low level of concentration; and
+
+(v)
+
+they must have a proven record as a reliable source of liquidity in the markets (repo or sale) even during stressed market conditions (i.e. maximum decline of price or increase in haircut over a 30-day period during a relevant period of significant liquidity stress not exceeding 10%); and
+
+(c)
+
+any other types of assets approved by the Regulator under Rule A10.2.9 as being eligible to be Level 2A HQLA.

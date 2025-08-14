@@ -1,0 +1,11 @@
+Guidance
+
+1.
+
+An Authorised Market Institution should undertake due diligence to ensure, in the case of any custodians or sub-custodians which are not regulated by the DFSA, that they are appropriately licensed and supervised for the activity of deposit taking or custody and depository services by a Financial Services Regulator in their home jurisdiction.
+
+2.
+
+In order to meet the requirements relating to sub-custody arrangements, an Authorised Market Institution should include clear provisions in the contract with its appointed custodians whether or not sub-custodians may be appointed and if so, the procedures for appointing the sub-custodians, in accordance with the requirements in Rule 5.10.3(b). There should also be contractual requirements for advance notification to the Authorised Market Institution of any changes to the sub-custodians.
+
+3.

@@ -1,0 +1,23 @@
+13.10 Venture Capital Funds
+
+Guidance
+
+See Rule 3.1.13 for the definition of a Venture Capital Fund.
+
+13.10.1 A Fund Manager must ensure that the investment vehicle used for a Venture
+
+Capital Fund is:
+
+(a)
+
+a Closed-ended legal structure; and
+
+(b) either an Investment Company or an Investment Partnership.
+
+13.10.2 (1)
+
+The requirement in Article 27(1)(e) of the Law does not apply to the Fund Manager of a Venture Capital Fund that is an Exempt Fund.
+
+(2)
+
+If the Fund Manager of a Venture Capital Fund referred to in (1) itself holds Fund Property, it must have in place effective arrangements which ensure that the Fund Property is not available to the creditors of the Fund Manager, or of any other Fund it manages, in the event of the Fund Manager’s insolvency.

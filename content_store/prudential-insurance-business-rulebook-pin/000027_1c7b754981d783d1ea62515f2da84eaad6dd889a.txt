@@ -1,0 +1,27 @@
+2.2.1 An Insurer's risk management systems must:
+
+(a)
+
+be appropriate to the size, mix of business and complexity of the Insurer's operations;
+
+(b)
+
+be based on an enterprise-wide risk management approach, which integrates risk management with the conduct of its business and operations;
+
+(c)
+
+address all material risks, both existing and potential risks, financial and non-financial, to which the Insurer is exposed or likely to be exposed;
+
+(d)
+
+describe the relationships between the Insurer's risk tolerance limits, its capital requirements, economic capital and the processes and methods for assuming, pricing, and monitoring risk; and
+
+(e)
+
+be supported by adequate risk management policies and procedures which explain the risks covered, the measurement approaches used, and the key assumptions made.
+
+2.2.2 The risk management systems maintained by an Insurer must include:
+
+(a)
+
+a clearly defined risk appetite statement which outlines the risk tolerance of the Authorised Person and is approved by its board;

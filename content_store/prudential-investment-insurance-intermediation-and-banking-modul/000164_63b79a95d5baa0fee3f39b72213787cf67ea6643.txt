@@ -1,0 +1,29 @@
+a CCyB Rate applies.
+
+Countercyclical Capital Buffer Requirement
+
+3.9A.2 An Authorised Firm must maintain a Countercyclical Capital Buffer of CET1 Capital
+
+that is calculated using the formula:
+
+CCyB = CCyB Rate x RWA
+
+where:
+
+48
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+(a)
+
+“CCyB” is the Countercyclical Capital Buffer that the Authorised Firm must maintain;
+
+(b)
+
+“CCyB Rate” is the weighted average of Countercyclical Capital Buffer Rates, calculated in accordance with Rule 3.9A.5, that apply in jurisdictions in which the Authorised Firm has Non-Financial Private Sector Credit Exposures; and
+
+(c)
+
+“RWA” is the value of the Authorised Firm’s Risk Weighted Assets.

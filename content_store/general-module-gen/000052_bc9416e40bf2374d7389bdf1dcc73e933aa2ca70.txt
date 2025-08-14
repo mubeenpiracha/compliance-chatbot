@@ -1,0 +1,7 @@
+Issuing Stored Value
+
+2. A particular service provided by an Authorised Firm may involve only one of the above activities e.g. Money Transmission, or a combination of activities e.g. issuing Stored Value, issuing Payment Instruments and operating a Payment Account.
+
+3. The DFSA does not consider that a Person issuing Stored Value would be providing Money Transmission, merely because Stored Value is used to transfer or withdraw funds. However, an issuer may be involved in other Money Services such as providing or operating a Payment Account by creating, for example, Payment Accounts in the name of one or more of its Users to execute Payment Transactions.
+
+4. The term “Payment Service” is used to describe all or any of the activities in Rule 2.6.1(1) other than providing currency exchange or issuing Stored Value.

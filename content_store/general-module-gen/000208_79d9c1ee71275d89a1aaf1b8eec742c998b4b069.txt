@@ -1,0 +1,9 @@
+Guidance
+
+1.
+
+Privacy Tokens and Privacy Devices are typically used for two main purposes: to facilitate anonymity and to prevent the tracing of transactions. Anonymity hides the identity of a holder of a Crypto Token or the identity of two parties to a transaction on the blockchain, while non-traceability makes it difficult or impossible for third parties to follow the trail of a series of transactions. The use of Privacy Tokens or Privacy Devices is prohibited as they can facilitate money laundering, market abuse, fraud or other financial crime.
+
+2.
+
+The definitions of Privacy Token and Privacy Device will apply to Crypto Tokens and devices that have features that are used or intended to be used for hiding, anonymising, obscuring or preventing the tracing of information, whether or not they are in fact used for that purpose. For example, some Crypto Tokens have features that can be turned on at the option of the user to hide or prevent the tracing of information. A Crypto Token that has such optional features, will be a Privacy Coin as defined and is prohibited from being used in the DIFC.

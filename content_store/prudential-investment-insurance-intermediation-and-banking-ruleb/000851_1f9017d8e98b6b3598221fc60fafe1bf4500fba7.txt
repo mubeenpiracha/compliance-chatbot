@@ -1,0 +1,13 @@
+Guidance
+
+1.
+
+If the Regulator is not provided with a calculation of KCCP, DFpref CM and DFCCP or if the Regulator is not able to confirm those calculations, the treatment set out in Rule A4.9.18 shall apply to the calculation made by the relevant Authorised Person to the default fund of a QCCP.
+
+2.
+
+KCCP should be calculated on a quarterly basis at a minimum, although the Regulator may require more frequent calculations in case of material changes (such as the QCCP clearing a new product). If the Authorised Person or Regulator performed the calculations, it should make available to any other Authorised Person which acts as a clearing member sufficient aggregate information about the composition of the exposures of the QCCP to clearing members and information provided to the Authorised Person for the purposes of the calculation of KCCP, DFpref CM and DFCCP.
+
+3.
+
+Such information should be provided a least on a quarterly basis. KCCP and KCMi should be recalculated at least quarterly, and should also be recalculated when there are material changes to the number or exposure of cleared transactions or material changes to the financial resources of the QCCP.

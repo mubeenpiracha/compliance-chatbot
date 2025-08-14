@@ -1,0 +1,43 @@
+Credit Quality Grade
+
+Credit Rating Agency
+
+Credit Risk
+
+Credit Risk Capital Requirement
+
+Credit-Enhancing Interest-Only Strip
+
+Credit Valuation Adjustment
+
+CRM
+
+CRW
+
+CV
+
+CVA
+
+CVA Risk Capital Requirement
+
+Dealing in Investments as Agent
+
+Dealing in Investments as Principal
+
+Debenture
+
+guarantee, trade project finance or asset finance.
+
+finance,
+
+transaction
+
+finance,
+
+A credit quality step in a credit quality assessment scale. A credit quality assessment scale is a scale to which the credit assessments of an ECAI are mapped.
+
+A Person carrying on in or from ADGM the Regulated Activity of Operating a Credit Rating Agency for which it has an authorisation under its Financial Services Permission.
+
+Means, in relation to an Authorised Person, the risk of loss if another party fails to perform on its financial obligation to the Authorised Person.
+
+The credit risk capital requirement calculated in accordance with Section 4.6.

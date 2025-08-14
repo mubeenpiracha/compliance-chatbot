@@ -1,0 +1,15 @@
+Credit Quality Grade
+
+Means a credit quality step in a credit quality assessment scale. A credit quality assessment scale is a scale to which the credit assessments of an ECAI are mapped.
+
+Credit Rating
+
+Has the meaning given in COBS Rule 9.1.2(b).
+
+Credit Rating Agency
+
+Means a Person carrying on in or from ADGM the Regulated Activity of Operating a Credit Rating Agency for which it has an authorisation under its Financial Services Permission.
+
+Credit Risk
+
+Means, in relation to an Authorised Person, the risk of loss if another party fails to perform on its financial obligation to the Authorised Person.

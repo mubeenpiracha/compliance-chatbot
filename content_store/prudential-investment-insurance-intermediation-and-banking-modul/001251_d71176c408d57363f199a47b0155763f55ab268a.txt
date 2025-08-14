@@ -1,0 +1,21 @@
+403
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+4.
+
+Derivative liabilities are to be calculated first based on the replacement cost for derivative contracts (obtained by marking to market) where the contract has a negative value. When an eligible bilateral netting contract is in place that meets the conditions specified in the instructional guidelines for Form B300 set out in PRU Section 1.48, the replacement cost for the set of derivative exposures covered by the contract will be the net replacement cost.
+
+5.
+
+In calculating NSFR derivative liabilities, collateral posted in the form of variation margin in connection with derivative contracts, regardless of the asset type, must be deducted from the negative replacement cost amount.
+
+6.
+
+Carrying value is the amount at which a liability or equity instrument is recorded before the application of any regulatory deductions, filters or other adjustments.
+
+7.
+
+Regulatory capital consists of the sum of:

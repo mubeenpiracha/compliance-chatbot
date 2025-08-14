@@ -1,0 +1,27 @@
+exchange rate risk; and
+
+(h)
+
+the borrowings of the Fund do not, at any time, exceed 10% of the net asset value of the Fund Property.
+
+(3)
+
+In (2):
+
+(a)
+
+the “net asset value” of Fund Property, means the value of Fund Property at the most recent valuation under Rule 8.4.1;
+
+111
+
+CIR/VER38/08-24
+
+COLLECTIVE INVESTMENT RULES (CIR)
+
+(b)
+
+the “weighted average maturity” of Fund Property, means the average length of time to maturity of all the Financial Instruments held as Fund Property, weighted to reflect the relative holdings in each Financial Instrument, where the maturity of a floating rate instrument is the time remaining until the next interest rate reset; and
+
+(c)
+
+the “weighted average life” of Fund Property, means the weighted average of the remaining life of each Financial Instrument held as Fund Property, where the remaining life of a Financial Instrument is the time until the due date for repayment of the principal.

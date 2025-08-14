@@ -1,0 +1,43 @@
+Term
+
+Definition
+
+MCR
+
+Insurer’s Minimum Capital Requirement;
+
+DRC
+
+Insurer’s default risk component;
+
+IVRC
+
+Insurer’s investment volatility risk component;
+
+OARC
+
+Insurer’s off-balance sheet asset risk component;
+
+OLRC
+
+Insurer’s off-balance sheet liability risk component;
+
+CRC
+
+Insurer’s concentration risk component;
+
+SFAC
+
+Insurer’s size factor adjustment component;
+
+URC
+
+Insurer’s underwriting risk component;
+
+RRC
+
+Insurer’s reserving risk component;
+
+LIRC
+
+Insurer’s Long-Term Insurance risk component; and

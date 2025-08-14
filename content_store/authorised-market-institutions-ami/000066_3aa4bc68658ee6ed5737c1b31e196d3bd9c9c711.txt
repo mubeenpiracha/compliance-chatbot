@@ -1,0 +1,17 @@
+Conflicts of interests
+
+Without limiting the generality of the obligations under section 5.2 of GEN, an Authorised Market Institution must take all reasonable steps to ensure that any conflicts of interest, including those:
+
+(a)
+
+between itself and its shareholders, Members or other users of its facilities; and
+
+(b)
+
+between its Members and other users of its facilities, and, among themselves,
+
+are promptly identified and then prevented or managed, or disclosed, in a manner that does not adversely affect the sound functioning and operation of the Authorised Market Institution.
+
+Without limiting the generality of the requirement in Rule 5.4.1, an Authorised Market Institution must establish and maintain adequate policies and procedures to ensure that its Employees do not undertake personal account transactions in Investments or Crypto Tokens in a manner that creates or has the potential to create conflicts of interest.
+
+An Authorised Market Institution must establish a code of conduct that sets out the expected standards of behaviour for its Employees, including clear procedures for addressing conflicts of interest. Such a code must be:

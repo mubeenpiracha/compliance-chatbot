@@ -1,0 +1,11 @@
+Guidance
+
+For debt issues and Securities which are issued in a similar manner, working day 0 is the later of the date on which the Securities are allotted and the date on which payment for them is due. For equity issues and Securities which are issued in a similar manner, working day 0 is the later of the date on which the offer becomes closed for subscriptions and the date on which the allocations are made public. For rights issues, working day 0 is the first day after the date on which the offer becomes closed to acceptances for subscription.
+
+Calculating the reduced net Underwriting position
+
+A6.8.10 To calculate the reduced net Underwriting position an Authorised Person must apply the reduction factors in the table below to the net Underwriting position calculated under Rule A6.8.6 as follows:
+
+(a)
+
+in respect of debt Securities, an Authorised Person must calculate two reduced net Underwriting positions; one for inclusion in the Authorised Person's interest rate Specific Risk calculation, the other for inclusion in its interest rate General Market Risk calculation; and

@@ -1,0 +1,3 @@
+Guidance
+
+Rule 3.5.6 operates to prohibit reinsurance between Long Term Insurance Funds of the same Insurer, as well as arrangements of the nature of internal contracts of reinsurance where the cession transaction is attributed to a Long-Term Insurance Fund but the corresponding reinsurance acceptance transaction is not.

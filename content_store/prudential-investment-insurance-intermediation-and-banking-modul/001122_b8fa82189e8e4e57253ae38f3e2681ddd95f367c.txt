@@ -1,0 +1,13 @@
+e.
+
+it captures name-related basis risk and should in particular be sensitive to material idiosyncratic differences between similar, but not identical, positions; and
+
+f.
+
+it captures event risk.
+
+Exclusions from Specific Risk models
+
+22. An Authorised Firm may choose to exclude from the calculation of its Specific Risk Capital Requirement using an internal model those positions for which it fulfils a Capital Requirement for Specific Risk in accordance with relevant sections of chapter 5.
+
+23. An Authorised Firm may choose not to capture default and migration risks for debt instruments in its internal model where it is capturing those risks through internal models for incremental default and migration risk.

@@ -1,0 +1,21 @@
+in accordance with
+
+this Rule,
+
+4.14.38 An Authorised Firm wishing to apply the treatment referred to in Rule 4.14.37 must notify the DFSA, in writing, at least 30 days in advance, of the intention to adopt this treatment. The notification should include the treatments being adopted and the weightings applied under the provision.
+
+4.14.39 The resulting weighted average risk weight must not be higher than 1000% or lower
+
+than the risk weight applicable to a more senior tranche which is rated.
+
+4.14.40 An Authorised Firm must have systems and controls in place to monitor effectively the composition of Exposures where the look-through provision has been applied on an ongoing basis.
+
+151
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+Exposures that are in a second loss position or better of an ABCP
+
+4.14.41 An Authorised Firm may apply a risk weight of 100% or the highest risk weight assigned to any of the underlying Exposures in the ABCP Programme, whichever is higher, to an unrated securitisation Exposure arising from the ABCP Programme, provided the securitisation position complies with the following conditions:

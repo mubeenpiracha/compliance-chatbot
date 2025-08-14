@@ -1,0 +1,53 @@
+the net position (short or long) in gold, regardless of sign.
+
+A6.4.5
+
+The Foreign Exchange Risk Capital Charge is 8% of the overall net open position.
+
+Guidance
+
+1.
+
+An example of how to calculate the overall net open position is as follows:
+
+YEN
+
+EURO
+
+GBP
+
+Saudi Riyal
+
+$
+
+Gold
+
++50
+
++100
+
++150
+
+20
+
+180
+
+35
+
+TOTAL +300
+
+TOTAL -200
+
+TOTAL 35
+
+2.
+
+The Foreign Exchange Risk Capital Charge would be 8% of the absolute value of the greater of either the net long currency positions or the net short currency positions (i.e. 300 in this example) plus the net position in gold (35) = 335 x 8%=26.8.
+
+3.
+
+Forward currency and gold positions will normally be valued at current spot market exchange rates. Using forward exchange rates would be inappropriate since it would result in the measured positions reflecting to some extent current interest rate differentials. However, an Authorised Person which bases its normal management accounting on net present values is expected to use the net present values of each position, discounted using current interest rates and valued at current spot rates, for measuring its forward currency and gold positions.
+
+353
+
+PRU VER17.290725

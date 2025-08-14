@@ -1,0 +1,17 @@
+53
+
+GEN/VER67/03-25
+
+GENERAL (GEN)
+
+5.
+
+A Person who is permitted to make a Financial Promotion in the DIFC pursuant to these Rules should ensure that in making such a Financial Promotion he does not breach the Financial Services Prohibition in Article 41 of the Regulatory Law.
+
+6.
+
+Depending on the nature and scale of the activities, if a Person makes Financial Promotions on a regular basis or for a prolonged period while physically located in the DIFC, for example by way of a booth, meetings or conferences, the DFSA may consider such activities as constituting the carrying on of a Financial Service, such as Operating a Representative Office. The DFSA considers that in the context of Financial Promotions, “a regular basis” would be anything more than occasional and "a prolonged period" would usually be anything more than five consecutive days.
+
+7.
+
+GEN Chapter 3A (Crypto Token requirements) contains several prohibitions that apply to making or approving Financial Promotions relating to particular Crypto Tokens. This includes Financial Promotions relating to Crypto Tokens that are not Recognised Crypto Tokens, Algorithmic Tokens and Privacy Tokens and Devices.

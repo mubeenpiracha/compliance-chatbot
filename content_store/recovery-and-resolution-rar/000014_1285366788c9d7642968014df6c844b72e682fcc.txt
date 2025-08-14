@@ -1,0 +1,13 @@
+An Authorised Firm shall ensure that the Recovery Plan processes and implementation are integrated, and aligned, with its overall governance structure, processes and internal risk management frameworks, such as its early warning indicators.
+
+(1) An Authorised Firm shall ensure that it has in place appropriate
+
+5
+
+RAR/VER1/04-20
+
+RECOVERY AND RESOLUTION (RAR)
+
+contingency arrangements, which will enable it to continue to operate if it implements Recovery Measures set out in the Recovery Plan.
+
+(2) The contingency arrangements under (1) shall include processes relating to IT, access to financial market infrastructure such as clearing and settlement facilities, and the continuation of supplier and employee contracts.

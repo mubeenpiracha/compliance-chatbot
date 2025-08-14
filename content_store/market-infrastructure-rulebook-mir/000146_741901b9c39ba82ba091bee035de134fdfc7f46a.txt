@@ -1,0 +1,19 @@
+(d)
+
+For the purposes of meeting the requirements in Rule 3.9.1(c)(ii), a Recognised Investment Exchange must include in its Business Rules, or its Business Rule procedures, contract design specifications relating to Derivative contracts traded on its market which, at a minimum, include:
+
+minimum price fluctuations (price ticks);
+
+maximum price fluctuations (daily price limits), if any;
+
+last trading day;
+
+settlement or delivery procedures as applicable;
+
+49
+
+MIR VER10.290725
+
+trading months;
+
+position limits, if any;

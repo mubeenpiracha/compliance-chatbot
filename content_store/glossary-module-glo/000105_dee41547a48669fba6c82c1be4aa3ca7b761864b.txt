@@ -1,0 +1,21 @@
+The Markets module of the Rulebook.
+
+Any form of money, including cheques and other payable orders.
+
+(1)
+
+For the purposes of AMI, the Key Individual function described in AMI Rule 5.3.8.
+
+(2)
+
+For the purposes of an Authorised Firm other than a Credit Rating Agency, the Licensed Function described in GEN Rule 7.4.8.
+
+(3)
+
+For all other purposes, has the meaning in AML Rule 3.2.1.
+
+Has the meaning given in CIR Rule 3.1.11.
+
+The services referred to in GEN Rule 2.6.1
+
+A report referred to in GEN Rule 8.6.1(f).

@@ -1,0 +1,11 @@
+(e) margin-trading limits, stop-loss limits, or other systems and controls designed to mitigate or limit loss exposures may not be effective or may fail. Where relevant, an explanation of stop-loss orders, which must include clear information about whether or not a stop-loss is “guaranteed” (i.e. it would operate whatever the market circumstances are), and that in the case that it is not guaranteed, it may not limit Retail Client losses in the event of highly volatile trading conditions in an underlying asset or reference price;
+
+(f)
+
+the risk of slippage, i.e. a divergence between the price at which a trade was approved and the price at which it was executed; and
+
+(g) most Retail Clients transacting in OTC Leveraged Products lose money.
+
+23.4.4. The risk disclosure statement must include a prominent display of performance data for
+
+each relevant OTC Leveraged Product that clearly identifies the percentage of active Retail Client accounts that were profitable. For the purposes of this disclosure:

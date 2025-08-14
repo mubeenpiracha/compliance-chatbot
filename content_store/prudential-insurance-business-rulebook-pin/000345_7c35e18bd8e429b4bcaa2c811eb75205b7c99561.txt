@@ -1,0 +1,7 @@
+Investment volatility risk component
+
+Guidance
+
+The purpose of the investment volatility risk component is to require an Insurer to set aside capital to cover the risk of deterioration in the values of Invested Assets. The basic calculation model for this component, as it applies to Insurers that are not Cell Companies, is set out in Rule A4.5. The provisions in this section apply the relevant provisions of Rule A4.5 to each Long-Term Insurance Fund that an Insurer maintains.
+
+A8.5.1 An Insurer must calculate the investment volatility risk component in respect of a Long-Term Insurance Fund as the sum of the amounts obtained by multiplying the value of each Invested Asset attributable to the fund with the relevant percentage, in accordance with the table set out in Rule A4.5.1, but subject to the provisions of Rule A4.5.2.

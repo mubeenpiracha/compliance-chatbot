@@ -1,0 +1,25 @@
+A5.2.14 [Not currently in use]
+
+General Market Risk
+
+A5.2.15 (1)
+
+An Authorised Firm must calculate its General Market Risk on a currency by currency basis, irrespective of where the individual instruments are physically traded or listed. The calculations for each currency must then be added together to determine the amount of the Authorised Firm’s General Market Risk requirement.
+
+(2)
+
+An Authorised Firm must calculate its General Market Risk requirement
+
+for each currency by applying either:
+
+(a)
+
+the simplified framework set out in Rule A5.2.16;
+
+(b)
+
+the Maturity Method set out in Rule A5.2.17; or
+
+(c) with the consent of the DFSA, the Duration Method set out in Rule
+
+A5.2.19.

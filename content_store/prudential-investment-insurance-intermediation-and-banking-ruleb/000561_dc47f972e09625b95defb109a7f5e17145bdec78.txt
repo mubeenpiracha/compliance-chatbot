@@ -1,0 +1,23 @@
+Non-Trading Book interest rate risk policy
+
+7.4.1
+
+(1)
+
+An Authorised Person must implement and maintain a policy which enables it to identify, assess, control and monitor its Non-Trading Book interest rate risk.
+
+(2)
+
+The policy must be documented and include an appropriate interest rate risk strategy as well as an enterprise-wide interest rate risk management framework appropriate to the nature, scale and complexity of its Non-Trading Book activities. The strategy and management framework must:
+
+(a)
+
+enable the Governing Body and senior management of the Authorised Person to have an enterprise-wide view of interest rate risk as it applies to non-trading activities;
+
+(b)
+
+include a system for identifying and assessing Non-Trading Book interest rate risk and its sources;
+
+(c)
+
+include a process for the measurement and monitoring of Non- Trading Book interest rate risk, using robust and consistent methods which enable the Authorised Person to implement the requirements set out in Rules 7.2.1 to 7.2.6; and

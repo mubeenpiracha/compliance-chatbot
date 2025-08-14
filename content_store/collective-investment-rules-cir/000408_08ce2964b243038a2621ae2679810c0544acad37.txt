@@ -1,0 +1,27 @@
+Guidance
+
+See also the Guidance under Rule 13.9.6 for types of ETFs, including synthetic ETFs, funded and unfunded, and the definitions of iNAV in GLO.
+
+Disclosure relating to ETF’s cost structure
+
+A Fund Manager of an Exchange Traded Fund (ETF) must include in its Prospectus sufficient information to enable investors to clearly understand:
+
+(a)
+
+the ETF’s cost structure, covering:
+
+(i)
+
+any performance fees of the Fund Manager, if applicable;
+
+(ii)
+
+its operational costs; and
+
+(iii)
+
+if applicable, costs of underlying transactions (such as swaps, brokerage commissions and additional costs associated with leverage or use of collateral, and the rebalancing of the portfolio costs); and
+
+(b)
+
+any revenue derived by the Fund Manager through the use of the ETF’s portfolio assets, and how that revenue is distributed between the ETF and the Fund Manager.

@@ -1,0 +1,21 @@
+22.7.3 For the purposes of Rules 22.7.1 and 22.7.2, the following references in COBS, Chapter
+
+8 should be read as follows:
+
+(a)
+
+references to “Investment” or “Investments” shall be read as references to “Spot Commodity” or “Spot Commodities”, and
+
+174
+
+COBS VER19.290725
+
+(b)
+
+references to “Financial Instrument” or “Financial Instruments” (including those in MIR as incorporated by virtue of COBS Rule 8.2.1) shall be read as references to “Accepted Spot Commodity” or “Accepted Spot Commodities” as applicable.
+
+22.7.4 An Authorised Person that is Operating a Recognised Investment Exchange, Multilateral in relation to Accepted Spot
+
+Trading Facility or an Organised Trading Facility Commodities must comply with the following requirements set out in MIR, Chapter 5 -
+
+(a)

@@ -1,0 +1,27 @@
+Netting
+
+Guidance
+
+1.
+
+Before calculating the Equity Risk Capital Requirement, positions may be netted in order to produce the individual net position.
+
+2.
+
+Since the Netting of positions for Equity Risk Capital Requirement purposes does not involve legal or contractual issues, this material appears here rather than in the Netting section of the Credit Risk chapter.
+
+A5.3.19 (1)
+
+An Authorised Firm may only net equity positions when:
+
+(a)
+
+long and short (including notional) positions are in the same tranche of the same equity; and
+
+(b)
+
+long and short (including notional) positions are in different tranches of the same equity where the tranches enjoy the same rights in all respects and become fungible within one hundred and eighty days, and thereafter the equity of one tranche can be delivered in settlement of the equity of the other tranche.
+
+(2)
+
+For the purposes of (1)(a), an equity is the same as another, only if they enjoy the same rights in all respects and are fungible with each other.

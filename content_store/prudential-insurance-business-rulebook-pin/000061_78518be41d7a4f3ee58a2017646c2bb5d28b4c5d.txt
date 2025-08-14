@@ -1,0 +1,21 @@
+4.4 Minimum Capital Requirement for Insurers that are Cell Companies
+
+4.4.1 This section applies only to Insurers that are Cell Companies.
+
+4.4.2 An Insurer that is a Cell Company must ensure that the Insurer has at all times Adjusted NonCellular Capital Resources equal to or higher than the amount of the Minimum NonCellular Capital Requirement.
+
+4.4.3 An Insurer that is a Cell Company must ensure that at all times, in respect of each of its Cells, the Insurer has Adjusted Cellular Capital Resources equal to or higher than the amount of the Minimum Cellular Capital Requirement in respect of that Cell.
+
+4.4.4 The Adjusted Non-Cellular Capital Resources in respect of an Insurer that is a Cell
+
+Company must be calculated in accordance with APP5.
+
+4.4.5 The Minimum Non-Cellular Capital Requirement in respect of an Insurer that is a Cell
+
+Company must be calculated in accordance with APP6.
+
+13
+
+PIN VER07.290725
+
+4.4.6 The Adjusted Cellular Capital Resources in respect of a Cell must be calculated in

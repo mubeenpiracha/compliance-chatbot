@@ -1,0 +1,13 @@
+9.
+
+The wholesale funding included in the LCR should consist of all funding that is callable within the LCR’s period of 30 days or that has its earliest possible contractual maturity date within this period (such as maturing term deposits and unsecured debt securities), as well as funding with an undetermined maturity. This should include all funding with options that are exercisable at the investor’s discretion within the 30-day period.
+
+10. Wholesale funding that is callable by the funds provider subject to a contractually defined and binding notice period longer than the 30-day period should not be included.
+
+396
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+11. Unsecured wholesale funding provided by small and medium-sized enterprise customers should be treated as deposits from individuals where:

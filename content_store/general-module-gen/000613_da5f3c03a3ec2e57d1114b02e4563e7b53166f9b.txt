@@ -1,0 +1,9 @@
+8.
+
+An Investment Token will therefore, depending on the nature of the rights and obligations it confers, fall into one or more existing categories of Security or Derivative. The differentiating feature between a conventional Security or Derivative, on the one hand, and an Investment Token on the other, is that the latter confers rights on holders that are issued, stored and transferred using cryptography and DLT.
+
+9.
+
+An Investment Token which confers rights and obligations that are substantially similar in nature to those conferred by one or more Securities, or has a substantially similar purpose or effect to one or more Securities, is defined as a Security Token. An Investment Token which confers rights and obligations that are substantially similar in nature to those conferred by one or more Derivatives, or has a substantially similar purpose or effect to one or more Derivatives, is defined as a Derivative Token.
+
+10.

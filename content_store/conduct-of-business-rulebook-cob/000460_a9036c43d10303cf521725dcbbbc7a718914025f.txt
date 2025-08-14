@@ -1,0 +1,21 @@
+Need for Governing Contract
+
+20.2.1 Third Party Providers must establish a Governing Contract between themselves and their
+
+Customers before providing Third Party Services.
+
+General information
+
+20.2.2 Unless otherwise agreed in writing between a Third Party Provider and their Customer, the Governing Contract between the Third Party Provider and their Customers must contain the following information –
+
+(a)
+
+about the Third Party Provider:
+
+(i)
+
+the name of the Third Party Provider;
+
+(ii)
+
+the address and contact details of the Third Party Provider’s office in ADGM;

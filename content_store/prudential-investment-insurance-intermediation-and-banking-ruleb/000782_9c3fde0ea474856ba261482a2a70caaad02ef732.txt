@@ -1,0 +1,13 @@
+where -
+
+"H" refers to the haircut;
+
+"HM" refers to the haircut under the minimum holding period;
+
+"TM" refers to the minimum holding period for the type of transaction or eligible financial Collateral; and
+
+"NR" refers to the actual number of business days between remargining or revaluation, as the case may be.
+
+A4.3.26 When an Authorised Person uses a holding period, TN, which is different from the specified minimum holding period, TM, the Authorised Person must calculate HM using the following formula:
+
+HM = HN√(TM/TN)

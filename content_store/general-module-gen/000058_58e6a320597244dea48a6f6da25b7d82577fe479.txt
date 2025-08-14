@@ -1,0 +1,11 @@
+Guidance
+
+1. Rule 2.6.4 is intended to exclude monetary value issued by a merchant that is accepted only by the merchant itself (i.e. a ‘closed loop’ system). Examples of services that will be excluded under this Rule include cards that can be used only to pay for goods purchased from a specific store or chain of stores or that can be used only to pay for a particular service (such as a taxi or other transport service) or to pay for goods or services offered by a specific club or organisation. However, if a card is more generally accepted, and can be used with other third parties, it will not fall within the exclusion.
+
+2. Where monetary value on a card or wallet can be used for a combination of purposes, all of that monetary value is likely to constitute Stored Value unless the issuer can demonstrate that there is a clear separation between amounts that can be used only for the issuer’s goods and services and amounts that can be used for mixed purposes.
+
+15
+
+GEN/VER67/03-25
+
+GENERAL (GEN)

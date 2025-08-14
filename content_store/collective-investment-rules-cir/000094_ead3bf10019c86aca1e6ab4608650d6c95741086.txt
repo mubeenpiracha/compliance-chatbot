@@ -1,0 +1,27 @@
+Restrictions on an External Fund investing in Crypto Tokens
+
+(1) A Fund Manager must not manage an External Fund that invests in Crypto
+
+Tokens unless:
+
+27
+
+CIR/VER38/08-24
+
+COLLECTIVE INVESTMENT RULES (CIR)
+
+(a)
+
+the investment in Crypto Tokens is limited to Recognised Crypto Tokens and does not exceed 20% of the gross asset value of the External Fund; and
+
+(b)
+
+the External Fund:
+
+(i)
+
+has its Units offered to Persons only by way of a Private Placement;
+
+(ii)
+
+has its Units offered to Persons only who meet the criteria to be classified as Professional Clients; and

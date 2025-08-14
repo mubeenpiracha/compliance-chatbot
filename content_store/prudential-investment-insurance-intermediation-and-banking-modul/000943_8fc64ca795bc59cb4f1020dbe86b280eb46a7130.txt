@@ -1,0 +1,5 @@
+the Authorised Firm is able to access performance information on the underlying Exposures on an on-going basis in a timely manner. Such information may include, as appropriate, Exposure type, percentage of loans 30, 60 and 90 days past due, default rates, prepayment rates, loans in foreclosure, property type, occupancy, average credit score or other measures of creditworthiness, average loan-to-value ratio, and industry and geographic diversification. For Re-securitisations, the Authorised Firm should have information not only on the underlying securitisation tranches, such as the Issuers’ names and credit quality, but also on the characteristics and performance of the pools underlying the securitisation tranches; and
+
+(i)
+
+the Authorised Firm has a thorough understanding of all structural features of a securitisation transaction that would materially impact the performance of the transaction, such as the contractual waterfall and waterfall-related triggers, Credit Enhancements, liquidity enhancements, market value triggers, and deal- specific definitions of default.

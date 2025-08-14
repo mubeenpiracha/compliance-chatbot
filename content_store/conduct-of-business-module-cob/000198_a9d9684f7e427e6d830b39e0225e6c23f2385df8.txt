@@ -1,0 +1,21 @@
+5.
+
+The Client Asset provisions apply only to a limited extent to an Authorised Firm that Arranges Custody, as such a firm does not hold or control Client Assets (see Rule 6.11.2(3)).
+
+6.
+
+If an Authorised Firm is Providing Money Services, the Client Asset provisions apply to funds or other assets it receives from a User (i.e. a payer or payee), or that are for the benefit of a User.
+
+General requirements
+
+(1)
+
+An Authorised Firm which holds or controls Client Money must comply with sections 6.12 and 6.14.
+
+(2)
+
+An Authorised Firm which holds or controls Client Investments or Client Crypto Tokens or Provides Custody must comply with sections 6.13 and 6.14.
+
+(3)
+
+An Authorised Firm which Arranges Custody must comply with the requirements in Rule A6.5.1A (on suitability of non-DIFC custodians) and A6.7.1(1) (on disclosure) in APP 6 and in section 6.14 (Record keeping).

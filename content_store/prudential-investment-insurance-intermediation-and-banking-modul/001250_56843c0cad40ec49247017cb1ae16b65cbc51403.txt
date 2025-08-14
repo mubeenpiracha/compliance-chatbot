@@ -1,0 +1,7 @@
+b.
+
+funding type and counterparty – it is assumed that short-term deposits or PSIAus (i.e. maturing in less than one year) provided by retail customers and funding provided by small business customers are behaviourally more stable than wholesale funding of the same maturity from other counterparties.
+
+3.
+
+For ASF purposes, when determining the maturity of an equity or liability instrument, investors are assumed to redeem a call option at the earliest possible date. For funding with options exercisable at the firm’s discretion, the DFSA will take into account reputational factors that may limit the firm’s ability not to exercise the option. In particular, where the market expects certain liabilities to be redeemed before their legal final maturity date, the firm should assume such behaviour for the purpose of the NSFR Requirement and include these liabilities in the corresponding ASF Category. For long-dated liabilities, only the portion of cash flows falling at or beyond the six-month and one-year time horizons should be treated as having an effective residual maturity of six months or more and one year or more, respectively.

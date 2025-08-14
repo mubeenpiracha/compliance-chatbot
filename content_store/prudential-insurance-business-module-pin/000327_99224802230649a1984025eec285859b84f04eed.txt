@@ -1,0 +1,13 @@
+96
+
+PIN/VER18/04-23
+
+PRUDENTIAL – INSURANCE BUSINESS (PIN)
+
+Guidance
+
+1.
+
+The effect of Rule A6.3.3 is to extend the flexibility given by A6.3.2 to cover situations where one segment of an Insurer uses another segment of the same Insurer as a specialist investment entity.
+
+2. Where Rule A6.3.3 is applied, the Insurer still needs to calculate the Minimum Segmental Capital Requirement for the specialist investment segment, in respect of the Invested Assets which the specialist investment segment owns. Two segments would therefore be required to hold capital in respect of those Invested Assets.

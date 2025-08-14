@@ -1,0 +1,11 @@
+Risk measurement
+
+29. An Authorised Firm should measure its Credit Risk using a robust and consistent methodology, which should be described in its Credit Risk policy. The Authorised Firm should consider whether the measurement methodology should be back-tested and the frequency of any such back-testing.
+
+30. An Authorised Firm should also be able to measure its total Exposure across the entire credit portfolio or within particular categories such as Exposures to particular industries, economic sectors or geographical areas.
+
+31. Where an Authorised Firm is a member of a Group, the Group should be able to monitor credit Exposures on a consolidated basis.
+
+32. An Authorised Firm should have the capability to measure its credit Exposure to individual Counterparties on at least a daily basis.
+
+33. Authorised Firms should analyse their credit portfolios to identify material inter-dependencies which can exaggerate risk concentrations. The importance can be illustrated by the contagion effects that a substantial decline in property or stock prices may have on the default rate of those commercial and industrial loans which rely heavily on such types of Collateral.

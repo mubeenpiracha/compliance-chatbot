@@ -1,0 +1,29 @@
+Guidance
+
+An internal hedge is a position that materially or completely offsets the component risk element of a Non-Trading Book position or a set of positions.
+
+Transfer of General Market Risk between the Trading Book and the Non- Trading Book
+
+Guidance
+
+1.
+
+General Market Risk arising from the Trading Book may hedge Non-Trading Book positions without reference to specific Financial Instruments.
+
+2.
+
+An Authorised Firm may achieve the transfer of General Market Risk between the Trading Book and Non-Trading Book by entering into a notional legal agreement between the Trading Book and Non-Trading Book as if they were third parties.
+
+A2.1.13 An Authorised Firm must ensure that:
+
+(a)
+
+a transfer of General Market Risk between its Trading Book and Non- Trading Book is subject to appropriate documentation and evidenced by a clear audit trail;
+
+(b)
+
+positions held in its Non-Trading Book that are being hedged by General Market Risk arising from positions in the Trading Book remain in the Non- Trading Book; and
+
+(c)
+
+the General Market Risk Exposure associated with the positions in the Non- Trading Book is incorporated into the calculation of General Market Risk in the Trading Book.

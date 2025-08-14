@@ -1,0 +1,13 @@
+Example 1
+
+18.
+
+A Token holder, A, has a right to receive a share of profits or revenue of Company B (a legal entity), to be distributed annually. A can also vote on matters relating to the
+
+202
+
+GEN/VER67/03-25
+
+GENERAL (GEN)
+
+governance and business direction of Company B. These rights are proportionate to the share of the capital represented by the Token held by A. A can also transfer the Token to another person, who will have the same rights as A by being the holder of that Token. This is a Security Token that confers rights and obligations that are substantially similar in nature to those conferred by a Share and will be considered to be a Share.

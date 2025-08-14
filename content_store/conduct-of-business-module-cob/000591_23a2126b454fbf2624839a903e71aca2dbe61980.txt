@@ -1,0 +1,13 @@
+(ii)
+
+investors should take care in relying on information in the white paper as it may be inaccurate or out of date.
+
+Guidance
+
+1.
+
+A ‘white paper’ is a concept paper prepared by the developers of a Crypto Token. It sets out the idea for, and the overall value proposition of, the Crypto Token. It also commonly outlines a development roadmap for the Crypto Token and the key milestones the developers expect to meet.
+
+2.
+
+An Authorised Firm is not required to publish or make available a white paper for a Crypto Token; however, if it decides to do so it must ensure that the requirements in Rule 15.5.2 are met.

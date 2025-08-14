@@ -1,0 +1,37 @@
+(2)
+
+An Authorised Person meeting in Rule A4.10.1 must hold regulatory capital against any securitisation Exposures it retains.
+
+the
+
+requirements
+
+specified
+
+Requirements in order for a Synthetic Securitisation to be excluded from the calculation of RWA
+
+4.14.18
+
+(1)
+
+An Authorised Person which is an Originator or a Sponsor of a Synthetic Securitisation may recognise the effects of CRM of the Synthetic Securitisation in calculating its SE Exposure RWAs, only if:
+
+156
+
+PRU VER17.290725
+
+(a)
+
+all of the conditions detailed in Rule A4.10.2 have been complied with;
+
+(b)
+
+the effects of CRM are obtained through eligible credit protection, eligible financial Collateral or both; and
+
+(c)
+
+Credit Risk is transferred to third parties.
+
+(2)
+
+In relation to (b), the CRM techniques used must meet the requirements of Section 4.13.

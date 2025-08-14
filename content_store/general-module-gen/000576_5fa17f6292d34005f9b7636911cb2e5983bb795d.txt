@@ -1,0 +1,11 @@
+Guidance
+
+1.
+
+A Fiat Crypto Token (also called a ‘Fiat stablecoin’) is a Crypto Token the value of which purports to be determined by reference to a fiat currency. Typically, the stablecoin purports to be backed by financial assets. The use of financial assets to back the Crypto Token is intended to stabilise its price or reduce volatility in its price.
+
+2.
+
+An alternative mechanism for stabilising the price of a Crypto Token is the use of an algorithm, which increases or decreases the supply of the Crypto Token in response to changes in demand for the Crypto Token. GEN Rule 3A.2.3 prohibits the use of such a Token in the DIFC i.e. a Crypto Token which uses, or purports to use, an algorithm to stabilise its price. This is because of concerns about the lack of transparency relating to the functioning of such algorithms and also concerns about whether they are able to function effectively.
+
+3.

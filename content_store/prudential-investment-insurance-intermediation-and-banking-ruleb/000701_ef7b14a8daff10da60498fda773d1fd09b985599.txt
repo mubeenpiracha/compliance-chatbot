@@ -1,0 +1,13 @@
+volume
+
+Sum of the following elements, based on monthly payment volume:
+
+Sum of the following elements, based on combined monthly payment volume across both activities: (i) 2.5% of the first 10 million; (ii) 1.0% of the next 90 million; (iii) 0.5% of the next 150 million; and (iv) 0.25% of remaining monthly payment
+
+Payment Account Provider
+
+n/a
+
+(i) 2.5% of the first 10 million; (ii) 1.0% of the next 90 million; (iii) 0.5% of the next 150 million; and (iv) 0.25% of remaining monthly payment
+
+volume

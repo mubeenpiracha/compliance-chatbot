@@ -1,0 +1,5 @@
+Information made available under Rule 15.3.2(2)(f) should include details about the value and composition of the reserves backing the Fiat Crypto Token, where and how the reserves are held, whether a recent audit has been undertaken of the reserves and the results of the audit and how the redemption mechanism works.
+
+Forums
+
+15.3.3 If an MTF Operator provides a means of communication (a “forum”) for users to

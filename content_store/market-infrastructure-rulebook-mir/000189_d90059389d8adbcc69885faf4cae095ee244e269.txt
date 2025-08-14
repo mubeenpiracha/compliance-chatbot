@@ -1,0 +1,23 @@
+A Recognised Clearing House must:
+
+(a)
+
+undertake the analysis referred to in Rule 4.7.16(b) at least on a two-monthly basis, unless more frequent analysis is warranted because the Investments cleared or markets served display high volatility, become less liquid, or when the size or concentration of positions held by its participants increase significantly;
+
+(b)
+
+consider carrying out daily stress testing to measure and monitor its risk exposures, especially if its operations are complex or widely spread over multiple jurisdictions; and
+
+(c)
+
+perform a full validation of its risk-management models at least annually.
+
+4.7.18
+
+A Recognised Clearing House must establish explicit Clearing Rules, Default Rules and procedures that address fully any credit losses it may face as a result of any individual or combined default among its Members and other participants with
+
+64
+
+MIR VER10.290725
+
+respect to any of their obligations to the Recognised Clearing House. Such Clearing Rules, Default Rules and procedures should:

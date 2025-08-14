@@ -1,0 +1,15 @@
+Regular review of systems and controls
+
+9.5.2
+
+(1)
+
+An ATS Operator must undertake regular review and updates of its systems and controls as appropriate to the nature, scale and complexity of its operations.
+
+(2)
+
+For the purposes of (1), an ATS Operator must adopt well defined and clearly documented development and testing methodologies which are in line with internationally accepted testing standards.
+
+Guidance
+
+Through the use of such testing methodologies, the ATS Operator should be able to ensure, amongst other things, that:

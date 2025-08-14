@@ -1,0 +1,13 @@
+Deposits (including Eligible Deposits); or
+
+(b)
+
+payment and delivery obligations owed to payment and securities settlement systems, Central Securities Depositories, clearing houses, Recognised Clearing Houses or central banks.
+
+When exercising this power, the Regulator shall have regard to the impact the exercise of the power might have on the orderly functioning of financial markets.
+
+Power to restrict enforcement of security interests
+
+The Regulator shall have the power to restrict secured creditors of an Institution in Resolution from enforcing security interests in relation to any assets of that Institution from the time notice is given, under section 24(3), of that restriction (as an action the Regulator intends to take) until midnight in the ADGM at the end of the second business day following that notice.
+
+The Regulator shall not exercise the power under this section in relation to any security interest of payment and securities settlement systems, Central Securities Depositories, clearing houses, Recognised Clearing Houses or central banks over assets pledged or otherwise provided by way of margin or collateral by the Institution in Resolution.

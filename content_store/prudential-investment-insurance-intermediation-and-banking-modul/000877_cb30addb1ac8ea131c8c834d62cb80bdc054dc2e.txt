@@ -1,0 +1,19 @@
+where:
+
+C =
+
+the current mark-to-market value of the net Collateral held, excluding Collateral posted by the Authorised Firm in a bankruptcy remote manner
+
+t =
+
+the holding period applicable to the Collateral
+
+H(t) =
+
+the haircut appropriate to the Collateral using a holding period of ‘t’, determined in accordance with Rule A4.3.5
+
+(4)
+
+If a single Margin Agreement applies to multiple Netting Sets, an Authorised Firm must calculate RC using the following formula:
+
+RC = max{ ∑ 𝑚𝑎𝑥{𝑉𝑁𝑆;0} − max{𝐶𝑀𝐴;0};0

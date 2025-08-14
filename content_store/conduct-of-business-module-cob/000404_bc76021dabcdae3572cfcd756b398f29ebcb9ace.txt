@@ -1,0 +1,17 @@
+a.
+
+arrangements for pre and post trade transparency taking into account the nature and liquidity of the Investments or Crypto Tokens traded; and
+
+b.
+
+the need to provide anonymity for trading participants.
+
+3.
+
+An ATS Operator will also have appropriate procedures allowing it to influence trading conditions, suspend trading promptly when required, and to support or encourage liquidity when necessary to maintain an orderly market. The DFSA will consider the transparency of such procedures and the fairness of their application and potential application.
+
+4.
+
+An ATS Operator that is Operating a Facility for Investment Tokens or Crypto Tokens should, where relevant, ensure measures under Rule 9.6.9(1) include effective measures to identify, deter and prevent Market Abuse by Persons permitted to access and update records held on any DLT or similar technology based application used in connection with the operation of its facility.
+
+9.6.10 (1)

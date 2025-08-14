@@ -1,0 +1,23 @@
+A8.6 Off-balance sheet asset risk component
+
+Guidance
+
+The purpose of the off-balance sheet asset risk component is to require an Insurer to set aside capital to cover the risk of default and deterioration in value in respect of exposures that the Insurer has because it is a party to a derivative contract. The provisions in this section apply the relevant provisions of Rule A4.6 to each Long-Term Insurance Fund that an Insurer maintains.
+
+116
+
+PIN VER07.290725
+
+A8.6.1 An Insurer is required to calculate an off-balance sheet asset risk component in respect of a Long-Term Insurance Fund, if the Insurer is, as at the Solvency Reference Date, a party to a derivative contract attributable to that fund, including a forward, future, swap, option or other similar contract, but not including:
+
+(a)
+
+a put option serving as a guarantee;
+
+(b)
+
+a foreign exchange contract having an original maturity of fourteen days or less; or
+
+(c)
+
+an instrument traded on a futures or options exchange, which is subject to daily mark-to-market and margin payments.

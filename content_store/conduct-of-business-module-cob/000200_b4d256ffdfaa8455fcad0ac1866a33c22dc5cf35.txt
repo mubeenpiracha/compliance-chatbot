@@ -1,0 +1,27 @@
+(c)
+
+ensure that all Transactions entered into using such a mandate are recorded and are within the scope of the authority of the Employee and the Authorised Firm entering into such Transactions.
+
+Guidance
+
+Authorised Firms are reminded that they must ensure that their auditor produces a Client Money Auditor’s Report, a Safe Custody Auditor’s Report and a Money Services Auditor’s Report, as applicable, in accordance with GEN 8.6.
+
+Holding or controlling client assets
+
+6.11.4 Client Assets are held or controlled by an Authorised Firm if they are:
+
+(a)
+
+directly held by the Authorised Firm;
+
+(b)
+
+held in an account in the name of the Authorised Firm;
+
+(c)
+
+held by a Person, or in an account in the name of a Person, controlled by the Authorised Firm; or
+
+(d)
+
+held in the Client’s own name, but the Authorised Firm has a mandate from the Client to manage those assets on a discretionary basis.

@@ -1,0 +1,15 @@
+a.
+
+appropriately apply a risk-weight to all on-balance sheet assets and off-balance sheet exposures for capital adequacy purposes. A risk-weight is based on a Credit Quality Grade aligned with the likelihood of counterparty default;
+
+b.
+
+calculate the Credit Risk Capital Requirement for its on-balance sheet assets and off- balance sheet exposures; and
+
+c.
+
+reduce the Credit Risk Capital Requirement for its on-balance sheet assets and off- balance sheet exposures where the exposure is covered fully or partly by some form of eligible Credit Risk mitigant.
+
+4.
+
+Appendix 4 provides detailed requirements, parameters, calculation methodologies and formulae in respect of the primary requirements outlined in chapter 4.

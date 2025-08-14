@@ -1,0 +1,21 @@
+Exclusions from the Large Exposure limits
+
+4.15.8
+
+(1)
+
+For the purposes of this section, Exposure excludes:
+
+(a)
+
+claims and other assets required to be deducted for the purposes of calculating an Authorised Firm's Tier 1 Capital;
+
+(b) a transaction entered into by an Authorised Firm as depository or as agent that does not create any legal liability on the part of the Authorised Firm;
+
+(c)
+
+claims resulting from foreign exchange transactions where an Authorised Firm has paid its side of the transaction and the countervalue remains unsettled during the 2 business days following the due payment or due delivery date. After 2 business days the claim becomes an Exposure;
+
+(d)
+
+claims arising as a result of money transmission, payment services, clearing and settlement, correspondent banking or financial instruments clearing, settlement and custody services to clients, delayed receipts in funding and other Exposures arising from client activity which do not last longer than the following business day;

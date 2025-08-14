@@ -1,0 +1,41 @@
+FCCA
+
+Financial Collateral Comprehensive Approach as described in Rule 4.9.5.
+
+FCSA
+
+Financial Collateral Simplified Approach as described in Rule 4.9.5.
+
+Fiat-Referenced Token Has the meaning given in section 258 of FSMR.
+
+Financial Group
+
+A group of entities which includes an Authorised Person and:
+
+(a)
+
+any Parent incorporated in ADGM;
+
+20
+
+PRU VER17.290725
+
+Financial Group Capital Resources
+
+Financial Institution
+
+Financial Instrument
+
+Financial Product
+
+Financial Services Permission
+
+First Loss Position
+
+(b)
+
+any Financial Institution subsidiaries (whether direct or indirect) of the Parent or Parents in (a) or of the Authorised Person;
+
+(c)
+
+any Financial Institution in which the Parent or Parents in (a), the Financial the Institution subsidiaries Authorised Person (whether direct or indirect) hold 20% or more of the voting rights or capital; and

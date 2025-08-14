@@ -1,0 +1,13 @@
+Weighted average of the Countercyclical Capital Buffer rates
+
+3.18.6
+
+The weighted average of the Countercyclical Capital Buffer rates shall be calculated by:
+
+(a)
+
+for each jurisdiction in which the Authorised Person has private sector credit exposures, dividing the Total Risk Exposure Amount that relates to the private sector credit exposures in that jurisdiction by the Total Risk Exposure Amount that relates to the Authorised Person's private sector credit exposures across all jurisdictions and multiplying it by the applicable Countercyclical Capital Buffer rate in that jurisdiction; and
+
+(b)
+
+summing those contributions across all jurisdictions.

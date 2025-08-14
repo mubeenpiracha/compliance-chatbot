@@ -1,0 +1,29 @@
+A6.9 Reconciliation
+
+A6.9.1 An Authorised Firm must:
+
+(a)
+
+at least every 25 business days, reconcile its records of Client Money and Safe Custody Investment Client Accounts held with Third Party Agents with monthly statements received from those Third Party Agents;
+
+(b)
+
+reconcile daily its records of Safe Custody Crypto Token Client Accounts held with Third Party Agents with statements received from those Third Party Agents;
+
+(c)
+
+at least every six months, count all Safe Custody Investments physically held by the Authorised Firm, or its Nominee Company, and reconcile the result of that count to the records of the Authorised Firm;
+
+221
+
+COB/VER48/03-25
+
+CONDUCT OF BUSINESS (COB)
+
+(d)
+
+count daily all Safe Custody Crypto Tokens held by the Authorised Firm, or its Nominee Company, and reconcile the result of that count with the records of the Authorised Firm;
+
+(e)
+
+at least every six months, reconcile individual Client ledger balances with the Authorised Firm’s records of Safe Custody Investment balances held in Client Accounts; and

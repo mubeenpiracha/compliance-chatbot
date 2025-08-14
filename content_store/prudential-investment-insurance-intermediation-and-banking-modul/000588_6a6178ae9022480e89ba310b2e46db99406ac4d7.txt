@@ -1,0 +1,23 @@
+something inherent to the User (“inherence”).
+
+Strong customer authentication and User security measures
+
+6.13.3
+
+(1) An Authorised Firm must, except as provided in Rule 6.13.4, apply strong
+
+customer authentication where a User:
+
+187
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+(a) accesses a Payment Account online, either directly or through an Account
+
+Information Service;
+
+(b) initiates an electronic Payment Transaction; or
+
+(c) carries out any action through a remote channel which may imply a risk of

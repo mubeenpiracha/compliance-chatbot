@@ -1,0 +1,19 @@
+11.
+
+A Relevant Person should also have arrangements to guard against establishing a business relationship with business partners who permit their accounts to be used by Shell Banks; further details on the definition of Shell Banks are set out in Guidance 2 to Rule 10.2.2.
+
+9.3
+
+Outsourcing and agents
+
+9.3.1 A Relevant Person which outsources any one or more elements of its CDD to a service provider (including those within its Group) remains responsible for compliance with, and liable for any failure to meet, such obligations.
+
+Confidential
+
+66
+
+AML VER10.020125
+
+9.3.1A Prior to appointing a service provider to undertake CDD, a Relevant Person must undertake an initial assurance assessment to evaluate the suitability of the service provider and must ensure that the service provider's obligations are clearly documented in a binding agreement.
+
+9.3.1B After engaging a service provider the Relevant Person must undertake periodic assurance assessments to ensure that the services provided meet the obligations recorded in the binding agreement and allow it to meet all the requirements that it is subject to.

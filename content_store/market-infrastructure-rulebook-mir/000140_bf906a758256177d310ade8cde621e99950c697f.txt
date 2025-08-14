@@ -1,0 +1,31 @@
+3.7.3
+
+In respect of arrangements pertaining to public disclosure in Rule 3.7.1:
+
+(a)
+
+For the purposes of Rule 3.7.1(b), information is made public, if it:
+
+is accessible by automated electronic means in a machine-readable way;
+
+utilises technology that facilitates consolidation of the data and permits commercially viable usage; and
+
+is accompanied by instructions outlining how users can access the information.
+
+(b)
+
+For the purposes of Rule 3.7.3(a)(i), an arrangement fulfils the 'machine- readable' criteria where the data:
+
+is in a physical form that is designed to be read by a computer;
+
+is in a location on a computer storage device where that location is known in advance by the party wishing to access the data; and
+
+is in a format that is known in advance by the party wishing to access the data.
+
+(c)
+
+Publication on a non-machine-readable website would not meet the requirements of Rule 3.7.1(a).
+
+3.7.4
+
+Information that is made public should conform to a consistent and structured format based on industry standards. Recognised Investment Exchanges can choose the structure that they use.

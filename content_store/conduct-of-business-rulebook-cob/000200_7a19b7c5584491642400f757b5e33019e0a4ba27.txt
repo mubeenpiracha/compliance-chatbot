@@ -1,0 +1,25 @@
+9.4 Monitoring and Updating
+
+9.4.1 A Credit Rating Agency must ensure that adequate personnel and financial resources are allocated to monitoring and updating its ratings. Except for ratings that clearly indicate
+
+64
+
+COBS VER19.290725
+
+they do not entail ongoing surveillance, once a rating is published the Credit Rating Agency must monitor on an ongoing basis and update the rating by:
+
+(a)
+
+regularly reviewing the issuer's creditworthiness;
+
+(b)
+
+initiating a review of the status of the rating upon becoming aware of any information that might reasonably be expected to result in a rating action (including termination of a rating), consistent with the applicable rating methodology; and
+
+(c)
+
+updating on a timely basis the rating, as appropriate, based on the results of such review.
+
+Subsequent monitoring must incorporate all cumulative experience obtained. Changes in ratings criteria and assumptions must be applied where appropriate to both initial ratings and subsequent ratings.
+
+9.4.2

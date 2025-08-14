@@ -1,0 +1,9 @@
+Rule 5.6.7(e)(iii) requires an Insurer to take into account bonuses not yet allocated in determining the liability for capital adequacy purposes. In essence, this Rule prevents an Insurer from counting as capital any surplus on participating contracts that is expected, under the terms of the contracts concerned, to accrue to the policyholders in the future. Therefore, although attribution of surplus on participating contracts is discretionary, the Insurer must make a reasonable estimate, taking into account the perceived and reasonable expectations of policyholders. Assumptions made in reaching this estimate (for example, on future investment income) should be consistent with those made for other purposes of the valuation. However, the recognition of future bonuses or other forms of participation in this liability does not affect the determination of surplus
+
+22
+
+PIN VER07.290725
+
+for other purposes, such as allocation of bonuses of surplus prior to allocation of those bonuses.
+
+4.

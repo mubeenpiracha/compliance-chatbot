@@ -1,0 +1,21 @@
+Sold (short protection)
+
+CDO tranches
+
+δi =
+
+15 (1 + 14 ∙ A𝑖) ∙ (1 + 14 ∙ D𝑖)
+
+δi = −
+
+15 (1 + 14 ∙ A𝑖) ∙ (1 + 14 ∙ D𝑖)
+
+where:
+
+Aj =
+
+the attachment point of the tranche or (n – l)/m for a nth-to-default transaction on a pool of ‘m’ reference names for transaction ‘i’
+
+Dj =
+
+the detachment point of the tranche or n/m for a nth-to-default transaction on a pool of ‘m’ reference names for transaction ‘i’

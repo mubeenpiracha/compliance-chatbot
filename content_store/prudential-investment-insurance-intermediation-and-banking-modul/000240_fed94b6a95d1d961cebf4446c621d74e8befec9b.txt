@@ -1,0 +1,23 @@
+Deductions relating to holdings of own T2 Capital instruments
+
+3.15.5 For the purposes of Rule 3.15.4(a), an Authorised Firm must calculate holdings of its own T2 Capital instruments on the basis of the gross long positions subject to the following exceptions:
+
+(a)
+
+an Authorised Firm may calculate the amount of holdings in the Trading Book on the basis of the net long position provided the long and short positions are in the same underlying Exposure and the short positions involve no Counterparty Risk;
+
+(b)
+
+an Authorised Firm must determine the amount to be deducted for indirect holdings in the Trading Book of own T2 Capital instruments that take the
+
+74
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+form of holdings of index Securities by calculating the underlying Exposure to own T2 Capital instruments in the indices; and
+
+(c)
+
+an Authorised Firm may net gross long positions in own T2 Capital instruments in the Trading Book resulting from holdings of index Securities against short positions in own T2 instruments resulting from short positions in the underlying indices, including where those short positions involve Counterparty Risk.

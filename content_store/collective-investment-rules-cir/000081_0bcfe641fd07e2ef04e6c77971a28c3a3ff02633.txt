@@ -1,0 +1,15 @@
+Guidance
+
+Section 8.12 of this module governs the delegation of activities by a Fund Manager or where appointed the Trustee.
+
+(1)
+
+A Fund Administrator of a Foreign Fund for which it is Providing Fund Administration must have a service level agreement with the fund manager of that Foreign Fund setting out the functions and service standards that will be applied to the provision of such administration.
+
+(2)
+
+The agreement in (1) must ensure that the Fund Administrator cannot in turn delegate the activities and functions delegated to it by the fund manager of the Foreign Fund unless the sub-delegate has been approved by that fund manager.
+
+(3)
+
+The agreement in (1) must also require the Fund Administrator to retain any relevant work or records relating to the delegated activities and functions where the contract is terminated either by the fund manager or the Fund Administrator.

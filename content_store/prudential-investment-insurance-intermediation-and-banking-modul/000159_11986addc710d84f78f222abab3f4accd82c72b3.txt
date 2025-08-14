@@ -1,0 +1,23 @@
+3.8B Transaction Based Capital Requirement
+
+3.8B.1 This section applies to an Authorised Firm that is a Payment Service Provider.
+
+Calculation of Transaction Based Capital Requirement
+
+3.8B.2 (1) An Authorised Firm must calculate its Transaction Based Capital Requirement
+
+as the sum of the following elements multiplied by the scaling factor:
+
+(a)
+
+4% of the first $5 million of payment volume;
+
+(b)
+
+2.5% of the next $5 million of payment volume;
+
+(c)
+
+1% of the next $90 million of payment volume;
+
+(d)

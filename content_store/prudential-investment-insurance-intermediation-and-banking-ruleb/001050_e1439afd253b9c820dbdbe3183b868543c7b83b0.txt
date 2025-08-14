@@ -1,0 +1,15 @@
+12.
+
+For positions that are hedged via dynamic hedging strategies, a rebalancing of the hedge within the liquidity horizon of the hedged position may be recognised, provided that the Authorised Person:
+
+a.
+
+chooses to model rebalancing of the hedge consistently over the relevant set of Trading Book positions;
+
+b.
+
+demonstrates that the inclusion of rebalancing results in a better risk measurement; and
+
+c.
+
+demonstrates that the markets for the instruments serving as hedges are liquid enough to allow for such rebalancing even during periods of stress. Any residual risks resulting from dynamic hedging strategies must be reflected in the Capital Requirement.

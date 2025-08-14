@@ -1,0 +1,19 @@
+Grey market transactions
+
+A5.8.5 (1)
+
+An Authorised Firm that buys and sells Securities before issue is dealing in the grey market for the purposes of this section.
+
+(2)
+
+The other Rules in section A5.8 do not apply to an Authorised Firm with respect to its dealings in the grey market unless the Authorised Firm:
+
+(a) has an Underwriting commitment to the Issuer in respect of those
+
+Securities; or
+
+(b) has a sub-underwriting commitment in respect of those Securities and is using the grey market solely for the purpose of reducing that sub- underwriting commitment.
+
+(3)
+
+The other Rules in section A5.8 do not apply to an Authorised Firm with respect to its dealings in the grey market if the transaction is undertaken by the proprietary trading part of the Authorised Firm or is undertaken for proprietary trading purposes.

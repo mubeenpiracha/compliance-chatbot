@@ -1,0 +1,33 @@
+the risk assessment of the customer undertaken under Rule 7.1.1(1)(a); and
+
+(d)
+
+the determination made under Rule 7.1.1(1)(b).
+
+4.5.4 The records maintained by a Relevant Person must be kept in such a manner that:
+
+(a)
+
+the Regulator or another competent third party is able to assess the Relevant Person's compliance with legislation applicable in ADGM;
+
+(b)
+
+any Transaction which was processed by or through the Relevant Person on behalf of a customer or other third party can be reconstructed;
+
+(c)
+
+any customer or third party can be identified;
+
+Confidential
+
+24
+
+AML VER10.020125
+
+(d)
+
+all internal notifications of suspicious activity made to its MLRO under Rule 14.2.2, and all Suspicious Activity/Transaction Reports, can be identified; and
+
+(e)
+
+the Relevant Person can satisfy, within an appropriate time, any regulatory enquiry or court order to disclose information.

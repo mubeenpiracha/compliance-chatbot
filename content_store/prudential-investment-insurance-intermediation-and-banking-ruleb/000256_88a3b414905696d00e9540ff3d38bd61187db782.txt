@@ -1,0 +1,43 @@
+Guidance
+
+An example of the calculation of the Countercyclical Capital Buffer follows, for an Authorised Person with private sector credit exposures in countries A, B and C of 60, 25 and 15 respectively, and where the applicable Countercyclical Capital Buffer rates are 2.0%, 1.0% and 1.5% respectively.
+
+Rule(s)
+
+A
+
+B
+
+C
+
+Total
+
+Countercyclical Capital Buffer rate - applicable
+
+3.18.8
+
+2.0%
+
+1.0%
+
+1.5%
+
+Private sector credit exposures
+
+3.18.5 and 3.18.7
+
+60
+
+25
+
+15
+
+100
+
+Countercyclical Capital Buffer rate - weighted
+
+3.18.6
+
+1.20%
+
+0.25% 0.225% 1.675%

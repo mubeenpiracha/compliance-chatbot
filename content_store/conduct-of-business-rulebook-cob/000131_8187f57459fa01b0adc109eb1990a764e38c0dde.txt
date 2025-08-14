@@ -1,0 +1,23 @@
+6.5.5 When determining best execution, an Authorised Person must consider the direct costs and indirect costs and the relevant order type and size, clearing and settlement arrangements and costs, margin costs, third-party Fees and timing of a Client's order and its settlement that could affect decisions on when, where and how to trade.
+
+6.6
+
+Non-market Price Transactions
+
+6.6.1 General Prohibition
+
+Except in relation to:
+
+(a)
+
+a non-market price Transaction subject to the Rules of a Recognised Investment Exchange or Remote Investment Exchange; or
+
+41
+
+COBS VER19.290725
+
+(b)
+
+Fund Investment Managers pursuing a strategy that involves the buying, selling or holding of securities that are not publicly listed or traded or readily saleable,
+
+an Authorised Person must not enter into a non-market price Transaction in any capacity, with or for a Client, unless it has taken reasonable steps to ensure that the Transaction is not being entered into by the Client for an improper purpose.

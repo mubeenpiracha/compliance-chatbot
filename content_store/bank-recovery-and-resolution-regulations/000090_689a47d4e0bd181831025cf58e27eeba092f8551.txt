@@ -1,0 +1,13 @@
+Restrictions on Other Proceedings
+
+Commencement of Insolvency Proceedings against an In-Scope Entity shall be taken only with notice to, and the consent of, the Regulator.
+
+For the purposes of subsection (1), the Court shall only consider an application to issue Insolvency Proceedings if the applicant has filed with the Court evidence of delivery of notice to the Regulator concerning the application to issue Insolvency Proceedings in relation to an In-Scope Entity, irrespective of whether the In-Scope Entity is under Resolution or a decision has been made public; and
+
+(a)
+
+the Regulator has notified the Court that it does not intend to take any Resolution Action in relation to the In-Scope Entity; or
+
+(b)
+
+a period of seven days, beginning from the date on which the notification required under subsection (1) was made, has expired, in which event the Regulator shall be deemed to have consented to the issuance of Insolvency Proceedings.

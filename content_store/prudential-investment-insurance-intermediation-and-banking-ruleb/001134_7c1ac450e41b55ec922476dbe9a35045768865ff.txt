@@ -1,0 +1,9 @@
+(b)
+
+the facility must be quantified.
+
+(2)
+
+A committed funding facility from a Parent entity referred to in (1) can be recognised as a cash inflow only from day 16 of the LCR scenario. The cash inflow from a Parent entity can be sufficient in size to cover only net cash outflows against items with a maturity or next call date between days 16 and 30 of the LCR.
+
+A10.2.18 The following table specifies, for each of the various categories and types of contractual receivables, the rates at which they are expected to flow in for the purpose of the calculation of the LCR.

@@ -1,0 +1,23 @@
+APP9 CALCULATION OF REQUIREMENT
+
+DIFC
+
+BUSINESS
+
+RISK
+
+CAPITAL
+
+A9.1 Purpose and general provisions
+
+A9.1.1 This appendix applies to all Insurers to which section 4.7 applies.
+
+Guidance
+
+1.
+
+This appendix sets out the manner in which an Insurer that is not a DIFC Incorporated Insurer is required to calculate its DIFC Business Risk Capital Requirement. The basis of calculation is analogous to the basis of calculation of elements of the Minimum Capital Requirement for Insurers that are not Protected Cell Companies, as set out in App4.
+
+2.
+
+The DIFC Business Risk Capital Requirement is calculated with reference to the insurance activities of the Insurer, carried out through its establishment in the DIFC, without deduction for reinsurances.

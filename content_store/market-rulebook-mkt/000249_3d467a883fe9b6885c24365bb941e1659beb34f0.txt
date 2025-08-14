@@ -1,0 +1,27 @@
+[Deleted]
+
+Selective Disclosure
+
+7.2.3
+
+(1)
+
+A Reporting Entity may selectively Disclose Inside Information to a Person prior to making a Disclosure of such information only if:
+
+(a)
+
+it is for the purposes of the exercise by such a Person of his employment, profession or duties;
+
+(b)
+
+that Person owes to the Reporting Entity a duty of confidentiality, whether based on law, contract or otherwise; and
+
+(c)
+
+the Reporting Entity has provided to that Person, except where that Person is the Regulator, a written notice as specified in (3).
+
+(2)
+
+For the purposes of (1)(a), the Persons whose exercise of employment, profession or duties may warrant selective Disclosure are as follows:
+
+(a)

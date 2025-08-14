@@ -1,0 +1,17 @@
+Guidance
+
+Section 8.12 of this module governs the power of a Trustee to delegate certain of its Financial Service activities, and to outsource its functions.
+
+Eligible Custodian
+
+8.2.4 For the purposes of the Rules in this module, except as provided in Rule 8.2.5 and 8.2.6, an Eligible Custodian is a Person who is a separate legal entity from the Fund Manager and who also meets one of the following criteria:
+
+(a)
+
+an Authorised Firm whose Licence authorises it to Provide Custody Services;
+
+(b)
+
+an Authorised Firm that is a Bank;
+
+(c)

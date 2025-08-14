@@ -1,0 +1,19 @@
+Guidance
+
+The effective notional for each currency pair, given by the above formula, is the sum of the trade-level adjusted notional amounts multiplied by the supervisory delta adjustments and the maturity factor.
+
+A4.6.49 The Authorised Person must calculate the hedging set level add-on in accordance with
+
+the following formula:
+
+(𝐹𝑋) = 𝑆𝐹𝑗
+
+𝐴𝑑𝑑𝑂𝑛𝐻𝑆𝑗
+
+(𝐹𝑋) ∗ |𝐸𝑓𝑓𝑒𝑐𝑡𝑖𝑣𝑒𝑁𝑜𝑡𝑖𝑜𝑛𝑎𝑙𝑗
+
+(𝐹𝑋)|
+
+A4.6.50 The Authorised Person must then aggregate the foreign exchange derivative add-on
+
+across hedging sets by simple summation, as follows:

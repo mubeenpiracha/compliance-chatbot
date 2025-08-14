@@ -1,0 +1,17 @@
+Maturity Mismatches
+
+4.13.14 An Authorised Person may recognise the effects of CRM for an Exposure where there is a Maturity Mismatch only if the Credit Risk mitigant has an Original Maturity of at least
+
+148
+
+PRU VER17.290725
+
+one year and a residual maturity of more than three months. For the purposes of calculating Credit RWA, a Maturity Mismatch occurs when the residual maturity of the Credit Risk mitigant is less than that of the underlying Exposure.
+
+4.13.15
+
+(1)
+
+An Authorised Person must determine the maturity of the underlying Exposure and the maturity of the Credit Risk mitigant conservatively. The residual maturity of the underlying Exposure must be gauged as the longest possible remaining time before the Counterparty is scheduled to fulfil its obligation, taking into account any applicable grace period.
+
+(2)

@@ -1,0 +1,13 @@
+2.
+
+In developing technical standards referred to in Rule 6.13.5(d) (procedures, systems and controls to ensure the reliability and continuity of the interface with the PAP) an Authorised Firm should:
+
+(a) contractually ensure that the interface applies best practice standards of communication
+
+issued by the Security Standards Council;
+
+(b) understand and document the interface technical specification such as the routines, protocols,
+
+and tools needed to interoperate with the systems of the PAP;
+
+(c) contractually require the PAP to provide the firm with at least 3 months' notice ahead of any

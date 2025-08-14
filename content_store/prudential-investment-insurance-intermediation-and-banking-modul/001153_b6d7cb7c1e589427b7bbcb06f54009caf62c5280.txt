@@ -1,0 +1,23 @@
+Bh
+
+the notional of a single-name hedge ‘h’ recognised as an Eligible CVA Hedge (for single-name contingent credit default swaps, the notional must be determined by the current market value of the reference portfolio or instrument)
+
+SN =
+
+Dh
+
+the supervisory discount factor for a single-name hedge, calculated as:
+
+371
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+SN 1 − e−0.05∙Mh 0.05 ∙ Mh
+
+SN
+
+RWh =
+
+the supervisory risk weight of a single-name hedge ‘h’ recognised as an Eligible CVA Hedge. Hedge ‘h’ must be mapped to one of the risk weights based on a combination of sector and credit quality of the reference credit spread of the hedging instrument in accordance with the table in Rule A5.10.6

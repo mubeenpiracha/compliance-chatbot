@@ -1,0 +1,19 @@
+3.9B HLA Capital Buffer
+
+Guidance
+
+Under section 1.4, the DFSA may designate an Authorised Firm as a systemically important bank (SIB). This section requires a SIB to maintain a further capital buffer, a higher loss absorbency capital buffer (HLA Capital Buffer), and sets out how the HLA Capital Buffer is calculated.
+
+3.9B.1 This section applies to an Authorised Firm in Category 1, 2 (other than a Matched
+
+Principal) or 5 that the DFSA has designated as a SIB.
+
+HLA Capital Buffer Requirement
+
+51
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+3.9B.2 A SIB must maintain an HLA Capital Buffer of CET1 Capital that is calculated using

@@ -1,0 +1,23 @@
+𝑃𝑎 = 𝑃 ∙
+
+𝑡 − 0.25 𝑇 − 0.25
+
+140
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+where
+
+P = value of the credit protection (e.g. Collateral amount, guarantee
+
+amount) adjusted for any haircuts
+
+t = min {T, residual maturity of the Credit Risk mitigant expressed in years}
+
+T = min {five years, residual maturity of the Exposure expressed in years}
+
+(2)
+
+For residual maturity of the Exposure in the case of a basket of Exposures with different maturities, an Authorised Firm must use the longest maturity of any of the Exposures as the maturity of all the Exposures being hedged.

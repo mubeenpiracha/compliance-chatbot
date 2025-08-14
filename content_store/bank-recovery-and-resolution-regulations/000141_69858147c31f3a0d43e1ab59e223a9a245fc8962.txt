@@ -1,0 +1,9 @@
+Derivatives
+
+The Regulator shall be entitled to exercise the Write Down or Conversion Power in relation to a liability arising from a Derivative Contract only when, upon or after closing-out that Derivative Contract, there is a net liability which is an Eligible Liability.
+
+The Regulator may terminate and close out any Derivative Contract upon an Institution's entry into Resolution for the purpose of realising an Eligible Liability that is to be subject to the Write Down or Conversion Power under subsection (1).
+
+Where an Eligible Liability under a Derivative Contract has been excluded from the application of the Bail-in Tool pursuant to section 49(8), the Regulator shall not be under any obligation to terminate or close out the Derivative Contract.
+
+Where a Derivative Contract is subject to a netting agreement, the value of the Eligible Liability for the purposes of the Pre-Resolution Valuation (or Provisional Valuation, if applicable) shall be determined on a net basis in accordance with the terms of the agreement.

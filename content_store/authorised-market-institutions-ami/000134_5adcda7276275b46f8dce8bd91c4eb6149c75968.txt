@@ -1,0 +1,23 @@
+a.
+
+the name of the relevant Investment and the price, quantity and date of the transaction, including the order audit trail (i.e. orders entered into the system and subsequently amended or cancelled);
+
+b.
+
+the order type, time of instruction and expiry date;
+
+c.
+
+the identities and, where appropriate, the roles of the counterparties to the transaction;
+
+d.
+
+the facilities on which the transaction was effected and is to be cleared and settled; and
+
+e.
+
+the date and manner of settlement of the transaction.
+
+3.
+
+In general, for an Authorised Market Institution Licensed to Operate a Clearing House, the type of information which should be recorded will include:

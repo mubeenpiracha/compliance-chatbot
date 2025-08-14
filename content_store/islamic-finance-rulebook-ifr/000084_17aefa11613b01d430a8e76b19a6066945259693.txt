@@ -1,0 +1,19 @@
+(iii)
+
+Table 2 contains Guidance on how an Authorised Person (whether acting as an Islamic Financial Institution or through an Islamic Window) Managing a PSIA, which is an Unrestricted PSIA should apply risk weightings for Islamic Contracts in respect of calculating relevant E and CRW for its PSIACOMcredit component of the PSIACOM.
+
+Table 2
+
+1. Islamic Contract type
+
+2. Underlying investment or asset
+
+3. CRW
+
+Binding Murabaha for the Purchase Orderer (MPO)
+
+Asset with an Authorised Person before purchase by the Counterparty
+
+Apply the appropriate percentage from the second column in the table in PRU Rule A4.6.5
+
+Accounts receivable for the contract, i.e. amounts due from the Counterparty less any provision for doubtful debts

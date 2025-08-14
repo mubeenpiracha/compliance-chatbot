@@ -1,0 +1,19 @@
+T2 Exclusion - Managing an unrestricted Profit Sharing Investment Account
+
+3.12.9
+
+An Authorised Person must exclude from T2 Capital any amount by which the total of the Profit Equalisation Reserve and the Investment Risk Reserve exceeds the Displaced Commercial Risk Capital Requirement calculated in accordance with the IFR rules.
+
+3.13
+
+Minority interests and instruments issued by Subsidiaries
+
+Minority interests that qualify for inclusion in consolidated CET1 Capital
+
+3.13.1 Minority interests must include the CET1 Capital instruments, plus the related retained earnings and Share premium accounts of a Subsidiary, only where all of the following conditions are met:
+
+(a)
+
+the Subsidiary is one of the following:
+
+(i)

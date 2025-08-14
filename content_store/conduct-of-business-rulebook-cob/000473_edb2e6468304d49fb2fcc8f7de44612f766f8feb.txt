@@ -1,0 +1,13 @@
+Common provisions: communication of information
+
+20.2.18 Any information provided or made available by a Third Party Provider in accordance with Section 20.2 must be provided or made available in English, using easily understandable language, and in a clear and comprehensible form.
+
+20.3
+
+Information requirements required after the initiation of a Third Party Transaction
+
+20.3.1 A Third Party Provider must provide or make available to the Customer, immediately after
+
+the initiation of a Third Party Transaction:
+
+(a)

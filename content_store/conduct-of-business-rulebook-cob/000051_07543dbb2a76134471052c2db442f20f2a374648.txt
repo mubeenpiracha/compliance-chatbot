@@ -1,0 +1,19 @@
+an Execution-Only Transaction;
+
+(c)
+
+the Regulated Activities of Accepting Deposits, Providing Credit, Operating a Private Financing Platform, Operating a Multilateral Trading Facility, Operating an Organised Trading Facility or Providing Custody;
+
+(d)
+
+an activity of the kind described in section 67 of Chapter 14 of Schedule 1 of FSMR that constitutes marketing.
+
+3.4.2 Suitability Assessment
+
+(a)
+
+Subject to Rule 3.4.2(b), an Authorised Person must not recommend to a Client a Specified Investment or the carrying on of a Regulated Activity where this involves provision of a service to a Client, or execute a Transaction on a discretionary basis for a Client, unless the Authorised Person has a reasonable basis for considering the recommendation or Transaction to be suitable for that particular Client. For this purpose, the Authorised Person must:
+
+(i)
+
+undertake an appropriate assessment of the particular Client's needs, objectives, and financial situation, and also, to the extent relevant, risk tolerance, knowledge, experience and understanding of the risks involved; and

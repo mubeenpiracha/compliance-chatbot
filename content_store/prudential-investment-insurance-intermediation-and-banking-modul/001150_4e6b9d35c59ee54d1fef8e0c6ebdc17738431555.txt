@@ -1,0 +1,43 @@
+DSBA−CVA · Kfull
+
+where:
+
+DSBA−CVA = 0.65, the discount scalar
+
+Kfull =
+
+β ∙ Kreduced + (1− β) ∙ Khedged
+
+where:
+
+β =
+
+0.25, the supervisory floor
+
+Kreduced = calculated in accordance with Rule A5.10.8
+
+A5.10.8 For the purposes of Rule A5.10.7, an Authorised Firm must calculate Kreduced, using
+
+the following formula:
+
+370
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+2
+
+Khedged = √(ρ ∙∑(SCVAC − SNHC) − IH )
+
++ (1 − ρ2) ∙∑(SCVAC − SNHC)2
+
++∑HMAC
+
+C
+
+C
+
+C
+
+where:

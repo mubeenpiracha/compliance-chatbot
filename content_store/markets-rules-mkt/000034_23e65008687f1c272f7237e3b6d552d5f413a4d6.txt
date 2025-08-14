@@ -1,0 +1,25 @@
+Guidance
+
+1.
+
+The terms “Applicant” and “Listed Entity” are defined in Rule 9.1.1(2).
+
+2.
+
+Rule 1.3.3 defines when an Applicant or Listed Entity is a SME. Under that Rule, such an Applicant or Listed Entity will be a SME unless the average aggregate market value of its listed shares exceeds $500 million for 90 consecutive days. If that occurs, it will cease to be a SME and will need to meet the same continuing obligations as any other Listed Entity.
+
+3.
+
+The DFSA may specify, for the purposes of the SME definition, the appropriate method to be used to calculate the aggregate market value of the Shares of an Applicant or a Listed Entity. A SME should have in place appropriate systems and controls to monitor the average aggregate market value of its listed Shares to determine if it ceases to be a SME under Rule
+
+6
+
+MKT/VER24/03-25
+
+1.4
+
+MARKETS RULES (MKT)
+
+1.3.3(3). If a Listed Entity ceases to be a SME it is required under Rule 4.6.1 and App2 to disclose that fact to the market.
+
+4.

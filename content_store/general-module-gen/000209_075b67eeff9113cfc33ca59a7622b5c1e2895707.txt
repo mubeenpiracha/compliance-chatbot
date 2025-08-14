@@ -1,0 +1,23 @@
+Use of Algorithmic Tokens prohibited
+
+3A.2.3 A Person must not in or from the DIFC:
+
+(a)
+
+carry on a Financial Service relating to an Algorithmic Token;
+
+(b)
+
+make or approve a Financial Promotion relating to an Algorithmic Token;
+
+(c)
+
+Offer to the Public an Algorithmic Token;
+
+(d)
+
+carry on an activity referred to in (a), (b) or (c) in relation to a Fund that invests in an Algorithmic Token; or
+
+(e)
+
+carry on an activity referred to in (a), (b) or (c) in respect of a Derivative or Instrument relating to a Algorithmic Token.

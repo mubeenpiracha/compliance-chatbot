@@ -1,0 +1,9 @@
+g.
+
+the potential need for the Authorised Firm to buy back debt or honour non-contractual obligations to mitigate reputational risk.
+
+A9.2.1 An Authorised Firm must calculate its LCR on an ongoing basis and separately for each significant currency. An Authorised Firm must report to the DFSA its aggregate LCR calculation in USD.
+
+Guidance
+
+A currency is considered significant if the aggregate liabilities denominated in that currency amount to 5% or more of the Authorised Firm’s total liabilities.

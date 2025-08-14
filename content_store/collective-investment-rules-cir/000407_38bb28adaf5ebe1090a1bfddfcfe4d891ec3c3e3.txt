@@ -1,0 +1,29 @@
+(ii)
+
+if not already disclosed, information relating to the counterparties to the Derivatives transactions, and where collateral is used, details relating to such collateral; and
+
+(iii) a description of the risks associated with counterparty default and use of any collateral, the impact of those risks on the ETF’s
+
+136
+
+CIR/VER38/08-24
+
+14.4.9
+
+14.4.10
+
+COLLECTIVE INVESTMENT RULES (CIR)
+
+performance and investor returns, and how such risks are to be mitigated;
+
+(j)
+
+to the extent an ETF is required to have a diversified portfolio, how the ETF proposes to achieve diversification of investments through its investment strategy;
+
+(k)
+
+if available, information about the past performance of the ETF, measured through its realised tracking difference and annual tracking error information, on the anticipated level of tracking error during normal market conditions, and how this will be effectively minimised; and
+
+(l)
+
+information about the ETF’s Authorised Participant and if it is also a market maker in the ETF Units in the relevant exchange, that fact.

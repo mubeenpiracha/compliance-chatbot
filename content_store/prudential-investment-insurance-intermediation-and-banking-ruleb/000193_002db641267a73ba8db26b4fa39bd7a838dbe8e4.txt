@@ -1,0 +1,31 @@
+deductions in accordance with the following:
+
+(a)
+
+the holdings in the Trading Book of the capital instruments of Relevant Entities must be calculated on the basis of the net long position in the same underlying Exposure provided the maturity of the short position matches the maturity of the long position or has a residual maturity of at least one year; and
+
+(b)
+
+the amount to be deducted for indirect holdings in the Trading Book of the capital instruments of Relevant Entities that take the form of holdings of index Securities must be determined by calculating the underlying Exposure to the capital instruments of the Relevant Entities in the indices.
+
+3.10.16
+
+(1)
+
+For the purposes of Rule 3.10.7(g), the amount to be deducted is calculated by multiplying the amount referred to in (a) by the factor derived from the calculation referred to in (b):
+
+72
+
+PRU VER17.290725
+
+(2)
+
+(3)
+
+3.10.17
+
+(1)
+
+(2)
+
+(a)

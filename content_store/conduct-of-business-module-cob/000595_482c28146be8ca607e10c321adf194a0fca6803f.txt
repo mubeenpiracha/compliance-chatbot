@@ -1,0 +1,29 @@
+15.6 General requirements relating to Crypto Tokens and Crypto Token
+
+Derivatives
+
+Interpretation
+
+15.6.1 In this section, “Margin” means the pre-agreed amount a Client in required to pay to
+
+open and maintain a position relating to a Crypto Token Derivative.
+
+Appropriateness Assessment
+
+15.6.2 (1)
+
+This Rule applies to an Authorised Firm that carries on any of the following Financial Services relating to Crypto Tokens:
+
+(a)
+
+Arranging Deals in Investments;
+
+(b)
+
+Dealing in Investments as Agent;
+
+(c)
+
+Dealing in Investments as Principal; or
+
+(d)

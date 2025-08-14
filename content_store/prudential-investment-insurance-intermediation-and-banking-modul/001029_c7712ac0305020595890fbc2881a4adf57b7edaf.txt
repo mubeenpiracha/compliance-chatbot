@@ -1,0 +1,23 @@
+converts, where:
+
+(a)
+
+the first date at which conversion can take place is less than three months ahead, or the next such date (where the first has passed) is less than a year ahead; and
+
+(b)
+
+the Convertible is trading at a premium of less than 10% to the underlying equity.
+
+A5.3.7 An Authorised Firm which treats a Convertible as an equity must make an adjustment
+
+to the capital component as follows:
+
+(a)
+
+an addition equal to any loss on conversion; or
+
+(b)
+
+a deduction equal to any profit on conversion (subject to a maximum reduction to zero).
+
+A5.3.8 An Authorised Firm must not calculate an Equity Risk Capital Requirement for a

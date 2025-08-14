@@ -1,0 +1,27 @@
+(iii)
+
+in the case of a Payment Account, the means of access to it and authentication of the transaction by the Payer.
+
+19.13.2 (1) Upon receipt of a request for a refund in accordance with Rule 19.13.1 the
+
+Payment Service Provider must either:
+
+(a)
+
+refund the full amount of the Payment Transaction; or
+
+(b)
+
+provide justification for refusing to refund the Payment Transaction, indicating the dispute settlement forum to which the Payer may refer the matter if the Payer does not accept the justification provided.
+
+(2) Any refund or justification for refusing a refund must be provided within ten days of receiving a request for a refund or, where applicable, within ten days of receiving any further information requested under Rule 19.13.1(2).
+
+(3)
+
+If the Payment Service Provider requires further information under Rule 19.13.1(2), it must not dismiss the request for a refund until it has received further information from the Payer.
+
+134
+
+COBS VER19.290725
+
+19.14

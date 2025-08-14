@@ -1,0 +1,15 @@
+(ii)
+
+comparing, for each day and for the sample of twenty Counterparties, the VaR estimate of the previous day for the Counterparty portfolio to the difference between the net value of the previous day's portfolio using today's market prices and the net value of that portfolio using the previous day's market prices; and
+
+(iii)
+
+counting it as an exception, where this difference exceeds the previous day's VaR estimate.
+
+Guidance
+
+An Authorised Person should adjust the minimum holding period upwards for any Financial Instrument where the specified holding period would be inappropriate given the liquidity of the instrument concerned. When the outcome of the model consistently results in a large number of exceptions, either overall or for one significant Counterparty, the Authorised Person is expected to review the model assumptions and make modifications as appropriate.
+
+A4.6
+
+Credit RWA - Unsettled Transactions, free deliveries, Derivatives and long settlement transactions

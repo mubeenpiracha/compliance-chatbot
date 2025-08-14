@@ -1,0 +1,9 @@
+Guidance
+
+Broadly based equity indices should not be broken down into their constituent stocks. A position related to a broadly based equity index does not generate an Exposure to any Issuer.
+
+A4.11.25 An Authorised Firm which receives cash on a repurchase agreement must treat the cash as if it is on its balance sheet and in accordance with sections 4.9 and 4.13. Any Collateral received against repurchase agreements or Securities and commodities borrowing must also be treated as a balance sheet item under sections 4.9 and 4.13.
+
+A4.11.26 An Authorised Firm must treat a reverse repurchase agreement or Securities and commodities lending in its Non-Trading Book as a collateralised loan and the Collateral it holds as an asset, provided that the Collateral is eligible financial Collateral as defined in Rule 4.13.5. If the Collateral is not such an eligible financial Collateral, the Authorised Firm must treat the transaction as an unsecured loan to the Counterparty.
+
+A4.11.27 An Authorised Firm with repurchase agreements and reverse repurchase agreements in

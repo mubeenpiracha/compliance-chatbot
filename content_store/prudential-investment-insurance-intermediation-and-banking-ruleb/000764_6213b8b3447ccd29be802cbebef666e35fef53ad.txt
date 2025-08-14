@@ -1,0 +1,41 @@
+where:
+
+E*
+
+=
+
+Exposure value after risk mitigation;
+
+E
+
+=
+
+fair value of the Exposure calculated Section 4.9 of these Rules;
+
+in accordance with
+
+C
+
+=
+
+fair value of eligible financial Collateral received; and
+
+add-on
+
+=
+
+the add-on amount to reflect the market price volatility and foreign exchange accordance with Rule A4.3.8 below.
+
+volatility,
+
+calculated
+
+in
+
+A4.3.8
+
+An Authorised Person must calculate the add-on using one of the following approaches:
+
+(a)
+
+the approach according to the following formula:

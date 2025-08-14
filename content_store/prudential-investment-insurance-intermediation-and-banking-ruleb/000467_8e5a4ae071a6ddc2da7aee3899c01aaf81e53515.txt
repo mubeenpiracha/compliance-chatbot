@@ -1,0 +1,31 @@
+(ii)
+
+include the uncollateralised portion as a deduction from CET1 Capital.
+
+Guidance
+
+Collateral in the context of a SE Exposure refers to assets used to hedge the Credit Risk of a securitisation Exposure rather than the underlying Exposures of the securitisation, including Collateral pledged by an SPE.
+
+169
+
+PRU VER17.290725
+
+4.15
+
+Large Exposures
+
+Applicability and limits
+
+4.15.1
+
+This Section applies with respect to Trading Book transactions and Non-Trading Book transactions.
+
+4.15.2
+
+For the purposes of this Section an Exposure that arises in the Trading Book is calculated by summing the following:
+
+(a)
+
+the net positive position (long positions net of short positions) for each Financial Instrument as set out in Rules A4.11.10 to A4.11.28;
+
+(b)

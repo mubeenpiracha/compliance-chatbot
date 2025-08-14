@@ -1,0 +1,11 @@
+1000% or deduction from Capital Resources
+
+4.14.32 (1)
+
+In respect of securitisation positions which are assigned a 1000% risk weighting pursuant to the tables in Rule 4.14.31, an Authorised Firm may as an alternative to including the position in its calculation of Credit RWA amounts, deduct from its CET1 Capital the Exposure value of such positions.
+
+(2)
+
+For the purposes of this Rule, the calculation of the Exposure value may reflect eligible funded credit protection consistent with applicable Rules in this chapter.
+
+4.14.33 For an Authorised Firm that is an Originator or Sponsor of a securitisation, the Credit RWA amounts calculated for its securitisation positions may be limited to the RWA amounts which would be calculated for the SE Exposures had they not been Securitised subject to the presumed application of a 150% risk weight to all past due items and items belonging to regulatory high risk categories.

@@ -1,0 +1,25 @@
+RSF factor
+
+RSF asset category
+
+5%
+
+unencumbered Level 1 HQLA as defined in Rule A10.2.6(2), excluding those assets receiving an RSF factor of 0% as above
+
+10%
+
+unencumbered loans to financial institutions with residual maturities of less than six months, where the loan is secured against Level 1 HQLA as defined in Rule A10.2.7(2), and where the bank has the ability to freely re-hypothecate the received collateral for the life of the loan
+
+unencumbered Level 2A assets as defined in Rule A10.2.8(2)
+
+15%
+
+all other unencumbered loans to financial institutions with residual maturities of less than six months not receiving an RSF factor of 10%
+
+unencumbered Level 2B assets as defined and subject to the conditions set forth in Rule A10.2.8
+
+any HQLA as defined in Rule A10.2.6, Rule 10.2.7 or Rule 10.2.8 that are encumbered for a period of between six months and less than one year
+
+all loans to financial institutions and central banks with residual maturity of between six months and less than one year
+
+all loans to financial institutions and central banks with residual maturity of between six months and less than one year

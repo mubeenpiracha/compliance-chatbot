@@ -1,0 +1,9 @@
+3.5.3 A Person must not make a Financial Promotion, in or from the DIFC, in relation to a Restricted Speculative Investment offered by a Person outside the DIFC unless the Person making the Financial Promotion is reasonably satisfied that the issuer or provider of the Restricted Speculative Investment is:
+
+(a)
+
+a Regulated Financial Institution; and
+
+(b)
+
+subject to substantially similar requirements to the requirements applicable to an Authorised Firm under COB section 6.16.

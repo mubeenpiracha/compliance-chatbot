@@ -1,0 +1,49 @@
+Means the United Arab Emirates.
+
+Has the meaning given in FUNDS 4.1.4.
+
+84
+
+GLO VER23.290725
+
+Defined Terms
+
+Undertaking
+
+Underwriting
+
+Unique Identifier
+
+Unit
+
+Unit Price
+
+Unitholder
+
+Units
+
+Unlawful Organisation
+
+Unproven Asset
+
+Definitions
+
+Means:
+
+(a)
+
+a Body Corporate or Partnership; or
+
+(b)
+
+an unincorporated association carrying on a trade or business, with or without a view to profit.
+
+Means an arrangement under which a party agrees to buy, before issue, a specified quantity of Securities in an issue of Securities on a given date at a given price, if no other party has purchased or acquired them.
+
+Means a combination of letters, numbers or symbols specified to the Payment Service User by the Payment Service Provider and to be provided by the Payment Service User in relation to a Payment Transaction in order to identify unambiguously one or both of:
+
+(a)
+
+another Payment Service User who is a party to the Payment Transaction;
+
+(b)

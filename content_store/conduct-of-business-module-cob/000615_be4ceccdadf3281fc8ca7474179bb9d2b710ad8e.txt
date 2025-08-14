@@ -1,0 +1,15 @@
+Guidance
+
+To ensure the technology governance of any DLT used is fit for purpose, an Authorised Firm should, as a minimum, have regard to the need for:
+
+a.
+
+careful maintenance and development of the relevant systems and architecture in terms of its code version control, implementation of updates, issue resolution, and regular internal and third party testing;
+
+b.
+
+security measures and procedures for the safe storage and transmission of data in accordance with agreed protocols;
+
+c.
+
+procedures to address changes in the protocol which result in the splitting of the underlying distributed ledger into two or more separate ledgers (often referred to as a ‘fork’). These procedures should be effective whether or not the new protocol is backwards compatible with the previous version (soft fork), or not (hard fork), and should address access to information where such a fork is created;

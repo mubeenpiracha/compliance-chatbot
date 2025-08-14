@@ -1,0 +1,13 @@
+Fiat-Referenced Tokens
+
+19A.1 Application
+
+19A.1.1 Chapter 19A of these Rules applies to Authorised Persons which propose to issue or
+
+have issued Fiat-Referenced Tokens.
+
+19A.2 White Paper
+
+19A.2.1 No later than twenty days prior to the issuance of a Fiat-Referenced Token, an Authorised Person must submit a white paper to the Regulator which must be clear, fair, not misleading, concise and comprehensible and not promote the Fiat-Referenced Token as an alternative form of investment. The white paper must, at a minimum, contain information:
+
+(a)

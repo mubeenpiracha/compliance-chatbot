@@ -1,0 +1,13 @@
+Mandatory statement
+
+9.5.3
+
+(1) A Fund Manager of a Public Fund or an Exempt Fund must include in the Fund's Prospectus, the following statement displayed prominently on its front page:
+
+"This Prospectus relates to an Abu Dhabi Global Market Fund in accordance with the Financial Services and Markets Regulations and the Fund Rules of the Regulator.
+
+The Regulator has no responsibility for reviewing or verifying any Prospectus or other documents in connection with this Domestic Fund. Accordingly, the Regulator has not approved this Prospectus or any other associated documents nor taken any steps to verify the information set out in this Prospectus, and has no responsibility for it.
+
+The Units to which this Prospectus relates may be illiquid and/or subject to restrictions on their resale. Prospective purchasers of the Units offered should conduct their own due diligence on the Units.
+
+If you do not understand the contents of this document you should consult an authorised financial adviser."

@@ -1,0 +1,21 @@
+19A.8 Stress Testing
+
+19A.8.1 An Authorised Person which has issued a Fiat-Referenced Token must have systems in place to enable it to regularly stress test the composition of Reserve Investments and the market and counterparty risks to which they are exposed that may result in a breach of Rule 19A.7.1.
+
+19A.8.2 The stress testing required in accordance with Rule 19A.8.1 must:
+
+(a)
+
+be performed at least annually, or more frequently upon written notification from the Regulator and;
+
+(b)
+
+consider scenarios of liquidity stress, such as large-scale redemptions of each Fiat-Referenced Token.
+
+19A.8.3 A written summary of the results of the stress testing performed in accordance with Rule
+
+19A.8.2 must be provided to the Regulator when that is completed.
+
+149
+
+COBS VER19.290725

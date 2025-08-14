@@ -1,0 +1,21 @@
+Guidance
+
+1.
+
+An Authorised Person’s ability to detect an actual or potential Cyber Incident is essential for strong cyber resilience. Early detection provides an Authorised Person with useful lead time to take appropriate measures.
+
+2.
+
+As part of its monitoring, the DFSA expects an Authorised Person to regularly review system logs, warnings, errors and security events to identify suspicious activities and system errors indicating a potential Cyber Incident.
+
+3.
+
+The process for escalating actual or potential Cyber Incidents should define a point of contact for reporting incidents. All Employees should be made aware of their responsibility to report actual or potential Cyber Incidents as quickly as possible.
+
+5.5.17 (1)
+
+An Authorised Person must draw up and maintain a robust Cyber Incident Response Plan providing for measures to be taken by the Authorised Person to respond to and limit consequences of a Cyber Incident.
+
+(2)
+
+The Cyber include appropriate conditions and procedures to ensure the timely implementation of response and recovery actions, including the actions required by Rule 5.5.18.

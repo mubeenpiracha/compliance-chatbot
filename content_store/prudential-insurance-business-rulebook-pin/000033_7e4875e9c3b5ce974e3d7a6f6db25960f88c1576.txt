@@ -1,0 +1,39 @@
+Insurer's objectives and strategy
+
+2.3.6 An Insurer must develop, implement and maintain a risk management system which includes an explicit asset-liability management ("ALM") policy, which must clearly specify the nature, role and extent of ALM activities and their relationship with any other relevant function or activity of the insurer including, but not limited to, product development, pricing functions and investment management.
+
+Guidance
+
+1.
+
+An Insurer's ALM policy should be appropriate taking into account the nature, scale and complexity of its ALM risks.
+
+2.
+
+The ALM policy should include details as to how:
+
+(a)
+
+the investment and liability strategies adopted by the Insurer allow for the interaction between assets and liabilities;
+
+(b)
+
+any correlations between assets and liabilities are taken into account;
+
+(c)
+
+the liability cash flows will be met by cash inflows; and
+
+4
+
+PIN VER07.290725
+
+(d)
+
+the valuations of assets and liabilities will change under an appropriate range of different scenarios.
+
+3.
+
+GEN 3.5 contains additional requirements that apply to Authorised Persons in relation to Cyber Risk management.
+
+2.4

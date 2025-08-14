@@ -1,0 +1,35 @@
+Units or Debentures of a single Master Fund; or
+
+(b)
+
+in the case of a Feeder Fund which is a Public Fund, Units or Debentures of an eligible Master Fund.
+
+(2)
+
+A Master Fund is eligible for the purposes of (1)(b) only if:
+
+(a)
+
+the borrowing of the Master Fund does not exceed 200% of the net asset value of the Master Fund or the market value of the Units of the Master Fund at the mid-value share price;
+
+(b)
+
+the Units in or Debentures of the Master Fund are regularly Offered for purchase and sale by at least three market makers who are recognised or registered as members of an Exchange or an exchange regulated by a Financial Services Regulator;
+
+90
+
+CIR/VER38/08-24
+
+COLLECTIVE INVESTMENT RULES (CIR)
+
+(c)
+
+the Feeder Fund owns not more than 20% of the Units (or of any class of Units in or of the Debentures or of any class of Debentures) of the Master Fund; and
+
+(d)
+
+the Master Fund has no limit on its duration.
+
+13.2.2
+
+A Fund Manager of a Feeder Fund must also ensure that the Feeder Fund invests in a Master Fund only if:

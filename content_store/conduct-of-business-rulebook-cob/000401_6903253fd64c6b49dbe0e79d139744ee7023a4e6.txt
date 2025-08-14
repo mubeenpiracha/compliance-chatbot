@@ -1,0 +1,21 @@
+(a) the Payer’s Payment Service Provider may not block Money on the Payer’s Payment Account unless the Payer has authorised the exact amount of the Money to be blocked; and
+
+(b) the Payer’s Payment Service Provider must release the blocked Money without undue delay after becoming aware of the amount of the Payment Transaction, and in any event immediately after receipt of the Payment Order.
+
+19.13
+
+Requests for refunds for Payment Transactions initiated by or through a Payee
+
+19.13.1
+
+(1)
+
+The Payer is entitled to a refund from its Payment Service Provider of the full amount of any authorised Payment Transaction initiated by or through the Payee if requested within eight weeks from the date on which the Money or Fiat- Referenced Token was debited, if:
+
+(a)
+
+the authorisation did not specify the exact amount of the Payment Transaction when the authorisation was given in accordance with Rule 19.10.1; and
+
+(b)
+
+the amount of the Payment Transaction exceeded the amount that the Payer could reasonably have expected taking into account the pattern of the Payer’s previous transactions, the conditions of the Framework Contract and the circumstances of the case.

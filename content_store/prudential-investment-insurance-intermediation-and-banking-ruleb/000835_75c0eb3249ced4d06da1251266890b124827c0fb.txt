@@ -1,0 +1,7 @@
+Trade Exposure of a clearing member to a Non-QCCP
+
+A4.9.5 Where an Authorised Person acts as a clearing member, either for its own purposes or as an intermediary between a client and a Non-QCCP, it must calculate Credit RWA in respect of its Trade Exposure to the Non-QCCP in accordance with Rule A4.6.14 and apply an appropriate CRW for the corporate asset class of the Non-QCCP as set out in Rule 4.12.13.
+
+Trade Exposure of a clearing member to a client
+
+A4.9.6 Where an Authorised Person acts as a clearing member, and in that capacity, acts as an intermediary between a client and a CCP, it must calculate Credit RWA in respect of its Trade Exposure to the client in accordance with Rule A4.6.14, together with App5 and relevant provisions of Section 4.13 in respect of any Collateral posted by the client, if applicable.

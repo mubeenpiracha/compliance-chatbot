@@ -1,0 +1,31 @@
+User or a third party; and
+
+(c) where alterations have taken place, mechanisms to mitigate the consequences.
+
+Exceptions
+
+6.13.4 An Authorised Firm is not required to apply strong customer authentication under
+
+Rule 6.13.3 when:
+
+(a)
+
+the User accesses its own payment account information unless:
+
+(i)
+
+it is the first time the account is accessed; or
+
+(ii) the account has not been accessed for 90 days or more;
+
+(b)
+
+the User makes a payment of a small amount;
+
+(c)
+
+the User makes a payment to a specified beneficiary on a list created by the User, or under a standing order, where strong customer authentication was applied when the list or standing order was created; or
+
+(d)
+
+a transfer is made between accounts held by the same User.

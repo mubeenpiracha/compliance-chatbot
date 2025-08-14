@@ -1,0 +1,7 @@
+Transactions where cash is paid without receipt of the corresponding receivable (securities, foreign currencies, gold, or commodities) or, conversely, deliverables were delivered without receipt of the corresponding cash payment (non-DvP, or free deliveries) expose firms to a risk of loss on the full amount of cash paid or deliverables delivered. PIB Rule A4.6.3 requires an Authorised Firm that has made the first contractual payment/delivery leg to calculate RWAs for the Exposure if the second leg has not been received by the end of the business day. The RWAs increase if the second leg has not been received within five business days.
+
+4.
+
+This section applies to transactions whether on balance sheet or off balance sheet. Where a transaction does not appear on balance sheet (i.e. settlement date accounting), the Authorised Firm should apply a 100% conversion factor to determine the credit equivalent amount of the unsettled exposure amount.
+
+5.

@@ -1,0 +1,5 @@
+Taking effect as from such date as is specified by the Regulator, Financial Counterparties shall have risk management procedures that require the timely, accurate and appropriately segregated exchange of collateral with respect to OTC Derivative Contracts. Non-Financial Counterparties referred to in section 147 shall have risk management procedures that require the timely, accurate and appropriately segregated exchange of collateral with respect to OTC Derivative Contracts that are entered into on or after the clearing threshold is exceeded.
+
+Taking effect as from such date as is specified by the Regulator, Financial Counterparties shall hold an appropriate and proportionate amount of capital to manage the risk not covered by appropriate exchange of collateral.
+
+The requirement laid down in subsection (3) shall not apply to an Intragroup Transaction that is entered into by counterparties which are both established in the Abu Dhabi Global Market provided that there is no current or foreseen practical or legal impediment to the prompt transfer of own funds or repayment of liabilities between counterparties.

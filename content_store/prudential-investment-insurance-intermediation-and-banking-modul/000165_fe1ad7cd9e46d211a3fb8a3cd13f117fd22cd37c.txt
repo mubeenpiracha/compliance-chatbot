@@ -1,0 +1,23 @@
+Guidance
+
+1.
+
+The CCyB Requirement applies to credit exposures of an Authorised Firm that are ‘Non- Financial Private Sector Risk Exposures’. Rule 1.2.1 defines that expression to exclude credit exposures to other banks or to sovereigns, government bodies or agencies, or multilateral development banks.
+
+2.
+
+An Authorised Firm will need to follow the following steps to calculate its CCyB Requirement:
+
+a. identify the jurisdictions in which it has Non- Financial Private Sector Credit Exposures
+
+(Rule 3.9A.6 sets out how to determine the location of an exposure);
+
+b. identify if a CCyB Rate applies in that jurisdiction and, if so, the date on which it takes effect
+
+(see Rules 3.9A.7 to 3.9A.9);
+
+c. determine the weighted average of CCyB Rates applying to it (see Rule 3.9A.5); and
+
+d. multiply the weighted average by the value of its Risk Weighted Assets.
+
+3.9A.3 An Authorised Firm must not apply CET1 Capital that it maintains to meet the

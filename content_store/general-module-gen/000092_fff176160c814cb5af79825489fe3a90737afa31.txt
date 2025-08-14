@@ -1,0 +1,39 @@
+Exclusions
+
+2.12.2 Pursuant to Article 20(3) of the Collective Investment Law 2010, a Person is hereby prescribed by the DFSA as not Managing a Collective Investment Fund merely because that Person:
+
+(a)
+
+is acting as an agent, employee or delegate of the Fund Manager; or
+
+(b)
+
+takes steps to wind up or dissolve a Fund or remedy a defect that led to a Fund being deregistered.
+
+24
+
+GEN/VER67/03-25
+
+GENERAL (GEN)
+
+2.12.3 An Incorporated Cell Company does not Manage a Collective Investment Fund under Rule 2.12.1(1), or carry on a Financial Service referred to in Rule 2.12.1(2), if:
+
+(a)
+
+the user of the ICC is a Fund Manager that has an endorsement permitting it to use the Fund Platform; and
+
+(b)
+
+the ICC merely provides infrastructure in relation to a Fund that is an Incorporated Cell of the ICC.
+
+2.13 Providing custody
+
+2.13.1
+
+(1)
+
+In Rule 2.2.2, Providing Custody means one or more of the following activities:
+
+(a)
+
+safeguarding and administering Investments belonging another Person;

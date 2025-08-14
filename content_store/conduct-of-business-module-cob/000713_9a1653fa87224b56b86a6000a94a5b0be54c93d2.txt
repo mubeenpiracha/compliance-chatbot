@@ -1,0 +1,13 @@
+A7.2.13 Liability for the use of incorrect unique identifiers
+
+(1) Where an Authorised Firm executes a Payment Order in accordance with a
+
+229
+
+COB/VER48/03-25
+
+CONDUCT OF BUSINESS (COB)
+
+unique identifier provided by the User, the Payment Order is deemed to be correctly executed by the firm irrespective of any other information provided by the User.
+
+(2) Where a unique identifier provided by the User is incorrect, the Authorised Firm is not liable for non-execution or defective execution of the Payment Transaction but must take reasonable steps to recover the funds involved in the Payment Transaction.

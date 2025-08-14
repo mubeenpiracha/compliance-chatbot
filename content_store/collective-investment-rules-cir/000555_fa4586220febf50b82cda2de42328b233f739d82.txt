@@ -1,0 +1,25 @@
+(a) the type of ETF and its characteristics;
+
+(b) the risks associated with the type of ETF;
+
+188
+
+CIR/VER38/08-24
+
+COLLECTIVE INVESTMENT RULES (CIR)
+
+(c) the investment methodology and strategies the ETF proposes to adopt to
+
+track the referenced index or benchmark;
+
+(d) the relevant indices or other benchmark the ETF is designed to track, and the underlying components (including their liquidity) of the relevant index or benchmark;
+
+(e) relevant websites or sources of information provided by Price Information Providers, including the methodology, composition, components and value, and relative weightings, relating to the indices or benchmarks;
+
+(f) whether iNAV is made available by the relevant exchange and, if so, how
+
+this information can be accessed by investors;
+
+(g) how the referenced index or benchmark will be tracked and the risks for investors in terms of the exposure they have to the underlying index and any counterparty risk;
+
+(h) the key elements which may affect the ETF’s ability to track fully the relevant index or benchmark, including, but not limited to, transaction costs, illiquid segments, and dividend re-investment;

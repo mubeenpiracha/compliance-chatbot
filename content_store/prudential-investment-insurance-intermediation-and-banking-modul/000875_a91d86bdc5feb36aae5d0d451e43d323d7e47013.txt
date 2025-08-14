@@ -1,0 +1,27 @@
+Replacement Cost (RC)
+
+A4.8.3 (1) An Authorised Firm must calculate the replacement cost, RC, for an Unmargined
+
+Netting Set using the following formula:
+
+RC = max {V − CH(one year);O}
+
+where:
+
+V =
+
+the current market value of all the transactions in the Netting Set
+
+CH(one year) = the haircut value of net Collateral held, calculated in accordance
+
+with (3), with a holding period of one year
+
+282
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+(2) An Authorised Firm must calculate the replacement cost, RC, for a Margined
+
+Netting Set using the following formula:

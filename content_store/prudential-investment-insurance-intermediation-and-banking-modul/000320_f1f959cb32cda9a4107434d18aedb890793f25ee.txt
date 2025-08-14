@@ -1,0 +1,9 @@
+b.
+
+for any debt security or loan classified and measured at fair value through other comprehensive income, E, should be equal to the fair value less provision for impairment of that debt security or loan, adjusted by deducting any unrealised fair value gains and adding back any unrealised fair value losses on revaluation (broadly equivalent to the amortised cost of the debt security or loan less any provision for impairment).
+
+2.
+
+In the case of a lease where the Authorised Firm is exposed to residual value risk (i.e. potential loss due to the fair value of the leased asset declining below the estimate of its residual value reflected on the balance sheet of the Authorised Firm at lease inception), the Authorised Firm should calculate (i) an Exposure to the lessee equivalent to the discounted lease payment stream; and (ii) an Exposure to the residual value of the leased assets equivalent to the estimate of the residual value reflected in the balance sheet of the Authorised Firm.
+
+3.

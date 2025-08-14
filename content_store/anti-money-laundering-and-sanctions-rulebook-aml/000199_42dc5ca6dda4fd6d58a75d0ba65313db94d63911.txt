@@ -1,0 +1,41 @@
+(3)
+
+An Authorised Person and Recognised Body must ensure that information accompanying all wire transfers contains at a minimum:
+
+(a)
+
+the name of the originator;
+
+(b)
+
+the originator account number where such an account is used to process the Transaction or a unique Transaction reference number if no originator account number exists;
+
+(c)
+
+the originator's address, or national identity number, or travel document number, or customer identification number, or date and place of birth;
+
+(d)
+
+the name of the beneficiary; and
+
+Confidential
+
+71
+
+AML VER10.020125
+
+(e)
+
+the beneficiary account number where such an account is used to process the Transaction or a unique Transaction reference number if no beneficiary account number exists.
+
+(4)
+
+An Authorised Person and Recognised Body must ensure that for batch transfers:
+
+(a)
+
+it has verified the originator information required under (3)(a) to (c); and
+
+(b)
+
+the batch file contains the beneficiary information required under (3)(d) and (e) for each beneficiary and that the information is fully traceable in the beneficiaries jurisdiction.

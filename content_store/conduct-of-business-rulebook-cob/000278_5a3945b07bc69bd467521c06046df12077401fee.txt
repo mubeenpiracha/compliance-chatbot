@@ -1,0 +1,21 @@
+the identity of the Third-Party Agent;
+
+(h)
+
+if applicable, details about how any Client Money arising out of Islamic Financial Business is to be held;
+
+91
+
+COBS VER19.290725
+
+(i)
+
+if applicable, that the Authorised Person holds or intends to hold the Client Money in a Client Account with a Third-Party Agent which is in the same Group as the Authorised Person; and
+
+(j)
+
+details of any rights which the Authorised Person may have to realise Client Money held on behalf of the Client in satisfaction of a default by the Client or otherwise.
+
+14.9.2 In the event of a material change to the information provided to the Client in accordance with Rule 14.9.1, an Authorised Person must disclose the details of such change to the Client in writing.
+
+14.9.3 Before an Authorised Person holds or controls Client Money on behalf of a Professional Client which is a Market Counterparty that will not be subject to these Client Money Rules, it must disclose to the Client in writing, and obtain the Client’s written acknowledgment, that:

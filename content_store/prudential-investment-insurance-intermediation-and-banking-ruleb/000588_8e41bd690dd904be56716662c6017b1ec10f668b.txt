@@ -1,0 +1,25 @@
+Restrictions on Category 3A, 3B, 3C and 4 Authorised Persons
+
+8.5.2
+
+(1)
+
+An Authorised Person in Category 3A, 3B, 3C or 4 must not, subject to (2), be a Parent of an entity that:
+
+(a)
+
+is an Authorised Person in Category 1 or 5 or an Insurer; or
+
+(b)
+
+carries on activities that would, if conducted in the ADGM, constitute Accepting Deposits or Managing a Profit Sharing Investment Account which is a PSIAu.
+
+(2)
+
+An Authorised Person in Category 3A, 3B, 3C or 4 may own or control an entity referred to in (1) where it is itself a Subsidiary of:
+
+(a)
+
+a Financial Institution with a Financial Services Permission to carry on any one or more of the activities specified in (1)(b); or
+
+(b)

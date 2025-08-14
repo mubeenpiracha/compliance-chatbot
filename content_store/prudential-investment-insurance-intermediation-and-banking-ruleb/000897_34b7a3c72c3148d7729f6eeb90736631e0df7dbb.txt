@@ -1,0 +1,11 @@
+Guidance
+
+The Regulator may remove this option if it determines that the CVA risk resulting from the derivative positions of the Authorised Person contributes materially to the overall risk profile of the Authorised Person.
+
+A5.2.2
+
+An Authorised Person must include Securities Financing Transactions in the calculation of the capital requirement required by Rule A5.2.1 if the Authorised Person considers the CVA risk exposures arising from those transactions are material. The Authorised Person should assess the materiality of CVA risk exposures arising from SFTs in the course of its Internal Risk Assessment Process, as set out in A11.1.
+
+A5.2.3
+
+Transactions with a QCCP and a client's transactions with a clearing member, when the clearing member is acting as an intermediary between the client and a QCCP and the transactions give rise to a trade exposure of the clearing member to the QCCP, are excluded from the capital requirements for CVA risk.

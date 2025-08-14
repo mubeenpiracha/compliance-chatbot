@@ -1,0 +1,23 @@
+nearest possible date on which such liabilities could be realised; and ▪ minority interest, which should be treated according to the term of the
+
+instrument, usually in perpetuity
+
+o These liabilities would then be assigned either a 100% ASF factor if the
+
+0%
+
+effective maturity is one year or greater, or 50%, if the effective maturity is between six months and less than one year
+
+NSFR derivative liabilities as calculated according to Rule A10.4.4 net of NSFR derivative assets as calculated according to Rule A10.4.11, if NSFR derivative liabilities are greater than NSFR derivative assets
+
+Net NSFR Shari’a compliant hedging liabilities (where NSFR Shari’a compliant hedging liabilities are greater than NSFR Shari’a compliant hedging assets)
+
+“trade date” payables arising from purchases of financial instruments, foreign currencies and commodities that: o are expected to settle within the standard settlement cycle or period that
+
+is customary for the relevant exchange or type of transaction; or
+
+o have failed to, but are still expected to, settle
+
+422
+
+PRU VER17.290725

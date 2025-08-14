@@ -1,0 +1,31 @@
+b.
+
+issue a warning to Retail Clients that third party credit should not to be used to fund Margins; and
+
+c. obtain written confirmation from the Retail Client that third party credit is not being used
+
+to fund Margins.
+
+Restrictions relating to certain Restricted Speculative Investments
+
+6.16.11 An Authorised Firm must not Deal in a Restricted Speculative Investment with a
+
+Retail Client unless:
+
+(a)
+
+the Restricted Speculative Investment has a transparent pricing mechanism available for determining the price movement of the underlying reference, by reference to which the profit or loss of each party to the contract is determined; or
+
+(b)
+
+the Authorised Firm provides a two way pricing mechanism that allows the Retail Client to trade at those quoted prices during the currency of the Restricted Speculative Investment.
+
+Referrals from an unregulated Person prohibited
+
+71
+
+COB/VER48/03-25
+
+CONDUCT OF BUSINESS (COB)
+
+6.16.12 (1) An Authorised Firm must not accept a referral of a Retail Client made by an

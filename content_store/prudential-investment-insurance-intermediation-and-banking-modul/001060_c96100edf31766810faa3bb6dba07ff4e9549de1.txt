@@ -1,0 +1,13 @@
+346
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+including gold) options must be incorporated into the measurement of the Exposure for the respective currency (or gold) position.
+
+(6)
+
+Individual net Delta positions as described above must be treated as the underlying instrument in accordance with sections A5.4 to A5.5.
+
+A5.6.6 An Authorised Firm using the Delta-plus method must calculate its Market Risk

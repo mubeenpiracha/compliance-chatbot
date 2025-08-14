@@ -1,0 +1,19 @@
+Substandard
+
+includes credits which exhibit definitive deterioration in credit quality and impaired debt servicing capacity of the borrower.
+
+Doubtful
+
+includes credits which show strong credit quality in substandard deterioration, worse category, to the extent that the prospect of full recovery of all the outstanding amounts from the credit is questionable and consequently the probability of a credit loss is high, though the exact amount of loss cannot be determined yet.
+
+than
+
+those
+
+Loss
+
+includes credits which are assessed as uncollectable and credits with very low potential for recoverability of amounts due.
+
+(3)
+
+An Authorised Firm may also have in place a more detailed credit grading system provided it can address the categories detailed in (2).

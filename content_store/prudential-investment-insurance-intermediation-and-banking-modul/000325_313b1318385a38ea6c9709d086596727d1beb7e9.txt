@@ -1,0 +1,27 @@
+(2)
+
+An Authorised Firm must use either the:
+
+(a)
+
+Financial Collateral Simplified Approach (FCSA) which adopts the treatment under Rule 4.13.5 in relation to the composition of financial Collateral; or
+
+(b)
+
+Financial Collateral Comprehensive Approach (FCCA) which adopts the treatment under Rule 4.13.6;
+
+to recognise the effect of eligible financial Collateral.
+
+(3)
+
+An Authorised Firm must apply the chosen approach consistently to its entire Non-Trading Book and must not use a combination of both approaches.
+
+An Authorised Firm using the FCSA may recognise the effect of eligible financial Collateral in accordance with the Rules in section 4.13.
+
+An Authorised Firm using the FCCA may calculate the CR Exposure adjusted for eligible financial Collateral (referred to in PIB as “E*”), in accordance with Rules in section A4.3 of App4 and substitute E* for E when calculating the Credit Risk- weighted Exposure amount for that CR Exposure under section 4.8.
+
+104
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)

@@ -1,0 +1,29 @@
+Additional requirements for a CCP
+
+Credit Risk
+
+(1)
+
+A Clearing House acting as a CCP must establish and implement a robust process to manage:
+
+(a)
+
+its current and potential future credit and market risk exposures to market counterparties, including Members and other participants on its facilities; and
+
+(b)
+
+credit risks arising from its payment, clearing, and settlement processes.
+
+(2)
+
+For the purposes of (1), a CCP must, on a regular basis as appropriate to the nature, scale and complexity of its operations:
+
+(a)
+
+perform stress tests using models containing standards and predetermined parameters and assumptions; and
+
+(b)
+
+carry out comprehensive and thorough analysis of stress testing models, scenarios, and underlying parameters and assumptions used to ensure that they are appropriate for determining the required level of default protection in light of current and evolving market conditions.
+
+(3)

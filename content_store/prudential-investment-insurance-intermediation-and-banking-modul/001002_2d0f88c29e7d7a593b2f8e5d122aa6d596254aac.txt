@@ -1,0 +1,13 @@
+Guidance
+
+If a Security is repo’d, the Authorised Firm continues to calculate an Interest Rate Risk Capital Requirement on the Security because, although legal ownership transfers to the Counterparty, the economic benefit or loss remains with the Authorised Firm.
+
+Cash legs of reverse repos
+
+A5.2.12 (1)
+
+The forward cash leg of a reverse repo must be treated as a notional long position in a government security with a maturity equal to that of the reverse repo and coupon equal to the repo rate.
+
+(2)
+
+An Authorised Firm may exclude from the interest rate maturity framework (for both Specific and General Market Risk) long and short positions (both actual and notional) in identical derivative instruments with exactly the same issuer, coupon, currency and maturity. A fully-matched position in a future or forward and its corresponding underlying instrument may also be fully offset, and thus excluded from the calculation.

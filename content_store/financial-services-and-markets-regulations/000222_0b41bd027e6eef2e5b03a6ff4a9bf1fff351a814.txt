@@ -1,0 +1,31 @@
+all or any class of its members or users; or
+
+(b)
+
+persons seeking to become members of a Recognised Body or to use its facilities;
+
+with respect to the provision by it or its members of services.
+
+Chapter 3 Clearing, Reporting and Risk Mitigation of OTC Derivatives
+
+140. Commencement
+
+(1)
+
+The provisions of this Chapter 3 shall enter into force at such time as the Regulator shall appoint in Rules made by the Regulator. Different dates may be appointed for different provisions of this Chapter.
+
+(2)
+
+Such Rules may make transitional provision in relation to the entry into force of this Chapter 3.
+
+141. Clearing obligation78
+
+(1)
+
+Counterparties shall clear all OTC Derivative Contracts pertaining to a class of OTC Derivatives that has been declared subject to the clearing obligation in accordance with section 142(1), if those contracts fulfil both of the following conditions—
+
+(a)
+
+they have been concluded in one of the following ways—
+
+(i)

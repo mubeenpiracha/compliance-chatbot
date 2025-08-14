@@ -1,0 +1,21 @@
+(3)
+
+A CCP must make available to its Members and other participants using its facilities, its rules, policies and procedures relating to the segregation and portability of the positions and related collateral of the customers of its Members and other participants using its facilities.
+
+Guidance
+
+1.
+
+A CCP should:
+
+a.
+
+maintain the customer positions and any related collateral referred to in Rule 7.3.3 in individual customer accounts or in omnibus customer accounts; and
+
+b.
+
+structure its portability arrangements so that the positions and collateral of a defaulting Member’s or other participant’s customers can be transferred to one or more other Members or participants.
+
+2.
+
+A CCP should also disclose whether the customers’ collateral is protected on an individual or omnibus basis. In addition, it should disclose any constraints, such as legal or operational, that may impair its ability to segregate or transfer a Member’s or other participant’s customers’ positions and related collateral.

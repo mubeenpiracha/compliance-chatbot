@@ -1,0 +1,21 @@
+KRB = BRB x m x LARB
+
+Where:
+
+KRB =
+
+the Capital Requirement for the retail banking business line
+
+BRB =
+
+the beta for the retail banking business line
+
+LARB =
+
+total outstanding retail loans and advances (non-risk weighted and gross of provisions), averaged over the past three years
+
+m =
+
+0.035
+
+A6.3.3 Subject to Rule A6.3.4, an Authorised Firm which uses the Alternative Standardised Approach must calculate its Operational Risk Capital Requirement for its commercial banking business line according to the following formula:

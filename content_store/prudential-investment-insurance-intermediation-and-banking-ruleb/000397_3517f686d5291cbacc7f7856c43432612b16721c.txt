@@ -1,0 +1,43 @@
+the Authorised Person is able to satisfy the Regulator that the cover is robust and that nothing in the historical evidence suggests that the coverage of the counter-guarantee is less than effectively equivalent to that of a direct guarantee by the entity in question.
+
+Credit Derivatives
+
+4.13.11
+
+(1)
+
+An Authorised Person may recognise the effects of CRM of a Credit Derivative only if it is provided by any of the following entities:
+
+(a)
+
+central government or central banks;
+
+(b)
+
+the MDBs referred to in Rules 4.12.7 to 4.12.8;
+
+(c)
+
+the international organisations referred to in Rule 4.12.9;
+
+(d)
+
+PSE;
+
+145
+
+PRU VER17.290725
+
+(e)
+
+banks and Securities firms which qualify for inclusion in bank asset class; or
+
+(f)
+
+any other entity that has an external credit assessment from an ECAI that maps to a Credit Quality Grade 3 or better.
+
+(2)
+
+An Authorised Person may recognise the effects of CRM of only the following types of Credit Derivatives:
+
+(a)

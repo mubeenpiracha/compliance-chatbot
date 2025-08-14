@@ -1,0 +1,13 @@
+Guidance
+
+1.
+
+An Authorised Firm should apply the securitisation framework set out in this section for determining the regulatory Capital Requirements on Exposures arising from traditional and Synthetic Securitisations or similar structures that contain features common to both.
+
+2.
+
+This section sets out the requirements for Originators, Authorised Firms which transfer Credit Risk from their balance sheets and Sponsors in a securitisation transaction involving Non- Trading Book Exposures. This section also sets out the methodologies for calculation of RWA amounts for securitisation Exposures. The Rules setting out the methodologies for calculation of Market Risk Capital Requirement amounts for securitisation Exposures held in the Trading Book are specified in chapter 5 and App5 of this module.
+
+3.
+
+As securitisations may be structured in many different ways, an Authorised Firm engaging in the activities relating to securitisations (whether traditional or Synthetic) must ensure that the economic substance of the transaction is fully considered, and reflected, in determining the capital treatment of a securitisation, rather than relying on the legal form of the Securitisation.

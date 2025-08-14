@@ -1,0 +1,9 @@
+Means the time at which the transaction was executed, reported in the local time of the competent authority to which the transaction will be reported, and the basis in which the transaction is reported expressed as Co-ordinated Universal Time (UTC) +/- hours.
+
+Means any transaction undertaken by a Relevant Person for or on behalf of a Customer in the course of carrying on a business in or from ADGM.
+
+Means a deed entered into by a Fund Manager and the Trustee to create an Investment Trust.
+
+An Authorised Person which is authorised under its Permission it to carry on the activity of Providing Trust Services.
+
+Means the Person, described under FUNDS 12.3.4 who is appointed under a Trust Deed as the trustee of an Investment Trust to hold the Investment Trust's Property on trust for the Unitholders and to oversee the operation of the Investment Trust and, in relation to a Domestic Fund, is authorised under its Financial Services Permission to Act as the Trustee of the Investment Trust.

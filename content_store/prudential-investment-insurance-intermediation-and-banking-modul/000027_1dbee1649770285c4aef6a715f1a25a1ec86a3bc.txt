@@ -1,0 +1,17 @@
+Branches
+
+1.1.2 Unless otherwise directed by the DFSA, an Authorised Firm that is a Branch is required to comply with the Rules in chapters 2 to 11 as specifically provided in “Application Table A” which forms part of this Rule.
+
+Guidance
+
+1.
+
+The effect of Rule 1.1.1(1) is that these Rules apply to all Authorised Firms, except those carrying on Insurance Business (that is, Insurers), that operate a Representative Office and those that are CRAs. Those Authorised Firms that are authorised to effect or carry out Contracts of Insurance should refer to the PIN module. Authorised Firms that are authorised to Operate a Representative Office should refer to the REP module.
+
+2.
+
+These Rules apply both to Domestic Firms and, to the extent specified in Rule 1.1.2, to Authorised Firms conducting Financial Services through a Branch in the DIFC.
+
+3.
+
+The Rules in PIB reinforce the fitness and propriety requirements found in GEN chapter 5 – Management, Systems and Controls and Principle 4 for Authorised Firms. The PIB module is set out in:

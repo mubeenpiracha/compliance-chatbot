@@ -1,0 +1,25 @@
+Systems and controls for the use of securitisations
+
+4.14.3
+
+An Authorised Person must implement and maintain appropriate risk management systems to identify, manage, monitor and, where applicable, control all risks in relation to a securitisation transaction whether the firm is an investor, Originator or Sponsor. In particular, such risk management systems should effectively address the following risks:
+
+(a)
+
+the liquidity and capital implications that may arise from the items returning to the balance sheet;
+
+152
+
+PRU VER17.290725
+
+(b)
+
+the Operational Risks that may arise under a securitisation; and
+
+(c)
+
+reputational risks that may arise as a result of its securitisation activities.
+
+4.14.4
+
+An Authorised Person must have appropriate policies and procedures to ensure that the economic substance of the transaction is fully reflected in the process of managing the risks arising from such transactions. An Authorised Person must have appropriate policies and procedures in place to document its systems and controls in relation to securitisation risks. These policies should include details on the capital effects of the securitisation as set out in this Chapter.

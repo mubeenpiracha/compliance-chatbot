@@ -1,0 +1,5 @@
+Not fully compliant IRC approaches
+
+19.
+
+If an Authorised Firm uses an internal model to capture incremental default and migration risks that does not comply with all requirements specified in Guidance notes 4 to 18 of A5.9.2, but that is consistent with the Authorised Firm's internal methodologies for identifying, measuring and managing incremental default and migration risks, it should be able to demonstrate that its internal model results in a Capital Requirement that is at least as high as if it were based on a model in full compliance with the requirements of the Guidance notes referred above. The DFSA will review compliance with the previous sentence at least annually.

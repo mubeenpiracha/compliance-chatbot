@@ -1,0 +1,23 @@
+4.10.7
+
+The margin system of a Recognised Clearing House must, at a minimum:
+
+(a)
+
+establish margin levels which are commensurate with the risks and particular attributes of each product, portfolio, and market it serves, especially the risk of credit exposures posed by open positions of its Members or other participants using its facilities;
+
+(b)
+
+use a reliable source of timely price data for its margin system, and also procedures and sound valuation models for addressing circumstances in which pricing data is not readily available or reliable;
+
+72
+
+MIR VER10.290725
+
+(c)
+
+adopt initial margin models and parameters that are risk-based and generate margin requirements sufficient to cover its potential future exposure to Members and other participants using its facilities in the interval between the last margin collection and the close-out of positions following a participant default;
+
+(d)
+
+adopt a daily (and where appropriate, intra-day) calculation and collection policy of variation margin based on models and parameters that manages current and potential future exposures; and

@@ -1,0 +1,5 @@
+In addition to paragraph 7 above, in the case of an Ijarah Muntahia Bittamleek contract, the exposure may be reduced by the recovery value of the leased asset, only in cases where there is a reasonable basis to conclude that the leased asset can be repossessed and effectively redeployed as a leased asset to another Counterparty. This is important because the asset leased under the Ijarah Muntahia Bittamleek contract is usually customised equipment or large pieces of equipment which are integrated with other assets of the lessee and hence are unsuitable for repossession and releasing to another lessee.
+
+In determining the E of an Istisna’a contract, the exposures arising from such a contract should not be netted off against exposures arising from a Parallel Istisna’a contract entered into by an Authorised Firm for procuring the underlying investment for the Istisna’a contract.
+
+In determining the E of a Salam contract, the exposures arising from such a contract should not be netted off against exposures arising from a Parallel Salam contract entered into by an Authorised Firm for procuring the underlying asset for the Salam contract.

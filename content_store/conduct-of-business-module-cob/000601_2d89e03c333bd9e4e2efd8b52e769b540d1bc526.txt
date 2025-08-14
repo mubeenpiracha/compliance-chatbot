@@ -1,0 +1,27 @@
+Use of credit for trading in Crypto Tokens
+
+15.6.3 An Authorised Firm must:
+
+(a)
+
+not provide a Credit Facility to a Retail Client in connection with trading in Crypto Tokens; and
+
+188
+
+COB/VER48/03-25
+
+CONDUCT OF BUSINESS (COB)
+
+(b)
+
+take reasonable steps to ensure that a Retail Client does not use a credit card or third-party credit facility to buy a Crypto Token.
+
+Guidance
+
+1.
+
+Rule 15.6.3 does not prevent an Authorised Firm from allowing a Retail Client to use a debit card to buy a Crypto Token, provided the Authorised Firm has adequate systems in place to distinguish between a debit and credit card.
+
+2.
+
+An Authorised Firm should have in place controls and measures to ensure that a Retail Client does not use third party credit to fund an account, such as procedures to:

@@ -1,0 +1,15 @@
+Means the Low Estimate scenario of Contingent Resources.
+
+Means the Best Estimate scenario of Contingent Resources.
+
+Means the High Estimate scenario of Contingent Resources.
+
+Means Tier 1 Capital, as defined in PRU.
+
+Means the minimum amount of Capital Resources an Authorised Person must hold, calculated in accordance with the applicable provisions of PRU Chapter 3.
+
+Means the total capital resources of an Authorised Person calculated in accordance with PRU 3.15.
+
+Means a:
+
+(a) Class 1 Captive Cell;

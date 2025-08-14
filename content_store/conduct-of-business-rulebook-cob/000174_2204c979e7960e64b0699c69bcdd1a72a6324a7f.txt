@@ -1,0 +1,15 @@
+7.11.4 For the purposes of Rule 7.11.3:
+
+(a)
+
+an Insurer includes a Cell of a Protected Cell Company which is an Insurer; and
+
+(b)
+
+a shareholder includes a holder of Cell Shares.
+
+7.11.5 Pooling Event
+
+Following a Pooling Event, an Insurance Intermediary and Insurance Manager must comply with the Client Money Distribution Rules in Rule 14.13 and all Money will also be subject to such Rules in the same way as Client Money.
+
+7.11.6 Insurance Money Segregation

@@ -1,0 +1,7 @@
+Guidance
+
+1.
+
+The principle set out at Rule 3.5.7(2)(a)(i) is known as the “least privilege principle”. This is a recognised information security concept that provides that only the minimum access necessary to perform an operation or task should be granted and that the access should be granted only for the minimum amount of time necessary. Its purpose is to reduce risk by limiting the number of individuals with access rights or privileges. In line with this principle, the Regulator expects an Authorised Person to base access rights and privileges, including access rights and privileges of Employees, Customers and third-party service providers, on a user’s requirements and responsibilities and to revoke those rights and privileges as soon as they are no longer required, in particular when an employment, customer or contractual relationship comes to an end, or there is a change in a user’s requirements or tasks.
+
+2.

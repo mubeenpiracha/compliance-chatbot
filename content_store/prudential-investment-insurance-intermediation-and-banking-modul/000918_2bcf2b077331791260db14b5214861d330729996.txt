@@ -1,0 +1,27 @@
+A4.8.14 For the purpose of calculating the adjusted notional amount of transaction ‘i’ referred to in Rule A4.8.13, an Authorised Firm must determine the notional amount of transaction ‘i’, as follows:
+
+(a)
+
+if the notional amount of a transaction is specified by the contract and fixed until maturity, the notional amount is the one specified;
+
+(b)
+
+if the notional amount is expressed as a formula of market values, the current market values must be used to determine the notional amount;
+
+(c)
+
+for a transaction allocated to the interest rate or credit asset class that has variable notional amounts specified by the contract, such as an amortising and accreting swap, the notional amount is the time-weighted average notional amount over the remaining life of the transaction;
+
+297
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+(d)
+
+for a leveraged swap, the transaction must be converted to the notional of the equivalent unleveraged swap; and
+
+(e)
+
+for a transaction that has multiple exchanges of the principal, the notional amount is multiplied by the number of exchanges of principal in the transaction.

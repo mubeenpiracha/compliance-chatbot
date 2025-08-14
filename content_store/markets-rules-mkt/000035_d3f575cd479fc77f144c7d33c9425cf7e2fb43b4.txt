@@ -1,0 +1,9 @@
+The DFSA may modify the application of the SME definition in Rule 1.3.3 in relation to a particular Applicant or Listed Entity, where it is satisfied that it is appropriate in the circumstances to do so. For example, if an Applicant is likely:
+
+(a) to exceed the threshold in Rule 1.3.3(1)(b), but can demonstrate that it is appropriate to treat it as a SME because of its limited operating history and early stage of its development; or
+
+(b) to fall below the threshold in Rule 1.3.3(1)(b), but can demonstrate that it should not be
+
+treated as a SME because it has an established track record and business.
+
+Interpreting the rulebook

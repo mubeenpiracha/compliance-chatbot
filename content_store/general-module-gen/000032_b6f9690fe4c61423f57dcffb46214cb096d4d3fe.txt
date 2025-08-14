@@ -1,0 +1,21 @@
+Permitted Financial Services for Authorised Market Institutions
+
+2.2.11 Pursuant to Article 42(1)(b) of the Regulatory Law 2004 and subject to Rule 2.2.12, an Authorised Market Institution may carry on any one or more of the following Financial Services:
+
+(a) Operating an Exchange;
+
+(b) Operating a Clearing House; or
+
+(c) Operating an Alternative Trading System to the extent that such activities constitute operating a Multilateral Trading Facility as defined in Rule 2.22.1(1)(a).
+
+2.2.12 The Financial Service of Operating an Alternative Trading System, to the extent that such activities constitute operating a Multilateral Trading Facility, may be carried on by an Authorised Market Institution which is permitted to do so by an endorsement on its Licence.
+
+Other permitted activities
+
+2.2.13 (1)
+
+The activity of maintaining a Trade Repository may be carried on by an Authorised Person which is permitted to do so by an endorsement on its Licence.
+
+(2)
+
+In (1), a Trade Repository is a centralised registry that maintains an electronic database containing records of transactions in Investments and over-the-counter derivatives.

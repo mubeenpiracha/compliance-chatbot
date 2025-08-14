@@ -1,0 +1,13 @@
+Guidance
+
+1.
+
+The level of detail required in the disclosure of information concerning methodologies, models and key assumptions should be such as to give adequate information to the users of Credit Ratings to enable them to perform their own due diligence when assessing whether, or to what extent, reliance can be placed on those Credit Ratings (see Rule 8.8.1). Disclosure of information must not, however, reveal confidential information of, or relating to, the Rating Subject or its Group pursuant to Rule 8.9.1.
+
+2.
+
+The information referred to in Guidance No. 1 should generally include the meaning of each rating category and the definition of default or recovery, and the time horizon the Credit Rating Agency used when making a Credit Rating.
+
+3.
+
+A Credit Rating Agency should adequately and clearly disclose applicable risks which may affect a Credit Rating, including a sensitivity analysis of the relevant assumptions and an explanation of how various market developments affect the parameters built into the methodologies and models and may influence or impinge on the Credit Rating (for example volatility).

@@ -1,0 +1,37 @@
+a.
+
+commitments given;
+
+b.
+
+standby facilities given;
+
+c.
+
+wholesale overdraft facilities given;
+
+d.
+
+proprietary Derivatives positions; and
+
+e.
+
+liquidity facilities given for securitisation transactions.
+
+Measuring and monitoring Liquidity Risk
+
+9.2.5
+
+(1)
+
+An Authorised Person must ensure that the method referred to Rule 9.2.1(4) for measuring Liquidity Risk is capable of:
+
+(a)
+
+measuring the extent of the Liquidity Risk it is incurring and includes early warning indicators to aid its daily liquidity risk measurement and management processes;
+
+(b)
+
+dealing with the dynamic aspects of the Authorised Person's liquidity profile;
+
+(c)

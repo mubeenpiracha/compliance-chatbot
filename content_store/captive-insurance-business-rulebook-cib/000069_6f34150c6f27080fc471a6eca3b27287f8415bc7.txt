@@ -1,0 +1,17 @@
+General requirements: methods of valuation and systems and controls
+
+6.5.1 A Captive Insurer must establish and maintain systems and controls sufficient to provide
+
+prudent and reliable valuation estimates.
+
+6.5.2 Systems and controls under Rule 6.5.1 must include documented policies and procedures for the process of valuation, including clearly defined responsibilities of the various areas involved in the determination of the valuation, sources of market information and a review of their appropriateness, frequency of independent valuation, timing of closing prices, procedures for adjusting valuations, month-end and ad-hoc verification procedures and, where relevant, guidelines for the use of unobservable inputs reflecting a Captive Insurer's assumptions of what market participants would use in pricing the position.
+
+6.6
+
+General requirements: marking to market
+
+6.6.1 Subject to the exceptions set out in this Chapter, Rule 6.6.2 applies in relation to the
+
+valuation of Investments that are, or amounts arising from the disposal of:
+
+(a)

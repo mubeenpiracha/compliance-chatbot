@@ -1,0 +1,7 @@
+Guidance
+
+1.
+
+Where clearing members provide client clearing services, and client transactions and collateral are held in separate sub-accounts to the clearing member's proprietary business, each such client sub-account should enter the sum separately, i.e. the member EAD in the formula above is then the sum of the client sub-account EADs and any house sub-account EAD. This will ensure that client collateral cannot be used to offset the exposures of the QCCP to clearing members' proprietary activity in the calculation of KCCP. If any of these sub-accounts contains both derivatives and SFTs, the EAD of that sub-account is the sum of the derivative EAD and the SFT EAD.
+
+If the default fund contributions of the member (DFi) are not split with regard to client and house sub-accounts, they must be allocated per sub-account according to the respective fraction the initial margin of that sub-account has in relation to the total initial margin posted by or for the account of the clearing member.

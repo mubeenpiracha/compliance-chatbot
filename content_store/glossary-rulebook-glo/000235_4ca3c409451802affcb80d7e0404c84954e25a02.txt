@@ -1,0 +1,29 @@
+the VALMIN Code;
+
+(b)
+
+the SAMVAL Code; and
+
+(c)
+
+the CIMVAL Code.
+
+Means a capital requirement calculated in accordance with Rules 3.6A.2, 3.6A.4 and 3.6A.6 of PRU as applicable for the activities undertaken by a Money Remitter or a Payment Service Provider.
+
+86
+
+GLO VER23.290725
+
+Defined Terms
+
+Definitions
+
+Venture Capital Fund
+
+Has the meaning given in FUNDS 4.1.6.
+
+Venue identification
+
+Means executed. That Investment Exchange's unique harmonised identification code.
+
+identification of the venue where the transaction was identification shall consist of the Recognised

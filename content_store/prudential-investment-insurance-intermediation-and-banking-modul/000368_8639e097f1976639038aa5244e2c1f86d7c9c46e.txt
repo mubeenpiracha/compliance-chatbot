@@ -1,0 +1,35 @@
+117
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+Retail Exposures
+
+4.12.16 (1) An Authorised Firm must, subject to Rule 4.12.17, risk-weight Retail Exposures
+
+as follows:
+
+(a) Regulatory Retail Exposures that do not arise from Exposures to
+
+Transactors must be assigned a risk weight of 75%;
+
+(b) Regulatory Retail Exposures that arise from Exposures to Transactors
+
+must be assigned a risk weight of 45%; and
+
+(c)
+
+other Retail Exposures that do not qualify as Regulatory Retail Exposures must be assigned a risk weight of 100%.
+
+(2) For the purposes of (1), a Retail Exposure qualifies as a Regulatory Retail
+
+Exposure if it meets all of the following conditions:
+
+(a)
+
+the Retail Exposure takes the form of any of the following types of Exposure:
+
+(i)
+
+revolving credit and lines of credit, including credit cards, charge cards and overdrafts;

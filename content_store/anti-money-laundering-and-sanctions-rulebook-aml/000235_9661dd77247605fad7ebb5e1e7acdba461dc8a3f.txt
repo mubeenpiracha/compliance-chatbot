@@ -1,0 +1,23 @@
+Confidential
+
+84
+
+AML VER10.020125
+
+14.
+
+SUSPICIOUS ACTIVITY/TRANSACTION REPORTS
+
+14.1 Application and definitions
+
+In this Chapter "money laundering" and “terrorist financing" means the criminal offences defined in Federal AML Legislation.
+
+14.2
+
+Internal reporting requirements
+
+14.2.1 A Relevant Person must establish and maintain policies, procedures, systems and controls in order to monitor and detect suspicious activity or Transactions in relation to potential money laundering or terrorist financing.
+
+14.2.2 A Relevant Person must have policies, procedures, systems and controls to ensure that whenever any Employee, acting in the ordinary course of his employment, either:
+
+(a)

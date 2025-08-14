@@ -1,0 +1,33 @@
+monitor the size of its Trading Book; and
+
+(b)
+
+ensure that positions are included consistently in its Trading Book and Non-Trading Book so that:
+
+(i)
+
+the inclusion of hedging positions in the Trading Book or the Non-Trading Book at all times reflects the intent of the Authorised Person in holding the position; and
+
+47
+
+PRU VER17.290725
+
+(ii)
+
+adequate records are made if positions are transferred between Trading and Non-Trading Books so that the transfers may be identified.
+
+2.3
+
+Reporting
+
+2.3.1
+
+(1)
+
+An Authorised Person must comply with the accounting and prudential reporting requirements set out in this Chapter and PRU which apply to it.
+
+(2)
+
+The Regulator may impose additional reporting requirements on an Authorised Person.
+
+2.3.2

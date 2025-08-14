@@ -1,0 +1,31 @@
+(A1) Elements of Common Equity Tier 1 (CET1) Capital
+
+(A2) Adjustments to/deductions from CET1 Capital
+
+(A3) CET1 Capital = A1 – A2
+
+(A4) Elements of Additional Tier 1 (AT1) Capital
+
+(A5) Deductions from AT1 Capital
+
+(A6) AT1 Capital = A4 – A5
+
+(A7) Tier 1 (T1) Capital = A3 + A6
+
+91
+
+PRU VER17.290725
+
+(A8) Elements of Tier 2 (T2) Capital
+
+(A9) Deductions from T2 Capital
+
+(A10) Tier 2 (T2) Capital = A8 – A9
+
+(A11) Capital Resources = A7 + A10
+
+3.15.4
+
+The Capital Resources of an Authorised Person to which this section applies is defined as the sum of its CET1 Capital, AT1 Capital and T2 Capital.
+
+3.16

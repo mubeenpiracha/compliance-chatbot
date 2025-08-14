@@ -1,0 +1,5 @@
+7. When an Authorised Firm carries on Financial Services with another Authorised Firm or a Regulated Financial Institution, such services would generally qualify as Financial Services that can be carried on with a Market Counterparty (provided the procedures in Rule 2.3.9(2) are met). Examples of such services include: providing reinsurance or insurance management services to an insurer; and
+
+providing one or more Financial Services of custody, managing assets, or fund administration services to a fund manager, collective investment fund or a pension fund.
+
+Such activities would not attract most of the client protection provisions contained in the Rulebook modules for the reasons set out under item 6 above.

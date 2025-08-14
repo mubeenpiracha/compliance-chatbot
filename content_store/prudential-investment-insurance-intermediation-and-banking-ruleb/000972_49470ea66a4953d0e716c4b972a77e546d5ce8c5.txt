@@ -1,0 +1,25 @@
+(2)
+
+An Authorised Person may net positions in different commodities where those commodities:
+
+(a)
+
+are deliverable against each other; and
+
+(b)
+
+are in one or more sub-categories of the same category;
+
+Guidance
+
+1.
+
+For the purposes of Rule A6.5.4, an example of a category is oil. An example of a sub-category is Brent.
+
+2.
+
+For the Simplified Approach and the Maturity Ladder approach, long and short positions in each commodity may be reported on a net basis for the purposes of calculating open positions.
+
+355
+
+PRU VER17.290725

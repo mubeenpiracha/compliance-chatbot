@@ -1,0 +1,21 @@
+A CCP must:
+
+(a)
+
+undertake the analysis referred to in (2)(b) at least on a two-month basis, unless more frequent analysis is warranted because the Investments or Crypto Tokens cleared or markets served display the size or high volatility, become concentration of positions held by its participants increase significantly; and
+
+less
+
+liquid, or when
+
+(b)
+
+perform a full validation of its risk-management models at least annually.
+
+Guidance
+
+1.
+
+A robust assessment process should enable a CCP to effectively measure, monitor, and manage its risks and exposures effectively. In particular, it should be able to identify sources of credit risk and routinely measure and monitor its credit exposures. Generally, a CCP should have daily stress testing to measure and monitor its risk exposures, especially if its operations are complex or widely spread over multiple jurisdictions. It should use appropriate risk management tools to control the identified credit risks. A CCP should use margin and other prefunded financial resources in order to do so.
+
+2.

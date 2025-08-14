@@ -1,0 +1,13 @@
+19A.2.3 An Authorised Person which intends to issue a Fiat-Referenced Token must publish the white paper on its website prior to any issuance and maintain such publication there for as long as the relevant Fiat-Referenced Token remains in circulation, unless the white paper is replaced in accordance with Rule 19A.2.4.
+
+19A.2.4 The white paper prepared in accordance with Rules 19A.2.1 to 19A.2.3 must be
+
+updated:
+
+(a)
+
+in the event the information provided in accordance with Rule 19A.2.1 becomes materially inaccurate; or
+
+(b) where one calendar year has passed since the publication of the current
+
+published version of the white paper.

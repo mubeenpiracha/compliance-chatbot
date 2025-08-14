@@ -1,0 +1,9 @@
+Chapter 5.
+
+4.1.3
+
+In this Chapter and in the appendices referred to in this Chapter, references to ratings are made according to the rating hierarchy (AAA, AA, etc) of Standard & Poor's. Where, for the purposes of a provision of this Chapter or of an appendix, an Insurer uses ratings from a Rating Agency other than Standard & Poor's, the Insurer must apply that provision as though the Standard & Poor's rating referred to in the provision were replaced by the rating from that other Rating Agency that is equivalent to the Standard & Poor's rating.
+
+4.1.4 An Insurer must not, for the purposes of this Chapter or the appendices referred to in this Chapter, use ratings provided by any Rating Agency except those approved/registered by the Regulator or by the Emirates Securities and Commodities Authority (ESCA) or by the European Securities and Markets Authority (ESMA) or by an equivalent financial services regulator accepted as such by ADGM.
+
+4.2

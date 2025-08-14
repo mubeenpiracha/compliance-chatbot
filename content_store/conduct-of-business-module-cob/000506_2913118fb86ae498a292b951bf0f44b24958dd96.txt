@@ -1,0 +1,17 @@
+12.2.7 An Operator of a Scheme must ensure that if it delegates or outsources an activity that is a financial service, the activity is carried on by a person who is either:
+
+(a) authorised by the DFSA to carry on that activity; or
+
+(b)
+
+regulated and supervised for that activity by a Financial Services Regulator.
+
+12.3 Key Information about the Scheme
+
+Information for prospective members
+
+12.3.1 An Operator of a Scheme must ensure that before a person becomes a Member of
+
+the Scheme, that person is provided with the following information:
+
+(a)

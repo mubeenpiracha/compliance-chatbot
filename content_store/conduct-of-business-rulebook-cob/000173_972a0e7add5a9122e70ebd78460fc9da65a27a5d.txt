@@ -1,0 +1,25 @@
+(ii)
+
+insurance cover is maintained for the Client once the monies are received by the Insurance Intermediary or the Insurance Manager, as the case may be; and
+
+55
+
+COBS VER19.290725
+
+(iii)
+
+the insurer's obligation to make a payment to the Client is not discharged until actual receipt of the relevant monies by the Client.
+
+7.11.3 In this section, a Client of an Insurance Manager means:
+
+(a)
+
+any insurer for which the Insurance Manager provides Insurance Management;
+
+(b)
+
+any shareholder of an insurer mentioned in Rule 7.11.3(a); or
+
+(c)
+
+any Person on whose behalf the Insurance Manager undertakes to establish that Person as an insurer.

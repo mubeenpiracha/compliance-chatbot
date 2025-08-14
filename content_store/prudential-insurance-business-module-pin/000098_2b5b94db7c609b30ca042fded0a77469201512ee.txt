@@ -1,0 +1,23 @@
+Guidance
+
+The Returns and instructional guidelines are provided in App10, PRU and the DFSA’s electronic prudential reporting system.
+
+6.2.4 Where an Insurer includes in its Annual Regulatory Return a value for General Insurance Liabilities or for assets associated with those liabilities which is inconsistent with the Actuary’s estimate referred to in Rule 7.2.4 (b), the Insurer must notify the DFSA in writing of:
+
+(a)
+
+the reasons for not including the Actuary’s estimate in its Annual Regulatory Return; and
+
+(b)
+
+details of the alternative assumptions and methodologies used for determining the value it has included in the return.
+
+6.2.5 Where an Insurer includes in its Annual Regulatory Return a value for Long-Term Insurance Liabilities which is inconsistent with the Actuary’s estimate referred to in Rule 7.3.6 (e), the Insurer must notify the DFSA in writing of;
+
+(a)
+
+the reasons for not including the Actuary’s estimate in its Annual Regulatory Return; and
+
+(b)
+
+details of the alternative assumptions and methods used by the Insurer for determining the value it has included in the return.

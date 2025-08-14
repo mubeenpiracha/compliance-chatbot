@@ -1,0 +1,15 @@
+Payment for transportation or storage
+
+A3.2.7 A Commodity Derivative contract must specify:
+
+(a)
+
+the respective responsibilities of the parties to the contract regarding costs associated with transporting the commodity to and from the designated delivery point and any applicable storage costs; and
+
+(b)
+
+how and when title to the commodity transfers, including from any short to long position holder.
+
+Legal enforceability
+
+A3.2.8 A Commodity Derivative contract must, where any one or more of the activities of trading, clearing or settlement under the contract take place in different jurisdictions, contain adequate arrangements to mitigate risks arising from any disparity between governing laws applicable in the relevant jurisdictions.

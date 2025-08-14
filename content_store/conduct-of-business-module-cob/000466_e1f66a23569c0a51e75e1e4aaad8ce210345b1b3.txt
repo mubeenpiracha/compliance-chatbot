@@ -1,0 +1,7 @@
+If a material change occurs after the commitment period, in addition to notifying lenders or investors of the details, the operator is required to inform lenders or investors whether this affects their rights and whether the operator is proposing to take further steps e.g. to clarify the situation or to take action for a default.
+
+Borrower, Issuer or seller not to use other platforms
+
+11.3.10 An operator must take reasonable steps to restrict a borrower, Issuer or seller from
+
+seeking funding on another crowdfunding platform during the commitment period.

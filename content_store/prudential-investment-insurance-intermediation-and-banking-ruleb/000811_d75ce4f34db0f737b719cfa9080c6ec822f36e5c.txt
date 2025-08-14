@@ -1,0 +1,27 @@
+with the following formula:
+
+𝑀𝐹𝑖
+
+(𝑚𝑎𝑟𝑔𝑖𝑛𝑒𝑑) =
+
+3 2
+
+√
+
+𝑀𝑃𝑂𝑅𝑖 1 𝑦𝑒𝑎𝑟
+
+The appropriate margin period of risk (MPORi) is determined in accordance with the following table:
+
+Transaction Type
+
+Minimum Margin Period of Risk (MPORi)
+
+Non-centrally-cleared derivative transactions subject to daily margin agreements
+
+Ten business days
+
+Centrally cleared derivative transactions subject to daily margin agreements
+
+Five business days
+
+Netting sets consisting of 5,000 or more transactions that are not with a central counterparty

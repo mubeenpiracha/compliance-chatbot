@@ -1,0 +1,25 @@
+GEN, in accordance with Rules 6.6.1, and 8.8.12;
+
+(d)
+
+PIN, in accordance with Rules 6.6.1, 6.6.7, 6.7.2(1), 7.2.3 and 7.3.5;
+
+(e)
+
+PRU, in accordance with Rules 2.3.7, 3.21.1, 10.3.2(3) and 10.4.2(3).
+
+69
+
+GLO VER23.290725
+
+Defined Terms
+
+Definitions
+
+Regulatory Functions
+
+Means the functions of the Recognised Body so far as relating to, or to matters arising out of, the obligations to which the Recognised Body is subject to under FSMR and MIR.
+
+Regulatory Provision
+
+Has the meaning given to that term in section 138(1)(a) of FSMR.

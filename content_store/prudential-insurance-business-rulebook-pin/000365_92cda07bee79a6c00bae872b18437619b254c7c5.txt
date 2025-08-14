@@ -1,0 +1,19 @@
+Business Return. An ADGM Business Return has the following characteristics:
+
+(a)
+
+it includes only liabilities that are Insurance Liabilities of the Insurer in respect of its ADGM Insurance Business and assets that are associated with those Insurance Liabilities; and
+
+(b) revenues and expenses must be included only to the extent that they are
+
+attributable to the Insurer's ADGM Insurance Business.
+
+Guidance
+
+The assets that are associated with Insurance Liabilities normally include only reinsurance and other recoveries in respect of claims, whether or not incurred, included in Insurance Liabilities. The ADGM Business Return does not include assets such as investments, fixed assets, or receivables other than reinsurance recoveries in respect of Insurance Liabilities.
+
+124
+
+PIN VER07.290725
+
+A10.3

@@ -1,0 +1,85 @@
+Bought
+
+Sold
+
+Call options
+
+𝛅𝒊 = Ф
+
+𝐥𝐧(
+
+𝐏𝐢 + 𝝀𝒋 𝐊𝐢 + 𝝀𝒋
+
+) + 𝟎.𝟓 ∙ 𝛔𝐢
+
+𝛔𝐢 ∙ √𝐓𝐢
+
+𝟐 ∙ 𝐓𝐢
+
+δ𝑖 = −Ф
+
+ln(
+
+Pi + 𝜆𝑗 Ki + 𝜆𝑗
+
+) + 0.5 ∙ σi
+
+σi ∙ √Ti
+
+2 ∙ Ti
+
+(
+
+)
+
+(
+
+)
+
+Put options
+
+δ𝑖 = −Ф
+
+ln(
+
+Pi + 𝜆𝑗 Ki + 𝜆𝑗
+
+) + 0.5 ∙ σi
+
+σi ∙ √Ti
+
+2 ∙ Ti
+
+δ𝑖 = Ф
+
+ln(
+
+Pi + 𝜆𝑗 Ki + 𝜆𝑗
+
+) + 0.5 ∙ σi
+
+σi ∙ √Ti
+
+2 ∙ Ti
+
+(
+
+)
+
+(
+
+)
+
+where:
+
+𝝀𝒋 =
+
+the shift parameter that represents the lowest possible extent to which interest rates in the respective currency can become negative
+
+all other terms are the ones set out in (c)
+
+(e)
+
+for tranches of collateralised debt obligations and a nth-to-default transaction in the credit asset class, the supervisory delta must be set according to the table below:
+
+Purchased (long protection)

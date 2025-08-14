@@ -1,0 +1,9 @@
+Treatment of claims of holders of a Fiat-Referenced Token
+
+19A.11.1 All holders of issued and outstanding Fiat-Referenced Tokens have a pro-rata claim against the Relevant Money and Reserve Investments held by the Authorised Person in respect of such issued and outstanding Fiat-Referenced Tokens, in accordance with the redemption rights set out in the relevant white paper.
+
+150
+
+COBS VER19.290725
+
+19A.11.2 Where an Authorised Person has issued a Fiat-Referenced Token and has placed Relevant Money or Reserve Investments with one or more Third-Party Agents located outside ADGM, the Authorised Person must take such additional steps as may be required in the jurisdiction of each Third-Party Agent to ensure that interests of the holders of the issued and outstanding Fiat-Referenced Tokens, as set out in Rule 19A.11.1, rank in priority to interests of any other creditor of the Authorised Person.

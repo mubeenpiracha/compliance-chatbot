@@ -1,0 +1,17 @@
+Guidance
+
+1.
+
+An Authorised Firm is exposed to the risk associated with unsettled securities, commodities and foreign exchange transactions from trade date. Irrespective of the booking or the accounting of the transaction, unsettled transactions are taken into account for regulatory capital requirements purposes.
+
+2.
+
+Transactions settled through a delivery-versus-payment system (DvP), providing simultaneous exchanges of securities for cash, expose an Authorised Firm to a risk of loss on the difference between the transaction valued at the agreed settlement price and the transaction valued at current market price (ie positive current exposure). PIB Rule A4.6.2 requires an Authorised Firm to calculate RWAs for such Exposures if the payments have not yet taken place five business days after the settlement date.
+
+278
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+3.

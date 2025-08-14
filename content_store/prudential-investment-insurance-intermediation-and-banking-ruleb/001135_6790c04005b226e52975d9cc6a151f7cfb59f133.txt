@@ -1,0 +1,35 @@
+Cash Inflows
+
+Item
+
+Factor
+
+Maturing secured lending (including reverse repos and Securities borrowing), backed by the following as Collateral: • Level 1 HQLA • Level 2A HQLA
+
+0%
+
+15%
+
+Level 2B HQLA
+
+o Eligible RMBS o Other assets
+
+25%
+
+50%
+
+Margin lending backed by all other Collateral
+
+50%
+
+All other assets
+
+100%
+
+Credit or liquidity facilities provided to the reporting Authorised Person
+
+0%
+
+Operational Deposits held at other Financial Institutions (including Deposits held at centralised institution of network of co-operative banks)
+
+0%

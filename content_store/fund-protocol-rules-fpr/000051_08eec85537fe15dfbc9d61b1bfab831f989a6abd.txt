@@ -1,0 +1,29 @@
+8.2
+
+Notification of de-registration by Home Regulator to the DFSA
+
+8.2.1
+
+This section applies if the DFSA is the Host Regulator of a Passported Fund.
+
+8.2.2
+
+If a Home Regulator informs the DFSA that a Passported Fund has been de- registered and removed from the Register of Passported Funds maintained by that Home Regulator, the DFSA will promptly update the Register of Passported Funds maintained by it to reflect such de-registration.
+
+8.2.3 All Promotion of the Passported Fund in the DIFC under these Rules must immediately cease upon its removal from the earlier of the relevant Home Jurisdiction’s Register of Passported Funds or the Register of Passported
+
+20
+
+FPR/VER1/02-19
+
+Funds maintained by the DFSA.
+
+21
+
+FUND PROTOCOL RULES (FPR)
+
+FPR/VER1/02-19
+
+FUND PROTOCOL RULES (FPR)
+
+9

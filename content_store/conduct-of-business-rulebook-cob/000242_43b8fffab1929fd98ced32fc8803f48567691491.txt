@@ -1,0 +1,53 @@
+11.1.3 Passing a Client Order to another Person for Execution
+
+An Authorised Person must, pursuant to Rule 6.8.2(c), make a record of the following:
+
+(a)
+
+the identity of the Person instructed;
+
+(b)
+
+the terms of the instruction; and
+
+(c)
+
+the date and time that the instruction was given.
+
+11.1.4 Sending Confirmation Notes
+
+1. An Authorised Person must include the following information in its confirmation notes:
+
+(a)
+
+the Authorised Person's name and address;
+
+(b)
+
+whether the Authorised Person Executed the Transaction as principal or agent;
+
+(c)
+
+the Client's name, account number or other identifier;
+
+77
+
+COBS VER19.290725
+
+(d)
+
+a description of the Investment or Fund, including the amount invested or number of units involved;
+
+(e)
+
+whether the Transaction is a sale or purchase;
+
+(f)
+
+the price or unit price at which the Transaction was Executed, or where the order is executed in tranches the average price of the Transaction as a whole supplemented by, at the request of the Client, information about the price of each tranche of the Transaction;
+
+(g)
+
+if applicable, a statement that the Transaction was Executed on an Execution- Only basis;
+
+(h)

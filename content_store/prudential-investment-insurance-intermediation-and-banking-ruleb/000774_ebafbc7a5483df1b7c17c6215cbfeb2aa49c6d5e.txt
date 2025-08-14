@@ -1,0 +1,19 @@
+Requirements for use of own-estimate haircuts
+
+A4.3.20 An Authorised Person using own-estimate haircuts must estimate the volatility for each individual instrument that is taken as eligible financial Collateral. In estimating such volatility, the Authorised Person must not take into account the correlations between unsecured Exposures, Collateral and exchange rates. Where there are Maturity Mismatches, the Authorised Person must apply Rules 4.13.14 to 4.13.16.
+
+A4.3.21 An Authorised Person must ensure that the model used to estimate volatilities
+
+captures all the material risks run by it.
+
+A4.3.22
+
+In calculating the haircuts using internal estimates of volatilities, an Authorised Person must:
+
+(a)
+
+use a 99th percentile, one-tailed confidence interval;
+
+(b)
+
+use the minimum holding period and remargining or revaluation conditions according to the type of transaction as set out in Rules A4.3.24 to A4.3.26. Where the minimum holding period, remargining or revaluation conditions used by an Authorised Person differ from those set out above, it must adjust the haircuts using the formulae in Rules A4.3.25 to A4.3.26;

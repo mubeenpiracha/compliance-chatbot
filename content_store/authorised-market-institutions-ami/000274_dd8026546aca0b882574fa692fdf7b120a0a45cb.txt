@@ -1,0 +1,23 @@
+(ii)
+
+at more granular levels, meet distribution of future exposures; and
+
+the corresponding
+
+(b)
+
+use models which, among other things:
+
+(i)
+
+rely on conservative estimates of the time horizons for the effective hedging or close out of the particular types of products cleared by the CCP, including in stressed market conditions; and
+
+83
+
+AMI/VER28/03-25
+
+AUTHORISED MARKET INSTITUTIONS (AMI)
+
+(ii)
+
+have an appropriate method for measuring credit exposure that accounts for relevant product risk factors and portfolio effects across products, and, to the extent practicable and prudent, for destabilising procyclical changes.

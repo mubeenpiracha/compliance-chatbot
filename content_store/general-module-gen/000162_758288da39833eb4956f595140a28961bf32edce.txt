@@ -1,0 +1,25 @@
+2.31 Acting as the Administrator of an Employee Money Purchase
+
+Scheme
+
+2.31.1 (1)
+
+In Rule 2.2.2, Acting as the Administrator of an Employee Money Purchase Scheme means performing one or more of the following functions for or on behalf of the Operator of the Scheme:
+
+(a)
+
+technical operational functions relating to the Scheme;
+
+(b)
+
+communicating with Members or providing support services to Members;
+
+(c)
+
+operating an Investment Platform; or
+
+(d)
+
+reporting functions relating to the Scheme.
+
+(2)

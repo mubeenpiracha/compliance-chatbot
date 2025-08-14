@@ -1,0 +1,13 @@
+7.2.11 In assessing an application for a Licence authorising the applicant to Operate an Alternative Trading System, the DFSA will have regard to, but is not limited to, considering the following matters:
+
+(a)
+
+whether the establishment of an Alternative Trading System is, or is likely to be, in the interests of the Financial Services and Markets industry;
+
+(b)
+
+whether the Alternative Trading System will or is likely to lead to more efficient price discovery of, or deepen liquidity in, an Investment; and
+
+(c)
+
+whether there is any risk of market fragmentation, loss of liquidity or inefficiency in price discovery as a result of the proposed Alternative Trading System operation.

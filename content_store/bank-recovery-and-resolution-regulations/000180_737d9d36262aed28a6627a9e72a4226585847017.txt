@@ -1,0 +1,15 @@
+Chapter 5 Resolution Safeguards
+
+67.
+
+Treatment of Shareholders in the case of partial transfers and application of the bail in tool
+
+Where one or more of the Resolution Tools have been applied, the Regulator shall be guided by the following principles—
+
+(a)
+
+except where subsection (b) applies, where the Regulator transfers only part of the rights, assets and liabilities of the Institution in Resolution, the Shareholders and creditors whose claims have not been transferred should, to the extent reasonably practicable, receive in satisfaction of their claims at least as much as they would have received if the Institution in Resolution had been Wound Up under Insolvency Proceedings at the time (when the Regulator delivered notice in accordance with section 24(3)); and
+
+(b)
+
+where the Regulator applies the Bail-in Tool, the Shareholders and creditors whose claims have been written down or converted to Shares should, to the extent reasonably practicable, not incur greater losses than they would have incurred if the Institution in Resolution had been Wound Up under Insolvency Proceedings immediately at the time (when the Regulator delivered notice in accordance with section 24(3)).

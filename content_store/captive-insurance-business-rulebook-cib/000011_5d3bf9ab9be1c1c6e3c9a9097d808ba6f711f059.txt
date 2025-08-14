@@ -1,0 +1,11 @@
+Class 1 Captive Insurer
+
+A Class 1 Captive Insurer is a Captive Insurer that is permitted under the conditions of its Financial Services Permission to effect or carry out Contracts of Insurance only for risks related to or arising out of the business or operations of the Group to which the insurer belongs.
+
+1.5
+
+Class 2 Captive Insurer
+
+A Class 2 Captive Insurer is a Captive Insurer that is permitted under the conditions of its Financial Services Permission to obtain no more than 20% of its Gross Written Premium from third party risks arising from business or operations that are Closely Linked to the business or operations of the Group to which the insurer belongs.
+
+1.6

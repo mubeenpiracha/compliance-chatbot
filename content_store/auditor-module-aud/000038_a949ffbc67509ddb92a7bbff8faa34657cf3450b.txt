@@ -1,0 +1,27 @@
+3.2.1 A Registered Auditor that has had its registration suspended by the DFSA, must not:
+
+(a) accept any new audit client who is a Relevant Person;
+
+11
+
+AUD/VER9/07-25
+
+Auditor Module (AUD)
+
+(b) agree to being re-appointed by an existing audit client who is a Relevant Person; or
+
+(c)
+
+issue an audit report relating to a Relevant Person without the prior written consent of the DFSA.
+
+3.2.2
+
+If the DFSA suspends the registration of a Registered Auditor, it may impose such:
+
+(a)
+
+conditions on the Registered Auditor as it sees fit during the period of the suspension; and
+
+(b)
+
+requirements on the procedure for lifting the suspension as it considers appropriate.

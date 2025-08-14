@@ -1,0 +1,21 @@
+AdjNoti
+
+IR,CR = Ni ∙ max{(
+
+e−0.05∙Si − e−0.05∙Ei 0.05
+
+);
+
+10 OneBusinessYear
+
+}
+
+where:
+
+Ni =
+
+the notional amount of transaction ‘i’, converted to USD, using the exchange rate on the calculation date
+
+Si =
+
+the Start Date of transaction ‘i’

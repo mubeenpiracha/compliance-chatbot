@@ -1,0 +1,19 @@
+Guidance
+
+Credit Risk (CR) Exposures outstanding with a CCP would, for example, include credit Exposures arising from monies placed and from Collateral posted, with the Counterparty.
+
+4.10 Categorisation of Credit Risk Exposures (CR Exposures)
+
+Guidance
+
+This section categorises Exposures for the purpose of determining the CRW for CR Exposures, as provided in Rule 4.8.3.
+
+4.10.1 An Authorised Firm must categorise any CR Exposure into one of the following
+
+Exposure classes:
+
+(a)
+
+Exposures to central governments and Central Banks;
+
+(b)

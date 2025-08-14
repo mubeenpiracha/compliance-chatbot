@@ -1,0 +1,15 @@
+(ii)
+
+where the Authorised Person is the Originator of a securitisation, net gains that arise from the capitalisation of future income from the securitised assets that provide Credit Enhancement to positions in the securitisation;
+
+(b)
+
+the amount of cash flow hedge reserve related to gains or losses on cash flow hedges of Financial Instruments that are not valued at fair value, including projected cash flows; and
+
+(c)
+
+all unrealised gains or losses on liabilities of the Authorised Person that are valued at fair value, and which result from changes in the Authorised Person's own credit quality, except when such gains or losses are offset by a change in the fair value of another Financial Instrument which is measured at fair value and resulting from changes in the Authorised Person's own credit quality.
+
+3.10.6
+
+Except for the items referred to in Rule 3.10.5, an Authorised Person must not make any adjustments to remove from its Capital Resources unrealised gains or losses on its assets or liabilities measured at fair value.

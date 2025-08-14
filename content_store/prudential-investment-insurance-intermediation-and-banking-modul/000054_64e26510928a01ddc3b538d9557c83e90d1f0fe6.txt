@@ -1,0 +1,11 @@
+Early Amortisation
+
+A mechanism that, once triggered, allows investors to be paid out prior to the originally stated maturity of the securities issued. For risk-based capital purposes, an Early Amortisation provision will be considered either controlled or non-controlled.
+
+ECAI
+
+A CRA or an external credit rating agency approved by the DFSA for the purpose of this Module.
+
+Equity Risk Capital Requirement
+
+A component of Market Risk Capital Requirement and calculated in accordance with section 5.5.

@@ -1,0 +1,17 @@
+Trustee
+
+8.2.3
+
+In the case of an Investment Trust:
+
+(a)
+
+the Trustee of the Fund must hold the Fund Property in trust for the Unitholders and accordingly is responsible to the Unitholders for the safekeeping of the Fund Property;
+
+(b)
+
+the legal title of the Fund Property must be registered with the Trustee except in the case of a Property Fund investing in Real Property where the Trustee has made adequate alternative arrangements that are in accordance with Rule 13.4.2B; and
+
+(c)
+
+the Trustee must not act on instructions of the Fund Manager in relation to the Fund Property if such instructions are not in accordance with the agreement creating the Investment Trust, the Fund’s Constitution, or the Prospectus.

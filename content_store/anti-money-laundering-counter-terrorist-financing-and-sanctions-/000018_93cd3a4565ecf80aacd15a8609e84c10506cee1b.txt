@@ -1,0 +1,13 @@
+Anti-Money Laundering, Counter-Terrorist Financing and Sanctions Module (AML)
+
+Structure of the AML module
+
+6.
+
+Chapter 1 of this module contains an application table which should assist a Relevant Person to navigate through the module and to determine which chapters are applicable to it. Chapter 1 also specifies who is ultimately responsible for a Relevant Person’s compliance with the AML module. The DFSA expects the senior management of a Relevant Person to establish a robust and effective AML/CTF and sanctions compliance culture for the business.
+
+7.
+
+Chapter 2 provides an overview of the AML module and chapter 3 sets out the key definitions in the module. Note that not all definitions used in this module are capitalised.
+
+8.

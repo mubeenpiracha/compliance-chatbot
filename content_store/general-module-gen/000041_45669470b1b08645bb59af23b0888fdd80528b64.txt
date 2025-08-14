@@ -1,0 +1,5 @@
+Guidance
+
+The terms “Host Jurisdiction”, “Passported Fund”, “Fund Manager”, “Promote”, “Agent” and “Licensed Person” are defined in the Fund Protocol Rules (and in GLO). The exclusion in Rule 2.3.6 does not apply if the Person is already an Authorised Person in the DIFC; it applies to a Fund Manager or its Agent or a Licensed Person that is authorised by another Authority.
+
+2.3.7 (1) A Person does not carry on an activity specified in paragraphs (aa) or (bb) of Rule 2.2.2 by way of business to the extent that the Person operates or acts as the administrator of a Non-DIFC Scheme to which (2) or (3) applies.

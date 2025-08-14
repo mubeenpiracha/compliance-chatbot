@@ -1,0 +1,25 @@
+Interest Rate Risk Capital Requirement
+
+Guidance
+
+Section A5.2 presents the method for the calculation of Specific Risk and General Market Risk in respect of the Interest Rate Risk Capital Requirement as referred to in Rule 5.4.1(b).
+
+A5.2.1 An Authorised Firm which calculates its Interest Rate Risk Capital Requirement in
+
+accordance with Rule 5.4.1(b) must apply the Rules in this section.
+
+A5.2.2 An Authorised Firm must calculate its Interest Rate Risk Capital Requirement as the sum
+
+of the two following separate charges:
+
+(a)
+
+Specific Risk of each net position as calculated in accordance with Rule A5.2.13; and
+
+(b)
+
+General Market Risk calculated in accordance with Rule A5.2.15.
+
+A5.2.3 An Authorised Firm must calculate its Interest Rate Risk Capital Requirement in Trading Book positions in all fixed-rate and floating-rate debt Securities and instruments which behave like them, including:
+
+(a)

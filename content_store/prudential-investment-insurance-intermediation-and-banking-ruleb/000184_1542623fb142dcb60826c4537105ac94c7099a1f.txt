@@ -1,0 +1,31 @@
+Qualifying Holdings;
+
+(ii)
+
+securitisation positions, Chapter 4; and
+
+in accordance with relevant Rules in
+
+(iii)
+
+free deliveries, in accordance with the Rules in Section A4.6; and
+
+for an Authorised Person which is a Partnership, the amount by which the aggregate of the amounts withdrawn by its Partners or members exceeds the profits of that firm.
+
+69
+
+PRU VER17.290725
+
+CET1 Deductions - intangible assets
+
+3.10.8
+
+For the purposes of Rule 3.10.7(b), an Authorised Person must determine the intangible assets to be deducted in accordance with the following:
+
+(a)
+
+the amount to be deducted must be reduced by the amount of associated deferred tax liabilities that would be extinguished if the intangible assets became impaired or were derecognised under the International Financial Reporting Standards; and
+
+(b)
+
+the amount to be deducted must include goodwill included in the valuation of significant Investments of the Authorised Person.

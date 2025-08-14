@@ -1,0 +1,35 @@
+22.8 Additional Rules applicable to Providing Custody in relation to Accepted Spot
+
+Commodities
+
+22.8.1 An Authorised Person that
+
+in relation to Accepted Spot Commodities must comply with the requirements set out in COBS, Chapters 14, 15 and 16.
+
+is Providing Custody
+
+22.8.2 For the purposes of Rule 22.8.1, the following references in Chapters 14, 15 and 16
+
+should be read as follows –
+
+(a)
+
+references to “Client Assets” shall be read as encompassing “Accepted Spot Commodities”; and
+
+(b)
+
+references to “Investment” or “Investments”, (and, a result, the corresponding references to “Client Investments”) shall be read as encompassing “Accepted Spot Commodity” or “Accepted Spot Commodities”, as applicable.
+
+22.8.3 For the purposes of an Authorised Person that is Providing Custody in relation to Accepted Spot Commodities, the following requirements in COBS, Chapters 14 and 15 shall be read as follows –
+
+(a)
+
+the reconciliations of the Client Accounts required under COBS Rule -
+
+(i)
+
+14.2.12(a) shall be carried out at least every week; and
+
+175
+
+COBS VER19.290725

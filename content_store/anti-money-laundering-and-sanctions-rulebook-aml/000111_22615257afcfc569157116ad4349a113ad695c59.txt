@@ -1,0 +1,25 @@
+Guidance
+
+1.
+
+In Rule 7.2.1, ownership arrangements which may prevent the Relevant Person from identifying one or more Beneficial Owners include bearer shares and other negotiable instruments in which ownership is determined by possession.
+
+2.
+
+A Shell Bank is a bank that has no physical presence in the country in which it is incorporated and licensed, and which is unaffiliated with a regulated financial Group that is subject to effective consolidated supervision. The Regulator does not consider that the existence of a local agent or low-level staff constitutes physical presence.
+
+7.2.4
+
+If a Relevant Person uses a numbered account with an abbreviated name, it must ensure that:
+
+(a)
+
+such an account is used only for internal purposes;
+
+(b)
+
+it has undertaken the same CDD procedures in relation to the account holder as are required for other account holders;
+
+(c)
+
+it maintains the same information in relation to the account and account holder as is required for other accounts and account holders; and

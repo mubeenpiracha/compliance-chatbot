@@ -1,0 +1,37 @@
+Option Risk Capital Requirement;
+
+(f)
+
+Collective Investment Fund Risk Capital Requirement; and
+
+(g)
+
+Securities Underwriting Capital Requirement.
+
+Guidance
+
+1.
+
+Detailed Rules and Guidance in respect of the Market Risk Capital Requirement and each of its components in (a) to (g) are contained in this Chapter.
+
+2.
+
+Rules and Guidance in respect of calculating Market Risk for Islamic Contracts are contained in the IFR rules.
+
+5.4
+
+Interest Rate Risk Capital Requirement
+
+5.4.1
+
+An Authorised Person in Category 1 or 2 must calculate its Interest Rate Risk Capital Requirement in respect of Trading Book transactions:
+
+(a)
+
+by applying its internal Market Risk model which has been approved by the Regulator for this purpose; or
+
+(b)
+
+by applying the Rules set out in Section A6.2.
+
+5.5

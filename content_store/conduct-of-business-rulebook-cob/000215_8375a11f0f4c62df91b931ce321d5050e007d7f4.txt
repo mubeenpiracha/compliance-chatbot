@@ -1,0 +1,5 @@
+and updates.
+
+9.9.3 A Credit Rating Agency must indicate with each of its ratings when the rating was last updated. Each rating announcement must also indicate the principal methodology or methodology version that was used in determining the rating and where a description of that methodology can be found. Where the rating is based on more than one methodology, or where a review of only the principal methodology might cause investors to overlook other important aspects of the rating, the Credit Rating Agency must explain this fact in the ratings announcement, and indicate where a discussion of how the different methodologies and other important aspects factored into the rating decision.
+
+9.9.4 Except for "private ratings" provided only to the issuer, the Credit Rating Agency must disclose to the public, on a non-selective basis and free of charge, any rating regarding publicly issued securities, or public issuers themselves, as well as any subsequent decisions to discontinue such a rating, if the rating action is based in whole or in part on material non-public information.

@@ -1,0 +1,23 @@
+Investments of an Umbrella Fund
+
+A Fund Manager of an Umbrella Fund must ensure that none of its Sub-Funds invests in another of its Sub-Funds.
+
+Guidance
+
+Requirements that apply to other Funds apply to Umbrella Funds equally, although there are some Umbrella Fund specific requirements. For convenience of reference, key provisions specific to Umbrella Funds are identified in the following Table.
+
+Additional requirements specific to Umbrella Funds Rule Rule 3.1.10 Rule 13.7.1 Rules 9.4.2 Rules 9.4.6 Rules 9.4.9 Rules 13.7.2
+
+Requirements Definition Form of an Umbrella Fund Annual and interim reports Content of the annual report of an Umbrella Fund Fund Manager’s Report Investment restrictions applicable to Fund of Funds when investing in a Sub-Fund Content of a Public Fund Prospectus Content of a Short Form Prospectus Transfer schemes Winding up
+
+App A7.1.1(2)(h) & 17 Rules 14.3.5 Rules 16.1.1, 16.1.3(3) (4) & (5) Rules 17.1.1 & 17.1.6
+
+110
+
+CIR/VER38/08-24
+
+13.8
+
+13.8.1
+
+COLLECTIVE INVESTMENT RULES (CIR)

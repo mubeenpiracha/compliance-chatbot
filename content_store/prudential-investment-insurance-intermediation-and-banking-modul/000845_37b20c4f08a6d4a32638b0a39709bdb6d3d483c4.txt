@@ -1,0 +1,17 @@
+Calculation of E* for collateralised transactions under FCCA
+
+A4.3.2 An Authorised Firm using the FCCA must, subject to A4.3.3, calculate the Exposure amount after risk mitigation, E*, of a collateralised transaction other than transactions referred to in Rule 4.14A1(a) to (c), using the following formula:
+
+E∗ = max{0,[E ∙ (1 + He) − C ∙ (1 − Hc − Hfx]}
+
+where:
+
+E =
+
+fair value of the Exposure, determined in accordance with section 4.9
+
+271
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)

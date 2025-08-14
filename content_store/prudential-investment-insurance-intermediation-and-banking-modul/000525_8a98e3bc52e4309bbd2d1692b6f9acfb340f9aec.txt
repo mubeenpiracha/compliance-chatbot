@@ -1,0 +1,11 @@
+b.
+
+calculate the Market Risk Capital Requirement and hold the same.
+
+3.
+
+The chapter allows the use of standard pre-defined methodologies for estimating the capital requirement and also allows the use of DFSA-approved internal models to calculate elements of a firm’s Market Risk Capital Requirement. The chapter covers Rules for determining Market Risk Capital Requirement on exposures involving interest rate risk, equity risk, foreign exchange risk, commodities risk, options risk, collective investment fund risk, securities underwriting risk and credit valuation adjustment risk.
+
+4.
+
+Appendix 5 provides the detailed requirements, parameters, calculation methodologies and formulae in respect of the primary requirements outlined in chapter 5. Appendix 5 also provides detailed guidance on criteria for approval of internal models for calculation of Market Risk Capital Requirement, incorporation of incremental risk charges in internal models, if allowed and guidance on the required level of stress testing.

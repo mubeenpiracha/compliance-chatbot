@@ -1,0 +1,13 @@
+Guidance
+
+The DFSA may levy a supplementary fee under Rule 1.2.7 if it appears to it that approval of a Prospectus or other document is likely to cause it to incur substantial additional costs, for example, because the Prospectus or transaction is complex. In such cases, the DFSA will usually discuss with the Issuer the level of supplementary fee before, or as soon as possible after, the submission of an application for approval of the document.
+
+4.1.2 A Person required to pay a fee under Rule 4.1.1, must pay to the DFSA an additional fee of $2,500 when filing a Prospectus or other document if the Prospectus or other document relates to Security Tokens that are:
+
+(a)
+
+to be admitted to trading on an ATS; and
+
+(b)
+
+not admitted to trading on either an Authorised Market Institution or a Regulated Exchange.

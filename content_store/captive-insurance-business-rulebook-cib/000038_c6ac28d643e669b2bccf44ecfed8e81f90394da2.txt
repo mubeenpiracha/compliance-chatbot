@@ -1,0 +1,29 @@
+2.3.8 Reporting of group capital adequacy
+
+A Captive Insurer must comply with the requirements of PIN 6.7 pertaining to the reporting of group capital adequacy.
+
+10
+
+CIB VER06.290725
+
+2.3.9 General provisions relating to the completion of forms
+
+(1)
+
+Supplementary Notes must be presented in accordance with any instructions specified by the Regulator, including instructions provided through the prudential reporting system specified by the Regulator. Each Supplementary Note must identify the form to which it relates.
+
+(2)
+
+Regulatory Returns must be presented in English.
+
+(3)
+
+Where the format of a form requires the presentation of comparative information, the comparative information shall be presented according to the following principles:
+
+(a)
+
+in the case of a form forming part of the annual Regulatory Return, the comparative information shall be that presented in the annual Regulatory Return for the previous reporting period;
+
+(b)
+
+in the case of a form forming part of the quarterly Regulatory Return, the comparative information shall be that presented in the quarterly Regulatory Return for the corresponding quarter in the previous calendar year;

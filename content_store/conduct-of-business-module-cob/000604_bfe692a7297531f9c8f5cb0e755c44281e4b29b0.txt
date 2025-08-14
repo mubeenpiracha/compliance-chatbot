@@ -1,0 +1,29 @@
+4.
+
+While offers, such as lower fees that are not linked to volumes of trade, or access to information services or research tools relating to Crypto Tokens or Crypto Token Derivatives, will not generally be viewed as prohibited forms of incentives, an Authorised Firm would need to be able to demonstrate that these were not offered in a manner that was reasonably likely to influence the Client to deal in Crypto Tokens or Crypto Token Derivatives.
+
+Lending and staking
+
+15.6.5 (1)
+
+An Authorised Firm must not offer or provide any facility or service that allows a Client to lend a Crypto Token to the Authorised Firm or to another person.
+
+189
+
+COB/VER48/03-25
+
+(2)
+
+(3)
+
+CONDUCT OF BUSINESS (COB)
+
+The restriction in (1) does not apply to:
+
+(a)
+
+an Authorised Firm that is authorised to Provide Custody, if:
+
+(i)
+
+the Crypto Token is not a Prohibited Token;

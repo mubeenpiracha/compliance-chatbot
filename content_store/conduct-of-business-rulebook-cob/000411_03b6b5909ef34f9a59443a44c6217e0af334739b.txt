@@ -1,0 +1,17 @@
+(a)
+
+if the user is a Natural Person, ensure that the amount is made available and value dated immediately after the receipt of the Money or Fiat-Referenced Tokens;
+
+136
+
+COBS VER19.290725
+
+(b)
+
+in any other case, ensure that the amount is made available and value dated no later than the end of the next day after the receipt of the Money or Fiat-Referenced Tokens.
+
+Value date and availability of Money or Fiat-Referenced Tokens
+
+19.15.4 (1)
+
+The Credit Value Date for the Payee’s Payment Account must be no later than the day on which the amount of the Payment Transaction is credited to the account of the Payee’s Payment Service Provider.

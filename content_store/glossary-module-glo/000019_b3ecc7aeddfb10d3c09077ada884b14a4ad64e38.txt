@@ -1,0 +1,47 @@
+DIFC under a DFSA Licence.
+
+The written rules of an Authorised Market Institution which govern its activities as an Authorised Market Institution.
+
+8
+
+GLO/VER62/07-25
+
+C
+
+Back to top
+
+Defined Term
+
+Capital Requirement
+
+Capital Resources
+
+Captive Insurer
+
+Carrying Out Contracts of Insurance Category
+
+CCP
+
+Cell
+
+Cell Return
+
+Cell Share Capital
+
+Cell Shares
+
+Cellular Asset
+
+Cellular Liabilities
+
+Central Bank
+
+Central Counterparty
+
+GLOSSARY (GLO)
+
+Definition
+
+The amount of capital an Authorised Firm must hold, calculated in accordance with PIB sections 3.3, 3.4 or 3.5, as applicable.
+
+The total capital resources of an Authorised Firm calculated in accordance with PIB section 3.11.

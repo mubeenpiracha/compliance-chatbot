@@ -1,0 +1,23 @@
+33
+
+CIB VER06.290725
+
+(d)
+
+the contract must require and permit the Actuary to address the Directors of the Captive Insurer if the Actuary believes that there is a matter relating to the financial position or operations of the Captive Insurer that should be brought to the attention of the Directors; and
+
+(e)
+
+the contract must require and permit the Actuary to address the Regulator if the Actuary believes that a matter will not be adequately dealt with simply by bringing it to the attention of the Directors.
+
+7.4.2 The Captive Insurer must submit the reports referred to in Rule 7.2 and Rule 7.3 to the Regulator at the same time as it submits its annual Regulatory Return for the reporting period ended on the reporting date.
+
+7.4.3 Abbreviated details may be provided in a report prepared under the requirements of this
+
+Chapter in respect of a Class of Business that is not material.
+
+7.5
+
+Captive Insurers must ensure access to relevant data etc
+
+7.5.1 A Captive Insurer that has appointed an Actuary to provide a report under Rule 7.2 or 7.3 must make arrangements to enable the Actuary to undertake his functions, and in particular must:

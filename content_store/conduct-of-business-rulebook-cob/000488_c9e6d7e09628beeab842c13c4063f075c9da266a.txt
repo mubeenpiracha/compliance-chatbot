@@ -1,0 +1,13 @@
+Customer’s liability for unauthorised Third Party Transactions
+
+20.12.6 Except where the Customer has acted fraudulently or has with intent or gross negligence failed to ensure that its Personalised Security Credentials are not accessible to persons other than the Customer, the Customer is not liable for any losses incurred in respect of an unauthorised Third Party Transaction:
+
+(a)
+
+arising after notification to the Third Party Provider in the agreed manner on becoming aware of the loss, theft, misappropriation or unauthorised use of the Customer’s Personalised Security Credentials;
+
+(b)
+
+where the Third Party Provider has failed at any time to provide, in accordance with Rule 20.9.2, appropriate means for notification; or
+
+(c)

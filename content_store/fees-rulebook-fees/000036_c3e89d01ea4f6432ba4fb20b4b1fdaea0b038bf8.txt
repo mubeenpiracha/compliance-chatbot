@@ -1,0 +1,31 @@
+Trading Levy for Virtual Assets traded on a Multilateral Trading Facility
+
+3.18.1 An Authorised Person with a Financial Services Permission to carry on the Regulated Activity of Operating a Multilateral Trading Facility to Virtual Assets must pay to the Regulator a trading levy of daily trading value of Virtual Assets traded (as applicable), payable monthly.
+
+in relation
+
+Daily Trading Value (DTV) ($)
+
+Trading Levy
+
+DTV ≤ 10m
+
+0.0015%
+
+10m < DTV ≤ 50m
+
+0.0012%
+
+50m <DTV ≤ 250m
+
+0.0009%
+
+DTV > 250m
+
+0.0006%
+
+Unless otherwise determined by a Multilateral Trading Facility (and agreed to by the Regulator), the Regulator expects that the calculation of average daily value of Virtual Assets traded should occur at 12am Abu Dhabi time (+4hr GMT).
+
+13
+
+FEES VER19.100625

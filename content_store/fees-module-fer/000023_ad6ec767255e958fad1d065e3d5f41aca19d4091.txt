@@ -1,0 +1,33 @@
+Guidance
+
+Section 2.2 applies to a Person that is already licensed (i.e. an Authorised Firm or Authorised Market Institution), that applies for a further authorisation or endorsement.
+
+2.2.1 An Authorised Firm applying for authorisation to carry on additional Financial Services must pay to the DFSA an application fee equal to the difference between:
+
+(a)
+
+the basic fee which would be payable under Rule 2.1.1 (1) if it were an applicant for a Licence in terms currently being sought; and
+
+(b)
+
+the basic fee which would be payable under Rule 2.1.1 (1) if it were an applicant for a Licence in terms of that currently held.
+
+2.2.2 An Authorised Market Institution applying for authorisation to carry on an
+
+additional Financial Service must pay to the DFSA:
+
+(a)
+
+an application fee of $150,000 for the Financial Service of Operating a Clearing House; or
+
+(b)
+
+an application fee of $150,000 for the Financial Service of Operating an Exchange.
+
+7
+
+FER/VER33/07-25
+
+FEES MODULE (FER)
+
+2.2.3 An Authorised Market Institution applying for an endorsement on its Licence authorising it to maintain an Official List of Securities must pay to the DFSA an additional application fee of $150,000.

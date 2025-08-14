@@ -1,0 +1,25 @@
+only accept collateral with low credit, liquidity, and market risks; and
+
+(b)
+
+set and enforce appropriately conservative haircuts and concentration limits.
+
+(2)
+
+A Clearing House must, for the purposes of meeting the requirement in (1), establish and implement a collateral management system that is well designed and operationally flexible. Such a system must, at a minimum:
+
+(a)
+
+limit the assets it accepts as collateral to those with low credit, liquidity, and market risks;
+
+(b)
+
+establish prudent valuation practices and develop haircuts that are regularly tested and take into account stressed market conditions;
+
+(c)
+
+to reduce the need for procyclical adjustments, establish, to the extent practicable and prudent, stable and conservative haircuts that are calibrated to include periods of stressed market conditions;
+
+(d)
+
+avoid concentrated holdings of certain assets where that would significantly impair the ability to liquidate such assets quickly without significant adverse price effects; and

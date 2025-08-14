@@ -1,0 +1,23 @@
+(d)
+
+net future income/expenses not yet accrued but already fully hedged, at the discretion of the Authorised Firm; and
+
+(e)
+
+any other item representing a profit or loss in Foreign Currencies.
+
+Measuring the overall net open position
+
+A5.4.4 (1)
+
+An Authorised firm must convert the net position in each Foreign Currency and in gold at spot rates into the reporting currency.
+
+(2)
+
+The overall net open position is measured by aggregating:
+
+(a)
+
+the sum of the net short positions or the sum of the net long positions, whichever is the greater; plus
+
+(b)

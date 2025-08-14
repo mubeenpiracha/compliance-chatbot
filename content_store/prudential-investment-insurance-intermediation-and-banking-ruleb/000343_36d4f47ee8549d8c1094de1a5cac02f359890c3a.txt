@@ -1,0 +1,13 @@
+in accordance with
+
+4.9.17
+
+An Authorised Person must use either the FCSA or the FCCA to recognise the effect of eligible financial Collateral for any SFT in the Non-Trading Book. The Authorised Person must apply the chosen approach consistently to the entire Non-Trading Book and must not use a combination of both approaches. For a pre-settlement Counterparty Exposure arising from any SFT in the Trading Book, an Authorised Person must only use the FCCA to recognise the effect of eligible financial Collateral.
+
+4.9.18
+
+An Authorised Person using the FCSA may recognise the effect of eligible financial Collateral for any SFT in accordance with Rules A4.3.27 to A4.3.29 in App4.
+
+4.9.19
+
+An Authorised Person which has taken eligible financial Collateral for any SFT that is not covered by a qualifying bilateral Netting agreement and using the FCCA, must calculate E* in accordance with Rules A4.3.2 to A4.3.6 in App4, and substitute E* for E when calculating the Credit Risk-weighted Exposure amount for that CR Exposure under Section 4.8.

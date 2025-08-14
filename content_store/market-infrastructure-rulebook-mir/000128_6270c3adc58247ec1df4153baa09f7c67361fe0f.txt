@@ -1,0 +1,15 @@
+trading for own account against a Client order.
+
+3.5.10
+
+[Deleted]
+
+3.5.11
+
+Waivers in relation to transactions which are large in scale
+
+For the purpose of Rule 3.5.7(c), an order shall be considered to be large in scale compared with normal market size if it is equal to or larger than the minimum size of order specified in Rule 3.5.12. For the purposes of determining whether an order is large in scale compared to normal market size, all Financial Instruments admitted to trading on a Recognised Investment Exchange market shall be classified in accordance with their average daily turnover, in accordance with Rule 3.5.12.
+
+3.5.12
+
+Orders large in scale compared with normal market size

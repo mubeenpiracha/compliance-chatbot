@@ -1,0 +1,37 @@
+a legal right of set-off exists;
+
+(d)
+
+the agreement between the Authorised Person and the Counterparty does not contain a Walkaway Clause;
+
+(e)
+
+the Netting provided for in the agreement between the Authorised Person and the Counterparty is effective and enforceable in the event of default, bankruptcy, liquidation or other similar circumstances affecting either the Counterparty or the Authorised Person;
+
+(f)
+
+the on-balance sheet Exposure (asset) and the offsetting on-balance sheet item (liability) are monitored, controlled and managed on a net basis; and
+
+150
+
+PRU VER17.290725
+
+(g)
+
+the potential for roll-off Exposure is monitored and controlled where there is a Maturity Mismatch; and
+
+(2)
+
+it has, in respect of each relevant jurisdiction, a written and reasoned legal opinion which:
+
+(a)
+
+has been provided by an external source of legal advice of appropriate professional standing;
+
+(b)
+
+confirms that the requirements of (1)(a)-(e) are met for all relevant jurisdictions; and
+
+(c)
+
+is kept under review to ensure that it remains correct and up to date in the event of changes to the relevant laws.

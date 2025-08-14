@@ -1,0 +1,33 @@
+70
+
+AMI/VER28/03-25
+
+6.11.6
+
+6.11.7
+
+AUTHORISED MARKET INSTITUTIONS (AMI)
+
+Compliance with listing rules
+
+(1) An Exchange which has an endorsement on its Licence authorising it to maintain an Official List of Securities must ensure the function is properly and independently operated.
+
+(2) An Exchange must have procedures in place to ensure that:
+
+(a)
+
+its listing rules are monitored and enforced; and
+
+(b)
+
+complaints regarding Persons subject to the listing rules are investigated.
+
+An Exchange must ensure that:
+
+(a)
+
+where appropriate, disciplinary action can be carried out and financial and other types of penalties can be imposed on Persons subject to the listing rules; and
+
+(b)
+
+adequate appeal procedures are in place.
