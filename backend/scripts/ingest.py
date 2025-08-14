@@ -14,15 +14,16 @@ import re
 import json
 import math
 import hashlib
+import csv
 from dataclasses import dataclass
 from pathlib import Path
 from typing import List, Dict, Any, Iterable, Optional, Tuple
 
 # --- Third-party deps expected in your project ---
-# pip install unstructured[all-docs] llama-index pinecone-client tiktoken pydantic
+# pip install unstructured[all-docs] pinecone-client tiktoken pydantic openai
 from pinecone import Pinecone, ServerlessSpec
-from llama_index.core import Document
-from llama_index.readers.file import UnstructuredReader
+from unstructured.partition.auto import partition
+from unstructured.chunking.title import chunk_by_title
 from llama_index.embeddings.openai import OpenAIEmbedding
 
 try:
@@ -33,7 +34,7 @@ except Exception:  # fallback if not installed
 # -----------------
 # CONFIG / CONSTANTS
 # -----------------
-DATA_DIRS = ["./backend/data/difc", "./backend/data/adgm"]  # hardcoded as requested
+MANIFEST_PATH = Path("./backend/data/Manifest.csv")
 CONTENT_STORE = Path("./content_store")  # local path for heavy artifacts
 CONTENT_STORE.mkdir(parents=True, exist_ok=True)
 
@@ -88,6 +89,9 @@ ALLOWED_META_KEYS = {
     "file_name",
     "source_path",
     "jurisdiction",
+    "document_type",
+    "document_title",
+    "publication_date",
     "page",
     "element_type",
     "section_path",
@@ -99,6 +103,7 @@ ALLOWED_META_KEYS = {
 
 MAX_FIELD_BYTES = 4096  # hard cap per field
 MAX_METADATA_BYTES = 10_000  # conservative cap for the whole metadata dict
+
 
 
 def sanitize_metadata(meta: Dict[str, Any]) -> Dict[str, Any]:
@@ -155,116 +160,49 @@ def token_len(text: str, enc=None) -> int:
     return len(enc.encode(text))
 
 
-@dataclass
-class Chunk:
-    text: str
-    page: Optional[int]
-    section_path: Optional[str]
-    element_type: Optional[str]
-    start_char: int
-    end_char: int
-
-
-def chunk_text_token_aware(
-    text: str,
-    target_tokens: int = 900,
-    overlap_tokens: int = 120,
-    page: Optional[int] = None,
-    section_path: Optional[str] = None,
-    element_type: Optional[str] = None,
-) -> List[Chunk]:
-    """Split text into overlapping windows using tokens (fallback to chars)."""
-    enc = get_encoder()
-    if enc is None:
-        # char-based fallback (~4 chars per token)
-        approx = target_tokens * 4
-        olap = overlap_tokens * 4
-        chunks = []
-        start = 0
-        n = len(text)
-        while start < n:
-            end = min(n, start + approx)
-            chunk_text = text[start:end]
-            chunks.append(
-                Chunk(chunk_text, page, section_path, element_type, start, end)
-            )
-            if end == n:
-                break
-            start = max(0, end - olap)
-        return chunks
-
-    ids = enc.encode(text)
-    chunks: List[Chunk] = []
-
-    def decode(slice_ids: List[int]) -> str:
-        return enc.decode(slice_ids)
-
-    start_tok = 0
-    n = len(ids)
-    while start_tok < n:
-        end_tok = min(n, start_tok + target_tokens)
-        slice_ids = ids[start_tok:end_tok]
-        chunk_text = decode(slice_ids)
-        # Estimate char offsets by decoding left & right
-        left = decode(ids[:start_tok])
-        start_char = len(left)
-        end_char = start_char + len(chunk_text)
-        chunks.append(
-            Chunk(chunk_text, page, section_path, element_type, start_char, end_char)
-        )
-        if end_tok == n:
-            break
-        start_tok = max(0, end_tok - overlap_tokens)
-    return chunks
-
-
 # -----------------
 # INGESTION
 # -----------------
 
-def build_documents() -> List[Document]:
-    reader = UnstructuredReader()
-    documents: List[Document] = []
-    
-    for data_dir in DATA_DIRS:
-        dpath = Path(data_dir)
-        if not dpath.exists():
-            print(f"WARN: directory missing: {data_dir}")
-            continue
-            
-        # Find all PDF files in this directory
-        pdf_files = list(dpath.glob("*.pdf"))
-        print(f"Found {len(pdf_files)} PDF files in {data_dir}")
-        
-        for pdf_file in pdf_files:
-            try:
-                print(f"  Processing: {pdf_file.name}")
-                docs = reader.load_data(file=str(pdf_file))
-                
-                # Process each document from this file
-                for doc in docs:
-                    # normalize minimal metadata
-                    file_name = pdf_file.name
-                    source_path = str(pdf_file)
-                    
-                    # best-effort jurisdiction from path
-                    jurisdiction = "DIFC" if "difc" in str(dpath).lower() else (
-                        "ADGM" if "adgm" in str(dpath).lower() else None
-                    )
-                    
-                    # Update document metadata
-                    doc.metadata.update({
-                        "file_name": file_name,
-                        "source_path": source_path,
-                        "jurisdiction": jurisdiction,
-                    })
-                    documents.append(doc)
-                    
-            except Exception as e:
-                print(f"  ERROR processing {pdf_file.name}: {e}")
+@dataclass
+class Document:
+    id: str
+    text: str
+    metadata: Dict[str, Any]
+
+def load_documents_from_manifest() -> List[Document]:
+    """Loads documents and their metadata from the CSV manifest."""
+    if not MANIFEST_PATH.exists():
+        raise FileNotFoundError(f"Manifest file not found at: {MANIFEST_PATH}")
+
+    documents = []
+    with open(MANIFEST_PATH, mode='r', encoding='utf-8') as f:
+        reader = csv.DictReader(f)
+        for row in reader:
+            file_path = Path(row["file_path"])
+            if not file_path.exists():
+                print(f"WARN: File not found, skipping: {file_path}")
                 continue
-                
+            
+            doc_id = sha1_hex(str(file_path))
+            # We will partition and chunk later, for now, just load the manifest data
+            # The "text" will be populated from the chunks later on.
+            doc = Document(
+                id=doc_id,
+                text="", # Placeholder, will be replaced by chunk text
+                metadata={
+                    "source_path": str(file_path),
+                    "file_name": file_path.name,
+                    "jurisdiction": row.get("jurisdiction"),
+                    "document_type": row.get("document_type"),
+                    "document_title": row.get("document_title"),
+                    "publication_date": row.get("publication_date"),
+                }
+            )
+            documents.append(doc)
+    print(f"Loaded {len(documents)} document references from manifest.")
     return documents
+
 
 
 def generate_namespace_for_file(file_name: str) -> str:
@@ -272,43 +210,34 @@ def generate_namespace_for_file(file_name: str) -> str:
     return slugify(stem)[:64] or "default"
 
 
-def deterministic_node_id(
-    doc_id: str, page: Optional[int], start_char: int, text: str
-) -> str:
-    base = f"{doc_id}|{page if page is not None else ''}|{start_char}|{sha1_hex(text)}"
-    return sha1_hex(base)
-
-
-# Lightweight schema projection for Pinecone
-
 def project_metadata_for_chunk(
-    file_name: str,
-    source_path: str,
-    jurisdiction: Optional[str],
-    page: Optional[int],
-    section_path: Optional[str],
-    element_type: Optional[str],
+    chunk_text: str,
     chunk_index: int,
-    chunking_strategy: str,
-    text: str,
+    doc_metadata: Dict[str, Any],
+    chunking_strategy: str = "semantic_v1",
 ) -> Dict[str, Any]:
-    checksum = sha1_hex(text)
-    # persist heavy text to content store and store a pointer
+    """Projects and sanitizes metadata for a single chunk."""
+    file_name = doc_metadata.get("file_name", "")
+    source_path = doc_metadata.get("source_path", "")
+    
+    checksum = sha1_hex(chunk_text)
     ns = generate_namespace_for_file(file_name)
     blob_dir = CONTENT_STORE / ns
     blob_dir.mkdir(parents=True, exist_ok=True)
     blob_path = blob_dir / f"{chunk_index:06d}_{checksum}.txt"
     if not blob_path.exists():
-        blob_path.write_text(text, encoding="utf-8")
+        blob_path.write_text(chunk_text, encoding="utf-8")
 
     meta = {
         "doc_id": sha1_hex(source_path or file_name),
         "file_name": file_name,
         "source_path": source_path,
-        "jurisdiction": jurisdiction,
-        "page": page,
-        "element_type": element_type,
-        "section_path": section_path,
+        "jurisdiction": doc_metadata.get("jurisdiction"),
+        "document_type": doc_metadata.get("document_type"),
+        "document_title": doc_metadata.get("document_title"),
+        "publication_date": doc_metadata.get("publication_date"),
+        "page": doc_metadata.get("page"),  # This might come from unstructured elements
+        "element_type": doc_metadata.get("element_type"),
         "chunk_index": chunk_index,
         "chunking_strategy": chunking_strategy,
         "content_uri": str(blob_path),
@@ -317,31 +246,50 @@ def project_metadata_for_chunk(
     return sanitize_metadata(meta)
 
 
-def chunk_document(doc: Document) -> List[Chunk]:
-    """Two-pass strategy: per-page consolidation, then token-aware windows.
-    We preserve tables by trusting Unstructured page segmentation (no table splitting hints exposed here),
-    but the windows avoid mid-paragraph breaks most of the time.
-    """
-    # Unstructured content is in doc.text. Page numbers may be present in metadata; if not, we treat as single blob.
-    # If the loader provided elements with page info, they'd be in metadata; llama-index's Document keeps raw text.
-    text = doc.get_text() if hasattr(doc, "get_text") else (doc.text or "")
-    if not text.strip():
+def chunk_document(doc: Document) -> List[Dict[str, Any]]:
+    """Partitions and chunks a document semantically."""
+    source_path = doc.metadata.get("source_path")
+    if not source_path:
         return []
+        
+    print(f"  Partitioning and chunking: {source_path}")
+    try:
+        # Use unstructured to partition the document
+        elements = partition(filename=source_path, strategy="auto")
+        
+        # Use chunk_by_title to group elements into semantic chunks
+        chunks = chunk_by_title(
+            elements,
+            max_characters=1200, # A reasonable starting point
+            new_after_n_chars=1000,
+            combine_text_under_n_chars=500,
+        )
+        
+        chunk_data = []
+        for i, chunk in enumerate(chunks):
+            text = chunk.text
+            if not text.strip():
+                continue
+            
+            # Preserve metadata from the original document and add chunk-specific info
+            metadata = doc.metadata.copy()
+            
+            # Try to get page number from the elements within the chunk
+            page_numbers = [el.metadata.page_number for el in chunk.metadata.orig_elements if el.metadata.page_number]
+            if page_numbers:
+                metadata["page"] = min(page_numbers) # Use the first page number of the chunk
+            
+            # Create a dictionary for each chunk with its text and metadata
+            chunk_data.append({
+                "text": text,
+                "metadata": metadata,
+                "chunk_index": i,
+            })
+        return chunk_data
 
-    # Try to recover a "section path" from headings if Unstructured added it into metadata (best-effort)
-    section_path = doc.metadata.get("section_path")
-    element_type = doc.metadata.get("element_type")
-    page = doc.metadata.get("page")
-
-    # Single-pass token-aware chunking; if future element/page info available, we could pre-split by page.
-    return chunk_text_token_aware(
-        text,
-        target_tokens=900,
-        overlap_tokens=120,
-        page=page,
-        section_path=section_path,
-        element_type=element_type,
-    )
+    except Exception as e:
+        print(f"  ERROR chunking {source_path}: {e}")
+        return []
 
 
 def batch(iterable: Iterable[Any], size: int) -> Iterable[List[Any]]:
@@ -398,10 +346,10 @@ def embed_texts(embedder: OpenAIEmbedding, texts: List[str]) -> List[List[float]
 
 
 def ingest():
-    print("Loading documents from:", DATA_DIRS)
-    documents = build_documents()
+    print("Loading document references from manifest...")
+    documents = load_documents_from_manifest()
     if not documents:
-        print("No documents found. Nothing to ingest.")
+        print("No documents found in manifest. Nothing to ingest.")
         return
 
     # Init embedder
@@ -419,48 +367,40 @@ def ingest():
     total_chunks = 0
     upserted = 0
 
-    # Process per file to use per-file namespaces
+    # Process each document from the manifest
     for doc in documents:
         file_name = doc.metadata.get("file_name", "unknown.pdf")
-        source_path = doc.metadata.get("source_path", file_name)
-        jurisdiction = doc.metadata.get("jurisdiction")
         namespace = generate_namespace_for_file(file_name)
 
+        # Perform semantic chunking
         chunks = chunk_document(doc)
         if not chunks:
             print(f"Skip empty doc: {file_name}")
             continue
 
         # Prepare embeddings
-        texts = [c.text for c in chunks]
-        vectors = embed_texts(embedder, texts)
+        texts_to_embed = [c["text"] for c in chunks]
+        vectors = embed_texts(embedder, texts_to_embed)
 
         # Prepare Pinecone upserts in batches
-        items: List[Dict[str, Any]] = []
-        for i, (c, vec) in enumerate(zip(chunks, vectors)):
-            node_id = deterministic_node_id(
-                doc_id=sha1_hex(source_path or file_name),
-                page=c.page,
-                start_char=c.start_char,
-                text=c.text,
-            )
+        items_to_upsert: List[Dict[str, Any]] = []
+        for i, (chunk_data, vec) in enumerate(zip(chunks, vectors)):
+            chunk_text = chunk_data["text"]
+            doc_id = doc.id
+            
+            node_id = sha1_hex(f"{doc_id}|{i}|{chunk_text}")
+            
             meta = project_metadata_for_chunk(
-                file_name=file_name,
-                source_path=source_path,
-                jurisdiction=jurisdiction,
-                page=c.page,
-                section_path=c.section_path,
-                element_type=c.element_type,
+                chunk_text=chunk_text,
                 chunk_index=i,
-                chunking_strategy="token_aware_v1",
-                text=c.text,
+                doc_metadata=chunk_data["metadata"],
             )
-            items.append({"id": node_id, "values": vec, "metadata": meta})
+            items_to_upsert.append({"id": node_id, "values": vec, "metadata": meta})
 
-        total_chunks += len(items)
+        total_chunks += len(items_to_upsert)
 
         # Upsert with retries per batch into per-file namespace
-        for group in batch(items, UPSERT_BATCH):
+        for group in batch(items_to_upsert, UPSERT_BATCH):
             for attempt in range(1, MAX_RETRIES + 1):
                 try:
                     index.upsert(vectors=group, namespace=namespace)
@@ -473,10 +413,10 @@ def ingest():
                     print(f"Upsert retry {attempt}/{MAX_RETRIES} after error: {e}. Sleeping {sleep_s:.2f}s")
                     time.sleep(sleep_s)
 
-        print(f"✔ Ingested {len(items)} chunks for '{file_name}' into namespace '{namespace}'")
+        print(f"✔ Ingested {len(items_to_upsert)} chunks for '{file_name}' into namespace '{namespace}'")
 
     print("—" * 60)
-    print(f"Done. Files: {len(documents)}, Chunks: {total_chunks}, Upserted: {upserted}")
+    print(f"Done. Documents: {len(documents)}, Chunks: {total_chunks}, Upserted: {upserted}")
 
 
 if __name__ == "__main__":
