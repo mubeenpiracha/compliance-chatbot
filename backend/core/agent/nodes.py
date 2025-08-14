@@ -68,10 +68,9 @@ class QueryAnalysis(BaseModel):
 
     try:
         response = client.chat.completions.create(
-            model="gpt-4-turbo",
+            model="o4-mini-2025-04-16",
             messages=messages,
-            response_format={"type": "json_object"},
-            temperature=0.1,
+            response_format={"type": "json_object"}
         )
         response_json = json.loads(response.choices[0].message.content)
         analysis = QueryAnalysis(**response_json)
@@ -133,12 +132,11 @@ def generate_response(state: AgentState) -> Dict[str, Any]:
 
     try:
         response = client.chat.completions.create(
-            model="gpt-4-turbo",
+            model="o4-mini-2025-04-16",
             messages=[
                 {"role": "system", "content": system_prompt},
                 {"role": "user", "content": user_prompt}
             ],
-            temperature=0.2,
         )
         final_response = response.choices[0].message.content
         return {"final_response": final_response}

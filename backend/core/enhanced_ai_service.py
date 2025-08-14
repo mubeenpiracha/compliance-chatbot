@@ -4,6 +4,7 @@ Enhanced AI service with a flexible, agent-based reasoning architecture.
 import asyncio
 import time
 import logging
+import json
 from typing import Dict, Any, List, Optional
 from openai import AsyncOpenAI
 from pydantic import ValidationError
@@ -161,13 +162,12 @@ If the conversation history contains a previous clarification request and the us
 
         try:
             response = await self.client.chat.completions.create(
-                model="gpt-4-turbo",
+                model="o4-mini-2025-04-16",
                 messages=[
                     {"role": "system", "content": system_prompt},
                     {"role": "user", "content": user_prompt}
                 ],
-                temperature=0.1,
-                max_tokens=1000,
+                
                 response_format={"type": "json_object"}
             )
             import json
@@ -252,13 +252,11 @@ Please provide your comprehensive compliance analysis based *only* on these docu
 
         try:
             response = await self.client.chat.completions.create(
-                model="gpt-4-turbo",
+                model="o4-mini-2025-04-16",
                 messages=[
                     {"role": "system", "content": system_prompt},
                     {"role": "user", "content": user_prompt}
-                ],
-                temperature=0.1,
-                max_tokens=2000
+                ]
             )
             final_answer = response.choices[0].message.content
             confidence = self._calculate_confidence(documents)
