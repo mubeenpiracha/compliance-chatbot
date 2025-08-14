@@ -1,7 +1,7 @@
 import logging
 from fastapi import APIRouter, HTTPException
 from backend.schemas.chat import ChatRequest, ChatResponse
-from backend.core.enhanced_ai_service import get_ai_response
+from backend.core.agent_service import get_ai_response
 import os
 from pathlib import Path
 

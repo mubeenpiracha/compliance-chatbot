@@ -8,8 +8,8 @@ from pydantic import ValidationError
 
 from backend.core.agent.state import AgentState
 from backend.core.models.agent_models import QueryAnalysis, SearchPlan, ClarificationRequest, SearchQuery
-from backend.core.retrieval.vector_search import VectorSearch
-from backend.core.retrieval.keyword_search import KeywordSearch
+from backend.core.retrieval.vector_search import VectorSearchEngine as VectorSearch
+from backend.core.retrieval.keyword_search import KeywordSearchEngine as KeywordSearch
 
 # Configure logging
 logging.basicConfig(level=logging.INFO)

@@ -1,10 +1,9 @@
 # backend/core/agent/builder.py
-from langgraph.graph import StateGraph, END
-from langgraph.checkpoint.sqlite import SqliteSaver
-
+from langgraph.checkpoint.sqlite.aio import AsyncSqliteSaver
 from backend.core.agent.state import AgentState
 from backend.core.agent.nodes import analyze_query, execute_search, generate_response, format_clarification
 from backend.core.models.agent_models import SearchPlan, ClarificationRequest
+from langgraph.graph import StateGraph, END
 
 def should_search(state: AgentState):
     """
@@ -43,7 +42,7 @@ workflow.add_edge("generate_response", END)
 workflow.add_edge("format_clarification", END)
 
 # Set up memory
-memory = SqliteSaver.from_conn_string(":memory:")
+memory = AsyncSqliteSaver.from_conn_string(":memory:")
 
 # Compile the graph
 graph = workflow.compile(checkpointer=memory)
