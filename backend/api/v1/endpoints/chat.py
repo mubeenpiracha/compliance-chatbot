@@ -1,7 +1,7 @@
 import logging
 from fastapi import APIRouter, HTTPException
 from backend.schemas.chat import ChatRequest, ChatResponse
-from backend.core.agent_service import get_ai_response
+from backend.core.agent_service import get_agent_response as get_ai_response
 import os
 from pathlib import Path
 
@@ -40,14 +40,14 @@ def get_chunk_text(chunk_id: str):
     logger.warning(f"No files found containing chunk_id: {chunk_id}. Searched files: {len(found_files)}")
     raise HTTPException(status_code=404, detail=f"Chunk with id {chunk_id} not found.")
 @router.post("/", response_model=ChatResponse)
-def handle_chat(request: ChatRequest):
+async def handle_chat(request: ChatRequest):
     """
     Handles a chat request by forwarding it to the AI service and
     returning the simplified response.
     """
     logger.info(f"Received chat request: {request.dict()}")
     
-    ai_response_dict = get_ai_response(
+    ai_response_dict = await get_ai_response(
         user_message=request.message,
         history=request.history,
         jurisdiction=request.jurisdiction

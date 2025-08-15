@@ -34,15 +34,14 @@ workflow.add_conditional_edges(
     {
         "search": "execute_search",
         "clarify": "format_clarification",
-        "end": END
-    }
+        "end": END,
+    },
 )
 workflow.add_edge("execute_search", "generate_response")
 workflow.add_edge("generate_response", END)
 workflow.add_edge("format_clarification", END)
 
-# Set up memory
-memory = AsyncSqliteSaver.from_conn_string(":memory:")
+# The graph is no longer compiled here, just the workflow is defined.
+# The compilation will be handled in the agent_service.
 
-# Compile the graph
-graph = workflow.compile(checkpointer=memory)
+

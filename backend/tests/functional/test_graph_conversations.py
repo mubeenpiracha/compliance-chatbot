@@ -1,21 +1,16 @@
 # backend/tests/functional/test_graph_conversations.py
 import pytest
+import asyncio
 import json
 import glob
 from typing import List, Dict
 
-from langchain_core.messages import HumanMessage, AIMessage, BaseMessage
-
-from backend.core.ai_service import get_ai_response, initialize_ai_service
-from backend.core.graph_agent import AgentState # We need the type
+from backend.core.agent_service import get_agent_response
+from backend.core.agent.state import AgentState
 
 # --- Test Setup ---
 
-# Initialize the AI service once for all tests
-@pytest.fixture(scope="session", autouse=True)
-def setup_ai_service():
-    print("\n--- Initializing AI Service for test session ---")
-    initialize_ai_service()
+# No need to initialize AI service anymore as it's handled by the agent service
 
 def load_test_cases() -> List[Dict]:
     """Loads all test case JSON files from the test_data directory."""
