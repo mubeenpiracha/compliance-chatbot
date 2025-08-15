@@ -1,0 +1,9 @@
+Guidance
+
+1. Rule 13.4.4(5) enables Fund Managers and Trustees to use certain Islamic structures such as ijara for property financing which require the legal ownership of the real property to be held by the financial institution providing the financing.
+
+2. Rule 13.4.4.(5) does not require individual transactions to be specified in the Prospectus or approved by Special Resolution of Unitholders. Instead, it would be sufficient for general information relating to such arrangements, such as their legal effect, to be included in the Prospectus, failing which Unitholder approval by Special Resolution will be required. Similarly, Unitholders can by Special Resolution grant general approval for use of such Islamic financing arrangements, obviating the need for each specific transaction to be separately approved. Borrowing
+
+(1)
+
+The Fund Manager of a Public Property Fund may borrow either directly or through its Special Purpose Vehicle for financing investment or operating purposes, but aggregate borrowings must not at any time exceed 65% of the gross asset value of the Fund.

@@ -1,0 +1,19 @@
+A6.6 Safe custody agreements with third party agents
+
+A6.6.1 Before an Authorised Firm passes, or permits to be passed, Safe Custody Investments or Safe Custody Crypto Tokens to a Third Party Agent it must have procured a written acknowledgement from the Third Party Agent stating:
+
+(a)
+
+that the title of the account sufficiently distinguishes that account from any account containing Investments or Crypto Tokens belonging to the Authorised Firm, and is in the form requested by the Authorised Firm;
+
+(b)
+
+that the Client Investment or Client Crypto Token will only be credited and withdrawn in accordance with the instructions of the Authorised Firm;
+
+(c)
+
+that the Third Party Agent will hold Client Investments or Client Crypto Tokens separately from assets belonging to the Third Party Agent;
+
+(d)
+
+the arrangements for recording and registering Client Investments or Client Crypto Tokens, claiming and receiving dividends and other entitlements and interest and the giving and receiving of instructions;

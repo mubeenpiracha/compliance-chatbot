@@ -1,0 +1,25 @@
+165
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+(f)
+
+the effects of transactions transferring Credit Risks from the Authorised Firm to another party through securitisation, provided that the conditions in section 4.14 are met.
+
+(2) Where Credit Risk mitigation is used against an Exposure, an Authorised Firm must reduce the value of the original Exposure and recognise an equal Exposure to the Credit Risk mitigation provider, except where:
+
+(a)
+
+a credit default swap is used; and
+
+(b)
+
+neither the reference entity, nor the credit default swap provider, is a Financial Institution,
+
+(3) For the purposes of Exposure shifting under (2), the amount subject to shifting
+
+is:
+
+(a)

@@ -1,0 +1,21 @@
+cash in hand;
+
+(b) money deposited with a regulated bank or deposit-taker which has a short-term credit rating of A2 or P2 or above, or a long-term credit rating of BBB or Baa2 or above, from an ECAI;
+
+(c)
+
+demand deposits with a tenor of 1 year or less with a bank or deposit- taker in (b);
+
+(d)
+
+time deposits with a tenor of 1 year or less which have an option to redeem the deposit at any time. In such cases, the deposit amount eligible to be included as liquid assets must be calculated as net of any costs associated with such early redemption;
+
+(e)
+
+cash receivable from a regulated clearing house and cash deposits with such clearing houses, net of any fees or contributions to guarantee or reserve funds of such clearing houses;
+
+(f)
+
+cash receivable from regulated merchant acquirers for card based payment transactions, net of any fees or charges owed to such merchant acquirers; or
+
+(g) debt Securities representing claims on a sovereign, Central Bank, PSE or MDB provided these Securities satisfy all of the following conditions:

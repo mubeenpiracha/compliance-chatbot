@@ -1,0 +1,17 @@
+Guidance
+
+When an Authorised Firm carries on, or provides or obtains, Financial Services with or from another Authorised Firm or a Regulated Financial Institution, as those entities are ‘deemed’ Professional Clients under Rule 2.3.4(1), they could be classified as Market Counterparties, provided the procedures set out in Rule 2.3.9(2) are complied with. For example, such services may include providing the Financial Services of custody, managing assets, or fund administration services to a Fund Manager of a Collective Investment Fund or a pension fund.
+
+2.4 Procedures relating to client classification
+
+Option for a Professional Client to be classified as a Retail Client
+
+2.4.1
+
+(1) For the purpose of Rule 2.3.3(1)(b), an Authorised Firm must, subject to (4), when first establishing a relationship with a Person as a Professional Client, inform that Person in writing of:
+
+(a)
+
+that Person’s right to be classified as a Retail Client;
+
+(b)

@@ -1,0 +1,5 @@
+Using the RBA, a Relevant Person could, when assessing two customers with near identical risk profiles, consider that one is high risk and the other low risk. This may occur, for example, where both customers may be from the same high risk country, but one customer may be a customer in relation to a low risk product or may be a long-standing customer of a Group company who has been introduced to the Relevant Person.
+
+3.
+
+In Rule 6.1.4, ownership arrangements which may prevent the Relevant Person from identifying one or more Beneficial Owners include bearer shares and other negotiable instruments in which ownership is determined by possession.

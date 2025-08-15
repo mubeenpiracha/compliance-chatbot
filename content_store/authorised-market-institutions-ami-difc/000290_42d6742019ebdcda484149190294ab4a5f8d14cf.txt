@@ -1,0 +1,17 @@
+For the purposes of determining whether a Person is a Controller, shares, voting rights or rights to acquire shares or voting rights that a Person holds, either alone or with an Associate, in an Authorised Market Institution or a Holding Company of that institution are disregarded if:
+
+(a)
+
+the shares are held for the sole purpose of clearing and settling within a short settlement cycle;
+
+(b)
+
+the shares are held in a custodial or nominee capacity and the voting rights attached to the shares are exercised only in accordance with written instructions given to that Person by another Person; or
+
+(c)
+
+the Person is an Authorised Firm or a Regulated Financial Institution and it:
+
+(i)
+
+acquires a holding of shares as a result of an underwriting of a share issue or a placement of shares on a firm commitment basis;

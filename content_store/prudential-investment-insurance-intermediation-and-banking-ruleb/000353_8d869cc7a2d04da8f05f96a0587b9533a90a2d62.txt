@@ -1,0 +1,13 @@
+Guidance
+
+This Section governs credit assessments of Exposures for the purpose of determining the CRW for Credit Risk (CR) Exposures as provided in Rule 4.8.3 and for securitisation (SE) Exposures as provided in Rule 4.8.4.
+
+4.11.1 Where possible, an Authorised Person must assign a CR Exposure to a Credit Quality Grade based on the external credit assessment that is applicable to the CR Exposure in accordance with the tables mapping the ratings from an ECAI to Credit Quality Grades, as published by the Regulator.
+
+4.11.2 CR Exposures with external credit assessments from external credit rating agencies that are not in the table mapping the ratings to the Credit Quality Grades must be assigned to the Credit Quality Grade associated with "unrated" Exposures.
+
+4.11.3
+
+An Authorised Person must only use an external credit assessment which is accessible to the public. An Authorised Person may not use a credit assessment that is made available only to the parties to a transaction.
+
+4.11.4

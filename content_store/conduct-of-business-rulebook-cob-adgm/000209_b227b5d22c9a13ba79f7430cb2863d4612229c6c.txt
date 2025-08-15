@@ -1,0 +1,9 @@
+issuers and Credit Rating Agencies must encourage structured finance originators of structured finance products to publicly disclose all relevant information regarding these products so that investors and other Credit Rating Agencies can conduct their own analyses independently of the Credit Rating Agency contracted by the issuers and/or originators to provide a rating. A Credit Rating Agency must disclose in its rating announcements whether the issuer of a structured finance product has informed it that it is publicly disclosing all relevant information about the product being rated or if the information remains non- public.
+
+9.7.4 A Credit Rating Agency and its Employees must not engage in any securities or derivatives
+
+trading presenting conflicts of interest with the Credit Rating Agency's rating activities.
+
+9.7.5
+
+In instances where rated entities have, or are simultaneously pursuing, oversight functions related to the Credit Rating Agency, the Credit Rating Agency must use different Employees to conduct its rating actions than those Employees involved in its oversight issues.

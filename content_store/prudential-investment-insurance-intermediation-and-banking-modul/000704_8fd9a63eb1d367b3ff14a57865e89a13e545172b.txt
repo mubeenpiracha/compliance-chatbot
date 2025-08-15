@@ -1,0 +1,25 @@
+Net Stable Funding Ratio (NSFR) Requirement
+
+(1)
+
+An Authorised Firm must maintain a Net Stable Funding Ratio (NSFR) of at least 100%.
+
+(2)
+
+The NSFR under (1) must be calculated using the formula:
+
+223
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+NSFR = ASF x 100
+
+RSF
+
+where:
+
+(a) ASF (Available Stable Funding) is the amount, calculated in accordance with Rule A9.4.1, representing the relative stability of an Authorised Firm’s available funding sources; and
+
+(b) RSF (Required Stable Funding) is the amount, calculated in accordance with Rule A9.4.2, representing the Liquidity Risk profile of an Authorised Firm’s assets and OBS Exposures (or potential liquidity Exposures).

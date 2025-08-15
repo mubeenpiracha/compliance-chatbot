@@ -1,0 +1,19 @@
+ICR (Individual Capital Requirement)
+
+Individual capital requirement.
+
+Implicit Support
+
+Arises when an Authorised Firm provides support to a securitisation in excess of its predetermined contractual obligation.
+
+Individual Liquidity Requirement
+
+An individual liquidity requirement imposed by the DFSA under Rule 9.3.6.
+
+Interest Rate Risk Capital Requirement
+
+A component of Market Risk Capital Requirement and calculated in accordance with section 5.4.
+
+Internal Capital Adequacy Assessment Process (ICAAP)
+
+The internal capital adequacy assessment process prescribed in chapter 10.

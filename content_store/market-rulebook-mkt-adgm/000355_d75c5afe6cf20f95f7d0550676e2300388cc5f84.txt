@@ -1,0 +1,9 @@
+this chapter.
+
+Guidance
+
+Rule 11.2.1 applies to all disclosures made or required to be made under the Rules which include a statement about Exploration Targets, Exploration Results, Mineral Resources, Ore Reserves or Production Targets, including within a Prospectus, Exempt Offer document, bidder’s and target’s statements, annual reports, financial statements, technical papers, presentations, and website content and disclosures.
+
+In order to ensure consistency of its disclosures, Issuers and Mining Reporting Entities should be mindful of the table format for disclosure of Ore Reserves and Mineral Resources set out in MKT Form-11-1.
+
+11.2.2 Where a disclosure by a Mining Reporting Entity does not meet a non-mandatory requirement contained in a Mining Reporting Standard, the Mining Reporting Entity must provide in its disclosure a statement as to how and why its disclosure differs from the non-mandatory requirement contained in the relevant Mining Reporting Standard.

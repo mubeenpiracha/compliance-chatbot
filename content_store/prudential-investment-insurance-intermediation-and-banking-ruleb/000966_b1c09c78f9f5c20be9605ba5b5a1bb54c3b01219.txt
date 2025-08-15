@@ -1,0 +1,33 @@
+(b)
+
+the net forward position, being all amounts to be received less all amounts to be paid under forward foreign exchange transactions, including currency Futures and the principal on currency swaps not included in the spot position;
+
+(c)
+
+guarantees and similar instruments that are certain to be called and are likely to be irrecoverable;
+
+(d)
+
+net future income/expenses not yet accrued but already fully hedged, at the discretion of the Authorised Person; and
+
+(e)
+
+any other item representing a profit or loss in Foreign Currencies.
+
+Measuring the overall net open position
+
+A6.4.4
+
+(1)
+
+An Authorised Person must convert the net position in each Foreign Currency and in gold at spot rates into the reporting currency.
+
+(2)
+
+The overall net open position is measured by aggregating:
+
+(a)
+
+the sum of the net short positions or the sum of the net long positions, whichever is the greater; plus
+
+(b)

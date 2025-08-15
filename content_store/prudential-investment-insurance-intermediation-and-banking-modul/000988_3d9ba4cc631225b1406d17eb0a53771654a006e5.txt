@@ -1,0 +1,7 @@
+15. An Authorised Firm should set an appropriate limit structure to control its Market Risk Exposure. The degree of granularity within the limit structure, or how hierarchical it is, will depend on the nature of the products traded (for example, whether the underlying risks are linear or non-linear) and the scale of the Authorised Firm’s overall business (for example, whether the Authorised Firm is an active market maker). An Authorised Firm should set limits on risks such as simple price or rate risk as well as on the factors, Delta, Gamma, Vega, Rho, and Theta, arising from options positions. Limits should also be imposed against net or gross positions, and in relation to maximum allowable loss (‘stop-loss’), value at risk, maturity gap, and illiquid or volatile markets.
+
+320
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)

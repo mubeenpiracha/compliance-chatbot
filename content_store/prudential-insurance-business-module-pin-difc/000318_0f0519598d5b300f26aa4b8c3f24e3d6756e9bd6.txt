@@ -1,0 +1,25 @@
+subordinated debt;
+
+(b)
+
+preference shares;
+
+(c)
+
+Owners’ Equity in a Takaful Insurer, of the type described in Rule A5.7.2; and
+
+93
+
+PIN/VER18/04-23
+
+PRUDENTIAL – INSURANCE BUSINESS (PIN)
+
+(d)
+
+Cell shares issued by a Cell to an investor who stands in the position of a Holding Company in relation to the Cell, and whose own paid-up ordinary share capital, taken together with its general reserves, is lower than that of the Cell.
+
+A5.10.2 Hybrid cellular capital excludes any instrument that is not attributable to a Cell.
+
+A5.10.3 Subject to Rule A5.10.4, an Insurer must calculate the hybrid cellular capital adjustment in respect of a Cell as the amount by which the total amount of hybrid cellular capital exceeds 15% of adjusted non-cellular equity.
+
+A5.10.4 The DFSA may at its discretion and on the application of an Insurer, permit that Insurer to apply Rule A5.10.3 as though the figure of 15% was replaced with a higher figure approved in writing by the DFSA. The approved figure may not be more than the actual percentage which the hybrid cellular capital represents of adjusted cellular equity, and may not in any case exceed 30%.

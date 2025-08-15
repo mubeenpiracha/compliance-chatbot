@@ -1,0 +1,29 @@
+Trading Book
+
+The positions and Exposures including, on and off- balance sheet items eligible for inclusion in the Trading Book, as described in section 2.2.
+
+Traditional Securitisation
+
+Has the meaning given in Rule 4.14.2(a).
+
+Transaction Based Capital Requirement
+
+Has the meaning given in section 3.8B.
+
+20
+
+PIB/VER50/07-25
+
+1.3
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+Transactor
+
+An obligor in relation to:
+
+(a)
+
+facilities such as credit cards and charge cards where the balance has been repaid in full at each scheduled repayment date for the previous 12 months; or
+
+(b) overdraft facilities if there has been no drawdown

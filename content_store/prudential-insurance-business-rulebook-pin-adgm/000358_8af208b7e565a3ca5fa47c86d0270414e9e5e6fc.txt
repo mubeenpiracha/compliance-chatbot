@@ -1,0 +1,15 @@
+A9.2 ADGM Business Risk Capital Requirement
+
+A9.2.1 An Insurer must calculate its ADGM Business Risk Capital Requirement as the sum of the Insurer's ADGM underwriting risk component, the Insurer's ADGM reserving risk component and the Insurer's ADGM Long-Term Insurance risk component.
+
+A9.2.2 In calculating ADGM Business Risk Capital Requirement:
+
+(a)
+
+no account must be taken of Contracts of Insurance effected by the Insurer, other than through an establishment in ADGM; and
+
+(b)
+
+no account must be taken of contracts of reinsurance entered into by the Insurer as cedant, regardless of where those contracts of reinsurance were entered into.
+
+A9.3 ADGM underwriting risk component

@@ -1,0 +1,19 @@
+20.7.2 Consent for the execution of a Third Party Transaction:
+
+(a)
+
+may be given before or, if agreed between the Customer and its Third Party Provider, after the execution of the Third Party Transaction;
+
+(b)
+
+must be given in the form, and in accordance with the procedure, agreed between the Customer and its Third Party Provider; and
+
+(c)
+
+may be given via another party as designated by the Customer in writing, including another Third Party Provider.
+
+20.7.3 The Customer may withdraw its consent to an individual Third Party Transaction at any time before the point at which the Third Party Transaction can no longer be revoked as set out in Rule 20.8.2.
+
+20.7.4 Subject to Rule 20.8.2, the Customer may withdraw consent to a series of Third Party Transactions at any time. All Third Party Transactions which have been previously consented to but not yet executed at the time that consent has been withdrawn will no longer be regarded as authorised.
+
+20.8

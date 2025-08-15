@@ -1,0 +1,11 @@
+Example 2
+
+19.
+
+A holds a Token in Company B which gives A the right to vote on matters relating to the governance and business of Company B, but no right to participate in the profits, or assets in a winding up, of Company B. This is a Security Token that confers rights and obligations substantially similar in nature to those characteristic of a director’s Share, and will be considered to be such a Share.
+
+Example 3
+
+20.
+
+Company B issues a Token that is described in its white paper as being a Token other than an Investment Token (e.g. a ‘pure utility Token’). The Token allows the holder to (i) access a product or service Company B is still developing, and (ii) gives a right to share in the profits of the company, proportionate to the number of Tokens held, once the product is launched. Such a Token confers rights and obligations substantially similar in nature to those conferred by a Share in the capital of Company B and is a Security Token that is considered to be a Share.

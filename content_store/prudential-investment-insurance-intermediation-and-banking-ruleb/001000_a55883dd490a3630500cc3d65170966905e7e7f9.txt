@@ -1,0 +1,37 @@
+A6.8
+
+Securities Underwriting Risk Capital Requirement
+
+Guidance
+
+Section A6.8 presents the method for calculating a net Underwriting position or reduced net Underwriting position, which is then included in the calculation of Market Risk Capital Requirements as specified in this Chapter. Section A6.8 also deals with concentration risks.
+
+A6.8.1
+
+(1)
+
+An Authorised Person which calculates its Securities Underwriting Risk Capital Requirement in accordance with Rule 5.10.7(b) must apply the Rules in this Section.
+
+(2)
+
+An Authorised Person which underwrites or sub-underwrites an issue of Securities must, for the purposes of calculating its Market Risk Capital Requirement:
+
+(a)
+
+identify commitments to underwrite or sub-underwrite which give rise to an Underwriting position;
+
+366
+
+PRU VER17.290725
+
+(b)
+
+identify the time of initial commitment; and
+
+(c)
+
+calculate the net Underwriting position, reduced net Underwriting position or the net Underwriting Exposure.
+
+A6.8.2
+
+An Authorised Person must include the net Underwriting position or reduced net Underwriting position where:

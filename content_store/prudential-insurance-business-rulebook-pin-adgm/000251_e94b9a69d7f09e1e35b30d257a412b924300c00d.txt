@@ -1,0 +1,33 @@
+Asset
+
+(a)
+
+All bonds up to 1 year to maturity
+
+(c)
+
+Bonds between 1 and 2 years to maturity
+
+(d)
+
+Bonds between 2 and 5 years to maturity
+
+(a)
+
+Bonds between 5 and 10 years to maturity
+
+(e)
+
+All other bonds
+
+(f)
+
+Equity investments*
+
+(g)
+
+Preference shares
+
+Note: Item (f) includes equity shares, participations in collective investment schemes (whether or not the underlying investments are themselves equity investments), participations in joint ventures, and certificates of Mudaraba and Musharaka.
+
+A4.5.2 No amount must be included in the calculation of the investment volatility risk

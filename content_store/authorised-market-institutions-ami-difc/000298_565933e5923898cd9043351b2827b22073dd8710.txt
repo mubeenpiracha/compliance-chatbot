@@ -1,0 +1,21 @@
+Guidance
+
+A Person who acquires control of or increases the level of control in an Authorised Market Institution without the prior DFSA approval or breaches a condition of approval is in breach of the Rules. See Rule 8.2.10 for the actions that the DFSA may take in such circumstances.
+
+Notification for decrease in the level of control of an AMI incorporated under DIFC law
+
+A Controller of an Authorised Market Institution which is incorporated under DIFC law must submit, using the appropriate form in AFN, a written notification to the DFSA where that Person:
+
+(a)
+
+proposes to cease being a Controller; or
+
+(b)
+
+proposes to decrease the existing holding from more than 50% to 50% or less.
+
+Notification for changes in control relating to an Authorised Market Institution incorporated under non-DIFC law
+
+(1)
+
+In the case of an Authorised Market Institution which is incorporated other than under DIFC law, a written notification to the DFSA must be submitted by a Controller or a Person proposing to become a Controller in accordance with (3) in respect of any one of the events specified in (2).

@@ -1,0 +1,5 @@
+Guidance
+
+An internal hedge is a position that materially or completely offsets the component risk element of a Non-Trading Book position or a set of positions.
+
+Transfer of General Market Risk between the Trading Book and the Non-Trading Book

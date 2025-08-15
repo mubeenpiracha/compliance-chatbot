@@ -1,0 +1,39 @@
+a Contract of Insurance.
+
+28
+
+GLO VER23.290725
+
+Defined Terms
+
+Debenture Warrants
+
+Debit Value Date
+
+Debt Financial Instrument
+
+Deemed Trust
+
+Default Rules
+
+Delegation Agreement
+
+Delivery Versus Payment Transaction
+
+Deposit
+
+Definitions
+
+Means any Warrants which relate to Debentures in the Authorised Person concerned issued by the Authorised Person.
+
+Means the date upon which Money is debited from the Payment Account of the Payer.
+
+Means bonds or other forms of transferable securitised debts, with the exception of Securities which are equivalent to Shares in companies or which, if converted or if the rights conferred by them are exercised, give rise to a right to acquire Shares or Securities equivalent to Shares.
+
+Has the meaning given in COBS 14.12.1.
+
+Has the meaning given in section 258 of FSMR.
+
+Means an agreement in writing entered into by a Fund Manager or Trustee with a Service Provider in relation to delegated activities, which fulfils the criteria in FUNDS App 1.
+
+A transaction in which the transfer of Investments and the payment of Money between the buyer and seller are intended to occur around the same time.

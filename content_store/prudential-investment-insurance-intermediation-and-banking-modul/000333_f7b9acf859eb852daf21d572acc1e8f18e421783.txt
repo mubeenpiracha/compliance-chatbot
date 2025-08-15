@@ -1,0 +1,11 @@
+Guidance
+
+This section governs credit assessments of Exposures for the purpose of determining the CRW for Credit Risk (CR) Exposures as provided in Rule 4.8.3 and for securitisation (SE) Exposures as provided in Rule 4.8.4.
+
+4.11.1 An Authorised Firm must assign a CR Exposure to a Credit Quality Grade based on the external credit assessment that is applicable to the CR Exposure in accordance with tables mapping the ratings from an ECAI to Credit Quality Grades, which will be published by the DFSA.
+
+4.11.2 An Authorised Firm must only use an external credit assessment which is accessible to the public. An Authorised Firm may not use a credit assessment that is made available only to the parties to a transaction.
+
+4.11.3 An Authorised Firm must only use external credit assessments by a recognised ECAI.
+
+The DFSA may impose conditions on the use of such external credit assessments.

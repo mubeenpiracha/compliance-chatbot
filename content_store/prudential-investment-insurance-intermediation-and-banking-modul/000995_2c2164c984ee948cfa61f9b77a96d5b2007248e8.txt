@@ -1,0 +1,21 @@
+322
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+(ii)
+
+the notional long position has a maturity equal to the time to expiry of the future (or the settlement date of the forward rate agreement); and
+
+(b)
+
+where an Authorised Firm buys an interest rate future or sells a forward rate agreement:
+
+(i)
+
+the notional short position has a maturity equal to the time to expiry of the future (or the settlement date of the forward rate agreement); and
+
+(ii)
+
+the notional long position has a maturity equal to the time to expiry of the future (or the settlement date of the forward rate agreement) plus the maturity of the deposit period.

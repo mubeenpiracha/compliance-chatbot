@@ -1,0 +1,35 @@
+10.3 Provisions for collateral for Captive Insurers in run-off
+
+10.3.1 Application
+
+This Rule applies only to a Captive Insurer that:
+
+(a)
+
+is in run-off in relation to its entire Insurance Business or the entire Insurance Business of a Captive Cell or Long-Term Insurance Fund;
+
+(b)
+
+has provided a notice to the Regulator in accordance with Rule 10.2.2 in respect of its entire Insurance Business or the entire Insurance Business of a Captive Cell or Long-Term Insurance Fund; or
+
+(c)
+
+has received a written notice from the Regulator withdrawing its Permission to effect Contracts of Insurance in respect of its entire Insurance Business or the entire Insurance Business of a Captive Cell or Long-Term Insurance Fund.
+
+43
+
+CIB VER06.290725
+
+10.3.2 Regulator may issue collateral notice
+
+(1)
+
+The Regulator may, by written notice (referred to in this Chapter as a 'collateral notice'), require a Captive Insurer to make available assets:
+
+(a)
+
+of a type and in a manner described in Rule 10.3.2(5); and
+
+(b)
+
+having a value, determined in accordance with the provisions of Chapter 6, of the lower of:

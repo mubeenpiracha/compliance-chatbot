@@ -1,0 +1,11 @@
+(c)
+
+the security and integrity of cryptographic keys are maintained through the use of that technology, taking into account the password protection and methods of encryption used;
+
+(d)
+
+there are adequate measures to address any risks specific to the methods of usage and storage of cryptographic keys (or their equivalent) available under the DLT application used; and
+
+(e)
+
+the technology is compatible with the procedures and protocols built into the Operating Rules, or equivalent procedures and protocols on any facility on which the Investment Tokens are traded or cleared or both traded and cleared.

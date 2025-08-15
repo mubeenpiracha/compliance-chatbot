@@ -1,0 +1,9 @@
+Guidance
+
+1.
+
+An Exchange is required, as part of information to be provided to the DFSA, to promptly inform the DFSA where breaches of the ownership restrictions occur. See section 9.8.
+
+2.
+
+An Exchange should establish appropriate thresholds at which an early warning system and subsequent public disclosure is triggered relating to foreign ownership restrictions. Such thresholds should be set at intervals/levels, taking into account the patterns of trading in the relevant Investments and other factors which enable the Exchange to take preventative measures before the breaches occur.

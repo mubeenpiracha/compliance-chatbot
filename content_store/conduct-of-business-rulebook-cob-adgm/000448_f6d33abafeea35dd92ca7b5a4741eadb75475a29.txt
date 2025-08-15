@@ -1,0 +1,15 @@
+out in Chapter 14; or
+
+(b)
+
+invested in Reserve Investments which are held in one or more Reserve Accounts maintained with one or more Third-Party Agents approved by the Regulator.
+
+19A.5.3 All Relevant Money and Reserve Investments held in accordance with Rule 19A.5.2 must be denominated in the fiat currency to which the par value of the Fiat-Referenced Token is referenced.
+
+148
+
+COBS VER19.290725
+
+19A.5.4 Upon receipt of a direction from the Regulator, an Authorised Person which has issued a Fiat-Referenced Token may be required to divest such Reserve Investments as may directed by the Regulator within the time period specified in such direction and place the proceeds from such divestiture in a Client Account.
+
+19A.5.5 Prior to materially changing the composition of the Reserve Investments held in respect of a Fiat-Referenced Token it has issued, an Authorised Person must provide the Regulator with written notice describing the nature of the material change to the allocation amongst investments and the rationale for such change.

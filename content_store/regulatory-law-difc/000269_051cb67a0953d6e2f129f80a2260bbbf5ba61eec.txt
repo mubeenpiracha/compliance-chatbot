@@ -1,0 +1,27 @@
+100
+
+(8)
+
+105. Deleted
+
+A Court may, on application of an aggrieved person, make any order for relief where the person has been subjected to any such loss of employment or detriment or loss or damage referred to in Article 104(7).
+
+101
+
+PART 9: CONTROL OF FINANCIAL SERVICES TRANSFERS
+
+106. Financial services business transfer schemes
+
+No financial services business transfer scheme (“transfer scheme”) is to have effect unless an order has been made in relation to it under Article 108 or where the Sale Of Business Tool has been used under Article 84N(1)(h) or 84O.
+
+107. Definition
+
+A scheme is a transfer scheme if:
+
+(a)
+
+the whole or part of the business carried on through an establishment in the DIFC by an Authorised Firm (“the firm concerned”) is to be transferred to another body ("the transferee") and the business to be transferred consists in whole or in part of financial services business; or
+
+(b)
+
+the Fund Property of a Fund, or of a sub-fund of an Umbrella Fund (“the Fund concerned”), is to be transferred to another Fund (“the transferee”); or

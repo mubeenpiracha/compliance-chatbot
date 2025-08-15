@@ -1,0 +1,37 @@
+(7) An Authorised Firm, other than a Stored Value Issuer, must ensure:
+
+(a) any charges payable by the User on termination are:
+
+(i) proportionate to the cost and time of terminating the relevant
+
+services; and
+
+(ii) not imposed where the termination occurs after 6 months from the
+
+date of the Client Agreement; and
+
+(b) any amounts prepaid by a User are reimbursed on termination.
+
+A7.2.2
+
+Consent and withdrawal of consent
+
+An Authorised Firm must:
+
+(a) recognise a Payment Transaction as a duly authorised transaction by the
+
+226
+
+COB/VER48/03-25
+
+A7.2.3
+
+A7.2.4
+
+CONDUCT OF BUSINESS (COB)
+
+User only if the User has given its consent to the execution of that transaction;
+
+(b) allow a User’s consent to be given in any form as agreed between the User and the Money Service Provider executing the Payment Transaction; and
+
+(c) not allow the User to withdraw consent to a Payment Transaction except

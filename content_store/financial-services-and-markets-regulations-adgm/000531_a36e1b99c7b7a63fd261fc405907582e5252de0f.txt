@@ -1,0 +1,13 @@
+Money Remittance246
+
+means—
+
+receiving money or monetary value for remittance, including electronic remittance, to a location within or outside the Abu Dhabi Global Market, without the use of a Payment Account, Payment Instrument, Fiat- Referenced Token or Stored Value.
+
+Money Remitter 247
+
+means an Authorised Person undertaking Money Remittance.
+
+Multilateral Trading Facility or MTF248
+
+means a multilateral system, operated by an Authorised Person or a Recognised Investment Exchange, which brings together multiple third-party Buying and Selling interests in Financial Instruments or Virtual Assets, in the system and in accordance with non-discretionary rules, in a way that results in a contract in accordance with its rules.

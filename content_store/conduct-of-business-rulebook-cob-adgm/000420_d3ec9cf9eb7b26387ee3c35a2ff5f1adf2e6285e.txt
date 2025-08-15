@@ -1,0 +1,19 @@
+(3)
+
+If a Payment Service Provider, including a Payment Initiation Service Provider where appropriate, alleges that a Payer acted fraudulently or failed with intent or gross negligence to take all reasonable steps to keep safe Personalized Security Credentials relating to a Payment Instrument, the Payment Service Provider must provide supporting evidence to the Payer.
+
+139
+
+COBS VER19.290725
+
+Liability
+
+19.19
+
+Payment Service Provider’s liability for unauthorised Payment Transactions
+
+19.19.1 (1)
+
+Subject to Rules 19.17.1, 19.17.2 and 19.18.1, where an executed Payment Transaction was not authorised in accordance with Rule 19.10.1, the Payment Service Provider must:
+
+(a)

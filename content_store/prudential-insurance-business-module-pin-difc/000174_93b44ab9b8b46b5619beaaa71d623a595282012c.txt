@@ -1,0 +1,11 @@
+Guidance
+
+In developing, implementing and maintaining a risk management system as required under Rule 10.1.4 an Authorised ISPV should have proper regard to the Guidance on investment risk set out in section A2.6.
+
+10.1.5 An Authorised ISPV must include in each of its contracts of reinsurance terms which ensure that its aggregate maximum liability at any time under those contracts of reinsurance does not exceed the amount of its assets at that time.
+
+10.1.6 An Authorised ISPV must ensure that under the terms of any debt issuance or other financing arrangements used to fund its reinsurance liabilities the rights of the providers of that debt or other financing are fully subordinated to the claims of creditors under its contracts of reinsurance.
+
+10.1.7 An Authorised ISPV must only enter into contracts or otherwise assume obligations which are necessary for it to give effect to the reinsurance arrangements which represent the special purpose for which it has been established.
+
+10.1.8 Where the Authorised ISPV is a Protected Cell Company, Rules 10.1.2 to 10.1.7

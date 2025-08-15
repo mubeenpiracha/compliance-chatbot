@@ -1,0 +1,9 @@
+A4.12.14 In the case of any Counterparty Risk Exposures in Rules A4.12.12 and A4.12.13, arising from an SFT which is included in the Trading Book, eligible financial Collateral includes all instruments which an Authorised Person may include in its Trading Book.
+
+Credit Risk mitigation - Guarantees
+
+A4.12.15 Under the Simplified Approach, Rules 4.13.9 and 4.13.10 are replaced by the following
+
+Rules A4.12.16 to A4.12.19.
+
+A4.12.16 An Authorised Person may recognise guarantees provided by the following eligible

@@ -1,0 +1,31 @@
+Guidance
+
+The above provisioning requirements are the minimum level of provisions that the relevant Authorised Person must hold.
+
+4.5.9
+
+An Authorised Person must, on a periodic basis, at a minimum monthly frequency, review its problem Exposures (at an individual level or at a portfolio level for credits with
+
+118
+
+PRU VER17.290725
+
+homogeneous characteristics) and review the asset classification, provisioning and write-offs for each of those problem Exposures.
+
+PART 3 - CRCOM
+
+4.6
+
+Application
+
+Guidance
+
+1.
+
+As indicated in Rule 4.1.1, this Chapter 4 (including this Part 3) applies to Authorised Persons in Categories 1, 2, 3A and 5. However, the provisions in this part are applied in a differentiated manner in that Category 3A firms must, and Category 2 firms may, use the Simplified Approach under Section 4.7.
+
+2.
+
+The Credit Risk Capital Requirement (also referred to in these Rules as CRCOM) is a component of the calculation of the overall Capital Requirement of an Authorised Person, as provided in Rules 3.5.1 and 3.5.2. The Rules in this Part 3, supplemented by App4, govern the manner of calculation of the CRCOM.
+
+4.7

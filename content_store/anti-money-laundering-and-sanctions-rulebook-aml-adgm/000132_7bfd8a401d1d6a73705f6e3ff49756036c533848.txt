@@ -1,0 +1,13 @@
+Guidance on CDD
+
+1.
+
+The information required under 8.3.2(2)(a) and (b) should be obtained through a review of an original current, valid passport or, where a customer does not own a passport, an official identification document which includes a photograph. For the purposes of Rule 8.3.2(2)(a) and (b) an official government identification document in digital form and issued by a governmental competent authority is considered valid.
+
+2.
+
+A Relevant Person should ensure that any documents used for the purpose of identification are original documents, whichever format they are in, including digital.
+
+3.
+
+The verification of a customer’s identity, including their address, should be based on official documents. Where that is not possible, a Relevant Person should consider using additional documents or information obtained from different independent sources to verify identity. Any lack of official documents and alternative means of verification should lead the Relevant Person to re-assess the customer’s risk classification and the associated level of due diligence to be undertaken.

@@ -1,0 +1,17 @@
+81
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+(f)
+
+if an Authorised Firm writes a credit derivative, it must include the notional value of the derivative in its Exposure Measure without allowing any offset;
+
+(g)
+
+if an Authorised Firm is a clearing member of a CCP and is contractually liable to reimburse its Clients or the CCP for losses, as a result of a change in the value of the trading transactions in the event of a default, it must:
+
+(i)
+
+treat each transaction as if it were a derivative exposure entered into directly with the Client, including with regard to the provision or receipt of variation margin; and

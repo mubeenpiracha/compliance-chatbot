@@ -1,0 +1,21 @@
+a.
+
+the higher of:
+
+i.
+
+its previous day's VaR number calculated in accordance with Guidance note 7 of this guidance under A6.9.1; or
+
+ii.
+
+an average of the daily value-at-risk numbers calculated in accordance with Guidance note 7 of A6.9.1, on each of the preceding 60 business days the multiplication factor referred in Guidance note 8 of A6.9.1; plus
+
+(VaRavg), multiplied by
+
+b.
+
+the higher of:
+
+i.
+
+its latest available stressed-value-at-risk number calculated in accordance with Guidance note 9 of A6.9.1 (sVaRt-1); or

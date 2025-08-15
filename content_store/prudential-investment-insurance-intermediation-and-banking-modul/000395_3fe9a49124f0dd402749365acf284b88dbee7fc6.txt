@@ -1,0 +1,31 @@
+Risk Weight
+
+Where specific provisions are less than 20% of the outstanding amount of the Exposure
+
+150%
+
+Where specific provisions are not less than 20% of the outstanding amount of the Exposure
+
+100%
+
+(2) For the purposes of (1)(b), and subject to (3) a defaulted borrower is a borrower
+
+in respect of whom any of the following events have occurred:
+
+(a)
+
+the borrower is more than 90 days past due on any material credit obligation to the Authorised Firm. For overdrafts, days past due commence once an obligor has breached an advised limit or has been advised of a limit smaller than current outstandings;
+
+(b)
+
+the Authorised Firm puts a material credit obligation of the borrower on a non-accrued status;
+
+(c)
+
+the Authorised Firm recognises a specific provision resulting from a significant perceived decline in credit quality subsequent to the Authorised Firm taking on the Exposure;
+
+(d)
+
+the Authorised Firm sells the credit obligation at a material credit-related economic loss;
+
+(e)

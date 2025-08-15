@@ -1,0 +1,13 @@
+A5.4 Eligible hedges
+
+A5.4.1
+
+Hedges must be "Eligible Hedges" for the purposes of the calculation of capital requirements for CVA risk in accordance with Section A5.3 only where they are used for the purpose of mitigating CVA risk and managed as such, and single-name credit default swaps or other equivalent hedging instruments referencing the counterparty directly.
+
+A5.4.2
+
+An Authorised Person must not reflect other types of Counterparty Risk hedges in the calculation of the capital requirements for CVA risk. In particular, tranched or nth-to- default credit default swaps and credit linked notes are not Eligible Hedges for the purposes of the calculation of the capital requirements for CVA risk.
+
+A5.4.3
+
+Eligible Hedges that are included in the calculation of the capital requirements for CVA risk must not be included in the calculation of the capital requirements for Specific Risk as set out in App6 or treated as credit risk mitigation other than for the Counterparty Risk of the same portfolio of transaction.

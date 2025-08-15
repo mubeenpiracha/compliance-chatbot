@@ -1,0 +1,15 @@
+(a) PSIAus net cumulative Maturity Mismatch % =
+
+Net cumulative Maturity Mismatch x 100 Total PSIAus
+
+(b) Total deposit liabilities net cumulative Maturity Mismatch % =
+
+Net cumulative Maturity Mismatch x 100 Total deposits
+
+(3)
+
+An Authorised Firm must ensure that its net cumulative Maturity Mismatch position for each means of funding used by the Authorised Firm in the sight – 8 days time band does not exceed negative 15%.
+
+(4)
+
+An Authorised Firm must notify the DFSA in writing immediately if it exceeds or is likely to exceed the net cumulative Maturity Mismatch limit referred to in (3).

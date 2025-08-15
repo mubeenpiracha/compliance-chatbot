@@ -1,0 +1,13 @@
+When is an Investment Token a Structured Product?
+
+34.
+
+A Structured Product is an instrument comprising rights under a contract where:
+
+a.
+
+the gain or loss of each party to the contract is determined by reference to the fluctuations in the value or price of an underlying factor, (such as gold, an index, an interest or exchange rate, in relation to which there is readily available public information);
+
+b.
+
+the gain or loss of each party is settled by cash or set off between the parties; and

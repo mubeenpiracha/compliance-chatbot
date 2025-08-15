@@ -1,0 +1,23 @@
+main index; or
+
+(f)
+
+any Unit in a Collective Investment Fund where:
+
+(i)
+
+a price for the units is publicly quoted daily; and
+
+(ii)
+
+all of the deposited property of the Fund is invested in instruments listed in this Rule,
+
+but excluding Collateral representing a re-securitisation under Rule 4.14.2(c).
+
+(2)
+
+Cash-funded credit-linked notes issued by an Authorised Firm against Exposures in the Non-Trading Book which fulfil the criteria for eligible Credit Derivatives must be treated as cash collateralised transactions.
+
+(3)
+
+Cash, mentioned in (1)(a), includes cash on deposit, certificates of deposit or other similar instruments issued by the Authorised Firm that are held as Collateral at a third-party bank in a non-custodial arrangement and that are pledged or assigned to the Authorised Firm. This is subject to the pledge or assignment being unconditional and irrevocable. Under the FCSA, the risk weight to be applied to the Exposure covered by such Collateral must be the risk weight of the third-party bank.

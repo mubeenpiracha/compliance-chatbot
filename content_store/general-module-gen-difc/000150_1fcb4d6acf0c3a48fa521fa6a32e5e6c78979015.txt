@@ -1,0 +1,45 @@
+a Loan Crowdfunding Platform;
+
+(b)
+
+an Investment Crowdfunding Platform; or
+
+43
+
+GEN/VER67/03-25
+
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+(6)
+
+(7)
+
+GENERAL (GEN)
+
+(c)
+
+a Property Investment Crowdfunding Platform.
+
+A Person operates a Loan Crowdfunding Platform under (1)(a) if it does both of the following:
+
+(a)
+
+operates an electronic platform that facilitates the bringing together of potential lenders and borrowers who wish to obtain funding for a business or project; and
+
+(b)
+
+administers a loan agreement that results from operating the electronic platform.
+
+If the Person referred to in (2) also provides a facility that assists a lender to transfer his rights and obligations under a loan agreement referred to in that paragraph, that activity is also included within operating a Loan Crowdfunding Platform.
+
+A Person operates an Investment Crowdfunding Platform under (1)(b) if it does both of the following:
+
+(a)
+
+operates an electronic platform that facilitates the bringing together of potential investors and Persons who wish to obtain funding for a business or project (other than the sale of a property), resulting in an investor making an Investment with the Person seeking funding; and

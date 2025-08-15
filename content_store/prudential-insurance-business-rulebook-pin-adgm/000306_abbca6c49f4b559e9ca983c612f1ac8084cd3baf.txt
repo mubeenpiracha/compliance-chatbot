@@ -1,0 +1,17 @@
+APP6 CALCULATION OF MINIMUM NON-CELLULAR CAPITAL REQUIREMENT AND
+
+MINIMUM CELLULAR CAPITAL REQUIREMENT
+
+A6.1 Purpose and general provisions
+
+A6.1.1 This appendix applies to all Insurers to which Rule 4.4 applies.
+
+A6.1.2 In this appendix, the term 'segment' includes both:
+
+(a)
+
+a Cell of a Cell Company; and
+
+(b)
+
+the portion of a Cell Company that is not a Cell; and the term 'segmental' is construed accordingly.

@@ -1,0 +1,25 @@
+6.11.2 Investment Management and Contingent Liability Investments
+
+(a)
+
+When an Authorised Person:
+
+46
+
+COBS VER19.290725
+
+(i)
+
+acts as an Investment Manager for a Client; or
+
+(ii)
+
+operates a Client's account containing uncovered open positions in a Contingent Liability Investment;
+
+it must promptly and at suitable intervals in accordance with Rule 6.11.2(b) provide the Client with a written statement ("a periodic statement") containing the matters referred to in Rule 13.1.
+
+(b)
+
+For the purposes of Rule 6.11.2, a "suitable interval" is:
+
+(i)

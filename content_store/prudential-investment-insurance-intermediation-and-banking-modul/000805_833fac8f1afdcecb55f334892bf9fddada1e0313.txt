@@ -1,0 +1,5 @@
+10. An Authorised Firm granting credit to obligors in other countries should be cognisant of the additional risks - country risk and transfer risk – involved in such credits. An Authorised Firm should therefore consider the environment - economic and political - in the relevant countries, the potential effect of changes thereto on the obligors' ability to service the credit and the contagion effects in regions where economies are closely related. The exception reporting should be adequately supported by a management reporting system whereby relevant reports on the credit portfolio are generated to various levels of management on a timely basis.
+
+Connected Counterparties should be identified and the procedures for the management of the combined Credit Risk considered. It may be appropriate for Authorised Firms to monitor and report the aggregate Exposure against combined limits in addition to monitoring the constituent Exposures to the individual Counterparties.
+
+13. An Authorised Firm should consider whether it needs to assess the credit-worthiness of suppliers of goods and services to whom it makes material prepayments or advances.

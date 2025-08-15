@@ -1,0 +1,15 @@
+APP4 CALCULATION OF MINIMUM CAPITAL REQUIREMENT
+
+A4.1 Purpose and general provisions
+
+A4.1.1 This appendix applies to all Insurers to which Rule 4.3 applies.
+
+Guidance
+
+1.
+
+This appendix sets out the manner in which an Insurer that is not a Cell Company is required to calculate its Minimum Capital Requirement. The equivalent provisions for Insurers that are Cell Companies are set out in APP6.
+
+2.
+
+The Minimum Capital Requirement is calculated by determining individual components in respect of various specific risks that the Insurer is exposed to, and adding those components together to arrive at the Minimum Capital Requirement.

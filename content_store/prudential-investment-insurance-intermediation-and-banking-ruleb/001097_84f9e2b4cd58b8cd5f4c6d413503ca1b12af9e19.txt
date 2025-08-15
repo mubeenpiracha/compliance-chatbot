@@ -1,0 +1,17 @@
+a.
+
+maintaining assets in a separate pool managed by the identified liquidity management function (typically the treasurer) with the sole intent to use it as a source of contingent funds; or
+
+b.
+
+demonstrating that the relevant function can liquidate the asset at any point in the 30-day stress period and that the proceeds are available to the function throughout the 30-day stress period without directly conflicting with a stated business or risk management strategy.
+
+3.
+
+Operational capability to liquidate assets referred to in Rule A10.2.3(b), requires procedures and appropriate systems to be in place. This includes providing the liquidity management function with access to all necessary information to liquidate any asset at any time. Liquidation of the asset should
+
+401
+
+PRU VER17.290725
+
+be executable operationally within the standard settlement period for the asset class in the relevant jurisdiction.

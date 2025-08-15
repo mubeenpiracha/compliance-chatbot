@@ -1,0 +1,21 @@
+259 Amended 20 September 2022 and 30 December 2024.
+
+260 Amended 8 August 2023.
+
+261 Amended 30 December 2024.
+
+262 Amended 14 February 2019 and 30 December 2024.
+
+208
+
+Payee263
+
+means a Person who is the intended recipient of Money that has been the subject of a Payment Transaction.
+
+Payer 264
+
+means a Person who holds a Payment Account and initiates or consents to the initiation of a Payment Transaction from that Payment Account.
+
+Payment Account265
+
+means an account held in the name of one or more Payers or Payees that is used for the execution of Payment Transactions.

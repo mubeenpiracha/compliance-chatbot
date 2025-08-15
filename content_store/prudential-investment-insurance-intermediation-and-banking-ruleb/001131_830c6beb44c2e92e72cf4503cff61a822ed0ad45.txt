@@ -1,0 +1,15 @@
+Liquidity facilities
+
+15.
+
+A liquidity facility should consist of any committed, undrawn back-up facility that would be used to refinance the debt obligations of a customer in situations where such a customer is unable to roll over that debt in financial markets. The amount of any commitment to be treated as a liquidity facility should consist of the amount of the outstanding debt issued by the customer (or proportionate share of a syndicated facility) maturing within a 30-day period that is backstopped by the facility. Any additional capacity of the facility should be treated as a committed Credit Facility. General working capital facilities for corporate entities (e.g. revolving credit facilities in place for general corporate
+
+413
+
+PRU VER17.290725
+
+or working capital purposes) should not be classified as liquidity facilities, but as credit facilities.
+
+16.
+
+Despite paragraph 15, any facilities provided to hedge funds, Money market funds and special purpose funding vehicles, or other vehicles used to finance an Authorised Person's own assets, should be captured in their entirety as a liquidity facility to a Financial Institution.

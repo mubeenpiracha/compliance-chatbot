@@ -1,0 +1,31 @@
+(c)
+
+any change in the purpose or intended nature of the Relevant Person’s relationship with the customer; or
+
+(d)
+
+any other matter that might affect the Relevant Person’s risk assessment of the customer.
+
+Guidance
+
+1.
+
+A Relevant Person should undertake appropriate CDD in a manner proportionate to the customer's money laundering risks. This means that all customers are subject to CDD under Rule 8.3.1. However, for high-risk customers, additional Enhanced Customer Due Diligence measures should also be undertaken under Rule 8.4.1. For customers having a low-risk rating, the requirements under Rule
+
+Confidential
+
+43
+
+AML VER10.020125
+
+8.3.1 may be modified according to the assessed risk, in accordance with Rule 8.5.1.
+
+2.
+
+The frequency for undertaking CDD for existing customers will be determined by the risk rating assigned to a particular customer. The Regulator expects that customers rated high risk for money laundering should be reviewed more frequently than customers rated lower risk for money laundering.
+
+3.
+
+A Relevant Person should undertake CDD to guard against a range of money laundering risks as well as a range of financial crime risks, including fraud.
+
+8.2

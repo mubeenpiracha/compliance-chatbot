@@ -1,0 +1,27 @@
+Application for a global liquidity concession
+
+A10.1.1
+
+(1)
+
+This Rule applies to an Authorised Person carrying on business in or from the ADGM through a Branch that applies for a global liquidity concession under Rule 9.3.2.
+
+(2)
+
+The Authorised Person must demonstrate to the Regulator that:
+
+(a)
+
+its Branch complies with all applicable liquidity systems and controls requirements in section 9.2;
+
+(b)
+
+its head office is established in a jurisdiction where there are no legal constraints imposed by the home supervisor or any other authority on the provision of liquidity to its Branch; and
+
+(c)
+
+its head office is subject to equivalent or more restrictive liquidity requirements, than those imposed by the Regulator.
+
+(3)
+
+The Regulator may, when considering an application from the Authorised Person for a global liquidity concession, impose additional or alternative conditions to those specified in (2) or disapply a condition in (2).

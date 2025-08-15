@@ -1,0 +1,27 @@
+Guidance
+
+Rule 6.2.9(3) requires a Stabilisation Manager to disclose to the Regulator details of each Price Stabilisation transaction conducted during the Stabilisation Window. The purpose of this Rule is to provide the Regulator with an understanding of the price support afforded the Relevant Securities during the Stabilisation Window and the manner in which Price Stabilisation occurred.
+
+(4)
+
+Within one week of the end of the Price Stabilisation period, the following information must be adequately disclosed to the public by the Stabilisation Manager:
+
+(a)
+
+whether or not Price Stabilisation was undertaken;
+
+(b)
+
+the date at which Price Stabilisation started;
+
+(c)
+
+the date at which Price Stabilisation last occurred;
+
+(d)
+
+the total number of Relevant Securities bought by the Stabilisation Manager and Stabilisation Agents during the Stabilisation Window;
+
+(e)
+
+whether a Price Stabilisation transaction was undertaken otherwise than through the central order book of the relevant Recognised Investment Exchange;

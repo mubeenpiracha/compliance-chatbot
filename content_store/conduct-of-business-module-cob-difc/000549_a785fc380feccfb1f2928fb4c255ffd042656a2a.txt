@@ -1,0 +1,19 @@
+access
+
+Application
+
+14.2.1 This section applies to an ATS Operator that has Direct Access Members.
+
+Guidance
+
+1.
+
+A Direct Access Member is defined in GLO as a Person that an ATS Operator has admitted as a member under COB Rule 9.3.1(1)(e).
+
+2.
+
+A Person will only be admitted as a Direct Access Member where that Person does not meet any of the criteria at 9.3.1(1)(a)-(d), although a Person admitted as a member under any of those criteria may also trade Investment Tokens. A Direct Access Member may be an individual or a Body Corporate, but will not, for example, be an Authorised Firm or an institutional investor whose main activity is to invest in financial instruments.
+
+3.
+
+See also the requirements relating to Direct Access Members in Rule 9.3.1(4).

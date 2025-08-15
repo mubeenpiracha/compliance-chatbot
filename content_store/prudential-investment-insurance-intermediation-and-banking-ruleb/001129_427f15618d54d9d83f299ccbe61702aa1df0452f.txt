@@ -1,0 +1,9 @@
+Operational Deposits
+
+11.
+
+Operational Deposits should consist of those Deposits where customers place, or leave, Deposits with an Authorised Person to facilitate their access and ability to use payment and settlement systems and otherwise make payments. Balances can be included only if the customer has a substantive dependency on the Authorised Person and the Deposit is required for such activities.
+
+12.
+
+Qualifying activities in this context refer to clearing, custody or cash management activities where the customer is reliant on the Authorised Person to perform these services as an independent third-party intermediary in order to fulfil its normal banking activities over the next 30 days. These services should be provided to institutional customers under a legally binding agreement and the termination of such agreements should be subject either to a notice period of at least 30 days or to significant switching costs to be borne by the customer if the operational Deposits are moved before 30 days.

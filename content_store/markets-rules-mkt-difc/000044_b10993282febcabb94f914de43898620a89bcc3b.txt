@@ -1,0 +1,29 @@
+2.3 Exempt offers
+
+Guidance
+
+This section prescribes the type of offer that is an Exempt Offer. The prohibition in Article 14(1)(a) of the Law does not apply to such offers. Accordingly, a Person may make an Offer of Securities to the Public in the circumstances specified in this Rule without a Prospectus.
+
+2.3.1 For the purposes of Article 14(3)(a) of the Law the DFSA hereby prescribes the
+
+circumstances in which an offer is an Exempt Offer:
+
+(a)
+
+an offer made to or directed at only Professional Clients other than natural Persons;
+
+(b)
+
+an offer in or from the DIFC which is directed at fewer than 50 Persons in any 12 month period, excluding Professional Clients who are not natural persons;
+
+(c)
+
+an offer where the total consideration to be paid by a Person to acquire the Securities is at least $100,000, or an equivalent amount in another currency;
+
+(d)
+
+an offer where the Securities are denominated in amounts of at least $100,000, or an equivalent amount in another currency;
+
+(e)
+
+an offer where the total aggregate consideration for the Securities offered is less than $100,000, or an equivalent amount in another currency, calculated over a period of 12 months;

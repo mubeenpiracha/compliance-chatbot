@@ -1,0 +1,9 @@
+Guidance
+
+1.
+
+Investment risk refers to the possibility of an adverse movement in the value of an Insurer’s on-balance sheet assets or certain off-balance sheet obligations. Investment risk derives from a number of sources including market risk (e.g. equity, interest rate and foreign exchange risk), credit quality risk (dealt with separately in this appendix), investment concentration risk and asset and liability mismatch risk (e.g. in terms of currency, maturity, and location). Associated risks include political risk, e.g. the risk of inability to realise assets in a particular location, and the risk of correlation such that a single event has adverse impacts on both assets and liabilities. Investment risk includes risk associated with the use of derivatives and other complex investment instruments, including asset backed securities, credit linked notes and insurance linked notes.
+
+2.
+
+Suitable controls and management information systems should be in place to enable an Insurer to implement an appropriate investment strategy.

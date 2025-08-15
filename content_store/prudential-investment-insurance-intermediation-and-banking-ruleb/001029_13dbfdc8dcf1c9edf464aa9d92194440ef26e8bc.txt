@@ -1,0 +1,3 @@
+d.
+
+the model should use a separate risk factor at least for each commodity in which the Authorised Person holds significant positions. The model must also capture the risk of less than perfectly identical, correlated movements between similar, but not commodities and the Exposure to changes in forward prices arising from Maturity Mismatches. It should also take account of market characteristics, notably delivery dates and the scope provided to traders to close out positions; For more actively traded portfolios, the model should also take account of variation in the "convenience yield" between Derivative positions such as forwards and swaps and cash positions in the commodity; and

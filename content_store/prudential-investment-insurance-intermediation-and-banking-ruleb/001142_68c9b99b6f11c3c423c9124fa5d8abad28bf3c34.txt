@@ -1,0 +1,41 @@
+418
+
+PRU VER17.290725
+
+(3)
+
+The Regulator may allow, on a case by case basis, an Authorised Person to include a longer term asset which is relatively easy to liquidate in the sight- eight days time band.
+
+(4)
+
+The discount factor to be applied to types of marketable assets must be determined by reference to the following table and Rules A10.2.6 to A10.2.9:
+
+Marketable Asset
+
+Discount factor
+
+Level 1 HQLA
+
+0%
+
+Level 2A HQLA
+
+15%
+
+Level 2B HQLA – eligible asset –backed securities
+
+25%
+
+Level 2B HQLA – other HQLA
+
+50%
+
+Non-HQLA eligible trading assets that are Investment Grade
+
+60%
+
+(5)
+
+The Regulator may vary the discount factors to reflect the conditions of a particular market or institution.
+
+A10.4

@@ -1,0 +1,19 @@
+361
+
+PIB/VER50/07-25
+
+A5.9.2
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+b.
+
+in addition to the regulatory back-testing programmes, Authorised Firms should carry out their own internal model validation tests, including back-testing, in relation to the risks and structures of their portfolios; and
+
+c.
+
+the use of hypothetical portfolios to ensure that the internal model is able to account for particular structural features that may arise, for example material basis risks and Concentration Risk.
+
+20.
+
+The Authorised Firm should perform back-testing on both actual and hypothetical changes in the portfolio's value.

@@ -1,0 +1,19 @@
+(d)
+
+if the Stabilisation Manager has an outstanding short position, the number of Eligible Securities in that short position; and
+
+(e)
+
+any additional information which the DFSA requires the Stabilisation Manager to disclose.
+
+Guidance
+
+Rule 4.3.2 requires a Stabilisation Manager to disclose to the market details of the Price Stabilisation support conducted during the Stabilisation Window. The purpose of this Rule is to provide the market with an understanding of the level of price support afforded to the Eligible Securities during the Stabilisation Window.
+
+10
+
+PRS/VER7/04-18
+
+PRICE STABILISATION (PRS)
+
+5

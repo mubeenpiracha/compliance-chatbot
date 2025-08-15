@@ -1,0 +1,23 @@
+Related Party Transaction procedures
+
+9.5.3 A Listed Entity must ensure that:
+
+(1)
+
+if the value of a proposed Related Party Transaction is equal to or greater than 5% of the value of the net assets of the Listed Entity as stated in its most recent financial reports, it does not enter into such a transaction unless the proposed transaction has been put to Shareholder approval and has received prior approval by a majority of the Shareholders of the Listed Entity;
+
+(2)
+
+if the value of the proposed Related Party Transaction is less than the 5% threshold referred to in (1), the Reporting Entity must as soon as possible after entering the transaction:
+
+(a)
+
+notify the Regulator of the relevant terms and the basis on which such terms are considered fair and reasonable, supported by written confirmation by an independent third party; and
+
+Confidential
+
+100
+
+MKT VER09.020125
+
+(b)

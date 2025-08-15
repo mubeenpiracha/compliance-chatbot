@@ -1,0 +1,13 @@
+(c)
+
+the firm must set a period for amortisation that would be sufficient for at least 90% of the total debt outstanding at the beginning of the Early Amortisation period to have been repaid or recognised as in default; and
+
+(d)
+
+the pace of repayment should not be any more rapid than would be allowed by straight-line amortisation over the period set out in (c).
+
+4.14.59 For uncommitted retail credit lines in securitisations containing Controlled Early Amortisation which is triggered by the Excess Spread level falling to a specified level, an Authorised Firm must compare the three month average Excess Spread level with the Excess Spread levels at which the Excess Spread is required to be trapped.
+
+4.14.60 Where the securitisation does not require Excess Spread to be trapped, the trapping point is deemed to be 4.5 percentage points greater than the Excess Spread level at which Early Amortisation is triggered.
+
+4.14.61 An Authorised Firm must divide the Excess Spread level by the transaction’s Excess the appropriate segments and apply

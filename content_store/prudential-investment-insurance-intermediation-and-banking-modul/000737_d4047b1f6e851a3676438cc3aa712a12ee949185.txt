@@ -1,0 +1,15 @@
+(iv)
+
+the position is marked-to-market or marked-to-model at least daily on a prudent and consistent basis as part of the Authorised Firm’s internal risk management processes;
+
+(v) where the position is marked-to-model, the parameters for the model
+
+are assessed on a daily basis;
+
+(vi)
+
+the position is monitored against the documented trading strategy including the monitoring of turnover and stale positions in the Authorised Firm’s Trading Book;
+
+(vii) active monitoring of the position is undertaken using market information sources and an assessment made of the marketability or hedge-ability of the position or its component risks, including the assessment of the quality and availability of market inputs to the valuation process, level of markets turnover and sizes of positions traded in the market; and
+
+(viii) positions and exceptions are reported to senior management as an

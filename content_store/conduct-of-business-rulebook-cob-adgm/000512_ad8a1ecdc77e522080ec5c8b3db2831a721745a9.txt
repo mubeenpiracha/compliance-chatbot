@@ -1,0 +1,17 @@
+fully cooperate with the Authorised Person administering a Specified Benchmark, with the Regulator and with any other person receiving information from the Information Provider, in respect of matters relating to the administration of a Specified Benchmark, and make available upon request any relevant information and records.
+
+169
+
+COBS VER19.290725
+
+21.4.3 Exercise of judgment or discretion
+
+Where a Specified Benchmark Information Provider exercises judgment or discretion when providing information in relation to a Specified Benchmark, it must:
+
+(a)
+
+have adequate arrangements, including policies and procedures, guiding such use of judgement or exercise of discretion; and
+
+(b)
+
+retain records detailing the rationale for the exercise of any such judgement or discretion, whenever exercised.

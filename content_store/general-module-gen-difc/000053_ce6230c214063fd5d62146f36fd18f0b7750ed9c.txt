@@ -1,0 +1,5 @@
+5. A Payment Account is an account that is used to execute Payment Transactions. Funds are usually expected to remain in a Payment Account only for a short period. A provider of such an account is prohibited from paying any interest or other return on funds in the account (COB Rule A7.2.16). This is because paying interest or any other return on the account is likely to result in the account being a Deposit or a Profit Sharing Investment Account (PSIA).
+
+6. A “User” means a user of a Money Service and, in relation to a Payment Service, includes a person acting in the capacity of payer, payee or both (see the definition in GLO).
+
+7. The reference in the “Stored Value” definition in Rule 2.6.1(2)(h) to receipt of “other assets” includes, for example, the receipt of digital currencies or any other form of assets that may be accepted by an issuer of stored value. Stored Value does not, however, include a loyalty programme where a person earns points that can be redeemed directly for goods or services of the loyalty programme provider.

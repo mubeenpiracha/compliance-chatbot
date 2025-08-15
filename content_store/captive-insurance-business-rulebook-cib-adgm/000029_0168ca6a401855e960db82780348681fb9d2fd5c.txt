@@ -1,0 +1,3 @@
+Except as provided otherwise in this Chapter, a Captive Insurer that is a Cell Company must, each time a Global Return is completed as provided in Rule 2.3.5(3)(b), separately complete a Cell Return in respect of each Captive Cell that it maintains. A Cell Return includes all of the assets, liabilities, equity, revenues and expenses attributable to the Captive Cell, regardless of the residency status or location of the customer or of any asset or liability. A Captive Insurer that is a Cell Company is not required to complete a Cell Return each time a quarterly Regulatory Return is completed in respect of any Cell maintained by it that is a Class 1 Captive Cell unless required by the Regulator to do so.
+
+(5)

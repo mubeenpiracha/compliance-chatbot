@@ -1,0 +1,3 @@
+Liability of Payment Service Provider for charges and interest
+
+19.21.5 A Payment Service Provider is liable to its Payment Service User for any charges for which the Payment Service User is responsible and any interest which the Payment Service User must pay as a consequence of the non-execution, defective or late execution of a Payment Transaction by the Payment Service Provider.

@@ -1,0 +1,29 @@
+volume
+
+257
+
+PRU VER17.290725
+
+Capital Requirement (USD)
+
+Activity
+
+<-----------------------------------------------------------------------------maximum of---------------------------------------------------- ------------------------------>
+
+BCR
+
+EBCM (of AAE)9
+
+VCR
+
+Stored Value Provider
+
+n/a
+
+2.5% of average outstanding Stored Value
+
+9. Where an Authorised Person offers both (i) currency exchange or Money Remittance and (ii) Payment Services to its customers it must calculate the Expenditure Based Capital Minimum as 18/52nds of AAE.
+
+258
+
+PRU VER17.290725

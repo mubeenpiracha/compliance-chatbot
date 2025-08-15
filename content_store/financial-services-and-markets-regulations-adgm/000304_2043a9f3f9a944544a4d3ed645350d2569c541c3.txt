@@ -1,0 +1,23 @@
+for "Recognised Body or Remote Body" substitute "Non-ADGM Clearing House"; and110
+
+(b)
+
+in sections 135(6) and (7), for "give a Direction under section 132 or 133" substitute "make an order under section 165(8)".
+
+(13)
+
+If the Regulator refuses to make an order under subsection (7) or makes an order under subsection (8)(b), (c) or (d), the Non-ADGM Clearing House may refer the matter for review by the Appeals Panel.111
+
+(14)
+
+The Regulator may rely on information or advice from a Non-Global Market Competent Authority in its determination of an Application under subsection (4) or the making of a Revocation Order under subsection (8)(d).
+
+166. Change in Default Rules112
+
+(1)
+
+A Non-ADGM Clearing House in respect of which an order under section 165(7) has been made and not revoked must give the Regulator at least one month's notice of any proposal to amend, revoke or add to its Default Rules.
+
+(2)
+
+The Regulator may, if it considers it appropriate to do so, agree a shorter period of notice.

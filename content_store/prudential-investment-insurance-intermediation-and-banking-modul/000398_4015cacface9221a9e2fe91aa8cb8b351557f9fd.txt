@@ -1,0 +1,35 @@
+Unsecured Portion = E – P – Cf
+
+where:
+
+(i)
+
+E = E calculated in accordance with section 4.9;
+
+(ii) P = notional amount of eligible credit protection received; and
+
+(iii) Cf = fair value of eligible financial Collateral received; or
+
+(b)
+
+for an Authorised Firm using the FCCA:
+
+Unsecured Portion = E*– P
+
+where -
+
+(i)
+
+E* = E* calculated in accordance with section 4.9; and
+
+(ii) P = notional amount of eligible credit protection received.
+
+Other Exposures
+
+4.12.30 (1) An Authorised Firm must, subject to (2) and (3), risk-weight any Exposure which does not fall within any of the categories in Rule 4.10.1(a) to (j) at 100%, with the exception of the following Exposures:
+
+127
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)

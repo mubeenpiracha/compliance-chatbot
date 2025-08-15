@@ -1,0 +1,15 @@
+4.13 Credit Risk mitigation
+
+Guidance
+
+This section sets out the principles and methodologies for the recognition of Credit Risk mitigation in the calculation of Credit RWA.
+
+General Requirements
+
+4.13.1
+
+(1)
+
+An Authorised Firm must not recognise the effects of Credit Risk mitigation unless:
+
+(a) all documentation relating to that mitigation is binding on all relevant

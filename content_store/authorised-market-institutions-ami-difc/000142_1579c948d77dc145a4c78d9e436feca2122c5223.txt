@@ -1,0 +1,13 @@
+f.
+
+how the Authorised Market Institution reconciles its records of assets held with the records of any custodian or sub-custodian used to hold those assets, and with the record of beneficial or legal ownership of those assets.
+
+An Authorised Market Institution must not appoint any Person as a third party custodian unless that Person:
+
+(a)
+
+is appropriately authorised under its Licence or subject to regulation and supervision by a Financial Services Regulator acceptable to the DFSA for the activity of deposit taking or providing custody and depository services; and
+
+(b)
+
+is prohibited from appointing sub-custodians except where the sub- custodians meet the requirements in (a).

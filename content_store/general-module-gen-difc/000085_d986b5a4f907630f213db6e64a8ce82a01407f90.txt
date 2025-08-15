@@ -1,0 +1,7 @@
+1. A Person does not become a Fund Manager of a Fund merely by being appointed by a Fund Manager of a Fund to provide the Financial Service of Managing Assets to the Fund. This is because the Fund Manager remains legally accountable to the Unitholders of the Fund for the proper management of the Fund in accordance with its Constitution and Prospectus. If an Authorised Firm has a discretionary portfolio mandate from a Client to manage assets on behalf of the Client, the firm controls those Client Assets as it can execute transactions relating to those assets, within the parameters set in the mandate (see also COB Rule 6.11.4(d)).
+
+2.11 Advising on financial products
+
+2.11.1 (1)
+
+In Rule 2.2.2, Advising on Financial Products means giving advice to a Person in his capacity as an investor or potential investor, or in his capacity as agent for an investor or a potential investor, on the merits of his buying, selling, holding, subscribing for or underwriting a particular financial product (whether as principal or agent).

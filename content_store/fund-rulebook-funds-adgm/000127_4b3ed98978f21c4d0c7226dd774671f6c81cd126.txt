@@ -1,0 +1,21 @@
+Affected Person transactions
+
+12.3.13
+
+(1) A Fund Manager must not enter into a Transaction in respect of the Fund Property with an Affected Person unless it is in accordance with the requirements in this Rule.
+
+(2) A Fund Manager must ensure that any Transaction in respect of the Fund Property undertaken with an Affected Person is on terms at least as favourable to the Fund as any comparable arrangement on normal commercial terms negotiated at arm's length with an independent third party.
+
+(3) The Fund Manager of a Public Fund must, before entering into a Transaction with an Affected Person:
+
+(a)
+
+obtain written confirmation from any Person responsible for providing the oversight arrangements for that Public Fund that the terms of such Transaction satisfy Rule 12.3.13(2); and
+
+(b)
+
+issue to the Unitholders a circular containing the details of the Transaction.
+
+(4) The Fund Manager of an Exempt Fund must, before entering into a Transaction with an Affected Person, either:
+
+(a)

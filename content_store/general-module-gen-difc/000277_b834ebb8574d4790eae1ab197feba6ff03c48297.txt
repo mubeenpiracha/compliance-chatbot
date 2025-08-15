@@ -1,0 +1,23 @@
+deal in an open and co-operative way with the DFSA.
+
+Guidance
+
+1.
+
+An Authorised Person’s outsourcing arrangements should include consideration of:
+
+a.
+
+applicable guiding principles for outsourcing in financial services issued by the Joint Forum; or
+
+b.
+
+any equivalent principles or regulations the Authorised Person is subject to in its home country jurisdiction.
+
+2.
+
+An outsourcing arrangement would be considered to be material if it is a service of such importance that weakness or failure of that service would cast serious doubt on the Authorised Person’s continuing ability to remain fit and proper or to comply with DFSA administered Laws and Rules.
+
+3.
+
+GEN Section 5.5 contains additional requirements that apply to an Authorised Person that receives services directly from a third party or a subcontractor of the third party which involve accessing the Authorised Person’s IT systems or networks or accessing or processing its data.

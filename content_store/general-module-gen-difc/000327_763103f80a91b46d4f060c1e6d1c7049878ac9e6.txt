@@ -1,0 +1,25 @@
+Guidance
+
+1.
+
+The DFSA expects that an Authorised Person’s strong password controls require, at the minimum, a change of password upon initial logon, minimum password length and history requirements, password complexity, maximum validity periods as well as lockout thresholds after a number of unsuccessful logon attempts.
+
+2.
+
+For mobile devices, access controls and encryption techniques should address threats raised by their use outside the Authorised Person’s premises.
+
+5.5.10 (1)
+
+An Authorised Person must have a comprehensive change management process that considers Cyber Risk before and during a change to its IT Systems and Networks and any new Cyber Risk created after the change.
+
+(2)
+
+The process in (1) must include systems and controls that ensure changes to its IT System and Networks are:
+
+(a) adequately tested;
+
+(b) approved before their implementation; and
+
+(c)
+
+implemented quickly if needed to resolve major Cyber Incidents or security vulnerabilities.

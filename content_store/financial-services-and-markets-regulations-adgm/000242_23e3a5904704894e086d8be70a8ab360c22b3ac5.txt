@@ -1,0 +1,13 @@
+An Intragroup Transaction that is entered into by a counterparty which is established in the Abu Dhabi Global Market and a counterparty which is established outside the Abu Dhabi Global Market shall be exempt from the requirement laid down in subsection (3), provided that the following conditions are fulfilled—
+
+(a)
+
+the risk management procedures of the counterparties are adequately sound, robust and consistent with the level of complexity of the derivative transaction; and
+
+(b)
+
+there is no current or foreseen practical or legal impediment to the prompt transfer of own funds or repayment of liabilities between the counterparties.
+
+The counterparty of an Intragroup Transaction that is exempt from the requirement laid down in subsection (3) shall publicly disclose information on the exemption.
+
+The obligations set out in subsections (1) to (7) shall apply to OTC Derivative Contracts entered into between Non-ADGM Firms that would be subject to those obligations if they were established in the Abu Dhabi Global Market, provided that those contracts have a direct, substantial and foreseeable effect within the Abu Dhabi Global Market or where

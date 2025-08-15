@@ -1,0 +1,15 @@
+agreement with a Counterparty which:
+
+(a) provides the non-defaulting party the right to terminate and close out in a timely manner all transactions under the agreement upon an event of default, including in the event of insolvency or bankruptcy of the counterparty;
+
+(b) provide for the netting of gains and losses on transactions (including the value of any Collateral) terminated and closed out under it so that a single net amount is owed by one party to the other;
+
+(c)
+
+allow for the prompt liquidation or set-off of Collateral upon the event of default; and
+
+(d)
+
+is legally enforceable in each relevant jurisdiction upon the occurrence of an event of default and regardless of the counterparty’s insolvency or bankruptcy.
+
+A4.3.5 For the purpose of Rules A4.3.2 and A4.3.3, an Authorised Firm must use the supervisory haircuts set out in the table below (assuming daily remargining or revaluation and a ten-business day holding period) to determine the haircuts to the Collateral, He, and to the Exposure, Hc.

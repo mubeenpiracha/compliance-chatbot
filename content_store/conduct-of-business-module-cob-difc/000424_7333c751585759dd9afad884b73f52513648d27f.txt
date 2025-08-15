@@ -1,0 +1,13 @@
+if it or another linked CSD uses an intermediary to operate a link with another CSD, the CSD or the linked CSD has adequate systems and controls to measure, monitor, and manage the additional risks arising from the use of the intermediary;
+
+(d)
+
+to the extent practicable and feasible, linked CSDs provide for Delivery Versus Payment (DVP) settlement of transactions between participants in linked CSDs, and where such settlement is not practicable or feasible, reasons for non-DVP settlement are notified to the DFSA; and
+
+(e)
+
+where interoperable securities settlement systems and CSDs use a common settlement infrastructure, there are:
+
+(i)
+
+identical moments established for the entry of transfer orders into the system;

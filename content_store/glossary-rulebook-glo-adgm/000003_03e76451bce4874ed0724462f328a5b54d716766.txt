@@ -1,0 +1,13 @@
+Definitions
+
+Means the low estimate scenario of Petroleum Reserves. It is equivalent to Proved Reserves.
+
+has the meaning of the term or equivalent term in the PRMS.
+
+Means the best estimate scenario of Petroleum Reserves. It is equivalent to the sum of Proved Reserves plus Probable Reserves.
+
+Means the best estimate of the quantity that will actually be recovered from an accumulation by a Petroleum Project. It is the most realistic assessment of recoverable quantities if only a single result were reported. When Probabilistic Methods are used, there should be at least a 50% probability (P50) that the quantities actually recovered will equal or exceed 2P.
+
+Means the high estimate scenario of Petroleum Reserves. It is equivalent to the sum of Proved Reserves plus Probable Reserves plus Possible Reserves.
+
+Means an optimistic estimate of the quantity that will actually be recovered from an accumulation by a Petroleum Project. When Probabilistic Methods are used, there should be at least a 10% probability (P10) that the quantities actually recovered will equal or exceed 3U.

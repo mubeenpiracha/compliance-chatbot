@@ -1,0 +1,35 @@
+Capital Conservation Buffer
+
+3.9.1
+
+This section applies to an Authorised Firm in Category 1, 2 (other than a Matched Principal) or 5.
+
+3.9.2 Where, under section 3.3 or 3.4, the Risk Capital Requirement in section 3.8 applies to an Authorised Firm, then the firm is subject to a Capital Conservation Buffer Requirement.
+
+47
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+3.9.3
+
+The Capital Conservation Buffer Requirement is equivalent to 2.5% of an Authorised Firm’s Risk Weighted Assets and must constitute only CET1 Capital.
+
+3.9.4
+
+(1)
+
+An Authorised Firm must maintain the required buffer amount, calculated in accordance with Rule 3.9.3, at all times.
+
+(2)
+
+The Capital Conservation Buffer Requirement applies on both a solo and a consolidated basis for Authorised Firms forming part of Financial Groups.
+
+3.9.5
+
+An Authorised Firm must not apply CET1 Capital that it maintains to meet the Capital Conservation Buffer Requirement towards meeting:
+
+(a)
+
+any Individual Capital Requirement the DFSA may impose on it pursuant to chapter 10;

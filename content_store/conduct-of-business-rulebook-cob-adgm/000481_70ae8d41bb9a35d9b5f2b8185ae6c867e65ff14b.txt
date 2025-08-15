@@ -1,0 +1,19 @@
+Execution of Third Party Transactions
+
+Refusal of Third Party Transactions
+
+20.8.1 (1)
+
+Where a Third Party Provider refuses to execute a Third Party Transaction, it must notify the Customer of the refusal at the earliest opportunity.
+
+159
+
+COBS VER19.290725
+
+(2)
+
+The Third Party Provider must provide the notification in the agreed manner of the refusal as set out in Rule 20.2.2.
+
+(3)
+
+Where possible, the Third Party Provider must include the reasons for such refusal in the notification as well as the procedure that the Customer must take for rectifying any issues or factual errors that led to the refusal.

@@ -1,0 +1,17 @@
+Management of operational and security risks
+
+20.14.1 (1)
+
+A Third Party Provider must establish a framework with appropriate mitigation measures and control mechanisms to manage the operational and security risks relating to the Third Party Services it provides.
+
+(2)
+
+As part of that framework, the Third Party Provider must establish and maintain effective incident management procedures, including for the detection and classification of major operational and security incidents.
+
+(3)
+
+A comprehensive assessment of operational and security risks must be undertaken by the Third Party Provider relating to the Third Party Services it provides, at least annually or more frequently if requested by the Regulator, and provided to the Regulator on request.
+
+(4)
+
+The assessment must address the adequacy of the mitigation measures and control mechanisms implemented in response to those risks in such form and manner, and contain such information, as the Regulator may direct.

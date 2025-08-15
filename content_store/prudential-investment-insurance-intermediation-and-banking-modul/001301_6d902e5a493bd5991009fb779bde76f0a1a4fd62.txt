@@ -1,0 +1,9 @@
+(ii)
+
+the total CCR Exposure value calculated under Rule 4.14A.2; and
+
+(iii) The notional value of Credit Derivative hedges, and the distribution of
+
+current credit Exposure by types of credit Exposure.
+
+(c ) Credit Derivative transactions that create Exposures to Counterparty Credit Risk (notional value), segregated between use for the credit portfolio of the Authorised Firm and the intermediation activities of the firm, including the distribution of Credit Derivatives used, analysed further in terms of protection bought and sold within each type of Credit Derivative.

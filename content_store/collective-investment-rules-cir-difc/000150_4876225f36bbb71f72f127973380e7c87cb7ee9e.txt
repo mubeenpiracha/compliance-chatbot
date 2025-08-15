@@ -1,0 +1,21 @@
+the underlying classes of assets of the Fund;
+
+(ii)
+
+if such assets are traded on-exchange, the liquidity in those markets;
+
+(iii)
+
+investors’ redemption patterns and behaviour; and
+
+(iv)
+
+any other factors that affect or potentially affect the liquidity of the relevant classes of assets;
+
+(c)
+
+include appropriate mechanisms to measure, monitor, stress test and manage the controls referred to in (a) to assess whether they are adequate, and are operating as intended in both normal and stressed conditions and the procedures available to the Fund Manager to address any gaps and failures identified; and
+
+(d)
+
+include powers available to the Fund Manager to address liquidity stresses which pose, or have the potential to pose, risks to its ability to effect redemptions (such as the power to impose anti- dilution levies, create side pockets to ring-fence illiquid assets and create redemption gates or suspend redemptions), and clear triggers and procedures for exercising such powers.

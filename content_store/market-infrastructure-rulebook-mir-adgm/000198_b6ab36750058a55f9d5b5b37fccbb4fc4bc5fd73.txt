@@ -1,0 +1,17 @@
+[Deleted]
+
+2.
+
+Where a Recognised Clearing House has access to a central bank lines of credit or accounts, payment services, or securities services, it should use those services as far as practicable, as such use is likely to enhance its ability to manage liquidity risk more effectively.
+
+4.7.32
+
+A Recognised Clearing House must have clear procedures to report the results of its stress tests undertaken for the purposes of this Rule to its Governing Body and Senior Management as appropriate.
+
+4.7.33
+
+A Recognised Clearing House must use the results of stress testing to evaluate the adequacy of its liquidity risk-management framework and make any appropriate adjustments as needed.
+
+4.7.34
+
+A Recognised Clearing House must record the results of such stress testing and the rationale for any adjustments made to the amount and form of total liquid resources it maintains.

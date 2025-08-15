@@ -1,0 +1,9 @@
+Non-application of the Client Asset provisions
+
+3. The Client Asset provisions only apply to firms holding or controlling Client Assets and to firms Providing Custody. As a firm Arranging Custody does not ‘safeguard and administer Investments’ (see Guidance items 3 and 4 under Providing Custody in section 2.13), the Client Asset provisions in COB section 6.11 have only limited application to such a firm (see COB Rule 6.11.2(3)). The requirement for a Safe Custody Auditor’s Report under Rule 8.6.1(e) also does not apply to a firm Arranging Custody.
+
+4. A firm ‘Arranging Custody’, although not subject to substantive Client Asset provisions (because it does not hold or control Client Assets), is still required to undertake due diligence on a non-DIFC custodian with whom it arranges for its Client to obtain custody services – see COB Rule A6.5.1A.
+
+Who can rely on the exclusion in Rule 2.14.2?
+
+5. The exclusion in Rule 2.14.2 is available to an introducer who introduces a potential customer to a regulated firm. However, this exclusion does not apply if the introducer:

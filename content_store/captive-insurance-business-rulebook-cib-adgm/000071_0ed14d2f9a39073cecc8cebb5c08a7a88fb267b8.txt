@@ -1,0 +1,9 @@
+General requirements: independent price verification
+
+6.7.1 A Captive Insurer must perform independent price verification. This is the process by inputs are regularly verified for accuracy and
+
+which market prices or model independence.
+
+6.7.2 For independent price verification, where independent pricing sources are not available or pricing sources are more subjective (for example, only one available broker quote), prudent measures such as valuation adjustments may be appropriate.
+
+6.8

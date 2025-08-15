@@ -1,0 +1,15 @@
+14.5 Exceptions to holding Client Money in Client Accounts
+
+14.5.1 The requirement for an Authorised Person to hold Client Money in a Client Account does
+
+not, subject to Rule 14.5.2, apply with respect to such Client Money:
+
+(a)
+
+received in the form of cheque, or other payable order, until the Authorised Person, or a Person or account controlled by the Authorised Person, is in receipt of the proceeds of that cheque;
+
+(b)
+
+temporarily held by an Authorised Person before forwarding to the Client or a Person nominated by the Client; or
+
+(c)

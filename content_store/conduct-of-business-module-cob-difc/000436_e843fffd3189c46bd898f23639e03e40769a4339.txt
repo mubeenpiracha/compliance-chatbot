@@ -1,0 +1,27 @@
+Guidance
+
+1.
+
+Rule 11.3.2 requires a Loan Crowdfunding Operator to disclose historical information about the default rates of loans entered into on the platform. It also requires the operator to set out expected default rates in the future for loans entered into on the platform.
+
+131
+
+COB/VER48/03-25
+
+11.3.3
+
+CONDUCT OF BUSINESS (COB)
+
+2.
+
+An Investment Crowdfunding Operator is required to disclose similar information about the failure rates of Issuers on its platform. In this context, failure of an Issuer should include where an Issuer defaults on payments, becomes insolvent, is wound up or ceases to carry on business.
+
+3.
+
+Information about default and failure rates is intended to assist potential lenders or investors to assess the risks of lending or investing using the platform.
+
+4.
+
+If an operator is a start-up entity, it may base the information on crowdfunding services provided by other members of the Group, provided it states clearly the basis for the information it provides.
+
+5.

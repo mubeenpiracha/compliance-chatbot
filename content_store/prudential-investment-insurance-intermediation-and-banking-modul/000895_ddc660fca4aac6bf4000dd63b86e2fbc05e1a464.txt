@@ -1,0 +1,5 @@
+Under this Rule, an Authorised Firm may treat inflation derivatives (which SA-CCR does not specifically assign to a particular asset class) in the same manner as they treat interest rate derivatives and subject them to the same 0.5% supervisory factor. Derivatives referencing inflation rates for the same currency should form a separate hedging set.
+
+Add-on for transactions in the foreign exchange asset class
+
+A4.8.8 (1) An Authorised Firm must calculate the add-on for each hedging set of the foreign

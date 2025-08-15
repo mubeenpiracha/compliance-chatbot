@@ -1,0 +1,21 @@
+Guidance
+
+1.
+
+Detailed Rules and Guidance in respect of the Market Risk Capital Requirement and each of its components are contained in Chapter 5.
+
+2.
+
+Rules and Guidance in respect of calculating Market Risk for Islamic Contracts are contained in the IFR rules.
+
+Operational Risk Capital Requirement
+
+3.5.4
+
+An Authorised Person must calculate its Operational Risk Capital Requirement in accordance with the applicable Rules in Chapter 6.
+
+Displaced Commercial Risk Capital Requirement
+
+3.5.5
+
+An Authorised Person Managing a Profit Sharing Investment Account which is a PSIAu must calculate its Displaced Commercial Risk Capital Requirement in accordance with the IFR rules.

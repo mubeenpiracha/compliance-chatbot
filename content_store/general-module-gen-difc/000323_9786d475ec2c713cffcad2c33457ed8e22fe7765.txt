@@ -1,0 +1,17 @@
+For the purpose of (1), the Authorised Person must:
+
+(a) establish a user access management process for the approval of a user’s request for access or permission that ensures that:
+
+(i)
+
+the minimum access or the user permissions needed to perform that user’s tasks or functions (‘least privilege principle’); and
+
+is only granted
+
+(ii)
+
+immediately the user’s access and permissions are revoked if the conditions for granting approval are no longer met;
+
+(b) perform regular reviews of users’ access rights and permissions
+
+to verify that they remain appropriate.

@@ -1,0 +1,19 @@
+Reporting of information about transactions and rates of fraud
+
+6.13.7 An Authorised Firm must provide the following information to the DFSA at least
+
+quarterly:
+
+(a)
+
+rates of fraud or suspected fraud;
+
+(b)
+
+the total value of fraudulent transactions and the total value of all payment transactions;
+
+(c)
+
+the number of payment transactions and the average transaction value; and
+
+(d) a breakdown by percentage of transactions initiated through SCA and transactions initiated through each exception to the SCA requirements.

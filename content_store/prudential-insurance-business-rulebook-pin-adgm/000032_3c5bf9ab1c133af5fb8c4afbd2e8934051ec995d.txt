@@ -1,0 +1,5 @@
+Cyber Risk.
+
+2.3.4 An Insurer must develop, implement and maintain a risk management system to identify, assess, monitor, mitigate and control reinsurance risk. Reinsurance risk refers to risks associated with the Insurer's use of reinsurance arrangements as cedant.
+
+2.3.5 Without limiting the generality of Rule 2.3.4, an Insurer's risk management system in respect of its use of reinsurance arrangements must include the development, implementation and maintenance of a written reinsurance management strategy, appropriate to the size and complexity of the operations of the Insurer, defining and in respect of reinsurance documenting the arrangements.

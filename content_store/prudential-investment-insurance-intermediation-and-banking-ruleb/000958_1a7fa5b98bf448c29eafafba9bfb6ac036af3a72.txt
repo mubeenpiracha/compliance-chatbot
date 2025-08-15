@@ -1,0 +1,19 @@
+notional positions in the constituent equities; or
+
+(b)
+
+a number of notional positions being one for each of the countries which is represented in the index, in the proportion of that country's representation in the index.
+
+A6.3.17 Where Rule A6.3.16(b) applies, an Authorised Person must apply the highest risk percentage to each notional position that would apply to any one of its constituents.
+
+Equity Options and company issued Warrants
+
+A6.3.18 An Authorised Person must treat an Option or company issued Warrant on an equity, basket of equities or equity index that is eligible to be included in the equity method as a notional position in the underlying equity or equities as follows:
+
+(a)
+
+a purchased call Option and a written put Option must be treated as a long position; and
+
+(b)
+
+a purchased put Option and a written call Option must be treated as a short position.

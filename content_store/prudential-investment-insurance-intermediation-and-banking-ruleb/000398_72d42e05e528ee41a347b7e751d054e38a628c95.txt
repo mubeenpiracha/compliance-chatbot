@@ -1,0 +1,33 @@
+credit default swaps;
+
+(b)
+
+Total Return Swaps;
+
+(c)
+
+CLNs which are cash funded; and
+
+(d)
+
+instruments that are composed of, or are similar in economic substance, to one or more of the Credit Derivatives in (a) to (c).
+
+4.13.12 An Authorised Person must not recognise the effects of CRM of any Credit Derivative
+
+unless all of the following requirements are complied with:
+
+(a)
+
+the terms and conditions of any credit protection obtained via a Credit Derivative must be set out in writing by both the Authorised Person and the provider of credit protection;
+
+(b)
+
+the Credit Derivative must represent a direct claim on the provider of credit protection;
+
+(c)
+
+the extent of the credit protection cover is clearly defined and incontrovertible;
+
+(d)
+
+other than in the event of non-payment by the Authorised Person of Money due in respect of the Credit Derivative, there is an irrevocable obligation on the part of the provider of the credit protection to pay out a pre-determined amount upon the occurrence of a credit event, as defined under the Credit Derivative contract;

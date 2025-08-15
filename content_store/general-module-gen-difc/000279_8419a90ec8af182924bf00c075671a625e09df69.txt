@@ -1,0 +1,15 @@
+a.
+
+arrangements which establish and maintain the Authorised Person’s physical security and protection for its information systems for business continuity purposes in the event of planned or unplanned information system interruption or other events that impact on its operations;
+
+b.
+
+considered its primary data centres’ and business operations’ reliance on infrastructure components, for example transportation, telecommunications
+
+86
+
+GEN/VER67/03-25
+
+GENERAL (GEN)
+
+networks and utilities and made the necessary arrangements to minimise the risk of interruption to its operations by arranging backup of infrastructure components and service providers; and

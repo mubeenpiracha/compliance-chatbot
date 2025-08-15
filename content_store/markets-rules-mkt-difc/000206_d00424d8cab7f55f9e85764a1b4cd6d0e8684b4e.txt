@@ -1,0 +1,25 @@
+(iii)
+
+there is a summary document in the English language approved by the DFSA and published:
+
+(A)
+
+containing the Key Information required under Rule 2.5.2(1)(b);
+
+(B)
+
+stating where the most recent and current Prospectus, if any, can be obtained; and
+
+(C)
+
+specifying where the financial information published by the Issuer pursuant to its ongoing disclosure obligations of the other market is available.
+
+6.3.6
+
+(1)
+
+All Units in a class of Securities other than those specified in (2) that are admitted to trading, including those specified under Rule 6.3.5, must be traded on an Authorised Market Institution or a Regulated Exchange.
+
+(2)
+
+All Units in a class of Securities admitted to trading that are Security Tokens, including those specified under Rule 6.3.5, must be traded on an Alternative Trading System, an Authorised Market Institution or a Regulated Exchange.

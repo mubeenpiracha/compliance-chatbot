@@ -1,0 +1,21 @@
+Guidance
+
+In relation to Rule 4.14.57(c), the Authorised Person should also consider whether a line, or facility, is committed or uncommitted. A line is considered to be uncommitted if it is unconditionally cancellable without prior notice by the Authorised Person. They also differ according to whether the securitised Exposures are committed retail credit lines or credit lines (such as revolving credit facilities).
+
+4.14.57
+
+(1)
+
+An Early Amortisation provision that does not satisfy the conditions for a Controlled Early Amortisation provision will be treated as a non-Controlled Early Amortisation provision.
+
+(2)
+
+For the purpose of (1), the conditions for a Controlled Early Amortisation provision are as follows:
+
+(a)
+
+the Authorised Person must have an appropriate capital/liquidity plan in place to ensure that it has sufficient capital and liquidity available in the event of an Early Amortisation;
+
+(b)
+
+throughout the duration of the transaction, including the amortisation period, there is the same pro rata sharing of interest, principal, expenses, losses and recoveries based on the firm's and investors' relative shares of the receivables outstanding at the beginning of each month;

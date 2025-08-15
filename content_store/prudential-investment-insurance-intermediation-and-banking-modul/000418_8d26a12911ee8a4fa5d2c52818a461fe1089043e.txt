@@ -1,0 +1,27 @@
+(d)
+
+securities issued by the Counterparty or any Closely Related Counterparty are not eligible;
+
+(e)
+
+the Authorised Firm has implemented procedures for the timely liquidation of Collateral to ensure that any legal conditions required for declaring default of Counterparty and liquidating the Collateral are observed, and that the Collateral can be liquidated promptly;
+
+(f)
+
+for an Authorised Firm using the FCSA, the Collateral has been marked to market and revalued at least every six months or more frequently if required by business or market circumstances;
+
+(g)
+
+the Authorised Firm has dedicated sufficient resource to the orderly operation of margin agreements with OTC derivatives and securities- financing Counterparties, as measured by the timeliness and accuracy of their outgoing margin calls and response time to incoming margin calls;
+
+(h)
+
+the Authorised Firm has implemented Collateral risk management policies to control, monitor and report:
+
+133
+
+PIB/VER50/07-25
+
+4.13.9
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)

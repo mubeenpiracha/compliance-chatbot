@@ -1,0 +1,27 @@
+δi =
+
+the supervisory delta for the transaction ‘i’, calculated in accordance with Rule A4.8.12
+
+MFi =
+
+the maturity factor of the transaction ‘i’, calculated in accordance with Rule A4.8.15
+
+AdjNoti
+
+EQ = the adjusted notional amount accordance with Rule A4.8.13(c)
+
+for
+
+transaction
+
+‘i’, calculated
+
+in
+
+j =
+
+the index that denotes all the hedging sets of the equity asset class, formed in accordance with Rule A4.8.5
+
+Guidance
+
+The calculation of the add-on for the equity asset class is very similar to the calculation of the add-on for the credit asset class. It only gives full recognition of the offsetting of long and short positions for derivatives that reference the same entity (e.g. the same corporate issuer of shares). Partial offsetting is recognised between derivatives that reference different entities.

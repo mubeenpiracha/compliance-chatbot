@@ -1,0 +1,21 @@
+(b)
+
+the Client Defaults; and
+
+(c)
+
+the Clearing Member Client Contract corresponding to the Client Trade is not transferred within—
+
+(i)
+
+the period specified for this purpose in the Default Rules of the Recognised Clearing House or Remote Clearing House; or
+
+(ii)
+
+if no such period is specified in the Default Rules of the Recognised Clearing House or Remote Clearing House, a period of 14 days beginning with the day on which proceedings in respect of the Client's insolvency are begun.
+
+(5)
+
+The parties referred to in the definitions of "Clearing Member Client Contract" and "Client Trade" are—
+
+(a)

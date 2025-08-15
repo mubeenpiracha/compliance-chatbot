@@ -1,0 +1,47 @@
+EQ = SFk
+
+AddOnk
+
+EQ ∙ EffNotk
+
+EQ
+
+where:
+
+EQ =
+
+SFk
+
+the supervisory factor for the rating class of category ‘k’, determined in accordance with the table in Rule A4.8.18
+
+EQ = the effective notional amount for the rating class of category ‘k’,
+
+EffNotk
+
+calculated in accordance with (4)
+
+(4) For the purpose of (3), an Authorised Firm must calculate the effective notional
+
+amount for category ’k’, EffNotk
+
+EQ, using the following formula:
+
+𝐄𝐐 = ∑ 𝛅𝐢 ∙ 𝐀𝐝𝐣𝐍𝐨𝐭𝐢
+
+𝐄𝐟𝐟𝐍𝐨𝐭𝐤
+
+𝐄𝐐 ∙ 𝐌𝐅𝐢
+
+𝐢∈𝐈(𝐣)
+
+where:
+
+292
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+I(k) =
+
+the set of all transactions belonging to category ‘k’ within hedging set ‘j’

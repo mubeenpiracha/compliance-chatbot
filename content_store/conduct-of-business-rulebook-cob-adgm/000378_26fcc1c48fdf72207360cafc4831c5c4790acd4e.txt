@@ -1,0 +1,23 @@
+the Credit Value Date.
+
+Charges for information under a Framework Contract
+
+19.2.15 A Payment Service Provider may not charge for providing or making available information which is required to be provided or made available under the provisions of Section 19.2.
+
+19.2.16 The Payment Service Provider and the Payment Service User may agree on charges for any information which is provided at the request of the Payment Service User where such information is:
+
+(a)
+
+additional to the information required to be provided or made available by Section 19.2;
+
+(b)
+
+provided more frequently than is specified in Section 19.2; or
+
+(c)
+
+transmitted by means of communication other than those specified in the Framework Contract.
+
+19.2.17 Any charges imposed under Rule 19.2.16 must not exceed the Payment Service
+
+Provider’s actual costs of providing such information.

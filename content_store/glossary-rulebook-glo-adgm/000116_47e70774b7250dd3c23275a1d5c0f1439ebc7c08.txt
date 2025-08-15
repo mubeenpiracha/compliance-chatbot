@@ -1,0 +1,15 @@
+Definitions
+
+Has the meaning given in CIB 3.1.6(1).
+
+Means the systems used by a Third Party Provider that connect to Customers and to Primary Financial Institutions.
+
+Means the internal risk assessment process prescribed in PRU 10.3.
+
+Means the International Financial Reporting Standards as issued and amended from time to time by the International Accounting Standards Board.
+
+In relation to AML means an organisation established by formal political agreement between member countries, where the agreement has the status of an international treaty, and the organisation is recognised in the law of countries which are members.
+
+Means the international standards on auditing as issued and amended from time to time by the International Auditing and Assurance Standards Board (IAASB) of the International Federation of Accountants (IFAC).
+
+Means any asset, right or interest of an Insurer that is held by the Insurer for the primary purpose of generating revenues or for directly providing funds to meet the Insurer's cash outflows in the future.

@@ -1,0 +1,21 @@
+19A.3 Additional Regulated Activities
+
+19A.3.1 An Authorised Person that has issued a Fiat-Referenced Token is prohibited from conducting any additional Regulated Activities not incidental to the issuance of a Fiat- Referenced Token.
+
+19A.4 Redemption
+
+19A.4.1 (1)
+
+An Authorised Person which has issued a Fiat-Referenced Token must:
+
+(a)
+
+on receipt of Money, issue Fiat-Referenced Tokens at the par value expressed in the white paper to the intended holder without delay; and
+
+(b)
+
+at the request of a person holding a Fiat-Referenced Token, redeem the Fiat-Referenced Tokens presented for redemption:
+
+(i)
+
+no later than T+2 following the completion of Customer Due Diligence, if required; and

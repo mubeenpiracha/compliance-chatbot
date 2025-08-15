@@ -1,0 +1,27 @@
+Identification and assessment of Cyber Risk
+
+(1)
+
+An Authorised Person must identify and maintain a current inventory of its ICT Assets and classify them in terms of their confidentiality and how critical they are to the support of its business functions and processes.
+
+(2)
+
+An Authorised Person must regularly carry out an assessment of Cyber Risk associated with the assets identified in (1).
+
+(3) When carrying out the assessment in (2) the Authorised Person must:
+
+(a)
+
+identify threats from Cyber Incidents;
+
+(b) evaluate the Cyber Risk resulting from those threats and the effectiveness of relevant controls to arrive at the residual Cyber Risk; and
+
+(c) analyse and quantify the potential impact and consequences of
+
+the residual Cyber Risk on its overall business and operations.
+
+97
+
+GEN/VER67/03-25
+
+GENERAL (GEN)

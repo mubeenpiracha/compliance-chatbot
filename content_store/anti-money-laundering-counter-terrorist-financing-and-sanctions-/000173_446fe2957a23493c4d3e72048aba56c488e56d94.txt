@@ -1,0 +1,13 @@
+technical
+
+limitations prevent
+
+the
+
+required payer or payee
+
+9.3.14 An Authorised Person that is an intermediary institution must take reasonable measures, which are consistent with straight-through processing, to identify cross- border fund transfers that lack the required payer or payee information.
+
+Systems and controls concerning fund transfers
+
+9.3.15 A Relevant Person must ensure that its AML systems and controls referred to in Rule 5.2.1 include risk management policies and procedures specifying the steps to be taken if a fund transfer lacks information required under this section, including when to reject or amend a transfer and any follow-up action that is to be taken.

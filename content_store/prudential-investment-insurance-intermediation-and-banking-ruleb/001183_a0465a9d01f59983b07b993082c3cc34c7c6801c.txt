@@ -1,0 +1,17 @@
+e.
+
+that it has the skills and resources to operate, maintain and develop the model.
+
+7.
+
+implicit If an Authorised Person's assumptions in relation to correlations within or between risk types, or in relation to diversification benefits between business lines, the firm should be able to explain to the Regulator, with the support of empirical evidence, the basis of those assumptions. An Authorised Person's model should also reflect the past experience of both the firm and the sectors in which it operates.
+
+internal model makes explicit or
+
+8.
+
+The assumptions required to aggregate risks that are modelled and the confidence levels adopted should be considered by the Authorised Person's senior management. An Authorised Person should also consider whether any relevant risks, including systems and control risks, are not captured by the model.
+
+9.
+
+An Authorised Person using an internal capital model should validate the assumptions of the model through a comprehensive stress testing programme. In particular this validation should:

@@ -1,0 +1,15 @@
+APP7 CALCULATION OF ADJUSTED FUND CAPITAL RESOURCES
+
+A7.1 Purpose and general provisions
+
+A7.1.1 This appendix applies to all Insurers to which Rule 4.5 applies.
+
+Guidance
+
+1.
+
+This appendix sets out the manner in which an Insurer is required to calculate the Adjusted Fund Capital Resources in respect of each Long-Term Insurance Fund it maintains. The calculation is analogous to that applicable to Insurers other than Cell Companies, so that (except where changes are necessary to reflect structural differences) the capital of a Long-Term Insurance Fund is determined as though it was an Insurer subject to APP3.
+
+2.
+
+The Adjusted Fund Capital Resources are calculated by making adjustments to the equity of the fund, as at the Solvency Reference Date.

@@ -1,0 +1,13 @@
+In completing an ICAAP, an Authorised Firm should:
+
+a.
+
+estimate the amount of capital required to absorb potential losses, if any, for the significant risks identified in the IRAP (particularly risks which lead to financial losses);
+
+b.
+
+perform reasonable and proportionate sensitivity tests to analyse the impact of variation in the risk parameters of significant risks identified in the IRAP on the profitability and the capital position of the Authorised Firm;
+
+c.
+
+estimate, using the range and distribution of possible losses estimated from historical data, the level of capital required reasonably to cover likely losses;

@@ -1,0 +1,19 @@
+(2) Where:
+
+(a)
+
+the transaction does not involve a currency conversion;
+
+(b)
+
+the transaction involves only a currency conversion between the UAE Dirham and U.S. Dollars; or
+
+(c)
+
+the transaction involves only one Payment Service Provider;
+
+the Payee’s Payment Service Provider must ensure that the full amount of the Payment Transaction is at the Payee’s disposal immediately after that amount has been credited to that Payment Service Provider’s account.
+
+(3)
+
+The Debit Value Date for the Payer’s Payment Account must be no earlier than the time at which the amount of the Payment Transaction is debited from that Payment Account.

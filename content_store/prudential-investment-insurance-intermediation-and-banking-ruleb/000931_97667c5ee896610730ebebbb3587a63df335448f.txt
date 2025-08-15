@@ -1,0 +1,15 @@
+For currencies in which business is not material, separate maturity ladders for each currency are not required, and the Authorised Person must calculate its General Market Risk requirement by constructing a single maturity ladder and slot, within each appropriate time-band, the net long or short position for each of those currencies after converting them into US $s.
+
+Simplified framework
+
+A6.2.16
+
+In applying the simplified framework, an Authorised Person must calculate its General Market Risk requirement for each currency by taking the following steps:
+
+(a)
+
+allocating the individual net positions to one of the time bands in the table below, as follows:
+
+(i)
+
+fixed-rate instruments are allocated to their time bands based upon the residual time to maturity; and

@@ -1,0 +1,33 @@
+d.
+
+submitting multiple orders often away from one side of the order book with the intention of executing a trade on the other side of the order book, where once that trade has taken place, the manipulative orders will be removed, known as Layering and Spoofing.
+
+44
+
+AMI/VER28/03-25
+
+5.12
+
+5.12.2
+
+5.12.3
+
+AUTHORISED MARKET INSTITUTIONS (AMI)
+
+Miscellaneous requirements
+
+Whistleblowing
+
+Guidance
+
+An Authorised Market Institution is required to comply with the whistleblowing requirements set out in GEN section 5.4.
+
+Handling of complaints
+
+(1)
+
+An Authorised Market Institution must have effective arrangements in place for the investigation and resolution of complaints made against it.
+
+(2)
+
+An Authorised Market Institution must establish and maintain a register of complaints made against it and their resolution. Records of the complaints must be maintained for a minimum of six years.

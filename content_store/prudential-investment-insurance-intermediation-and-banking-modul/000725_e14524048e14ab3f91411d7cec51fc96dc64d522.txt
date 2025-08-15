@@ -1,0 +1,23 @@
+Guidance
+
+An Authorised Firm has discretion to determine the form of the disclosures required, and may choose to use graphical and other representations where appropriate.
+
+Omissions
+
+(1)
+
+An Authorised Firm may omit certain disclosures if the omitted item is:
+
+(a) not material, in accordance with the concept of materiality under the
+
+International Financial Reporting Standards,
+
+(b) proprietary in nature, and the disclosure of the relevant information to the public would undermine the Firm’s competitive position or render the Firm’s investments in products and systems less valuable, or
+
+(c)
+
+confidential in nature, and the disclosure of the relevant information would violate or jeopardise confidentiality agreements with Clients or Counterparties.
+
+(2)
+
+Where in reliance upon (1)(b) or (c) an Authorised Firm omits an item that is marked as a quantitative disclosure in App11, it must disclose general that particular qualitative requirement, together with the reasons for the omission.

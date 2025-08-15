@@ -1,0 +1,23 @@
+(e)
+
+in the case of the provision of money transmission including the execution of payment services, clearing and settlement in any currency and correspondent banking, intra-day exposures to Financial Institutions providing those services;
+
+(f)
+
+claims resulting from the purchase and sale of Securities during settlement where both the Authorised Person and the Counterparty are up to five business days overdue in settling. The five business days include the due payment or due delivery date. After five business days, the claim becomes an Exposure; and
+
+172
+
+PRU VER17.290725
+
+(g)
+
+Exposures that are guaranteed by the Authorised Person’s Parent in accordance with Rule 4.15.18.
+
+(2) For the purposes of this Section, Exposure to a central counterparty which carry
+
+a 0% CCF in accordance with Section 4.8 are excluded.
+
+4.15.9
+
+An Authorised Person need not include fully exempt Exposures, as referred to in Rule A4.11.1 when monitoring compliance with the limits in Rules 4.15.5, 4.15.6 and 4.15.7.

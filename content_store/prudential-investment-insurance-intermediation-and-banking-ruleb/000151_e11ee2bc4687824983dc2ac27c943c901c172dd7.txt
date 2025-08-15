@@ -1,0 +1,29 @@
+Total Risk Exposure Amount
+
+3.5.7
+
+An Authorised Person must calculate its Total Risk Exposure Amount, after taking into account the provisions of Rule 3.5.8, as the sum of:
+
+(a)
+
+the Credit RWA as calculated using Rule 4.8.1(2);
+
+(b)
+
+the Risk Exposure Amount associated with the Market Risk Capital Requirement;
+
+(c)
+
+the Risk Exposure Amount associated with the Operational Risk Capital Requirement;
+
+(d)
+
+the Risk Exposure Amount associated with the CVA Risk Capital Requirement; and
+
+(e)
+
+the Risk Exposure Amount associated with Displaced Commercial Risk Capital Requirement, where applicable, calculated in accordance with IFR Rule 5.4.5.
+
+3.5.8
+
+An Authorised Person must multiply the individual capital requirements referred to under points 3.5.7(b) to 3.5.7(e) by a factor of 12.5 in order to determine the Risk Exposure Amounts associated with those elements of the Total Risk Exposure Amount.

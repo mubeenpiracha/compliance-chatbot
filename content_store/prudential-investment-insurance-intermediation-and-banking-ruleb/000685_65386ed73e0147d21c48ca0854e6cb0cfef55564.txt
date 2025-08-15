@@ -1,0 +1,17 @@
+Valuation adjustments
+
+8.
+
+As part of their procedures for marking-to-market, Authorised Persons should establish and maintain procedures for considering valuation adjustments. The Regulator expects Authorised Persons using third-party valuations to consider whether valuation adjustments are necessary. Such considerations are also necessary when marking-to-model.
+
+9.
+
+The Regulator expects the following valuation adjustments to be formally considered at a minimum: unearned credit spreads, close-out costs, Operational Risks, early termination, investing and funding costs, and future administrative costs and, where appropriate, model risk.
+
+249
+
+PRU VER17.290725
+
+Adjustment to the current valuation of less liquid positions for regulatory capital purposes
+
+10.

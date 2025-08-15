@@ -1,0 +1,9 @@
+Guidance
+
+1.
+
+The DFSA expects an Authorised Firm to maintain proper books and accounts which are legible, up to date and contain narratives with the entries which identify and provide adequate information about each transaction.
+
+2.
+
+An Authorised Firm should maintain a separate record for each Client showing the amount and description of each Crypto Token held in custody, information about the type of storage (such as cold or hot storage, or location of storage) and the date, amount and purpose of each transfer of a Client Crypto Token.

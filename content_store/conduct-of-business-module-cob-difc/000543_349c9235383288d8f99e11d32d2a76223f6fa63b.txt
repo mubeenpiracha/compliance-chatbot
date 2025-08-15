@@ -1,0 +1,29 @@
+13.6 Specific requirements for issuers of Stored Value
+
+13.6.1 An Authorised Firm that issues Stored Value must comply with the requirements
+
+relating to Stored Value in App7 section A7.3.
+
+13.7 Requirement relating to Payment Accounts
+
+13.7.1 An Authorised Firm may provide a Payment Account to a:
+
+(a) Professional Client or Market Counterparty; and
+
+(b) Retail Client, but only where:
+
+(i)
+
+the Retail Client is an Undertaking; and
+
+(ii)
+
+the Payment Account is provided to the Retail Client for a business purpose.
+
+169
+
+COB/VER48/03-25
+
+CONDUCT OF BUSINESS (COB)
+
+14

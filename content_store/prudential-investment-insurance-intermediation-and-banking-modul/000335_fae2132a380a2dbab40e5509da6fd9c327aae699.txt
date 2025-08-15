@@ -1,0 +1,17 @@
+Guidance
+
+For illustration, if there are three external credit assessments mapping into Credit Quality Grades with risk weights of 0%, 20% and 50%, then the applicable risk weight is 20%. If the external credit assessments map into Credit Quality Grades with risk weights of 20%, 50% and 50%, then the applicable risk weight is 50%.
+
+4.11.5 An Authorised Firm must not recognise the effects of Credit Risk mitigation if such mitigation is already reflected in the issue-specific external credit assessment of the CR Exposure.
+
+4.11.6 Where a CR Exposure has an issue-specific external credit assessment from a recognised ECAI, an Authorised Firm must use such assessment. Where a CR Exposure does not have an issue-specific external credit assessment, an Authorised Firm must:
+
+107
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+(a)
+
+if there is an issue-specific external credit assessment for another Exposure to the same obligor, use the issue-specific assessment for the other Exposure only if the Exposure without an issue-specific assessment ranks pari passu with or is senior to the Exposure with the issue-specific assessment;

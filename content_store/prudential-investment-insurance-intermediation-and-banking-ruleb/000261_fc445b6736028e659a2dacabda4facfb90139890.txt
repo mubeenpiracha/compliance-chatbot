@@ -1,0 +1,23 @@
+(b)
+
+where the CET1 Capital of the Authorised Person (which is not used to meet the Capital Requirement, including any Individual Capital Requirement as may be imposed pursuant to Chapter 10) falls:
+
+(i) within the first quartile of the Combined Buffer Requirement, the
+
+factor shall be 0;
+
+(ii) within the second quartile of the Combined Buffer Requirement,
+
+the factor shall be 0.2;
+
+(iii) within the third quartile of the Combined Buffer Requirement, the
+
+factor shall be 0.4;
+
+(iv) within the fourth quartile of the Combined Buffer Requirement,
+
+the factor shall be 0.6.
+
+An Authorised Person must calculate the lower and upper bounds of each quartile of the Comibined Buffer requirement as follows:
+
+Lower bound of quartile = (Combined Buffer Requirement / 4) x (Qn – 1);

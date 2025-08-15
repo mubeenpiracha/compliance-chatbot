@@ -1,0 +1,27 @@
+Other requirements
+
+3.6.1
+
+(1)
+
+Except as permitted in this Rule, an ADGM Incorporated Insurer must not effect any Direct Long-Term Insurance contract the terms of which include of the following:
+
+(a)
+
+investment components of Policy Benefits, that are wholly or partly guaranteed;
+
+(b)
+
+options to receive Policy Benefits on expiry, maturity or surrender as annuities, where annuity rates are wholly or partly guaranteed at the inception of the contract;
+
+(c)
+
+bonuses on participating contracts where those bonuses become vested Policy Benefits or guaranteed by the Insurer at a date prior to expiry, maturity or surrender; or
+
+(d)
+
+other options or discretionary Policy Benefits that expose the Insurer to investment, expense or other risk that is not readily definable at the inception of the contract.
+
+(2)
+
+An Insurer may request the permission of the Regulator to effect Direct Long-Term Insurance contracts with features of the kind referred to in (1). A request must be made in writing and must include:

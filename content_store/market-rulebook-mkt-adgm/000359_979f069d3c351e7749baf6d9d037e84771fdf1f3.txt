@@ -1,0 +1,21 @@
+Guidance
+
+If contract commodity prices are unavailable, either forecast or constant prices may be used. Where forecast commodity prices are used, this should be accompanied by a statement by the qualified person that such forecast was arrived at after due and careful enquiry and reflects their reasonably held view of the outlook of the future.
+
+(3)
+
+an analysis of the sensitivity of the valuation to variation in the principal assumptions provided in (2) above. In relation to commodity prices, the scenarios must include both constant and forecast prices. In relation to the rate of discount, the scenarios must include the weighted average cost of capital;
+
+Confidential
+
+120
+
+MKT VER09.020125
+
+(4)
+
+an estimate of net present value. If the valuation is arrived at on an alternative basis, an explanation of the basis and reasons for adopting the alternative basis; and
+
+(5)
+
+a risk factor highlighting the uncertainties inherent in the assumptions made in arriving at the valuation, and the effects they may have on the valuation of the Mineral Resources and Ore Reserves and the value of the offered Securities.

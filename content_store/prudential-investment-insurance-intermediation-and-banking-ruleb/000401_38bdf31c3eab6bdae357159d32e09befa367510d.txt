@@ -1,0 +1,9 @@
+(iii)
+
+restructuring of the underlying Exposure involving forgiveness or postponement of principal, interest or fees that results in a credit loss event (i.e. charge-off, specific provision or other similar debit to the profit and loss account);
+
+the Credit Derivative must not terminate prior to the maturity of the underlying Exposure or expiration of any grace period required for a default on the underlying Exposure to occur as a result of a failure to pay;
+
+a robust valuation process to estimate loss reliably must be in place in order to estimate loss reliably for any Credit Derivative that allows for cash settlement. There must be a clearly specified period for obtaining post-credit event valuations of the underlying obligation;
+
+where the right or ability of the Authorised Person to transfer the underlying Exposure to the credit protection provider is required for settlement, the terms of the underlying Exposure must provide that any required consent to such transfer may not be unreasonably withheld;

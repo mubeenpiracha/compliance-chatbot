@@ -1,0 +1,25 @@
+(c)
+
+details of the Distributed Ledger Technology that is used to issue, store or transfer the Security Token or Crypto Token;
+
+(d)
+
+how the holder of a Security Token may exercise any rights conferred by it, such as voting or participation in shareholder actions;
+
+(e)
+
+whether the Security Token or Crypto Token will be admitted to trading on an Institution, Regulated Exchange, Alternative Trading Authorised Market System or other facility and, if not, details as to how the Security Token or Crypto Token can be transferred or redeemed, how that might impact its liquidity and any resulting risks;
+
+(f)
+
+if the capital to be raised from issuing the Security Token is to be used to fund the creation of a new Token, detailed information about:
+
+(i)
+
+the project or venture to be funded;
+
+190
+
+MKT/VER24/03-25
+
+MARKETS RULES (MKT)

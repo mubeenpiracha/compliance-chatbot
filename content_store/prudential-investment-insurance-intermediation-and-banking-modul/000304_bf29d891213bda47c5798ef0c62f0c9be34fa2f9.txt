@@ -1,0 +1,25 @@
+An Authorised Firm must, on a periodic basis, at a minimum monthly frequency, review its problem credits (at an individual level or at a portfolio level for credits with homogeneous characteristics) and review the asset classification, provisioning and write-offs for each of those problem credits.
+
+97
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+PART 3 - CRCOM
+
+4.6
+
+Application
+
+Guidance
+
+1.
+
+As indicated in Rule 4.1.1, this chapter 4 (including this part 3) applies to Authorised Firms in Categories 1, 2, 3A and 5. However, the provisions in this part are applied in a differentiated manner in that Category 3A firms must, and Category 2 firms may, use the Simplified Approach under section 4.7.
+
+2.
+
+The Credit Risk Capital Requirement (also referred to in this module as CRCOM) is a component of the calculation of the overall Capital Requirement of an Authorised Firm, as provided in Rules 3.8.2 and 3.8.3. The Rules in this part 3, supplemented by App4, govern the manner of calculation of the CRCOM.
+
+4.7

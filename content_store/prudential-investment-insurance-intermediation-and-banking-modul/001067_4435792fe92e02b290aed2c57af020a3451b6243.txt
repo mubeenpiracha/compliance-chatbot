@@ -1,0 +1,17 @@
+d.
+
+the risk weight in respect of options on commodities is 15%.
+
+For options with a residual maturity of more than 6 months, the strike price should be compared with the forward, and not current, price. Where an Authorised Firm is unable to do this, the in- the-money amount would be zero.
+
+2.
+
+An Authorised Firm which trades in exotic options (e.g. barriers, digitals) would use either the scenario approach or the Internal Models Approach (IMA) to calculate its Market Risk Capital Requirement for such options, unless it is able to demonstrate to the DFSA that the Delta-plus method is appropriate. In the case of options on futures or forwards, the relevant underlying is that on which the future or forward is based (e.g. for a bought call option on a June 3-month bill future, the relevant underlying is the 3-month bill).
+
+A5.6.10 An Authorised Firms must calculate its Capital Requirement for Vega risk by:
+
+348
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)

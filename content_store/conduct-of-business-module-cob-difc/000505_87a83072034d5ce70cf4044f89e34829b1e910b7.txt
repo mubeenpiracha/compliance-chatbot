@@ -1,0 +1,21 @@
+inconsistent with a requirement in these Rules.
+
+154
+
+COB/VER48/03-25
+
+CONDUCT OF BUSINESS (COB)
+
+Delegations and Outsourcing
+
+Guidance
+
+1.
+
+GEN Rules 5.3.21 and 5.3.22 provide overarching requirements that govern outsourcing of functions and activities by an Authorised Firm. The Rules in this section apply in addition to the requirements in GEN Rules where an Operator of a Scheme delegates or outsources functions and activities in relation to the Scheme.
+
+2.
+
+Under GEN Rule 5.3.21, if the Operator of a Scheme delegates any activities or outsources any functions to an Administrator of a Scheme or a Third Party Service Provider, it is not relieved of its regulatory obligations and remains responsible for its compliance with the legislation applicable in the DIFC.
+
+3. Where the Operator of a Scheme delegates any activities or outsources any functions to an Administrator of a Scheme, and there is a failure to comply with the regulatory obligations by that Administrator, while the Operator is liable for that non-compliance, the Administrator will still be liable for breach of its regulatory obligations to conduct its licensed activities properly.

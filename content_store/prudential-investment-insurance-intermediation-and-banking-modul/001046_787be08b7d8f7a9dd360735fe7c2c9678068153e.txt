@@ -1,0 +1,21 @@
+Calculation of Commodities Risk Capital Requirement
+
+A5.5.2 (1)
+
+An Authorised Firm must calculate its Commodities Risk Capital Requirement by applying the Maturity Ladder approach in Rule A5.5.5 or the Simplified Approach in Rule A5.5.6 to all Non-Trading and Trading Book:
+
+(a)
+
+commodity positions;
+
+(b)
+
+commodity derivatives and off-balance sheet positions that are affected by changes in commodity prices, having derived notional commodity positions; and
+
+(c)
+
+other positions against which no other Market or Credit Risk Capital Requirement has been applied.
+
+(2)
+
+An Authorised Firm must determine notional commodity positions by converting the commodity derivatives into notional underlying commodity positions and assigning appropriate maturities in accordance with Rule A5.5.3.

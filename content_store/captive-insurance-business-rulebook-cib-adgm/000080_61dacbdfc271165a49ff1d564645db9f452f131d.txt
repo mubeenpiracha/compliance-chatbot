@@ -1,0 +1,27 @@
+Term Insurance
+
+6.11.1 This Rule applies to assets and liabilities in respect of Long-Term Insurance contracts.
+
+6.11.2 Premiums in respect of contracts of reinsurance entered into by a Captive Insurer as insurer must be treated as receivable from the date on which they are due and receivable.
+
+28
+
+CIB VER06.290725
+
+6.11.3 Premiums in respect of contracts of reinsurance entered into by a Captive Insurer as
+
+Cedant must be treated as payable from the date on which they are due and payable.
+
+6.11.4 Acquisition costs incurred in respect of Contracts of Insurance entered into by a Captive
+
+Insurer must be treated as payable:
+
+(a)
+
+in the case of expenses directly related to the premiums in respect of the contract, at the same time as the premium is treated as receivable; and
+
+(b)
+
+in the case of expenses not directly related to the premiums in respect of the contract, at the time the contract is effected.
+
+6.11.5 A Captive Insurer must treat as a liability the amount of Policy Benefits that are due for

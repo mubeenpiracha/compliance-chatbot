@@ -1,0 +1,17 @@
+a.
+
+careful maintenance and development of the relevant systems and architecture in terms of its code version control, implementation of updates, issue resolution, and regular internal and third party testing;
+
+170
+
+COB/VER48/03-25
+
+CONDUCT OF BUSINESS (COB)
+
+b.
+
+security measures and procedures for the safe storage and transmission of data in accordance with agreed protocols;
+
+c.
+
+procedures to address changes in the protocol which result in the splitting of the underlying distributed ledger into two or more separate ledgers (often referred to as a ‘fork’). These procedures should be effective whether or not the new protocol is backwards compatible with the previous version (soft fork), or not (hard fork), and should address access to information where such a fork is created;

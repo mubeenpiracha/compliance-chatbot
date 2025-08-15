@@ -1,0 +1,7 @@
+A4.9 Exposures to Central Counterparties (CCPs)
+
+A4.9.1 An Authorised Firm may determine the Exposure value of a Credit Risk Exposure outstanding with a CCP in accordance with A4.9.2, provided that the CCP’s Counterparty Credit Risk Exposure with all participants in its arrangements are fully collateralised on a daily basis and the CCP is a qualifying CCP.
+
+A4.9.2 An Authorised Firm may attribute an Exposure value of zero, for purposes of calculating the CRCOM to Derivative contracts and deferred settlement transactions, or to other Exposures arising in respect of those contracts or transactions (excluding an Exposure arising from Collateral held with CCPs as part of its default fund) where such Exposures are outstanding with a CCP and have not been rejected by the CCP.
+
+A4.9.3 An Authorised Firm which purchases Credit Derivative protection against a Non-Trading Book Exposure or against a Counterparty Credit Risk Exposure, must compute Market Risk Capital Requirements for the hedged asset in accordance with the relevant Rules in chapter 5.

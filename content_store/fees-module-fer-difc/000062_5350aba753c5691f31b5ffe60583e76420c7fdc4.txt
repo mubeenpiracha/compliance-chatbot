@@ -1,0 +1,25 @@
+3.11 Listed Entities
+
+3.11.1
+
+(1) A Listed Entity, other than a SME, that has equity securities admitted to the Official List of Securities must pay to the DFSA an annual fee consisting of $2,500 plus the additional fee (if any) calculated in accordance with the table to this Rule.
+
+Table
+
+Additional Fee Market millions of the Listed Entity
+
+capitalisation
+
+0 to 100 >100 to 500 >500 to 5,000 >5,000 to 10,000 >Greater than 10,000
+
+in USD
+
+Fee payable in respect of each USD million of market capitalisation $0 $5 $1 $0.50 $0.25
+
+(2) A Listed Entity that is a SME that has equity securities admitted to the Official List of Securities must pay to the DFSA an annual fee of $10,000.
+
+(3)
+
+In (1) and (2), “equity securities” means Shares, Certificates over Shares, Warrants over Shares and Units in a Foreign Fund.
+
+(4) For the purposes of the table to (1), the market capitalisation of the Listed Entity must be determined as at the last business day in November of the year before the calendar year to which the annual fee relates and is to be based on the official closing price on the AMI at the end of that day.

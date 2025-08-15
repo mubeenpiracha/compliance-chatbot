@@ -1,0 +1,19 @@
+(d)
+
+the only asset of the SPE is its investment in the Capital Resources of any of its Parents or their Subsidiaries, which are included fully in the Financial Group to which the Authorised Firm belongs, the form of which satisfies the relevant conditions laid down in Rule 3.14.3(1) or Rule 3.15.3(1), as applicable.
+
+Guidance
+
+If the DFSA considers the assets of a special purpose entity to be minimal and insignificant for such an entity, the DFSA may consider waiving the condition specified in Rule 3.16.5(d).
+
+77
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+Qualifying T1 Capital instruments included in consolidated T1 Capital
+
+3.16.6 An Authorised Firm must determine the amount of qualifying T1 Capital of a Subsidiary that is included in consolidated T1 Capital of the Authorised Firm’s Financial Group by subtracting from the qualifying T1 Capital of that Subsidiary the result of multiplying the amount referred to in (a) by the percentage referred to in (b):
+
+(a)

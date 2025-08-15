@@ -1,0 +1,29 @@
+(ii)
+
+any identification evidence can be accessed by the Relevant Person without delay; and
+
+(iii)
+
+the identification evidence will be kept for at least six years.
+
+(5)
+
+If a Relevant Person is not reasonably satisfied that a customer or Beneficial Owners has been identified and verified by a third party in a manner consistent with these Rules, the Relevant Person must immediately perform the CDD itself with respect to any deficiencies identified.
+
+(6)
+
+Notwithstanding the Relevant Person's reliance on a Person in 9.1.1(1), the Relevant Person remains responsible for compliance with, and liable for any failure to meet the CDD requirements in the AML Rulebook.
+
+9.1.2
+
+(1)
+
+When assessing under Rule 9.1.1(3) or (4) if AML/TFS regulations in another jurisdiction are equivalent to FATF standards, a Relevant Person must take into account factors including, but not limited to:
+
+(a)
+
+mutual evaluations, assessment reports or follow-up reports published by FATF, the IMF, the World Bank, the OECD or other International Organisations;
+
+(b)
+
+membership of FATF or other international or regional groups such as the MENAFATF or the Gulf Co-operation Council;

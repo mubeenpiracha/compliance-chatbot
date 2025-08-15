@@ -1,0 +1,27 @@
+Description of off-balance sheet item
+
+CCF
+
+(a) Unrated eligible liquidity facilities
+
+50%
+
+(b)
+
+Eligible Servicer cash advance facilities
+
+0%
+
+(c) Others
+
+100%
+
+(2)
+
+An Authorised Person must notify the Regulator if it intends to provide eligible Servicer cash advance facilities and when there is a drawdown.
+
+Guidance
+
+Eligible Servicer cash advance facilities refers to undrawn Servicer cash advances or facilities that are contractually provided for and unconditionally cancellable without prior notice, so long as the Servicer is entitled to full reimbursement and this right is senior to other claims on cash flows from the underlying Exposures.
+
+A4.3

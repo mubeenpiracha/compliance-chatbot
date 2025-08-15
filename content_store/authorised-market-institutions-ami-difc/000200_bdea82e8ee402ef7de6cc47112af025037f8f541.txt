@@ -1,0 +1,37 @@
+the current bid and offer prices and volume;
+
+(b)
+
+the depth of trading interest shown at the prices and volumes advertised through its systems for the Investments; and
+
+(c)
+
+any other information relating to Investments which would promote transparency relating to trading.
+
+(3)
+
+The information referred to in (2) must be made available to the public on a continuous basis during normal trading.
+
+Guidance
+
+60
+
+AMI/VER28/03-25
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+6.
+
+AUTHORISED MARKET INSTITUTIONS (AMI)
+
+When making disclosure, an Exchange should adopt a technical mechanism by which the public can differentiate between transactions that have been transacted in the central order book and transactions that have been reported to the Exchange as off-order book transactions. Any transactions that have been cancelled pursuant to its rules should also be identifiable.
+
+The reference to trading interest in Rule 6.4.2(2)(b) includes any actionable indications of interests. Actionable interests are messages from one Member to another in a trading system about available trading interest that contains all necessary information to agree on a trade.

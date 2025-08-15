@@ -1,0 +1,35 @@
+Defined Terms
+
+Personalised Security Credentials
+
+Persons Undertaking Key Control Functions
+
+Petroleum
+
+Petroleum Exploration Reporting Entity
+
+Petroleum Production Reporting Entity
+
+Petroleum Project
+
+Petroleum Reporting Entity
+
+Petroleum Reporting Standard
+
+Petroleum Reserves
+
+Definitions
+
+Means personalised features provided by:
+
+(a)
+
+a Payment Service Provider to a Payment Service User for the purposes of authentication of the identity of the Payment Service User; or
+
+(b)
+
+a Third Party Provider to a Customer for the purposes of authentication of the identity of the Customer.
+
+Means persons undertaking compliance, anti-money laundering, risk management, internal audit and similar control functions.
+
+Means a naturally occurring mixture consisting of hydrocarbons in the gaseous, liquid or solid phase. Petroleum may also contain non- hydrocarbon compounds. Common examples of non-hydrocarbon compounds included in petroleum are carbon dioxide, nitrogen, hydrogen sulphide and sulphur.

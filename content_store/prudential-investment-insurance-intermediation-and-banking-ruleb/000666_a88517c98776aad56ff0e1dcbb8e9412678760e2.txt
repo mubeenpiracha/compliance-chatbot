@@ -1,0 +1,29 @@
+c.
+
+For an Authorised Person to undertake such a transaction there should be existing positions in the Trading Book, which result in a sufficient General Market Risk requirement to offset the General Market Risk created as a result of the swap.
+
+A2.1.14 Appropriate documentation under A2.1.13 must cover:
+
+(a)
+
+details of the instruments or Exposures being transferred and the method used to transfer; and
+
+(b)
+
+the pricing of the transfer.
+
+243
+
+PRU VER17.290725
+
+Guidance
+
+1.
+
+Separate documentation need not be produced for every transfer. If the same method is used for a number of transfers, a single document detailing the procedures will suffice. However, an Authorised Person must still be able to distinguish transactions that have been undertaken for risk transfer purposes from other transactions.
+
+2.
+
+Arm's-length prices must be used in any transfer. 'Arm's-length' means the prevailing market price for the particular transaction.
+
+A2.2

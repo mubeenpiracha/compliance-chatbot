@@ -1,0 +1,25 @@
+(a)
+
+those specified in Rule 3.6.7;
+
+(b)
+
+an indication that the exchange of Financial Instruments is determined by factors other than the current market valuation of the Financial Instrument, where the Transaction:
+
+(i)
+
+related to an individual Financial Instrument in a portfolio trade; or
+
+(ii)
+
+is a volume weighted average price Transaction.
+
+(c)
+
+an indication that the trade was a negotiated trade, where applicable; and
+
+(d)
+
+any amendments to previously disclosed information, where applicable.
+
+These details shall be made public either by reference to each Transaction or in a form aggregating the volume and price of all Transactions in the same Financial Instrument taking place at the same price at the same time.

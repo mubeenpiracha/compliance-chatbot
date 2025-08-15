@@ -1,0 +1,11 @@
+operational deposits held at other financial institutions for operational purposes that are subject to the 50% ASF factor
+
+all other non-HQLA not included in the above categories that have a residual maturity of less than one year, including loans to non-financial corporate clients, loans to retail customers (i.e. natural persons) and small business customers, and loans to sovereigns and PSEs
+
+unencumbered residential mortgages with a residual maturity of one year or more that would qualify for a 50% or lower risk weight under Rule 4.12.17
+
+65%
+
+other unencumbered loans not included in the above categories, excluding loans to financial institutions, with a residual maturity of one year or more that would qualify for a 50% or lower risk weight under Section 4.12
+
+cash, securities or other assets posted as initial margin for Derivative Contracts or Shari’a compliant hedging contracts and cash or other assets provided to contribute to the default fund of a central counterparty (CCP). Where securities or other assets posted as initial margin for Derivative Contracts would otherwise receive a higher RSF factor, they must retain that higher factor

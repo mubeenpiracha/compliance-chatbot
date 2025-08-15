@@ -1,0 +1,25 @@
+An Crowdfunding Platform, or a Property Crowdfunding Platform.
+
+Investment Crowdfunding Platform, a Loan Investment
+
+Has the meaning given in GEN Rule A2.5.1.
+
+Means any one or more of the following Financial Services relating to Crypto Tokens:
+
+(a) Dealing in Investments as Principal;
+
+(b) Dealing in Investments as Agent;
+
+(c) Arranging Deals in Investments;
+
+(d) Managing Assets;
+
+(e) Advising on Financial Products;
+
+(f) Providing Custody;
+
+(g) Arranging Custody; or
+
+(h) Operating a Multilateral Trading Facility.
+
+A Derivative the value of which is determined by reference to

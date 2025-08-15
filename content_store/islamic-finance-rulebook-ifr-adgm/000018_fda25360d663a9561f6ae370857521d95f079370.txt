@@ -1,0 +1,3 @@
+(ix)
+
+Because Managing a PSIA is a Regulated Activity, the ADGM regulatory regime that applies to Authorised Persons carrying on Regulated Activities in ADGM applies to Islamic Financial Institutions and Islamic Windows that Manage PSIAs. As PSIAs are not financial products, the issue of PSIAs, or any advising or arranging activities conducted in relation to PSIAs, especially by a third party, do not attract prospectus–like disclosure or any advising or dealing–related COBS requirements (such as a suitability assessment). Instead, they attract a tailored regulatory regime under these Islamic Finance Rules that applies to the Authorised Person that Manages the PSIA (see IFR 5).

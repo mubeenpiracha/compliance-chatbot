@@ -1,0 +1,37 @@
+c.
+
+Center for Internet Security: Critical Security Controls (2018);
+
+d.
+
+Committee on Payments and Market Infrastructures and the International Organisation of Securities Commissions: Guidance on cyber resilience for financial market infrastructures (2016); and
+
+e.
+
+Cloud Security Alliance: Cloud Controls Matrix and CAIQ (2016).
+
+2.
+
+An Authorised Person may also rely on Group-wide policies on Cyber Risk when developing their policies, procedures or controls.
+
+3.
+
+An Authorised Person should tailor any standards or policies it chooses to adopt to its needs. Not all elements of the standards or policies may be applicable. Further, additional policies, procedures and controls may be required to address idiosyncratic risks.
+
+95
+
+GEN/VER67/03-25
+
+5.5.3
+
+5.5.4
+
+GENERAL (GEN)
+
+(1)
+
+An Authorised Person must manage Third-Party Cyber Risk as an integral part of its Cyber Risk Management Framework established under Rule 5.5.2, including by:
+
+(a)
+
+undertaking due diligence to ensure that it chooses suitable third party providers of that comply with appropriate cyber security standards;

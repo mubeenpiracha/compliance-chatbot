@@ -1,0 +1,19 @@
+a.
+
+design its stress testing framework in a manner that is commensurate with its risk profile and systemic importance;
+
+b.
+
+clearly articulate its intended objectives;
+
+c.
+
+design an effective governance structure around stress and scenario testing;
+
+d.
+
+appropriately integrate the results of such testing in its decision-making, risk management processes including contingency arrangements, capital management and business decision-making;
+
+e.
+
+capture all material and relevant risks including, but not limited to, credit risk, market risk, operational risk, liquidity risk, country risk and transfer risk, concentration risk, climate risk, and apply stresses that are sufficiently severe but plausible;

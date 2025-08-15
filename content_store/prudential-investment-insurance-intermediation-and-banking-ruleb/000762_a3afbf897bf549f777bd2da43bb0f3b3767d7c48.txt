@@ -1,0 +1,35 @@
+where:
+
+E*
+
+=
+
+Exposure value after risk mitigation;
+
+E
+
+=
+
+fair value of the Exposure calculated in accordance with Section 4.9;
+
+HE
+
+=
+
+haircut appropriate to the Exposure;
+
+C
+
+=
+
+fair value of the eligible financial Collateral received;
+
+HC
+
+=
+
+haircut appropriate to the Collateral, or if the Collateral is a basket of assets, the weighted sum of the haircuts appropriate to the assets in the basket where each weight is the proportion of the asset in the basket in units of currency; and
+
+HFX =
+
+haircut appropriate Collateral and Exposure.

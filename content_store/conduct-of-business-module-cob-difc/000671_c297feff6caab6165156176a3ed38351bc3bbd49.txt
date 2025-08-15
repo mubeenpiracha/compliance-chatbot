@@ -1,0 +1,15 @@
+A5.13 Client money distribution rules
+
+A5.13.1 This section is referred to as the Client Money Distribution Rules and to the extent that these Rules are inconsistent with part 5.52 of the DIFC Insolvency Regulations, and the DIFC Preferential Creditor Regulations, these Rules will prevail.
+
+A5.13.2 Following a Distribution Event, the Authorised Firm must distribute Money in the
+
+following order of priorities:
+
+(a)
+
+firstly, in relation to Client Money held in a Client Account on behalf of Segregated Clients, claims relating to that Money must be paid to each Segregated Client in full or, where insufficient funds are held in a Client Account, proportionately, in accordance with each Segregated Client’s valid claim over that Money;
+
+(b)
+
+secondly, where the amount of Client Money in a Client Account is insufficient to satisfy the claims of Segregated Clients in respect of that Money, or not being immediately available to satisfy such claims, all other Money held by the Authorised Firm must be used to satisfy any

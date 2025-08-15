@@ -1,0 +1,25 @@
+Guidance
+
+1.
+
+Exempt Securities are Securities which a Person can have admitted to trading on a Recognised Investment Exchange without a Prospectus.
+
+2.
+
+The prohibition in section 61(1) of FSMR does not apply, subject to the requirement in Rule 4.4.2, to the admission to trading on a Recognised Investment Exchange of Securities that are Exempt Securities under Rule 4.4.1.
+
+4.4.1 For the purposes of section 61(3)(b) of FSMR the Regulator hereby prescribes the types
+
+of Securities that are Exempt Securities:
+
+(1)
+
+Shares representing, over a period of 12 months, less than 10% of the number of Shares of the same class already admitted to trading on the same Recognised Investment Exchange;
+
+(2)
+
+Shares issued in substitution for Shares of the same class already admitted to trading on the same Recognised Investment Exchange, if the issue of the Shares does not involve any increase in the issued capital;
+
+(3)
+
+Securities offered in connection with a Takeover Offer, if a document is available containing information which is regarded by the Regulator as being equivalent to that of a Prospectus;

@@ -1,0 +1,13 @@
+Notification
+
+An Authorised Person must notify the Regulator immediately, and in any event no later than 24 hours, after it becomes aware or has information which reasonably suggests that a material Cyber Incident has occurred. Notification to the Regulator should use the prescribed incident reporting form available on the relevant electronic portal.
+
+Guidance
+
+1.
+
+In determining whether a Cyber Incident is material, an Authorised Person should take into account whether the Cyber Incident:
+
+a.
+
+seriously affects Customer information;

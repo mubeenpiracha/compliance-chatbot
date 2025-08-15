@@ -1,0 +1,27 @@
+Definition of a Small or Medium-Sized Enterprise (SME)
+
+1.3.3
+
+(1)
+
+An Applicant is a SME under this module if:
+
+(a) it is applying for the admission of its Shares to the List; and
+
+(b) the aggregate market value of all of its listed Shares on admission is
+
+reasonably expected to be less than $250 million.
+
+(2)
+
+A Listed Entity is a SME under this module if:
+
+(a) the aggregate market value of all of its listed Shares on admission was
+
+less than $250 million; and
+
+(b) it has not ceased to be a SME under (3).
+
+(3)
+
+A Listed Entity ceases to be a SME for the purposes of (2)(b), if the average aggregate market value of its listed Shares has exceeded $500 million for 90 consecutive days.

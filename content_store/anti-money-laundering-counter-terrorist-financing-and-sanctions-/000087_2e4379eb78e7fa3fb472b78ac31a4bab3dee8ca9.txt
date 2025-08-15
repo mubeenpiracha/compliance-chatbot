@@ -1,0 +1,15 @@
+Anti-Money Laundering, Counter-Terrorist Financing and Sanctions Module (AML)
+
+relationship being formalised, for example, by the signing of a customer agreement or the acceptance of terms of business.
+
+5.
+
+The DFSA does not consider that a person would be a customer of a Relevant Person merely because such person receives marketing information from a Relevant Person or where a Relevant Person refers a person who is not a customer to a third party (including a Group member).
+
+6.
+
+The DFSA considers that a counterparty would generally be a “customer” for the purposes of this module and would therefore require a Relevant Person to undertake CDD on such a person. However, this would not include a counterparty in a transaction undertaken on a Regulated Exchange. Nor would it include suppliers of ordinary business services, for consumption by the Relevant Person such as cleaning, catering, stationery, IT or other similar services.
+
+7.
+
+A Representative Office should not have any customers in relation to its DIFC operations.

@@ -1,0 +1,25 @@
+A4.3 Collateral calculations and haircuts
+
+Core Market Participants
+
+A4.3.1 For the purposes of this section, “core market participant” means:
+
+(a) any central government or Central Bank;
+
+(b) any PSE;
+
+(c)
+
+any MDB referred to in Rule 4.12.5;
+
+(d) any banking institution or securities firm;
+
+(e) any financial institution eligible for a 20% risk weight under section 4.12;
+
+(f)
+
+any Qualifying CCP;
+
+(g) any regulated mutual fund that is subject to capital or leverage requirements; or
+
+(h) any regulated pension fund.

@@ -1,0 +1,17 @@
+agreements in its Trading Book has an Exposure to:
+
+(a)
+
+the Issuer of the Security it has sold in a repurchase agreement; and
+
+(b)
+
+the Counterparty where the Securities or cash given by the Authorised Person exceed the Securities or cash it receives (i.e. there is a net margin given by the Authorised Person) in a repurchase agreement or reverse repurchase agreement.
+
+320
+
+PRU VER17.290725
+
+A4.11.28 An Authorised Person must calculate in accordance with Section 5.10 an Exposure to the Issuer arising from the Underwriting or sub-Underwriting of a new Issue of Securities.
+
+A4.12

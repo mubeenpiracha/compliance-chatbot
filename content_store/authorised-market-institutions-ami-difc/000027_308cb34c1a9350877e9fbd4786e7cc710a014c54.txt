@@ -1,0 +1,37 @@
+Application for a Licence
+
+2.2.1
+
+An applicant who intends to carry on either or both of the Financial Services of Operating an Exchange or Operating a Clearing House must apply to the DFSA for a Licence in accordance with the Rules in this section and chapter 3.
+
+2.2.2
+
+The DFSA will only consider an application for a Licence to Operate an Exchange or Operate a Clearing House from a Person:
+
+(a)
+
+who is a Body Corporate; and
+
+(b)
+
+who is not an Authorised Firm or an applicant to be an Authorised Firm.
+
+2.2.2A An applicant must be a Body Corporate incorporated under the DIFC Companies
+
+Law if the application is for:
+
+(a)
+
+authorisation to Operate a Clearing House on which Crypto Tokens are cleared; or
+
+(b)
+
+the variation of a Licence to permit an activity referred to in (a).
+
+2.2.3
+
+A Person applying for a Licence must submit a written application to the DFSA:
+
+(a)
+
+demonstrating how the applicant intends to satisfy the Licensing Requirements specified in Part 3 and any other applicable requirements; and

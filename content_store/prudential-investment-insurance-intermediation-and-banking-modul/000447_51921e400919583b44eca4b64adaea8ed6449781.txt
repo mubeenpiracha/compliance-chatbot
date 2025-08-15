@@ -1,0 +1,5 @@
+A Synthetic Securitisation is a structure with at least two different stratified risk positions or tranches that reflect different degrees of Credit Risk where Credit Risk of an underlying pool of Exposures is transferred, in whole or in part, through the use of funded (e.g. credit-linked notes) or unfunded (e.g. credit default swaps) Credit Derivatives or guarantees that serve to hedge the Credit Risk of the portfolio. Accordingly, the investors’ potential risk is dependent upon the performance of the underlying pool. A Synthetic Securitisation may or may not involve the removal of assets off balance sheet.
+
+(c)
+
+A Re-securitisation Exposure is a securitisation Exposure in which the associated underlying pool of Exposures is tranched and at least one of the underlying Exposures is a securitisation Exposure. In addition, an Exposure to one or more Re-securitisation Exposures is a Re-securitisation Exposure.

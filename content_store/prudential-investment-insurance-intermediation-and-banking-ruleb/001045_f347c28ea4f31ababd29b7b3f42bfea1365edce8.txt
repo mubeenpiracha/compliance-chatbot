@@ -1,0 +1,9 @@
+Scope of the internal IRC model
+
+2.
+
+The internal IRC model should cover all positions subject to a Capital Requirement for specific interest rate risk, including those subject to a 0% Specific Risk capital charge under Rule A6.2.13, but should not cover securitisation positions and nth-to-default Credit Derivatives.
+
+3.
+
+The Authorised Person may, subject to approval by the Regulator, choose to include consistently all listed equity positions and Derivatives positions based on listed equities. The permission will be granted only if such inclusion is consistent with how the Authorised Person internally measures and manages risk.

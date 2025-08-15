@@ -1,0 +1,11 @@
+Guidance
+
+An Insurer is also required to provide a periodic report on its Long-Term Insurance Liabilities, prepared by an Actuary, including an actuarial investigation of the financial condition of its Long-Term Insurance Business. The relevant provisions are set out in Rule 7.3.
+
+5.7
+
+Value of investments in subsidiaries and associates that are subject to minimum capital requirements
+
+5.7.1 This section applies to all Insurers.
+
+5.7.2 Where an Insurer is the Parent of a Financial Group, the value of the Insurer's investment in any Subsidiary or Associate that is a Financial Institution must be taken as the amount of the Insurer's proportionate share of that Subsidiary or Associate's Capital Resources or Adjusted Capital Resources determined in accordance with Rule 8.3.5(1)(b), reduced by the Insurer's proportionate share of the Subsidiary or Associate's Capital Requirement determined in accordance with Rule 8.3.4(2).

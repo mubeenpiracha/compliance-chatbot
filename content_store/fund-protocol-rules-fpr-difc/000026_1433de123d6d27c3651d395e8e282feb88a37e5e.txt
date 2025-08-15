@@ -1,0 +1,27 @@
+Notification for Private Funds
+
+This section applies if the DFSA is the Home Regulator of a Private Fund.
+
+If the Fund Manager of a Private Fund wishes to use the passporting procedures under these Rules, it must notify the DFSA of its intention that the Private Fund be a Passported Fund.
+
+The notice referred to in Rule 3.1.2 must:
+
+(a)
+
+be in such form as the DFSA may from time to time determine;
+
+(b)
+
+identify the one or more Host Jurisdictions in which the Private Fund will be Promoted;
+
+(c)
+
+identify the Agents (if any) that will conduct the Promotion of the Private Fund;
+
+(d)
+
+include a copy of the offering document containing a disclaimer to the following effect:
+
+“This Prospectus relates to a DIFC Fund in accordance with the Collective Investment Law 2010 and Rules of the Dubai Financial Services Authority (“DFSA”).
+
+The DFSA has no responsibility for reviewing or verifying any Prospectus or other documents in connection with this Domestic Fund. Accordingly, the DFSA has not approved this Prospectus or any other associated documents nor taken any steps to verify the information set out in this Prospectus, and has no responsibility for it.

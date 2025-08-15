@@ -1,0 +1,19 @@
+(ii)
+
+a notional short position with a maturity equal to the length of the swap.
+
+(d)
+
+where the Authorised Firm is receiving floating rate interest and paying floating rate interest:
+
+(i)
+
+a notional long position with a maturity equal to the period remaining to the next interest date reset date; and
+
+(ii) a notional short position with a maturity equal to the period remaining to
+
+the next interest rate reset date; and
+
+(e)
+
+the two notional government Securities must have a coupon equal to the rate of interest payable or receivable on the leg.

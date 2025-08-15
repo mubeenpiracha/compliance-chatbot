@@ -1,0 +1,41 @@
+(6)
+
+If the DFSA decides to exercise its power under this Rule to object to a Person as a Controller, to impose conditions on an approval or to require a Person to dispose of their holdings, the Person may refer the matter to the FMT for review.
+
+94
+
+AMI/VER28/03-25
+
+9
+
+9.1
+
+9.1.1
+
+9.2
+
+9.2.1
+
+9.2.2
+
+9.3
+
+9.3.1
+
+9.4
+
+9.4.1
+
+AUTHORISED MARKET INSTITUTIONS (AMI)
+
+SUPERVISION OF AUTHORISED MARKET INSTITUTIONS
+
+Application
+
+This chapter applies to every Authorised Market Institution.
+
+Relations with regulators and the risk based approach
+
+An Authorised Market Institution must deal with regulatory authorities in an open and co-operative manner and keep the DFSA promptly informed of significant events or activities, wherever they are carried on, relating to the Authorised Market Institution, of which the DFSA would reasonably expect to be notified.
+
+An Authorised Market Institution must advise the DFSA immediately if it becomes aware, or has reasonable grounds to believe, that a significant breach of a Rule or Licensing Requirement by the Authorised Market Institution or any of its Employees may have occurred or may be about to occur.

@@ -1,0 +1,31 @@
+in
+
+response
+
+to changes
+
+Credit-Enhancing Interest-Only Strip
+
+An on-balance sheet asset that:
+
+(i) represents a valuation of cash flows related to future
+
+margin income; and
+
+(ii) is subordinated.
+
+CRW
+
+Credit risk weight for an Exposure.
+
+CV
+
+Contracted value for delivery.
+
+Delta
+
+The measure of an Option’s sensitivity to a change in value of the underlying investment, asset or property.
+
+Displaced Commercial Risk Capital Requirement
+
+The requirement calculated in accordance with chapter 5 of the IFR Module.

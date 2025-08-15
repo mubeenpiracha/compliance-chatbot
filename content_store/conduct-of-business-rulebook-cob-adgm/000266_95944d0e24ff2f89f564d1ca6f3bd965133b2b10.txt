@@ -1,0 +1,21 @@
+Client Money until such time as:
+
+(a)
+
+if it is Client Money, the Client Money is withdrawn from the Client Account in accordance with the Client Money Rules; or
+
+(b)
+
+if it is Relevant Money, the Relevant Money is withdrawn from the Client Account in accordance with Chapter 19.
+
+Guidance
+
+1. For the purposes of Rule 14.4.1, the Regulator would consider one day to expire at the close of business on the next business day.
+
+2. Regardless of what time during the day the Client Money was received by the Authorised Person, an Authorised Person which remits all Client Money to the Client or as the Client may direct within one day is not obligated to maintain a Client Money Account.
+
+3. An Authorised Person may establish separate Client Accounts for individual Clients, a single Client Account where Client Money is pooled, or both.
+
+4. Whenever possible the Authorised Person should seek to split a mixed remittance before crediting the Client Account.
+
+5. An Authorised Person holding or controlling Relevant Money in connection with the conduct of Payment Services is expected to identify, record and reconcile such amounts in accordance with the requirements of Chapter 19.

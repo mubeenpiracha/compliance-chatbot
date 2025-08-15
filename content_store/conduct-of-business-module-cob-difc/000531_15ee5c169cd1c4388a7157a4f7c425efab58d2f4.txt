@@ -1,0 +1,35 @@
+Auditor
+
+12.4.5 The Operator of a Scheme must ensure that:
+
+(a) an Auditor is appointed for the Scheme;
+
+(b)
+
+the Auditor conducts an audit of the financial statements of the Scheme in accordance with the requirements of the relevant standards published by the IAASB; and
+
+(c)
+
+the Auditor produces an Auditor’s Report on the audited financial statements of the Scheme.
+
+163
+
+COB/VER48/03-25
+
+CONDUCT OF BUSINESS (COB)
+
+12.5 Management of financial resources
+
+General duty
+
+12.5.1 An Operator of a Scheme must ensure:
+
+(a)
+
+that the financial resources of the Scheme are managed soundly and prudently; and
+
+(b)
+
+that there are sufficient liquid assets in the Scheme to meet:
+
+(i)

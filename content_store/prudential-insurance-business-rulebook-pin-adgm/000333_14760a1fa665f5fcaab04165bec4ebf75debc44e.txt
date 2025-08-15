@@ -1,0 +1,29 @@
+A7.3 Base fund capital
+
+A7.3.1 The commencement point for calculating the adjusted fund equity in respect of a
+
+Long-Term Insurance Fund maintained by an Insurer is the base fund capital.
+
+A7.3.2 Subject to Rules A7.3.3, A7.3.4 and A7.3.5, the base fund capital in respect of a Long-Term Insurance Fund must consist of the following capital instruments and equity reserves of the Insurer, that are classified as capital instruments and equity reserves of the fund:
+
+(a)
+
+general reserves;
+
+(b)
+
+retained earnings;
+
+111
+
+PIN VER07.290725
+
+(c)
+
+amounts attributed to the Long-Term Insurance Fund by the Insurer in accordance with Rule 3.4.1;
+
+(d)
+
+in the case of a Takaful Insurer, amounts provided from the Owners' Equity by loan to the Insurance Fund and not repaid as at the Solvency Reference Date;
+
+(e)

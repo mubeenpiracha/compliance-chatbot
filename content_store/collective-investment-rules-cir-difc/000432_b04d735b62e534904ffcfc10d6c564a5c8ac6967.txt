@@ -1,0 +1,17 @@
+The DFSA has no responsibility for reviewing or verifying any Prospectus or other documents in connection with this Fund. Accordingly, the DFSA has not approved this Prospectus or any other associated documents nor taken any steps to verify the information set out in this Prospectus, and has no responsibility for it.
+
+The Units to which this Prospectus relates may be illiquid and/or subject to restrictions on their resale. Prospective purchasers should conduct their own due diligence on the Units.
+
+If you do not understand the contents of this document you should consult an authorised financial adviser.”;
+
+(e)
+
+if the Offer is not directed to Retail Clients, includes a prominent statement to that effect to be incorporated within the warning in (d);
+
+(f)
+
+in the case of an Offer of a Unit in a Money Market Fund, contains the risk warning referred to in Rule 14.4.7; and
+
+(g)
+
+in the case of an Offer of a Unit in a Venture Capital Fund, contains the risk warning referred to in Rule 14.4.11 and the additional disclosure required under Rule 14.4.12.

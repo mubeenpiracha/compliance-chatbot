@@ -1,0 +1,21 @@
+a.
+
+the depositor has other established relationships with the Authorised Person that make Deposit withdrawal highly unlikely; or
+
+b.
+
+the Deposits are in transactional accounts (e.g. accounts where salaries are automatically credited).
+
+4.
+
+If an Authorised Person is not able to readily identify which retail Deposits would qualify as "stable" according to paragraph 4, it should place the full amount in the "less stable" buckets.
+
+411
+
+PRU VER17.290725
+
+5.
+
+Less stable Deposits should consist of the portion of Deposits that do not meet the conditions in paragraph 4 and also include types of Deposits more likely to be withdrawn in a time of stress. These should include high-value Deposits (i.e. Deposits above any Deposit insurance limit), Deposits from customers who do not have established relationships with an Authorised Person that make the Deposit withdrawal unlikely, Deposits from sophisticated or high net worth individuals, Deposits where the internet is integral to the design, marketing and use of the account (on-line accounts) and Deposits with promotional interest rates (i.e. that are heavily rate-driven).
+
+6.

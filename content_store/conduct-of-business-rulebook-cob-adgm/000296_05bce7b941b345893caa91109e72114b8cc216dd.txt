@@ -1,0 +1,15 @@
+15.3 Recording, Registration and Holding Requirements
+
+15.3.1 An Authorised Person which Provides Custody, holds or controls Client Investments or holds Reserve Investments must ensure that Safe Custody Assets are recorded, registered and held in an appropriate manner to safeguard and control such property.
+
+15.3.2 Subject to Rule 15.4.1, an Authorised Person which Provides Custody, holds Client Investments or holds Reserve Investments must record, register and hold Safe Custody Assets separately from its own Investments.
+
+15.3.3 Where the Authorised Person controls Safe Custody Assets by holding a mandate, or similar authority over an account established in the Client’s own name with a third party, its systems and controls must.
+
+(a)
+
+include a current list of all such mandates and any conditions placed by the Client or by the Authorised Person on the use of the Mandate;
+
+(b)
+
+include the details of the procedures and authorities for the giving and receiving of instructions under the Mandate;

@@ -1,0 +1,39 @@
+Custody
+
+Escrow, depository receipts, securities lending (customers) corporate actions.
+
+Agency Services
+
+Corporate Agency
+
+Issuer and paying agents.
+
+Corporate Trust
+
+Discretionary
+
+Management
+
+Fund
+
+Pooled, segregated, retail, institutional, closed, open, private Equity.
+
+Asset Management
+
+Non-Discretionary
+
+Fund Management
+
+Pooled, segregated, retail, institutional, closed, open.
+
+Retail Brokerage
+
+Retail Brokerage
+
+Execution and full service.
+
+380
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)

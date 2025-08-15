@@ -1,0 +1,17 @@
+3.13.6 Except for the items referred to in Rule 3.13.5, an Authorised Firm must not make any adjustments to remove from its Capital Resources unrealised gains or losses on their assets or liabilities measured at fair value.
+
+Guidance
+
+1.
+
+An Authorised Firm is expected to follow the guidance provided in respect of prudent valuation in section 2.4 and in App2, in valuing all its assets measured at fair value while calculating its Capital Resources.
+
+61
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+2.
+
+An Authorised Firm should not under Rule 3.13.5(d) offset valuation adjustments arising from its own credit quality with those arising from its Counterparty Credit Risk.

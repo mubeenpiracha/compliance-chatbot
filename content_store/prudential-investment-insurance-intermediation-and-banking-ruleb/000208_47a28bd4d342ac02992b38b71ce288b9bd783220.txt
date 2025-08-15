@@ -1,0 +1,15 @@
+(ii)
+
+a range within which the instruments will convert into CET1 Capital instruments;
+
+(c)
+
+where the provisions governing the instruments require their principal amount to be written down upon the occurrence of a trigger event, the write down must reduce all the following:
+
+(i)
+
+the claim of the holder of the instrument in the liquidation of the Authorised Person;
+
+(ii)
+
+the amount required to be paid in the event of the call of the instrument; and

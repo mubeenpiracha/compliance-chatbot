@@ -1,0 +1,17 @@
+Financial Group Capital Adequacy Report Financial Group Capital Requirement
+
+The Report referred to in PIN Rule 6.6.1.
+
+The Capital Requirement of a Financial Group calculated in accordance with PIB Rule 8.3.3 or PIN Rule 8.3.3.
+
+Financial Group Capital Resources
+
+The Capital Resources of a Financial Group calculated in accordance with PIB Rule 8.3.4 or PIN 8.3.4.
+
+Financial Institution
+
+A regulated or unregulated entity, whose activities are primarily financial in nature.
+
+Financial Instrument
+
+Any contract that gives rise to both a financial asset of one entity and a financial liability or equity instrument of another entity.

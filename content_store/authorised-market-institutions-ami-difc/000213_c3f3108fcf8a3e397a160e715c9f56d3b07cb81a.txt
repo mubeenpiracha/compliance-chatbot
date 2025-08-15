@@ -1,0 +1,15 @@
+Guidance
+
+When assessing whether an Exchange has an appropriate and adequate Error Trade policy, the DFSA will consider whether the rules and procedures included in the Business Rules:
+
+a.
+
+are adequate and, where prevention is not possible, minimise the impact of Error Trades;
+
+b.
+
+are sufficiently flexible in the design to address varying scenarios;
+
+c.
+
+establish a predictable and timely process for dealing with Error Trades, including measures specifically designed to detect and identify Error Trade messages to market users;

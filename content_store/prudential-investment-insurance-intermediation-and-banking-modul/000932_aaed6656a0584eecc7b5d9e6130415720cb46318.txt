@@ -1,0 +1,35 @@
+A4.10 Securitisation
+
+A4.10.1 An Authorised Firm which is an Originator or a Sponsor of a Traditional Securitisation may exclude securitised Exposures from the calculation of Credit RWA amounts only if all of the following conditions have been complied with:
+
+302
+
+PIB/VER50/07-25
+
+(a)
+
+(b)
+
+(c)
+
+(d)
+
+(e)
+
+(f)
+
+(g)
+
+(h)
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+except as provided in (g), (i) and (k), significant Credit Risk associated with the securitised Exposures has been transferred from the Originator to third parties;
+
+the Authorised Firm does not maintain effective or indirect control over the underlying Exposures;
+
+the assets are legally isolated from the Authorised Firm in order to ensure the assets are beyond the reach of the Authorised Firm in the event of bankruptcy or receivership;
+
+the Securities issued are not the obligations of the Authorised Firm;
+
+the Securities are issued pursuant to the securitisation by an SPE and the holders of the beneficial interests in that entity have the right to pledge or exchange them without restriction;

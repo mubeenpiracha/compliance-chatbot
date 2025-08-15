@@ -1,0 +1,25 @@
+the following formula:
+
+HLA Capital Buffer = HLA Ratio x Relevant RWA
+
+where:
+
+“HLA Capital Buffer” is the HLA Capital Buffer that the Authorised Firm must maintain;
+
+“HLA Ratio” is the ratio determined by the DFSA for that Authorised Firm under Rule 3.9B.6; and
+
+“Relevant RWA”:
+
+(a)
+
+for a G-SIB, is the value of the its Risk Weighted Assets; or
+
+(b)
+
+for a D-SIB, is the value of its Risk Weighted Assets in jurisdictions for which it is considered to be systemically important.
+
+3.9B.3
+
+If an Authorised Firm is both a G-SIB and a D-SIB, the HLA Capital Buffer that applies under this section is the higher of the amount calculated under Rule 3.9B.2 for the firm as a G-SIB and the amount calculated under that Rule for the firm as a D-SIB.
+
+3.9B.4 An Authorised Firm must not apply CET1 Capital that it maintains to meet an HLA

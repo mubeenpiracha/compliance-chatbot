@@ -1,0 +1,43 @@
+its use of agents and service providers.
+
+14.8 Payment of Client Money from Client Account
+
+14.8.1 An Authorised Person must have procedures for ensuring all withdrawals from a Client
+
+Account are authorised.
+
+14.8.1A Subject to Rule 14.8.2, Client Money must remain in a Client Account until it:
+
+(a)
+
+is due and payable to the Authorised Person;
+
+(b)
+
+is paid to the Client on whose behalf the Client Money is held;
+
+(c)
+
+is paid in accordance with a Client instruction on whose behalf the Client Money is held;
+
+(d)
+
+is required to meet the payment obligations of the Client on whose behalf the Client Money is held;
+
+(e)
+
+becomes held by the Authorised Person pursuant to a title transfer collateral arrangement;
+
+(f)
+
+becomes held by the Authorised Person in its capacity as a bank as a Deposit; or
+
+(g)
+
+is paid out in circumstances that are otherwise authorised by the Regulator.
+
+90
+
+COBS VER19.290725
+
+14.8.2 Client Money paid out by way of cheque or other payable order under Rule 14.8.1A(b) or (c) must remain in a Client Account until the cheque or payable order is presented to and cleared by the recipient’s bank.

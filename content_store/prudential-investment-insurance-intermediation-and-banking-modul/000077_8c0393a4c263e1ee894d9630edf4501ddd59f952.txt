@@ -1,0 +1,23 @@
+Rho
+
+The measure of an Option’s sensitivity to a change in interest rates.
+
+Risk Capital Requirement
+
+Has the meaning given in Rule 3.8.1A.
+
+Risk Weighted Assets (RWA)
+
+The risk weighted assets of an Authorised Firm calculated in accordance with Rule 3.8.2.
+
+SE Exposure
+
+The Exposure value or amount for a securitisation Exposure.
+
+Securities Underwriting Capital Requirement
+
+A component of the Market Risk Capital Requirement defined in section 5.10.
+
+Servicer
+
+A Person that administers the securitised items.

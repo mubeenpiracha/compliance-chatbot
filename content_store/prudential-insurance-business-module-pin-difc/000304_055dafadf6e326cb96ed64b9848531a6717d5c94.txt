@@ -1,0 +1,17 @@
+A5.4.3 The following items must be deducted from base non-cellular capital, to the extent that the Insurer has not excluded them in determining its base non-cellular capital, or has added them to base non-cellular capital under Rule A5.4.2:
+
+(a)
+
+any amounts in respect of appropriations to be made from profit in respect of the reporting period most recently ended, including dividends, bonuses, pensions and welfare charges that are determined on the basis of the profit of that reporting period, whether or not the amounts have been approved by the Insurer for payment;
+
+(b)
+
+Owners’ Equity in a Takaful Insurer that does not, under the constitutional documents of the Insurer or the terms of insurance contracts or both, participate in the surpluses and losses of Takaful business;
+
+(c)
+
+the amount of any investment by the Insurer or by a Subsidiary of the Insurer, in the Insurer’s own shares;
+
+(d)
+
+the amount of any tax liability that would be attributable to unrealised gains on investments, if those gains were realised;

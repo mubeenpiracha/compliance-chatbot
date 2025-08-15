@@ -1,0 +1,17 @@
+use models which, among other things:
+
+rely on conservative estimates of the time horizons for the effective hedging or close-out of the particular types of products cleared by the Recognised Clearing House, including in stressed market conditions; and
+
+have an appropriate method for measuring credit exposure that accounts for relevant product risk factors and portfolio effects across products, and, to the extent practicable and prudent, limit the need for destabilising procyclical changes.
+
+4.10.9
+
+A Recognised Clearing House may allow offsets or reductions in required margin across products that it clears or between products that it and another Recognised Clearing House clear, if the risk of one product is significantly and reliably correlated with the risk of the other product.
+
+73
+
+MIR VER10.290725
+
+4.10.10 Where two or more Recognised Clearing Houses are authorised to offer cross- margining, they must have appropriate safeguards and harmonised overall risk- management systems.
+
+4.11

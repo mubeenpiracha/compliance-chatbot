@@ -1,0 +1,11 @@
+a.
+
+price or size parameters: Members should be able to automatically block or cancel orders that do not meet the set price or size parameters either or both on an order- by-order basis or over a specified period of time;
+
+b.
+
+controls around permission to trade: Members should be able to block or cancel orders immediately as soon as they are made aware that trade permissions of a trader have been breached;
+
+c.
+
+effective risk management: Members should be able to block or cancel orders automatically where the trades pose risks that compromise the Member’s own risk management thresholds. Such controls should be applied as necessary and appropriate to exposures to individual clients or financial instruments or groups of clients or financial instruments, exposures of individual traders, trading desks or the Member as a whole;

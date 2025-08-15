@@ -1,0 +1,9 @@
+the approval of an individual’s request for physical access; and
+
+(b)
+
+the immediate revocation of such access if the conditions for granting approval are no longer met.
+
+(3)
+
+An Authorised Person must implement appropriate security measures to prevent unauthorised physical access to its data centres and server rooms.

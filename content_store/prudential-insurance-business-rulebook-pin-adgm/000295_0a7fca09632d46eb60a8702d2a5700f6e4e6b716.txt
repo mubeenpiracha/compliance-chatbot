@@ -1,0 +1,19 @@
+A5.6 Adjusted Cellular Capital Resources
+
+A5.6.1 An Insurer must calculate the Adjusted Cellular Capital Resources in respect of a Cell
+
+according to the formula:
+
+ACCR = ACE +CCA – HCCA
+
+where, in respect of that Cell:
+
+ACCR means the Adjusted Cellular Capital Resources;
+
+ACE means the adjusted cellular equity
+
+CCA means the non-cellular capital adjustment; and
+
+HCCA means the hybrid cellular capital adjustment.
+
+A5.6.2 Adjusted cellular equity is calculated as set out in Rule A5.8. The non-cellular capital adjustment is determined as set out in Rule A5.9. The hybrid non-cellular capital adjustment is set out in Rule A5.10.

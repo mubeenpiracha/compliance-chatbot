@@ -1,0 +1,31 @@
+Risk Warnings
+
+15.5.3 (1)
+
+An Authorised Firm must display prominently on its website the following risk warnings relating to Crypto Tokens:
+
+(a)
+
+that Crypto Tokens are subject to extreme volatility and the value of the Crypto Token can fall as quickly as it can rise;
+
+(b)
+
+that an investor in Crypto Tokens may lose all, or part, of their money;
+
+(c)
+
+that Crypto Tokens may not always be liquid or transferable;
+
+(d)
+
+that investments in Crypto Tokens may be complex making it hard to understand the risks with buying, selling, holding or lending them;
+
+(e)
+
+that Crypto Tokens can be stolen because of cyber attacks; and
+
+(f)
+
+that investing in, and holding, Crypto Tokens is not comparable to investing in traditional investments such as Securities.
+
+(2) Where an Authorised Firm presents any marketing or educational materials and other communications relating to a Crypto Token on a website, in the general media or as part of a distribution made to existing or potential new Clients, it must include the risk warning referred to in (1) in a prominent place at or near the top of each page of the materials or communication.

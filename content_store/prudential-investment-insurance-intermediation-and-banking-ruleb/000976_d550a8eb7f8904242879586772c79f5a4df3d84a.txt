@@ -1,0 +1,33 @@
+Band
+
+A6.5.5(1)(b)
+
+A6.5.5(1)(c)
+
+A6.5.5(1)(d)
+
+A6.5.5(1)(e)
+
+A6.5.5(1)(f)
+
+Allocate remaining positions to appropriate maturity bands
+
+Match within bands. Each matched amount incurs a spread charge
+
+Carry across bands. Each carried amount incurs a carry charge
+
+Match within band. Each matched amount incurs a spread charge
+
+Remaining unmatched position(s) incur an outright charge
+
+0 and ≤ 1 month
+
+>1 month and ≤ 3 months
+
+(i) 1100 long (ii) 800 short
+
+➔ 800 matched
+
+>3 months and ≤ 6 months
+
+Unmatched 300 long carried across three bands

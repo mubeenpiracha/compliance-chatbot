@@ -1,0 +1,25 @@
+Content of the Recovery Plan
+
+2.1.7 A Recovery Plan shall be commensurate with the nature, complexity, interconnectedness, size and substitutability of the Authorised Firm’s DIFC operations, and set out the Recovery Measures the Authorised Firm can take, as well as how and when it can take them, including the following key
+
+6
+
+RAR/VER1/04-20
+
+2.1.8
+
+RECOVERY AND RESOLUTION (RAR)
+
+elements:
+
+(a)
+
+consideration of a range of scenarios including both idiosyncratic (specific to the Group or Authorised Firm) and market-wide scenarios, likely to cause severe stress which will require Recovery Measures to be considered or activated;
+
+(b)
+
+the actual Recovery Measures, which may include measures to reduce the Authorised Firm’s risk profile, address capital shortfalls or liquidity pressures, change funding strategy, or change governance structure; and
+
+(c)
+
+processes to ensure the timely implementation of Recovery Measures in a range of stress situations.

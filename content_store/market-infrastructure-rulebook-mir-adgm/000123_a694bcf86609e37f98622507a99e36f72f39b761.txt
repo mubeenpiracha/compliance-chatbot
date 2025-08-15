@@ -1,0 +1,11 @@
+Quote-driven trading system
+
+A system where transactions are concluded on the basis of firm quotes that are continuously made available to participants, which requires the market makers to maintain quotes in a size that balances the needs of Members and participants to deal in a commercial size and the risk to which the market maker exposes itself.
+
+The best bid and offer by price of each market maker in that Financial Instrument, together with the volumes attaching to those prices.
+
+The quotes made public shall be those that represent binding commitments to buy
+
+40
+
+MIR VER10.290725

@@ -1,0 +1,21 @@
+(ii)
+
+for the uncollateralised portion, the CRW that is applicable to the obligor.
+
+A4.3.11 If the CRW determined in accordance with A4.3.10(b)(i) is less than 20%, an Authorised Firm must apply a CRW of 20% to the collateralised portion of the CR Exposure, except in the following cases:
+
+(a) a qualifying SFT where the Counterparty in the transaction is a core market participant, in which case the Authorised Firm may apply a risk weight of 0%;
+
+(b) a qualifying SFT where the Counterparty in the transaction is not a core market
+
+participant, in which case the Authorised Firm may apply a risk weight of 10%;
+
+(c)
+
+a transaction where there is no currency mismatch and the Collateral comprises:
+
+(i)
+
+cash on deposit as set out in Rule 4.13.5(1)(a); or
+
+(ii) Exposures to a central government, Central Bank or PSE, or a combination thereof, qualifying for a 0% risk weight under the Rules in section 4.12, and the latest fair value of such Collateral has been discounted by 20% for the purposes of determining the value of the collateralised portion of the CR Exposure in accordance with Rule A4.3.10(a)(i),

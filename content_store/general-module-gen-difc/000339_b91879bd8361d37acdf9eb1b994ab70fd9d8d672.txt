@@ -1,0 +1,9 @@
+simulations) and the appropriate scope of testing should be determined each time a test is planned. While an Authorised Person may decide to test only selected procedures at one time, it should ensure that all aspects of the Cyber Incident Response Plan are tested regularly. Testing requirements should be specified in the Cyber Incident Response Plan.
+
+4.
+
+The regular review required by Rule 5.5.17(4) should take into account current cyber threat intelligence as well as lessons learned from previous events and be adjusted to account for new processes and services. Where the review is triggered by a major Cyber Incident (see Guidance item 1 under Rule 5.5.19), the DFSA expects an Authorised Person to assess whether established procedures were followed and whether actions taken were effective. It should also identify key lessons learnt with a view to improving future Cyber Incident response and recovery processes.
+
+5.5.18 (1)
+
+If a potential or actual Cyber Incident is detected, an Authorised Person must carry out an investigation to determine its nature and extent.

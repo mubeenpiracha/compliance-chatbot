@@ -1,0 +1,13 @@
+Guidance
+
+35
+
+GEN/VER67/03-25
+
+GENERAL (GEN)
+
+1. As a Contract of Insurance is defined in GEN App4 to include a contract of reinsurance, Insurance Management includes functions performed for or on behalf of a reinsurer. A Person may carry on Insurance Management for or on behalf of a domestic (i.e. DIFC) Insurer or a Non-DIFC insurer (i.e. an insurer located and regulated outside the DIFC). A Person may also do so for a single insurer or a number of insurers.
+
+2. An Insurance Manager can under Rule 2.20.1(1)(b) advise on Contracts of Insurance for which it performs, or proposes to perform, underwriting functions. This includes advising sponsors and members of captive cells it manages or proposes to manage.
+
+3. An Insurance Manager advising on contracts of insurance which it underwrites or proposes to underwrite is not generally expected to act also as an Insurance Broker, i.e. as agent of a Policyholder, because this would cause conflicts of interest that are difficult to manage. See the Guidance under COB Rule 7.9.1.

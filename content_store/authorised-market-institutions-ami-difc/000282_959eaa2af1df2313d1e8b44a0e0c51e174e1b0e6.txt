@@ -1,0 +1,19 @@
+where entities other than the CSD are involved in the reconciliation process for a securities issue, such as the issuer, registrars, issuance agents, transfer agents or other CSDs, the CSD has adequate arrangements information exchange between all involved parties so that the integrity of the issue is maintained; and
+
+for cooperation and
+
+(d)
+
+there are no securities overdrafts or debit balances in securities accounts .
+
+CSD links
+
+A CSD must not establish any link with another CSD (CSD link) unless:
+
+(a)
+
+it has:
+
+(i)
+
+prior to establishing the CSD link, identified and assessed potential risks, for itself and its Members and other participants using its facilities, arising from establishing such a link;

@@ -1,0 +1,15 @@
+(a)
+
+a Winding-Up order has been made; or
+
+(b)
+
+a resolution for voluntary winding up has been passed or an Administrator, Administrative Receiver or provisional liquidator has been appointed;
+
+and any previous Direction not to take action shall cease to have effect on the making or passing of any such order, award or appointment.
+
+(10) Where a Recognised Body or Remote Body has taken or been directed to take action under its Default Rules, the Regulator may direct it to do or not to do such things (being things which it has power to do under its Default Rules) as are specified in the Direction.
+
+(11) Where the Recognised Body or Remote Body is acting in accordance with a Direction under subsection (2)(a) that was given only by virtue of subsection (3)(a), the Regulator shall not give a Direction under subsection (10) unless it is satisfied that the Direction under that subsection will not impede or frustrate the proper and efficient conduct of the Default Proceedings.
+
+(12) Where the Recognised Body or Remote Body has taken action under its Default Rules without being directed to do so, the Regulator shall not give a Direction under subsection (10) unless—

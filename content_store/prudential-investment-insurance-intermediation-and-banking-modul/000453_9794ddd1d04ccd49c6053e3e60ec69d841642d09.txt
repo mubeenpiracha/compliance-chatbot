@@ -1,0 +1,13 @@
+Securitisation or a Synthetic Securitisation:
+
+(a)
+
+the Authorised Firm intending to conduct the securitisation must notify the DFSA at least 30 days in advance of the proposed execution of the securitisation;
+
+(b)
+
+the Authorised Firm conducting the securitisation must calculate its Credit RWAs for all resultant Exposures from that securitisation, in accordance with section 4.8, provided the requirements of this section are met; and
+
+(c)
+
+the securitisation must produce the Authorised Firm conducting documentation reflecting the execution and economic substance of the transaction.

@@ -1,0 +1,23 @@
+6.7.2 Aggregation of Orders
+
+An Authorised Person may aggregate an order for a Client with an order for other Clients or with an order for its own account only where:
+
+(a)
+
+it is unlikely that the aggregation will operate to the disadvantage of any of the Clients whose Transactions have been aggregated;
+
+(b)
+
+the Authorised Person has disclosed in writing to the Client that his order may be aggregated and that the effect of the aggregation may operate on some occasions to his disadvantage;
+
+(c)
+
+the Authorised Person has made a record of the intended basis of allocation and the identity of each Client before the order is effected; and
+
+(d)
+
+the Authorised Person has in place written standards and policies on aggregation and allocation which are consistently applied and must include the policy that will be adopted when only part of the aggregated order has been filled.
+
+42
+
+COBS VER19.290725

@@ -1,0 +1,7 @@
+6.5.2 Providing Best Execution
+
+When an Authorised Person agrees, or decides in the exercise of its discretion, to Execute any Transaction with or for a Client in an Investment, it must provide best execution.
+
+Guidance
+
+An Authorised Person provides best execution if it takes reasonable care to determine the best execution available for that Investment under the prevailing market conditions and deals at a price and other conditions which are no less advantageous to that Client.

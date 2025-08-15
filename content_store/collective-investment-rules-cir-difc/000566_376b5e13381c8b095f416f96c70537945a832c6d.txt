@@ -1,0 +1,17 @@
+Transparency: Where there are varying levels of transparency regarding trading volumes and positions of market participants, particularly in non-regulated markets and instruments, whether the benchmark represents the full breadth of the market, the role of specialist participants who might be in a position to give an overview of the market, and the feasibility, costs and benefits of providing additional transparency in the underlying markets.
+
+2.
+
+If a Price Information Provider that an ETF Fund Manager uses for tracking or outperforming an index or benchmark for the purposes of the ETF it manages is a Related Party of the Fund
+
+193
+
+CIR/VER38/08-24
+
+COLLECTIVE INVESTMENT RULES (CIR)
+
+Manager, the Fund Manager has additional obligations relating to Related Party Transactions under Rule 13.9.5.
+
+194
+
+CIR/VER38/08-24

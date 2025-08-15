@@ -1,0 +1,11 @@
+(a)
+
+the subject securitisation Exposure must be in a tranche which is economically in a second loss position or better and the First Loss Position must provide meaningful credit protection to the second loss tranche;
+
+(b)
+
+the associated Credit Risk of the securitisation Exposure is the equivalent of a Credit Quality Grade of III or better in the short-term rating category; and
+
+(c)
+
+the Authorised Firm must not hold a position in the First Loss Position.

@@ -1,0 +1,5 @@
+Example 1
+
+43.
+
+This example relates to a commodity Future under Rule A2.3.2(b)(i). Firm B arranges for its client, A to purchase a Token on a regulated exchange. Embedded in that token are the terms of a contract between the holder of that Token and Company C, which A accepts by purchasing the Token. The contract is for Company C to deliver a specified type and quantity of a commodity at a future date and at a specified price to be paid by A. A is entering the contract for investment purposes, as he has no use for the commodity but believes that its value will rise and he will be able to sell the rights under the contract (or settle them with Company C in cash) to make a profit on or before the delivery date. The Token confers rights and obligations substantially similar in nature to a contract falling within the definition of a Future at Rule A2.3.1(b)(ii). Therefore, the Token is a Derivative Token and is considered a Future.

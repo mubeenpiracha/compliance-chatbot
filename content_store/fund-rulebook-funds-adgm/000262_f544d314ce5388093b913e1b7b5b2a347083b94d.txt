@@ -1,0 +1,27 @@
+Application
+
+19.1.1
+
+This Chapter applies to a Fund Manager and, where appointed, the Trustee, of a Domestic Fund and, if the Domestic Fund is an Umbrella Fund using the form of a Protected Cell Company or Incorporated Cell Company, to each Cell as though that Cell were a separate Fund.
+
+19.1.2
+
+Aside from as provided under the Insolvency Regulations or as otherwise provided in any enactment, subordinate legislation or rules made by the Regulator, a Domestic Fund may also be wound up upon the happening of any of the following events:
+
+(a)
+
+the expiration of any period specified in the Constitution of the Fund as the period at the end of which the Fund will terminate;
+
+(b)
+
+upon the effective date of a duly approved transfer scheme; or
+
+89
+
+FUNDS VER10.100625
+
+(c)
+
+as otherwise provided for in the Constitution of the Fund.
+
+In addition to the circumstances set out in Rule 19.1.2, a Public Fund may also be wound up upon the passing of a Special Resolution of Unitholders.

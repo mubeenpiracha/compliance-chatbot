@@ -1,0 +1,11 @@
+4.
+
+Operating a Loan Crowdfunding Platform will apply to a number of types of crowdfunding services such as ‘peer to peer’ lending, ‘peer to business’ lending and ‘business to business’ lending. However, it should be noted that COB Rule 11.3.5 requires a borrower to be a Body Corporate.
+
+5.
+
+Investment Crowdfunding differs from Loan Crowdfunding in that, instead of the platform facilitating a loan, it facilitates the issue of an investment to an investor. Under Rule 2.2.10F, the type of Investment that can be facilitated is restricted to Investments such as Shares, Certificates, Debentures or Sukuk; facilitating other more complex Investments such as Derivatives or Structured Products is not permitted.
+
+6.
+
+Property Investment Crowdfunding involves multiple investors investing in an individual apartment, house or building that has a single title, using a Crowdfunding Platform. Typically, a Special Purpose Vehicle (SPV) will hold title to the property and the investors will have an interest in that SPV, for example, a Share or Certificate issued by the SPV.

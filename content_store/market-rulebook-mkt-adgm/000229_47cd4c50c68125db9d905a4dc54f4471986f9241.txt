@@ -1,0 +1,37 @@
+6.2.11 Permitted Price Stabilisation
+
+(1)
+
+A Stabilisation Manager and, if applicable, his Stabilisation Agents may in respect of Relevant Securities:
+
+(a)
+
+purchase, or agree to purchase, such Relevant Securities; or
+
+(b)
+
+offer or attempt to do anything in (i) with a view to stabilising the market price of such Relevant Securities.
+
+(2)
+
+A Stabilisation Manager and his Stabilisation Agents may, in respect of Relevant Securities:
+
+(a)
+
+make allotments of a greater number of the Relevant Securities than were offered (‘over-allotment’);
+
+(b)
+
+sell or agree to sell the Relevant Securities in order to establish a short position in them;
+
+(c)
+
+buy or agree to buy the Relevant Securities in order to close out or liquidate any position that has been established by Price Stabilisation under (a) or (b);
+
+(d)
+
+sell or agree to sell the Relevant Securities in order to close out or liquidate any position that has been established by Price Stabilisation under (a) or (b); or
+
+(e)
+
+offer or attempt to do anything permitted by (a), (b), (c) or (d).

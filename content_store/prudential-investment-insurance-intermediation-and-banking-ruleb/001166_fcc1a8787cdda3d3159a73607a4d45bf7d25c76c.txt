@@ -1,0 +1,17 @@
+Guidance
+
+Guidance on the characteristics of “operational” Deposits is given under Rule A10.2.15.
+
+A10.4.17 For encumbered assets not captured in the table in Rule A10.4.16, an Authorised Person must assign an RSF factor for Required Stable Funding in accordance with the following.
+
+(a)
+
+Assets encumbered for a period of between six months and less than one year that would, if unencumbered, receive an RSF factor lower than or equal to 50% must receive an RSF factor of 50%.
+
+(b) Assets encumbered for between six months and less than one year that would, if unencumbered, receive an RSF factor higher than 50% retain that higher RSF factor.
+
+(c) Where assets have less than six months remaining in the encumbrance period, those assets may receive the same RSF factor as an equivalent asset that is unencumbered.
+
+(d)
+
+For the purposes of calculating the NSFR, assets that are encumbered for exceptional central bank liquidity operations must receive the RSF factor that they would if they were unencumbered.

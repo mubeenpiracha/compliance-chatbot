@@ -1,0 +1,55 @@
+Related Party Transactions
+
+Application
+
+9.5.1 This section applies, subject to Rule 9.5.4, to:
+
+(1)
+
+a Listed Entity; and
+
+(2)
+
+a Related Party of such a Listed Entity.
+
+Definitions
+
+9.5.2
+
+In this section, unless otherwise provided:
+
+(1)
+
+a Person is a Related Party of a Listed Entity if that Person:
+
+(a)
+
+is, or was within the 12 months before the date of the Related Party Transaction:
+
+(i)
+
+a Director of the Listed Entity or a member of its Group; or
+
+(ii)
+
+a Related Party Associate of a Person referred to in (1)(a)(i);
+
+(b)
+
+owns, or has owned within 12 months before the date of the Related Party Transaction, voting Securities carrying more than 10% of the voting rights attaching to all the voting Securities of either the Listed Entity or a member of its Group; or
+
+Confidential
+
+99
+
+MKT VER09.020125
+
+(c)
+
+is a Person exercising or having the ability to exercise significant influence over the Listed Entity or a Related Party Associate of such a Person.
+
+(2)
+
+Subject to Rule 9.5.4, a transaction is a Related Party Transaction if it is a transaction:
+
+(a)

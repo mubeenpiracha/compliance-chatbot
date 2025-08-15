@@ -1,0 +1,27 @@
+Level 2A HQLA
+
+15%
+
+Level 2B HQLA - Eligible asset backed securities
+
+25%
+
+Level 2B HQLA - Other HQLA
+
+50%
+
+Non-HQLA eligible trading assets that are Investment Grade
+
+60%
+
+(5)
+
+The DFSA may vary the discounts to reflect the conditions of a particular market or institution.
+
+A9.4 The Net Stable Funding Ratio (NSFR)
+
+Guidance
+
+1.
+
+An Authorised Firm’s NSFR is the amount of Available Stable Funding (ASF) relative to the amount of Required Stable Funding (RSF). The NSFR should be at least 100% at all times (see Rule 9.3.12). The NSFR is calculated under Rule 9.3.12 using the following formula:

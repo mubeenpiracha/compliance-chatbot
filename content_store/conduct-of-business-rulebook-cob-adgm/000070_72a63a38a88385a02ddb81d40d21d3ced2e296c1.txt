@@ -1,0 +1,15 @@
+Guidance
+
+1. The Green Portfolio Investment Requirement will not be considered to be breached if the Model Portfolio assets include cash or other liquid assets held temporarily pending investment or reinvestment.
+
+3.8.4 An asset is an Eligible Green Portfolio Asset if it is:
+
+(a)
+
+considered environmentally sustainable or equivalent under an Acceptable Green Taxonomy, provided that only one Acceptable Green Taxonomy is used by an ADGM Green Portfolio; or
+
+(b)
+
+included in or otherwise tracks an EU Paris Aligned Benchmark.
+
+3.8.5 The Authorised Person which acts as the Investment Manager of an ADGM Green Portfolio must keep records of the due diligence process it has undertaken to confirm that Eligible Green Portfolio Assets meet the criteria in Rule 3.8.4 at the time of acquisition and on an ongoing basis.

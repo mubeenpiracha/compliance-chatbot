@@ -1,0 +1,23 @@
+operational risks;
+
+(ii)
+
+technology risks, including ‘hacking’ related risks;
+
+(iii) market risk for each Accepted Virtual Asset; and
+
+(iv)
+
+risk of Financial Crime.
+
+Guidance
+
+GEN 3.5 contains additional requirements that apply to Authorised Persons in relation to Cyber risk management.
+
+17.6 Additional disclosure requirements
+
+17.6.1 Prior to entering into an initial Transaction for, on behalf of, or with a Client, an Authorised Person conducting a Regulated Activity in relation to Virtual Assets must disclose in a clear, fair and not misleading manner all material risks associated with (i) its products, services and activities (ii) Virtual Assets generally and (iii) the Accepted Virtual Asset that is the subject of the Transaction.
+
+115
+
+COBS VER19.290725

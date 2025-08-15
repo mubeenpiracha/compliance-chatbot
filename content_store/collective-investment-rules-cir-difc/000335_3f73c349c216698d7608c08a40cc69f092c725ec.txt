@@ -1,0 +1,17 @@
+Guidance
+
+1.
+
+An index or other benchmark referenced by an ETF is not the property of the ETF. If the index or benchmark is provided by a Related Party (for example, if it is custom made for the Fund Manager), it can give rise to conflict of interests that may pose the risk of
+
+113
+
+CIR/VER38/08-24
+
+COLLECTIVE INVESTMENT RULES (CIR)
+
+distortion of information in favour of the Fund Manager, to the possible detriment of investors in the ETF. Therefore, Rule 13.9.5 also applies the Related Party Transaction provisions in Rule 8.3.2 to an arrangement under which a Fund Manager of an ETF uses or proposes to use an index or benchmark provided by a Price Information Provider which is a Related Party.
+
+2.
+
+A Fund Manager of an ETF will also need to comply with Rule 13.9.4 in relation to a Related Party Price Information Provider which provides the index or the other benchmark it tracks.

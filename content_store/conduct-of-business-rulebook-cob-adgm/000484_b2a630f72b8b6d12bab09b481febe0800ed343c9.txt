@@ -1,0 +1,21 @@
+160
+
+COBS VER19.290725
+
+20.10.4 Where an unauthorised or incorrectly executed Third Party Transaction leads to a Payment Transaction, the Payment Transaction will be deemed to be unauthorised or incorrectly executed.
+
+20.11 Evidence on authentication and execution of Third Party Transactions
+
+20.11.1 Where a Customer:
+
+(a)
+
+denies having authorised an executed Third Party Transaction; or
+
+(b)
+
+claims that a Third Party Transaction has not been correctly executed;
+
+it is for the Third Party Provider to prove that the Third Party Transaction was authenticated, accurately recorded, processed in line with the Third Party Provider’s procedures for executing Third Party Transactions and not affected by a technical breakdown or some other deficiency in the service provided by the Third Party Provider or any third party it relies upon for the performance of operational functions.
+
+20.11.2 If a Third Party Provider alleges that a Customer acted fraudulently or failed with intent or gross negligence to take all reasonable steps to keep safe Personalized Security Credentials, the Third Party Provider must provide supporting evidence to the Customer and to the Primary Financial Institution.

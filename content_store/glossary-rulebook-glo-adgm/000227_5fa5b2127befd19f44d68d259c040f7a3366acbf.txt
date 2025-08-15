@@ -1,0 +1,15 @@
+Means an agreement whereby a Client transfers ownership of a Safe Custody Asset or Client Money (or an asset that would be a Safe Custody Asset or Client Money but for the arrangement) to an Authorised Person or a Nominee Company for the purpose of securing or otherwise covering present or future, contingent or actual obligations.
+
+Means the sum of the Variable Capital Requirements calculated in accordance with Section 3.6A of PRU for the activities undertaken by a Money Remitter or a Payment Service Provider.
+
+Means a legal person that centrally collects and maintains records of executed Derivative Contracts.
+
+Means the trading day on which the transaction was executed.
+
+Has the meaning given to it in MKT 7.8.
+
+Means information of the following kinds relating to pending orders in relation to a Financial Instrument, Accepted Virtual Asset, Accepted Spot Commodity or Related Investment:
+
+(a)
+
+that Financial Instruments, Accepted Virtual Assets, Accepted Spot Commodities of a particular kind have been or

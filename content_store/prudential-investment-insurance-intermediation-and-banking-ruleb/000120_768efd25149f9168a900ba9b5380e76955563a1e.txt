@@ -1,0 +1,23 @@
+(2)
+
+The procedures in Part 21 of FSMR apply to a decision to designate an Authorised Person as a D-SIB or to amend the designation.
+
+(3) Where the Regulator decides to designate an Authorised Person as a D-SIB or to amend the designation, the Authorised Person may refer the matter to the Appeals Panel for review.
+
+2
+
+GENERAL REQUIREMENTS
+
+Introduction
+
+Guidance
+
+This Chapter details the threshold conditions for the mandatory maintenance of a Trading Book, periodic prudential reporting requirements to the Regulator, and
+
+46
+
+PRU VER17.290725
+
+guidance on prudent valuation practices. App2 includes detailed Rules on the positions to be included in the Trading Book, the valuation of such positions, prudent valuation practices and associated issues related to the identification and treatment of Trading Book positions. App2 also specifies the Regulator's expectations with regard to the need for a documented Trading Book policy and risk management systems and controls for the Trading Book. App2 also presents in a tabulated format, detailed specifications on periodic prudential reporting requirements for different categories of Authorised Persons.
+
+2.1

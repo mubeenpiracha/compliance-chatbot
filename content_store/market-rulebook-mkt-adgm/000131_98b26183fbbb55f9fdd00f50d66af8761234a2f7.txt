@@ -1,0 +1,11 @@
+Subject to (2), an Offer of Securities remains an Exempt Offer even if the Offer falls in whole or part within more than one of the circumstances specified in Rule 4.3.1, as long as all of the Offer falls within at least one of those circumstances.
+
+(2)
+
+An Issuer must not aggregate the limits contained in Rule 4.3.1(2) and Rule 4.3.1(13) when making an Exempt Offer.
+
+4.3.4 A Person making an Exempt Offer must ensure that an exempt offer statement is included in the Exempt Offer document. An exempt offer statement must contain the following statement displayed prominently on its front page:
+
+‘This offer document is an Exempt Offer document in accordance with the Market Rulebook of the ADGM Financial Services Regulatory Authority.
+
+This Exempt Offer document is intended for distribution only to Persons of a type specified in the Market Rulebook. It must not be delivered to, or relied on by, any other Person.

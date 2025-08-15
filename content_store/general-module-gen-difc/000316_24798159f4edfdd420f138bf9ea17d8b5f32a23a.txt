@@ -1,0 +1,27 @@
+Governance
+
+(1)
+
+An Authorised Person must ensure that its Governing Body and senior management are ultimately responsible for ensuring that its Cyber
+
+96
+
+GEN/VER67/03-25
+
+5.5.5
+
+GENERAL (GEN)
+
+Risk Management Framework is followed and that Cyber Risk is managed effectively.
+
+(2) Without limiting the operation of (1), the responsibilities of an Authorised Person’s Governing Body and senior management in respect of Cyber Risk include:
+
+(a) ensuring that Cyber Risk is adequately identified, assessed and managed in accordance with the Authorised Person’s Cyber Risk Management Framework;
+
+(b) establishing and maintaining a senior management structure for the management of Cyber Risk and for ensuring compliance with the Authorised Person’s Cyber Risk Management Framework;
+
+(c) defining the Authorised Person’s Cyber Risk tolerance, which must be in line with its business objectives, strategy and overall risk tolerance; and
+
+(d) ensuring that relevant personnel have the necessary experience
+
+to manage Cyber Risk.

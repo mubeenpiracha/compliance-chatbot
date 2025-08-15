@@ -1,0 +1,25 @@
+Guidance
+
+1.
+
+An Authorised Person should record all Operational Risk events, including near misses and events which result in a positive financial outcome.
+
+188
+
+PRU VER17.290725
+
+2.
+
+These Rules complement related Rules in the GEN rules relating to risk management systems and controls. For example, GEN requires an Authorised Person to appoint an individual to advise its Governing Body and senior management as to risks.
+
+6.3.2
+
+An Authorised Person must ensure that its Operational Risk policy in Rule 6.2.1:
+
+(a)
+
+includes an approval process for all new products, activities, processes and systems; and
+
+(b)
+
+incorporates the requirement in Rule 6.3.1(a).

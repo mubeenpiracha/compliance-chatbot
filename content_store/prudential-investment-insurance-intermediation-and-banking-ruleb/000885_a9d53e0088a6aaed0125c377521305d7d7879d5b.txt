@@ -1,0 +1,19 @@
+A4.11.23 An Authorised Person must treat:
+
+(a)
+
+a written put Option as a long position in the underlying instrument valued at the strike price;
+
+(b)
+
+a written call Option as a short position in the underlying instrument valued at the strike price;
+
+(c)
+
+a purchased put Option as a short position in the underlying instrument valued at the strike price; and
+
+(d)
+
+a purchased call Option as a long position in the underlying instrument equal to the book value of the Option.
+
+A4.11.24 An Authorised Person must, for the purposes of Large Exposures, treat an Exposure to an Issuer arising from an index or basket of debt Securities or a non-broad-based equity index or basket, as a series of Exposures to the Issuers of the underlying instruments or equities in accordance with the procedures in Chapter 4.

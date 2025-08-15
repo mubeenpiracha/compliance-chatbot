@@ -1,0 +1,29 @@
+Tier 1 capital
+
+3.9.1
+
+Tier 1 capital must be calculated as the total of its Common Equity Tier 1 capital (referred to in these Rules as CET1 Capital) and its Additional Tier 1 capital (referred to in these Rules as AT1 Capital).
+
+Guidance
+
+The Tier 1 capital (referred to in these Rules as T1 Capital) of an Authorised Person refers to "going concern" capital which allows an Authorised Person to continue its activities and prevent insolvency of the Authorised Person.
+
+3.10
+
+Common Equity Tier 1 capital (CET1 Capital)
+
+3.10.1 CET1 Capital constitutes the sum of CET1 capital elements in Rule 3.10.2, subject to
+
+the adjustments, deductions and exemptions stipulated later in this Part.
+
+3.10.2 CET1 Capital consists of the sum of the following capital elements:
+
+(a)
+
+capital instruments, provided the conditions laid down in Rule 3.10.3 are fully met;
+
+(b)
+
+Share premium accounts related to the instruments referred to in (a);
+
+(c)

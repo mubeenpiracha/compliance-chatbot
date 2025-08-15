@@ -1,0 +1,13 @@
+Guidance
+
+1. The Financial Stability Board (FSB), in consultation with the Basel Committee, identifies and periodically publishes a list of global systemically important banks.
+
+2.
+
+If the DFSA is the consolidated supervisor of a Group included on the FSB list of global systemically important banks, it will designate an Authorised Firm in the Group that is a bank as a G-SIB (see Rule 1.4.1).
+
+3.
+
+If an Authorised Firm that is a bank is part of a Group included on the FSB list, but the DFSA is not the consolidated supervisor of that Group, the DFSA may designate that Authorised Firm as a G-SIB if it considers it is appropriate to do so in all the circumstances (see Rule 1.4.2). If the DFSA proposes to designate an Authorised Firm as a G-SIB where it is not the consolidated supervisor of the relevant Group, it will normally consult first with the consolidated supervisor to ensure that the supervisors are taking a co-ordinated approach.
+
+4. A G-SIB, in addition to being subject to more intensive supervision, must maintain an extra capital buffer (the HLA Capital Buffer) under section 3.9B. At the consolidated Group level, a G-SIB

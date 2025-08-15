@@ -1,0 +1,19 @@
+Guidance
+
+1.
+
+Final settlement is usually dependent on the legal environment of where the settlement occurs. Generally, in the case of certain assets, final settlement includes the transfer of title.
+
+2.
+
+Completing final settlement by the end of the value date is important because deferring final settlement to the next-business day can create both credit and liquidity pressures for a Clearing House’s Members and other participants on its facilities and stakeholders. This may also be a potential source of systemic risk. Therefore, where possible, a Clearing House should provide intra-day or real-time settlement finality to reduce settlement risk.
+
+81
+
+AMI/VER28/03-25
+
+7.3
+
+7.3.1
+
+AUTHORISED MARKET INSTITUTIONS (AMI)

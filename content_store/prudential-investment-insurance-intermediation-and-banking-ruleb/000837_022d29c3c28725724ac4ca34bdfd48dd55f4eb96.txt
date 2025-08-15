@@ -1,0 +1,13 @@
+(b)
+
+the Authorised Person has conducted sufficient legal review (and undertaken such further review as necessary to ensure continuing enforceability) that concludes that, in the event of legal challenge, the relevant courts and administrative authorities would find that the Authorised Person would bear no losses on account of the insolvency of its clearing member or of any of its clearing member's clients under the relevant laws of the relevant jurisdiction(s); and
+
+(c)
+
+laws, regulations, rules, contractual or administrative arrangements applicable to or binding the Authorised Person or the QCCP facilitate the transfer of the Authorised Person's position relating to that contract and transaction and of the corresponding collateral to another clearing member within the applicable margin period of risk in the event of default or insolvency of the original clearing member. In such a circumstance, the Authorised
+
+304
+
+PRU VER17.290725
+
+Person's position and the collateral must be transferred at market value unless the client requests to close out the position at market value.

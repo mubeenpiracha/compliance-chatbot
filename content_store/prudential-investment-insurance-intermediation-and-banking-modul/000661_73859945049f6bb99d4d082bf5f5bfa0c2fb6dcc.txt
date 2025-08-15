@@ -1,0 +1,17 @@
+Guidance
+
+1.
+
+An Authorised Firm, in measuring its Liquidity Risk under Rule 9.2.5(1)(a), should ensure that:
+
+(a) the variety of time horizons cover changes in liquidity needs and funding capacity on an
+
+intra-day, daily, short-term, medium-term and long–term basis;
+
+(b) it considers the vulnerabilities of cash flows to events, activities and business strategies;
+
+(c) its dynamic cash flow forecasts are carried out at a sufficiently detailed level and include assumptions on the actions of key counterparties in response to changes in operating conditions;
+
+(d) cash flows in all significant foreign currencies are measured on an aggregate basis, as well as at the individual currency level, taking into account stressed conditions affecting foreign exchange markets;
+
+(e) it captures the impact of providing correspondent, custody and settlement activities on cash

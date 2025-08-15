@@ -1,0 +1,17 @@
+Requirement by:
+
+(a)
+
+applying its internally developed Market Risk model which has been approved by the DFSA for this purpose; or
+
+(b)
+
+applying the Rules in section A5.8.
+
+5.10A Credit Valuation Adjustment Risk Capital Requirement
+
+5.10A.1 An Authorised Firm in Category 1, 2 (other than a Matched Principal) or 5 must calculate its Credit Valuation Adjustment Risk Capital Requirement in respect of Trading Book and Non-Trading Book transactions by applying the Rules set out in section A5.10.
+
+5.11 Use of internal Market Risk models
+
+5.11.1 An Authorised Firm in Category 1, 2 (other than a Matched Principal) or 5 may use an internal model to calculate its Market Risk Capital Requirement or any components of its Market Risk Capital Requirement, if its internal model and its use have been approved in writing by the DFSA.

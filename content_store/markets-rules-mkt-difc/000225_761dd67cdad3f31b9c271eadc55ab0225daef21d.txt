@@ -1,0 +1,25 @@
+(3) The DFSA may:
+
+(a) specify the period during which disclosure of the information included in
+
+the confidential report need not be disclosed to the markets; and
+
+(b) extend the period referred to in (a) upon application by the Reporting
+
+Entity.
+
+(4) Where a confidential report is filed with the DFSA under (2), the Reporting Entity need not comply with the requirements in Rule 6.5.1 during the period permitted by the DFSA pursuant to (3), unless or until one of the following occurs:
+
+(a)
+
+the DFSA directs the Reporting Entity to comply with Rule 6.5.1;
+
+(b)
+
+the Reporting Entity becomes aware that there is a material change of circumstances that renders the reason for non-disclosure of the information no longer valid; or
+
+(c)
+
+the Reporting Entity becomes aware or has reasonable grounds to suspect that the relevant Inside Information has or may have come to the knowledge of any Person or Persons other than by way of selective disclosure made pursuant to Rule 6.5.3(4).
+
+(5) The procedures in Schedule 3 to the Regulatory Law apply to a decision of the

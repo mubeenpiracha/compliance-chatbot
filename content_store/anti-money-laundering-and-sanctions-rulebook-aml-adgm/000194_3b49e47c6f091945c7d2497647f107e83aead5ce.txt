@@ -1,0 +1,27 @@
+(i)
+
+has undertaken CDD (including ongoing CDD) at least equivalent to that in Rule 8.3.1 in respect of each customer; and
+
+(ii)
+
+is able to provide the relevant CDD information in (i) to the Authorised Person upon request; and
+
+(h)
+
+document the basis for its satisfaction that the requirements in (a) to (g) are met.
+
+Confidential
+
+69
+
+AML VER10.020125
+
+10.2.2 An Authorised Person must:
+
+(a)
+
+not enter into a correspondent banking relationship with a Shell Bank; and
+
+(b)
+
+take appropriate measures to ensure that it does not enter into, or continue a corresponding banking relationship with, a bank which is known to permit its accounts to be used by Shell Banks.

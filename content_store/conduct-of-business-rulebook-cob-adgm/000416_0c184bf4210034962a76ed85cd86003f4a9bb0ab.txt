@@ -1,0 +1,25 @@
+A Payment Service Provider which issues Stored Value must not award:
+
+(a)
+
+interest in respect of the holding of Stored Value; or
+
+(b)
+
+any other benefit, monetary or otherwise, related to the length of time during which an Payment Service User holds Stored Value.
+
+(8)
+
+For the purposes of this Rule, a Framework Contract between a Payment Service Provider and a Payment Service User terminates when the right to use Stored Value for the purpose of making Payment Transactions ceases.
+
+19.16 Authentication
+
+19.16.1 (1)
+
+A Payment Service Provider must employ Strong Customer Authentication where a Payment Service User:
+
+(a)
+
+accesses its Payment Account online, whether directly or through an Account Information Service Provider;
+
+(b)

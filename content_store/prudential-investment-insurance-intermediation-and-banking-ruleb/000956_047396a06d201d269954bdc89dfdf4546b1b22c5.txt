@@ -1,0 +1,9 @@
+(ii)
+
+where the payout is the appreciation in price of the underlying equities, an Option, in which case the Authorised Person must calculate an Option Risk Capital Requirement in accordance with Section 5.8.
+
+Equity Futures and forwards
+
+A6.3.13 An Authorised Person must treat a Future or forward on a single equity as a notional position in the underlying equity. In addition, an interest rate leg must be included in the interest rate risk calculation in Section 5.4 as a notional government security.
+
+A6.3.14 An Authorised Person must treat a Future or forward on a single country equity index

@@ -1,0 +1,19 @@
+Timing of Customer Due Diligence
+
+8.2.1
+
+(1)
+
+For a Relevant Person that is an Authorised Person or Recognised Body:
+
+(a)
+
+the appropriate CDD obligations, subject to (1)(b), must be fulfilled before the Relevant Person undertakes any Transaction on behalf of the customer or when undertaking an occasional transaction under 8.1.1(1)(b).
+
+(b)
+
+the Relevant Person does not have to fulfil the verification of the identity of a customer and Beneficial Owners obligations under the AML Rules before undertaking a Transaction for a customer or occasional transaction where it has, on reasonable grounds, established that:
+
+(i)
+
+there is little risk of money laundering and that risk is effectively managed; and

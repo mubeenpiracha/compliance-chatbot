@@ -1,0 +1,5 @@
+CET1 Deductions - investments in CET1 Capital instruments of Relevant Entities
+
+3.10.14 For the purposes of Rule 3.10.7(f), (g) and (h), the amount of holdings of CET1 Capital instruments and other capital instruments of Relevant Entities to be deducted, must be calculated, subject to Rule 3.10.15, on the basis of the gross long positions.
+
+3.10.15 For the purposes of Rule 3.10.7(g) and (h), an Authorised Person must make the

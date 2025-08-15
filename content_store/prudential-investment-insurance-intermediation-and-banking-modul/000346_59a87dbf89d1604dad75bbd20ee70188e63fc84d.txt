@@ -1,0 +1,29 @@
+Risk Weight
+
+20%
+
+20%
+
+20%
+
+50%
+
+50%
+
+150%
+
+4.12.8 (1) An Authorised Firm must risk-weight any Exposure to a bank for which a short- term external credit assessment by a recognised external credit rating agency is available in accordance with the following table:
+
+Short-Term Credit Quality Grade Risk Weight
+
+I
+
+20%
+
+II
+
+50%
+
+III
+
+100%

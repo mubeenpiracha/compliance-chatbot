@@ -1,0 +1,29 @@
+Guidance
+
+For the purposes of IFR 5.2.4, the policy and procedures manual should include procedures to ensure that the Authorised Person manages the accounts of PSIA holders in accordance with their instructions.
+
+5.3
+
+Funds of PSIA holders
+
+5.3.1 Unless clearly expressed in the contract between an Authorised Person and a PSIA holder, the Authorised Person may not use funds provided by a PSIA holder to fund its own corporate activities.
+
+5.4
+
+Prudential requirements
+
+Application and Interpretation
+
+5.4.1
+
+(a)
+
+This chapter applies when calculating Credit Risk or Market Risk in respect of Islamic Contracts invested in or held by an Authorised Person Managing a PSIA, which is an Unrestricted PSIA.
+
+(b)
+
+In Rule 5.4.1(a), the Islamic Contracts referred to are contracts which are funded by amounts invested in the relevant Unrestricted PSIA.
+
+(c)
+
+In this chapter, the term "investing in or holding Islamic Contracts" means investing in or holding as principal.

@@ -1,0 +1,21 @@
+Rules Applicable to OTF Operators
+
+8.6.1 An OTF Operator may:
+
+(a)
+
+operate an OTF for Derivatives, Debentures, Structured Products, Environmental Instruments, and other investments as specified by the Regulator; and
+
+(b)
+
+engage in Dealing as Matched Principal trading in the investments referred to in (a) only where the Client has, or all its Clients have, consented to the process.
+
+8.6.2 An OTF Operator must not use matched principal trading to execute Client orders in an OTF in Derivatives pertaining to a class of derivatives that has been declared subject to the Clearing obligation in accordance with the Regulations.
+
+61
+
+COBS VER19.290725
+
+8.6.3 OTF Operators may engage in dealing on own account other than matched principal trading only with regard to sovereign debt instruments for which there is not a liquid market.
+
+8.6.4 OTF Operators may engage another Authorised Person to carry out market making on that OTF on an independent basis, provided that such other Authorised Person does not have Close Links with the OTF Operator.

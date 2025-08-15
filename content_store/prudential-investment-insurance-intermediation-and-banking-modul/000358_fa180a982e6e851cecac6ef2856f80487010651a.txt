@@ -1,0 +1,41 @@
+ii.
+
+assign the same risk weight as that applied by the specific short-term assessment to all unrated short-term claims.
+
+114
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+Exposures to corporates
+
+4.12.11 Subject to Rules 4.12.12, 4.12.13 and 4.12.18, an Authorised Firm must risk-weight any Exposure to a corporate for which an external credit assessment by a recognised external credit rating agency is available in accordance with the following table:
+
+Credit Quality Grade Risk Weight
+
+1
+
+20%
+
+2
+
+50%
+
+3
+
+75%
+
+4
+
+100%
+
+5
+
+150%
+
+6
+
+150%
+
+4.12.12 (1) An Authorised Firm must risk-weight any Exposure to a corporate for which a short-term external credit assessment by a recognised external credit rating agency is available in accordance with the following table:

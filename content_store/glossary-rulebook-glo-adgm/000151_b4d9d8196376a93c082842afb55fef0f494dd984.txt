@@ -1,0 +1,23 @@
+a leveraged contract for differences;
+
+(b)
+
+a leveraged rolling spot forex contract;
+
+(c)
+
+an Option over a contract referred to in (a) or (b); or
+
+(d)
+
+any other leveraged Investment similar in nature to an instrument referred to in (a), (b) or (c) but which is not prohibited pursuant to COBS 23.12.1.
+
+57
+
+GLO VER23.290725
+
+Defined Terms
+
+Definitions
+
+Outsourcing Agreement Means an agreement in writing entered into by a Fund Manager or Trustee with a Service Provider in relation to outsourced functions, which fulfils the criteria in FUNDS App 1.

@@ -1,0 +1,5 @@
+An exception to paragraph 1 is the situation where, if the Collateral obtained through reverse repo, Securities borrowing or Collateral swaps, which matures within the 30-day period, is re-used (i.e. rehypothecated) and is tied up for 30 days or longer to cover short positions. An Authorised Person should then assume that such reverse repo or Securities borrowing arrangements will be rolled over and will not give rise to any cash inflows (zero %), reflecting its need to continue to cover the short position or to repurchase the relevant Securities.
+
+3.
+
+An Authorised Person should manage its Collateral so that it is able to fulfil obligations to return Collateral whenever the Counterparty decides not to roll- over any reverse repo or Securities lending transaction. This is especially the case for non-HQLA Collateral, since such outflows are not captured in the LCR framework.

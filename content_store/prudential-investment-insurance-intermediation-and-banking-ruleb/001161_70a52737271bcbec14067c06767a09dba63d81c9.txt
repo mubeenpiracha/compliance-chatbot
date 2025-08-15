@@ -1,0 +1,29 @@
+(b) multiplying the Carrying Value of each asset by the RSF factor associated with
+
+that asset category; and
+
+(c)
+
+summing those weighted values.
+
+RSF factor
+
+RSF asset category
+
+coins and banknotes immediately available to meet obligations
+
+all central bank reserves (including required reserves and excess reserves)
+
+all claims on central banks with residual maturities of less than six months
+
+0%
+
+“trade date” receivables arising from sales of financial instruments, foreign currencies and commodities that: o are expected to settle within the standard settlement cycle or period that
+
+is customary for the relevant exchange or type of transaction; or
+
+o have failed to, but are still expected to, settle
+
+425
+
+PRU VER17.290725

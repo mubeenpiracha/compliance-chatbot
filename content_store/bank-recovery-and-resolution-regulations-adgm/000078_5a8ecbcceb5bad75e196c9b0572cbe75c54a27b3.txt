@@ -1,0 +1,23 @@
+it is failing, or is likely to fail, to satisfy the Threshold Conditions in a way that would justify the cancellation by the Regulator under section 33 of the Financial Services and Markets Regulations 2015 of the Investment Firm's Financial Services Permission to carry out one or more Regulated Activities;
+
+(b)
+
+the value of the assets of the Investment Firm determined in accordance with the Pre- Resolution Valuation is less than the value of its liabilities as so determined;
+
+(c)
+
+the Investment Firm is unable to pay its debts or other liabilities as they fall due; or
+
+(d)
+
+one or more of subsections (a) to (c) will, in the near future, apply to the Investment Firm.
+
+A Recognised Clearing House shall be deemed to be failing or likely to fail in one or more of the following circumstances—
+
+(a)
+
+it is failing, or is likely to fail, to—
+
+(i)
+
+maintain the continuity of any Critical Clearing Services it provides; or

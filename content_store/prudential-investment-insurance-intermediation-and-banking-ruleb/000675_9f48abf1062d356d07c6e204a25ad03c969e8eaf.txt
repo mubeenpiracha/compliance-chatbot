@@ -1,0 +1,31 @@
+Risk management systems and controls for Trading Book
+
+A2.3.1
+
+An Authorised Person must establish and maintain effective systems and controls to manage its Trading Book.
+
+A2.3.2
+
+An Authorised Person must establish and maintain systems and controls sufficient to provide prudent and reliable valuation estimates. These systems and controls must include:
+
+246
+
+PRU VER17.290725
+
+(a)
+
+documented policies and procedures for the process of valuation (including clearly defined responsibilities of the various areas in the determination of the valuation, sources of market information and review of their appropriateness, frequency of independent valuation, timing of closing prices, procedures for adjusting valuations, month end and ad-hoc verification procedures); and
+
+involved
+
+(b)
+
+reporting lines for the department accountable for the valuation process that are clear and independent of the front office.
+
+A2.4
+
+Reporting to the Regulator
+
+A2.4.1
+
+The forms to be used by Authorised Persons for the purpose of reporting under these Rules are set out in EPRS.

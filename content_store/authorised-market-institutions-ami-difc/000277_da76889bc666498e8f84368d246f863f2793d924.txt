@@ -1,0 +1,7 @@
+An effective margining system is a key risk-management tool for an Authorised Market Institution operating as a CCP to manage the credit exposures posed by open positions of its Members or other participants using its facilities. Therefore, it should adopt and implement an effective margin system, which is risk-based and regularly reviewed, in order to cover its credit exposures to its Members and other participants in respect of all Investments and other products.
+
+6.
+
+In calculating margin requirements, a CCP may allow offsets or reductions in required margin across products that it clears or between products that it and another CCP clear, if the risk of one product is significantly and reliably correlated with the risk of the other product. Where two or more CCPs are authorised to offer cross-margining, they must have appropriate safeguards and harmonised overall risk-management systems.
+
+7.

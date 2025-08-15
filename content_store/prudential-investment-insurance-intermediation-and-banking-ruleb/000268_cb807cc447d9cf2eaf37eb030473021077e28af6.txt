@@ -1,0 +1,27 @@
+PART 5 - Leverage
+
+3.21
+
+The Leverage Ratio
+
+3.21.1
+
+This Section applies to an Authorised Person in Category 1, 2 or 5.
+
+Guidance
+
+1.
+
+This Section is relevant to an Authorised Person that is required to report its Leverage Ratio to the Regulator under Chapter 2, or to disclose its Leverage Ratio under Chapter 11.
+
+2.
+
+The purpose of the Leverage Ratio is to provide a simple, transparent, non-risk- based methodology to act as a supplementary measure of risk, alongside the risk-based capital requirements applicable in ADGM.
+
+3.
+
+"Leverage", in this context, means the relative size of (a) an institution's assets, off-balance sheet obligations and contingent obligations to pay or to deliver or to provide collateral, including obligations from received funding, made commitments, derivatives or repurchase agreements, but excluding obligations which can only be enforced during the liquidation of an institution; compared to (b) that institution's own funds.
+
+3.21.2
+
+An Authorised Person must calculate its Leverage Ratio in accordance with the following methodology:

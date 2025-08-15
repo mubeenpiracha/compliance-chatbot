@@ -1,0 +1,9 @@
+A7.2.10 Revocation of a Payment Order
+
+An Authorised Firm must allow the User to revoke a Payment Order once received by the Authorised Firm if it relates to a future transaction to be executed at least one business day after the order is received.
+
+A7.2.11
+
+Amounts transferred and amounts received
+
+An Authorised Firm acting for a payer or a payee must ensure that the full amount of a Payment Transaction is transferred and received and that no charges are deducted from the amount transferred unless such charges are agreed with the payer and payee (as applicable).

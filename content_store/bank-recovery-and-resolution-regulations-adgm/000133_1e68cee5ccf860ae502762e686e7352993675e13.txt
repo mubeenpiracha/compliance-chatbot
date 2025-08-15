@@ -1,0 +1,11 @@
+to enable the Institution to continue, for at least one year, to satisfy the Threshold Conditions or Recognition Requirements and to carry on the activities or services acquired by the virtue of that transfer under the Financial Services and Markets Regulations 2015.
+
+Where capital has been written down in accordance with the Write Down or Conversion Power under section 64, the Bail-in Tool has been applied, and the level of write down based on the Pre-Resolution Valuation is found to exceed requirements when assessed against the Definitive Valuation, a write up mechanism shall be applied to reimburse creditors and then Shareholders to the extent necessary.
+
+Treatment of Shareholders in bail-in or write down or conversion
+
+When applying the Bail-in Tool or the Write Down or Conversion Power, the Regulator shall take, in respect of Shareholders of the Institution in Resolution, one or both of the following actions—
+
+(a)
+
+cancel existing Shares or transfer them to bailed-in creditors; and

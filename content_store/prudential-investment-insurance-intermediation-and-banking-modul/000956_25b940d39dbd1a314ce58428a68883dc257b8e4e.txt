@@ -1,0 +1,7 @@
+A4.11.6 (1)
+
+A single group of Closely Related Counterparties means, in relation to an Authorised Firm, all the Persons to which the Authorised Firm has an Exposure and which are Closely Related to each other.
+
+(2)
+
+An Authorised Firm must treat two or more Persons as falling within a group of Closely Related Counterparties if the Authorised Firm has Exposures to them all and any loss to the Authorised Firm on any of the Exposures to one is likely to be associated with a loss to the Authorised Firm with respect to at least one Exposure to each of the others.

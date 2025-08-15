@@ -1,0 +1,35 @@
+Total Credit Risk RWA;
+
+(ii)
+
+Amount of Credit RWA for each asset class giving rise to CR Exposures and Counterparty Risk Exposures, and for SE Exposures; and
+
+(iii)
+
+Amount of Credit RWAs for Early Amortisation Exposures, included in SE Exposures, if any.
+
+(c) Market Risk Capital Requirement for each component of Market Risk as listed in Rule 5.1.1, calculated using:
+
+(i)
+
+Rules prescribed in Chapter 5;
+
+(ii)
+
+Internal Models Approach;
+
+(iii)
+
+both (i) and (ii).
+
+438
+
+PRU VER17.290725
+
+Quantitative Disclosures
+
+(d) Operational Risk Capital Requirement calculated under the
+
+following approaches, where applicable:
+
+(i)

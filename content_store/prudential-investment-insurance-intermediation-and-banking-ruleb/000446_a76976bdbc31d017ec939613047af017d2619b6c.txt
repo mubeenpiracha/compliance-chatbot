@@ -1,0 +1,29 @@
+For the purposes of Rule 4.14.42, an Authorised Person may treat an Exposure as an eligible liquidity facility provided the following requirements are met:
+
+(a)
+
+the liquidity facility documentation must clearly identify and limit the circumstances under which it may be drawn;
+
+(b)
+
+draws must be limited to the amount that is likely to be repaid from the liquidation of the underlying Exposures and any seller provided Credit Enhancements;
+
+(c)
+
+the facility must not provide credit support by covering for any losses incurred in the underlying pool of Exposures prior to drawdown;
+
+(d)
+
+the facility must not be structured to provide regular or permanent funding;
+
+(e)
+
+the facility must be subject to an asset quality test to preclude it being used to cover Credit Risk Exposures that are in default;
+
+(f)
+
+where the facility is used to fund externally rated Securities the facility can only be used to fund Securities that are externally rated Investment Grade at the time of funding;
+
+(g)
+
+the facility cannot be drawn after all Credit Enhancements from which the liquidity facility would benefit have been exhausted; and

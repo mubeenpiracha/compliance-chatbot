@@ -1,0 +1,13 @@
+13.2 DFSA Consent Required
+
+13.2.1 A potential Bidder must obtain the DFSA’s prior consent for any partial Bid.
+
+Guidance
+
+1.
+
+Consent will normally be granted under Rule 13.2.1 where a Bid could not result in the Bidder holding Shares carrying 30% or more of the voting rights of a Target.
+
+2.
+
+In the case of a Bid which could result in the Bidder holding Shares carrying 30% or more but less than 100% of the voting rights of a Target, such consent will not normally be granted if the Bidder or Persons acting in concert with it have acquired, selectively or in significant numbers, Shares in the Target during the 12 months preceding the application for consent or if Shares have been purchased at any time after the partial Bid was reasonably in contemplation.

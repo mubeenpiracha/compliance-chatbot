@@ -1,0 +1,21 @@
+Margin requirements
+
+(1) Without limiting the generality of Rule 7.3.1, a Clearing House operating as a CCP must, for the purposes of managing its credit and market risk:
+
+(a)
+
+have a margin system which meets the requirements in (2) and (3);
+
+(b)
+
+mark participant positions to market and collect variation margin at least daily to limit the build-up of current exposures;
+
+(c)
+
+have necessary authority and operational capacity to make intra- day margin calls and payments, both scheduled and unscheduled, to participants; and
+
+(d)
+
+regularly review and validate its margin system to ensure that it operates effectively and as intended.
+
+(2)

@@ -1,0 +1,45 @@
+Requirements
+
+Category 1
+
+Category 2
+
+Whole Chapter
+
+Only Sections 8.1, 8.2 and 8.5
+
+Whole Chapter, except Rule 9.2.2(3), 9.3.12 and 9.3.13
+
+Only Rule 9.2.2 (3)
+
+Category 3A
+
+6
+
+Category 3B
+
+Category 3C
+
+Only Sections 8.1 and 8.5
+
+Category 4
+
+Category 5
+
+Only Sections 8.1, 8.2 and 8.5
+
+Whole Chapter, except Rule 9.2.2(3) , 9.3.12 and 9.3.13
+
+PRU VER17.290725
+
+1.2
+
+1.2.1
+
+Glossary
+
+The following terms and abbreviations bear the following meanings for the purpose of these Rules.
+
+Accepting Deposits
+
+Means the Regulated Activity specified in paragraph 38 of

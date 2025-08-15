@@ -1,0 +1,21 @@
+(d)
+
+applying the formula in Rule 5.4.7(2) to determine the PSIACOMcredit in respect of each contract; and
+
+(e)
+
+summing the PSIACOMcredit of each contract to determine the PSIACOMcredit applicable to the Authorised Firm.
+
+Guidance
+
+1.
+
+The DFSA considers that this Guidance will assist an Authorised Firm in applying the appropriate risk weighting or capital charge to each Islamic Contract for the purpose of Rule 5.4.7. Accordingly, the DFSA expects an Authorised Firm managing PSIAs, which are Unrestricted PSIAs to pay due regard to this Guidance.
+
+2.
+
+The Rules in this section and this Guidance are also relevant to an Authorised Firm which invests in or holds Islamic Contracts, when calculating CRCOM for Islamic Contracts under PIB chapter 4.
+
+3.
+
+Table 2 contains Guidance on how an Authorised Firm Managing a PSIA, which is an Unrestricted PSIA should apply risk weightings for Islamic Contracts in respect of calculating relevant E and CRW for its PSIACOMcredit component of the PSIACOM.

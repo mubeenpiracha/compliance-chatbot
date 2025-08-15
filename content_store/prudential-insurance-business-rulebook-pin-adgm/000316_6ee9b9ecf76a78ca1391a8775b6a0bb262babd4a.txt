@@ -1,0 +1,11 @@
+A6.4.3 Notwithstanding anything else in this section:
+
+(a)
+
+the default risk component in respect of any asset that is subject to a fixed or floating charge, mortgage or other encumbrance must be 100% of the value of the asset to the extent of that charge, mortgage or encumbrance. In the case of such assets, the percentages set out in the tables referred to above must be applied only to the amount, if any, by which the value of the asset exceeds the amount of the charge, mortgage or encumbrance; and
+
+(b)
+
+no default risk component must be calculated in respect of assets excluded from Adjusted Cellular Capital Resources or Adjusted Non-Cellular Capital Resources in accordance with Rules A5.4.3(e), A5.4.3(f), A5.4.3(i), A5.4.3(j), A5.8.3(e), A5.8.3(f), A5.8.3(g), A5.8.3(h), A5.8.3(j) or A5.8.3(k).
+
+A6.5

@@ -1,0 +1,31 @@
+197
+
+PRU VER17.290725
+
+cover does not meet the requirements specified under this Section, the Authorised Person will be required to obtain PII cover that meets those requirements.
+
+6.12A
+
+Professional indemnity insurance for Third Party Providers
+
+Minimum Coverage for Third Party Providers
+
+6.12A.1 A Third Party Provider must maintain at all times a minimum professional indemnity
+
+insurance coverage of US$150,000.
+
+Transaction Limits
+
+6.12A.2 A Third Party Provider must ensure that its remaining professional indemnity insurance coverage is always greater than thirty times the average daily value of all Third Party Transactions in the past ninety calendar days.
+
+6.12A.3 The value of a Third Party Transaction must be calculated as:
+
+(a)
+
+where the Third Party Transaction leads to a Payment Transaction, the value of the Payment Transaction; or
+
+(b)
+
+US$0.10.
+
+6.12A.4 A Third Party Provider must calculate the value of its remaining professional indemnity insurance coverage by subtracting the value of any unsettled claims made against its professional indemnity insurance from the total value of its professional indemnity insurance coverage.

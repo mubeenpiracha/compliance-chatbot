@@ -1,0 +1,15 @@
+Lines of credit
+
+4.
+
+Lines of credit, liquidity facilities and other contingent funding facilities that an Authorised Firm holds at other institutions for its own purposes should be assumed to be able to be drawn and so such facilities should receive a zero % inflow rate.
+
+Inflows by counterparty
+
+5.
+
+All inflows should be taken only at the latest possible date, based on the contractual rights available to counterparties. Inflows from loans that have no specific maturity should not be included, with the exception of minimum payments of principal, fee or interest associated with an open maturity loan.
+
+6.
+
+Operational deposits: a zero % inflow rate should apply to deposits held at other financial institutions for operational purposes.

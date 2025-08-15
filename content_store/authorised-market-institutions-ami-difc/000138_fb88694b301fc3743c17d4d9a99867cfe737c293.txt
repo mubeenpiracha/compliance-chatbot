@@ -1,0 +1,11 @@
+c.
+
+the degree of monitoring the Authorised Market Institution would be undertaking relating to custodians, and if relevant, sub-custodians.
+
+2.
+
+At the point of granting a Licence to an Authorised Market Institution, the DFSA assesses the adequacy of an applicant’s safe custody arrangements. Any subsequent changes to the safe custody arrangements that have been in place at the time of granting the Licence, where they are material changes, would require the DFSA’s prior approval in accordance with the requirements in Rule 4.3.2.
+
+3.
+
+In addition to meeting the requirements in Rule 5.10.1, safe custody arrangements for Investment Tokens or Crypto Tokens must also meet the requirements in section 5A.4 or 5B.5.

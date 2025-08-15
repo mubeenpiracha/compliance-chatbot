@@ -1,0 +1,29 @@
+15.6.10 An Authorised Firm must:
+
+(a)
+
+not provide a Credit Facility to a Retail Client in connection with trading in Crypto Token Derivatives; and
+
+(b)
+
+take reasonable steps to ensure that a Retail Client does not use a credit card or third party credit facility to pay a Margin relating to a Crypto Token Derivative.
+
+15.7 Technology and Governance Requirements
+
+15.7.1 This section applies to an Authorised Firm that uses DLT or similar technology to
+
+provide any of the following services:
+
+(a)
+
+Operate a MTF for Crypto Tokens;
+
+(b)
+
+hold or control Client Crypto Tokens; or
+
+(c)
+
+carry on any other Financial Service relating to Crypto Tokens.
+
+15.7.2 Without limiting the generality of the requirements in section 9.5 or elsewhere in

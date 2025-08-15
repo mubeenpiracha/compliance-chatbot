@@ -1,0 +1,25 @@
+Application for ADGM Green Bond Designation and ADGM Sustainability-Linked Bond Designation
+
+4.15.7 A Security should not be promoted as an ADGM Green Debenture or an ADGM Sustainability-Linked Debenture by any Person unless the Issuer has applied for and been granted an ADGM Green Bond Designation or ADGM Sustainability-Linked Bond Designation, as applicable, for the Security from the Regulator.
+
+4.15.8 The application must be in such form as the Regulator may prescribe and must be
+
+accompanied by:
+
+(1)
+
+information on the Qualifying Green Debenture Principles or Qualifying Sustainability-Linked Principles which the Issuer intends the Security to comply with;
+
+(2)
+
+certification by the Issuer to the effect that the Security aligns with the requirements of the Qualifying Green Debenture Principles or Qualifying Sustainability-Linked Debenture Principles identified in (1);
+
+Confidential
+
+61
+
+MKT VER09.020125
+
+(3)
+
+information on the external review provider appointed to provide the pre-issuance external review; and

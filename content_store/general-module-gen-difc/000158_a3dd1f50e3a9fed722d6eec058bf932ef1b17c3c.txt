@@ -1,0 +1,7 @@
+Exclusions
+
+2.29.2 A Person does not carry on the activity referred to in Rule 2.29.1 if the Person who carries on those activities is itself the sole lender or the sole investor on the electronic platform.
+
+Guidance
+
+The activity in Rule 2.29.1 does not cover an electronic platform where the operator itself is the sole lender providing the loans e.g. if it is a credit provider and provides an electronic facility for use by its clients. Similarly, it does not apply to a platform where the operator is the sole investor. However, if the operator itself lends or invests, it is likely to be carrying on the Financial Service of Providing Credit or Dealing in Investments as Principal, and will require a separate authorisation for that activity.

@@ -1,0 +1,13 @@
+“Start Date” means the period of time between the calculation date (today) and the start date of the time period referenced by transaction ‘i’, measured in years; if a transaction references the value of another interest rate or credit transaction, such as a swaption or a bond option, the period must be determined on the basis of the underlying transaction; if the start date has already occurred, then the time period must be set to zero;
+
+(i)
+
+“Unmargined Netting Set” means a Netting Set that is not a Margined Netting Set, including Netting Sets covered by a one-way Margin Agreement, where the Authorised Firm posts, but does not collect Variation Margin;
+
+(j)
+
+“Volatility Transaction” has the meaning given in Rule A4.8.5(2)(b); and
+
+(k)
+
+“Variation Margin” means Collateral that is collected or posted to reflect the current Exposure resulting from changes in the mark-to-market value of a transaction.

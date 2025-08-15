@@ -1,0 +1,19 @@
+Guidance
+
+1.
+
+The Regulator expects encryption techniques to be used to protect the confidentiality and integrity of sensitive information. In particular, encryption techniques should be used where such information is stored on workstation memory drives, external drives such as USB pen drives, external hard discs, mobile phones, tablets and other electronic equipment used to store or process critical and sensitive information.
+
+2.
+
+Appropriate measures should also be taken when exchanging sensitive information. These encryption measures could include sending information through encrypted channels or encrypting the information using strong encryption with an adequate key length.
+
+(1)
+
+An Authorised Person must limit physical access to its data centres and server rooms, if any, to individuals who have a legitimate business need.
+
+(2)
+
+For the purposes of (1), the Authorised Person must establish a process for:
+
+(a)

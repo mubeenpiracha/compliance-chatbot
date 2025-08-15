@@ -1,0 +1,23 @@
+Systems and controls
+
+54
+
+CIR/VER38/08-24
+
+8.12.6
+
+8.12.7
+
+8.13
+
+8.13.1
+
+8.13.2
+
+COLLECTIVE INVESTMENT RULES (CIR)
+
+If a Fund Manager or Trustee delegates any activity or outsources any function under this section, it must take reasonable steps to ensure that it implements and maintains systems and controls to monitor the Service Provider.
+
+Guidance
+
+This Rule supplements the requirements under GEN section 5.3.

@@ -1,0 +1,45 @@
+Cash Outflows
+
+Item
+
+Factor
+
+Non-financial corporates, sovereigns, central banks, multilateral development banks and PSEs:
+
+40%
+
+If the entire amount is fully covered by a deposit protection scheme 20%
+
+Other legal entity customers
+
+100%
+
+C. Secured Funding:
+
+Secured funding transactions with a central bank counterparty or
+
+backed by Level 1 HQLA with any counterparty
+
+0%
+
+Secured funding transactions backed by Level 2A HQLA, with any
+
+counterparty
+
+15%
+
+Secured funding transactions backed by non-Level 1 HQLA or non- Level 2A HQLA, with domestic sovereigns, multilateral development banks, or domestic PSEs as a counterparty
+
+25%
+
+Backed by RMBS eligible for inclusion in Level 2B HQLA
+
+25%
+
+Backed by other Level 2B HQLA
+
+50%
+
+All other secured funding transactions
+
+100%

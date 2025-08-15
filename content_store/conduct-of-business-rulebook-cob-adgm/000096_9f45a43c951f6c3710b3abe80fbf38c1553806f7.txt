@@ -1,0 +1,21 @@
+In the event of:
+
+(i)
+
+the appointment of a provisional liquidator, liquidator, receiver or administrator, or trustee in bankruptcy over a Bank which is an Abu Dhabi Global Market Firm; or
+
+(ii)
+
+a direction by the Regulator to a Bank which is an Abu Dhabi Global Market Firm to deal with all or substantially all its Deposits in a specified manner,
+
+30
+
+COBS VER19.290725
+
+eligible depositors of the Bank have priority over, and must be paid in priority to, all other unsecured creditors of the Bank.
+
+(b)
+
+In Rule 4.4.1(a), an "eligible depositor" means a Person (other than a Professional Client which is Market Counterparty or a Bank) who, at the relevant time, is a creditor of a Bank referred to in Rule 4.4.1(a) by virtue of being owed an amount of Money held by the Bank as a Deposit.
+
+5.

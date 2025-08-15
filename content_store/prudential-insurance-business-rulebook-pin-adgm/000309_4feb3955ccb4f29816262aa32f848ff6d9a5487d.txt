@@ -1,0 +1,33 @@
+where:
+
+Term
+
+Definition
+
+MSCR
+
+Insurer's Minimum Segmental Capital Requirement;
+
+DRC
+
+Insurer's default risk component in respect of that segment;
+
+IVRC
+
+Insurer's investment volatility risk component in respect of that segment;
+
+OARC
+
+Insurer's off-balance sheet asset risk component in respect of that segment;
+
+OLRC
+
+Insurer's off-balance sheet liability risk component in respect of that segment;
+
+CRC
+
+Insurer's concentration risk component in respect of that segment;
+
+SFAC
+
+Insurer's size factor adjustment component in respect of that segment;

@@ -1,0 +1,19 @@
+(ii)
+
+for Options on equities and equity indices, the market value of the underlying instrument should be multiplied by 8%;
+
+(iii)
+
+for foreign exchange and gold Options, the market value of the underlying instrument should be multiplied by 8%; and
+
+(iv)
+
+for Options on commodities, the market value of the underlying instrument should be multiplied by 15%; and
+
+(c)
+
+for the purpose of this calculation the following positions must be treated as the same underlying instrument:
+
+(i)
+
+for interest rates, each timeband as set out in Rule A6.2.16;

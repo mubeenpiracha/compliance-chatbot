@@ -1,0 +1,17 @@
+Exclusions335
+
+(1)
+
+A person (the “introducer") does not Arrange Custody by introducing a person to another person (the “custodian") who is authorised by the Regulator or a Non-ADGM Regulator to carry on the activity described in paragraph 43, if the introducer is not connected with the custodian.
+
+(2)
+
+For the purposes of sub-paragraph (1) an introducer is connected to a custodian if—
+
+(a)
+
+the custodian is a member of the same Group as the introducer; or
+
+(b)
+
+the introducer is remunerated by the custodian or a member of the custodian’s Group for making the introduction.

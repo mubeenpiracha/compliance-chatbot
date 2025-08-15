@@ -1,0 +1,39 @@
+Number of business days after due settlement date
+
+Percentages used for calculation of Credit RWA on Unsettled Transactions
+
+0-4
+
+0%
+
+5-15
+
+100%
+
+16-30
+
+500%
+
+31-45
+
+750%
+
+46 or more
+
+1000%
+
+A4.6.6
+
+If assets involved in the transaction are to be received by the Authorised Person and the transaction remains unsettled:
+
+E = max (MV-CV, 0)
+
+where MV is the market value of the assets and CV represents the contracted value for delivery of the assets.
+
+288
+
+PRU VER17.290725
+
+A4.6.7
+
+If assets involved in the transaction are to be delivered by the Authorised Person and the transaction remains unsettled:

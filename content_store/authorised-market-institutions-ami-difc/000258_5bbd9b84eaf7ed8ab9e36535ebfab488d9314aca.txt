@@ -1,0 +1,31 @@
+For the purposes of (1), a Clearing House must:
+
+(a)
+
+conduct its money settlements using only such settlement assets with little or no credit or liquidity risk;
+
+(b)
+
+monitor, manage, and limit its credit and liquidity risks arising from commercial settlement banks. In particular, it must establish and monitor adherence to strict criteria for the use of settlement banks, which take into account, among other things, the regulation and supervision, creditworthiness, capitalisation, access to liquidity, and operational reliability of the relevant settlement banks;
+
+(c)
+
+monitor and manage the concentration of credit and liquidity exposures to its commercial settlement banks; and
+
+(d)
+
+ensure that its legal agreements with any settlement banks, at a minimum:
+
+(i)
+
+specify clearly when transfers on the books of individual settlement banks are expected to occur and when they are final; and
+
+78
+
+AMI/VER28/03-25
+
+7.2.5A
+
+7.2.6
+
+AUTHORISED MARKET INSTITUTIONS (AMI)

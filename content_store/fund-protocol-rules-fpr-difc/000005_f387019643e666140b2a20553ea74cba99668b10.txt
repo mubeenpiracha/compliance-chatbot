@@ -1,0 +1,13 @@
+Overview and purpose of this module
+
+Guidance
+
+1.
+
+The three UAE securities regulators: the SCA, the DFSA and the FSRA have agreed a “Protocol” regarding co-ordinated supervision of the marketing and selling of units of domestic funds within the UAE (State). The “Protocol” introduces a notification and registration process to enhance the monitoring and supervision of the financial services associated with the marketing and sale of units in domestic funds. The Protocol sets out a common regulatory framework which is to be implemented by each of the regulators. The Protocol is implemented in the DFSA Rulebook primarily through this module (FPR).
+
+2.
+
+FPR specifies procedures and requirements that apply in relation to a Passported Fund where the DFSA is either the Home Regulator or the Host Regulator of the Fund.
+
+3.

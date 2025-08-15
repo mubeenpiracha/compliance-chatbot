@@ -1,0 +1,17 @@
+(ii)
+
+the duties owed by the Direct Access Member to the ATS Operator and how the member is held accountable for any failure to fulfil those duties;
+
+(c)
+
+appropriate investor redress mechanisms are available, in accordance with GEN chapter 9, and disclosed to each member permitted to trade Investment Tokens on its facility; and
+
+(d)
+
+its facility contains a prominent disclosure of the risks associated with the use of DLT for trading and clearing Investments, particularly those relating to Digital Wallets and the susceptibility of private cryptographic keys to misappropriation.
+
+14.2.3 (1) Without limiting the generality of the systems and controls obligations of the ATS Operator, an ATS Operator must have in place adequate systems and controls to address market integrity, AML, CTF or investor protection risks in permitting a Direct Access Member to trade on its facility, including procedures to:
+
+(a)
+
+identify the ultimate beneficial owner of a Direct Access Member, where such a member is a body corporate;

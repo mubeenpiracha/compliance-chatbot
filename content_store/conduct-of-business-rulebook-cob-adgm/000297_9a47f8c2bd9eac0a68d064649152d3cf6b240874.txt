@@ -1,0 +1,13 @@
+97
+
+COBS VER19.290725
+
+(c)
+
+ensure that all instructions relating to Transactions entered into using such a mandate are recorded and are within the scope of the authority of the Employee and the Authorised Person under the mandate.
+
+15.4 Client Accounts in relation to Client Investments
+
+15.4.1 An Authorised Person which holds Client Investments or Reserve Investments must register or record all Safe Custody Assets in an account that is a Client Account, which, in the case of an Authorised Person holding Reserve Investments, must be a segregated Reserve Account.
+
+15.4.2 For the purposes of the Safe Custody Rules, a Reserve Account or a Client Account is an

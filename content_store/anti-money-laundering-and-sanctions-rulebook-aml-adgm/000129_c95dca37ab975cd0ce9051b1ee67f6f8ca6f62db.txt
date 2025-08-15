@@ -1,0 +1,47 @@
+(d)
+
+verify the identity of beneficiaries and any Beneficial Owners of a beneficiary before it makes a payout under the policy.
+
+(3)
+
+A Relevant Person must have systems and controls in place and take reasonable measures to determine whether:
+
+(a)
+
+a customer,
+
+(b)
+
+any Beneficial Owners of the customer; or
+
+(c)
+
+for a life insurance or other similar policy, any beneficiary of the policy, or any Beneficial Owners of a beneficiary;
+
+is a PEP.
+
+Confidential
+
+46
+
+AML VER10.020125
+
+(4)
+
+If a PEP is identified under (3), then the Relevant Person must, in addition to CDD under 8.3.1, undertake Enhanced CDD under 8.4.1.
+
+8.3.2
+
+(1)
+
+For the purposes of Rule 8.3.1(1)(a), a Relevant Person must identify a customer and verify the customer’s identity in accordance with this Rule.
+
+(2)
+
+If a customer is a Natural Person, a Relevant Person must obtain and verify information about the person’s:
+
+(a)
+
+full name (including any alias);
+
+(b)

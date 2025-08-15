@@ -1,0 +1,13 @@
+its Trading Book has an Exposure to:
+
+(a)
+
+the Issuer of the Security it has sold in a repurchase agreement; and
+
+(b)
+
+the Counterparty where the Securities or cash given by the Authorised Firm exceed the Securities or cash it receives (i.e. there is a net margin given by the Authorised Firm) in a repurchase agreement or reverse repurchase agreement.
+
+A4.11.28 An Authorised Firm must calculate in accordance with section 5.10 an Exposure to the
+
+Issuer arising from the Underwriting or sub-underwriting of a new Issue of Securities.

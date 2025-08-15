@@ -1,0 +1,13 @@
+Information Technology (IT) systems
+
+An Authorised Firm must establish and maintain appropriate and sound information technology infrastructure to meet its current and projected business requirements, under normal circumstances and in periods of stress, which ensures data and system integrity, security and availability and supports integrated and comprehensive risk management.
+
+Guidance
+
+1.
+
+IT systems include the computer systems and information technology infrastructure required for the automation of processes and systems, such as application software, operating system software, network infrastructure, and desktop, server and mainframe hardware.
+
+2.
+
+An Authorised Firm should consider the following in establishing its systems and controls for the management of IT system risks:

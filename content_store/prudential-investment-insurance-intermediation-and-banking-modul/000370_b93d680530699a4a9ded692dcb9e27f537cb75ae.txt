@@ -1,0 +1,17 @@
+Guidance
+
+1.
+
+In deciding on whether an Exposure, including one arising from Islamic Financial Business arrangements, falls within the types of Exposures referred to in Rule 4.12.16(2)(a), an Authorised Firm should take a “substance over form” approach.
+
+2. When calculating the ‘gross value of the Retail Exposure’ in Rule 4.12.16(2)(b) and (c) an Authorised Firm should not take into account any credit risk mitigation. In case of off balance sheet items, the amount should be calculated after applying credit conversion factors.
+
+3.
+
+To apply the 0.2% threshold under Rule 4.12.16(2)(c), an Authorised Firm should, first, identify the full set of Retail Exposures and, second, identify the subset of Exposures that meet the criterion in Rule 4.12.16(2)(a) and do not exceed the threshold in Rule 4.12.16(2)(b) and, third, exclude any Exposures that have a value greater than 0.2% of the subset before exclusion.
+
+118
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)

@@ -1,0 +1,19 @@
+HQLA – general operational requirements
+
+A10.2.2 To be eligible as HQLA, assets in the portfolio of HQLA must be appropriately diversified in terms of type of assets, type of Issuer and specific Counterparty or Issuer.
+
+A10.2.3 To be eligible as HQLA, assets must meet the following requirements:
+
+400
+
+PRU VER17.290725
+
+(a)
+
+the assets must be under the control of the specific function or functions charged with managing the liquidity of the Authorised Person which must have the continuous authority and legal and operational capability to liquidate any asset in the stock; and
+
+(b)
+
+a representative portion of the assets in the stock of HQLA must be liquidated periodically and at least annually by the Authorised Person to test its access to the market, the effectiveness of its processes for liquidation, the availability of the assets, and to minimise the risk of negative signalling during a period of actual stress.
+
+A10.2.4 To be eligible as HQLA, an asset must also meet the following requirements:

@@ -1,0 +1,19 @@
+the Council of Europe Development Bank;
+
+(l)
+
+the International Finance Facility for Immunisation; and
+
+(m)
+
+the Asian Infrastructure Investment Bank.
+
+Exposures to international organisations
+
+4.12.6 An Authorised Firm must apply a 0% risk weight to any Exposure to the Bank for International Settlements, the International Monetary Fund, the European Central Bank, the European Union, the European Stability Mechanism or the European Financial Stability Facility.
+
+Exposures to banks
+
+4.12.7
+
+(1) Subject to (2) and Rules 4.12.8, 4.12.9 and 4.12.18, an Authorised Firm must risk-weight any Exposure to a bank for which an external credit assessment by a recognised external credit rating agency is available in accordance with the following table:

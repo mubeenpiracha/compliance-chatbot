@@ -1,0 +1,33 @@
+f.
+
+mechanisms to identify and control risks arising from single geographic jurisdictions; and
+
+g.
+
+mechanisms to identify risks arising from related activities or commodities.
+
+Recognition of Credit Risk mitigations
+
+4.15.12 (1)
+
+For the purposes of this section, an Authorised Firm may reduce the value of its Exposures, at its discretion, by any one or more of the following:
+
+(a)
+
+the amount of any specific provision made, where the provision relates to the risk of a credit loss occurring on that Exposure and is not held as part of a general provision or reserve against its Credit Risks;
+
+(b)
+
+Netting its claims on and liabilities to a Counterparty, provided that the conditions in section 4.13 of Credit Risk mitigation are met;
+
+(c)
+
+the amount of Collateral held against its Exposures, where that Collateral is of a type listed based on the FCSA and FCCA approaches and meeting the requirements under section 4.13;
+
+(d)
+
+the amount of any eligible guarantees as permitted under section 4.13.9;
+
+(e)
+
+the value of a Credit Derivative, where the Credit Derivative is an instrument included in Rule 4.13.11 and the transaction meets the conditions set out in that section; and

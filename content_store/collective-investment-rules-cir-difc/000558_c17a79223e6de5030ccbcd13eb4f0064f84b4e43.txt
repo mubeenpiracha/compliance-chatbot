@@ -1,0 +1,31 @@
+Additional mandatory disclosure for Funds on a Fund Platform
+
+1.
+
+A Fund Manager of a Fund that is an Incorporated Cell of an Incorporated Cell Company must ensure that the Fund Prospectus includes information that:
+
+(a)
+
+the Fund is an Incorporated Cell of an ICC;
+
+(b)
+
+the Fund, being an Incorporated Cell:
+
+(i)
+
+is a separate legal entity to the ICC and to any other Incorporated Cells of the ICC; and
+
+(ii)
+
+does not have a subsidiary or holding company relationship with the ICC;
+
+(c)
+
+the ICC, which is the Fund Platform, contains the infrastructure needed by the Fund Manager for managing the Fund; and
+
+(d)
+
+the Fund Manager is:
+
+(i)

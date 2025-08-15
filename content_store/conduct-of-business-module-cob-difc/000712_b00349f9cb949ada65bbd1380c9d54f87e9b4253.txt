@@ -1,0 +1,11 @@
+A7.2.12 Value date and availability of funds
+
+An Authorised Firm must:
+
+(a) ensure that the date on which an amount is credited to the Payment Account of the User is not later than the business day on which the amount is received by the Payment Services Provider acting for the User;
+
+(b) ensure that the date on which an amount is recorded as debited to the Payment Account of a payer is not earlier than the actual time at which the amount of the Payment Transaction is debited to that Payment Account; and
+
+(c)
+
+in the case of a Payment Transaction initiated by the payee, take reasonable steps to ensure that the firm acting for the payee submits the Payment Instruction to the Authorised Firm in time to allow for the settlement to occur on the agreed date.

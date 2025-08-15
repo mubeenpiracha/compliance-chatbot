@@ -1,0 +1,21 @@
+monitor the size of its Trading Book; and
+
+(b)
+
+ensure that positions are included consistently in its Trading Book and Non- Trading Book so that:
+
+(i)
+
+the inclusion of hedging positions in the Trading Book or the Non- Trading Book at all times reflects the intent of the Authorised Firm in holding the position; and
+
+(ii)
+
+adequate records are made if positions are transferred between Trading and Non-Trading Books so that the transfers may be identified.
+
+Reporting to the DFSA
+
+(1) An Authorised Firm must comply with the accounting and prudential reporting
+
+requirements set out in this chapter and PRU which apply to it.
+
+(2) The DFSA may impose additional reporting requirements on an Authorised

@@ -1,0 +1,13 @@
+Size of delivery unit
+
+A3.2.3 A Commodity Derivative contract must contain provisions relating to size or composition of delivery units which conform to the prevailing market practice in the underlying physical market to ensure that it does not constitute a barrier to delivery or otherwise impede the performance of the contract.
+
+Guidance
+
+An Authorised Market Institution should, where the provisions relating to size and delivery units of the Commodity Derivatives contract deviate from the underlying physical market, examine the reasons for such deviation and ensure that the risks arising from such deviation can be effectively addressed by the contract parties.
+
+113
+
+AMI/VER28/03-25
+
+AUTHORISED MARKET INSTITUTIONS (AMI)

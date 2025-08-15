@@ -1,0 +1,21 @@
+The risk management framework in Rule 4.7.1 must:
+
+(a)
+
+encompass a regular review of material risks to which the Recognised Clearing House is exposed and the risks posed to other market participants resulting from its operations; and
+
+(b)
+
+be subject to periodic review as appropriate to ensure that it is effective and operating as intended.
+
+61
+
+MIR VER10.290725
+
+4.7.3
+
+The risk management framework should identify scenarios that may potentially prevent a Recognised Clearing House from being able to provide its critical operations and services as a going concern and assess the effectiveness of a full range of options for recovery or orderly wind-down.
+
+4.7.4
+
+A Recognised Clearing House should prepare appropriate plans for resumption of its operations in such scenarios and, where it is not possible to do so, for an orderly wind-down of the operations of the Recognised Clearing House premised on the results of such assessments. Such procedures should also include appropriate early notification to the Regulator and other regulators as appropriate.

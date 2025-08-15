@@ -1,0 +1,33 @@
+Direct Electronic access
+
+2.8.7
+
+A Recognised Body may only permit a Member to provide its Clients Direct Electronic Access to the Recognised Body's facilities where:
+
+(a)
+
+the Clients meet the suitability criteria established by the Member in order to meet the requirements in Rule 2.8.8;
+
+(b)
+
+the Member retains responsibility for the orders and trades executed by the Clients who are using Direct Electronic Access; and
+
+(c)
+
+the Member has adequate mechanisms to prevent the Clients placing or executing orders using Direct Electronic Access in a manner that would result in the Member exceeding its position or margin limits.
+
+2.8.8
+
+A Recognised Body which permits its Members to allow their Clients to have Direct Electronic Access to its trading facilities must:
+
+(a)
+
+set appropriate standards regarding risk controls and thresholds on trading through Direct Electronic Access;
+
+(b)
+
+be able to identify orders and trades made through Direct Electronic Access; and
+
+(c)
+
+if necessary, be able to stop orders or trades made by a Client using Direct Electronic Access provided by the Member without affecting the other orders or trades made or executed by that Member.

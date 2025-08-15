@@ -1,0 +1,3 @@
+Additional disclosure requirements for PSIAs
+
+5.2.1 An Authorised Person must, prior to Managing a PSIA, provide written notice to the client that the client alone will bear any losses arising from the PSIA, which are limited to the amount of that client's contribution to the PSIA, unless there is negligence, misconduct or breach of contract on the part of the Authorised Person in Managing the PSIA in which case the losses caused by such negligence, misconduct or breach of contract shall be borne by the Authorised Person.

@@ -1,0 +1,11 @@
+(ii)
+
+if modifications are made to the property that unequivocally increase its value, and an updated valuation confirms the increase, the Authorised Firm may use the value shown by the updated valuation;
+
+(b)
+
+the LTV must be calculated prudently in accordance with the following requirements:
+
+(i)
+
+the amount of the loan must include the outstanding loan amount and any undrawn committed amount of the mortgage loan, without taking into account credit risk adjustments and other capital deductions or any form of credit risk mitigation except for pledged deposit accounts with the Authorised firm that meet all requirements for on-balance sheet netting in accordance with Rules 4.13.17 to 4.13.19 and have been unconditionally and irrevocably pledged for the sole purposes of payment of the mortgage loan;

@@ -1,0 +1,13 @@
+(f)
+
+in the case of Reserve Investments, that the Safe Custody Assets are subject to a lien in favour of the holders of the associated Fiat-Referenced Tokens issued by the Authorised Person;
+
+(g)
+
+that the Third-Party Agent is not entitled to combine the account with any other account or to exercise any charge, mortgage, lien, right of set-off or counterclaim against the Safe Custody Assets in that account in respect of any sum owed to it on any other account of the Authorised Person; and
+
+(h)
+
+the extent of liability of the Third-Party Agent in the event of default.
+
+15.6.2 An Authorised Person must maintain for at least six years, records of all Safe Custody Agreements and any instructions given by the Authorised Person to the Third-Party Agent under the terms of the agreement.

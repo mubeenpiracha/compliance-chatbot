@@ -1,0 +1,25 @@
+Definitions relating to Crypto Tokens
+
+Guidance
+
+1.
+
+This section defines when a Token is a “Crypto Token” or an “Excluded Token”. A Token is defined in GLO as a cryptographically secured digital representation of value, rights or obligations, which may be transferred and stored electronically using DLT or other similar technology.
+
+issued,
+
+2.
+
+In summary, a Token is a Crypto Token if it is used, or intended to be used, as a medium of exchange or for payment or investment purposes (or it confers a right or
+
+186
+
+GEN/VER67/03-25
+
+GENERAL (GEN)
+
+interest in such a Token) and it is not an Investment Token or other Investment (see Rule A2.1.1) or an Excluded Token (see the definition in Rule A2.5.2 below).
+
+3.
+
+The following diagram illustrates the different classification of Tokens:

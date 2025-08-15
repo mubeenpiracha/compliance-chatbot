@@ -1,0 +1,17 @@
+(ii)
+
+include the uncollateralised portion as a deduction from CET1 Capital.
+
+Guidance
+
+Collateral in the context of a SE Exposure refers to assets used to hedge the Credit Risk of a securitisation Exposure rather than the underlying Exposures of the securitisation, including Collateral pledged by an SPE.
+
+159
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+4.14A Counterparty Credit Risk
+
+4.14A.1 This section applies to Exposures in the Trading Book and the Non-Trading Book that give rise to Counterparty Credit Risk and that are not cleared through a CCP, including the following transactions:

@@ -1,0 +1,49 @@
+Issuer
+
+Credit Quality Grades
+
+Residual Term to Maturity
+
+Risk Percentage
+
+Sovereign Debt
+
+1
+
+Any
+
+0.00%
+
+325
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+This category includes – (a)
+
+all forms of government debt, including treasury bills and other short-term
+
+bonds, instruments; and
+
+2 or 3
+
+6 months or less
+
+More than 6 and up to 24 months
+
+0.25%
+
+1.00%
+
+(b)
+
+securities issued by PSEs which qualify
+
+for a 0% risk weight for Credit Risk.
+
+More than 24 months
+
+1.60%
+
+An Exposure to any debt Security issued by– (i)

@@ -1,0 +1,19 @@
+19.22 Dispute resolution
+
+19.22.1 (1)
+
+A Payment Service Provider must put in place and utilise adequate and effective complaint resolution procedures for the settlement of complaints from Payment Service Users about the rights and obligations arising under this Chapter.
+
+(2)
+
+All complaints must be recorded, investigated and resolved within an adequate timeframe and at the latest fifteen days after the day on which the Payment Service Provider received the complaint.
+
+(3)
+
+A Payment Service Provider must make available to the Payment Service User the details of the dispute resolution services able to deal with disputes concerning the rights and obligations arising under this Chapter in a clear, comprehensive and easily accessible form.
+
+(4)
+
+The information to be made available under (3) must be made available:
+
+(a)

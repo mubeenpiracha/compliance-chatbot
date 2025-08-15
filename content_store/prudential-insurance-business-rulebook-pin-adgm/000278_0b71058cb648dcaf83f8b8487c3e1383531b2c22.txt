@@ -1,0 +1,5 @@
+'capital at risk' means the aggregate amount of sums assured on contracts of Long-Term Insurance issued by an Insurer, minus the aggregate amount of provisions in respect of those contracts. Where the contract is an annuity, the sum assured must be taken to be the present value of the annuity payments. The capital at risk must be determined separately for each contract, and where the capital at risk calculated for a contract is less than zero, the capital at risk for that contract must be taken as zero.
+
+A4.12.3 The proportional reinsurance element is calculated as the sum of the following six amounts, so far only as they relate to proportional reinsurance business of the Insurer:
+
+(a)

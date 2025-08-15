@@ -1,0 +1,31 @@
+the Crypto Token; or
+
+(b)
+
+an index that includes the Crypto Token.
+
+Guidance
+
+1.
+
+Investment criteria are only one aspect of requirements applicable to an Authorised Market Institution when trading or clearing and settling Investments or Crypto Tokens on its facilities. There are other requirements applicable to such activities, which are contained in this module.
+
+2.
+
+Any Securities that are admitted to the Official List of Securities maintained by the DFSA meet the requirement in Rule 5.8.1(2)(a).
+
+3.
+
+A Reporting Entity of Security Tokens that are admitted to trading by an Authorised Market Institution under Rule 5.8.1(3)(b)(iii) will be subject to the requirements imposed on Reporting Entities in MKT. An Authorised Market Institution should therefore assess whether a prospective Reporting Entity is capable of meeting those requirements before admitting its Security Tokens to trading.
+
+36
+
+AMI/VER28/03-25
+
+5.9
+
+5.9.1
+
+AUTHORISED MARKET INSTITUTIONS (AMI)
+
+4.

@@ -1,0 +1,27 @@
+(vii)
+
+the Authorised Person should provide an annual confirmation that there are no changes to the enforceability of such guarantees; and
+
+(viii)
+
+the Authorised Person must notify the Regulator when such guarantees represent 200%, 400% and 600% of Tier 1. The overall Large Exposure limit of 800% will apply.
+
+176
+
+PRU VER17.290725
+
+5
+
+MARKET RISK
+
+Introduction
+
+Guidance
+
+1.
+
+This Chapter addresses the capital requirements in respect of managing the Market Risk Exposures of an Authorised Person. Market Risk refers to the risk of incurring losses on positions held by an Authorised Person with trading intent, due to adverse changes in market prices or in underlying value drivers. This Chapter aims to ensure that an Authorised Person engaging in activities exposing the firm to risks associated with potential adverse movements in market prices adopts adequate, appropriate, sound and effective risk management practices and holds regulatory capital of the right quality that is also commensurate with the risks involved.
+
+2.
+
+This Chapter includes requirements that an Authorised Person:

@@ -1,0 +1,23 @@
+(ii)
+
+the liability of the Payer, as set out in Rule 19.20.1;
+
+(iii)
+
+charges levied;
+
+(iv)
+
+any other material information the Payer might need to make an informed decision; and
+
+(v)
+
+an indication of where the general information concerning the Framework Contract specified in Rule 19.2.1 is made available in an easily accessible manner;
+
+(b)
+
+the parties may agree that information to be provided to a Payer or Payee concerning individual Payment Transactions as specified in Rules 19.2.13 and 19.2.14 do not apply and instead:
+
+(i)
+
+the Payment Service Provider must provide or make available a reference enabling the Payment Service User to identify the Payment Transaction, the amount of the Payment Transaction and any charges payable in respect of the Payment Transaction;

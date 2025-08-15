@@ -1,0 +1,27 @@
+Facility in relation to Virtual Assets
+
+17.7.1 In addition to the general requirements applicable to an Authorised Person conducting a Regulated Activity in relation to Virtual Assets as set out in Rules 17.1 – 17.6, an Authorised Person Operating a Multilateral Trading Facility in relation to Virtual Assets must comply with the requirements set out in:
+
+(a)
+
+COBS, MIR and GEN, as set out in Rules 17.7.2 – 17.7.6; and
+
+(b)
+
+Rule 17.8 if also Providing Custody in relation to Virtual Assets.
+
+17.7.2 An Authorised Person that is Operating a Multilateral Trading Facility in relation to Virtual
+
+Assets must comply with the requirements set out in COBS, Chapter 8.
+
+17.7.3 For the purposes of Rule 17.7.2, the following references in COBS, Chapter 8 should be
+
+read as follows:
+
+(a)
+
+references to “Investment” or “Investments” shall be read as references to “Virtual Asset” or “Virtual Assets”, as applicable; and
+
+(b)
+
+references to “Financial Instrument” or “Financial Instruments” (including those in MIR as incorporated by virtue of COBS Rule 8.2.1) shall be read as references to “Virtual Asset” or “Virtual Assets”, as applicable.

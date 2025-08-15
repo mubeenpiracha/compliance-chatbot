@@ -1,0 +1,5 @@
+An Authorised Person’s test of its conditions and procedures under Rule 3.5.16(3) may be conducted in a variety of ways (for example by using table-top exercises or simulations) and the appropriate scope of testing should be determined each time a test is planned. While an Authorised Person may decide to test only selected procedures at one time, it should ensure that all aspects of the Cyber Incident Response Plan are tested regularly. Testing requirements should be specified in the Cyber Incident Response Plan.
+
+4.
+
+The regular review required by Rule 3.5.16(4) should take into account current cyber threat intelligence as well as lessons learnt from previous events and be adjusted to account for new processes and services. Where the review is triggered by a material Cyber Incident (see Guidance item 1 under Rule 3.5.18), the Regulator expects an Authorised Person to assess whether established procedures were followed and whether actions taken were effective. It should also identify key lessons learnt with a view to improving future Cyber Incident response and recovery processes.

@@ -1,0 +1,9 @@
+3.5.4 A dividend or return of capital by an Insurer or a Cell that is deemed to constitute a single Long-Term Insurance Fund may only be made where the dividend or return of capital constitutes appropriation of a surplus determined in accordance with Rule 7.3, and:
+
+(a)
+
+if the payment is made within four months of the Reference Date of the actuarial investigation determining that surplus, the payment does not cause the total aggregate amount of the dividends or returns of capital made by the Insurer or the Cell since that Reference Date to exceed the amount of that surplus; or
+
+(b)
+
+if the payment is made more than four months after the Reference Date of the actuarial investigation determining that surplus, the payment does not cause the total aggregate amount of the dividends or returns of capital made by the Insurer or the Cell since that Reference Date to exceed 50% of the amount of that surplus.

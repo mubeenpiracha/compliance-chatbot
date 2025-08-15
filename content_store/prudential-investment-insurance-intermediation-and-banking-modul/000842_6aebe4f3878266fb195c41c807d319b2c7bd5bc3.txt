@@ -1,0 +1,15 @@
+Guidance
+
+In cases where there is an undertaking to provide a commitment on another off-balance sheet Exposure, an Authorised Firm should apply the lower of the applicable CCFs. For example, if an Authorised Firm has a commitment to open self-liquidating trade letters of credit arising from the movement of goods, in particular documentary credits collateralised by the underlying shipment with an Original Maturity of less than one year, a 20% CCF should be applied instead of a 40% CCF.
+
+CCFs for off-balance sheet SE Exposures
+
+A4.2.2 (1)
+
+The applicable CCFs for off-balance sheet SE Exposures are provided in the table below.
+
+270
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)

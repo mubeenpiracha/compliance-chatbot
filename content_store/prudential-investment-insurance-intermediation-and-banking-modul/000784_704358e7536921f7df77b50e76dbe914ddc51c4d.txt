@@ -1,0 +1,7 @@
+d.
+
+where the model is developed by the Authorised Firm itself, it should be based on appropriate assumptions, which have been assessed and challenged by suitably qualified parties independent of the development process. The model should be developed or approved independently of the front office. It should be independently tested. This includes validating the mathematics, the assumptions and the software implementation;
+
+e.
+
+there should be formal change control procedures in place and a secure copy of the model should be held and periodically used to check valuations;

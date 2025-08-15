@@ -1,0 +1,31 @@
+from the Authorised Firm, as a preferred creditor.
+
+CHAPTER 5 – MISCELLANEOUS
+
+84T. Recognition of resolution actions in other jurisdictions
+
+(1)
+
+Where a Resolution Authority in another jurisdiction notifies the DFSA that it intends to take or has taken resolution action with respect to an entity in that jurisdiction and requests the DFSA to recognise that resolution action, the DFSA may:
+
+(a)
+
+make an order recognising the resolution action;
+
+(b)
+
+make an order recognising part of the resolution action, and refuse to recognise the remainder of it; or
+
+(c)
+
+refuse to recognise the resolution action.
+
+(2) When considering whether to recognise resolution action taken in another jurisdiction, the DFSA shall consider the impact of its decision on financial stability in the DIFC, and in other jurisdictions outside the DIFC (including in the State).
+
+(3)
+
+The DFSA may refuse to recognise resolution action in another jurisdiction, or any part thereof, if it is satisfied that one or more of the following conditions are met:
+
+(a)
+
+the recognition would have an adverse effect on financial stability, the financial services industry in the DIFC or the economy of the State,

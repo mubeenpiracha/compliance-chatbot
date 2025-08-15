@@ -1,0 +1,13 @@
+Guidance
+
+1.
+
+Where settlement does not occur on the due date and neither party has released the relevant cash or Securities, an Authorised Person faces Market Risk, namely the differential between the contract price of the Securities and their current value in the market. In this case an Authorised Person also faces a Credit Risk Exposure for the Unsettled Transaction, for which the Authorised Person is required to hold regulatory capital. The relevant Credit Risk Exposure should be included in the calculation of Credit RWA for the Authorised Person.
+
+2.
+
+An Authorised Person is at risk for the whole amount of the contract (as well as any further movement in price) if it has delivered its leg of a contract before receipt of the other leg. In this case an Authorised Person must calculate the Credit Risk RWA for the free delivery transaction.
+
+3.
+
+For Derivatives (OTC and exchange-traded) and long settlement transactions, an Authorised Person is exposed to settlement risk. For Derivatives Contracts, the risk is that the price moves in an Authorised Person's favour so

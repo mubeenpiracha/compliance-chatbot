@@ -1,0 +1,17 @@
+Guidance
+
+An Authorised Person conducting a Regulated Activity in relation to Virtual Assets which hold or control Client Money must comply with the Client Money Rules set out in Chapter 14, as amended by the requirements set out in Rule 17.8.4.
+
+17.8.2 For the purposes of Rule 17.8.1 “Investment” or “Investments”, (and, a result, the corresponding references to “Client Investments”) shall be read as encompassing “Virtual Asset” or “Virtual Assets”, as applicable.
+
+17.8.3 For the purposes of an Authorised Person that is Providing Custody in relation to Virtual Assets, the following requirements in COBS, Chapter 15 shall be read as follows:
+
+(a)
+
+the statements required under COBS Rule 15.8.1(a) must be sent to a Retail Client at least monthly; and
+
+(b)
+
+all reconciliations required under COBS Rule 15.9.1 must be conducted at least every week.
+
+17.8.4 For the purposes of an Authorised Person that conducts a Regulated Activity in relation to Virtual Assets which holds or controls Client Money, the reconciliations of Client Accounts required under Section 14.11 shall be read as follows:

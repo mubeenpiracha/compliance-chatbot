@@ -1,0 +1,7 @@
+Anti-Money Laundering, Counter-Terrorist Financing and Sanctions Module (AML)
+
+(c) geographical exposures of the counterparty and its customers; (d) the anti-money laundering regime in the jurisdictions in which the counterparty operates and/or is incorporated; and (e) the adequacy and effectiveness of the money laundering controls of the counterparty. The purpose of this section is to ensure that an Authorised Person avoids sending or receiving (where possible) Crypto Tokens to or from an illicit actor or a person that had not been subjected to appropriate due diligence measures.
+
+2.
+
+An Authorised Person that sends or receives Crypto Tokens on behalf of a customer should be aware of its obligations under Article 33 bis 3 of Cabinet Decision No 10 of 2019. These obligations include the requirement to obtain and keep accurate information on the sender and beneficiary of the transfer and to provide that information to the VASP immediately and securely.

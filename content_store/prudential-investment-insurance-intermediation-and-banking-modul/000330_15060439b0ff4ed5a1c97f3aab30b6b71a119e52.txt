@@ -1,0 +1,11 @@
+Exceptions to the measurement of E
+
+4.9.20 An Authorised Firm may attribute a value of zero to E for:
+
+(a)
+
+any Counterparty Exposure arising from any Derivative transaction or SFT outstanding with a CCP and which has not been rejected by that CCP, provided that the Exposure is fully Collateralised on a daily basis; and
+
+(b)
+
+any Credit Risk Exposure arising from any Derivative transaction, SFT or spot transaction which an Authorised Firm has outstanding with a CCP for which the latter acts as a custodian on the Authorised Firm’s behalf, provided that the Exposure is fully Collateralised on a daily basis.

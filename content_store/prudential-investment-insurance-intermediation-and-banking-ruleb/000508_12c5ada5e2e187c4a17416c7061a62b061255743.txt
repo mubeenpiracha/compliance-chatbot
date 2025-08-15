@@ -1,0 +1,21 @@
+This Chapter requires an Authorised Person to:
+
+a.
+
+design and implement an effective Operational Risk management system complete with appropriate systems and controls;
+
+b.
+
+calculate the Operational Risk Capital Requirement and hold the same; and
+
+c.
+
+hold adequate professional indemnity insurance cover.
+
+3.
+
+This Chapter includes, among others, specific Operational Risk management requirements relating to IT systems, information security, outsourcing, business continuity and disaster recovery and the management of Operational Risks in trading rooms.
+
+4.
+
+App7 provides requirements, parameters, calculation methodologies and formulae for calculating the Operational Risk Capital Requirement specified in Chapter 6.

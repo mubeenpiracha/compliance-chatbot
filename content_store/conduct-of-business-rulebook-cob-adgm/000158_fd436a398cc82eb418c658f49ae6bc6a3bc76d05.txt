@@ -1,0 +1,21 @@
+Insurance, or as soon as reasonably practicable thereafter.
+
+7.5.3 An Insurance Intermediary must, before providing any Insurance Intermediation service to a Person as a Retail Client, disclose whether any advice or information is or will:
+
+(a)
+
+be provided on the basis of a fair analysis of the market;
+
+(b)
+
+not be provided on the basis of a fair analysis of the market because of any contractual agreement it has with any particular insurer or insurers to deal with only their products; or
+
+(c)
+
+even if there are no contractual agreements of the type referred to in Rule 7.5.3(b), not be provided on the basis of a fair analysis of the market.
+
+7.5.4
+
+If Rule 7.5.3(b) or 7.5.3(c) applies, the Insurance Intermediary must, if requested by the Retail Client, provide to that Client a list of insurers with whom it deals or may deal in relation to the relevant Contracts of Insurance.
+
+7.5.5 An Insurance Intermediary must, before providing any Insurance Intermediation service to a Client, disclose to that Client whether it acts on behalf of an insurer or any other Person or acts independently on behalf of Clients.

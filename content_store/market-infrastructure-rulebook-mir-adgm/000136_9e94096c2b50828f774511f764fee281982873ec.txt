@@ -1,0 +1,21 @@
+Deferred publication of large transactions
+
+The deferred publication of information in respect of transactions may be authorised, for a period no longer than the period specified in Rule 3.6.10 for the class of Financial Instrument and transaction concerned, provided the following criteria are satisfied:
+
+(a)
+
+the transaction is between a Member or if applicable, Authorised Person, dealing on own account and a Client of that firm; and
+
+(b)
+
+the size of that transaction is equal to or exceeds the relevant minimum qualifying size, as specified in Rule 3.6.10. In order to determine the relevant minimum qualifying size, all Financial Instruments admitted to trading on a
+
+45
+
+MIR VER10.290725
+
+Recognised Investment Exchange shall be classified in accordance with their average daily turnover to be calculated in accordance with Rule 3.6.10.
+
+3.6.9
+
+Each constituent transaction of a portfolio trade shall be assessed separately for the purposes of determining whether deferred publication in respect of that transaction is available.

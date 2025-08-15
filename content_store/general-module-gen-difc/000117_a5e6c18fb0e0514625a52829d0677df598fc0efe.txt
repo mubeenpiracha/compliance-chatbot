@@ -1,0 +1,21 @@
+In the case of Crypto Tokens, acting as a Central Counterparty is the only Clearing House activity relevant to Crypto Tokens, as providing a Securities Settlement System or acting as a Central Securities Depository are relevant only to Investments and Securities. For Crypto Tokens, transfers of the Crypto Tokens take place by means of Distributed Ledger Technology or other similar technology.
+
+2.19 Insurance intermediation
+
+2.19.1 (1)
+
+In Rule 2.2.2, Insurance Intermediation means:
+
+(a)
+
+advising on a Contract of Insurance;
+
+(b)
+
+acting as agent for another Person in relation to the buying or selling of a Contract of Insurance for that other Person;
+
+(c)
+
+making arrangements with a view to another Person, whether as principal or agent, buying a Contract of Insurance; or
+
+(d)

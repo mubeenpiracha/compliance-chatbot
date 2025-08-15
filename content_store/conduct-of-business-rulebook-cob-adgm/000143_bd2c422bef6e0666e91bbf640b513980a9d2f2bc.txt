@@ -1,0 +1,27 @@
+6.9.6 Timely Allocation
+
+(a)
+
+An Authorised Person must ensure that a Transaction it Executes is promptly allocated.
+
+(b)
+
+The allocation must be:
+
+(i)
+
+to the account of the Client on whose instructions the Transaction was executed;
+
+(ii)
+
+in respect of a discretionary Transaction, to the account of the Client or Clients with or for whom the Authorised Person has made and recorded,
+
+45
+
+COBS VER19.290725
+
+prior to the Transaction, a decision in principle to execute that Transaction; or
+
+(iii)
+
+in all other cases, to the account of the Authorised Person.

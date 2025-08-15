@@ -1,0 +1,19 @@
+Financial Promotion Restriction
+
+is a reference to the restriction in section 18(1).
+
+Financial Services Permission
+
+is a permission given, or having effect as if so given, by the Regulator in accordance with Part 4.
+
+FinTech228
+
+means innovative financial technology.
+
+FinTech Participant229
+
+means an Authorised Person who has a Financial Services Permission to carry on the Regulated Activity of Developing Financial Technology Services within the RegLab.
+
+FinTech Proposal230
+
+means the financial technology innovation proposed to be developed and tested by the FinTech Participant.

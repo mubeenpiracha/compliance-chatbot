@@ -1,0 +1,9 @@
+Guidance
+
+1.
+
+The definition of a Crypto Token refers not only to how a Token is used but also how it is intended to be used. The intended use of a Token will normally be evident from documents such as the white paper or other concept papers for the Token that have been prepared and published by the developers of the Crypto Token.
+
+2.
+
+The most common types of a Crypto Token are cryptocurrencies and stablecoins (i.e. Crypto Tokens that aim to maintain a stable price by determining their value by reference the value of a currency, commodity, gold or other asset.) Cryptocurrencies do not usually provide the holder with a bundle of rights as are commonly attached to Investments. More generally, cryptocurrencies serve as the virtual currency of their native blockchain, where transaction validation takes place through various forms of decentralised consensus mechanisms.

@@ -1,0 +1,9 @@
+Guidance
+
+When conducting an assessment of a Virtual Asset in accordance with Rule 17.2.2, an Authorised Person should consider the Regulator’s published guidance - Guidance – Regulation of Virtual Asset Activities in ADGM.
+
+17.2A Accepted Fiat-Referenced Tokens
+
+17.2A.1 An Authorised Person or a Recognised Body carrying on a Regulated Activity involving a
+
+Fiat-Referenced Token, must only use Accepted Fiat-Referenced Tokens.

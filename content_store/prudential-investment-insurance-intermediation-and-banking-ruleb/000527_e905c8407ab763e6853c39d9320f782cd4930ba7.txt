@@ -1,0 +1,17 @@
+Information Technology (IT) systems
+
+6.6.1
+
+An Authorised Person must establish and maintain:
+
+(a)
+
+appropriate information technology policies and processes to identify, assess, monitor and manage technology risks; and
+
+(b)
+
+appropriate and sound information technology infrastructure to meet its current and projected business requirements, under normal circumstances and in periods of stress, which ensures data and system integrity, security and risk
+
+availability and supports
+
+integrated and comprehensive

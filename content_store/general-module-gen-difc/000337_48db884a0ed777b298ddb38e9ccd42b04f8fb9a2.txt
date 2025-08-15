@@ -1,0 +1,9 @@
+Incident Response Plan must
+
+(3)
+
+The conditions and procedures in (2) must be regularly tested to ensure their effectiveness.
+
+(4)
+
+An Authorised Person must ensure the Cyber Incident Response Plan is in writing and is reviewed at least annually and following the occurrence of a major Cyber Incident to ensure that it remains appropriate, effective and up-to-date.

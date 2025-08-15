@@ -1,0 +1,15 @@
+default.
+
+(2) Neither the Fund Manager nor the Trustee is required to meet the requirements in (1) (c) and (f), where either the Eligible Custodian or any other Person acting as the prime broker of the Fund does so in compliance with the requirements in Rule 13.6.3.
+
+Provisions relating to fund administration
+
+A Fund Manager or Trustee must ensure that a Delegation Agreement in relation to Providing Fund Administration requires that the Service Provider must not hold or control monies or assets belonging to third parties in connection with such administration except in the following circumstances:
+
+(a)
+
+holding cheques to the order of a Fund’s bank account, provided such cheques are securely held for a maximum of three business days prior to being deposited into the relevant Fund’s bank account or returned to the drawer of the cheque; or
+
+(b)
+
+where the Service Provider has control over bank accounts kept for the purposes of the Fund, the accounts must be conducted strictly in accordance with the Fund Manager’s instructions and any agreed mandate with the bank.

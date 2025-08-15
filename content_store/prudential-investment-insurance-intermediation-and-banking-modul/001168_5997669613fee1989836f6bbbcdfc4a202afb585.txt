@@ -1,0 +1,33 @@
+where:
+
+KSA =
+
+the capital charge under the Standardised Approach
+
+GI1-8 = annual gross income in a given year, as defined above in the Basic Indicator
+
+Approach, for each of the eight business lines
+
+B1-8 =
+
+a fixed percentage set out in Rule A6.2.3.
+
+A6.2.3 An Authorised Firm which uses the Standardised Approach must calculate its
+
+Operational Risk Capital Requirement using the following beta values:
+
+Business Line
+
+Beta Factor
+
+Corporate finance
+
+18%
+
+Trading and sales
+
+18%
+
+Retail banking
+
+12%

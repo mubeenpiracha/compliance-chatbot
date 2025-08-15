@@ -1,0 +1,11 @@
+Collateral for any SFT in accordance with Rule A4.3.11 in App4.
+
+105
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+4.9.18 An Authorised Firm which has taken eligible financial Collateral for any SFT that is not covered by a Qualifying Bilateral Netting Agreement and using the FCCA, must calculate E* in accordance with Rule A4.3.2 in App4, and substitute E* for E when calculating the Credit Risk-weighted Exposure amount for that CR Exposure under section 4.8.
+
+4.9.19 An Authorised Firm which has taken eligible financial Collateral for an SFT that is covered by a Qualifying Bilateral Netting Agreement and using the FCCA, must calculate E* for all its CR Exposures to any single Counterparty covered by the Qualifying Bilateral Netting Agreement, in accordance with Rule A4.3.3 in App4, and substitute E* for E when calculating the Credit Risk-weighted Exposure amount for its CR Exposures to that Counterparty under section 4.8.

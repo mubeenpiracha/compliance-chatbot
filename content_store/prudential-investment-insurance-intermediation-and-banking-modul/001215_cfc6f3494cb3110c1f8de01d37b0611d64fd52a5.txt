@@ -1,0 +1,7 @@
+subject to an aggregate cap of 75% of total expected cash outflows.
+
+A9.2.14 An Authorised Firm must not double-count items. That is, for assets included as part of the eligible stock of HQLA, the associated cash inflows arising from such assets must not be counted as cash inflows for the purpose of calculating the net cash outflows over the next 30 calendar days.
+
+Cash Outflows
+
+A9.2.15 The following table specifies, for each of the various categories or types of liabilities and off-balance sheet commitments, the rates at which they are expected to run off or be drawn down for the purpose of calculating the LCR.

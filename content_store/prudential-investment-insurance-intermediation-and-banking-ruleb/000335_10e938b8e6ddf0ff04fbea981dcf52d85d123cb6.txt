@@ -1,0 +1,25 @@
+Any foreign exchange transaction or translation gain or loss from a foreign currency-denominated on-balance sheet item as well as interest earned on a fixed income instrument should be allocated to the Exposure to which it accrues.
+
+123
+
+PRU VER17.290725
+
+Measurement of E for off-balance sheet items other than Counterparty Risk Exposures
+
+4.9.4
+
+(1)
+
+For each off-balance sheet item other than a pre-settlement Counterparty Exposure arising from an OTC Derivative transaction, long settlement transaction or Securities Financing Transaction (referred to in these Rules as an "SFT") an Authorised Person must calculate E by:
+
+(a)
+
+in the case of an Early Amortisation Exposure, multiplying the amount of investors' interest by the applicable CCF set out in Rules A4.2.1 and A4.2.2 in App4; and
+
+(b)
+
+in all other cases, multiplying the notional amount of each item by:
+
+(i)
+
+the applicable CCF set out in Rule A4.2.1 in App4 if that item is a CR Exposure; or

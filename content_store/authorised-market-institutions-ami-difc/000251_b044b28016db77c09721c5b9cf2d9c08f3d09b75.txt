@@ -1,0 +1,5 @@
+If a Clearing House has access to a routine line of credit made available by a central bank in its or other relevant jurisdiction, it may count such access as part of its liquid resources to the extent it has collateral that is eligible for pledging to (or for conducting other appropriate forms of transactions with) the relevant central bank. Even if it does not have access to a routine line of credit made available by a central bank, it should still take account of what collateral is typically accepted by the relevant central bank as such assets may be more likely to be liquid in stressed circumstances. However, a Clearing House should not assume the availability of emergency central bank credit as a part of its liquidity plan.
+
+4.
+
+A Clearing House may supplement its qualifying liquid resources with other forms of liquid resources. If it does so, then such liquid resources should be in the form of assets that are likely to be saleable, or acceptable as collateral, for lines of credit, swaps, or repos on an ad hoc basis following a default, even if this cannot be reliably prearranged or guaranteed in extreme market conditions.

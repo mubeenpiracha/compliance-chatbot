@@ -1,0 +1,21 @@
+f.
+
+the allocation of responsibilities for implementing the Market Risk policy and for monitoring adherence to, and the effectiveness of, the policy.
+
+2.
+
+An Authorised Firm should measure its Market Risk using a robust and consistent methodology. The appropriate method of measurement will depend upon the nature of the products traded. The Authorised Firm should consider whether the measurement methodologies should be tested, for example, through back-testing, and the frequency of such testing.
+
+3.
+
+An Authorised Firm should be able to measure its Market Risk Exposure both across risk types, such as interest rate, foreign exchange and commodities, and across the entire portfolio.
+
+4. Where an Authorised Firm is a member of a Group, which is subject to consolidated supervision, the Group should be able to monitor Market Risk Exposures on a consolidated basis (chapter 8).
+
+319
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+5.

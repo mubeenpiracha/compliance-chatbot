@@ -1,0 +1,29 @@
+Guidance
+
+1.
+
+When considering this Rule the Authorised Person should consider the following factors:
+
+a.
+
+the structure, independence and control of the transaction, including governance arrangements;
+
+b.
+
+the inter relatedness of the underlying Exposures;
+
+c.
+
+beneficial owners of the underlying Exposures and whether they could be deemed Connected or Closely Related; and
+
+d.
+
+whether the transactions are conducted on an arm's length basis.
+
+2.
+
+An Authorised Person should look through the structure to determine whether there are any Counterparties or Exposures that might give rise to risks arising from a Large Exposure.
+
+317
+
+PRU VER17.290725

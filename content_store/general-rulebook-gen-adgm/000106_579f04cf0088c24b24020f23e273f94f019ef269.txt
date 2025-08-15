@@ -1,0 +1,17 @@
+Guidance
+
+1.
+
+An Authorised Person should regularly review and, where necessary, update its training programme to ensure that it remains current and relevant. The review should take into consideration the evolving nature of technology as well as emerging Cyber Risks.
+
+2.
+
+A relevant Employee would include a member of staff with access to an Authorised Person’s IT System or Network or any other Employee who might otherwise be exposed to, or targeted by, a Cyber Incident.
+
+3.
+
+New Employees should receive training within a reasonable period of joining the Authorised Person.
+
+4.
+
+The Regulator expects Employees with privileged access rights to receive targeted security training that reflects their rights and responsibilities.

@@ -1,0 +1,39 @@
+Pre-Resolution Valuation
+
+(1) An independent valuer shall carry out a Pre-Resolution Valuation:
+
+(a)
+
+in the case of an Authorised Firm that is not a Branch, on the assets and liabilities of the Authorised Firm; or
+
+(b)
+
+in the case of an Authorised Firm that is a Branch, on the business of that Branch.
+
+(2) The purpose of a Pre-Resolution Valuation is:
+
+(a)
+
+to inform the decision of whether the Resolution Conditions are met;
+
+19
+
+RAR/VER1/04-20
+
+RECOVERY AND RESOLUTION (RAR)
+
+(b)
+
+if the Resolution Conditions are met, to inform the decision on the application of a Resolution Tool;
+
+(c)
+
+if the Bail-in Tool is to be applied, to inform the decision on the extent of the write down or conversion of Eligible Liabilities;
+
+(d)
+
+if the Write Down or Conversion Power is to be used, to inform the decision on the extent of the cancellation or dilution of Shares and the extent of the write down or conversion;
+
+(e)
+
+if the Sale of Business Tool is to be applied, to inform the decision on the rights, assets, liabilities or Shares to be transferred and to inform the DFSA’s understanding of what constitutes commercial terms for the purpose of the application of the tool; and

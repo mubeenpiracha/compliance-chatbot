@@ -1,0 +1,17 @@
+Guidance
+
+The DFSA expects an Authorised Firm to maintain proper books and accounts based on the double- entry booking principle. They should be legible, up to date and contain narratives with the entries which identify and provide adequate information about each transaction. Entries should be made in chronological order and the current balance should be shown on each of the Authorised Firm’s ledgers.
+
+59
+
+COB/VER48/03-25
+
+CONDUCT OF BUSINESS (COB)
+
+6.13 Client investments and Client Crypto Tokens
+
+6.13.1 An Authorised Firm must treat all Investments held or controlled on behalf of a Client in the course of, or in connection with, the carrying on of Investment Business as Client Investments.
+
+6.13.1A An Authorised Firm must treat all Crypto Tokens held or controlled on behalf of a Client in the course of, or in connection with, carrying on Crypto Business as Client Crypto Tokens.
+
+6.13.2 An Authorised Firm which holds or controls Client Investments or Client Crypto Tokens must have systems and controls in place to ensure the proper safeguarding of Client Investments or Client Crypto Tokens.

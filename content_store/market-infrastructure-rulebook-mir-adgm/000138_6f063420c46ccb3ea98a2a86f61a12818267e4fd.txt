@@ -1,0 +1,35 @@
+transaction
+
+for
+
+60 minutes
+
+180 minutes
+
+Until end of trading day (or roll-over to 12pm of next if trading day trade undertaken final 12 hours of trading day) Until end of trading day next after trade
+
+in
+
+Until end of second trading day next after trade Until end of third trading day next after trade
+
+10,000
+
+25,000
+
+45,000
+
+60,000
+
+80,000
+
+max of 25,000) max (15% of ADT, 75,000) max (25% of ADT, 100,000)
+
+(5% ADT,
+
+max (50% of ADT, 100,000) 100% of ADT 250% of ADT
+
+min (10% of ADT, 3,500,000) min (15% of ADT, 5,000,000) min (25% of ADT, 10,000,000)
+
+max of 1,000,000) 100% ADT 250% ADT
+
+(50% ADT,

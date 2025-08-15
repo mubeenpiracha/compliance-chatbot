@@ -1,0 +1,71 @@
+(2)
+
+An Authorised Firm must not permit an individual to perform a Licensed Function specified in the left-hand column of the Table below with another Licensed Function specified in the top row of the Table where a cross appears in the relevant intersecting column and row.
+
+Table
+
+D/P
+
+SM
+
+SEO
+
+FO
+
+CO
+
+MLRO
+
+Director/Partner (D/P)
+
+
+
+✓
+
+✓
+
+✓
+
+✓
+
+Senior Manager (SM)
+
+Senior Executive Officer (SEO)
+
+
+
+✓
+
+✓
+
+✓
+
+✓ 
+
+✓ 
+
+✓ 
+
+Finance Officer (FO)
+
+✓
+
+✓
+
+
+
+
+
+
+
+Compliance Officer (CO)
+
+✓
+
+✓
+
+
+
+
+
+✓

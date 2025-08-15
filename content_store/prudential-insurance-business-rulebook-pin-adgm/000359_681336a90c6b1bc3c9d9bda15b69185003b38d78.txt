@@ -1,0 +1,11 @@
+Guidance
+
+The ADGM underwriting risk component requires an Insurer to demonstrate the availability of capital to address the risk that the cost of claims on Contracts of Insurance entered into as Insurer through an establishment in ADGM will vary from the cost implicit in the premiums being charged.
+
+A9.3.1 An Insurer must calculate its ADGM underwriting risk component according to the method set out in Rule A4.10, subject to the modifications set out in Rules A9.2.2(a) and (b).
+
+121
+
+PIN VER07.290725
+
+A9.4 ADGM reserving risk component

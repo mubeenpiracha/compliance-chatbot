@@ -1,0 +1,21 @@
+A7.2 Rights and obligations of parties
+
+Guidance
+
+This table sets out the requirements that must be complied with by an Authorised Firm under section 13.5.
+
+A7.2.1
+
+Charges
+
+(1) An Authorised Firm must ensure that fees and charges imposed on a User
+
+are reasonable.
+
+(2) An Authorised Firm must ensure that the quoted currency rate, fees and charges accurately reflect the rates, fees and charges expected to be applied when the Payment Transaction is executed.
+
+(3) The Authorised Firm must ensure, except where the payer and payee have
+
+agreed otherwise, that:
+
+(a) the payee pays any charges levied by the payee’s Money Services

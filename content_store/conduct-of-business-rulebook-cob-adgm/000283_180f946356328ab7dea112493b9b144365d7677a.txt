@@ -1,0 +1,19 @@
+14.11.3 An Authorised Person must:
+
+(a)
+
+reconcile the individual Client credit ledger balances, Client Account cash book balances, and the Third-Party Agent Client Account balances;
+
+(b)
+
+check that the balance in the Client Accounts as at the close of business on the previous day was at least equal to the aggregate balance of individual Client credit ledger balances as at the close of business on the previous day; and
+
+(c)
+
+ensure that all shortfalls, excess balances and unresolved differences, other than differences arising solely as a result of timing differences between the accounting systems of the Third-Party Agent and the Authorised Person, are investigated and, where applicable, corrective action is taken as soon as possible.
+
+14.11.4 An Authorised Person must perform the reconciliations in Rule 14.11.3 within ten days of
+
+the date to which the reconciliation relates.
+
+14.11.5 When performing reconciliations, an Authorised Person must maintain a clear separation of duties to ensure that an Employee with responsibility for operating Client Accounts, or an Employee that has the authority to make payments, does not perform the reconciliations under Rule 14.11.3.

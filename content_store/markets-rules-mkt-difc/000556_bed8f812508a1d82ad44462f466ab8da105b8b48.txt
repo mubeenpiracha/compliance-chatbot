@@ -1,0 +1,7 @@
+(ii)
+
+how the legal rights and obligations arising under the smart contracts are performed, including when contract or settlement finality occurs (whether by the smart contract itself, an underlying natural language contract or a combination of both); and
+
+(iii)
+
+details of the relationship between those smart contracts and any underlying natural language contract.

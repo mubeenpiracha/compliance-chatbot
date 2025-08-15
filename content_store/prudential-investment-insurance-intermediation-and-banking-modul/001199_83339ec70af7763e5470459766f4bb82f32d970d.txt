@@ -1,0 +1,29 @@
+Where:
+
+a.
+
+Adjustment for 15% cap = Max (Adjusted Level 2B HQLA – 15/85 x(Adjusted Level 1 HQLA + Level 2A HQLA), Adjusted Level 2B HQLA - 15/60 x (Adjusted Level 1 HQLA, 0)
+
+b.
+
+Adjustment for 40% cap = Max ((Adjusted Level 2A HQLA + Adjusted Level 2B HQLA – Adjustment for 15% cap) - 2/3 x Adjusted Level 1 HQLA, 0)
+
+Level 1 HQLA
+
+A9.2.6
+
+(1) Level 1 HQLA must be valued at market value.
+
+(2) Level 1 HQLA consists of:
+
+(a) banknotes and coin;
+
+(b) central bank reserves, to the extent that such reserves are capable of
+
+being drawn down immediately in times of stress;
+
+(c) marketable securities representing claims on or claims guaranteed by sovereigns, central banks, Public Sector Entities (PSEs), the Bank for International Settlements, the International Monetary Fund, the European Central Bank and European Commission or Multilateral Development Banks (MDBs), and that satisfy all of the following conditions:
+
+(i)
+
+they are assigned a zero % risk-weight according to Chapter 4 and App4 of this Module;

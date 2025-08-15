@@ -1,0 +1,11 @@
+Components of ASF Category
+
+(a) the total amount of regulatory capital, before the application of capital deductions, excluding the proportion of Tier 2 instruments with residual maturity of less than one year;
+
+(b) the total amount of any capital instrument not included in (a) that has an effective residual maturity of one year or more, but excluding any instruments with explicit or embedded options that, if exercised, would reduce the expected maturity to less than one year; and
+
+(c) the total amount of secured and unsecured borrowings and liabilities (including term deposits) with effective residual maturities of one year or more. Cash flows falling below the one-year horizon but arising from liabilities with a final maturity greater than one year do not qualify for the 100% ASF Factor.
+
+“stable” non-maturity (demand) deposits, term deposits and/or PSIAus with residual maturities of less than one year provided by retail and small business customers.
+
+“less stable” non-maturity (demand) deposits, term deposits and/or PSIAus with residual maturities of less than one year provided by retail and small business customers.

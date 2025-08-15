@@ -1,0 +1,21 @@
+clearly define:
+
+(i)
+
+the point at which the final settlement occurs; and
+
+(ii)
+
+the point after which unsettled payments, transfer instructions, or other obligations may not be revoked by the parties to the underlying contract.
+
+(3)
+
+For the purposes of this Rule:
+
+(a)
+
+“final settlement” is the irrevocable and unconditional transfer of an asset or financial instrument, or the discharge of obligations arising under the underlying contract by the parties to the contract; and
+
+(b)
+
+“value date” is the day on which the payment, transfer instruction, or other obligation arising under the underlying contract is due and, accordingly, the associated funds or Investments are available to the respective parties under the contract.

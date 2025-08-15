@@ -1,0 +1,25 @@
+b.
+
+making a Financial Promotion relating to an Investment Token;
+
+c.
+
+making an Offer to the Public of an Investment Token; or
+
+d.
+
+applying for a Security Token to be admitted to the Official List of Securities.
+
+2.
+
+A Person proposing to carry out such activities relating to a Token, is responsible for analysing and determining whether a Token is an Investment Token and, if so, which type or types of Investment it constitutes. The Guidance in this Appendix is intended to assist a Person conducting such an analysis by indicating how the DFSA will approach that question.
+
+3.
+
+A Person who wishes to obtain an approval or authorisation from the DFSA to conduct activities which relate to Investment Tokens, will need to include in its application sufficient information to demonstrate how those Investment Tokens meet the definition of one or more specific Investments, taking into account the Guidance in this Appendix.
+
+What is a Token?
+
+4.
+
+A Token is defined in GLO as a cryptographically secured digital representation of value, rights or obligations, which may be transferred and stored electronically, using DLT or other similar technology.

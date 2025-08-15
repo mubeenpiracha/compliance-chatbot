@@ -1,0 +1,23 @@
+Percentage risk
+
+Single equities Broad-based indices (not broken down into constituent equities) All other indices (not broken down into constituent equities)
+
+16% 8%
+
+16%
+
+A5.3.32 For the purposes of Rule A5.3.31, a broad-based index means an index specified in
+
+the table under (c) or an index that satisfies the following criteria:
+
+(a)
+
+the index contains at least 20 shares;
+
+(b)
+
+the weighting of the largest company is not greater than 20% of the total index; and
+
+(c)
+
+the weighting of the largest five companies is not greater than 60% of the total index.

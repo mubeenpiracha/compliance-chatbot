@@ -1,0 +1,7 @@
+Guidance
+
+As an example of how the calculation would work, if a holder of 100 Shares currently valued at $10 each holds an equivalent put Option with a strike price of $11, the capital charge would be: $1,000 x 16% (i.e., 8% specific plus 8% General Market Risk) = $160, less the amount the Option is in the money ($11– $10) x 100 = $100, i.e., the capital charge would be $60. A similar methodology applies for Options whose underlying instrument is a Foreign Currency, an interest rate related instrument or a commodity.
+
+A6.6.4
+
+(1)

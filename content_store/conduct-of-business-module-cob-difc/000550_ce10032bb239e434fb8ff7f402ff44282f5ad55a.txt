@@ -1,0 +1,21 @@
+Requirements
+
+14.2.2 An ATS Operator must ensure that:
+
+(a)
+
+it treats each Direct Access Member as its Client;
+
+(b)
+
+its Operating Rules clearly set out:
+
+171
+
+COB/VER48/03-25
+
+CONDUCT OF BUSINESS (COB)
+
+(i)
+
+the duties owed by the ATS Operator to the Direct Access Member and how the ATS Operator is held accountable for any failure to fulfil those duties; and

@@ -1,0 +1,17 @@
+Example
+
+37.
+
+Firm B enters into a contract with its client, A. The contract provides that A will receive a profit or incur a liability to Firm B, based on whether the underlying price of gold has moved up or down between the opening day, and the closing day, of the contract. The contract does not contain any leverage (for example, where the profit or loss of A would be 50 times the amount of margin A posted with B to open the position). This is a Structured Product. The terms of the contract are embedded in a Token issued by Firm B, and the contract is created when A accepts those terms by accepting ownership of the Token. As the Token confers the rights and obligations of the contract, it confers rights and obligations substantially similar in nature to those conferred by a Structured Product. The Token is therefore a Security Token that is considered a Structured Product.
+
+When is an Investment Token an Option?
+
+205
+
+GEN/VER67/03-25
+
+GENERAL (GEN)
+
+38.
+
+An Option is an instrument that confers on the holder, upon exercise, a right to:

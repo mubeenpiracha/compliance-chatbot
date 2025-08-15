@@ -1,0 +1,23 @@
+Hedging of a Trading Book Exposure by a non-Financial Instrument
+
+A2.1.11
+
+(1)
+
+An Authorised Person may hedge a Trading Book Exposure, completely or partially, by a non-Financial Instrument that is not listed in A2.1.3. The General Market Risk Exposure associated with the non-Financial Instrument may be incorporated into the calculation of General Market Risk in the Trading Book if:
+
+(a)
+
+the specific instrument is used to hedge an Exposure in an Authorised Person's Trading Book;
+
+(b)
+
+the hedge position satisfies the Netting rules contained in the relevant Sections of the Market Risk Chapter; and
+
+(c)
+
+the hedge position is marked to market or marked to model and is valued regularly on a prudent and consistent basis.
+
+(2)
+
+For the purposes of (1), the non-Financial Instrument must be treated as attracting capital charges as if it were a Financial Instrument.

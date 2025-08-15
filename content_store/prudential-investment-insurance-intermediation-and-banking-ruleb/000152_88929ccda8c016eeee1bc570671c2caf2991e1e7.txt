@@ -1,0 +1,27 @@
+Guidance
+
+The Total Risk Exposure Amount must be calculated by Authorised Persons in Categories 1, 2, 3A and 5 for the determination of appropriate minimum Capital Resources and for reporting purposes.
+
+3.6
+
+Capital Requirements for Categories 3B, 3C and 4
+
+3.6.1
+
+This Section applies to an Authorised Person in Category 3B, 3C or 4.
+
+3.6.2
+
+Subject to Section 3.6A, the Capital Requirement for such an Authorised Person is calculated as the higher of:
+
+(a)
+
+the applicable Base Capital Requirement as set out in Section 3.3; or
+
+57
+
+PRU VER17.290725
+
+(b)
+
+the Expenditure Based Capital Minimum as set out in Section 3.7.

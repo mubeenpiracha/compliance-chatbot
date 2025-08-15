@@ -1,0 +1,13 @@
+c.
+
+for other on-balance sheet items, the Exposure value should be calculated based on their balance sheet values in accordance with Rule 4.9.3.
+
+In relation to off-balance sheet items:
+
+a.
+
+for commitments that are unconditionally cancellable at any time by the Authorised Person without prior notice, the Exposure value should be the notional amount for the item multiplied by a CCF of 10%;
+
+b.
+
+for short-term self-liquidating trade letters of credit arising from the movement of goods (e.g. documentary credits collateralised by the underlying shipment), the Exposure value should be the notional amount for the item multiplied by a CCF of 20% in relation to both issuing and confirming banks;

@@ -1,0 +1,19 @@
+a.
+
+EBRMi denotes the exposure value to clearing member i before risk mitigation. For the purposes of this calculation, variation margin that has been exchanged (before the margin called on the final margin call of that day) enters into the mark-to-market value of the transactions;
+
+b.
+
+IMi is the initial margin collateral posted by clearing member i with the QCCP;
+
+c.
+
+DFi is the prefunded default fund contribution by clearing member i that will be applied upon such clearing member's default, either along
+
+307
+
+PRU VER17.290725
+
+with or immediately following such member's initial margin, to reduce the QCCP loss.
+
+A4.9.17 An Authorised Person must next calculate the capital requirement for each clearing

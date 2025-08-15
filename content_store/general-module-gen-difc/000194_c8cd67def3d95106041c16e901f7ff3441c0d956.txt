@@ -1,0 +1,13 @@
+Guidance
+
+1.
+
+A Crypto Token is defined in section A2.5 of Appendix 2 of these Rules.
+
+2.
+
+Under chapter 2, only certain Financial Services directly apply to Crypto Tokens: Dealing in Investments as Principal; Dealing in Investments as Agent; Arranging Deals in Investments; Managing Assets; Advising on Financial Products; Providing Custody; Arranging Custody; Operating a Clearing House and Operating a Multilateral Trading Facility. However, other Financial Services may indirectly relate to a Crypto Token. For example, a Fund Manager may manage a Collective Investment Fund that invests in a Crypto Token, an Authorised Firm may (subject to the express restrictions in COB 15.6) Provide Credit to, or Arrange Credit for, a non- retail Crypto Token investor or a Money Services Provider may use a Crypto Token in limited circumstances (see Rule 3A.2.5).
+
+3.
+
+Under chapter 2A, a Crypto Token is a Financial Product to which the general prohibitions against misconduct in Article 41B of the Regulatory Law apply.

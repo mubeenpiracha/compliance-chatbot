@@ -1,0 +1,33 @@
+(3)
+
+If the DFSA receives representations within the period specified in the Decision Notice, it must consider the representations in deciding whether to confirm, withdraw or vary the decision.
+
+121
+
+(4)
+
+(5)
+
+If after considering representations received the DFSA decides:
+
+(a)
+
+to confirm the decision, it must as soon as practicable notify the person in writing that the decision is to stand (subject to any right of the person to refer the matter to the FMT for review);
+
+(b)
+
+to withdraw the decision, it must as soon as practicable notify the person in writing that the decision has been withdrawn; or
+
+(c)
+
+to vary the decision, it must as soon as practicable give the person an amended Decision Notice under paragraph 5.
+
+For the avoidance of doubt, the opportunity to make representations under this paragraph does not arise:
+
+(a)
+
+if the person was given a Preliminary Notice and the opportunity to make representations under paragraph 4 before the decision was made; or
+
+(b)
+
+in respect of an amended Decision Notice given under sub-paragraph (4)(c).

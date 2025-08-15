@@ -1,0 +1,59 @@
+≥ 1yr
+
+value
+
+ASF Item
+
+1
+
+Capital
+
+2
+
+Regulatory Capital
+
+3
+
+Other capital
+
+4
+
+Retail deposits/PSIAs and deposits/PSIAs from small business customers:
+
+5
+
+Stable Deposits/PSIAs
+
+6
+
+Less stable deposits/PSIAs
+
+7 Wholesale funding:
+
+8
+
+Operational deposits / operational accounts
+
+9
+
+Other wholesale funding
+
+10
+
+Liabilities with matching interdependent assets
+
+11 Other liabilities:
+
+428
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+12
+
+NSFR derivative liabilities and net liabilities for Shari’a compliant hedging contracts
+
+13
+
+All other liabilities and equity not included in the above categories

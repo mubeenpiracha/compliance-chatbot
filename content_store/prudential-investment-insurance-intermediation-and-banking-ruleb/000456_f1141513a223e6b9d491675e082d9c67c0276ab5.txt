@@ -1,0 +1,17 @@
+(a)
+
+the RWA amounts calculated in respect of its positions in the investors' interest; or
+
+(b)
+
+the RWA amounts that would be calculated in respect of the securitised Exposures, if those had not been securitised.
+
+4.14.55 An Authorised Person must deduct from its CET1 Capital any gain-on-sale and Credit-Enhancing Interest-Only Strips arising from any securitisation subject to the provisions of the Rules above.
+
+Calculation of Credit RWA amounts for securitisation positions subject to Early Amortisation clause
+
+4.14.56
+
+In regard to securitisation positions subject to an Early Amortisation clause, the Credit RWA amounts for an Authorised Person acting as the Originator are calculated as the product of the following:
+
+(a)

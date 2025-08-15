@@ -1,0 +1,9 @@
+6.2.3 Where an Authorised Person has taken reasonable steps to ensure that an Employee will not be involved to any material extent in, or have access to information about, the Authorised Person's Investment Business, then the Authorised Person need not comply with the requirements in Rule 6.2.1 in respect of that Employee.
+
+35
+
+COBS VER19.290725
+
+6.2.4 An Authorised Person must establish and maintain procedures and controls so as to ensure that an Investment Analyst does not undertake a Personal Account Transaction in an Investment if the Investment Analyst is preparing Investment Research:
+
+(a)

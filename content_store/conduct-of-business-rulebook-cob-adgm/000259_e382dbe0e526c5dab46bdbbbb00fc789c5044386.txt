@@ -1,0 +1,15 @@
+4. A Fund Manager, Fund Administrator, Custodian or Trustee that holds Fund Property must comply with the Fund Rules rather than the Client Money Rules.
+
+5. An Authorised Person in Category 4, other than an Authorised Person engaged in the Regulated Activity of Operating a Private Financing Platform, must not hold or control Client Money.
+
+14.2 General Requirements
+
+14.2.1 An Authorised Person which holds or controls Client Money must comply with, and be able to demonstrate compliance with, the Client Money Rules in relation to that Client Money and have systems and controls in place to ensure that Client Money is identifiable and secure at all times.
+
+14.2.2 Where the Client is a Professional Client which is a Market Counterparty, an Authorised Person engaging in Investment Business may exclude the application of the Client Money Rules but only where it has obtained the prior written consent of the Client to do so.
+
+84
+
+COBS VER19.290725
+
+14.2.3 An Authorised Person which holds or controls Client Money must inform the Regulator in writing without delay if it has not complied with, or is unable in any material respect to comply with, the Client Money Rules.

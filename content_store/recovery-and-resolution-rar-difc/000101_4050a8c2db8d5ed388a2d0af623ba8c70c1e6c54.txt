@@ -1,0 +1,27 @@
+the Pre-Resolution Valuation (or Provisional Valuation, if applicable);
+
+(b)
+
+the amount by which the DFSA has assessed that CET1 Capital items are to be reduced and relevant capital instruments are to be written down or converted pursuant to the Write Down or Conversion Power; and
+
+(c)
+
+the aggregate amount assessed by the DFSA under Rule 3.4.2(1).
+
+Sequence of bail-in
+
+(1) Subject to any exclusions set out in Rule 3.4.1(3) and (4), in exercising the Write Down or Conversion Power when applying the Bail-in Tool, the DFSA shall apply the following sequence to write down or conversion:
+
+(a)
+
+the DFSA shall reduce the CET1 items in accordance with Rule 3.4.3;
+
+(b)
+
+if the total reduction under (a) is less than the sum of the amounts referred to in Rule 3.4.3(3)(b) and (c), the DFSA shall reduce the principal amount of AT1 Capital instruments to the extent required and to the extent of their capacity;
+
+(c)
+
+if the total reduction pursuant to (a) and (b) is less than the sum of the amounts referred to in Rule 3.4.3(3)(b) and (c), the DFSA shall reduce the principal amount of T2 Capital instruments to the extent required and to the extent of their capacity;
+
+(d)

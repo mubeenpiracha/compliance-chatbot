@@ -1,0 +1,29 @@
+A1.1.2
+
+In producing a Regulatory Returns Auditor’s Report for a Branch, an Auditor must state whether;
+
+(a)
+
+the Authorised Person’s regulatory returns have been properly reconciled with the Branch trial balance; and
+
+26
+
+AUD/VER9/07-25
+
+Auditor Module (AUD)
+
+(b)
+
+in the case of an Authorised Firm;
+
+(i)
+
+the regulatory returns specified in PIN or PIB have been properly prepared by the Authorised Firm in accordance with the applicable rules in PIB or PIN; and
+
+(ii)
+
+the Authorised Firm has kept proper Accounting Records in accordance with the applicable Rules in PIB or PIN.
+
+27
+
+AUD/VER9/07-25

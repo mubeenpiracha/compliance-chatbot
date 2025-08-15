@@ -1,0 +1,5 @@
+APP5 MARKET RISK ................................................................................ 319
+
+A5.1 A5.2 A5.3 A5.4 A5.5 A5.6 A5.7 A5.8 A5.9
+
+Market Risk systems and controls ..................................................................... 319 Interest Rate Risk Capital Requirement ............................................................ 321 Equity Risk Capital Requirement ....................................................................... 334 Foreign Exchange Risk Capital Requirement .................................................... 339 Commodities Risk Capital Requirement ............................................................ 341 Option Risk Capital Requirement ...................................................................... 345 Collective Investment Fund Risk Capital Requirement ...................................... 349 Securities Underwriting Risk Capital Requirement ............................................ 351 Use of internal models for Market Risk .............................................................. 357

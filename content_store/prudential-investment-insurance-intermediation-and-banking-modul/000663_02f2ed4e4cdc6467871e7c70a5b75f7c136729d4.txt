@@ -1,0 +1,33 @@
+b.
+
+a funding maturity schedule;
+
+210
+
+PIB/VER50/07-25
+
+9.2.6
+
+9.2.7
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+c.
+
+a list of large providers of funding;
+
+d.
+
+reports on Collateral and encumbered assets to enable compliance with Rule 9.2.8;
+
+e.
+
+a liquidity costs, benefits and risks allocation report to assist compliance with Rule 9.2.9;
+
+f.
+
+intra-day liquidity reports to assist compliance with Rule 9.2.10;
+
+g.
+
+where appropriate, a schedule of Islamic funding sources;

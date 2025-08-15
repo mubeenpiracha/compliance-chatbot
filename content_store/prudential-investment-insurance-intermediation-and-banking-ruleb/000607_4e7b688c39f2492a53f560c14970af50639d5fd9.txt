@@ -1,0 +1,47 @@
+Guidance
+
+1.
+
+Management information should include the following:
+
+in
+
+218
+
+PRU VER17.290725
+
+a.
+
+a cash-flow or funding gap report;
+
+b.
+
+a funding maturity schedule;
+
+c.
+
+a list of large providers of funding;
+
+d.
+
+where appropriate, a schedule of Islamic funding sources;
+
+e.
+
+a limit monitoring and exception report;
+
+f.
+
+asset quality and trends;
+
+g.
+
+earnings projections; and
+
+h.
+
+the Authorised Person's reputation in the market and the condition of the market itself.
+
+2.
+
+Where an Authorised Person is a member of a Group, it should be able to assess the potential impact on it of Liquidity Risk arising in other parts of the Group.

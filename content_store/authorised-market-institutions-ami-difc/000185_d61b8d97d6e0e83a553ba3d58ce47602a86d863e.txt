@@ -1,0 +1,31 @@
+(ii)
+
+a firm that is regulated by a Financial Services Regulator in a Recognised Jurisdiction.
+
+54
+
+AMI/VER28/03-25
+
+AUTHORISED MARKET INSTITUTIONS (AMI)
+
+5B.6
+
+Technology audit reports
+
+5B.6.1 An Authorised Market Institution must ensure that it meets the requirements relating to technology audit reports that would apply to an Authorised Firm that uses DLT or similar technology to Operate a MFT that trades Crypto Tokens under COB section 15.8.
+
+5B.7
+
+Other requirements
+
+Appropriateness Assessment
+
+5B.7.1 An Authorised Market Institution that Operates a MTF that trades Crypto Tokens or Crypto Token Derivatives must not carry on that service with or for a Retail Client, unless it has carried out an appropriateness assessment of the Person and formed a reasonable view that the Person has:
+
+(a)
+
+adequate skills and expertise to understand the risks involved in trading in Crypto Tokens or Crypto Token Derivatives (as the case may be); and
+
+(b)
+
+the ability to absorb potentially significant losses resulting from trading in Crypto Tokens or Crypto Token Derivatives (as the case may be).

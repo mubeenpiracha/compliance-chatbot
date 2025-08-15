@@ -1,0 +1,7 @@
+Originator
+
+(a) an entity which, either itself or through related entities, directly or indirectly, creates the Exposure being securitised; or
+
+(b) any entity which purchases or advises or causes an SPE to purchase the Exposures of a third party, which are then used in a securitisation (for avoidance of doubt, selling credit protection such that the entity or the SPE has a long position in the Credit Risk of the obligor is equivalent to purchasing Exposures);
+
+Where an entity lends to an SPE with a view to enabling that SPE to make loans which are then used in a securitisation, the entity will generally be deemed to be acting as an Originator.

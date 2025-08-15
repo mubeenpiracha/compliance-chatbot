@@ -1,0 +1,39 @@
+A5.10 Credit Valuation Adjustment Risk Capital Requirement
+
+Guidance
+
+This section presents the method for the calculation of the Credit Valuation Adjustment Risk Capital Requirement under Rule 5.10A.1.
+
+A5.10.1 In this section:
+
+(a)
+
+“Covered Transaction” means:
+
+(i)
+
+a derivative transaction but excluding derivatives transacted directly with a Qualifying CCP; and
+
+(ii) a SFT if:
+
+(A)
+
+it is fair-valued under the Authorised Firm’s applicable accounting framework; and
+
+(B)
+
+the Authorised Firm’s CVA Risk arising from the transaction is material;
+
+(b)
+
+“CVA Risk” means the risk of losses arising from changing credit valuation adjustment (CVA) values in response to changes in Counterparty credit spreads and market risk factors that drive prices of Covered Transactions; and
+
+(c)
+
+“Eligible CVA Hedge” means a transaction used for the purpose of mitigating the Counterparty credit spread component of CVA Risk, and managed as such and that is either:
+
+(i)
+
+a single-name credit default swap or a contingent credit default swap which references:
+
+(A)

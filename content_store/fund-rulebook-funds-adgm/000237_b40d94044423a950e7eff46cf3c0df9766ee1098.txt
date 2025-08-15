@@ -1,0 +1,21 @@
+Function of the Auditor
+
+16.3.8
+
+A Fund Manager must, in writing, require its auditor to:
+
+(a)
+
+conduct an audit of the Fund's financial statements in accordance with the requirements of the relevant standards published by the International Auditing and Assurance Standards Board (IAASB); and
+
+(b)
+
+produce a Fund Auditor's Report on the audited financial statements in accordance with GEN Rule 6.6.8.
+
+80
+
+FUNDS VER10.100625
+
+16.3.9
+
+The requirements in Rules 16.3.8 and 16.4.5(a) for financial statements to be audited and for a Fund Auditor's Report to be produced may be waived by the Regulator, on a case-by-case basis in relation to Exempt Funds and Qualified Investor Funds where the Fund Manager has obtained a Special Resolution of Unitholders in support of such a waiver.

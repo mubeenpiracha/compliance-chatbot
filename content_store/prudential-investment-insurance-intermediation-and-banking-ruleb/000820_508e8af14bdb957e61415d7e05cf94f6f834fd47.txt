@@ -1,0 +1,19 @@
+Guidance
+
+If both legs of the foreign exchange derivative are denominated in currencies other than the domestic currency, the notional amount of each leg is converted to the domestic currency and the leg with the larger domestic currency value is the adjusted notional amount.
+
+Add-on for foreign exchange derivatives
+
+A4.6.48 The effective notional for foreign exchange derivatives is calculated in accordance
+
+with the following formula:
+
+𝐸𝑓𝑓𝑒𝑐𝑡𝑖𝑣𝑒𝑁𝑜𝑡𝑖𝑜𝑛𝑎𝑙𝑗
+
+(𝐹𝑋) = ∑ 𝛿𝑖 ∗ 𝑑𝑖 𝑖∈𝐻𝑆𝑗
+
+(𝐹𝑋) ∗ 𝑀𝐹𝑖
+
+(𝑡𝑦𝑝𝑒)
+
+where i ε HSj refers to trades of hedging set HSj

@@ -1,0 +1,29 @@
+Account.
+
+15.13 Notification of Failure to Comply
+
+15.13.1 An Authorised Person must inform the Regulator in writing without delay if it has not complied with, or is unable, in any material respect, to comply with the requirements in the Safe Custody Rules.
+
+16.
+
+RESOLUTION PLANNING FOR CLIENT MONEY, RELEVANT MONEY AND SAFE CUSTODY ASSETS
+
+Guidance
+
+This chapter contains Rules which ensure that an Authorised Person maintains and is able to retrieve information that would, in the event of its insolvency, assist an insolvency practitioner in achieving a timely return of Client Money, Relevant Money and Safe
+
+105
+
+COBS VER19.290725
+
+Custody Assets (Chapters 14 and 15) held by the Authorised Person to Clients or Payment Service Users, as applicable.
+
+16.1
+
+This chapter applies to an Authorised Person where it:
+
+(a)
+
+holds, safeguards or administers Financial Instruments or Virtual Assets for a Client;
+
+(b)

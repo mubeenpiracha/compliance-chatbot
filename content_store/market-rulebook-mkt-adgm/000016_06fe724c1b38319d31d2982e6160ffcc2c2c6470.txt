@@ -1,0 +1,29 @@
+Listed Entity;
+
+(f)
+
+Reporting Entity;
+
+(g)
+
+Person who is a Related Party;
+
+(h)
+
+Person who is a Restricted Person;
+
+(i)
+
+Person who is a Connected Person;
+
+(j)
+
+Person appointed as a Sponsor, compliance adviser or other expert adviser of a Reporting Entity; and
+
+(k)
+
+Person appointed under Chapter 6 as a Stabilisation Manager or Stabilisation Agent.
+
+1.1.2 Where a Rule prescribes a requirement on a Listed Entity or an Undertaking, each Director, Partner or other Person charged with the management of that Listed Entity or Undertaking must take all reasonable steps within its control to secure compliance with the requirement by the Reporting Entity or Undertaking.
+
+1.1.3 Where a Rule prescribes a requirement relating to a Director, Partner or Employee of a

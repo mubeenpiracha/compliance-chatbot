@@ -1,0 +1,23 @@
+[Deleted]
+
+Guidance
+
+When determining whether it has satisfactory arrangements for recording the transactions effected on, or cleared, or to be cleared, by means of, its facilities, a Recognised Body should have regard to:
+
+17
+
+MIR VER10.290725
+
+(a)
+
+its arrangements for creating, maintaining and safeguarding an audit trail of transactions for at least 7 years; and
+
+(b)
+
+the type of information recorded and the extent to which the record includes details for each transaction of:
+
+the name of the Financial Instrument (and, if relevant, the underlying asset) and the price, quantity and date of the transaction;
+
+the identities and, where appropriate, the roles of the counterparties to the transaction;
+
+if its rules make provision for transactions to be effected, cleared or to be cleared in more than one type of facility, or under more than one part of its rules, the type of facility in which, or the part of its rules under which, the transaction was effected, cleared or to be cleared; and

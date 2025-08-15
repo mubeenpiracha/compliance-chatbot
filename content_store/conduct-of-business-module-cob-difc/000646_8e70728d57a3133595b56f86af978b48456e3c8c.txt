@@ -1,0 +1,27 @@
+APP5 CLIENT MONEY PROVISIONS
+
+A5.1 Application
+
+A5.1.1 This appendix applies to an Authorised Firm, in accordance with Rule 6.12.2
+
+A5.2 General requirements
+
+A5.2.1 (1)
+
+The provisions of this appendix are referred to as the Client Money Provisions.
+
+(2)
+
+The types of Client described in Rule 6.12.2 are referred to in this appendix as Segregated Clients.
+
+A5.2.2 An Authorised Firm which holds or controls Client Money for a Segregated Client
+
+must:
+
+(a)
+
+comply with the Client Money Provisions in relation to that Client Money; and
+
+(b)
+
+have systems and controls in place to be able to evidence compliance with the Client Money Provisions.

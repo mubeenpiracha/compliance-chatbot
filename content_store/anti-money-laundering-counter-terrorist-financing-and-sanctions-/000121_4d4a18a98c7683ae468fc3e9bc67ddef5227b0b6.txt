@@ -1,0 +1,7 @@
+Under Federal AML legislation, if the customer is a legal person, the Relevant Person must identify any person who, alone or jointly with other persons, has a controlling ownership interest of 25% or more in the legal person i.e. it applies a specified threshold. This does not affect the approach that should be taken under Rule 7.3.1(1)(b) and Rule 7.3.3 for verifying the identity of Beneficial Owners, where no threshold is specified (see Guidance items 4 to 7 above). As a result, under the Federal AML legislation a Relevant Person will need to obtain information identifying natural persons who have a controlling interest of more than 25%. Then, in accordance with the risk-based approach in Guidance items 4 to 7, the Relevant Person should determine whether it is necessary also to identify other persons who may be Beneficial Owners, and verify their identity.
+
+Guidance on politically exposed persons
+
+9.
+
+Individuals who have, or have had, a high political profile, or hold, or have held, public office, can pose a higher money laundering risk to a Relevant Person as their position may make them vulnerable to corruption. This risk also extends to members of their families and to known

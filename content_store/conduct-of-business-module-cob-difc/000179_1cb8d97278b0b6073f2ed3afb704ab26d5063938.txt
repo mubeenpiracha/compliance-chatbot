@@ -1,0 +1,9 @@
+Guidance
+
+1.
+
+A non-market price Transaction is a Transaction where the dealing rate or price paid by the Authorised Firm or its Client differs from the prevailing market rate or price to a material extent or the Authorised Firm or its Client gives materially more or less in value than it receives in return.
+
+2.
+
+In general, Authorised Firms should undertake transactions at the prevailing market price. Failure to do this may result in an Authorised Firm participating, whether deliberately or unknowingly, in the concealment of a profit or loss, or in the perpetration of a fraud.

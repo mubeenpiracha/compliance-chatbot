@@ -1,0 +1,17 @@
+The DFSA may specify additional information to be presented in the Actuary’s report. Guidance to Rule 3.6.1 indicates that, where the DFSA permits an Insurer to carry on Direct Long-Term Insurance Business with features of a kind described in Rule 3.6.1(1), it may, as a condition of that permission, require additional information to be provided in the Actuary’s
+
+33
+
+PIN/VER18/04-23
+
+PRUDENTIAL – INSURANCE BUSINESS (PIN)
+
+report. That additional information could include, for example, detail on market-consistent valuations of guarantees or options, and the results of scenario testing.
+
+7.3.7
+
+Subject to Rule 7.3.8, where an Insurer carries on Direct Long-Term Insurance Business, the report referred to in Rule 7.3.5 must include the information set out in Rule 7.3.6 in respect of such business segregated by the jurisdiction in which it is carried on.
+
+7.3.8 Where business in a jurisdiction is of limited significance, disclosures may, at the
+
+discretion of the Actuary, be aggregated for those jurisdictions.

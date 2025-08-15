@@ -1,0 +1,43 @@
+PART 4 OTHER REQUIREMENTS
+
+8
+
+CONTROLLERS
+
+8.1
+
+Application
+
+8.1.1
+
+This chapter applies to:
+
+(a)
+
+an Authorised Market Institution; or
+
+(b)
+
+a Person who is a Controller as defined in Rule 8.1.2.
+
+Definition of a Controller
+
+8.1.2
+
+(1)
+
+A Controller is a Person who, either alone or with any Associate:
+
+(a)
+
+holds 10% or more of the shares in either the Authorised Market Institution or a Holding Company of that institution;
+
+(b)
+
+is entitled to exercise, or control the exercise of, 10% or more of the voting rights in either the Authorised Market Institution or a Holding Company of that institution; or
+
+(c)
+
+is able to exercise significant influence over the management of the Authorised Market Institution as a result of holding shares or being able to exercise voting rights in the Authorised Market Institution or a Holding Company of that institution or having a current exercisable right to acquire such shares or voting rights.
+
+(2)

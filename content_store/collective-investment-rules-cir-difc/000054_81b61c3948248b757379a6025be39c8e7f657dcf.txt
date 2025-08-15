@@ -1,0 +1,25 @@
+Islamic Fund
+
+A Fund is an Islamic Fund if its entire operations are conducted, or held out as being conducted, in accordance with Shari’a.
+
+Guidance
+
+IFR module contains the additional requirements that apply to a Domestic Fund by virtue of it being an Islamic Fund.
+
+Fund of Funds
+
+A Fund is a Fund of Funds if it restricts its investment activities to investing in Units or Debentures of only two or more other Funds.
+
+13
+
+CIR/VER38/08-24
+
+3.1.4
+
+3.1.5
+
+3.1.6
+
+3.1.7
+
+COLLECTIVE INVESTMENT RULES (CIR)

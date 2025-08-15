@@ -1,0 +1,33 @@
+the Reporting Entity; or
+
+(ii)
+
+a Controller of the Reporting Entity.
+
+(2)
+
+In (1), a Person is a Controller of a Reporting Entity if that Person (the first Person), either alone or with his Associates, controls the majority of the voting rights in, or the right to appoint or remove the majority of the Board of, the Reporting Entity or any Person who has similar control over the first Person, including an ultimate Controller of the first Person.
+
+Confidential
+
+84
+
+MKT VER09.020125
+
+(3)
+
+For the purposes of determining whether a Person:
+
+(a)
+
+owns or controls voting Securities in (1)(b); or
+
+(b)
+
+controls the voting rights in or the right to appoint or remove the majority of the Board of a Reporting Entity or a Controller of a Reporting Entity in (2),
+
+any Securities held by that Person and his Associates, including those in which that Person or an Associate of that Person has a beneficial interest, are deemed as his Securities except as specified in (4).
+
+(4)
+
+For the purposes of (3), Securities are not deemed as his Securities where:

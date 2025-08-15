@@ -1,0 +1,17 @@
+73I. Other exclusions
+
+The following do not constitute Third Party Services—
+
+(a)
+
+payment or securities settlement systems that require the accessing, processing or transfer of Specified Information;
+
+(b)
+
+technical services that access, process or transfer Specified Information without having a relationship with the Person to whom the Specified Information relates; and
+
+(c)
+
+services that access, process or transfer Specified Information that is contained in physical form.
+
+Chapter 18 Exclusions Applying to Several Specified Kinds of Activity

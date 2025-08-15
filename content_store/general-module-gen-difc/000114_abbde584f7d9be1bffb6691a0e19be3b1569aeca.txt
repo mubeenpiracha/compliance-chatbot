@@ -1,0 +1,15 @@
+the performance of open contracts relating
+
+(b)
+
+does so by interposing itself between counterparties to such contracts by becoming either the buyer to every seller, or the seller to every buyer.
+
+(4)
+
+In (1)(b), a Person operates an SSS where it operates a system which enables Investments held in accounts to be transferred and settled by book entry according to a set of predetermined multilateral rules.
+
+(5)
+
+Acting as a Central Securities Depository in (1) means holding securities in uncertificated (dematerialised) form to enable book entry transfer of such securities for the purposes of clearing or settlement of transactions on its own facility and on any other similar facility, including an Alternative Trading Facility or a facility supervised or regulated by another Financial Services Regulator.
+
+(6)

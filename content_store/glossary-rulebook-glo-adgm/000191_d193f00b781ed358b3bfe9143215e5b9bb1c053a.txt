@@ -1,0 +1,23 @@
+Defined Terms
+
+Definitions
+
+Value, or sums received from a Payment Service Provider for the execution of a Payment Transaction on behalf of a Payment Service User; or
+
+(d) where the Authorised Person has issued a Fiat-Referenced
+
+Token:
+
+(i)
+
+proceeds earned from the issuance of a Fiat-Referenced Token;
+
+(ii)
+
+interest or other gains earned from the holding of Reserve Investments; or
+
+(iii) proceeds earned from the sale of Reserve Investments.
+
+Relevant Office Holder
+
+Has the meaning given in section 258 of FSMR.

@@ -1,0 +1,17 @@
+(iii)
+
+it holds Insurance Monies and its Licence authorises it to carry on any of the following Financial Services:
+
+(A)
+
+Insurance Intermediation; or
+
+(B)
+
+Insurance Management.
+
+Guidance
+
+The Expenditure Based Capital Minimum is a component of the calculation of the Capital Requirement under sections 3.4 and 3.5 and is a key factor in the calculation of the capital components under Rule 3.2.7.
+
+An Authorised Firm must calculate its Expenditure Based Capital Minimum by multiplying its Annual Audited Expenditure, calculated in accordance with Rule 3.7.3, with the applicable ratio, as set out in the following table:

@@ -1,0 +1,13 @@
+(ii)
+
+on or after recognition as referred to in section 142(1) but before the date from which the clearing obligation takes effect if the contracts have a remaining maturity higher than the minimum remaining maturity determined by the Regulator in accordance with section 142(1)(c).
+
+(2)
+
+If a class of OTC Derivatives that has been previously declared subject to a clearing obligation in accordance with section 142(1) is no longer cleared by at least one Recognised Clearing House or Remote Clearing House, it shall cease to be subject to the clearing obligation.
+
+(3)
+
+Without prejudice to risk-mitigation techniques under section 148, OTC Derivative Contracts that are Intragroup Transactions shall not be subject to the clearing obligation, provided that, at least 30 days before the use of the exemption, the counterparty or counterparties established in the Abu Dhabi Global Market have notified the Regulator in writing that they intend to make use of the exemption.
+
+(4)

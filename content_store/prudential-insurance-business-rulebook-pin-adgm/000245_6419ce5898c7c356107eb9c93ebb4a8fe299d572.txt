@@ -1,0 +1,37 @@
+(a)
+
+Assets that are Invested Assets
+
+80
+
+PIN VER07.290725
+
+Asset
+
+(a) Bonds Rated 'AAA', issued by a Government or Government agency
+
+(b) Bonds not included in (a), Rated 'A' or better
+
+(c) Bonds Rated 'BBB'
+
+(d) Bonds Rated 'BB'
+
+(e) Bonds Rated 'B'
+
+(f)
+
+Bonds Rated 'CCC'
+
+(g) Other Rated bonds
+
+(h) Secured loans – performing
+
+(i)
+
+Secured loans – Non-Performing
+
+(j)
+
+Loans to directors of the Insurer or to directors of Related parties, or to the dependent relatives of such directors
+
+(k) Unsecured loans to employees (except loans of less than $1,000)

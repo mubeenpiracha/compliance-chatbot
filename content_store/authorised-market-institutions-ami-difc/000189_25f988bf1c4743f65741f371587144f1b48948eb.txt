@@ -1,0 +1,31 @@
+Guidance
+
+Rule 7.2.5A sets out further requirements about when a Clearing House may use a Recognised Crypto Token for clearing or settlement of transactions relating to Crypto Tokens.
+
+56
+
+AMI/VER28/03-25
+
+6.
+
+6.1
+
+6.1.1
+
+6.2
+
+6.2.1
+
+AUTHORISED MARKET INSTITUTIONS (AMI)
+
+ADDITIONAL LICENSING REQUIREMENTS FOR OPERATING AN EXCHANGE
+
+Application
+
+(1)
+
+This chapter applies to an Authorised Market Institution Operating an Exchange or an applicant for such a Licence.
+
+(2)
+
+In this chapter, a reference to an “Exchange” is a reference to a Person referred to in (1).

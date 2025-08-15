@@ -1,0 +1,43 @@
+A5.3 Calculation of CVA capital requirement
+
+A5.3.1
+
+An Authorised Person must calculate a portfolio capital requirement for CVA risk for each counterparty in accordance with the following formula, taking into account CVA hedges that are eligible in accordance with Section A5.4:
+
+324
+
+PRU VER17.290725
+
+𝐾 = 2.33 ∙ √ℎ
+
+2
+
+√(∑0.5 ∙ 𝑤𝑖 𝑖
+
+(𝑀𝑖 ∙ 𝐸𝐴𝐷 𝑖
+
+𝑡𝑜𝑡𝑎𝑙 − 𝑀𝑖
+
+ℎ𝑒𝑑𝑔𝑒𝐵𝑖) −∑𝑊𝑖𝑛𝑑 ∙
+
+𝑖𝑛𝑑
+
+𝑀𝑖𝑛𝑑 ∙ 𝐵𝑖𝑛𝑑)
+
+2 +∑0.75 ∙ 𝑤𝑖
+
+𝑖
+
+(𝑀𝑖 ∙ 𝐸𝐴𝐷𝑖
+
+where:
+
+h
+
+= the one-year risk horizon (in units of a year); h=1;
+
+wi
+
+= the weight applicable to counterparty i.
+
+Counterparty i must be mapped to one of the six weights wi based on the Credit Quality Grade determined from an external credit assessment by a nominated ECAI, as set out in Table 1. For a counterparty for which a credit assessment by a nominated ECAI is not available, an Authorised Person must assign wi=1.0% to this counterparty;

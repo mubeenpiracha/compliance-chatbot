@@ -1,0 +1,19 @@
+(b)
+
+If the Offering Third Party Provider has a contractual relationship with the Receiving Third Party Provider’s Customers, then:
+
+(i)
+
+The Offering Third Party Provider is also a Third Party Provider to those Customers.
+
+(ii)
+
+The Offering Third Party Provider is the Primary Financial Institution for the Receiving Third Party Provider.
+
+(c)
+
+If the Offering Third Party Provider does not have a contractual relationship with the Receiving Third Party Provider’s Customers, then:
+
+(i)
+
+The Offering Third Party Provider is not a Third Party Provider when dealing with those Customers.

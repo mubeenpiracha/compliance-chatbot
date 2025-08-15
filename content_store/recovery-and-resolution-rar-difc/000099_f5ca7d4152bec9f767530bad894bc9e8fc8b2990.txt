@@ -1,0 +1,13 @@
+Treatment of shareholders in bail-in
+
+(1) When applying the Bail-in Tool, the DFSA shall take, in respect of shareholders of the Authorised Firm in Resolution, one or both of the following actions:
+
+(a)
+
+cancel existing Shares or transfer them to bailed-in creditors; or
+
+(b)
+
+where, in accordance with the Pre-Resolution Valuation (or Provisional Valuation, if applicable), the Authorised Firm in Resolution has a positive net value, dilute existing shareholders as a result of the conversion into Shares of:
+
+(i)

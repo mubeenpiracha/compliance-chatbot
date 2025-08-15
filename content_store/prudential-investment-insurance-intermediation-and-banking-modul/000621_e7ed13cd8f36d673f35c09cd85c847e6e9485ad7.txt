@@ -1,0 +1,11 @@
+e.
+
+changes in the liquidity of key financial markets or changes in the volatility of market rates; and
+
+f.
+
+changes in key business assumptions and parameters such as the correlation between two currencies. In particular, changes in assumptions used for illiquid instruments and instruments with uncertain contractual maturities help understanding of an Authorised Firm’s risk profile.
+
+5.
+
+An Authorised Firm should consider the standards for stress testing recommended in the paper published in July 2004 by the Basel Committee for Banking Supervision – Principles for management and supervision of interest rate risk – in developing the stress testing scenarios. In particular, an Authorised Firm should include the technical specifications of a standardised interest rate shock detailed in Annex 3 of that paper.

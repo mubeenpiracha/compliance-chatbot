@@ -1,0 +1,25 @@
+liquidity charges
+
+212
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+(c)
+
+provides quantification and attribution of Liquidity Risk that is explicit, transparent and takes into account liquidity under stressed conditions; and
+
+(d)
+
+is reviewed periodically to reflect changing business and market conditions.
+
+Intra-day liquidity
+
+9.2.10 (1) An Authorised Firm must manage its intra-day liquidity positions prudently to ensure that it is able to meet its settlement and payment obligations in a timely manner under business as usual and stressed conditions, in all material currencies and active markets.
+
+(2) For the purposes of (1), an Authorised Firm must be reasonably able to:
+
+(a)
+
+identify and prioritise the most time critical payment and settlement obligations;

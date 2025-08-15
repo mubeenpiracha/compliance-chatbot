@@ -1,0 +1,35 @@
+Anti-Money Laundering, Counter-Terrorist Financing and Sanctions Module (AML)
+
+14 GENERAL
+
+14.1 Groups, branches and subsidiaries
+
+14.1.1
+
+(1)
+
+A Relevant Person which is a DIFC entity must ensure that its policies, procedures, systems and controls required by Rule 5.2.1 apply to:
+
+(a)
+
+any of its branches or Subsidiaries; and
+
+(b)
+
+any of its Group entities in the DIFC.
+
+(2)
+
+Where the anti-money laundering requirements in another jurisdiction differ from those in the DIFC, the Relevant Person must require its branch or Subsidiary in that jurisdiction to apply the higher of the two standards, to the extent permitted by the law of that jurisdiction.
+
+(3)
+
+Where the law of another jurisdiction does not permit the implementation of policies, procedures, systems and controls that are equivalent to or higher than those that apply to the Relevant Person in the DIFC, the Relevant Person must:
+
+(a)
+
+inform the DFSA in writing; and
+
+(b)
+
+apply appropriate additional measures to manage the money laundering risks posed by the relevant branch or Subsidiary.

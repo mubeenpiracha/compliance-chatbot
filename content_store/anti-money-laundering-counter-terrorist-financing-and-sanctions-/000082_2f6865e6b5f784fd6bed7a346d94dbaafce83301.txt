@@ -1,0 +1,9 @@
+Anti-Money Laundering, Counter-Terrorist Financing and Sanctions Module (AML)
+
+Shell Banks
+
+A Relevant Person must not establish or maintain a business relationship with a Shell Bank.
+
+Anonymous or fictitious accounts
+
+A Relevant Person must not establish or maintain an anonymous account, an account in a fictitious name, or a nominee account which is held in the name of one person but which is controlled by or held for the benefit of another person whose identity has not been disclosed to the Relevant Person.

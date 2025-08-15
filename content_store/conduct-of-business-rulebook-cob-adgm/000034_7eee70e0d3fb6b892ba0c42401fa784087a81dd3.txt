@@ -1,0 +1,7 @@
+2.6.4 Group clients
+
+An Authorised Person that is a member of a Group and carries out one or more Regulated Activities where the Regulated Activities carried out by the Authorised Person form part of a bundle of Regulated Activities carried out for the benefit of that Client by Group members of the Authorised Person must ensure that:
+
+(i)
+
+the client classification it adopts for any Regulated Activity carried on which involves the provision of a service to a Client is both consistent with the requirements in these Rules and appropriate for the overall bundle of Regulated Activities which involve the provision of services to a Client;

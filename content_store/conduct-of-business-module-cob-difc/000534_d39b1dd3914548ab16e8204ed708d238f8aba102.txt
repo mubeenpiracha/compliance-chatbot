@@ -1,0 +1,27 @@
+implements appropriate mechanisms to:
+
+(a) measure, monitor, stress-test and manage the policies and strategies referred
+
+to in Rule 12.5.2;
+
+(b) assess whether the policies and strategies are adequate and are operating as
+
+intended in both normal and stressed conditions; and
+
+164
+
+COB/VER48/03-25
+
+CONDUCT OF BUSINESS (COB)
+
+(c)
+
+address any gaps and failures identified.
+
+12.5.4 The Operator of a Scheme must:
+
+(a) ensure that there are:
+
+(i)
+
+clear measures to identify and address liquidity stresses arising within the Scheme; and

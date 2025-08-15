@@ -1,0 +1,33 @@
+Basic materials, energy, industrials, agriculture, manufacturing, mining and quarrying
+
+3.0%
+
+7.0%
+
+Consumer goods and services, transportation and storage, administrative and support service activities
+
+3.0%
+
+8.5%
+
+Technology, telecommunications
+
+2.0%
+
+5.5%
+
+Health care, utilities, professional and technical activities
+
+1.5%
+
+5.0%
+
+Other sector
+
+5.0%
+
+12.0%
+
+Full version of BA-CVA (hedges are recognised)
+
+A5.10.7 If an Authorised Firm uses one or more Eligible CVA Hedges to hedge CVA Risk it must calculate its Credit Valuation Adjustment Risk Capital Requirement, using the following formula:

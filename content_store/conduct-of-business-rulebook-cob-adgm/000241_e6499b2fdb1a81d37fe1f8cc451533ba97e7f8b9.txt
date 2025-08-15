@@ -1,0 +1,27 @@
+11.1.2 Executing a Transaction
+
+An Authorised Person must, pursuant to Rule 6.8.2(b), make a record of the following in respect of each Transaction:
+
+(a)
+
+the identity and account number of the Client for whom the Transaction was Executed, or an indication that the Transaction was for its own account;
+
+(b)
+
+the name of the counterparty;
+
+(c)
+
+the date and time where the Transaction was Executed;
+
+(d)
+
+the identity of the Employee executing the Transaction;
+
+(e)
+
+the Investment, including the number of instruments or their value and price; and
+
+(f)
+
+whether the Transaction was a purchase or a sale, long, short, buyer, seller or other relevant position.

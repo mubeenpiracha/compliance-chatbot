@@ -1,0 +1,31 @@
+HLA ratio
+
+3.9B.6 (1)
+
+The DFSA must determine an HLA Ratio for each Authorised Firm that it designates as a G-SIB or D-SIB.
+
+(2)
+
+The HLA Ratio determined under (1) for a D-SIB must be not less than 1% and not more than 3.5%.
+
+(3)
+
+The DFSA may vary the HLA Ratio determined under this Rule, provided that for a D-SIB the ratio as varied is within the range specified in (2).
+
+(4)
+
+The procedures in Schedule 3 to the Regulatory Law apply to a DFSA decision to set or vary an HLA Ratio for an Authorised Firm.
+
+(5)
+
+If the DFSA decides to set or vary an HLA Ratio, the Authorised Firm may refer the matter to the FMT for review.
+
+52
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+(6)
+
+Paragraphs (4) and (5) do not apply to a decision relating to the HLA Ratio for a G-SIB designated under Rule 1.4.1.

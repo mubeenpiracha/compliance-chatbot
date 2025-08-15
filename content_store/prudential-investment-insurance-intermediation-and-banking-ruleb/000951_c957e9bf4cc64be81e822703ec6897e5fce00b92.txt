@@ -1,0 +1,33 @@
+Futures or forwards on an equity, baskets of equities or equity indices;
+
+(c)
+
+net Underwriting commitments; and
+
+(d)
+
+investments in unleveraged Collective Investment Funds.
+
+(2)
+
+An Authorised Person should calculate either an Equity Risk Capital Requirement or an Option Risk Capital Requirement for a Trading Book position in:
+
+346
+
+PRU VER17.290725
+
+(a)
+
+an equity hedging an Option;
+
+(b)
+
+an equity hedging a company-issued Warrant;
+
+(c)
+
+an Option on an equity, basket of equities, equity index or equity Future provided it is in the money by at least the risk percentage stipulated in A6.3.31; and
+
+(d)
+
+a company issued Warrant which relates to an equity, basket of equities or equity index provided it is in the money by at least the risk percentage stipulated in A6.3.31.

@@ -1,0 +1,13 @@
+Guidance
+
+1.
+
+As a consequence of Rule 4.12.2(1), an Authorised Firm may apply a 0% risk weight to an Exposure to a PSE referred to in Rule 4.12.3(2) if the PSE is incorporated in the U.A.E. and the Exposure is denominated and funded in the domestic currency of the U.A.E.
+
+2.
+
+The DFSA considers that under Rule 4.12.3(2) a PSE could qualify for the same treatment as claims on its central government if it has specific revenue-raising powers and has specific institutional arrangements the effect of which is to reduce its risk of default. Conversely, if a PSE does not have such arrangements or if strict lending rules apply and a declaration of bankruptcy is not possible because of its special public status, the PSE should be treated in accordance with Rule 4.12.3(1).
+
+3.
+
+A PSE will exhibit risk characteristics of a commercial enterprise under Rule 4.12.3(3), in particular, if the entity functions as a corporate in a competitive market even though the state, a regional authority or a local authority is a majority shareholder.

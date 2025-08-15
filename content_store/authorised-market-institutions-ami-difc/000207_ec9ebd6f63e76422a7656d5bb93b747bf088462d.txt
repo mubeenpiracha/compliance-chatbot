@@ -1,0 +1,21 @@
+Guidance
+
+1.
+
+In order to meet the requirements in Rule 6.5.2(1), an Exchange may, within its arrangements:
+
+a.
+
+include a mechanism for “throttling” orders to prevent breaches of its capacity;
+
+b.
+
+prohibit “naked” or “unfiltered” access to its facilities by Members’ clients where the client orders do not pass through pre-trade controls; and
+
+c.
+
+include requirements for Members to have appropriate pre-trade controls on the orders of their clients, which include in-built and automatic rejection of orders outside of certain pre-set parameters.
+
+2.
+
+Pre-trade controls which an Authorised Market Institution requires from its Members should contain:

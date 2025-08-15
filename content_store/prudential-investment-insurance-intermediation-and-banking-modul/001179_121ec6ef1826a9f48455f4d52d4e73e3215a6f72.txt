@@ -1,0 +1,39 @@
+APP7 NOT USED
+
+381
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+APP8 NOT USED
+
+382
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+APP9 LIQUIDITY
+
+A9.1 Application for a global liquidity concession
+
+A9.1.1
+
+(1) This Rule applies to an Authorised Firm carrying on business in or from the DIFC through a Branch that applies for a global liquidity concession under Rule 9.3.2.
+
+(2) The Authorised Firm must demonstrate to the DFSA that:
+
+(a)
+
+its Branch complies with all applicable liquidity systems and controls requirements in sections 9.2 and 9.2A;
+
+(b)
+
+its head office is established in a jurisdiction where there are no legal constraints imposed by the home supervisor or any other authority on the provision of liquidity to its branch; and
+
+(c)
+
+its head office is subject to equivalent or more restrictive liquidity requirements, than those imposed by the DFSA.
+
+(3) The DFSA may, when considering an application from the Authorised Firm for a global liquidity concession, impose additional or alternative conditions to those specified in (2) or disapply a condition in (2).

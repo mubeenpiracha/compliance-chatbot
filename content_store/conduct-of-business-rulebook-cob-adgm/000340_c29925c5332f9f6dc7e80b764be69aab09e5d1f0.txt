@@ -1,0 +1,9 @@
+Guidance
+
+1.
+
+For the purposes of Rule 17.2A.1, the prohibition concerning the use of Fiat- Referenced Tokens which are not Accepted Fiat-Referenced Tokens applies to all Authorised Persons and Recognised Bodies for all transactions including, but not limited to, transactions involving the transfer of Fiat-Referenced Tokens where the Authorised Person or Recognised Body is an intermediary, the safekeeping of Fiat-Referenced Tokens by the Authorised Person or Recognised Body, or payment being made to or by the Authorised Person or Recognised Body.
+
+2.
+
+For the purposes of determining whether a Fiat-Referenced Token meets the requirements of being an Accepted Fiat-Referenced Token, the Regulator will consider the criteria set out chapter 17 in respect of Virtual Assets, including, but not limited to, the ability of transactions in such Fiat-Referenced Token to comply with applicable transaction monitoring and tracing requirements.

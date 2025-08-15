@@ -1,0 +1,21 @@
+Expenditure Based Capital Minimum
+
+A Capital Requirement calculated in accordance with Section 3.7.
+
+Exposure
+
+(1) The maximum loss that an Authorised Person (and where applicable its PSIA holders) might suffer if:
+
+(a)
+
+a Counterparty or a group of Connected their fail Counterparties obligations; or
+
+to meet
+
+(b)
+
+it realises assets or off-balance sheet positions.
+
+(2) An Exposure also
+
+includes any asset or off-balance sheet item, which could result in a potential loss to the Authorised Person due to Market Risk or Operational Risk or any other risk factor.

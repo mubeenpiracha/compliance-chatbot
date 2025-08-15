@@ -1,0 +1,13 @@
+Internal Validation
+
+19.
+
+Authorised Persons should have processes in place to ensure that all their internal models used for purposes of Chapter 5 have been adequately validated by suitably qualified parties independent of the development process to ensure that they are conceptually sound and adequately capture all material risks. The validation should be conducted when the internal
+
+379
+
+PRU VER17.290725
+
+model is initially developed and when any significant changes are made to the internal model.
+
+The validation should also be conducted on a periodic basis but especially where there have been any significant structural changes in the market or changes to the composition of the portfolio which might lead to the internal model no longer being adequate. As techniques and best practices for internal validation evolve, Authorised Persons should apply these advances. Internal model validation should not be limited to back-testing, but should, at a minimum, also include the following:

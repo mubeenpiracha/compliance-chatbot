@@ -1,0 +1,31 @@
+Guidance
+
+Where these positions will require the derivation of notional positions before they can be included in the calculation of Specific Risk and General Market Risk requirements, an Authorised Firm must derive the notional positions in accordance with Rules A5.2.5 to A5.2.12.
+
+A5.2.4 (1)
+
+An Authorised Firm may net, by value, long and short positions in the same debt instrument in its Trading Book to generate the individual net position in that instrument.
+
+(2)
+
+Instruments are considered to be the same for the purposes of (1) where:
+
+(a)
+
+the issuer is the same;
+
+(b)
+
+the instruments have equivalent standing in liquidation; and
+
+(c)
+
+the currency, coupon and maturity are the same.
+
+Derivation of notional positions for certain instruments (including interest rate derivatives)
+
+A5.2.5
+
+(1)
+
+The interest rate risk measurement must include all interest rate derivatives and off-balance sheet instruments in the Trading Book that react to changes in interest rates, including forward rate agreements other forward contracts, futures, interest rate and cross-currency swaps and forward foreign exchange positions.

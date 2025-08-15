@@ -1,0 +1,37 @@
+4.
+
+For the purposes of Rule 7.2.2(1)(d), the DFSA considers that in most situations as soon as reasonably practicable would be within 30 days after the establishment of a business relationship. However, it will depend on the nature of the customer business relationship.
+
+30
+
+AML/VER27/03-25
+
+7.3
+
+7.3.1
+
+7.3.2
+
+Anti-Money Laundering, Counter-Terrorist Financing and Sanctions Module (AML)
+
+Customer due diligence requirements
+
+Undertaking customer due diligence
+
+(1)
+
+In undertaking Customer Due Diligence required by Rule 7.1.1(1)(a) a Relevant Person must:
+
+(a)
+
+identify the customer and verify the customer’s identity;
+
+(b)
+
+identify any Beneficial Owners of the customer and take reasonable measures to verify the identity of the Beneficial Owners, so that the Relevant Person is satisfied that it knows who the Beneficial Owners are;
+
+(c)
+
+if the customer is a legal person or legal arrangement, take reasonable measures to understand the nature of the customer’s business and its ownership and control structure; and
+
+(d)

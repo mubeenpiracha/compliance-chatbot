@@ -1,0 +1,29 @@
+Legal risk
+
+(1)
+
+A Clearing House must have a well-founded, clear, transparent, and enforceable legal basis for each material aspect of its activities in all relevant jurisdictions.
+
+(2)
+
+A Clearing House must have adequate rules and procedures, including contractual arrangements, which are legally enforceable.
+
+(3)
+
+A Clearing House that operates in multiple jurisdictions must:
+
+(a)
+
+identify and mitigate the risks arising from doing business in the relevant jurisdictions, including those arising from conflicting laws applicable in such jurisdictions; and
+
+74
+
+AMI/VER28/03-25
+
+7.2.3
+
+AUTHORISED MARKET INSTITUTIONS (AMI)
+
+(b)
+
+ensure the arrangements referred to in (2) provide a high degree of certainty that actions taken by the Clearing House under its rules and procedures will not be reversed, stayed or rendered void.

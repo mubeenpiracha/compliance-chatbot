@@ -1,0 +1,9 @@
+Timing and Enforcement
+
+9.6.8 A Listed Entity must provide to the Regulator copies of all executed Restriction Agreements it has in place in relation to its Restricted Securities before any Person obtains the Restricted Securities, or any rights in relation to them are issued, transferred to or received by the intended Security Holder or Controller. This Rule does not prevent a Person from obtaining the right to receive Restricted Securities on the condition that a Restriction Agreement is entered into.
+
+9.6.9 A Listed Entity must obtain, and submit to the Regulator, within two Business Days after the issue of Restricted Securities, an undertaking from a bank, trustee, custodian, Recognised Body, CSD or other entity deemed suitable by the Regulator, to place a holding lock on the Restricted Securities held by it, and not to release the holding lock without the Regulator’s prior written consent.
+
+9.6.10 A Listed Entity must comply with, and enforce, a Restriction Agreement and its
+
+constitution, to ensure compliance with the requirements for Restricted Securities.

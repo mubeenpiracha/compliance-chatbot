@@ -1,0 +1,15 @@
+85
+
+MIR VER10.290725
+
+Event
+
+Timing
+
+Suspension of services and inability to operate facilities 34. A Recognised Body:
+
+As soon as practicable.
+
+(a) suspends trading in any Derivative (other than an Option in relation to a Security), in any type of Security or in any type of Option in relation to a Security; or (b) temporarily calls a trading halt in respect of any type of Security or in any type of Option in relation to a Security.
+
+35. A Recognised Body suspends trading on a market in any Financial Instrument.

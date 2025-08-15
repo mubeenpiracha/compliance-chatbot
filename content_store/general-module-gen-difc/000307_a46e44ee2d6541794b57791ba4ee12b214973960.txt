@@ -1,0 +1,13 @@
+In this section:
+
+(a)
+
+“Cyber Incident” means an incident arising from the malicious use of information or communication technology that adversely affects an Authorised Person’s ICT Assets;
+
+(b)
+
+“Cyber Risk” means the risk of:
+
+(i)
+
+financial loss, operational disruption or damage; or

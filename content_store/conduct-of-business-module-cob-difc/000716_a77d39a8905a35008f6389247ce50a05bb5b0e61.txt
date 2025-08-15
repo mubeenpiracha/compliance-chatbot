@@ -1,0 +1,39 @@
+230
+
+COB/VER48/03-25
+
+CONDUCT OF BUSINESS (COB)
+
+A7.3 Additional requirements for issuers of Stored Value
+
+Guidance
+
+This table sets out the requirements that must be complied with under section 13.6 by an Authorised Firm issuing Stored Value.
+
+A7.3.1
+
+Issue and redemption of Stored Value
+
+An Authorised Firm must:
+
+(a) on receipt of funds from a User, issue Stored Value at par without delay;
+
+and
+
+(b) upon the request of a Stored Value holder, redeem at par the Stored Value held, except where such a request is received more than 6 years from the termination of the relevant Client Agreement to issue Stored Value.
+
+A7.3.2 No interest or other return permitted
+
+An Authorised Firm must not pay any interest or other return on Stored Value.
+
+A7.3.3
+
+Limit on stored value issued and transactions
+
+An Authorised Firm must maintain effective systems and controls which ensure that:
+
+(a)
+
+the total amount of Stored Value on issue to any individual User at any point in time does not exceed $5,000; and
+
+(b) no single Payment Transaction relating to Stored Value exceeds $1,000.

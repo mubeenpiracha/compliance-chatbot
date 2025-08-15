@@ -1,0 +1,13 @@
+(ii)
+
+floating rate.
+
+A4.11.17 An Authorised Firm must calculate the value of an Exposure to the Issuer of a Security or a credit derivative used as a hedge that is held in the Authorised Firm's Trading Book by calculating the excess of the current market value of all long positions over all short positions in all the Securities or credit derivatives issued by that Issuer, based on the seniority of those Securities or credit derivatives in the liquidation of the Issuer.
+
+A4.11.18 An Authorised Firm must not offset an Exposure to one Issuer against an Exposure to
+
+another even where the Issuers are in a group of Closely Related Counterparties.
+
+A4.11.19 An Authorised Firm must include as a long position a commitment by it to buy:
+
+(a)

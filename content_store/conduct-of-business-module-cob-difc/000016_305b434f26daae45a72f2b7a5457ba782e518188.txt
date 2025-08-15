@@ -1,0 +1,3 @@
+Tokens ................................................................................................................ 170 14.2 Operating a Facility for Investment Tokens which permits direct access .............. 171 14.3 Requirements for Providing Custody of Investment Tokens ................................. 173 14.4 Provision of key features document for Investment Tokens ................................. 176 14.5 Technology audit reports ..................................................................................... 177
+
+15 ADDITIONAL REQUIREMENTS FOR FIRMS PROVIDING FINANCIAL SERVICES RELATING TO CRYPTO TOKENS ................................179

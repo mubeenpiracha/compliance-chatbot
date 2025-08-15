@@ -1,0 +1,27 @@
+6.12 Discount rates
+
+6.12.1 The Regulator may specify actuarial principles to be used by a Captive Insurer in
+
+determining the discount rate.
+
+6.12.2 For the purposes of determining the net present value of expected future payments in accordance with Rule 6.10 or 6.11, a Captive Insurer must use as a discount rate the gross redemption yield of a portfolio of sovereign risk securities which:
+
+(a)
+
+are AAA-rated by Standard & Poor's (or the equivalent by another Approved Rating Agency); and
+
+(b)
+
+have a similar expected payment profile to the liability being measured.
+
+6.12.3 For the purposes of determining the net present value of expected future receipts in accordance with Rule 6.10.8, a Captive Insurer must use as a discount rate the gross redemption yield of a portfolio of sovereign risk securities which:
+
+(a)
+
+are AAA-rated by Standard & Poor's (or the equivalent by another Approved Rating Agency); and
+
+(b)
+
+have a similar expected payment profile to the liability being measured.
+
+6.12.4 PIN 4.1.4 applies in respect of determination of ratings for the purposes of Rules 6.12.2

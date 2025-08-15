@@ -1,0 +1,29 @@
+controls that:
+
+(a)
+
+ensure the integrity of the securities issues;
+
+(b)
+
+ensure it has a definitive record of title to relevant securities at all times; and
+
+(c)
+
+minimise and manage risks associated with the safekeeping and transfer of securities.
+
+10.3.2 A CSD must ensure that securities are recorded in book-entry form prior to the trade date.
+
+10.3.3 A CSD's systems and controls must ensure that:
+
+(a)
+
+the unauthorised creation or deletion of records relating to securities is prevented;
+
+(b)
+
+appropriate intraday reconciliation is conducted to verify that the number of securities making up a securities issue or part of a securities issue submitted to the CSD is equal to the sum of securities recorded on the securities accounts of the members and other participants of the CSD;
+
+(c)
+
+where entities other than the CSD are involved in the reconciliation process for a securities issue, such as the issuer, registrars, issuance agents, transfer agents or other CSDs, the CSD has adequate arrangements for cooperation and information exchange between all involved parties so that the integrity of the issue is maintained; and

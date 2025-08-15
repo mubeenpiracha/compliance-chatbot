@@ -1,0 +1,9 @@
+Guidance
+
+In Rule 3.16.2 CET1 Capital is that calculated at step A3, T1 Capital is that calculated at step A7 and Capital Resources is that calculated at step A11 of Rule 3.15.3.
+
+3.16.3
+
+The Regulator may impose a further requirement, termed an Individual Capital Requirement (ICR), on an Authorised Person to hold additional Capital Resources arising from Pillar 2 adjustments (see Chapter 10), including where it designates an Authorised Person as a D-SIB. Where the Authorised Person has an ICR imposed on it, then the Authorised Person must, at all times, maintain adequate Capital Resources of the type and amount as specified in Rule 10.6.1 in addition to those kept to meet the capital adequacy requirements outlined in Rule 3.2.4.
+
+3.17

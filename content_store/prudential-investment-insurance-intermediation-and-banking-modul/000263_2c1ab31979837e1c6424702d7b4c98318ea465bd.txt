@@ -1,0 +1,17 @@
+Guidance
+
+1.
+
+In calculating its minimum Leverage Ratio under Rule 3.18.4(2) an Authorised Firm that, for example, is subject to a 2% HLA Ratio for being a G-SIB, should have a Leverage Ratio of at least 4%, consisting of 3% (the minimum Leverage Ratio) plus 1% (50% of its HLA Ratio).
+
+2.
+
+Circumstances in which the DFSA may require a higher minimum Leverage Ratio under Rule 3.18.4(4) include where:
+
+a.
+
+it is necessary due to the Authorised Firm’s risk profile;
+
+b.
+
+it has received a request from a regulator as part of measures to preserve financial stability; or

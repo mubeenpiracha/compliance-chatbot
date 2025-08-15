@@ -1,0 +1,19 @@
+A6.7 Client disclosure
+
+A6.7.1 (1)
+
+Before an Authorised Firm Arranges Custody for a Client it must disclose to that Client, if applicable, that the Client’s Safe Custody Investments or Safe Custody Crypto Tokens may be held in a jurisdiction outside the DIFC and the market practices, insolvency and legal regime applicable in that jurisdiction may differ from the regime applicable in the DIFC.
+
+(2)
+
+Before an Authorised Firm Provides Custody for a Client it must disclose to the Client on whose behalf the Safe Custody Investments or Safe Custody Crypto Tokens will be held:
+
+(a)
+
+a statement that the Client is subject to the protections conferred by the Safe Custody Provisions;
+
+(b)
+
+the arrangements for recording and registering Safe Custody Investments or Safe Custody Crypto Tokens, claiming and receiving dividends and other entitlements and interest and the giving and receiving instructions relating to those Safe Custody Investments or Safe Custody Crypto Tokens;
+
+(c)

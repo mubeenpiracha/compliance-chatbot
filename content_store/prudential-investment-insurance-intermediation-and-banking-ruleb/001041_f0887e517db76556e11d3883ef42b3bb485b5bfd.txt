@@ -1,0 +1,15 @@
+a.
+
+tests to demonstrate that any assumptions made within the internal model are appropriate and do not underestimate or overestimate the risk;
+
+b.
+
+in addition to regulatory back-testing of programmes, Authorised Persons should carry out their own internal model validation tests, including back-testing, in relation to the risks and structures of their portfolios; and
+
+c.
+
+the use of hypothetical portfolios to ensure that the internal model is able to account for particular structural features that may arise, for example material basis risks and concentration risks.
+
+20.
+
+The Authorised Person should perform back-testing on both actual and hypothetical changes in the portfolio's value.

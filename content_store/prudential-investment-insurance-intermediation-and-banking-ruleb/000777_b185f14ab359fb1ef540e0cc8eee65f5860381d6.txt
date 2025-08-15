@@ -1,0 +1,27 @@
+a.
+
+immediacy, which refers to the speed with which a trade of a given size at a given cost is completed;
+
+b.
+
+depth, which refers to the maximum size of a trade for any given bid-ask spread;
+
+c.
+
+tightness, which refers to the difference between buy and sell prices; and
+
+d.
+
+resiliency, which refers to how quickly prices revert to original or fundamental levels after a large transaction.
+
+3.
+
+The Authorised Person should have experienced Persons familiar with the relevant market for the Collateral to judge the market liquidity of the Collateral and determine if the minimum holding period is sufficient for any given Collateral. The holding period should be deemed to be insufficient if the value of the Collateral would move by more than 1% should the Collateral be liquidated within the minimum holding period in these Rules, taking into
+
+282
+
+PRU VER17.290725
+
+account the immediacy, depth, tightness and resiliency of the market. In such a situation, the holding period should be adjusted upwards, such that the Collateral can be safely liquidated within the period, without causing a price movement of more than 1% relative to the value after the haircut.
+
+4.

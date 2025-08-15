@@ -1,0 +1,7 @@
+A6.9 Size factor component
+
+Guidance
+
+The effect of the size factor component is to provide a relatively higher capital requirement in respect of segments with smaller portfolios of Invested Assets. The provisions in this section apply the relevant provisions of Rule A4.9 to the segments of a Cell Company.
+
+A6.9.1 The base figure for the size factor component is determined by aggregating the following

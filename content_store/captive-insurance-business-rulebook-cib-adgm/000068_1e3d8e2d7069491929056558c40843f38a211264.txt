@@ -1,0 +1,11 @@
+6.4.1 For the purpose of these Rules, except where a Rule provides for a different method of recognition or valuation, when a Captive Insurer, upon initial recognition, designates its liabilities as at fair value through profit or loss, it must always adjust any value calculated
+
+24
+
+CIB VER06.290725
+
+in accordance with Rule 6.3 by subtracting any unrealised gains or adding back in any unrealised losses which are not attributable to changes in a benchmark interest rate.
+
+6.4.2 The provisions of Rule 6.4.1 apply only to the extent that the items referred to in that paragraph would otherwise be recognised under the accounting requirements applicable to the Captive Insurer.
+
+6.5

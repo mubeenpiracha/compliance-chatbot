@@ -1,0 +1,35 @@
+(3) An Authorised Firm must restore access to the service, or offer another service, as soon as practicable after the reasons for restricting or stopping use of the service cease to be valid.
+
+227
+
+COB/VER48/03-25
+
+CONDUCT OF BUSINESS (COB)
+
+A7.2.5
+
+Obligations in relation to Payment Instruments
+
+(1) An Authorised Firm issuing a Payment Instrument must ensure that:
+
+(a) a User to whom a Payment Instrument is issued notifies the firm in the agreed manner and without delay on becoming aware of the loss, theft, misappropriation or unauthorised use of the Payment Instrument;
+
+(b) a User’s security credentials are not accessible to any Person except
+
+the User to whom the Payment Instrument is issued;
+
+(c)
+
+no Payment Instrument is issued on an unsolicited basis except to replace an existing instrument as agreed with the User; and
+
+(d)
+
+the User is provided with an appropriate means to notify the firm of loss or unauthorised use of a Payment Instrument issued to the User.
+
+(2) An Authorised Firm is responsible for the loss of the Payment Instrument or
+
+of the User’s security credentials if that occurs within its control.
+
+A7.2.6
+
+Unauthorised or incorrectly executed Payment Transactions

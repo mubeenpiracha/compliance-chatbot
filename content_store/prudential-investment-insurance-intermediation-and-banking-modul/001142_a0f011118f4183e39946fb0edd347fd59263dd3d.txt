@@ -1,0 +1,27 @@
+the Counterparty directly;
+
+(B) an entity legally related to the Counterparty, where legally related refers to cases where the reference name and the Counterparty are either a parent and its subsidiary or two subsidiaries of a common parent; or
+
+(C) an entity that belongs to the same sector and region as the
+
+Counterparty; or
+
+(ii) an index credit default swap.
+
+General provisions
+
+A5.10.2 An Authorised Firm must calculate its Credit Valuation Adjustment Risk Capital Requirement for its entire portfolio of Covered Transactions and Eligible CVA Hedges by using the following approaches:
+
+(a)
+
+the basic approach for credit valuation adjustment risk (BA-CVA) under Rules A5.10.4 to A5.10.12; or
+
+367
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+(b)
+
+the alternative approach under Rule A5.10.14, provided that the Authorised Firm meets the conditions set out in Rule A5.10.13.

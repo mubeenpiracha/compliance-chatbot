@@ -1,0 +1,31 @@
+19.20
+
+Payer or Payee’s liability for unauthorised Payment Transactions
+
+19.20.1 (1)
+
+Subject to (2) and (3), a Payment Service Provider which is liable under Rule 19.19.1 may require that the Payer be liable up to a maximum of US$50 for any losses incurred in respect of unauthorised Payment Transactions arising from the use of a lost or stolen Payment Instrument, or from the misappropriation of a Payment Instrument.
+
+(2)
+
+The liability in (1) does not apply if:
+
+(a)
+
+the loss, theft or misappropriation of the Payment Instrument was not detectable by the Payer prior to the unauthorised Payment Transaction; or
+
+(b)
+
+the loss was caused by acts or omissions of an Employee, agent or branch of a Payment Service Provider or of an entity which carried out activities on behalf of the Payment Service Provider.
+
+(3)
+
+The Payment Service Provider is not liable for any losses incurred by the Payer in respect of an unauthorised Payment Transaction where the Payer:
+
+140
+
+COBS VER19.290725
+
+(a)
+
+has acted fraudulently; or

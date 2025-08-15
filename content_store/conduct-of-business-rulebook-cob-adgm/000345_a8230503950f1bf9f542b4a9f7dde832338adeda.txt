@@ -1,0 +1,37 @@
+(ii)
+
+the destination of Virtual Assets or Fiat-Referenced Tokens, as applicable, is determined, in case of an outgoing transaction.
+
+Security
+
+(d)
+
+A security plan describing the security arrangements relating to:
+
+(i)
+
+the privacy of sensitive data;
+
+(ii)
+
+networks and systems;
+
+(iii)
+
+cloud based services;
+
+(iv)
+
+physical facilities; and
+
+(v)
+
+documents, and document storage.
+
+Risk management
+
+(e)
+
+A risk management plan containing a detailed analysis of likely risks with both high and low impact, as well as mitigation strategies. The risk management plan must cover, but is not limited to:
+
+(i)

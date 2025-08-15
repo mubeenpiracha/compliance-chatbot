@@ -1,0 +1,15 @@
+(g)
+
+the documentation of the securitisation does not contain any clauses that:
+
+(i)
+
+require the Authorised Person systematically to alter the underlying Exposures such that the pool's weighted average credit quality is improved unless this is achieved by selling Exposures to independent and unaffiliated third parties which are not Connected to the Authorised Person or Related Persons of the Authorised Person in accordance with Rule 4.4.6 at market prices;
+
+309
+
+PRU VER17.290725
+
+(ii)
+
+allow for increases in a retained First Loss Position or Credit Enhancement provided by the securitisation's inception;

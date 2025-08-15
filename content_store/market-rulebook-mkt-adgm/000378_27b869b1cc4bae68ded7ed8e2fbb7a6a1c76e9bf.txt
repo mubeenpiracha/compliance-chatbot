@@ -1,0 +1,39 @@
+11.8 Production Targets
+
+11.8.1 A Mining Reporting Entity must not disclose a Production Target that is based wholly on:
+
+(1)
+
+an Exploration Target;
+
+(2)
+
+a combination of Inferred Mineral Resources and an Exploration Target; or
+
+(3)
+
+or in part on, Non-Equivalent Estimates.
+
+11.8.2 A Production Target may be disclosed by a Mining Reporting Entity in relation to:
+
+(1)
+
+the Mining Reporting Entity’s Mineral Resources and Ore Reserves Holdings; or
+
+(2)
+
+a material Mining Project of the Mining Reporting Entity (or two or more Mining Projects which, together, are material).
+
+11.8.3 A Mining Reporting Entity’s disclosure pursuant to Rule 11.8.2 must include:
+
+(1)
+
+in relation to the assumptions used to determine the Production Target:
+
+(a)
+
+all material economic assumptions employed; or
+
+(b)
+
+if the Mining Reporting Entity considers the material economic assumptions to be commercially sensitive, a statement to that effect and an explanation of the methodology used to determine the material economic assumptions; and

@@ -1,0 +1,49 @@
+Value of Trading Book positions
+
+A2.1.2
+
+(1)
+
+In calculating the value of positions for the purposes of Rule 2.2.1(c) an Authorised Person must value:
+
+(a)
+
+equities and debt instruments at their market prices;
+
+(b)
+
+Derivatives according to the values of the underlying; and
+
+(c)
+
+Underwriting positions according to the market value of the underlying Securities.
+
+(2)
+
+An Authorised Person must sum all long and short positions (ignoring the sign) to calculate its total Trading Book size.
+
+Positions included in the Trading Book
+
+A2.1.3
+
+An Authorised Person must include in its Trading Book, subject to the Rules on trading intent and hedging Non-Trading Book Exposures:
+
+(a)
+
+each proprietary position in a Financial Instrument, commodity or commodity Derivative which is held with trading intent as detailed in Rule A2.1.5(3);
+
+(b)
+
+each position arising from Matched Principal broking and market making;
+
+(c)
+
+each position taken in order to hedge another element of the Trading Book;
+
+237
+
+PRU VER17.290725
+
+(d)
+
+each Exposure due to a repurchase agreement (repo), or Securities and commodities lending, which is based on a Security or commodity included in the Trading Book;

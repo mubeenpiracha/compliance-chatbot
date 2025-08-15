@@ -1,0 +1,49 @@
+c.
+
+the Alternative Standardised Approach is prescribed in section A6.3.
+
+2.
+
+The application of various components of the rules on Operational Risk to Authorised Firms licensed to carry out various financial services is detailed in the table below:
+
+Financial Services
+
+Prudential Category
+
+Capital requirement
+
+Systems and controls requirement
+
+PII cover
+
+Accepting Deposits
+
+1
+
+YES
+
+YES
+
+NO
+
+Providing Credit
+
+2
+
+YES
+
+YES
+
+NO
+
+Dealing in Investments as Principal
+
+2
+
+YES
+
+YES
+
+NO
+
+Dealing in Investments as Agent

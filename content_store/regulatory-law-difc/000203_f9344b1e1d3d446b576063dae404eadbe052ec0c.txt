@@ -1,0 +1,17 @@
+84M. Valuations
+
+(1)
+
+Before the DFSA exercises a Resolution Power or applies a Resolution Tool in respect of an Authorised Firm, it shall cause a valuation to be carried out to assess the value of the assets and liabilities of the Authorised Firm (a “Pre-Resolution Valuation”).
+
+(2)
+
+Notwithstanding (1), where the urgency of the case makes it appropriate for a Resolution Power or Resolution Tool to be exercised or applied in respect of an Authorised Firm before a Pre-Resolution Valuation can be carried out, the DFSA may cause a provisional valuation to be carried out of the assets and liabilities of the Authorised Firm (a “Provisional Valuation”).
+
+(3) Where the DFSA causes a Provisional Valuation to be carried out under (2), it shall cause a further valuation (a “Definitive Valuation”) to be carried out on the assets and liabilities of the Authorised Firm as soon as practicable after the Provisional Valuation.
+
+72
+
+(4)
+
+A Pre-Resolution Valuation, Provisional Valuation and Definitive Valuation shall be carried out in such manner as the DFSA may prescribe in the Rules.

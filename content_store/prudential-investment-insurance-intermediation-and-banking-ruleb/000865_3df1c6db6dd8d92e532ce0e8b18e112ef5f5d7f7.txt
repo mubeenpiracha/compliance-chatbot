@@ -1,0 +1,17 @@
+312
+
+PRU VER17.290725
+
+Guidance
+
+In relation to Rules A4.10.1 and A4.10.2, significant Credit Risk will be considered to have been transferred by the Originator of a securitisation if:
+
+a.
+
+the RWA amounts of the mezzanine securitisation positions held by the Originator in the securitisation do not exceed 50% of the RWA amounts of all mezzanine securitisation positions existing in this securitisation; and
+
+b.
+
+where in a given securitisation and the Originator can demonstrate that the Exposure value of the securitisation positions that would be subject to deduction from Capital Resources or a 1000% risk weight exceeds a reasonable estimate of the expected loss on the securitised Exposures by a substantial margin, the Originator does not hold more than 20% of the Exposures values of the securitisation positions that would be subject to deduction from Capital Resources or a 1000% risk weight.
+
+there are no mezzanine securitisation positions

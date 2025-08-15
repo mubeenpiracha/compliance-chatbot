@@ -1,0 +1,9 @@
+a resolution regime of the defaulting participant, involving "porting" or transferring the open positions and margin related to Client transactions to a non-defaulting participant, receiver, third party or bridge financial company;
+
+for all remaining rights and liabilities of the defaulter under or in respect of unsettled Market Contracts to be discharged and for there to be paid by or to the defaulter such sum of money (if any) as may be determined in accordance with the Default Rules, by offsetting all relevant rights, assets and liabilities on the relevant account;
+
+for the certification by or on behalf of the Recognised Clearing House of the sum finally payable or, as the case may be, of the fact that no sum is payable, separately for each account of the defaulter;
+
+the Recognised Clearing House's segregation and portability arrangements, including the method for determining the value at which Client positions will be transferred; and
+
+provisions ensuring that losses that arise as a result of the default of a Member of the Recognised Clearing House or threaten the Recognised Clearing House's solvency are allocated with a view to ensuring that the

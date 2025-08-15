@@ -1,0 +1,21 @@
+as either:
+
+348
+
+PRU VER17.290725
+
+(a)
+
+notional positions in the constituent equities; or
+
+(b)
+
+a single notional position.
+
+A6.3.15 Where Rule A6.3.14(b) applies, an Authorised Person must apply the highest risk percentage to the single notional position that would apply to any one of its constituents.
+
+A6.3.16 An Authorised Person must treat a Future or forward on a multiple country equity index
+
+as either:
+
+(a)

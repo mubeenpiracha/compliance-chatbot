@@ -1,0 +1,27 @@
+A Fund Manager must:
+
+(a)
+
+ensure that at each valuation point there are at least as many Units in issue of any class as there are Units registered to Unitholders of that class; and
+
+44
+
+CIR/VER38/08-24
+
+8.5
+
+8.5.1
+
+8.5.2
+
+8.6
+
+8.6.1
+
+COLLECTIVE INVESTMENT RULES (CIR)
+
+(b)
+
+not do, or omit to do, anything that is or is reasonably likely to confer on itself a benefit or advantage at the expense of a Unitholder or prospective Unitholder.
+
+(2) Where a Fund Manager has not complied with (1) or there is any other valuation error, it must correct the error as soon as possible and must reimburse the Fund any costs it may have incurred in correcting the position, subject for such reimbursement as set out in the Prospectus.

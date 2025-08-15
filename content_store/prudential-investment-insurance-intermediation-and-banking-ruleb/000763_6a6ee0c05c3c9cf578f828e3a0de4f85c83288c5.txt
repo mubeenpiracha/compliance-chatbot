@@ -1,0 +1,15 @@
+for currency mismatch between the
+
+277
+
+PRU VER17.290725
+
+Guidance
+
+Where the residual maturity of the Collateral is shorter than the residual maturity of the Exposure, the Authorised Person must substitute PA calculated in accordance with Rules 4.13.14 to 4.13.16 for C(1 – HC – HFX).
+
+A4.3.7
+
+An Authorised Person using standard supervisory haircuts or own-estimate haircuts under the FCCA must calculate E* for any collateralised transaction covered by a qualifying bilateral Netting agreement or qualifying cross-product Netting agreement other than OTC Derivative transactions or long settlement transactions, using the following formula:
+
+𝐸∗ = Max {0, [∑(𝐸) −∑(𝐶) + add-on]}

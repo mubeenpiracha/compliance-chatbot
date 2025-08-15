@@ -1,0 +1,17 @@
+any relevant communications with the FIU;
+
+(f)
+
+the documents in Rule 4.6.1; and
+
+(g)
+
+any other matter that the Relevant Person is expressly required to record under these Rules,
+
+for at least six years from the date on which the notification or report was made, the business relationship ends or the Transaction is completed, whichever occurs last.
+
+Guidance
+
+A Relevant Person must comply with all applicable Rules on record keeping, regardless of whether or not it is outsourcing an element of its CDD process, see also Rule 9.3. This includes the obligation for the Relevant Person to maintain a copy of all documents obtained during initial and ongoing CDD. Where using eKYC for CDD, the Relevant Person should retain all the necessary data gathered during biometric authentication to ensure compliance with applicable Rules.
+
+4.5.2 A Relevant Person must immediately provide to the Regulator, upon request, or a law enforcement agency, pursuant to a valid and enforceable request or requirement, a copy of the record referred to in Rule 4.5.1.

@@ -1,0 +1,17 @@
+Restriction on own account transactions
+
+(1) Unless (2) applies, an Authorised Firm or its Associate must not knowingly execute an Own Account Transaction in an Investment, Crypto Token or related Investment, which is the subject of Investment Research, prepared either by the Authorised Firm or its Associate, until the Clients for whom the Investment Research was principally intended have had a reasonable opportunity to act upon it.
+
+(2) The restriction in (1) does not apply if:
+
+(a)
+
+the Authorised Firm or its Associate is a Market Maker in the relevant Investment or Crypto Token;
+
+(b)
+
+the Authorised Firm or its Associate undertakes an Execution-Only Transaction for a Client; or
+
+(c)
+
+it is not expected to materially affect the price of the Investment or Crypto Token.

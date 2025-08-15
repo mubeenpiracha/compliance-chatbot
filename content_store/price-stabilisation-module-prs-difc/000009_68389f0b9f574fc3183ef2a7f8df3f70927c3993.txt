@@ -1,0 +1,37 @@
+Securities:
+
+(a)
+
+make allotments of a greater number of the Eligible Securities than were offered (“over-allotment”);
+
+(b)
+
+sell or agree to sell the Eligible Securities in order to establish a short position in them;
+
+(c)
+
+buy or agree to buy the Eligible Securities in order to close out or liquidate any position that has been established by Price Stabilisation under (a) or (b);
+
+(d)
+
+sell or agree to sell the Eligible Securities in order to close out or liquidate any position that has been established by Price Stabilisation under (a) or (b); or
+
+3
+
+PRS/VER7/04-18
+
+PRICE STABILISATION (PRS)
+
+(e)
+
+offer or attempt to do anything permitted by (a), (b), (c), and (d).
+
+2.2.3 Any over-allotment permitted by Rule 2.2.2(a) must meet the following criteria:
+
+(a)
+
+Eligible Securities may be over-allotted only during the Offer period and at the Offer Price;
+
+(b)
+
+the over-allotment option may be exercised by the beneficiaries of such an option only where Eligible Securities have been over-allotted;

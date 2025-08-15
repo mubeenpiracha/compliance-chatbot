@@ -1,0 +1,19 @@
+Guidance
+
+1.
+
+Maintaining a Trade Repository is not a separately licensed Financial Service, but may be carried on by an Authorised Person which has on its Licence an endorsement permitting it to do so. An Authorised Person maintaining a Trade Repository is subject to some specific requirements relating to that activity, which are set out in App 5.
+
+2.
+
+The functions of a Trade Repository promote increased transparency and integrity of information, particularly for centrally clearing over-the-counter derivatives. Currently there are no transaction reporting requirements in the DIFC which require reporting to Trade Repositories.
+
+7
+
+GEN/VER67/03-25
+
+GENERAL (GEN)
+
+3.
+
+An Authorised Person does not carry on the activities of a Trade Repository to the extent that it maintains records of transactions pursuant to the record keeping requirements applicable to that firm (such as those relating to transactions carried out on behalf of its Clients by an Authorised Firm, or transactions carried out on the facilities of an Authorised Market Institution).

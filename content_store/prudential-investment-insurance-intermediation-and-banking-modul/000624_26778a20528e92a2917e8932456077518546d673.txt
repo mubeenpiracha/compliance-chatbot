@@ -1,0 +1,31 @@
+197
+
+PIB/VER50/07-25
+
+8
+
+8.1
+
+8.1.1
+
+8.1.2
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+GROUP RISK
+
+Introduction
+
+Guidance
+
+1.
+
+This chapter deals with management of Group Risk exposure of an Authorised Firm. Group Risk refers to the risk of potential losses incurred by an Authorised Firm on account of its relationship with other members of its Financial Group, if it were to be part of one.
+
+2.
+
+This chapter includes requirements that an Authorised Firm implement:
+
+a.
+
+an effective management framework for Group Risk exposure;

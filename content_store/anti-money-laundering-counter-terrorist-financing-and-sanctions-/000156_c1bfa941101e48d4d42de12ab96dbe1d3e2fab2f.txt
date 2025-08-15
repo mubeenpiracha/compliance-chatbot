@@ -1,0 +1,27 @@
+Anti-Money Laundering, Counter-Terrorist Financing and Sanctions Module (AML)
+
+8.3 Money Service Providers
+
+8.3.1
+
+(1) An Authorised Firm that Provides Money Services must:
+
+(a)
+
+maintain a complete, current and accurate register of all agents it uses to conduct its Money Services business and make the register available to the DFSA upon request;
+
+(b)
+
+include all agents referred to in (a) as part of its AML compliance programme and monitor agents’ compliance with the programme;
+
+(c)
+
+comply with all applicable AML requirements in the jurisdictions in which it operates, whether directly or through the use of agents;
+
+(d)
+
+when executing Payment Transactions, assess and consider all relevant information including information about the payer, payee and any beneficiary, as applicable, to determine whether a Suspicious Activity Report should be made; and
+
+(e)
+
+if appropriate, make a Suspicious Activity Report in any jurisdiction impacted or connected to a suspicious Payment Transaction, and make available relevant transaction information to the authorities responsible for AML compliance in the relevant jurisdiction.

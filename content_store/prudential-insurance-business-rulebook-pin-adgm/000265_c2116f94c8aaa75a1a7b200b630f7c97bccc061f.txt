@@ -1,0 +1,7 @@
+A4.10 Underwriting risk component
+
+Guidance
+
+The purpose of the underwriting risk component of the Minimum Capital Requirement is to require an Insurer to set aside capital to address the risk that the cost of claims in respect of General Insurance Business will vary from the cost implicit in the premiums being charged. The basic calculation model set out in Rule A4.10.2 applies different factors to the premium in respect of different Classes of Business, based on the different perceived risk of variability associated with each. The model is modified by additional provisions dealing with certain Classes of Business. This section also restricts the extent to which reinsurance may be taken into account when calculating the underwriting risk component.
+
+A4.10.1 Subject to the other provisions of this section, an Insurer must calculate its underwriting risk component as the sum of the amounts obtained by multiplying the Insurer's base premium, for each Class of Business, by the percentage factors set out in the following table.

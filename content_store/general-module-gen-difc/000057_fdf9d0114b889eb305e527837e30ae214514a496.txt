@@ -1,0 +1,15 @@
+Payment Transaction for their own account.
+
+2.6.4
+
+(1) A Person does not Provide Money Services where the Person issues electronically stored monetary value that can be used only to pay for goods or services, other than Money Services, provided by that Person or another entity in the Person’s Group.
+
+(2) Where a portion of electronically stored monetary value issued by a Person can be used only to pay for goods or services referred to in (1), then the Person does not Provide Money Services in respect of that relevant portion if the conditions in (3) are met.
+
+(3) The conditions in (2) are that the relevant portion:
+
+(a) is discrete and clearly identifiable; and
+
+(b) can be used only to pay for goods and services referred to in (1) and
+
+cannot be used for any other purpose.

@@ -1,0 +1,19 @@
+Netting Sets
+
+A4.6.17 An Authorised Person may net transactions subject to any legally valid form of bilateral netting which results in legal substitution of one single payable/receivable amount for previous gross obligations.
+
+A4.6.18
+
+In every case in which netting is applied, the Authorised Person must demonstrate to the Regulator that it has the following in place:
+
+290
+
+PRU VER17.290725
+
+(a)
+
+A netting contract with the counterparty or other agreement which creates a single legal obligation, covering all included transactions, such that the Authorised Person would have either a claim to receive or obligation to pay only the net sum of the positive and negative mark-to-market values of included individual transactions in the event a counterparty fails to perform due to any of the following:
+
+(i)
+
+default,

@@ -1,0 +1,19 @@
+Market risk
+
+5.4.8
+
+An Authorised Firm Managing a PSIA, which is an Unrestricted PSIA, must calculate its PSIACOMmarket in relation to all underlying Islamic Contracts in the manner prescribed in PIB chapter 5, except as may be provided in Rules 5.4.8 to 5.4.17.
+
+5.4.9
+
+An Authorised Firm must treat Sukuk held in its Trading Book as equity for the purpose of calculating its Equity Risk Capital Requirement and determine the same in accordance with PIB Rule 5.5.2.
+
+5.4.10 Where investments are made using Musharaka or Mudaraba contracts with commodities as the underlying assets, an Authorised Firm must calculate its Commodities Risk Capital Requirement in accordance with PIB Rule 5.7.2.
+
+5.4.11
+
+An Authorised Firm which is exposed to the risk of foreign currencies and gold under any Islamic Contract, must calculate its Foreign Exchange Risk Capital Requirement in accordance with PIB Rule 5.6.2.
+
+5.4.12
+
+An Authorised Firm which is exposed to commodities including precious metals but excluding gold under any Islamic Contract, must calculate its Commodities Risk Capital Requirement in accordance with PIB Rule 5.7.2.

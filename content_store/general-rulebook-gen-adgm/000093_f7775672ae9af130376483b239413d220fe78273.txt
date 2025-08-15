@@ -1,0 +1,15 @@
+Protection of ICT Assets against Cyber Incidents
+
+An Authorised Person must use and maintain up-to-date anti-malware software and ensure that regular updates are applied to its anti-malware signature files.
+
+Guidance
+
+The Regulator expects an Authorised Person to use anti-malware software to conduct regular automatic scanning of its ICT Assets, in particular servers and workstations, and to scan all files received over networks (including email attachments and files downloaded from websites) and files kept on storage media before use. The anti- malware software should be used to detect and block malware, potentially malicious links in emails and malicious websites.
+
+(1)
+
+An Authorised Person must implement network security controls, including appropriate network architectures, protocols and network security devices, to protect the perimeters of its Networks.
+
+(2)
+
+An Authorised Person must implement network security monitoring procedures to facilitate prompt detection of unauthorised or malicious activities.

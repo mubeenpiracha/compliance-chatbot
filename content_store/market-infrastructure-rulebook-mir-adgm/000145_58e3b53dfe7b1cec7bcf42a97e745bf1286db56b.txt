@@ -1,0 +1,23 @@
+Admission of Financial Instruments to trading
+
+3.9.1
+
+Admission to trading
+
+In order to admit Financial Instruments to trading, a Recognised Investment Exchange must satisfy the following requirements, save and except for Recognised Investment Exchanges which only admit to trading Derivatives, in which case only (a), (b), (c), (d) and (i) apply:
+
+(a)
+
+A Recognised Investment Exchange’s Business Rules must be clear and transparent in relation to the admission of Financial Instruments to trading on any market operated by it.
+
+(b)
+
+The Business Rules must ensure that all Financial Instruments admitted to trading on any market operated by the Recognised Investment Exchange are capable of being traded in a fair, orderly and efficient manner.
+
+(c)
+
+The Business Rules must ensure that:
+
+all Financial Instruments other than Derivatives admitted to trading on a market operated by the Recognised Investment Exchange are freely negotiable; and
+
+all contracts for Derivatives admitted to trading on a regulated market operated by the Recognised Investment Exchange are designed so as to allow for their orderly pricing as well as for the existence of effective settlement conditions.

@@ -1,0 +1,29 @@
+its Capital Requirement;
+
+(b)
+
+any Individual Capital Requirement that may be imposed pursuant to Chapter 10; or
+
+(c)
+
+any other buffer, where applicable.
+
+Guidance
+
+Where an Authorised Person does not hold sufficient dedicated CET1 Capital to meet the Combined Buffer Requirement it will be required to undertake remedial action in order to restore the level of CET1 Capital to the required level.
+
+Restrictions on distributions
+
+3.19.3 Where an Authorised Person fails to meet the Combined Buffer Requirement, it must:
+
+(a)
+
+calculate the maximum distributable amount in accordance with Rule 3.19.6; and
+
+(b)
+
+ensure that it does not undertake any of the following actions until such time as it has calculated the maximum distributable amount and notified the Regulator under Rule 3.19.7:
+
+(i)
+
+make a distribution in connection with CET1 Capital, or create an obligation to pay variable remuneration or discretionary pension benefits, or pay variable remuneration if the obligation to pay was created at a time when the institution failed to meet its Combined Buffer Requirement; or

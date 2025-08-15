@@ -1,0 +1,5 @@
+(k)
+
+An Authorised Person must reconcile the Client's Collateral in accordance with Rule 15.9.1 in the case of Collateral which is not a Virtual Asset, and Rule 17.8.3 in the case of Collateral which is a Virtual Asset.
+
+15.11A

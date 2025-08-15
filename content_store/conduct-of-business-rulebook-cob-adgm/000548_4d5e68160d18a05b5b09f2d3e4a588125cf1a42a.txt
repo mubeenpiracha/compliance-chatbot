@@ -1,0 +1,19 @@
+Guidance
+
+In this Rule, “net equity” means the sum of the deposited margin and the unrealised net profit and loss on open positions in that account.
+
+23.8 Negative Balance Protection
+
+The liability of a Retail Client for all their investments in OTC Leveraged Products connected to their account is limited to the funds in that account maintained for the purpose of trading OTC Leveraged Products.
+
+Guidance
+
+1.
+
+2.
+
+Funds in the account of a Retail Client are limited to the then current amount of deposited margin in the account plus all unrealised net profits from open positions. Any cash or other assets in the account for purposes other than trading OTC Leveraged Products do not represent funds available to meet the liability.
+
+183
+
+COBS VER19.290725

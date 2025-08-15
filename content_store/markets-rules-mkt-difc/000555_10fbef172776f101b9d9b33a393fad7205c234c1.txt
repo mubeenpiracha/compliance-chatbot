@@ -1,0 +1,15 @@
+(ii)
+
+the Person who is responsible for the safe custody of the Security Token when held in the Digital Wallet; and
+
+(iii)
+
+risks associated with the Digital Wallet, such as the consequences of the loss of cryptographic keys (private and public), cyber security risks associated with Digital Wallets held online, loss, theft or destruction of Digital Wallets held offline, and whether and how such risks are addressed;
+
+(c)
+
+whether smart contracts are being used or executed on the facility and, if so:
+
+(i)
+
+what form those smart contracts take;

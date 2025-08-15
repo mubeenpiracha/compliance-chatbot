@@ -1,0 +1,11 @@
+Guidance
+
+1.
+
+Rule 3.3.33 provides overarching requirements for an Authorised Person’s business continuity arrangements. The Regulator expects the Cyber Incident Response Plan to be integrated into the Authorised Person’s overall crisis management and disaster recovery plans, where applicable.
+
+2.
+
+The Regulator expects an Authorised Person’s Cyber Incident Response Plan to include a plan for communication with internal and external stakeholders using pre-approved communication templates relating to identified scenarios that may easily be adjusted, if necessary, and promptly sent to the relevant intended recipients if there is a Cyber Incident. The communication plans may be developed to address a range of possible scenarios taking into consideration experience gained from previous incidents.
+
+3.

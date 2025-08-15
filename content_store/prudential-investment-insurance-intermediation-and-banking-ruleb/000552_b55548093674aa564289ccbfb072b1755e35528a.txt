@@ -1,0 +1,31 @@
+Application
+
+7.1.1
+
+This Chapter applies to an Authorised Person in Category 1 or 2 on a solo basis.
+
+7.1.2 Where an Authorised Person to which this Chapter applies is part of a Financial Group, this Chapter also applies on a consolidated basis in relation to all the entities within the Financial Group.
+
+7.2
+
+Stress testing for Non-Trading Book interest rate risk
+
+7.2.1
+
+An Authorised Person must carry out an evaluation of its Exposure to the interest rate risk arising from its Non-Trading Book activities. An Authorised Person with balance sheet positions in different currencies must measure its risk Exposures in each of the material currencies.
+
+7.2.2
+
+(1)
+
+The evaluation under Rule 7.2.1 must cover the effect of a sudden and unexpected parallel change in interest rates of 200 basis points in both directions.
+
+(2)
+
+An Authorised Person must apply a 200 basis point shock to each material currency Exposure it faces as part of its Non-Trading Book.
+
+199
+
+PRU VER17.290725
+
+7.2.3

@@ -1,0 +1,11 @@
+In addition to the requirements in Rule 4.13.9, where an Authorised Person has an Exposure that is protected by a guarantee or that is counter-guaranteed by a central government or central bank, a regional government or local authority or a PSE claims on which are treated as claims on the central government in whose jurisdiction they are established, a MDB or an international organisation to which a 0% risk weight is assigned under Section 4.12, an Authorised Person may treat the Exposure as being protected by a direct guarantee from the central government or central bank in question, provided the following requirements are complied with:
+
+(a)
+
+the counter-guarantee covers all Credit Risk elements of the Exposure;
+
+(b)
+
+both the original guarantee and the counter-guarantee comply with all the in this Section, except that the requirements for guarantees set out counter-guarantee need not be direct and explicit with respect to the original Exposure; and
+
+(c)

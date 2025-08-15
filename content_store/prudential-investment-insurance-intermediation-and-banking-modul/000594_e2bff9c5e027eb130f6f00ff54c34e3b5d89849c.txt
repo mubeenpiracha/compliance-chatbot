@@ -1,0 +1,19 @@
+Guidance
+
+In Rule 6.13.4(b) an example of a small amount may be a transaction not exceeding a certain value e.g. $50 or five payments not exceeding an aggregated amount of $150 over a specified period.
+
+Technical standards
+
+6.13.5 An Authorised Firm must develop and implement technical standards relating to:
+
+(a)
+
+the implementation of the requirements for strong customer authentication referred to in Rule 6.13.3;
+
+(b) procedures for applying the exclusions in Rule 6.13.4;
+
+(c) common and secure standards of communication for the purpose of identification, authentication, notification, and sharing information with Users and other service providers; and
+
+(d)
+
+if applicable, procedures, systems and controls that ensure the reliability and continuity of the interface made available by a Payment Account Provider.

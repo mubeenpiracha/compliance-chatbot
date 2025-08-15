@@ -1,0 +1,21 @@
+Anti-Money Laundering, Counter-Terrorist Financing and Sanctions Module (AML)
+
+b.
+
+an unusual transaction with the customer is expected to take place;
+
+c.
+
+there is a material change in the business relationship with the customer; or
+
+d.
+
+there is a material change in the nature or ownership of the customer.
+
+3.
+
+The degree of the on-going due diligence to be undertaken will depend on the customer risk assessment carried out under Rule 6.1.1.
+
+4.
+
+A Relevant Person’s transaction monitoring policies, procedures, systems and controls, which may be implemented by manual or automated systems, or a combination thereof, are one of the most important aspects of effective CDD. Whether a Relevant Person should undertake the monitoring by means of a manual or computerised system (or both) will depend on a number of factors, including:

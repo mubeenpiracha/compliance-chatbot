@@ -1,0 +1,9 @@
+Guidance
+
+1.
+
+In exceptional circumstances, a Relevant Person may not be able to identify any natural person as the ultimate owner or controller of a body corporate. In such a case, provided it has exhausted all other means of identifying the owner or controller and it has no grounds for suspecting money laundering, it can treat each of the members of the senior management of the body corporate as the Beneficial Owners (see Rule 7.3.3(4)). However, in such a case the Relevant Person will need to keep records of all the actions it has taken to identify the Beneficial Owners (see Rule 7.3.3(5)).
+
+2.
+
+If the ownership or control arrangements of a customer are of such a nature that the Relevant Person is prevented from identifying the Beneficial Owners (for example, if Beneficial Owners hold bearer shares or other negotiable instruments and there is no effective system for recording the current holder of the shares or instruments), the Relevant Person is prohibited from establishing a business relationship with the customer under Rule 6.1.4.

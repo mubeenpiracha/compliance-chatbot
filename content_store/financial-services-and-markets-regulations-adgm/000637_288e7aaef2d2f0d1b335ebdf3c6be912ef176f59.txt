@@ -1,0 +1,23 @@
+(f)
+
+Payment Transactions based on any of the following documents drawn on the Payment Service Provider with a view to placing Money at the disposal of the Payee:
+
+(i)
+
+paper cheques of any kind, including travellers cheques;
+
+(ii)
+
+bankers’ drafts;
+
+(iii)
+
+paper-based vouchers;
+
+(g)
+
+Payment Transactions carried out within a payment or securities settlement system amongst Payment Service Providers, banks, settlement agents, central counterparties, clearing houses, and central banks, their respective agents or branches, or for their respective own accounts;
+
+(h)
+
+Payment Transactions related to securities asset servicing, including dividends, income or other distributions, or redemption or sale, carried out by persons referred to in subparagraph (g), or by investment firms, credit institutions, collective investment undertakings or asset management companies providing investment services or by any other entities allowed to have the custody of financial instruments;

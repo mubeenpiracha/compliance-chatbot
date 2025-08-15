@@ -1,0 +1,31 @@
+Net Stable Funding Ratio - NSFR
+
+9.3.12
+
+An Authorised Person must maintain an NSFR of at least 100% at all times, calculated using the following formula.
+
+NSFR = Available Stable Funding / Required Stable Funding
+
+Guidance
+
+1.
+
+The NSFR complements the LCR and is designed to enable Authorised Persons to maintain a stable funding profile over a longer time horizon than that associated with the LCR. It is based on assigning factors to the liabilities and capital instruments of an Authorised Person that reflect their stability, and to the assets and off-balance sheet items of that Authorised Person that reflect their liquidity.
+
+2.
+
+Section A10.4 of App10 sets out how the amounts of Available Stable Funding and Required Stable Funding are to be calculated.
+
+9.3.13
+
+An Authorised Person must notify the Regulator immediately and confirm in writing if its NSFR falls below 100% or if it believes that is likely to happen.
+
+9.3.14
+
+(1)
+
+The Regulator may by written notice to an Authorised Person in relation to the NSFR Requirement applying to it:
+
+(a) adjust the NSFR Requirement;
+
+(b) adjust requirements under section A10.4 of App10 for calculating its ASF

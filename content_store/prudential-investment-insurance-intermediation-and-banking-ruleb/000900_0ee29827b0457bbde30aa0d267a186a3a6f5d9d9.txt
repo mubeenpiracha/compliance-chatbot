@@ -1,0 +1,29 @@
+ℎ𝑒𝑑𝑔𝑒
+
+1 − 𝑒−0.05∗𝑀𝑖 0.05 ∗ 𝑀𝑖
+
+ℎ𝑒𝑑𝑔𝑒
+
+325
+
+𝑡𝑜𝑡𝑎𝑙 − 𝑀𝑖
+
+ℎ𝑒𝑑𝑔𝑒𝐵𝑖)
+
+2
+
+PRU VER17.290725
+
+Bind
+
+= the full notional of one or more index credit default swap of purchased protection used to hedge CVA risk. That notional amount must be discounted by applying the following factor:
+
+1 − 𝑒−0.05∗𝑀𝑖𝑛𝑑 0.05 ∗ 𝑀𝑖𝑛𝑑
+
+Wind
+
+= the weight applicable to index hedges. An Authorised Person must determine Wind by calculating a weighted average of wi that are applicable to the individual constituents of the index;
+
+Mi
+
+= the effective maturity of the transactions with counterparty i. Mi must be calculated as the notional weighted average maturity of the transactions with counterparty i;

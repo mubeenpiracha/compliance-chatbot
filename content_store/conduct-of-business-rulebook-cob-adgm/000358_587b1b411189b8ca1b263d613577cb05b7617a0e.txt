@@ -1,0 +1,35 @@
+18.6 Client Assets
+
+18.6.1 A PFP Operator that holds Client Assets must:
+
+(a)
+
+engage the services of an Eligible Custodian; or
+
+(b)
+
+comply with the Client Money Rules and Safe Custody Rules.
+
+18.6.2 Any Body Corporate established by the PFP Operator for use as an intermediary to hold
+
+Client Assets must be domiciled in ADGM.
+
+18.7 Record keeping
+
+18.7.1 A PFP Operator must, for a minimum of six years, maintain and keep a record of:
+
+(a)
+
+all disclosures made in accordance with Rules 18.5.1 and 18.5.2;
+
+119
+
+COBS VER19.290725
+
+(b)
+
+all documentation between PFP Client(s), any Body Corporate established by the PFP Operator to facilitate a transaction, and the PFP Prospect; and
+
+(c)
+
+the due diligence undertaken in accordance with Rule 18.4.1.

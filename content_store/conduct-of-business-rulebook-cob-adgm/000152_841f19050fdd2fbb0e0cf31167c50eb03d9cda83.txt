@@ -1,0 +1,23 @@
+Insurance Business and Intermediation Restrictions
+
+7.2.1 An Authorised Person may conduct Insurance Business or Insurance Intermediation with
+
+or for a Client only to the extent specified in this section.
+
+48
+
+COBS VER19.290725
+
+7.2.2 An Authorised Person must ensure that it does not:
+
+(a)
+
+if it is an Insurer, Effect a Contract of Insurance or carry out a Contract of Insurance through an establishment maintained by it in the Abu Dhabi Global Market; or
+
+(b)
+
+if it is an Insurance Intermediary, act in relation to a Contract of Insurance;
+
+where the contract is in relation to a risk situated within the U.A.E., unless the risk is situated in the Abu Dhabi Global Market, or the contract is one of re-insurance.
+
+7.2.3

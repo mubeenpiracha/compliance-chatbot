@@ -1,0 +1,9 @@
+Insurers should remain alert to the need to consider asset and liability risks on an integrated basis. Systems should not consider only risks taken in isolation, but should consider how even when individual risks are addressed, combinations of circumstances may still expose an Insurer to loss. This is of particular relevance where a single outcome is exposed to more than one risk, for example where assets need to be available not only in a particular location but also in a specific currency.
+
+6.
+
+Appropriate procedures should be in place for assessing the credit-worthiness of counterparties to whom the Insurer is significantly exposed. Further guidance in this area is provided in A2.11.
+
+7.
+
+Appropriate procedures should be in place for setting prudent limits for the Insurer's aggregate exposure to certain categories of asset. Such limits should take account of the suitability of assets covering Insurance Liabilities. They may take account of the Insurer's other assets bearing in mind the possibility that such assets might be needed in the future to meet Insurance Liabilities.

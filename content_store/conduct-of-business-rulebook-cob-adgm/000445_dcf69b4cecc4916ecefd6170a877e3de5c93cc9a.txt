@@ -1,0 +1,19 @@
+(ii)
+
+at par value.
+
+(2)
+
+Redemption payments must be made in the fiat currency to which the Fiat- Referenced Token is referenced.
+
+(3)
+
+The redemption period specified by Rule 19A.4.1(1)(b)(i) may be extended following notification to or upon direction from the Regulator.
+
+147
+
+COBS VER19.290725
+
+(4)
+
+Redemption of Fiat-Referenced Tokens may be subject to a Fee which is proportionate and commensurate with the costs actually incurred for the purposes of such redemption by the Authorised Person which has issued the Fiat- Referenced Token, only where the charging of such a Fee is stated in the white paper.

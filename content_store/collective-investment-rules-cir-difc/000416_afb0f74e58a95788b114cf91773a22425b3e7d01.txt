@@ -1,0 +1,15 @@
+Guidance
+
+1.
+
+Section 4.1 of this module contains the definitions of Excluded Offers, such as Execution- only Transactions and Transactions with market Counterparties.
+
+2.
+
+A Fund Manager should note the requirements in Article 50(1) of the Law. Accordingly, a Prospectus drawn up pursuant to Rule 14.1.3 should be made available to prospective Unitholders for as long as the Offer is open and once the Offer is closed, the Fund Manager’s obligation to make the Prospectus available would cease.
+
+3.
+
+Articles 16(4) and (5) of the Law set out the conditions that must be satisfied for Exempt Funds and Qualified Investor Funds. In particular, these articles require that Units in an Exempt Fund or a Qualified Investor Fund may only be Offered for issue or sale by means of a Private Placement with Professional Clients.
+
+(1) Where an Authorised Firm Offers a Unit of a Domestic Fund to a Person it must make available to that Person a copy of the most recent Prospectus at the time of the Offer or before effecting the Transaction in relation to the Units, unless that Transaction results from an Excluded Offer as defined in section 4.1 of this module.

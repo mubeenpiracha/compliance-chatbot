@@ -1,0 +1,23 @@
+PART 1 – Application
+
+4.1
+
+Application
+
+4.1.1
+
+This chapter applies to an Authorised Firm in Category 1, 2, 3A or 5.
+
+Guidance
+
+1.
+
+This chapter imposes systems and controls pertaining to Credit Risk, and prescribes the manner of calculation of the Credit Risk Capital Requirement (also referred to in this module as CRCOM).
+
+2.
+
+Rules 3.8.2 and 3.8.3 provide that the CRCOM is a component in the calculation of the overall Risk Capital Requirement of an Authorised Firm, and that the CRCOM is to be calculated in accordance with this chapter 4.
+
+3.
+
+The Rules in section 4.8 provide that the Authorised Firm’s CRCOM is 8% of the Credit RWA of the firm, which in turn is calculated as the sum of:

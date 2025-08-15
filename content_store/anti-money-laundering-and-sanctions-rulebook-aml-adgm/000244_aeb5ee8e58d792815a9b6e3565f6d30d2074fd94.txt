@@ -1,0 +1,21 @@
+Rule 14.2.2, document:
+
+(a)
+
+the steps taken to investigate the circumstances in relation to which the internal notification is made; and
+
+Confidential
+
+87
+
+AML VER10.020125
+
+(b)
+
+where no external SAR/STR is made, the reasons why no such report was made.
+
+14.3.3 Where, following a notification to the MLRO of suspicious activity under 14.2.2, no SAR/STR is made, a Relevant Person must record the reasons for not making a SAR/STR.
+
+14.3.4 A Relevant Person must ensure that if the MLRO decides to make a SAR/STR, his decision is made independently and is not subject to the consent or approval of any other Person.
+
+14.3.5 Relevant Persons are required to register on goAML upon receipt of their Financial Services Permission, Recognition Order or registration licence in order to submit SAR/STRs.

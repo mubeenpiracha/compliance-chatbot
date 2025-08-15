@@ -1,0 +1,19 @@
+Guidance
+
+1.
+
+An Authorised Market Institution authorised to Operate an Exchange may carry on the Financial Service of operating a Multilateral Trading Facility, as defined in Rule 2.22.1(1)(a), provided it has an endorsement on its Licence that permits it to do so (see Rule 2.2.12).
+
+2.
+
+An Authorised Market Institution may also act as a Trade Repository if it has an endorsement on its Licence that permits it to do so (see Rule 2.2.13). Acting as a Trade Repository does not constitute a Financial Service but is subject to the additional conduct requirements in App 5.
+
+3.
+
+The Financial Service of Operating an Exchange only applies in relation to Investments. Therefore, an Authorised Market Institution wishing to operate a facility for the trading of Crypto Tokens will need to use a Multilateral Trading Facility and obtain an endorsement on its Licence that permits it to operate a Multilateral Trading Facility.
+
+2.18 Operating a clearing house
+
+2.18.1 (1)
+
+In Rule 2.2.2, operating a Clearing House means operating a facility where confirmation, clearance and settlement of transactions in Investments or Crypto Tokens are carried out in accordance with the

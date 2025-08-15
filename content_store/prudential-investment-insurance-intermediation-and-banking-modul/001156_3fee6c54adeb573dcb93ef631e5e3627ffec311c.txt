@@ -1,0 +1,37 @@
+the following formula:
+
+372
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+HMAC = ∑(1 − rhc h∈h
+
+2 ) ∙
+
+(RWh ∙ Mh
+
+2 SN)
+
+SN ∙ Bh
+
+SN ∙ Dh
+
+where all the terms are the ones set out in Rule A5.10.9
+
+A5.10.12 For the purposes of Rule A5.10.9, an Authorised Firm must set the value of rhc in
+
+accordance with the table below:
+
+Single-name hedge ‘h’ of Counterparty ‘C’
+
+Value of rhc
+
+references to Counterparty ‘C’ directly
+
+100%
+
+has legal relation with Counterparty ‘C’
+
+80%

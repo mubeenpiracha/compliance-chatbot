@@ -1,0 +1,21 @@
+137
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+(e)
+
+the Credit Derivative contract must not contain any clause, the fulfilment of which is outside the direct control of the Authorised Firm, that:
+
+(i)
+
+would allow the provider of credit protection to cancel the credit protection cover unilaterally;
+
+(ii)
+
+would increase the effective cost of the credit protection cover as a result of deteriorating credit quality of the underlying Exposure;
+
+(iii)
+
+could prevent the provider of credit protection from being obliged to pay out in a timely manner in the event that the underlying obligor fails to make any payment due; or

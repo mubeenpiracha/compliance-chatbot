@@ -1,0 +1,55 @@
+AML Rule 14.5.1;
+
+(c)
+
+AUD Rule 4.8.1;
+
+(d)
+
+CIR Rules 9.4.2(1), 9.6.2 and 15.1.10(1);
+
+(e)
+
+COB Rules 14.5.1(2)(b), 15.4.6(2) and 15.8.1(2)(b);
+
+(f)
+
+GEN Rules 8.6.2 and 11.8.12(1);
+
+(g)
+
+PIB Rules 2.3.8(1), 2.3.8(2), 10.3.2(3) and 10.4.2(3);
+
+(h)
+
+PIN Rules 6.5.1, 6.5.5, 6.5.7, 6.6.2(1), 7.2.3(1), 7.3.5, 8.5.2, 8.5.3 and 9.4.10; and
+
+(i)
+
+REC Rule 3.5.1.
+
+14.1.2 The penalty payable under a Fixed Penalty Notice is:
+
+(a)
+
+$2,500 for the first contravention;
+
+(b)
+
+$7,500 for the second contravention; and
+
+(c)
+
+$15,000 for any subsequent contravention,
+
+of any of the Rules specified in Rule 14.1.1 by a Person in any single calendar year.
+
+14.1.3 For the purpose of determining the penalty payable under Rule 14.1.2:
+
+(a)
+
+a contravention includes any contravention for which:
+
+(i)
+
+a penalty issued under a Fixed Penalty Notice has been paid; or

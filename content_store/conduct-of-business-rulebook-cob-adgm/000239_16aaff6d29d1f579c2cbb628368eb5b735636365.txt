@@ -1,0 +1,13 @@
+(iv)
+
+to the extent practicable and feasible, linked CSDs provide for Delivery Versus Payment (DVP) settlement of transactions between participants in linked CSDs and, where such settlement is not practicable or feasible, reasons for non-DVP settlement are notified to the Regulator; and
+
+(v)
+
+where interoperable securities settlement systems and CSDs use a common settlement infrastructure, there are times specified for the entry, irrevocability, finality and settlement of transfer orders into the system; and
+
+(c)
+
+is able to demonstrate to the Regulator, prior to the establishment of the CSD link, that the CSD link satisfies the requirements referred to in Rule 10.4.1(b).
+
+10.4.2 A CSD must include in its notification to the Regulator relating to the establishment of CSD links the results of due diligence undertaken in respect of the matters specified in Rule 10.4.1(b) to demonstrate that those requirements are met. Where a CSD changes any existing CSD arrangements, a further notification relating to such changes, along with details of its due diligence relating to the new CSD link, must be provided to the Regulator in advance of the proposed change.

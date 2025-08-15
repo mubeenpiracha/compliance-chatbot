@@ -1,0 +1,19 @@
+The date of receipt;
+
+(b)
+
+The name of the Client for whom payment is to be credited; and
+
+(c)
+
+The date when the cheque or payment order was presented to the Authorised Person’s Third-Party Agent.
+
+14.5.4 The records referred to in Rule 14.5.3 must be kept for a minimum of six years.
+
+14.5.5 Rules 14.5.1 to 14.5.3 do not apply to Authorised Persons holding Relevant Money.
+
+Guidance
+
+1. An Authorised Person holding Relevant Money must maintain Relevant Money in a Payment Account in compliance with Chapter 19.
+
+2. In accordance with Rule 15.11.A.2 Money received under the Title Transfer Collateral Agreement from a Professional Client is not Client Money.

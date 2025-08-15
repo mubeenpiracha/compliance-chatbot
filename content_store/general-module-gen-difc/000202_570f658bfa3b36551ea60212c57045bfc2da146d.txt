@@ -1,0 +1,11 @@
+Guidance
+
+1.
+
+Rule 3A.2.1 prohibits activities from being carried on in relation to a Crypto Token unless the Crypto Token is a Recognised Crypto Token i.e. a Crypto Token the DFSA has recognised under section 3A.3 or 3A.4. Section 3A.3 sets out the procedures for applying for a Crypto Token to be a Recognised Crypto Token and the criteria that must be met for the DFSA to recognise a Crypto Token.
+
+2.
+
+The prohibition against carrying on a Financial Service relating to an unrecognised Crypto Token does not apply to an Authorised Person that Provides Custody of a Crypto Token. For example, a Custodian may receive an ‘airdrop’ of Crypto Tokens for promotional purposes when the Crypto Tokens have not been recognised. Similarly, due to a fork which results in the splitting of blockchains a Custodian may find that it is holding Crypto Tokens that have not been recognised. The Custodian may therefore hold unrecognised Crypto Tokens without contravening the Rule.
+
+3.

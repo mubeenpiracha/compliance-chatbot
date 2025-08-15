@@ -1,0 +1,27 @@
+Fund Manager responsible for acts of Fund Platform
+
+A Fund Manager using a Fund Platform remains responsible for any acts or omissions of the ICC as if they were the acts or omissions of the Fund Manager.
+
+The Fund Manager’s obligations when using a Fund Platform
+
+Without limiting any other obligations of the Fund Manager under the Law or these Rules, a Fund Manager using a Fund Platform must ensure that the ICC:
+
+(a) maintains adequate infrastructure to provide services to Funds on the Fund Platform, taking into account the type or specialist class of each particular Fund;
+
+30
+
+CIR/VER38/08-24
+
+6A.1.5
+
+6A.1.6
+
+COLLECTIVE INVESTMENT RULES (CIR)
+
+(b) does not carry on any activity in relation to a Fund on the Fund Platform, other than the activities which the Fund Manager is authorised and permitted to undertake in respect of the relevant Fund;
+
+(c)
+
+does not provide any service to a Fund that is not an Incorporated Cell of the ICC; and
+
+(d) maintains procedures and up-to-date records to demonstrate to the DFSA:

@@ -1,0 +1,3 @@
+20.11.3 Upon request by the Primary Financial Institution, the Third Party Provider must provide supporting evidence to demonstrate that the Third Party Transaction was authenticated, accurately recorded and executed in accordance with the Third Party Provider’s policies for providing Third Party Services.
+
+20.12 Liability

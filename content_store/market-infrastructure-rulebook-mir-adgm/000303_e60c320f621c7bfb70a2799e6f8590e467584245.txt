@@ -1,0 +1,17 @@
+Supervision
+
+7.4.1
+
+A Remote Body shall provide the Regulator with an annual report which contains the information set out in Rule 7.4.2. In relation to the report:
+
+(a)
+
+the period covered by such a report starts on the day after the period covered by its last report or, if there is no such report, after the making of the Recognition Order recognising the Remote Body as such, and ends on the date specified in the report or, if no date is specified, on the date of the report.
+
+(b)
+
+if a Remote Body changes the period covered by its report, it should ensure that the first day of the period covered by a report is the day immediately following the last day of the period covered by the previous report.
+
+(c)
+
+copies of the report should be sent to the Regulator within two months after the end of the period to which it relates.

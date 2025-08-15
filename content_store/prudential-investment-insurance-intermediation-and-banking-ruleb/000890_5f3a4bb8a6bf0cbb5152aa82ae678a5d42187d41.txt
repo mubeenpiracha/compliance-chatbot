@@ -1,0 +1,23 @@
+Bank asset class
+
+A4.12.7 Under the Simplified Approach, Rules 4.12.10 to 4.12.12 are replaced by the following
+
+Rule A4.12.8.
+
+A4.12.8 An Authorised Person must risk-weight any CR Exposure in the bank asset class on the basis of the consensus ECA country risk classifications as referred to in A4.12.4 for the jurisdictions in which they are incorporated, in accordance with the following table:
+
+Risk weights for the bank asset class
+
+Country risk classification Risk Weights
+
+0 or 1
+
+20%
+
+2
+
+50%
+
+3
+
+100%

@@ -1,0 +1,23 @@
+NP
+
+Nominal principal amount.
+
+NSFR Requirement
+
+The requirement for an Authorised Firm to maintain a minimum NSFR under Rule 9.3.12(1) or, if applicable, Rule 9.3.6.
+
+OBS
+
+Off-balance sheet.
+
+OBS Exposure
+
+An Exposure of an Authorised Firm that is off-balance sheet.
+
+OBS-RSF Category
+
+A category, listed in Table 2 to Rule A9.4.2, to which carrying value of an OBS Exposure (or potential liquidity Exposure) is assigned.
+
+OBS-RSF Factor
+
+The factor, listed in Table 2 to Rule A9.4.2, used to multiply the carrying value of an OBS Exposure (or a potential liquidity Exposure).

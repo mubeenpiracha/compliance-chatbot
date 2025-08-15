@@ -1,0 +1,41 @@
+Agreement:
+
+(a)
+
+a breakdown of all fees and charges payable for a transfer of Crypto Tokens (a “transfer”) and when they are charged;
+
+(b)
+
+the information required to carry out a transfer;
+
+(c)
+
+the form and procedures for giving consent to a transfer;
+
+(d)
+
+an indication of the time it will normally take to carry out a transfer;
+
+(e)
+
+details of when a transfer will be considered to be complete;
+
+200
+
+COB/VER48/03-25
+
+(f)
+
+(g)
+
+(h)
+
+(i)
+
+CONDUCT OF BUSINESS (COB)
+
+how, and in what form, information and communications relating to transfer services will be provided to the Client, including the timing and frequency of communications and the language used and technical requirements for the Client’s equipment and software to receive the communications;
+
+clear policies and procedures relating to unauthorised or incorrectly executed transfers, including when the Client is and is not entitled to redress;
+
+clear policies and procedures relating to situations where the holding or transfer of Crypto Tokens may have been compromised, such as if there has been hacking, theft or fraud; and

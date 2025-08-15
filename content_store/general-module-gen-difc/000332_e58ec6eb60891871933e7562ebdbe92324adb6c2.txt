@@ -1,0 +1,33 @@
+Guidance
+
+1.
+
+The DFSA expects that where physical access is granted to individuals who are not members of an Authorised Person’s staff they are accompanied at all times while performing their tasks.
+
+2.
+
+The DFSA expects that an Authorised Person monitors and records activities that take place inside its data centres and server rooms.
+
+5.5.14 (1)
+
+An Authorised Person must establish and maintain a comprehensive cybersecurity training programme and adequate awareness arrangements.
+
+(2)
+
+The programme and arrangements in (1) must ensure that all relevant Employees:
+
+(a)
+
+receive training, at least annually, on the Authorised Person’s cybersecurity policies and standards;
+
+101
+
+GEN/VER67/03-25
+
+GENERAL (GEN)
+
+(b) develop and maintain appropriate awareness of, and
+
+competencies for, detecting and reporting Cyber Incidents; and
+
+(c) understand their individual responsibilities.

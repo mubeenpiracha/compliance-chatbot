@@ -1,0 +1,11 @@
+209
+
+PRU VER17.290725
+
+8.3.2
+
+An Authorised Person must ensure at all times that its Financial Group Capital Resources, as calculated in Rule 8.3.4, are equal to or in excess of its Financial Group Capital Requirement as calculated in Rule 8.3.3.
+
+Guidance
+
+If an Authorised Person breaches Rule 8.3.2, the Regulator will take into account the full circumstances of the case, including any remedial steps taken by another regulator or the Authorised Person, in determining what enforcement action, if any, it will take.

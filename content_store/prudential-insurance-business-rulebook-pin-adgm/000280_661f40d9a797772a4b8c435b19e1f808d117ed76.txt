@@ -1,0 +1,29 @@
+less than $500 million
+
+0.20% of the amount of capital at risk
+
+92
+
+PIN VER07.290725
+
+Amount of capital at risk expressed in dollars
+
+Formula to determine the amount referred to in Rule (5)
+
+(b) over $500 million up to
+
+$5 billion
+
+0.13% of the amount of capital at risk, plus $350,000
+
+(c) over $5 billion up to
+
+$25 billion
+
+0.10% of the amount of capital at risk, plus $1,850,000
+
+(d) over $25 billion
+
+0.08% of the amount of capital at risk, plus $6,850,000.
+
+A4.12.4 The non-proportional reinsurance element is calculated as 52% of the Insurer's Net

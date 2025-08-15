@@ -1,0 +1,19 @@
+𝐸𝑓𝑓𝑒𝑐𝑡𝑖𝑣𝑒𝑁𝑜𝑡𝑖𝑜𝑛𝑎𝑙𝑘
+
+(𝐶𝑜𝑚) = ∑ 𝛿𝑖 ∗ 𝑑𝑖 𝑗 𝑖∈𝑇𝑦𝑝𝑒𝑘
+
+(𝐶𝑜𝑚) ∗ 𝑀𝐹𝑖
+
+(𝑡𝑦𝑝𝑒)
+
+where i εTypek
+
+j refers to trades of commodity type k in hedging set j.
+
+Guidance
+
+The effective notional for each commodity derivative, calculated in accordance with the above formula, is the sum of the trade-level adjusted notional amounts multiplied by the supervisory delta adjustments and the maturity factor.
+
+A4.6.56 The Authorised Person must determine the add-on for all commodity derivatives of
+
+commodity type k in accordance with the following formula:

@@ -1,0 +1,37 @@
+the detailed
+
+5.1
+
+Application
+
+5.1.1
+
+This Chapter applies to an Authorised Person in Category 1, 2, 3A or 5 as follows:
+
+(a)
+
+Sections 5.2 to 5.11 apply to an Authorised Person in Category 1 or 2;
+
+(b)
+
+Sections 5.2 and 5.6 apply to an Authorised Person in Category 3A; and
+
+(c)
+
+Sections 5.2, 5.3 and 5.5 to 5.11 apply to an Authorised Person in Category 5.
+
+177
+
+PRU VER17.290725
+
+Guidance
+
+1.
+
+Rule 5.3.1 provides that the Market Risk Capital Requirement of an Authorised is calculated as the sum of a number of Subsidiary Capital Person Requirements. Sections 5.4 to 5.10 set out the manner in which each of those Subsidiary Capital Requirements must be calculated, monitored and controlled by an Authorised Person.
+
+2.
+
+In addition to complying with the applicable Rules in Chapter 5, an Authorised Person investing in or holding Islamic Contracts whether or not for the purpose of a PSIA will need to take account of the provisions under the IFR rules to calculate the Market Risk for those Islamic Contracts.
+
+5.2

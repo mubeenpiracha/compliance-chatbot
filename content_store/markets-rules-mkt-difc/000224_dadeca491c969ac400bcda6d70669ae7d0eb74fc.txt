@@ -1,0 +1,23 @@
+Disclosure exceptions
+
+6.5.4
+
+(1) A Reporting Entity of a Listed Fund need not, subject to (2), make disclosure of information pursuant to Rule 6.5.1, where, in the reasonable opinion of the Reporting Entity, the disclosure required by that Rule would:
+
+(a)
+
+be unduly detrimental to the legitimate interests of the Reporting Entity or the Listed Fund as is applicable; or
+
+(b)
+
+disclose commercially sensitive material.
+
+(2) Where a Reporting Entity of a Listed Fund intends not to make the disclosure pursuant to (1), it must immediately file with the DFSA a confidential report which:
+
+(a)
+
+contains all the information which it seeks not to disclose and the reasons for non-disclosure; and
+
+(b)
+
+is in the English language and, where any documents accompanying the report are not in the English language, an English translation of such documents.

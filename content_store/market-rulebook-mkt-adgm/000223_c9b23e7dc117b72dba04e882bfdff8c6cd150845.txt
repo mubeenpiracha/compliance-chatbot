@@ -1,0 +1,25 @@
+6.2.9 Disclosure and reporting conditions for Price Stabilisation
+
+(1)
+
+The following information shall be adequately publicly disclosed by Issuers, Offerors, or Stabilisation Manager, before the opening of the Offer period of the Relevant Securities:
+
+(a)
+
+the fact that Price Stabilisation may be undertaken, that there is no assurance that it will be undertaken and that it may be stopped at any time;
+
+(b)
+
+the fact that Price Stabilisation transactions are aimed to support the market price of the Relevant Securities;
+
+(c)
+
+the beginning and end of the period during which Price Stabilisation may occur;
+
+(d)
+
+the identity of the Stabilisation Manager, unless this is not known at the time of publication in which case it must be publicly disclosed before any Price Stabilisation activity begins; and
+
+(e)
+
+the existence and maximum size of any Overallotment Facility or Greenshoe Option, the exercise period of the Greenshoe Option and any conditions for the use of the Overallotment Facility or exercise of the Greenshoe Option.

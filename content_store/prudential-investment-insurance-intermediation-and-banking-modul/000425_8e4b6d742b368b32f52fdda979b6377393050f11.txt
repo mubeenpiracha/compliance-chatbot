@@ -1,0 +1,13 @@
+4.13.10 In addition to the requirements in Rule 4.13.9, where an Authorised Firm has an Exposure that is protected by a guarantee or that is counter-guaranteed by a central government or Central Bank, a regional government or local authority, a PSE referred to in Rule 4.12.3(2), a MDB or an international organisation to which a 0% risk weight is assigned under section 4.12, an Authorised Firm may treat the Exposure as being protected by a direct guarantee from the central government or Central Bank in question, provided the following requirements are complied with:
+
+(a)
+
+the counter-guarantee covers all Credit Risk elements of the Exposure;
+
+(b)
+
+both the original guarantee and the counter-guarantee comply with all the requirements for guarantees set out in this section, except that the counter- guarantee need not be direct and explicit with respect to the original Exposure; and
+
+(c)
+
+the Authorised Firm is able to satisfy the DFSA that the cover is robust and that nothing in the historical evidence suggests that the coverage of the counter-guarantee is less than effectively equivalent to that of a direct guarantee by the entity in question.

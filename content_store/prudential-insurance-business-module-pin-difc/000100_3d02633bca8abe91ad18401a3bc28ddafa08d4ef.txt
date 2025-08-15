@@ -1,0 +1,17 @@
+Guidance
+
+The Returns and instructional guidelines are provided in App10, PRU and the DFSA’s electronic prudential reporting system.
+
+The following Insurers are not required to prepare a Quarterly Regulatory Return unless required in writing by the DFSA to do so:
+
+(a)
+
+a Class 1 Captive Insurer; and
+
+(b)
+
+an Insurer that is a Protected Cell Company where every Cell maintained by the Insurer is a Captive Cell.
+
+Audit of annual regulatory return
+
+Subject to Rule 6.4.2, the Annual Regulatory Return of every Insurer must be audited in accordance with International Statements on Auditing relevant to the audit of the Annual Regulatory Return, by the Insurer’s auditor.

@@ -1,0 +1,11 @@
+Qualifying Capital Resources included in consolidated Capital Resources
+
+3.16.8 An Authorised Firm must determine the amount of qualifying Capital Resources of a Subsidiary that is included in consolidated Capital Resources of its Financial Group by subtracting from the qualifying Capital Resources of that Subsidiary, the result of multiplying the amount referred to in (a) by the percentage referred to in (b):
+
+(a)
+
+the lesser of the following:
+
+(i)
+
+the amount of Capital Resources of the Subsidiary required to meet the sum of the Subsidiary’s total Capital Requirement (on a solo basis) of 100% of the Risk Capital Requirement and its Capital Conservation Buffer requirement of 25% of the Risk Capital Requirement; or

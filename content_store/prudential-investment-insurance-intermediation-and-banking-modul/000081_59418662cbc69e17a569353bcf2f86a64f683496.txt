@@ -1,0 +1,35 @@
+(a) a D-SIB; or
+
+(b) a G-SIB.
+
+T
+
+Trade date, which is the date on which a transaction is entered into.
+
+T1
+
+Tier 1
+
+T1 Capital
+
+Has the meaning given in Rule 3.12.1.
+
+T2
+
+Tier 2
+
+T2 Capital
+
+Has the meaning given in Rule 3.15.1.
+
+Theta
+
+The ratio of the change in an Option price to the decrease in time to expiration. Theta can also be referred to as time decay.
+
+Total Net Cash Outflow
+
+Has the meaning given in Rule A9.2.13
+
+Total Return Swap
+
+A contract under which two parties exchange their positive or negative returns on a notional amount of a reference asset for a specified period of time.

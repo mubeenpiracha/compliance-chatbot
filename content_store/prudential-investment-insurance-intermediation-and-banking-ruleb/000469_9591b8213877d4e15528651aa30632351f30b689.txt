@@ -1,0 +1,21 @@
+Large Exposures limits
+
+4.15.4
+
+A Large Exposure of an Authorised Person means a total Exposure which is equal to or greater than 10% of the firm's Tier 1, to any Counterparty, group of Connected
+
+170
+
+PRU VER17.290725
+
+Counterparties, or group of Closely Related Counterparties, aggregated across the Authorised Person's Trading Book and Non-Trading Book.
+
+4.15.5
+
+(1)
+
+Subject to IFR Rule 5.4.15, an Authorised Person must not incur any Large Exposures in its Non-Trading Book and, subject to Rule 4.15.6, Trading Book after taking into account the effect of any eligible CRM, that exceeds 25% of its Tier 1, except as otherwise provided in (2).
+
+(2)
+
+An Authorised Person which is a D-SIB must, if required in writing by the Regulator, apply a Large Exposure limit lower than 25% of its Tier 1 Capital where the Large Exposure is to another D-SIB, or to a subsidiary of a D-SIB, whether inside or outside ADGM.

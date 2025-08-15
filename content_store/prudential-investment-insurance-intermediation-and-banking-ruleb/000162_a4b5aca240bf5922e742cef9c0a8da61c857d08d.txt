@@ -1,0 +1,31 @@
+Expenditure Based Capital Minimum
+
+3.7.1
+
+An Authorised Person, other than one that has a Financial Services Permission to carry out the Regulated Activity of Providing Third Party Services, must calculate its Expenditure Based Capital Minimum as:
+
+(a)
+
+in the case of an Authorised Person in Category 3C which has issued a Fiat- Referenced Token, one year;
+
+61
+
+PRU VER17.290725
+
+(b)
+
+in the case of an Authorised Person engaged in Providing Custody in respect of Virtual Assets, 26/52nds;
+
+(c)
+
+in the case of an Authorised Person which holds Client Assets or Relevant Money or Insurance Money, 18/52nds;
+
+(d)
+
+in the case of an Authorised Person in Category 3B or 3C which does not hold Client Assets or Relevant Money or Insurance Money, 13/52nds; or
+
+(e)
+
+in the case of an Authorised Person in Category 4, which does not hold Insurance Money or Client Assets, 6/52nds;
+
+of the Annual Audited Expenditure, calculated in accordance with Rule 3.7.2.

@@ -1,0 +1,25 @@
+Pre-trade transparency
+
+(1)
+
+An ATS Operator must disclose the information specified in (2) relating to trading of Investments or Crypto Tokens on its facility in the manner prescribed in (3).
+
+(2)
+
+The information required to be disclosed pursuant to (1) includes:
+
+(a)
+
+the current bid and offer prices and volume;
+
+(b)
+
+the depth of trading interest shown at the prices and volumes advertised through its systems for the Investments or Crypto Tokens; and
+
+(c)
+
+any other information relating to Investments or Crypto Tokens which would promote transparency relating to trading.
+
+(3)
+
+The information referred to in (2) must be made available to members and the public as appropriate on a continuous basis during normal trading.

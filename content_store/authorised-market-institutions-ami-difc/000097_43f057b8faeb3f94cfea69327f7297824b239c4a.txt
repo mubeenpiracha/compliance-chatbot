@@ -1,0 +1,19 @@
+Default Rules
+
+An Authorised Market Institution must have Default Rules which, in the event of a Member or other participant on its facilities being, or appearing to be, unable to meet its obligations in respect of one or more contracts, enable action to be taken in respect of unsettled market contracts to which the Member or that other participant is a party.
+
+Guidance
+
+27
+
+AMI/VER28/03-25
+
+5.6.3
+
+5.6.4
+
+5.6.5
+
+AUTHORISED MARKET INSTITUTIONS (AMI)
+
+The DFSA requires all Authorised Market Institutions to have Default Rules under Article 28 of the Markets Law. Default Rules allow an Authorised Market Institution to close-out open positions by discharging the appropriate rights and liabilities of transactions which a Member or any other Person granted access to its facilities cannot, or may not be able to, fulfil.

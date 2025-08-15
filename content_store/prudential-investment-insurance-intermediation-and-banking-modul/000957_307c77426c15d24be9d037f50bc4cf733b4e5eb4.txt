@@ -1,0 +1,33 @@
+Guidance:
+
+Two or more Counterparties between whom there is no relationship of control as described in Rules A4.11.5 and A4.11.6 will be regarded as constituting a single risk if they are so interconnected that, if one of them were to experience financial problems, in particular funding or repayment difficulties, the other or all of the others would also be likely to encounter funding or repayment difficulties.
+
+Connected Counterparties
+
+A4.11.7 (1)
+
+For Concentration Risk purposes, and in relation to a Person, a Connected Counterparty means another Person to whom the first Person has an Exposure and who fulfils one of the following conditions:
+
+310
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+(a)
+
+he is Connected to the first Person;
+
+(b)
+
+he is an Associate of the first Person;
+
+(c)
+
+the same Persons significantly influence the Governing Body or senior management of each of them;
+
+(d)
+
+one of those Persons has an Exposure to the other that was not incurred for the clear commercial advantage of both of them and which is not on arm's length terms; or
+
+(e)

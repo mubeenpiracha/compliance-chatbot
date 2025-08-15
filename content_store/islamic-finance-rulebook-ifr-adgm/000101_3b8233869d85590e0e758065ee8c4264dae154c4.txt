@@ -1,0 +1,23 @@
+(iii)
+
+Exposures arising from assets that are financed by an Authorised Person's own funds are dealt with in PRU Rule 4.15.
+
+Exposure limits
+
+5.4.15 An Authorised Person Managing a PSIA, which is an Unrestricted PSIA, must not have an Exposure to a Counterparty, Connected Counterparty, group of Closely Related
+
+Confidential
+
+33
+
+IFR VER08.020125
+
+Counterparties or to a group of Connected Counterparties that exceeds any one of the following percentages of its Capital Resources:
+
+(a)
+
+25% if financed by its Capital Resources or Unrestricted PSIAs; or
+
+(b)
+
+40% if financed by an aggregate of its own Capital Resources and Unrestricted PSIAs.

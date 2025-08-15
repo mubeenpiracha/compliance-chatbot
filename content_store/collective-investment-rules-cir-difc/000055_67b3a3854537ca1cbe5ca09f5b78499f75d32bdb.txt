@@ -1,0 +1,21 @@
+Guidance
+
+A Fund of Funds does not cease to be a Fund of Funds merely because it holds some investments in cash or transferable securities to meet its on-going obligations such as for redemption purposes.
+
+Feeder Fund
+
+A Fund is a Feeder Fund if it is dedicated to investing in the Units or Debentures of a single other Fund (Master Fund).
+
+Guidance
+
+1.
+
+A Domestic Feeder Fund may have as its Master Fund a Foreign Fund.
+
+2.
+
+A Sub-Fund of an Umbrella Fund is not a Feeder Fund.
+
+Master Fund
+
+A Fund is a Master Fund if it issues its Units or Debentures only to other Funds which are dedicated to investing in that Master Fund.

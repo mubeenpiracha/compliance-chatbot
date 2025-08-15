@@ -1,0 +1,13 @@
+For the purposes of Rule 3.13.7(c), and subject to (2), the amount of deferred tax assets that rely on future profitability must be calculated without reducing it by the amount of the associated deferred tax liabilities of the Authorised Firm.
+
+(2)
+
+The amount of deferred tax assets that rely on future profitability may be reduced by the amount of the associated deferred tax liabilities of the Authorised Firm, provided the following conditions are met:
+
+(a)
+
+those deferred tax assets and associated deferred tax liabilities both arise from the tax law of the same tax jurisdiction; and
+
+(b)
+
+the taxation authority of that tax jurisdiction permits the offsetting of deferred tax assets and the associated deferred tax liabilities.

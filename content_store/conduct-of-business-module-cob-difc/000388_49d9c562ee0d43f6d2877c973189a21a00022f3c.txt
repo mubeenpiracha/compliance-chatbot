@@ -1,0 +1,11 @@
+d.
+
+whether the ATS Operator supports transparent orders by giving priority to transparent orders over dark orders, for example, by executing such orders at the same price as transparent orders; and
+
+e.
+
+whether there is adequate disclosure of details relating to dark orders available to members and other participants on the facility to enable them to understand the manner in which their orders will be handled and executed on the facility.
+
+5.
+
+Dark orders are orders executed on execution platforms without pre-trade transparency.

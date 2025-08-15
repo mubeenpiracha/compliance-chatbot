@@ -1,0 +1,27 @@
+Credit Risk Assessment Risk Weight
+
+Grade A
+
+40%
+
+Grade B
+
+75%
+
+Grade C
+
+150%
+
+(3) An Authorised Firm may risk-weight any Exposure to a bank classified as Grade
+
+A at 30% if that bank has:
+
+(a) a Common Equity Tier 1 ratio which meets or exceeds 14%; and
+
+(b) a Tier 1 leverage ratio which meets or exceeds 5%.
+
+(4) An Authorised Firm may risk-weight any Exposure to a bank for which an external credit assessment by a recognised external credit rating agency is not available in accordance with the following table if the Exposure:
+
+(a) has an original maturity of three months or less; or
+
+(b) has an original maturity of six months or less and arises from the

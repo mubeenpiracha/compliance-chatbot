@@ -1,0 +1,25 @@
+Credit RWA = E x CRW.
+
+Guidance
+
+Examples include Counterparty Exposures in relation to exchange-traded Derivatives, unpaid margin requirements, Trading Book qualifying Deposits, and fees and interest.
+
+A4.8.2 Where a Counterparty has not fully paid a margin requirement on a Derivative
+
+transaction listed on an exchange or cleared through a clearing house:
+
+302
+
+PRU VER17.290725
+
+E = the shortfall.
+
+A4.8.3 Where an Authorised Person sells or writes an Option to a Counterparty or buys an Option on behalf of a Counterparty and the Counterparty has not paid the full Option premium:
+
+E = the uncovered premium on the transaction.
+
+A4.8.4 Where a Counterparty has not fully met amounts owed to an Authorised Person arising out of losses on closed-out Derivative transactions or has not fully settled amounts owed in respect of periodic or final settlement of transactions:
+
+E = the unpaid loss.
+
+A4.9

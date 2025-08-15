@@ -1,0 +1,17 @@
+To calculate its RWA for Early Amortisation Exposures, an Authorised Firm must:
+
+(a)
+
+calculate the value of the Exposure (EAE) for each of its Early Amortisation Exposures in accordance with Exposure measurement methodology specified in section 4.9 and recognising the effects of any applicable Credit Risk mitigation;
+
+(b)
+
+calculate the risk-weighted Exposure amount for each Early Amortisation Exposure using the following formula:
+
+RWA(EAE) = EAE x CRW
+
+where:
+
+(i)
+
+“RWA(EAE)” refers to the risk-weighted Exposure amount for that Early Amortisation Exposure;

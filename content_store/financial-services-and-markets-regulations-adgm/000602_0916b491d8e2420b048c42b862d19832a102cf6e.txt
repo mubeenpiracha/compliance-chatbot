@@ -1,0 +1,25 @@
+Deals with or through Authorised Persons
+
+(1)
+
+A person who is not an Authorised Person does not carry on an activity of the kind specified by paragraph 12 by entering into a transaction as agent for another person (the "client") with or through an Authorised Person if—
+
+(a)
+
+the transaction is entered into on advice given to the client by an Authorised Person; or
+
+(b)
+
+it is clear, in all the circumstances, that the client, in his capacity as an investor, is not seeking and has not sought advice from the agent as to the merits of the client's entering into the transaction (or, if the client has sought such advice, the agent has declined to give it but has recommended that the client seek such advice from an Authorised Person).
+
+(2)
+
+But the exclusion in sub-paragraph (1) does not apply, if—
+
+(a)
+
+the transaction relates to a Contract of Insurance; or
+
+(b)
+
+the agent receives from any person other than the client any pecuniary reward or other advantage, for which he does not account to the client, arising out of his entering into the transaction.

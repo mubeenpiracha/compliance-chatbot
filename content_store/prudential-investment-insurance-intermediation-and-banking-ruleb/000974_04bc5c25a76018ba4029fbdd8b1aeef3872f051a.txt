@@ -1,0 +1,15 @@
+calculate a carry charge for each position that is carried across to another maturity band. In each instance, the carry charge equals the carried position multiplied first by the unit spot price for the commodity, then by the carry rate of 0.6% and finally by the number of bands by which the position is carried;
+
+(e)
+
+repeat (c) if necessary;
+
+(f)
+
+calculate the outright charge by multiplying all remaining unmatched positions (long plus short, ignoring the sign) by the unit spot price for the commodity, then by 15%; and
+
+(g)
+
+sum the totals for Bands 2 to 7 referred to in (b), to reach the total requirement.
+
+(2)

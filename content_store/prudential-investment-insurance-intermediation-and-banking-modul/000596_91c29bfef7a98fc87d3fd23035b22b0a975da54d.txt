@@ -1,0 +1,21 @@
+payments;
+
+(b) address the risk of a communication being misdirected to unauthorised parties;
+
+(c)
+
+trace all payment transactions and interactions with all relevant parties to the Payment Service;
+
+(d) use strong and widely recognised encryption techniques when exchanging data;
+
+(e) keep the access sessions with the Payment Account Provider (PAP) as short as possible and
+
+terminate any session after the requested action is completed;
+
+(f) ensure, when maintaining parallel network sessions, that the sessions are securely linked to relevant sessions established with the User to prevent the possibility that information communicated between them could be misrouted;
+
+(g)
+
+include unambiguous unique references to the User, communication session, payment transaction and requested amount; and
+
+(h) have systems and controls to prevent access to User information being available by the Payment Account Provider, beyond what is needed to provide the relevant service. The frequency of the access should also be agreed with the User.

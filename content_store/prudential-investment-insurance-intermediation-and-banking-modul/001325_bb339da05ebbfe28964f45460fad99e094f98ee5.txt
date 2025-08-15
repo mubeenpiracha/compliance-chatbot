@@ -1,0 +1,11 @@
+Guidance
+
+The following Guidance is intended to assist firms to complete the above table.
+
+The figures to be presented are averages of the daily observations of individual line items over the financial reporting period (i.e. the average of components and the average LCR over the most recent three months of daily positions, irrespective of the financial reporting schedule). The averages are calculated after the application of any haircuts, inflow and outflow rates and caps, where applicable.
+
+Unweighted figures of HQLA are calculated at market value. Weighted figures of HQLA are calculated after the application of the respective haircuts but before the application of any caps on Level 2B and Level 2 assets.
+
+Unweighted inflows and outflows are calculated as outstanding balances. Weighted inflows and outflows are calculated after the application of the inflow and outflow rates.
+
+In completing the LCR disclosure table, Authorised Firms should follow the instructions below. The numbers in the instructions correspond to the relevant row number in the quantitative disclosure section of the table.

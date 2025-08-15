@@ -1,0 +1,9 @@
+(b)
+
+if no such alternative arrangement can be made, the Insurance Monies are returned to the Client.
+
+7.12.10 An Insurance Intermediary or Insurance Manager may not hold Insurance Monies in Approved Assets until it has given written notice to and received written notice from the bank referred to in Rule 7.12.8(b) that the bank is not entitled to any charge, encumbrance, lien, right of set-off, compensation or retention against Approved Assets held for the Insurance Intermediary's or Insurance Manager’s Insurance Bank Account.
+
+7.12.11 An Insurance Intermediary or Insurance Manager may only use Approved Assets as security for a loan or overdraft where that loan or overdraft is for a purpose relating to an Insurance Bank Account as permitted by Rule 7.12.6.
+
+7.12.12 Where Insurance Monies are held in Approved Assets whose rating drops below the minimum stipulated within the definitions, that investment or asset will cease to be an Approved Asset and the Insurance Intermediary or Insurance Manager must dispose of the investment or asset as soon as possible and no later than within 30 days of the rating change.

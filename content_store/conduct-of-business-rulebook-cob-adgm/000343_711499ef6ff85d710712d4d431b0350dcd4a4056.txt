@@ -1,0 +1,33 @@
+Virtual Asset / Fiat-Referenced Token Wallets
+
+(a)
+
+Procedures describing the creation, management and controls of Virtual Asset or Fiat-Referenced Token wallets, including:
+
+(i)
+
+wallet setup/configuration/deployment/deletion/backup and recovery;
+
+(ii)
+
+wallet access privilege management;
+
+(iii)
+
+wallet user management;
+
+(iv)
+
+wallet rules and limit determination, review and update; and
+
+(v)
+
+wallet audit and oversight.
+
+Private and public keys
+
+(b)
+
+Procedures describing the creation, management and controls of private and public keys, including, as applicable:
+
+(i)

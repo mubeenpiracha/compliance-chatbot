@@ -1,0 +1,21 @@
+ρ =
+
+50%, the supervisory correlation parameter
+
+C =
+
+the index that denotes all counterparties for which the firm uses BA-CVA to calculate its Credit Valuation Adjustment Risk Capital Requirement
+
+SCVAC =
+
+the Credit Valuation Adjustment Risk Capital Requirement for Counterparty ‘C’ on a standalone basis, calculated in accordance with Rule A5.10.5
+
+SNHC =
+
+the quantity that gives recognition to the reduction in CVA Risk of Counterparty ‘C’ arising from the Authorised Firm’s use of single-name hedges of credit spread risk, calculated in accordance with Rule A5.10.9
+
+IH =
+
+the quantity that gives recognition to the reduction in CVA Risk across all Counterparties arising from the Authorised Firm’s use of index hedges, calculated in accordance with Rule A5.10.10
+
+HMHC =

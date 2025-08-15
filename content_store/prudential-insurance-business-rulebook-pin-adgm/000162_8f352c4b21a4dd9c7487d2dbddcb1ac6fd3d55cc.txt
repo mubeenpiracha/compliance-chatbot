@@ -1,0 +1,13 @@
+9.4.12 If the reassessment shows that the amount of assets made available is more than the amount that the insurer is required to make available, the Insurer may, with the written consent of the Regulator, remove assets from those made available provided that the Insurer complies with the requirements of the collateral notice after the assets have been removed.
+
+9.5
+
+Provisions in respect of contracts relating to Insurance Business in run-off
+
+9.5.1 This section applies to any Insurer referred to in Rule 9.4.1.
+
+9.5.2 An Insurer to which this section applies must inform the Regulator in writing of the existence and principal features of any contract which it enters into in respect of its Insurance Business in run-off, including Insurance Business carried on through a Cell or a Long-Term Insurance Fund that is in run-off, or that is in existence at the time the Insurer places that Insurance Business into run-off, and that is of any of the following types:
+
+(a)
+
+contracts, other than Contracts of Insurance effected by the Insurer prior to going into run-off, with parties that are Related to the Insurer;

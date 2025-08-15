@@ -1,0 +1,25 @@
+(iii)
+
+where relevant, the right of the Payment Service User to terminate the Framework Contract and any agreements relating to termination in accordance with Rule 19.2.8.
+
+(g)
+
+about redress:
+
+123
+
+COBS VER19.290725
+
+(i)
+
+any contractual clauses on the law applicable to the Framework Contract and the competent courts; and
+
+(ii)
+
+the availability of any alternative dispute resolution procedures, if applicable, for the Payment Service User and the methods for having access to them.
+
+(h)
+
+if the Payment Service involves the issuance of Stored Value, about the redemption of Stored Value, including the conditions of redemption and any related Fees.
+
+19.2.2 A Payment Service Provider must provide to a Payment Service User the information specified in Rule 19.2.1 before the Payment Service User is bound by the Framework Contract.

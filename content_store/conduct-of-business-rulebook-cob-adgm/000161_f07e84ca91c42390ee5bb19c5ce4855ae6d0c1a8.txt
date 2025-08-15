@@ -1,0 +1,23 @@
+51
+
+COBS VER19.290725
+
+7.6.4 An Insurer, Insurance Intermediary or Insurance Manager must, on the request of any Client, disclose to that Client all commissions and other economic benefits accruing to the Authorised Person or any member of the same Group from:
+
+(a)
+
+any Insurance Intermediation business;
+
+(b)
+
+any Insurance Management business; or
+
+(c)
+
+any other business connected to or related to the provision of such business;
+
+transacted by the Authorised Person on behalf of that Client.
+
+7.6.5 The requirement to disclose the information under Rule 7.6.4 does not apply where an Insurance Intermediary acts solely on behalf of a single insurer, and this fact has been disclosed to the Client.
+
+7.7

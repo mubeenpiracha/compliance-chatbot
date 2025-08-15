@@ -1,0 +1,17 @@
+4.14.64 Where an Originator acts as Underwriter for the Securities issued, the underlying items will not be regarded as being transferred until 90% of the total issuance has been sold to third parties.
+
+Dealing
+
+4.14.65 An Originator dealing in Securities which would attract a Credit Quality Grade of 4 or better and issued by an SPE must deduct any holdings in such Securities from its CET1 Capital unless the holding is subject to:
+
+(a)
+
+an ongoing limit of 3% of the Securities issued; and
+
+(b)
+
+a limit of 10% of the Securities issued for a period of five business days:
+
+(i)
+
+immediately following close of the transaction; or

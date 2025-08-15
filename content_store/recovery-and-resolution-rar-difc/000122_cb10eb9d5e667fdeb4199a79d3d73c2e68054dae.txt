@@ -1,0 +1,21 @@
+Protection for security arrangements
+
+The DFSA shall not, in respect of liabilities secured under the collateral arrangements referred to in Rule 3.6.2(2)(a) that are not title transfer collateral arrangements:
+
+(a)
+
+transfer assets against which a liability is secured under any such arrangement, unless that liability and the benefit of the security are also transferred;
+
+(b)
+
+transfer a secured liability, unless the benefit of the security is also transferred;
+
+(c)
+
+transfer the benefit of the security under any such arrangement, unless the secured liability is also transferred; or
+
+(d) modify or terminate such an arrangement through the exercise of ancillary powers, if the effect of that modification or termination is that the liability ceases to be secured.
+
+Protection of trading, clearing and settlement systems
+
+The DFSA shall take reasonable steps to ensure that the application of a Resolution Tool does not affect the operation of an AMI, Regulated Exchange, payment system, Central Counterparty, Securities Settlement System or Central Securities Depository where it:

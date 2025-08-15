@@ -1,0 +1,19 @@
+(ii)
+
+the borrower has substantial equity at risk.
+
+4.12.27
+
+(1) An Authorised Firm must, subject to (3), apply a 1.5 times multiplier to the applicable risk weight calculated under Rule 4.12.23 to any unhedged Residential Real Estate Exposure to an individual where the lending currency differs from the currency of the obligor’s source of income, subject to a maximum risk weight of 150%.
+
+(2) For the purposes of (1), a Regulatory Residential Real Estate Exposure is
+
+hedged if:
+
+(a)
+
+the obligor:
+
+(i)
+
+in its normal operating procedures, receives foreign currency income that matches the currency of a given Exposure, such as remittances, rental incomes or salaries; or

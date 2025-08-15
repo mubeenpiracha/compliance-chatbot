@@ -1,0 +1,13 @@
+Guidance
+
+1.
+
+The effect of Rule 2.27.1 is that even if a Person undertakes from a place of business in the DIFC some but not all of the Credit Rating Activities for the purpose of producing a Credit Rating, that Person needs to have a Licence authorising it to Operate a Credit Rating Agency.
+
+2.
+
+Where a Credit Rating Agency outsources some of its Credit Rating Activities, it will need to ensure that it meets the relevant requirements, including those relating to outsourcing, in Rule 5.3.21.
+
+3.
+
+There is no express prohibition against carrying on the Financial Service of Operating a Credit Rating Agency by Persons who are authorised to carry on other Financial Services. However, the specific conduct requirements applicable to Credit Rating Agencies in COB chapter 8, include a prohibition against certain types of consultancy and advisory services being provided by a Credit Rating Agency. Therefore, even if a Credit Rating Agency has an appropriate Licence authorising it to provide advice on financial products, it will not be able to provide the prohibited type of consultancy and advisory services.

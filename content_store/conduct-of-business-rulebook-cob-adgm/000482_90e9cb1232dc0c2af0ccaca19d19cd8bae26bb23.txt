@@ -1,0 +1,23 @@
+Revocation of a Third Party Transaction
+
+20.8.2 (1)
+
+A Customer may not revoke a Third Party Transaction after the Third Party Provider has confirmed receipt of the Third Party Transaction.
+
+(2)
+
+The Customer may not revoke a Third Party Transaction that it has initiated through another Third Party Provider.
+
+(3)
+
+A Third Party Transaction may only be revoked if the revocation is agreed between the Customer and the relevant Third Party Provider(s).
+
+20.9 Authentication
+
+Personalised Security Credentials
+
+20.9.1 A Third Party Provider must maintain adequate security measures to protect the
+
+confidentiality and integrity of Customers’ Personalised Security Credentials.
+
+20.9.2 A Third Party Provider must ensure that appropriate means are available at all times to enable a Customer to notify the Third Party Provider of the loss, theft, misappropriation or unauthorised use of the Customer’s Personalised Security Credentials.

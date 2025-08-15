@@ -1,0 +1,3 @@
+A4.9.9 Where an Authorised Person is a client of the clearing member and the conditions set out in Rule A4.9.8 are not satisfied, the Authorised Person must capitalise its exposure to the clearing member as a bilateral OTC transaction in accordance with A4.6.14.
+
+A4.9.10 Without prejudice to Rule A4.9.9, where an Authorised Person that is a client is not protected from losses where the clearing member and another client of the clearing member jointly default, but all the other conditions set out in Rule A4.9.8 are met, it must calculate Credit RWA in respect of its exposure to the clearing member in accordance with Rule A4.6.14, except that it must apply a CRW of 4%.

@@ -1,0 +1,21 @@
+the date and time of the Transaction;
+
+(i)
+
+the total amount payable and the date on which it is due;
+
+(j)
+
+the amount of the Authorised Firms charges in connection with the Transaction, including Commission charges and the amount of any Mark-up or Mark-down, Fees, taxes or duties;
+
+(k)
+
+the amount or basis of any charges shared with another Person or statement that this will be made available on request; and
+
+(l)
+
+for Collective Investment Funds, at statement that the price at which the Transaction has been Executed is on a Historic Price or Forward Price basis, as the case may be.
+
+(2)
+
+An Authorised Firm may combine items (f) and (j) in respect of a Transaction where the Client has requested a note showing a single price combining both of these items.

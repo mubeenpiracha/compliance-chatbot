@@ -1,0 +1,15 @@
+In relation to on-balance sheet items:
+
+a.
+
+for SFTs, the exposure value should be calculated in accordance with IFRS and the netting requirements referred to in Rule 4.9.14;
+
+b.
+
+for transactions giving rise to CCR Exposures (except for SFTs), including credit protection sold, the exposure value should be calculated in accordance with section 4.14A; and
+
+c.
+
+for other on-balance sheet items, the exposure value should be calculated based on their balance sheet values in accordance with Rule 4.9.3.
+
+4.

@@ -1,0 +1,25 @@
+a protected portion; and
+
+(ii)
+
+an unprotected portion;
+
+and
+
+(b)
+
+for the purposes of calculating the Credit RWA amount pursuant to Rule 4.8.3, use:
+
+(i)
+
+for the protected portion, the CRW that is applicable to the protection provider as though the Authorised Firm had a direct Exposure to that provider; and
+
+(ii)
+
+for the unprotected portion, the CRW that is applicable to the obligor.
+
+(2) Where a guarantee or Credit Derivative provides for a materiality threshold on payments below which no payment will be made in the event of loss, it is equivalent to a retained first loss position and must be deducted from the CET1 Capital.
+
+(3) Where losses are shared pari passu on a pro rata basis between the Authorised Firm and the protection provider, the protected portion of the Exposure receives the treatment applicable to eligible guarantees or Credit Derivatives with the remainder treated as unprotected.
+
+(4) Where an Authorised Firm transfers a part of the risk of an Exposure in one or

@@ -1,0 +1,19 @@
+91
+
+AMI/VER28/03-25
+
+8.2.5
+
+8.2.6
+
+8.2.7
+
+AUTHORISED MARKET INSTITUTIONS (AMI)
+
+(1)
+
+A Person who has been approved by the DFSA as a Controller of an Authorised Market Institution subject to any conditions must comply with the relevant conditions of approval.
+
+(2)
+
+A Person who has been notified by the DFSA pursuant to Rule 8.2.4(2)(c) as an unacceptable Controller must not proceed with the proposed acquisition of control of the Authorised Market Institution.

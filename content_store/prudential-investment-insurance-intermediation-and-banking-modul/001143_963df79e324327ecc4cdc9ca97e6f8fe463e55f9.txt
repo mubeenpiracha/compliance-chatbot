@@ -1,0 +1,9 @@
+Guidance
+
+1.
+
+The BA-CVA calculations may be performed either via the reduced version or the full version. An Authorised Firm can choose whether to implement the full version or the reduced version at its discretion. However, all Authorised Firms must calculate the reduced version as the reduced version is also part of the full version as a conservative means to limit hedging recognition.
+
+2.
+
+The Credit Valuation Adjustment Risk Capital Requirement is calculated for an Authorised Firm’s CVA portfolio on a standalone basis. The CVA portfolio includes CVA for an Authorised Firm’s entire portfolio of covered transactions and Eligible CVA Hedges.

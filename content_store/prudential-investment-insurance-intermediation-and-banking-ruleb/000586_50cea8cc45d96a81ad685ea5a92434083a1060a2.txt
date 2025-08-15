@@ -1,0 +1,23 @@
+include obligations
+
+8.3.6
+
+Deductions for Qualifying Holdings under Section 3.14 may be calculated based on the Group's total T1 and T2 Capital.
+
+8.4
+
+Financial Group Large Exposure limits
+
+8.4.1
+
+Subject to IFR Rule 5.4.15, an Authorised Person in Category 1, 2 or 5 must not incur any Financial Group Large Exposure, including the Financial Group's PSIAus, that exceeds 25% of its Group's Tier 1.
+
+8.4.2
+
+An Authorised Person in Category 1, 2 or 5 must ensure that the sum of its Financial Group Large Exposures, including the Financial Group's PSIAus, to a Counterparty or group of Closely Related Counterparties does not exceed 800% of its Financial Group's Tier 1.
+
+211
+
+PRU VER17.290725
+
+8.5

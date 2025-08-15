@@ -1,0 +1,15 @@
+Guidance
+
+In addition to the requirements in this chapter which apply to the Appointed Fund Administrator or Appointed Trustee, Persons who are appointed to Funds as Fund Administrators or Trustees have other obligations (see for example chapter 5.1).
+
+Use of a Fund Platform not permitted
+
+An External Fund Manager must not use a Fund Platform.
+
+External management of Credit Fund not permitted
+
+An External Fund Manager must not manage a Domestic Fund that is a Credit Fund.
+
+No external management of Funds investing in Crypto Tokens
+
+An External Fund Manager must not manage a Domestic Fund that invests in Crypto Tokens.

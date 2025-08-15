@@ -1,0 +1,7 @@
+Guidance
+
+1.
+
+The DFSA would not normally expect an Authorised Person to carry out daily monitoring of whether a Crypto Token continues to meet the eligibility criteria for recognition. Rather, if the Authorised Person becomes aware of a significant event or development during the normal course of its business, it should inform the DFSA. There may, however, be certain services where an Authorised Person may be either required or more likely to be aware of developments relating to a Crypto Token. For example, this might occur where an Authorised Firm operates a MTF that trades the Crypto Token, acts as a Market Maker for the Crypto Token or is involved in the development, offer or marketing of the Crypto Token. In such situations the DFSA would expect the Authorised Person to have greater knowledge and awareness of developments relating to the Crypto Token and therefore to be more likely to report adverse events or developments.
+
+2.

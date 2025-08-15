@@ -1,0 +1,19 @@
+Institutional exemption
+
+4.15.10 For Exposures to a Financial Institution, or a group of Connected Counterparties one of which is a Financial Institution, the total amount of an Authorised Person's Exposures may exceed 25% of its Tier 1, provided those institutions are Investment Grade (Credit Quality Grades 1 to 3) and subject to the following:
+
+(a)
+
+Exposures to any entities within the group of Connected Counterparties that are not Financial Institutions are limited to 25% of Tier 1 after taking account of CRM;
+
+(b)
+
+the Exposures must not form part of the Tier 1 of the Counterparty;
+
+(c)
+
+the Counterparty Risk profile must be subject to review on at least an annual basis; and
+
+(d)
+
+Exposures of this nature must not in any case exceed a maximum of $100 million or 100% of Tier 1, whichever is the lower.

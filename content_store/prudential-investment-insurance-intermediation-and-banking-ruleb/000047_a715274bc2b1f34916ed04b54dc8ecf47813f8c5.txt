@@ -1,0 +1,37 @@
+(v) common reliance on the same funding
+
+provider that is hard to replace.
+
+13
+
+PRU VER17.290725
+
+Collateral
+
+Collective Investment Fund
+
+Collective Investment Fund Risk Capital Requirement
+
+Combined Buffer
+
+Combined Buffer Requirement
+
+Commodities Risk Capital Requirement
+
+Connected
+
+Means a Client Investment which has been paid for in full by a Client and which is held or controlled by the Authorised Person under the terms of a deposit, pledge, charge or other security arrangement.
+
+Means an arrangement falling within section 106 of FSMR and which is not excluded under FUNDS Chapter 2.
+
+A component of the Market Risk Capital Requirement calculated in accordance with Section 5.9.
+
+Has the meaning given in Rule 3.19.1.
+
+The CET1 Capital required to satisfy the conditions for the Combined Buffer.
+
+A component of the Market Risk Capital Requirement to cover the risk of holding or taking positions in including precious metals, but commodities, in accordance with excluding gold, calculated Section 5.7.
+
+In relation to a Person (A), a Person which has or has at any relevant time had the following relationship to A:
+
+(a)

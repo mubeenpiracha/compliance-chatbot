@@ -1,0 +1,15 @@
+e.
+
+Committee on Payments and Market Infrastructures and the International Organisation of Securities Commissions: Guidance on cyber resilience for financial market infrastructures (2016);
+
+f.
+
+Cloud Security Alliance: Cloud Controls Matrix and CAIQ (2024);
+
+g.
+
+Risk assessment methodology: NIST SP800-30: Guide for Conducting Risk Assessments (2012);
+
+h.
+
+Cyber Risk Institute: Cyber Risk Institute Profile v2.1 (2023),

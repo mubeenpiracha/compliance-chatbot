@@ -1,0 +1,59 @@
+CRW = PCEA ∙ RM ∙ 12.5
+
+where:
+
+PCEA =
+
+the positive current exposure amount of the transaction representing the difference between the agreed settlement price for the instrument in question and its current market value, where the difference could involve a loss for the Authorised Firm
+
+RM =
+
+the risk multiplier, determined in accordance with the table below
+
+Number of business days after due settlement date
+
+Risk Multiplier
+
+0-4
+
+0%
+
+5-15
+
+8%
+
+16-30
+
+50%
+
+31-45
+
+75%
+
+46 or more
+
+100%
+
+Free deliveries
+
+A4.6.3 For a transaction for which an Authorised Firm has:
+
+279
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+(a) delivered securities, foreign exchange instruments or commodities before
+
+receiving payment; or
+
+(b) paid for securities, foreign exchange instruments or commodities before receiving
+
+the item purchased; or
+
+(c)
+
+in the case of cross-border transactions, one day or more has elapsed since it made that payment or delivery,
+
+the Authorised Firm must treat its Exposure to the Counterparty of the transaction in accordance with the table below.

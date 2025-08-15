@@ -1,0 +1,17 @@
+(1) Without limiting the generality of the systems and controls obligations of the Authorised Market Institution, an Authorised Market Institution must have in place adequate systems and controls to address market integrity, AML, CTF and investor protection risks in permitting a Direct Access Member to access its facility, including procedures to:
+
+(a)
+
+identify the ultimate beneficial owner of a Direct Access Member, where the Member is a Body Corporate;
+
+46
+
+AMI/VER28/03-25
+
+AUTHORISED MARKET INSTITUTIONS (AMI)
+
+(b)
+
+ensure that appropriate customer due diligence sufficient to address AML and CTF risks has been conducted on each Direct Access Member, before permitting that Member to access its facility;
+
+(c)

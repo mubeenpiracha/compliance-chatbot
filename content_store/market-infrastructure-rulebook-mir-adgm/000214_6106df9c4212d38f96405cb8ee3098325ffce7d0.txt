@@ -1,0 +1,23 @@
+(e)
+
+analyse and review the performance of the margin model and overall margin coverage by:
+
+conducting rigorous daily back-testing to evaluate whether there are any exceptions to its initial margin coverage at least monthly, and more frequently as appropriate;
+
+sensitivity analysis to determine the impact of varying important model parameters, including the most-volatile periods that have been experienced by the markets it serves and extreme changes in the correlations between prices; and
+
+an assessment of the theoretical and empirical properties of its margin model for all products it clears.
+
+4.10.8
+
+The initial margin established pursuant to Rule 4.10.7(c) must:
+
+(a)
+
+at the Member's portfolio level, be applied in respect of each portfolio's distribution of future exposure. If a Recognised Clearing House uses portfolio margining, it should continuously review and test offsets among products;
+
+(b)
+
+at more granular levels, meet the corresponding distribution of future exposures; and
+
+(c)

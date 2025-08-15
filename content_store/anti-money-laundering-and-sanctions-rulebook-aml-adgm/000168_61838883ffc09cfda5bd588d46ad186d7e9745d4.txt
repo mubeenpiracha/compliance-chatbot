@@ -1,0 +1,33 @@
+Portability of Customer Due Diligence information
+
+8.8.1
+
+(1)
+
+A Relevant Person “A” that is an Authorised Person or a Recognised Body must provide another Relevant Person, “B”, that is an Authorised Person or a Recognised Body, at the request of B, with the Customer Due Diligence information for customers that has been collected by A under Rules 8.3 and 8.4, subject to:
+
+(a)
+
+those customers being customers of both A and B at the time that the request is made;
+
+(b)
+
+B obtaining the written consent of the customers to whom the request relates and providing A with that consent for the release of such information by A;
+
+Confidential
+
+59
+
+AML VER10.020125
+
+(c)
+
+the request being made solely for the purposes of conducting Customer Due Diligence on the customers to whom the request relates; and
+
+(d)
+
+in the preceding twelve months B not having requested Customer Due Diligence information from A for the same customers to whom the request relates.
+
+(2)
+
+Relevant Person A must also provide Relevant Person B with any other information relevant to CDD that has been provided to it by those customers.

@@ -1,0 +1,23 @@
+Application
+
+This chapter applies to an Authorised Firm in any Category.
+
+Trading Book
+
+An Authorised Firm must have a Trading Book if:
+
+(a)
+
+it has positions that must be included in a Trading Book in accordance with section A2.1 of App2;
+
+(b)
+
+those positions are held with trading intent in accordance with Rule A2.1.5; and
+
+(c)
+
+the total value of the positions eligible for inclusion in the Trading Book pursuant to (a) and (b):
+
+(i)
+
+normally exceeds $15 million or 5% of its combined on and off- balance sheet positions; or

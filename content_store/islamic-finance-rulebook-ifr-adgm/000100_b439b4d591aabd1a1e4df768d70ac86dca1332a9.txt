@@ -1,0 +1,11 @@
+Concentration risk
+
+Guidance
+
+(i)
+
+This IFR 5 sets specific Large Exposure limits for assets financed by PSIAs, which are Unrestricted PSIAs. The Regulator uses these limits to provide constraints on the amount of Concentration Risk to which an Authorised Person is subject in respect of its PSIA holdings. In assessing PSIA Large Exposures, an Authorised Person may take advantage of the exemptions and partial exemptions set out in Rule A4.11 of PRU.
+
+(ii)
+
+An Authorised Person has a Large Exposure where its PSIA holders' credit Exposure to a single Counterparty or issuer, or group of Closely Related or Connected Counterparties, is large in relation to the Authorised Person's Capital Resources. Where Exposure to a Counterparty or issuer is large, PSIA holders risk a large loss should the Counterparty default.

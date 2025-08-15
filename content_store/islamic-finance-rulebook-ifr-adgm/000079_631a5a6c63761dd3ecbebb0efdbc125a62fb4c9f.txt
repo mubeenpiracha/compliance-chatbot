@@ -1,0 +1,23 @@
+(iv)
+
+An Authorised Person undertaking Islamic Financial Business is also exposed to fiduciary risk which arises where the terms of the relevant PSIA Investment Contract between the Authorised Person and the PSIA holder are breached and where the Authorised Person does not act in compliance with Shari'a.
+
+(v)
+
+An Authorised Person (whether acting as an Islamic Financial Institution or through an Islamic Window) is required to apply the Capital Requirements specified in PRU Chapter 3 to any Islamic Financial Business it carries on.
+
+Confidential
+
+25
+
+IFR VER08.020125
+
+5.4.5
+
+(a)
+
+An Authorised Person's Displaced Commercial Risk Capital Requirement is based on 35% of the sum of CRCOM and the Market Risk capital requirement of assets funded by Unrestricted PSIA holders and is calculated using the following formula:
+
+PSIACOM = PSIACOMcredit + PSIACOMmarket x 35%.
+
+(b)

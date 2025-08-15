@@ -1,0 +1,25 @@
+A5.2 Adjusted non-cellular capital resources
+
+A5.2.1 An Insurer must calculate its Adjusted Non-Cellular Capital Resources according to
+
+the formula:
+
+ANCR = ANE – HNCA
+
+87
+
+PIN/VER18/04-23
+
+PRUDENTIAL – INSURANCE BUSINESS (PIN)
+
+where:
+
+ANCR means the Insurer’s Adjusted Non-Cellular Capital Resources;
+
+ANE means the Insurer’s adjusted non-cellular equity; and
+
+HNCA means the Insurer’s hybrid non-cellular capital adjustment.
+
+A5.2.2 Adjusted non-cellular equity is calculated as set out in section A5.4. The hybrid
+
+non-cellular capital adjustment is set out in section A5.5

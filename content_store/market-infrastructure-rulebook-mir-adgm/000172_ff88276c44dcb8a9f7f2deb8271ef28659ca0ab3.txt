@@ -1,0 +1,17 @@
+potential changes to the normal settlement practices in a default scenario;
+
+the management of transactions at different stages of processing;
+
+the expected treatment of proprietary and Client transactions and accounts;
+
+the probable sequencing of actions that the Recognised Clearing House may take;
+
+the roles, obligations and responsibilities of various parties, including the Recognised Clearing House, the defaulting Member and non-defaulting participants;
+
+how to address the defaulting Member's obligations to Clients;
+
+how to address the allocation of any credit losses it may face as a result of any individual or combined default among its participants with respect to their obligations to the Recognised Clearing House and how stress events are dealt with;
+
+any other mechanisms that may be activated to contain the impact of a default, including:
+
+a default contribution fund, whereby defaulting and non-defaulting Members or participants' pre-funded contributions to the default contribution fund are applied to cover the losses or shortfall arising on a default on the basis of a predetermined order of priority; and

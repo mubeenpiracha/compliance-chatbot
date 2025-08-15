@@ -1,0 +1,23 @@
+in the case of a Money Services Provider:
+
+(i)
+
+the Stored Value Capital Requirement, if it issues Stored Value;
+
+(ii)
+
+the Transaction Based Capital Requirement, if it provides Payment Services; or
+
+(iii)
+
+the aggregate of the sums referred to in (i) and (ii), if it carries on both activities.
+
+Liquidity requirements
+
+(1)
+
+An Authorised Firm to which this section applies must, at all times, maintain an amount in the form of liquid assets:
+
+(a) if section 3.7 applies, exceeds the higher of its:
+
+(i) Base Capital Requirement; or

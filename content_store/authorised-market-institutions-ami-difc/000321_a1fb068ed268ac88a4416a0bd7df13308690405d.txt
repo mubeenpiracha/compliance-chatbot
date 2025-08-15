@@ -1,0 +1,15 @@
+Information technology systems
+
+9.9.1 Where an Authorised Market Institution changes any of its plans for action in response to a failure of any of its information technology systems resulting in disruption to the operation of its facilities, it must immediately give the DFSA notice of that event, and a copy of the revised or new plan.
+
+9.9.2 Where any reserve information technology system of an Authorised Market Institution fails in such a way that, if the main information technology system of that body were also to fail, it would be unable to operate any of its facilities during its normal hours of operation, that body must immediately give the DFSA notice of that event, and inform the DFSA of:
+
+(a)
+
+what action that Authorised Market Institution is taking to restore the operation of the reserve information technology system; and
+
+(b)
+
+when it is expected that the operation of that system will be restored.
+
+Inability to discharge regulatory functions

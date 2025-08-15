@@ -1,0 +1,25 @@
+credit default swaps;
+
+(b)
+
+total return swaps;
+
+(c)
+
+credit linked notes which are cash funded; and
+
+(d)
+
+instruments that are composed of, or are similar in economic substance, to one or more of the Credit Derivatives in (a) to (c).
+
+(3)
+
+An Authorised Firm must not recognise the effects of Credit Risk mitigation of first-to-default and all other nth-to-default credit derivatives.
+
+(4)
+
+In (1)(e) the term ‘prudentially regulated financial institution’ means a legal entity:
+
+(a) whose activities are primarily financial in nature and which is supervised by a regulator that imposes prudential requirements consistent with international norms; or
+
+(b) which is included in a consolidated group where any substantial legal entity in the consolidated group whose activities are primarily financial in nature is supervised by a regulator that imposes prudential requirements consistent with international norms.

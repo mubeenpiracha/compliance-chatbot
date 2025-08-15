@@ -1,0 +1,21 @@
+Anti-Money Laundering, Counter-Terrorist Financing and Sanctions Module (AML)
+
+(ii)
+
+the ordering institution must provide the payer information set out in paragraph (a) within 3 business days of a request for the the DFSA or information by immediately upon request of a law enforcement agency.
+
+the beneficiary
+
+institution or
+
+Guidance
+
+The payer’s address referred to in Rule 9.3.5 or 9.3.7 should be the address that the Relevant Person has verified as part of its Customer Due Diligence on the payer.
+
+9.3.8
+
+An Authorised Person that is an ordering institution must retain a record of payer and payee information it has collected under this section.
+
+9.3.9
+
+An Authorised Person that is an ordering institution must not execute a fund transfer if it is unable to comply with the requirements in Rules 9.3.3 to 9.3.8.

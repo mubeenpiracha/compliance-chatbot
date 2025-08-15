@@ -1,0 +1,15 @@
+to
+
+55
+
+MIR VER10.290725
+
+(c)
+
+Credit, counterparty credit and market risks. A Recognised Clearing House shall calculate its capital requirements as the sum of 10% of its risk-weighted exposure amounts for credit and counterparty credit risk and its capital requirements for market risk calculated in accordance with Appendix 6 of PRU, subject to the following.
+
+For the calculation of the risk-weighted exposure amounts for credit risk and counterparty credit risk, a Recognised Clearing House shall apply the Credit Risk Capital Requirement (CRCOM) method in section 4.8 of PRU.
+
+Where a Recognised Clearing House does not use its own resources, the Recognised Clearing House shall apply a risk weight of 250% to its exposure stemming from any contributions to the default fund of another Clearing house and a risk weight of 2% to any trade exposures with another Clearing house.
+
+(d)

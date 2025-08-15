@@ -1,0 +1,15 @@
+287
+
+PRU VER17.290725
+
+that it makes a book profit but at maturity the Authorised Person cannot realise that profit because the other party defaults.
+
+4.
+
+In cases of a system-wide failure of a settlement or clearing system, an Authorised Person need not calculate CRCOM on transactions remaining unsettled till the settlement or clearing system is brought back to normal operations.
+
+A4.6.1
+
+The Section applies in respect of items in both the Trading Book and Non-Trading Book.
+
+A4.6.2 CRWs must be calculated on the Counterparty to the transaction, not on the Issuer of

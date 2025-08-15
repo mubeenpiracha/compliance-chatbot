@@ -1,0 +1,41 @@
+5.7.3 Deleted
+
+5.8
+
+Transfer of risk by an Insurer to an ISPV
+
+5.8.1
+
+This section applies to all Insurers.
+
+5.8.2
+
+An Insurer may not:
+
+(a)
+
+treat amounts recoverable from an ISPV as:
+
+(i)
+
+an asset; or
+
+(ii)
+
+reinsurance for the purposes of calculating its liabilities under contracts of insurance it has effected; or
+
+(b)
+
+otherwise ascribe a value to such amounts;
+
+unless it has first obtained a waiver from the DFSA.
+
+Guidance
+
+In considering:
+
+23
+
+PIN/VER18/04-23
+
+PRUDENTIAL – INSURANCE BUSINESS (PIN)

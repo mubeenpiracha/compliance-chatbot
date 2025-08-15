@@ -1,0 +1,37 @@
+Assigning risk weights
+
+4.14.31 An Authorised Firm must assign a risk weight for any SE Exposure in accordance
+
+with the tables below, to calculate the Credit RWA amounts for that Exposure.
+
+149
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+Risk Weights for Long-Term securitisation Exposures
+
+Long Term rating category
+
+Credit Quality Grade
+
+1
+
+2
+
+3
+
+4
+
+5 and above including unrated
+
+Risk Weight to be applied to securitisation Exposures(excluding Re-securitisation Exposures)
+
+20%
+
+50%
+
+100%
+
+350%

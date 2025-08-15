@@ -1,0 +1,23 @@
+Notification
+
+Notification in respect of trading
+
+9.8.1 Where an Authorised Market Institution proposes to remove from trading or admit to trading, by means of its facilities, a class of Investment or Crypto Token which it has not previously traded, but is licensed to do so, it must give the DFSA notice of that event, at the same time as the proposal is communicated to persons granted access to its facilities or shareholders, with the following information;
+
+(a)
+
+a description of the Investment or Crypto Token to which the proposal relates;
+
+(b)
+
+where that Investment is a derivative product, the proposed terms of that derivative; and
+
+(c)
+
+the name of any clearing or settlement facility in respect of that Investment or Crypto Token.
+
+9.8.2
+
+Where an Authorised Market Institution decides to suspend, restore from suspension or cease trading any Investment or Crypto Token, it must immediately notify the DFSA and any person granted access to its facilities of the decision.
+
+9.8.3

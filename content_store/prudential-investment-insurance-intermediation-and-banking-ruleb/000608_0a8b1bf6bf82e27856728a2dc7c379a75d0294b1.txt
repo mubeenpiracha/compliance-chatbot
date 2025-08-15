@@ -1,0 +1,31 @@
+Controlling Liquidity Risk
+
+9.2.6
+
+An Authorised Person must ensure that the system referred to in Rule 9.2.1(5):
+
+(a)
+
+enables the Authorised Person's Governing Body and senior management to review compliance with limits set in accordance with Rule 9.2.7 and operating procedures; and
+
+(b)
+
+has appropriate approval processes, limits and other mechanisms designed to provide reasonable assurance that the Authorised Person's Liquidity Risk management processes are adhered to.
+
+9.2.7
+
+(1)
+
+An Authorised Person must ensure that its Governing Body sets appropriate liquidity limits covering Liquidity Risk management in both day-to-day and stressed conditions.
+
+(2)
+
+An Authorised Person must periodically review and, where appropriate, adjust the limits referred to in (1) when its Liquidity Risk policy changes.
+
+(3)
+
+An Authorised Person must promptly resolve any policy or limit exceptions according to the processes described in its Liquidity Risk policy.
+
+9.2.8
+
+An Authorised Person must assess market access under a variety of normal and stressed conditions.

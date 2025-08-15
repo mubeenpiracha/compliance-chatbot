@@ -1,0 +1,5 @@
+Example 1
+
+23.
+
+Company B issues a Token to A, creating or acknowledging that Company B owes money to A (other than to defray any costs of goods or services bought by Company B from A). This instrument confers on A the right to the return of the money owed by Company B, together with any interest (and the corresponding obligation on Company B to pay to A the money owed, together with any interest). This is a Security Token and is considered a Debenture as it confers rights substantially similar in nature to those conferred by a Debenture.

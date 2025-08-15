@@ -1,0 +1,19 @@
+Guidance
+
+In Rule A6.8.5, the grey market is the market in which dealers "buy" and "sell" Securities ahead of issue. In reality the dealers are buying and selling promises to deliver the Securities when issued.
+
+368
+
+PRU VER17.290725
+
+Calculating the net Underwriting position
+
+A6.8.6
+
+An Authorised Person must calculate a net Underwriting position from the date of initial commitment until the Underwriting process ends, as the initial gross commitment adjusted for:
+
+(a)
+
+Underwriting or sub-Underwriting commitments obtained from others since the time of initial commitment;
+
+(b)

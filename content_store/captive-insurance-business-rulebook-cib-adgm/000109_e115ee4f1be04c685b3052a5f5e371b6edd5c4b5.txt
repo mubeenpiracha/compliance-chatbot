@@ -1,0 +1,25 @@
+10.2.2 Notification to the Regulator
+
+(1)
+
+A Captive Insurer to which this Rule 10.2 applies must, within twenty-eight days of deciding to cease to effect new Contracts of Insurance in a Class of Business, notify the Regulator of its decision, in a written notice specifying the following details:
+
+(a)
+
+the effective date of the decision to cease effecting Contracts of Insurance;
+
+(b)
+
+the Class of Business to which the decision relates; and
+
+(c)
+
+where relevant, Captive Cell or Long-Term Insurance Fund to which the decision relates.
+
+41
+
+CIB VER06.290725
+
+(2)
+
+A Captive Insurer which has provided a notice to the Regulator in accordance with Rule 10.2.2(1) must not effect any Contracts of Insurance in that Class of Business without the written permission of the Regulator. Where the notice referred to in Rule 10.2.2(1) relates to a Captive Cell or Long-Term Insurance Fund of the Captive Insurer, the restriction set out in this Rule applies only to that Captive Cell or Long-Term Insurance Fund.

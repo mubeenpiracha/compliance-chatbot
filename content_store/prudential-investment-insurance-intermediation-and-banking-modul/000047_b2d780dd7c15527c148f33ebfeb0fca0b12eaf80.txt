@@ -1,0 +1,25 @@
+Concentration Risk
+
+The risk faced by an Authorised Firm arising out of its Large Exposures.
+
+9
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+Connected
+
+In relation to a Person (A), a Person which has or has at any relevant time had the following relationship to A:
+
+(a) a member of A’s Group;
+
+(b) a Controller of A;
+
+(c) a member of a partnership of which A is a member;
+
+(d) an employee or former employee of A;
+
+(e) if A is a company:
+
+(i) an officer or manager of A or of a parent of A;

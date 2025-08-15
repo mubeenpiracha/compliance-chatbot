@@ -1,0 +1,29 @@
+Risk acknowledgement form
+
+11.5.1
+
+(1) An Investment Crowdfunding Operator must ensure that a Retail Client provides a signed risk acknowledgement form for each Investment that it makes using the platform.
+
+(2) The risk acknowledgement form under (1) must:
+
+(a)
+
+set out clearly the risks referred to in Rule 11.3.1;
+
+(b)
+
+require the Retail Client to confirm that he understands those risks; and
+
+(c)
+
+be provided before, or at the same time as, the Retail Client commits to making the Investment.
+
+Cooling-off period
+
+11.5.2
+
+(1) An Investment Crowdfunding Operator must ensure that investors who have committed to providing funding to a particular Issuer may withdraw that commitment, without any penalty and without giving a reason, during the cooling-off period.
+
+(2)
+
+In (1), “cooling-off period” means the period of at least 48 hours starting at the end of the commitment period.

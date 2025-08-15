@@ -1,0 +1,17 @@
+A Captive Insurer means a:
+
+(a) Class 1 Captive Insurer;
+
+(b) Class 2 Captive Insurer; or
+
+(c) Class 3 Captive Insurer.
+
+Has the meaning given in GEN section 2.16.
+
+A prudential grouping of Authorised Firms which determines the application of the Rules in PIB.
+
+Pursuant to GEN Rule 2.18.1(1)(a), a CCP is a Person who Operates a Clearing House by becoming a Central Counterparty.
+
+A cell created by a Protected Cell Company for the purpose of segregating and protecting cellular assets in the manner provided by the PCC Regulations.
+
+The return described in PIN Rule A10.2.4.

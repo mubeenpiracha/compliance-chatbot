@@ -1,0 +1,11 @@
+Organised Trading Facility (OTF)
+
+Means a multilateral system which is not a Recognised Investment Exchange or a Multilateral Trading Facility and which multiple third-party buying and selling interests in Financial Instruments are able to interact in the system in a way that results in a contract in accordance with the provisions of its rules.
+
+OTC Derivative or OTC Derivative Contract
+
+Means a Derivative Contract the execution of which does not take place on a Recognised Investment Exchange.
+
+OTC Leveraged Product Means an OTC Derivative that is:
+
+(a)

@@ -1,0 +1,29 @@
+References to negotiated transaction
+
+3.5.9
+
+For the purpose of Rule 3.5.7(b), a negotiated transaction shall mean a transaction involving Members or participants of a Recognised Investment Exchange which is
+
+42
+
+MIR VER10.290725
+
+negotiated privately but executed within the Recognised Investment Exchange and where that Member or participant in doing so undertakes one of the following tasks:
+
+(a)
+
+dealing on own account with another Member or participant who acts for the account of a Client;
+
+(b)
+
+dealing with another Member or participant, where both are executing orders on own account;
+
+(c)
+
+acting for the account of both the buyer and seller;
+
+(d)
+
+acting for the account of the buyer, where another Member or participant acts for the account of the seller; or
+
+(e)

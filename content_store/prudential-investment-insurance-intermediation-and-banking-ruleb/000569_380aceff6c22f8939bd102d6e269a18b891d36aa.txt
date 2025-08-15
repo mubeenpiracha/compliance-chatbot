@@ -1,0 +1,23 @@
+a.
+
+historical scenarios;
+
+b.
+
+changes in the general level of interest rates, e.g. changes in yields of 200 basis points or more in one year;
+
+c.
+
+changes in the relationships between key market rates (i.e. basis risk), e.g.
+
+i.
+
+a surge in term and savings Deposit rates and benchmark rates but no change in the prime rate, and
+
+ii.
+
+a drop in the prime rate but no change in term and savings Deposit rates and benchmark rates;
+
+d.
+
+changes in interest rates in individual time bands to different relative levels (i.e. yield curve risk);

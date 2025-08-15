@@ -1,0 +1,13 @@
+A8.4.2 The provisions of Rules A4.4.2, A4.4.3, A4.4.4, A4.4.5 and A4.4.6 must be applied, mutatis mutandis, to assets attributed to a Long-Term Insurance Fund as though references in those Rules to an Insurer were instead references to a Long-Term Insurance Fund.
+
+A8.4.3 Notwithstanding anything else in this section:
+
+(a)
+
+the default risk component in respect of any asset that is subject to a fixed or floating charge, mortgage or other encumbrance must be 100% of the value of the asset to the extent of that charge, mortgage or encumbrance. In the case of such assets, the percentages set out in the tables referred to above must be applied only to the amount, if any, by which the value of the asset exceeds the amount of the charge, mortgage or encumbrance; and
+
+(b)
+
+no default risk component must be calculated in respect of assets excluded from Adjusted Fund Capital Resources in accordance with Rules A7.4.2(d), A7.4.2(e), A7.4.2(f), A7.4.2(h), or A7.4.2(i).
+
+A8.5

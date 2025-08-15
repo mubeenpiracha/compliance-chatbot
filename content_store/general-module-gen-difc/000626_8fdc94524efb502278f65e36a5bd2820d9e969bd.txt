@@ -1,0 +1,13 @@
+When is an Investment Token a Certificate?
+
+28.
+
+A Certificate is an instrument which confers on the holder contractual or property rights over Shares, Debentures, Units or Warrants held by a Person, where the holder of the instrument can effect the transfer those rights without the consent of that Person. For example, the following is a typical example of a Certificate:
+
+a.
+
+B holds Shares, Debentures, Units or Warrants;
+
+b.
+
+B issues an ‘instrument’ to A, giving A rights in respect of the Shares, Debentures, Units or Warrants held by B (such as dividends or distributions); and

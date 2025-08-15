@@ -1,0 +1,17 @@
+To calculate its RWA for CR Exposures, an Authorised Person must:
+
+(a)
+
+calculate the value of the Exposure (represented as "E") for every on-balance sheet and every off-balance sheet asset in accordance with the Exposure measurement methodology specified in Section 4.9 and recognising the effects of any applicable CRM;
+
+(b)
+
+categorise that Exposure in accordance with the Rules in Section 4.10;
+
+(c)
+
+allocate an applicable Credit Quality Grade and risk weight for that Exposure in accordance with the Rules in Section 4.11 and 4.12;
+
+(d)
+
+calculate the RWA amount for that Exposure using the following formula: RWA(CR) = E x CRW

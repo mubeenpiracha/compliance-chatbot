@@ -1,0 +1,25 @@
+15.8 Client Reporting
+
+15.8.1 An Authorised Person which provides Custody or which otherwise holds or controls any
+
+Safe Custody Assets for a Client must send a regular statement to its Client:
+
+(a)
+
+if it is a Retail Client at least every six months; or
+
+(b)
+
+if it is a Professional Client at other intervals as agreed in writing with the Professional Client.
+
+15.8.2 The statement must include:
+
+(a)
+
+a list of that Client's Safe Custody Assets as at the date of reporting; and
+
+(b)
+
+a list of that Client's Collateral and the market value of that Collateral as at the date of reporting.
+
+15.8.3 The statement sent to the Client must be prepared within one calendar month of the

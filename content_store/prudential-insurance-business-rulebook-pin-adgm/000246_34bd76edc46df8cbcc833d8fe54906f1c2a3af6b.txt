@@ -1,0 +1,95 @@
+(l) Other bonds and loans
+
+(b)
+
+Assets that are not Invested Assets
+
+Asset
+
+Reinsurance recoverable from:
+
+(a)
+
+reinsurers Rated 'AAA'
+
+(b)
+
+reinsurers Rated 'AA'
+
+(c)
+
+reinsurers Rated 'A'
+
+(d)
+
+reinsurers Rated 'BBB'
+
+(e)
+
+reinsurers Rated 'BB'
+
+(f)
+
+reinsurers Rated 'B'
+
+(g)
+
+reinsurers Rated 'CCC'
+
+(h)
+
+reinsurers Rated 'R'
+
+%
+
+0.0
+
+0.4
+
+3.3
+
+7.5
+
+13.7
+
+20.2
+
+30.0
+
+2.0
+
+14.0
+
+100.0
+
+100.0
+
+50.0
+
+%
+
+0.5
+
+1.2
+
+1.9
+
+4.7
+
+9.6
+
+23.8
+
+49.7
+
+50.0
+
+81
+
+PIN VER07.290725
+
+Asset
+
+(i)
+
+other reinsurers

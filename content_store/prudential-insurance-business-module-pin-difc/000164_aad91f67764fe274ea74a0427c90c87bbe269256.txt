@@ -1,0 +1,15 @@
+Guidance
+
+Rule 9.4.5 describes the maximum amount of assets that the DFSA may require to be made available as collateral. The Rule includes provisions to avoid imposing multiple collateral requirements on the same Insurer in respect of the same Insurance Business in run-off.
+
+The assets referred to in Rule 9.4.2 must be made available in one of the following two manners or in a combination of those two manners:
+
+(a)
+
+assets of a type described in Rule 4.7.3 may be deposited with a custodian nominated or approved in writing by the DFSA; or
+
+(b)
+
+a financial institution nominated or approved in writing by the DFSA may issue a confirmed letter of credit in favour of the DFSA, for the amount of the assets required to be made available.
+
+The terms and conditions of a custody arrangement referred to in Rule 9.4.6(a) or a letter of credit referred to in Rule 9.4.6(b) and any change to those terms and conditions, must be notified to the DFSA, which may within two months of such notification require the Insurer to make any change to the terms and conditions of the arrangement or letter of credit.

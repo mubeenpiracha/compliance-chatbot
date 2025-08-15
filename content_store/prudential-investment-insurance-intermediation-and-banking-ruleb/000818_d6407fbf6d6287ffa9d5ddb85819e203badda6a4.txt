@@ -1,0 +1,23 @@
+𝑗
+
+Add-on for credit derivatives
+
+A4.6.44 All credit derivatives referencing the same entity may be offset fully to form an entity-
+
+level effective notional amount:
+
+𝐸𝑓𝑓𝑒𝑐𝑡𝑖𝑣𝑒𝑁𝑜𝑡𝑖𝑜𝑛𝑎𝑙𝑘
+
+(𝐶𝑟𝑒𝑑𝑖𝑡) = ∑ 𝛿𝑖 ∗ 𝑑𝑖 𝑖∈𝐸𝑛𝑡𝑖𝑡𝑦𝑘
+
+(𝐶𝑟𝑒𝑑𝑖𝑡) ∗ 𝑀𝐹𝑖
+
+(𝑡𝑦𝑝𝑒)
+
+where i ε Entityk refers to trades of Entityk.
+
+Guidance
+
+The effect of this formula is that the effective notional for each entity is the sum of the trade-level adjusted notional amounts multiplied by the supervisory delta adjustments and the maturity factor.
+
+A4.6.45 The add-on for all positions referencing the entity is determined in accordance with

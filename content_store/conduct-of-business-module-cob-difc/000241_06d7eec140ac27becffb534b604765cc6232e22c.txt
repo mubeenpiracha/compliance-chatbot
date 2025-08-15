@@ -1,0 +1,9 @@
+in accordance with the best execution requirement in Rule 6.4.2.
+
+(3)
+
+In this Rule, “net equity” means the sum of the Retail Client’s net profit and loss on their open position(s) and the Retail Client’s deposited Margin.
+
+Negative Balance Protection
+
+6.16.8 The liability of a Retail Client for all Restricted Speculative Investments connected to that Retail Client’s trading account with an Authorised Firm that Deals in Restricted Speculative Investments, is limited to the funds in that trading account.

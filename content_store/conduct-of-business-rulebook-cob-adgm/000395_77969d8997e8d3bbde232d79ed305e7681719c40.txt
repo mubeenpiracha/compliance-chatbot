@@ -1,0 +1,13 @@
+19.9 Payment Accounts and outsourcing of operational functions
+
+19.9.1 Where a Payment Service Provider relies on a third party for the performance of operational functions it must take all reasonable steps to ensure that these Rules are complied with.
+
+Guidance
+
+GEN 3.3.31 and 3.3.32 and PRU 6.8 also govern outsourcing of functions and activities by an Authorised Person. A Payment Service Provider is required to comply with those Rules.
+
+131
+
+COBS VER19.290725
+
+19.10 Authorisation of Payment Transactions

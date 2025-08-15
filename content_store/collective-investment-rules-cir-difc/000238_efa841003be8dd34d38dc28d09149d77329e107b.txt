@@ -1,0 +1,5 @@
+Guidance
+
+1. There are additional requirements relating to liquidity risk management, including liquidity risks resulting from the use of certain classes of assets (such as Derivatives) giving rise to credit or counterparty exposure in Open-ended Domestic Funds (see Rule 8.6A.1(2)).
+
+2. An Exchange Traded Fund (ETF) which is a ‘synthetic ETF’ (see Guidance items 11 – 14 under Rule 13.9.6 for descriptions of different types of synthetic ETFs) would use Derivatives, such as a total return swap, to replicate the performance of the specified index or other benchmark it tracks. The Prospectus of a synthetic ETF is required to include details relating to counterparty and collateral-related risks associated with the use of synthetic replication of the performance of the relevant underlying index or benchmark through the use of Derivatives (see Rule 14.4.8(i)).

@@ -1,0 +1,13 @@
+about safeguards and corrective measures:
+
+(i)
+
+where relevant, a description of the steps that the Payment Service User must to take in order to keep safe a Payment Instrument and how to notify the Payment Service Provider of loss of the Payment Instrument for the purposes of Rule 19.11.1(3);
+
+(ii)
+
+how and within what period of time the Payment Service User must notify the Payment Service Provider of any unauthorised or incorrectly initiated or executed Payment Transaction under Rule 19.17.1;
+
+(iii)
+
+the secure procedure by which the Payment Service Provider will contact the Payment Service User in the event of suspected or actual fraud or security threats;

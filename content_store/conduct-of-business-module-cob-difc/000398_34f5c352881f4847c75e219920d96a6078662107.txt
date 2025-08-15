@@ -1,0 +1,19 @@
+e.
+
+is making a sale of Securities that trades on a “when issued” basis and has entered into a binding contract to purchase such Securities, subject only to the condition of issuance of the relevant Securities.
+
+Foreign ownership restrictions
+
+9.6.7 An ATS Operator must not permit its facility to be used for trading Investments which are subject to foreign ownership restrictions unless it has adequate and effective arrangements to:
+
+(a)
+
+monitor applicable foreign ownership restrictions;
+
+(b)
+
+promptly identify and take appropriate action where any breaches of such restrictions occur without any undue interruption or negative impact to its trading activities; and
+
+(c)
+
+suspend trading in the relevant Investments where the ownership restrictions are, or are about to be, breached and reinstate trading when the breaches are remedied.

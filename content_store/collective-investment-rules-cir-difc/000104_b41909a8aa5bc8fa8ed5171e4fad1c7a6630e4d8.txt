@@ -1,0 +1,17 @@
+(i)
+
+the activities that the ICC undertakes in relation to each Fund on the Fund Platform; and
+
+(ii)
+
+that all applicable requirements have been met in respect of each Fund on the Fund Platform, taking into account the type or specialist class of the relevant Fund.
+
+Guidance
+
+1.
+
+Under Rule 6A.1.4(b), a Fund Manager using a Fund Platform cannot establish on its Fund Platform any Funds other than a QIF if its authorisation is limited to managing QIFs. What type of Funds a Fund Manager can manage is reflected in the fees applicable to Fund Managers under FER.
+
+2.
+
+Rule 6A.1.4(c) does not prevent a Fund Manager from being able to share resources available to it (such as its IT systems and staff) between a Fund Platform and other Funds the Fund Manager manages on a stand-alone basis. However, a Fund Manager allocating its resources between the Fund Platform and such a Fund should be able to demonstrate (for example, through its written records) effective functional separation.

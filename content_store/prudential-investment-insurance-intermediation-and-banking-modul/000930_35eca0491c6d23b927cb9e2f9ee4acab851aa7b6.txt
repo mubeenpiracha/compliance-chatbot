@@ -1,0 +1,23 @@
+301
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+A4.9.4 An Authorised Firm must assign an Exposure value of zero for purposes of determination of CRCOM, for credit default swaps sold by it, where such credit default swaps are treated as credit protection provided by the Authorised Firm and subject to a Capital Requirement for Credit Risk for the full amount.
+
+Credit default products
+
+A4.9.5 (1)
+
+The Protection Buyer relies on the Protection Seller to pay the Credit Event Payment if a Credit Event occurs, and therefore must compute Credit RWAs for the Counterparty Risk involved.
+
+(2)
+
+The Protection Seller is exposed to the Protection Buyer only if there are premium or interest rate-related payments outstanding.
+
+A4.9.6
+
+In the case of Total Return Swaps, since each party relies on the other for payment, each party must compute Credit RWAs.
+
+A4.9.7 No Credit RWA applies to credit-linked notes unless a coupon or interest payment is

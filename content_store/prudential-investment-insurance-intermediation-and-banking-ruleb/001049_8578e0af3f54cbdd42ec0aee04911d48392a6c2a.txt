@@ -1,0 +1,11 @@
+Recognition of hedges in the internal IRC model
+
+11.
+
+hedges may be incorporated into an Authorised Person's internal model to capture the incremental default and migration risks. Positions may be netted when long and short positions refer to the same Financial Instrument. Hedging or diversification effects associated with long and short positions involving different instruments or different Financial Instruments of the same obligor, as well as long and short positions in different Issuers, may only be recognised by explicitly modelling gross long and short positions in the different instruments. Authorised Persons should reflect the impact of material risks that could occur during the interval between the hedge's
+
+382
+
+PRU VER17.290725
+
+maturity and the liquidity horizon as well as the potential for significant basis risks in hedging strategies by product, seniority in the capital structure, internal or external rating, maturity, vintage and other differences in the instruments. An Authorised Person should reflect a hedge only to the extent that it can be maintained even as the obligor approaches a credit or other event.

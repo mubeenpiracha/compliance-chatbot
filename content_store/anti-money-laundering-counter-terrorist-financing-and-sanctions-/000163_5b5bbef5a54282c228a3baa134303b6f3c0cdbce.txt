@@ -1,0 +1,19 @@
+institution, whether directly or
+
+(c)
+
+“cover payment” means a fund transfer that combines a payment message sent directly by the ordering institution to the beneficiary institution with the routing of the funding instruction from the ordering institution to the beneficiary institution through one or more intermediary institutions;
+
+(d)
+
+“cross-border fund transfer” means a fund transfer where the ordering institution and the beneficiary institution are located in different countries and includes any chain of fund transfers in which at least one of the Financial Institutions involved is located in a different country;
+
+(e)
+
+“customer identification number” means a number that is different from the unique transaction reference number and:
+
+(i) uniquely identifies the payer to the ordering institution; and
+
+(ii) refers to a record held by the ordering institution that contains at least one of the following: the payer’s address, national identity number or date and place of birth;
+
+(f)

@@ -1,0 +1,21 @@
+Who is a Third Party Agent?
+
+7.
+
+A Third Party Agent is simply an agent of the firm which Provides Custody. A Person is regarded as Providing Custody even if it appoints a Third Party Agent (see GLO) to carry out either or both of the activities of safeguarding and administering its
+
+26
+
+GEN/VER67/03-25
+
+GENERAL (GEN)
+
+Clients’ Investments or Crypto Tokens. The Person Providing Custody (and not the Third Party Agent) remains accountable to the Client for the safe custody of the Investments or Crypto Tokens of the Client.
+
+8.
+
+The DFSA requires a firm which Provides Custody, if it is outsourcing or delegating the safeguarding or administering of Client Investments or Crypto Tokens to a Third Party Agent, to undertake due diligence relating to the Third Party Agent (see COB Rule A6.5.1).
+
+What is the relationship between ‘Providing Custody’ and ‘holding or controlling’ Client Assets for Investments?
+
+9.

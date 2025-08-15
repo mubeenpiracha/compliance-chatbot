@@ -1,0 +1,21 @@
+Application
+
+15.1.1
+
+Only Rules 15.1.1A, 15.1.2, 15.1.4, 15.1.5(a), 15.1.8, 15.1.9, 15.1.10 and 15.1.11 apply to an Offer of a Unit of a Foreign Fund that is a Passported Fund where the DIFC is the Host Jurisdiction.
+
+Clients to whom Offers of Units of Foreign Funds can be made
+
+15.1.1A An Authorised Firm must not, in or from the DIFC, Offer a Unit of a Foreign Fund to a Retail Client unless the Units of the Foreign Fund can be offered, under the home jurisdiction regulation applying to that Fund, to retail investors.
+
+Prospectus disclosure relating to Foreign Funds
+
+15.1.2 Where an Authorised Firm Offers a Unit of a Foreign Fund to a Person, it must make available to that Person a copy of a current Prospectus relating to the Fund which complies with:
+
+(a)
+
+the additional requirements in Rule 15.1.3 at the time of the Offer; or
+
+(b)
+
+for a Passported Fund, the relevant requirements of the Home Jurisdiction, including its relevant Fund Protocol rules or regulations.

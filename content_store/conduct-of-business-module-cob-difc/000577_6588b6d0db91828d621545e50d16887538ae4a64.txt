@@ -1,0 +1,19 @@
+(e)
+
+a breakdown of the largest holders of the Crypto Tokens, in particular holders of 10% or more of the total supply of the Crypto Tokens; and
+
+(f)
+
+in the case of a Fiat Crypto Token, details about the reserves backing the Fiat Crypto Token and the stabilisation and redemption mechanisms.
+
+(3)
+
+Under (2)(e), an MTF Operator is not required to disclose the identity of the holder if it has identified that a Person holds 10% or more of the Crypto
+
+181
+
+COB/VER48/03-25
+
+CONDUCT OF BUSINESS (COB)
+
+Tokens but after taking reasonable steps has not been able to establish the holder’s identity.

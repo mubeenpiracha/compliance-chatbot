@@ -1,0 +1,39 @@
+AML/VER27/03-25
+
+1
+
+1.1
+
+1.1.1
+
+1.1.2
+
+1.2
+
+1.2.1
+
+Anti-Money Laundering, Counter-Terrorist Financing and Sanctions Module (AML)
+
+INTRODUCTION
+
+Application
+
+This module (AML) applies to:
+
+(a)
+
+every Relevant Person in respect of all its activities carried on in or from the DIFC;
+
+(b)
+
+the persons specified in Rule 1.2.1 as being responsible for a Relevant Person’s compliance with this module; and
+
+(c)
+
+a Relevant Person, which is a DIFC entity, to the extent required by Rule 14.1.
+
+except to the extent that a provision of AML provides for a narrower application.
+
+For the purposes of these Rules, a Relevant Person means:
+
+(a)

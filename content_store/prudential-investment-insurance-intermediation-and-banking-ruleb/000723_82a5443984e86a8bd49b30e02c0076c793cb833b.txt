@@ -1,0 +1,13 @@
+Risk monitoring
+
+36.
+
+An Authorised Person should implement an effective system for monitoring its Credit Risk, which should be described in its Credit Risk policy. The system may monitor the use of facilities, adherence to servicing requirements and covenants, and monitor the value of Collateral and identify problem accounts.
+
+37.
+
+An Authorised Person should consider the implementation of a system of management reporting which provides relevant, accurate, comprehensive, timely and reliable Credit Risk reports to relevant functions within the Authorised Person.
+
+38.
+
+Adequacy and sophistication of Credit Risk measurement tools required depends on the complexity and degree of the inherent risks of the products involved. An Authorised Person should have information systems and analytical techniques that provide sufficient information on the risk profile and structure of the credit portfolio. These should be flexible to help Authorised Person to identify risk concentrations. To achieve this, an Authorised Person system should be capable of analysing its credit portfolio by the following characteristics:

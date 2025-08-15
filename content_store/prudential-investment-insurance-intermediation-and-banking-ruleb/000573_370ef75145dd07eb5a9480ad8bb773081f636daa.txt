@@ -1,0 +1,33 @@
+206
+
+PRU VER17.290725
+
+8
+
+GROUP RISK
+
+Introduction
+
+Guidance
+
+1.
+
+This Chapter deals with management of Group Risk Exposure of an Authorised Person. Group Risk refers to the risk of potential losses incurred by an Authorised Person on account of its relationship with other members of its Financial Group, if it were to be part of one.
+
+2.
+
+This Chapter includes requirements that an Authorised Person implement:
+
+a.
+
+an effective management framework for Group Risk Exposure;
+
+b.
+
+a specified methodology for the calculation of Financial Group Capital Resources and Financial Group Capital Requirements.
+
+3.
+
+This Chapter also includes requirements limiting Financial Group Exposures and restrictions on the ownership or control of deposit-taking firms.
+
+8.1

@@ -1,0 +1,23 @@
+and subsequent versions thereof.
+
+2.
+
+The systems and controls referred to in Rule 3.5.1(4)(b) should enable an Authorised Person to protect its ICT Assets in accordance with the requirements in Rules 3.5.5 to 3.5.14 in a way that minimises the likelihood and impact of a successful Cyber Incident on ICT Assets as identified under Rule 3.5.4(1). They should be commensurate with the outcome of the Cyber Risk assessment under
+
+26
+
+GEN VER11.290725
+
+Rule 3.5.4(2) and the Authorised Person’s Cyber Risk tolerance determined under Rule 3.5.3(2)(c).
+
+3.
+
+An Authorised Person may need to apply additional controls, depending on its nature, scale or complexity.
+
+4.
+
+An Authorised Person may also rely on Group-wide policies on Cyber Risk when developing its policies, procedures or controls.
+
+5.
+
+An Authorised Person should tailor standards or policies it chooses to adopt to its needs. Not all elements of the standards or policies may be applicable. Additional policies, procedures and controls may be required to address idiosyncratic risks.

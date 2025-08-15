@@ -1,0 +1,31 @@
+Maturity Method
+
+A6.2.17 Under the Maturity Method, the following steps must be carried out:
+
+(a)
+
+the maturity weighted position for each instrument must be calculated by multiplying the market value of each individual long or short net position by the appropriate risk percentage per the table in Rule A6.2.16;
+
+(b)
+
+the sum of the weighted long and the sum of the weighted short positions in each maturity band must be calculated;
+
+(c)
+
+these weighted long and short positions must be matched within a maturity band to give the total matched weighted position in the maturity band and the total unmatched weighted position which will be long or short in the maturity band;
+
+(d)
+
+the matched weighted positions in all maturity bands must be summed;
+
+(e)
+
+the unmatched weighted positions in all the maturity bands must then be matched within a zone leaving an unmatched position for the zone (which will either be short or long); and
+
+338
+
+PRU VER17.290725
+
+(f)
+
+the unmatched positions in each zone must be matched with the unmatched positions in other zones leaving the residual unmatched weighted position.

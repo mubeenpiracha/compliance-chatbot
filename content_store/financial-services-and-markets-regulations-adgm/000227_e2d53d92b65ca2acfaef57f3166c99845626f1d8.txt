@@ -1,0 +1,25 @@
+The Regulator may make Rules specifying—
+
+(a)
+
+a class of OTC Derivatives that shall be subject to the clearing obligation;
+
+(b)
+
+the date or dates from which the clearing obligation takes effect in respect of such class of OTC Derivatives, including any phase-in and the categories of counterparties to which the obligation applies; and
+
+(c)
+
+the minimum remaining maturity of the OTC Derivative Contracts referred to in section 141(1)(b)(ii).
+
+84
+
+(2)
+
+With the overarching aim of reducing systemic risk, the Regulator may take into consideration the following criteria79—
+
+(a)
+
+the degree of standardisation of the contractual terms and operational processes of the relevant class of OTC Derivatives;
+
+(b)

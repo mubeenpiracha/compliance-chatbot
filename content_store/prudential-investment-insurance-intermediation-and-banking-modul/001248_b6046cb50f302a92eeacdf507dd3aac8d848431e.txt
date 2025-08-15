@@ -1,0 +1,15 @@
+foreign currencies and commodities that:
+
+(i) are expected to settle within the standard settlement cycle or period that is customary for the relevant exchange or type of transaction; or
+
+(ii) have failed to, but are still expected to, settle.
+
+Guidance
+
+1.
+
+An Authorised Firm’s ASF represents the relative stability of its funding sources, including the contractual maturity of its liabilities and the differences in the propensity of different types of funding providers to withdraw their funding.
+
+2.
+
+The calibration of the ASF reflects the stability of liabilities, taking into account a number of factors:

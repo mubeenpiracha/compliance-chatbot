@@ -1,0 +1,23 @@
+6.9.3 Timely Execution
+
+(a)
+
+Once an Authorised Person has agreed or decided to enter into a Transaction for a Client, it must do so as soon as reasonably practical.
+
+(b)
+
+An Authorised Person may postpone the execution of a Transaction if it has taken reasonable steps to ensure that it is in the best interests of the Client.
+
+6.9.4 Fairly and in Due Turn
+
+An Authorised Person must deal with Transactions for its own account and Client Transactions fairly and in due turn.
+
+6.9.5 Averaging of Prices
+
+(a)
+
+An Authorised Person may execute a series of Transactions on behalf of a Client within the same trading day or within such other period as may be agreed in writing by the Client, to achieve one investment decision or objective, or to meet Transactions which it has aggregated.
+
+(b)
+
+If the Authorised Person does so, it may determine a uniform price for the Transactions executed during the period, calculated as the weighted average of the various prices of the Transactions in the series.

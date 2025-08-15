@@ -1,0 +1,37 @@
+Any
+
+8% or such other percentage as the DFSA may direct.
+
+(a) to apply a higher Specific Risk charge to such
+
+instruments; or
+
+(b) to disallow offsetting for the purpose of defining the extent of General Market Risk between such instruments and any other debt instruments.
+
+5 or 6
+
+Any
+
+12% or such other percentage as the DFSA may direct.
+
+Unrated
+
+Any
+
+8% or such other percentage as the DFSA may direct.
+
+Guidance
+
+1.
+
+Offsetting is not permitted since differences in coupon rates, liquidity, and call features, for example, signify that prices may diverge in the short run.
+
+326
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+2.
+
+The “Other” category will receive the same Specific Risk requirement as a private-sector borrower under the CRCOM, 8%. However, since this may, in certain cases, considerably underestimate the Specific Risk for debt Securities which have a high yield to redemption relative to government debt Securities, the DFSA has the right to apply to such Securities a Specific Risk percentage higher than 8%.

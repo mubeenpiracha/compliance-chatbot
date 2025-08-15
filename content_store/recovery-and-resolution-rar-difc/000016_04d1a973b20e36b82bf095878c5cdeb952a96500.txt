@@ -1,0 +1,17 @@
+Scope of the Recovery Plan
+
+2.1.6 A Recovery Plan prepared by an Authorised Firm shall be prepared on the
+
+following basis:
+
+(a)
+
+if the Authorised Firm has its head office in the DIFC, the Recovery Plan shall cover the recovery of the entire Group;
+
+(b)
+
+if the Authorised Firm is a Subsidiary of a Financial Institution that has its head office outside the DIFC, the Recovery Plan shall specifically address stress scenarios and triggers for the Authorised Firm and adequately cover any downstream operations, as well as including specific recovery options for the DIFC operations; and
+
+(c)
+
+if the Authorised Firm is a Branch of a Regulated Financial Institution, the Recovery Plan may generally be part of the Group plan, provided the Recovery Plan adequately covers the DIFC operations.

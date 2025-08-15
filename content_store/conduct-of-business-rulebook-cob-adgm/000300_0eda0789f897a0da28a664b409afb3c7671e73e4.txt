@@ -1,0 +1,31 @@
+the date of opening or closure.
+
+(b)
+
+The details of the master list must be documented and maintained for a minimum period of six years following the closure of an account.
+
+98
+
+COBS VER19.290725
+
+15.4.4 An Authorised Person must not use a Client's Safe Custody Assets for its own purpose or
+
+that of another Person without that Client's prior written permission.
+
+15.4.5 An Authorised Person which intends to use a Client's Safe Custody Assets for its own purpose or that of another Person, must have systems and controls in place to ensure that:
+
+(a)
+
+it obtains that Client's prior written permission;
+
+(b)
+
+adequate records are maintained to protect Safe Custody Assets which are applied as collateral or used for stock lending activities;
+
+(c)
+
+the equivalent assets are returned to the Client Account of the Client; and
+
+(d)
+
+the Client is not disadvantaged by the use of his Safe Custody Assets.

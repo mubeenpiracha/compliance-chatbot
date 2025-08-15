@@ -1,0 +1,27 @@
+328
+
+PRU VER17.290725
+
+12.
+
+13.
+
+14.
+
+15.
+
+16.
+
+17.
+
+18.
+
+19.
+
+reported in a timely manner to the appropriate level of management along with any remedial action proposed or taken.
+
+Market Risk limits should be periodically reviewed in order to check their suitability for current market conditions and the Authorised Person's overall risk appetite.
+
+An Authorised Person should use a model or some form of analytical tool to assess risk in complex instruments or across portfolios. An Authorised Person which wishes to use such a model to determine part of its financial resources requirement, should refer to Section 5.3.
+
+An Authorised Person should also use stress testing to determine the potential effects of economic downturns, market events, changes in interest rates, foreign exchange or liquidity conditions.

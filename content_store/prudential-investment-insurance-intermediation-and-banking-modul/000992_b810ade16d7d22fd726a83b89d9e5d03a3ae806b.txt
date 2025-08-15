@@ -1,0 +1,35 @@
+non-convertible preference shares;
+
+(b)
+
+futures or forwards on a debt security or on interest rates;
+
+(c)
+
+swaps (or contracts for differences) whose value is based on interest rates;
+
+(d)
+
+the cash leg of a repurchase or a reverse repurchase agreement;
+
+(e)
+
+forward foreign exchange contracts or currency futures;
+
+(f)
+
+interest rate legs of equity swaps;
+
+(g)
+
+interest rate legs of equity futures or forwards; and
+
+321
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+(h)
+
+interest rate legs of equity based options treated under internal models in section 5.3.

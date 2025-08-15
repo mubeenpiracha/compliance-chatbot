@@ -1,0 +1,15 @@
+Guidance
+
+Cash items include loans and deposits and the cash legs of repurchase, stock borrowing, reverse repurchase and stock lending transactions.
+
+A2.1.10 Where the conditions under Rule A2.1.9 are not met, an Authorised Firm must, subject to Rule A2.1.3, include an Exposure arising under a repurchase agreement, reverse repurchase agreement, securities and commodities borrowing or securities and commodities lending in its Non-Trading Book.
+
+Guidance
+
+The Non-Trading Book treatment for such Exposures is set out in Rules in A4.8 and A4.9.
+
+239
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)

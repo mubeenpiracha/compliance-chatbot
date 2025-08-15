@@ -1,0 +1,9 @@
+Guidance
+
+The steps to calculate the add-on for the foreign exchange asset class are similar to the steps for the interest rate asset class, except that there is no allocation of trades to maturity buckets (which means that there is full offsetting of long and short positions within the hedging sets of the foreign exchange derivative asset class).
+
+Add-on for transactions in the credit asset class
+
+A4.8.9 (1) An Authorised Firm must divide the transactions of each hedging set of the credit asset class into different categories with each category containing all the transactions referencing the same entity or index.
+
+(2) An Authorised Firm must calculate the add-on for hedging set ‘j’ of the credit asset

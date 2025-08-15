@@ -1,0 +1,9 @@
+A4.10.8 Where an Insurer enters, as Insurer or cedant, into a General Insurance contract of longer than twelve months' duration, the premium or reinsurance premium on that contract must not be included fully in the calculation of base premium in the reporting period in which the contract was effected, but must be apportioned over the duration of the contract by allocating to each reporting period a fraction of the premium
+
+89
+
+PIN VER07.290725
+
+proportionate to the fraction of the contract period that falls into that reporting period, or on a different basis approved in writing by the Regulator.
+
+A4.10.9 Where an Insurer enters as reinsurer into a finite risk reinsurance contract in respect of General Insurance Business, the underwriting risk component in respect of that contract, regardless of the Class of Business it relates to, must be 4% of the base premium on the contract.

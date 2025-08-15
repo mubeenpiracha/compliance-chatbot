@@ -1,0 +1,5 @@
+Where a Clearing House which did not at the time of licensing carry on CSD functions wishes to do so subsequently, it needs to apply to the DFSA for approval under Rule 4.3.1, as it is a material change to its current arrangements.
+
+4.
+
+Operating a Central Counterparty is likely to be the only Clearing House activity relevant to Crypto Tokens, as providing a Securities Settlement System or acting as a Central Securities Depository are relevant only to Investments. For Crypto Tokens, transfers of Crypto Tokens take place by means of Distributed Ledger Technology or other similar technology.

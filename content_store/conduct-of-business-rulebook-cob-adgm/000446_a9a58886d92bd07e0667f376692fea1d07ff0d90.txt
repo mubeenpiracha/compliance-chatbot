@@ -1,0 +1,29 @@
+Guidance
+
+For the purposes of Rule 19A.4.1(1)(b)(i), T+2 excludes weekends and holidays in ADGM as well as any time required for funds to be transferred from the Issuer’s bank account to the redeeming holder’s bank account.
+
+19A.5 Reserves arising from the issuance of Fiat-Referenced Tokens
+
+19A.5.1 (1)
+
+References to “Client Account” and “Client Assets” in Chapter 15 must be read using the terms “Reserve Account” and “Reserve Investments”, respectively.
+
+(2)
+
+The following Rules do not apply to an Authorised Person which has issued a Fiat- Referenced Token:
+
+(a)
+
+Rule 14.13.5
+
+(b)
+
+Rule 14.13.6
+
+(c)
+
+Rule 15.4.4
+
+(d) Rule 15.4.5
+
+(e)

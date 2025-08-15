@@ -1,0 +1,31 @@
+and
+
+(e) ensure that a contract with a Payment Account Provider includes sufficient obligations on the provider to adequately protect customer information and security credentials in accordance with this Rule.
+
+User’s access to the services
+
+(1) An Authorised Firm may only restrict or stop a User’s access to its service:
+
+(a) as explicitly set out in the Client Agreement; and
+
+(b) on reasonable grounds, limited to:
+
+(i) specific limits agreed with the User;
+
+(ii) valid security reasons or suspected unauthorised or fraudulent use; or
+
+(iii) a significant increased risk that the User may be unable to meet its
+
+liability to repay, where a credit line is used.
+
+(2) An Authorised Firm must inform the User that it intends to restrict or stop
+
+access to its service and of its reasons for doing so:
+
+(a) before restricting or stopping access to the service; or
+
+(b) where prior notice is not possible, immediately after restricting or
+
+stopping access to the service,
+
+unless it is unlawful to do so or there is a valid security reason for not doing so.

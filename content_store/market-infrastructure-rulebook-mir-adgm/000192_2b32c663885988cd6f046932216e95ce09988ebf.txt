@@ -1,0 +1,21 @@
+(a)
+
+Clearing Rules, Default Rules and procedures that:
+
+enable the Recognised Clearing House to meet its payment obligations on time following any individual or combined default of its Members and other involved parties;
+
+65
+
+MIR VER10.290725
+
+address unforeseen and potentially uncovered liquidity shortfalls to avoid unwinding, revoking, or delaying the settlement of its payment obligations arising under the same-day, intra-day or multiday settlement obligations, as applicable; and
+
+indicate any liquidity resources the Recognised Clearing House may deploy, in the event of default by a Member or other involved parties, during a stress event to replenish the available liquid resources and the associated process, so that it can continue to operate in a safe and sound manner;
+
+(b)
+
+effective operational and analytical tools to identify, measure and monitor its settlement and funding flows on an on-going and timely basis; and
+
+(c)
+
+rigorous due diligence procedures relating to its liquidity providers to obtain a high degree of confidence that each provider (whether the provider is a Member or other participant using its facilities or an external party) has:

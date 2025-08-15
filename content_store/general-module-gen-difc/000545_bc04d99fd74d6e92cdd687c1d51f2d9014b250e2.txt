@@ -1,0 +1,39 @@
+INVESTMENTS AND CRYPTO TOKENS
+
+General definition of investments
+
+Investments
+
+(1)
+
+An Investment is, subject to (3), either:
+
+(a)
+
+a Security; or
+
+(b)
+
+a Derivative,
+
+as defined in Rule A2.1.2 or Rule A2.1.3.
+
+(2)
+
+Such a Security or Derivative includes:
+
+(a)
+
+a right or interest in the relevant Security or Derivative;
+
+(b)
+
+the Security or Derivative in the form of a cryptographically secured digital representation of rights and obligations that is issued, transferred and stored using DLT or other similar technology;
+
+(c)
+
+a cryptographically secured digital representation of rights and obligations that is issued, transferred and stored using DLT or other similar technology and:
+
+(i)
+
+confers rights and obligations that are substantially similar in nature to those conferred by a Security or Derivative; or

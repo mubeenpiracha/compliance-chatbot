@@ -1,0 +1,19 @@
+(4)
+
+The form of protection that is appropriate for the classes of arrangements specified in subsection (2) shall be as provided in sections 72, 73, 74 or 75, as the case may be.
+
+72.
+
+Protection for Title Transfer Collateral Arrangements and set-off and netting arrangements
+
+To protect the transfer of some, but not all, of the rights, assets and liabilities that are protected under Title Transfer Collateral Arrangements referred to under section 71(2)(a), set-off arrangements referred to in section 71(2)(b), netting arrangements referred to in section 71(2)(c)(c), obligations to payment and securities settlement systems and clearing houses referred to in section 71(2)(e)(c) and settlement finality referred to in section 71(2)(f), the following shall not be permitted—
+
+(a)
+
+the transfer of some, but not all, of the rights, assets and liabilities that are protected under any such arrangement between the Institution in Resolution and another person; and
+
+(b)
+
+the modification or termination of rights, assets and liabilities that are protected under any such arrangement through the exercise of Resolution Powers.
+
+73.

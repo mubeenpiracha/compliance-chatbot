@@ -1,0 +1,9 @@
+Chapter 3 Resolvability
+
+Assessment of resolvability for Institutions
+
+In assessing a Resolution Plan, the Regulator may carry out a resolvability assessment with respect to the Institution. Such an assessment shall determine the extent to which the Institution is resolvable.
+
+An Institution shall be determined as resolvable if it is feasible and credible for the Regulator to Wind Up the Institution under Insolvency Proceedings or to resolve it by applying a Resolution Tool to, and exercising Resolution Powers in respect of, the Institution while avoiding to the maximum extent possible any significant adverse effect on the financial system, including in circumstances of broader financial instability or system-wide events, with a view to ensuring the continuity of Critical Functions carried out by the Institution.
+
+For the purposes of the assessment of resolvability referred to under subsection (1), the Regulator may consider the matters set out in Part 4 of the Schedule. The Regulator shall carry out any potential resolvability assessment in pursuit of the Resolution Objectives and in accordance with the General Resolution Principles.

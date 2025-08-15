@@ -1,0 +1,21 @@
+Physical delivery
+
+4.9.1
+
+A Recognised Clearing House incurring obligations that require physical delivery of physical instruments or commodities must:
+
+(a)
+
+provide adequate information to its Members and other participants using its facilities relating to its obligations with respect to physical delivery of the physical instruments or commodities. Such information must also be made publicly available;
+
+(b)
+
+identify, monitor, and manage the risks associated with such physical deliveries; and
+
+(c)
+
+identify, monitor, and manage the risks and costs associated with the storage and delivery.
+
+4.9.2
+
+A Recognised Clearing House must have adequate arrangements, including service agreements, which enable it to meet its physical delivery obligations.

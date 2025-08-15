@@ -1,0 +1,17 @@
+a.
+
+the name of the relevant Investment or Crypto Token and the price, quantity and date of the transaction;
+
+b.
+
+the identities and, where appropriate, the roles of the counterparties to the transaction;
+
+c.
+
+the facilities on which the transaction was effected and is to be cleared;
+
+d.
+
+where applicable, the time novation takes place; and
+
+e.

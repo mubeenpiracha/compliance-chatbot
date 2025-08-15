@@ -1,0 +1,15 @@
+138
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+(i) where the right or ability of the Authorised Firm to transfer the underlying Exposure to the credit protection provider is required for settlement, the terms of the underlying Exposure must provide that any required consent to such transfer may not be unreasonably withheld;
+
+(j)
+
+the identity of the parties responsible for determining whether a credit event has occurred must be clearly defined. This determination must not be the sole responsibility of the credit protection provider. The Authorised Firm must have the right or ability to inform the credit protection provider of the occurrence of a credit event; and
+
+(k)
+
+the underlying obligation and the reference obligation specified in the Credit Derivative contract for the purpose of determining the cash settlement value or the deliverable obligation or for the purpose of determining whether a credit event has occurred may be different only if:

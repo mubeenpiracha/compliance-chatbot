@@ -1,0 +1,29 @@
+b. unencumbered means free of legal, regulatory, contractual or other restrictions on the
+
+ability of the bank to liquidate, sell, transfer or assign the asset.
+
+16. Deposits/PSIAs held at other financial institutions for operational purposes as defined in section A9.2 in App 9.
+
+17.
+
+Performing loans and securities are the sum of rows 18, 19, 20, 22 and 24.
+
+18.
+
+Performing loans to financial institutions secured by Level 1 HQLA, as defined in section A9.2 in App 9.
+
+19.
+
+Performing loans to financial institutions secured by non-Level 1 HQLA and unsecured performing loans to financial institutions.
+
+20.
+
+Performing loans to non-financial corporate clients, loans to retail and small business customers, and loans to sovereigns, central banks and PSEs.
+
+21.
+
+Performing loans to non-financial corporate clients, loans to retail and small business customers, and loans to sovereigns, central banks and PSEs with risk weight of less than or equal to 50% under section 4.12.
+
+22.
+
+Performing residential mortgages.

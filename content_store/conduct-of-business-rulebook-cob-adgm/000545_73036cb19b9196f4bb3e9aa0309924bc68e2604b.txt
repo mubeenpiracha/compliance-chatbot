@@ -1,0 +1,11 @@
+(a)
+
+on an annual basis; or
+
+(b) where there is any material change in the financial situation or risk tolerance of the Retail Client, if that change occurs prior to the annual reassessment.
+
+23.6 Margin Requirements for Retail Clients
+
+An Authorised Person must require a Retail Client to have posted margin, in the form of Money, before it opens a position in an OTC Leveraged Product for that Retail Client of at least the following proportion of the value of the exposure of the Retail Client:
+
+(a) 3.33% for major currency pairs and relevant sovereign debt;

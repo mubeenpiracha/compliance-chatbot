@@ -1,0 +1,29 @@
+a.
+
+procedure for the evaluation and selection of information technology systems;
+
+b.
+
+procedures for problem management and system change;
+
+113
+
+COB/VER48/03-25
+
+CONDUCT OF BUSINESS (COB)
+
+c.
+
+arrangements for testing information technology systems before live operations;
+
+d.
+
+arrangements to monitor and report system performance, availability and integrity;
+
+e.
+
+arrangements made to ensure information technology systems are resilient and not prone to failure;
+
+f.
+
+arrangements made to ensure business continuity in the event that an information technology system fails;

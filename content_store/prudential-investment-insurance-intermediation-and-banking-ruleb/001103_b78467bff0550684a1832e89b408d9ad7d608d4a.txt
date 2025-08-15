@@ -1,0 +1,15 @@
+(iv)
+
+they are not an obligation of a Financial Institution or any of its affiliated entities;
+
+(d)
+
+in the case of sovereigns that are not eligible for a risk-weight of zero, sovereign, or central bank debt Securities issued in domestic currencies by the sovereign or central bank in the country in which the Liquidity Risk is being taken or in the Authorised Person's home jurisdiction, where those Securities satisfy all of the conditions in paragraph (c) (ii)(iii) and (iv);
+
+403
+
+PRU VER17.290725
+
+(e)
+
+in the case of sovereigns that are not eligible for a risk-weight of zero, domestic sovereign or central bank debt Securities issued in foreign currencies, up to the amount of the Authorised Person's stressed net cash outflows in that specific foreign currency stemming from the Authorised Person's operations jurisdiction where the Authorised Person's Liquidity Risk is being taken, where those Securities satisfy all of the conditions in paragraph (c) (ii)(iii) and (iv); and

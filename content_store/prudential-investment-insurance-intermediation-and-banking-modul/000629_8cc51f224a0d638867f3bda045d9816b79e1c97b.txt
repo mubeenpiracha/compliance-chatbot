@@ -1,0 +1,37 @@
+Guidance
+
+For the purposes of the above requirement, an Authorised Firm may take into account its position within its Group. For instance, it would be reasonable for a small Authorised Firm within a larger Group to place some reliance on its parent to ensure that appropriate systems and controls are in place.
+
+(1)
+
+An Authorised Firm must have systems and controls to enable it to determine and monitor:
+
+(a)
+
+its Financial Group Capital Requirement; and
+
+199
+
+PIB/VER50/07-25
+
+8.3
+
+8.3.1
+
+8.3.2
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+(b) whether the amount of its Financial Group Capital Resources is, and is likely to remain, greater than the amount of its Financial Group Capital Requirement.
+
+(2)
+
+Such systems and controls must include an analysis of:
+
+(a)
+
+realistic scenarios which are relevant to the circumstances of the Financial Group; and
+
+(b)
+
+the effects on the Financial Group Capital Requirement and on the Financial Group Capital Resources if those scenarios occurred.

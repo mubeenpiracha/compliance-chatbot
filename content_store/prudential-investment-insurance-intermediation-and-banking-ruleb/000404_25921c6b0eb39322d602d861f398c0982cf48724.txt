@@ -1,0 +1,37 @@
+in the
+
+Currency mismatches
+
+4.13.13
+
+(1)
+
+In the case where there is a currency mismatch between the credit protection and the underlying Exposure, an Authorised Person must reduce the amount of the Exposure deemed to be protected by applying a haircut, as follows:
+
+Protected portion GA = G (1- HFX)
+
+where:
+
+(a)
+
+G = notional amount of the credit protection; and
+
+(b)
+
+HFX = haircut appropriate for currency mismatch between the credit protection and underlying obligation Exposure based on a ten-business day holding period, assuming daily mark-to-market.
+
+(2)
+
+An Authorised Person must determine HFX in the following manner:
+
+(a)
+
+if the Authorised Person uses standard supervisory haircuts, HFX is 8%; and
+
+(b)
+
+if the Authorised Person uses own-estimate haircuts, it must estimate HFX according to Rules A4.3.6 to A4.3.26 in App4 based on a ten-business day holding period, assuming daily mark-to-market.
+
+(3)
+
+If the credit protection is not marked-to-market daily, HFX must be scaled in accordance with Rule A4.3.25.

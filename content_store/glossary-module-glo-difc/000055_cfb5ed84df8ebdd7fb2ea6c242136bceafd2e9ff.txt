@@ -1,0 +1,25 @@
+to
+
+An account used by an Authorised Firm to manage the investment portfolio of a Client on a discretionary basis under terms of a Discretionary Portfolio Management Agreement.
+
+the
+
+An agreement under which an Authorised Firm agrees with a Client to manage an investment portfolio for that in accordance with pre-agreed particular Client investment parameters in that agreement and where:
+
+(a)
+
+the Client’s approval of any specific Transaction the is not Transaction; and
+
+required before undertaking
+
+(b)
+
+the assets of the Client are discretely held for that Client and no pooling of those assets occurs with the assets of any other Person, except purely for transactional purposes.
+
+The requirement calculated in accordance with chapter 5 of the IFR Module.
+
+A class of technologies that support the recording of encrypted data where the data:
+
+(a) is held on a distributed ledger;
+
+(b) is electronically accessible, from multiple locations,

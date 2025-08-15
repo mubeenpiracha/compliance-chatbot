@@ -1,0 +1,21 @@
+A5.3.2 An Authorised Firm must calculate its Equity Risk Capital Requirement by:
+
+(a)
+
+identifying all applicable positions within the scope of the requirement, including notional positions derived from certain instruments;
+
+(b)
+
+Netting positions where they meet the conditions for Netting set in Rule A5.3.19;
+
+(c)
+
+calculating an Equity Risk Capital Requirement for each individual position using the standard method in accordance with Rule A5.3.23 or the simplified method in accordance with Rule A5.3.31;
+
+(d)
+
+in the case of a forward, future, option or company issued warrant on an equity, basket of equities or equity index, adding an Interest Rate Risk Capital Requirement; and
+
+(e)
+
+summing the Capital Requirements calculated in accordance with (c) and (d).

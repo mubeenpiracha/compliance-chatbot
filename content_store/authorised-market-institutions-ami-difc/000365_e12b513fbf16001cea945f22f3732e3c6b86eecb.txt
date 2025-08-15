@@ -1,0 +1,21 @@
+Guidance
+
+1.
+
+An Authorised Market Institution when considering whether a Commodities Derivative contract adequately provides for contract certainty in the event of default or force majeure, should take into account:
+
+a.
+
+whether any collateral provided by the contracting parties would be sufficient to address the replacement risk in the performance of the contract; and
+
+b.
+
+whether there are any monetary consequences attaching to defaulting parties that would act as a disincentive against default.
+
+2.
+
+The contract terms should clearly specify which jurisdictional laws are applicable to the governing law, including where there are any significant variations in the rights and liabilities attaching to the contracting parties for the event that occur in the relevant jurisdiction.
+
+116
+
+AMI/VER28/03-25

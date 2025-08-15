@@ -1,0 +1,17 @@
+Exposure limits
+
+An Authorised Firm Managing a PSIA, which is an Unrestricted PSIA, must not have an Exposure to a Counterparty or to a group of Closely Related Counterparties or to a group of Connected Counterparties that exceeds any one of the following percentages of its Capital Resources:
+
+(a)
+
+25% if financed by its Capital Resources or Unrestricted PSIAs; or
+
+(b)
+
+40% if financed by the total of its own Capital Resources and, Unrestricted PSIAs.
+
+Guidance
+
+In accordance with PIB section 4.15, the aggregate of an Authorised Firm’s Exposure to a Counterparty or to a group of Closely Related Counterparties may not exceed 25% of the Authorised Firm’s Capital Resources.
+
+The sum of an Authorised Firm’s non-exempt Large Exposures must not exceed 800% of its Capital Resources for Exposures funded by the Authorised Firm’s Capital Resources and Unrestricted PSIAs.

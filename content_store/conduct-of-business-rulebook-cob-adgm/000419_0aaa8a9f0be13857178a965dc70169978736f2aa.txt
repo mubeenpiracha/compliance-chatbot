@@ -1,0 +1,23 @@
+Evidence on authentication and execution of Payment Transactions
+
+19.18.1 (1) Where a Payment Service User:
+
+(a)
+
+denies having authorised an executed Payment Transaction; or
+
+(b)
+
+claims that a Payment Transaction has not been correctly executed;
+
+it is for the Payment Service Provider to prove that the Payment Transaction was authenticated, accurately recorded, entered in the Payment Service Provider’s accounts and not affected by a technical breakdown or some other deficiency in the service provided by the Payment Service Provider or any third party it relies upon for the performance of operational functions.
+
+(2) Where a Payment Service User denies having authorised an executed Payment Transaction, the use of a Payment Instrument recorded by the Payment Service Provider, including a Payment Initiation Service Provider where appropriate, is not in itself necessarily sufficient to prove either that:
+
+(a)
+
+the Payment Transaction was authorised by the Payer; or
+
+(b)
+
+the Payer acted fraudulently or failed with intent or gross negligence to take all reasonable steps to keep safe Personalized Security Credentials relating to a Payment Instrument.

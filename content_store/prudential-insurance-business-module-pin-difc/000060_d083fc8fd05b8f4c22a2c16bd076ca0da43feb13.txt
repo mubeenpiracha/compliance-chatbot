@@ -1,0 +1,5 @@
+For the purposes of this chapter, assets and liabilities must be valued in accordance with chapter 5.
+
+In this chapter and in the appendices referred to in this chapter, references to ratings are made according to the rating hierarchy (AAA, AA, etc) of Standard & Poor’s. Where, for the purposes of a provision of this chapter or of an appendix, an Insurer uses ratings from a Rating Agency other than Standard & Poor’s, the Insurer must apply that provision as though the Standard & Poor’s rating referred to in the provision were replaced by the rating from that other Rating Agency that is equivalent to the Standard & Poor’s rating.
+
+An Insurer must not, for the purposes of this chapter or the appendices referred to in this chapter, use ratings provided by any Rating Agency other than Standard & Poor’s, Moody’s, AM Best, and Fitch Ratings, except where the DFSA has given written approval to the Insurer for the use of ratings provided by that other Rating Agency.

@@ -1,0 +1,17 @@
+Before an Authorised Firm holds a Safe Custody Investment or Safe Custody Crypto Token with a Third Party Agent, it must undertake an assessment of that Third Party Agent and have concluded on reasonable grounds that the Third Party Agent is suitable to hold those Safe Custody Investments or Safe Custody Crypto Tokens.
+
+(2)
+
+An Authorised Firm must have systems and controls in place to ensure that the Third Party Agent remains suitable.
+
+(3)
+
+When assessing the suitability of the Third Party Agent, the Authorised Firm must ensure that the Third Party Agent will provide protections equivalent to the protections conferred in this appendix.
+
+A6.5.1A (1)
+
+Before an Authorised Firm arranges custody with a non-DIFC custodian authorised and supervised by a Financial Services Regulator, it must undertake an assessment of that custodian and have concluded, on reasonable grounds, that it is suitable to hold the Safe Custody Investments or Safe Custody Crypto Tokens.
+
+(2)
+
+When assessing the suitability of a non-DIFC custodian, the Authorised Firm must ensure that the non-DIFC custodian will provide protections equivalent to the protections conferred in this appendix.

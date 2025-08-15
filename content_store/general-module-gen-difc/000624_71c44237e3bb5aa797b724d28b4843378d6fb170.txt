@@ -1,0 +1,19 @@
+Example 2
+
+24.
+
+Company B issues a Token to A, acknowledging that Company B owes money to A. In addition to conferring a right to receive interest payments, the Token gives A the right, following a triggering event at a future point in time, to participate in the profits and assets of Company B, and to exercise control of the company through voting rights. This is a Token that gives A substantially similar rights to those conferred by convertible debt, with corresponding obligations imposed on Company B. This is a Security Token that is considered a Debenture, until such time it is converted to a Share in the capital of Company B, at which point it becomes a Security Token that is considered a Share.
+
+When is an Investment Token a Warrant?
+
+203
+
+GEN/VER67/03-25
+
+GENERAL (GEN)
+
+25.
+
+A Warrant is an instrument that confers, on the holder, a right to acquire an unissued Share, Debenture or Unit in a Fund.
+
+26.

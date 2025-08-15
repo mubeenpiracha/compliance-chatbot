@@ -1,0 +1,5 @@
+Compliance with the AML Rules
+
+17.1.2
+
+The AML Rules apply to a Fund Administrator to the extent that it carries on the Regulated Activity of Acting as the Administrator of a Collective Investment Fund for a Domestic Fund or Foreign Fund, if managed by a Foreign Fund Manager, as if each reference in AML to a "customer" is a reference to a "Unitholder" or "prospective Unitholder" as appropriate to the context.

@@ -1,0 +1,29 @@
+(4)
+
+A Payment Service Provider must safeguard Relevant Money placed in one or more Payment Accounts, as necessary.
+
+130
+
+COBS VER19.290725
+
+Guidance
+
+A Payment Service Provider must safeguard Money which they may be responsible for the transmission of, as well as any Money which they may hold or control on behalf of a Payment Service User, or which may be required to fund the redemption of Stored Value issued to a Payment Service User.
+
+19.7.2 A Payment Account in which Relevant Money is held, must:
+
+(a)
+
+be designated in such a way as to demonstrate that it is an account which is held for the purpose of safeguarding Relevant Money in accordance with Chapter 14 of these Rules;
+
+(b)
+
+be used only in relation to Payment Transactions; and
+
+(c)
+
+be used only for holding Relevant Money.
+
+19.7.3 No person other than the Payment Service Provider may have any interest in or right over the Relevant Money placed in a Payment Account in accordance with Rule 19.7.2, except as provided by these Rules.
+
+19.7.4 The Payment Service Provider must keep records of all Relevant Money segregated in

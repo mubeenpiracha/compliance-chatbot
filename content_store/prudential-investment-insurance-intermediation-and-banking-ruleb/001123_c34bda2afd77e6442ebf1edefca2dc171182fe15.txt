@@ -1,0 +1,33 @@
+Cash Outflows
+
+Item
+
+Factor
+
+Unconditionally revocable "uncommitted" credit and liquidity facilities
+
+5%
+
+Guarantees and letters of credit unrelated to trade finance obligations
+
+10%
+
+Non-contractual obligations: • Debt-buy back requests (incl. related conduits)
+
+100%
+
+Structured products
+
+10%
+
+Managed funds
+
+10%
+
+Other non-contractual obligations
+
+100%
+
+Outstanding debt Securities (unsecured and secured, term as well as short-term) with remaining maturity > 30 days of issuers with an affiliated dealer or market-maker
+
+100%

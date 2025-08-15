@@ -1,0 +1,27 @@
+E = max (CV-MV, 0).
+
+Guidance
+
+E is the price difference to which the Authorised Person is exposed, being the difference between the agreed settlement price for the debt instrument, equity, foreign currency or commodity in question and its current market value, where the difference could involve a loss for the firm.
+
+Free delivery transactions
+
+A4.6.8
+
+An Authorised Person must calculate the Credit RWA in accordance with the table in Rule A4.6.11 for free delivery transactions in both the Trading and Non-Trading Book where it has:
+
+(a)
+
+delivered Securities or commodities before receiving payment;
+
+(b)
+
+paid for Securities or commodities before receiving the items purchased; or
+
+(c)
+
+entered into a foreign exchange contract undertaken in the spot market or contracted for forward settlement and has released funds to its Counterparty but has not yet received the funds in the other currency.
+
+A4.6.9
+
+If the settlement of the transaction is to be effected across a national border, Credit RWA needs to be calculated only when more than one business day has elapsed since the firm has made the relevant payment or delivery.

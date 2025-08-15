@@ -1,0 +1,43 @@
+Calculation of RWA for Credit Risk Exposures (CR Exposures)
+
+An Authorised Firm must include in its calculation of RWA for CR Exposures:
+
+(a)
+
+any on-balance sheet asset; and
+
+(b)
+
+any off-balance sheet item;
+
+but excluding:
+
+(c)
+
+any SE Exposure;
+
+(d)
+
+any securitised Exposure that meets the requirements for the recognition of risk transference in a Traditional Securitisation set out in section 4.14;
+
+(e)
+
+any CCR Exposure;
+
+(f)
+
+any SR Exposure; and
+
+99
+
+PIB/VER50/07-25
+
+4.8.3
+
+4.8.4
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+(g)
+
+any Exposure classified as a position or instrument in the Trading Book in accordance with section A2.1.

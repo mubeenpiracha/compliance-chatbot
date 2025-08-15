@@ -1,0 +1,65 @@
+Eligible Financial Collateral
+
+Supervisory Haircut
+
+Issue Rating for Debt Securities
+
+Residual Maturity
+
+Sovereigns
+
+Other Issuers
+
+Securitisation Exposure
+
+≤ 1 year
+
+0.5
+
+1
+
+2
+
+Any debt security with a Credit Quality Grade of 1 or short- term Credit Quality Grade of “I”
+
+> 1 year, ≤ 3 years
+
+> 3 years, ≤ 5 years
+
+> 5 years, ≤ 10 years
+
+2
+
+4
+
+3
+
+4
+
+6
+
+8
+
+16
+
+> 10 years
+
+12
+
+≤ 1 year
+
+1
+
+2
+
+4
+
+273
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+2-3 (long- and short-term) and unrated bank securities (as defined in Rule 4.13.5(1)(d))
+
+> 1 year, ≤ 3 years

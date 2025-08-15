@@ -1,0 +1,17 @@
+Guidance
+
+1.
+
+Recognised Bodies which, under their rules, have Market Contracts are required to have Default Rules enabling them (among other things) to take action in relation to a Member that appears to be unable to meet its obligations in respect of one or more unsettled Market Contracts. The detailed Recognition Requirements relating to the Default Rules are set out in Rule 3.10 and Rule 4.5.
+
+2.
+
+The Default Rules are designed to ensure that rights and liabilities between the defaulter and any counterparty to an unsettled Market Contract are discharged, and for there to be paid between the defaulter and each counterparty one net sum. The Insolvency Regulations contain provisions which protect action taken under Default Rules from the normal operation of insolvency law which might otherwise leave this action open to challenge by a Relevant Office Holder.
+
+97
+
+MIR VER10.290725
+
+6.5.3
+
+The Regulator may direct a Recognised Body to take, or not to take, action under its Default Rules (see Rules 6.5.4 and 6.5.6). Before exercising these powers the Regulator must consult the Recognised Body. The Regulator may also exercise these powers if a Relevant Office Holder applies to it.

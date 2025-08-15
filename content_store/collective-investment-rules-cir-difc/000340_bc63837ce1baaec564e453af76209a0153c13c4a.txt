@@ -1,0 +1,9 @@
+Physical ETF
+
+9.
+
+The investment strategy of a physical ETF is to hold physical securities and other assets to obtain returns that correspond typically to those of an underlying index or benchmark by replicating (and where appropriate, by sampling) the component securities of the relevant index or benchmark. Replication generally involves investing in the component securities of the underlying index or benchmark in the same approximate proportions as in the underlying index or benchmark.
+
+10.
+
+In certain cases, it may not be possible for an ETF to own every stock of an index (for example, due to, transaction costs, the index being too large, its components being illiquid, or because its market capitalisation weighting would result in the ETF violating regulatory requirements for asset diversification). In such instances, a physical ETF may rely on sampling techniques. For example, by acquiring a subset of the component securities of the underlying index, and possibly some securities that are not included in the corresponding index designed to improve the ETF's index-tracking.

@@ -1,0 +1,11 @@
+Quantity
+
+The number of units of the Financial Instruments.
+
+(g)
+
+Venue identification
+
+Identification, if applicable, of the venue where the transaction was executed.
+
+3.6.8

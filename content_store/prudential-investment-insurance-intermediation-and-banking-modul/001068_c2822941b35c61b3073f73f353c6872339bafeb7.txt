@@ -1,0 +1,15 @@
+(a)
+
+multiplying the sum of the Vegas for all option positions in respect of the same underlying financial instrument or commodity, as defined in the Rule 5.6.8(c), by a proportional shift in volatility of ±25%; and
+
+(b)
+
+aggregating the absolute value of the individual Capital Requirements which have been calculated for Vega risk.
+
+A5.7 Collective Investment Fund Risk Capital Requirement
+
+Guidance
+
+This section presents the method for the calculation of Collective Investment Fund Risk Capital Requirement for the purpose of Rule 5.9.1(b).
+
+A5.7.1 An Authorised Firm which calculates its Collective Investment Fund Risk Capital Requirement in accordance with Rule 5.9.1(b) must apply the Rules in this section.

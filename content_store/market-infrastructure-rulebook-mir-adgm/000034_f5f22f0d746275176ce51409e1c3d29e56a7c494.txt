@@ -1,0 +1,45 @@
+[Deleted]
+
+2.4.9
+
+[Deleted]
+
+2.5
+
+Systems, controls and conflicts
+
+2.5.1
+
+A Recognised Body must ensure that the systems and controls used in the performance of its Regulatory Functions are adequate, and appropriate for the scale and nature of its business. In particular, this applies to systems and controls concerning:
+
+(a)
+
+the transmission of information;
+
+8
+
+MIR VER10.290725
+
+(b)
+
+the assessment, mitigation and management of risks to the performance of the Recognised Body's Regulatory Functions, including conflicts of interest;
+
+(c)
+
+the effecting and monitoring of transactions on the Recognised Body;
+
+(d)
+
+the technical operation of the Recognised Body, including contingency arrangements for disruption to its facilities;
+
+(e)
+
+the operation of its functions relating to the safeguards and protections to investors;
+
+(f)
+
+(where relevant) the safeguarding and administration of assets belonging to users of the Recognised Body's facilities; and
+
+(g)
+
+outsourcing.

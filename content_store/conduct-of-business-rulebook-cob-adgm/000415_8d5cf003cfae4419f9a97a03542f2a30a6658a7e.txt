@@ -1,0 +1,11 @@
+(4) Where a Payment Service User makes a request for redemption of Stored Value on, or up to one year after the date of the termination of the Framework Contract, the Payment Service Provider must redeem the total monetary value of the Stored Value held.
+
+(5)
+
+(3) and (4) shall not apply in the case of a Payment Service User which is not a Natural Person, and, in such a case, the redemption rights of that Payment Service User shall be subject to the Framework Contract between that Payment Service User and the Payment Service Provider.
+
+(6)
+
+A Payment Service Provider is not required to redeem the monetary value of Stored Value where the Payment Service User makes a request for redemption more than six years after the date of termination of the Framework Contract.
+
+(7)

@@ -1,0 +1,67 @@
+Table 1 - Insurer Return Matrix
+
+Number Name
+
+DIFC Incorporated Insurer
+
+Branch
+
+Return
+
+Return
+
+IN10
+
+Statement of Financial Position
+
+A/Q
+
+N/A
+
+IN20
+
+Statement of Calculation of Capital Adequacy A/Q
+
+N/A
+
+IN30
+
+Statement of Financial Performance
+
+A/Q
+
+N/A
+
+IN40
+
+Statement of Premiums and Reinsurance Expense
+
+A/Q
+
+A/Q
+
+IN50
+
+Statement of Claims and Reinsurance and Other Recoveries
+
+A/Q
+
+A/Q
+
+IN60
+
+Statement of Movement Provisions
+
+in
+
+Insurance
+
+A/Q
+
+A/Q
+
+IN70
+
+Statement of Investment Income
+
+A/Q

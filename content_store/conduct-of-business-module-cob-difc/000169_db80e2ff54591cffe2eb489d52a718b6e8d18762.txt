@@ -1,0 +1,15 @@
+Guidance
+
+The requirements in Rule 6.3.4(a) and (b) apply to an Authorised Firm in addition to other requirements in the DFSA Rulebook. For example, an Authorised Firm is required to take reasonable steps to identify actual or potential conflicts of interest and then prevent or manage them under GEN Rule 4.2.7 (Principle 7 – Conflicts of Interest). Further, COB Rule 6.3.2 requires an Authorised Firm to have adequate procedures and controls when it prepares or publishes Investment Research.
+
+Restrictions on publication
+
+If an Authorised Firm acts as a manager or co-manager of an initial public offering or a secondary offering, it must take reasonable steps to ensure that:
+
+(a)
+
+it does not publish Investment Research relating to the Investment during a Quiet Period; and
+
+(b)
+
+an Investment Analyst from the Authorised Firm does not make a Public Appearance relating to that Investment during a Quiet Period.

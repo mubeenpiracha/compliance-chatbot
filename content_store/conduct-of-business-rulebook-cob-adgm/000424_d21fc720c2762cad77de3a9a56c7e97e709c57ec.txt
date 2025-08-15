@@ -1,0 +1,3 @@
+(5) Where Rule 19.16.1 requires the application of Strong Customer Authentication, but the Payee or the Payee’s Payment Service Provider does not use Strong Customer Authentication, the Payee or the Payee’s Payment Service Provider, or both (on a joint and several basis, as the case may be), must compensate the Payer’s Payment Service Provider for the losses incurred or sums paid as a result of complying with Rule 19.19.1.
+
+19.21 Non-execution or defective or late execution of Payment Transactions

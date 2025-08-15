@@ -1,0 +1,23 @@
+17
+
+AUD/VER9/07-25
+
+Auditor Module (AUD)
+
+Guidance
+
+The notification requirement in Rule 4.6.3 (b) extends to investigations relating to any Employee provided the conduct investigated relates to or impacts on the affairs of the Registered Auditor.
+
+4.7 Communication with the DFSA
+
+4.7.1 A Registered Auditor must ensure that any communication with the DFSA is conducted in
+
+the English language.
+
+Guidance
+
+GEN section 6.10 sets out Rules about how information is to be provided to the DFSA.
+
+4.8 Annual information return
+
+4.8.1 A Registered Auditor must complete the Annual Information Return form on the DFSA electronic portal for each calendar year and submit the form to the DFSA by 31 January of the following year.

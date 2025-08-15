@@ -1,0 +1,35 @@
+Restriction Agreement must not:
+
+(1)
+
+amend an executed Restriction Agreement; or
+
+(2)
+
+ask for or agree to the release of a holding lock that has been imposed in accordance with Rule 9.6.9.
+
+9.6.7 A Controller need not be a party to the Restriction Agreement referred to in Rule 9.6.2 if
+
+any of the following applies.
+
+(1)
+
+The value of the Restricted Security is less than 10% of the total value of the assets of:
+
+(a)
+
+the holder of the Restricted Securities; or
+
+(b)
+
+an intermediate entity through which the Controller has its interests.
+
+(2)
+
+The holder, or an intermediate entity through which the Controller has its interests, is:
+
+(a)
+
+a Listed Entity, or an entity listed on exchange that is a full member of the World Federation of Exchanges; or
+
+(b)

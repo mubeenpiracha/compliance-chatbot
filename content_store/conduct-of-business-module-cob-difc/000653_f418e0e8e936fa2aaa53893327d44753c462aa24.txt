@@ -1,0 +1,17 @@
+A5.5.1 The requirement for an Authorised Firm to pay Client Money into a Client Account does not, subject to Rule A5.5.2 and Rule A5.5.4, apply with respect to such Client Money:
+
+(a)
+
+received in the form of cheque, or other payable order, until the Authorised Firm, or a Person or account controlled by the Authorised Firm, is in receipt of the proceeds of that cheque;
+
+(b)
+
+temporarily held by an Authorised Firm before forwarding to a Person nominated by the Client;
+
+(c)
+
+in connection with a Delivery Versus Payment Transaction where:
+
+(i)
+
+in respect of a Client purchase, Client Money from the Client will be due to the Authorised Firm within one day upon the fulfilment of a delivery obligation; or

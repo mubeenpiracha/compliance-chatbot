@@ -1,0 +1,19 @@
+for
+
+transaction
+
+‘i’, calculated
+
+in
+
+Guidance
+
+1.
+
+The calculation of the add-on for the interest rate asset class captures the risk of interest rate transactions of different maturities being imperfectly correlated. It does this by allocating trades to maturity buckets, in which full offsetting of long and short positions is permitted, and by using an aggregation formula that only permits limited offsetting between maturity buckets. This allocation of transactions to maturity buckets and the process of aggregation are only used in the interest rate asset class.
+
+2.
+
+The formula for the aggregation of the effective notional amounts across the three maturity buckets in Rule A4.8.7(3) allows for the partial offsetting. An Authorised Firm may elect not to recognise any offsetting across maturity buckets. In this case it must aggregate the effective notional amounts using the formula in Rule A4.8.7(3).
+
+3.

@@ -1,0 +1,17 @@
+Guidance
+
+1.
+
+The periodic stress testing and scenario analysis required by Rule 13A.7.1 should be viewed as a minimum standard. The Fund Manager of a Private Credit Fund should consider the fund’s complexity, liquidity and risk profile when considering the frequency of stress testing and scenario analysis or, should a material risk be identified, whether ad hoc stress testing and scenario analysis should be undertaken.
+
+2.
+
+Scenario analysis may reflect historical or hypothetical scenarios and should, at a minimum, address scenarios where:
+
+a. severe economic or market events have occurred;
+
+b. broad market liquidity has decreased significantly;
+
+c. a large financial intermediary is liquidating positions and
+
+d. the Private Credit Fund is required to liquidate assets during a period of

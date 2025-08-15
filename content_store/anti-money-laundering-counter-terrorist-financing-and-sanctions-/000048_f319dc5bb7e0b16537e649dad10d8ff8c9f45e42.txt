@@ -1,0 +1,5 @@
+Politically Exposed Person (PEP)
+
+Means a natural person (and includes, where relevant, a family member or close associate) who is or has been entrusted with a prominent public function, whether in the State or elsewhere, including but not limited to, a head of state or of government, senior politician, senior government, judicial or military official, ambassador, senior person in an International Organisation, senior executive of a state owned corporation, an important political party official, or a member of senior management or an individual who has been entrusted with similar functions such as a director or a deputy director.
+
+This definition does not include middle ranking or more junior individuals in the above categories.

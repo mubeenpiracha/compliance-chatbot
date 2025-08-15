@@ -1,0 +1,31 @@
+Direct electronic access
+
+9.3.2 An ATS Operator must have adequate rules and procedures to ensure that:
+
+(a)
+
+a Direct Access Member does not allow any other Person to have Direct Electronic Access to the facility; and
+
+(b)
+
+in any other case, its members do not allow any other Person to have Direct Electronic Access to the facility unless such other Person meets the requirements in Rule 9.3.1(1).
+
+9.3.3 An ATS Operator must, where it permits any of its members to provide to another Person Direct Electronic Access to its facilities, have adequate systems and controls including:
+
+(a)
+
+appropriate standards regarding risk controls and thresholds on trading through Direct Electronic Access;
+
+(b)
+
+mechanisms to identify and distinguish orders placed by those Persons who are allowed to place orders through Direct Electronic Access; and
+
+109
+
+COB/VER48/03-25
+
+CONDUCT OF BUSINESS (COB)
+
+(c)
+
+if necessary, the ability to stop orders of, or trading by, the Persons allowed Direct Electronic Access.

@@ -1,0 +1,43 @@
+A5.8.14 An Authorised Firm must calculate the net Underwriting Exposure to an Issuer by applying the relevant reduction factors in the table below to its net Underwriting position calculated under Rule A5.8.6.
+
+355
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+Time
+
+Reduction factor to be applied to net underwriting position
+
+Initial commitment to working day 0
+
+100%
+
+Working day 0
+
+100%
+
+Working day 1
+
+90%
+
+Working day 2
+
+75%
+
+Working day 3
+
+75%
+
+Working day 4
+
+50%
+
+Working day 5
+
+25%
+
+Working day 6 onwards
+
+0%

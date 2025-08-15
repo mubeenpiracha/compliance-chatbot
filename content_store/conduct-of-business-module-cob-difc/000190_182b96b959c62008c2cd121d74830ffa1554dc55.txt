@@ -1,0 +1,15 @@
+Direct Electronic Access
+
+6.8.7 Where an Authorised Firm provides a Client (including a Market Counterparty) with direct electronic access to an Authorised Market Institution, Alternative Trading System, Regulated Exchange or regulated multilateral the Authorised Firm must:
+
+trading
+
+facility,
+
+(a)
+
+establish and maintain policies, procedures, systems and controls to limit or prevent a Client from placing an order that would result in the Authorised Firm exceeding its existing position limits or credit limits; and
+
+(b)
+
+ensure that such policies, procedures, systems and controls remain appropriate and effective on an on-going basis.

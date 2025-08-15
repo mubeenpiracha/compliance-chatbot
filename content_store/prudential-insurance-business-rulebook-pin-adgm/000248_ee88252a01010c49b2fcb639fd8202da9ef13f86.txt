@@ -1,0 +1,5 @@
+A4.4.5 Where an Insurer holds collateral against an asset, and the collateral consists of a charge, mortgage or other security interest in cash or in debt securities whose issuer has a rating of 'A' or above, the Insurer may at its option use, in place of the relevant percentage in the table A4.4.1(a) or in Rule A4.4.1(b), the percentage in those tables that would apply to the collateral.
+
+A4.4.6 The provisions of Rules A4.4.4 and A4.4.5 apply only to the extent that the asset is
+
+covered by the guarantee or the collateral.

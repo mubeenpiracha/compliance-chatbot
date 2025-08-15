@@ -1,0 +1,27 @@
+(b)
+
+associated companies and foreign currencies, which are reported in the published accounts of an Authorised Firm at historic cost.
+
+joint ventures, denominated
+
+in
+
+Repurchase and reverse repurchase agreements
+
+A2.1.9 An Authorised Firm must include in its Trading Book an Exposure due to a repurchase agreement, reverse repurchase agreement, Securities and commodities borrowing, or Securities and commodities lending transactions if:
+
+(a)
+
+the Exposure is marked to market daily (cash borrowed or lent under a repurchase agreement or a reverse repurchase agreement may be included in the Trading Book even if not marked to market provided that the residual maturity of the borrowing or lending is one month or less);
+
+(b)
+
+the Collateral is adjusted to take account of changes in the value of the Securities or commodities involved;
+
+(c)
+
+the agreement or transaction provides for the Authorised Firm’s claims to be automatically and immediately offset against its Counterparty’s claims if the latter defaults; and
+
+(d)
+
+such agreements and transactions are confined to their accepted and appropriate use and artificial transactions, especially those not of a short- term nature, are excluded.

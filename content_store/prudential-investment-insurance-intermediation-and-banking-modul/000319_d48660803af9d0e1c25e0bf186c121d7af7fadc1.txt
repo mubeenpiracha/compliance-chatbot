@@ -1,0 +1,23 @@
+Measurement of E for on-balance sheet assets
+
+4.9.3
+
+For each on-balance sheet asset, E should be the carrying value of the asset as determined in accordance with the International Financial Reporting Standards.
+
+102
+
+PIB/VER50/07-25
+
+4.9.4
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+Guidance
+
+1.
+
+For any asset, E should be equal to the fair value of that asset presented in the balance sheet except that:
+
+a.
+
+for any asset held at cost, E, should be equal to the cost of the asset presented in the balance sheet; and

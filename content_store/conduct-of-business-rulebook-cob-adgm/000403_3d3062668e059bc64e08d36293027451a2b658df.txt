@@ -1,0 +1,11 @@
+Guidance
+
+A Payment Service Provider is expected to engage in risk analysis when considering whether a transaction is legitimate. Consideration should be given to all relevant factors, identifying and investigating where any of the following characteristics are atypical of the previous pattern of transactions of the Payer:
+
+(i)
+
+whether this is the first instance of a Payment Transaction with the Payee;
+
+(ii)
+
+the location(s) of the Payer and the Payee, where these are identifiable, and whether they are in high-risk jurisdictions; and

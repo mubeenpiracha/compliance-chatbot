@@ -1,0 +1,7 @@
+9.
+
+The determination of the appropriate liquidity horizon for a position or set of positions is subject to a floor of three months.
+
+10.
+
+The determination of the appropriate liquidity horizon for a position or set of positions should take into account an Authorised Firm's internal policies relating to valuation adjustments and the management of stale positions. When an Authorised Firm determines liquidity horizons for sets of positions rather than for individual positions, the criteria for defining sets of positions should be defined in a way that meaningfully reflects differences in liquidity. The liquidity horizons should be greater for positions that are concentrated, reflecting the longer period needed to liquidate such positions. The liquidity horizon for a securitisation warehouse should reflect the time to build, sell and securitise the assets, or to hedge the material risk factors, under stressed market conditions.

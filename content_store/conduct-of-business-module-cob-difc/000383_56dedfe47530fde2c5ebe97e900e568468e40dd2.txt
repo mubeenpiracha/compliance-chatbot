@@ -1,0 +1,35 @@
+9.6 Proper Markets
+
+9.6.1
+
+(1) Without limiting the generality of the other requirements in this chapter, an ATS Operator must, for the purposes of meeting the requirement in Rule 9.2.1(e) relating to Proper Markets, ensure that:
+
+114
+
+COB/VER48/03-25
+
+9.6.2
+
+CONDUCT OF BUSINESS (COB)
+
+(a)
+
+if Derivatives are traded on its facilities, such Derivatives meet the contract design specifications in AMI Rule 6.3.2;
+
+(b)
+
+relevant market information is made available to Persons engaged in dealing on an equitable basis, including pre-trade and post-trade orders, in accordance with Rules 9.6.2 and 9.6.3;
+
+(c)
+
+there are adequate mechanisms to discontinue, suspend or remove from trading on its facilities any Investments or Crypto Tokens in circumstances where the requirements in this chapter are not met;
+
+(d)
+
+there are controls to prevent volatility in the markets that is not caused by market forces, in accordance with Rule 9.6.4;
+
+(e)
+
+error trades are managed, in accordance with Rule 9.6.5;
+
+(f)

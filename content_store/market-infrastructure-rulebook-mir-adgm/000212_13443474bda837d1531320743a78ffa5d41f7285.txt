@@ -1,0 +1,25 @@
+The Clearing Rules of the Recognised Clearing House must set out:
+
+(a)
+
+collateral and margin requirements and collateral management process, and specify when a Recognised Clearing House may reuse or invest its participants' collateral and the process for returning that collateral to participants; and
+
+(b)
+
+in the event of a default, that margin provided by the defaulter for any Client account is not to be applied to meet a shortfall its own proprietary account.
+
+4.10.6
+
+A Recognised Clearing House must, for the purposes of managing its exposures and risk and the requirements in Rules 4.10.7 and 4.10.8:
+
+(a)
+
+mark participant positions to market and collect variation margin at least daily to limit the build-up of current exposures;
+
+(b)
+
+have necessary authority and operational capacity to make intra-day margin calls and payments, both scheduled and unscheduled, to participants; and
+
+(c)
+
+regularly review and validate its margin system to ensure that it operates effectively and as intended.

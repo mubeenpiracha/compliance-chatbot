@@ -1,0 +1,39 @@
+Cyber Risk Management
+
+This Rule takes effect on 31 January 2026.
+
+Cyber Risk Management Framework
+
+(1)
+
+An Authorised Person must establish and maintain a Cyber Risk Management Framework to identify, assess and manage its Cyber Risks effectively.
+
+(2)
+
+An Authorised Person must ensure the Cyber Risk Management Framework is in writing and is approved by its Governing Body.
+
+(3)
+
+The Cyber Risk Management Framework must:
+
+(a)
+
+include systems and controls which are proportionate to the nature, scale and complexity of the activities conducted by the Authorised Person and its Cyber Risk; and
+
+(b)
+
+have clearly defined roles and responsibilities, including accountability for decision making during business-as-usual operations and stressed situations.
+
+(4)
+
+The systems and controls in Rule 3.5.1(3)(a) must include one or more systems for the purposes of:
+
+(a)
+
+identifying and assessing Cyber Risk which enables the Authorised Person to implement the requirements in Rule 3.5.4;
+
+(b)
+
+protecting ICT Assets in accordance with Rules 3.5.5 to 3.5.13;
+
+(c) monitoring and testing the effectiveness of such systems and controls in

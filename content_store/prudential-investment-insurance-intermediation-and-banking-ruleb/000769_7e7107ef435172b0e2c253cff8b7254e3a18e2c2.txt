@@ -1,0 +1,49 @@
+> 5 years
+
+All
+
+0.5 2 4 1 3
+
+6
+
+15
+
+1 4 8 2 6
+
+12
+
+n/a
+
+Standard Supervisory Haircut (%)
+
+279
+
+PRU VER17.290725
+
+Debt security: Credit Quality Grade of issue – short-term I II or III, and unrated bank securities as defined in Rule 4.13.5(d)
+
+Issuer
+
+Central government or central bank
+
+0.5
+
+1
+
+Other
+
+1
+
+2
+
+Other collateral or exposure type
+
+Standard Supervisory Haircut (%)
+
+Gold Any equity (including a convertible bond) included in a main index Any equity (including a convertible bond) traded on a regulated exchange
+
+15
+
+15
+
+25

@@ -1,0 +1,23 @@
+6.5.4
+
+The Regulator may issue a "positive" direction (to take action) where in any case a Recognised Body has not taken action under its Default Rules, but it appears to the Regulator that the Recognised Body could take action.
+
+6.5.5
+
+Before giving such a direction under Rule 6.5.4, the Regulator shall consult the Recognised Body in question, and the Regulator shall not give a direction unless the Regulator is satisfied, in the light of that consultation that:
+
+(a)
+
+failure to take action would involve undue risk to investors or other participants in the market;
+
+(b)
+
+the direction is necessary having regard to the public interest in the financial stability of ADGM; or
+
+(c)
+
+the direction is necessary to facilitate a proposed or possible use of a power under chapter 16 of COBS or in connection with a particular exercise of a power under that chapter, or Rule 6.5.7(c).
+
+6.5.6
+
+The Regulator may issue a "negative" direction (not to take action) where in any case a Recognised Body has not taken action under its Default Rules, but it appears to the Regulator that the Recognised Body is proposing to take or may take action.

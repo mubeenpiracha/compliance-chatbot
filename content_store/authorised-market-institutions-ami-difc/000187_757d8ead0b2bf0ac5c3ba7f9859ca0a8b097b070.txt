@@ -1,0 +1,23 @@
+Guidance
+
+Further Guidance relevant to the requirement in Rule 5B.7.3 can be found after COB Rule 15.6.4.
+
+Lending and staking
+
+5B.7.4
+
+(1)
+
+An Authorised Market Institution must not offer or provide any facility or service that allows a Member or other user of its facilities to lend a Crypto Token to the Authorised Market Institution or to another Person.
+
+.
+
+55
+
+AMI/VER28/03-25
+
+AUTHORISED MARKET INSTITUTIONS (AMI)
+
+(2)
+
+The prohibition in (1) does not apply to the provision of any Crypto Token to an Authorised Firm as Collateral.

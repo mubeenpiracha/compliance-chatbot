@@ -1,0 +1,11 @@
+Guidance
+
+The Delta-plus method uses the sensitivity parameters or “Greek letters” associated with options to measure their Option Risk Capital Requirement. Under this method, the Delta-equivalent position of each option becomes part of the standardised methodology set out in sections 5.4 to 5.7 with the Delta- equivalent amount subject to the applicable General Market Risk requirements. Separate capital charges are then applied to the Gamma and Vega risks of the option positions.
+
+A5.6.5 (1)
+
+An Authorised Firm that writes or purchases options may include Delta- weighted options positions within the standardised methodology set out in sections A5.2 to A5.5. Such options must be reported as a position equal to the market value of the underlying instrument multiplied by the Delta.
+
+(2)
+
+An Authorised Firm is also required to measure and Vega risks in order to calculate the total capital charge. These sensitivities will be calculated according to an approved proprietary options pricing model.

@@ -1,0 +1,19 @@
+Calculation of Stored Value Capital Requirement
+
+3.8A.2 (1) An Authorised Firm must calculate its Stored Value Capital Requirement as an amount equal to 3% of the average daily outstanding Stored Value of the firm.
+
+(2)
+
+In (1), the average daily outstanding Stored Value of a firm means the average total of financial liabilities related to Stored Value in issue at the end of each calendar day where that average is calculated over the previous six calendar months.
+
+(3) The Authorised Firm must calculate its Stored Value Capital Requirement on the first calendar day of each calendar month and apply the resulting sum as its requirement for that month.
+
+46
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+(4)
+
+If the Authorised Firm has not completed its first six months of business, it must make the calculation under (2) and (3) based on the outstanding Stored Value projected in the business plan included with its application for authorisation, subject to any adjustment to that plan required by the DFSA.

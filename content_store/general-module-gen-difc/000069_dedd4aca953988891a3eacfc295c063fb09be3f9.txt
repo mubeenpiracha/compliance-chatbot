@@ -1,0 +1,23 @@
+e.
+
+transmitting instructions or confirmations relating to transactions.
+
+Do arrangements which form part of another facility constitute arranging?
+
+18
+
+GEN/VER67/03-25
+
+GENERAL (GEN)
+
+3.
+
+An arrangement which is part of a wider arrangement for the purpose of bringing about transactions in Investments or Crypto Tokens still falls within the scope of the Financial Service of arranging. For example, an arranger may arrange (i.e. allow access) for potential investors to access a facility set up by an offeror of Securities. The arrangement to allow access constitutes arranging, although, for a transaction to be concluded, the investor will also need to use the offeror’s facility.
+
+How does ‘arranging deals’ differ from ‘dealing as agent’?
+
+4.
+
+‘Arranging Deals in Investments’ differs from the Financial Service of ‘Dealing in Investments as Agent’ in Rule 2.8.1 because:
+
+a. a Person ‘arranging deals’ (i.e. the ‘arranger’) does not have the authority to bind the parties to an Investment or Crypto Token transaction resulting from its ‘arranging’ activities; and

@@ -1,0 +1,25 @@
+Operational Risk
+
+The risk of loss resulting from inadequate or failed internal processes, people and systems or from external events, including legal risk.
+
+Operational Risk Capital Requirement
+
+The requirement calculated in accordance with section 6.11.
+
+Option Risk Capital Requirement
+
+A component of the Market Risk Capital Requirement and calculated in accordance with section 5.8.
+
+Original Maturity
+
+(1) The time period between the date an offer is made
+
+and the date it expires or lapses.
+
+(2) In relation to Debentures, the interval between its issue date and the date on which it becomes due and payable.
+
+16
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)

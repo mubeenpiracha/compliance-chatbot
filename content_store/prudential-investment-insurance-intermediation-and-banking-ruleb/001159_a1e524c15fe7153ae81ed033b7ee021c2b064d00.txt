@@ -1,0 +1,27 @@
+(ii)
+
+any securities it has received through collateral swaps if those securities do not appear on its balance sheet.
+
+A10.4.14 An Authorised Person may measure SFTs with a single Counterparty net when
+
+calculating the NSFR where the following conditions are met:
+
+(a)
+
+an eligible bilateral netting contract must be in place between the Authorised Person and the Counterparty that is binding on the Authorised Person and the Counterparty and that is legally enforceable in all relevant jurisdictions;
+
+424
+
+PRU VER17.290725
+
+(b)
+
+that contract is a qualified financial contract as specified in the ADGM Insolvency Regulations and meets the conditions specified in Part 7, Chapter 2 therein; and
+
+(c)
+
+the Authorised Person meets the disclosure requirements for the NSFR as specified in App12.
+
+A10.4.15
+
+In determining the residual maturity of both assets and off-balance sheet items that are to be included in the Required Stable Funding, an Authorised Person must calculate the residual maturity of each individual asset or off-balance sheet item as being that period up to the latest point in time to which investors have the right to extend the maturity of an asset or an off-balance sheet item.

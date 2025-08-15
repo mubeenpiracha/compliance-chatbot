@@ -1,0 +1,11 @@
+(a)
+
+terms that provide for the principal amount of the instrument to be reduced on the occurrence of any event that refers to the financial situation, viability, solvency or levels of Capital Resources of the Institution; or
+
+(b)
+
+terms that provide for the conversion of the instrument to Shares on the occurrence of any such event.
+
+Where the principal amount of an instrument has been reduced, but not reduced to zero, in accordance with terms referred to in subsection (3)(a) before the application of the bail-in pursuant to subsection (1), the Regulator shall apply the Write Down or Conversion Power to the residual amount of that principal amount in accordance with subsection (1).
+
+In deciding on whether liabilities are to be written down or converted into Shares, the Regulator shall not convert one class of liabilities while a class of liabilities that is subordinated to that class remains substantially unconverted into Shares or not written down, unless otherwise permitted under subsections 49(7) and (8).

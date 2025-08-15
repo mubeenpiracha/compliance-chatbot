@@ -1,0 +1,23 @@
+No
+
+Rule A4.9.10
+
+4%
+
+Calculation of Credit RWA in relation to prefunded contributions to the default fund of a QCCP
+
+A4.9.14 An Authorised Person acting as a clearing member must apply the following treatment to its exposures arising from its contributions to a default fund maintained by a QCCP:
+
+(a)
+
+it must calculate the Credit RWA for its prefunded contributions to the default fund of a QCCP in accordance with the approach set out in Rules A4.9.15 to A4.9.17; or
+
+(b)
+
+it must calculate the Credit RWA for its contributions to the default fund of a Non-QCCP in accordance with the approach set out in Rule A4.9.18.
+
+Prefunded contributions to the default fund of a QCCP
+
+A4.9.15 An Authorised Person acting as a clearing member must calculate its Credit RWA for its prefunded contributions to the default fund of a QCCP in accordance with the steps set out in Rules A4.9.16 and A4.9.17 below.
+
+A4.9.16 An Authorised Person must first calculate the hypothetical capital requirement of the QCCP (KCCP) due to its counterparty credit risk exposures to all of its clearing members and their clients in accordance with the following formula:

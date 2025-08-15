@@ -1,0 +1,25 @@
+Reporting of information about Money Transmission
+
+6.13.8 An Authorised Firm that provides Money Transmission must send the following
+
+information to the DFSA at least quarterly relating to transactions:
+
+(a) details of senders and recipients of transfers;
+
+(b) the amounts transferred;
+
+(c) dates of transfers; and
+
+(d) any other firms involved in transfers.
+
+191
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+7
+
+INTEREST RATE RISK IN THE NON-TRADING BOOK
+
+Introduction

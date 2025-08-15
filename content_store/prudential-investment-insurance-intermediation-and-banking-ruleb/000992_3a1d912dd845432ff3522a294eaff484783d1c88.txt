@@ -1,0 +1,11 @@
+(b)
+
+aggregating the absolute value of the individual Capital Requirements which have been calculated for Vega risk.
+
+363
+
+PRU VER17.290725
+
+A6.7
+
+Collective Investment Fund Risk Capital Requirement

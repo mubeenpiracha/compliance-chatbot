@@ -1,0 +1,9 @@
+A6.13 Asset management risk component
+
+Guidance
+
+This section requires an Insurer to set aside capital in respect of assets that it manages. This section applies the relevant provisions of section A4.13 to the segments of a Protected Cell Company.
+
+A6.13.1 An Insurer must calculate the asset management risk component in respect of a segment according to the method set out in section A4.13, applied as though all references in that section to an Insurer were instead references to that segment.
+
+APP7 CALCULATION OF ADJUSTED FUND CAPITAL RESOURCES

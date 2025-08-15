@@ -1,0 +1,25 @@
+Definitions
+
+Means a Fund that is registered on its Home Jurisdiction’s Register of Passported Funds.
+
+Has the meaning given in section 258 of FSMR.
+
+Has the meaning given in section 258 of FSMR.
+
+Has the meaning given in section 258 of FSMR.
+
+Has the meaning given in section 258 of FSMR.
+
+Means a person that initiates a Payment Order at the request of a Payment Service User with respect to a Payment Account held at another Payment Service Provider.
+
+Has the meaning given in section 258 of FSMR.
+
+Means any instruction by a Payer or a Payee to their respective Payment Service Provider requesting the execution of a Payment Transaction.
+
+Has the meaning given in section 258 of FSMR.
+
+Means a Person who makes use of Payment Services in the capacity of Payer, Payee, or both.
+
+Has the meaning given in section 258 of FSMR.
+
+Means an act initiated by the Payer or Payee, or on behalf of the Payer, of placing, transferring or withdrawing Money, irrespective of any underlying obligations between the Payer and Payee.

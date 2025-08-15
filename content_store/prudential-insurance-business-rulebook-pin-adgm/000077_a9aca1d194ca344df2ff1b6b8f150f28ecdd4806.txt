@@ -1,0 +1,9 @@
+5.4.4 Premiums in respect of facultative reinsurance contracts and non-proportional treaty contracts entered into by an Insurer as cedant must be treated as payable from the date of entering into the reinsurance contract.
+
+5.4.5 Premiums in respect of proportional treaty reinsurance contracts entered into by an Insurer as cedant must be treated as payable in accordance with the pattern of effecting the underlying Contract of Insurance.
+
+5.4.6 Expenses incurred in respect of Contracts of Insurance effected by an Insurer must be
+
+treated as payable at the time the contracts are effected.
+
+5.4.7 An Insurer must treat as a liability, the premium liability, which is the value of future claim payments and associated direct and indirect settlement costs, arising from future events insured under policies that are in force as at the Solvency Reference Date.

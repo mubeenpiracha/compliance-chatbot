@@ -1,0 +1,33 @@
+H = H10√
+
+NR + (Tmin − 1) 10
+
+where:
+
+H10 =
+
+ten business-day haircut for Collateral
+
+NR =
+
+actual number of business days between remargining or revaluation, as applicable
+
+Tmin =
+
+the minimum holding period for the type of transaction, determined in accordance with Rules A4.3.7 and A4.3.8
+
+275
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+Recognition of eligible financial Collateral under FCSA
+
+A4.3.10 Subject to A4.3.11, an Authorised Firm which has taken eligible financial Collateral for a CR Exposure and is using the FCSA may recognise the effects of Credit Risk mitigation of the eligible financial Collateral as follows:
+
+(a) break down the Exposure into -
+
+(i)
+
+a collateralised portion with E equal to the latest fair value of the eligible financial Collateral; and

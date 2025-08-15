@@ -1,0 +1,25 @@
+Additional terms for Crowdfunding Platforms
+
+The following terms must be included in a Client Agreement between a Crowdfunding Operator and a Client that is a lender or an investor:
+
+(a)
+
+the operator’s obligations to administer the loan or Investment, including:
+
+(i)
+
+how payments made by the borrower, Issuer, or in respect of a property, will be transferred to the lender or investor; and
+
+(ii)
+
+steps that will be taken if payments by a borrower, Issuer, or in respect of a property are overdue or the borrower or Issuer is in default;
+
+(b)
+
+if the Client is a Retail Client, the steps that will be taken by the operator and lender or investor to ensure that the lender or investor complies with any applicable limits relating to the amounts of loans or investments that may be made using the platform;
+
+(c)
+
+for Investment Crowdfunding or Property Investment Crowdfunding, if the Client to sign a risk acknowledgement form each time before he makes an Investment using the platform; and
+
+is a Retail Client,

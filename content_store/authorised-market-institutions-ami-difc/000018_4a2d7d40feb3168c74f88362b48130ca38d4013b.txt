@@ -1,0 +1,11 @@
+acts as a Trade Repository.
+
+(3)
+
+This module does not apply to a Recognised Body.
+
+Guidance
+
+This module will also apply to an Authorised Market Institution that is Operating a Facility for Investment Tokens or Crypto Tokens, unless otherwise specified. Operating a Facility for Investment Tokens is defined in GLO in relation to an Authorised Market Institution to mean Operating an Exchange on which Investment Tokens are traded, Operating a Clearing House on which Investment Tokens are cleared, or Operating a Multilateral Trading Facility on which Investment Tokens are traded. Operating a Facility for Crypto Tokens is defined in GLO to mean Operating a Multilateral Trading Facility on which Crypto Tokens are traded or Operating a Clearing House on which Crypto Tokens can be cleared. The latter definition does not include Operating an Exchange as that activity is relevant only to Investments and not Crypto Tokens.
+
+1.2

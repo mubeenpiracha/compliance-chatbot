@@ -1,0 +1,5 @@
+Anti-Money Laundering, Counter-Terrorist Financing and Sanctions Module (AML)
+
+13.3.2 Where, following a notification to the MLRO under 13.2.2, no Suspicious Activity Report is made, a Relevant Person must record the reasons for not making a Suspicious Activity Report.
+
+13.3.3 A Relevant Person must ensure that if the MLRO decides to make a Suspicious Activity Report, his decision is made independently and is not subject to the consent or approval of any other person.

@@ -1,0 +1,27 @@
+Operational Risk Capital Requirement
+
+6.11.1
+
+This Section applies to an Authorised Person in Category 1, 2, 3A or 5.
+
+6.11.2
+
+(1)
+
+An Authorised Person must, subject to (2), use the Basic Indicator Approach as prescribed in App7 to calculate its Operational Risk Capital Requirement.
+
+(2)
+
+An Authorised Person may, with the written approval of the Regulator, use the Standardised Approach or the Alternative Standardised Approach, both as prescribed in App7, to calculate its Operational Risk Capital Requirement if the Regulator is satisfied that:
+
+(a)
+
+its Governing Body and senior management, as appropriate, are actively involved in the oversight of its Operational Risk framework;
+
+(b)
+
+it has, in accordance with the requirements set out in this Chapter, implemented and maintains an Operational Risk policy which provides for a sound and well-defined risk management framework to address the Authorised Person's Operational Risk; and
+
+(c)
+
+it has dedicated sufficient resources in the use of the relevant approach in its major business lines and its control and audit functions.

@@ -1,0 +1,5 @@
+Where a Relevant Person uses eKYC for CDD purposes appropriate measures must be adopted to mitigate the risks that may arise from eKYC processes and the use of an eKYC System. A Relevant Person must ensure that eKYC is secure and effective, includes an appropriate combination of authentication factors when verifying the identity of the customer and ensure it is at least as stringent as face-to-face CDD. Measures should be in place to verify the authenticity of any official government identification document and the actual customer. A Relevant Person should also apply guidance on technical standards for biometric authentication issued by the Regulator or a competent authority of the UAE, as applicable.
+
+9.
+
+When employing an eKYC System to assist with CDD, a Relevant Person should:

@@ -1,0 +1,23 @@
+Trading Book position in:
+
+(a)
+
+material holdings deducted under chapter 3 for the purposes of calculating an Authorised Firm’s Capital Resources;
+
+(b)
+
+the interest rate leg of an equity swap, equity future or forward, or equity based option; or
+
+(c)
+
+a non-Convertible preference security.
+
+335
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+Derivation of notional positions
+
+A5.3.9 An Authorised Firm must, before Netting, derive a notional position for a depository receipt, a swap, a future, a forward, an option and a company issued warrant in the calculation of its Equity Risk Capital Requirement.

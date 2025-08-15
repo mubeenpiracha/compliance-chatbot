@@ -1,0 +1,23 @@
+(ii)
+
+a notional short position with a maturity equal to the period remaining to the next interest rate reset date; and
+
+(e)
+
+the two notional government Securities must have a coupon equal to the rate of interest payable or receivable on the leg.
+
+Guidance
+
+A currency swap is also subject to a Foreign Exchange Risk Capital Requirement (see Section 5.6).
+
+Dual currency bonds
+
+A6.2.10 A dual currency bond must be treated as two positions as follows:
+
+(a)
+
+a debt Security denominated in the currency in which the dual currency bond is issued; and
+
+(b)
+
+a foreign exchange forward for the purchase of the redemption currency (see Section 5.6).

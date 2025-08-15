@@ -1,0 +1,21 @@
+(h)
+
+repayment of draws of the facility cannot be subordinated to any interests of any note holder in the programme or be subject to deferral or waiver.
+
+(2)
+
+Where the Exposure meets the requirements as set out in (1), the following CCF will apply:
+
+(a) 50% to the eligible liquidity facility regardless of maturity; and
+
+(b) 100% if an external rating of the liquidity facility is used for the risk
+
+weighting.
+
+4.14.45 (1)
+
+An Authorised Firm which provides credit protection for a basket of reference Exposures through an unrated first-to-default Credit Derivative may apply to the securitisation Exposure the aggregate of the risk weights that would be assigned to the reference Exposures, provided that the resulting Capital Requirement does not exceed the notional amount of the credit protection.
+
+(2)
+
+An Authorised Firm which provides credit protection for a basket of reference Exposures through an unrated second-to-default Credit Derivative may apply the treatment referred to in (1), except that in aggregating the risk weights, the reference Exposure with the lowest risk-weighted amount may be excluded.

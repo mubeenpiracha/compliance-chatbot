@@ -1,0 +1,31 @@
+PSEs;
+
+(e)
+
+banks and Securities firms which qualify for inclusion in bank asset class; or
+
+(f)
+
+any other entity that has an external credit assessment from an ECAI that maps to a Credit Quality Grade 3 or better.
+
+An Authorised Person must not recognise the effects of CRM of a guarantee unless all of the following requirements are complied with:
+
+(a)
+
+the guarantee is an explicitly documented obligation assumed by the guarantor;
+
+(b)
+
+the guarantee represents a direct claim on the guarantor;
+
+(c)
+
+the extent of the credit protection cover is clearly defined and incontrovertible;
+
+(d)
+
+other than in the event of non-payment by the Authorised Person of Money due in respect of the guarantee if applicable, there is an irrevocable obligation on the part of the guarantor to pay out a pre-determined amount upon the occurrence of a credit event, as defined under the guarantee;
+
+(e)
+
+the guarantee does not contain any clause, the fulfilment of which is outside the direct control of the Authorised Person, that:

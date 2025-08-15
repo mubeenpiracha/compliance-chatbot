@@ -1,0 +1,9 @@
+(2)
+
+If an Authorised Person has an irrevocable and unfettered right to withdraw from an Underwriting commitment, exercisable within a certain period, the commitment commences (and thus the time of initial commitment occurs) when that right expires.
+
+Working day 0
+
+A6.8.9
+
+For the purposes of Section A6.8, working day 0 is the business day on which a firm that is Underwriting or sub-Underwriting becomes unconditionally committed to accepting a known quantity of Securities at a specified price.

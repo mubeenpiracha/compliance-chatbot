@@ -1,0 +1,109 @@
+Zones A&B
+
+5.28
+
+3.52
+
+1.76
+
+1.30
+
+9.00
+
+6.75
+
+2.25
+
+Zones
+
+A&C
+
+0.00
+
+2.74
+
+2.74
+
+0.00
+
+4.50
+
+8.89
+
+Zones B&C
+
+6.51
+
+6.51
+
+0.00
+
+3.97
+
+3.77
+
+3.77
+
+7.54
+
+9.00
+
+4.50
+
+4.50
+
+5.85
+
+5.85
+
+5.85
+
+PRU VER17.290725
+
+Time band
+
+Aggregate
+
+positions
+
+Assumed
+
+Modifie
+
+Aggregate positions per time band – weighted ($) (M = matched, U = unmatched)
+
+Zon
+
+move in
+
+d
+
+e
+
+(m = months,
+
+per time band
+
+interest
+
+duration
+
+By time band
+
+By zone
+
+Between zones
+
+y = years)
+
+($)
+
+rates (% pa)
+
+(years)
+
+Long
+
+Short
+
+Long

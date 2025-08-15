@@ -1,0 +1,41 @@
+Guidance
+
+1.
+
+Refer to Guidance under REP section 1.3 for the scope of the activities which a Representative Office can conduct under its Licence.
+
+2.
+
+Rule 2.26.1(4) prohibits the use of a Representative Office to market:
+
+a.
+
+a Crypto Token or an Investment relating to a Crypto Token (such as a Derivative relating to a Crypto Token or a Unit of a Fund that invests in Crypto Tokens); or
+
+b.
+
+a Financial Service relating to a Crypto Token or such an Investment.
+
+2.27 Operating a Credit Rating Agency
+
+2.27.1 (1)
+
+In Rule 2.2.2, Operating a Credit Rating Agency means undertaking one or more Credit Rating Activities for the purpose of producing a Credit Rating with a view to that Credit Rating being:
+
+(a)
+
+disseminated to the public; or
+
+(b)
+
+distributed to a Person by subscription;
+
+40
+
+GEN/VER67/03-25
+
+GENERAL (GEN)
+
+whether or not it is in fact disseminated or distributed.
+
+(2)

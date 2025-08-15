@@ -1,0 +1,5 @@
+14.7.4 Before depositing Client Money in a Client Account established with a Third-Party Agent, it must obtain a written acknowledgment from the Third-Party Agent stating that all Money standing to the credit of the account is held by the Authorised Person on behalf of its Clients and that the Third-Party Agent is not entitled to combine the account with any other account, or exercise any charge, mortgage, security, lien, right of set-off or combination or counterclaim against Money in that account in respect of any sum owed to it by the Authorised Person.
+
+14.7.5 If the Third-Party Agent does not provide the acknowledgment referred to in Rule 14.7.4 within the time specified in that Rule, the Authorised Person must refrain from making further deposits of Client Money into that account maintained by the Third-Party Agent and withdraw all Client Money standing to the credit of that Client Account.
+
+14.7.6 An Authorised Person must have systems and controls in place to ensure that the Third-

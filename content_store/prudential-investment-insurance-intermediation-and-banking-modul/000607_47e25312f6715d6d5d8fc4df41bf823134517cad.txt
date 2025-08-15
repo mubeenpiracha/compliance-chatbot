@@ -1,0 +1,7 @@
+(2)
+
+The minimum frequency of an evaluation of the effect of a sudden and unexpected parallel change in interest rates as referred to in Rule 7.2.2 is once each quarter.
+
+Guidance
+
+For the purposes of Rule 7.2.6, an Authorised Firm should consider the standards for stress testing recommended in the paper published by the Basel Committee for Banking Supervision – Principles for management and supervision of interest rate risk – in July 2004. In particular, an Authorised Firm should include the technical specifications of a standardised interest rate shock detailed in Annex 3 of that paper as part of its systems for measurement of interest rate risk in the Non-Trading Book.

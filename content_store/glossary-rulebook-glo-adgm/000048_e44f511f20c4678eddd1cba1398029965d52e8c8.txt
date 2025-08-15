@@ -1,0 +1,37 @@
+Has the meaning given in COBS 14.13.
+
+Means the Rules in COBS 14.2 relating to the holding of Client Money.
+
+Has the meaning given to it in FUNDS 20.3.5.
+
+Has the meaning given to it in FUNDS 20.3.2.
+
+Has the meaning given to it in COBS 3.8.14.
+
+Has the meaning given to it in COBS 3.8.11.
+
+A Person ("Person A") has Close Links or is Closely Linked with another Person ("Person B") if:
+
+(a)
+
+Person B:
+
+19
+
+GLO VER23.290725
+
+Defined Terms
+
+Close Period
+
+Close Relative
+
+CMC
+
+COBS
+
+Definitions
+
+(i)
+
+is a Holding Company of Person A;

@@ -1,0 +1,5 @@
+Whether a Token is a Share will also depend on the operation of company and corporate law. It may be that even if a Token is labelled or called a share by the Issuer, as a matter of law this might not be possible or accurate (e.g. if the company law governing the Issuer specifies requirements for a Share that have not been met). This may not, however, prevent the Token from constituting another type of specified Investment nonetheless (such as a Certificate or Unit in a Fund, if, in substance, the rights and obligations conferred by the Token are similar to those conferred by a Certificate or Unit in a Fund).
+
+17.
+
+While generally a right to participate in profits, assets or rights of control (voting on significant matters) go hand-in-hand, it is possible for rights to participate in profits and assets, without control, or vice versa to be conferred by a Share, and similarly, by an Investment Token that is considered a Share. An Investment Token that is considered a Share will also be a Security Token.

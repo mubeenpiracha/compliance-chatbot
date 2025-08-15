@@ -1,0 +1,19 @@
+a legal entity that:
+
+(i)
+
+has at least 50% of its Shares owned by, or is a wholly owned Subsidiary of another legal entity that has least 50% of its Shares owned by one of the national governments of the five member states of the Gulf Cooperation Council, other than the State; and
+
+(ii)
+
+is authorised to provide custody services, and supervised, by a Financial Services Regulator of at least one of the national governments specified in (i).
+
+8.2.5 For a Public Fund (other than a Property Fund) that is a Passported Fund, the Eligible Custodian must be a Person who meets the requirements in FPR Rule 6.5.3.
+
+8.2.6
+
+(1)
+
+For a Fund that invests in Crypto Tokens, an Eligible Custodian of the Fund’s Crypto Tokens is a Person who is a separate legal entity from the Fund Manager and is either:
+
+(a) an Authorised Firm whose Licence authorises it to Provide Custody of

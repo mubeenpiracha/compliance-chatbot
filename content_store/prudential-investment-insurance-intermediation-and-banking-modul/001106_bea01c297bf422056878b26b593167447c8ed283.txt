@@ -1,0 +1,3 @@
+c.
+
+the model should use a separate risk factor at least for each of the equity markets in which the Authorised Firm holds significant positions. At a minimum, this will include a risk factor that is designed to capture market-wide movements in equity prices, for example, a market index. Positions in individual securities or in sector indices could be expressed in “beta-equivalents” relative to this market-wide index. A relatively more-detailed approach would be to have risk factors corresponding to various sectors of the overall equity market, for instance, industry sectors or cyclical and non-cyclical sectors. The most extensive approach would be to have risk factors corresponding to the volatility of individual equity issues;

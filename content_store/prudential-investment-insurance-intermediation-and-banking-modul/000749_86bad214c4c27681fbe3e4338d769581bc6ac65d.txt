@@ -1,0 +1,5 @@
+controls transfers of positions between the Non-Trading Book and the Trading Book.
+
+A2.2.2 An Authorised Firm must obtain the approval of its Governing Body for its Trading Book policy. The Authorised Firm must review and where necessary update the policy at least annually. The Authorised Firm must obtain the approval of the Governing Body for all significant changes.
+
+A2.2.3 An Authorised Firm must, without undue delay, notify the DFSA when its Governing Body approves the adoption of a Trading Book policy or approves any changes to the policy.

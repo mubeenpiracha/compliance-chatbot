@@ -1,0 +1,21 @@
+2.2.3 Premium risk component
+
+The premium risk component for a Class 1, Class 2, Class 3 or Class 4 Captive Insurer is the amount calculated in accordance with the following formula:
+
+18% x Captive Insurer's Net Written Premium up to $5 million
+
++
+
+16% x Captive Insurer's Net Written Premium in excess of $5 million
+
+2.2.4 Technical provision risk component – Captive Insurers conducting general
+
+Insurance Business
+
+(1)
+
+The technical provision risk component for a Class 1, Class 2, Class 3 or Class 4 Captive Insurer that conducts General Insurance Business is the amount calculated in accordance with the following formula:
+
+5% x net claims reserve under general Contracts of Insurance,
+
+where net claims reserve, as at a date, is the amount of the Captive Insurer's provisions for:

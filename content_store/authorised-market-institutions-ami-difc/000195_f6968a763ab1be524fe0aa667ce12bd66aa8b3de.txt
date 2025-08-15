@@ -1,0 +1,41 @@
+last trading day;
+
+(d)
+
+settlement or delivery procedures as applicable;
+
+(e)
+
+trading months;
+
+(f)
+
+position limits, if any;
+
+(g)
+
+reportable levels; and
+
+(h)
+
+trading hours.
+
+On-going review
+
+An Exchange must:
+
+(a)
+
+establish and implement clear procedures relating to the development and review of contract design for Derivative contracts traded on its facilities;
+
+(b)
+
+have adequate process through which the views of potential users of Derivative contracts can be taken into account when developing and reviewing contract design for Derivative contracts;
+
+(c)
+
+have adequate powers which enable it to eliminate contractual terms which produce, or are likely to produce, manipulative or disorderly conditions in the markets generally, or in relation to the particular class or type of Derivative contracts; and
+
+(d)
+
+have adequate mechanisms to monitor and evaluate whether the settlement and delivery procedures reflect the underlying physical market and promote reliable pricing relationship between the two markets.

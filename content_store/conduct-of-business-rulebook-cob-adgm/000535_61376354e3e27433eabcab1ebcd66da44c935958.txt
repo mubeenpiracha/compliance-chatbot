@@ -1,0 +1,77 @@
+BEL 20
+
+Canada
+
+TSE 35, TSE 100, TSE 300
+
+France
+
+CAC 40, SBF 250
+
+Germany
+
+DAX
+
+European Union
+
+Dos Jones Stoxx 50 Index, FTSE Eurotop 300, MCSI Euro Index
+
+Hong Kong
+
+Hang Seng
+
+Italy
+
+MIB 30
+
+Japan
+
+Nikkei 225, Nikkei 300, TOPIX
+
+Korea
+
+Kospi
+
+Netherlands
+
+AEX
+
+Singapore
+
+Straits Times Index
+
+Spain
+
+IBEX 35
+
+Sweden
+
+OMX
+
+Switzerland
+
+SMI
+
+United Kingdom
+
+FTSE 100, FTSE Mid 250, FTSE All Share
+
+178
+
+COBS VER19.290725
+
+Country
+
+Index
+
+United States of America
+
+S&P 500, Dow Jones Industrial Average, NASDAQ Composite, Russell 2000
+
+“margin” means the means the amount of Money a Retail Client has agreed to pay to the Authorised Person in order to open a position in relation to an OTC Leveraged Product;
+
+“non-major currency” means any currency which is not a major currency.
+
+“relevant sovereign debt” means an issue of public debt by or on behalf of:
+
+(i)

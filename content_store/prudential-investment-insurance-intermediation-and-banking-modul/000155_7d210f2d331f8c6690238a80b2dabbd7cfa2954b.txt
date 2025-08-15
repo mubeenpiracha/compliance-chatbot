@@ -1,0 +1,35 @@
+the CRCOM;
+
+(b)
+
+the Market Risk Capital Requirement;
+
+(c)
+
+the Operational Risk Capital Requirement; and
+
+(d)
+
+the Displaced Commercial Risk Capital Requirement, where applicable.
+
+CRCOM
+
+3.8.3
+
+An Authorised Firm must calculate its Credit Risk Capital Requirement in accordance with the applicable Rules in chapter 4.
+
+45
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+Guidance
+
+1.
+
+Detailed Rules and Guidance in respect of the CRCOM are specified in chapter 4. The CRCOM includes the risk weighted assets (RWA) for all Credit Risk Exposures and securitisation Exposures.
+
+2.
+
+Rules and Guidance in respect of calculating the CRCOM for Islamic Contracts are contained in IFR chapter 5.

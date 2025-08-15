@@ -1,0 +1,11 @@
+Guidance
+
+The DFSA will, when exercising its power under Article 84N(1)(q), have regard to the impact the exercise of the power might have on the orderly functioning of financial markets.
+
+Power to temporarily suspend termination rights
+
+(1) Where the DFSA exercises its power to suspend the termination rights under Article 84N(1)(k) of the Law of any party to a contract with an Authorised Firm in Resolution, the suspension will have effect from when notice under that Article is given, until midnight at the end of the second business day after the notice is given, provided that the payment and delivery obligations and the provision of collateral continue to be performed by the Authorised Firm in Resolution.
+
+(2) A suspension shall not apply to payment and delivery obligations owed to payment systems, Central Counterparties, Securities Settlement Systems, Central Securities Depositories or the Central Bank.
+
+(3) A person may exercise a termination right under a contract before the end of the period referred to in (1) if that person receives notice from the DFSA that the rights, assets or liabilities covered by the contract will not be:

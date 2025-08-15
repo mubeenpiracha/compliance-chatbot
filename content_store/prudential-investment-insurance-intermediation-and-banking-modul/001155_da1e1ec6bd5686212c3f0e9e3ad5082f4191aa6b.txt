@@ -1,0 +1,23 @@
+ind
+
+1 − e−0.05∙Mi 0.05 ∙ Mi
+
+ind
+
+RWh =
+
+the supervisory risk weight of the index hedge ‘i’ recognised as an Eligible CVA Hedge. RWh must be based on a combination of sector and credit quality of all the index constituents, as determined in Rule A5.10.6 and adjusted as follows:
+
+(a)
+
+for an index where all index constituents belong to the same sector and are of the same credit quality, the Authorised Firm must multiply the relevant value in the table in Rule A5.10.6 by 0.7;
+
+(b)
+
+for an index spanning multiple sectors or with a mixture of investment grade constituents and other grade constituents, the Authorised Firm must calculate the name-weighted average of the risk weights from the table in Rule A5.10.6 and multiply the result by 0.7
+
+i =
+
+the index that denotes all index Eligible CVA Hedges that an Authorised Firm has taken out to hedge CVA Risk
+
+A5.10.11 For the purposes of Rule A5.10.8, an Authorised Firm must calculate HMHC, using

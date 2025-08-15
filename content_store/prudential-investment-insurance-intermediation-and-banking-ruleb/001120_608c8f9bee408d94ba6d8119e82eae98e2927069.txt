@@ -1,0 +1,61 @@
+D. Additional Requirements:
+
+Derivatives cash outflows
+
+Liquidity needs (e.g. Collateral calls) related to financing transactions, Derivatives and other contracts
+
+Market valuation changes on non-Level 1 HQLA posted Collateral securing Derivatives
+
+Factor
+
+5%
+
+10%
+
+0%
+
+25%
+
+5%
+
+25%
+
+40%
+
+20%
+
+100%
+
+0%
+
+15%
+
+25%
+
+25%
+
+50%
+
+100%
+
+100%
+
+100%
+
+20%
+
+409
+
+PRU VER17.290725
+
+Cash Outflows
+
+Item
+
+Excess Collateral held by a bank related to Derivative transactions that could contractually be called at any time by its Counterparty
+
+Liquidity needs related to Collateral contractually due from the reporting bank on Derivatives transactions
+
+Increased liquidity needs related to Derivative transactions that allow Collateral substitution to non-HQLA assets
+
+Market valuation changes on Derivatives transactions (largest absolute net 30-day Collateral flows realised during the preceding 24 months)

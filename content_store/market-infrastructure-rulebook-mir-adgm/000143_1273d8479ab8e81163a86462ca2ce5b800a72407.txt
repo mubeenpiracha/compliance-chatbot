@@ -1,0 +1,13 @@
+Settlement and Clearing Services
+
+3.8.1
+
+A Recognised Investment Exchange, when engaging a Clearing Service, must ensure that satisfactory arrangements are made for securing the timely discharge (whether by performance, compromise or otherwise), Clearing and settlement of the rights and liabilities of the parties to transactions effected on the Recognised Investment Exchange (being rights and liabilities in relation to those transactions).
+
+3.8.2
+
+The engagement of a Recognised Clearing House or Remote Clearing House will be deemed sufficient to satisfy Rule 3.8.1.
+
+3.8.3
+
+If a Recognised Investment Exchange engages a party that is not a Recognised Clearing House or a Non-Abu Dhabi Global Market Clearing House, the Recognised Investment Exchange must confirm to the Regulator, in writing, the satisfactory arrangements made under Rule 3.8.1.

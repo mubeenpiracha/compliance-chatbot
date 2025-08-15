@@ -1,0 +1,23 @@
+4.14.34 [Not currently in use]
+
+150
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+4.14.35 [Not currently in use]
+
+Exceptions to deduction of unrated securitisation Exposures
+
+4.14.36 In accordance with the tables under Rule 4.14.31, all unrated securitisation positions must be deducted or risk weighted at 1000% with the following exceptions:
+
+(a)
+
+most senior Exposure in a securitisation;
+
+(b)
+
+Exposures that are in a second loss position or better of an ABCP and meet the requirements of Rule 4.14.41; and
+
+(c)

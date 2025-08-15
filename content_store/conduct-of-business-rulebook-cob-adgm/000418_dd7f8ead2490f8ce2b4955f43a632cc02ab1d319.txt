@@ -1,0 +1,7 @@
+Transactions
+
+19.17.1 A Payment Service User is entitled to redress under this Chapter only if it notifies its Payment Service Provider without undue delay, and in any event no later than twelve months after the debit date, on becoming aware of any unauthorised or incorrectly executed Payment Transaction.
+
+19.17.2 Where the Payment Service Provider has failed to provide or make available information concerning the Payment Transaction in accordance with Section 19.5, the Payment Service User is entitled to redress under the Rules in this Chapter notwithstanding that the Payment Service User has failed to notify the Payment Service Provider within the time period stated in Rule 19.17.1.
+
+19.18

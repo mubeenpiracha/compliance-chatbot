@@ -1,0 +1,25 @@
+b.
+
+assets and liabilities that are not dealt with in either or both of the bases of accounting set out in Rule 5.3.2; and
+
+c.
+
+the overriding power of the DFSA, set out in Rule 5.1.6, to require an Insurer to adopt a particular measurement for a specific asset or liability.
+
+5.3.2
+
+The basis of accounting adopted by an Insurer for the purposes of Rule 5.3.1 must be International Financial Reporting Standards.
+
+5.3.3 Where the valuation of an asset or liability is dependent upon the adoption of assumptions or the adoption of a calculation method, any change in the assumptions or methods adopted must be reflected immediately in the value attributed to the asset or liability concerned. The recognition of the effects of changes in assumptions or methods may not be deferred to future reporting periods.
+
+5.4
+
+Recognition and measurement of insurance assets and liabilities in respect of general insurance
+
+5.4.1
+
+This section applies to assets and liabilities in respect of General Insurance contracts.
+
+5.4.2
+
+Premiums in respect of a group of insurance or reinsurance contracts entered into by an Insurer as insurer must be treated as receivable from the earliest of the following:

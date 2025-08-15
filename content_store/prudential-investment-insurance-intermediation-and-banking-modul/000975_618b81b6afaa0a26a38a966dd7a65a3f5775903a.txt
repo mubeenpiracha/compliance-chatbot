@@ -1,0 +1,53 @@
+ECA Risk Scores
+
+0-1
+
+2
+
+3
+
+4 to 6
+
+7
+
+Risk Weights
+
+20%
+
+50%
+
+100%
+
+100%
+
+150%
+
+Exposures to corporates
+
+A4.12.7 Under the Simplified Approach, Rules 4.12.11 to 4.12.15 are replaced by the following
+
+Rule A4.12.8.
+
+A4.12.8 An Authorised Firm must apply a 100% risk weight to any Exposure to a corporate.
+
+Credit Risk mitigation - Collateral
+
+A4.12.9 Under the Simplified Approach, Rules 4.13.5 to 4.13.7 are replaced by the following
+
+Rules A4.12.10 to A4.12.12.
+
+316
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+A4.12.10 An Authorised Firm may only use the financial Collateral Simplified Approach (FCSA) in its treatment of recognised Collateral for the purposes of calculating the Credit RWA for its Exposures booked in its Non-Trading Book.
+
+A4.12.11 (1)
+
+For an Authorised Firm using the FCSA, eligible financial Collateral comprises:
+
+(a)
+
+cash (as well as certificates of deposit or other similar instruments issued by the Authorised Firm) on deposit with the Authorised Firm;

@@ -1,0 +1,53 @@
+an ATS Operator.
+
+25
+
+COB/VER48/03-25
+
+3.3.2
+
+3.3.3
+
+CONDUCT OF BUSINESS (COB)
+
+(1)
+
+Subject to (2), an Authorised Firm must not carry on a Financial Service with or for a Person unless:
+
+(a)
+
+there is a Client Agreement containing the key information specified in App2 which is either entered into:
+
+(i)
+
+between the Authorised Firm and that Person; or
+
+(ii)
+
+in accordance with the requirements in Rule 3.3.4; and
+
+(b)
+
+before entering into the Client Agreement with the Person, the Authorised Firm has provided to that Person the key information referred to in (a) in good time to enable him to make an informed decision relating to the relevant Financial Service.
+
+(2)
+
+An Authorised Firm may provide a Financial Service to a Client without having to comply with the requirement in (1);
+
+(a)
+
+subject to (3), where it is, on reasonable grounds, impracticable to comply; or
+
+(b)
+
+where the Client has expressly agreed to dispense with the requirement in regard to a personal investment vehicle.
+
+(3)
+
+When (2)(a) applies, an Authorised Firm providing the Financial Service must:
+
+(a)
+
+first explain to the Person why it is impracticable to comply; and
+
+(b)

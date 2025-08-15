@@ -1,0 +1,19 @@
+ii.
+
+forward asset purchases, forward deposits and partly paid shares and securities which represent commitments with certain drawdown; and
+
+iii.
+
+transactions, other than SFTs, involving the posting of Securities held by the Authorised Person as Collateral, the Exposure value should be the notional amount for each of the items multiplied by a CCF of 100%; and
+
+f.
+
+where an Authorised Person has an undertaking to provide a commitment on an off-balance sheet item, an Authorised Person should apply the lower of the two applicable CCFs.
+
+For an Islamic Financial Institution, assets corresponding to Unrestricted PSIAs will fall within the Exposure Measure and are therefore relevant to the Leverage Ratio calculation.
+
+102
+
+PRU VER17.290725
+
+4

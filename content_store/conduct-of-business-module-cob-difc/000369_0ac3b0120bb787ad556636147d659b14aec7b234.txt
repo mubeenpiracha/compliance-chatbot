@@ -1,0 +1,11 @@
+Guidance
+
+1.
+
+A Reporting Entity of Security Tokens that are admitted to trading by an ATS Operator under Rule 9.4.1(a)(ii) will be subject to the requirements imposed on Reporting Entities in MKT. An ATS Operator should therefore assess whether a prospective Reporting Entity is capable of meeting those requirements before admitting its Security Tokens to trading.
+
+2.
+
+There is no Reporting Entity for a Crypto Token and, as a Crypto Token cannot be admitted to the Official List, the MKT requirements for Listing do not apply. Instead, GEN Rule 3A.2.1 requires a Crypto Token to be a Recognised Crypto Token before it can be offered to the public, promoted or the subject of any Financial Service in the DIFC. This will include it being traded on a MTF. A Crypto Token may be recognised where the DFSA is satisfied that specified criteria in GEN section 3A are met.
+
+3.

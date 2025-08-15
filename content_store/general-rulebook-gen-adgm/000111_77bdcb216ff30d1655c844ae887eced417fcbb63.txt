@@ -1,0 +1,7 @@
+(3)
+
+The conditions and procedures in (2) must be regularly tested to ensure their effectiveness.
+
+(4)
+
+An Authorised Person must ensure its Cyber Incident Response Plan is in writing and that it is reviewed regularly and no less than annually, and after the occurrence of a material Cyber Incident that is reportable pursuant to Rule 3.5.18, to ensure that it remains appropriate, effective and up-to-date.

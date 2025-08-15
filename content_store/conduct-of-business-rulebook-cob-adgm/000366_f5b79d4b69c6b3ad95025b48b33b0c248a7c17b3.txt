@@ -1,0 +1,19 @@
+about communication:
+
+(i)
+
+the means of communication agreed between the parties for the transmission of information or notifications including, where relevant, any technical requirements for the Payment Service User’s equipment and software for receipt of the information or notifications;
+
+(ii)
+
+the manner in which and frequency with which information under Chapter 19 is to be provided or made available;
+
+122
+
+COBS VER19.290725
+
+(iii)
+
+the Payment Service User’s right to receive the revised terms of the Framework Contract and any other information in accordance with Rule 19.2.4;
+
+(e)

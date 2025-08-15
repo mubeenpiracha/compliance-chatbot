@@ -1,0 +1,19 @@
+6.11.3
+
+An Authorised Person seeking to apply the Standardised Approach or the Alternative Standardised Approach must develop specific policies and have documented criteria for mapping gross income for current business lines and activities into the Standardised Approach or the Alternative Standardised Approach, as prescribed in App7. The criteria must be reviewed and adjusted for new or changing business activities as appropriate.
+
+6.11.4 Once an Authorised Person has obtained from the Regulator its written approval to apply the Standardised Approach or the Alternative Standardised Approach, the Authorised Person must not revert to the Basic Indicator Approach without prior written approval of the Regulator.
+
+196
+
+PRU VER17.290725
+
+6.11.5
+
+(1)
+
+The Regulator may at any time by written notice require an Authorised Person to adopt a specified approach to calculating its Operational Risk Capital Requirement where the Regulator considers that this is:
+
+(a)
+
+appropriate given the nature, size, complexity and risk profile of the Authorised Person's business; or

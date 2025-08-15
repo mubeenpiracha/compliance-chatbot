@@ -211,15 +211,18 @@ def load_documents_from_manifest() -> List[Document]:
 
 
 def generate_namespace_for_file(file_name: str, source_path: str = "") -> str:
-    """Generate a unique namespace for a file by combining filename and path hash."""
+    """Generate a unique namespace for a file by combining filename and folder hash."""
     stem = Path(file_name).stem
     
-    # Create a unique identifier by hashing the full source path
-    # This ensures files with same names in different locations get different namespaces
-    path_hash = sha1_hex(source_path or file_name)[:8]  # 8 chars should be enough
+    # Extract just the parent folder from the source path
+    if source_path:
+        folder_name = Path(source_path).parent.name  # Just the immediate parent folder
+        folder_slug = slugify(folder_name)  # Clean up the folder name
+    else:
+        folder_slug = "default"  # Fallback if no source path
     
-    # Combine stem with path hash for uniqueness
-    namespace = f"{slugify(stem)}-{path_hash}"
+    # Combine stem with folder name for uniqueness
+    namespace = f"{slugify(stem)}-{folder_slug}"
     
     # Ensure it fits in Pinecone's namespace length limit (64 chars)
     return namespace[:64] or "default"

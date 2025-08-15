@@ -1,0 +1,3 @@
+An Exchange should use adequate mechanisms so that pre-trade information is available to the public in an easy to access and uninterrupted manner at least during business hours. An Exchange may charge a reasonable fee for the information which it makes available to the public.
+
+An Exchange will be able to withhold pre-trade disclosure only if it has obtained a waiver or modification to Rule 6.4.2. An Exchange may seek a waiver or modification from the disclosure requirement in Rule 6.4.2(1) in relation to certain transaction orders where:

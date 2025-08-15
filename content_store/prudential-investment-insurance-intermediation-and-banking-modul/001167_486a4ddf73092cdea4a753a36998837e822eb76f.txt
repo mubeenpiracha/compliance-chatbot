@@ -1,0 +1,21 @@
+A6.2 Standardised Approach
+
+A6.2.1 An Authorised Firm which uses the Standardised Approach:
+
+(a)
+
+must calculate its Operational Risk Capital Requirement equal to the average annual gross income over the previous three years for each of the business lines in Rule A6.2.3 multiplied by the fixed percentage (denoted beta) in Rule A6.2.3;
+
+(b)
+
+subject to (c), may in any given year offset negative a Capital Requirement (resulting from negative gross income) in any business line against positive capital charges in other business lines without limit; and
+
+(c)
+
+must input to the numerator a value of zero if the aggregate Operational Risk Capital Requirement across all business lines within a given year is negative.
+
+A6.2.2 An Authorised Firm which uses the Standardised Approach must calculate its
+
+Operational Risk Capital Requirement according to the following formula:
+
+KSA =  years 1-3 max[(GI 1-8 X B1-8) , 0]}/ 3

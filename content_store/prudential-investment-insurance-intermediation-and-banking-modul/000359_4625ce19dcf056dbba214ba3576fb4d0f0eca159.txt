@@ -1,0 +1,13 @@
+Short-Term Credit Quality Grade Risk Weight
+
+I
+
+20%
+
+II
+
+50%
+
+III
+
+100%

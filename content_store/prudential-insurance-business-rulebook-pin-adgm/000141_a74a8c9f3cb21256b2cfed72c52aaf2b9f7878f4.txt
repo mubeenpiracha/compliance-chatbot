@@ -1,0 +1,23 @@
+(e)
+
+any management agreement, service contract or cost-sharing arrangement.
+
+(2)
+
+For the purposes of (1), “surplus” means:
+
+(a)
+
+in the case of an Insurer that is not a Cell Company, the Insurer's Adjusted Capital Resources; and
+
+(b)
+
+in the case of an Insurer that is a Cell Company, the Insurer's Adjusted Cellular Capital Resources in respect of the Cell to which the transaction relates, where the transaction relates to a Cell, and otherwise the Insurer's Adjusted Non-Cellular Capital Resources.
+
+43
+
+PIN VER07.290725
+
+8.5.2 An Insurer must report to the Regulator all dividends and other distributions to shareholders within twenty-one days following the declaration of the dividend or distribution.
+
+8.5.3 An Insurer that is a Takaful Insurer must report to the Regulator all distributions of profit or surplus (however called or described) to policyholders within twenty-one days of the date of declaration of the distribution.

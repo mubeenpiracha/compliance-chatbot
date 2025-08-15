@@ -1,0 +1,21 @@
+(7)
+
+An Authorised Firm must aggregate its Exposures to any additional risks inherent in the structure itself, if that would result in Exposures to the same third party.
+
+Guidance:
+
+1. When considering this Rule the Authorised Firm should consider the following factors:
+
+a.
+
+the structure, independence and control of the arrangements;
+
+transaction, including governance
+
+b.
+
+the inter relatedness of the underlying Exposures;
+
+c.
+
+beneficial owners of the underlying Exposures and whether they could be deemed Connected or Closely Related; and

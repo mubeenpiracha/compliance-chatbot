@@ -1,0 +1,9 @@
+Guidance
+
+1.
+
+Sub-underwriting is a commitment given by one firm to someone other than the Issuer or seller of the Securities to sub-underwrite all or part of an issue of Securities. The net Underwriting position calculated in Rule A5.8.6 will also be used in calculating the net Underwriting Exposure under Rules A5.8.11 to A5.8.14.
+
+2.
+
+The net Underwriting position or reduced net Underwriting position arising from Underwriting or sub-underwriting a rights or Warrants issue should be calculated using the current market price of the underlying Security for the purposes of the Equity Risk Capital Requirement or Option Risk Capital Requirement. However, the risk Capital Requirements will be limited to the value of the net Underwriting position calculated using the initial issue price of the rights or Warrants. Where there is no market price because the rights or Warrants are in relation to a new class of Securities and the initial price has not been set the net Underwriting position or reduced net Underwriting is the amount of the commitment.

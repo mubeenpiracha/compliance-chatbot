@@ -1,0 +1,9 @@
+Reporting Entities with Securities of the same class admitted to trading in more than one jurisdiction should ensure that the release of announcements containing Inside Information is co-ordinated across jurisdictions. If the requirements for disclosure are stricter in another jurisdiction than in the DIFC, the Reporting Entity must ensure that the same information is released in the DIFC as in that other jurisdiction.
+
+16.
+
+Reporting Entities should not delay an announcement in the DIFC in order to wait for a market to open in another jurisdiction.
+
+Inside information related to the use of DLT
+
+17.

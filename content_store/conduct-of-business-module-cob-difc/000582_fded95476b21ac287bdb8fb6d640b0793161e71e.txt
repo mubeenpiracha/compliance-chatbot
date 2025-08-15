@@ -1,0 +1,17 @@
+(ii)
+
+a Person in another jurisdiction Providing Custody of Crypto Tokens by holding and controlling the public and private cryptographic keys relating to the Crypto Tokens, who is authorised and supervised for that activity by a Financial Services Regulator; and
+
+(c)
+
+“Self-Custody of Crypto Tokens” means the holding and controlling of Crypto Tokens by their owner, through the owner holding and controlling the public and private cryptographic keys relating to the Crypto Tokens.
+
+15.4.2 An Authorised Firm that is a Digital Wallet Service Provider must comply with the requirements that would apply to a Digital Wallet Service Provider under COB section 14.3 and for that purpose a reference to an Investment Token is taken to be a reference to a Crypto Token.
+
+15.4.3 An MTF Operator that appoints a Third Party Digital Wallet Service Provider to
+
+Provide Custody of Crypto Tokens must ensure that the person is either:
+
+(a)
+
+an Authorised Firm permitted to be a Digital Wallet Service Provider; or

@@ -1,0 +1,17 @@
+Guidance
+
+Rule 6.2.17 allows a Person who is acting as a Stabilisation Manager in respect of a dual- listing of Relevant Securities to rely on the Price Stabilisation Rules or on the laws of a Zone 1 jurisdiction to conduct those activities. The Rule is intended to provide Stabilisation Managers with some limited flexibility in respect of their activities in ADGM, so long as those activities are appropriately regulated.
+
+6.2.18 Price Stabilisation from ADGM
+
+(1)
+
+A Person who conducts, from ADGM, Price Stabilisation of dual-listed Relevant Securities on a Remote Investment Exchange or an exchange outside ADGM must:
+
+(a)
+
+ensure that such Price Stabilisation is conducted in accordance with the law of that non-ADGM jurisdiction; and
+
+(b)
+
+provide the Regulator adequate prior notification of such Price Stabilisation.

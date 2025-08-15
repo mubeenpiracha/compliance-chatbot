@@ -1,0 +1,15 @@
+Required Stable Funding (RSF)
+
+A10.4.9
+
+Subject to Rules A10.4.15, an Authorised Person must calculate its Required Stable Funding as the sum of the Required Stable Funding for its assets and for its off- balance sheet items, calculated in accordance with Rules A10.4.16, A10.4.18 and A10.4.19.
+
+A10.4.10
+
+In calculating the Required Stable Funding, an Authorised Person must, subject to (b) and (c):
+
+(a)
+
+(i)
+
+include financial instruments, foreign currencies and commodities for which a purchase order has been executed; and

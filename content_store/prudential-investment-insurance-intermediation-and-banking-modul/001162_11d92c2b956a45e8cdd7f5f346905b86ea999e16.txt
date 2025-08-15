@@ -1,0 +1,79 @@
+3C
+
+NO
+
+YES
+
+NO
+
+374
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+Financial Services
+
+Prudential Category
+
+Capital requirement
+
+Systems and controls requirement
+
+PII cover
+
+Providing Money Services (other than issuing Stored Value)
+
+3D or 4
+
+NO
+
+YES
+
+NO
+
+Arranging Deals in Investments
+
+4
+
+NO
+
+YES
+
+YES
+
+Advising on Financial Products
+
+4
+
+NO
+
+YES
+
+YES
+
+Arranging Custody
+
+4
+
+NO
+
+YES
+
+NO
+
+Insurance Intermediation
+
+4
+
+NO
+
+YES
+
+YES
+
+Insurance Management
+
+4
+
+NO

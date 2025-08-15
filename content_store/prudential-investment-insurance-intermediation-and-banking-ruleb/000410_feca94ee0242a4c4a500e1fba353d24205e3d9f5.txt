@@ -1,0 +1,17 @@
+(4)
+
+Net credit Exposure, after taking into account recognised Netting, will be subject to the applicable CRW for the Counterparty.
+
+4.13.19 For an Authorised Person to recognise an on-balance sheet Netting agreement for the purposes of Rule 4.13.17, all of the following conditions must be satisfied:
+
+(1)
+
+(a)
+
+both the on-balance sheet Exposure (asset) and the offsetting on-balance sheet item (liability) are owing between the Authorised Person and the same Counterparty;
+
+(b)
+
+the Authorised Person nets the on-balance sheet Exposure (asset) and the offsetting on-balance sheet item (liability) in a way that is consistent with its legal rights against the Counterparty;
+
+(c)

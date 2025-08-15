@@ -1,0 +1,13 @@
+6.9.7 A Captive Insurer must calculate the best estimate and the risk margin separately.
+
+6.9.8 A Captive Insurer must calculate the risk margin by determining the cost of providing an amount of Adjusted Capital Resources equal to the minimum capital requirement provided for in Rule 2.2 in respect of the obligations under the Captive Insurer's insurance and contracts of reinsurance over the lifetime thereof.
+
+6.9.9 The Regulator may specify the cost of capital that applies under Rule 6.9.8.
+
+6.9.10 Notwithstanding Rule 6.9.7 and Rule 6.9.2(b) where future cash flows associated with obligations under a Captive Insurer's insurance and contracts of reinsurance can be replicated reliably using Financial Instruments for which a reliable market value is
+
+27
+
+CIB VER06.290725
+
+observable, a Captive Insurer must determine the value of technical provisions associated with those future cash flows on the basis of the market value of those Financial Instruments. In this case, separate calculations of the best estimate and the risk margin are not required.

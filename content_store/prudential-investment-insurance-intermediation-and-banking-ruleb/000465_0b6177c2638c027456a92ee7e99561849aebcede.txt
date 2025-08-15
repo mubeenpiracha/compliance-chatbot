@@ -1,0 +1,19 @@
+amortisation period.
+
+4.14.67 An Authorised Person acting as the Sponsor dealing in the Securities issued by the SPE
+
+must include these Securities in the calculation of its Credit RWAs.
+
+4.14.68 An Authorised Person involved in Synthetic Securitisations must seek individual guidance on a case-by-case basis from the Regulator regarding the regulatory capital treatment of such transactions.
+
+Recognition of eligible financial Collateral under FCSA Approach
+
+4.14.69 An Authorised Person which has taken eligible financial Collateral for an SE Exposure and is using the FCSA may recognise the effect of the eligible financial Collateral as follows:
+
+(a)
+
+break down the SE Exposure into:
+
+(i)
+
+a collateralised portion with E equal to the latest fair market value of the eligible financial Collateral; and

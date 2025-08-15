@@ -1,0 +1,13 @@
+43
+
+MKT/VER24/03-25
+
+MARKETS RULES (MKT)
+
+Control of inside information
+
+4.2.6 A Reporting Entity must establish effective arrangements to deny access to Inside Information to Persons other than those who require it for the exercise of their functions within the Reporting Entity.
+
+4.2.7 A Reporting Entity must establish and maintain adequate systems and controls to enable it to identify at all times any Person working for it under a contract of employment or otherwise, who has or may reasonably be likely to have access to Inside Information relating to the Reporting Entity, whether on a regular or occasional basis.
+
+4.2.8 A Reporting Entity must take the necessary measures to ensure that its Directors and Employees who have or may have access to Inside Information acknowledge the legal and regulatory duties entailed, including dealing restrictions in relation to the Reporting Entity’s Securities or any related Investments, and are aware of the sanctions attaching to the misuse or improper use or circulation of such information.

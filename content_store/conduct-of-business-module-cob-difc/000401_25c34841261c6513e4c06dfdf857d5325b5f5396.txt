@@ -1,0 +1,9 @@
+The DFSA must within 10 days of receiving the notification referred to in (3), approve a proposed liquidity incentive scheme unless it has reasonable grounds to believe that the introduction of the scheme would be detrimental to the facility or markets in general. Where the DFSA does not approve the proposed liquidity incentive scheme, it must notify the ATS Operator of its objections to the introduction of the proposed liquidity incentive scheme, and its reasons for that decision.
+
+(5)
+
+An ATS Operator must, as soon practicable, announce the introduction of the liquidity incentive scheme, including the date on which it becomes operative and any other relevant information.
+
+(6)
+
+If the DFSA decides not to approve a liquidity incentive scheme, the ATS Operator may refer the decision to the FMT for review.

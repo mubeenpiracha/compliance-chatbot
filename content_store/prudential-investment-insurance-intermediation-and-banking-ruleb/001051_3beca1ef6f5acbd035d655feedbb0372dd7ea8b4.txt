@@ -1,0 +1,13 @@
+Additional content of the internal IRC model
+
+13.
+
+The internal model to capture the incremental default and migration risks should reflect the nonlinear impact of Options, structured Credit Derivatives and other positions with material nonlinear behaviour with respect to price changes. The Authorised Person should also have due regard to the amount of model risk inherent in the valuation and estimation of price risks associated with such products.
+
+14.
+
+The internal model should be based on data that are objective and up-to-date.
+
+15.
+
+As part of the independent review and validation of their internal models used for purposes of this Chapter, an Authorised Person should in particular do all of the following:

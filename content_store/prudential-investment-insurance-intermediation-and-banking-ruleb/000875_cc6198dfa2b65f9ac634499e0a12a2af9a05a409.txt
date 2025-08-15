@@ -1,0 +1,25 @@
+Group of Closely Related Counterparties
+
+A4.11.5
+
+(1)
+
+An Authorised Person need not assess whether Persons are economically independent for a transaction where the sum of all Exposures to one individual Counterparty is less than 5% of the Authorised Person’s Tier 1.
+
+(2)
+
+The Regulator may, at its discretion, require an Authorised Person to treat two or more Persons as Closely Related to each other and to aggregate Exposures to such Persons accordingly.
+
+(3)
+
+Persons who are Closely Related to each other are also Connected with each other.
+
+(4)
+
+The requirement to aggregate Exposures where Persons are Closely Related does not apply where an Authorised Person can demonstrate to the Regulator that it is unlikely that Persons who are Closely Related will default at the same time and the Regulator has, by notice in writing, disapplied the requirement.
+
+A4.11.6
+
+(1)
+
+A single group of Closely Related Counterparties means, in relation to an Authorised Person, all the Persons to which the Authorised Person has an Exposure and which are Closely Related to each other.

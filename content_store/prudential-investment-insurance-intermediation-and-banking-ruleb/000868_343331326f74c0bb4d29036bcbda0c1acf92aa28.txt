@@ -1,0 +1,21 @@
+Large Exposures
+
+Exempt Exposures
+
+A4.11.1 An Authorised Person may treat the following Exposures as exempt from the Large Exposures limits in Chapter 4 if they are to Counterparties not Connected to the Authorised Person:
+
+(a)
+
+asset items or Exposures constituting claims on central governments and central banks which receive a Credit Quality Grade of 1 or 2 in accordance with Rule 4.12.4;
+
+(b)
+
+asset items or Exposures constituting claims on international organisations and multi-lateral development banks (MDBs) which receive a 0% (Credit Quality Grade of 1) risk weight as set out at Rule 4.12.7;
+
+(c)
+
+asset items or Exposures carrying the explicit guarantees of either (a) or (b) where the claims on the entity providing the guarantee would receive a 0% weighting (Credit Quality Grade of 1);
+
+(d)
+
+Exposures for which the Authorised Person has Collateral in the form of cash Deposits or certificates of Deposit, including certificates of Deposit issued by the Authorised Person, held by the Authorised Person, or held by the Authorised Person's Parent Financial Institution or a Subsidiary of the Authorised Person, but only if:

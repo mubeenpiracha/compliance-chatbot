@@ -1,0 +1,17 @@
+A9.2 DIFC business risk capital requirement
+
+A9.2.1 An Insurer must calculate its DIFC Business Risk Capital Requirement as the sum of the Insurer’s DIFC underwriting risk component, the Insurer’s DIFC reserving risk component and the Insurer’s DIFC Long-Term Insurance risk component.
+
+A9.2.2
+
+In calculating the DIFC Business Risk Capital Requirement:
+
+(a)
+
+no account must be taken of Contracts of Insurance effected by the Insurer, other than through an establishment in the DIFC; and
+
+(b)
+
+no account must be taken of contracts of reinsurance entered into by the Insurer as cedant, regardless of where those contracts of reinsurance were entered into.
+
+A9.3 DIFC underwriting risk component

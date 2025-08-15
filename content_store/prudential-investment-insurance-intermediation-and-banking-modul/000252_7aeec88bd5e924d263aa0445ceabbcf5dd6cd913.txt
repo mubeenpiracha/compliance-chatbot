@@ -1,0 +1,19 @@
+(ii)
+
+the amount of Capital Resources that relates to the Subsidiary that is required on a consolidated basis to meet the sum of its Financial Group’s total Capital Requirement of 100% of the Risk Capital Requirement and its Capital Conservation Buffer requirement of 25% of the Risk Capital Requirement;
+
+(b)
+
+the qualifying Capital Resources of the Subsidiary, expressed as a percentage of all Capital Resources instruments of the Subsidiary that are
+
+78
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+included in its CET1, AT1 and T2 Capital items and the related retained earnings and share premium accounts.
+
+Qualifying Capital Resources instruments included in consolidated T2 Capital
+
+3.16.9 An Authorised Firm must determine the amount of qualifying Capital Resources of a Subsidiary that is included in consolidated T2 Capital by subtracting from the qualifying Capital Resources of that Subsidiary that are included in consolidated Capital Resources, the qualifying T1 Capital of that subsidiary that is included in consolidated T1 Capital of the Financial Group of the Authorised Firm.

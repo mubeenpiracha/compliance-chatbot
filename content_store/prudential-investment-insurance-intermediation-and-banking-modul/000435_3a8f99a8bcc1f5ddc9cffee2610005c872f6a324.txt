@@ -1,0 +1,13 @@
+Currency mismatches
+
+4.13.13 In a case where there is a currency mismatch between the credit protection and the underlying Exposure, an Authorised Firm using the FCCA or credit protection in the form of a guarantee or credit derivative must reduce the amount of the Exposure deemed to be protected by applying a haircut, as follows:
+
+Protected portion GA = G ∙ (1 − HFX)
+
+where:
+
+G =
+
+notional amount of the credit protection
+
+HFX = 8% (based on ten-business days holding period), unless the credit protection is not marked-to-market daily, in which case an Authorised Firm must scale 𝐻𝐹𝑋 in accordance with Rule A4.3.10

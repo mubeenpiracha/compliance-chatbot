@@ -1,0 +1,23 @@
+Restrictions on Captive Insurance Business
+
+A Captive Insurer must comply with the restrictions in FSMR on the business which it may undertake and in particular with Part 4 (Authorisation).
+
+15
+
+CIB VER06.290725
+
+3
+
+ELIGIBLE CAPITAL
+
+3.1.1 Eligible capital
+
+Eligible capital of a Captive Insurer means an instrument or other asset that is included in calculating the Captive Insurer's minimum capital requirement under Rule 2.2.
+
+3.1.2 Eligible capital amount
+
+(1)
+
+The total eligible capital of a Captive Insurer is the amount of the Captive Insurer's eligible capital, calculated in accordance with the following formula:
+
+Eligible capital – required deduction

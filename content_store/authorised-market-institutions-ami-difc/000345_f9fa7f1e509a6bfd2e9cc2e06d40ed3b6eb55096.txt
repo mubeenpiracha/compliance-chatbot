@@ -1,0 +1,25 @@
+b.
+
+whether such systems are adequately scalable in emergency conditions that might threaten the orderly and proper operations of its facility.
+
+A1.3 Testing relating to Members’ technology systems
+
+A1.3.1
+
+(1)
+
+An Authorised Market implement standardised Institution must conformance testing procedures to ensure that the systems which its Members are using to access facilities operated by it have a minimum level of functionality that is compatible with the Authorised Market Institution’s information technology systems and will not pose any threat to fair and orderly conduct of its facilities.
+
+(2)
+
+An Authorised Market Institution must also require its Members, before commencing live operation of any electronic trading system, user interface or a trading algorithm, including any updates to such arrangements, to use adequate development and testing methodologies to test the viability and effectiveness of their systems.
+
+109
+
+AMI/VER28/03-25
+
+AUTHORISED MARKET INSTITUTIONS (AMI)
+
+(3)
+
+For the purposes of (2), an Authorised Market Institution must require its Members:

@@ -1,0 +1,9 @@
+AMI/VER28/03-25
+
+AUTHORISED MARKET INSTITUTIONS (AMI)
+
+5A. ADDITIONAL REQUIREMENTS FOR OPERATING A FACILITY
+
+FOR INVESTMENT TOKENS ....................................................... 46
+
+5A.1 Application ....................................................................................................... 46 5A.2 Technology and governance requirements ...................................................... 46 5A.3 Operating a Facility for Investment Tokens that permits direct access ............. 46 5A.4 Safe custody of Investment Tokens ................................................................. 48 5A.5 Technology audit reports ................................................................................. 48

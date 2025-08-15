@@ -1,0 +1,41 @@
+Allocation of transactions to asset classes
+
+A4.8.4 (1) An Authorised Firm must allocate each transaction of a Netting Set to one of the following asset classes to determine the potential future exposure of the Netting Set under Rule A4.8.6:
+
+(a)
+
+interest rate asset class;
+
+(b)
+
+foreign exchange asset class;
+
+(c)
+
+credit asset class;
+
+(d) equity asset class; or
+
+(e)
+
+commodity asset class.
+
+(2) An Authorised Firm must conduct the allocation in (1) on the basis of the primary
+
+risk factor of the underlying instrument.
+
+(3)
+
+If a transaction is exposed to multiple risk factor referencing multiple asset classes, an Authorised Firm must:
+
+(a)
+
+take sensitivities and volatility of the underlying instrument into account for determining the primary risk factor; and
+
+284
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+(b) assign the transaction to a single asset class except where the DFSA requires the Authorised Firm to assign the transaction to more than one asset class.

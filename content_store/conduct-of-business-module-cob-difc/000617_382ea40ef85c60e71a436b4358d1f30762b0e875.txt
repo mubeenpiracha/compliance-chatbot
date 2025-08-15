@@ -1,0 +1,33 @@
+15.8 Technology audit reports
+
+15.8.1 (1)
+
+This Rule applies to an Authorised Firm that uses DLT or similar technology to provide any of the following services:
+
+(a)
+
+Operate a MTF that trades Crypto Tokens;
+
+(b)
+
+hold or control Client Crypto Tokens; or
+
+193
+
+COB/VER48/03-25
+
+CONDUCT OF BUSINESS (COB)
+
+(c)
+
+carry on any other Financial Services relating to Crypto Tokens.
+
+(2)
+
+The Authorised Firm must:
+
+(a) appoint a suitably qualified independent third party professional to:
+
+(i)
+
+carry out an annual audit of the Authorised Firm’s compliance with the technology resources and governance requirements that apply to it under this chapter; and

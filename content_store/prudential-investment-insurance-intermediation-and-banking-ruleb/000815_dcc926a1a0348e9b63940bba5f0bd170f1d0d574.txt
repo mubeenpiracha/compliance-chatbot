@@ -1,0 +1,15 @@
+𝑆𝐷𝑖 =
+
+exp(-0.05∗𝑆𝑖) − exp(-0.05∗𝐸𝑖) 0.05
+
+where Si and Ei are the start and end dates, respectively, of the time period referenced by the interest rate or credit derivative, floored by ten business days.
+
+Add-on for interest rate derivatives
+
+A4.6.37 The add-on for interest rate derivatives is the sum of the add-ons for each hedging set of interest rate derivatives transacted with a counterparty in a netting set.
+
+A4.6.38
+
+Interest rate derivatives consist of a separate hedging set for each currency. Interest rate derivatives are divided into three time 'buckets' as follows: less than or equal to one year, greater than one year and lessthanor equal to five years, and more than five years.
+
+A4.6.39 The add-on for a hedging set of interest rate derivatives is calculated in two steps:

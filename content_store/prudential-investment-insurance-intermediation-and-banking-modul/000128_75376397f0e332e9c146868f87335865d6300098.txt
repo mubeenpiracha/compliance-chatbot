@@ -1,0 +1,23 @@
+Guidance
+
+1.
+
+It follows from Rule 3.2.7(2)(a) and Rule 3.2.3 that an Authorised Firm cannot use T2 Capital of more than 2% of its Risk Weighted Assets to meet its Risk Capital Requirement.
+
+2.
+
+It follows from Rule 3.2.7(2)(b) and Rule 3.2.3 that an Authorised Firm cannot use T2 Capital to meet more than 20% of its Expenditure Based Capital Minimum.
+
+3.
+
+It follows from Rule 3.2.7(2)(c) and Rule 3.2.3 that an Authorised Firm cannot use T2 Capital to meet more than 20% of its Expenditure Based Capital Minimum, Stored Value Capital Requirement or Transaction Based Capital Requirement, as applicable.
+
+4.
+
+In accordance with Rules 3.9.5, 3.9A.3 and 3.9B.4, the CET1 Capital used for a Capital Buffer cannot constitute CET1 Capital for meeting the Risk Capital Requirement.
+
+35
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)

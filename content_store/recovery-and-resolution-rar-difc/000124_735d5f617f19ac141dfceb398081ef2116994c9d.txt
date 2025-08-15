@@ -1,0 +1,17 @@
+An Authorised Firm shall:
+
+(a)
+
+maintain in the DIFC a detailed inventory of appropriate computer- based systems and procedures which gather, process, present and store information supporting the activities of an Authorised Firm (“Management Information Systems” or “MIS”) including those relating to accounting, financial and prudential information;
+
+(b)
+
+demonstrate to the DFSA that it is able to obtain and produce at short notice the information derived from its MIS in normal times, for the purpose of preparing or implementing a Recovery Plan or a Resolution Plan, for the purpose of a Resolvability Assessment, or in the course of Resolution;
+
+(c)
+
+maintain, in the DIFC, information which is essential and specific to the Authorised Firm and other vital business relationships which are essential to access by the DFSA for the above purposes; and
+
+(d)
+
+identify and address any legal constraints related to the flow of management information to the Authorised Firm from other parts of its Group in normal times and in crisis situations.

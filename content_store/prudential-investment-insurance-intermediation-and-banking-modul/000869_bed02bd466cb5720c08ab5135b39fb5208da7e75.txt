@@ -1,0 +1,29 @@
+[Deleted]
+
+A4.8 Standardised approach to Counterparty Credit Risk (SA-CCR)
+
+A4.8.1
+
+In this section:
+
+(a)
+
+“Basis Transaction” has the meaning given in Rule A4.8.5(2)(a);
+
+(b)
+
+“End Date” means the period of time between the calculation date (today) and the end date of the time period referenced by transaction ‘i’, measured in years; if a transaction references the value of another interest rate or credit transaction, such as a swaption or a bond option, the period must be determined on the basis of the underlying transaction;
+
+(c)
+
+“Margin Agreement” means a contractual agreement or provision to an agreement under which one Counterparty must supply Variation Margin to a second Counterparty when an Exposure of that second Counterparty to the first Counterparty exceeds a specified level;
+
+280
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+(d)
+
+“Margin Period of Risk” or “MPoR” means the time period from the last exchange of Collateral covering a Netting Set of transactions with a defaulting Counterparty until that Counterparty is closed out and the resulting market risk is re-hedged;

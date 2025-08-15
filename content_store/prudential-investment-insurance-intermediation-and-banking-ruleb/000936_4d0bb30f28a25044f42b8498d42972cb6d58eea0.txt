@@ -1,0 +1,27 @@
+A6.2.18 The General Market Risk requirement for each currency must be calculated as the sum
+
+of the following:
+
+(a)
+
+10% of the matched weighted positions in each maturity band;
+
+(b)
+
+40% of the matched weighted position in zone A;
+
+(c)
+
+30% of the matched weighted position in zones B and C;
+
+(d)
+
+40% of the matched weighted position between zones A and B, and between zones B and C;
+
+(e)
+
+100% of the matched weighted position between zones A and C; and
+
+(f)
+
+100% of the residual unmatched weighted positions.

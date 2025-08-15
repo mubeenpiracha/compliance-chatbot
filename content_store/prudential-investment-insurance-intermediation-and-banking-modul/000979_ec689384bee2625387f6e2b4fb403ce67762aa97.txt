@@ -1,0 +1,17 @@
+PSEs; and
+
+(d)
+
+other entities eligible for a CRW of 20% or better and with a lower risk weight than the Counterparty.
+
+317
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+A4.12.15 For the purpose of calculating the risk weight of a guaranteed Exposure, an Authorised Firm must assign the guaranteed portion the risk weight of the eligible guarantors. The uncovered portion of the Exposure must be assigned the risk weight of the underlying Counterparty.
+
+A4.12.16 An Authorised Firm can apply a 0% risk weight to any portions of Exposures guaranteed by central governments or Central Banks of a GCC member country where the guarantee is denominated in the domestic currency of that country, and the Exposure is funded in that same domestic currency.
+
+A4.12.17 An Authorised Firm must treat any materiality thresholds on payments below which no payment will be made in the event of loss as retained First Loss Positions and must deduct the full amount from its Capital Resources.

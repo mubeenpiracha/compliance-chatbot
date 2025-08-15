@@ -1,0 +1,17 @@
+(a) Managing Assets;
+
+(b) Advising on Financial Products;
+
+(c) Managing a Collective Investment Fund; or
+
+(d) Advising on Credit.
+
+2.2.10F A Crowdfunding Operator must not Operate a Crowdfunding Platform that facilitates a Person investing in the following kinds of Investments or Tokens through the platform:
+
+(a) Warrants, Units or Structured Products;
+
+(b) Derivatives; or
+
+(c) Crypto Tokens.
+
+2.2.10G An Authorised Firm must not carry on the activity of currency exchange or issuing Payment Instruments in the DIFC unless each of those activities is in connection with, and a necessary part of, providing another Financial Service, including another Money Service activity referred to in paragraphs (a) to (f) of Rule 2.6.1(1).

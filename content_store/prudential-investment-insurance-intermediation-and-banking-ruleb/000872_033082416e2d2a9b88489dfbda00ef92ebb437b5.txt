@@ -1,0 +1,7 @@
+A4.11.3
+
+If an Exposure is partially guaranteed by an Authorised Person's Parent Financial Institution, and would be assigned a lower risk weight under Section 4.12, only that part of the Exposure subject to the guarantee is exempt from the Large Exposure limit in Rule 4.15.5. When considering the treatment of this Rule an Authorised Person may also consider the exemptions permitted under Rule 4.15.18 relating to parental guarantees.
+
+Identification of Counterparties
+
+A4.11.4 When calculating the Exposures of an Authorised Person, the firm must include

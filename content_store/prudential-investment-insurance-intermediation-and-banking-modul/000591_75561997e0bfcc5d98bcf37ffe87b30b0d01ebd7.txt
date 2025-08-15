@@ -1,0 +1,35 @@
+2. An Authorised Firm should, as best practice in maintaining the integrity of User security credentials (USC), endeavour:
+
+(a) not to allow the USC to be fully readable when inputted by the User or by its own staff;
+
+(b)
+
+to ensure that the USC always remain encrypted and no information relating to the USC is stored in plain text;
+
+(c)
+
+to protect secret cryptographic material from unauthorised disclosure;
+
+(d)
+
+to document the process used to encrypt or otherwise render the USCs unreadable;
+
+(e)
+
+to adopt measures to mitigate the risk of unauthorised use of compromised USCs;
+
+(f)
+
+to ensure secure delivery of the USC to the User, secure association of the USC with the User and the secure disposal of the USC once it is obsolete; and
+
+(g)
+
+to immediately inform the User and the issuer of the USC (if another firm) in the event a USC is compromised under the firm's sphere of control.
+
+3. Dynamic linking referred to in Rule 6.13.3(2) may include:
+
+188
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)

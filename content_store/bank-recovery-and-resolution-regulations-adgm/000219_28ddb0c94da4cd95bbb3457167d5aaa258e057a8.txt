@@ -1,0 +1,9 @@
+the extent to which the Institution has a process for transitioning the services provided under service level agreements to third parties in the event of the separation of Critical Functions or of Core Business Lines;
+
+the extent to which there are contingency plans and measures in place to ensure continuity in access to payment and securities settlement systems, Central Securities Depositories, clearing houses, Recognised Clearing Houses, exchanges and Recognised Investment Exchanges;
+
+the adequacy of the management information systems in ensuring that the Regulator is able to gather accurate and complete information regarding the Core Business Lines and critical operations so as to facilitate rapid decision making;
+
+the capacity of the management information systems to provide the information essential for the effective Resolution of the Institution at all times even under rapidly changing conditions;
+
+the extent to which the Institution has tested its management information systems under stress scenarios as defined by the Regulator;

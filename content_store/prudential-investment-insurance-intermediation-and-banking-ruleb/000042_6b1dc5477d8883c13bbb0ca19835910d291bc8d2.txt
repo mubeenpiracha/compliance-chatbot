@@ -1,0 +1,25 @@
+Common Equity Tier 1.
+
+Has the meaning given in Section 3.10.
+
+An Option that permits the SE Exposures (e.g. asset-backed Securities) to be called before all of the underlying Exposures or SE Exposures have been repaid. In the case of Traditional Securitisations, this is generally accomplished by repurchasing the remaining SE Exposures once the pool balance or
+
+11
+
+PRU VER17.290725
+
+Client
+
+Client Assets
+
+Client Investments
+
+Client Money
+
+CLN
+
+Close Links
+
+Close Relative
+
+outstanding Securities have fallen below some specified level. In the case of a synthetic Exposure, the Clean-Up Call may take the form of a clause that extinguishes the credit protection.

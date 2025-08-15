@@ -1,0 +1,37 @@
+Supervisory delta
+
+A4.8.12 For the purpose of Rules A4.8.7 to A4.8.11, an Authorised Firm must determine the
+
+supervisory delta, δ, as follows:
+
+(a)
+
+for transactions that are not options or collateralised debt obligations the supervisory delta must be determined in accordance with the table below:
+
+Transaction is a long position in the primary risk factor
+
+Transaction is a short position in the primary risk factor
+
+δ𝑖
+
++1
+
+1
+
+294
+
+PIB/VER50/07-25
+
+(b)
+
+(c)
+
+(d)
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+for the purpose of (a), a transaction is:
+
+(i)
+
+a long position in the primary risk factor if the market value of the transaction increases when the risk factor increases; and

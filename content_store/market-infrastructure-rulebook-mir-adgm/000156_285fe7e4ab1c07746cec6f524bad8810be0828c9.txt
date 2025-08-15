@@ -1,0 +1,17 @@
+52
+
+MIR VER10.290725
+
+(e)
+
+the Recognised Investment Exchange must ensure that appropriate supervisory arrangements are in place to monitor trading and settlement in such Derivative;
+
+(f)
+
+the Recognised Investment Exchange must ensure that settlement and delivery, whether physical delivery or by cash settlement, can be effected in accordance with the contract terms and conditions of those Derivative; and
+
+(g)
+
+where the settlement of the Derivative requires or provides for the possibility of the delivery of an underlying security or asset rather than cash settlement, there must be adequate arrangements to enable market participants to obtain relevant information about that underlying, as well as adequate settlement and delivery procedures for the underlying.
+
+3.9.5

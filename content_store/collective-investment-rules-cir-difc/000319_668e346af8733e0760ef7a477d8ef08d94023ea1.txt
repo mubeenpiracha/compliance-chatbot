@@ -1,0 +1,15 @@
+Use of prime brokers
+
+A Fund Manager of a Hedge Fund may only grant to a prime broker authority to combine the assets of the Fund with any other assets held by or available to the prime broker as collateral for any financing activities to be undertaken by the prime broker where, and so long as, all the following conditions are met:
+
+(a)
+
+the Fund is an Exempt Fund or Qualified Investor Fund;
+
+(b)
+
+the Prospectus of the Fund contains, in addition to the disclosure required under chapter 14, the following mandatory disclosure and warnings:
+
+(i)
+
+the identity and profile of the prime broker, including where it is located and how it is regulated;

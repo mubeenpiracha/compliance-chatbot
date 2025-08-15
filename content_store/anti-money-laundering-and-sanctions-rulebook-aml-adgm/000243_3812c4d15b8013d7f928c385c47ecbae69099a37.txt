@@ -1,0 +1,19 @@
+14.3 Suspicious Activity/Transaction Reports
+
+14.3.1 A Relevant Person must ensure that where the Relevant Person's MLRO receives an
+
+internal notification of suspicious activity under Rule 14.2.2, the MLRO, without delay:
+
+(a)
+
+investigates and documents the circumstances in relation to which the notification made under Rule 14.2.2 was made;
+
+(b)
+
+determines whether in accordance with Federal AML Legislation a SAR/STR must be made and documents such determination; and
+
+(c)
+
+if required, make a SAR/STR as soon as practicable.
+
+14.3.2 The MLRO must, following receipt of an internal notification of suspicious activity under

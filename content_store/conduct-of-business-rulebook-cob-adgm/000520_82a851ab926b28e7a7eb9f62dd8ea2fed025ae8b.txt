@@ -1,0 +1,13 @@
+Sound Delivery Arrangements
+
+22.4.4 An Authorised Person must have arrangements in place, including with any delivery and/or storage facility it is using, for the approval, management, monitoring and controls for the delivery of Accepted Spot Commodities, including in relation to the:
+
+(a)
+
+testing techniques and protocols used to determine contractual performance of the Accepted Spot Commodity properties and characteristics;
+
+(b)
+
+mechanism for adjusting the delivery (settlement) price depending on testing (a), if applicable;
+
+(c)

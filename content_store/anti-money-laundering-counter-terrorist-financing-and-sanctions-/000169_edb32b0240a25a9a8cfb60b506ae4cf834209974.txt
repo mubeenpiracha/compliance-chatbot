@@ -1,0 +1,35 @@
+the payer’s address:
+
+(b)
+
+the payer’s national identity number, such as an identity card number or passport number;
+
+(c)
+
+the payer’s customer identification number; or
+
+(d)
+
+the date and place of birth of the payer.
+
+If several individual cross-border fund transfers from a single payer are bundled in a batch file for transmission, then, in complying with Rules 9.3.4 and 9.3.5, an Authorised Person that is an ordering institution must ensure that:
+
+(a)
+
+the batch file contains the payer information required under Rule 9.3.4 and, if applicable, Rule 9.3.5;
+
+(b)
+
+it has verified the payer information referred to in (a); and
+
+(c)
+
+the batch file contains the payee information required under Rule 9.3.4 for each payee and that information is fully traceable in the payee’s country.
+
+For a domestic fund transfer, an Authorised Person that is an ordering institution must either:
+
+(a)
+
+include in the message or payment instruction that accompanies or relates to the fund transfer the following:
+
+(i)

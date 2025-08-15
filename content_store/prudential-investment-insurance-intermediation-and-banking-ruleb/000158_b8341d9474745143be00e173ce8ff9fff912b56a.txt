@@ -1,0 +1,41 @@
+Tranche
+
+Monthly payment volume ($mn)
+
+Money Remitter
+
+Activity
+
+Payment Account Provider
+
+0 < … ≤ 10 10 < … ≤ 100 100 < … ≤ 250 … > 250 Total
+
+10 90 20
+
+120
+
+1.25% * 10 = 0.125 0.5% * 90 = 0.450
+
+0.25% * 20 = 0.050
+
+2.5% * 10 = 0.250 1% * 90 = 0.900
+
+0.5% * 20 = 0.100
+
+Variable Capital Requirement ($mn)
+
+0.625
+
+1.250
+
+Stored Value Providers
+
+3.6A.6
+
+(1)
+
+Subject to (2), a Stored Value Provider must calculate its Variable Capital Requirement as 2.5% of the average daily outstanding Stored Value, calculated on the first Business Day of each calendar month and using the outstanding Stored Value at the end of each calendar day over the preceding six calendar months.
+
+(2)
+
+Where the Authorised Person has not completed six months of operations following its authorisation, the average daily outstanding Stored Value must be calculated using the daily outstanding Stored Value since its authorisation and the projections contained in its business plan for the remainder of the six-month period, subject to any adjustments required by the Regulator.

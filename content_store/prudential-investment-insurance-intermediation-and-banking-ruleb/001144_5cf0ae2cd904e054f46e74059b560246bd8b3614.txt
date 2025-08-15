@@ -1,0 +1,17 @@
+Guidance
+
+1.
+
+An Authorised Person should calculate its NSFR with appropriate frequency to ensure that it is able to monitor its satisfaction of the requirement in Rule 10.4.1 at all times and, additionally, where it believes that a change has
+
+419
+
+PRU VER17.290725
+
+happened to its Available Stable Funding or Required Stable Funding that might result in a material change to the level of its NSFR.
+
+2.
+
+For Available Stable Funding, i.e. on the funding side, the ASF factors have been calibrated to reflect the tenor of the funding with longer-term liabilities assumed to be more stable than short-term liabilities, and also the nature of the counterparty providing the funding.
+
+3.

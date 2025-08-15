@@ -1,0 +1,35 @@
+(3)
+
+For the purposes of (1) and (2), a Director of the Reporting Entity must not be given written clearance to deal in any Securities of the Reporting Entity during any period when there exists any matter which constitutes Inside Information unless the Person responsible for granting clearance has no reason to believe that the proposed dealing is or may be in breach of the Law or the Rules.
+
+Exempt dealings
+
+3.4.4 The prohibition in Rule 3.4.2(1) does not apply in relation to any dealing in Securities
+
+in the Reporting Entity if such dealing by the Restricted Person relates to:
+
+(a)
+
+undertakings or elections to take up, or the taking up of, an entitlement under a rights issue or dividend reinvestment offer, or allowing such an entitlement or offer to lapse;
+
+(b)
+
+undertakings to accept, or the acceptance of, a Takeover Offer under Takeover Rules;
+
+34
+
+MKT/VER24/03-25
+
+MARKETS RULES (MKT)
+
+(c)
+
+dealings where the beneficial interest in the relevant Security does not change;
+
+(d)
+
+transactions between the Restricted Person and an Associate of such a person; or
+
+(e)
+
+transactions relating accordance with the terms of such a scheme.

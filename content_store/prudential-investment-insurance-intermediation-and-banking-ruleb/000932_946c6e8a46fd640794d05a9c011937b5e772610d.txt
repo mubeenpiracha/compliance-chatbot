@@ -1,0 +1,17 @@
+(ii)
+
+floating-rate instruments are allocated to time bands based upon the time remaining to the re-determination of the coupon;
+
+(b)
+
+adding the market values of the individual net positions within each band irrespective of whether they are long or short positions to produce a gross position figure;
+
+(c)
+
+multiplying the amount in (b) by the risk percentage for the relevant maturity band in the table below; and
+
+(d)
+
+adding the calculations requirement.
+
+in (c) to arrive at the General Market Risk

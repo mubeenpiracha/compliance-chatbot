@@ -1,0 +1,15 @@
+the shareholdings of the Bidder in the Target;
+
+(b)
+
+the holdings of Securities in the Bidder (in the case of a Securities Exchange Bid only) and in the Target in which each Director of the Bidder is directly or indirectly interested;
+
+(c)
+
+the holdings of Securities in the Bidder (in the case of a Securities Exchange Bid only) and in the Target which any Person acting in concert with the Bidder owns or controls, together with the name of such Person acting in concert;
+
+(d)
+
+the holdings of Securities in the Bidder (in the case of a Securities Exchange Bid only) and in the Target owned or controlled by any Person who, prior to the posting of the Bid Document, has irrevocably committed himself to accept the Bid, together with the name of such Person.
+
+If in any of the above categories there are no holdings of Shares or Securities, this fact must be stated, provided that this does not apply to the category in A1.3.1(d) if there are no such irrevocable commitments.

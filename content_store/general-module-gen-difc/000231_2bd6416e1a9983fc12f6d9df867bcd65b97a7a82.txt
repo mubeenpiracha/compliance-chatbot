@@ -1,0 +1,19 @@
+Guidance
+
+The procedures in Schedule 3 of the Regulatory Law (providing for an affected person to be given an opportunity to make representations) apply to a DFSA decision to refuse an application for a Crypto Token to be a Recognised Crypto Token. However, no right is given under the Rules for an applicant to refer the final decision to the Financial Markets Tribunal.
+
+3A.3.6 (1)
+
+The DFSA may revoke the Recognised Crypto Token status of a Crypto Token if it is no longer satisfied of the matters set out in Rule 3A.3.4 in respect of the Crypto Token.
+
+(2)
+
+The DFSA may specify that the revocation is to take effect immediately or on a specified future date.
+
+(3)
+
+The procedures in Schedule 3 apply to a decision of the DFSA under (1) and in such a case the DFSA must give the following Persons an opportunity to make representations under those procedures:
+
+(a)
+
+the Person who applied for the Crypto Token to be a

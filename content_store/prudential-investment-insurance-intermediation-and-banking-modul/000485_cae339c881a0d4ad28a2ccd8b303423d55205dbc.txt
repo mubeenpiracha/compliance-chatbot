@@ -1,0 +1,19 @@
+Amortisation in the following situations:
+
+(a)
+
+replenishment structures where the underlying Exposures do not revolve and the Early Amortisation ends the ability of the Authorised Firm to add new Exposures;
+
+(b)
+
+where the risk associated with revolving assets containing amortisation features that mimic term structures, where the risk does not return to the Authorised Firm;
+
+(c)
+
+structures where the Authorised Firm securitises one or more credit lines and where investors remain fully exposed to future draws by borrowers so that the risk on the underlying facilities does not return to the Originator even after an Early Amortisation event has occurred; or
+
+(d)
+
+where the Early Amortisation clause is solely triggered by events not related to the performance of the Securitised assets or the Authorised Firm, such as material changes in tax laws or regulations.
+
+4.14.55 For an Authorised Firm subject to the Capital Requirement referred to in Rule 4.14.51, the maximum Credit RWA calculated under that Rule must not exceed the greater of the following:

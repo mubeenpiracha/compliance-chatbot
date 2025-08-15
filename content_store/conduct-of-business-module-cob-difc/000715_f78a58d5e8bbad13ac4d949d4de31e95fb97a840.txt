@@ -1,0 +1,7 @@
+Guidance
+
+1. The references to a “unique identifier” in Rule A7.2.13 are to letters, combination of letters, numbers or symbols that identify unambiguously a specific Payment Account or User.
+
+2. A credit line under Rule A7.2.4(1)(b)(iii) can only be provided if the Authorised Firm or the other person providing the credit line has the appropriate authorisation to Provide Credit, or it is incidental to, and in connection with, a Financial Service referred to in GEN Rule 2.5.2. In relation to User security credentials referred to in Rule A7.2.5, PIB Rule 6.13.3 sets out systems and controls an Authorised Firm must implement to maintain the integrity of User security credentials.
+
+2. A credit line under Rule A7.2.4(1)(b)(iii) can only be provided if the Authorised Firm or the other person providing the credit line has the appropriate authorisation to Provide Credit, or it is incidental to, and in connection with, a Financial Service referred to in GEN Rule 2.5.2. In relation to User security credentials referred to in Rule A7.2.5, PIB Rule 6.13.3 sets out systems and controls an Authorised Firm must implement to maintain the integrity of User security credentials.

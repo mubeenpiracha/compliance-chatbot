@@ -1,0 +1,11 @@
+Derivatives
+
+(1) The DFSA may exercise the Bail-In Tool in relation to a liability arising from a Derivative only to the extent it is an unsecured liability and when, upon or after closing-out that Derivative, there is a net liability which is an Eligible Liability.
+
+(2) The DFSA may terminate and close out any Derivative upon an Authorised Firm’s entry into Resolution for the purpose of realising an Eligible Liability that is to be subject to the Bail-In Tool under (1).
+
+(3) The DFSA may, where an Eligible Liability under a Derivative has been excluded from the application of the Bail-in Tool pursuant to Rule 3.4.1(5), terminate and close out the Derivative.
+
+(4) Where a Derivative is subject to a netting agreement, the value of the Eligible Liability for the purposes of the Pre-Resolution Valuation (or Provisional Valuation, if applicable) is to be determined on a net basis in accordance with the terms of the agreement.
+
+(5) The DFSA shall determine the value of Eligible Liabilities arising from a

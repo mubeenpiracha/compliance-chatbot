@@ -1,0 +1,15 @@
+Look through methods
+
+A5.7.5 An Authorised Firm may determine the Collective Investment Fund Risk Capital Requirement for positions in Funds, using the standard Collective Investment Fund look-through method, provided the relevant positions meet the criteria set out in Rule A5.7.6.
+
+A5.7.6 An Authorised Firm may use the standard Fund look-through method, only if the
+
+positions are in Funds which meet the following eligibility criteria:
+
+(a)
+
+the Fund’s prospectus or equivalent document must include:
+
+(i)
+
+the categories of assets the Fund is authorised to invest in;

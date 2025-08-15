@@ -1,0 +1,23 @@
+(iii)
+
+the Authorised Market Institution has adequate systems and controls in place to effectively monitor and enforce a Reporting Entity’s compliance with the requirements of MKT Chapter 9B; or
+
+(c)
+
+in the case of Derivatives (other than Crypto Token Derivatives), the instruments meet the contract design specifications in Rule 6.3.2.
+
+(4)
+
+An Authorised Market Institution must ensure that Crypto Tokens or Crypto Token Derivatives are admitted to trading or traded on an MTF it operates, or cleared and settled on a facility it operates, only if:
+
+(a)
+
+in the case of Crypto Tokens, the Crypto Tokens are Recognised Crypto Tokens; and
+
+(b)
+
+in the case of Crypto Token Derivatives:
+
+(i)
+
+the Crypto Tokens to which the Derivatives relate are

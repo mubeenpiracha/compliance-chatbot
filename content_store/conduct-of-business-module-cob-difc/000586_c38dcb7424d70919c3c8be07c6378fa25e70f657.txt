@@ -1,0 +1,33 @@
+the number of unauthorised or incorrectly executed transfers of Client Crypto Tokens;
+
+(b)
+
+the total value of transfers falling under (a);
+
+(c)
+
+the number and total value of transfers falling under (a) that have been reversed successfully; and
+
+(d)
+
+the total amount of compensation paid to Clients for unauthorised or incorrectly executed transfers of Client Crypto Tokens.
+
+(2)
+
+An Authorised Firm must provide the information in (1) within two weeks from the end of the relevant quarter.
+
+15.4.7 (1)
+
+An Authorised Firm that Provides Custody of Crypto Tokens may restrict or stop a Client’s access to its service only:
+
+(a)
+
+as explicitly set out in the Client Agreement; and
+
+(b)
+
+on reasonable grounds, including for example for valid security reasons or suspected unauthorised or fraudulent use of the service.
+
+(2)
+
+An Authorised Firm must restore access to the service, or offer another service, as soon as practicable after the reasons for restricting or stopping use of the service cease to be valid.

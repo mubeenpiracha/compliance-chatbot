@@ -1,0 +1,15 @@
+subordinated debt;
+
+(b)
+
+preference shares; and
+
+(c)
+
+ordinary shares issued by an Insurer to a Holding Company whose own paid-up ordinary share capital, taken together with its general reserves, is lower than that of the Insurer.
+
+A5.5.2 Hybrid non-cellular capital excludes any instrument that is attributable to a Cell.
+
+A5.5.3 Subject to Rule A5.5.4, an Insurer must calculate its hybrid non-cellular capital adjustment as the amount by which the total amount of hybrid non-cellular capital exceeds 15% of adjusted non-cellular equity.
+
+A5.5.4 The DFSA may at its discretion and on the application of an Insurer, permit that Insurer to apply Rule A5.5.3 as though the figure of 15% was replaced with a higher figure approved in writing by the DFSA. The approved figure may not be more than the actual percentage which the hybrid non-cellular capital represents of adjusted non-cellular equity, and may not in any case exceed 30%.

@@ -1,0 +1,27 @@
+Rule 4.6 (Stress testing of capital);
+
+(b)
+
+Rule 4.7.14 to 4.7.21 (Credit risk);
+
+(c)
+
+Rule 4.10 (Collateral and margin); and
+
+(d)
+
+Rule 4.12 (Segregation and portability).
+
+4.1.4
+
+A Recognised Clearing House may also act as a Trade Repository if its Recognition Order includes a stipulation permitting it to do so. Acting as a Trade Repository will result in it being subject to the additional conduct requirements in Appendix 2 of GEN.
+
+4.1.5
+
+A Recognised Clearing House may also conduct activities in relation to Accepted Virtual Assets if its Recognition Order includes a stipulation permitting it to do so. If it does include such a stipulation, the additional rules on Virtual Assets in COBS chapter 17 will apply to that function, but that function only.
+
+4.1.6
+
+A Recognised Clearing House may also conduct activities in relation to Accepted Spot Commodities if its Recognition Order includes a stipulation permitting it to do so. If it does include such a stipulation, the additional rules on Spot Commodities in COBS chapter 22 will apply to that function, but that function only.
+
+4.2

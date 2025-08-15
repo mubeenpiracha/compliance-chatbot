@@ -1,0 +1,9 @@
+a.
+
+the clear identification of each Direct Access Member accessing its facility to trade; and
+
+b.
+
+the monitoring of bid and offer prices and volatility for any indications of market manipulation or abuse.
+
+5B.3.3 When an Authorised Market Institution Executes a Transaction in Crypto Tokens for a Direct Access Member, the Authorised Market Institution must comply with the requirements relating to confirmation notes that would apply to an Authorised Firm under COB section 6.9 and COB App 3 section A3.1.

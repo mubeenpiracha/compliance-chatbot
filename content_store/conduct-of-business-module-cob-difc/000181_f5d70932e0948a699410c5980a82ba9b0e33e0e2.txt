@@ -1,0 +1,25 @@
+Aggregation of orders
+
+An Authorised Firm may aggregate an order for a Client with an order for other Clients or with an order for its own account only where:
+
+49
+
+COB/VER48/03-25
+
+CONDUCT OF BUSINESS (COB)
+
+(a)
+
+it is unlikely that the aggregation will operate to the disadvantage of any of the Clients whose Transactions have been aggregated;
+
+(b)
+
+the Authorised Firm has disclosed in writing to the Client that his order may be aggregated and that the effect of the aggregation may operate on some occasions to his disadvantage;
+
+(c)
+
+the Authorised Firm has made a record of the intended basis of allocation and the identity of each Client before the order is effected; and
+
+(d)
+
+the Authorised Firm has in place written standards and policies on aggregation and allocation which are consistently applied and should include the policy that will be adopted when only part of the aggregated order has been filled.

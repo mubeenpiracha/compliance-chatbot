@@ -1,0 +1,25 @@
+Guidance
+
+1.
+
+The requirements in Rules A9.2.2 to A9.2.4 are intended to ensure that the stock of HQLA is managed in such a way that the Authorised Firm can, and is able to demonstrate that it can, immediately use the assets as a source of contingent funds that is available to convert into cash
+
+386
+
+PIB/VER50/07-25
+
+A9.2.5
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+to fill funding gaps between cash inflows and outflows at any time during the 30-day stress period, with no restriction on the use of the liquidity generated.
+
+2.
+
+Under Rule A9.2.3(a), the control of the HQLA may be evidenced either by:
+
+(a) maintaining assets in a separate pool managed by the identified liquidity management function (typically the treasurer) with the sole intent to use it as a source of contingent funds; or
+
+(b)
+
+demonstrating that the relevant function can monetise the asset at any point in the 30- day stress period and that the proceeds are available to the function throughout the 30- day stress period without directly conflicting with a stated business or risk management strategy.

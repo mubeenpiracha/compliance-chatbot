@@ -1,0 +1,13 @@
+investment which
+
+Has the meaning given in GEN Rules 2.29.1(4) and (6).
+
+A Person who is authorised under a Licence to Operate an Investment Crowdfunding Platform.
+
+An electronic platform or a facility referred to in GEN Rule 2.29.1(4) or (6).
+
+A Person who, acting only on behalf of a Client:
+
+(a) manages Investments or Crypto Tokens in an account or portfolio on a discretionary basis under the terms of a discretionary management agreement; or
+
+(b) manages Investments or Crypto Tokens in an account or portfolio on a non-discretionary basis under terms of a non-discretionary management agreement.

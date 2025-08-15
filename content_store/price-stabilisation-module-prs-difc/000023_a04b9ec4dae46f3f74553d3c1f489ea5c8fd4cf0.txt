@@ -1,0 +1,33 @@
+4.3 Post Price Stabilisation Disclosure
+
+4.3.1
+
+If a Stabilisation Manager has conducted Price Stabilisation during the Stabilisation Window, then he must, within 2 business days following a Price Stabilisation transaction, disclose to the DFSA the following details:
+
+(a)
+
+the total number of Eligible Securities transacted by the Stabilisation Manager and any Stabilisation Agents;
+
+(b)
+
+the average price of Eligible Securities transacted during the Price Stabilisation;
+
+(c)
+
+whether a Price Stabilisation transaction was undertaken otherwise than through the central order book of the relevant Authorised Market Institution;
+
+(d)
+
+if the Stabilisation Manager has an outstanding short position, the number of Eligible Securities in that short position; and
+
+9
+
+PRS/VER7/04-18
+
+4.3.2
+
+PRICE STABILISATION (PRS)
+
+(e)
+
+any additional information which the DFSA requires the Stabilisation Manager to disclose.

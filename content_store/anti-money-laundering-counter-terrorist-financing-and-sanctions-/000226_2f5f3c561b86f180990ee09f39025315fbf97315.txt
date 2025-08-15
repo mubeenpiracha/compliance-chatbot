@@ -1,0 +1,27 @@
+a.
+
+the DFSA or another competent authority is able to assess the Relevant Person’s compliance with legislation applicable in the DIFC;
+
+b.
+
+any transaction which was processed by or through the Relevant Person on behalf of a customer or other third party can be reconstructed;
+
+c.
+
+any customer or third party can be identified; and
+
+68
+
+AML/VER27/03-25
+
+Anti-Money Laundering, Counter-Terrorist Financing and Sanctions Module (AML)
+
+d.
+
+the Relevant Person can satisfy without delay any regulatory enquiry or court order to disclose information.
+
+4.
+
+The DFSA would ordinarily expect a Relevant Person to be able to provide a copy of a record or assessment referred to in Rule 14.4.1 or 14.4.2 within 24 hours of a request by the DFSA. However, if a request is complex or if records are kept outside the DIFC as set out in Rule 14.4.3, the DFSA may allow further time to comply with the request.
+
+14.4.3 Where the records referred to in Rule 14.4.1 are kept by the Relevant Person

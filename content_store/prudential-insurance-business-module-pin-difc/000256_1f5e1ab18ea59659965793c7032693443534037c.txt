@@ -1,0 +1,69 @@
+(l) Other bonds and loans
+
+50.0
+
+(b)
+
+Assets that are not Invested Assets
+
+73
+
+PIN/VER18/04-23
+
+PRUDENTIAL – INSURANCE BUSINESS (PIN)
+
+Asset
+
+%
+
+(a) Reinsurance recoverable from:
+
+(i)
+
+reinsurers Rated ‘AAA’
+
+0.5
+
+(ii)
+
+reinsurers Rated ‘AA’
+
+1.2
+
+(iii)
+
+reinsurers Rated ‘A’
+
+1.9
+
+(iv)
+
+reinsurers Rated ‘BBB’
+
+4.7
+
+(v)
+
+reinsurers Rated ‘BB’
+
+9.6
+
+(vi)
+
+reinsurers Rated ‘B’
+
+23.8
+
+(vii)
+
+reinsurers Rated ‘CCC’
+
+49.7
+
+(viii) reinsurers Rated ‘R’
+
+50.0
+
+(ix) other reinsurers
+
+25.0

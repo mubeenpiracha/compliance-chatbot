@@ -1,0 +1,15 @@
+c.
+
+for certain transaction-related contingent items (e.g. performance bonds, bid bonds, warranties, and standby letters of credit related to particular transactions) the Exposure value should be the notional amount for the item multiplied by a CCF of 50%;
+
+d.
+
+for note issuance facilities and revolving underwriting facilities, the Exposure value should be the notional amount for the item multiplied by a CCF of 50%;
+
+e.
+
+for other off-balance sheet items, including:
+
+i.
+
+direct credit substitutes;

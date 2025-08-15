@@ -1,0 +1,13 @@
+(b)
+
+'AAA'-Rated Governments and counterparties.
+
+'AAA'-Rated Government agencies are not
+
+A4.8.3 An Insurer must calculate its concentration risk component as the sum of the amounts obtained by applying to each investment exposure that exceeds 10% of the Insurer's Adjusted Capital Resources the relevant formula set out in the following table, subject to Rule A4.8.4.
+
+Exposure expressed as a percentage of adjusted capital resources
+
+Formula to determine concentration risk component
+
+(a) Over 10 up to 25

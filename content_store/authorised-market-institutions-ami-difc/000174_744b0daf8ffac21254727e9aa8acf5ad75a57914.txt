@@ -1,0 +1,29 @@
+Publication of key features document
+
+(1)
+
+An Authorised Market Institution must not permit a Crypto Token to be traded on an MTF it operates unless the Authorised Market Institution has published a key features document on its website for the Crypto Token.
+
+(2)
+
+The key features document must contain the information set out in COB Rule 15.3.1.
+
+Dissemination of a white paper
+
+If an Authorised Market Institution publishes a white paper relating to a Crypto Token or disseminates or makes the white paper available to its Members or other users of its facilities, it must:
+
+(a)
+
+take reasonable steps to ensure that the version of the white paper is the latest version;
+
+(b)
+
+identify the authors of the white paper, if known, and when it was published; and
+
+(c)
+
+disclose prominently that:
+
+(i)
+
+it has not prepared the white paper or verified the accuracy of information in the white paper; and

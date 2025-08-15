@@ -1,0 +1,19 @@
+Business continuity and disaster recovery
+
+5.3.23 (1)
+
+An Authorised Person must have in place adequate arrangements to ensure that it can continue to function and meet its obligations under the legislation applicable in the DIFC in the event of an unforeseen interruption.
+
+(2)
+
+These arrangements must be kept up to date and regularly tested to ensure their effectiveness.
+
+Guidance
+
+1.
+
+In considering the adequacy of an Authorised Person’s business continuity arrangements, the DFSA will have regard to the Authorised Person’s management of the specific risks arising from interruptions to its business including its crisis management and disaster recovery plans.
+
+2.
+
+The DFSA expects an Authorised Person to have:

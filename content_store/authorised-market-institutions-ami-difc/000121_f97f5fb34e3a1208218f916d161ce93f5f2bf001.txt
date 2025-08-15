@@ -1,0 +1,25 @@
+Investment criteria
+
+(1)
+
+An Authorised Market Institution must have clear and objective criteria (“investment criteria”) included in its Business Rules according to which Investments or Crypto Tokens can be admitted to trading, or traded, on its facilities, or cleared and settled on its facilities, or both, as relevant to its operations. The investment criteria must include the requirements in (2), (3) and (4) as relevant.
+
+(2)
+
+An Authorised Market Institution must ensure that Investments are admitted to trading or traded on an Exchange it operates only if:
+
+(a)
+
+in the case of Securities, the Securities are admitted to the Official List of Securities; and
+
+(b)
+
+in the case of Derivative contracts (other than Crypto Token Derivatives), the contracts meet the contract design specifications in Rule 6.3.2.
+
+(3)
+
+An Authorised Market Institution must ensure that only Investments which meet the requirements in (a), (b) or (c) are traded on an MTF it operates:
+
+(a)
+
+in the case of Securities, the Securities are admitted to trading on a Regulated Exchange in a jurisdiction acceptable to the DFSA; and

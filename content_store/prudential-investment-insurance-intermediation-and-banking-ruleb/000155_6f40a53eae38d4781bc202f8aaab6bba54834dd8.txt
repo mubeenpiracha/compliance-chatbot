@@ -1,0 +1,33 @@
+Money Remitters
+
+3.6A.2
+
+A Money Remitter must calculate its Variable Capital Requirement as the sum of the following:
+
+(a)
+
+1.25% of the first $10 million of monthly payment volume;
+
+(b)
+
+0.5% of the next $90 million of monthly payment volume;
+
+(c)
+
+0.25% of the next $150 million of monthly payment volume; and
+
+(d)
+
+0.125% of any remaining monthly payment volume.
+
+58
+
+PRU VER17.290725
+
+3.6A.3
+
+(1)
+
+Subject to (2), monthly payment volume for a Money Remitter must be calculated as the total value of funds remitted by the Authorised Person in its preceding financial year divided by twelve.
+
+(2) Where the Authorised Person has not completed a full financial year following its authorisation, the monthly payment volume must be calculated using the value of realised funds remitted since its authorisation and the projections contained in its business plan for the remainder of the financial year, subject to any adjustments required by the Regulator.

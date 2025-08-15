@@ -1,0 +1,15 @@
+(b)
+
+for transactions allocated to the foreign exchange asset class a separate hedging set must be formed for all transactions that are based on the same currency pair;
+
+(c)
+
+all transactions allocated to the credit asset class must form a single hedging set;
+
+(d) all transactions allocated to the equity asset class must form a single hedging
+
+set;
+
+(e)
+
+for transactions allocated to the commodities asset class a separate hedging set must be formed for each of the following four broad categories:

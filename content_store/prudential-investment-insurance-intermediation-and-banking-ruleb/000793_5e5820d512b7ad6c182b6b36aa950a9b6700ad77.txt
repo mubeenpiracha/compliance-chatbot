@@ -1,0 +1,21 @@
+the Security.
+
+A4.6.3 When calculating its Credit RWA, an Authorised Person must not include RWA arising
+
+from a transaction if it is a negative amount.
+
+A4.6.4
+
+CRW counterparty weighting for an OTC Derivative is 50%.
+
+is applied
+
+in accordance with Section A4.3 except that the maximum
+
+Unsettled Transactions
+
+A4.6.5
+
+An Authorised Person must calculate the Credit RWA for transactions in which debt instruments, equities, foreign currencies and commodities (excluding repos, reverse repos and Securities or commodities lending/borrowing) remain unsettled after their due delivery dates, using the following formula:
+
+Credit RWA = E x the appropriate percentage from the second column in the table below:

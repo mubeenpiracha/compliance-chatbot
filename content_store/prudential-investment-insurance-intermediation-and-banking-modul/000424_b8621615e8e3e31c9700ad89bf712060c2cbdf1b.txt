@@ -1,0 +1,19 @@
+Guidance
+
+1.
+
+Rule 4.13.9(2)(e) does not include any guarantee with a cancellation clause where it is provided that any obligation incurred or transaction entered into prior to any cancellation, unilateral or otherwise, continues to be guaranteed by the guarantor.
+
+135
+
+PIB/VER50/07-25
+
+PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
+
+2.
+
+The guarantee payments may be in the form of the guarantor making a lump sum payment of all monies to the Authorised Firm or the guarantor assuming the future payment obligations of the Counterparty covered by the guarantee, as specified in the relevant documentation governing the guarantee.
+
+3.
+
+Prudentially regulated financial institutions in Rule 4.13.9(3) include prudentially regulated insurance companies, broker/dealers, thrifts and futures commission merchants, and Qualifying CCPs.

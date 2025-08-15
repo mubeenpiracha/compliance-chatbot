@@ -1,0 +1,23 @@
+MDB
+
+The amount expressed as a percentage value that is calculated in accordance with Rule 9.3.4 and section A10.2 of App10.
+
+For the purposes of liquidity, an assessment of the short-term liquidity of an Authorised Person.
+
+The risk that an Authorised Person, although solvent, either does not have available sufficient financial resources to enable it to meet its obligations as they fall due, or can secure such resources only at excessive cost.
+
+Means the Regulated Activity specified in paragraph 59 of Schedule 1 of FSMR.
+
+Means the Regulated Activity specified in paragraph 64(2) of Schedule 1 of FSMR.
+
+Means the Regulated Activity specified in paragraph 56 of Schedule 1 of FSMR.
+
+Means a type of Professional Client specified under COBS 2.5.
+
+The risk of loss that arises from fluctuations in the values of assets or in interest or exchange rates.
+
+The requirement calculated in accordance with Rule 5.3.1.
+
+Has the meaning described in Rule 1.3.3(2).
+
+A table that ordinally ranks the maturity time bands and assets and liabilities within them.

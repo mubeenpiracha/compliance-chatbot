@@ -1,0 +1,15 @@
+3.3.11
+
+Where a Recognised Investment Exchange determines that a participant or Member has exceeded any position limit, the Recognised Investment Exchange must subject the participant or Member to one or more of the following conditions so as to correct the participant’s or Member’s position;
+
+(a)
+
+a restriction on any further increase in the participant’s or Member’s positions;
+
+(b)
+
+a requirement to liquidate the participant’s or Member’s positions to comply with the position limit, within such time as the Recognised Investment Exchange may determine; or
+
+(c)
+
+such other trading conditions and restrictions as the Recognised Investment Exchange may consider necessary to ensure compliance with the relevant position limit.

@@ -1,0 +1,9 @@
+The Fund Manager should set a percentage or absolute limit for certain key elements of the valuation, such that any movement outside these limits is investigated. The process for the investigation and a report of its outcome should be in writing and evidenced by an appropriate signature. These key elements could, where relevant, include the movement of the overall price of the Fund against relevant markets, the movement of the prices and values of individual stocks, changes in currency rates, and accrual figures for income, expenses, and tax. In addition, prices which appear not to have changed after a fixed period of time should be investigated, since this may be the result of a price movement having been missed.
+
+19.
+
+Cash should be reconciled to the bank account regularly, with outstanding items promptly followed up, and a full reconciliation sent to the trustee or depositary monthly.
+
+20.
+
+Controls should be in place to ensure that the correct number of Units in issue is recorded at each valuation point. This should be reconciled with the Unitholder register at least monthly.

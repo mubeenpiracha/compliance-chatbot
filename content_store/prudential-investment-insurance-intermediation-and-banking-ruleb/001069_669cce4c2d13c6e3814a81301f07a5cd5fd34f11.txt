@@ -1,0 +1,25 @@
+where:
+
+KSA=
+
+the capital charge under the Standardised Approach
+
+GI1-8 =
+
+annual gross income in a given year, as defined above in the Basic Indicator Approach, for each of the eight business lines
+
+B1-8 =
+
+a fixed percentage, termed a “beta factor”, for each of the eight business lines, set out in Rule A7.2.3.
+
+A7.2.3
+
+An Authorised Person which uses the Standardised Approach must calculate its Operational Risk Capital Requirement using the following beta factors:
+
+Business Line Corporate finance Trading and sales Retail banking Commercial banking Payment and settlement Agency services
+
+Beta factor 18% 18% 12% 15% 18% 15%
+
+390
+
+PRU VER17.290725

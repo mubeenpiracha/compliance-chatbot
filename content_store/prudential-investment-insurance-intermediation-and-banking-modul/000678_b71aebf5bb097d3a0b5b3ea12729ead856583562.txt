@@ -1,0 +1,25 @@
+m.
+
+intra-day payment and settlement risk.
+
+2. Market-wide stress scenarios under 9.2A.3(2)(a) should include:
+
+a.
+
+a simultaneous drying up of market liquidity in several previously highly liquid markets;
+
+b.
+
+severe constraints in accessing secured and unsecured funding;
+
+c.
+
+restrictions on currency convertibility; and
+
+d.
+
+severe operational or settlement disruptions affecting one or more payment or settlement systems.
+
+3.
+
+The identification of the possible balance sheet and off-balance sheet impact referred to in Rule 9.2A.3(2)(b) should take into account:

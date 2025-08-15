@@ -1,0 +1,23 @@
+Treatment of commodity Derivatives
+
+A6.5.3
+
+An Authorised Person must:
+
+(a)
+
+incorporate all Futures and forward contracts relating to individual commodities in the measurement system as notional amounts and assigned a maturity with reference to the expiry date;
+
+(b)
+
+incorporate commodity swaps where one leg is a fixed price and the other the current market price as a series of positions equal to the notional amount of the contract, with one position corresponding to each payment on the swap and slotted into the Maturity Ladder accordingly. The positions will be long positions if the Authorised Person is paying fixed and receiving floating, and short positions if the Authorised Person is receiving fixed and paying floating; and
+
+(c)
+
+incorporate commodity swaps where the legs are in different commodities in the relevant Maturity Ladder. No offsetting will be allowed in this regard except where the commodities belong to the same sub-category.
+
+A6.5.4
+
+(1)
+
+Subject to (2), an Authorised Person must not net positions in different commodities for the purpose of calculating open positions.

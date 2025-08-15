@@ -1,0 +1,45 @@
+Less than 5
+
+7,500
+
+Over 5 to 25
+
+15,000
+
+Over 25 to 100
+
+55,000
+
+Over 100 to 500
+
+150,000
+
+Over 500
+
+370,000
+
+Guidance
+
+1. Where a Bidder issues a revised Bid Document that increases the value of the Bid, the DFSA will require payment of the difference between the fee that would be applicable under the table in Rule 5.1.1 (4) in respect of the value of the revised Bid, and the fee previously paid in respect of the value of the initial Bid.
+
+27
+
+FER/VER33/07-25
+
+5.1.2
+
+FEES MODULE (FER)
+
+2.
+
+In relation to the giving of an estimated value of any unlisted Securities consideration, see TKO Rule 1.4.1 (m).
+
+In all cases a note setting out the calculation of the fee must accompany the Bid Document provided to the DFSA. If the Bid is revised, a similar note must be provided with the revised Bid Document and any necessary further payment.
+
+28
+
+FER/VER33/07-25
+
+FEES MODULE (FER)
+
+6
