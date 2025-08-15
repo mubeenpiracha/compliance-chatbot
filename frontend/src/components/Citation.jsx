@@ -3,7 +3,7 @@ import { motion, AnimatePresence } from 'framer-motion';
 import { DocumentTextIcon, XMarkIcon, BookOpenIcon } from '@heroicons/react/24/outline';
 import { SparklesIcon } from '@heroicons/react/24/solid';
 
-const Citation = ({ source, chunk_id, chunkId, section, jurisdiction, onClose }) => {
+const Citation = ({ source, filename, chunk_id, chunkId, section, jurisdiction, onClose }) => {
   const [content, setContent] = useState(null);
   const [loading, setLoading] = useState(true);
 
@@ -11,6 +11,7 @@ const Citation = ({ source, chunk_id, chunkId, section, jurisdiction, onClose })
     // Log all available props for debugging
     console.log("Citation component loaded with props:", { 
       source, 
+      filename,
       chunk_id, // This is likely the correct property name based on backend code
       chunkId, 
       section, 
@@ -59,9 +60,9 @@ const Citation = ({ source, chunk_id, chunkId, section, jurisdiction, onClose })
       
       // Check if there's a filename that might contain the chunk ID
       // This handles cases where the ID is embedded in a filename like: "000051_f3cec8b054129bdb09baa5df34200320f9eebd50.txt"
-      const filename = source?.filename || '';
-      if (filename && filename.includes('_')) {
-        const parts = filename.split('_');
+      const sourceFilename = filename || source?.filename || '';
+      if (sourceFilename && sourceFilename.includes('_')) {
+        const parts = sourceFilename.split('_');
         if (parts.length > 1) {
           const extractedId = parts[1].replace('.txt', '');
           console.log("Extracted chunk ID from filename:", extractedId);
@@ -98,14 +99,14 @@ const Citation = ({ source, chunk_id, chunkId, section, jurisdiction, onClose })
       
       // If we get here, we couldn't find any content
       console.error("Could not find chunk ID or content in any property", { 
-        source, chunk_id, chunkId, section, jurisdiction
+        source, filename, chunk_id, chunkId, section, jurisdiction
       });
       
       // Set a useful message for the user instead of leaving the panel empty
       setContent("Source details available, but content could not be retrieved. This could be due to a missing chunk identifier.");
       setLoading(false);
     }
-  }, [chunkId, chunk_id, source, section, jurisdiction]);
+  }, [chunkId, chunk_id, source, filename, section, jurisdiction]);
 
   const closeSidebar = () => {
     if (onClose) onClose();
@@ -153,9 +154,9 @@ const Citation = ({ source, chunk_id, chunkId, section, jurisdiction, onClose })
                 animate={{ opacity: 1, y: 0 }}
                 transition={{ delay: 0.1 }}
                 className="font-bold text-gray-900 dark:text-gray-100 text-lg leading-tight bg-gradient-to-r from-gray-900 to-gray-700 dark:from-gray-100 dark:to-gray-300 bg-clip-text text-transparent" 
-                title={source}
+                title={filename || source}
               >
-                {source}
+                {filename || source || 'Unknown Document'}
               </motion.div>
               <motion.div 
                 initial={{ opacity: 0, y: 10 }}

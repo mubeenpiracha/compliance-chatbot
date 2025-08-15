@@ -43,6 +43,7 @@ class AgentService:
                 "filename": r['metadata'].get('title', 'Unknown Document'),
                 "page_number": r['metadata'].get('page_number', 'N/A'),
                 "chunk_number": r['metadata'].get('chunk_number', 'N/A'),
+                "chunk_id": r['metadata'].get('checksum'),  # Use checksum from Pinecone metadata
                 "score": r.get('score', 0.0),
                 "section": r['metadata'].get('section', ''),
                 "jurisdiction": r['metadata'].get('jurisdiction', ''),

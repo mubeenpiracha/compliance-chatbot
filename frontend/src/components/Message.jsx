@@ -41,11 +41,16 @@ const Message = React.memo(({ message, darkMode, onCitationClick }) => {
               console.log(`Citation ${num} source:`, source);
               return (
                 <button
-                  className="inline-flex items-center gap-1 text-blue-600 dark:text-blue-400 hover:text-blue-700 dark:hover:text-blue-300 px-2 py-0.5 rounded bg-blue-100 dark:bg-blue-950 hover:bg-blue-200 dark:hover:bg-blue-900 border border-blue-300 dark:border-blue-700 text-xs font-semibold shadow-md cursor-pointer"
-                  title={`View source: ${source.title} - ${source.jurisdiction}`}
+                  className="inline-flex items-center gap-1 text-blue-600 dark:text-blue-400 hover:text-blue-700 dark:hover:text-blue-300 px-2 py-0.5 rounded bg-blue-100 dark:bg-blue-950 hover:bg-blue-200 dark:hover:bg-blue-900 border border-blue-300 dark:border-blue-700 text-xs font-semibold shadow-md cursor-pointer max-w-xs"
+                  title={`View source: ${source.filename || source.title || 'Unknown Document'} - ${source.jurisdiction}`}
                   onClick={() => onCitationClick(source)}
                 >
-                  [{num}]
+                  <span className="flex items-center gap-1">
+                    <span>[{num}]</span>
+                    <span className="truncate text-xs opacity-75">
+                      {source.filename || source.title || 'Unknown'}
+                    </span>
+                  </span>
                 </button>
               );
             }

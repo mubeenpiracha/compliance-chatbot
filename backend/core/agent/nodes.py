@@ -181,6 +181,7 @@ async def execute_search(state: AgentState) -> Dict[str, Any]:
                         'section': doc.source.section,
                         'authority_level': doc.source.authority_level,
                         'jurisdiction': doc.source.jurisdiction,
+                        'checksum': doc.source.chunk_id,  # chunk_id contains the checksum from Pinecone
                         'source_collection': doc.source.document_id.split('_')[0],
                         'retrieval_method': 'vector',
                         'query_description': search_query.description
@@ -199,6 +200,7 @@ async def execute_search(state: AgentState) -> Dict[str, Any]:
                         'section': doc.source.section,
                         'authority_level': doc.source.authority_level,
                         'jurisdiction': doc.source.jurisdiction,
+                        'checksum': doc.source.chunk_id,  # chunk_id contains the checksum from Pinecone
                         'source_collection': doc.source.document_id.split('_')[0],
                         'retrieval_method': 'keyword',
                         'query_description': search_query.description
