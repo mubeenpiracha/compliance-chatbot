@@ -1,9 +1,0 @@
-Guidance
-
-The notification made to the Regulator under (a) should include, inter alia, amounts of assets subject to securitisation, amounts retained, details of securitisation including legal structure, rating, tranches, details of legal transfer and any CRM applied and implications on the capital and liquidity position on the Authorised Person.
-
-Calculation of Credit RWA arising from securitisations
-
-4.14.8
-
-An Authorised Person must calculate the Credit RWA amounts for Exposures arising from securitisations according to the requirements in this Section.

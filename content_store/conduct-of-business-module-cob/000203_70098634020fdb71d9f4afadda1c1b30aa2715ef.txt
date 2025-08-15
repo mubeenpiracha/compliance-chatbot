@@ -1,9 +1,0 @@
-6.12 Client money
-
-6.12.1 All Money held or controlled on behalf of a Client in the course of, or in connection with, the carrying on of Investment Business, the Operation of a Crowdfunding Platform, Providing Money Services or Crypto Business, in or from the DIFC is Client Money, except Money which is:
-
-(a)
-
-held by the Authorised Firm as a Bank in an account with itself, provided the Authorised Firm notifies the Client in writing that the Client Money is held by it as a Bank and not in accordance with this chapter;
-
-(b)

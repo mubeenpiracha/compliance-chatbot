@@ -1,9 +1,0 @@
-Monetisation of assets during periods of stress
-
-9.3.8 During a period of financial or liquidity stress, an Authorised Firm may monetise part of its stock of HQLA and use the cash generated to cover cash outflows. Its level of HQLA may fall below the levels required under its LCR Requirement and Rule 9.3.7 to the extent necessary to deal with cash outflows during that period.
-
-Notification if LCR Requirement not met
-
-9.3.9
-
-An Authorised Firm must notify the DFSA in writing immediately if it does not meet, or becomes aware of circumstances that may result in it not meeting, its LCR Requirement (including during a period of stress referred to in Rule 9.3.8).

@@ -1,9 +1,0 @@
-a.
-
-the model should incorporate a set of risk factors corresponding to the interest rates in each currency in which the Authorised Person has interest rate sensitive on or off balance sheet positions. The Authorised Person should model the yield curves using one of a number of generally accepted approaches, for example, by estimating forward rates of zero-coupon yields. For material Exposures to interest-rate risk in the major currencies and markets, the yield curve should be divided into a minimum of six maturity segments, to capture the variations of volatility of rates along the yield curve. The model should also capture the risk of less than perfectly correlated movements between different yield curves. The risk measurement system should incorporate separate risk factors to capture spread risk, for example, between bonds and swaps;
-
-375
-
-PRU VER17.290725
-
-6.

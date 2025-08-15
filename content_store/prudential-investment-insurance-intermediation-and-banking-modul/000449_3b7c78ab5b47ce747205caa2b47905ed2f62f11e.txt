@@ -1,3 +1,0 @@
-4.14.4 An Authorised Firm must have appropriate policies and procedures to ensure that the economic substance of the transaction is fully reflected in the process of managing the risks arising from such transactions. An Authorised Firm must have appropriate policies and procedures in place to document its systems and controls in relation to securitisation risks. These policies should include details on the capital effects of the securitisation as set out in this chapter.
-
-4.14.5 An Authorised Firm must conduct periodic stress tests in relation to its securitisation activities and off balance sheet Exposures, including testing of future ability to transact securitisation as a means of Credit Risk mitigation or for liquidity purposes.

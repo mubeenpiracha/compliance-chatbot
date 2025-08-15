@@ -1,3 +1,0 @@
-A Relevant Person should maintain up-to-date lists of Jurisdictions Under Increased Monitoring and Jurisdictions Subject to a Call for Action and screen against them for potential exposure as part of CDD. Customer exposure to jurisdictions appearing on these lists should be taken into account when developing and applying risk-based measures relating to CDD. Customers exposed to such jurisdictions may present higher money laundering risks and specific counter-measures including Enhanced CDD may be required.
-
-8.4

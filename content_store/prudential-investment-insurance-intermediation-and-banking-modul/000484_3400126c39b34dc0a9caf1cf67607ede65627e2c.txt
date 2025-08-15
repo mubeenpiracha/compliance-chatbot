@@ -1,5 +1,0 @@
-Guidance
-
-Examples of such triggers include tax events, legal changes resulting in an Authorised Firm’s non- performance in its role as a servicing agent, and triggers relating to the insolvency of the Originator.
-
-4.14.54 An Authorised Firm is not required to calculate a Capital Requirement for Early

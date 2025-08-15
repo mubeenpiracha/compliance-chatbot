@@ -1,9 +1,0 @@
-Guidance
-
-1.
-
-A Non-Fungible Token (NFT) is a Token that relates to an identified asset such as art, music, a collectable item, intellectual property relating to an object or some other specific asset. To fall within the definition in Rule A2.5.3 the Token must be unique and not fungible with another Token. Therefore, if a particular type of Token is issued to multiple persons or relates to several different assets, it is unlikely to qualify as a NFT under Rule A2.5.3 and therefore will not be an Excluded Token under Rule 2.5.2. If it is not a NFT, as defined, it is likely to fall within the definition of a Crypto Token or may, depending on the arrangements, constitute a Collective Investment Fund (in which case the Token will be a Unit of that Fund).
-
-2.
-
-The DFSA will take a substance over form approach in considering whether a Token that calls itself a NFT is in fact a NFT under the above definition. If it is not a NFT, as defined, and is a Crypto Token, a person should not carry out a Financial Service relating to that Token unless they are licensed to do so, and it is a Recognised Crypto Token.

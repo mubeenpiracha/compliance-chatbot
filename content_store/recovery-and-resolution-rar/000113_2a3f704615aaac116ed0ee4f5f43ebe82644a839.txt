@@ -1,9 +1,0 @@
-(3) Where the DFSA reduces to zero the principal amount of, or outstanding amount payable in respect of, a liability by means of the Write Down or Conversion Power, that liability and any obligations, rights or claims arising in relation to it that are not accrued at the time when the power is exercised are fully discharged for all purposes in relation to the Authorised Firm in Resolution or any successor entity in any subsequent winding up.
-
-(4) Where the DFSA reduces in part, but not in full, the principal amount of, or outstanding amount payable in respect of, a liability by means of the Write Down or Conversion Power:
-
-(a)
-
-the liability, and the counterparty's corresponding claim, is discharged to the extent of the amount reduced; and
-
-(b)

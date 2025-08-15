@@ -1,5 +1,0 @@
-21.1 Application
-
-21.1.1 This chapter applies to an Authorised Person conducting the Regulated Activity of Administering a Specified Benchmark or the Regulated Activity of Providing Information in Relation to a Specified Benchmark.
-
-21.1.2 In addition to the general requirements applicable to Authorised Persons set out elsewhere in the Rules, an Authorised Person carrying on the Regulated Activity of Administering a Specified Benchmark (for the purposes of this chapter, a “Benchmark Administrator”) or an Authorised Person carrying on the Regulated Activity of Providing Information in Relation to a Specified Benchmark (for the purposes of this chapter, a “Specified Benchmark Information Provider”) must comply with this chapter, as applicable.

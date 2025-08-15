@@ -1,5 +1,0 @@
-Guidance
-
-1. The DFSA will, in assessing if it should designate an Authorised Firm as a D-SIB, take into account the factors suggested by the Basel Committee in its framework for domestic systemically important banks. Those factors include the size, interconnectedness, substitutability and complexity of the firm. The DFSA will publish the general assessment methodology it applies in assessing if it should designate a firm as a D-SIB.
-
-2. The DFSA may designate an Authorised Firm as a D-SIB whether it is a Domestic Firm or a Branch. However, the measures that apply to a D-SIB that is a Branch will be less extensive than those that apply to a D-SIB that is a Domestic Firm. For example, while both are subject to more intensive supervision, a D-SIB that is a Branch will not be subject to the HLA Capital Buffer Requirement. This is because most capital requirements in chapter 3 do not apply to a Branch as it is subject to capital requirements applied by its home state regulator. Procedures for designating SIBs

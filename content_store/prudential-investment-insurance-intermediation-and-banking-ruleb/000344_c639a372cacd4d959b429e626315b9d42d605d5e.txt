@@ -1,3 +1,0 @@
-4.9.20
-
-An Authorised Person which has taken eligible financial Collateral for an SFT that is covered by a qualifying bilateral Netting agreement and using the FCCA, must calculate E* for all its CR Exposures to any single Counterparty covered by the qualifying bilateral Netting agreement, in accordance with Rules A4.3.2 to A4.3.6 in App4 (if the Authorised Person is using supervisory haircuts or own-estimate haircuts), and substitute E* for E when calculating the Credit Risk-weighted Exposure amount for its CR Exposures to that Counterparty under Section 4.8.

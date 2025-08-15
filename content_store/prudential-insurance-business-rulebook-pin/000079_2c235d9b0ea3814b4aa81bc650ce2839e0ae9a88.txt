@@ -1,9 +1,0 @@
-Guidance
-
-The liability referred to in Rule 5.4.8 is commonly referred to as the liability for outstanding claims. Some insurers represent this liability as three separate provisions: the liability in respect of reported claims; the liability in respect of claims incurred but not reported; and the liability in respect of settlement costs, also known as loss adjustment expenses.
-
-5.4.9 An Insurer must treat as an asset the value of reinsurance and other recoveries expected to be received in respect of claims referred to in Rules 5.4.7 and 5.4.8 in accordance with International Financial Reporting Standards.
-
-5.4.10 Where an Insurer is required to recognise a liability associated with the value of expected future payments, that liability must be measured as the net present value of those expected future payments.
-
-5.4.11 Where an Insurer is required to recognise an asset arising from expected future receipts, that asset must be measured as the net present value of those expected future receipts.

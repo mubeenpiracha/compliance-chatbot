@@ -1,7 +1,0 @@
-about the issuer of the Fiat-Referenced Token;
-
-(b) about the Fiat-Referenced Token including, but not limited to, the rights of the holder of a token and the responsibilities of the issuer of same, including, but not limited to:
-
-(i)
-
-redemption rights at par, rights to interest or other time-based payments; and

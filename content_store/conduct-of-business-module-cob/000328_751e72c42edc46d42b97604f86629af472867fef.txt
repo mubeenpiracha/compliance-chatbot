@@ -1,5 +1,0 @@
-4.
-
-A Credit Rating Agency should separate operationally its Credit Rating Activities from any ancillary services it provides in accordance with Rule 8.5.2(3). For example, Rating Analysts and other key individuals involved in Credit Rating Activities should not also be involved in the provision of such services.
-
-5. Where a Group member provides to a Rating Subject of a Credit Rating Agency any ancillary services, the Credit Rating Agency and the Group member should not share Employees or premises to ensure operational separation.

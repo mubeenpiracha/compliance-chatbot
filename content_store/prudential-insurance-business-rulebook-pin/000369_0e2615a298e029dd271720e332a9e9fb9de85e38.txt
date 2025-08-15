@@ -1,5 +1,0 @@
-Guidance
-
-This Rule establishes accounting policy in respect of transactions between reporting units. Internal recharges within an Insurer should be shown as such where they are external to a reporting unit of that Insurer. However, where a reporting unit (for example, the Global Return of an Insurer that is not a Cell Company, and that maintains one or more Long-Term Insurance Funds) includes both 'sides' of the internal transaction, the internal transaction must be eliminated by netting the income and expense.
-
-A10.4

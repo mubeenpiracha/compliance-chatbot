@@ -1,9 +1,0 @@
-provided the guarantee meets the requirements of section 4.13 (Credit Risk mitigation), and would be assigned a lower risk weight under section 4.12, treat that portion of the Exposure which is guaranteed as an Exposure to the third party. An Authorised Firm must treat the portion guaranteed as having being incurred to the third party rather than to the Client for the purposes of considering the limits as set out at Rule 4.15.5. When considering the guarantee there must not be any maturity mismatch between the guarantee and the underlying Exposure.
-
-308
-
-PIB/VER50/07-25
-
-PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
-
-A4.11.3 If an Exposure is partially guaranteed by an Authorised Firm’s Parent Regulated Financial Institution, and would be assigned a lower risk weight under section 4.12, only that part of the Exposure subject to the guarantee is exempt from the Concentration Risk limits in Rule 4.15.5. When considering the treatment of this Rule an Authorised Firm may also consider the exemptions permitted under Rule 4.15.18 relating to parental guarantees.

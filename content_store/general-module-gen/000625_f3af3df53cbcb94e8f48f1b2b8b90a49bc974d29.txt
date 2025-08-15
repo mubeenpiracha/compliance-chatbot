@@ -1,7 +1,0 @@
-A Token that confers on the holder a right to acquire an unissued Share, Debenture or Unit will be an Investment Token that is considered a Warrant and therefore also a Security Token. This will be the case regardless of whether the unissued Share, Debenture or Warrant to be acquired by exercising those rights is a Security in its conventional form, or is itself a Security Token.
-
-Example
-
-27.
-
-Company B issues a Token to investors, which gives the holder a right (but not an obligation) to acquire a new Share or Debenture to be issued by Company B at a future point in time. This confers on the holder a right to have the new Share or Debenture issued, and the obligation on Company B to issue that Share or Warrant, which are substantially similar in nature to those conferred by a Warrant. The Token is therefore a Security Token that is considered a Warrant.

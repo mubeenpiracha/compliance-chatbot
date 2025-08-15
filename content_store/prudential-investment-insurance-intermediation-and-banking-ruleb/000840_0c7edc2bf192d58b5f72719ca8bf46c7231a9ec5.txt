@@ -1,7 +1,0 @@
-Treatment of posted collateral
-
-A4.9.12 Any collateral posted pursuant to transactions covered by Rules A4.9.3 to A4.9.11 must, from the perspective of the Authorised Person posting such collateral, receive the CRWs that otherwise apply to such assets or collateral, regardless of the fact that such collateral has been posted as collateral as part of a clearing arrangement.
-
-A4.9.13 Where collateral of a clearing member or client is posted with a QCCP or a clearing member, the Authorised Person posting such collateral must also recognise credit risk arising as a result of the collateral being exposed to risk of loss based on the creditworthiness of the entity holding such collateral according to the following Rules:
-
-(a)

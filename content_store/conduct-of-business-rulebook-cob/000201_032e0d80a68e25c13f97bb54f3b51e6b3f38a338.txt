@@ -1,5 +1,0 @@
-If a Credit Rating Agency uses separate analytical teams for determining initial ratings and for subsequent monitoring of structured finance products, each team must have the requisite level of expertise and resources to perform their respective functions in a timely manner.
-
-9.4.3 Where a Credit Rating Agency makes its ratings available to the public, the Credit Rating Agency must publicly announce if it discontinues rating an issuer or obligation. Where a Credit Rating Agency's ratings are provided only to its subscribers, the Credit Rating Agency must announce to its subscribers if it discontinues rating an issuer or obligation. In both cases, continuing publications by the Credit Rating Agency of the discontinued rating must indicate the date the rating was last updated and the fact that the rating is no longer being updated.
-
-9.5

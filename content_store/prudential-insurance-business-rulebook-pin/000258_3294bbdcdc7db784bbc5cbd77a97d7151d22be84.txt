@@ -1,5 +1,0 @@
-A4.8 Concentration risk component
-
-Guidance
-
-The purpose of the concentration risk component is to require an Insurer to set aside capital to cover the sensitivity that it has to default or volatility in respect of assets and exposures to single counterparties or groupings of connected counterparties, or single properties. The additional capital requirement applies to investment exposures, including off-balance sheet exposures, and amounts outstanding under finite risk reinsurance contracts in respect of Long-Term Insurance. It is calculated on the basis of the Insurer's total exposure to the counterparty, grouping of connected counterparties or property, and operates on a sliding scale depending on the size of that exposure relative to the Insurer's Adjusted Capital Resources. The total amount of the concentration risk component in respect of any asset is limited to 100% of the value of the asset, and certain assets that are left out of account in calculating an Insurer's Adjusted Capital Resources are excluded from the calculation.

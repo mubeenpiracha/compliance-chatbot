@@ -1,9 +1,0 @@
-Non-Fungible Token (NFT) Has the meaning given in GEN Rule A2.5.3.
-
-Non-Performing
-
-(1)
-
-In the case of loans and other financial instruments to which an Authorised Firm is exposed, having either of the following qualities:
-
-(a) Contractual payments of interest or principal are 90 days or more past the date on which they were due and payable, and the current value of any security held in respect of the is instrument loan or other insufficient, after making allowance for expenses of realisation, to meet the total amount of principal and accrued interest; or

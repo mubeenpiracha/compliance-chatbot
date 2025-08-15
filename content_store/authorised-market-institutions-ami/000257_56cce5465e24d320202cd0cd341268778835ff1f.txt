@@ -1,5 +1,0 @@
-Money settlement
-
-(1) Where a Clearing House conducts its money settlements using commercial bank money, it must adopt appropriate measures to minimise and strictly control the credit and liquidity risk arising from such use.
-
-(2)

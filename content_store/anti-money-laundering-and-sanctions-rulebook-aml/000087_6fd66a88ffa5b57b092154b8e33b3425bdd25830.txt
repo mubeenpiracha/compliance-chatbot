@@ -1,5 +1,0 @@
-Similarly, in using a new or developing technology, such as those associated with the Regulated Activity of Developing Financial Technology Services within the RegLab or when undertaking NFTF business, a Relevant Person should pay specific attention to assessing the potential for risks associated with Financial Crime that might arise as a result of implementing that innovative technology. For example, while the use of eKYC Systems may reduce the risk of impersonation fraud at customer onboarding, NFTF interaction with the customer may increase the risk of Financial Crime after a business relationship has been established, through transaction fraud, money laundering or theft of digitally stored CDD documentation.
-
-7.
-
-A business risk assessment under Rule 6.1.1(b) should include an assessment of the risks associated with the carrying on of NFTF business, particularly the use of eKYC Systems. The assessment should consider incorporating any relevant mitigation measures identified by the Regulator, a competent authority of the UAE, FATF, and any other relevant bodies.

@@ -1,5 +1,0 @@
-6. With regard to the portfolio of all the positions incorporated in the model referred to in Guidance note 1, the Authorised Firm should regularly apply a set of specific, predetermined stress scenarios. Such stress scenarios should examine the effects of stress to default rates, recovery rates, credit spreads, basis risk, correlations and other relevant risk factors on the correlation trading portfolio. The Authorised Firm should apply stress scenarios at least weekly and report at least quarterly to the DFSA the results, including comparisons with the Authorised Firm's Capital Requirement in accordance with this point. Any instances where the stress test results materially exceed the Capital Requirement for the correlation trading portfolio should be reported to the DFSA in a timely manner. PIB/VER50/07-25
-
-PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
-
-7.

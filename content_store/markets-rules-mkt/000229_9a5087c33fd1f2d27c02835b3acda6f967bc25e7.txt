@@ -1,7 +1,0 @@
-Control of inside information
-
-6.5.6 A Reporting Entity of a Listed Fund must establish effective arrangements to deny access to Inside Information to Persons other than those who require it for the exercise of their functions within the Reporting Entity or the Listed Fund.
-
-6.5.7 A Reporting Entity of a Listed Fund must establish and maintain adequate systems and controls to enable it to identify at all times any Person working for it under a contract of employment or otherwise, who has or may reasonably be likely to have access to Inside Information relating to the Reporting Entity or the Listed Fund as is applicable, whether on a regular or occasional basis.
-
-6.5.8 A Reporting Entity of a Listed Fund must take the necessary measures to ensure that its Directors, Members of the Governing Body and Employees who have or may have access to Inside Information acknowledge the legal and regulatory duties entailed, and are aware of the sanctions attaching to the misuse or improper use or circulation of such information.

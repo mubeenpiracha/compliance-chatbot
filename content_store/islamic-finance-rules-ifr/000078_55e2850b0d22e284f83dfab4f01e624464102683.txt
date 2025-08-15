@@ -1,9 +1,0 @@
-5.4.13
-
-(1)
-
-Commodities held by an Authorised Firm for selling or leasing when executing a Murabaha, non-binding MPO, Salam or Parallel Salam Contract must be included in the calculation of its Commodities Risk Capital Requirement.
-
-(2) Where an Authorised Firm executes Salam and parallel Salam contracts, the resultant long and short positions may be set off for calculating the net open position, provided that the positions are in the same commodity, regardless of how its Commodities Risk Capital Requirement is calculated.
-
-5.4.14 Where an Authorised Firm executes Musharaka or Mudaraba contracts for investing in entities or investment vehicles that trade in foreign exchange, equities or commodities, it must include the relevant underlying assets in the calculation of its Market Risk Capital Requirement in accordance with PIB chapter 5.

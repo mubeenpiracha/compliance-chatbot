@@ -1,9 +1,0 @@
-(c)
-
-an Authorised Firm must net gross long positions in own AT1 Capital instruments in the Trading Book resulting from holdings of index Securities may be netted by the Authorised Firm against short positions in own AT1 instruments resulting from short positions in the underlying indices, including where those short positions involve Counterparty Credit Risk.
-
-Deductions relating to AT1 Capital instruments in Relevant Entities
-
-3.14.6 For the purposes of Rule 3.14.4(b), (c) and (d), the amount of holdings of AT1 Capital instruments of Relevant Entities to be deducted, must be calculated, subject to 3.14.7, on the basis of the gross long positions.
-
-3.14.7 For the purposes of Rule 3.14.4(c) and (d), an Authorised Firm must make the

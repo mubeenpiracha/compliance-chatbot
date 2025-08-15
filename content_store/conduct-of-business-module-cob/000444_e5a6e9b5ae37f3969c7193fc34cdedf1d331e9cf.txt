@@ -1,9 +1,0 @@
-Guidance
-
-Some crowdfunding services may not need to be authorised e.g. reward or donation crowdfunding that do not involve an Investment or loan or other services carried on with Persons in certain jurisdictions. An operator needs to ensure that it does not provide both regulated and unregulated crowdfunding services from the same legal entity. If it wishes to provide unregulated crowdfunding services, it should do so using a separate legal entity. This removes any risk that Clients of the Authorised Firm will not understand that parts of the service are unregulated.
-
-Crowdfunding due diligence
-
-11.3.5 An operator must not permit a borrower or an Issuer to use its service unless the
-
-borrower or Issuer is a Body Corporate.

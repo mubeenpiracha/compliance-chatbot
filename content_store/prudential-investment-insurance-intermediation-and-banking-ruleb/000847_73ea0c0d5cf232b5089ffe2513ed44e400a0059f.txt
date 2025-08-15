@@ -1,7 +1,0 @@
-(2)
-
-For derivatives, EADi is calculated as the bilateral trade exposure the QCCP has against clearing member i using the approach in Rule A4.6.14. All collateral held by a QCCP to which that QCCP has a legal claim in the event of default of a member or client, including default fund contributions of that member (DFi), is used to offset the exposure of the QCCP to that member or client, through inclusion in the potential future exposure multiplier in accordance with Rule A4.6.14.
-
-(3)
-
-For SFTs, EAD is equal to max(EBRMi – IMi – DFi; 0), where:

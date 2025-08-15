@@ -1,7 +1,0 @@
-financial markets or alternative
-
-If another Person is responsible for the execution of a Transaction an Authorised Firm may rely on that Person to provide best execution where that Person has undertaken to provide best execution in accordance with this section.
-
-Guidance
-
-When determining best execution, an Authorised Firm should consider the direct costs and indirect costs and the relevant order type and size, settlement arrangements and timing of a Client’s order that could affect decisions on when, where and how to trade.

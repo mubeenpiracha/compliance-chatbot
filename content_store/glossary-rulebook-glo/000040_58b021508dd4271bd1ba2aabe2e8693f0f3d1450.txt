@@ -1,7 +1,0 @@
-Defined Terms
-
-Definitions
-
-Class 1 Captive Insurer Means an ADGM Incorporated Insurer permitted under the conditions of its Financial Services Permission to effect or carry out Contracts of Insurance only for risks related to or arising out of the business or operations of the Group, including for this purpose only contracts of reinsurance in respect of such risks insured by the Cedant.
-
-Class 2 Captive Insurer Means an ADGM Incorporated Insurer that is permitted under the conditions of its Financial Services Permission to obtain no more than 20% of its Gross Written Premium in any year from third party risks arising from business or operations that are Closely Linked to the business or operations of the Group to which the Insurer belongs, including for this purpose only contracts of reinsurance in respect of such risks insured by the Cedant.

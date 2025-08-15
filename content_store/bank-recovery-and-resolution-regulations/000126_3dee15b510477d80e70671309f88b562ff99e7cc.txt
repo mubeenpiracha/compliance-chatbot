@@ -1,7 +1,0 @@
-The Regulator may apply the Bail-in Tool for the purposes referred to in subsection (1)(a) only if there is a reasonable prospect that the application of the Bail-in Tool together with other relevant measures will, in addition to achieving the relevant Resolution Objectives, restore the Institution to financial soundness and long-term viability.
-
-Where there is no such reasonable prospect as referred to in to subsection (3), the Regulator may apply the Bail-in Tool for the purposes referred to in subsection (1)(b) together with Sale of Business Tool.
-
-The Regulator may apply the Bail-in Tool under subsection (1) while respecting, in each case, the legal form of the Institution or while changing its legal form if the Regulator is of the view that changing the legal form is necessary to achieve the Resolution Objectives.
-
-The Bail-in Tool may be applied in respect of any liability of an Institution, provided that the liability is not excluded from the scope of the Bail-in Tool under subsection (1), (7) or (8).

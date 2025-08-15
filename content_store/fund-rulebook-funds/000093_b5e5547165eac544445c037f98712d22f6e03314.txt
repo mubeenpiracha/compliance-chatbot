@@ -1,9 +1,0 @@
-(2) The Fund Manager and, in the case of an Investment Trust, both the Fund Manager and the Trustee, are responsible for maintaining the Constitution and for making necessary alterations to it in accordance with the applicable legislation.
-
-11.1.4
-
-(1) A Fund Manager may issue and, in the case of an Investment Trust may instruct the Trustee to issue, such classes of Units as are set out in the Constitution, provided the rights of any class are not unfairly prejudicial to the interests of the Unitholders of any other class of Units in that Fund.
-
-(2) Units whose issue may be limited can be issued by a Fund Manager if permitted by the Constitution and if in accordance with the conditions set out in the Prospectus, provided that such issue will not materially prejudice any existing Unitholders in the Fund.
-
-(3) In the case of an Investment Trust, the Trustee must take reasonable measures to ensure, before carrying out the Fund Manager's instructions, that those instructions comply with the requirements in (1) and (2).

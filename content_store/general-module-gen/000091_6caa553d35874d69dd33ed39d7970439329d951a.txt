@@ -1,3 +1,0 @@
-Guidance
-
-A Fund Manager can Provide Custody under Rule 2.12.1(2) only to the extent that a Fund Manager is expressly permitted under the Collective Investment Law 2010 or CIR to hold Fund Property without having to appoint an Eligible Custodian to do so. See CIR 8.2.2(3) for an example of the circumstances in which an Eligible Custodian is not required. Similarly, where a Fund Manager uses the Fund Platform structure, the Fund Platform can carry out the custody function in relation to Fund Property of the Funds established on the Fund Platform only to the extent that the Fund Manager is permitted to do so.

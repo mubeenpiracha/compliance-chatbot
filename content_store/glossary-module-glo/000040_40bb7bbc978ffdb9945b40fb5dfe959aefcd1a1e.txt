@@ -1,7 +1,0 @@
-Principles prescribed in MKT Rules 3.2.3 – 3.2.9.
-
-An account opened on behalf of a Correspondent Banking Client to receive deposits from, to make payments on behalf of or to otherwise handle financial Transactions for or on behalf of the Correspondent Banking Client.
-
-A bank in a jurisdiction other than the DIFC where an Authorised Firm opens a Correspondent Account. A Client of an Authorised Firm which uses the firm’s correspondent banking services account to clear Transactions for its own customer base. Means any person with or for whom an Authorised Firm carries on, or intends to carry on, any regulated business or associated business. In this context, a counterparty includes an individual, unincorporated body, company, government, local authority or other public body.
-
-The risk that an Authorised Firm’s Counterparty does not perform its obligations under the terms of a contract.

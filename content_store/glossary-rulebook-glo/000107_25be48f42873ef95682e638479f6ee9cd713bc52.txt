@@ -1,7 +1,0 @@
-Definitions
-
-Means any data, any device or any other component of information technology infrastructure, such as application software, firmware, databases, hardware, or end-user computing tools being used for information and communication technology (ICT) activity.
-
-Means an information and communication technology (ICT) related service, such as the hosting, maintenance or provision of repair services of ICT Assets or any other service that involves accessing an Authorised Person’s IT Systems or Networks or accessing or processing an Authorised Person’s data.
-
-Means the people, processes, procedures and technology that identify and manage the information used in an IT System to authenticate users and grant or deny access rights to information and IT system resources.

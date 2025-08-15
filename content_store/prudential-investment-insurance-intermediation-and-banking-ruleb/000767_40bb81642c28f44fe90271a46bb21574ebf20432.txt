@@ -1,3 +1,0 @@
-A4.3.11 An Authorised Person may apply a value of zero to HE, HC and HS in the case of a qualifying SFT with a core market participant. This approach is not available to an Authorised Person using VaR models in accordance with Section A4.5 to calculate E*.
-
-A4.3.12 An Authorised Person may apply a value of zero to HE, HC and HS in the case of an SFT where both the Exposure and Collateral are Securities issued by central governments where a value of zero has been prescribed by the banking regulator of that jurisdiction and Exposures to the central government of that jurisdiction have a Credit Quality Grade of 1 as set out in the table in Rule 4.12.4.

@@ -1,7 +1,0 @@
-Guidance
-
-A group of Connected Counterparties would be considered to be such where the entities share the same ultimate owner even though they may not be formally structured as a Group.
-
-Exposures to transactions, schemes or Funds
-
-A4.11.8 Where an Authorised Person has an Exposure to a transaction, scheme, Fund, or other Exposure to a pool of underlying Exposures, the Authorised Person must assess the Exposure to determine whether the Exposure is a group of Closely Related Counterparties in its economic substance.

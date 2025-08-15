@@ -1,7 +1,0 @@
-In calculating NSFR derivative assets, collateral received in connection with derivative contracts should not offset the positive replacement cost amount, regardless of whether or not netting is permitted under the firm’s operative accounting or risk-based framework, unless it is received in the form of cash variation margin and meets the conditions as specified in the instructional guidelines for Form B300 set out in PRU section 1.48. Any remaining balance sheet liability associated with: (a) variation margin received that does not meet the criteria above; or (b) initial margin received; may not offset derivative assets and should be assigned a 0% ASF Factor.
-
-In calculating NSFR Shari’a compliant hedging liabilities, collateral posted in the form of variation margin that follows Shari’a principles in connection with Shari’a compliant hedging contracts as in the TMA contract, regardless of the asset type, must be deducted from the negative replacement cost amount.
-
-408
-
-PIB/VER50/07-25

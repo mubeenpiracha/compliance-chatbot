@@ -1,7 +1,0 @@
-Refusal of Payment Orders
-
-19.14.2 (1) Where a Payment Service Provider refuses to execute a Payment Order or to initiate a Payment Transaction, it must notify the Payment Service User at the earliest opportunity in the agreed manner of the refusal, and, if possible, the reasons for such refusal, including, if applicable, the procedure for rectifying any factual errors that led to the refusal.
-
-(2)
-
-For the purposes of Rules 19.21.2 and 19.21.3 a Payment Order of which execution has been refused is deemed not to have been received.

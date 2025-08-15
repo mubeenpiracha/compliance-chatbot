@@ -1,9 +1,0 @@
-6.2.10 Specific price conditions
-
-(1)
-
-In the case of an Offer of Shares or other Securities equivalent to Shares, Price Stabilisation of the Relevant Securities shall not in any circumstances be executed above the Offer price.
-
-(2)
-
-In the case of an Offer of securitised Debentures convertible or exchangeable into Financial Instruments as referred to in paragraph (1), Price Stabilisation of those Financial Instruments shall not in any circumstances be executed above the market price of those Financial Instruments at the time of the public disclosure of the final terms of the new Offer.

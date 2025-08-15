@@ -1,7 +1,0 @@
-Cash outflows related to retail term deposits with a residual maturity or withdrawal notice period of greater than 30 days should be excluded from total expected cash outflows only if the depositor has no legal right to withdraw deposits within the 30-day period of the LCR, or if early withdrawal results in a significant penalty that is materially greater than the loss of interest. If an Authorised Firm allows a depositor to withdraw such deposits despite a clause that says the depositor has no legal right to withdraw, the entire category of these funds should be treated as demand deposits.
-
-Unsecured wholesale funding:
-
-8.
-
-Unsecured wholesale funding should consist of liabilities and general obligations raised from non-natural persons (i.e. legal entities, including sole proprietorships and partnerships) and not collateralised by legal rights to specifically designated assets owned by the Authorised Firm accepting the deposit in the case of bankruptcy, insolvency, liquidation or resolution. Obligations related to derivative contracts should be excluded from this category.

@@ -1,7 +1,0 @@
-PRUDENTIAL – INVESTMENT, INSURANCE INTERMEDIATION AND BANKING (PIB)
-
-4.14.24 Where Credit Risk mitigation is applied to a specific Exposure within a securitisation the Authorised Firm must treat the Exposure as unrated, and then use the mitigation as set out in section 4.13 should the Rules contained in that section apply.
-
-4.14.25 An Authorised Firm must not use an external credit rating agency rating for risk weighting purposes where the assessment is at least partly based on unfunded support provided by the Authorised Firm itself.
-
-4.14.26 The treatment outlined in Rule 4.14.24 also applies to Exposures in the Authorised Firm’s Trading Book. An Authorised Firm’s Capital Requirement for such Exposures held in the Trading Book can be no less than the amount required under the Non- Trading Book.

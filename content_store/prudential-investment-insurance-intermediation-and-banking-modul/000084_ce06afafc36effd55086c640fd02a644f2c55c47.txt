@@ -1,9 +1,0 @@
-Vega
-
-The measure of the sensitivity of the value of the Option to a change in the volatility of the underlying asset.
-
-Walkaway Clause
-
-A provision which permits a non-defaulting party to make payments, or no payments at all, to the estate of the defaulter, even if the defaulter is a net creditor.
-
-Categories of Authorised Firms

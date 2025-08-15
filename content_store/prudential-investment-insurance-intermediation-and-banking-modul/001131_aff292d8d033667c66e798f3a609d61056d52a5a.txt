@@ -1,7 +1,0 @@
-a.
-
-validate that its modelling approach for correlations and price changes is appropriate for its portfolio, including the choice and weights of its systematic risk factors;
-
-b.
-
-perform a variety of stress tests, including sensitivity analysis and scenario analysis, to assess the qualitative and quantitative reasonableness of the internal model, particularly with regard to the treatment of concentrations. Such tests should not be limited to the range of events experienced historically; and

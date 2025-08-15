@@ -1,7 +1,0 @@
-Example 4
-
-Company D issues a Token that it describes in its white paper as a utility token. The Token allows holders to access a product that Company D is developing. It also allows them to share in the profits of Company D in accordance with their holdings once the product is launched. The Token is not traded. This Token is likely to be an Investment Token, as it confers on holders’ rights similar to an Investment i.e. a right to share in the profits of the business.
-
-Fiat Crypto Token
-
-A2.5.5 A Crypto Token is a Fiat Crypto Token if, to stabilise its price or reduce volatility in its price, the value of the Crypto Token purports to be determined by reference to a single fiat currency.

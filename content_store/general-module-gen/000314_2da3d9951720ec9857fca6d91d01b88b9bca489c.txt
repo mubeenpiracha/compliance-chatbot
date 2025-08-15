@@ -1,9 +1,0 @@
-Guidance
-
-1.
-
-This Rule supplements the overarching requirements that govern outsourcing of functions and activities under Rules 5.3.21 and 5.3.22 by an Authorised Person. The scope of this Rule is wider than the scope of those outsourcing requirements as it applies to the provision of all ICT Services that may impact the provision of Financial Services by an Authorised Person, such as a contract for the maintenance of an Authorised Person’s servers.
-
-2.
-
-The supervision of a third party’s provision of ICT Services under Rule 5.5.3(1)(c) should include regular verification that the third party complies with the Authorised Person’s security requirements. Verification can be achieved, for example, through a review of the third party’s control environment or using independent audit reports. Self-verification by the third party would not meet the requirement of effective supervision. The frequency and scope of the reviews should be determined based on the criticality of systems and the sensitivity of information.

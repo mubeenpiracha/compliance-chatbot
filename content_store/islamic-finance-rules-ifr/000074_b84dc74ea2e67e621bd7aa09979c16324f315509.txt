@@ -1,5 +1,0 @@
-Off-balance sheet exposures for import or export financing contracts based on Murabaha, where the underlying goods or shipment are collateralised and insured, should attract a 20% CCF to an Authorised Firm that issues or confirms the letter of credit.
-
-Where Mudaraba and Musharaka contracts are used to invest in commercial enterprise to undertake business ventures other than trading activities (or other than those which meet the requirements for inclusion in the Trading Book), the E is measured as the amount invested in the commercial enterprise less any specific provisions. If there is a guarantee and such guarantor is not connected to the commercial enterprise, then the CRW for the guarantor will be applied for risk weighting for the amount of any such guarantee.
-
-In addition to the relevant Rules prescribed in PIB chapter 4 and PIB App4, an Authorised Firm may consider the following types of collateral as eligible collateral for Credit Risk management:

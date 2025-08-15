@@ -1,3 +1,0 @@
-19. An Authorised Firm should ensure that it makes and maintains appropriate prudential records which show and explain the Authorised Firm’s transactions, disclose its financial position and Exposure to Market Risk and enable it to demonstrate compliance with the DFSA rules. In particular, an Authorised Firm should have data history to enable it to perform back-testing of methods and assumptions used for stress and scenario testing and for value-at-risk models. Market Risk records should be retained for at least six years.
-
-A5.2

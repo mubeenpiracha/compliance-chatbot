@@ -1,7 +1,0 @@
-Application to Crypto Tokens
-
-3.
-
-Most of this module is not relevant to Crypto Tokens, as large parts of the module apply to Securities and Reporting Entities. For example, a Prospectus is not required for a Public Offer of Crypto Tokens or for the admission of Crypto Tokens to trading on an ATS. In addition, there is no Reporting Entity for a Crypto Token to whom corporate governance, market disclosure and financial reporting requirements will apply. Crypto Tokens also cannot be admitted to the Official List. Therefore, the only requirements in the module that apply to Crypto Tokens are chapter 6 (Listed Funds and ATS Traded Funds) but only indirectly to the extent that a Listed Fund or ATS Traded Fund may invest in Crypto Tokens, and chapter 9 (Market Abuse) as the Market Abuse provisions in the Markets Law apply to Crypto Tokens.
-
-4.

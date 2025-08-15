@@ -1,5 +1,0 @@
-8.4.4 The Regulator must within ten days of receiving the notification referred to in 8.4.3, approve a proposed liquidity incentive scheme unless it has reasonable grounds to believe that the introduction of the scheme would be detrimental to the MTF or OTF or to markets in general. Where the Regulator does not approve the proposed liquidity incentive scheme, it must notify the MTF Operator or OTF Operator of its objections to the introduction of the proposed liquidity incentive scheme, and its reasons for that decision.
-
-8.4.5 An MTF Operator or OTF Operator must sufficiently prior to launch, to enable any interested parties to participate in it, announce the introduction of the liquidity incentive scheme, specify the date on which the scheme becomes operative and the contracts to which it relates.
-
-8.5

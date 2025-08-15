@@ -1,9 +1,0 @@
-Guidance
-
-1.
-
-The purpose of the change management process is to ensure that changes and patches to production systems and hardware devices are adequately assessed, tested, approved and implemented.
-
-2. Where necessary, an Authorised Person should establish a separate physical or logical environment for the development, testing and production of systems or patches, or ensure a clear segregation of tasks so that no single individual develops, tests and implements a change.
-
-3. While emergency changes should be implemented in a controlled manner, the Regulator recognises that the process requires swift actions and decisions. In such cases, where necessary and justifiable and on an exceptional basis, some aspects of an Authorised Person’s change management process such as change documentation or testing may be completed after a change has been implemented. An Authorised Person must establish a process for the management of software updates that addresses security vulnerabilities in the Authorised Person’s ICT Assets.

@@ -1,5 +1,0 @@
-Guidance
-
-For the purposes of Rule 2.3.1(d), an offer of Security Tokens denominated in an amount of at least $100,000 or the equivalent in another currency will be an Exempt Offer. However, any further offer of a fractional interest in those Security Tokens for less than $100,000, or the equivalent in another currency, will not be an Exempt Offer.
-
-2.3.3 An offer of Securities remains an Exempt Offer even if the offer falls in whole or part within more than one of the circumstances specified in Rule 2.3.1, as long as all of the offer falls within at least one of those circumstances.

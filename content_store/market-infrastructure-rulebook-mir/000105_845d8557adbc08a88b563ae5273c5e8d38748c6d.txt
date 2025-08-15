@@ -1,9 +1,0 @@
-Fair and orderly trading
-
-Guidance
-
-In this section, where a reference is made to a Derivative, it should be interpreted as a single Derivative or class of Derivative, as applicable.
-
-3.3.1
-
-A Recognised Investment Exchange must ensure that it has transparent and non- discretionary Business Rules and procedures to provide for fair and orderly trading, and to establish objective criteria for the efficient execution of orders.

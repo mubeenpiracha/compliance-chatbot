@@ -1,9 +1,0 @@
-the Authorised Firm's stress tests must be both of a quantitative and qualitative nature, incorporating both Market Risk and liquidity aspects of market disturbances. Quantitative criteria must identify plausible stress scenarios to which the Authorised Firm could be exposed. Qualitative criteria must emphasise that two major goals of stress testing are to evaluate the capacity of the Authorised Firm's capital to absorb potential large losses and to identify steps the Authorised Firm can take to reduce its risk and conserve capital; and
-
-(c)
-
-the Authorised Firm must combine the use of supervisory stress scenarios with stress tests developed by the Authorised Firm itself to reflect their Specific Risk characteristics. Information is required in three broad areas:
-
-(i)
-
-supervisory scenarios requiring no simulations by the Authorised Firm - the Authorised Firm must have information on the largest losses experienced during the reporting period available for supervisory review. This loss information must be compared to the level of capital that results from an Authorised Firm's internal measurement system;

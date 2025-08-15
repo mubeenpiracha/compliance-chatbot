@@ -1,7 +1,0 @@
-A10.2.5 Except as provided otherwise in this appendix, an Insurer that maintains a Long-Term Insurance Fund must complete a Fund Return in respect of each Long-Term Insurance Fund that it maintains. A Fund Return includes all of the assets, liabilities, revenues and expenses attributable to the Fund, regardless of the residency status or location of the customer or of any asset or liability. An Insurer to which this Rule applies is not required to complete a Fund Return in the following cases:
-
-(a) where the Insurer is deemed to constitute a single, Long-Term Insurance Fund, such that the information contained in the Fund Return would be identical to that in the Global Return; and
-
-(b) where a Cell of the Insurer is deemed to constitute a single, Long-Term Insurance Fund, such that the information contained in the Fund Return would be identical to that in the Cell Return.
-
-A10.2.6 An Insurer that is not an ADGM Incorporated Insurer must complete an ADGM

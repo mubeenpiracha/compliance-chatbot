@@ -1,7 +1,0 @@
-(3)
-
-If an Authorised Firm is unable to prevent or manage a conflict or potential conflict of interest as provided in (2), it must decline to act for that Client.
-
-Attribution of knowledge
-
-3.5.2 When a COB Rule applies to an Authorised Firm that acts with knowledge, the Authorised Firm will not be taken to act with knowledge for the purposes of that Rule as long as none of the relevant individuals involved for on behalf of the Authorised Firm acts with that knowledge as a result of a Chinese Wall arrangement established under Rule 3.5.1(2)(a).

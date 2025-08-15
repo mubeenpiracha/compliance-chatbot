@@ -1,7 +1,0 @@
-Guidance
-
-In assessing whether an Authorised Market Institution has adequate information technology resourcing, the DFSA will consider:
-
-a.
-
-whether its systems have sufficient electronic capacity to accommodate reasonably foreseeable volumes of messaging and orders, and

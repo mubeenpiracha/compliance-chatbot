@@ -1,7 +1,0 @@
-(ii)
-
-in the case of several Payment Transactions of the same kind made to the same Payee, the Payment Service Provider must provide or make available to the Payment Service User information about the total amount of the Payment Transactions and any charges for those Payment Transactions; or
-
-(iii)
-
-where the Payment Instrument is used anonymously or the Payment Service Provider is not otherwise technically able to provide or make available the information specified in (i) or (ii), the Payment Service Provider must enable the Payer to verify the amount of Money stored.

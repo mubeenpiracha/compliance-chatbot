@@ -1,9 +1,0 @@
-The OTC Derivative Contracts that are subject to the clearing obligation shall be cleared by a Recognised Clearing House or Remote Clearing House. For that purpose a counterparty shall become a Clearing Member, a client, or shall establish indirect clearing arrangements with a Clearing Member, provided that those arrangements do not increase counterparty risk.
-
-(5)
-
-The Regulator may make Rules specifying the contracts that are considered to have a direct, substantial and foreseeable effect within the Abu Dhabi Global Market or the cases where it is necessary or appropriate to prevent the evasion of any provisions of these Regulations as referred to in subsection (1)(a)(v).
-
-142. Clearing obligation procedure
-
-(1)

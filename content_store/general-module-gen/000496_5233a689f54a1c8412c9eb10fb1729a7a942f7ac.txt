@@ -1,9 +1,0 @@
-The details of the order or transaction provided with the notification should include the date and time of the order or transaction, the relevant Investment, the client and other parties involved, the nature of the order (e.g. limit order or market order), the nature of the transaction (e.g. on-exchange or OTC) and if the client was acting on its own account or for a third party.
-
-4.
-
-If a firm reasonably suspects that a client’s order or transaction may constitute market abuse under the laws in another jurisdiction, it will also need to consider if it needs to notify the regulator in that other jurisdiction (under any corresponding obligation to notify).
-
-5.
-
-If an Authorised Firm becomes aware that the firm itself, or an employee of the firm, (rather than a client) has engaged in conduct that may constitute market abuse in the DIFC or elsewhere, it has a separate obligation to notify the DFSA under Article 67 of the Regulatory Law and Rule 11.10.7.

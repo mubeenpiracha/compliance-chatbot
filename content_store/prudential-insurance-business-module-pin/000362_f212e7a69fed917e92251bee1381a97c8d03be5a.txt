@@ -1,5 +1,0 @@
-A8.6.2 An Insurer must calculate the off-balance sheet asset risk component in respect of a Long-Term Insurance Fund as the sum of the amounts obtained by applying the calculations set out in Rule A8.6.3 in respect of each derivative contract entered into by the Insurer and attributable to that fund, that meets the description in Rule A8.6.1.
-
-A8.6.3 The amount in respect of a derivative contract is obtained by calculating, for an asset equivalent amount as determined in Rule A8.6.4, a default risk component as set out in section A8.4 and an investment volatility risk component as set out in section A8.5, as though the asset equivalent amount were a debt obligation due from the derivative counterparty.
-
-A8.6.4 The asset equivalent amount in respect of a derivative is calculated as the sum of the current mark-to-market exposure of the derivative (where this is positive) and the amount obtained by multiplying the notional principal amount of the derivative by the factors specified in the table set out in Rule A4.6.4 according to the nature and residual maturity of the derivative.

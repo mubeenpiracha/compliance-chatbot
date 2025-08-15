@@ -1,7 +1,0 @@
-An activity falls within the scope of the Financial Service of ‘arranging’ even if it does not necessarily lead to a completed transaction. For example, a prospective buyer or seller of Securities may change his mind and not sign a contract for the sale or purchase of Securities. Similarly, a potential buyer of Long-Term Insurance, after having completed an application form for Long-Term Insurance with the assistance of an arranger, may not go ahead with the purchase of the policy. In both examples, just because the transaction has not been concluded, the arranger’s activities do not cease to be ‘arranging’ under Rule 2.9.1.
-
-Which activities do not constitute ‘arranging’?
-
-8.
-
-A Person who performs for a financial service provider (in or outside the DIFC) delegated or outsourced functions, such as back office administration services, does not carry on ‘arranging’ activities under Rule 2.9.1. For example, a Person undertaking administrative tasks (such as processing applications, transmitting orders, or issuing confirmations of transactions for a brokerage firm or an insurer) is not arranging transactions.

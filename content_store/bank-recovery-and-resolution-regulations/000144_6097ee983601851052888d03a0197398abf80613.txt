@@ -1,9 +1,0 @@
-Business Reorganisation Plan
-
-Where the Bail-in Tool has been used to recapitalise an Institution, the Regulator shall ensure that a Business Reorganisation Plan for the Institution is drawn up and implemented in accordance with this section.
-
-The implementation of a Business Reorganisation Plan may include the appointment by the Regulator of persons (pursuant to its general power to exercise control over an Institution in Resolution under section 58(1)(b)) for the purpose of drawing up and implementing the Business Reorganisation Plan.
-
-Within one month after the application of the Bail-in Tool to an Institution, the Management of the Institution shall draw up and submit to the Regulator a Business Reorganisation Plan that satisfies the requirements in subsection (6).
-
-Where the Bail-in Tool is applied to two or more Group Entities, including where a Foreign Resolution Order has been made, a Group level Business Reorganisation Plan may be accepted by the Regulator for the purpose of this section.

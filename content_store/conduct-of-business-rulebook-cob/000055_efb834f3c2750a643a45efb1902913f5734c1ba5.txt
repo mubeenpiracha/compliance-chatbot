@@ -1,9 +1,0 @@
-Conflicts of Interest
-
-3.5.1 Fair Treatment
-
-An Authorised Person must take reasonable steps to ensure that conflicts of interest and potential conflicts of interest between itself and its Clients and between one Client and another Client are identified and then prevented or managed in accordance with this Rule 3.5.
-
-3.5.2 Record of Conflicts
-
-An Authorised Person must keep and regularly update a record of the kinds of service or activity carried out by or on behalf of that Authorised Person in which a conflict of interest entailing a material risk of damage to the interests of one or more Clients has arisen or, in the case of an ongoing service or activity, may arise.

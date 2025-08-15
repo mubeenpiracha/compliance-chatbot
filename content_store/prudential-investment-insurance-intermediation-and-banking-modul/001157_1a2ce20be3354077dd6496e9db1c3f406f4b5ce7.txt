@@ -1,9 +1,0 @@
-shares sector and region with Counterparty ‘C’
-
-50%
-
-Alternative approach
-
-A5.10.13 An Authorised Firm whose aggregate notional amount of non-centrally cleared derivatives is less than or equal to 110 billion USD may choose to calculate its Credit Valuation Adjustment Risk Capital Requirement using the alternative approach in Rule A5.10.14, instead of using the BA-CVA, unless the DFSA mandates otherwise.
-
-A5.10.14 An Authorised Firm using the alternative approach must calculate its Credit Valuation Adjustment Risk Capital Requirement by dividing the amount of RWAs for Counterparty Credit Risk Exposures calculated in accordance with Rule 4.8.7 by 12.5.

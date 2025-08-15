@@ -1,3 +1,0 @@
-DFpref
-
-i = the prefunded default fund contributions provided by clearing member i.

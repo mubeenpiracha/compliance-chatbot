@@ -1,3 +1,0 @@
-Guidance
-
-Allowing users of a platform who are seeking funding to use different platforms at the same time creates the risk that they might offer different terms and information about the proposal, causing potential confusion for lenders or investors and creating the potential for arbitrage by users of a platform who are seeking funding. This restriction only applies during the commitment period i.e. the period during which lenders may commit to making loans to the borrower or investors may commit to investing with the Issuer or in the property.

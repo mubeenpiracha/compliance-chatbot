@@ -1,5 +1,0 @@
-4. An Account Information Service enables users to have access to a single source of aggregated information so they can view information from various accounts in a single place. Users may also expressly consent to that information being shared with another person such as their financial adviser or a credit reference agency.
-
-5. A Payment Initiation Service is a service that establishes a software ‘bridge’ between the website of the merchant and the online banking platform of a payer’s Payment Account, which allows the user to initiate the payment. This type of service would typically be made available as a payment option on a merchant’s website.
-
-6. A provider of Payment Initiation Services should not receive funds at any stage of the Payment Transaction or issue Payment Instruments. The provider of a Payment Initiation Service provides independent verification to the relevant merchant that the user has sufficient funds in his Payment Account and has made a payment by selecting that account to make a payment to the merchant.

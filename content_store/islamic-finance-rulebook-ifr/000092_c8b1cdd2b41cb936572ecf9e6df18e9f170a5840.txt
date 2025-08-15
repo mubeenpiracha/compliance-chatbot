@@ -1,7 +1,0 @@
-(vi)
-
-In determining the E of a Binding Murabaha for the Purchase Orderer (MPO), as per PRU Rule A4.6.5, E should equal the total acquisition cost of the asset (purchase price and other direct costs) less market value of the asset (net of any haircut) less any security deposit provided.
-
-(vii)
-
-In determining the E of Ijarah / Ijarah Munthia Bittamleek contract, as per PRU Rule A4.6.5, E should equal the total acquisition cost of the asset (purchase price and other direct costs) less the market value of the asset (net of any haircut), less any Arboun (earnest money deposit received from the potential lessee).

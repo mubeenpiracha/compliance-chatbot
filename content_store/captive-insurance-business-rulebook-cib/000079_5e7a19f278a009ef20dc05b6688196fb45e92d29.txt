@@ -1,9 +1,0 @@
-6.10.6 A Captive Insurer must treat as a liability the value of future claims payments and associated direct and indirect settlement costs, arising from insured events that have occurred as at the Solvency Reference Date.
-
-6.10.7 A Captive Insurer may treat as an asset the value of reinsurance receivables and other
-
-recoveries expected to be received in respect of claims.
-
-6.10.8 Where this Rule requires a Captive Insurer to recognise as an asset the value of expected future receipts, that asset must be measured as the net present value of those expected future receipts.
-
-6.11 Recognition and measurement of assets and incurred liabilities in respect of Long-

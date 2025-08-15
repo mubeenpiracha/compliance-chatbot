@@ -1,9 +1,0 @@
-Guidance
-
-1.
-
-Rule 15.1.9 allows an Authorised Firm to make an Offer of a Unit in a Foreign Fund where the Fund and the Offer of the Unit satisfy criteria equivalent to those applicable to an Exempt Fund or Qualified Investor Fund although additional requirements apply in relation to a Foreign Fund that invests in Crypto Tokens.
-
-2.
-
-The gross asset value of a Fund under Rule 15.1.9(3)(a) should be calculated as the total value of the Fund Property without making any deductions, such as deductions for expenses or outstanding borrowing.

@@ -1,9 +1,0 @@
-“domestic fund transfer” means a fund transfer where the ordering institution and beneficiary institution are located in the same country and includes any chain of fund transfers that takes place entirely within a country, even if the system used to transfer the payment message is located in another country;
-
-48
-
-AML/VER27/03-25
-
-9.3.3
-
-9.3.4

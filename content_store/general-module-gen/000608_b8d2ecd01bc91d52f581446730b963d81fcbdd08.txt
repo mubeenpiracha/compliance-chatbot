@@ -1,9 +1,0 @@
-Processes and procedures
-
-A5.1.2
-
-A Trade Repository must have effective processes and procedures to provide data to relevant authorities in a timely and appropriate manner to enable them to meet their respective regulatory mandates and legal responsibilities.
-
-Guidance
-
-A Trade Repository should have procedures to facilitate enhanced monitoring, special actions, or official proceedings taken by relevant authorities in relation to data on troubled or failed participants by making relevant information in the Trade Repository available in a timely and effective manner. The provision of data from a Trade Repository to relevant authorities should be supported from a legal, procedural, operational, and technological perspective.

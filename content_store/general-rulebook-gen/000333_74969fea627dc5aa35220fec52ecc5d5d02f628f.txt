@@ -1,9 +1,0 @@
-Information systems
-
-A2.1.3 A Trade Repository must have robust information systems that enable it to provide accurate current and historical data. Such data should be provided in a timely manner and in a format that permits it to be easily analysed.
-
-Guidance
-
-A Trade Repository should collect, store, and provide data to participants, regulatory authorities, and the public in a timely manner and in a format that can facilitate prompt analysis. Data should be made available that permits both comparative and historical analysis of the relevant markets.
-
-118

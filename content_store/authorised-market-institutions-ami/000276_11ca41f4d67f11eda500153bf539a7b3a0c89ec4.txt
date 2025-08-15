@@ -1,5 +1,0 @@
-4.
-
-A CCP which is involved in activities with a more-complex risk profile, or is systemically important in multiple jurisdictions, should maintain additional financial resources to cover a wide range of potential stress scenarios. These should include the default of the two of its market counterparties (including their affiliates) that would potentially cause the largest aggregate credit exposure for the CCP in extreme but plausible market conditions. In all other cases, a CCP should maintain additional financial resources sufficient to cover a wide range of potential stress scenarios, which include the default of the market counterparty (including its affiliates) that would potentially cause the largest aggregate credit exposure for the CCP in extreme but plausible market conditions.
-
-5.

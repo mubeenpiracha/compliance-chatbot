@@ -1,5 +1,0 @@
-Guidance
-
-The effect of Rule A6.3.2 is to provide flexibility for Insurers whose investments are managed on a pooled basis within a Group, or which establish specialist Subsidiaries to manage their investments. While the Insurer's asset in such cases is a balance with, or investment in, a Related entity, this Rule permits the Insurer to 'look through' the corporate arrangement and apply this appendix to the assets of the Related entity as though they were the Insurer's own.
-
-A6.3.3 Where an Insurer that is a Cell Company arranges its affairs such that the Invested Assets of a segment are held in another segment of the same Insurer, the Insurer may, with the written approval of the Regulator, calculate relevant components of its Minimum Segmental Capital Requirement in respect of the first segment, by reference to the segment's interest in the assets that are held by the second segment, instead of by reference to the interest that the first segment has in the second segment. In that case this appendix shall be interpreted as though the assets (representing the first segment's interest) held by the second segment were held directly by the first segment.

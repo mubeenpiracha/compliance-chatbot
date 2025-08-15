@@ -1,5 +1,0 @@
-23.7 Margin close-out Requirements for Retail Clients
-
-23.7.1 An Authorised Person must ensure that “net equity” of a Retail Client in an account used to trade OTC Leveraged Products does not fall below 50% of the margin requirement, as outlined in COBS 23.6, required to maintain the Retail Client’s open positions.
-
-23.7.2 Where the net equity of a Retail Client falls below 50% of the margin requirement, the Authorised Person must close the Retail Client’s open position(s) in OTC Leveraged Products as soon as market conditions allow.

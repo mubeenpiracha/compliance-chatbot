@@ -1,9 +1,0 @@
-Guidance
-
-(TH + MTA – NICA) represents the largest exposure that would not trigger a variation margin call. For example, without initial margin, the greatest exposure that would not trigger a variation call is the threshold plus any minimum transfer amount.
-
-Potential Future Exposure
-
-A4.6.25 The PFE consists of (i) an aggregate add-on component, which consists of add-ons calculated for each asset class and (ii) a multiplier that allows for the recognition of excess collateral or negative mark-to-market value for the transactions.
-
-A4.6.26 PFE is calculated as follows:

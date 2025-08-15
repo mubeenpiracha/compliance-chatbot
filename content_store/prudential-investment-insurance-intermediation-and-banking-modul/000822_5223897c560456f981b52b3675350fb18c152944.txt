@@ -1,7 +1,0 @@
-Risk mitigation
-
-56. Various methods can be used to mitigate Credit Risk, such as taking security or Collateral, obtaining a guarantee from a third party, purchasing insurance or Credit Derivatives. Authorised Firms should view these as complementary to, rather than a replacement for, thorough credit analysis and procedures. In controlling Credit Risk, an Authorised Firm may utilise certain mitigation techniques. Normally, they include:
-
-a.
-
-accepting Collateral, standby letters of credit and guarantees;

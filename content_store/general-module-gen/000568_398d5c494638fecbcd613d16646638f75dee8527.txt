@@ -1,7 +1,0 @@
-Derivatives such as futures contracts or options may also be issued relating to cryptocurrencies. Such a futures contract or an option will be a Derivative as defined in GEN Rule A2.1.3 and therefore an Investment under GEN Rule A2.1.1, rather than a Crypto Token as defined in this section. Similarly, if the arrangements relating to a Token constitute a Collective Investment Fund, then the Token will be a Unit and therefore a Security, rather than a Crypto Token.
-
-Excluded Token
-
-A2.5.2 A Token is an excluded Token if it is:
-
-(a)

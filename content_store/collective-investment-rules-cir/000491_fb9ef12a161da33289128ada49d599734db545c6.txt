@@ -1,9 +1,0 @@
-11.
-
-The Fund Manager should seek assurance that the pricing agent’s system is robust and will produce accurate results. The Fund Manager should review the outputs from the system at least annually, and on any significant system change. In addition, if the pricing agent is also responsible for calculation of dealing prices of Units, the Fund Manager should ensure that this system is reviewed to his satisfaction at least annually.
-
-12.
-
-Unless the valuation and record keeping systems are integrated, the valuation output should be agreed with the Fund Manager’s records of a Fund at each valuation point. In addition, the Fund Manager’s records, including debtors and creditors, should be agreed with a Custodian’s records of stocks and both capital and income cash at least monthly, with reconciling items followed up promptly, with debtors reviewed for recoverability.
-
-13.

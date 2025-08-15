@@ -1,5 +1,0 @@
-Taking as Collateral large quantities of instruments issued by one obligor potentially creates Large Exposures and other concentration risks, e.g. sectoral or geographic. An Authorised Person should have a clearly defined policy with respect to the amount of those risks it is prepared to run. Such a policy might, for example, include a cap on the amount of Collateral it would be prepared to take from a particular Issuer or market. The Authorised Person should also take Collateral and purchased credit protection into account when assessing the potential concentrations in its overall credit profile.
-
-Notwithstanding the presence of CRM considered for the purposes of calculating Credit RWA amounts, an Authorised Person should continue to undertake a full Credit Risk assessment of the underlying Exposure.
-
-An Authorised Person must be able to satisfy the Regulator that it has systems in place to manage potential concentration of risk arising from its use of guarantees and Credit Derivatives.

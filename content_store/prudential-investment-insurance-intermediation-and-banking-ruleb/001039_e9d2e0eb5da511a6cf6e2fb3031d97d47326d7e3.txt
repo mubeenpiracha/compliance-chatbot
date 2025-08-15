@@ -1,7 +1,0 @@
-17.
-
-The Regulator may in individual cases limit the addend to that resulting from violations under hypothetical changes, where the number of violations under actual changes does not result from deficiencies in the internal model.
-
-18.
-
-In order to enable the Regulator to monitor the appropriateness of the multiplication factors on an ongoing basis, the Authorised Person should notify promptly, and in any case no later than within five working days, any violations that result from its back-testing programme.

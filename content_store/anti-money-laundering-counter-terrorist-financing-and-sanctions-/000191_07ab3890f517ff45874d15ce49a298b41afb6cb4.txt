@@ -1,9 +1,0 @@
-In addition, the systems and controls mentioned in Rule 10.3.1 should be established and maintained by a Relevant Person taking into account its risk assessment under chapters 5 and 6. In Rule 10.3.1, taking reasonable measures to comply with a finding may mean that a Relevant Person cannot undertake a transaction for or on behalf of a person or that it may need to undertake further due diligence in respect of such a person.
-
-8.
-
-A Relevant Person should be proactive in obtaining and appropriately using available national and international information, for example, suspect lists or databases from credible public or private sources with regard to money laundering, including obtaining relevant information from sources mentioned in Guidance 6 above.
-
-9.
-
-The risk of terrorists entering the financial system can be reduced if Relevant Persons apply effective AML strategies, particularly in respect of CDD. Relevant Persons should assess which countries carry the highest risks and should conduct an analysis of transactions from countries or jurisdictions known to be a source of terrorist financing.

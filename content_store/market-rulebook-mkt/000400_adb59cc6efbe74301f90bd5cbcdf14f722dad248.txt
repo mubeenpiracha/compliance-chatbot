@@ -1,5 +1,0 @@
-Guidance
-
-Rule 12.2.1(1) requires a Petroleum Reporting Entity to fully comply with all binding requirements set out in the Petroleum Reporting Standard (including any tables, appendices or schedules). The Regulator also expects a Petroleum Reporting Entity to fully comply with all non-mandatory requirements set out in the Petroleum Reporting Standard, or explain their non-compliance in accordance with Rule 12.2.2.
-
-12.2.3 A Petroleum Reporting Entity must disclose Petroleum Resources in the most specific resource class that the Petroleum Resources can be classified under the Petroleum Reporting Standard.

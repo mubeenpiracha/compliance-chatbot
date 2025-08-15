@@ -1,5 +1,0 @@
-5.
-
-Generally, a Fund Manager using the Incorporated Cell Company structure can manage any specialist classes of Funds using the infrastructure of the Fund Platform. However, some types of specialist classes of Funds may not be easily established on a Fund Platform, such as a Fund of Funds, Master Fund or an Umbrella Fund because of their unique structures. If an applicant wishes to establish one of these specialist classes of Funds on a Fund Platform, the DFSA will consider what practical difficulties would arise in that context, including any additional clarification or Rule changes if needed.
-
-13.

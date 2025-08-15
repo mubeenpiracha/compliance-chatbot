@@ -1,5 +1,0 @@
-assets and liabilities.
-
-5.5.2 For the purposes of determining the net present value of expected future payments in accordance with Rule 5.4.10, an Insurer must use as a discount rate the gross redemption yield, as at the Solvency Reference Date, of a portfolio of AAA-Rated sovereign risk securities with a similar expected payment profile to the liability being measured.
-
-5.5.3 For the purposes of determining the net present value of expected future receipts in accordance with Rule 5.4.11, an Insurer must use as a discount rate the gross redemption yield, as at the Solvency Reference Date, of a portfolio of AAA-Rated sovereign risk securities with a similar expected payment profile to the asset being measured.

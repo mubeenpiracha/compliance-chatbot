@@ -1,9 +1,0 @@
-Displaced Commercial Risk Capital Requirement
-
-3.8.6
-
-An Authorised Firm Managing a PSIAu must calculate its Displaced Commercial Risk Capital Requirement in accordance with IFR chapter 5.
-
-3.8A Stored Value Capital Requirement
-
-3.8A.1 This section applies to an Authorised Firm in Category 3C that issues Stored Value.

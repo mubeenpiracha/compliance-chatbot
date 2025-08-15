@@ -1,9 +1,0 @@
-the Fiat Crypto Token is a Recognised Crypto Token; and
-
-(b)
-
-the Clearing House is reasonably satisfied that the risks associated with using the Fiat Crypto Token, including market, credit and liquidity risks, are low.
-
-Guidance
-
-A Fiat Crypto Token is defined in GEN A2.5.5 as a Crypto Token the value of which purports to be determined by reference to a fiat currency or fiat currencies. The DFSA would expect the following features to be in place if a Fiat Crypto Token is used for clearing and settlement:

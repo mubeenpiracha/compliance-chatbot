@@ -1,5 +1,0 @@
-An Authorised Person must only use external credit assessments by an ECAI for the purposes of mapping the ratings from that ECAI to Credit Quality Grades. The Regulator may impose conditions on the use of such external credit assessments.
-
-4.11.5
-
-An Authorised Person must use external credit assessments by an ECAI consistently for each type of Exposure, for both risk weighting and risk management purposes. Where an Authorised Person has two external credit assessments which map into different Credit Quality Grades, it must assign the CR Exposure to the Credit Quality Grade associated with the higher risk weight. Where an Authorised Person has three or more external credit assessments which map into two or more different Credit Quality Grades, it must assign the CR Exposure to the Credit Quality Grade associated with the higher of the two lowest risk weights.

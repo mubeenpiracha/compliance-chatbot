@@ -1,7 +1,0 @@
-Guidance
-
-Rule 12.2.1 applies to all disclosures made or required to be made under these Rules which include a statement about Petroleum Resources, including estimates of Petroleum Reserves, Contingent Resources or Prospective Resources, including within a Prospectus, Exempt Offer document, bidder’s and target’s statements, annual reports, financial statements, technical papers, presentations, and website content and disclosures.
-
-To ensure consistency of its disclosures, Issuers and Petroleum Reporting Entities should be mindful of the table format for disclosure of Petroleum Resources set out in Form-12-1.
-
-12.2.2 Where a disclosure by a Petroleum Reporting Entity does not meet a non-mandatory requirement contained in the Petroleum Reporting Standard, the Petroleum Reporting Entity must provide in its disclosure a statement as to how and why its disclosure differs from the non-mandatory requirement contained in the relevant Petroleum Reporting Standard.

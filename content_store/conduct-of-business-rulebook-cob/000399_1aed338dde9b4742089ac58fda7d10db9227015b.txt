@@ -1,7 +1,0 @@
-(4)
-
-The Payment Service Provider must immediately report any incident arising under (2) to the Regulator in such form as the Regulator may direct, and such report must include the details of the case and the reasons for taking action.
-
-(5)
-
-The Payment Service Provider must restore access to the Payment Account once the reasons for denying access no longer justify such denial of access.

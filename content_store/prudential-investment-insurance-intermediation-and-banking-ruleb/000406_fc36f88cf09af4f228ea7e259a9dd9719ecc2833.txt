@@ -1,9 +1,0 @@
-In the case of Credit Risk the mitigant, embedded Options which may reduce the term of the credit protection must be taken into account so that the shortest possible residual maturity is used. Where a call is at the discretion of the protection seller, the residual maturity will be at the first call date. If the call is at the discretion of the Authorised Person but the terms of the arrangement at origination of the Credit Derivative contain a positive incentive for the Authorised Person to call the transaction before contractual maturity, the remaining time to the first call date will be deemed to be the residual maturity.
-
-4.13.16
-
-(1)
-
-An Authorised Person must calculate the value of the CRM adjusted for any Maturity Mismatch (referred to as "PA"), using the following formula:
-
-PA = P(t-0.25)/(T-0.25)

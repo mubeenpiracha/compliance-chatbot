@@ -1,9 +1,0 @@
-Transactions in derivatives
-
-(1)
-
-The total exposure of a Public Fund to Derivatives may not exceed the net asset value of the Fund Property.
-
-(2)
-
-The Fund Manager’s systems and controls must include adequate risk management processes which enable it to monitor and measure as frequently as appropriate the risk of a Fund’s Derivative positions and their contribution to the overall risk profile of the Fund.

@@ -1,9 +1,0 @@
-Canada France Germany European
-
-Hong Kong Italy Japan Korea Netherlands Singapore Spain Sweden Switzerland UK US
-
-TSE 35, TSE 100, TSE 300 CAC 40, SBF 250 DAX Dow Jones Stoxx 50 Index, FTSE Eurotop 300, MSCI Euro Index Hang Seng MIB 30 Nikkei 225, Nikkei 300, TOPIX Kospi AEX Straits Times Index IBEX 35 OMX SMI FTSE 100, FTSE Mid 250, FTSE All Share S&P 500, Dow Jones Industrial Average, NASDAQ Composite, Russell 2000
-
-A6.4
-
-Foreign Exchange Risk Capital Requirement

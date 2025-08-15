@@ -1,5 +1,0 @@
-Guidance
-
-A Relevant Person should undertake CDD in a manner proportionate to the customer’s money laundering risks identified under Rule 6.1.1(1). This means that all customers are subject to CDD under section 7.3. However, for high risk customers, additional Enhanced CDD measures should also be undertaken under section 7.4. For low risk customers, section 7.3 may be modified according to the risks in accordance with section 7.5.
-
-7.2

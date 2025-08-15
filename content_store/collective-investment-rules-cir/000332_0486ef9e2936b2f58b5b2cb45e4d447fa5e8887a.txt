@@ -1,7 +1,0 @@
-Guidance
-
-See also Guidance item 4 under Rule 13.9.6 for the difference between an Exchange Traded Fund or ETF and other exchange traded Open-ended Funds.
-
-Systems and controls
-
-A Fund Manager of an ETF must take reasonable steps to ensure that any Authorised Participant it appoints has adequate systems and controls to ensure that the Units of the ETF are traded on-market at a price that does not significantly vary from the most recent Net Asset Value (NAV) of the ETF, or the indicative Net Asset Value (iNAV) of the ETF, if available.

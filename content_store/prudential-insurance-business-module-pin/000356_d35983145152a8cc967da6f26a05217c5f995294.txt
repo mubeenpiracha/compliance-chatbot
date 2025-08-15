@@ -1,5 +1,0 @@
-A8.3 Applicability of components to assets of the fund
-
-A8.3.1 Subject to Rule A8.3.2, an Insurer must calculate those components of the Minimum Fund Capital Requirement in respect of a Long-Term Insurance Fund, that are relevant to assets, in respect of every asset that is attributable to the Long- Term Insurance Fund.
-
-A8.3.2 Where an Insurer arranges its affairs such that Invested Assets attributable to a Long-Term Insurance Fund are held in a Related entity, the Insurer may, with the written approval of the DFSA, calculate components of the Minimum Fund Capital Requirement by reference to the interest of the Long-Term Insurance Fund in the assets that are held by the Related entity, instead of by reference to the interest that the Long-Term Insurance Fund has in that Related entity. In that case this appendix shall be interpreted as though the assets (representing the Long-Term Insurance Fund’s interest) held by the Related entity were held directly by the Long- Term Insurance Fund.

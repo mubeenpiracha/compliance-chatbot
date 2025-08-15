@@ -1,9 +1,0 @@
-Except as provided otherwise in this Chapter, a Captive Insurer that maintains any Long-Term Insurance Fund must complete a Fund Return in respect of each Long-Term Insurance Fund that it maintains. A Fund Return includes all of the assets, liabilities, revenues and expenses attributable to the Fund, regardless of the residency status or location of the customer or of any asset or liability. A Captive Insurer to which this Rule applies is not required to complete a Fund Return in the following cases:
-
-(a)
-
-where the Captive Insurer is deemed to constitute a single, Long-Term Insurance Fund, such that the information contained in the Fund Return would be identical to that in the Global Return; and
-
-(b)
-
-where, in the case of a Captive Insurer which is a Cell Company, a Captive Cell of the Captive Insurer is deemed to constitute a single, Long-Term Insurance Fund, such that the information contained in the Fund Return would be identical to that in the Cell Return.

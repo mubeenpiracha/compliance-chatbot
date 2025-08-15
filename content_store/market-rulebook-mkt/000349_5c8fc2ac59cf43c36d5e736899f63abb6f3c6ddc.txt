@@ -1,7 +1,0 @@
-(2)
-
-A Reporting Entity must notify the Regulator if it becomes aware, or has reason to believe, that the auditor or the relevant audit staff of the auditor are no longer independent of the Reporting Entity, or have a conflict of interest which may affect their judgement in respect of the Reporting Entity.
-
-Guidance
-
-A Reporting Entity should consider whether there is any financial or personal relationship between it or any of its relevant Employees and the auditor or any of the relevant Employees of the auditor that may affect the judgement of the auditor when conducting an audit of the Reporting Entity or complying with all its legal obligations, including FSMR, GEN, AML and other relevant Rulebooks.

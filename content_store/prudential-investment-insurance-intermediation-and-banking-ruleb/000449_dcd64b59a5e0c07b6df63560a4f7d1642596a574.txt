@@ -1,5 +1,0 @@
-Guidance
-
-The firm may also recognise such an overlap between capital charges for Specific Risk in relation to positions in the Trading Book and capital charges for positions in the Non-Trading Book, provided that the firm is able to calculate and compare the capital charges for the relevant positions.
-
-However, if overlapping facilities are provided by different Authorised Persons, each Authorised Person must calculate Capital Requirement for the maximum amount of its Exposure.

@@ -1,7 +1,0 @@
-Special Purpose Entity (SPE)
-
-A corporation, trust, or other entity organised for a specific purpose, the activities of which are limited to those appropriate to accomplish the purpose of the SPE, and the structure of which is intended to isolate the SPE from the Credit Risk of an Originator or seller of Exposures. SPEs are commonly used as financing vehicles in which Exposures are sold to a trust or similar entity in exchange for cash or other assets funded by debt issued by the trust.
-
-Specific Risk
-
-The risk that losses on an Authorised Person's net long or short position in an individual equity or Security may arise from a negative or positive price movement of that equity or Security relative to the relevant market generally.

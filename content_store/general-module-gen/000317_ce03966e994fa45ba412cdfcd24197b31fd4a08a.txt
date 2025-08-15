@@ -1,9 +1,0 @@
-Guidance
-
-1.
-
-The DFSA expects the Governing Body of an Authorised Person to demonstrate a thorough understanding of Cyber Risk to which it is or might be exposed. For that purpose, the Governing Body should be regularly updated on current global cyber trends and be included in cybersecurity training, cyber awareness campaigns and similar activities conducted by the Authorised Person.
-
-2.
-
-Management information on Cyber Risk and mitigation measures should be presented to the Governing Body in a way that can be easily understood and analysed. It should include information on current and emerging Cyber Risks and the efficiency of existing mitigation measures. For example, the DFSA expects the Governing Body to be informed where a key performance indicator signals that a Cyber Risk control may be underperforming or failing, leading to the Cyber Risk exposure approaching the Authorised Person’s risk tolerance.

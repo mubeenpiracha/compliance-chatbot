@@ -1,7 +1,0 @@
-Guidance
-
-The liability referred to in Rule 5.4.7 is commonly represented by insurers as two separate provisions, the unearned premium provision and the premium deficiency provision. The sum of the two provisions is sometimes referred to as the unexpired risk reserve, though this term is also sometimes used to describe the premium deficiency provision alone.
-
-5.4.8
-
-An Insurer must treat as a liability the value of future claims payments and associated direct and indirect settlement costs, arising from insured events that have occurred as at the Solvency Reference Date.

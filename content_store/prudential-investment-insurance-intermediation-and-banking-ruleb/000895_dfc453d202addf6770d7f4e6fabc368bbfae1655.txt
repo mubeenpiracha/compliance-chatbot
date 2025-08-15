@@ -1,5 +1,0 @@
-APP5 CREDIT VALUATION ADJUSTMENT (CVA) RISK
-
-A5.1 Meaning of Credit Valuation Adjustment
-
-For the purposes of this Appendix, "Credit Valuation Adjustment" or "CVA" means an adjustment to the fair value of the portfolio of transactions with a counterparty. The adjustment reflects the current market value of the Credit Risk of the counterparty to the Authorised Person, but does not reflect the current market value of the credit risk of the Authorised Person to the counterparty.

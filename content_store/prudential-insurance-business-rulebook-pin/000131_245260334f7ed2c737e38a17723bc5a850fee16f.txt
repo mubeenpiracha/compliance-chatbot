@@ -1,9 +1,0 @@
-Guidance
-
-1.
-
-The objective of Rule 8.3.1(1)(a) is to avoid the necessity for multiple reporting of group capital adequacy.
-
-2.
-
-Where a Financial Group includes both Insurers and entities subject to PRU, it is necessary to determine whether the Financial Group supervision applicable to the Financial Group should be that set out in Chapter 8.3 or PRU 8.3. Normally, the Regulator will exercise its power under Rule 8.3.2 based on the relative size of the assets of the Financial Institutions undertaking Insurance Business (representing the insurance sector) and the assets of other Authorised Persons and Financial Institutions (representing a combined non-insurance sector). Pure holding companies will be excluded as being in neither sector. The Rules that will apply will be those of the sector with the larger total assets of the two. However, where the ratio of the assets of the two sectors differs by less than 1.5:1, the Regulator will consider a request from the Authorised Persons in the Financial Group to apply the sectoral rules applicable to the smaller of the two sectors.

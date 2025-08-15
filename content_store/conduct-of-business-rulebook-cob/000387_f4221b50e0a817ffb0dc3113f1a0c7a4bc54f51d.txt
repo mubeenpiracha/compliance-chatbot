@@ -1,3 +1,0 @@
-Avoidance of duplication of information under a Framework Contract
-
-19.5.3 Where a Payment Order for an individual Payment Transaction is transmitted by way of a Payment Instrument issued under a Framework Contract, the Payment Service Provider in respect of that single Payment Transaction need not provide or make available under Rule 19.5.1 the general information which has been provided or will be provided under Section 19.2 by another Payment Service Provider in respect of a Framework Contract.

@@ -1,5 +1,0 @@
-A6.3 Applicability of components to assets of the Insurer
-
-A6.3.1 Subject to Rules A6.3.2 and A6.3.3, an Insurer must calculate those components of a Minimum Segmental Capital Requirement that are relevant to assets, in respect of every asset that is attributable to that segment and that is available to meet liabilities attributable to that segment.
-
-A6.3.2 Where an Insurer arranges its affairs such that Invested Assets attributable to a segment are held in a Related entity, the Insurer may, with the written approval of the Regulator, calculate components of the relevant Minimum Segmental Capital Requirement by reference to the Insurer's interest in the assets that are held by the Related entity, instead of by reference to the interest that the Insurer has in that Related entity. In that case this appendix shall be interpreted as though the assets (representing the Insurer's interest) held by the Related entity were held directly by the Insurer.

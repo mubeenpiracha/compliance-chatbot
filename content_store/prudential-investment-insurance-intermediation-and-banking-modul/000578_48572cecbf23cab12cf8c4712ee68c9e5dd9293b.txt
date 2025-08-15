@@ -1,7 +1,0 @@
-h.
-
-all trading positions, profits and losses, cash flows and calculations associated with a transaction should be clearly recorded in the Authorised Firm’s management information systems with a documented audit trail. The audit trail should allow for the tracing of cash flows at a sufficiently granular level (e.g. traders, books, products and portfolios);
-
-i.
-
-appropriate procedures for confirmation of the terms and conditions of transactions with external Counterparties/clients should be established;

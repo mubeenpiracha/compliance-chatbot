@@ -1,3 +1,0 @@
-Exclusions
-
-2.6.2 A Person who is an Authorised Firm does not Provide Money Services for the purposes of Rule 2.2.2 if it does so in relation to the carrying on of another Financial Service where Providing Money Services is in connection with and a necessary part of that other Financial Service.

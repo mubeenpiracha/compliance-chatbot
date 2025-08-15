@@ -1,3 +1,0 @@
-11. A Fund Manager that uses the ICC structure to establish and manage Funds is not prevented from also managing other Funds outside that structure. However, the Fund Manager cannot use the infrastructure available in the Incorporated Cell Company to provide services to Funds that are not Incorporated Cells of the ICC (see Rule 6A.1.4(c)).
-
-12. This chapter sets out various requirements that apply to a Fund Manager that uses a Fund Platform to manage Funds constituted as Incorporate Cells of that ICC. These requirements should be read in conjunction with the other obligations, particularly under the ICC Regulations.

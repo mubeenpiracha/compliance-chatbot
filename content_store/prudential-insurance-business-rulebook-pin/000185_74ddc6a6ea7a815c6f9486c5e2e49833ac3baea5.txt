@@ -1,7 +1,0 @@
-Suitable controls should be in place to ensure that the data used in determining the Insurance Liabilities are extracted from the underlying records accurately and to the necessary level of detail. The level of detail should be sufficient to ensure that the data available to managers in their assessment of Insurance Liabilities covers the whole of its liabilities and exposures under Contracts of Insurance.
-
-10.
-
-Scenario testing should cover a period of several years into the future, particularly in the case of an Insurer carrying on Long-Term Insurance Business.
-
-A2.6

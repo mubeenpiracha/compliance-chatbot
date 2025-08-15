@@ -1,9 +1,0 @@
-Means the Financial Intelligence Unit of the UAE.
-
-Means a Fund that is not a Domestic Fund.
-
-Means a Fund Manager that is neither established in, nor operates from a place of business in, ADGM.
-
-Means, in relation to GEN 4.6.1(2)(c), any laws, regulations or administrative provisions of a country, territory or jurisdiction other than ADGM.
-
-Means a contract for the performance of Payment Services that governs the future execution of individual and successive Payment Transactions and which may contain the obligation and conditions for setting up a Payment Account.

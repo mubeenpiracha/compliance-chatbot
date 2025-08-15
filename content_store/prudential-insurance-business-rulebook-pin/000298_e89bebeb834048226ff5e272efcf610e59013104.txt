@@ -1,3 +1,0 @@
-A5.8 Adjusted cellular equity
-
-A5.8.1 An Insurer must calculate its adjusted cellular equity in respect of each Cell by adding items to and deducting them from the base cellular capital of that Cell, as set out in this section.

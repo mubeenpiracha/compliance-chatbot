@@ -1,9 +1,0 @@
-(c) NSFR Shari’a compliant hedging assets net of NSFR Shari’a compliant hedging liabilities if NSFR Shari’a compliant hedging assets are greater than NSFR Shari’a compliant hedging liabilities;
-
-(d) all other assets not included in the above categories, including non-
-
-performing loans, loans to financial institutions with a residual maturity of one year or more, non-exchange-traded equities, fixed assets, items deducted from regulatory capital, retained interest, insurance assets, subsidiary interests and defaulted securities;
-
-(e) 20% of derivative liabilities (i.e. negative replacement cost amounts),
-
-before deducting variation margin posted; and

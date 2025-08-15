@@ -1,9 +1,0 @@
-4.15.16 Where the value of the Collateral under the stress scenario is lower than the value applied under Rule 4.15.12 the lower value should be used when determining the Exposure value for the purposes of this Section.
-
-Guidance
-
-Such stress tests should include market value changes of underlying Collateral, risks relating to liquidity and realisation of such Collateral in stress scenarios. An assessment of the impact of any such changes on the Exposure value and the capital position of the Authorised Person should be conducted. Stress testing of these positions should be conducted at least once a year.
-
-4.15.17 An Authorised Person must document its policy for the use of any of the exclusions in
-
-Rule 4.15.12.

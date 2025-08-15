@@ -1,7 +1,0 @@
-Guidance
-
-The purpose of the off-balance sheet liability risk component is to require an Insurer to set aside capital to cover the risk that it will be required to perform on a guarantee, letter of credit or other credit substitute that it has entered into. Although such items are not liabilities of the Insurer as at the Solvency Reference Date, they have the capacity to crystallise as liabilities at a subsequent date and therefore to affect the Insurer's capital position.
-
-A4.7.1 An Insurer must calculate an off-balance sheet liability risk component if the Insurer has issued guarantees, including put options serving as guarantees, letters of credit or any other credit substitute (other than an insurance contract) in favour of another party, so that the Insurer is exposed to the risk of having to make payment on those instruments should the guaranteed party default.
-
-A4.7.2 An Insurer must calculate its off-balance sheet liability risk component as the sum of the amounts obtained by applying the calculations set out in Rule A4.7.3 in respect of each guarantee, letter of credit or other credit substitute.

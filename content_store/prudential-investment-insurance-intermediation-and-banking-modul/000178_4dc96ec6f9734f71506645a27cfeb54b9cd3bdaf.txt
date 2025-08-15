@@ -1,5 +1,0 @@
-Guidance
-
-1. The DFSA is likely to base the HLA Ratio it determines for a G-SIB on the rate specified for that G-SIB by the Financial Stability Board, in consultation with the Basel Committee. For a D-SIB, the DFSA will determine an HLA Ratio that is between 1% and 3.5% (see Rule 3.9B.6(2)).
-
-2. The Schedule 3 procedures and the right of review by the FMT do not apply to a rate applied to a G-SIB designated under Rule 1.4.1. This is because the rate specified by the DFSA for such a G-SIB will be the rate recommended by the FSB and Basel Committee.

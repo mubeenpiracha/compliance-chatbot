@@ -1,9 +1,0 @@
-The prohibition also applies in relation to Funds that invest in Crypto Tokens. An Authorised Firm is prohibited from managing, offering or promoting a Fund that invests in unrecognised Crypto Tokens except as specified in Rule 3A.2.1(3). This prohibition covers not only Funds that invest directly in unrecognised Crypto Tokens, but also those that have an exposure using derivatives or that track an index that includes unrecognized Crypto Tokens. It also applies to indirect investment in unrecognised Crypto Tokens such as by the use of Feeder Funds or Exchange Traded Funds (see Rule 3A.1.2). Similarly, an Authorised Firm that is Managing Assets may only provide discretionary management of a Crypto Token that is recognised.
-
-6.
-
-The gross asset value of a Fund under Rule 3A.2.1(3)(b) should be calculated as the total value of the Fund Property, based on the most recent valuation under CIR Rule 8.4.1(1).
-
-7.
-
-Crypto Tokens that are prohibited from being used in the DIFC, such as Privacy Tokens and Algorithmic Tokens, cannot be recognized by the DFSA (see Rule 3A.3.4(1)).

@@ -1,7 +1,0 @@
-Any unit in a Collective Investment Fund
-
-Cash in the same currency as the underlying exposure Instruments in the Trading Book other than those listed (for pre-settlement Counterparty Exposures arising from SFTs included in the Trading Book).
-
-Highest haircut applicable to any Security in which the Fund can invest 0
-
-25

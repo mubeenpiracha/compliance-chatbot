@@ -1,9 +1,0 @@
-Guidance
-
-1. The exclusions in Rules 2.19.3 and 2.19.3A apply to certain Insurance Intermediation activities which occur in the course of carrying on other businesses.
-
-2. Rule 2.19.3 applies to activities carried on as a necessary part of a professional service, such as insurance advice provided by an accountant or solicitor as part of estate planning or tax advice.
-
-3. Rule 2.19.3A applies to activities that are ancillary and complementary to a business of providing goods or services. This might include, for example, a travel agent arranging travel insurance or a supplier of electrical goods arranging insurance of those goods. It does not apply if the main service or good is not provided to the customer, for example, if a travel agent does not provide the main travel service to the customer.
-
-2.19.4 A Person does not give advice in relation to a Contract of Insurance by giving advice in any newspaper, journal, magazine, broadcast service or similar service in any medium if the principal purpose of the publication or service, taken as a whole, is neither:

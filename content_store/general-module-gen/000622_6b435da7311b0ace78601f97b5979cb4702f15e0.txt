@@ -1,9 +1,0 @@
-When is an Investment Token a Debenture?
-
-21.
-
-A Debenture is an instrument creating or acknowledging indebtedness, whether accrued or not, but does not include certain instruments specified in Rule A2.2.1(b) (such as a cheque or a letter of credit).
-
-22.
-
-A Token that creates or acknowledges indebtedness by representing money owed to the Token holder, but does not fall within the exclusions mentioned above, is considered a Debenture and constitutes both an Investment Token and a Security Token.

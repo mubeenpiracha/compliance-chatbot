@@ -1,3 +1,0 @@
-16.
-
-A Person, who has the power and authority to give directions in relation to Crypto Tokens, controls that Token. Generally, the Person who is the legal owner would have the power to give such directions. For example, directions to effect transactions in the form of exchanging or transferring the Token, participating in the consensus mechanism where applicable, reinvesting rewards or other income arising from the token, or exercising other rights, including rights of early access or discounts to products and services offered on the native blockchain of the Token. A firm Providing Custody would carry out such tasks for the purposes of administering the Client’s Crypto Tokens, either directly itself or indirectly through a Third Party Agent.

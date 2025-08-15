@@ -1,9 +1,0 @@
-(e)
-
-allow users of its market to obtain Inside Information, including any Offer documents pursuant to MKT Rule 4.3.5 relevant to the Securities.
-
-Guidance
-
-MKT Rule 4.3.1(13) provides for the specific circumstance where an Exempt Offer can be directed to no more than 200 Persons who do not qualify as Professional Clients, where the Securities are to be admitted to trading on a MTF. An Issuer seeking admission to trading of its Securities on an MTF in accordance with MKT Rule 4.3.1(13) may also, pursuant to MKT Rule 4.3.3, utilise an Exempt Offer that relies on one or more of the circumstances within MKT Rule 4.3.1, with the exception of MKT Rule 4.3.1(2). For example, an Issuer may make a simultaneous Exempt Offer to 200 Persons under MKT rule 4.3.1(13), and an unlimited number of Professional Clients under MKT Rule 4.3.1(1).
-
-8.3

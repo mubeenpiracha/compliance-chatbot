@@ -1,7 +1,0 @@
-A4.11 Reserving risk component
-
-Guidance
-
-The purpose of the reserving risk component of the Minimum Capital Requirement is to require an Insurer to set aside capital to address the risk that the cost of claims in respect of General Insurance Business will vary from the amounts recorded as liabilities in the Insurer's balance sheet. This calculation applies only to liabilities in respect of outstanding claims (the risk of deterioration in Premium Liability is addressed in the underwriting risk component in Rule A4.10). The principles of the calculation are similar to those in Rule A4.10.
-
-A4.11.1 Subject to the other provisions of this section, an Insurer must calculate its reserving risk component as the sum of the amounts obtained by multiplying the Insurer's base claims reserve under Contracts of Insurance and reinsurance effected by it, for each Class of Business, by the percentage factors set out in the following table.

@@ -1,9 +1,0 @@
-e.
-
-the Authorised Person's internal model should conservatively assess the risk arising from less liquid positions and positions with limited price transparency under realistic market scenarios. In addition, the internal model should meet minimum data standards. Proxies should be appropriately conservative and should be used only where available data is insufficient or is not reflective of the true volatility of a position or portfolio.
-
-Authorised Persons may, in any internal model used for purposes of Chapter 5, use empirical correlations within risk categories and across risk if the Authorised Person's approach for measuring categories only correlations is sound and implemented with integrity.
-
-376
-
-PRU VER17.290725

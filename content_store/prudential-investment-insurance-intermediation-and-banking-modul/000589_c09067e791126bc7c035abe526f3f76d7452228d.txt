@@ -1,7 +1,0 @@
-payment fraud or other abuses.
-
-(2) If a payer initiates a Payment Transaction directly or through a Payment Initiation Service, the Authorised Firm must apply SCA that includes elements which dynamically link the transaction to a specific amount and a specific payee.
-
-(3) If a multipurpose device is used in the SCA process, the Authorised Firm must adopt adequate security measures that mitigate the risk of the device being compromised.
-
-(4) The Authorised Firm must maintain adequate security measures to protect the

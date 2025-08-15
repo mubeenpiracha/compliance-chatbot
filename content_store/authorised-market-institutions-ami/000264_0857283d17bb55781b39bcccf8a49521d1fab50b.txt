@@ -1,7 +1,0 @@
-Collateral
-
-(1)
-
-A Clearing House which requires collateral to manage its own, its Members’ or other participants’ credit risks arising in the course of or for the purposes of its payment, clearing, and settlement processes must:
-
-(a)

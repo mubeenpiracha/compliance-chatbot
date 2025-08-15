@@ -1,7 +1,0 @@
-Guidance
-
-When deciding what level of explanation is appropriate for a Client to whom a contract of insurance that does not fully meet that Client’s requirements is recommended, the Insurer or Insurance Intermediary should take into consideration the knowledge held by the Client in relation to the type of insurance in question. The explanation should include sufficient information so that the Client can understand easily the differences between what is recommended and the Client’s requirements, and the advantages and disadvantages of the recommended insurance, including any financial or other risks the Client may face if the recommended policy does not fully meet the Client’s requirements.
-
-7.8.4 Where an Insurance Intermediary is instructed to obtain insurance which is contrary to the advice that it has given to a Client, the Insurance Intermediary must obtain from the Client written confirmation of the Client’s instructions before arranging or buying the relevant insurance.
-
-7.9 Managing conflicts of interest

@@ -1,3 +1,0 @@
-(c)
-
-if an Authorised Firm has experienced more than two margin call disputes on a particular Netting Set over the previous two quarters that have lasted longer than the applicable minimum holding period (before consideration of this provision), the Authorised Firm must use a minimum holding period that is at least double the supervisory floor for that Netting Set for the subsequent two quarters.

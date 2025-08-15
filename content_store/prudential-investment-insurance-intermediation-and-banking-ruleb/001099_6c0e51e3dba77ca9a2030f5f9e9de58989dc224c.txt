@@ -1,5 +1,0 @@
-The caps on Level 2 HQLA and Level 2B HQLA must be determined after applying the haircuts required under Rules A10.2.7 and A10.2.8, and after unwinding the amounts of HQLA involved in short-term secured funding, secured lending and Collateral swap transactions maturing within 30 calendar days that involve the exchange of HQLA.
-
-(4)
-
-The assets to be included in each category of HQLA must be restricted to assets being held or owned by the Authorised Person on the first day of the stress period, irrespective of their residual maturity.

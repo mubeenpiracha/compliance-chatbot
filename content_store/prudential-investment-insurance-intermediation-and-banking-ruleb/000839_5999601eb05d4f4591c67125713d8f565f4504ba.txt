@@ -1,3 +1,0 @@
-Trade Exposures in an indirect clearing arrangement
-
-A4.9.11 Where an Authorised Person that is a client accesses the services of a CCP through indirect clearing arrangements (where, for example it is a client of a clearing member's client), it may calculate Credit RWA in respect of its exposure to its intermediary in accordance with Rules A4.9.7 and A4.9.8, provided that the conditions set out in Rule A4.9.8 are satisfied at every level of the chain of intermediaries.

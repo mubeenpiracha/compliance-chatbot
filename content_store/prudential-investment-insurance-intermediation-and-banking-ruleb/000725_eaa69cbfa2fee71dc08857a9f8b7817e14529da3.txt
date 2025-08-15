@@ -1,9 +1,0 @@
-types and coverage of Collateral.
-
-An Authorised Person should have procedures for taking appropriate action according to the information within the management reports, such as a review of Counterparty limits.
-
-Particular attention should be given to the monitoring of credit that does not conform to usual Credit Risk policy, or which exceeds predetermined credit limits and criteria, but is sanctioned because of particular circumstances. Unauthorised exceptions to policies, procedures and limits should be reported in a timely manner to the appropriate level of management.
-
-Individual credit facilities and overall limits and sub-limits should be periodically their performance and appropriateness for both the current circumstances of the Counterparty and internal and external economic in the Authorised Person's current environment. The frequency of review will usually be more intense for higher-risk Counterparties or larger Exposures or in fluctuating economic conditions.
-
-reviewed

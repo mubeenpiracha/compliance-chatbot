@@ -1,7 +1,0 @@
-identification of the major or most critical counterparties, or in respect of a Recognised Clearing House clearing members, of the Institution, as well as an analysis of the impact of the failure of major counterparties or clearing members, as applicable, in the Institution's financial situation;
-
-each system on which the Institution conducts a material number or value amount of trades, including a mapping to the Institution's legal entities, critical operations and Core Business Lines;
-
-each payment and securities settlement system, Central Securities Depository, clearing house, Recognised Clearing House, exchange and Recognised Investment Exchange of which the Institution is directly or indirectly a member, including a mapping to the Institution's legal entities, critical operations and Core Business Lines;
-
-a detailed inventory and description of the key management information systems, including those for risk management, accounting and financial and regulatory reporting used by the Institution including a mapping to the Institution's legal entities, critical operations and Core Business Lines;

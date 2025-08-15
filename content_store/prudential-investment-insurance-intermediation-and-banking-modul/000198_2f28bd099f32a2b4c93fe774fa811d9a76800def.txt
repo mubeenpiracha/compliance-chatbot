@@ -1,9 +1,0 @@
-CET1 Adjustments
-
-3.13.5 An Authorised Firm must, in the calculation of CET1 Capital, exclude the following:
-
-(a)
-
-any increase in its equity under the International Financial Reporting Standards; including:
-
-(i) where such an increase is associated with future margin income that

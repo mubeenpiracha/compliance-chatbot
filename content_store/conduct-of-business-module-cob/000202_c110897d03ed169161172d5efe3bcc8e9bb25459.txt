@@ -1,5 +1,0 @@
-In relation to assets referred to in Guidance item 3 that are held in the Client’s name, only specific Rules in App 5 (Client Money Provisions) and App 6 (Safe Custody Provisions) are likely to be relevant, as the assets are already held in the Client’s own name and the firm will control rather than hold the assets. A firm with such a discretionary mandate will also need to comply with other relevant requirements in the Rulebook, such as GEN Rule 2.2.10A requiring an endorsement to hold or control Client Assets, and GEN 8.6 section requiring an audit report relating to Client Assets.
-
-5.
-
-If an Authorised Firm is Providing Money Services, funds or assets that it receives from, or that are for the benefit of, a User will be Client Assets held or controlled by the firm.

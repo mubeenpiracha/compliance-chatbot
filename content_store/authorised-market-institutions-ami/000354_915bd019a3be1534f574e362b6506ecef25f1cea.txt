@@ -1,9 +1,0 @@
-APP3 CONTRACT DELIVERY SPECIFICATIONS
-
-A3.1 Application
-
-A3.1.1 This Appendix applies to an Authorised Market Institution which trades, or clears or settles, on its facilities Commodity Derivative contracts which require physical delivery of the underlying commodity.
-
-A3.2 Deliverability of the underlying commodity
-
-A3.2.1 An Authorised Market Institution referred to in A3.1.1 must, for the purposes of meeting the requirement in Rule 6.3.2(1)(b), ensure that the terms and conditions of the Commodity Derivative contracts which are to be traded, or cleared or settled, on its facilities, are designed to include the matters specified in Rules A3.2.2 – A3.2.9.

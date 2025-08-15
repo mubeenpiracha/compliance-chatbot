@@ -1,9 +1,0 @@
-Credit Risk mitigation
-
-4.14.47 Where an Authorised Firm obtains credit protection on a securitisation Exposure, the calculation of Credit RWA amounts must be in accordance with the Rules in Credit Risk mitigation in section 4.13.
-
-4.14.48 Where an Authorised Firm provides credit protection to a securitisation Exposure it must calculate a Capital Requirement as if it were an investor in the securitisation in line with section 4.13.
-
-4.14.49 An Authorised Firm must not recognise any SPE which is an Issuer of securitisation Exposures, as an eligible credit protection provider. Guarantees provided must meet the requirements of section 4.13.
-
-4.14.50 For the purpose of setting regulatory capital against a maturity mismatch, the Capital Requirement must be determined in accordance with section 4.13. When Exposures being hedged have different maturities, the longest maturity must be used. Maturity of credit protection must be calculated in accordance with section 4.13.

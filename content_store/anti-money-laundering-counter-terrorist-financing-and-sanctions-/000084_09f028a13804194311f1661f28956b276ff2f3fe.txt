@@ -1,9 +1,0 @@
-transactions
-
-Guidance on the customer risk assessment
-
-1.
-
-The risk assessment of a customer, which is illustrated in figure 3 above, requires a Relevant Person to allocate an appropriate risk rating to every customer. The DFSA would expect risk ratings to be either descriptive, such as “low”, “medium” or “high”, or a sliding numeric scale such as 1 for the lowest risk to 10 for the highest. Depending on the outcome of a Relevant Person’s assessment of its customer’s money laundering risk, a Relevant Person should decide to what degree CDD will need to be performed. For a high risk customer, the Relevant Person will need to undertake Enhanced CDD under section 7.4 as well as the normal CDD set out in section 7.3. For a low risk customer, the Relevant Person may be able to undertake Simplified CDD in accordance with section 7.5. For any other customer, the Relevant Person will be required to undertake the normal CDD set out in section 7.3.
-
-2.

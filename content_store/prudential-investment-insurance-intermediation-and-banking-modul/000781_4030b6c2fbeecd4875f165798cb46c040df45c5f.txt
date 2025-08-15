@@ -1,9 +1,0 @@
-Marking-to-market
-
-3.
-
-Marking-to-market is at least the daily valuation of positions at readily available close out prices in orderly transactions that are sourced independently. Examples of readily available close out prices include exchange prices, screen prices, or quotes from several independent reputable brokers.
-
-4.
-
-Authorised Firms should mark-to-market as much as possible. The more prudent side of bid/offer should be used unless the institution is a significant market maker in a particular position type and it can close out at mid-market. Authorised Firms should maximise the use of relevant observable inputs and minimise the use of unobservable inputs when estimating fair value using a valuation technique. However, observable inputs or transactions may not be relevant, such as in a forced liquidation or distressed sale, or transactions may not be observable, such as when markets are inactive. In such cases, the observable data should be considered, but may not be determinative.

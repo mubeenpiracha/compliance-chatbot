@@ -1,9 +1,0 @@
-Guidance
-
-The DFSA will, when exercising its power under Article 84N(1)(p), have regard to the impact the exercise of the power might have on the orderly functioning of financial markets.
-
-Power to restrict enforcement of security interests
-
-(1) Where the DFSA exercises its power under Article 84N(1)(q) of the Law to restrict secured creditors of an Authorised Firm in Resolution from enforcing security interests in relation to any assets of that Authorised Firm, the suspension will have effect from when notice under that Article is given, of that restriction (as an action the DFSA intends to take) until midnight at the end of the second business day after the giving of the notice.
-
-(2) A restriction shall not apply to restrict secured creditors in relation to any security interest of a payment system, Central Counterparty, Securities Settlement System, Central Securities Depository or the Central Bank over assets pledged or otherwise provided by way of margin or collateral by the Authorised Firm in Resolution.

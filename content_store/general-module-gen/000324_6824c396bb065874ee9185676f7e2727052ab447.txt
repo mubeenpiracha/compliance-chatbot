@@ -1,7 +1,0 @@
-Guidance
-
-1.
-
-The least privilege principle is a recognised information security concept that provides that only the minimum access necessary to perform an operation or task should be granted and that the access should be granted only for the minimum amount of time necessary. Its purpose is to reduce risk by limiting the number of individuals with access rights or privileges. In line with this principle, the DFSA expects an Authorised Person to base access rights and privileges, including access rights and privileges of employees, customers or third party service providers, on a user’s requirements and responsibilities and to revoke those rights and privileges as soon as they are no longer required, in particular, upon termination of employment, customer relationship or service contract, or change in an user’s requirements or tasks.
-
-2.

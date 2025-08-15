@@ -1,3 +1,0 @@
-Information prior to execution of individual Payment Transaction under a Framework Contract
-
-19.2.12 Where an individual Payment Transaction under a Framework Contract is initiated by the Payer, at the Payer’s request the Payer’s Payment Service Provider must provide the Payer with a breakdown of all charges payable by the Payer in respect of the Payment Transaction.

@@ -1,3 +1,0 @@
-Guidance
-
-The assessment under Rule A4.9.2(b) must cover the inherent risks of exposures to the CCP, including potential future credit exposures, exposures from default fund contributions and, where the Authorised Person is acting as a clearing member of the CCP, exposures resulting from contractual arrangements providing for commitments to take over or replace offsetting transactions from clients of another clearing member, in case such other clearing member defaults or becomes insolvent.

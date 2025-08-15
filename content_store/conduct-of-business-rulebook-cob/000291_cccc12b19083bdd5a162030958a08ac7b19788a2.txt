@@ -1,7 +1,0 @@
-Guidance
-
-1. This section seeks to facilitate the timely return of Client Money to Clients in the event of the Failure of an Authorised Person or a Third-Party Agent at which the Authorised Person holds Client Money.
-
-2. A Pooling Event triggers a notional pooling of all Client Money in every type of Client Account, and the obligation to distribute it in accordance with Rule 14.13.5. In such event, Clients for whom Money was placed into a specific Client Account will only be entitled to a claim against Money held in such account, and not in any other account. Money held in one Client Account may not be used to fund shortfalls of Money which may exist in respect of other Client Accounts.
-
-3. Following a Pooling Event, an Authorised Person must use the balance in each Client Account to satisfy claims of Deemed Trust beneficiaries made in accordance with Rule 14.12. To the extent that following the Failure of the Authorised Person there remains a shortfall with which to satisfy claims of Clients for whom Money had been held by the Authorised Person, the Authorised Person is liable to fund such shortfall from its own Money.

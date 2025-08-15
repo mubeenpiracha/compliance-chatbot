@@ -1,9 +1,0 @@
-3.
-
-4.
-
-Rule 2.9.4 excludes from being arranging the activity of making arrangements for a lender (such as a bank) to accept an instrument acknowledging debt by a person who has obtained credit, a loan, a guarantee or any other form of financial facility. This mirrors the similar carve-out from regulation available to banks and other lenders where they are not considered to be ‘dealing as principal’ in Investments merely because they accept instruments acknowledging debt from those obtaining credit, loans, guarantees or any other form of financial facility from them.
-
-5.
-
-Rule 2.9.6 excludes issuers of Securities or Crypto Tokens from being regarded as arrangers. For example, if an issuer of Securities or Crypto Tokens sets up a website which enables prospective buyers of Securities to read the offer document or prospective buyers of Crypto Tokens to read the white paper and apply for the relevant Securities or Crypto Tokens, the issuer is not required to have a Licence as an arranger due to this exclusion (but may have to comply with the disclosure requirements in MKT relating to the offer).

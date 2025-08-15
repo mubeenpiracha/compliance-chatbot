@@ -1,9 +1,0 @@
-with Rule 9.2.4;
-
-(b) a system for the measurement and monitoring of Liquidity Risk using a robust and consistent method which enables the Authorised Firm to implement the requirements set out in Rule 9.2.5;
-
-(c)
-
-a system for controlling Liquidity Risk which enables the Authorised Firm to implement the requirements set out in Rule 9.2.6;
-
-(d) a system for collateral management and asset encumbrance which is able to adequately identify, monitor and manage the risks associated with these activities in accordance with Rule 9.2.8;

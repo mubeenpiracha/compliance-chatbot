@@ -28,71 +28,26 @@ class RealVectorService:
         try:
             all_results = []
             
-            # Define relevant namespaces for different types of queries
-            # For fund-related queries, prioritize these namespaces
-            priority_namespaces = [
-                'collective-investment-rules-cir',
-                'collective-investment-law-consolidated-version-november-2022',
-                'fund-rulebook-funds',
-                'financial-services-and-markets-regulations-2015',
-                'glossary-rulebook-glo'
-            ]
-            
-            # Also search other key regulatory namespaces
-            other_namespaces = [
-                'conduct-of-business-rulebook-cobs',
-                'general-rulebook-gen',
-                'regulatory-law-difc-law-no-1-of-2004-consolidated-version-april-',
-                'prudential-investment-insurance-intermediation-and-banking-ruleb'
-            ]
-            
-            # Search priority namespaces first (get more results from these)
-            for namespace in priority_namespaces:
-                try:
-                    response = self.index.query(
-                        vector=query_vector,
-                        top_k=max(5, top_k // 2),  # Get more from priority namespaces
-                        include_metadata=True,
-                        namespace=namespace
-                        # Remove filter for now until we understand the metadata structure
-                    )
-                    
-                    for match in response.matches:
-                        result = self._convert_match_to_result(match, namespace)
-                        if result:
-                            all_results.append(result)
-                            
-                except Exception as e:
-                    logger.warning(f"Failed to search namespace {namespace}: {str(e)}")
-                    continue
-            
-            # Search other namespaces for additional results
-            remaining_slots = max(0, top_k - len(all_results))
-            if remaining_slots > 0:
-                for namespace in other_namespaces:
-                    try:
-                        response = self.index.query(
-                            vector=query_vector,
-                            top_k=min(3, remaining_slots),  # Get fewer from other namespaces
-                            include_metadata=True,
-                            namespace=namespace
-                            # Remove filter for now
-                        )
+            # Search across all namespaces instead of hardcoded ones
+            # This avoids namespace collision issues after our ingestion fix
+            try:
+                response = self.index.query(
+                    vector=query_vector,
+                    top_k=top_k,
+                    include_metadata=True
+                    # Note: No namespace parameter = search all namespaces
+                )
+                
+                for match in response.matches:
+                    # Extract namespace from the match if available
+                    namespace = getattr(match, 'namespace', 'unknown')
+                    result = self._convert_match_to_result(match, namespace)
+                    if result:
+                        all_results.append(result)
                         
-                        for match in response.matches:
-                            result = self._convert_match_to_result(match, namespace)
-                            if result:
-                                all_results.append(result)
-                                remaining_slots -= 1
-                                if remaining_slots <= 0:
-                                    break
-                                    
-                    except Exception as e:
-                        logger.warning(f"Failed to search namespace {namespace}: {str(e)}")
-                        continue
-                        
-                    if remaining_slots <= 0:
-                        break
+            except Exception as e:
+                logger.error(f"Failed to search Pinecone index: {str(e)}")
+                return []
             
             # Sort by relevance score and limit results
             all_results.sort(key=lambda x: x['score'], reverse=True)
@@ -149,10 +104,11 @@ class RealVectorService:
                 file_name = metadata.get('file_name', '')
                 chunk_index = metadata.get('chunk_index', 0)
                 checksum = metadata.get('checksum', '')
+                source_path = metadata.get('source_path', '')
                 
                 # Generate namespace like ingest.py does
                 from ..scripts.ingest import generate_namespace_for_file
-                namespace = generate_namespace_for_file(file_name)
+                namespace = generate_namespace_for_file(file_name, source_path)
                 
                 blob_path = self.content_store / namespace / f"{chunk_index:06d}_{checksum}.txt"
                 if blob_path.exists():

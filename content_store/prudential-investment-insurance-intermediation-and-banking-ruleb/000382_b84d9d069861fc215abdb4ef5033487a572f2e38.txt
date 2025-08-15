@@ -1,7 +1,0 @@
-e.
-
-the prompt resolution of disputes, such as valuation of Collateral or positions, acceptability of Collateral, fulfilment of legal obligations and the interpretation of contract terms.
-
-The policies and procedures referred to under Guidance note 1.d. should be supported by Collateral management systems capable of tracking the location and status of posted Collateral (including re-hypothecated Collateral), outstanding Collateral calls and settlement problems.
-
-Where an Authorised Person obtains credit protection that differs in maturity from the underlying credit Exposure, the Authorised Person should monitor and control its roll-off risks, i.e. the fact that the Authorised Person will be fully exposed when the protection expires, and the risk that it will be unable to purchase credit protection or ensure its capital adequacy when the credit protection expires.

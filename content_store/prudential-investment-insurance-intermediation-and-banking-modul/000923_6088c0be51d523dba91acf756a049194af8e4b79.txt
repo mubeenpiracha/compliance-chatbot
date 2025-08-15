@@ -1,9 +1,0 @@
-Guidance
-
-1.
-
-In Rule A4.8.16 (2)(b), the terms ‘illiquid Collateral’ and ‘OTC derivatives that cannot be easily replaced’ should be determined in the context of stressed market conditions and characterised by the absence of continuously active markets where a Counterparty would, with two or fewer days, obtain multiple price quotations that would not move the market or represent a price reflecting a market discount (in the case of Collateral) or premium (in the case of an OTC derivative). Examples of situations where transactions are deemed illiquid for this purpose include, transactions that are not marked daily and transactions that are subject to specific accounting treatment for valuation purposes (for example OTC derivatives referencing securities whose fair value is determined by models with inputs that are not observed in the market).
-
-2.
-
-Under Rule A4.8.16 (2)(c), an Authorised Firm should take into account only Variation Margin call disputes.

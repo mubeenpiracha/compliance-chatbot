@@ -1,7 +1,0 @@
-Guidance
-
-1. Providing currency exchange or issuing Payment Instruments, although a specified Money Service under Rule 2.6.1(1)(a) and (e), cannot be provided as a stand-alone financial service in or from the DIFC. An Authorised Firm may, however, provide currency exchange or issue Payment Instruments where it is in connection with, and a necessary part of, providing another Money Service or another Financial Service (see Rule 2.2.10G). An Authorised Firm may also arrange for another person outside the DIFC to provide a currency exchange service or to issue Payment Instruments if the Authorised Firm is authorised to Arrange or Advise on Money Services (see Rule 2.32.1).
-
-2. An Authorised Firm that Provides Money Services is also subject to further restrictions relating to not using physical cash and the settlement of Dirham transactions (see COB section 13.2).
-
-2.2.10H (1) An Authorised Firm must not Operate or Act as the Administrator of an Employee Money Purchase Scheme to which this Rule applies, unless the Scheme is established in the DIFC.

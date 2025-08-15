@@ -1,9 +1,0 @@
-Where the entity holding such collateral is the QCCP, a CRW of 2% applies to collateral posted in relation to Trade Exposures. The relevant CRW of the QCCP will apply to collateral posted for other purposes. Where the Authorised Person uses the SA-CCR to calculate exposures, collateral posted which is not held in a bankruptcy remote manner must be accounted for in the NICA term in accordance with Rule A4.6.14. Where the Authorised Person uses an IMM Model in accordance with Rule A4.6.14, the alpha multiplier must be applied to the exposure on posted collateral.
-
-(b)
-
-All collateral posted by the clearing member (including cash, securities, other pledged assets and excess initial or variation margin) that is held by a custodian and is bankruptcy remote from the QCCP, is not subject to a capital requirement for Counterparty Credit Risk exposure to such bankruptcy remote custodian (i.e. the related CRW is 0%).
-
-(c)
-
-Collateral posted by a client, that is held by a custodian, and is bankruptcy remote from the QCCP, the clearing member and other clients, is not subject to a capital requirement for Counterparty Credit Risk. If the collateral is held

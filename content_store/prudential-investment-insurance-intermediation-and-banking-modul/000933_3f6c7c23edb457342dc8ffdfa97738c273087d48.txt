@@ -1,7 +1,0 @@
-where a securitisation includes a Clean-Up Call, Clean-Up Calls must satisfy the conditions set out in Rule A4.10.3.
-
-the documentation of the securitisation does not contain any clauses that:
-
-(i)
-
-require the Authorised Firm systematically to alter the underlying Exposures such that the pool’s weighted average credit quality is improved unless this is achieved by selling Exposures to independent and unaffiliated third parties which are not Connected to the Authorised Firm or Related Persons of the Authorised Firm in accordance with Rule 4.4.6 at market prices;

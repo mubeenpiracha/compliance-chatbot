@@ -1,9 +1,0 @@
-the Authorised Person's stress tests must be both of a quantitative and qualitative nature, incorporating both Market Risk and liquidity aspects of market disturbances. Quantitative criteria must identify plausible stress scenarios to which the Authorised Person could be exposed. Qualitative criteria must emphasise that two major goals of stress testing are to evaluate the capacity of the Authorised Person's capital to absorb potential large losses and to identify steps the Authorised Person can take to reduce its risk and conserve capital; and
-
-(c)
-
-the Authorised Person must combine the use of supervisory stress scenarios with stress tests developed by the Authorised Person itself to reflect their Specific Risk characteristics. Information is required in three broad areas:
-
-(i)
-
-supervisory scenarios requiring no simulations by the Authorised Person - the Authorised Person must have information on the largest losses experienced during the reporting period available for supervisory review. This loss information must be compared to the level of capital that results from an Authorised Person's internal measurement system;

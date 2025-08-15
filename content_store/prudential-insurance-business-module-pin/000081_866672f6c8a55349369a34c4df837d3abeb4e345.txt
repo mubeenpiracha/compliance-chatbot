@@ -1,7 +1,0 @@
-Classification of insurance business
-
-5.2.1
-
-An Insurer must, in its own records, classify all insurance contracts effected by it as Insurer and all reinsurance contracts entered into by it as cedant, according to the Class of Business to which the contracts relate.
-
-5.2.2 Where a contract relates to more than one Class of Business, the Insurer must record separately the portions of the contract that relate to each Class of Business, except that immaterial portions need not be separately recorded.

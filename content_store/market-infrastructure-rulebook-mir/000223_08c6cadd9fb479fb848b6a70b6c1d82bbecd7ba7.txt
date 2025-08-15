@@ -1,9 +1,0 @@
-4.12.7
-
-In this section, assets refers to collateral held to cover positions and include the right to the transfer of assets equivalent to that collateral or the proceeds of the realisation of any collateral, but does not include default fund contributions.
-
-4.12.8
-
-In relation to a Remote Clearing House, this chapter does not prevent other customer segregation models being offered to Clearing Members outside ADGM. In relation to clearing members of clearing houses incorporated outside ADGM, this chapter does not require such clearing members to offer levels of segregation which are not made available by such clearing houses.
-
-4.13

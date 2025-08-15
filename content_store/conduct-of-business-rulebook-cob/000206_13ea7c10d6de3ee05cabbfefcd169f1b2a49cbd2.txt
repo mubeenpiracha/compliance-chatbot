@@ -1,5 +1,0 @@
-credit assessment.
-
-9.6.4 The credit rating a Credit Rating Agency assigns to an issuer or security must not be affected by the existence of or potential for a business relationship between the Credit Rating Agency (or its affiliates) and the issuer (or its affiliates) or any other party, or the non-existence of such a relationship.
-
-9.6.5 A Credit Rating Agency must separate, operationally and legally, its credit rating business and Credit Rating Agency analysts from any other businesses of the Credit Rating Agency, including consulting businesses that may present a conflict of interest. A Credit Rating Agency must ensure that ancillary business operations which do not necessarily present conflicts of interest with the Credit Rating Agency's rating business have in place procedures and mechanisms designed to minimize the likelihood that conflicts of interest will arise. A Credit Rating Agency must also define what it considers, and does not consider, to be an ancillary business and why.

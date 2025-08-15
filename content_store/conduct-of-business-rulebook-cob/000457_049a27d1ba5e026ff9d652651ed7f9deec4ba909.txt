@@ -1,9 +1,0 @@
-For example, a telecommunications company provides infrastructure and software that allows its customers to transfer information to other parties. Some of the telecommunications company’s customers are Customers of Financial Institutions and these Customers use the telecommunications company’s services to transfer Specified Information to their Financial Institutions. The telecommunications company is not a Third Party Provider because it has not established a relationship between the Customers and the Customers’ Financial Institutions for the provision of Third Party Services.
-
-4.
-
-In some circumstances, a Third Party Provider may offer technical services (the Offering Third Party Provider) to another Third Party Provider (the Receiving Third Party Provider). Such technical services may include software or infrastructure that allows the Receiving Third Party Provider to connect to specific Financial Institutions on behalf of its Customers. Under these circumstances:
-
-(a)
-
-The Receiving Third Party Provider is a Third Party Provider to its Customers.

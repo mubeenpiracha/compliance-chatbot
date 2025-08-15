@@ -1,7 +1,0 @@
-a.
-
-staff members in support and control functions, comprising functions such as operations, settlement, finance, risk management, legal, compliance, internal and external audit, should have adequate representation and authority within the Authorised Person's overall governance framework so as to be able to effectively challenge the activities undertaken by the front office;
-
-b.
-
-Operational Risk management systems should set criteria, indicators and thresholds enabling the identification of material incidents detected by internal control procedures. This should include tracking of Operational Risk losses in trading activities and analysis of those losses for possible interconnections (i.e. losses based on one event or root cause);

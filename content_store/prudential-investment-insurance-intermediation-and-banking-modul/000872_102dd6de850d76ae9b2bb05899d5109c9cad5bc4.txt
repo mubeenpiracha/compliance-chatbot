@@ -1,9 +1,0 @@
-Exposure value
-
-A4.8.2 (1) An Authorised Firm must calculate the CCR Exposure value of a Netting Set using
-
-the following formula:
-
-Exposure value = α ∙ (RC + PFE)
-
-where:

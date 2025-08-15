@@ -1,5 +1,0 @@
-(a) Where an assurance assessment of the eKYC System has been undertaken by a Related entity and specifically addresses the legislation applicable to the Relevant Person. In such circumstances, the Relevant Person remains responsible for the eKYC System’s compliance with applicable legislation including applicable Rules and Regulations and it should maintain a copy of the assessment.
-
-(b) Where the eKYC System has been authorised by a competent authority of the UAE or a competent authority in a jurisdiction with AML/TFS laws equivalent to the UAE In such circumstances, the eKYC system should be authorised for use in CDD. Further, the Relevant Person should undertake its own review to ensure that any use of the relevant eKYC System is appropriate and enables compliance with all legislation applicable to the Relevant Person including applicable Rules and Regulations.
-
-(c)

@@ -1,9 +1,0 @@
-“Payment Service Provider” means a Person providing a Payment Service;
-
-(g)
-
-“Payment Transaction” means an act initiated by the payer or payee, or on behalf of the payer, of placing, transferring or withdrawing funds, irrespective of any underlying obligations between the payer and payee;
-
-(h)
-
-"Stored Value" means (including any magnetically) stored monetary value as represented by a claim on the issuer which is issued on receipt of funds or other assets for the purpose of making Payment Transactions, but does not include monetary value that can be used only to pay for goods or services referred to in Rule 2.6.4.

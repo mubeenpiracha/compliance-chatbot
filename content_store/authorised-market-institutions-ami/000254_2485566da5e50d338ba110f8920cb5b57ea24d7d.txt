@@ -1,9 +1,0 @@
-8.
-
-A Clearing House should record the results of such stress testing and the rationale for any adjustments made to the amount and form of total liquid resources it maintains.
-
-Participant default
-
-9.
-
-A Clearing House’s rules and procedures should also indicate any liquidity resources it may deploy, in the event of default by a Member or other involved parties, during a stress event to replenish the available liquid resources and the associated process, so that it can continue to operate in a safe and sound manner.

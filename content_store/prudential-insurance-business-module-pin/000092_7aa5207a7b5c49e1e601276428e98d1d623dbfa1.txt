@@ -1,5 +1,0 @@
-the
-
-Guidance
-
-The impact of Rule 5.7.2 is that an Insurer’s capital resources are calculated on a basis consistent with the manner of calculation of Financial Group Capital Resources, and that capital resources required to support the capital adequacy of Group companies are not used to support the individual capital adequacy of the Insurer itself. The Insurer’s capital adequacy calculation is therefore also an indication of the degree of capital adequacy of the Financial Group of which it is the Parent. In this and other Rules where reference is made to a Parent for the purposes of calculating capital adequacy of a group of companies, generally, it is a reference to the ultimate Parent within the group.

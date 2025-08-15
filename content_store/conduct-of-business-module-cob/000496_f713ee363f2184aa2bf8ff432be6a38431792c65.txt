@@ -1,9 +1,0 @@
-Guidance
-
-1. The general duties set out in Rule 12.2.1 that apply to an Operator and Administrator, are in
-
-addition to the Principles for Authorised Firms that also apply to all firms.
-
-Application of AML procedures
-
-2. An Administrator that performs AML functions on behalf of an Operator of a Scheme, is required to satisfy applicable AML requirements. The AML module provides flexibility to apply a risk- based approach, taking into account the nature of the product or service involved, and the customer relationship. For example, the Administrator:

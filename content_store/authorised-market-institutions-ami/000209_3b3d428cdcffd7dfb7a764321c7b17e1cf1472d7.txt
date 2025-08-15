@@ -1,7 +1,0 @@
-d.
-
-reporting obligations: Members should be obliged to notify the Exchange about significant risks that may affect fair and orderly trading and major incidents as soon as they become aware of such risks or incidents;
-
-e.
-
-overriding of pre-trade controls: Members should have procedures and arrangements for dealing with orders which have been automatically blocked by the Member’s pre-trade controls but which the Member may re-submit. Such procedures and arrangements should serve to alert compliance and risk management staff of the Member that controls have been overridden and require their approval for the overriding of these controls;

@@ -1,5 +1,0 @@
-A4.3 Applicability of components to assets of the insurer
-
-A4.3.1 Subject to Rule A4.3.2, an Insurer must calculate those components of its Minimum Capital Requirement that are relevant to assets, in respect of every asset that is owned by the Insurer and that is available to meet the liabilities of the Insurer.
-
-A4.3.2 Where an Insurer arranges its affairs such that its Invested Assets are held in a related entity, the Insurer may, with the written approval of the DFSA, calculate components of its Minimum Capital Requirement by reference to the Insurer’s interest in the assets that are held by the related entity, instead of by reference to the interest that the Insurer has in that related entity. In that case this appendix shall be interpreted as though the assets (representing the Insurer’s interest) held by the related entity were held directly by the Insurer.

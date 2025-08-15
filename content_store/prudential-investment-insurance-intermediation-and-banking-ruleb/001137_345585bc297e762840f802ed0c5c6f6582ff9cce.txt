@@ -1,9 +1,0 @@
-Guidance
-
-Maturing secured lending, including reverse repos and Securities borrowing
-
-1.
-
-An Authorised Person should assume that maturing reverse repurchase or Securities borrowing agreements secured by Level 1 HQLA will be rolled over and will not give rise to any cash inflows (zero %). Maturing reverse repurchase or Securities borrowing agreements secured by Level 2 HQLA should be modelled as cash inflows, equivalent to the relevant haircut for the specific assets. An Authorised Person is assumed not to roll-over maturing reserve repurchase or Securities borrowing agreements secured by non-HQLA assets and can assume it will receive 100% of the cash related to those agreements. Collateralised loans extended to customers for the purpose of taking leveraged trading positions, i.e. margin loans, should be modelled with a 50% cash inflow from contractual inflows made against non-HQLA Collateral.
-
-2.

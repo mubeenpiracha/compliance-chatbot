@@ -1,9 +1,0 @@
-In the PIB, AML, RAR and FPR modules:
-
-(a)
-
-a word or phrase which is defined solely for the purposes of a module is also a defined term and has the meaning given in that module; and
-
-(b)
-
-a word or phrase in that module which relates to such a defined term must be interpreted accordingly.

@@ -1,7 +1,0 @@
-3.
-
-The Regulator expects an Authorised Person to apply adequate controls on the use of subcontractors by a third party. An Authorised Person should be aware of the scope of services that are carried out by subcontractors and what actions were undertaken to mitigate Cyber Risk by both the third party and all of its subcontractors.
-
-4.
-
-A contract with a third-party provider of ICT Services should set out appropriate requirements for the deletion or return of an Authorised Person’s information at the end of the contract.

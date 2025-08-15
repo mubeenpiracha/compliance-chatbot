@@ -1,7 +1,0 @@
-(3) In the event that the borrowing limit under (2) is exceeded, the Fund Manager must inform the Trustee (if appointed), the Unitholders and the Regulator of the magnitude of the breach, the cause of the breach, and the proposed method of rectification. The Fund Manager must use its best endeavours to reduce, as soon as reasonably possible, the excess borrowings, whether by liquidating assets to repay borrowings or otherwise, to the extent practicable without having a material adverse effect on the Fund or investors as a whole.
-
-(4) All borrowings by the Fund must be conducted at arm's length, unless otherwise approved by the Oversight Committee or by Unitholders (by way of Special Resolution).
-
-(5) Borrowings by any Special Purpose Vehicles held by the Fund must be aggregated for the purpose of calculating borrowings of the Fund for the purposes of this Rule.
-
-(6) In this Rule, "borrowing" also includes any arrangement including a combination of Derivatives to achieve a temporary injection of money into the Fund Property in the expectation that the sum will be repaid.

@@ -1,9 +1,0 @@
-Review
-
-6.
-
-A Clearing House should have clear procedures to report the results of its stress tests undertaken for the purposes of this Rule to its Governing Body and senior management as appropriate. It should use the results of stress testing to evaluate the adequacy of its liquidity risk-management framework and make any appropriate adjustments as needed.
-
-7.
-
-In conducting stress testing, a Clearing House should consider a wide range of relevant scenarios. Scenarios should include relevant peak historic price volatilities, shifts in other market factors such as price determinants and yield curves, multiple defaults over various time horizons, simultaneous pressures in funding and asset markets, and a spectrum of forward-looking stress scenarios in a variety of extreme but plausible market conditions. Scenarios should also take into account the design and operation of the Clearing House, and include all entities that may pose material liquidity risks to the Clearing House (such as settlement banks, custodian banks, liquidity providers, and other involved entities), and where appropriate, cover a multi-day period.

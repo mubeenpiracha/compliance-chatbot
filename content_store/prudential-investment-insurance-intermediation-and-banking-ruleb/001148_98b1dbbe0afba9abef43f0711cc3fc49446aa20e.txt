@@ -1,7 +1,0 @@
-A10.4.6
-
-In determining the residual maturity of an instrument captured under Rule A10.4.2 or Rule A10.4.3 or any other liability that is to be included in the Available Stable Funding, an Authorised Person must calculate the residual maturity of each instrument or liability as being that period up to the earliest point in time at which an investor has the right to exercise their right to redeem their investment or withdraw that source of funding.
-
-A10.4.7
-
-For long-dated liabilities, the portion of cashflows falling at or beyond the six-month and one-year time horizons must be treated as having an effective residual maturity of six months or more and one year or more, respectively.

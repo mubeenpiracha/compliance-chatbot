@@ -1,7 +1,0 @@
-Key balance sheet information
-
-Year end 31 December
-
-[Year] $(‘000)
-
-[Year] $(‘000)

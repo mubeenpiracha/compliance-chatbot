@@ -1,7 +1,0 @@
-l.
-
-procedures and processes should be established to ensure accurate and timely monitoring and follow up of margin or Collateral calls;
-
-m.
-
-profit attribution is a key control for understanding the risk in a trading operation and therefore the control and support functions should have a good understanding of the various aspects that lead to P&L generation, particularly in relation to more complex products. Major implausiblities discovered within the P&L in the context of the trading mandate and market developments should be further analysed to see if they are caused by Operational Risk events; and

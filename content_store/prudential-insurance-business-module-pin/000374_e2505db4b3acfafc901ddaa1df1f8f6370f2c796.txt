@@ -1,5 +1,0 @@
-Guidance
-
-The DIFC reserving risk component requires an Insurer to demonstrate the availability of capital to address the risk that the cost of claims in respect of contracts entered into as Insurer through an establishment in the DIFC will vary from the amounts recorded as liabilities in the Insurer’s balance sheet.
-
-A9.4.1 An Insurer must calculate its DIFC reserving risk component according to the method set out in section A4.11, subject to the modifications set out in Rules 9.2.2(a) and (b).

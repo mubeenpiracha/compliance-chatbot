@@ -1,9 +1,0 @@
-(2) In the case of a Public Fund which is a Listed Fund, the Fund Manager must include, instead of the statement referred to in (1), the statement required under MKT Rule 3.3.1(1)(b)(iii).
-
-9.5.4
-
-A Fund Manager of an Exempt Fund must prominently disclose to prospective Unitholders in the Prospectus and any other financial promotions relating to the Fund, the following Mandatory Fund Disclosure Statement:
-
-"When considering investment in a Fund you should consider the fact that some Fund products use leverage and other speculative investment practices that may increase the risk of investment loss, can be illiquid, may involve complex tax structures, often charge high fees, and in many cases the underlying investments are not transparent and are known only to the Fund Manager.
-
-Returns from Funds can be volatile and you may lose all or part of your investment. With respect to single manager products the manager has total trading authority and this could mean a lack of diversification and higher risk. The Fund may be subject to substantial expenses that are generally offset by trading profits and other income. A portion of those fees is paid to the Fund Manager."

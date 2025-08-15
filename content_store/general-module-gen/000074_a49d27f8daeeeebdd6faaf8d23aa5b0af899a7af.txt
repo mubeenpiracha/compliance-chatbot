@@ -1,9 +1,0 @@
-Exclusions
-
-2.9.2 A Person does not carry on the activity of Arranging Deals in Investments under Rule 2.9.1(1) in relation to a transaction if the Person becomes, or proposes to become, a party to the transaction (regardless of whether the transaction is effected). This exclusion does not apply in the case of a branch which makes arrangements for its head office, or any other branch of the same legal entity as itself, to enter into a transaction as provided under Rule 2.9.1(1).
-
-2.9.3 A Person does not Arrange Deals in Investments merely by providing means by which one party to a transaction is able to communicate with other such parties.
-
-2.9.4 A Person does not Arrange Deals in Investments by making arrangements under which another Person accepts or is to accept an instrument creating or acknowledging indebtedness in respect of any loan, credit, guarantee or other similar financial accommodation which he or his principal has made or provided.
-
-2.9.5 A Person does not Arrange Deals in Investments merely by making arrangements having as their sole purpose the provision of finance to enable a Person to buy, sell, subscribe for or underwrite Investments or Crypto Tokens.

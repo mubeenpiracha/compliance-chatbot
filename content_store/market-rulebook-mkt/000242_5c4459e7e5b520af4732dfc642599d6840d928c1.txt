@@ -1,5 +1,0 @@
-Guidance
-
-Rule 6.2.16(1)(e)(vi) recognises that some Recognised Investment Exchanges using, for example, anonymous order books or anonymous indications of interest, allow for the identity of counterparties to sometimes be unknown prior to the effecting of transactions.
-
-Rule 6.2.16 also accepts that some participants in the Price Stabilisation may have accrued uneconomic positions during Price Stabilisation and therefore permits a single transaction, probably at the end-of-day, to ‘square-off’ the positions between participants. The terms on which these transactions can be carried may often be agreed in the terms of engagement between the Stabilisation Manager and the Stabilisation Agents. The Regulator may when inspecting records kept relating to Price Stabilisation seek the rationale for any of these transactions and the price at which they were conducted.

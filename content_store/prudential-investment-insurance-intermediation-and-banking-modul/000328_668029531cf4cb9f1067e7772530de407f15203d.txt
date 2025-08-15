@@ -1,5 +1,0 @@
-4.9.15 An Authorised Firm which has taken eligible financial Collateral for any SFT where the Counterparty Exposure is determined in accordance with Rule 4.9.14 may recognise the effect of such Collateral in accordance with Rules 4.9.16 to 4.9.19.
-
-4.9.16 An Authorised Firm must use either the FCSA or the FCCA to recognise the effect of eligible financial Collateral for any SFT in the Non-Trading Book. The Authorised Firm must apply the chosen approach consistently to the entire Non-Trading Book and must not use a combination of both approaches. For a Counterparty Exposure arising from any SFT in the Trading Book, an Authorised Firm must only use the FCCA to recognise the effect of eligible financial Collateral.
-
-4.9.17 An Authorised Firm using the FCSA may recognise the effect of eligible financial

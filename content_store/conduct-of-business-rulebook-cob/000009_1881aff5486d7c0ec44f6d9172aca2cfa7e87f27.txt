@@ -1,9 +1,0 @@
-2.2.3
-
-If an Authorised Person is aware that a Client, with or for whom it is intending to carry on a Regulated Activity where this involves provision of a service to a Client, is acting as an agent for another Person (the “second person”) in relation to a particular Transaction, then unless the Client is another Authorised Person, a Recognised Body, a Remote Body, or a Regulated Financial Institution, the Authorised Person must also treat that second person as its Client in relation to that Transaction.
-
-2.2.4
-
-If an Authorised Person intends to carry on any Regulated Activity where this involves provision of a service or product to a Client which is a trust, it must unless otherwise provided in the Rules, treat the trustee of the trust, and not the beneficiaries of the trust, as its Client.
-
-2.3

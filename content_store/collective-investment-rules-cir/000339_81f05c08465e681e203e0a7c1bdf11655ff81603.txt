@@ -1,7 +1,0 @@
-Types of ETFs
-
-Index tracking ETF (Index-tracker)
-
-8.
-
-An Index-tracking (based) ETF typically seeks to replicate the performance of an underlying index or benchmark. It may do so either as a physical ETF or as a synthetic ETF.

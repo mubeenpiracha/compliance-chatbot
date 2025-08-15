@@ -1,3 +1,0 @@
-'investment exposure' means the aggregate value of all equity, bond or other investments in or in respect of the counterparty or group of Related parties or property in question, together with off-balance sheet exposures to the same counterparty or group of Related counterparties or property that that fund has because the Insurer has issued guarantees, letters of credit or other credit substitutes (other than insurance contracts), or because it has entered into derivative contracts, but excluding any assets excluded from base fund capital in accordance with any of the Rules referred to in Rule A8.4.3(b); and
-
-(b)

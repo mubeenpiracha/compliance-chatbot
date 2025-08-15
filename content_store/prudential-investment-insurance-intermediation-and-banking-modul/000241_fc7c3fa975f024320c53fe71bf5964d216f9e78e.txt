@@ -1,5 +1,0 @@
-Deductions relating to T2 Capital instruments in Relevant Entities
-
-3.15.6 For the purposes of Rule 3.15.4(b), (c) and (d), the amount of holdings of T2 Capital instruments and other capital instruments of Relevant Entities to be deducted, must be calculated, subject to 3.15.7, on the basis of the gross long positions.
-
-3.15.7 For the purposes of Rule 3.15.4(c) and (d), an Authorised Firm must make the

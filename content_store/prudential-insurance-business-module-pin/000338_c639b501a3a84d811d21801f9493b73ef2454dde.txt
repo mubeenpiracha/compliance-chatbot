@@ -1,5 +1,0 @@
-A6.8.3 An Insurer must calculate its concentration risk component in respect of a segment as the sum of the amounts obtained by multiplying each investment exposure of that segment that exceeds 10% of the adjusted segmental capital resources, by the relevant factor percentage set out in the table set out in Rule A4.8.3, reading that table as though all references to Adjusted Capital Resources were references to adjusted segmental capital resources, and subject to Rule A6.8.4.
-
-A6.8.4
-
-If the concentration risk component in respect of an investment exposure of a segment, aggregated with the sum of the default risk, investment volatility risk and off-balance sheet asset risk components (so far as concerns that segment), in respect of the assets and off-balance sheet exposures comprising that investment exposure, exceeds 100% of that investment exposure, the concentration risk component in respect of that investment exposure must be reduced so that the total of the four components in respect of that investment exposure is equal to 100% of that investment exposure.

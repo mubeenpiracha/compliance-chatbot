@@ -1,7 +1,0 @@
-Purpose of the AML module
-
-4.
-
-The AML module has been designed to provide a single reference point for all persons and entities (collectively called Relevant Persons) referred to in Rule 1.1.2 who are supervised by the DFSA for Anti-Money Laundering (AML), Counter-Terrorist Financing (CTF) and sanctions compliance. Accordingly it applies to Authorised Firms (other than Credit Rating Agencies), Authorised Market Institutions, Designated Non-Financial Businesses and Professions (DNFBPs), and Registered Auditors. The AML module takes into consideration the fact that Relevant Persons have differing AML risk profiles. A Relevant Person should familiarise itself with this module, and assess the extent to which the chapters and sections apply to it.
-
-5.

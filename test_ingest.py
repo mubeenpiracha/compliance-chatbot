@@ -66,7 +66,7 @@ def test_single_file():
         
         # Prepare for Pinecone
         print("Preparing metadata...")
-        namespace = generate_namespace_for_file(test_file.name)
+        namespace = generate_namespace_for_file(test_file.name, str(test_file))
         print(f"Using namespace: {namespace}")
         
         items = []

@@ -1,9 +1,0 @@
-A Clearing House must have a robust framework for managing its liquidity risks. Such a framework must enable it to manage liquidity risks arising from its Members and other participants on its facilities, and any other involved parties, such as settlement banks, custodian banks, liquidity providers (“Members and other involved parties”). For that purpose, the framework must, at a minimum, include:
-
-(a)
-
-rules and procedures that:
-
-(i)
-
-enable it to meet its payment obligations on time following any individual or combined default of its Members and other involved parties; and

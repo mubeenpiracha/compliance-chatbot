@@ -1,7 +1,0 @@
-The Green Porftolio Attestation Requirement
-
-3.8.6 The Authorised Person acting as Investment Manager of an ADGM Green Portfolio must appoint a third party to attest to its compliance with the Green Portfolio Investment Requirement on an ongoing basis and at least annually. This requirement only applies to that portion of the Eligible Green Portfolio Assets that is invested in assets aligned with an Acceptable Green Taxonomy in accordance with Rule 3.8.4(a). This requirement is referred to as the “Green Portfolio Attestation Requirement”.
-
-23
-
-COBS VER19.290725

@@ -1,9 +1,0 @@
-the extent to which the Institution can ensure the continuity of its management information systems both for the affected Institution and the new Institution in the case that the critical operations and Core Business Lines are separated from the rest of the operations and business lines;
-
-the extent to which the Institution has established adequate processes to ensure that it provides the Regulator with the information necessary to identify Depositors;
-
-where the Institution's Group uses Intragroup Financial Support, the extent to which those guarantees are provided at market conditions and to which the risk management systems concerning those guarantees are robust;
-
-where the Institution or the Institution's Group engages in back-to-back transactions, the extent to which those transactions are performed at market conditions and to which the risk management systems concerning those transactions practices are robust;
-
-the extent to which the use of Intragroup Financial Support or back-to-back booking transactions increases contagion across the Institution's Group;

@@ -1,3 +1,0 @@
-A6.7.1 An Insurer must calculate an off-balance sheet liability risk component in respect of a segment if the Insurer has issued guarantees, including put options serving as guarantees, letters of credit or any other credit substitute (other than an insurance contract) in favour of another party, so that the segment is exposed to the risk of having to make payment on those instruments should the guaranteed party default.
-
-A6.7.2 An Insurer must calculate its off-balance sheet risk component as the sum of the amounts obtained by applying the calculations set out in Rule A6.7.3 in respect of each guarantee, letter of credit or other credit substitute.

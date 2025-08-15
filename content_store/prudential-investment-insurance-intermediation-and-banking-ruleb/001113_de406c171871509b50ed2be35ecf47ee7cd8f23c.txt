@@ -1,7 +1,0 @@
-Guidance
-
-The Regulator may use its discretion under Rule A10.2.9 to approve other types of assets as HQLA including, but not limited to, Shari'a compliant Financial Products. When the Regulator approves assets it may define the conditions that the assets must satisfy to be treated as HQLA. It must specify whether the assets are to be treated as Level 1 HQLA or Level 2A or 2B HQLA.
-
-Other provisions relating to LCR calculation
-
-A10.2.10 For the purpose of calculating the LCR, if an eligible asset within HQLA becomes ineligible (e.g. due to a rating downgrade), an Authorised Person is allowed to keep the asset in its stock of HQLA for an additional 30 calendar days to allow time to adjust its stock as needed or replace the asset.

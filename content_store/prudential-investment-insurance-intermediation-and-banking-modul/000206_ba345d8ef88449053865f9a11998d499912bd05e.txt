@@ -1,9 +1,0 @@
-Guidance
-
-1.
-
-Associated deferred tax liabilities of the Authorised Firm used for the purposes of Rule 3.13.9 may not include deferred tax liabilities that reduce the amount of intangible assets or defined benefit pension fund assets required to be deducted. The amount of associated deferred tax liabilities referred to in this guidance should be allocated between the following:
-
-a.
-
-deferred tax assets that rely on future profitability and arise from temporary differences that are not deducted as part of a threshold exemption for deductions from CET 1 Capital; and

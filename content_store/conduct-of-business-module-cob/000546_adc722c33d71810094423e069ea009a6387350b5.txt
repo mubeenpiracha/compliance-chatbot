@@ -1,9 +1,0 @@
-Guidance
-
-1.
-
-To be fit for purpose, the technology design of the DLT application used by an Authorised Firm Operating a Facility for Investment Tokens should be able to address how the rights and obligations relating to the Investment Tokens traded on that facility are properly managed and are capable of being exercised or performed. For example, where a Security Token confers rights and obligations substantially similar to those conferred by a Share in a company, the DLT application would generally need to enable the management and exercise of the shareholder’s rights. This may, for example, include the right to receive notice of, and vote in, shareholder meetings, receive any declared dividends and participate in the assets of the company in a winding up.
-
-2.
-
-To ensure the technology governance of any DLT application used by its facility is fit for purpose, an Authorised Firm should, as a minimum, have regard to the following:

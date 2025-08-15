@@ -1,5 +1,0 @@
-Guidance
-
-1. All Money held or controlled by a Payment Service Provider on behalf of a Payment Service User in the course of carrying on of Payment Services is Relevant Money from the time of its receipt, except Money which is due and payable to the Authorised Person from the Payment Service User. Chapter 19 contains additional specific provisions relating to the handling of Relevant Money.
-
-2. Pursuant to Rule 15.11.A.1, an Authorised Person may not enter into a Title Transfer Collateral Agreement with a Retail Client.

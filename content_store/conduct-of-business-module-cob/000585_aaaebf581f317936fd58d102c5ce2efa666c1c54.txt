@@ -1,9 +1,0 @@
-Guidance
-
-The compensation arrangement in Rule 15.4.5(2)(ii) should make adequate provision for Clients to be compensated, taking into account the risks associated with the Custody of Crypto Tokens. These arrangements can take various forms, such as third party insurance, funds (deposits or Crypto Tokens) that are set aside on trust and designated for such purposes, bank guarantees or a combination thereof.
-
-15.4.6 (1)
-
-An Authorised Firm that Provides Custody of Crypto Tokens must provide the following information to the DFSA in respect of each calendar quarter:
-
-(a)

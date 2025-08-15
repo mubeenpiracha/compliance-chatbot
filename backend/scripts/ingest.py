@@ -210,9 +210,19 @@ def load_documents_from_manifest() -> List[Document]:
 
 
 
-def generate_namespace_for_file(file_name: str) -> str:
+def generate_namespace_for_file(file_name: str, source_path: str = "") -> str:
+    """Generate a unique namespace for a file by combining filename and path hash."""
     stem = Path(file_name).stem
-    return slugify(stem)[:64] or "default"
+    
+    # Create a unique identifier by hashing the full source path
+    # This ensures files with same names in different locations get different namespaces
+    path_hash = sha1_hex(source_path or file_name)[:8]  # 8 chars should be enough
+    
+    # Combine stem with path hash for uniqueness
+    namespace = f"{slugify(stem)}-{path_hash}"
+    
+    # Ensure it fits in Pinecone's namespace length limit (64 chars)
+    return namespace[:64] or "default"
 
 
 def project_metadata_for_chunk(
@@ -226,7 +236,7 @@ def project_metadata_for_chunk(
     source_path = doc_metadata.get("source_path", "")
     
     checksum = sha1_hex(chunk_text)
-    ns = generate_namespace_for_file(file_name)
+    ns = generate_namespace_for_file(file_name, source_path)
     blob_dir = CONTENT_STORE / ns
     blob_dir.mkdir(parents=True, exist_ok=True)
     blob_path = blob_dir / f"{chunk_index:06d}_{checksum}.txt"
@@ -375,7 +385,8 @@ def ingest():
     # Process each document from the manifest
     for doc in documents:
         file_name = doc.metadata.get("file_name", "unknown.pdf")
-        namespace = generate_namespace_for_file(file_name)
+        source_path = doc.metadata.get("source_path", "")
+        namespace = generate_namespace_for_file(file_name, source_path)
 
         # Perform semantic chunking
         chunks = chunk_document(doc)

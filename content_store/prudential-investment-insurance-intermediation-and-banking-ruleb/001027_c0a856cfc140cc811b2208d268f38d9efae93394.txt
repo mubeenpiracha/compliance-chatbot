@@ -1,3 +1,0 @@
-b.
-
-the model should incorporate risk factors corresponding to gold and to the individual foreign currencies in which the Authorised Person's positions are denominated. For Collective Investment Funds the actual foreign exchange positions of the Fund should be taken into account. Authorised Persons may rely on third party reporting of the foreign exchange position of the Fund, where the correctness of this report is adequately ensured. If an Authorised Person is not aware of the foreign exchange positions of a Fund, this position should be carved out of the model and treated separately;

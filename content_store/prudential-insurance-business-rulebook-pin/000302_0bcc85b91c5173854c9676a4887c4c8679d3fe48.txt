@@ -1,7 +1,0 @@
-A5.9 Non-cellular capital adjustment
-
-A5.9.1 Where an Insurer that is a Cell Company is organised such that Non-Cellular Assets may be used to meet Cellular Liabilities of a Cell, the Insurer may determine a non-cellular capital adjustment in respect of that Cell.
-
-100
-
-PIN VER07.290725

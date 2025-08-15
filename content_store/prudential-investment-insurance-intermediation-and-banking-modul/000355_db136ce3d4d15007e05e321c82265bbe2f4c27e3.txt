@@ -1,9 +1,0 @@
-Guidance
-
-1.
-
-An Exposure to a bank includes any claim (such as loans and senior debt, unless considered as subordinated debt, equity or other capital instrument under Rule 4.12.18) on a Regulated Financial Institution that is licensed to take deposits from the public and is subject to appropriate prudential standards and level of supervision. For internationally active banks, appropriate prudential standards and level of supervision should be in accordance with the global regulatory framework established by the Basel Committee on Banking Supervision.
-
-2.
-
-An Authorised Firm may treat an Exposure to a securities firm as an Exposure to a bank if it can demonstrate to the DFSA that the securities firm is subject to prudential standards and a level of supervision equivalent to those applied to Financial Institutions referred to in Guidance item 1. Exposures to other securities firms, as well as Exposures to insurers should be treated as an Exposure to corporates in accordance with Rules 4.12.11 to 4.12.15.

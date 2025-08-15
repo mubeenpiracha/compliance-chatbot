@@ -1,9 +1,0 @@
-13.1 Application ........................................................................................................... 166 13.2 Requirements relating to use of currencies .......................................................... 167 13.3 General requirements .......................................................................................... 168 13.4 Additional disclosure requirements ...................................................................... 168 13.5 Rights and obligations of parties .......................................................................... 168 13.6 Specific requirements for issuers of Stored Value ............................................... 169 13.7 Requirement relating to Payment Accounts ......................................................... 169
-
-14 ADDITIONAL REQUIREMENTS FOR FIRMS PROVIDING FINANCIAL SERVICES RELATING TO INVESTMENT TOKENS ........................170
-
-COB/VER48/03-25
-
-CONDUCT OF BUSINESS (COB)
-
-14.1 Technology and governance requirements for Operating a Facility for Investment

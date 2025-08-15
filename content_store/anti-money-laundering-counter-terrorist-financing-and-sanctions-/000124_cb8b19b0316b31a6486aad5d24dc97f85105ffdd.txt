@@ -1,5 +1,0 @@
-The fact that an individual is a PEP does not automatically mean that the individual must be assessed to be a high risk customer. A Relevant Person will need to assess the particular circumstances relating to each PEP to determine what risk category is appropriate. If the PEP is assigned a high risk, then the Relevant Person will need to undertake the Enhanced Customer Due Diligence measures under Rule 7.4.1. However, even if a PEP is not assigned a high risk, the Relevant Person is required as a minimum to undertake the additional customer due diligence measures specified in Rule 7.3.8(2) and (3) for PEPs.
-
-7.4
-
-Enhanced customer due diligence

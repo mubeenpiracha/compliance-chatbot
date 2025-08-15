@@ -1,7 +1,0 @@
-A4.9 Size factor component
-
-Guidance
-
-The effect of the size factor component is to provide a relatively higher capital requirement in respect of Insurers with smaller portfolios of Invested Assets. The calculation adjusts the aggregate of the default risk component, investment volatility risk component and concentration risk component in respect of Invested Assets, by a factor that varies according to the total size of Invested Assets.
-
-A4.9.1 The base figure for the size factor component is determined by aggregating the following

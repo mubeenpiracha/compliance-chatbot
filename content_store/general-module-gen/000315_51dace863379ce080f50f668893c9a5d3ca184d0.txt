@@ -1,3 +1,0 @@
-3.
-
-The DFSA expects an Authorised Person to apply adequate controls on the use of subcontractors by a third party. An Authorised Person should be aware of the scope of services that are carried out by subcontractors and what actions were undertaken to mitigate Cyber Risk by both, the third party and any of its subcontractors.

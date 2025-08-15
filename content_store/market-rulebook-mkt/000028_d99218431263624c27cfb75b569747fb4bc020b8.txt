@@ -1,5 +1,0 @@
-Continuous Disclosure – chapter 7
-
-6.
-
-Every Reporting Entity is required to make Disclosure of certain types of information either relating to the Securities of a Listed Entity or the Listed Entity itself. Such Disclosure is designed to ensure that the markets are continually updated with information that is likely to have an impact on the price of the Securities so that investors can make an informed judgement about those Securities. For this purpose, chapter 7 requires Disclosure of Inside Information, with carve-outs for non-disclosure of commercially sensitive information for a limited period, as well as Disclosures of interests held by Persons in positions of control or influence relating to a Listed Entity (such as Controllers and their associates, called "Connected Persons"), and the Disclosure of Directors' notifiable interests in the Listed Entity. The means by which Disclosure of the information required to be achieved are also specified in this chapter. Additionally, the conditions enabling a Listed Entity to request a temporary Trading Halt from making a Disclosure of Inside information are covered in this chapter.

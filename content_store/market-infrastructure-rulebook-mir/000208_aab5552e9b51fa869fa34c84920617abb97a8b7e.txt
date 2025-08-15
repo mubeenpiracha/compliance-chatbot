@@ -1,9 +1,0 @@
-(a)
-
-allow for timely calculation and execution of margin calls, accurate daily reporting of initial and variation margin, and the management of any disputes;
-
-(b)
-
-track the extent of reuse of collateral by the Recognised Clearing House (both cash and non-cash) and the rights of the Recognised Clearing House to the collateral;
-
-(c)

@@ -1,9 +1,0 @@
-Systems should be in place whereby all transactions are confirmed in writing or by electronic means to the Fund Manager or to a pricing agent as quickly as possible. It is desirable that all deals to which the Fund is committed, which have been notified, at most, one hour before a valuation, are included in that valuation, at estimated prices if necessary. Unless, however, there is likely to be significant movement in a price of a Unit, it is more important that an accurate cut-off procedure is in place to ensure that omissions or duplications do not take place, than it is to ensure that estimates are included in a valuation.
-
-14.
-
-Where prices are obtained otherwise than from the main pricing source (e.g. unquoted, suspended, or illiquid stocks), the Fund Manager should maintain a record of the source and basis for the value placed on the investment. These should be regularly reviewed.
-
-15.
-
-A system should be in place to ensure that investment and borrowing powers which are contained in the Rules, where applicable and in the Fund’s Constitution and Prospectus are not breached, and that if breaches occur they are identified and rectified.

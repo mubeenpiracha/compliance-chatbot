@@ -1,7 +1,0 @@
-(ii)
-
-each linked CSD has robust daily reconciliation procedures to ensure that its records are accurate;
-
-(iii)
-
-if it or another linked CSD uses an intermediary to operate a link with another CSD, the CSD or the linked CSD has adequate systems and controls to measure, monitor, and manage the risks arising from the use of the intermediary;

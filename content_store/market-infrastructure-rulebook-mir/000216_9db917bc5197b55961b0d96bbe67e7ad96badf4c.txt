@@ -1,7 +1,0 @@
-Settlement finality
-
-4.11.1
-
-A Recognised Clearing House must have adequate arrangements to ensure clear and certain final settlement of payments, transfer instructions or other obligations of Members and other participants using its facilities and, where relevant, its own obligations. Where possible, a Recognised Clearing House should provide intra-day or real-time settlement finality to reduce settlement risk.
-
-4.11.2

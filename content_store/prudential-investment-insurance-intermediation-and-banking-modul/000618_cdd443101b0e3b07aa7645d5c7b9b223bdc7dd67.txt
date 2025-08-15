@@ -1,9 +1,0 @@
-f.
-
-the framework should involve an accurate, informative and timely management system for interest rate risk, which is essential to keep the senior management and the Governing Body of the Authorised Firm adequately informed to enable them to ensure compliance with the Non-Trading Book interest rate risk policy of the Authorised Firm; and
-
-g.
-
-the Non-Trading Book interest rate risk framework should include measures to consider balancing cash flows and management of the risk’s impact from new products or services through hedging using swaps or other derivatives. Any such major hedging or risk management initiatives should be approved in advance by the Asset Liability Committee (ALCO) or the Governing Body of the Authorised Firm.
-
-The Non-Trading Book interest rate risk measurement systems referred to in Rule 7.4.1(2)(c) should encompass all material drivers of the risk. Such systems should evaluate the effect of rate changes on earnings or economic value meaningfully and accurately within the context and complexity of their activities. They should be able to flag any excessive Exposures. An effective risk measurement system should address the following:

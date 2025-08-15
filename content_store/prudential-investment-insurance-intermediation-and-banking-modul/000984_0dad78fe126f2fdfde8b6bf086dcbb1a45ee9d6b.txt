@@ -1,9 +1,0 @@
-An Authorised Firm should have the capability to assess the impact of any new transaction on its Market Risk position on an on-going basis, and should be capable of carrying out a full measurement of its positions at least daily.
-
-6.
-
-An Authorised Firm should implement an effective system for monitoring its Market Risk. This system should be independent of those within the Authorised Firm who are responsible for taking Market Risk.
-
-7.
-
-An Authorised Firm should implement a system of management reporting which provides relevant, accurate, comprehensive, timely and reliable Market Risk reports to relevant functions within the Authorised Firm. These reports should:

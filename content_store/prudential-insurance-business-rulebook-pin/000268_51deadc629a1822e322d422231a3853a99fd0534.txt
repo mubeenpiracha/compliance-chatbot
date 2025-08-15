@@ -1,5 +1,0 @@
-A4.10.4 Where the Insurer's estimated net retention as at the Solvency Reference Date in respect of a property catastrophe exceeds the sum of the amounts calculated in accordance with Rule A4.10.1 in respect of Class 5, before taking account of this Rule, the sum of those amounts must be replaced by the Insurer's estimated net retention in respect of a property catastrophe when calculating the underwriting risk component.
-
-A4.10.5 For the purposes of Rule A4.10.4, the Insurer's net retention means the sum of claims expected to be paid, associated direct and indirect settlement costs and reinstatement premiums expected to be paid in respect of reinsurance recoveries resulting from those claims, less the sum of reinstatement premiums expected to be received and reinsurance and other recoveries expected to be received resulting from those claims, in the event of a property catastrophe representing a return period of not less than one hundred years.
-
-A4.10.6 For the purposes of this section, and subject to Rule A4.10.8, the Insurer's base

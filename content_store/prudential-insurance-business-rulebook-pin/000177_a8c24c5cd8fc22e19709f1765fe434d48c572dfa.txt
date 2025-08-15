@@ -1,7 +1,0 @@
-The Rules do not prohibit an Insurer from outsourcing its risk management systems. Where the Insurer is a member of a Group, it may be practicable for some processes to be performed on a Group-wide basis. An Insurer would not normally outsource risk management systems outside the Group. However the Insurer remains responsible under the Rules for the adequacy of its risk management systems, whether or not those processes are outsourced. Senior management cannot delegate their regulatory responsibility for ensuring that the Insurer's risk management systems are adequate. The fact that a system is
-
-57
-
-PIN VER07.290725
-
-partially or wholly outsourced would be a factor in the Insurer's assessment of whether the system was adequate. To decide whether any system is adequate, senior management would be expected to have assessed the design and operation of the system, including the design and the operations of controls over outsourcing decisions and monitoring. Because an Insurer must be in a position to demonstrate that it has complied with its regulatory requirements, adequate documentary evidence of these assessments should be maintained.

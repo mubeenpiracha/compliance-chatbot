@@ -1,9 +1,0 @@
-Anti-Money Laundering, Counter-Terrorist Financing and Sanctions Module (AML)
-
-MLRO’s absence or making sure that the Relevant Person’s AML systems and controls allow it to continue to comply with these Rules when the MLRO is absent.
-
-11.2.5 A Relevant Person may outsource the role of MLRO to an individual outside the Relevant Person provided that the relevant individual under the outsourcing agreement is and remains suitable to perform the MLRO role.
-
-Guidance
-
-Where a Relevant Person outsources specific AML tasks of its MLRO to another individual or a third party provider, including within a corporate Group, the Relevant Person remains responsible for ensuring compliance with the responsibilities of the MLRO. The Relevant Person should satisfy itself of the suitability of anyone who acts for it.

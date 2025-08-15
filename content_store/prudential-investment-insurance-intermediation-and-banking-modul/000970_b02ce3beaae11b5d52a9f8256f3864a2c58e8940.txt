@@ -1,9 +1,0 @@
-a call Option as equal to market value; and
-
-(b)
-
-a put Option as equal to the strike price minus the market value.
-
-(2) An Authorised Firm must aggregate the resulting option Exposures to each underlying counterparty and if there is a negative net Exposure after aggregation of all option Exposures, the option Exposure must be set to nil.
-
-A4.11.24 An Authorised Firm must, for the purposes of Concentration Risk, treat an Exposure to an Issuer arising from an index or basket of debt Securities or a non-broad-based equity index or basket, as a series of Exposures to the Issuers of the underlying instruments or equities in accordance with the procedures in chapter 4.

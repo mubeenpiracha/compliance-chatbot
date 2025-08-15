@@ -1,5 +1,0 @@
-the appropriate CCF (in accordance with the table in Rule 4.14.61); and
-
-(c)
-
-the appropriate risk weight for the underlying Exposure type.

@@ -1,9 +1,0 @@
-the extent to which there are contingency plans and measures in place to ensure continuity in access to AMIs, Regulated Exchanges, payment systems, Central Counterparties, Securities Settlement Systems and Central Securities Depositories;
-
-the adequacy of the Management Information Systems in ensuring that the DFSA is able to gather accurate and complete information regarding the Core Business Lines and Critical Functions so as to facilitate rapid decision making;
-
-the capacity of the Management Information Systems to provide the information essential for the effective Resolution of the Authorised Firm at all times even under rapidly changing conditions;
-
-the extent to which the Authorised Firm has tested its Management Information Systems under stress scenarios;
-
-the extent to which the Authorised Firm can ensure the continuity of its Management Information Systems both for the affected Authorised Firm and the new institution in the case that the Critical Functions and Core Business Lines are separated from the rest of the operations and business lines;

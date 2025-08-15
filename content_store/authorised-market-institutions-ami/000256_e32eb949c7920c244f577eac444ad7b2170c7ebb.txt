@@ -1,7 +1,0 @@
-(ii)
-
-its investments comprise instruments with minimal credit, market, and liquidity risks. For this purpose, the investments must be secured by, or be claims on, high-quality obligors, allowing for quick liquidation with little, if any, adverse price effect.
-
-Guidance
-
-A Clearing House which holds assets for its Members and other participants is subject to the “safe custody” requirements in section 5.10. In addition to those requirements, a Clearing House is required to manage risks associated with custody of its own assets (which may comprise cash) under Rule 7.2.4.

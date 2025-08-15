@@ -1,3 +1,0 @@
-In addition to the calculation of VaR, an Authorised Firm using internal VaR models, an Authorised Firm should at least on a weekly basis, calculate a ‘Stressed VaR' of the current portfolio, in accordance with the requirements set out in Guidance note 7, with VaR model inputs calibrated to historical data from a continuous 12-month period of significant financial stress relevant to the Authorised Firm's portfolio. The choice of such historical data should be subject to at least annual review by the Authorised Firm, which should notify the outcome to the DFSA.
-
-12. An Authorised Firm using an internal model should calculate Capital Requirement for the relevant risk categories, as the sum of points (a) and (b):
