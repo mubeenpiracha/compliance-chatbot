@@ -132,10 +132,10 @@ def _determine_authority_level(document_type: str) -> int:
         'rulebook': 3,     # Medium-high authority
         'rules': 3,        # Medium-high authority
         'guidance': 4,     # Lower authority
-        'document': 5      # Lowest authority
+        'document': 4      # Changed from 5 to 4 to match model validation
     }
     
-    return authority_map.get(document_type, 5)
+    return authority_map.get(document_type, 4)  # Changed default from 5 to 4
 
 
 def _extract_regulatory_domains(dir_name: str, content: str) -> List[str]:

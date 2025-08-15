@@ -48,12 +48,10 @@ class VectorSearchEngine:
     async def _get_query_embedding(self, query_text: str) -> List[float]:
         """Generate embedding for the query text using OpenAI."""
         try:
-            # Enhance query with regulatory context for better embedding
-            enhanced_query = self._enhance_query_for_embedding(query_text)
-            
+            # Use raw query without enhancement for cleaner embeddings
             response = await self.client.embeddings.create(
                 model="text-embedding-3-large",
-                input=enhanced_query,
+                input=query_text,
                 dimensions=1536  # Match the Pinecone index dimension
             )
             return response.data[0].embedding
@@ -62,24 +60,6 @@ class VectorSearchEngine:
             logger.error(f"Failed to generate embedding: {str(e)}")
             # Return a zero vector as fallback
             return [0.0] * 1536
-    
-    def _enhance_query_for_embedding(self, query_text: str) -> str:
-        """Enhance query with regulatory context for better semantic matching."""
-        
-        # Detect if this is a definition query and enhance accordingly
-        query_lower = query_text.lower()
-        
-        if any(term in query_lower for term in ['what is', 'define', 'definition', 'meaning']):
-            if any(term in query_lower for term in ['fund', 'collective investment']):
-                # For fund definition queries, add terms that appear in legal definitions
-                return f"legal definition regulatory meaning: {query_text} arrangements with respect to property collective investment fund means"
-            else:
-                # For other definition queries, add general legal context
-                return f"legal definition regulatory meaning: {query_text}"
-        
-        # Add regulatory context terms to improve semantic matching
-        regulatory_context = "ADGM financial services regulation compliance"
-        return f"{regulatory_context}: {query_text}"
     
     def _build_filters(self, query: RetrievalQuery) -> Optional[Dict[str, Any]]:
         """Build filter dictionary for Pinecone search."""

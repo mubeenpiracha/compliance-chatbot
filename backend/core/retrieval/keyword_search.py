@@ -152,33 +152,7 @@ class KeywordSearchEngine:
                 
                 score += term_score
         
-        # Boost for exact phrase matches
-        if len(query_terms) > 1:
-            query_phrase = ' '.join(query_terms)
-            if query_phrase in doc_content.lower():
-                score *= 1.5
-        
-        # Boost for document authority
-        authority_boost = self._get_authority_boost(document)
-        score *= authority_boost
-        
         return score
-    
-    def _get_authority_boost(self, document: Dict) -> float:
-        """Apply authority-based boost to relevance score."""
-        
-        doc_type = document.get('metadata', {}).get('document_type', 'guidance')
-        
-        authority_multipliers = {
-            'law': 1.5,
-            'regulation': 1.4,
-            'rulebook': 1.3,
-            'guidance': 1.0,
-            'circular': 0.9,
-            'policy': 0.8
-        }
-        
-        return authority_multipliers.get(doc_type, 1.0)
     
     def _apply_filters(self, scored_docs: List, query: RetrievalQuery) -> List:
         """Apply jurisdiction and document type filters."""
@@ -260,10 +234,13 @@ class KeywordSearchEngine:
             doc_data['content'], query_terms
         )
         
+        # Use raw BM25 score without artificial normalization
+        # Keep the score as-is for ranking-based fusion
+        
         return RetrievedDocument(
             source=source,
             content=doc_data['content'],
-            relevance_score=min(score / 5.0, 1.0),  # Better normalize score for BM25 range
+            relevance_score=score,
             retrieval_method="keyword",
             match_highlights=highlights,
             context_window=doc_data.get('context', doc_data['content'])
@@ -305,7 +282,7 @@ class KeywordSearchEngine:
             'rulebook': 3,
             'guidance': 4,
             'circular': 4,
-            'policy': 5
+            'policy': 4  # Changed from 5 to 4 to match model validation
         }
         
         return authority_levels.get(document_type, 4)

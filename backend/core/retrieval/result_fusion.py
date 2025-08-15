@@ -14,29 +14,19 @@ class ResultFusion:
     """Combines and ranks results from multiple retrieval strategies."""
     
     def __init__(self):
-        self.authority_weights = {
-            1: 1.5,  # Laws
-            2: 1.3,  # Regulations  
-            3: 1.1,  # Rulebooks
-            4: 1.0   # Guidance
-        }
+        # No more complex weighting systems - keep it simple
+        pass
         
     def fuse_results(self, retrieval_results: Dict[str, List[RetrievedDocument]], 
                     query: RetrievalQuery) -> HybridRetrievalResult:
         """Fuse results from multiple retrieval methods."""
         
         try:
-            # Apply Reciprocal Rank Fusion (RRF)
+            # Apply pure Reciprocal Rank Fusion (RRF) based on ranking only
             rrf_scores = self._apply_reciprocal_rank_fusion(retrieval_results)
             
-            # Apply authority weighting
-            authority_weighted_scores = self._apply_authority_weighting(rrf_scores)
-            
-            # Apply recency weighting
-            recency_weighted_scores = self._apply_recency_weighting(authority_weighted_scores)
-            
             # Remove duplicates and near-duplicates
-            deduplicated_results = self._remove_duplicates(recency_weighted_scores)
+            deduplicated_results = self._remove_duplicates(rrf_scores)
             
             # Final ranking and selection
             final_documents = self._final_ranking(deduplicated_results, query.max_results)
@@ -71,7 +61,7 @@ class ResultFusion:
     
     def _apply_reciprocal_rank_fusion(self, 
                                     retrieval_results: Dict[str, List[RetrievedDocument]]) -> Dict[str, Dict[str, float]]:
-        """Apply Reciprocal Rank Fusion to combine rankings."""
+        """Apply pure Reciprocal Rank Fusion based on ranking only (no score weighting)."""
         
         rrf_scores = defaultdict(lambda: defaultdict(float))
         k = 60  # RRF constant
@@ -79,71 +69,44 @@ class ResultFusion:
         for method, documents in retrieval_results.items():
             for rank, doc in enumerate(documents, 1):
                 doc_id = doc.source.document_id
-                # RRF formula: 1 / (k + rank)
+                
+                # Pure RRF formula: 1 / (k + rank) - no score weighting
                 rrf_score = 1.0 / (k + rank)
+                
                 rrf_scores[doc_id][method] = rrf_score
                 rrf_scores[doc_id]['document'] = doc  # Store document reference
         
         return rrf_scores
     
-    def _apply_authority_weighting(self, 
-                                 rrf_scores: Dict[str, Dict[str, float]]) -> Dict[str, Dict[str, float]]:
-        """Apply document authority weighting."""
-        
-        weighted_scores = {}
-        
-        for doc_id, scores in rrf_scores.items():
-            document = scores['document']
-            authority_weight = self.authority_weights.get(document.source.authority_level, 1.0)
-            
-            weighted_scores[doc_id] = {
-                'total_score': sum(score for key, score in scores.items() if key != 'document') * authority_weight,
-                'authority_weight': authority_weight,
-                'document': document,
-                'method_scores': {k: v for k, v in scores.items() if k != 'document'}
-            }
-        
-        return weighted_scores
-    
-    def _apply_recency_weighting(self, 
-                               weighted_scores: Dict[str, Dict[str, float]]) -> Dict[str, Dict[str, float]]:
-        """Apply recency weighting (newer documents get slight boost)."""
-        
-        for doc_id, score_data in weighted_scores.items():
-            document = score_data['document']
-            
-            # Simple recency boost - could be enhanced with actual date analysis
-            recency_boost = 1.0
-            if hasattr(document.source, 'last_updated') and document.source.last_updated:
-                # Boost newer documents slightly (this would need actual date comparison)
-                recency_boost = 1.05
-            
-            score_data['total_score'] *= recency_boost
-            score_data['recency_boost'] = recency_boost
-        
-        return weighted_scores
-    
     def _remove_duplicates(self, 
-                         weighted_scores: Dict[str, Dict[str, float]]) -> Dict[str, Dict[str, float]]:
+                         rrf_scores: Dict[str, Dict[str, float]]) -> Dict[str, Dict[str, float]]:
         """Remove duplicate and near-duplicate documents."""
         
+        # Convert RRF scores to simplified format for deduplication
+        simple_scores = {}
+        for doc_id, scores in rrf_scores.items():
+            simple_scores[doc_id] = {
+                'total_score': sum(score for key, score in scores.items() if key != 'document'),
+                'document': scores['document']
+            }
+        
         # Group documents by similarity
-        document_groups = self._group_similar_documents(weighted_scores)
+        document_groups = self._group_similar_documents(simple_scores)
         
         # Keep the highest-scoring document from each group
         deduplicated = {}
         for group in document_groups:
             if group:  # Skip empty groups
-                best_doc_id = max(group, key=lambda doc_id: weighted_scores[doc_id]['total_score'])
-                deduplicated[best_doc_id] = weighted_scores[best_doc_id]
+                best_doc_id = max(group, key=lambda doc_id: simple_scores[doc_id]['total_score'])
+                deduplicated[best_doc_id] = simple_scores[best_doc_id]
         
         return deduplicated
     
     def _group_similar_documents(self, 
-                               weighted_scores: Dict[str, Dict[str, float]]) -> List[List[str]]:
+                               simple_scores: Dict[str, Dict[str, float]]) -> List[List[str]]:
         """Group similar documents together."""
         
-        doc_ids = list(weighted_scores.keys())
+        doc_ids = list(simple_scores.keys())
         groups = []
         processed = set()
         
@@ -154,13 +117,13 @@ class ResultFusion:
             current_group = [doc_id]
             processed.add(doc_id)
             
-            doc1 = weighted_scores[doc_id]['document']
+            doc1 = simple_scores[doc_id]['document']
             
             for other_id in doc_ids:
                 if other_id in processed:
                     continue
                     
-                doc2 = weighted_scores[other_id]['document']
+                doc2 = simple_scores[other_id]['document']
                 
                 if self._are_similar_documents(doc1, doc2):
                     current_group.append(other_id)
