@@ -40,10 +40,13 @@ class AgentService:
         # Format sources to match the expected schema
         formatted_sources = [
             {
-                "filename": r['metadata'].get('filename'),
-                "page_number": r['metadata'].get('page_number'),
-                "chunk_number": r['metadata'].get('chunk_number'),
-                "score": r.get('score', 0.0)
+                "filename": r['metadata'].get('title', 'Unknown Document'),
+                "page_number": r['metadata'].get('page_number', 'N/A'),
+                "chunk_number": r['metadata'].get('chunk_number', 'N/A'),
+                "score": r.get('score', 0.0),
+                "section": r['metadata'].get('section', ''),
+                "jurisdiction": r['metadata'].get('jurisdiction', ''),
+                "retrieval_method": r['metadata'].get('retrieval_method', 'unknown')
             } for r in sources
         ]
 

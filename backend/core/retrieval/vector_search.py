@@ -86,9 +86,11 @@ class VectorSearchEngine:
         
         filters = {}
         
-        # Filter by jurisdiction
+        # Filter by jurisdiction - convert to uppercase to match metadata
         if query.target_domains:
-            filters['jurisdiction'] = {"$in": query.target_domains}
+            # Convert jurisdiction to uppercase to match Pinecone metadata format
+            uppercase_domains = [domain.upper() for domain in query.target_domains]
+            filters['jurisdiction'] = {"$in": uppercase_domains}
             
         if not filters:
             return None

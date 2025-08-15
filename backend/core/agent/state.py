@@ -16,5 +16,6 @@ class AgentState(TypedDict):
     search_plan: Optional[SearchPlan]
     search_results: Optional[List[Dict[str, Any]]]
     retrieved_docs: Optional[List[Dict[str, Any]]]
+    used_sources: Optional[List[Dict[str, Any]]]  # Sources used in final response for citation tracking
     final_response: Optional[str]
     clarification_needed: Optional[bool]

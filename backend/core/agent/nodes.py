@@ -42,48 +42,35 @@ async def analyze_query(state: AgentState) -> Dict[str, Any]:
             messages_history.append({"role": role, "content": text})
 
     system_prompt = f"""
-You are an expert compliance analyst AI. Your task is to analyze a user's query about financial regulations in the specified jurisdiction: {jurisdiction}.
-Based on the user's query and the conversation history, you must decide on one of two possible actions:
+You are an expert AI compliance analyst responsible for interpreting user queries about financial regulations within the {jurisdiction} jurisdiction and determining the appropriate response path.
 
-1.  **Search**: If the query is clear, specific, and actionable, create a `SearchPlan`. A search plan consists of one or more search queries. Each query must have a `description`.
-2.  **Clarify**: If the query is ambiguous, vague, or lacks essential details, create a `ClarificationRequest`.
+Begin with a concise checklist (3-7 bullets) of what you will do; keep items conceptual, not implementation-level.
 
-**Conversation History Analysis**:
-- Review the provided conversation history.
-- If the AI's last message was a clarification request, the user's current message is likely an answer.
-- Use this new information to re-evaluate the original query.
 
-**Instructions**:
-- Your output **MUST** be a single JSON object that validates against the `QueryAnalysis` Pydantic model.
-- Provide a concise `reasoning` for your decision.
-- For a `SearchPlan`, ensure your decision has a `type` of `search_plan` and each query in the `queries` list is a dictionary with both a `query` and a `description` key.
-- For a `ClarificationRequest`, ensure your decision has a `type` of `clarification_request` and you provide a `clarification_questions` list of strings.
+Based on the user's message and the conversation history, select one of these two actions:
 
-**Pydantic Models for your reference**:
-```python
-from typing import List, Union, Literal
-from pydantic import BaseModel, Field
 
-class SearchQuery(BaseModel):
-    query: str
-    description: str
+1. **Search**: If the user query is clear, actionable, and specific, generate a `SearchPlan`. This consists of one or more search queries. Each search query must include both a `query` (the search string) and a `description` (which clarifies the query's focus). Maintain the logical or user-requested order for multiple queries.
+2. **Clarify**: If the user's input is ambiguous, vague, incomplete, or lacks critical information, generate a `ClarificationRequest`.
 
-class SearchPlan(BaseModel):
-    type: Literal["search_plan"] = "search_plan"
-    queries: List[SearchQuery]
+Guidance for Conversation History:
+- Analyze the full conversation history.
+- If the AI's prior message requested clarification, treat the user's current message as an answer and reassess the original request with this new information.
+- If the user has provided additional context or information, incorporate that into your analysis.
 
-class ClarificationRequest(BaseModel):
-    type: Literal["clarification_request"] = "clarification_request"
-    clarification_questions: List[str]
+After generating your output, validate that your JSON matches the required structure, and self-correct if you detect formatting or conformity issues before returning your final output.
 
-class QueryAnalysis(BaseModel):
-    reasoning: str
-    decision: Union[SearchPlan, ClarificationRequest] = Field(discriminator="type")
-```
+Output Requirements:
+- Your output must be a single JSON object that strictly conforms to the following structure (as defined by the `QueryAnalysis` schema):
+- `reasoning`: string. A brief rationale for your chosen action.
+- `decision`: object. One of:
+- `type: "search_plan"` with a `queries` list: Each item must be a dictionary with both `query` and `description` (both strings). If any search is missing these fields, flag as a formatting error and provide an empty `queries` list.
+- `type: "clarification_request"` with a `clarification_questions` list: Each question must be a non-empty string.
+- If the input is unexpected, invalid, or unmappable to search or clarification, generate a clarification request to elicit the required information.
 
-**Output Format Examples**:
 
-*If you decide to search*:
+Output Format Example:
+Search example:
 ```json
 {{
   "reasoning": "The user's query is specific and requires looking up definitions in the glossary.",
@@ -99,7 +86,7 @@ class QueryAnalysis(BaseModel):
 }}
 ```
 
-*If you decide to clarify*:
+*Clarification Example*:
 ```json
 {{
   "reasoning": "The user's query is too broad. I need to know which specific regulations they are interested in.",
@@ -121,7 +108,7 @@ class QueryAnalysis(BaseModel):
 
     try:
         response = await async_client.chat.completions.create(
-            model="o4-mini-2025-04-16",
+            model="gpt-5-2025-08-07",
             messages=messages,
             response_format={"type": "json_object"}
         )
@@ -149,8 +136,6 @@ async def execute_search(state: AgentState) -> Dict[str, Any]:
     if not isinstance(decision, SearchPlan):
         return {"search_results": []} # Should not happen due to conditional routing
 
-    primary_query = decision.queries[0].query
-    
     # Initialize the search engines with proper dependencies
     try:
         # Initialize services
@@ -158,63 +143,74 @@ async def execute_search(state: AgentState) -> Dict[str, Any]:
         async_client = AsyncOpenAI(api_key=OPENAI_API_KEY)
         document_corpus = load_document_corpus_from_content_store()
         
-        # Create search engines
+        # Create search engines (pass vector_service to keyword_search for metadata consistency)
         vector_search = VectorSearchEngine(client=async_client, vector_service=vector_service)
-        keyword_search = KeywordSearchEngine(document_corpus=document_corpus)
+        keyword_search = KeywordSearchEngine(document_corpus=document_corpus, vector_service=vector_service)
         
-        # Create RetrievalQuery objects
-        retrieval_query = RetrievalQuery(
-            query_text=primary_query,
-            query_type="fusion",  # Use fusion to combine both vector and keyword
-            max_results=5,
-            min_relevance_score=0.3,
-            target_domains=[state["jurisdiction"].lower()]  # Use jurisdiction from state
-        )
+        # Execute searches for all queries in the search plan
+        all_combined_results = []
         
-        # Perform searches
-        vector_results = await vector_search.search(retrieval_query)
-        keyword_results = await keyword_search.search(retrieval_query)
-        
-        # Convert results to the expected format and combine
-        combined_results = []
-        
-        # Process vector results
-        for doc in vector_results:
-            combined_results.append({
-                'id': doc.source.document_id,
-                'content': doc.content,
-                'score': doc.relevance_score,
-                'metadata': {
-                    'text': doc.content,
-                    'title': doc.source.title,
-                    'section': doc.source.section,
-                    'authority_level': doc.source.authority_level,
-                    'jurisdiction': doc.source.jurisdiction,
-                    'source_collection': doc.source.document_id.split('_')[0],
-                    'retrieval_method': 'vector'
-                }
-            })
-        
-        # Process keyword results
-        for doc in keyword_results:
-            combined_results.append({
-                'id': doc.source.document_id,
-                'content': doc.content,
-                'score': doc.relevance_score,
-                'metadata': {
-                    'text': doc.content,
-                    'title': doc.source.title,
-                    'section': doc.source.section,
-                    'authority_level': doc.source.authority_level,
-                    'jurisdiction': doc.source.jurisdiction,
-                    'source_collection': doc.source.document_id.split('_')[0],
-                    'retrieval_method': 'keyword'
-                }
-            })
+        for i, search_query in enumerate(decision.queries):
+            logger.info(f"Executing query {i+1}/{len(decision.queries)}: {search_query.query}")
+            
+            # Create RetrievalQuery objects
+            retrieval_query = RetrievalQuery(
+                query_text=search_query.query,
+                query_type="fusion",  # Use fusion to combine both vector and keyword
+                max_results=10,
+                min_relevance_score=0.3,
+                target_domains=[state["jurisdiction"].lower()]  # Use jurisdiction from state
+            )
+            
+            # Perform searches
+            vector_results = await vector_search.search(retrieval_query)
+            keyword_results = await keyword_search.search(retrieval_query)
+            
+            # Convert results to the expected format and combine
+            query_results = []
+            
+            # Process vector results
+            for doc in vector_results:
+                query_results.append({
+                    'id': doc.source.document_id,
+                    'content': doc.content,
+                    'score': doc.relevance_score,
+                    'metadata': {
+                        'text': doc.content,
+                        'title': doc.source.title,
+                        'section': doc.source.section,
+                        'authority_level': doc.source.authority_level,
+                        'jurisdiction': doc.source.jurisdiction,
+                        'source_collection': doc.source.document_id.split('_')[0],
+                        'retrieval_method': 'vector',
+                        'query_description': search_query.description
+                    }
+                })
+            
+            # Process keyword results
+            for doc in keyword_results:
+                query_results.append({
+                    'id': doc.source.document_id,
+                    'content': doc.content,
+                    'score': doc.relevance_score,
+                    'metadata': {
+                        'text': doc.content,
+                        'title': doc.source.title,
+                        'section': doc.source.section,
+                        'authority_level': doc.source.authority_level,
+                        'jurisdiction': doc.source.jurisdiction,
+                        'source_collection': doc.source.document_id.split('_')[0],
+                        'retrieval_method': 'keyword',
+                        'query_description': search_query.description
+                    }
+                })
+            
+            all_combined_results.extend(query_results)
+            logger.info(f"Query {i+1} returned {len(query_results)} results")
         
         # Remove duplicates based on content
         unique_results = {}
-        for result in combined_results:
+        for result in all_combined_results:
             content_key = result['content'][:100]  # Use first 100 chars as key
             if content_key not in unique_results or result['score'] > unique_results[content_key]['score']:
                 unique_results[content_key] = result
@@ -222,8 +218,8 @@ async def execute_search(state: AgentState) -> Dict[str, Any]:
         # Sort by score and limit results
         sorted_results = sorted(unique_results.values(), key=lambda x: x.get('score', 0.0), reverse=True)
         
-        logger.info(f"Retrieved {len(sorted_results)} unique results for query: {primary_query}")
-        return {"search_results": sorted_results[:5]}
+        logger.info(f"Retrieved {len(sorted_results)} unique results across {len(decision.queries)} queries")
+        return {"search_results": sorted_results[:10]}  # Increased limit since we're searching multiple queries
         
     except Exception as e:
         logger.error(f"Search execution failed: {str(e)}")
@@ -232,36 +228,101 @@ async def execute_search(state: AgentState) -> Dict[str, Any]:
 
 async def generate_response(state: AgentState) -> Dict[str, Any]:
     """
-    Generates a final response based on search results.
+    Synthesis node that generates a comprehensive response based on conversation history,
+    current query, and retrieved search results. This node considers the full context
+    of the conversation to provide contextually aware responses.
     """
-    logger.info("Node: generate_response")
-    query = state["user_query"]
+    logger.info("Node: generate_response (synthesis)")
+    
+    current_query = state["user_query"]
     search_results = state.get("search_results", [])
+    conversation_history = state.get("messages", [])
+    jurisdiction = state["jurisdiction"]
     
     if not search_results:
-        return {"final_response": "I could not find any relevant information to answer your question."}
+        return {"final_response": "I could not find any relevant information to answer your question based on the available regulatory documents."}
 
-    context_str = "\n\n".join([f"Source {i+1} (Page {r['metadata'].get('page_number', 'N/A')} of {r['metadata'].get('filename', 'Unknown')}):\n{r['metadata']['text']}" for i, r in enumerate(search_results)])
+    # Build conversation context from history
+    conversation_context = ""
+    if conversation_history:
+        conversation_context = "Previous conversation:\n"
+        for i, msg in enumerate(conversation_history[-6:]):  # Last 6 messages for context
+            sender = msg.get("sender", "unknown")
+            content = msg.get("text", "")
+            role_label = "User" if sender == "user" else "Assistant"
+            conversation_context += f"{role_label}: {content}\n"
+        conversation_context += f"\nCurrent User Query: {current_query}\n"
+    else:
+        conversation_context = f"User Query: {current_query}\n"
+
+    # Format search results with enhanced metadata
+    sources_context = ""
+    for i, result in enumerate(search_results):
+        metadata = result.get('metadata', {})
+        source_info = (
+            f"**Source {i+1}** "
+            f"[{metadata.get('title', 'Unknown Document')} - "
+            f"Section: {metadata.get('section', 'N/A')}]\n"
+            f"Authority Level: {metadata.get('authority_level', 'N/A')}\n"
+            f"Jurisdiction: {metadata.get('jurisdiction', 'N/A')}\n"
+            f"Content: {metadata.get('text', result.get('content', ''))}\n"
+        )
+        
+        # Add query description if available (helps understand why this source was retrieved)
+        if metadata.get('query_description'):
+            source_info += f"Retrieved for: {metadata.get('query_description')}\n"
+            
+        sources_context += source_info + "\n---\n\n"
     
-    # Store the search results in state so they can be used for source citations later
+    # Store the search results in state for source citations
     state["used_sources"] = search_results
     
-    system_prompt = "You are a helpful AI assistant for compliance professionals. Answer the user's query based *only* on the provided search results. Cite sources using individual citation markers like [1], [2], etc. Do not use compound citations like [1-3] or [1,2,3]."
-    user_prompt = f"Query: {query}\n\nSearch Results:\n{context_str}\n\nAnswer:"
+    system_prompt = f"""You are an expert AI compliance advisor specializing in {jurisdiction} financial regulations. 
+
+Your task is to synthesize information from the conversation history and retrieved regulatory sources to provide a comprehensive, contextually-aware response.
+
+Key Instructions:
+1. **Context Awareness**: Consider the full conversation history to understand the user's broader needs and any previous clarifications or follow-up questions.
+2. **Source-Based Responses**: Base your answer ONLY on the provided search results from official regulatory documents.
+3. **Citation Requirements**: 
+   - Use individual citation markers like [1], [2], etc. 
+   - Do not use compound citations like [1-3] or [1,2,3]
+   - Each citation should correspond to a specific source
+4. **Synthesis Approach**:
+   - Connect information across multiple sources when relevant
+   - Address the current query while considering previous conversation context
+   - Identify patterns, relationships, or contradictions across sources
+   - Provide actionable guidance where appropriate
+5. **Regulatory Precision**: Be precise about regulatory requirements, noting any jurisdictional specifics, effective dates, or conditional applications.
+6. **Clarity**: Structure your response clearly with headings, bullet points, or numbered lists when appropriate.
+
+If the search results don't fully address the query, acknowledge the limitations and suggest what additional information might be needed."""
+
+    user_prompt = f"""Please analyze the following conversation and provide a comprehensive response:
+
+{conversation_context}
+
+Available Regulatory Sources:
+{sources_context}
+
+Provide a detailed, well-structured response that synthesizes the available information to address the user's current query while considering the conversation context."""
 
     try:
         response = await async_client.chat.completions.create(
-            model="o4-mini-2025-04-16",
+            model="gpt-5-2025-08-07",
             messages=[
                 {"role": "system", "content": system_prompt},
                 {"role": "user", "content": user_prompt}
             ],
+    
         )
         final_response = response.choices[0].message.content
+        logger.info("Successfully generated synthesis response")
         return {"final_response": final_response}
+        
     except Exception as e:
-        logger.error(f"Error in generate_response: {e}")
-        return {"final_response": "I found some information, but had trouble summarizing it."}
+        logger.error(f"Error in generate_response synthesis: {e}")
+        return {"final_response": "I found relevant information in the regulatory documents, but encountered an issue while synthesizing the response. Please try rephrasing your question or contact support if the issue persists."}
 
 
 async def format_clarification(state: AgentState) -> Dict[str, Any]:

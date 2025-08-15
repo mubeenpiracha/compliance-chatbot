@@ -49,6 +49,7 @@ def load_document_corpus_from_content_store(content_store_path: str = "./content
                 document = {
                     'id': f"{doc_dir.name}_{chunk_index:06d}_{checksum}",
                     'content': content,
+                    'content_path': str(chunk_file.absolute()),  # Add absolute path for Pinecone lookup
                     'metadata': {
                         'title': _format_title(doc_dir.name),
                         'document_type': document_type,
@@ -59,7 +60,8 @@ def load_document_corpus_from_content_store(content_store_path: str = "./content
                         'checksum': checksum,
                         'source_collection': doc_dir.name,
                         'domains': domains,
-                        'file_path': str(chunk_file)
+                        'file_path': str(chunk_file),
+                        'content_path': str(chunk_file.absolute())  # Also in metadata for consistency
                     }
                 }
                 

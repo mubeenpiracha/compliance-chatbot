@@ -99,34 +99,35 @@ def test_agent_conversation_flow(test_case: Dict):
 
 # --- Helper function for testing ---
 
-from backend.core.graph_agent import agent
+from backend.core.agent.builder import workflow
+from backend.core.agent.state import AgentState
 
 def invoke_agent_for_test(user_message: str, history: list, jurisdiction: str) -> AgentState:
     """
     A test-specific wrapper to invoke the agent and return the full final state.
     """
-    chat_history = []
+    # Convert history to the expected format
+    formatted_history = []
     for msg in history:
-        if msg['sender'] == 'user':
-            chat_history.append(HumanMessage(content=msg['text']))
-        else:
-            chat_history.append(AIMessage(content=msg['text']))
+        formatted_history.append({
+            'sender': msg['sender'],
+            'text': msg['text']
+        })
 
     initial_state: AgentState = {
-        "original_query": user_message,
+        "user_query": user_message,
         "jurisdiction": jurisdiction,
-        "chat_history": chat_history,
-        "contextualized_query": "",
-        "clarity_grade": "",
-        "sub_questions": [],
-        "retrieved_docs": [],
-        "final_response": "",
-        "route": "",
-        "clarification_question": ""
+        "messages": formatted_history,
+        "decision": None,
+        "search_results": None,
+        "final_response": None,
     }
 
+    # Compile the workflow
+    graph = workflow.compile()
+    
     # Use a config to add a name to the run for easier debugging in LangSmith
     config = {"configurable": {"thread_id": "test-run"}}
     
-    final_state = agent.invoke(initial_state, config=config)
+    final_state = graph.invoke(initial_state, config=config)
     return final_state

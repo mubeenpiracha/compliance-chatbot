@@ -28,26 +28,36 @@ class RealVectorService:
         try:
             all_results = []
             
-            # Search across all namespaces instead of hardcoded ones
-            # This avoids namespace collision issues after our ingestion fix
-            try:
-                response = self.index.query(
-                    vector=query_vector,
-                    top_k=top_k,
-                    include_metadata=True
-                    # Note: No namespace parameter = search all namespaces
-                )
-                
-                for match in response.matches:
-                    # Extract namespace from the match if available
-                    namespace = getattr(match, 'namespace', 'unknown')
-                    result = self._convert_match_to_result(match, namespace)
-                    if result:
-                        all_results.append(result)
-                        
-            except Exception as e:
-                logger.error(f"Failed to search Pinecone index: {str(e)}")
+            # Get available namespaces from the index
+            stats = self.index.describe_index_stats()
+            available_namespaces = list(stats.namespaces.keys()) if hasattr(stats, 'namespaces') and stats.namespaces else []
+            
+            if not available_namespaces:
+                logger.warning("No namespaces found in Pinecone index")
                 return []
+            
+            logger.debug(f"Searching across {len(available_namespaces)} namespaces")
+            
+            # Search each namespace individually
+            # Note: Pinecone doesn't support cross-namespace search in a single query
+            for namespace in available_namespaces:
+                try:
+                    response = self.index.query(
+                        vector=query_vector,
+                        top_k=max(1, top_k // len(available_namespaces)),  # Distribute top_k across namespaces
+                        include_metadata=True,
+                        namespace=namespace,
+                        filter=filter_params
+                    )
+                    
+                    for match in response.matches:
+                        result = self._convert_match_to_result(match, namespace)
+                        if result:
+                            all_results.append(result)
+                            
+                except Exception as e:
+                    logger.debug(f"Failed to search namespace {namespace}: {str(e)}")
+                    continue
             
             # Sort by relevance score and limit results
             all_results.sort(key=lambda x: x['score'], reverse=True)
@@ -155,10 +165,10 @@ class RealVectorService:
             'rulebook': 3,     # Medium-high authority
             'rules': 3,        # Medium-high authority
             'guidance': 4,     # Lower authority
-            'document': 5      # Lowest authority
+            'document': 4      # Lower authority (changed from 5 to 4 to match model validation)
         }
         
-        return authority_map.get(doc_type, 5)
+        return authority_map.get(doc_type, 4)  # Default to 4 instead of 5
     
     def get_embedding(self, text: str) -> List[float]:
         """This method is not used in the current implementation but kept for compatibility."""
