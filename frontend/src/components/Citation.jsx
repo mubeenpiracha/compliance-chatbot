@@ -37,7 +37,7 @@ const Citation = ({ source, filename, chunk_id, chunkId, section, jurisdiction, 
     if (effectiveChunkId) {
       setLoading(true);
       console.log("Fetching chunk content for chunkId:", effectiveChunkId);
-      fetch(`http://localhost:8000/api/v1/chat/chunk/${effectiveChunkId}`)
+      fetch(`http://localhost:8001/api/v1/chat/chunk/${effectiveChunkId}`)
         .then(response => {
           console.log("Chunk API response status:", response.status);
           if (!response.ok) {
@@ -68,7 +68,7 @@ const Citation = ({ source, filename, chunk_id, chunkId, section, jurisdiction, 
           console.log("Extracted chunk ID from filename:", extractedId);
           
           setLoading(true);
-          fetch(`http://localhost:8000/api/v1/chat/chunk/${extractedId}`)
+          fetch(`http://localhost:8001/api/v1/chat/chunk/${extractedId}`)
             .then(response => {
               console.log("Chunk API response status (from filename):", response.status);
               if (!response.ok) {

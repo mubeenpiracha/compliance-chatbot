@@ -40,7 +40,7 @@ function ChatInterface({ darkMode, setDarkMode }) {
     try {
       // Only send valid history messages to backend
       const validHistory = messages.slice(1).filter(msg => msg.sender && typeof msg.text === 'string');
-      const response = await axios.post('http://localhost:8000/api/v1/chat', {
+      const response = await axios.post('http://localhost:8001/api/v1/chat', {
         message: userMessage.text,
         jurisdiction: jurisdiction,
         history: validHistory

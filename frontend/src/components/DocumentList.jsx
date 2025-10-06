@@ -20,7 +20,7 @@ function DocumentList() {
     const fetchDocuments = async () => {
       try {
         // Use axios to send a GET request to our backend endpoint
-        const response = await axios.get('http://localhost:8000/api/v1/documents');
+        const response = await axios.get('http://localhost:8001/api/v1/documents');
         // If successful, update our state with the data from the response
         setDocuments(response.data);
         setError(null); // Clear any previous errors
