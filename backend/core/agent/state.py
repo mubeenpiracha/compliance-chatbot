@@ -19,3 +19,6 @@ class AgentState(TypedDict):
     used_sources: Optional[List[Dict[str, Any]]]  # Sources used in final response for citation tracking
     final_response: Optional[str]
     clarification_needed: Optional[bool]
+    # Reflection-related fields
+    needs_additional_search: Optional[bool]
+    reflection_analysis: Optional[Dict[str, Any]]

@@ -19,7 +19,7 @@ def test_chat_endpoint():
     url = "http://localhost:8000/api/v1/chat/"
     
     payload = {
-        "message": "What are collective investment funds?",
+        "message": "What is the DIFC legal definition of a collective investment fund according to Article 11?",
         "jurisdiction": "DIFC",
         "history": []
     }

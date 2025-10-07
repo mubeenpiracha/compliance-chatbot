@@ -18,14 +18,53 @@ function ChatInterface({ darkMode, setDarkMode }) {
   const [selectedCitation, setSelectedCitation] = useState(null);
 
   const messagesEndRef = useRef(null);
+  const textareaRef = useRef(null);
 
   const scrollToBottom = () => {
     messagesEndRef.current?.scrollIntoView({ behavior: "smooth" });
   };
 
+  // Auto-resize textarea function
+  const adjustTextareaHeight = () => {
+    const textarea = textareaRef.current;
+    if (textarea) {
+      // Reset height to get accurate scrollHeight
+      textarea.style.height = 'auto';
+      
+      // Calculate max height (half of viewport height minus some padding)
+      const maxHeight = Math.floor(window.innerHeight * 0.4); // Reduced from 0.5 to 0.4
+      const minHeight = 48; // Minimum height for one line
+      
+      // Get the actual content height
+      const scrollHeight = textarea.scrollHeight;
+      
+      // Set height based on content, but cap at maxHeight
+      if (scrollHeight <= maxHeight) {
+        textarea.style.height = Math.max(scrollHeight, minHeight) + 'px';
+        textarea.style.overflowY = 'hidden';
+      } else {
+        textarea.style.height = maxHeight + 'px';
+        textarea.style.overflowY = 'auto';
+      }
+    }
+  };
+
+  useEffect(() => {
+    adjustTextareaHeight();
+  }, [inputValue]);
+
   useEffect(() => {
     scrollToBottom();
   }, [messages]);
+
+  useEffect(() => {
+    const handleResize = () => {
+      adjustTextareaHeight();
+    };
+
+    window.addEventListener('resize', handleResize);
+    return () => window.removeEventListener('resize', handleResize);
+  }, []);
 
   const handleSendMessage = async (e) => {
     e.preventDefault();
@@ -36,6 +75,11 @@ function ChatInterface({ darkMode, setDarkMode }) {
     setMessages(newMessages);
     setIsLoading(true);
     setInputValue('');
+    
+    // Reset textarea height after clearing input
+    setTimeout(() => {
+      adjustTextareaHeight();
+    }, 0);
 
     try {
       // Only send valid history messages to backend
@@ -230,8 +274,11 @@ function ChatInterface({ darkMode, setDarkMode }) {
               >
                 <div className="absolute inset-0 bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500 opacity-20 dark:opacity-30 rounded-2xl blur-sm group-focus-within:opacity-40 transition-opacity duration-300" />
                 <textarea
+                  ref={textareaRef}
                   value={inputValue}
-                  onChange={(e) => setInputValue(e.target.value)}
+                  onChange={(e) => {
+                    setInputValue(e.target.value);
+                  }}
                   onKeyDown={(e) => {
                     if (e.key === 'Enter' && !e.shiftKey) {
                       e.preventDefault();
@@ -239,23 +286,41 @@ function ChatInterface({ darkMode, setDarkMode }) {
                     }
                   }}
                   placeholder="Ask me anything about DIFC or ADGM regulations..."
-                  className="relative block w-full resize-none rounded-xl border-none bg-white/90 dark:bg-gray-800/90 backdrop-blur-sm p-4 pr-20 text-sm text-gray-900 dark:text-gray-100 placeholder-gray-500 dark:placeholder-gray-400 focus:outline-none focus:ring-2 focus:ring-blue-500 dark:focus:ring-purple-500 transition-all duration-300 sm:text-base"
+                  className="relative block w-full resize-none rounded-xl border-none bg-white/90 dark:bg-gray-800/90 backdrop-blur-sm p-4 pr-20 text-sm text-gray-900 dark:text-gray-100 placeholder-gray-500 dark:placeholder-gray-400 focus:outline-none focus:ring-2 focus:ring-blue-500 dark:focus:ring-purple-500 transition-all duration-300 sm:text-base overflow-y-auto"
                   rows="1"
                   disabled={isLoading}
                   style={{
-                    scrollbarWidth: 'none',
-                    msOverflowStyle: 'none',
+                    minHeight: '48px',
+                    maxHeight: '40vh',
+                    scrollbarWidth: 'thin',
+                    scrollbarColor: 'rgba(156, 163, 175, 0.5) transparent',
+                    lineHeight: '1.5',
                   }}
                   required
                 />
+                {/* Line counter and Shift+Enter hint */}
+                {inputValue.includes('\n') && inputValue.split('\n').length > 1 && (
+                  <div className="absolute top-2 right-20 text-xs text-gray-400 dark:text-gray-500 pointer-events-none z-10">
+                    <span className="bg-white/90 dark:bg-gray-800/90 px-2 py-0.5 rounded backdrop-blur-sm border border-gray-200/50 dark:border-gray-600/50">
+                      {inputValue.split('\n').length} lines
+                    </span>
+                  </div>
+                )}
               </motion.div>
+              
+              {/* Shift+Enter indicator next to send button */}
+              <div className="absolute bottom-3 right-20 flex items-center gap-1 text-xs text-gray-400 dark:text-gray-500 pointer-events-none">
+                <span className="bg-white/80 dark:bg-gray-800/80 px-2 py-1 rounded-lg backdrop-blur-sm border border-gray-200/50 dark:border-gray-600/50 shadow-sm">
+                  ⇧ + ↵ new line
+                </span>
+              </div>
               
               <motion.button
                 type="submit"
                 whileHover={{ scale: 1.05 }}
                 whileTap={{ scale: 0.95 }}
                 disabled={isLoading || !inputValue.trim()}
-                className={`absolute bottom-3 right-3 p-3 rounded-xl text-sm font-semibold transition-all duration-300 shadow-lg ${
+                className={`absolute bottom-3 right-3 p-3 rounded-xl text-sm font-semibold transition-all duration-300 shadow-lg z-20 ${
                   isLoading || !inputValue.trim()
                     ? 'bg-gray-300 dark:bg-gray-600 text-gray-500 dark:text-gray-400 cursor-not-allowed'
                     : 'bg-gradient-to-r from-blue-500 via-purple-600 to-blue-600 hover:from-blue-600 hover:via-purple-700 hover:to-blue-700 text-white shadow-xl hover:shadow-2xl transform hover:-translate-y-0.5'

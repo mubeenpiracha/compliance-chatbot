@@ -1,7 +1,7 @@
 # backend/core/agent/builder.py
 from langgraph.checkpoint.sqlite.aio import AsyncSqliteSaver
 from backend.core.agent.state import AgentState
-from backend.core.agent.nodes import analyze_query, execute_search, generate_response, format_clarification
+from backend.core.agent.nodes import analyze_query, execute_search, generate_response, format_clarification, reflection_node
 from backend.core.models.agent_models import SearchPlan, ClarificationRequest
 from langgraph.graph import StateGraph, END
 
@@ -15,6 +15,16 @@ def should_search(state: AgentState):
         return "clarify"
     return "end"
 
+def should_reflect(state: AgentState):
+    """
+    Determines whether to reflect on the response for incomplete information.
+    """
+    # Check if reflection is needed based on incomplete information flags
+    needs_reflection = state.get("needs_additional_search", False)
+    if needs_reflection:
+        return "reflect"
+    return "end"
+
 # Define the graph
 workflow = StateGraph(AgentState)
 
@@ -23,6 +33,7 @@ workflow.add_node("analyze_query", analyze_query)
 workflow.add_node("execute_search", execute_search)
 workflow.add_node("generate_response", generate_response)
 workflow.add_node("format_clarification", format_clarification)
+workflow.add_node("reflection_node", reflection_node)
 
 # Set the entry point
 workflow.set_entry_point("analyze_query")
@@ -38,7 +49,15 @@ workflow.add_conditional_edges(
     },
 )
 workflow.add_edge("execute_search", "generate_response")
-workflow.add_edge("generate_response", END)
+workflow.add_conditional_edges(
+    "generate_response",
+    should_reflect,
+    {
+        "reflect": "reflection_node",
+        "end": END,
+    },
+)
+workflow.add_edge("reflection_node", "execute_search")  # Reflection triggers new search
 workflow.add_edge("format_clarification", END)
 
 # The graph is no longer compiled here, just the workflow is defined.

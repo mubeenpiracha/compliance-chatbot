@@ -2,6 +2,7 @@
 import os
 import json
 import logging
+import asyncio
 from typing import List, Dict, Any, Union
 from openai import AsyncOpenAI
 from pydantic import ValidationError
@@ -127,9 +128,104 @@ Search example:
         }
 
 
+def calculate_rrf_scores(vector_results: List, keyword_results: List, k: int = 60) -> List[Dict[str, Any]]:
+    """
+    Calculate Reciprocal Rank Fusion (RRF) scores for combining search results.
+    RRF_score = 1 / (k + rank) where rank is 1-indexed position in each result list.
+    """
+    rrf_scores = {}  # document_id -> {"doc": doc_data, "rrf_score": float, "methods": set}
+    
+    # Process vector results (rank 1 = highest score)
+    for rank, doc in enumerate(vector_results, 1):
+        doc_id = doc.source.document_id
+        rrf_contribution = 1.0 / (k + rank)
+        
+        if doc_id not in rrf_scores:
+            rrf_scores[doc_id] = {
+                "doc": {
+                    'id': doc.source.document_id,
+                    'content': doc.content,
+                    'score': rrf_contribution,  # Start with RRF score
+                    'metadata': {
+                        'text': doc.content,
+                        'title': doc.source.title,
+                        'section': doc.source.section,
+                        'authority_level': doc.source.authority_level,
+                        'jurisdiction': doc.source.jurisdiction,
+                        'checksum': doc.source.chunk_id,
+                        'source_collection': doc.source.document_id.split('_')[0],
+                        'retrieval_method': 'fusion',  # Mark as fusion result
+                        'original_vector_score': doc.relevance_score,
+                        'vector_rank': rank
+                    }
+                },
+                "rrf_score": rrf_contribution,
+                "methods": {"vector"}
+            }
+        else:
+            # Document found in multiple methods - add RRF scores
+            rrf_scores[doc_id]["rrf_score"] += rrf_contribution
+            rrf_scores[doc_id]["methods"].add("vector")
+            rrf_scores[doc_id]["doc"]["metadata"]["original_vector_score"] = doc.relevance_score
+            rrf_scores[doc_id]["doc"]["metadata"]["vector_rank"] = rank
+    
+    # Process keyword results
+    for rank, doc in enumerate(keyword_results, 1):
+        doc_id = doc.source.document_id
+        rrf_contribution = 1.0 / (k + rank)
+        
+        if doc_id not in rrf_scores:
+            rrf_scores[doc_id] = {
+                "doc": {
+                    'id': doc.source.document_id,
+                    'content': doc.content,
+                    'score': rrf_contribution,
+                    'metadata': {
+                        'text': doc.content,
+                        'title': doc.source.title,
+                        'section': doc.source.section,
+                        'authority_level': doc.source.authority_level,
+                        'jurisdiction': doc.source.jurisdiction,
+                        'checksum': doc.source.chunk_id,
+                        'source_collection': doc.source.document_id.split('_')[0],
+                        'retrieval_method': 'fusion',
+                        'original_keyword_score': doc.relevance_score,
+                        'keyword_rank': rank
+                    }
+                },
+                "rrf_score": rrf_contribution,
+                "methods": {"keyword"}
+            }
+        else:
+            # Document found in multiple methods - add RRF scores
+            rrf_scores[doc_id]["rrf_score"] += rrf_contribution
+            rrf_scores[doc_id]["methods"].add("keyword")
+            rrf_scores[doc_id]["doc"]["metadata"]["original_keyword_score"] = doc.relevance_score
+            rrf_scores[doc_id]["doc"]["metadata"]["keyword_rank"] = rank
+    
+    # Update final scores and method information
+    final_results = []
+    for doc_data in rrf_scores.values():
+        doc_data["doc"]["score"] = doc_data["rrf_score"]
+        
+        # Update retrieval method based on which methods found this document
+        methods = doc_data["methods"]
+        if len(methods) > 1:
+            doc_data["doc"]["metadata"]["retrieval_method"] = "fusion"
+            doc_data["doc"]["metadata"]["fusion_methods"] = list(methods)
+        else:
+            doc_data["doc"]["metadata"]["retrieval_method"] = list(methods)[0]
+        
+        final_results.append(doc_data["doc"])
+    
+    # Sort by RRF score (higher is better)
+    final_results.sort(key=lambda x: x["score"], reverse=True)
+    return final_results
+
+
 async def execute_search(state: AgentState) -> Dict[str, Any]:
     """
-    Executes the search plan.
+    Executes the search plan using proper Reciprocal Rank Fusion (RRF).
     """
     logger.info("Node: execute_search")
     decision = state["decision"]
@@ -147,8 +243,8 @@ async def execute_search(state: AgentState) -> Dict[str, Any]:
         vector_search = VectorSearchEngine(client=async_client, vector_service=vector_service)
         keyword_search = KeywordSearchEngine(document_corpus=document_corpus, vector_service=vector_service)
         
-        # Execute searches for all queries in the search plan
-        all_combined_results = []
+        # Execute searches for all queries in the search plan and apply RRF per query
+        all_rrf_results = []
         
         for i, search_query in enumerate(decision.queries):
             logger.info(f"Executing query {i+1}/{len(decision.queries)}: {search_query.query}")
@@ -162,69 +258,81 @@ async def execute_search(state: AgentState) -> Dict[str, Any]:
                 target_domains=[state["jurisdiction"].lower()]  # Use jurisdiction from state
             )
             
-            # Perform searches
-            vector_results = await vector_search.search(retrieval_query)
-            keyword_results = await keyword_search.search(retrieval_query)
+            # Perform searches in parallel for better performance
+            try:
+                vector_results, keyword_results = await asyncio.gather(
+                    vector_search.search(retrieval_query),
+                    keyword_search.search(retrieval_query),
+                    return_exceptions=True
+                )
+                
+                # Handle partial failures gracefully
+                if isinstance(vector_results, Exception):
+                    logger.warning(f"Vector search failed for query {i+1}: {vector_results}")
+                    vector_results = []
+                    
+                if isinstance(keyword_results, Exception):
+                    logger.warning(f"Keyword search failed for query {i+1}: {keyword_results}")
+                    keyword_results = []
+                    
+            except Exception as e:
+                logger.error(f"Parallel search failed for query {i+1}, falling back to sequential: {e}")
+                # Fallback to sequential execution
+                try:
+                    vector_results = await vector_search.search(retrieval_query)
+                except Exception:
+                    logger.error(f"Vector search fallback failed for query {i+1}")
+                    vector_results = []
+                    
+                try:
+                    keyword_results = await keyword_search.search(retrieval_query)
+                except Exception:
+                    logger.error(f"Keyword search fallback failed for query {i+1}")
+                    keyword_results = []
             
-            # Convert results to the expected format and combine
-            query_results = []
+            logger.info(f"Query {i+1}: Vector={len(vector_results)}, Keyword={len(keyword_results)} results")
             
-            # Process vector results
-            for doc in vector_results:
-                query_results.append({
-                    'id': doc.source.document_id,
-                    'content': doc.content,
-                    'score': doc.relevance_score,
-                    'metadata': {
-                        'text': doc.content,
-                        'title': doc.source.title,
-                        'section': doc.source.section,
-                        'authority_level': doc.source.authority_level,
-                        'jurisdiction': doc.source.jurisdiction,
-                        'checksum': doc.source.chunk_id,  # chunk_id contains the checksum from Pinecone
-                        'source_collection': doc.source.document_id.split('_')[0],
-                        'retrieval_method': 'vector',
-                        'query_description': search_query.description
-                    }
-                })
+            # Apply RRF to combine results for this query
+            rrf_results = calculate_rrf_scores(vector_results, keyword_results)
             
-            # Process keyword results
-            for doc in keyword_results:
-                query_results.append({
-                    'id': doc.source.document_id,
-                    'content': doc.content,
-                    'score': doc.relevance_score,
-                    'metadata': {
-                        'text': doc.content,
-                        'title': doc.source.title,
-                        'section': doc.source.section,
-                        'authority_level': doc.source.authority_level,
-                        'jurisdiction': doc.source.jurisdiction,
-                        'checksum': doc.source.chunk_id,  # chunk_id contains the checksum from Pinecone
-                        'source_collection': doc.source.document_id.split('_')[0],
-                        'retrieval_method': 'keyword',
-                        'query_description': search_query.description
-                    }
-                })
+            # Add query description to metadata
+            for result in rrf_results:
+                result['metadata']['query_description'] = search_query.description
             
-            all_combined_results.extend(query_results)
-            logger.info(f"Query {i+1} returned {len(query_results)} results")
+            all_rrf_results.extend(rrf_results)
+            logger.info(f"Query {i+1} RRF fusion produced {len(rrf_results)} results")
         
-        # Remove duplicates based on content
+        # Final deduplication and ranking across all queries
+        # Remove duplicates based on document ID (not content)
         unique_results = {}
-        for result in all_combined_results:
-            content_key = result['content'][:100]  # Use first 100 chars as key
-            if content_key not in unique_results or result['score'] > unique_results[content_key]['score']:
-                unique_results[content_key] = result
+        for result in all_rrf_results:
+            doc_id = result['id']
+            if doc_id not in unique_results or result['score'] > unique_results[doc_id]['score']:
+                unique_results[doc_id] = result
         
-        # Sort by score and limit results
+        # If this is a reflection-triggered search, combine with previous results
+        previous_results = state.get("search_results", [])
+        if previous_results and state.get("needs_additional_search", False):
+            logger.info(f"Combining {len(previous_results)} previous results with {len(unique_results)} new reflection results")
+            # Add previous results to unique_results if not already present
+            for prev_result in previous_results:
+                prev_id = prev_result.get('id')
+                if prev_id and prev_id not in unique_results:
+                    unique_results[prev_id] = prev_result
+        
+        # Sort by RRF score and limit results
         sorted_results = sorted(unique_results.values(), key=lambda x: x.get('score', 0.0), reverse=True)
         
-        logger.info(f"Retrieved {len(sorted_results)} unique results across {len(decision.queries)} queries")
-        return {"search_results": sorted_results[:10]}  # Increased limit since we're searching multiple queries
+        logger.info(f"Final RRF results: {len(sorted_results)} unique documents across {len(decision.queries)} queries")
+        return {
+            "search_results": sorted_results[:15],  # Increased to 15 to accommodate additional reflection results
+            "needs_additional_search": False  # Reset the flag after processing
+        }
         
     except Exception as e:
         logger.error(f"Search execution failed: {str(e)}")
+        import traceback
+        traceback.print_exc()
         return {"search_results": []}
 
 
@@ -240,6 +348,8 @@ async def generate_response(state: AgentState) -> Dict[str, Any]:
     search_results = state.get("search_results", [])
     conversation_history = state.get("messages", [])
     jurisdiction = state["jurisdiction"]
+    reflection_analysis = state.get("reflection_analysis")
+    previous_response = state.get("final_response") if reflection_analysis else None
     
     if not search_results:
         return {"final_response": "I could not find any relevant information to answer your question based on the available regulatory documents."}
@@ -256,6 +366,15 @@ async def generate_response(state: AgentState) -> Dict[str, Any]:
         conversation_context += f"\nCurrent User Query: {current_query}\n"
     else:
         conversation_context = f"User Query: {current_query}\n"
+    
+    # Add reflection context if this is a regeneration
+    if reflection_analysis and previous_response:
+        conversation_context += f"\n--- REFLECTION CONTEXT ---\n"
+        conversation_context += f"Previous response had incomplete information. Additional documents were retrieved to address:\n"
+        for item in reflection_analysis.get("missing_items", []):
+            conversation_context += f"- {item.get('description', 'Missing information')}\n"
+        conversation_context += f"Previous response: {previous_response}\n"
+        conversation_context += f"--- END REFLECTION CONTEXT ---\n\n"
 
     # Format search results with enhanced metadata
     sources_context = ""
@@ -282,6 +401,15 @@ async def generate_response(state: AgentState) -> Dict[str, Any]:
     system_prompt = f"""You are an expert AI compliance advisor specializing in {jurisdiction} financial regulations. 
 
 Your task is to synthesize information from the conversation history and retrieved regulatory sources to provide a comprehensive, contextually-aware response.
+
+{f'''
+IMPORTANT - REFLECTION MODE ACTIVE:
+This response is being regenerated because the previous response contained incomplete information. Additional regulatory documents have been retrieved to provide complete answers. Please:
+- Integrate the new information with any relevant details from the previous response
+- Provide complete and precise information rather than referring to "partial extracts"
+- Include exact figures, complete definitions, and full regulatory requirements where available
+- Focus on completing the missing information that was identified
+''' if reflection_analysis else ''}
 
 Key Instructions:
 1. **Context Awareness**: Consider the full conversation history to understand the user's broader needs and any previous clarifications or follow-up questions.
@@ -320,7 +448,21 @@ Provide a detailed, well-structured response that synthesizes the available info
         )
         final_response = response.choices[0].message.content
         logger.info("Successfully generated synthesis response")
-        return {"final_response": final_response}
+        
+        # Check if the response indicates incomplete information that might need reflection
+        incomplete_indicators = [
+            "extract is partial", "should be confirmed against the full", "need the full",
+            "complete text", "not visible in the provided extract", "requires the full",
+            "must be verified", "detailed text", "entire document"
+        ]
+        
+        response_lower = final_response.lower()
+        needs_reflection = any(indicator.lower() in response_lower for indicator in incomplete_indicators)
+        
+        return {
+            "final_response": final_response,
+            "needs_additional_search": needs_reflection
+        }
         
     except Exception as e:
         logger.error(f"Error in generate_response synthesis: {e}")
@@ -340,3 +482,113 @@ async def format_clarification(state: AgentState) -> Dict[str, Any]:
     questions_text = "\n".join([f"- {q}" for q in questions])
     full_text = f"To provide you with the most accurate guidance, I need a bit more information. Could you please clarify the following points?\n\n{questions_text}"
     return {"final_response": full_text}
+
+
+async def reflection_node(state: AgentState) -> Dict[str, Any]:
+    """
+    Analyzes the generated response to detect incomplete information and trigger additional searches.
+    This node examines the response for phrases indicating partial extracts or missing documents.
+    """
+    logger.info("Node: reflection_node")
+    
+    final_response = state.get("final_response", "")
+    jurisdiction = state["jurisdiction"]
+    
+    # Define patterns that indicate incomplete information
+    incomplete_patterns = [
+        "extract is partial",
+        "should be confirmed against the full",
+        "need the full",
+        "complete text",
+        "entire document",
+        "full table",
+        "complete formula",
+        "full section",
+        "detailed text",
+        "complete definition",
+        "exact amount",
+        "precise figure",
+        "specific number",
+        "we need the",
+        "requires the full",
+        "must be verified",
+        "not visible in the provided extract"
+    ]
+    
+    # Check if the response contains any incomplete information indicators
+    response_lower = final_response.lower()
+    has_incomplete_info = any(pattern.lower() in response_lower for pattern in incomplete_patterns)
+    
+    if not has_incomplete_info:
+        # No additional search needed
+        return {"needs_additional_search": False}
+    
+    # Extract specific document references and section numbers
+    system_prompt = f"""You are an expert at analyzing compliance responses to identify missing information and generate targeted search queries.
+
+Analyze the following response and identify:
+1. Specific documents mentioned that need to be retrieved in full
+2. Section numbers, tables, or rules that are referenced but incomplete
+3. Exact regulatory definitions or calculations that are missing
+
+For each piece of missing information, generate a precise search query that would retrieve the complete document or section.
+
+Response to analyze:
+{final_response}
+
+Generate your output as a JSON object with this structure:
+{{
+  "has_incomplete_info": true/false,
+  "missing_items": [
+    {{
+      "type": "document|section|table|definition|calculation",
+      "description": "What is missing",
+      "search_query": "Precise search query to find the complete information",
+      "priority": "high|medium|low"
+    }}
+  ]
+}}"""
+
+    try:
+        response = await async_client.chat.completions.create(
+            model="gpt-5-2025-08-07",
+            messages=[
+                {"role": "system", "content": system_prompt},
+                {"role": "user", "content": f"Analyze this response for incomplete information: {final_response}"}
+            ],
+            response_format={"type": "json_object"}
+        )
+        
+        analysis = json.loads(response.choices[0].message.content)
+        
+        if not analysis.get("has_incomplete_info", False) or not analysis.get("missing_items"):
+            return {"needs_additional_search": False}
+        
+        # Generate new search queries based on the missing information
+        new_queries = []
+        for item in analysis["missing_items"]:
+            if item.get("priority") in ["high", "medium"]:  # Only pursue high/medium priority items
+                query = SearchQuery(
+                    query=item["search_query"],
+                    description=f"Retrieve complete {item['type']}: {item['description']}"
+                )
+                new_queries.append(query)
+        
+        if new_queries:
+            # Create a new search plan for the missing information
+            search_plan = SearchPlan(queries=new_queries)
+            logger.info(f"Reflection identified {len(new_queries)} additional searches needed")
+            
+            return {
+                "decision": search_plan,
+                "search_plan": search_plan,
+                "needs_additional_search": True,
+                "reflection_analysis": analysis
+            }
+        else:
+            return {"needs_additional_search": False}
+            
+    except Exception as e:
+        logger.error(f"Error in reflection_node: {e}")
+        # If reflection fails, don't block the response
+        return {"needs_additional_search": False}

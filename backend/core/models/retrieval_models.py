@@ -30,7 +30,7 @@ class DocumentSource(BaseModel):
 class RetrievedDocument(BaseModel):
     source: DocumentSource
     content: str
-    relevance_score: float = Field(ge=0.0, le=1.0)
+    relevance_score: float  # Allow any float value - raw BM25 scores or RRF scores
     retrieval_method: Literal["vector", "keyword", "regulatory", "entity", "fusion"]
     match_highlights: List[str] = []
     context_window: str = ""  # Broader context around the match
