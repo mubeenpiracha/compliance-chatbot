@@ -35,7 +35,9 @@ class AgentService:
 
         # Extract the final response and sources
         response_text = final_state.get("final_response", "I'm sorry, I encountered an issue and cannot respond.")
-        sources = final_state.get("search_results", [])
+        # Prioritize used_sources (from synthesis) over search_results (from search node)
+        # This ensures we get the exact sources that were used in the synthesis
+        sources = final_state.get("used_sources", final_state.get("search_results", []))
         
         # Format sources to match the expected schema
         formatted_sources = [

@@ -8,8 +8,14 @@ import re
 
 logger = logging.getLogger(__name__)
 
-def load_document_corpus_from_content_store(content_store_path: str = "./content_store") -> List[Dict[str, Any]]:
-    """Load document corpus from the content store for keyword search."""
+def load_document_corpus_from_content_store(content_store_path: str = "./content_store", jurisdiction: str = None) -> List[Dict[str, Any]]:
+    """
+    Load document corpus from the content store for keyword search.
+    
+    Args:
+        content_store_path: Path to the content store directory
+        jurisdiction: Optional jurisdiction filter (e.g., 'DIFC', 'ADGM'). If provided, only loads documents from that jurisdiction.
+    """
     content_store = Path(content_store_path)
     
     if not content_store.exists():
@@ -17,13 +23,23 @@ def load_document_corpus_from_content_store(content_store_path: str = "./content
         return []
     
     documents = []
+    filtered_count = 0
     
     # Iterate through all document directories
     for doc_dir in content_store.iterdir():
         if not doc_dir.is_dir():
             continue
+        
+        # Extract jurisdiction early to filter directories
+        doc_jurisdiction = _extract_jurisdiction(doc_dir.name)
+        
+        # Apply jurisdiction filter at directory level (early filtering for efficiency)
+        if jurisdiction and doc_jurisdiction.lower() != jurisdiction.lower():
+            filtered_count += 1
+            logger.debug(f"Skipping {doc_dir.name} - jurisdiction {doc_jurisdiction} doesn't match {jurisdiction}")
+            continue
             
-        logger.info(f"Loading documents from {doc_dir.name}")
+        logger.info(f"Loading documents from {doc_dir.name} (jurisdiction: {doc_jurisdiction})")
         
         # Process each chunk file in the directory
         chunk_files = list(doc_dir.glob("*.txt"))
@@ -71,7 +87,10 @@ def load_document_corpus_from_content_store(content_store_path: str = "./content
                 logger.error(f"Error processing {chunk_file}: {str(e)}")
                 continue
     
-    logger.info(f"Loaded {len(documents)} document chunks from content store")
+    if jurisdiction:
+        logger.info(f"Loaded {len(documents)} document chunks from content store (filtered by jurisdiction: {jurisdiction}, skipped {filtered_count} directories)")
+    else:
+        logger.info(f"Loaded {len(documents)} document chunks from content store (no jurisdiction filter)")
     return documents
 
 

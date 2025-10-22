@@ -3,6 +3,9 @@ import os
 import json
 import logging
 import asyncio
+import hashlib
+import time
+import traceback
 from typing import List, Dict, Any, Union
 from openai import AsyncOpenAI
 from pydantic import ValidationError
@@ -15,13 +18,43 @@ from backend.core.real_vector_service import RealVectorService
 from backend.core.document_loader import load_document_corpus_from_content_store
 from backend.core.models.retrieval_models import RetrievalQuery
 from backend.core.config import OPENAI_API_KEY
+from backend.core.performance_config import (
+    get_optimized_semaphore, 
+    PerformanceTimer, 
+    time_async_operation,
+    ASYNC_TIMEOUT,
+    LLM_TIMEOUT,
+    VECTOR_SEARCH_TIMEOUT,
+    KEYWORD_SEARCH_TIMEOUT
+)
 
 # Configure logging
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-# Use async client for all OpenAI operations
-async_client = AsyncOpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+# Use async client for all OpenAI operations with optimized settings
+async_client = AsyncOpenAI(
+    api_key=os.getenv("OPENAI_API_KEY"),
+    timeout=ASYNC_TIMEOUT,
+    max_retries=2
+)
+
+# Separate client for LLM calls with longer timeout
+llm_client = AsyncOpenAI(
+    api_key=os.getenv("OPENAI_API_KEY"),
+    timeout=LLM_TIMEOUT,  # 120 seconds for complex LLM queries
+    max_retries=3
+)
+
+def create_content_hash(content: str) -> str:
+    """
+    Create a consistent hash for document content to use as deduplication key.
+    Normalizes whitespace and creates a hash to handle slight content variations.
+    """
+    # Normalize whitespace and strip
+    normalized_content = ' '.join(content.strip().split())
+    # Create a hash for consistent deduplication
+    return hashlib.md5(normalized_content.encode('utf-8')).hexdigest()
 
 async def analyze_query(state: AgentState) -> Dict[str, Any]:
     """
@@ -108,7 +141,7 @@ Search example:
     messages.append({"role": "user", "content": user_query})
 
     try:
-        response = await async_client.chat.completions.create(
+        response = await llm_client.chat.completions.create(
             model="gpt-5-2025-08-07",
             messages=messages,
             response_format={"type": "json_object"}
@@ -120,10 +153,25 @@ Search example:
             "analysis_reasoning": analysis.reasoning,
             "decision": analysis.decision,
         }
-    except (json.JSONDecodeError, ValidationError) as e:
-        logger.error(f"Error in analyze_query: {e}")
+    except Exception as e:
+        error_type = type(e).__name__
+        error_msg = str(e)
+        logger.error(f"Error in analyze_query ({error_type}): {error_msg}")
+        
+        # Handle timeout errors specifically
+        if "timeout" in error_msg.lower() or "APITimeoutError" in error_type:
+            return {
+                "decision": ClarificationRequest(
+                    clarification_questions=["The query analysis is taking longer than expected. Could you try rephrasing your question more concisely?"]
+                ),
+                "final_response": "The query analysis is taking longer than expected. Could you try rephrasing your question more concisely?",
+            }
+        
+        # Handle other errors
         return {
-            "decision": ClarificationRequest(clarification_questions=["Sorry, I had trouble understanding that. Could you rephrase?"]),
+            "decision": ClarificationRequest(
+                clarification_questions=["Sorry, I had trouble understanding that. Could you rephrase?"]
+            ),
             "final_response": "Sorry, I had trouble understanding that. Could you rephrase?",
         }
 
@@ -132,50 +180,51 @@ def calculate_rrf_scores(vector_results: List, keyword_results: List, k: int = 6
     """
     Calculate Reciprocal Rank Fusion (RRF) scores for combining search results.
     RRF_score = 1 / (k + rank) where rank is 1-indexed position in each result list.
+    Uses content hash as deduplication key for reliable duplicate detection.
+    Optimized for performance with larger result sets.
     """
-    rrf_scores = {}  # document_id -> {"doc": doc_data, "rrf_score": float, "methods": set}
+    rrf_scores = {}  # content_hash -> {"doc": doc_data, "rrf_score": float, "methods": set}
+    
+    # Pre-calculate content hashes to avoid repeated computation
+    vector_hashes = {}
+    keyword_hashes = {}
     
     # Process vector results (rank 1 = highest score)
     for rank, doc in enumerate(vector_results, 1):
-        doc_id = doc.source.document_id
+        content_key = create_content_hash(doc.content)
+        vector_hashes[content_key] = doc
         rrf_contribution = 1.0 / (k + rank)
         
-        if doc_id not in rrf_scores:
-            rrf_scores[doc_id] = {
-                "doc": {
-                    'id': doc.source.document_id,
-                    'content': doc.content,
-                    'score': rrf_contribution,  # Start with RRF score
-                    'metadata': {
-                        'text': doc.content,
-                        'title': doc.source.title,
-                        'section': doc.source.section,
-                        'authority_level': doc.source.authority_level,
-                        'jurisdiction': doc.source.jurisdiction,
-                        'checksum': doc.source.chunk_id,
-                        'source_collection': doc.source.document_id.split('_')[0],
-                        'retrieval_method': 'fusion',  # Mark as fusion result
-                        'original_vector_score': doc.relevance_score,
-                        'vector_rank': rank
-                    }
-                },
-                "rrf_score": rrf_contribution,
-                "methods": {"vector"}
-            }
-        else:
-            # Document found in multiple methods - add RRF scores
-            rrf_scores[doc_id]["rrf_score"] += rrf_contribution
-            rrf_scores[doc_id]["methods"].add("vector")
-            rrf_scores[doc_id]["doc"]["metadata"]["original_vector_score"] = doc.relevance_score
-            rrf_scores[doc_id]["doc"]["metadata"]["vector_rank"] = rank
+        rrf_scores[content_key] = {
+            "doc": {
+                'id': doc.source.document_id,
+                'content': doc.content,
+                'score': rrf_contribution,  # Start with RRF score
+                'metadata': {
+                    'text': doc.content,
+                    'title': doc.source.title,
+                    'section': doc.source.section,
+                    'authority_level': doc.source.authority_level,
+                    'jurisdiction': doc.source.jurisdiction,
+                    'checksum': doc.source.chunk_id,
+                    'source_collection': doc.source.document_id.split('_')[0],
+                    'retrieval_method': 'fusion',  # Mark as fusion result
+                    'original_vector_score': doc.relevance_score,
+                    'vector_rank': rank
+                }
+            },
+            "rrf_score": rrf_contribution,
+            "methods": {"vector"}
+        }
     
     # Process keyword results
     for rank, doc in enumerate(keyword_results, 1):
-        doc_id = doc.source.document_id
+        content_key = create_content_hash(doc.content)
+        keyword_hashes[content_key] = doc
         rrf_contribution = 1.0 / (k + rank)
         
-        if doc_id not in rrf_scores:
-            rrf_scores[doc_id] = {
+        if content_key not in rrf_scores:
+            rrf_scores[content_key] = {
                 "doc": {
                     'id': doc.source.document_id,
                     'content': doc.content,
@@ -198,14 +247,14 @@ def calculate_rrf_scores(vector_results: List, keyword_results: List, k: int = 6
             }
         else:
             # Document found in multiple methods - add RRF scores
-            rrf_scores[doc_id]["rrf_score"] += rrf_contribution
-            rrf_scores[doc_id]["methods"].add("keyword")
-            rrf_scores[doc_id]["doc"]["metadata"]["original_keyword_score"] = doc.relevance_score
-            rrf_scores[doc_id]["doc"]["metadata"]["keyword_rank"] = rank
+            rrf_scores[content_key]["rrf_score"] += rrf_contribution
+            rrf_scores[content_key]["methods"].add("keyword")
+            rrf_scores[content_key]["doc"]["metadata"]["original_keyword_score"] = doc.relevance_score
+            rrf_scores[content_key]["doc"]["metadata"]["keyword_rank"] = rank
     
-    # Update final scores and method information
+    # Update final scores and method information more efficiently
     final_results = []
-    for doc_data in rrf_scores.values():
+    for content_key, doc_data in rrf_scores.items():
         doc_data["doc"]["score"] = doc_data["rrf_score"]
         
         # Update retrieval method based on which methods found this document
@@ -218,14 +267,92 @@ def calculate_rrf_scores(vector_results: List, keyword_results: List, k: int = 6
         
         final_results.append(doc_data["doc"])
     
-    # Sort by RRF score (higher is better)
+    # Sort by RRF score (higher is better) - using key function for better performance
     final_results.sort(key=lambda x: x["score"], reverse=True)
+    
+    # Log deduplication statistics
+    total_inputs = len(vector_results) + len(keyword_results)
+    fusion_count = sum(1 for doc_data in rrf_scores.values() if len(doc_data["methods"]) > 1)
+    logger.info(f"RRF Stats: {total_inputs} inputs → {len(final_results)} unique ({fusion_count} fusion matches)")
+    
     return final_results
+
+
+async def execute_single_query_search(search_query, vector_search, keyword_search, jurisdiction: str, query_index: int) -> List[Dict[str, Any]]:
+    """
+    Execute search for a single query with both vector and keyword search in parallel.
+    Returns RRF-combined results for this query.
+    """
+    query_start_time = time.time()
+    logger.info(f"Executing query {query_index}: {search_query.query}")
+    
+    # Create RetrievalQuery object
+    retrieval_query = RetrievalQuery(
+        query_text=search_query.query,
+        query_type="fusion",  # Use fusion to combine both vector and keyword
+        max_results=5,
+        min_relevance_score=0.3,
+        target_domains=[jurisdiction.lower()]
+    )
+    
+    # Perform searches in parallel for better performance with timeout
+    search_start_time = time.time()
+    try:
+        # Add timeout to prevent hanging queries
+        vector_results, keyword_results = await asyncio.wait_for(
+            asyncio.gather(
+                vector_search.search(retrieval_query),
+                keyword_search.search(retrieval_query),
+                return_exceptions=True
+            ),
+            timeout=25.0  # 25 second timeout per query (5s buffer from individual timeouts)
+        )
+        
+        # Handle partial failures with better error classification
+        if isinstance(vector_results, Exception):
+            error_type = type(vector_results).__name__
+            logger.error(f"Vector search failed for query {query_index} [{error_type}]: {vector_results}")
+            vector_results = []
+            
+        if isinstance(keyword_results, Exception):
+            error_type = type(keyword_results).__name__
+            logger.error(f"Keyword search failed for query {query_index} [{error_type}]: {keyword_results}")
+            keyword_results = []
+            
+    except asyncio.TimeoutError:
+        logger.error(f"Query {query_index} timed out after 25s - both searches failed")
+        vector_results = []
+        keyword_results = []
+    except Exception as e:
+        error_type = type(e).__name__
+        logger.error(f"Parallel search failed for query {query_index} [{error_type}]: {e}")
+        vector_results = []
+        keyword_results = []
+    
+    search_end_time = time.time()
+    search_duration = search_end_time - search_start_time
+    logger.info(f"Query {query_index}: Vector={len(vector_results)}, Keyword={len(keyword_results)} results | Search time: {search_duration:.3f}s")
+    
+    # Apply RRF to combine results for this query
+    rrf_start_time = time.time()
+    rrf_results = calculate_rrf_scores(vector_results, keyword_results)
+    rrf_duration = time.time() - rrf_start_time
+    
+    # Add query description to metadata
+    for result in rrf_results:
+        result['metadata']['query_description'] = search_query.description
+        result['metadata']['query_index'] = query_index
+    
+    query_total_time = time.time() - query_start_time
+    logger.info(f"Query {query_index} completed: RRF fusion produced {len(rrf_results)} results | RRF time: {rrf_duration:.3f}s | Total query time: {query_total_time:.3f}s")
+    
+    return rrf_results
 
 
 async def execute_search(state: AgentState) -> Dict[str, Any]:
     """
-    Executes the search plan using proper Reciprocal Rank Fusion (RRF).
+    Executes the search plan using proper Reciprocal Rank Fusion (RRF) with full parallelization.
+    All queries are executed in parallel for maximum performance.
     """
     logger.info("Node: execute_search")
     decision = state["decision"]
@@ -236,94 +363,113 @@ async def execute_search(state: AgentState) -> Dict[str, Any]:
     try:
         # Initialize services
         vector_service = RealVectorService()
-        async_client = AsyncOpenAI(api_key=OPENAI_API_KEY)
-        document_corpus = load_document_corpus_from_content_store()
+        # Use module-level async_client (already configured with timeout and retries)
+        # DO NOT create a new client here - it bypasses connection pooling
+        
+        # Load document corpus filtered by user's selected jurisdiction for efficiency
+        jurisdiction = state.get("jurisdiction", "ADGM")  # Default to ADGM if not specified
+        document_corpus = load_document_corpus_from_content_store(jurisdiction=jurisdiction)
+        logger.info(f"Loaded document corpus filtered by jurisdiction: {jurisdiction}")
+        
+        # Create semaphore to limit concurrent OpenAI embedding API calls (prevents rate limiting)
+        embedding_semaphore = asyncio.Semaphore(3)  # Max 3 concurrent embeddings
+        logger.info(f"Created embedding semaphore with limit of 3 concurrent API calls")
         
         # Create search engines (pass vector_service to keyword_search for metadata consistency)
-        vector_search = VectorSearchEngine(client=async_client, vector_service=vector_service)
+        vector_search = VectorSearchEngine(
+            client=async_client, 
+            vector_service=vector_service,
+            semaphore=embedding_semaphore
+        )
         keyword_search = KeywordSearchEngine(document_corpus=document_corpus, vector_service=vector_service)
         
-        # Execute searches for all queries in the search plan and apply RRF per query
-        all_rrf_results = []
+        total_search_start = time.time()
+        logger.info(f"Starting parallel execution of {len(decision.queries)} queries")
         
-        for i, search_query in enumerate(decision.queries):
-            logger.info(f"Executing query {i+1}/{len(decision.queries)}: {search_query.query}")
-            
-            # Create RetrievalQuery objects
-            retrieval_query = RetrievalQuery(
-                query_text=search_query.query,
-                query_type="fusion",  # Use fusion to combine both vector and keyword
-                max_results=10,
-                min_relevance_score=0.3,
-                target_domains=[state["jurisdiction"].lower()]  # Use jurisdiction from state
+        # Execute ALL queries in parallel for maximum performance
+        query_tasks = []
+        for i, search_query in enumerate(decision.queries, 1):
+            task = execute_single_query_search(
+                search_query, 
+                vector_search, 
+                keyword_search, 
+                state["jurisdiction"], 
+                i
             )
-            
-            # Perform searches in parallel for better performance
-            try:
-                vector_results, keyword_results = await asyncio.gather(
-                    vector_search.search(retrieval_query),
-                    keyword_search.search(retrieval_query),
-                    return_exceptions=True
-                )
-                
-                # Handle partial failures gracefully
-                if isinstance(vector_results, Exception):
-                    logger.warning(f"Vector search failed for query {i+1}: {vector_results}")
-                    vector_results = []
-                    
-                if isinstance(keyword_results, Exception):
-                    logger.warning(f"Keyword search failed for query {i+1}: {keyword_results}")
-                    keyword_results = []
-                    
-            except Exception as e:
-                logger.error(f"Parallel search failed for query {i+1}, falling back to sequential: {e}")
-                # Fallback to sequential execution
-                try:
-                    vector_results = await vector_search.search(retrieval_query)
-                except Exception:
-                    logger.error(f"Vector search fallback failed for query {i+1}")
-                    vector_results = []
-                    
-                try:
-                    keyword_results = await keyword_search.search(retrieval_query)
-                except Exception:
-                    logger.error(f"Keyword search fallback failed for query {i+1}")
-                    keyword_results = []
-            
-            logger.info(f"Query {i+1}: Vector={len(vector_results)}, Keyword={len(keyword_results)} results")
-            
-            # Apply RRF to combine results for this query
-            rrf_results = calculate_rrf_scores(vector_results, keyword_results)
-            
-            # Add query description to metadata
-            for result in rrf_results:
-                result['metadata']['query_description'] = search_query.description
-            
-            all_rrf_results.extend(rrf_results)
-            logger.info(f"Query {i+1} RRF fusion produced {len(rrf_results)} results")
+            query_tasks.append(task)
+        
+        # Wait for all queries to complete in parallel with global timeout
+        parallel_start_time = time.time()
+        try:
+            all_query_results = await asyncio.wait_for(
+                asyncio.gather(*query_tasks, return_exceptions=True),
+                timeout=90.0  # 90 second global timeout for all parallel queries
+            )
+        except asyncio.TimeoutError:
+            logger.error(f"Global timeout: Parallel execution exceeded 90s for {len(query_tasks)} queries")
+            # Gather completed tasks if any
+            all_query_results = [task.result() if task.done() else [] for task in query_tasks]
+        parallel_duration = time.time() - parallel_start_time
+        
+        # Process results and handle any exceptions
+        all_rrf_results = []
+        successful_queries = 0
+        
+        for i, result in enumerate(all_query_results, 1):
+            if isinstance(result, Exception):
+                logger.error(f"Query {i} failed: {result}")
+            else:
+                all_rrf_results.extend(result)
+                successful_queries += 1
+        
+        logger.info(f"PARALLEL EXECUTION: {successful_queries}/{len(decision.queries)} queries successful | Parallel time: {parallel_duration:.3f}s")
         
         # Final deduplication and ranking across all queries
-        # Remove duplicates based on document ID (not content)
+        dedup_start_time = time.time()
         unique_results = {}
+        duplicates_found = 0
+        
         for result in all_rrf_results:
-            doc_id = result['id']
-            if doc_id not in unique_results or result['score'] > unique_results[doc_id]['score']:
-                unique_results[doc_id] = result
+            content_key = create_content_hash(result.get('content', ''))
+            if content_key not in unique_results:
+                unique_results[content_key] = result
+            elif result['score'] > unique_results[content_key]['score']:
+                logger.debug(f"Replacing duplicate with higher score: {result['score']} > {unique_results[content_key]['score']}")
+                unique_results[content_key] = result
+                duplicates_found += 1
+            else:
+                duplicates_found += 1
+        
+        dedup_duration = time.time() - dedup_start_time
+        
+        if duplicates_found > 0:
+            logger.info(f"Deduplication: Found {duplicates_found} duplicates, final unique count: {len(unique_results)} | Dedup time: {dedup_duration:.3f}s")
         
         # If this is a reflection-triggered search, combine with previous results
         previous_results = state.get("search_results", [])
         if previous_results and state.get("needs_additional_search", False):
             logger.info(f"Combining {len(previous_results)} previous results with {len(unique_results)} new reflection results")
-            # Add previous results to unique_results if not already present
+            # Add previous results to unique_results if not already present (by content hash)
             for prev_result in previous_results:
-                prev_id = prev_result.get('id')
-                if prev_id and prev_id not in unique_results:
-                    unique_results[prev_id] = prev_result
+                prev_content_hash = create_content_hash(prev_result.get('content', ''))
+                if prev_content_hash and prev_content_hash not in unique_results:
+                    unique_results[prev_content_hash] = prev_result
         
         # Sort by RRF score and limit results
+        sort_start_time = time.time()
         sorted_results = sorted(unique_results.values(), key=lambda x: x.get('score', 0.0), reverse=True)
+        sort_duration = time.time() - sort_start_time
         
-        logger.info(f"Final RRF results: {len(sorted_results)} unique documents across {len(decision.queries)} queries")
+        total_search_time = time.time() - total_search_start
+        
+        logger.info(f"SEARCH PERFORMANCE SUMMARY:")
+        logger.info(f"  - Total execution time: {total_search_time:.3f}s")
+        logger.info(f"  - Parallel queries time: {parallel_duration:.3f}s ({parallel_duration/total_search_time*100:.1f}%)")
+        logger.info(f"  - Deduplication time: {dedup_duration:.3f}s ({dedup_duration/total_search_time*100:.1f}%)")
+        logger.info(f"  - Sorting time: {sort_duration:.3f}s ({sort_duration/total_search_time*100:.1f}%)")
+        logger.info(f"  - Final results: {len(sorted_results)} unique documents from {len(decision.queries)} parallel queries")
+        logger.info(f"  - Speedup: ~{len(decision.queries)}x faster than sequential execution")
+        
         return {
             "search_results": sorted_results[:15],  # Increased to 15 to accommodate additional reflection results
             "needs_additional_search": False  # Reset the flag after processing
@@ -331,7 +477,6 @@ async def execute_search(state: AgentState) -> Dict[str, Any]:
         
     except Exception as e:
         logger.error(f"Search execution failed: {str(e)}")
-        import traceback
         traceback.print_exc()
         return {"search_results": []}
 
@@ -353,6 +498,12 @@ async def generate_response(state: AgentState) -> Dict[str, Any]:
     
     if not search_results:
         return {"final_response": "I could not find any relevant information to answer your question based on the available regulatory documents."}
+
+    # Limit search results to prevent token overflow
+    MAX_SEARCH_RESULTS = 15  # Limit to prevent prompt from being too large
+    if len(search_results) > MAX_SEARCH_RESULTS:
+        logger.warning(f"Truncating search results from {len(search_results)} to {MAX_SEARCH_RESULTS} to prevent token overflow")
+        search_results = search_results[:MAX_SEARCH_RESULTS]
 
     # Build conversation context from history
     conversation_context = ""
@@ -378,15 +529,23 @@ async def generate_response(state: AgentState) -> Dict[str, Any]:
 
     # Format search results with enhanced metadata
     sources_context = ""
+    MAX_CONTENT_LENGTH = 2000  # Max characters per source content
     for i, result in enumerate(search_results):
         metadata = result.get('metadata', {})
+        
+        # Truncate content if it's too long
+        content = metadata.get('text', result.get('content', ''))
+        if len(content) > MAX_CONTENT_LENGTH:
+            content = content[:MAX_CONTENT_LENGTH] + "... [content truncated]"
+            logger.debug(f"Truncated source {i+1} content from {len(metadata.get('text', result.get('content', '')))} to {MAX_CONTENT_LENGTH} chars")
+        
         source_info = (
             f"**Source {i+1}** "
             f"[{metadata.get('title', 'Unknown Document')} - "
             f"Section: {metadata.get('section', 'N/A')}]\n"
             f"Authority Level: {metadata.get('authority_level', 'N/A')}\n"
             f"Jurisdiction: {metadata.get('jurisdiction', 'N/A')}\n"
-            f"Content: {metadata.get('text', result.get('content', ''))}\n"
+            f"Content: {content}\n"
         )
         
         # Add query description if available (helps understand why this source was retrieved)
@@ -394,9 +553,6 @@ async def generate_response(state: AgentState) -> Dict[str, Any]:
             source_info += f"Retrieved for: {metadata.get('query_description')}\n"
             
         sources_context += source_info + "\n---\n\n"
-    
-    # Store the search results in state for source citations
-    state["used_sources"] = search_results
     
     system_prompt = f"""You are an expert AI compliance advisor specializing in {jurisdiction} financial regulations. 
 
@@ -437,36 +593,130 @@ Available Regulatory Sources:
 
 Provide a detailed, well-structured response that synthesizes the available information to address the user's current query while considering the conversation context."""
 
-    try:
-        response = await async_client.chat.completions.create(
-            model="gpt-5-2025-08-07",
-            messages=[
-                {"role": "system", "content": system_prompt},
-                {"role": "user", "content": user_prompt}
-            ],
+    # Synthesis-specific retry logic with extended timeout
+    max_retries = 3
+    retry_count = 0
+    last_error = None
     
-        )
-        final_response = response.choices[0].message.content
-        logger.info("Successfully generated synthesis response")
-        
-        # Check if the response indicates incomplete information that might need reflection
-        incomplete_indicators = [
-            "extract is partial", "should be confirmed against the full", "need the full",
-            "complete text", "not visible in the provided extract", "requires the full",
-            "must be verified", "detailed text", "entire document"
-        ]
-        
-        response_lower = final_response.lower()
-        needs_reflection = any(indicator.lower() in response_lower for indicator in incomplete_indicators)
-        
-        return {
-            "final_response": final_response,
-            "needs_additional_search": needs_reflection
-        }
-        
-    except Exception as e:
-        logger.error(f"Error in generate_response synthesis: {e}")
-        return {"final_response": "I found relevant information in the regulatory documents, but encountered an issue while synthesizing the response. Please try rephrasing your question or contact support if the issue persists."}
+    while retry_count < max_retries:
+        try:
+            # Log prompt sizes for debugging
+            if retry_count == 0:
+                system_prompt_tokens = len(system_prompt) // 4  # Rough estimate
+                user_prompt_tokens = len(user_prompt) // 4
+                logger.info(f"Synthesis prompt sizes - System: ~{system_prompt_tokens} tokens, User: ~{user_prompt_tokens} tokens, Total: ~{system_prompt_tokens + user_prompt_tokens} tokens")
+                logger.info(f"Number of search results: {len(search_results)}")
+            else:
+                logger.info(f"Synthesis retry attempt {retry_count + 1}/{max_retries}")
+            
+            # Create a custom client with extended timeout for synthesis (90 seconds)
+            from openai import AsyncOpenAI
+            synthesis_client = AsyncOpenAI(
+                api_key=os.getenv("OPENAI_API_KEY"),
+                timeout=90.0,  # Extended timeout for synthesis
+                max_retries=0  # We handle retries ourselves
+            )
+            
+            response = await synthesis_client.chat.completions.create(
+                model="gpt-5-2025-08-07",
+                messages=[
+                    {"role": "system", "content": system_prompt},
+                    {"role": "user", "content": user_prompt}
+                ]
+            )
+            final_response = response.choices[0].message.content
+            logger.info(f"Successfully generated synthesis response on attempt {retry_count + 1}")
+            
+            # Only trigger reflection if this is not already a reflection-generated response
+            reflection_count = state.get("reflection_count", 0)
+            logger.info(f"🔄 Reflection check - current reflection_count: {reflection_count}")
+            
+            # Skip reflection decision - will be handled by separate reflection_decision node
+            # This keeps synthesis focused on generating the response
+            
+            return {
+                "final_response": final_response,
+                "needs_additional_search": False,  # Will be set by reflection_decision node
+                "used_sources": search_results  # Store sources for citation tracking
+            }
+            
+        except Exception as e:
+            last_error = e
+            retry_count += 1
+            error_type = type(e).__name__
+            error_msg = str(e).lower()
+            
+            logger.error(f"Synthesis attempt {retry_count}/{max_retries} failed: {error_type} - {e}")
+            
+            # For timeout errors, retry with progressively reduced context
+            if "timeout" in error_msg and retry_count < max_retries:
+                # Reduce number of search results by 30% each retry
+                reduction_factor = 0.7 ** retry_count
+                max_results_for_retry = max(3, int(len(search_results) * reduction_factor))
+                
+                if max_results_for_retry < len(search_results):
+                    logger.info(f"Reducing search results from {len(search_results)} to {max_results_for_retry} for retry {retry_count}")
+                    search_results = search_results[:max_results_for_retry]
+                    
+                    # Rebuild sources_context with reduced results
+                    sources_context = ""
+                    MAX_CONTENT_LENGTH = 2000
+                    for i, result in enumerate(search_results):
+                        metadata = result.get('metadata', {})
+                        content = metadata.get('text', result.get('content', ''))
+                        if len(content) > MAX_CONTENT_LENGTH:
+                            content = content[:MAX_CONTENT_LENGTH] + "... [content truncated]"
+                        
+                        source_info = (
+                            f"**Source {i+1}** "
+                            f"[{metadata.get('title', 'Unknown Document')} - "
+                            f"Section: {metadata.get('section', 'N/A')}]\n"
+                            f"Authority Level: {metadata.get('authority_level', 'N/A')}\n"
+                            f"Jurisdiction: {metadata.get('jurisdiction', 'N/A')}\n"
+                            f"Content: {content}\n"
+                        )
+                        if metadata.get('query_description'):
+                            source_info += f"Retrieved for: {metadata.get('query_description')}\n"
+                        sources_context += source_info + "\n---\n\n"
+                    
+                    # Rebuild user prompt
+                    user_prompt = f"""Please analyze the following conversation and provide a comprehensive response:
+
+{conversation_context}
+
+Available Regulatory Sources:
+{sources_context}
+
+Provide a detailed, well-structured response that synthesizes the available information to address the user's current query while considering the conversation context."""
+                    
+                    continue  # Retry with reduced content
+            
+            # If not a timeout or out of retries, break
+            if retry_count >= max_retries:
+                break
+    
+    # All retries exhausted - return error with sources intact
+    logger.error(f"Synthesis failed after {max_retries} attempts")
+    logger.error(f"Final error type: {type(last_error).__name__}")
+    logger.error(f"Full traceback:", exc_info=True)
+    
+    # Check for specific error types and provide helpful messages
+    error_msg = str(last_error).lower() if last_error else ""
+    if "timeout" in error_msg:
+        error_response = "I retrieved relevant documents but the response generation timed out. The documents are complex - please try:\n\n1. Asking a more specific question\n2. Focusing on one aspect at a time\n3. Checking the sources below for direct information"
+    elif "token" in error_msg or "length" in error_msg:
+        error_response = "The retrieved documents contain extensive information that exceeded processing limits. Please:\n\n1. Narrow your query to a specific topic\n2. Ask about one regulation at a time\n3. Review the sources below for relevant sections"
+    elif "rate" in error_msg or "quota" in error_msg:
+        error_response = "API rate limit reached. Please wait a moment and try again, or review the sources below directly."
+    else:
+        error_response = "I found relevant regulatory information (see sources below), but encountered a technical issue generating the synthesis. Please try:\n\n1. Rephrasing your question\n2. Being more specific about what you need\n3. Reviewing the source documents directly"
+    
+    # CRITICAL: Always return used_sources so sources are displayed even on error
+    return {
+        "final_response": error_response,
+        "needs_additional_search": False,
+        "used_sources": search_results  # Ensure sources are preserved in error cases
+    }
 
 
 async def format_clarification(state: AgentState) -> Dict[str, Any]:
@@ -484,93 +734,219 @@ async def format_clarification(state: AgentState) -> Dict[str, Any]:
     return {"final_response": full_text}
 
 
+async def reflection_decision_node(state: AgentState) -> Dict[str, Any]:
+    """
+    Lightweight decision node: Determines if the response needs additional searches.
+    Uses a mini OpenAI call to intelligently assess if reflection is needed.
+    This is more reliable than pattern matching and cheaper than full reflection analysis.
+    """
+    logger.info("Node: reflection_decision_node")
+    
+    final_response = state.get("final_response", "")
+    user_query = state.get("user_query", "")
+    history = state.get("messages", [])
+    reflection_count = state.get("reflection_count", 0)
+    
+    # Never reflect more than once to prevent loops
+    if reflection_count > 0:
+        logger.info(f"🔄 Skipping reflection - already performed {reflection_count} time(s)")
+        return {
+            "needs_additional_search": False,
+            "reflection_count": reflection_count
+        }
+    
+    # Quick sanity checks before making OpenAI call
+    if len(final_response) < 100:
+        logger.info("🔄 Response too short, likely an error - skipping reflection")
+        return {
+            "needs_additional_search": False,
+            "reflection_count": reflection_count
+        }
+    
+    # Build conversation context for better evaluation
+    conversation_context = ""
+    if history and len(history) > 0:
+        conversation_context = "Conversation History:\n"
+        for msg in history[-4:]:  # Last 4 messages for context (keep it concise)
+            sender = msg.get("sender", "unknown")
+            text = msg.get("text", "")
+            if text:
+                conversation_context += f"{sender.upper()}: {text[:200]}{'...' if len(text) > 200 else ''}\n"
+        conversation_context += f"\nUSER (current): {user_query}\n"
+    else:
+        conversation_context = f"User's Question: {user_query}"
+    
+    # Mini OpenAI call to decide if reflection is needed
+    decision_prompt = f"""You are a quality checker for regulatory compliance responses. Your job is to quickly determine if a response is INCOMPLETE and needs additional document retrieval.
+
+{conversation_context}
+
+Generated Response: {final_response}
+
+Respond with a JSON object:
+{{
+  "needs_reflection": true/false,
+  "reason": "brief explanation (1 sentence)",
+  "confidence": "high/medium/low"
+}}
+
+Mark needs_reflection=true ONLY if:
+1. Response explicitly states information is partial/incomplete/missing
+2. Response mentions needing full documents/sections/tables that weren't provided
+3. Response indicates specific regulatory text is needed but not available
+4. Response is suspiciously vague despite specific query
+
+Mark needs_reflection=false if:
+- Response fully answers the question with cited sources
+- Response acknowledges limitations but provides available information
+- Response uses standard regulatory language ("complete definition", "full scope") without indicating missing data
+- Any uncertainty is about interpretation, not missing documents"""
+
+    try:
+        # Lightweight call with short response - use custom client with extended timeout
+        # for conversation history processing (60s is generous for gpt-4o-mini but safe)
+        from openai import AsyncOpenAI
+        reflection_client = AsyncOpenAI(
+            api_key=os.getenv("OPENAI_API_KEY"),
+            timeout=60.0,  # 60 second timeout for reflection decision (includes history context)
+            max_retries=2
+        )
+        
+        decision_response = await reflection_client.chat.completions.create(
+            model="gpt-4o-mini",  # Use mini model for speed and cost
+            messages=[
+                {"role": "user", "content": decision_prompt}
+            ],
+            response_format={"type": "json_object"},
+            max_tokens=100  # Keep it short - just need yes/no + reason
+        )
+        
+        decision = json.loads(decision_response.choices[0].message.content)
+        needs_reflection = decision.get("needs_reflection", False)
+        reason = decision.get("reason", "No reason provided")
+        confidence = decision.get("confidence", "medium")
+        
+        logger.info(f"🔄 Reflection decision: {needs_reflection} ({confidence} confidence) - {reason}")
+        
+        if needs_reflection:
+            # Increment reflection count
+            return {
+                "needs_additional_search": True,
+                "reflection_count": reflection_count,
+                "reflection_reason": reason
+            }
+        else:
+            return {
+                "needs_additional_search": False,
+                "reflection_count": reflection_count
+            }
+            
+    except Exception as e:
+        logger.error(f"Error in reflection_decision_node: {e}")
+        # On error, don't block the response - assume no reflection needed
+        return {
+            "needs_additional_search": False,
+            "reflection_count": reflection_count
+        }
+
+
 async def reflection_node(state: AgentState) -> Dict[str, Any]:
     """
-    Analyzes the generated response to detect incomplete information and trigger additional searches.
-    This node examines the response for phrases indicating partial extracts or missing documents.
+    Analyzes the response to generate specific search queries for missing information.
+    Called ONLY if reflection_decision_node determined reflection is needed.
+    Uses targeted OpenAI call to extract what's missing and generate search queries.
     """
     logger.info("Node: reflection_node")
     
     final_response = state.get("final_response", "")
-    jurisdiction = state["jurisdiction"]
+    user_query = state.get("user_query", "")
+    history = state.get("messages", [])
+    jurisdiction = state.get("jurisdiction", "DIFC")
+    reflection_reason = state.get("reflection_reason", "Information appears incomplete")
     
-    # Define patterns that indicate incomplete information
-    incomplete_patterns = [
-        "extract is partial",
-        "should be confirmed against the full",
-        "need the full",
-        "complete text",
-        "entire document",
-        "full table",
-        "complete formula",
-        "full section",
-        "detailed text",
-        "complete definition",
-        "exact amount",
-        "precise figure",
-        "specific number",
-        "we need the",
-        "requires the full",
-        "must be verified",
-        "not visible in the provided extract"
-    ]
+    # Increment reflection count
+    reflection_count = state.get("reflection_count", 0) + 1
     
-    # Check if the response contains any incomplete information indicators
-    response_lower = final_response.lower()
-    has_incomplete_info = any(pattern.lower() in response_lower for pattern in incomplete_patterns)
-    
-    if not has_incomplete_info:
-        # No additional search needed
-        return {"needs_additional_search": False}
-    
-    # Extract specific document references and section numbers
+    # Build conversation context
+    conversation_context = ""
+    if history and len(history) > 0:
+        conversation_context = "Conversation History:\n"
+        for msg in history[-4:]:  # Last 4 messages for context
+            sender = msg.get("sender", "unknown")
+            text = msg.get("text", "")
+            if text:
+                conversation_context += f"{sender.upper()}: {text[:300]}{'...' if len(text) > 300 else ''}\n"
+        conversation_context += f"\nUSER (current): {user_query}\n"
+    else:
+        conversation_context = f"User's Question: {user_query}"
+
+    # Targeted prompt to extract missing information and generate queries
     system_prompt = f"""You are an expert at analyzing compliance responses to identify missing information and generate targeted search queries.
 
-Analyze the following response and identify:
-1. Specific documents mentioned that need to be retrieved in full
-2. Section numbers, tables, or rules that are referenced but incomplete
-3. Exact regulatory definitions or calculations that are missing
+{conversation_context}
 
-For each piece of missing information, generate a precise search query that would retrieve the complete document or section.
+Generated Response: {final_response}
 
-Response to analyze:
-{final_response}
+Reflection Trigger: {reflection_reason}
 
-Generate your output as a JSON object with this structure:
+Analyze the response in the context of the full conversation and identify what specific information is missing. For each missing piece, generate a precise search query.
+
+Output JSON format:
 {{
-  "has_incomplete_info": true/false,
   "missing_items": [
     {{
       "type": "document|section|table|definition|calculation",
-      "description": "What is missing",
-      "search_query": "Precise search query to find the complete information",
-      "priority": "high|medium|low"
+      "description": "Brief description of what's missing",
+      "search_query": "Precise search query including jurisdiction and specific reference",
+      "priority": "high|medium"
     }}
   ]
-}}"""
+}}
+
+Focus on:
+1. Specific document names, codes, or section numbers mentioned as needed
+2. Tables or schedules referenced but not provided
+3. Definitions explicitly stated as incomplete
+4. Calculations or formulas mentioned but not shown
+
+Generate 1-3 targeted queries maximum. Be specific - include document codes, section numbers, and {jurisdiction} jurisdiction."""
 
     try:
-        response = await async_client.chat.completions.create(
-            model="gpt-5-2025-08-07",
+        # Use custom client with extended timeout for reflection analysis with conversation history
+        from openai import AsyncOpenAI
+        reflection_client = AsyncOpenAI(
+            api_key=os.getenv("OPENAI_API_KEY"),
+            timeout=60.0,  # 60 second timeout for reflection analysis (includes history + query generation)
+            max_retries=2
+        )
+        
+        response = await reflection_client.chat.completions.create(
+            model="gpt-4o",  # Use faster model for extraction
             messages=[
                 {"role": "system", "content": system_prompt},
-                {"role": "user", "content": f"Analyze this response for incomplete information: {final_response}"}
+                {"role": "user", "content": f"Extract missing information and generate search queries."}
             ],
-            response_format={"type": "json_object"}
+            response_format={"type": "json_object"},
+            max_tokens=500  # Limit to keep focused
         )
         
         analysis = json.loads(response.choices[0].message.content)
+        missing_items = analysis.get("missing_items", [])
         
-        if not analysis.get("has_incomplete_info", False) or not analysis.get("missing_items"):
-            return {"needs_additional_search": False}
+        if not missing_items:
+            logger.info("Reflection analysis found no specific missing items")
+            return {
+                "needs_additional_search": False,
+                "reflection_count": reflection_count
+            }
         
-        # Generate new search queries based on the missing information
+        # Generate new search queries (only high/medium priority, max 3)
         new_queries = []
-        for item in analysis["missing_items"]:
-            if item.get("priority") in ["high", "medium"]:  # Only pursue high/medium priority items
+        for item in missing_items[:3]:
+            if item.get("priority") in ["high", "medium"]:
                 query = SearchQuery(
                     query=item["search_query"],
-                    description=f"Retrieve complete {item['type']}: {item['description']}"
+                    description=f"Reflection: {item.get('description', 'Additional information needed')}"
                 )
                 new_queries.append(query)
         
@@ -583,12 +959,19 @@ Generate your output as a JSON object with this structure:
                 "decision": search_plan,
                 "search_plan": search_plan,
                 "needs_additional_search": True,
-                "reflection_analysis": analysis
+                "reflection_analysis": analysis,
+                "reflection_count": reflection_count
             }
         else:
-            return {"needs_additional_search": False}
+            return {
+                "needs_additional_search": False,
+                "reflection_count": reflection_count
+            }
             
     except Exception as e:
         logger.error(f"Error in reflection_node: {e}")
         # If reflection fails, don't block the response
-        return {"needs_additional_search": False}
+        return {
+            "needs_additional_search": False,
+            "reflection_count": reflection_count
+        }

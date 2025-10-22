@@ -1,6 +1,7 @@
 """
-Vefrom ..models.retrieval_models import RetrievalQuery, RetrievedDocument, DocumentSourcetor search implementation for semantic similarity retrieval.
+Vector search implementation for semantic similarity retrieval.
 """
+import asyncio
 import numpy as np
 from typing import List, Dict, Any, Optional
 from openai import AsyncOpenAI
@@ -13,9 +14,11 @@ logger = logging.getLogger(__name__)
 class VectorSearchEngine:
     """Handles semantic similarity search using vector embeddings."""
     
-    def __init__(self, client: AsyncOpenAI, vector_service):
+    def __init__(self, client: AsyncOpenAI, vector_service, semaphore: asyncio.Semaphore = None):
         self.client = client
         self.vector_service = vector_service
+        # Semaphore to limit concurrent OpenAI embedding API calls (prevents rate limiting)
+        self.semaphore = semaphore or asyncio.Semaphore(3)
         
     async def search(self, query: RetrievalQuery) -> List[RetrievedDocument]:
         """Perform vector similarity search."""
@@ -46,20 +49,24 @@ class VectorSearchEngine:
             return []
     
     async def _get_query_embedding(self, query_text: str) -> List[float]:
-        """Generate embedding for the query text using OpenAI."""
-        try:
-            # Use raw query without enhancement for cleaner embeddings
-            response = await self.client.embeddings.create(
-                model="text-embedding-3-large",
-                input=query_text,
-                dimensions=1536  # Match the Pinecone index dimension
-            )
-            return response.data[0].embedding
-            
-        except Exception as e:
-            logger.error(f"Failed to generate embedding: {str(e)}")
-            # Return a zero vector as fallback
-            return [0.0] * 1536
+        """Generate embedding for the query text using OpenAI with rate limiting."""
+        # Use semaphore to limit concurrent OpenAI API calls and prevent rate limiting
+        async with self.semaphore:
+            try:
+                # Use raw query without enhancement for cleaner embeddings
+                response = await self.client.embeddings.create(
+                    model="text-embedding-3-large",
+                    input=query_text,
+                    dimensions=1536  # Match the Pinecone index dimension
+                )
+                return response.data[0].embedding
+                
+            except Exception as e:
+                error_type = type(e).__name__
+                logger.error(f"Failed to generate embedding [{error_type}]: {str(e)}")
+                # Raise exception instead of returning zero vector
+                # Zero vector causes meaningless Pinecone searches and wasted quota
+                raise RuntimeError(f"Embedding generation failed: {error_type}") from e
     
     def _build_filters(self, query: RetrievalQuery) -> Optional[Dict[str, Any]]:
         """Build filter dictionary for Pinecone search."""

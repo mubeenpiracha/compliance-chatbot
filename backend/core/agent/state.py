@@ -22,3 +22,4 @@ class AgentState(TypedDict):
     # Reflection-related fields
     needs_additional_search: Optional[bool]
     reflection_analysis: Optional[Dict[str, Any]]
+    reflection_count: Optional[int]  # Track number of reflection iterations to prevent infinite loops
